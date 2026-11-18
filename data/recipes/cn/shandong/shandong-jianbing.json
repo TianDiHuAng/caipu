@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-jianbing",
+  "name": {
+    "zh": "山东煎饼",
+    "en": "Shandong Jianbing"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 240,
+    "cook_min": 20,
+    "total_min": 260
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "小米面",
+          "name_en": "millet flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "与面粉混合",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 100,
+          "unit": "g",
+          "note": "增加筋性",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "摊在饼上",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 80,
+          "unit": "g",
+          "note": "洗净沥干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调面糊",
+          "optional": false
+        },
+        {
+          "name": "甜面酱",
+          "name_en": "sweet bean sauce",
+          "amount": 40,
+          "unit": "g",
+          "note": "刷饼",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "刷鏊子",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "调糊",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底鏊子",
+    "刮板",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小米面与面粉混合，加 5g 盐，分次倒入 500ml 清水搅成能挂勺的稀糊，静置 4 小时。",
+      "time_min": 240,
+      "heat": "无火",
+      "tip": "面糊静置够久，摊出来才不易破。",
+      "visual_cue": "面糊顺滑无颗粒、舀起呈线状流下"
+    },
+    {
+      "n": 2,
+      "text": "平底鏊子烧热，用厨房纸蘸 30ml 植物油薄薄擦一层。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "油多饼会软，薄薄一层就够。",
+      "visual_cue": "鏊面泛油光、滴水成珠滚动"
+    },
+    {
+      "n": 3,
+      "text": "舀一勺面糊倒在鏊子中央，用刮板由内向外快速摊成薄圆片。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "刮板贴紧鏊面，动作要快。",
+      "visual_cue": "饼皮薄至透光、边缘微翘"
+    },
+    {
+      "n": 4,
+      "text": "饼皮边缘翘起时打入 1 个鸡蛋，用刮板抹匀铺满饼面。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蛋液抹匀后更容易粘住配料。",
+      "visual_cue": "蛋液凝固、颜色转为浅黄"
+    },
+    {
+      "n": 5,
+      "text": "翻面烙 40 秒，刷 20g 甜面酱，铺上葱丝与生菜。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "酱要刷匀但不汪，免得饼皮返潮。",
+      "visual_cue": "饼面焦香、酱色均匀"
+    },
+    {
+      "n": 6,
+      "text": "用铲子从一侧卷起成筒，对折出锅，趁热食用。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "卷得紧一些，咬着才不散。",
+      "visual_cue": "饼卷紧实、外层干脆"
+    }
+  ],
+  "tips": [
+    "面糊稠度以能流动又是线状为佳，太稠摊不开，太稀易破。",
+    "鏊子温度保持中火，火大饼焦、火小饼皮发黏。",
+    "煎饼要现摊现吃，凉了就会回软失去脆劲。"
+  ],
+  "common_mistakes": [
+    "面糊不静置直接摊，饼皮一碰就裂。",
+    "鏊子上的油刷得太厚，煎饼软塌一点都不脆。",
+    "鸡蛋没抹开就翻面，蛋液流到鏊子上焦成黑点。"
+  ],
+  "substitutions": [
+    {
+      "original": "小米面",
+      "substitute": "玉米面",
+      "ratio": "200g 对 200g",
+      "note": "玉米面略粗，可多加 50ml 水。"
+    },
+    {
+      "original": "甜面酱",
+      "substitute": "黄豆酱",
+      "ratio": "40g 对 40g",
+      "note": "咸度更高，酌减盐量。"
+    }
+  ],
+  "variations": [
+    "枣庄版：面糊里掺 50g 高粱面，饼皮更香更韧。",
+    "薄脆版：摊得更薄，烙到完全干脆，可当干粮存放。"
+  ],
+  "serving_suggestion": "卷葱丝与生菜直接吃，配一碗小米粥最对味。",
+  "storage": "晾凉后密封常温存 2 天，复热用干锅烘 1 分钟恢复脆感。",
+  "nutrition_estimate": {
+    "basis": "每份（1 张饼）",
+    "calories_kcal": 420,
+    "protein_g": 14,
+    "fat_g": 11,
+    "carbs_g": 66,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋必须彻底加热至完全凝固，避免沙门氏菌风险。",
+    "鏊子温度高，翻面时手臂远离锅面防油溅。",
+    "生菜需充分洗净沥干，避免生食污染。"
+  ],
+  "origin_note": "山东煎饼以小米面调糊，在鏊子上摊成薄如纸的饼皮，打入鸡蛋刷酱卷葱，脆香耐嚼，是鲁南人家最日常的主食。",
+  "tags": [
+    "鲁菜",
+    "主食",
+    "煎饼",
+    "早餐"
+  ],
+  "related_ids": [
+    "congyou-banmian",
+    "zhajiangmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

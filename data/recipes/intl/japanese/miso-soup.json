@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "miso-soup",
+  "name": {
+    "zh": "味噌汤",
+    "en": "Miso Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 15,
+    "total_min": 25
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "味噌",
+          "name_en": "miso",
+          "amount": 90,
+          "unit": "g",
+          "note": "白味噌或混合味噌",
+          "optional": false
+        },
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 200,
+          "unit": "g",
+          "note": "切 1.5cm 方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 10,
+          "unit": "g",
+          "note": "干海带泡发",
+          "optional": false
+        },
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 15,
+          "unit": "g",
+          "note": "出高汤",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "熬高汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "酌情补味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "提色",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "滤网",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干海带用湿布擦净表面，放入 900ml 冷水中浸泡 10 分钟，小火加热至将沸前捞出。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "海带煮沸会出黏液和腥味，将沸即捞。",
+      "visual_cue": "水面冒细泡、海带变软舒展"
+    },
+    {
+      "n": 2,
+      "text": "汤中投入 15g 木鱼花，静置 2 分钟待其沉底，用滤网滤出高汤。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "木鱼花不能久煮，否则汤会发苦。",
+      "visual_cue": "高汤清亮微黄、香气清鲜"
+    },
+    {
+      "n": 3,
+      "text": "嫩豆腐切 1.5cm 方块，放入高汤中小火加热 2 分钟至温热。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "豆腐只需温热，久煮会起蜂窝。",
+      "visual_cue": "豆腐边缘微颤、中心温热"
+    },
+    {
+      "n": 4,
+      "text": "取 90g 味噌放在滤网里，浸入汤中用小勺慢慢化开，全程保持小火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "味噌切忌煮沸，一滚香气就跑光了。",
+      "visual_cue": "汤色均匀呈浅酱色、无结块"
+    },
+    {
+      "n": 5,
+      "text": "加 5ml 酱油与 2g 盐调味，尝味后再决定是否需要补盐。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "味噌本身咸，先尝再补。",
+      "visual_cue": "咸淡适中、酱香与鲜味平衡"
+    },
+    {
+      "n": 6,
+      "text": "关火撒 15g 葱花，静置 1 分钟后盛入汤碗。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "关火后放葱，颜色才翠绿。",
+      "visual_cue": "葱花浮于汤面、香气清新"
+    }
+  ],
+  "tips": [
+    "味噌型号越白越甜，红味噌则更咸更浓，可混用调和。",
+    "高汤一次多做，分装冷冻可存两周。",
+    "喝汤时用筷子搅动碗中味噌，避免沉底发苦。"
+  ],
+  "common_mistakes": [
+    "味噌下锅后大火滚沸，鲜味被破坏，汤变浑浊。",
+    "海带煮得太久，汤里混进黏液，还带一股腥气。",
+    "葱花提前放，汤端上桌时已经发黄。"
+  ],
+  "substitutions": [
+    {
+      "original": "木鱼花",
+      "substitute": "昆布粉",
+      "ratio": "15g 对 5g",
+      "note": "直接与海带同泡，省去滤汤。"
+    },
+    {
+      "original": "嫩豆腐",
+      "substitute": "油豆腐",
+      "ratio": "200g 对 120g",
+      "note": "油豆腐吸汤，需先焯水去油。"
+    }
+  ],
+  "variations": [
+    "蛤蜊味噌汤：加 200g 蛤蜊与汤同煮，鲜味更足。",
+    "蔬菜版：加 80g 裙带菜与 60g 白萝卜薄片。"
+  ],
+  "serving_suggestion": "配白饭与烤鱼，作为日式早餐的一汤一菜。",
+  "storage": "现做现喝，冷藏不超过 1 天；复热需小火加热，不要滚沸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300ml）",
+    "calories_kcal": 90,
+    "protein_g": 7,
+    "fat_g": 4,
+    "carbs_g": 6,
+    "sodium_mg": 890,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "味噌汤含大豆制品，痛风人群需控制用量。",
+    "海带钠含量高，高血压人群应减少盐的补充。",
+    "汤品不宜反复加热，冷藏后 24 小时内吃完。"
+  ],
+  "origin_note": "味噌汤是日本餐桌的日常汤品，以昆布与木鱼花熬出的高汤化开味噌，加豆腐与葱花，一碗清鲜咸香，配白饭即是早餐的底色。",
+  "tags": [
+    "日本料理",
+    "汤品",
+    "味噌",
+    "早餐"
+  ],
+  "related_ids": [
+    "miso-salmon",
+    "oyakodon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

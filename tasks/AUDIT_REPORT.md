@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-18T16:21:08.440Z
+- 生成时间：2026-11-18T16:29:13.810Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：31 个，抽样 31 道，平均分 95
+- 覆盖菜系：31 个，抽样 31 道，平均分 96
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -34,7 +34,7 @@
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
-| jiangsu | shizitou | 93 | A | 准确性 18/25 |
+| jiangsu | shuijing-yaorou | 100 | A | 无 |
 | korean | dolsot-bibimbap | 93 | A | 准确性 18/25 |
 | mexican | tacos-de-carne | 100 | A | 无 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |

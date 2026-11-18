@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:21:01.910Z",
+  "generatedAt": "2026-11-18T16:29:12.972Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 457,
     "target": 3274,
-    "actual": 149,
-    "coverage": 0.045510079413561395
+    "actual": 154,
+    "coverage": 0.047037263286499695
   },
   "regions": {
     "cn": [
@@ -165,7 +165,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "main-seafood",
@@ -198,8 +198,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shandong-jianbing"
+            ]
           },
           {
             "category": "banquet",
@@ -271,7 +273,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 15,
+        "actual": 16,
         "cells": [
           {
             "category": "main-seafood",
@@ -298,8 +300,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "donggua-yimi-paigu-tang",
               "dongguo-paigu-tang",
               "zicai-danhua-tang"
             ]
@@ -382,7 +385,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-seafood",
@@ -416,8 +419,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shuijing-yaorou"
+            ]
           },
           {
             "category": "snack",
@@ -1768,7 +1773,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-seafood",
@@ -1792,8 +1797,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "miso-soup"
+            ]
           },
           {
             "category": "appetizer",
@@ -2020,7 +2027,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "staple-bread",
@@ -2033,8 +2040,10 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "chicken-cacciatore"
+            ]
           },
           {
             "category": "dessert",

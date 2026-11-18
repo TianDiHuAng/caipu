@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chicken-cacciatore",
+  "name": {
+    "zh": "意式猎人烩鸡",
+    "en": "Chicken Cacciatore"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 800,
+          "unit": "g",
+          "note": "带骨更香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 200,
+          "unit": "g",
+          "note": "对半切",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎鸡用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨更香",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 100,
+          "unit": "ml",
+          "note": "去腥提香",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "增色浓缩味",
+          "optional": false
+        },
+        {
+          "name": "迷迭香",
+          "name_en": "rosemary",
+          "amount": 3,
+          "unit": "g",
+          "note": "干香草",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炖锅",
+    "锡纸",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉用厨房纸吸干水分，两面抹 5g 盐与 2g 黑胡椒，静置 15 分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "表面干才能煎出脆皮。",
+      "visual_cue": "鸡皮干爽、调料贴合"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅烧热下 40ml 橄榄油，鸡皮朝下中火煎 6 分钟至金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "不要频繁翻动，皮面定型后再翻。",
+      "visual_cue": "鸡皮金黄焦脆、锅底留褐色焦物"
+    },
+    {
+      "n": 3,
+      "text": "翻面再煎 3 分钟，取出鸡肉，用留底油炒洋葱丝与蒜末至透明。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "焦物别刮掉，那是后续的香味来源。",
+      "visual_cue": "洋葱软塌透亮、香味散出"
+    },
+    {
+      "n": 4,
+      "text": "下蘑菇与胡萝卜块炒 4 分钟，倒入 30g 番茄膏炒出红油。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄膏要炒到颜色加深才不酸。",
+      "visual_cue": "蘑菇出水回缩、番茄膏呈深红"
+    },
+    {
+      "n": 5,
+      "text": "倒入 100ml 白葡萄酒刮起锅底焦物，煮至酒味挥发剩一半。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "刮底能让所有焦香溶进汤汁。",
+      "visual_cue": "酒气散去、汤汁略稠"
+    },
+    {
+      "n": 6,
+      "text": "放回鸡腿，加番茄块、3g 盐、1g 黑胡椒与迷迭香，盖盖小火炖 25 分钟。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "小火慢炖鸡肉才不柴。",
+      "visual_cue": "汤汁微沸、番茄化开成酱"
+    },
+    {
+      "n": 7,
+      "text": "开盖收汁 5 分钟至汤汁挂勺，尝味补盐后出锅。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "收汁时轻推锅底防糊。",
+      "visual_cue": "汤汁浓稠挂勺、鸡皮呈酱红色"
+    }
+  ],
+  "tips": [
+    "带骨鸡腿比鸡胸肉耐炖，久煮仍嫩。",
+    "番茄膏别省，它决定这道菜的浓度和颜色。",
+    "最后撒一把欧芹碎，香气会立刻立体。"
+  ],
+  "common_mistakes": [
+    "鸡皮没擦干就下锅，煎出一锅水汽皮软不脆。",
+    "白葡萄酒没煮挥发就加番茄，成品带生酒酸味。",
+    "大火收汁过久，番茄发苦、鸡肉变干。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "800g 对 700g",
+      "note": "鸡胸易老，炖的时间缩短到 12 分钟。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "料酒加清水",
+      "ratio": "100ml 对 50ml 料酒加 50ml 水",
+      "note": "风味略减，补 2g 白糖平衡酸度。"
+    }
+  ],
+  "variations": [
+    "猎人经典版：加 80g 黑橄榄与 60g 刺山柑，酸香更突出。",
+    "红酒版：白葡萄酒换等量红葡萄酒，颜色更深。"
+  ],
+  "serving_suggestion": "配硬皮面包蘸汤汁，或配玉米糊与意面。",
+  "storage": "冷藏 3 天，隔夜更入味；复热加少量水，小火慢热。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 锅）",
+    "calories_kcal": 560,
+    "protein_g": 42,
+    "fat_g": 32,
+    "carbs_g": 18,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉必须彻底煮透，中心温度达到 75℃，不见血水。",
+    "煎鸡时油温较高，鸡皮含水会溅油，锅铲挡护。",
+    "含白葡萄酒，酒精不完全挥发，儿童与孕妇慎食。"
+  ],
+  "origin_note": "猎人烩鸡是意大利乡村的家常菜，猎人打猎归来把鸡与手边番茄、蘑菇一锅炖熟，酸香浓郁，配面包擦净汤汁才是完整吃法。",
+  "tags": [
+    "意大利菜",
+    "炖菜",
+    "鸡肉",
+    "家常"
+  ],
+  "related_ids": [
+    "pomodoro-pasta",
+    "butter-chicken"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
