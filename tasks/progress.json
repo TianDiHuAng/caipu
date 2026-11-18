@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:28:42.931Z",
+  "generatedAt": "2026-11-18T14:38:31.521Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 443,
     "target": 3274,
-    "actual": 82,
-    "coverage": 0.02504581551618815
+    "actual": 86,
+    "coverage": 0.02626756261453879
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 17,
+        "actual": 19,
         "cells": [
           {
             "category": "main-meat",
@@ -61,9 +61,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "fuqi-feipian"
+              "fuqi-feipian",
+              "suanni-bairou"
             ]
           },
           {
@@ -77,9 +78,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "ganbian-sijidou"
+              "ganbian-sijidou",
+              "yuxiang-qiezi"
             ]
           },
           {
@@ -238,7 +240,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-seafood",
@@ -300,8 +302,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "baizhuo-jielan"
+            ]
           },
           {
             "category": "main-egg",
@@ -586,7 +590,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -614,8 +618,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "ganguo-huacai"
+            ]
           },
           {
             "category": "appetizer",

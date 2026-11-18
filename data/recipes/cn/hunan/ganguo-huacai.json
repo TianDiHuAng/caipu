@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "ganguo-huacai",
+  "name": {
+    "zh": "干锅花菜",
+    "en": "Dry Pot Cauliflower"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "花菜",
+          "name_en": "cauliflower",
+          "amount": 450,
+          "unit": "g",
+          "note": "掰成小朵，梗切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "斜切圈",
+          "optional": false
+        },
+        {
+          "name": "尖椒",
+          "name_en": "green chili",
+          "amount": 60,
+          "unit": "g",
+          "note": "切斜片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "合味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "焯水用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "焯花菜用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "干锅或砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "花菜掰成 3cm 小朵，梗切 3mm 薄片，用加了 3g 盐的沸水焯 60 秒后捞出沥干。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "焯水能缩短炒制时间，也让花菜更易入味。",
+      "visual_cue": "花菜颜色转浅、梗部略透亮"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切薄片，冷锅下 10ml 植物油，小火煸至出油、边缘卷起。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "冷锅下肉慢煸，油脂才出得干净，肉片不柴。",
+      "visual_cue": "肉片卷曲成灯盏状、锅底积出清亮猪油"
+    },
+    {
+      "n": 3,
+      "text": "下姜蒜、小米辣与豆瓣酱，小火炒出红油，注意别炒糊。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "豆瓣酱下锅后要不停翻动，颜色变深立刻下花菜。",
+      "visual_cue": "油脂呈红亮色，香味浓郁"
+    },
+    {
+      "n": 4,
+      "text": "倒入花菜与尖椒，转中大火翻炒 4 分钟，沿锅边淋入生抽与蚝油。",
+      "time_min": 4,
+      "heat": "中大火",
+      "tip": "花菜要炒到边缘微焦才香，不要炒出水。",
+      "visual_cue": "花菜边缘出现焦黄色斑点"
+    },
+    {
+      "n": 5,
+      "text": "加白糖与 30ml 清水，加盖焖 2 分钟让味道渗入，最后下蒜苗翻匀装干锅。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "少量水焖一下能让梗部熟透，又不至于变成汤菜。",
+      "visual_cue": "锅底几乎无汤汁，蒜苗翠绿"
+    }
+  ],
+  "tips": [
+    "花菜选紧实的白花菜，散花的口感偏软不易挂味。",
+    "干锅上桌后底部可点小火保温，越烧越香但要注意别糊底。",
+    "怕辣可把小米辣减到 10g，豆瓣酱保留以维持底味。"
+  ],
+  "common_mistakes": [
+    "花菜不焯水直接炒，外焦内生、梗部硬。",
+    "五花肉大火猛炒，油没出尽，成品油腻。",
+    "加水过多变成炖菜，失去干锅的干香。"
+  ],
+  "substitutions": [
+    {
+      "original": "花菜",
+      "substitute": "西兰花",
+      "ratio": "1:1",
+      "note": "西兰花焯水时间减到 40 秒，避免过软。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "腊肉",
+      "ratio": "120g 五花肉 ≈ 100g 腊肉",
+      "note": "腊肉咸，盐可全部省略。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：花菜用空气炸锅 200℃ 烤 8 分钟代替焯水，更干香。",
+    "腊味版：加 50g 腊肠片同炒，风味更浓。"
+  ],
+  "serving_suggestion": "装干锅或砂锅上桌，配米饭；作为湘式家常菜的下饭主力。",
+  "storage": "冷藏 2 天，复热时加 20ml 清水小火焖 3 分钟，或直接回锅快炒。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 290,
+    "protein_g": 9,
+    "fat_g": 23,
+    "carbs_g": 12,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉需煸至全熟、中心温度 71℃ 以上再与花菜同炒。",
+    "花菜花朵紧密易藏泥沙与虫，建议掰小朵后用淡盐水浸泡 10 分钟再冲洗。",
+    "豆瓣酱含盐，调味前先尝，避免叠加过咸。"
+  ],
+  "origin_note": "干锅是湘菜与川菜共同的烹饪形式，用小锅边烧边吃，最早流行于湖南的街头小馆，花菜是最常见的素菜主角。",
+  "tags": [
+    "湘菜",
+    "素菜",
+    "下饭",
+    "干锅"
+  ],
+  "related_ids": [
+    "ganbian-sijidou",
+    "lajiao-chaorou",
+    "nongjia-xiaochaorou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
