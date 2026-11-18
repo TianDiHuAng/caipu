@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:26:06.258Z",
+  "generatedAt": "2026-11-18T15:32:05.555Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 456,
     "target": 3274,
-    "actual": 134,
-    "coverage": 0.04092852779474649
+    "actual": 142,
+    "coverage": 0.04337202199144777
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 22,
+        "actual": 23,
         "cells": [
           {
             "category": "main-meat",
@@ -129,6 +129,16 @@
             ]
           },
           {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "douban-yu",
+              "suancai-yu"
+            ]
+          },
+          {
             "category": "soup",
             "kind": "extra",
             "target": 0,
@@ -145,15 +155,6 @@
             "actual": 1,
             "ids": [
               "gongbao-jiding"
-            ]
-          },
-          {
-            "category": "main-seafood",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "suancai-yu"
             ]
           }
         ]
@@ -381,14 +382,15 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "qingzheng-dazhaxie",
               "songshu-guiyu"
             ]
           },
@@ -986,7 +988,7 @@
         "en": "Northeastern",
         "tier": "B",
         "target": 38,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "main-vegetable",
@@ -999,8 +1001,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "dongbei-luandun",
               "guobao-rou"
             ]
           },
@@ -1145,7 +1148,7 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 9,
         "cells": [
           {
             "category": "main-vegetable",
@@ -1158,17 +1161,21 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "qiguo-ji"
+              "qiguo-ji",
+              "suantang-feiniu"
             ]
           },
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "guilin-mifen",
+              "suantang-feiniu"
+            ]
           },
           {
             "category": "snack",
@@ -1202,9 +1209,11 @@
             "category": "staple-noodle",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "guoqiao-mixian"
+              "guilin-mifen",
+              "guoqiao-mixian",
+              "xiaoguo-mixian"
             ]
           },
           {

@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xiaoguo-mixian",
+  "name": {
+    "zh": "小锅米线",
+    "en": "Yunnan Small Pot Rice Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "yunguai"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 2,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "鲜米线",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 120,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "韭菜",
+          "name_en": "Chinese chives",
+          "amount": 60,
+          "unit": "g",
+          "note": "切 3cm 段",
+          "optional": false
+        },
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 50,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒肉末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 15,
+          "unit": "g",
+          "note": "云南风味关键",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅或奶锅",
+    "锅铲",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肉末加 10ml 生抽抓匀腌 5 分钟；番茄切小块，韭菜切段，酸菜切碎。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉末先腌一下，炒出来更入味。",
+      "visual_cue": "肉末松散、配料备齐"
+    },
+    {
+      "n": 2,
+      "text": "小锅下 15g 猪油，中火化开后下肉末煸炒 2 分钟至变色散开。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "猪油是小锅米线的香气底子，别用植物油替。",
+      "visual_cue": "肉末颗粒分明、锅底有油"
+    },
+    {
+      "n": 3,
+      "text": "下豆瓣酱、蒜末与小米辣炒 30 秒出红油，再下番茄块炒 2 分钟出汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄炒出汁，汤才自然酸鲜。",
+      "visual_cue": "锅中红亮、番茄软烂"
+    },
+    {
+      "n": 4,
+      "text": "加 700ml 清水大火烧开，下酸菜与生抽、盐、白胡椒，煮 3 分钟成汤底。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "酸菜久煮会失去脆感，3 分钟足够。",
+      "visual_cue": "汤色红亮、酸香扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "鲜米线直接下锅煮 2 分钟，用筷子轻轻抖散，避免粘连。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "鲜米线不用提前泡，直接煮最爽滑。",
+      "visual_cue": "米线浮起、汤面微滚"
+    },
+    {
+      "n": 6,
+      "text": "最后下韭菜段烫 30 秒，连汤带粉倒入大碗即可。",
+      "time_min": 1,
+      "heat": "中火",
+      "tip": "韭菜最后放，保持翠绿与辛香。",
+      "visual_cue": "韭菜翠绿、米线雪白"
+    }
+  ],
+  "tips": [
+    "云南人讲究一锅一碗，小锅现煮才有镬气。",
+    "没有鲜米线可用干米线泡软后代用，但要多煮 2 分钟。",
+    "喜酸可额外加 10ml 香醋，喜辣可加一勺油辣子。"
+  ],
+  "common_mistakes": [
+    "米线提前泡发再煮，口感软烂失弹性。",
+    "用植物油代替猪油，香气明显不足。",
+    "所有配料一次下锅煮，韭菜黄烂、酸菜过酸。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "120g 猪肉末 ≈ 120g 牛肉末",
+      "note": "牛肉末需多腌 5 分钟去腥。"
+    },
+    {
+      "original": "猪油",
+      "substitute": "植物油",
+      "ratio": "15g 猪油 ≈ 15ml 植物油",
+      "note": "植物油版香气略淡，可加 2g 鸡精补味。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用现成高汤块加清水，省去炒汤底步骤。",
+    "昆明街头版：加一个煎蛋与 30g 豌豆尖，更丰富。"
+  ],
+  "serving_suggestion": "一锅一碗，连汤带粉端上桌，配一碟腌萝卜解腻。",
+  "storage": "米线现煮现吃，不建议保存；汤底可冷藏 1 天。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/2 量）",
+    "calories_kcal": 540,
+    "protein_g": 22,
+    "fat_g": 20,
+    "carbs_g": 70,
+    "sodium_mg": 1280,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末需炒至完全变色、无粉色，中心温度 71℃ 以上。",
+    "米线煮后应即时食用，久放易滋生细菌。",
+    "豆瓣酱与酸菜含盐高，汤不宜全部喝完。"
+  ],
+  "origin_note": "小锅米线是昆明街头的平民早餐，用一口小铜锅现炒肉末、现煮米线，猪油与豆瓣酱打底，酸辣鲜香一锅成菜。",
+  "tags": [
+    "云南菜",
+    "米线",
+    "早餐",
+    "家常"
+  ],
+  "related_ids": [
+    "guoqiao-mixian",
+    "dandan-mian",
+    "guilin-mifen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dongbei-luandun",
+  "name": {
+    "zh": "东北乱炖",
+    "en": "Northeastern Mixed Stew"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 600,
+          "unit": "g",
+          "note": "剁成 5cm 段",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆角",
+          "name_en": "green beans",
+          "amount": 200,
+          "unit": "g",
+          "note": "去筋切段",
+          "optional": false
+        },
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "玉米",
+          "name_en": "sweet corn",
+          "amount": 150,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "东北底味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 1,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "炖制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨冷水下锅，加料酒与 10g 大葱，大火煮开撇净浮沫后捞出冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血沫逼干净。",
+      "visual_cue": "排骨发白、汤面浮沫撇净"
+    },
+    {
+      "n": 2,
+      "text": "土豆、茄子切滚刀块，豆角去筋切 5cm 段，玉米切 3cm 厚段，大蒜拍碎。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "块头尽量一致，成熟时间才齐。",
+      "visual_cue": "各料块大小均匀、备好分装"
+    },
+    {
+      "n": 3,
+      "text": "炖锅下 35ml 植物油，中火炒香大葱、蒜与八角，加黄豆酱炒 30 秒。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "黄豆酱炒过才香，生酱有豆腥味。",
+      "visual_cue": "酱香散出、油色加深"
+    },
+    {
+      "n": 4,
+      "text": "下排骨翻炒 2 分钟，加生抽、老抽与 900ml 清水，大火烧开转小火炖 20 分钟。",
+      "time_min": 23,
+      "heat": "小火",
+      "tip": "先炖排骨到半熟，再下其他料。",
+      "visual_cue": "排骨微软、汤色红褐"
+    },
+    {
+      "n": 5,
+      "text": "下土豆块、豆角段与玉米段，加盖小火续炖 12 分钟。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "豆角必须炖透，半生的豆角有毒。",
+      "visual_cue": "土豆边缘化开、豆角颜色转深"
+    },
+    {
+      "n": 6,
+      "text": "最后放茄子块与 3g 盐，小火炖 6 分钟至茄子软糯，出锅装盆。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "茄子易烂，最后放才不会化在汤里。",
+      "visual_cue": "茄子软糯吸汁、锅底汤汁浓稠"
+    }
+  ],
+  "tips": [
+    "乱炖的配料可随季节调整，夏季加西红柿、冬季加白菜。",
+    "排骨换成五花肉，炖 30 分钟就够，肥而不腻。",
+    "配一碗东北大米饭，浇上炖汤是标配。"
+  ],
+  "common_mistakes": [
+    "豆角没有炖透就出锅，食用后容易引起中毒。",
+    "所有食材一起下锅，土豆化汤、豆角还生。",
+    "水一次加太少中途补水，汤味变淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪排骨",
+      "substitute": "鸡腿肉",
+      "ratio": "600g 排骨 ≈ 600g 鸡腿肉",
+      "note": "鸡腿肉炖 25 分钟即可，时间减半。"
+    },
+    {
+      "original": "黄豆酱",
+      "substitute": "甜面酱",
+      "ratio": "30g 黄豆酱 ≈ 30g 甜面酱",
+      "note": "甜面酱偏甜，白糖可省去。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：全部材料放入电压力锅，上汽后压 15 分钟。",
+    "东北农家版：加 50g 宽粉与 100g 干豆角，吸汁后更香。"
+  ],
+  "serving_suggestion": "大盆上桌，全家分食，配玉米面饼子最地道。",
+  "storage": "冷藏 2 天，复热加 100ml 清水小火煮开，风味更融合。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 520,
+    "protein_g": 28,
+    "fat_g": 28,
+    "carbs_g": 40,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆角必须炖至完全软透、失去生绿色，否则含皂苷易致中毒。",
+    "排骨需炖至骨肉易分离、中心温度 71℃ 以上。",
+    "炖菜汤汁含盐较多，儿童食用需减量。"
+  ],
+  "origin_note": "东北乱炖是关东农家菜的代表，把排骨与时令蔬菜一锅炖透，不讲精致只讲实在，是寒冬里最暖身的一锅菜。",
+  "tags": [
+    "东北菜",
+    "炖菜",
+    "家常",
+    "冬季"
+  ],
+  "related_ids": [
+    "xiaoji-dun-mogu",
+    "dongbei-dalapi",
+    "ganguo-huacai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
