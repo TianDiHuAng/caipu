@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chaoshan-niurou-wan",
+  "name": {
+    "zh": "潮汕牛肉丸",
+    "en": "Chaoshan Beef Balls"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "chaoshan"
+  },
+  "category": [
+    "main-meat",
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 15,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 500,
+          "unit": "g",
+          "note": "选牛后腿肉，去筋膜切小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "泡姜水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "帮助成型",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "打浆关键，分次加入",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 60,
+          "unit": "ml",
+          "note": "冰水，分次打入",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "料理机或石臼",
+    "大盆",
+    "汤锅",
+    "冰水盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉去净筋膜切小块，放冰箱冷冻 30 分钟至表面变硬但未冻实。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "低温打浆是弹牙的关键，温度升上去肉浆就会出水。",
+      "visual_cue": "牛肉块表面发白、按压仍能变形"
+    },
+    {
+      "n": 2,
+      "text": "姜片加 60ml 清水泡 20 分钟取姜水；牛肉分次入料理机打成细腻肉泥。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "打浆过程分 3 次，每次 20 秒，避免电机发热。",
+      "visual_cue": "肉泥细腻无颗粒、颜色淡粉"
+    },
+    {
+      "n": 3,
+      "text": "肉泥转入大盆，加盐顺一个方向搅打 5 分钟，分 3 次加入冰姜水继续搅打至起胶。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "盐先加才能打出黏性，水后加才不出水。",
+      "visual_cue": "肉浆黏稠上劲、提起成倒三角"
+    },
+    {
+      "n": 4,
+      "text": "加玉米淀粉、白糖、白胡椒与葱末，再搅打 2 分钟至完全融合。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "淀粉不要过量，多了口感发面。",
+      "visual_cue": "肉浆有光泽、抓一把能挤成球"
+    },
+    {
+      "n": 5,
+      "text": "汤锅烧水至 85℃ 微沸，用虎口挤丸、勺子舀入锅中，全部下完煮 8 分钟。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "水不能大滚，翻滚会把丸子冲散。",
+      "visual_cue": "丸子浮起、体积膨大且表面光滑"
+    },
+    {
+      "n": 6,
+      "text": "捞出立即放冰水中浸泡 5 分钟，口感更弹。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冰水收缩表面，肉丸更脆弹。",
+      "visual_cue": "丸子表面紧实、按压迅速回弹"
+    }
+  ],
+  "tips": [
+    "牛肉选后腿或牛腱，筋膜必须去净，否则会打断肉纤维。",
+    "整过程保持低温，可把盆放在冰水盆里操作。",
+    "做好的牛肉丸冷冻可存 1 个月，煮汤前不需解冻。"
+  ],
+  "common_mistakes": [
+    "肉浆温度过高，出油出水，丸子发散不成型。",
+    "一次把水全倒入，肉浆无法吸收，丸子软塌。",
+    "大火滚煮，丸子被沸腾冲击破碎。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "牛腩",
+      "ratio": "500g 牛肉 ≈ 550g 牛腩",
+      "note": "牛腩筋多，需剔除并加 10g 淀粉。"
+    },
+    {
+      "original": "玉米淀粉",
+      "substitute": "土豆淀粉",
+      "ratio": "1:1",
+      "note": "口感更弹，用量可减 5g。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用料理机全程打浆，省去手打，口感略逊。",
+    "汤丸版：与白萝卜同煮成清汤牛肉丸，是潮汕最常见的吃法。"
+  ],
+  "serving_suggestion": "配沙茶酱蘸食，或下清汤、粿条；潮汕火锅的必备品。",
+  "storage": "冷藏 3 天，冷冻 1 个月；复热用 85℃ 热水浸 5 分钟，不要大火久煮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 260,
+    "protein_g": 28,
+    "fat_g": 12,
+    "carbs_g": 8,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉必须煮至中心温度 71℃ 以上，掰开无粉红色。",
+    "生牛肉接触的器具需彻底清洗，避免交叉污染。",
+    "肉浆操作全程低温，室温放置不超过 30 分钟。"
+  ],
+  "origin_note": "潮汕牛肉丸以「手打」闻名，用牛后腿肉反复捶打成浆，不加多余辅料，成品脆弹多汁，是潮汕火锅与粿条汤的灵魂。",
+  "tags": [
+    "潮汕菜",
+    "肉类",
+    "火锅",
+    "手工"
+  ],
+  "related_ids": [
+    "niang-doufu",
+    "guobao-rou",
+    "xiaochao-huangniurou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

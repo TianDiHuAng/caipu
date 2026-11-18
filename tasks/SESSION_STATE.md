@@ -67,12 +67,13 @@ npm run progress
 
 ## 最近一次更新（本轮结束）
 
-- 菜谱库：86 道，validate 全绿；测试 29/29（Node 24）。
+- 菜谱库：98 道，validate 全绿；测试 29/29（Node 24）。
 - 抽检：`npm run audit` 覆盖 26 菜系，均分 96，无 C/D 级；报告在 tasks/AUDIT_REPORT.md。
-- 本轮新增（第 11-12 批，共 11 道）：
-  - shandong：临沂炒鸡、炸藕盒
-  - jiangsu：大煮干丝、扬州炒饭
-  - zhejiang：梅干菜扣肉、油焖笋
-  - fujian：醉排骨｜hakka：客家酿豆腐｜shanghai：上海酱鸭｜dongbei：小鸡炖蘑菇｜xibei：羊肉泡馍
-- 待办：阶段 4 内容生产（103/3274，3.1%）。下批建议 sichuan/appetizer、cantonese/main-vegetable、hunan/main-vegetable，再接 anhui（仅 2 道）、yunguai、xibei 薄弱格子。
+- 本轮新增（第 13-14 批，共 12 道）：
+  - cantonese：蚝油生菜、虾仁滑蛋
+  - hunan：酸辣藕丁｜anhui：火腿烧笋｜yunguai：汽锅鸡｜sichuan：凉拌腐竹
+  - jiangsu：阳春面｜chaoshan：潮汕牛肉丸｜xinjiang：新疆炒米粉｜dongbei：拍黄瓜
+  - 第 13 批另含：蒜蓉炒菜心（cantonese）、剁椒蒸芋头（hunan）
+- 已确认菜系 slug：潮汕为 `chaoshan`（不是 chaozhou）。
+- 待办：阶段 4 内容生产（119/3274，3.6%）。下批建议 sichuan/soup、cantonese/soup、hunan/main-meat、shandong/main-seafood，再接 beijing、taiwan、hongkong 薄弱菜系。
 - 每 10 批后执行 `npm run audit`，C/D 级按报告明细重写。
