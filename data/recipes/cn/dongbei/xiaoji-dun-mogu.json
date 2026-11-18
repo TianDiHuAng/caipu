@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xiaoji-dun-mogu",
+  "name": {
+    "zh": "小鸡炖蘑菇",
+    "en": "Chicken Stew with Mushrooms"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "main-poultry",
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 60,
+    "total_min": 85
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "整鸡",
+          "name_en": "whole chicken",
+          "amount": 1000,
+          "unit": "g",
+          "note": "剁成 4cm 块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "干香菇提前泡发，泡菇水留用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "整颗",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 3,
+          "unit": "g",
+          "note": "可选，去腥提香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜亮色",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "按汤量调整",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "炖制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "炒锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干香菇用 300ml 温水泡发 20 分钟，捞出挤干，泡菇水静置后取上层清液备用。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡菇水是这道菜的鲜味来源，底部沉淀要倒掉。",
+      "visual_cue": "香菇完全回软、菌盖舒展"
+    },
+    {
+      "n": 2,
+      "text": "整鸡剁成的鸡块冷水下锅，加 10ml 料酒与几片姜，水开后撇净浮沫，煮 3 分钟捞出冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "焯水去血沫，汤才清亮不腥。",
+      "visual_cue": "水面浮沫撇净，鸡块表面收紧"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下 35ml 植物油，中火煸香姜片、葱段、八角与干辣椒，下鸡块翻炒 3 分钟。",
+      "time_min": 4,
+      "heat": "中大火",
+      "tip": "鸡块煸到表皮微黄，炖出的汤更香。",
+      "visual_cue": "鸡皮微黄、锅中有明显焦香"
+    },
+    {
+      "n": 4,
+      "text": "烹入料酒，加生抽、老抽、冰糖翻匀上色，倒入泡菇水与清水至没过鸡块。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "泡菇水先用细筛过滤，避免杂质沉底发苦。",
+      "visual_cue": "汤汁呈浅酱色、表面浮少量油花"
+    },
+    {
+      "n": 5,
+      "text": "大火烧开转小火炖 35 分钟，下香菇与 5g 盐继续炖 15 分钟。",
+      "time_min": 50,
+      "heat": "小火",
+      "tip": "香菇后放，久炖会失去菌香变成软烂。",
+      "visual_cue": "鸡肉易脱骨、香菇吸饱汤汁饱满"
+    },
+    {
+      "n": 6,
+      "text": "撒葱段，转中火略收汤汁 3 分钟即可上桌。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "汤不必收太干，东北吃法要留汤泡饭。",
+      "visual_cue": "汤汁浓而清、表面油花金黄"
+    }
+  ],
+  "tips": [
+    "用东北榛蘑风味最地道，没有时用干香菇替代，泡菇水同样保留。",
+    "鸡选一年内的仔鸡，肉质嫩；老鸡需炖 70 分钟以上。",
+    "加 100g 红薯粉条同炖，吸汤后更好吃（需另计入配料）。"
+  ],
+  "common_mistakes": [
+    "泡菇水直接倒入不过滤，底部泥沙让整锅汤发苦。",
+    "香菇与鸡同炖一小时以上，菌香散尽、口感发绵。",
+    "全程大火，鸡肉外层散烂、内部仍硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "整鸡",
+      "substitute": "鸡腿肉",
+      "ratio": "1000g 整鸡 ≈ 800g 鸡腿肉",
+      "note": "炖制时间减到 30 分钟。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "榛蘑",
+      "ratio": "80g 干香菇 ≈ 60g 干榛蘑",
+      "note": "榛蘑需多泡 10 分钟并反复淘洗去沙。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用高压锅压 15 分钟，再开盖下香菇炖 10 分钟。",
+    "酸菜版：加 200g 酸白菜同炖，酸香解腻，是辽东常见吃法。"
+  ],
+  "serving_suggestion": "连锅上桌，配米饭或贴玉米饼子；汤汁泡饭是东北家常吃法。",
+  "storage": "冷藏 2 天，冷冻 1 个月；复热加 100ml 清水稀释，汤会越炖越咸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 430,
+    "protein_g": 38,
+    "fat_g": 26,
+    "carbs_g": 10,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡块必须炖至骨缝无血水、中心温度 74℃ 以上。",
+    "干香菇泡发后需反复淘洗，避免泥沙残留。",
+    "生鸡处理后台面用热水与洗涤剂清洗，防止交叉污染。"
+  ],
+  "origin_note": "小鸡炖蘑菇是东北「四大炖」之一，早年用长白山一带的野生榛蘑与散养小鸡同炖，是待客的硬菜。",
+  "tags": [
+    "东北菜",
+    "炖菜",
+    "家常",
+    "下饭"
+  ],
+  "related_ids": [
+    "dongbei-dalapi",
+    "linyi-chaoji",
+    "guobao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

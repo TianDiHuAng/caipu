@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "niang-doufu",
+  "name": {
+    "zh": "客家酿豆腐",
+    "en": "Hakka Stuffed Tofu"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "切成 6cm×4cm 长方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 200,
+          "unit": "g",
+          "note": "三分肥七分瘦",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "泡发切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "肉馅与汤汁",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 12,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "肉馅上劲与勾芡",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎豆腐",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 250,
+          "unit": "ml",
+          "note": "焖制用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "肉馅调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "小勺",
+    "砂锅或深盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐切成 6cm×4cm×2.5cm 长方块，用勺子在中间挖出浅坑，挖出的豆腐留用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "坑不要挖穿，留 1cm 底，煎时才不会漏馅。",
+      "visual_cue": "每块豆腐中央有整齐的小凹坑"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加香菇末、姜末、料酒、生抽 10ml、蚝油、白胡椒、2g 盐与挖出的豆腐碎，顺一个方向搅至上劲。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "豆腐碎能让肉馅更松软多汁，别丢掉。",
+      "visual_cue": "肉馅黏稠抱团、颜色均匀"
+    },
+    {
+      "n": 3,
+      "text": "把肉馅填入豆腐坑中抹平，表面拍少许玉米淀粉增加黏合。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "馅料略高于豆腐表面，煎后会收缩回平。",
+      "visual_cue": "馅料与豆腐边缘齐平、不塌陷"
+    },
+    {
+      "n": 4,
+      "text": "平底锅下 45ml 植物油，肉馅朝下中小火煎 4 分钟至金黄，翻面再煎 3 分钟。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "肉馅面先煎定型，翻面时才不会掉馅。",
+      "visual_cue": "肉馅面结出金黄焦壳，豆腐底面微黄"
+    },
+    {
+      "n": 5,
+      "text": "移入砂锅，加高汤、剩余生抽与 2g 盐，小火焖 10 分钟让豆腐吸味。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "汤量到豆腐一半高即可，太多会变成汤菜。",
+      "visual_cue": "豆腐体积略胀、汤汁渗入孔隙"
+    },
+    {
+      "n": 6,
+      "text": "开盖淋淀粉水勾薄芡，撒葱花，连砂锅上桌。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "勾芡后不要再久煮，芡汁会返稀。",
+      "visual_cue": "汤汁浓稠挂勺、葱花翠绿"
+    }
+  ],
+  "tips": [
+    "豆腐选老一点的北豆腐，太嫩容易碎。",
+    "煎好的酿豆腐可冷冻保存，吃时直接焖，不必解冻。",
+    "没有高汤时用 250ml 清水加 5g 蚝油代替。"
+  ],
+  "common_mistakes": [
+    "豆腐坑挖穿底，煎的时候肉馅和汁水一起漏掉。",
+    "肉馅不搅打上劲，焖后散开成碎末。",
+    "全程大火煎，豆腐外焦内生，馅还不熟。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "鱼肉泥",
+      "ratio": "200g 猪肉末 ≈ 220g 鱼肉泥",
+      "note": "客家也有酿鱼豆腐版本，需加 5g 淀粉帮助成型。"
+    },
+    {
+      "original": "北豆腐",
+      "substitute": "油豆腐",
+      "ratio": "450g 北豆腐 ≈ 300g 油豆腐",
+      "note": "油豆腐直接剪口塞馅，省去挖坑步骤。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：豆腐不煎，直接填馅上锅蒸 15 分钟，再淋芡汁。",
+    "砂锅版：锅底垫白萝卜片同焖，汤汁更清甜。"
+  ],
+  "serving_suggestion": "配米饭，汤汁浇饭；客家人常与酿苦瓜、酿茄子同锅，合成「酿三宝」。",
+  "storage": "冷藏 2 天，复热加 50ml 高汤小火焖 5 分钟；冷冻可存 1 个月。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 380,
+    "protein_g": 24,
+    "fat_g": 26,
+    "carbs_g": 12,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末必须煎熟焖透，中心温度达到 71℃ 以上。",
+    "北豆腐属豆制品，室温放置不超过 2 小时。",
+    "煎制时油温较高，豆腐含水易溅油，下锅前用厨房纸吸干表面。"
+  ],
+  "origin_note": "酿豆腐是客家菜的代表，客家人南迁后少麦多豆，便用豆腐代替面皮包肉馅，形成「无饺之饺」的做法，梅州、惠州一带尤盛。",
+  "tags": [
+    "客家菜",
+    "家常",
+    "焖菜",
+    "下饭"
+  ],
+  "related_ids": [
+    "yanju-ji",
+    "mapo-doufu",
+    "xiefen-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

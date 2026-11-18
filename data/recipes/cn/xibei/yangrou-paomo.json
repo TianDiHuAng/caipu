@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yangrou-paomo",
+  "name": {
+    "zh": "羊肉泡馍",
+    "en": "Xi'an Lamb Soup with Bread"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "soup",
+    "staple-bread"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 150,
+    "total_min": 190
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 800,
+          "unit": "g",
+          "note": "带骨羊腿肉或羊腩",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "做饦饦馍",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "煮汤用",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "煮汤用",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 4,
+          "unit": "g",
+          "note": "煮汤用",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "汤与馍分次使用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "note": "煮汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大汤锅",
+    "平底锅",
+    "擀面杖",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切大块，冷水浸泡 1 小时去血水，中途换水两次。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "泡水比焯水更能保留羊肉鲜味，汤也更清。",
+      "visual_cue": "羊肉颜色转浅、水不再明显发红"
+    },
+    {
+      "n": 2,
+      "text": "羊肉与姜片、八角、桂皮、花椒、香叶入锅，加 2500ml 清水，大火烧开撇沫后转小火炖 2 小时。",
+      "time_min": 125,
+      "heat": "小火",
+      "tip": "保持汤面似开未开，大火会让汤浑肉柴。",
+      "visual_cue": "汤色乳白、羊肉用筷子能穿透"
+    },
+    {
+      "n": 3,
+      "text": "面粉加 3g 盐与 200ml 温水揉成偏硬面团，醒 30 分钟后分成 4 份，擀成 1cm 厚圆饼。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "面要和得硬，烙出的馍才耐泡不烂。",
+      "visual_cue": "面团光滑、按压回弹缓慢"
+    },
+    {
+      "n": 4,
+      "text": "平底锅小火干烙馍，两面各 4 分钟至表面出现焦斑，内部熟透。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "不放油干烙，馍才够干香、掰碎后不糊汤。",
+      "visual_cue": "饼面有虎皮焦斑、敲击有空响"
+    },
+    {
+      "n": 5,
+      "text": "馍放凉后掰成小指盖大小的碎块，越小越易吸汤。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "传统吃法讲究手掰，颗粒均匀是关键。",
+      "visual_cue": "馍粒大小一致、边缘不碎成粉"
+    },
+    {
+      "n": 6,
+      "text": "取 600ml 羊汤烧开，下白萝卜煮 8 分钟，加 5g 盐调味，下馍粒煮 2 分钟。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "馍粒下锅后不要久煮，否则化在汤里。",
+      "visual_cue": "馍粒吸汤发胀但仍成形"
+    },
+    {
+      "n": 7,
+      "text": "盛碗后铺羊肉片，撒香菜与葱花，按口味加辣椒油。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "羊肉最后放，避免在汤里煮老。",
+      "visual_cue": "碗中汤清肉烂、香气扑鼻"
+    }
+  ],
+  "tips": [
+    "羊肉选带骨部位，骨胶原让汤更浓。",
+    "一次多炖些羊汤可分装冷冻，随吃随取。",
+    "掰馍时把馍粒分成大小两堆，大粒先下锅、小粒后下，口感有层次。"
+  ],
+  "common_mistakes": [
+    "馍用发面制作，泡进汤里立刻化成糊。",
+    "羊汤大火滚煮，汤色浑浊、膻味加重。",
+    "馍粒掰得太大，中心吸不到汤，吃起来干硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "羊排",
+      "ratio": "800g 羊肉 ≈ 900g 羊排",
+      "note": "羊排带骨更香，炖制时间不变。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "冬瓜",
+      "ratio": "1:1",
+      "note": "冬瓜更易烂，煮制时间减到 4 分钟。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：馍用现成白吉馍或法棍代替，掰碎后直接泡汤。",
+    "小炒版：馍粒与羊肉同炒，做成「小炒泡馍」，汤汁更少。"
+  ],
+  "serving_suggestion": "配糖蒜与辣椒酱同食，是西安人的标准吃法；冬季最宜。",
+  "storage": "羊汤冷藏 2 天、冷冻 1 个月；馍常温 1 天、冷冻 2 周，复烤 5 分钟再用。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 640,
+    "protein_g": 38,
+    "fat_g": 26,
+    "carbs_g": 62,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉必须炖至中心温度 74℃ 以上，切开无血色。",
+    "羊汤隔夜需煮沸后再食用，反复加热不超过 2 次。",
+    "生羊肉与熟食砧板分开，避免交叉污染。"
+  ],
+  "origin_note": "羊肉泡馍是西安的传统名吃，讲究「汤清、肉烂、馍筋」，相传由古代的羊羹演变而来，掰馍的粗细至今仍是食客间的讲究。",
+  "tags": [
+    "西北菜",
+    "汤菜",
+    "主食",
+    "冬季"
+  ],
+  "related_ids": [
+    "youpo-mian",
+    "ziran-yangrouchuan",
+    "xinjiang-dapanji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
