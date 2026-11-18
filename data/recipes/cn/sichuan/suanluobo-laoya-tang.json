@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "suanluobo-laoya-tang",
+  "name": {
+    "zh": "酸萝卜老鸭汤",
+    "en": "Duck Soup with Pickled Radish"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 120,
+    "total_min": 140
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸭",
+          "name_en": "duck",
+          "amount": 1000,
+          "unit": "g",
+          "note": "半只老鸭，斩大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块做酸萝卜",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "note": "腌萝卜用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次使用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌萝卜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "焯水去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "出锅调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "note": "炖汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "漏勺",
+    "密封盒"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "白萝卜切块加 3g 盐与白糖抓匀腌 30 分钟，倒掉析出的水，加香醋拌匀冷藏 2 小时成酸萝卜。",
+      "time_min": 150,
+      "heat": "无火",
+      "tip": "酸萝卜可提前一天做好，冷藏能存一周。",
+      "visual_cue": "萝卜发软、酸味明显"
+    },
+    {
+      "n": 2,
+      "text": "鸭块冷水下锅，加姜片与料酒，大火煮沸后撇净血沫，煮 3 分钟捞出冲净。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血水逼出来，汤才清。",
+      "visual_cue": "鸭皮收紧、水面浮起灰白沫"
+    },
+    {
+      "n": 3,
+      "text": "砂锅加 2500ml 清水、鸭块、姜片与葱结，大火烧开转小火炖 90 分钟。",
+      "time_min": 95,
+      "heat": "小火",
+      "tip": "保持汤面微沸，滚太猛汤会浑。",
+      "visual_cue": "汤色转乳白、鸭肉能用筷子戳透"
+    },
+    {
+      "n": 4,
+      "text": "下酸萝卜块再炖 20 分钟，加 3g 盐与白胡椒调味。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "酸萝卜后下，酸味才清爽不闷。",
+      "visual_cue": "酸香扑鼻、萝卜呈半透明"
+    },
+    {
+      "n": 5,
+      "text": "挑出葱结与姜片，撇去表面浮油后盛碗即可上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汤面浮油多可先撇去一层。",
+      "visual_cue": "汤清微浊、浮少量油花"
+    }
+  ],
+  "tips": [
+    "老鸭选两年以上的，鸭味足、久炖不柴。",
+    "没有时间腌酸萝卜，可用市售泡萝卜 300g 直接替代。",
+    "汤里加 3 片火腿，鲜味更厚。"
+  ],
+  "common_mistakes": [
+    "鸭块不焯水直接炖，汤浑浊带腥味。",
+    "一直大火滚煮，鸭肉散烂、汤色发白不清。",
+    "酸萝卜一开始就下锅，酸味挥发、汤变寡淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸭",
+      "substitute": "老母鸡",
+      "ratio": "1000g 鸭 ≈ 1000g 鸡",
+      "note": "炖制时间延长到 120 分钟。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "青萝卜",
+      "ratio": "1:1",
+      "note": "青萝卜更脆，腌 2 小时即可。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用酸萝卜与鸭块一起高压锅压 25 分钟，快速出汤。",
+    "川东版：加 20g 泡椒同炖，酸辣更开胃。"
+  ],
+  "serving_suggestion": "作为主汤配米饭，汤渣可蘸辣椒碟食用。",
+  "storage": "冷藏 3 天，复热需彻底煮沸，酸萝卜另存。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 420,
+    "protein_g": 30,
+    "fat_g": 30,
+    "carbs_g": 8,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸭肉需炖至中心完全变色、无血水，中心温度 74℃ 以上。",
+    "酸萝卜腌制需全程冷藏，出现异味或起沫立即丢弃。",
+    "汤品隔夜必须彻底加热沸腾后再食用。"
+  ],
+  "origin_note": "酸萝卜老鸭汤是川渝一带的家常炖汤，用自腌酸萝卜解鸭肉的肥腻，汤酸香开胃，冬日常被当作滋补汤水。",
+  "tags": [
+    "川菜",
+    "汤品",
+    "炖菜",
+    "家常"
+  ],
+  "related_ids": [
+    "koushui-ji",
+    "suancai-yu",
+    "liangban-fuzhu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

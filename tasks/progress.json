@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:15:20.997Z",
+  "generatedAt": "2026-11-18T15:22:07.559Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 454,
+    "cells": 455,
     "target": 3274,
-    "actual": 119,
-    "coverage": 0.036346976175931585
+    "actual": 126,
+    "coverage": 0.038485033598045205
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 21,
+        "actual": 22,
         "cells": [
           {
             "category": "main-meat",
@@ -129,6 +129,16 @@
             ]
           },
           {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "suancai-yu",
+              "suanluobo-laoya-tang"
+            ]
+          },
+          {
             "category": "banquet",
             "kind": "extra",
             "target": 0,
@@ -139,15 +149,6 @@
           },
           {
             "category": "main-seafood",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "suancai-yu"
-            ]
-          },
-          {
-            "category": "soup",
             "kind": "extra",
             "target": 0,
             "actual": 1,
@@ -269,7 +270,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "main-seafood",
@@ -296,9 +297,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "dongguo-paigu-tang"
+              "dongguo-paigu-tang",
+              "zicai-danhua-tang"
             ]
           },
           {
@@ -642,18 +644,19 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "lajiao-chaorou",
               "lawi-hezheng",
               "maoshi-hongshaorou",
               "nongjia-xiaochaorou",
+              "suanmiao-chao-larou",
               "xiaochao-huangniurou"
             ]
           },
@@ -822,14 +825,15 @@
         "en": "Beijing",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "culiu-muxu",
               "jingjiang-rousi"
             ]
           },
@@ -874,8 +878,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "culiu-muxu"
+            ]
           }
         ]
       },
@@ -1361,7 +1367,7 @@
         "en": "Taiwanese",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "snack",
@@ -1388,8 +1394,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "lurou-fan"
+            ]
           },
           {
             "category": "dessert",
@@ -1411,6 +1419,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "lurou-fan"
+            ]
           }
         ]
       },

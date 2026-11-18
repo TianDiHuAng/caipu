@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "culiu-muxu",
+  "name": {
+    "zh": "醋溜木须",
+    "en": "Muxu Pork with Vinegar Sauce"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "main-egg",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 8,
+    "total_min": 23
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 150,
+          "unit": "g",
+          "note": "牛里脊，切薄片",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "约 150g",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 30,
+          "unit": "g",
+          "note": "干木耳泡发撕小朵",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 25,
+          "unit": "ml",
+          "note": "主味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "合味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "腌肉",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "肉片上浆与勾芡",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉逆纹切 2mm 薄片，加料酒、5g 玉米淀粉与 1g 盐抓匀，腌 10 分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "逆纹切才嫩，淀粉上浆锁住肉汁。",
+      "visual_cue": "肉片薄而均匀、表面挂浆"
+    },
+    {
+      "n": 2,
+      "text": "木耳泡发后撕小朵，焯水 1 分钟捞出；鸡蛋打散加少许盐备用。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "木耳焯水可去杂质，也更易炒熟。",
+      "visual_cue": "木耳卷曲、沥干无积水"
+    },
+    {
+      "n": 3,
+      "text": "小碗中调入香醋、生抽、白糖、3g 玉米淀粉与 60ml 清水，搅匀成碗汁。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "碗汁先调好，旺火快炒才不慌乱。",
+      "visual_cue": "碗汁无颗粒、色泽棕褐"
+    },
+    {
+      "n": 4,
+      "text": "锅烧热下 20ml 植物油，倒入蛋液炒成大块蛋片盛出。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蛋块炒得稍老一点，回锅后不易碎。",
+      "visual_cue": "蛋块金黄、体积膨松"
+    },
+    {
+      "n": 5,
+      "text": "补 25ml 油，大火下牛肉片滑散，变色后下姜末与木耳翻炒 1 分钟。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "牛肉七成熟即可，回锅还会再受热。",
+      "visual_cue": "牛肉变色、锅底无血水"
+    },
+    {
+      "n": 6,
+      "text": "倒回蛋块与葱段，淋碗汁快速翻炒至汁浓挂料，出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "碗汁入锅前再搅一次，淀粉易沉底。",
+      "visual_cue": "汁浓发亮、酸香扑鼻"
+    }
+  ],
+  "tips": [
+    "醋香是灵魂，香醋要在碗汁中加足，久炒会挥发。",
+    "木耳可用 100g 黄瓜片替代，做成黄瓜木须。",
+    "北京馆子的木须讲究「三色」，蛋黄、肉褐、木耳黑。"
+  ],
+  "common_mistakes": [
+    "碗汁不勾芡，出锅后汤汁稀散挂不住料。",
+    "牛肉不按逆纹切，炒出来嚼不动、口感发柴。",
+    "蛋与肉一起下锅猛炒，蛋碎成渣、肉变老。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "猪里脊",
+      "ratio": "150g 牛肉 ≈ 150g 猪里脊",
+      "note": "猪里脊更嫩，腌 5 分钟即可。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "米醋",
+      "ratio": "1:1",
+      "note": "米醋酸味更柔，白糖加到 8g。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：不勾芡，把碗汁收干成干香口味。",
+    "清真版：不加木耳改用 100g 黄花菜，同样经典。"
+  ],
+  "serving_suggestion": "配米饭或荷叶饼，北京家常馆子的经典下饭菜。",
+  "storage": "冷藏 1 天，复热加 20ml 清水与 3ml 香醋回锅，补回酸味。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 320,
+    "protein_g": 22,
+    "fat_g": 21,
+    "carbs_g": 10,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋需炒至完全凝固，避免沙门氏菌风险。",
+    "牛肉需炒至完全变色，中心温度 71℃ 以上。",
+    "木耳泡发不超过 4 小时，泡发后需冷藏。"
+  ],
+  "origin_note": "醋溜木须是北京清真家常菜，「木须」指炒散的鸡蛋形似木樨花，牛肉、鸡蛋、木耳三样同炒，靠醋与淀粉勾出浓亮的酸甜汁。",
+  "tags": [
+    "京菜",
+    "家常",
+    "下饭菜",
+    "清真"
+  ],
+  "related_ids": [
+    "jingjiang-rousi",
+    "liangban-fuzhu",
+    "youmen-daxia"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

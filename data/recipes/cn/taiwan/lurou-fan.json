@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "lurou-fan",
+  "name": {
+    "zh": "卤肉饭",
+    "en": "Taiwanese Braised Pork Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "staple-rice",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 90,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 600,
+          "unit": "g",
+          "note": "切 1cm 小丁",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "煮饭用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "干香菇泡发切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 60,
+          "unit": "ml",
+          "note": "主调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "香料味",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "卤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅或砂锅",
+    "电饭锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切 1cm 小丁；干香菇温水泡 30 分钟，泡菇水留用，香菇切同样大小的丁。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "肉丁切小才易出胶质，卤汁才黏口。",
+      "visual_cue": "肉丁大小均匀、香菇丁同尺寸"
+    },
+    {
+      "n": 2,
+      "text": "锅下 20ml 植物油，中火把五花肉丁煸 8 分钟至出油、表面微黄。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "耐心煸透，把肥油逼出来才不腻。",
+      "visual_cue": "肉丁缩小、锅底积一层清油"
+    },
+    {
+      "n": 3,
+      "text": "下冰糖炒至融化起小泡，与肉丁翻匀上色，再加蒜、姜、八角炒香。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "糖色变琥珀色立刻下肉，发黑就苦。",
+      "visual_cue": "肉丁通体红亮、糖色均匀"
+    },
+    {
+      "n": 4,
+      "text": "烹入料酒，加生抽、老抽、五香粉、盐、香菇丁与泡菇水、600ml 清水，大火烧开。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "泡菇水是鲜味来源，底部沉淀不要倒入。",
+      "visual_cue": "卤汁没过肉丁、香气散出"
+    },
+    {
+      "n": 5,
+      "text": "转小火加盖卤 60 分钟，中途翻动两次，卤至肉丁软糯、汤汁浓稠。",
+      "time_min": 65,
+      "heat": "小火",
+      "tip": "只用小火慢卤，肉才软而不散。",
+      "visual_cue": "肉丁一压即散、卤汁挂勺"
+    },
+    {
+      "n": 6,
+      "text": "大米淘洗后按 1:1.2 加水煮成米饭，盛碗浇上卤肉与卤汁，撒葱花。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "卤汁要多留一点，拌饭才够味。",
+      "visual_cue": "米饭粒粒分明、卤汁渗入饭粒"
+    }
+  ],
+  "tips": [
+    "卤肉可一次多做，冷藏 3 天、冷冻 1 个月，随吃随热。",
+    "加 2 片炸过的红葱酥，台湾风味立刻到位。",
+    "配一颗卤蛋与烫青菜，就是标准的一份卤肉饭。"
+  ],
+  "common_mistakes": [
+    "五花肉切太大块，久卤不入味、口感发腻。",
+    "用大火卤，汤汁很快收干而肉还硬。",
+    "卤汁放得太少，浇饭时干涩无汁、拌不开。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "600g 五花肉 ≈ 600g 前腿肉",
+      "note": "瘦一些，需多加 20ml 油煸制。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "25g 冰糖 ≈ 22g 白糖",
+      "note": "白糖易焦，炒糖色时火要更小。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：全部材料放电饭锅，用煮饭键卤 1 小时，免看火。",
+    "台南版：卤汁中加 20g 虾米与 10ml 米酒，鲜味更足。"
+  ],
+  "serving_suggestion": "一碗白饭浇卤肉，配卤蛋、烫青菜与酸菜；台湾夜市标配。",
+  "storage": "卤肉冷藏 3 天、冷冻 1 个月；卤汁可反复使用，每次煮沸后冷藏。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量，含饭）",
+    "calories_kcal": 760,
+    "protein_g": 26,
+    "fat_g": 34,
+    "carbs_g": 86,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉需卤至中心软烂熟透，中心温度 71℃ 以上。",
+    "卤汁重复使用时每次必须彻底煮沸，冷藏不超过 3 天。",
+    "含大豆酱油，大豆过敏人群需替换。"
+  ],
+  "origin_note": "卤肉饭是台湾最日常的国民小吃，用五花肉丁加酱油、冰糖与红葱酥慢卤，浇在热白饭上，一碗解决一餐。",
+  "tags": [
+    "台湾菜",
+    "主食",
+    "卤味",
+    "家常"
+  ],
+  "related_ids": [
+    "niang-doufu",
+    "chaoshan-niurou-wan",
+    "pai-huanggua"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
