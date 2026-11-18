@@ -1,0 +1,3575 @@
+{
+  "generatedAt": "2026-11-18T06:15:56.174Z",
+  "rule": {
+    "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
+    "tierDistribution": {
+      "A": 17,
+      "B": 30,
+      "C": 12
+    }
+  },
+  "totals": {
+    "cuisines": 59,
+    "cells": 423,
+    "target": 3259,
+    "actual": 0,
+    "coverage": 0
+  },
+  "regions": {
+    "cn": [
+      {
+        "slug": "sichuan",
+        "zh": "川菜",
+        "en": "Sichuan",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "shandong",
+        "zh": "鲁菜",
+        "en": "Shandong",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "banquet",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "cantonese",
+        "zh": "粤菜",
+        "en": "Cantonese",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "jiangsu",
+        "zh": "苏菜",
+        "en": "Jiangsu",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "zhejiang",
+        "zh": "浙菜",
+        "en": "Zhejiang",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "fujian",
+        "zh": "闽菜",
+        "en": "Fujian",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "hunan",
+        "zh": "湘菜",
+        "en": "Hunan",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "fermented",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "anhui",
+        "zh": "徽菜",
+        "en": "Anhui",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "fermented",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "beijing",
+        "zh": "京菜",
+        "en": "Beijing",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "banquet",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "shanghai",
+        "zh": "沪菜",
+        "en": "Shanghai",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "dongbei",
+        "zh": "东北菜",
+        "en": "Northeastern",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "cold-dish",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "banquet",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "xibei",
+        "zh": "西北菜",
+        "en": "Northwestern",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "staple-noodle",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "yunguai",
+        "zh": "云贵菜",
+        "en": "Yunnan-Guizhou",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "fermented",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "hakka",
+        "zh": "客家菜",
+        "en": "Hakka",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "fermented",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "banquet",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "chaoshan",
+        "zh": "潮汕菜",
+        "en": "Chaoshan",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-congee",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "taiwan",
+        "zh": "台湾菜",
+        "en": "Taiwanese",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "hongkong",
+        "zh": "港澳菜",
+        "en": "Hong Kong-Macau",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "xinjiang",
+        "zh": "新疆菜",
+        "en": "Xinjiang",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "halal-cn",
+        "zh": "清真菜",
+        "en": "Chinese Halal",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "banquet",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "tibetan",
+        "zh": "藏餐",
+        "en": "Tibetan",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "mongolian",
+        "zh": "内蒙菜",
+        "en": "Inner Mongolian",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      }
+    ],
+    "intl": [
+      {
+        "slug": "japanese",
+        "zh": "日本料理",
+        "en": "Japanese",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "korean",
+        "zh": "韩国料理",
+        "en": "Korean",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "fermented",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "thai",
+        "zh": "泰国菜",
+        "en": "Thai",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "italian",
+        "zh": "意大利菜",
+        "en": "Italian",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "french",
+        "zh": "法国菜",
+        "en": "French",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "spanish",
+        "zh": "西班牙菜",
+        "en": "Spanish",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "vietnamese",
+        "zh": "越南菜",
+        "en": "Vietnamese",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "indonesian",
+        "zh": "印尼菜",
+        "en": "Indonesian",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "malaysian",
+        "zh": "马来菜",
+        "en": "Malaysian",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "staple-noodle",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "singaporean",
+        "zh": "新加坡菜",
+        "en": "Singaporean",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "filipino",
+        "zh": "菲律宾菜",
+        "en": "Filipino",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "indian",
+        "zh": "印度菜",
+        "en": "Indian",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "south-asian",
+        "zh": "南亚菜",
+        "en": "South Asian",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "middle-eastern",
+        "zh": "中东风味",
+        "en": "Middle Eastern",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "turkish",
+        "zh": "土耳其菜",
+        "en": "Turkish",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "mediterranean",
+        "zh": "地中海菜",
+        "en": "Mediterranean",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "greek",
+        "zh": "希腊菜",
+        "en": "Greek",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "portuguese",
+        "zh": "葡萄牙菜",
+        "en": "Portuguese",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "german",
+        "zh": "德国菜",
+        "en": "German",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "fermented",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "british",
+        "zh": "英国菜",
+        "en": "British",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "irish",
+        "zh": "爱尔兰菜",
+        "en": "Irish",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "nordic",
+        "zh": "北欧菜",
+        "en": "Nordic",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "fermented",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "eastern-european",
+        "zh": "东欧菜",
+        "en": "Eastern European",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "fermented",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "russian",
+        "zh": "俄式菜",
+        "en": "Russian",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "american",
+        "zh": "美式菜",
+        "en": "American",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "american-south",
+        "zh": "美国南方菜",
+        "en": "Southern US",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "tex-mex",
+        "zh": "德州墨西哥菜",
+        "en": "Tex-Mex",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "cajun",
+        "zh": "卡真菜",
+        "en": "Cajun",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "mexican",
+        "zh": "墨西哥菜",
+        "en": "Mexican",
+        "tier": "A",
+        "target": 107,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 15,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "ext",
+            "target": 8,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "peruvian",
+        "zh": "秘鲁菜",
+        "en": "Peruvian",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "appetizer",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "brazilian",
+        "zh": "巴西菜",
+        "en": "Brazilian",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "argentinian",
+        "zh": "阿根廷菜",
+        "en": "Argentinian",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "caribbean",
+        "zh": "加勒比菜",
+        "en": "Caribbean",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-poultry",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "north-african",
+        "zh": "北非菜",
+        "en": "North African",
+        "tier": "B",
+        "target": 38,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 6,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-egg",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-tofu",
+            "kind": "ext",
+            "target": 4,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "west-african",
+        "zh": "西非菜",
+        "en": "West African",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "staple-rice",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "east-african",
+        "zh": "东非菜",
+        "en": "East African",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "drink",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "south-african",
+        "zh": "南非菜",
+        "en": "South African",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-meat",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      },
+      {
+        "slug": "australian",
+        "zh": "澳新菜",
+        "en": "Australian-NZ",
+        "tier": "C",
+        "target": 25,
+        "actual": 0,
+        "cells": [
+          {
+            "category": "main-seafood",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "dessert",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          },
+          {
+            "category": "salad",
+            "kind": "core",
+            "target": 5,
+            "actual": 0,
+            "ids": []
+          }
+        ]
+      }
+    ]
+  }
+}
