@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fuzhou-yuwan",
+  "name": {
+    "zh": "福州七星鱼丸",
+    "en": "Fuzhou Fish Balls"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 20,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 800,
+          "unit": "g",
+          "note": "取净肉约 500g",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "剁成肉馅",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎取汁",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "煮汤用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 40,
+          "unit": "g",
+          "note": "红薯淀粉更弹",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "打浆用",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "肉馅用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "肉馅调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "料理机",
+    "大盆",
+    "汤锅",
+    "虎口挤丸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去皮去骨取净肉 500g，用勺子刮下鱼茸，检查有无细刺。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "刮出的鱼茸比刀剁的更细，弹性更好。",
+      "visual_cue": "鱼茸细腻发白、无刺感"
+    },
+    {
+      "n": 2,
+      "text": "鱼茸加 10g 盐、3g 白胡椒与姜汁，顺一个方向搅打 8 分钟至起胶发黏。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "盐先下才能打出胶质，顺序不能反。",
+      "visual_cue": "鱼茸能整团提起、倒盆不落"
+    },
+    {
+      "n": 3,
+      "text": "分次加入 100ml 冰水与 1 个蛋清继续搅打，再拌入 40g 淀粉搅匀。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "冰水分次加，一次倒多会稀散。",
+      "visual_cue": "鱼浆细腻有光泽、挑起呈倒三角"
+    },
+    {
+      "n": 4,
+      "text": "五花肉 120g 剁成细馅，加 15ml 生抽、10ml 香油与少许葱末拌匀，搓成小肉丸。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "五花肉馅搓小一点，包进鱼浆才不容易破。",
+      "visual_cue": "五花肉丸紧实、直径约 1.5cm"
+    },
+    {
+      "n": 5,
+      "text": "虎口挤出鱼浆，塞入一颗五花肉丸后收口，用湿勺舀入 60℃ 温水中定型。",
+      "time_min": 15,
+      "heat": "微火",
+      "tip": "水温不能滚，滚水会把丸子冲散。",
+      "visual_cue": "鱼丸浮起成球、表面光滑"
+    },
+    {
+      "n": 6,
+      "text": "全部挤完后加 30g 大葱段，转中火煮 5 分钟至鱼丸浮起饱满，捞出放清水保存。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "煮到鱼丸鼓胀有弹性即可，久煮会老。",
+      "visual_cue": "鱼丸体积膨大、按之回弹"
+    }
+  ],
+  "tips": [
+    "鱼茸一定要刮不要剁，纤维不断裂弹性才足。",
+    "搅打全程顺一个方向，反向会把胶质打散。",
+    "煮鱼丸的水保持微沸，滚水易破皮。"
+  ],
+  "common_mistakes": [
+    "鱼茸没打出胶就直接挤丸，下锅立刻散成一锅糊。",
+    "冰水一次全倒入，鱼浆变稀无法成型。",
+    "水温过高下丸子，表皮瞬间膨胀后开裂。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲅鱼",
+      "ratio": "800g 对 800g",
+      "note": "鲅鱼刺少肉厚，更适合新手。"
+    },
+    {
+      "original": "淀粉",
+      "substitute": "玉米淀粉",
+      "ratio": "40g 对 45g",
+      "note": "弹性稍弱，需多打 2 分钟。"
+    }
+  ],
+  "variations": [
+    "包心版：肉馅换成 80g 虾仁馅，鲜味更突出。",
+    "汤丸版：与 300ml 高汤、紫菜同煮成汤。"
+  ],
+  "serving_suggestion": "配清汤与葱花做成鱼丸汤，或下火锅涮煮。",
+  "storage": "冷藏 2 天，冷冻 1 个月；冷冻后直接冷水下锅煮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 6 颗）",
+    "calories_kcal": 300,
+    "protein_g": 30,
+    "fat_g": 13,
+    "carbs_g": 14,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鱼茸需检查细刺，避免误食卡喉。",
+    "鱼丸必须煮至中心完全熟透，肉馅不透红不可食用。",
+    "生熟案板分开使用，防止交叉污染。"
+  ],
+  "origin_note": "七星鱼丸是福州传统小吃，以鱼肉打浆包入猪肉馅，煮后雪白弹牙，因形似星子得名，一碗清汤里漂着七八颗最地道。",
+  "tags": [
+    "闽菜",
+    "福州",
+    "小吃",
+    "鱼丸"
+  ],
+  "related_ids": [
+    "baizhuo-xiaoguan",
+    "chou-guiyu",
+    "yaxue-fensi-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-18T16:40:54.973Z
+- 生成时间：2026-11-18T16:51:55.149Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：32 个，抽样 32 道，平均分 95
 - 需重写（C/D）：0 道
@@ -43,13 +43,13 @@
 | shanghai | yandu-xian | 87 | B | 准确性 18/25；安全性 14/20 |
 | sichuan | yuxiang-rousi | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
-| thai | tom-yum-goong | 94 | A | 安全性 14/20 |
+| thai | thai-green-curry-chicken | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | vietnamese | pho-bo | 100 | A | 无 |
 | xibei | youpo-mian | 100 | A | 无 |
 | xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
 | yunguai | guoqiao-mixian | 100 | A | 无 |
-| zhejiang | longjing-xiaren | 94 | A | 安全性 14/20 |
+| zhejiang | jiaxing-zongzi | 100 | A | 无 |
 
 ## 结论
 

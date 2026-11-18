@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dwaeji-gukbap",
+  "name": {
+    "zh": "韩式猪肉汤饭",
+    "en": "Dwaeji Gukbap"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup",
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 120,
+    "total_min": 140
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 700,
+          "unit": "g",
+          "note": "整块不切",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "提前煮成饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切斜段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "小鱼干",
+          "name_en": "dried anchovy",
+          "amount": 20,
+          "unit": "g",
+          "note": "熬汤底",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 15,
+          "unit": "g",
+          "note": "熬汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "调酱碟",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调汤",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "焯水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "电饭煲",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块冷水下锅，加 30ml 料酒与姜片焯 8 分钟，撇净血沫后捞出冲洗。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "焯水后再冲一遍，汤才不浑。",
+      "visual_cue": "肉块表面变白、无血水渗出"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加 2500ml 清水，放小鱼干与海带煮 15 分钟，捞出渣料留清汤。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "小鱼干与海带是韩式汤底的鲜味来源。",
+      "visual_cue": "汤色微黄、海带香味散出"
+    },
+    {
+      "n": 3,
+      "text": "清汤中放入五花肉、洋葱、大蒜与一半大葱段，大火烧开转小火煮 90 分钟。",
+      "time_min": 95,
+      "heat": "小火",
+      "tip": "小火慢煮肉才酥而不散。",
+      "visual_cue": "筷子能轻松插透肉块"
+    },
+    {
+      "n": 4,
+      "text": "取出肉块稍凉后切成 0.5cm 薄片，汤过滤后加 8g 盐、20ml 生抽与 3g 白胡椒调味。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "肉要凉一点再切，才切得薄。",
+      "visual_cue": "肉片薄而完整、汤色乳白"
+    },
+    {
+      "n": 5,
+      "text": "大米煮成饭后盛入石锅或深碗，铺上肉片与剩余葱段，浇入滚汤没过食材。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "汤要滚烫浇下去，香味才冲。",
+      "visual_cue": "碗中汤面浮油、葱段变软"
+    },
+    {
+      "n": 6,
+      "text": "30g 辣椒酱加 10ml 生抽与少许汤调成酱碟，随汤饭一同上桌，按口味取用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酱碟单独放，避免一次搅浑整碗汤。",
+      "visual_cue": "酱料顺滑、颜色红亮"
+    }
+  ],
+  "tips": [
+    "五花肉选肥瘦相间的整块，煮后切片不易碎。",
+    "汤底用小鱼干和海带吊鲜，比单纯清水浓郁很多。",
+    "肉片切得越薄，吸汤越快口感越好。"
+  ],
+  "common_mistakes": [
+    "肉块煮好后趁热切，切面毛糙且容易散。",
+    "火候过大，汤被煮成浑浊的白色浮渣汤。",
+    "酱料直接搅进锅里，整锅汤咸辣失衡。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "700g 对 700g",
+      "note": "瘦一些，煮的时间减 15 分钟。"
+    },
+    {
+      "original": "小鱼干",
+      "substitute": "鳀鱼高汤包",
+      "ratio": "20g 对 1 包",
+      "note": "省去过滤步骤，风味相近。"
+    }
+  ],
+  "variations": [
+    "血肠版：加 200g 血肠片同煮，是釜山吃法。",
+    "辣汤版：汤中加 15g 辣椒粉，做成辣味汤饭。"
+  ],
+  "serving_suggestion": "汤饭配泡菜与酱碟，是韩国釜山最经典的早餐组合。",
+  "storage": "汤与饭分开冷藏可存 2 天，复热时饭另蒸避免糊化。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 锅）",
+    "calories_kcal": 690,
+    "protein_g": 30,
+    "fat_g": 34,
+    "carbs_g": 62,
+    "sodium_mg": 1100,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉必须煮至中心完全熟透，无血水渗出。",
+    "汤品含盐较高，高血压人群应减少酱油与盐的用量。",
+    "剩汤复热需彻底烧开，避免细菌滋生。"
+  ],
+  "origin_note": "猪肉汤饭是韩国釜山的代表美食，用猪骨与猪肉长时间熬出乳白浓汤，浇在热饭上，配一碟辣酱，暖胃又顶饱。",
+  "tags": [
+    "韩国料理",
+    "汤饭",
+    "主食",
+    "猪肉"
+  ],
+  "related_ids": [
+    "kimchi-jjigae",
+    "dolsot-bibimbap",
+    "gimbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

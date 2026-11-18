@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cu-jiao-yutang",
+  "name": {
+    "zh": "山东醋椒鱼汤",
+    "en": "Shandong Vinegar Pepper Fish Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 700,
+          "unit": "g",
+          "note": "取净肉约 400g",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "鸡汤或骨汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "取蛋清上浆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 50,
+          "unit": "ml",
+          "note": "分两次放",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 6,
+          "unit": "g",
+          "note": "现磨更冲",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "抓匀上浆",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "出锅点香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "滤网",
+    "炒锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去骨片成 0.5cm 厚片，加 20ml 料酒、2g 盐与 15g 淀粉抓匀，再拌入蛋清腌 10 分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "抓拌到鱼片表面发亮，上浆才算到位。",
+      "visual_cue": "鱼片挂一层薄浆、手感滑润"
+    },
+    {
+      "n": 2,
+      "text": "高汤 1200ml 大火烧开，撇净浮沫后转小火，加姜丝与一半葱丝煮 3 分钟出味。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "汤底一定要撇净沫，成品才清亮。",
+      "visual_cue": "汤色清亮、浮沫基本消失"
+    },
+    {
+      "n": 3,
+      "text": "汤转微火，把鱼片逐片滑入，保持汤面不翻滚汆 2 分钟至变白。",
+      "time_min": 3,
+      "heat": "微火",
+      "tip": "火太大汤一滚，鱼片就散了。",
+      "visual_cue": "鱼片发白卷边、浮在汤面"
+    },
+    {
+      "n": 4,
+      "text": "加 30ml 米醋、4g 盐与 6g 白胡椒调味，搅匀后尝一次咸酸是否平衡。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "醋分两次加，先定酸再补香。",
+      "visual_cue": "汤色微乳白、酸味冲鼻但不呛"
+    },
+    {
+      "n": 5,
+      "text": "关火前淋入剩余 20ml 米醋与 10ml 香油，撒香菜段和剩余葱丝即可上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "尾醋一定关火后放，香味才不挥发。",
+      "visual_cue": "汤面浮油光、香菜翠绿"
+    }
+  ],
+  "tips": [
+    "白胡椒要用现磨的，瓶装胡椒粉香气差一截。",
+    "鱼片滑入后别搅动，用汤勺背轻推即可。",
+    "醋分两次加，起锅前补的那次是香气关键。"
+  ],
+  "common_mistakes": [
+    "汤大火滚着下鱼片，鱼片瞬间被冲散成碎块。",
+    "醋一次性早早倒入，煮久了酸味发闷没香气。",
+    "鱼片没上浆直接下锅，口感又柴又硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "黑鱼",
+      "ratio": "700g 对 700g",
+      "note": "黑鱼肉更紧实，汆煮时间多 30 秒。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "香醋",
+      "ratio": "50ml 对 45ml",
+      "note": "香醋味厚，用量略减避免压味。"
+    }
+  ],
+  "variations": [
+    "奶白版：鱼骨先煎再熬汤，汤色更浓白。",
+    "酸辣加重版：加 10g 泡椒碎同煮，辣味更冲。"
+  ],
+  "serving_suggestion": "趁热盛碗，配一张山东煎饼或馒头，是冬日暖身的一碗。",
+  "storage": "冷藏 1 天，复热时补少量米醋提香，鱼片不要久煮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 锅）",
+    "calories_kcal": 260,
+    "protein_g": 30,
+    "fat_g": 12,
+    "carbs_g": 6,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋需选用新鲜蛋，蛋清上浆的鱼片务必彻底加热至完全变白，接触生蛋液后及时洗手。",
+    "鱼类含细刺，老人小孩食用前请仔细挑刺。",
+    "汤品含盐较高，高血压人群应减量调味。"
+  ],
+  "origin_note": "醋椒鱼汤是鲁菜中经典的汤品，以清汤汆鱼片，靠米醋与白胡椒定味，酸辣开胃，最讲究的是起锅前那一勺尾醋。",
+  "tags": [
+    "鲁菜",
+    "汤品",
+    "酸辣",
+    "鱼"
+  ],
+  "related_ids": [
+    "shandong-jianbing",
+    "suyou-cha",
+    "baizhuo-xiaoguan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

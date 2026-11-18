@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:40:29.292Z",
+  "generatedAt": "2026-11-18T16:51:20.702Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 457,
+    "cells": 458,
     "target": 3274,
-    "actual": 161,
-    "coverage": 0.049175320708613315
+    "actual": 168,
+    "coverage": 0.05131337813072694
   },
   "regions": {
     "cn": [
@@ -167,7 +167,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-seafood",
@@ -193,8 +193,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "cu-jiao-yutang"
+            ]
           },
           {
             "category": "staple-bread",
@@ -487,7 +489,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-seafood",
@@ -523,8 +525,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "jiaxing-zongzi"
+            ]
           },
           {
             "category": "dessert",
@@ -580,7 +584,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "soup",
@@ -614,8 +618,10 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "fuzhou-yuwan"
+            ]
           },
           {
             "category": "sauce",
@@ -660,7 +666,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
@@ -747,6 +753,15 @@
             "actual": 1,
             "ids": [
               "duojiao-yutou"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "hunan-duolajiao"
             ]
           }
         ]
@@ -1871,7 +1886,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
@@ -1886,16 +1901,19 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "dwaeji-gukbap"
+            ]
           },
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "dolsot-bibimbap",
+              "dwaeji-gukbap",
               "gimbap"
             ]
           },
@@ -1958,14 +1976,16 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "thai-green-curry-chicken"
+            ]
           },
           {
             "category": "soup",
