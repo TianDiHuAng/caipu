@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shaanxi-saozi-mian",
+  "name": {
+    "zh": "陕西臊子面",
+    "en": "Shaanxi Saozi Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "staple-noodle",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 300,
+          "unit": "g",
+          "note": "切指甲盖大小丁",
+          "optional": false
+        },
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "细面条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 20,
+          "unit": "g",
+          "note": "干木耳泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "摊蛋皮切菱形",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "note": "酸香主味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "泼油用",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "臊子香料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "泼辣子与炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "平底锅",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成指甲盖大小的丁，土豆、胡萝卜切同样大小的丁，木耳泡发切丝。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "肉丁小才易煸出油，臊子才香而不腻。",
+      "visual_cue": "各料丁大小均匀、备好分装"
+    },
+    {
+      "n": 2,
+      "text": "锅下 20ml 植物油，中火煸肉丁 8 分钟至出油微黄，加姜末与五香粉炒香。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "臊子要煸到出油，久煮才不散。",
+      "visual_cue": "肉丁紧缩、锅底清油明显"
+    },
+    {
+      "n": 3,
+      "text": "加生抽 20ml 与 15ml 香醋炒匀上色，加热水没过肉丁，小火炖 20 分钟成臊子。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "先少醋后补醋，酸香才有层次。",
+      "visual_cue": "臊子红亮、汤汁浓稠"
+    },
+    {
+      "n": 4,
+      "text": "另起平底锅摊 2 张薄蛋皮，切成菱形片；辣椒粉放碗中，淋 40ml 熟油做成油泼辣子。",
+      "time_min": 5,
+      "heat": "中小火",
+      "tip": "油温七成热泼辣子最香，太热会焦苦。",
+      "visual_cue": "辣子红亮不黑、蛋皮金黄"
+    },
+    {
+      "n": 5,
+      "text": "汤锅加 1200ml 清水与臊子烧开，下土豆丁、胡萝卜丁与木耳丝煮 10 分钟。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "土豆先下，煮到微化汤才浓。",
+      "visual_cue": "土豆软糯、汤色红亮"
+    },
+    {
+      "n": 6,
+      "text": "加盐与剩余香醋调味，面条另锅煮熟捞入碗中，浇汤撒蛋皮与葱花，淋一勺油泼辣子。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "面条单煮，汤才清不糊。",
+      "visual_cue": "汤宽面少、酸辣扑鼻"
+    }
+  ],
+  "tips": [
+    "正宗臊子面讲究「薄筋光、煎稀汪」，汤多面少、面上浮一层红油。",
+    "臊子可一次多做，冷藏 3 天当浇头随取随用。",
+    "岐山醋是灵魂，没有香醋时可用陈醋加 5g 白糖代替。"
+  ],
+  "common_mistakes": [
+    "肉丁切太大，煸不出油、口感发腻。",
+    "醋一次性加足久煮，酸味发冲且挥发殆尽。",
+    "面条和汤同锅煮，汤浑面烂、失了清爽。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "300g 五花肉 ≈ 300g 前腿肉",
+      "note": "前腿肉瘦，需多加 15ml 油煸制。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "陈醋",
+      "ratio": "60ml 香醋 ≈ 55ml 陈醋 + 5g 白糖",
+      "note": "陈醋颜色深，老抽可省去。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：臊子一次做好冷冻，吃时加热水与蔬菜煮开即成。",
+    "岐山版：汤中加 10g 豆腐丁与 10g 黄花菜，配料更齐全。"
+  ],
+  "serving_suggestion": "一人一碗，汤多面少，配一碟蒜与凉拌萝卜丝。",
+  "storage": "臊子冷藏 3 天、冷冻 1 个月；汤底当日食用最佳。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 680,
+    "protein_g": 24,
+    "fat_g": 30,
+    "carbs_g": 78,
+    "sodium_mg": 1420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉需炖至完全熟透，中心温度 71℃ 以上。",
+    "鸡蛋需摊至完全凝固，不留流动蛋液。",
+    "油泼辣子时油温过高易起火，操作需离抽油烟机远一些。"
+  ],
+  "origin_note": "臊子面是陕西岐山一带的传统面食，以肉丁臊子加醋香汤底闻名，讲究「酸辣香、薄筋光、煎稀汪」，红白黄绿黑五色俱全。",
+  "tags": [
+    "西北菜",
+    "面食",
+    "家常",
+    "酸辣"
+  ],
+  "related_ids": [
+    "youpo-mian",
+    "yangrou-paomo",
+    "dandan-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

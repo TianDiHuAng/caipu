@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xihu-niurougeng",
+  "name": {
+    "zh": "西湖牛肉羹",
+    "en": "West Lake Beef Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 200,
+          "unit": "g",
+          "note": "牛里脊剁成细末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "只取蛋清",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "腌肉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "出锅",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "鸡汤或牛骨汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "打蛋碗",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉剁成细末，加料酒、5g 玉米淀粉与 1g 盐抓匀，腌 10 分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "牛肉剁得越细，羹的口感越顺滑。",
+      "visual_cue": "牛肉细腻无筋膜、颜色均匀"
+    },
+    {
+      "n": 2,
+      "text": "高汤加姜末煮沸，把牛肉抖散下锅，用勺子推散防结块。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "牛肉要抖散着下，成团就成肉丸了。",
+      "visual_cue": "汤中牛肉均匀悬浮"
+    },
+    {
+      "n": 3,
+      "text": "撇去浮沫，加盐与白胡椒调味，转小火煮 3 分钟。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "浮沫撇净汤才清亮。",
+      "visual_cue": "汤色清亮、浮沫消失"
+    },
+    {
+      "n": 4,
+      "text": "15g 玉米淀粉加 60ml 清水调匀，缓缓淋入汤中并不断搅拌至浓稠。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "淀粉水要边搅边淋，否则会结块。",
+      "visual_cue": "汤体浓稠、勺子挂薄芡"
+    },
+    {
+      "n": 5,
+      "text": "转最小火，蛋清打散后细线淋入，静置 10 秒推成蛋花，关火淋香油撒香菜末。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "蛋清要最后下，火大就会变絮状。",
+      "visual_cue": "蛋花洁白成片、羹面平滑"
+    }
+  ],
+  "tips": [
+    "勾芡后再淋蛋清，蛋花才成片浮在羹面。",
+    "汤要滚而不沸时勾芡，芡汁才均匀不结块。",
+    "喜酸可加 5ml 香醋，风味更接近餐馆版本。"
+  ],
+  "common_mistakes": [
+    "牛肉直接下冷水锅，牛肉沉底成团。",
+    "淀粉一次倒入不搅拌，羹中出现透明硬块。",
+    "蛋清下锅后大火滚煮，蛋花碎成絮条。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "鸡胸肉",
+      "ratio": "200g 牛肉 ≈ 200g 鸡胸肉",
+      "note": "鸡胸肉更清淡，煮制时间减 1 分钟。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水加鸡精",
+      "ratio": "800ml 高汤 ≈ 800ml 水 + 4g 鸡精",
+      "note": "盐量相应减 1g。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：牛肉改用市售牛肉馅，省去剁肉时间。",
+    "杭帮餐馆版：加 30g 嫩豆腐丁与 10g 火腿末，口感更丰富。"
+  ],
+  "serving_suggestion": "作为宴席第二道汤羹，饭前一碗最开胃。",
+  "storage": "冷藏 1 天，复热需加 50ml 清水并小火搅动，防止糊底。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 180,
+    "protein_g": 20,
+    "fat_g": 6,
+    "carbs_g": 10,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉需煮至完全变色，中心温度 71℃ 以上，避免半生。",
+    "蛋清需加热至完全凝固，儿童与孕妇不宜食用半熟蛋清。",
+    "羹类隔夜复热必须彻底煮沸并持续搅动。"
+  ],
+  "origin_note": "西湖牛肉羹是杭帮菜中的经典汤羹，以牛肉末、蛋清与薄芡做出细腻口感，因形似西湖水色而得名，常见于江南宴席。",
+  "tags": [
+    "浙菜",
+    "汤羹",
+    "宴客",
+    "家常"
+  ],
+  "related_ids": [
+    "xihu-cuyu",
+    "longjing-xiaren",
+    "suanluobo-laoya-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

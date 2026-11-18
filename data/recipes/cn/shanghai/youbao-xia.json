@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "youbao-xia",
+  "name": {
+    "zh": "油爆虾",
+    "en": "Shanghai Oil-poached Shrimp"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 6,
+    "total_min": 21
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 600,
+          "unit": "g",
+          "note": "选中小河虾或基围虾，剪须",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "本帮甜口",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 5,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "半煎半炸",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾剪去虾枪虾须，挑出虾线，用清水洗净后用厨房纸充分吸干水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水分吸得越干，下锅越不溅油、壳越脆。",
+      "visual_cue": "虾身干爽、虾壳透亮"
+    },
+    {
+      "n": 2,
+      "text": "虾加料酒与 1g 盐抓匀，腌 5 分钟后再次吸干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "腌后回干是爆虾壳脆的关键步骤。",
+      "visual_cue": "虾表面无液体残留"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下 200ml 植物油烧至七成热，虾分批下锅炸 40 秒至壳红脆，捞出。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "油温要高，虾下锅应立刻冒大泡。",
+      "visual_cue": "虾壳膨起、颜色鲜红"
+    },
+    {
+      "n": 4,
+      "text": "锅中留 15ml 底油，下姜丝与葱段爆香，加生抽、白糖、香醋与 30ml 清水烧开。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "本帮油爆虾的汁要甜中带咸，糖不可减。",
+      "visual_cue": "汁液起小泡、葱姜香气浓"
+    },
+    {
+      "n": 5,
+      "text": "倒回虾大火翻炒 40 秒，让每只虾裹上浓汁后立即出锅。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "回锅时间要短，久了虾肉变老。",
+      "visual_cue": "虾身油亮、盘底只剩薄汁"
+    }
+  ],
+  "tips": [
+    "用中小型河虾最正宗，壳薄易爆脆、连壳可嚼。",
+    "复炸一次口感更脆，但油温要升到八成热。",
+    "剩下的葱油可拌面，是本帮菜的常见吃法。"
+  ],
+  "common_mistakes": [
+    "虾带水下锅，油花四溅且虾壳软塌不脆。",
+    "回锅后久炒收汁，虾肉缩水发柴。",
+    "白糖放得太少，失去本帮菜浓油赤酱的甜香。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾",
+      "substitute": "河虾",
+      "ratio": "600g 基围虾 ≈ 500g 河虾",
+      "note": "河虾个头小，炸制时间减到 30 秒。"
+    },
+    {
+      "original": "植物油",
+      "substitute": "菜籽油",
+      "ratio": "1:1",
+      "note": "菜籽油需先烧去除生味。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：减少油量到 80ml，用半煎半炸的方式，省油且同样脆。",
+    "本帮宴客版：加 10g 话梅同烧，甜味更有层次。"
+  ],
+  "serving_suggestion": "冷吃热吃皆宜，作下酒菜或冷盘头菜。",
+  "storage": "冷藏 1 天，复热用 180℃ 烤箱烤 3 分钟恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 300,
+    "protein_g": 28,
+    "fat_g": 16,
+    "carbs_g": 8,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾需炸至完全变红、肉质不透明，中心温度 63℃ 以上。",
+    "高温油炸需控温，油面冒青烟时应立即降温。",
+    "海鲜过敏人群禁食，用过的油不宜反复高温使用。"
+  ],
+  "origin_note": "油爆虾是上海本帮菜的招牌冷盘，讲究「壳脆肉嫩、甜咸适口」，早年是弄堂人家逢年过节的硬菜。",
+  "tags": [
+    "上海菜",
+    "海鲜",
+    "冷盘",
+    "下酒菜"
+  ],
+  "related_ids": [
+    "youmen-daxia",
+    "baizhuo-xia",
+    "xia-ren-huadan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
