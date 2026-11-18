@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "naobao-rou",
+  "name": {
+    "zh": "馕包肉",
+    "en": "Naan-Topped Lamb"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xinjiang"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 700,
+          "unit": "g",
+          "note": "羊腿肉切块",
+          "optional": false
+        },
+        {
+          "name": "馕",
+          "name_en": "naan",
+          "amount": 2,
+          "unit": "piece",
+          "note": "新疆馕两个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 40,
+          "unit": "g",
+          "note": "提色提酸",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 6,
+          "unit": "g",
+          "note": "核心香料",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "深盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切 4cm 见方块，用清水冲净血水后沥干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "冲净血水，成品膻味轻。",
+      "visual_cue": "羊肉色泽发白、无血水渗出"
+    },
+    {
+      "n": 2,
+      "text": "炒锅下 40ml 植物油，中火炒香洋葱丝与姜片至透明。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒到微黄，甜味才出来。",
+      "visual_cue": "洋葱透明微黄、香气上扬"
+    },
+    {
+      "n": 3,
+      "text": "下羊肉块大火翻炒 5 分钟至表面收紧，加 30ml 料酒炒至酒气挥发。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "羊肉先炒锁汁，再炖才不柴。",
+      "visual_cue": "肉块表面焦香、无酒味"
+    },
+    {
+      "n": 4,
+      "text": "加番茄酱、生抽、一半孜然与辣椒粉炒 1 分钟上色。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "番茄酱要炒出红油，颜色才亮。",
+      "visual_cue": "肉块裹满红亮酱色"
+    },
+    {
+      "n": 5,
+      "text": "倒 700ml 清水，下胡萝卜块，大火烧开转小火炖 35 分钟，加 8g 盐调味。",
+      "time_min": 38,
+      "heat": "小火",
+      "tip": "炖到筷子能插入羊肉即可，胡萝卜后放。",
+      "visual_cue": "羊肉软烂、汤汁浓稠红亮"
+    },
+    {
+      "n": 6,
+      "text": "馕掰成 8 块铺在深盘底，浇上羊肉与汤汁，撒剩余孜然，稍浸 2 分钟再吃。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "馕要最后浇汁，早了会泡烂。",
+      "visual_cue": "馕块吸饱汤汁、边缘仍带脆"
+    }
+  ],
+  "tips": [
+    "馕最好是刚出炉的，脆边吸汁后仍有余香。",
+    "孜然分两次放，一半炒、一半出锅撒，香气有层次。",
+    "新疆做法常加一勺酸奶，解腻又添奶香。"
+  ],
+  "common_mistakes": [
+    "羊肉不先炒过就直接加水炖，汤腥肉散、口感发柴。",
+    "馕提前泡在汤里，端上桌已经糊成一团。",
+    "孜然一次性全下锅，久炖后香气尽失。"
+  ],
+  "substitutions": [
+    {
+      "original": "馕",
+      "substitute": "法棍",
+      "ratio": "2 个馕 ≈ 半根法棍",
+      "note": "法棍切片烤脆后代用，吸汁效果接近。"
+    },
+    {
+      "original": "羊肉",
+      "substitute": "牛腩",
+      "ratio": "700g 羊肉 ≈ 700g 牛腩",
+      "note": "牛腩需炖 50 分钟。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：羊肉用高压锅压 15 分钟，再回锅收汁。",
+    "南疆版：加 100g 鹰嘴豆同炖，口感更绵密。"
+  ],
+  "serving_suggestion": "整盘上桌，馕垫底羊肉盖面，汤汁浇在馕上，一手抓馕一手夹肉。",
+  "storage": "羊肉冷藏 2 天、冷冻 1 个月；馕单独密封，食用前再浇汁。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 620,
+    "protein_g": 34,
+    "fat_g": 32,
+    "carbs_g": 46,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉需炖至中心无血水，温度 75℃ 以上。",
+    "馕若已发硬，需回炉烤 3 分钟再食用。",
+    "辣椒粉按口味调整，儿童食用建议减半。"
+  ],
+  "origin_note": "馕包肉是新疆喀什一带的家常宴客菜，羊肉炖得酥烂，连汤带肉浇在掰开的馕上，馕吸饱肉汁，一手抓食最痛快。",
+  "tags": [
+    "新疆菜",
+    "羊肉",
+    "主食同锅",
+    "宴客"
+  ],
+  "related_ids": [
+    "ziran-yangrouchuan",
+    "shouba-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

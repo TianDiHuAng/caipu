@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T15:32:05.555Z",
+  "generatedAt": "2026-11-18T16:21:01.910Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 456,
+    "cells": 457,
     "target": 3274,
-    "actual": 142,
-    "coverage": 0.04337202199144777
+    "actual": 149,
+    "coverage": 0.045510079413561395
   },
   "regions": {
     "cn": [
@@ -744,7 +744,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
@@ -820,6 +820,15 @@
             "actual": 1,
             "ids": [
               "chou-guiyu"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "fuliji-shaoji"
             ]
           }
         ]
@@ -1465,14 +1474,16 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "bifengtang-chaoxie"
+            ]
           },
           {
             "category": "staple-rice",
@@ -1524,14 +1535,16 @@
         "en": "Xinjiang",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "naobao-rou"
+            ]
           },
           {
             "category": "staple-bread",
@@ -1596,14 +1609,16 @@
         "en": "Chinese Halal",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shuipen-yangrou"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -1616,8 +1631,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shuipen-yangrou"
+            ]
           },
           {
             "category": "snack",
@@ -1655,7 +1672,7 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-meat",
@@ -1682,8 +1699,10 @@
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "suyou-cha"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -1835,7 +1854,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
@@ -1857,9 +1876,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "dolsot-bibimbap"
+              "dolsot-bibimbap",
+              "gimbap"
             ]
           },
           {

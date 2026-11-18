@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "bifengtang-chaoxie",
+  "name": {
+    "zh": "避风塘炒蟹",
+    "en": "Typhoon Shelter Crab"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "total_min": 32
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蟹",
+          "name_en": "crab",
+          "amount": 900,
+          "unit": "g",
+          "note": "肉蟹两只，斩件",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 80,
+          "unit": "g",
+          "note": "剁成蒜蓉",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 60,
+          "unit": "g",
+          "note": "炸至金黄做金沙",
+          "optional": false
+        },
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "合味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 30,
+          "unit": "g",
+          "note": "拍粉",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炸制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "肉蟹刷净斩件，蟹钳拍裂，切口处拍上 30g 玉米淀粉封住蟹肉。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "切口拍粉，炸时蟹肉才不会流失。",
+      "visual_cue": "蟹块切口均匀挂粉"
+    },
+    {
+      "n": 2,
+      "text": "炒锅下 250ml 植物油烧至七成热，蟹块分批炸 3 分钟至外壳橙红，捞出沥油。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "油温要够，蟹壳才酥、肉才嫩。",
+      "visual_cue": "蟹壳红亮、蟹钳开口"
+    },
+    {
+      "n": 3,
+      "text": "锅中留 30ml 底油，小火下 80g 大蒜蓉慢炸 5 分钟至金黄酥香，捞出备用。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "蒜蓉必须小火慢炸，火大立刻发苦。",
+      "visual_cue": "蒜蓉金黄松散、香气扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "原锅下豆豉、干辣椒炒 30 秒，倒入 60g 面包糠小火炒至金黄酥脆。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "面包糠极易焦，需不停翻动。",
+      "visual_cue": "面包糠金黄颗粒分明"
+    },
+    {
+      "n": 5,
+      "text": "倒回蟹块与炸蒜蓉，转大火翻炒 1 分钟，加 3g 盐、5g 白糖与 2g 白胡椒炒匀。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "大火快炒让金沙裹住蟹壳。",
+      "visual_cue": "蟹块表面裹满金黄蒜糠"
+    },
+    {
+      "n": 6,
+      "text": "最后下小葱段翻两下立刻出锅，趁热端上桌食用，金沙才够酥脆。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "小葱最后放，翠绿不塌。",
+      "visual_cue": "葱段青翠、金沙干爽不油"
+    }
+  ],
+  "tips": [
+    "大蒜与面包糠的比例约为 4:3，蒜香才压得住蟹味。",
+    "炸蒜蓉可一次多做，密封冷藏 3 天随取随用。",
+    "吃完蟹剩下的金沙拌饭，是港式的隐藏吃法。"
+  ],
+  "common_mistakes": [
+    "蒜蓉大火炸，几十秒就焦黑发苦。",
+    "蟹块不拍粉直接炸，蟹肉失水变干。",
+    "面包糠与蟹同炒太久，吸油回软失去酥感。"
+  ],
+  "substitutions": [
+    {
+      "original": "蟹",
+      "substitute": "大虾",
+      "ratio": "900g 蟹 ≈ 700g 大虾",
+      "note": "大虾开背去虾线，炸 2 分钟即可。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "馒头屑",
+      "ratio": "60g 面包糠 ≈ 80g 馒头屑",
+      "note": "馒头屑需晒干搓碎，炒制时间加 1 分钟。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：蟹块用空气炸锅 200℃ 烤 10 分钟，省油且不溅。",
+    "港式酒楼版：加 15g 虾米碎同炒，鲜味更足。"
+  ],
+  "serving_suggestion": "大盘装盛，金沙铺满蟹身，配冰啤酒最过瘾。",
+  "storage": "现炸现吃最佳，冷藏后金沙回软、风味全失。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 560,
+    "protein_g": 30,
+    "fat_g": 38,
+    "carbs_g": 24,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蟹必须炸至完全熟透，蟹肉呈雪白不透明状。",
+    "高温油炸需控温，油面冒烟应立即离火降温。",
+    "死蟹不得使用，蟹鳃与蟹胃需清除干净。"
+  ],
+  "origin_note": "避风塘炒蟹源自香港铜锣湾避风塘的艇家菜，用大量蒜蓉与面包糠炒出金沙裹住蟹块，蒜香酥脆、辣味提神，是港式海鲜的代表作。",
+  "tags": [
+    "港菜",
+    "海鲜",
+    "香辣",
+    "宴客"
+  ],
+  "related_ids": [
+    "qingzheng-dazhaxie",
+    "chou-guiyu",
+    "youbao-xia"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

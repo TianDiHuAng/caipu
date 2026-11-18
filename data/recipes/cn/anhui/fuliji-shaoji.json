@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fuliji-shaoji",
+  "name": {
+    "zh": "符离集烧鸡",
+    "en": "Fuliji Braised Chicken"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 80,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "整鸡",
+          "name_en": "whole chicken",
+          "amount": 1200,
+          "unit": "g",
+          "note": "一年生仔鸡，处理干净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 80,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提亮",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 60,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "浇淋上色",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "卤制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "漏勺",
+    "食品夹"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "整鸡洗净沥干，用 40ml 生抽与 20ml 料酒把鸡身内外抹匀，腌 20 分钟。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "鸡皮擦得越干，浇油后的颜色越匀。",
+      "visual_cue": "鸡皮油亮、腌料均匀挂附"
+    },
+    {
+      "n": 2,
+      "text": "深锅倒 200ml 植物油烧至六成热，用食品夹提着鸡颈，把热油反复浇淋鸡身至皮色金黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "家庭操作以浇淋代替整只浸炸，省油又安全。",
+      "visual_cue": "鸡皮金黄收紧、油珠清亮"
+    },
+    {
+      "n": 3,
+      "text": "另起锅下少量底油，中火炒香姜片、大葱与大蒜，再放八角、桂皮与香叶炒 30 秒。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料炒过才出香，直接下汤味道发闷。",
+      "visual_cue": "香料颜色加深、香气明显"
+    },
+    {
+      "n": 4,
+      "text": "加 1500ml 清水、老抽 20ml、生抽 40ml、冰糖、40ml 料酒与 8g 盐，大火烧开成卤水。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "卤水要先调好咸甜，再放鸡。",
+      "visual_cue": "卤水红亮、味道咸鲜回甜"
+    },
+    {
+      "n": 5,
+      "text": "放入整鸡，汤量没过鸡身一半，加盖小火卤 50 分钟，中途翻面两次。",
+      "time_min": 52,
+      "heat": "小火",
+      "tip": "小火慢卤，鸡皮才完整不破。",
+      "visual_cue": "鸡身色泽红亮、筷子可穿腿部"
+    },
+    {
+      "n": 6,
+      "text": "关火后让鸡在卤水中浸泡 10 分钟再捞出，晾至温热后斩件装盘。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "离火浸泡是入味的关键一步。",
+      "visual_cue": "鸡肉紧实多汁、骨中带红"
+    }
+  ],
+  "tips": [
+    "选用 1.2kg 左右的仔鸡，太大不易入味、太小易烂。",
+    "卤水可留作老卤，反复使用三到五次风味最佳。",
+    "斩件时刀要利，顺关节下刀鸡块才整齐。"
+  ],
+  "common_mistakes": [
+    "鸡不沥干就下油锅，油花四溅、鸡皮破裂。",
+    "大火猛卤，鸡皮破裂、肉质发柴。",
+    "卤好后立刻捞出，表皮未回色、内部不入味。"
+  ],
+  "substitutions": [
+    {
+      "original": "整鸡",
+      "substitute": "鸡腿肉",
+      "ratio": "1200g 整鸡 ≈ 900g 鸡腿肉",
+      "note": "鸡腿肉卤 25 分钟即可，无需浇油。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "20g 冰糖 ≈ 18g 白糖",
+      "note": "白糖易焦，炒制时火要小。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：不浇油，直接卤制后刷一层蜂蜜水，色泽同样好看。",
+    "符离集传统版卤水加冰糖上色，成品皮色红亮带脆感。"
+  ],
+  "serving_suggestion": "晾凉斩件，配一碟蒜泥或卤汁蘸食，安徽宴客的冷盘主角。",
+  "storage": "冷藏 2 天、冷冻 1 个月；复热蒸 8 分钟，肉质可恢复。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 480,
+    "protein_g": 38,
+    "fat_g": 30,
+    "carbs_g": 8,
+    "sodium_mg": 1360,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "整鸡必须卤至腿肉深处无血水，中心温度 74℃ 以上。",
+    "浇淋热油时鸡身要沥干，操作者需戴手套防烫。",
+    "卤水反复使用必须每次煮沸并冷藏，超过三次建议弃用。"
+  ],
+  "origin_note": "符离集烧鸡是安徽宿州的百年名吃，选用当地仔鸡先浇油上色再入老卤慢煨，成品色泽红亮、肉烂脱骨而形不散。",
+  "tags": [
+    "徽菜",
+    "禽类",
+    "卤味",
+    "宴客"
+  ],
+  "related_ids": [
+    "yanju-ji",
+    "shanghai-jiang-ya",
+    "yanshui-ya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

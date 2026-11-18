@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "suyou-cha",
+  "name": {
+    "zh": "酥油茶",
+    "en": "Tibetan Butter Tea"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "tibetan"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 15,
+    "total_min": 25
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "砖茶",
+          "name_en": "brick tea",
+          "amount": 25,
+          "unit": "g",
+          "note": "普洱砖茶，掰碎",
+          "optional": false
+        },
+        {
+          "name": "酥油",
+          "name_en": "ghee",
+          "amount": 120,
+          "unit": "g",
+          "note": "牦牛酥油最佳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "全脂牛奶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "主调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "煮茶",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "茶壶",
+    "酥油茶桶",
+    "小锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "砖茶掰成碎块，放入小锅，加 800ml 清水大火烧开后转小火熬 15 分钟。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "茶汤熬到深褐发黑，滋味才厚重。",
+      "visual_cue": "茶汤深褐、茶香浓郁"
+    },
+    {
+      "n": 2,
+      "text": "用细筛把茶渣滤掉，只留约 500ml 浓茶汤备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "滤得干净，喝起来才不涩口。",
+      "visual_cue": "茶汤清澈透亮、滤网上无茶渣残留"
+    },
+    {
+      "n": 3,
+      "text": "趁茶汤滚烫倒入酥油茶桶，加 50g 酥油、200ml 牛奶与 6g 盐。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "茶汤必须够烫，酥油才化得开。",
+      "visual_cue": "酥油块浮在茶汤表面"
+    },
+    {
+      "n": 4,
+      "text": "用桶内的搅拌杆上下抽打 40 下，让茶、油、奶充分乳化成浅褐色。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "抽打不足会分层，浮油漂在表面。",
+      "visual_cue": "茶汤乳化均匀、表面无油花"
+    },
+    {
+      "n": 5,
+      "text": "倒入铜壶或暖壶中保温，趁热分小杯饮用，喝完再续。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "藏族人讲究喝三碗，暖身又抗高寒。",
+      "visual_cue": "茶汤顺滑、咸香回甘"
+    }
+  ],
+  "tips": [
+    "高原地区用的砖茶更粗老，熬煮时间可延长到 20 分钟。",
+    "没有酥油茶桶可用料理机低速打 30 秒替代，效果接近。",
+    "第一次喝不宜过量，酥油脂肪含量高、肠胃需适应。"
+  ],
+  "common_mistakes": [
+    "茶汤不够烫就下酥油，油凝固结块、口感油腻。",
+    "抽打时间不足，茶奶油分层发腥。",
+    "盐放得太多，茶香被咸味完全盖住，只剩齁咸。"
+  ],
+  "substitutions": [
+    {
+      "original": "酥油",
+      "substitute": "黄油",
+      "ratio": "50g 酥油 ≈ 55g 无盐黄油",
+      "note": "黄油奶香更重，风味略有差异。"
+    },
+    {
+      "original": "砖茶",
+      "substitute": "普洱熟茶",
+      "ratio": "15g 砖茶 ≈ 18g 熟普",
+      "note": "熟普滋味柔和，熬 10 分钟即可。"
+    }
+  ],
+  "variations": [
+    "甜味版：不放盐，改加 15g 白糖，适合初次尝试者。",
+    "加料版：加 20g 糌粑同打，茶汤更稠、更抗饿。"
+  ],
+  "serving_suggestion": "铜壶暖着，小木碗逐碗斟饮，配糌粑与风干肉是藏家待客之道。",
+  "storage": "现打现喝最好，保温壶可存 4 小时，久放会分层需重新抽打。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250ml）",
+    "calories_kcal": 165,
+    "protein_g": 4,
+    "fat_g": 14,
+    "carbs_g": 5,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "酥油需冷却至室温再用，滚油直接搅打易烫伤。",
+    "茶汤含咖啡因，睡前与儿童不宜多饮。",
+    "保温壶需每日清洗，酥油残留易滋生细菌。"
+  ],
+  "origin_note": "酥油茶是青藏高原的日常饮品，用砖茶熬出浓汤，加酥油与盐反复抽打成乳状，咸香醇厚、御寒抗饿，是藏族人待客的第一道礼。",
+  "tags": [
+    "藏餐",
+    "饮品",
+    "咸香",
+    "待客"
+  ],
+  "related_ids": [
+    "shouba-rou",
+    "naobao-rou",
+    "yangrou-paomo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

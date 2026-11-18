@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shuipen-yangrou",
+  "name": {
+    "zh": "水盆羊肉",
+    "en": "Shuipen Lamb Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "soup",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 100,
+    "total_min": 120
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 1000,
+          "unit": "g",
+          "note": "带骨羊腿肉，切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 300,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "去膻",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 14,
+          "unit": "g",
+          "note": "主调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 3000,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大汤锅",
+    "漏勺",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切 6cm 大块，用清水浸泡 40 分钟，中途换水两次泡出血水。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "泡足血水，汤才清、膻味才轻。",
+      "visual_cue": "羊肉发白、水色转淡"
+    },
+    {
+      "n": 2,
+      "text": "羊肉冷水下锅，加姜片、大葱与花椒，大火煮开撇净浮沫。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "浮沫要撇三四遍，汤才不浑。",
+      "visual_cue": "汤面清亮、无灰色浮沫"
+    },
+    {
+      "n": 3,
+      "text": "加八角与桂皮，转小火加盖炖 70 分钟，保持汤面微沸不翻滚。",
+      "time_min": 72,
+      "heat": "小火",
+      "tip": "只微沸不翻滚，汤才清而肉不散。",
+      "visual_cue": "筷子能轻松插入羊肉"
+    },
+    {
+      "n": 4,
+      "text": "下白萝卜厚片续炖 20 分钟，加 14g 盐与 3g 白胡椒调味。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "萝卜后下，久炖会化在汤里。",
+      "visual_cue": "萝卜透明软糯、汤味咸鲜"
+    },
+    {
+      "n": 5,
+      "text": "捞出羊肉晾至温热切成薄片，装碗后浇上滚汤，撒香菜末。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "羊肉晾一下再切，片才薄而不碎。",
+      "visual_cue": "羊肉片整齐、汤面浮一层油花"
+    },
+    {
+      "n": 6,
+      "text": "配一张现烤的月牙饼，掰碎泡汤或夹入羊肉同食，趁热吃完。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "饼要现烤的，脆皮泡汤最香。",
+      "visual_cue": "饼皮酥脆、泡汤不散"
+    }
+  ],
+  "tips": [
+    "陕西水盆羊肉讲究汤清肉烂，全程不加酱油。",
+    "盐要最后放，早放羊肉不易炖烂。",
+    "喝汤时加一勺油泼辣子，是关中的标准吃法。"
+  ],
+  "common_mistakes": [
+    "不泡血水直接煮，汤色发灰、膻味重。",
+    "全程用大火滚煮一小时以上，导致汤色浑浊、羊肉口感发柴。",
+    "白萝卜与羊肉同下锅，萝卜烂成泥。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛腩",
+      "ratio": "1000g 羊肉 ≈ 1000g 牛腩",
+      "note": "牛腩需炖 100 分钟，盐量减 2g。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "冬瓜",
+      "ratio": "300g 白萝卜 ≈ 350g 冬瓜",
+      "note": "冬瓜易烂，最后 10 分钟下即可。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用高压锅上汽后压 25 分钟，再转砂锅下白萝卜炖 10 分钟。",
+    "澄城版：羊肉切得极薄，汤中加 10g 粉丝同煮。"
+  ],
+  "serving_suggestion": "一碗汤配两片羊肉、一张月牙饼，陕西人早餐的标准吃法。",
+  "storage": "汤冷藏 2 天、冷冻 1 个月；羊肉片冷藏 2 天，复热浸汤即可。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 460,
+    "protein_g": 36,
+    "fat_g": 30,
+    "carbs_g": 10,
+    "sodium_mg": 1420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉需炖至完全软烂、中心温度 75℃ 以上。",
+    "汤反复加热需彻底煮沸，冷藏不超过 2 天。",
+    "含花椒等香料，幼儿食用需过滤汤渣。"
+  ],
+  "origin_note": "水盆羊肉是陕西关中与渭北的传统早点，大锅清汤炖羊肉，汤清肉烂、原汁原味，配月牙饼泡食，讲究一碗汤、两片肉。",
+  "tags": [
+    "清真菜",
+    "羊肉",
+    "汤品",
+    "陕西"
+  ],
+  "related_ids": [
+    "shouba-rou",
+    "yangrou-paomo",
+    "ziran-yangrouchuan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
