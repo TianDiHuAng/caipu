@@ -60,3 +60,12 @@ node scripts/validate.mjs
 npm run progress
 ```
 确认无错误后，按「二、单批生产关系」继续领格子生产，每批 6 道，批次号接续 `temp/drafts/` 中最大编号。
+
+
+## 最近一次更新（本轮结束）
+
+- 菜谱库：75 道，validate 全绿；测试 29/29（Node 24）。
+- 抽检：`npm run audit` 覆盖 26 菜系，均分 96，无 C/D 级；报告在 tasks/AUDIT_REPORT.md。
+- 已修：食材词典「剁椒」别名冲突（从泡椒词条移除）、进度统计漏计残余品类、葱烧海参重复、若干枚举/单位/关联错误。
+- 待办：阶段 4 内容生产（86/3274）。下批建议继续 sichuan/appetizer、cantonese/main-vegetable、hunan/main-vegetable，再推进 shandong、jiangsu、zhejiang、fujian、anhui。
+- 每 10 批后执行 `npm run audit`，C/D 级按报告明细重写。
