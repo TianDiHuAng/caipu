@@ -25,7 +25,8 @@
     "test": "node --import tsx --test --test-reporter=spec \"tests/*.test.mjs\"",
     "test:data": "node --test tests/data.test.mjs",
     "test:api": "node --import tsx --test tests/api.test.mjs",
-    "check": "node scripts/validate.mjs && npm test"
+    "check": "node scripts/validate.mjs && npm test",
+    "audit": "node scripts/audit.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.9.0",

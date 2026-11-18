@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dandan-mian",
+  "name": {
+    "zh": "担担面",
+    "en": "Dan Dan Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "total_min": 30
+  },
+  "servings": 2,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "salty",
+    "umami",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "挂面",
+          "name_en": "dried noodles",
+          "amount": 200,
+          "unit": "g",
+          "note": "细圆挂面或碱水面",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "肥三瘦七",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "冬菜",
+          "name_en": "Chaozhou preserved cabbage",
+          "amount": 40,
+          "unit": "g",
+          "note": "剁碎，传统用宜宾芽菜",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 40,
+          "unit": "g",
+          "note": "烤香压碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "芝麻酱",
+          "name_en": "sesame paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "用温水调开",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "酱油底味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提酸解腻",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "川式红油",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "焙香碾成粉",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "合味",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒肉末",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "炒臊子用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "煮面用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "煮面锅",
+    "面碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "炒锅烧热下植物油 20ml，放入猪肉末，中火煸炒至水分收干、肉末分散成颗粒。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉末下锅先别急着翻，等底部定型再炒散，才不粘锅。",
+      "visual_cue": "肉末由粉红变褐、锅底渗出清亮油脂"
+    },
+    {
+      "n": 2,
+      "text": "加入冬菜碎与盐，继续小火炒 3 分钟至干香，淋 10ml 生抽翻匀，盛出即为臊子。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "冬菜本身有咸味，盐只放 3g 就够，宁淡勿咸。",
+      "visual_cue": "臊子颗粒分明、油亮不湿"
+    },
+    {
+      "n": 3,
+      "text": "花椒用干锅小火焙 1 分钟至出香，碾成粉；芝麻酱用 20ml 温水搅成流动状。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "花椒焙到能闻到麻香即可，颜色变黑就苦了。",
+      "visual_cue": "花椒一捏即碎，香气冲鼻"
+    },
+    {
+      "n": 4,
+      "text": "碗底调料：每碗放芝麻酱 20g、生抽 10ml、香醋 5ml、白糖 4g、蒜末、辣椒油 20ml、花椒粉，搅匀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "调料先放碗底，热面条落碗时能把香气激出来。",
+      "visual_cue": "碗底呈红褐色浓稠酱汁"
+    },
+    {
+      "n": 5,
+      "text": "大火烧开清水，下挂面煮 3 分钟至断生，捞起沥水后放入碗中，铺上臊子、花生碎与葱花，拌开食用。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "面煮到中间留一点白芯就捞，拌的过程中余温会继续熟化。",
+      "visual_cue": "面条挑起有弹性，咬开中心略带白点"
+    }
+  ],
+  "tips": [
+    "臊子可以一次炒 3 份量冷藏，早上煮面 3 分钟就能吃。",
+    "没有宜宾芽菜时用冬菜或榨菜碎代替，但要先尝咸度再决定盐量。",
+    "拌面时从碗底往上挑拌，让酱汁均匀裹住每根面。"
+  ],
+  "common_mistakes": [
+    "肉末一下锅就大火猛炒，水分没干就结块，臊子发黏不香。",
+    "芝麻酱直接用冷水调，结块调不开，应该用温水分次加。",
+    "面条煮好后不过水直接堆在碗里，容易坨成一团。"
+  ],
+  "substitutions": [
+    {
+      "original": "挂面",
+      "substitute": "碱水鲜面",
+      "ratio": "200g 挂面 ≈ 240g 鲜面",
+      "note": "鲜面煮 90 秒即可，口感更弹。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "1:1",
+      "note": "牛肉末需多加 5ml 植物油，避免炒干。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：不炒臊子，用现成肉臊罐头加花生碎，5 分钟出餐。",
+    "清汤担担面：碗底不加芝麻酱，改用 100ml 热高汤，做成汤面版本。"
+  ],
+  "serving_suggestion": "现拌现吃，配一碗清汤或酸菜汤解辣；一人食可作为快手午餐。",
+  "storage": "臊子冷藏 4 天、冷冻 1 个月；调好的碗底酱汁当天用完，不宜久放。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/2 量）",
+    "calories_kcal": 680,
+    "protein_g": 28,
+    "fat_g": 38,
+    "carbs_g": 58,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末必须炒至完全变色、无粉红部分，中心温度达到 71℃ 以上。",
+    "面条煮制用水要足量，避免面汤浑浊粘连。",
+    "花生碎现做现用，受潮霉变的花生可能含黄曲霉毒素，务必丢弃。"
+  ],
+  "origin_note": "担担面因早年小贩挑着扁担沿街叫卖而得名，是成都街头的经典面食，讲究面少、臊子香、调料重。",
+  "tags": [
+    "面食",
+    "川菜",
+    "快手",
+    "街头小吃"
+  ],
+  "related_ids": [
+    "mapo-doufu",
+    "yuxiang-rousi",
+    "congyou-banmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

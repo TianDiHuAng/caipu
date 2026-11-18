@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "butter-chicken",
+  "name": {
+    "zh": "印度黄油鸡",
+    "en": "Butter Chicken (Murgh Makhani)",
+    "original": "मुर्ग़ मक्खनी"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 250,
+    "cook_min": 35,
+    "total_min": 285
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "spicy",
+    "sour",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "去骨切 4 厘米块，用叉子扎孔",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 60,
+          "unit": "g",
+          "note": "提供酸味与红色",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 150,
+          "unit": "g",
+          "note": "无糖原味酸奶，腌肉用",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "磨成姜泥",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "压成蒜泥",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎，最后撒面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 70,
+          "unit": "g",
+          "note": "分两次用，起锅与收尾",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 100,
+          "unit": "ml",
+          "note": "最后调入，增加顺滑感",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 12,
+          "unit": "g",
+          "note": "可用葛拉姆马萨拉等量替换",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "选颜色红、辣度温和的",
+          "optional": true
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "略炒后使用",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色，多放会发苦",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "腌肉 5 克，调味 3 克",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡番茄的酸",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "调节酱汁稠度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "炒锅",
+    "搅拌机",
+    "烤盘",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉加酸奶、姜泥、蒜泥一半、咖喱粉一半、辣椒粉、姜黄与 5 克盐抓匀，冷藏腌 4 小时。",
+      "time_min": 240,
+      "heat": "无火",
+      "tip": "酸奶的乳酸能软化鸡肉，腌足 4 小时才入味。",
+      "visual_cue": "鸡肉表面裹满橙红色腌料，按压有黏性"
+    },
+    {
+      "n": 2,
+      "text": "烤箱预热 220°C，鸡肉平铺烤盘，烤 12 分钟后翻面再烤 6 分钟至边缘微焦。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "高温烤代替油炸，减少油烟且不易糊。",
+      "visual_cue": "鸡肉边缘出现焦斑，中心无粉色，汁水清亮"
+    },
+    {
+      "n": 3,
+      "text": "锅中放 40 克黄油，中小火炒洋葱碎 8 分钟至软甜，加孜然与剩余咖喱粉炒 1 分钟。",
+      "time_min": 10,
+      "heat": "中小火",
+      "tip": "洋葱要炒到出甜味，这是酱汁厚度的来源。",
+      "visual_cue": "洋葱呈浅褐色、体积缩小一半，闻到坚果香"
+    },
+    {
+      "n": 4,
+      "text": "加番茄膏、白糖、3 克盐与清水，小火煮 10 分钟后用搅拌机打成顺滑酱汁，倒回锅中。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "打碎后再回锅，酱汁才细腻挂勺。",
+      "visual_cue": "酱汁顺滑无颗粒，颜色深红发亮"
+    },
+    {
+      "n": 5,
+      "text": "放入烤好的鸡块煮 5 分钟，调入淡奶油与剩余黄油，撒香菜出锅。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "奶油最后放，久煮会油水分离。",
+      "visual_cue": "酱汁转为橙粉色、表面浮一层黄油光泽"
+    }
+  ],
+  "tips": [
+    "腌肉用无糖酸奶，含糖酸奶高温烤会发黑。",
+    "淡奶油关火前加入，避免长时间沸腾导致分离。",
+    "咖喱粉现炒 1 分钟能激出香气，直接下锅会发粉味。"
+  ],
+  "common_mistakes": [
+    "鸡肉腌完不沥干直接下锅，酱汁出水变稀。",
+    "淡奶油与番茄膏一起久煮，成品发灰且有酸涩感。"
+  ],
+  "substitutions": [
+    {
+      "original": "淡奶油",
+      "substitute": "椰浆",
+      "ratio": "1:1",
+      "note": "椰浆版更清爽，需多加 5 克糖。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "老豆腐或花椰菜",
+      "ratio": "1:1",
+      "note": "素食版烤制时间缩短到 15 分钟。"
+    }
+  ],
+  "variations": [
+    "德里餐厅版会加少量腰果泥使酱汁更浓稠。",
+    "家庭简化版直接用平底锅煎鸡块，省去烤箱。"
+  ],
+  "serving_suggestion": "配印度烤饼（Naan）或巴斯马蒂米饭，酱汁单独盛一碗。",
+  "storage": "冷藏 2 天，冷冻 1 个月；复热时加 30 毫升清水小火加热，不要大火滚。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200 克）",
+    "calories_kcal": 520,
+    "protein_g": 34,
+    "fat_g": 36,
+    "carbs_g": 14,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉中心温度需达 74°C 并静置 3 分钟。",
+    "含乳制品，乳糖不耐者可用椰浆替换；坚果过敏者注意餐厅版本可能含腰果。"
+  ],
+  "origin_note": "黄油鸡（Murgh Makhani）起源于 1950 年代德里一家餐厅，据传是把烤鸡剩余的坦都里鸡用番茄黄油酱回锅再烹而成，现为北印度菜的代表。",
+  "tags": [
+    "印度菜",
+    "咖喱",
+    "鸡肉",
+    "浓郁"
+  ],
+  "related_ids": [
+    "tom-yum-goong",
+    "chou-guiyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

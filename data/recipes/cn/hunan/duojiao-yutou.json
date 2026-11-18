@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "duojiao-yutou",
+  "name": {
+    "zh": "剁椒鱼头",
+    "en": "Steamed Fish Head with Chopped Chili",
+    "original": "剁椒魚頭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 18,
+    "total_min": 38
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳙鱼",
+          "name_en": "bighead carp",
+          "amount": 1000,
+          "unit": "g",
+          "note": "选 1 公斤左右的鱼头，去鳃后从下颌剖开摊平，背部相连",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "剁椒",
+          "name_en": "Hunan chopped pickled chili",
+          "amount": 120,
+          "unit": "g",
+          "note": "沥去多余盐水，略剁碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "一半切片垫底，一半切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切葱花，最后泼油用",
+          "optional": false
+        },
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 10,
+          "unit": "g",
+          "note": "略剁碎，增发酵香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "10 毫升抹鱼去腥，余下炒剁椒",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "给剁椒打底味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "和味，压住剁椒的尖咸",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒剁椒 40，泼葱 20",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "只抹鱼皮，剁椒本身有盐",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "深盘",
+    "炒锅",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鳙鱼冲净血水，刮净腹腔黑膜，用厨房纸吸干，鱼皮抹盐与 10 毫升料酒，静置 10 分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "鳃与黑膜是腥味主要来源，必须刮净。",
+      "visual_cue": "鱼皮表面干爽，不再渗血水"
+    },
+    {
+      "n": 2,
+      "text": "盘底铺姜片，鱼头肉面朝上摆好。炒锅下 40 毫升菜籽油，中火炒香大蒜与豆豉，倒入剁椒翻炒 1 分钟，加生抽、白糖与剩余料酒拌匀。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "剁椒先炒再铺，香气足且不生涩。",
+      "visual_cue": "剁椒颜色转深、油色发红，闻到明显酱香"
+    },
+    {
+      "n": 3,
+      "text": "把炒好的剁椒连油均匀铺满鱼头，蒸锅水上汽后放入，大火蒸 11 分钟。",
+      "time_min": 11,
+      "heat": "大火",
+      "tip": "上汽后再入锅，冷水起蒸鱼肉发柴。",
+      "visual_cue": "鱼眼凸出发白，鱼鳍轻拉能脱落，筷子插入最厚处无血水"
+    },
+    {
+      "n": 4,
+      "text": "取出鱼盘撒小葱，另起锅把剩余菜籽油烧至微微冒烟，均匀浇在葱花上。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "油要烧到表面起细纹，温度不够激不出葱香。",
+      "visual_cue": "葱花瞬间变翠绿并发出滋滋声"
+    },
+    {
+      "n": 5,
+      "text": "静置 1 分钟让泼上的油香渗入鱼肉，趁热上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "盘底红汤别倒掉，拌面拌饭都好。",
+      "visual_cue": "汤汁红亮油润，表面浮一层红油"
+    }
+  ],
+  "tips": [
+    "鱼头选 1 至 1.2 公斤最合适，太大不易蒸透，太小肉薄易老。",
+    "剁椒含盐，只抹鱼皮即可，重复加盐会盖住鱼鲜。",
+    "关火后焖 1 分钟再开盖，肉质更松。"
+  ],
+  "common_mistakes": [
+    "提前几小时用剁椒腌鱼，鱼身出水导致味淡肉紧。",
+    "蒸锅未上汽就放鱼，外层老、内部生。"
+  ],
+  "substitutions": [
+    {
+      "original": "剁椒",
+      "substitute": "泡椒 80 克加小米辣 20 克",
+      "ratio": "1:1 用量替换",
+      "note": "酸味更突出，辣度更高，白糖减到 1 克。"
+    },
+    {
+      "original": "鳙鱼头",
+      "substitute": "鲈鱼 600 克",
+      "ratio": "1:0.6",
+      "note": "鲈鱼易熟，蒸制缩短到 8 分钟。"
+    }
+  ],
+  "variations": [
+    "家常版换成整条鲈鱼，蒸 8 分钟即可。",
+    "盘底垫嫩豆腐，豆腐吸汤汁，适合多人分食。"
+  ],
+  "serving_suggestion": "配白米饭，先吃鱼脸颊肉，再用汤汁拌饭。",
+  "storage": "冷藏 1 天，复热需重新蒸 6 分钟至中心滚烫；不建议冷冻，鱼肉会散。",
+  "nutrition_estimate": {
+    "basis": "每份（4 人份，约 250 克鱼肉）",
+    "calories_kcal": 320,
+    "protein_g": 34,
+    "fat_g": 19,
+    "carbs_g": 4,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鱼肉中心温度需达 63°C 以上并保持 15 秒。",
+    "处理生鱼后用热水与洗潔精清洗砧板，避免与熟食交叉污染。"
+  ],
+  "origin_note": "剁椒蒸鱼头是湘菜蒸菜的代表，相传源于湘潭水乡的农家蒸菜做法，以本地腌剁椒配鳙鱼，讲究「一辣二鲜三嫩」。",
+  "tags": [
+    "湘菜",
+    "蒸菜",
+    "辣",
+    "宴客",
+    "鱼"
+  ],
+  "related_ids": [
+    "lajiao-chaorou",
+    "shuizhu-niurou",
+    "ganbian-sijidou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

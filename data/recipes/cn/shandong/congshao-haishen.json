@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "congshao-haishen",
+  "name": {
+    "zh": "葱烧海参",
+    "en": "Braised Sea Cucumber with Scallions",
+    "original": "蔥燒海參"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "海参",
+          "name_en": "sea cucumber",
+          "amount": 400,
+          "unit": "g",
+          "note": "用已泡发的刺参，剪开腹部去净内壁筋膜",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "取葱白切 6 厘米长段，葱绿留作葱油",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片，焯水与烧制各用一半",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "鸡汤或骨汤，无盐",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "主咸鲜味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "只补颜色，多放发黑",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "增加稠度与海味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "鲁菜讲究咸中带甜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "焯水与烧制各 10 毫升",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "兑 25 毫升清水调成薄芡",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "炸葱油用，可回收部分",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "漏勺",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "海参放冷水锅，加姜片与 10 毫升料酒，小火煮 3 分钟后捞出，用厨房纸吸干内壁水分。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "焯水只为去腥，水微沸即可，大滚会让海参缩硬。",
+      "visual_cue": "海参由滑腻转为略带弹性，腥味明显减弱"
+    },
+    {
+      "n": 2,
+      "text": "锅中倒菜籽油，冷油下葱绿，小火慢炸 8 分钟至葱叶焦黄后捞出，留下葱油。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "葱绿炸焦香再捞，油温过高会发苦。",
+      "visual_cue": "葱叶变深褐色、卷曲，油色转黄绿"
+    },
+    {
+      "n": 3,
+      "text": "用葱油把葱白段两面煎到金黄，盛出备用；锅留底油下姜片爆香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "葱白只煎不上色过度，焦黑会毁掉整锅味。",
+      "visual_cue": "葱白边缘金黄、中心仍挺，闻到甜香"
+    },
+    {
+      "n": 4,
+      "text": "倒入高汤、生抽、老抽、蚝油、白糖与剩余料酒烧开，放海参与葱白，小火煨 8 分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "小火慢煨让海参吸味，滚煮会让它出水变硬。",
+      "visual_cue": "汤汁减少三分之一，海参体表鼓起"
+    },
+    {
+      "n": 5,
+      "text": "转中火淋入水淀粉勾薄芡，边淋边晃锅，待汤汁裹住海参后淋 10 毫升葱油出锅。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "芡要薄，鲁菜讲「明油亮芡」，芡厚会糊嘴。",
+      "visual_cue": "汤汁能挂在海参表面并泛出油亮光泽"
+    }
+  ],
+  "tips": [
+    "泡发海参需提前 2 至 3 天冷水冷藏换水，中途不能沾油。",
+    "葱油是这道菜的灵魂，葱绿炸到焦褐再捞才够香。",
+    "海参本身无味，全靠高汤与葱油赋味，汤不能省。"
+  ],
+  "common_mistakes": [
+    "海参焯水用大火久煮，收缩发硬咬不动。",
+    "勾芡一次倒完，芡块结团、表面发糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "海参",
+      "substitute": "花胶（泡发）",
+      "ratio": "按泡发后重量 1:1",
+      "note": "花胶胶质更重，芡要更薄。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水加 5 克干贝素",
+      "ratio": "300 毫升对 5 克",
+      "note": "鲜味略薄，需多加 5 毫升蚝油。"
+    }
+  ],
+  "variations": [
+    "胶东做法加少许肉片同烧，汤汁更厚。",
+    "家常版把海参换成杏鲍菇条，做成葱烧素参。"
+  ],
+  "serving_suggestion": "装深盘，葱白垫底、海参在上，浇汁后配米饭。",
+  "storage": "冷藏 1 天，复热加少量高汤小火煨 3 分钟，不要微波。",
+  "nutrition_estimate": {
+    "basis": "每份（约 120 克海参）",
+    "calories_kcal": 230,
+    "protein_g": 22,
+    "fat_g": 13,
+    "carbs_g": 7,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "海参属高蛋白海产，泡发与存放全程冷藏，超过 3 天未用需冷冻。",
+    "甲壳类与软体动物过敏者应避免食用海参。"
+  ],
+  "origin_note": "葱烧海参是鲁菜胶东派的代表，以葱油与高汤烧制海参，讲究「葱香浓郁、参体糯软」，多见于山东沿海宴席。",
+  "tags": [
+    "鲁菜",
+    "海参",
+    "宴客",
+    "葱油"
+  ],
+  "related_ids": [
+    "jiuzhuan-dachang",
+    "tangcu-liyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

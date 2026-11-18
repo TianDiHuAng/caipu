@@ -82,3 +82,16 @@
 `docker compose up` 需 Docker 守护进程，本机仅安装 CLI（Docker Desktop 未安装，`docker info` 连接 npipe 失败）。已改用等价路径验证：本地分别启动 API（/health 200、/api/v1/meta 200、/api/v1/recipes 200）与站点（关键页面全部 200）。容器入口 `scripts/docker-entrypoint.sh` 的逻辑为「建库 → 导入 → 起 API → 等就绪 → 起站点」，与本地验证顺序一致。
 
 结论：通过（镜像构建待有 Docker 守护进程的环境复核）。
+
+
+## 阶段 6（部分完成，随内容增长迭代）
+
+| 检查项 | 命令 | 结果 |
+| --- | --- | --- |
+| 全库校验 | `node scripts/validate.mjs` | 71 道，0 错误 |
+| 自动化测试 | `npm test`（需 Node 24：`set PATH=D:\Node;%PATH%`） | 29 通过 / 0 失败 |
+| 5% 抽检 | `npm run audit` | 26 个菜系各抽 1 道，平均分 96，无 C/D 级 |
+| 数据导入 | `npx tsx scripts/import.ts` | 71 文件 / 71 菜谱 / 821 配料行 / 395 步骤 |
+| 进度 | `npm run progress` | 目标 3274，已完成 82（2.5%） |
+
+结论：工程质量门槛全部通过；内容数量仅完成 82/3274，阶段 4 仍在推进，阶段 6 的「全库巡检」需在内容达标后重跑。

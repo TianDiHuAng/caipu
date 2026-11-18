@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chaoshan-shaguozhou",
+  "name": {
+    "zh": "潮汕砂锅粥",
+    "en": "Chaoshan Claypot Seafood Congee",
+    "original": "潮汕砂鍋粥"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "chaoshan"
+  },
+  "category": [
+    "staple-congee"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 40,
+    "total_min": 70
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 200,
+          "unit": "g",
+          "note": "选短粒米，提前泡 30 分钟",
+          "optional": false
+        },
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 250,
+          "unit": "g",
+          "note": "剪去虾枪虾须，开背去虾线",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "冬菜",
+          "name_en": "Chaozhou preserved cabbage",
+          "amount": 15,
+          "unit": "g",
+          "note": "潮汕冬菜，切碎，可用榨菜末替代",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片，用少许生抽与淀粉抓匀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "鸡汤或清水，清水更清甜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "冬菜有咸味，先少放后补",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "出锅前撒，去腥提鲜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "最后淋入",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "腌瘦肉用",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌瘦肉，锁住水分",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "木勺",
+    "汤勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后泡 30 分钟，沥干后拌入 5 毫升植物油，静置 10 分钟。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "拌油能让米粒分明，粥体不糊。",
+      "visual_cue": "米粒表面泛油光，粒粒分散"
+    },
+    {
+      "n": 2,
+      "text": "砂锅倒高汤烧开，下米粒，用木勺顺时针搅动防止粘底，中火煮 25 分钟。",
+      "time_min": 27,
+      "heat": "中火",
+      "tip": "猪里脊片先用生抽与玉米淀粉抓匀，煮后才嫩滑不柴。",
+      "visual_cue": "米粒开花、粥体浓稠，勺背挂一层米浆"
+    },
+    {
+      "n": 3,
+      "text": "猪里脊片与姜丝下锅，煮 3 分钟至肉片完全变白断生。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "肉片切薄，久煮会老。",
+      "visual_cue": "肉片蜷起变白，粥面重新冒泡"
+    },
+    {
+      "n": 4,
+      "text": "放入虾与冬菜，煮 2 分钟至虾身卷曲变红、壳色转橘红。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "虾最后放，煮久肉质发硬。",
+      "visual_cue": "虾壳转橘红、虾身弯成 C 形"
+    },
+    {
+      "n": 5,
+      "text": "加盐与白胡椒调味，淋香油，撒葱花与香菜，离火静置 3 分钟后食用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "离火静置让粥体收稠，温度也适口。",
+      "visual_cue": "粥面浮一层米油，香气浓而不腥"
+    }
+  ],
+  "tips": [
+    "米泡过再煮，20 多分钟就能开花。",
+    "全程用木勺搅动，砂锅底才不会结焦。",
+    "冬菜是潮汕粥的隐形调味，别一次放太多。"
+  ],
+  "common_mistakes": [
+    "冷水下米且中途不搅，粥底结焦发苦。",
+    "虾与肉同时下锅久煮，海鲜老、肉片柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾",
+      "substitute": "蟹或蛤蜊",
+      "ratio": "按重量 1:1",
+      "note": "蟹需先斩件炒香，蛤蜊要吐沙 2 小时。"
+    },
+    {
+      "original": "冬菜",
+      "substitute": "榨菜末",
+      "ratio": "1:1",
+      "note": "榨菜更咸，盐量需减 2 克。"
+    }
+  ],
+  "variations": [
+    "加膏蟹做成潮汕蟹粥，鲜味更浓。",
+    "加干贝与蚝豉做成干货版，适合冬季。"
+  ],
+  "serving_suggestion": "砂锅直接上桌，配一小碟鱼露辣椒与油条。",
+  "storage": "冷藏 1 天，复热加 100 毫升清水小火煮开，粥会越煮越稠。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350 克粥）",
+    "calories_kcal": 400,
+    "protein_g": 26,
+    "fat_g": 8,
+    "carbs_g": 56,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾需煮到通体变红、肉质不透明；贝类需充分吐沙并煮至开壳，不开口的弃用。",
+    "甲壳类过敏者禁用虾蟹版本，贝类需煮至开壳弃闭口。"
+  ],
+  "origin_note": "潮汕砂锅粥是潮汕夜宵的代表，以生米现煮、加海鲜与冬菜调味，讲究米粒分明、汤清味鲜，常配工夫茶同食。",
+  "tags": [
+    "潮汕菜",
+    "粥",
+    "海鲜",
+    "夜宵"
+  ],
+  "related_ids": [
+    "baizhuo-xia",
+    "guoqiao-mixian",
+    "dongguo-paigu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -64,6 +64,17 @@ for (const c of taxonomy.cuisines) {
     cells.push({ category: cat, kind: 'ext', target: cfg.ext, actual: ids.length, ids });
   }
 
+  // 未被核心/扩展格覆盖的品类（如自选品类）也要统计，避免已发布菜谱「不算数」
+  const covered = new Set(cells.map((x) => x.category));
+  const leftovers = [];
+  for (const [k, ids] of actual.entries()) {
+    const [cui, cat] = k.split('|');
+    if (cui !== c.slug || covered.has(cat)) continue;
+    leftovers.push({ category: cat, kind: 'extra', target: 0, actual: ids.length, ids });
+  }
+  leftovers.sort((a, b) => b.actual - a.actual);
+  cells.push(...leftovers);
+
   const target = cells.reduce((a, x) => a + x.target, 0);
   const done = cells.reduce((a, x) => a + x.actual, 0);
   totalTarget += target;

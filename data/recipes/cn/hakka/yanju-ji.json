@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yanju-ji",
+  "name": {
+    "zh": "客家盐焗鸡",
+    "en": "Hakka Salt-Baked Chicken",
+    "original": "鹽焗雞"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 130,
+    "cook_min": 50,
+    "total_min": 180
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 900,
+          "unit": "g",
+          "note": "带骨带皮整只鸡腿，或 1 只 1.2 公斤的整鸡",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "一半切片塞入鸡腹，一半切末做蘸料",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 50,
+          "unit": "g",
+          "note": "打结塞入鸡腹",
+          "optional": false
+        },
+        {
+          "name": "沙姜",
+          "name_en": "sand ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末，蘸料灵魂，可用普通姜代替",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 20,
+          "unit": "g",
+          "note": "约鸡重的 2%，另备粗海盐铺锅焗制（不食用）",
+          "optional": false
+        },
+        {
+          "name": "盐焗粉",
+          "name_en": "salt-baked seasoning powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "含沙姜与香料，可省",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "抹鸡身去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "蘸料用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "烧热泼蘸料",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅或铸铁锅",
+    "锡纸",
+    "烘焙纸",
+    "食品温度计"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿洗净擦干，用 15 克盐、盐焗粉与料酒里外抹匀，冷藏腌 2 小时。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "擦干再抹盐，盐才能附着在皮上。",
+      "visual_cue": "鸡皮表面干爽，盐粒均匀附着"
+    },
+    {
+      "n": 2,
+      "text": "腌好的鸡冲掉表面盐分，擦干；腹内塞入姜片与葱结。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "冲洗掉表面盐，成品才不会死咸。",
+      "visual_cue": "鸡皮无可见盐粒，腹内塞满但不鼓胀"
+    },
+    {
+      "n": 3,
+      "text": "锅底铺一层锡纸，倒入剩余 30 克盐铺平，再垫一张烘焙纸，放上鸡。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盐与鸡之间必须隔纸，直接接触会焦黑发苦。",
+      "visual_cue": "烘焙纸完全覆盖盐层，鸡身不接触盐"
+    },
+    {
+      "n": 4,
+      "text": "盖盖中火烧 5 分钟，转最小火焗 35 分钟，中途不要开盖。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "全程小火，水汽在锅内循环把鸡焗熟。",
+      "visual_cue": "锅盖缝隙冒出少量白汽，闻到咸香"
+    },
+    {
+      "n": 5,
+      "text": "关火焖 10 分钟，用温度计测鸡腿最厚处达 74°C 后取出，晾 5 分钟斩件。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "不测温就开盖，容易夹生。",
+      "visual_cue": "鸡皮金黄微皱，插入处流出清亮汁水"
+    },
+    {
+      "n": 6,
+      "text": "沙姜末、姜末加 10 克盐，泼上烧至冒烟的植物油，淋香油做蘸料，配鸡上桌。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "油要烧到冒烟，泼下去才激出香气。",
+      "visual_cue": "蘸料表面浮油，闻到浓郁姜香"
+    }
+  ],
+  "tips": [
+    "盐焗的关键是全程小火与不揭盖，中途开盖会让温度骤降。",
+    "鸡皮抹盐后冷藏腌 2 小时，咸味才进得去。",
+    "没有温度计时，用竹签插鸡腿最厚处，流出清汁即熟。"
+  ],
+  "common_mistakes": [
+    "盐层不垫纸直接放鸡，鸡皮焦黑带苦味。",
+    "中途开盖查看，锅内蒸汽流失导致鸡肉发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "沙姜",
+      "substitute": "普通姜加 1 克五香粉",
+      "ratio": "1:1",
+      "note": "风味接近，但少了沙姜特有的清辛。"
+    },
+    {
+      "original": "鸡腿",
+      "substitute": "鸡翅或半只鸡",
+      "ratio": "按重量 1:1",
+      "note": "鸡翅焗 20 分钟即可，半只鸡需 45 分钟。"
+    }
+  ],
+  "variations": [
+    "电饭锅版：锅底铺盐垫纸，按煮饭键两次即可。",
+    "盐焗鸡骨架可加白菜煮汤，不浪费。"
+  ],
+  "serving_suggestion": "斩件摆盘，配沙姜蘸料与一小碟米酒。",
+  "storage": "冷藏 2 天，冷藏后鸡皮会变韧，建议撕丝拌香油吃。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200 克带皮带骨）",
+    "calories_kcal": 420,
+    "protein_g": 34,
+    "fat_g": 30,
+    "carbs_g": 2,
+    "sodium_mg": 1250,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉中心温度必须达 74°C，尤其腿骨周围。",
+    "粗盐可重复使用 2 至 3 次，吸潮结块后需更换。"
+  ],
+  "origin_note": "盐焗鸡是客家传统名菜，源于广东东江一带客家人用盐保存食物、以盐堆焗熟鸡的做法，讲究皮爽肉滑、咸香入骨。",
+  "tags": [
+    "客家菜",
+    "盐焗",
+    "鸡肉",
+    "宴客"
+  ],
+  "related_ids": [
+    "baiqie-ji",
+    "jiang-zhuang-nai",
+    "chizhi-paigu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

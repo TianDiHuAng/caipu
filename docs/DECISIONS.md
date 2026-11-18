@@ -87,3 +87,26 @@
 
 - 现象：Node 24 下 `ERR_DLOPEN_FAILED`，原生模块未针对该 ABI 编译。
 - 决策：`npm rebuild better-sqlite3` 作为标准修复步骤写入 README / DEPLOY；容器固定 `node:20-bookworm-slim` 并在构建期安装 python3/make/g++ 保证可从源码编译。
+
+## D-20261118-03 运行脚本固定使用 Node 24（D:\Node\node.exe）
+- 背景：Marvis 宿主自带 Node 22.12.0（NODE_MODULE_VERSION 127），而 better-sqlite3 预编译二进制按 Node 24（137）安装，宿主 node 直接运行导入脚本会报 ERR_DLOPEN_FAILED。
+- 决策：脚本与测试（validate/import/test）统一使用 D:\Node\node.exe（v24.13.0）；README 中写明 engines: node >= 20，并给出 Windows 下的 PATH 前置写法。
+- 理由：改 node 侧比每次 rebuild better-sqlite3 更稳定，也避免 CI 与本地不一致；Docker 镜像统一用 node:22-slim 并在镜像内安装依赖（镜像内版本一致，不受宿主影响）。
+
+## 2026-11-18 本轮决策
+
+1. **进度统计纳入残余品类**
+   - 决策：`scripts/gen-progress.mjs` 在 core/ext 格之外，追加 `kind: "extra"` 的格子，target=0、actual=实际数。
+   - 理由：此前只有 core+ext 品类的菜谱可计入进度，导致 `data/recipes` 有 66 道而 progress 只记 58 道，交接时会误判欠产。
+
+2. **同菜去重**
+   - 决策：删除早期样板 `cn/shandong/congsao-haishen.json`，保留信息更完整的 `congshao-haishen.json`，并把全库 4 处引用改指新 id。
+   - 理由：同一道菜两个 id 会让搜索与菜系列表出现重复条目，违反「唯一 id + 无重复内容」质量门槛。
+
+3. **食材词典禁止泛称词条**
+   - 决策：`瘦肉`、`鸡` 等泛称不进词典；统一使用 `猪里脊`、`鸡腿肉` 等具体部位名。
+   - 理由：词典词条会参与「步骤提到的食材必须在配料表」检查，泛称词条会让大量既有菜谱的步骤文本触发误报，破坏全库校验稳定性。
+
+4. **交接文件**
+   - 决策：新增 `tasks/SESSION_STATE.md`，把单批生产套路、校验红线、已完成/未完成阶段、下批推荐格子写死在仓库里。
+   - 理由：满足「状态必须存在文件里、不依赖对话记忆」的要求，新会话可直接按文件续跑。

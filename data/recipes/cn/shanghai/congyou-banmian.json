@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "congyou-banmian",
+  "name": {
+    "zh": "葱油拌面",
+    "en": "Shanghai Scallion Oil Noodles",
+    "original": "蔥油拌麵"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 20,
+    "total_min": 30
+  },
+  "servings": 2,
+  "flavor": [
+    "fragrant",
+    "salty",
+    "umami",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "用细碱水面或鲜切面，不要用挂面",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 150,
+          "unit": "g",
+          "note": "洗净彻底晾干，切 5 厘米长段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 150,
+          "unit": "ml",
+          "note": "玉米油或葵花籽油，气味清淡",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 20,
+          "unit": "g",
+          "note": "增加醇厚度，可用等量植物油替代",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 45,
+          "unit": "ml",
+          "note": "主咸鲜味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上酱色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "上海葱油讲究咸中带甜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "煮面水用，不计入调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "煮面锅",
+    "漏勺",
+    "密封罐"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小葱洗净后摊开彻底晾干，切成 5 厘米长段，葱白与葱绿分开摆放。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "带水下锅会剧烈爆油，必须晾到表面无明水。",
+      "visual_cue": "葱段表面无水滴，摸起来干爽"
+    },
+    {
+      "n": 2,
+      "text": "冷锅倒入植物油与猪油，下葱白，最小火慢炸 10 分钟至葱白微微发黄。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "冷油下葱，香气才会慢慢渗进油里。",
+      "visual_cue": "葱白由硬变软、颜色转浅黄，油面出现细密气泡"
+    },
+    {
+      "n": 3,
+      "text": "下葱绿继续小火炸 8 分钟，炸到葱段干瘪焦褐后捞出，留下葱油。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "葱绿比葱白易焦，后放才不会发苦。",
+      "visual_cue": "葱段卷曲、颜色深褐、捏起来干脆"
+    },
+    {
+      "n": 4,
+      "text": "葱油锅中加生抽、老抽与白糖，小火熬 2 分钟至糖完全化开、微微起泡，关火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "糖化开即可，久熬会发苦发稠。",
+      "visual_cue": "酱汁呈深琥珀色，能挂住勺背"
+    },
+    {
+      "n": 5,
+      "text": "另起锅烧水，水中加盐，下面条煮 2 至 3 分钟至断生，捞出沥干后趁热拌入葱油酱汁。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "面要沥得干，水多会把酱汁冲淡。",
+      "visual_cue": "每根面条油亮裹色，盆底只有少量余汁"
+    },
+    {
+      "n": 6,
+      "text": "装碗后撒上炸好的葱段，用筷子从底部挑起拌匀，立刻食用。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "葱段最后放，保持干脆口感。",
+      "visual_cue": "葱段铺在面上，闻到明显葱油香"
+    }
+  ],
+  "tips": [
+    "葱油一次可多熬，冷却后装密封罐冷藏保存两周。",
+    "面条选细碱水面，挂面口感偏软，容易坨。",
+    "酱汁只用小火熬，大火会让糖焦化发苦。"
+  ],
+  "common_mistakes": [
+    "葱段带水下油锅，油花四溅并带有生水味。",
+    "面条煮好后不沥干直接拌，酱汁被稀释变淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪油",
+      "substitute": "鸡油或植物油",
+      "ratio": "1:1",
+      "note": "缺猪油时香气略薄，可多加 5 克白糖补味。"
+    },
+    {
+      "original": "面条",
+      "substitute": "乌冬面或细拉面",
+      "ratio": "1:1",
+      "note": "乌冬更粗，煮制时间延长 2 分钟。"
+    }
+  ],
+  "variations": [
+    "加 20 克开洋（虾米）同炸，做成开洋葱油拌面。",
+    "加一勺辣油与花生碎，做成川式葱油面。"
+  ],
+  "serving_suggestion": "趁热拌开吃，配一碗紫菜蛋皮汤解腻。",
+  "storage": "葱油酱汁冷藏可存 2 周，冷藏后油脂凝固，取用时加热化开。",
+  "nutrition_estimate": {
+    "basis": "每份（约 125 克面条加 25 毫升葱油）",
+    "calories_kcal": 620,
+    "protein_g": 13,
+    "fat_g": 36,
+    "carbs_g": 62,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "炸葱时锅边不要离人，油温过高需立即关火。",
+    "生葱需用流水冲洗干净，去除泥沙。"
+  ],
+  "origin_note": "葱油拌面是上海弄堂里的经典早餐，以葱油、酱油与糖拌细面，讲究「葱香浓郁、酱汁挂面」，是沪上人家最朴素的滋味。",
+  "tags": [
+    "沪菜",
+    "面食",
+    "快手",
+    "早餐"
+  ],
+  "related_ids": [
+    "yandu-xian",
+    "sikai-kaofu",
+    "zhajiangmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

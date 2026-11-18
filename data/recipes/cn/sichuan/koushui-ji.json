@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "koushui-ji",
+  "name": {
+    "zh": "口水鸡",
+    "en": "Mouthwatering Chicken"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "umami",
+    "fragrant",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "整只去骨鸡腿，带皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝垫底",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 40,
+          "unit": "g",
+          "note": "小火炒香后压成粗碎",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "熟芝麻",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段，不吃可省",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半煮鸡用一半剁末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁成蒜末",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "煮鸡去腥用",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煮鸡用",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "川式红油，带辣椒面",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "增加清爽酸味",
+          "optional": false
+        },
+        {
+          "name": "芝麻酱",
+          "name_en": "sesame paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "用温开水调开",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "煮鸡与调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "煮鸡用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "温度计",
+    "冰水盆",
+    "斩刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉洗净，用盐 2g 与料酒抹匀，冷水下锅，加姜片与花椒，大火烧开后转小火保持水面微沸。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "大火烧开后立刻转小火，冷水下锅能让血水随温度上升慢慢析出，比热水下锅更干净。",
+      "visual_cue": "水面浮起灰白浮沫时撇净"
+    },
+    {
+      "n": 2,
+      "text": "小火浸煮 15 分钟，用温度计插入鸡腿最厚处确认中心温度达到 74℃ 并保持 15 秒以上。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "全程不要大滚，剧烈沸腾会让鸡皮破裂、肉质发柴。",
+      "visual_cue": "竹签插入无血水渗出，中心温度 74℃ 以上"
+    },
+    {
+      "n": 3,
+      "text": "捞出鸡腿立刻放入冰水中浸泡 5 分钟，让鸡皮收紧变脆，冷却后斩成 1.5cm 宽的条。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冰水要加足量冰块，水温低于 10℃ 效果最好。",
+      "visual_cue": "鸡皮发亮紧实，按下去有回弹"
+    },
+    {
+      "n": 4,
+      "text": "黄瓜丝铺在盘底，鸡条皮朝上排好；芝麻酱用 30ml 温水调稀，与生抽、香醋、白糖、蒜末、姜末、辣椒油、余下的盐调成料汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "料汁先尝咸淡再淋，辣椒油最后加才能保持红亮。",
+      "visual_cue": "料汁呈红亮油润的浓稠状，能挂住勺背"
+    },
+    {
+      "n": 5,
+      "text": "料汁浇在鸡条上，撒花生碎、熟芝麻、葱花与香菜段，静置 5 分钟入味后上桌。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "静置一会儿更入味，但别放太久以免黄瓜出水稀释料汁。",
+      "visual_cue": "盘底渗出红油与料汁的混合汁水"
+    }
+  ],
+  "tips": [
+    "鸡肉必须煮到中心 74℃ 以上再冰镇，全熟与嫩滑并不矛盾，关键是全程小火浸煮。",
+    "红油用量按吃辣能力调整，减少辣椒油时同步补 5ml 生抽以免口味变淡。",
+    "隔夜冷藏后鸡皮会变硬，复热只需在温水中浸泡 2 分钟再冰镇一次即可恢复。"
+  ],
+  "common_mistakes": [
+    "把鸡腿大火滚煮 20 分钟以上，肉纤维收缩过度，切片时碎裂、口感发柴。",
+    "省略冰镇步骤，鸡皮湿软不脆，料汁挂不住。",
+    "料汁一次性全部倒入后久放，黄瓜出水把味道冲淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "三黄鸡整鸡",
+      "ratio": "600g 鸡腿肉 ≈ 半只 700g 整鸡",
+      "note": "整鸡煮的时间要延长到 22 分钟，务必用温度计确认最厚处熟透。"
+    },
+    {
+      "original": "芝麻酱",
+      "substitute": "花生酱",
+      "ratio": "1:1",
+      "note": "花生酱更甜，白糖要减到 5g。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用现成川式红油辣子加一勺花椒粉，省去自己炼红油。",
+    "乐山风味：料汁里加 10ml 藤椒油，麻味更清亮。"
+  ],
+  "serving_suggestion": "作为凉菜上桌，配米饭或作为宴客冷盘的第一道；夏天可提前冷藏 30 分钟再上。",
+  "storage": "冷藏保存 2 天，料汁与鸡肉分开存放，食用前再淋汁；不建议冷冻，鸡皮解冻后会出水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 420,
+    "protein_g": 38,
+    "fat_g": 26,
+    "carbs_g": 9,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉必须彻底加热至中心温度 74℃ 并维持 15 秒，不要以肉质发白作为唯一判断依据。",
+    "冰镇用的冰水与冰块须为饮用水级别，避免交叉污染。",
+    "生熟砧板与刀具分开，斩鸡后的刀面要用热水冲洗再处理黄瓜。"
+  ],
+  "origin_note": "相传起源于四川乐山一带的街头小摊，因红油香气浓郁、令人闻之唾液分泌而得名，属凉菜类的经典川味。",
+  "tags": [
+    "凉菜",
+    "川菜",
+    "宴客",
+    "下饭"
+  ],
+  "related_ids": [
+    "fuqi-feipian",
+    "baiqie-ji",
+    "lazi-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chou-guiyu",
+  "name": {
+    "zh": "臭鳜鱼",
+    "en": "Fermented Mandarin Fish (Stinky Mandarin Fish)",
+    "original": "臭鱖魚"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳜鱼",
+          "name_en": "mandarin fish",
+          "amount": 800,
+          "unit": "g",
+          "note": "已腌渍发酵好的臭鳜鱼，冲净表面盐分",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 80,
+          "unit": "g",
+          "note": "切薄片，增香提鲜",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片后焯水 2 分钟去涩",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切圈，按口味增减",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎鱼后沿锅边淋入",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "主咸鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "补色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "和味，压住发酵的尖锐感",
+          "optional": false
+        },
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 15,
+          "unit": "g",
+          "note": "炒出红油增香",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "清水也可，高汤更厚",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "煎鱼与炒料",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "锅铲",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "臭鳜鱼冲洗净表面盐分与黏液，用厨房纸吸干，两面各划两刀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洗到闻起来只有淡淡发酵香，不再刺鼻。",
+      "visual_cue": "鱼身干爽，鱼皮不再黏手"
+    },
+    {
+      "n": 2,
+      "text": "菜籽油烧热滑锅，鱼下锅中小火煎 6 分钟至两面金黄，盛出。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "热锅热油再下鱼，鱼皮才不破。",
+      "visual_cue": "鱼皮金黄起脆，晃动锅时鱼能整体滑动"
+    },
+    {
+      "n": 3,
+      "text": "锅留底油炒香五花肉片，下姜蒜、小米辣与豆瓣酱炒出红油，再下笋片翻炒。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "五花肉煸出油，烧出的鱼更香。",
+      "visual_cue": "豆瓣酱颜色转暗红，油色发红"
+    },
+    {
+      "n": 4,
+      "text": "放回鳜鱼，沿锅边淋料酒，加生抽、老抽、白糖与高汤，小火炖 12 分钟，中途舀汁浇淋鱼身。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "不要翻面，用浇汁代替，鱼肉才不散。",
+      "visual_cue": "汤汁收到一半，鱼肉纹理清晰鼓起"
+    },
+    {
+      "n": 5,
+      "text": "转大火收汁至浓稠挂勺，撒葱段后连锅端上桌。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "收汁时不断舀汁浇淋，表面才亮。",
+      "visual_cue": "汤汁挂勺，鱼身油亮红润"
+    }
+  ],
+  "tips": [
+    "腌好的臭鳜鱼本身有咸味，先洗后调味，避免过咸。",
+    "用砂锅小火炖，受热均匀不易碎。",
+    "竹笋焯水后能吸收汤汁，比直接下锅更入味。"
+  ],
+  "common_mistakes": [
+    "鱼不擦干就下锅，热油飞溅且鱼皮粘锅。",
+    "中途翻面导致鱼身断裂，卖相全毁。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳜鱼",
+      "substitute": "鲈鱼",
+      "ratio": "1:1",
+      "note": "鲈鱼刺少，但肉质偏软，炖制缩短到 8 分钟。"
+    },
+    {
+      "original": "豆瓣酱",
+      "substitute": "剁椒",
+      "ratio": "1:1.2",
+      "note": "风味转为鲜辣，白糖减半。"
+    }
+  ],
+  "variations": [
+    "徽州老做法全程用猪油，香气更浓。",
+    "家庭版先用烤箱 200°C 烤 8 分钟定型，再入锅烧，减少破皮风险。"
+  ],
+  "serving_suggestion": "连锅上桌，配米饭，汤汁拌饭风味最佳。",
+  "storage": "冷藏 2 天，复热加少量高汤小火煨 5 分钟。未烹调的腌鱼需冷藏并在 5 天内食用。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180 克鱼肉）",
+    "calories_kcal": 350,
+    "protein_g": 28,
+    "fat_g": 23,
+    "carbs_g": 7,
+    "sodium_mg": 1250,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腌渍发酵鱼须全程 4°C 冷藏，表面发黏发绿或出现氨味过重即丢弃。",
+    "鱼肉中心温度需达 63°C 以上，孕妇与免疫力低下者慎食发酵水产。"
+  ],
+  "origin_note": "臭鳜鱼是徽州传统名菜，相传由新安江鱼贩用木桶盐腌运输、途中自然发酵而成，闻着微臭、吃着鲜香，是徽菜的代表味型之一。",
+  "tags": [
+    "徽菜",
+    "发酵",
+    "鱼",
+    "重口味"
+  ],
+  "related_ids": [
+    "maoshi-hongshaorou",
+    "duojiao-yutou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

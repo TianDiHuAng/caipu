@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:38:33.361Z",
+  "generatedAt": "2026-11-18T14:28:42.931Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 424,
+    "cells": 443,
     "target": 3274,
-    "actual": 51,
-    "coverage": 0.015577275503970677
+    "actual": 82,
+    "coverage": 0.02504581551618815
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 9,
+        "actual": 17,
         "cells": [
           {
             "category": "main-meat",
@@ -41,9 +41,10 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "gongbao-jiding",
+              "koushui-ji",
               "lazi-ji"
             ]
           },
@@ -92,8 +93,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "dandan-mian"
+            ]
           },
           {
             "category": "staple-rice",
@@ -101,6 +104,52 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "chuanbei-liangfen",
+              "lazi-ji"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "chuanbei-liangfen"
+            ]
+          },
+          {
+            "category": "banquet",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "gongbao-jiding"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "suancai-yu"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "suancai-yu"
+            ]
           }
         ]
       },
@@ -118,7 +167,7 @@
             "target": 15,
             "actual": 3,
             "ids": [
-              "congsao-haishen",
+              "congshao-haishen",
               "tangcu-liyu",
               "youmen-daxia"
             ]
@@ -189,7 +238,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 6,
+        "actual": 10,
         "cells": [
           {
             "category": "main-seafood",
@@ -205,9 +254,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "chizhi-paigu"
+              "chizhi-paigu",
+              "mizhi-chashao"
             ]
           },
           {
@@ -232,8 +282,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "baozaifan"
+            ]
           },
           {
             "category": "dessert",
@@ -269,8 +321,19 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "ganchao-niuhe"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "baizhuo-xia"
+            ]
           }
         ]
       },
@@ -280,7 +343,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-seafood",
@@ -350,6 +413,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "yanshui-ya"
+            ]
           }
         ]
       },
@@ -359,7 +431,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-seafood",
@@ -384,8 +456,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "songsao-yugen"
+            ]
           },
           {
             "category": "staple-rice",
@@ -512,18 +586,19 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 5,
+        "actual": 7,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "lajiao-chaorou",
               "lawi-hezheng",
               "maoshi-hongshaorou",
-              "nongjia-xiaochaorou"
+              "nongjia-xiaochaorou",
+              "xiaochao-huangniurou"
             ]
           },
           {
@@ -583,6 +658,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "duojiao-yutou"
+            ]
           }
         ]
       },
@@ -592,7 +676,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "main-meat",
@@ -658,6 +742,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "chou-guiyu"
+            ]
           }
         ]
       },
@@ -730,7 +823,7 @@
         "en": "Shanghai",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
@@ -784,6 +877,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "congyou-banmian"
+            ]
           }
         ]
       },
@@ -917,7 +1019,7 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-vegetable",
@@ -967,6 +1069,24 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "guoqiao-mixian"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "suan-tang-yu"
+            ]
           }
         ]
       },
@@ -976,7 +1096,7 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-meat",
@@ -1026,6 +1146,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "yanju-ji"
+            ]
           }
         ]
       },
@@ -1035,7 +1164,7 @@
         "en": "Chaoshan",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-seafood",
@@ -1069,8 +1198,10 @@
             "category": "staple-congee",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "chaoshan-shaguozhou"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -1212,7 +1343,7 @@
         "en": "Xinjiang",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "main-meat",
@@ -1264,6 +1395,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "xinjiang-dapanji"
+            ]
           }
         ]
       },
@@ -1424,7 +1564,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "main-seafood",
@@ -1439,8 +1579,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "oyakodon"
+            ]
           },
           {
             "category": "soup",
@@ -1490,6 +1632,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "teriyaki-chicken"
+            ]
           }
         ]
       },
@@ -1499,7 +1650,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
@@ -1567,6 +1718,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "hotpot-bbq",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "kimchi-jjigae"
+            ]
           }
         ]
       },
@@ -1576,7 +1736,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-poultry",
@@ -1598,8 +1758,10 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "som-tam"
+            ]
           },
           {
             "category": "main-seafood",
@@ -2175,7 +2337,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2188,8 +2350,10 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "butter-chicken"
+            ]
           },
           {
             "category": "staple-bread",
@@ -3017,7 +3181,7 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-poultry",
@@ -3067,6 +3231,24 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "bbq-pork-ribs"
+            ]
+          },
+          {
+            "category": "hotpot-bbq",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "bbq-pork-ribs"
+            ]
           }
         ]
       },
@@ -3180,7 +3362,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "snack",
@@ -3246,6 +3428,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "tacos-de-carne"
+            ]
           }
         ]
       },

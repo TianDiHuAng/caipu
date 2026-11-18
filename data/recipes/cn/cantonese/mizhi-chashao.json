@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mizhi-chashao",
+  "name": {
+    "zh": "蜜汁叉烧",
+    "en": "Honey Char Siu",
+    "original": "蜜汁叉燒"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 250,
+    "cook_min": 40,
+    "total_min": 290
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "salty",
+    "umami",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肩肉",
+          "name_en": "pork shoulder",
+          "amount": 800,
+          "unit": "g",
+          "note": "选带少量肥的肩肉（梅花肉），切 3 厘米厚长条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "主咸味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色，多放发黑",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "增鲜与黏度",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 50,
+          "unit": "g",
+          "note": "兑水刷面，分两次用",
+          "optional": false
+        },
+        {
+          "name": "腐乳",
+          "name_en": "fermented tofu",
+          "amount": 15,
+          "unit": "g",
+          "note": "压碎，增发酵底味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "帮助焦糖化",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "少量即可，多了发苦",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 30,
+          "unit": "ml",
+          "note": "与蜂蜜调成蜜汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤架",
+    "接油盘",
+    "食品袋",
+    "叉子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肩肉切长条，用叉子在表面扎孔。生抽、老抽、蚝油、腐乳、白糖、五香粉、料酒、大蒜、姜混合成腌料，与肉一起装袋冷藏腌 4 小时。",
+      "time_min": 240,
+      "heat": "无火",
+      "tip": "腌料先搅到糖化开再放肉，味道才均匀。",
+      "visual_cue": "肉条颜色变深，按压能感到腌料被吸收"
+    },
+    {
+      "n": 2,
+      "text": "烤箱预热 200°C，烤架下方垫接油盘，肉条沥干腌料后摆在烤架上。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌料要沥干，否则表面易焦黑。",
+      "visual_cue": "烤箱温度计显示 200°C，肉条表面无酱汁滴落"
+    },
+    {
+      "n": 3,
+      "text": "200°C 烤 20 分钟后翻面，倒掉接油盘的油，再烤 10 分钟。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "翻面时清盘，减少油烟与焦味。",
+      "visual_cue": "肉条边缘焦糖化，表面呈红褐色"
+    },
+    {
+      "n": 4,
+      "text": "蜂蜜加清水调成蜜汁，取出肉条刷一层，200°C 回炉烤 5 分钟上色。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蜜汁最后刷，早刷会烤糊发苦。",
+      "visual_cue": "表面油亮挂汁，边缘出现轻微焦斑"
+    },
+    {
+      "n": 5,
+      "text": "出炉静置 10 分钟后切片，淋剩余蜜汁。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置让肉汁回流，切时不流汁。",
+      "visual_cue": "中心略带粉色但肉质紧实，切面湿润"
+    }
+  ],
+  "tips": [
+    "肩肉肥瘦相间，比里脊更适合叉烧。",
+    "蜂蜜必须兑水，纯蜜高温会碳化发苦。",
+    "腌足 4 小时以上，隔夜冷藏会更入味。"
+  ],
+  "common_mistakes": [
+    "用纯蜂蜜从头刷到尾，成品发黑带苦味。",
+    "切片太早，肉汁流失，口感会明显发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "蜂蜜",
+      "substitute": "麦芽糖 40 克加清水 20 毫升",
+      "ratio": "1:0.8",
+      "note": "麦芽糖上色更亮，需隔水化开。"
+    },
+    {
+      "original": "猪肩肉",
+      "substitute": "五花肉",
+      "ratio": "1:1",
+      "note": "更肥润，烤制时间延长 5 分钟。"
+    }
+  ],
+  "variations": [
+    "港式烧味版用炭火吊烧，表皮更脆。",
+    "空气炸锅版 190°C 烤 15 分钟后刷蜜再烤 3 分钟。"
+  ],
+  "serving_suggestion": "切片配白饭与焯青菜，淋盘底蜜汁。",
+  "storage": "冷藏 3 天，冷冻 1 个月；复热用 180°C 烤 5 分钟或平底锅小火煎。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150 克熟肉）",
+    "calories_kcal": 420,
+    "protein_g": 30,
+    "fat_g": 26,
+    "carbs_g": 14,
+    "sodium_mg": 1150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉中心温度需达 71°C 并静置 3 分钟。",
+    "烤制时接油盘不可省，避免油脂滴落引发明火。"
+  ],
+  "origin_note": "叉烧是广式烧味的代表，因传统以长叉串肉在明炉上烧制得名；蜜汁版本以蜂蜜提亮上色，是烧腊铺与茶餐厅的常备。",
+  "tags": [
+    "粤菜",
+    "烧味",
+    "烤箱",
+    "下饭"
+  ],
+  "related_ids": [
+    "chizhi-paigu",
+    "baiqie-ji",
+    "guobao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

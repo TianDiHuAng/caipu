@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "guoqiao-mixian",
+  "name": {
+    "zh": "过桥米线",
+    "en": "Crossing-the-Bridge Rice Noodles",
+    "original": "過橋米線"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "yunguai"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 40,
+    "total_min": 70
+  },
+  "servings": 2,
+  "flavor": [
+    "umami",
+    "salty",
+    "rich",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "云南干米线，提前冷水泡 4 小时至软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 120,
+          "unit": "g",
+          "note": "逆纹切极薄的片，越薄越好",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 100,
+          "unit": "g",
+          "note": "切薄片，用刀背轻拍松",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "取生蛋黄，上桌后打入汤中",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 40,
+          "unit": "g",
+          "note": "切薄片，提鲜",
+          "optional": false
+        },
+        {
+          "name": "韭菜",
+          "name_en": "Chinese chives",
+          "amount": 60,
+          "unit": "g",
+          "note": "切 4 厘米段",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 80,
+          "unit": "g",
+          "note": "掐去根须，洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "豆腐皮",
+          "name_en": "tofu skin",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝，用温水泡软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "鸡骨与猪骨熬 3 小时，保持滚烫上桌",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "汤底调味，按高汤咸度调整",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "上桌前撒，去腥增香",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "最后淋入增香",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "汤锅",
+    "薄片刀",
+    "大汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡骨与猪骨冷水下锅焯 5 分钟去血沫，冲洗后加 3 升清水大火烧开，转小火熬 3 小时。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "骨汤可提前一天熬好，用时加热至滚沸即可。",
+      "visual_cue": "汤色奶白，表面浮一层薄油"
+    },
+    {
+      "n": 2,
+      "text": "干米线用冷水泡 4 小时至能弯曲不断，再入沸水煮 3 分钟后捞出过凉水。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "泡够再煮，米线才不夹生。",
+      "visual_cue": "米线呈半透明，掐断无白芯"
+    },
+    {
+      "n": 3,
+      "text": "鸡胸肉、猪里脊、火腿分别切薄片摆盘，厚度不超过 1 毫米。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肉片越薄越易被汤烫熟，厚度不超过 1 毫米。",
+      "visual_cue": "肉片透光，能看见指影"
+    },
+    {
+      "n": 4,
+      "text": "高汤加盐烧到滚沸，倒入预热过的砂锅，表面淋 10 毫升香油封住热气。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "砂锅先烫热，汤温才够高，能把生肉片烫熟。",
+      "visual_cue": "汤面油层完整，蒸汽直冲，触锅壁烫手"
+    },
+    {
+      "n": 5,
+      "text": "先下生肉片，用筷子拨散烫 30 秒，再依次下豆腐皮、豆芽、韭菜与米线。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "按由生到熟的顺序下，先肉后菜。",
+      "visual_cue": "肉片由粉转白、卷边，汤面重新冒热气"
+    },
+    {
+      "n": 6,
+      "text": "打入生蛋黄搅散，撒白胡椒与葱花，静置 1 分钟后食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "蛋黄靠汤温凝固，不要搅拌过猛。",
+      "visual_cue": "蛋黄呈丝状悬浮，汤色微黄"
+    }
+  ],
+  "tips": [
+    "汤必须滚沸入锅，否则生肉片烫不熟、口感发腥。",
+    "肉片冷冻 20 分钟再切，能切得更薄更均匀。",
+    "米线单独煮好过凉，避免淀粉让汤变浑。"
+  ],
+  "common_mistakes": [
+    "汤温不够就下生肉，肉片半生带血水。",
+    "把米线直接下到汤里同煮，汤变浑浊失去清亮。"
+  ],
+  "substitutions": [
+    {
+      "original": "米粉",
+      "substitute": "鲜米线或细挂面",
+      "ratio": "1:1",
+      "note": "鲜米线不用泡发，直接煮 2 分钟。"
+    },
+    {
+      "original": "鸡胸肉",
+      "substitute": "鱼片或虾仁",
+      "ratio": "1:1",
+      "note": "鱼片更易熟，下锅烫 20 秒即可。"
+    }
+  ],
+  "variations": [
+    "蒙自传统版本加菊花瓣与豌豆尖，风味清雅。",
+    "家庭简化版把所有配菜提前焯熟直接放入，安全性更高。"
+  ],
+  "serving_suggestion": "一人一砂锅，先喝一口汤，再捞米线与配菜。",
+  "storage": "汤底冷藏 2 天，米线与配菜现做现吃，不建议隔夜。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150 克米线加 400 毫升汤）",
+    "calories_kcal": 560,
+    "protein_g": 38,
+    "fat_g": 16,
+    "carbs_g": 66,
+    "sodium_mg": 1320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "生肉片靠汤温烫熟，汤温需接近 100°C；孕妇、幼儿与免疫力低下者建议把配料彻底煮熟再吃。",
+    "生鸡蛋仅用新鲜蛋，蛋壳破损者不用。",
+    "生鸡蛋须选用新鲜蛋，打蛋前清洗蛋壳，避免沙门氏菌污染。",
+    "汤底必须彻底加热至滚沸，肉片与蛋液经高温烫熟后方可食用。"
+  ],
+  "origin_note": "过桥米线源自云南蒙自，相传清代一位书生在湖心亭读书，妻子送去的鸡汤表面覆油保温，肉片入汤即熟，因送饭要过一座桥而得名。",
+  "tags": [
+    "云贵菜",
+    "米线",
+    "汤",
+    "云南"
+  ],
+  "related_ids": [
+    "suan-tang-yu",
+    "chaoshan-shaguozhou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

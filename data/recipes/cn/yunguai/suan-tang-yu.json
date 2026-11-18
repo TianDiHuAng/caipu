@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "suan-tang-yu",
+  "name": {
+    "zh": "贵州酸汤鱼",
+    "en": "Guizhou Sour Soup Fish",
+    "original": "酸湯魚"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "yunguai"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 1000,
+          "unit": "g",
+          "note": "去鳞去内脏，斩成 3 厘米厚段",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "选熟透的红番茄，一半打泥一半切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 15,
+          "unit": "g",
+          "note": "切圈，按口味增减",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段，最后撒面",
+          "optional": false
+        },
+        {
+          "name": "黄豆芽",
+          "name_en": "soybean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "垫锅底，吸收汤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "补酸味，分两次放",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "腌鱼去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "3 克腌鱼，5 克调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡番茄与醋的酸",
+          "optional": false
+        },
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒出红油，代替糟辣椒",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "清水也可，高汤更厚",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒料用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "搅拌机",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼段用盐与料酒抓匀腌 15 分钟，冲净血水后沥干。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "腌后冲洗，能去掉大部分土腥味。",
+      "visual_cue": "鱼段表面发白，血水不再渗出"
+    },
+    {
+      "n": 2,
+      "text": "番茄一半切块、一半打成泥；炒锅下植物油，炒香姜蒜与豆瓣酱至出红油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "豆瓣酱要炒出红油，酸汤才有底色。",
+      "visual_cue": "油色转红，闻到酱香与辣香"
+    },
+    {
+      "n": 3,
+      "text": "下番茄块炒到出汁软烂，再倒番茄泥、高汤与一半米醋，小火煮 15 分钟成酸汤。",
+      "time_min": 17,
+      "heat": "小火",
+      "tip": "番茄炒出沙，汤才浓稠挂口。",
+      "visual_cue": "汤汁浓稠呈橘红色，勺背挂一层薄浆"
+    },
+    {
+      "n": 4,
+      "text": "砂锅底铺黄豆芽，倒入酸汤烧开，放入鱼段小火煮 8 分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "鱼段下锅后不要翻动，用勺舀汤浇淋。",
+      "visual_cue": "鱼肉由透明转白，鱼皮卷起、筷尖能轻插入"
+    },
+    {
+      "n": 5,
+      "text": "加盐、白糖与剩余米醋调味，撒小米辣、葱段与香菜，连锅上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "醋分两次放，起锅前的酸香最明亮。",
+      "visual_cue": "汤面浮红油，酸香扑鼻，鱼肉完整不散"
+    }
+  ],
+  "tips": [
+    "番茄要选沙瓤熟透的，酸汤的自然酸味全靠它。",
+    "鱼段煮制时间控制在 8 分钟，久了肉散。",
+    "黄豆芽垫在锅底能防止鱼皮粘锅，还能吸收酸汤味道。"
+  ],
+  "common_mistakes": [
+    "醋一次性全放，煮久后酸味挥发只剩咸味。",
+    "鱼段下锅后频繁翻动，鱼肉碎散。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲈鱼或黑鱼",
+      "ratio": "1:1",
+      "note": "黑鱼肉紧不易散，煮制时间可延到 10 分钟。"
+    },
+    {
+      "original": "番茄加米醋",
+      "substitute": "罐装番茄加柠檬汁",
+      "ratio": "400 克对 1 个柠檬",
+      "note": "柠檬酸更清爽，白糖需减半。"
+    }
+  ],
+  "variations": [
+    "凯里传统做法用米汤发酵的红酸汤，风味更醇厚。",
+    "加木姜子油 3 滴，得到贵州特有的柠檬香气。"
+  ],
+  "serving_suggestion": "配米饭，先喝汤再吃鱼，汤可续加涮蔬菜。",
+  "storage": "冷藏 1 天，复热需煮沸 2 分钟；鱼肉不建议冷冻后再煮，口感会散。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200 克鱼肉加汤）",
+    "calories_kcal": 330,
+    "protein_g": 30,
+    "fat_g": 17,
+    "carbs_g": 12,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鱼肉需彻底煮熟，中心温度 63°C 以上并保持 15 秒。",
+    "草鱼刺多，老人小孩食用需仔细挑刺。"
+  ],
+  "origin_note": "酸汤鱼是贵州黔东南苗侗人家的传统菜，以番茄或米汤发酵的酸汤煮鱼，酸辣开胃，「三天不吃酸，走路打蹿蹿」是当地俗语。",
+  "tags": [
+    "云贵菜",
+    "酸汤",
+    "鱼",
+    "开胃"
+  ],
+  "related_ids": [
+    "guoqiao-mixian",
+    "tom-yum-goong",
+    "mapo-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

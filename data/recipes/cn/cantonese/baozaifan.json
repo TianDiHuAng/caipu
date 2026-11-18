@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "baozaifan",
+  "name": {
+    "zh": "腊味煲仔饭",
+    "en": "Clay Pot Rice with Cured Meat"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 30,
+    "total_min": 50
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "umami",
+    "smoky",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 200,
+          "unit": "g",
+          "note": "丝苗米或油粘米",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 80,
+          "unit": "g",
+          "note": "斜切厚片",
+          "optional": false
+        },
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 60,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "菜心",
+          "name_en": "choy sum",
+          "amount": 120,
+          "unit": "g",
+          "note": "焯水备用",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煲仔饭豉油",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 3,
+          "unit": "ml",
+          "note": "调色",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "g",
+          "note": "增鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "合味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "刷锅防粘",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "沿锅边淋入",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 260,
+          "unit": "ml",
+          "note": "煮饭用水",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "焯菜用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅（带盖）",
+    "小奶锅",
+    "厨房温度计"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后浸泡 30 分钟，捞出沥干；腊肠腊肉用温水冲洗表面油污，斜切成片。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "米泡透才不易夹生，泡米水倒掉以免饭发酸。",
+      "visual_cue": "米粒吸水后由透明转为乳白"
+    },
+    {
+      "n": 2,
+      "text": "砂锅内壁刷一层香油，放入大米与 260ml 清水，大火煮开，边煮边用筷子搅动防粘底。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水与米的比例约 1.3:1，太多会煮成烂饭。",
+      "visual_cue": "水面沸腾、米粒开始翻滚"
+    },
+    {
+      "n": 3,
+      "text": "水快收干、表面出现蜂窝状小孔时，铺上腊肠片、腊肉片与姜丝，转最小火加盖焖 12 分钟。",
+      "time_min": 12,
+      "heat": "微火",
+      "tip": "转小火前可在锅边淋 10ml 植物油，帮助形成锅巴。",
+      "visual_cue": "锅盖缝隙冒出白色蒸汽，能闻到腊味香"
+    },
+    {
+      "n": 4,
+      "text": "沿锅边淋入剩下的植物油，转动砂锅让锅底四个方向各烧 1 分钟，形成均匀锅巴。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "转动锅身而不是提高火力，锅巴才金黄不焦黑。",
+      "visual_cue": "锅底传出轻微噼啪声，闻到焦香"
+    },
+    {
+      "n": 5,
+      "text": "关火后不开盖焖 8 分钟；另将生抽、老抽、蚝油、白糖加 15ml 清水小火煮开成豉油，菜心用盐水焯 30 秒。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "豉油要煮开再用，生酱油拌饭有生味。",
+      "visual_cue": "豉油微微浓稠、能挂勺"
+    },
+    {
+      "n": 6,
+      "text": "开盖铺上菜心，淋豉油，用饭勺从底部翻起拌匀，让锅巴与腊味油脂混入米饭。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "拌的时候把锅巴敲碎成小块，口感更均匀。",
+      "visual_cue": "锅巴呈金黄色，米饭粒粒油亮"
+    }
+  ],
+  "tips": [
+    "腊味本身很咸，豉油要少淋，先尝一口再决定用量。",
+    "用厚底砂锅受热更均匀，薄锅容易糊底。",
+    "焖饭期间不要频繁开盖，蒸汽跑掉饭会夹生。"
+  ],
+  "common_mistakes": [
+    "米不浸泡直接煮，外软内硬，中心夹生。",
+    "全程大火，锅底焦黑而米饭未熟。",
+    "豉油一次倒太多，饭变湿咸，失去干香。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肠",
+      "substitute": "腊鸭腿",
+      "ratio": "80g 腊肠 ≈ 1 只腊鸭腿",
+      "note": "腊鸭腿需先蒸 15 分钟再切块铺面。"
+    },
+    {
+      "original": "菜心",
+      "substitute": "小白菜",
+      "ratio": "1:1",
+      "note": "焯水时间同为 30 秒。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用电饭锅煮饭，跳闸后铺腊味再按一次煮饭键，最后用平底锅单独煎锅巴。",
+    "窝蛋版：焖饭最后 5 分钟在中间打入一个鸡蛋，做成腊味窝蛋煲仔饭。"
+  ],
+  "serving_suggestion": "整锅上桌，拌好后分装小碗；配一壶普洱或菊花茶解腻。",
+  "storage": "冷藏 1 天，复热时加 10ml 清水盖盖小火焖 5 分钟；锅巴会变软，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/2 量）",
+    "calories_kcal": 760,
+    "protein_g": 26,
+    "fat_g": 28,
+    "carbs_g": 96,
+    "sodium_mg": 1320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腊味属腌腊制品，食用前须彻底加热至中心 75℃ 以上，孕妇与幼儿应少食。",
+    "砂锅离火后余温很高，取锅请用厚布垫手。",
+    "焯菜心的水不要重复用于煮饭，避免带入草酸与杂质。"
+  ],
+  "origin_note": "煲仔饭源自广东珠三角的街头大排档，用炭炉小瓦煲现煮现焖，腊味油脂渗进米粒，锅底结出金黄锅巴，是冬季最受欢迎的暖身主食。",
+  "tags": [
+    "粤菜",
+    "主食",
+    "冬季",
+    "腊味"
+  ],
+  "related_ids": [
+    "mizhi-chashao",
+    "chizhi-paigu",
+    "baiqie-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

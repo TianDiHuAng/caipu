@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yanshui-ya",
+  "name": {
+    "zh": "南京盐水鸭",
+    "en": "Nanjing Salted Duck",
+    "original": "南京鹽水鴨"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "cold-dish"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 200,
+    "cook_min": 55,
+    "total_min": 255
+  },
+  "servings": 6,
+  "flavor": [
+    "salty",
+    "umami",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸭",
+          "name_en": "duck",
+          "amount": 1500,
+          "unit": "g",
+          "note": "选嫩鸭，去内脏与尾部油脂，洗净沥干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片，一半入卤汤一半垫鸭腹",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 40,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "约 2 颗",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 6,
+          "unit": "g",
+          "note": "与盐同炒，做椒盐",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "2 片，卤汤增香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 35,
+          "unit": "g",
+          "note": "约为鸭重的 2.3%，炒热后搓皮，腌制后大部分被冲掉",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "卤汤去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 3000,
+          "unit": "ml",
+          "note": "需没过鸭身",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "炒锅",
+    "食品袋",
+    "挂钩"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干锅下盐与花椒，小火炒到盐微黄、花椒出香，趁热把椒盐里外搓遍鸭身，装袋冷藏腌 3 小时。",
+      "time_min": 180,
+      "heat": "小火",
+      "tip": "热盐更易渗入表皮，冷盐只停在表面。",
+      "visual_cue": "盐粒微黄，花椒一捏就碎"
+    },
+    {
+      "n": 2,
+      "text": "腌好冲掉表面椒盐，冷水下锅焯 3 分钟，捞出冲净浮沫。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "焯水去血沫，卤汤才清。",
+      "visual_cue": "水面浮起灰褐色浮沫，鸭皮收紧"
+    },
+    {
+      "n": 3,
+      "text": "锅中加清水、姜、小葱、八角、香叶与料酒，烧到锅边冒小泡（约 85°C），放入鸭，保持微沸浸煮 40 分钟，中途翻面一次。",
+      "time_min": 40,
+      "heat": "微火",
+      "tip": "全程不能大滚，滚水会让鸭皮破裂、肉质发柴。",
+      "visual_cue": "鸭腿最厚处插入竹签流出清亮汁水，无血水"
+    },
+    {
+      "n": 4,
+      "text": "关火后在汤中浸泡 10 分钟，捞出沥干晾凉。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "浸泡让咸味均匀，晾凉后肉更紧实。",
+      "visual_cue": "鸭身表面干爽，按压有弹性"
+    },
+    {
+      "n": 5,
+      "text": "完全冷却后斩件，皮朝上摆盘，淋两勺卤汤。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "必须凉透再斩，热切会散。",
+      "visual_cue": "切面肉色粉白，骨边微红但不渗血"
+    }
+  ],
+  "tips": [
+    "盐量按鸭重 3% 至 4%，1.5 公斤鸭用 50 至 60 克盐，过咸会盖住鸭香。",
+    "浸煮温度维持 85 至 90°C，锅里只冒小泡。",
+    "冷藏 4 小时后再斩，风味更集中。"
+  ],
+  "common_mistakes": [
+    "用大火滚煮，鸭皮破裂、肉质发柴。",
+    "腌完不冲洗直接下锅，卤汤发黑发咸。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸭",
+      "substitute": "鸡腿 800 克",
+      "ratio": "按重量 1:0.5",
+      "note": "鸡腿浸煮时间缩短到 20 分钟。"
+    }
+  ],
+  "variations": [
+    "南京传统卤汤中加少许白芷增香。",
+    "家庭版用电饭锅保温档维持在 80°C 浸 50 分钟。"
+  ],
+  "serving_suggestion": "凉透后冷切装盘，配姜丝与香醋碟一起上桌。",
+  "storage": "冷藏 3 天，切片后密封防干；不建议冷冻，回温后肉质发绵。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150 克带皮带肉）",
+    "calories_kcal": 340,
+    "protein_g": 28,
+    "fat_g": 24,
+    "carbs_g": 1,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸭肉中心温度需达 74°C，在腿根最厚处插针确认。",
+    "卤汤重复使用需每天煮沸一次并冷藏。"
+  ],
+  "origin_note": "盐水鸭是南京传统冷盘，相传明清时期已盛行于秦淮一带，讲究「热盐擦、清卤浸、晾透斩」，以咸鲜本味见长。",
+  "tags": [
+    "苏菜",
+    "冷盘",
+    "宴客",
+    "鸭"
+  ],
+  "related_ids": [
+    "baiqie-ji",
+    "shizitou",
+    "xiefen-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

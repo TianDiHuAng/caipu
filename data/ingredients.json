@@ -3,475 +3,47 @@
   "note": "食材词典：食材名的唯一权威。新增食材必须先在此登记。aliases 用于步骤文本匹配与搜索，包含常见口语说法。allergens 只标确定性项。",
   "items": [
     {
-      "key": "chinese-cabbage",
-      "zh": "大白菜",
-      "en": "napa cabbage",
+      "key": "agar",
+      "zh": "琼脂",
+      "en": "agar",
       "aliases": [
-        "白菜",
-        "黄芽白",
-        "绍菜"
+        "寒天",
+        "琼脂粉"
       ],
       "allergens": [],
-      "category": "vegetable"
+      "category": "other"
     },
     {
-      "key": "bok-choy",
-      "zh": "小白菜",
-      "en": "bok choy",
+      "key": "almond",
+      "zh": "杏仁",
+      "en": "almond",
       "aliases": [
-        "青菜",
-        "上海青",
-        "油菜"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "chinese-broccoli",
-      "zh": "芥蓝",
-      "en": "Chinese broccoli",
-      "aliases": [
-        "芥兰",
-        "广东芥兰"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "choy-sum",
-      "zh": "菜心",
-      "en": "choy sum",
-      "aliases": [
-        "油菜心",
-        "菜薹"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "water-spinach",
-      "zh": "空心菜",
-      "en": "water spinach",
-      "aliases": [
-        "通菜",
-        "蕹菜",
-        "竹叶菜"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "spinach",
-      "zh": "菠菜",
-      "en": "spinach",
-      "aliases": [
-        "菠菜叶"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "lettuce",
-      "zh": "生菜",
-      "en": "lettuce",
-      "aliases": [
-        "球生菜",
-        "罗马生菜"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "celery",
-      "zh": "芹菜",
-      "en": "celery",
-      "aliases": [
-        "西芹",
-        "芹菜段",
-        "香芹"
+        "巴旦木",
+        "杏仁片"
       ],
       "allergens": [
-        "celery"
+        "tree-nut"
       ],
-      "category": "vegetable"
+      "category": "nut"
     },
     {
-      "key": "cilantro",
-      "zh": "香菜",
-      "en": "cilantro",
+      "key": "apple",
+      "zh": "苹果",
+      "en": "apple",
       "aliases": [
-        "芫荽",
-        "香菜碎"
+        "苹果块",
+        "青苹果"
       ],
       "allergens": [],
-      "category": "herb"
+      "category": "fruit"
     },
     {
-      "key": "scallion",
-      "zh": "小葱",
-      "en": "scallion",
-      "aliases": [
-        "葱",
-        "青葱",
-        "葱花",
-        "香葱"
-      ],
+      "key": "apple-cider-vinegar",
+      "zh": "苹果醋",
+      "en": "apple cider vinegar",
+      "aliases": [],
       "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "welsh-onion",
-      "zh": "大葱",
-      "en": "Welsh onion",
-      "aliases": [
-        "京葱",
-        "葱丝",
-        "葱白",
-        "葱段"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "ginger",
-      "zh": "姜",
-      "en": "ginger",
-      "aliases": [
-        "生姜",
-        "老姜",
-        "姜片",
-        "姜末",
-        "姜丝",
-        "姜块"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "garlic",
-      "zh": "大蒜",
-      "en": "garlic",
-      "aliases": [
-        "蒜",
-        "蒜瓣",
-        "蒜末",
-        "蒜蓉",
-        "蒜泥"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "onion",
-      "zh": "洋葱",
-      "en": "onion",
-      "aliases": [
-        "洋葱丝",
-        "紫洋葱",
-        "白洋葱"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "potato",
-      "zh": "土豆",
-      "en": "potato",
-      "aliases": [
-        "马铃薯",
-        "洋芋",
-        "土豆块",
-        "土豆丝"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "sweet-potato",
-      "zh": "红薯",
-      "en": "sweet potato",
-      "aliases": [
-        "地瓜",
-        "番薯",
-        "山芋"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "chinese-yam",
-      "zh": "山药",
-      "en": "Chinese yam",
-      "aliases": [
-        "淮山",
-        "铁棍山药"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "taro",
-      "zh": "芋头",
-      "en": "taro",
-      "aliases": [
-        "芋艿",
-        "香芋"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "lotus-root",
-      "zh": "莲藕",
-      "en": "lotus root",
-      "aliases": [
-        "藕",
-        "藕片",
-        "藕段"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "daikon",
-      "zh": "白萝卜",
-      "en": "daikon radish",
-      "aliases": [
-        "萝卜",
-        "萝卜块",
-        "萝卜丝"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "carrot",
-      "zh": "胡萝卜",
-      "en": "carrot",
-      "aliases": [
-        "红萝卜",
-        "胡萝卜丝",
-        "胡萝卜片"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "eggplant",
-      "zh": "茄子",
-      "en": "eggplant",
-      "aliases": [
-        "茄瓜",
-        "长茄",
-        "茄子条"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "tomato",
-      "zh": "番茄",
-      "en": "tomato",
-      "aliases": [
-        "西红柿",
-        "番茄块",
-        "罐装番茄"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "cucumber",
-      "zh": "黄瓜",
-      "en": "cucumber",
-      "aliases": [
-        "青瓜",
-        "黄瓜条",
-        "黄瓜丝"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "bitter-melon",
-      "zh": "苦瓜",
-      "en": "bitter melon",
-      "aliases": [
-        "凉瓜"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "luffa",
-      "zh": "丝瓜",
-      "en": "luffa",
-      "aliases": [
-        "胜瓜",
-        "八角瓜"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "winter-melon",
-      "zh": "冬瓜",
-      "en": "winter melon",
-      "aliases": [
-        "冬瓜块"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "pumpkin",
-      "zh": "南瓜",
-      "en": "pumpkin",
-      "aliases": [
-        "倭瓜",
-        "南瓜块"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "zucchini",
-      "zh": "西葫芦",
-      "en": "zucchini",
-      "aliases": [
-        "角瓜"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "green-pepper",
-      "zh": "青椒",
-      "en": "green bell pepper",
-      "aliases": [
-        "柿子椒",
-        "青椒块",
-        "青椒丝"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "red-pepper",
-      "zh": "红椒",
-      "en": "red bell pepper",
-      "aliases": [
-        "红甜椒",
-        "彩椒"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "green-chili",
-      "zh": "尖椒",
-      "en": "green chili",
-      "aliases": [
-        "青尖椒",
-        "线椒",
-        "二荆条"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "bird-eye-chili",
-      "zh": "小米辣",
-      "en": "bird's eye chili",
-      "aliases": [
-        "小米椒",
-        "朝天椒",
-        "小辣椒"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "dried-chili",
-      "zh": "干辣椒",
-      "en": "dried chili",
-      "aliases": [
-        "干红辣椒",
-        "辣椒段",
-        "干辣椒段"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "sichuan-peppercorn",
-      "zh": "花椒",
-      "en": "Sichuan peppercorn",
-      "aliases": [
-        "红花椒",
-        "花椒粒",
-        "花椒粉",
-        "花椒面"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "green-sichuan-peppercorn",
-      "zh": "青花椒",
-      "en": "green Sichuan peppercorn",
-      "aliases": [
-        "藤椒",
-        "鲜青花椒"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "green-beans",
-      "zh": "豆角",
-      "en": "green beans",
-      "aliases": [
-        "四季豆",
-        "豇豆",
-        "芸豆角"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "snow-peas",
-      "zh": "荷兰豆",
-      "en": "snow peas",
-      "aliases": [
-        "甜豆"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "edamame",
-      "zh": "毛豆",
-      "en": "edamame",
-      "aliases": [
-        "毛豆仁",
-        "青豆"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "legume"
-    },
-    {
-      "key": "sweet-corn",
-      "zh": "玉米",
-      "en": "sweet corn",
-      "aliases": [
-        "玉米粒",
-        "甜玉米"
-      ],
-      "allergens": [],
-      "category": "vegetable"
+      "category": "condiment"
     },
     {
       "key": "asparagus",
@@ -484,101 +56,67 @@
       "category": "vegetable"
     },
     {
-      "key": "broccoli",
-      "zh": "西兰花",
-      "en": "broccoli",
+      "key": "avocado",
+      "zh": "牛油果",
+      "en": "avocado",
       "aliases": [
-        "青花菜",
-        "西兰花小朵"
+        "鳄梨"
       ],
       "allergens": [],
-      "category": "vegetable"
+      "category": "fruit"
     },
     {
-      "key": "cauliflower",
-      "zh": "花菜",
-      "en": "cauliflower",
+      "key": "bacon",
+      "zh": "培根",
+      "en": "bacon",
       "aliases": [
-        "菜花",
-        "白花菜"
+        "培根片"
       ],
       "allergens": [],
-      "category": "vegetable"
+      "category": "meat"
     },
     {
-      "key": "shiitake",
-      "zh": "香菇",
-      "en": "shiitake mushroom",
+      "key": "baking-powder",
+      "zh": "泡打粉",
+      "en": "baking powder",
       "aliases": [
-        "冬菇",
-        "香菇片",
-        "干香菇"
+        "发粉"
       ],
       "allergens": [],
-      "category": "fungus"
+      "category": "other"
     },
     {
-      "key": "button-mushroom",
-      "zh": "口蘑",
-      "en": "button mushroom",
+      "key": "baking-soda",
+      "zh": "小苏打",
+      "en": "baking soda",
       "aliases": [
-        "白蘑菇",
-        "蘑菇"
+        "苏打粉",
+        "食用碱"
       ],
       "allergens": [],
-      "category": "fungus"
+      "category": "other"
     },
     {
-      "key": "king-oyster-mushroom",
-      "zh": "杏鲍菇",
-      "en": "king oyster mushroom",
+      "key": "balsamic",
+      "zh": "黑醋",
+      "en": "balsamic vinegar",
       "aliases": [
-        "杏鲍菇片"
+        "巴萨米克醋"
       ],
-      "allergens": [],
-      "category": "fungus"
+      "allergens": [
+        "sulfite"
+      ],
+      "category": "seasoning"
     },
     {
-      "key": "oyster-mushroom",
-      "zh": "平菇",
-      "en": "oyster mushroom",
+      "key": "bamboo-charcoal",
+      "zh": "竹炭",
+      "en": "bamboo charcoal",
       "aliases": [
-        "秀珍菇"
+        "烧烤炭"
       ],
       "allergens": [],
-      "category": "fungus"
-    },
-    {
-      "key": "enoki",
-      "zh": "金针菇",
-      "en": "enoki mushroom",
-      "aliases": [
-        "金菇"
-      ],
-      "allergens": [],
-      "category": "fungus"
-    },
-    {
-      "key": "wood-ear",
-      "zh": "木耳",
-      "en": "wood ear mushroom",
-      "aliases": [
-        "黑木耳",
-        "木耳丝"
-      ],
-      "allergens": [],
-      "category": "fungus"
-    },
-    {
-      "key": "white-fungus",
-      "zh": "银耳",
-      "en": "white fungus",
-      "aliases": [
-        "雪耳",
-        "白木耳"
-      ],
-      "allergens": [],
-      "category": "fungus"
+      "category": "other"
     },
     {
       "key": "bamboo-shoot",
@@ -594,133 +132,14 @@
       "category": "vegetable"
     },
     {
-      "key": "water-bamboo",
-      "zh": "茭白",
-      "en": "water bamboo",
+      "key": "banana",
+      "zh": "香蕉",
+      "en": "banana",
       "aliases": [
-        "茭笋"
+        "香蕉泥"
       ],
       "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "water-chestnut",
-      "zh": "荸荠",
-      "en": "water chestnut",
-      "aliases": [
-        "马蹄",
-        "马蹄碎"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "chives",
-      "zh": "韭菜",
-      "en": "Chinese chives",
-      "aliases": [
-        "韭",
-        "韭菜段"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "yellow-chives",
-      "zh": "韭黄",
-      "en": "yellow chives",
-      "aliases": [
-        "韭黄段"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "bean-sprouts",
-      "zh": "豆芽",
-      "en": "bean sprouts",
-      "aliases": [
-        "绿豆芽",
-        "银芽"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "soybean-sprouts",
-      "zh": "黄豆芽",
-      "en": "soybean sprouts",
-      "aliases": [
-        "大豆芽"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "vegetable"
-    },
-    {
-      "key": "pickled-mustard",
-      "zh": "酸菜",
-      "en": "pickled mustard green",
-      "aliases": [
-        "酸菜丝",
-        "东北酸菜"
-      ],
-      "allergens": [],
-      "category": "fermented"
-    },
-    {
-      "key": "mei-cai",
-      "zh": "梅干菜",
-      "en": "preserved mustard",
-      "aliases": [
-        "霉干菜",
-        "梅菜"
-      ],
-      "allergens": [],
-      "category": "fermented"
-    },
-    {
-      "key": "zhacai",
-      "zh": "榨菜",
-      "en": "zhacai pickled mustard",
-      "aliases": [
-        "涪陵榨菜",
-        "榨菜丝"
-      ],
-      "allergens": [],
-      "category": "fermented"
-    },
-    {
-      "key": "perilla",
-      "zh": "紫苏",
-      "en": "perilla",
-      "aliases": [
-        "紫苏叶"
-      ],
-      "allergens": [],
-      "category": "herb"
-    },
-    {
-      "key": "mint",
-      "zh": "薄荷",
-      "en": "mint",
-      "aliases": [
-        "薄荷叶"
-      ],
-      "allergens": [],
-      "category": "herb"
-    },
-    {
-      "key": "lemongrass",
-      "zh": "香茅",
-      "en": "lemongrass",
-      "aliases": [
-        "柠檬草",
-        "香茅草"
-      ],
-      "allergens": [],
-      "category": "herb"
+      "category": "fruit"
     },
     {
       "key": "basil",
@@ -730,26 +149,6 @@
         "九层塔",
         "罗勒叶",
         "甜罗勒"
-      ],
-      "allergens": [],
-      "category": "herb"
-    },
-    {
-      "key": "rosemary",
-      "zh": "迷迭香",
-      "en": "rosemary",
-      "aliases": [
-        "迷迭香枝"
-      ],
-      "allergens": [],
-      "category": "herb"
-    },
-    {
-      "key": "thyme",
-      "zh": "百里香",
-      "en": "thyme",
-      "aliases": [
-        "百里香叶"
       ],
       "allergens": [],
       "category": "herb"
@@ -765,124 +164,22 @@
       "category": "spice"
     },
     {
-      "key": "cabbage",
-      "zh": "卷心菜",
-      "en": "cabbage",
+      "key": "bean-sprouts",
+      "zh": "豆芽",
+      "en": "bean sprouts",
       "aliases": [
-        "包菜",
-        "圆白菜",
-        "甘蓝"
+        "绿豆芽",
+        "银芽"
       ],
       "allergens": [],
       "category": "vegetable"
     },
     {
-      "key": "red-cabbage",
-      "zh": "紫甘蓝",
-      "en": "red cabbage",
+      "key": "beef",
+      "zh": "牛肉",
+      "en": "beef",
       "aliases": [
-        "紫包菜"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "pork-belly",
-      "zh": "五花肉",
-      "en": "pork belly",
-      "aliases": [
-        "三层肉",
-        "带皮五花肉",
-        "五花肉片"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "pork-tenderloin",
-      "zh": "猪里脊",
-      "en": "pork tenderloin",
-      "aliases": [
-        "里脊肉",
-        "猪柳"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "pork-shoulder",
-      "zh": "猪肩肉",
-      "en": "pork shoulder",
-      "aliases": [
-        "梅花肉",
-        "猪前腿肉"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "pork-trotter",
-      "zh": "猪蹄",
-      "en": "pork trotter",
-      "aliases": [
-        "猪手",
-        "猪脚"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "pork-ribs",
-      "zh": "猪排骨",
-      "en": "pork ribs",
-      "aliases": [
-        "排骨",
-        "肋排",
-        "小排"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "pork-liver",
-      "zh": "猪肝",
-      "en": "pork liver",
-      "aliases": [
-        "猪肝片"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "pork-intestine",
-      "zh": "猪大肠",
-      "en": "pork intestine",
-      "aliases": [
-        "肥肠",
-        "大肠"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "ground-pork",
-      "zh": "猪肉末",
-      "en": "ground pork",
-      "aliases": [
-        "肉末",
-        "猪绞肉",
-        "肉馅"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "beef-tenderloin",
-      "zh": "牛里脊",
-      "en": "beef tenderloin",
-      "aliases": [
-        "牛柳",
-        "牛里脊肉"
+        "黄牛肉"
       ],
       "allergens": [],
       "category": "meat"
@@ -910,14 +207,1348 @@
       "category": "meat"
     },
     {
-      "key": "sliced-beef",
-      "zh": "肥牛",
-      "en": "sliced beef",
+      "key": "beef-tenderloin",
+      "zh": "牛里脊",
+      "en": "beef tenderloin",
       "aliases": [
-        "肥牛卷"
+        "牛柳",
+        "牛里脊肉"
       ],
       "allergens": [],
       "category": "meat"
+    },
+    {
+      "key": "beef-tripe",
+      "zh": "牛肚",
+      "en": "beef tripe",
+      "aliases": [
+        "毛肚",
+        "牛百叶"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "bighead-carp",
+      "zh": "鳙鱼",
+      "en": "bighead carp",
+      "aliases": [
+        "胖头鱼",
+        "花鲢"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "fish"
+    },
+    {
+      "key": "bird-eye-chili",
+      "zh": "小米辣",
+      "en": "bird's eye chili",
+      "aliases": [
+        "小米椒",
+        "朝天椒",
+        "小辣椒"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "bitter-melon",
+      "zh": "苦瓜",
+      "en": "bitter melon",
+      "aliases": [
+        "凉瓜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "black-pepper",
+      "zh": "黑胡椒",
+      "en": "black pepper",
+      "aliases": [
+        "黑胡椒碎",
+        "现磨黑胡椒"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "black-vinegar",
+      "zh": "香醋",
+      "en": "black vinegar",
+      "aliases": [
+        "镇江香醋",
+        "陈醋"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "seasoning"
+    },
+    {
+      "key": "bok-choy",
+      "zh": "小白菜",
+      "en": "bok choy",
+      "aliases": [
+        "青菜",
+        "上海青",
+        "油菜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "bread",
+      "zh": "面包",
+      "en": "bread",
+      "aliases": [
+        "法棍",
+        "欧包",
+        "面包片"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "bread-flour",
+      "zh": "高筋面粉",
+      "en": "bread flour",
+      "aliases": [
+        "高筋粉"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "breadcrumb",
+      "zh": "面包糠",
+      "en": "breadcrumbs",
+      "aliases": [
+        "干面包糠",
+        "日式面包糠"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "broccoli",
+      "zh": "西兰花",
+      "en": "broccoli",
+      "aliases": [
+        "青花菜",
+        "西兰花小朵"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "brown-sugar",
+      "zh": "红糖",
+      "en": "brown sugar",
+      "aliases": [
+        "黑糖",
+        "赤砂糖"
+      ],
+      "allergens": [],
+      "category": "seasoning"
+    },
+    {
+      "key": "butter",
+      "zh": "黄油",
+      "en": "butter",
+      "aliases": [
+        "无盐黄油",
+        "有盐黄油"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "category": "dairy"
+    },
+    {
+      "key": "butter-tea",
+      "zh": "酥油茶",
+      "en": "butter tea",
+      "aliases": [
+        "藏式酥油茶"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "category": "drink"
+    },
+    {
+      "key": "button-mushroom",
+      "zh": "口蘑",
+      "en": "button mushroom",
+      "aliases": [
+        "白蘑菇",
+        "蘑菇"
+      ],
+      "allergens": [],
+      "category": "fungus"
+    },
+    {
+      "key": "cabbage",
+      "zh": "卷心菜",
+      "en": "cabbage",
+      "aliases": [
+        "包菜",
+        "圆白菜",
+        "甘蓝"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "cake-flour",
+      "zh": "低筋面粉",
+      "en": "cake flour",
+      "aliases": [
+        "低筋粉",
+        "薄力粉"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "cantonese-sausage",
+      "zh": "腊肠",
+      "en": "Cantonese sausage",
+      "aliases": [
+        "广式腊肠",
+        "香肠",
+        "腊肠片"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "capers",
+      "zh": "酸豆",
+      "en": "capers",
+      "aliases": [
+        "水瓜柳"
+      ],
+      "allergens": [],
+      "category": "fermented"
+    },
+    {
+      "key": "cardamom",
+      "zh": "小豆蔻",
+      "en": "cardamom",
+      "aliases": [
+        "绿豆蔻"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "carp",
+      "zh": "鲤鱼",
+      "en": "carp",
+      "aliases": [
+        "鲤"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "fish"
+    },
+    {
+      "key": "carrot",
+      "zh": "胡萝卜",
+      "en": "carrot",
+      "aliases": [
+        "红萝卜",
+        "胡萝卜丝",
+        "胡萝卜片"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "cashew",
+      "zh": "腰果",
+      "en": "cashew",
+      "aliases": [
+        "腰果仁",
+        "烤腰果"
+      ],
+      "allergens": [
+        "tree-nut"
+      ],
+      "category": "nut"
+    },
+    {
+      "key": "cauliflower",
+      "zh": "花菜",
+      "en": "cauliflower",
+      "aliases": [
+        "菜花",
+        "白花菜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "celery",
+      "zh": "芹菜",
+      "en": "celery",
+      "aliases": [
+        "西芹",
+        "芹菜段",
+        "香芹"
+      ],
+      "allergens": [
+        "celery"
+      ],
+      "category": "vegetable"
+    },
+    {
+      "key": "celtuce",
+      "zh": "莴笋",
+      "en": "celtuce",
+      "aliases": [
+        "青笋",
+        "莴苣",
+        "莴笋茎"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "century-egg",
+      "zh": "皮蛋",
+      "en": "century egg",
+      "aliases": [
+        "松花蛋",
+        "皮蛋丁"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "category": "egg"
+    },
+    {
+      "key": "cheese",
+      "zh": "奶酪",
+      "en": "cheese",
+      "aliases": [
+        "芝士",
+        "起司"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "category": "dairy"
+    },
+    {
+      "key": "chicken-bouillon",
+      "zh": "鸡精",
+      "en": "chicken bouillon",
+      "aliases": [
+        "鸡粉",
+        "高汤粉"
+      ],
+      "allergens": [],
+      "category": "seasoning"
+    },
+    {
+      "key": "chicken-breast",
+      "zh": "鸡胸肉",
+      "en": "chicken breast",
+      "aliases": [
+        "鸡胸",
+        "鸡胸肉片"
+      ],
+      "allergens": [],
+      "category": "poultry"
+    },
+    {
+      "key": "chicken-feet",
+      "zh": "鸡爪",
+      "en": "chicken feet",
+      "aliases": [
+        "凤爪"
+      ],
+      "allergens": [],
+      "category": "poultry"
+    },
+    {
+      "key": "chicken-thigh",
+      "zh": "鸡腿肉",
+      "en": "chicken thigh",
+      "aliases": [
+        "鸡腿",
+        "去骨鸡腿肉",
+        "鸡腿肉块"
+      ],
+      "allergens": [],
+      "category": "poultry"
+    },
+    {
+      "key": "chicken-wing",
+      "zh": "鸡翅",
+      "en": "chicken wings",
+      "aliases": [
+        "鸡翅中",
+        "翅中",
+        "鸡翅根"
+      ],
+      "allergens": [],
+      "category": "poultry"
+    },
+    {
+      "key": "chickpea",
+      "zh": "鹰嘴豆",
+      "en": "chickpea",
+      "aliases": [
+        "鸡豆",
+        "雪莲子豆"
+      ],
+      "allergens": [],
+      "category": "legume"
+    },
+    {
+      "key": "chili-flakes",
+      "zh": "辣椒碎",
+      "en": "chili flakes",
+      "aliases": [
+        "干辣椒碎"
+      ],
+      "allergens": [],
+      "category": "seasoning"
+    },
+    {
+      "key": "chili-oil",
+      "zh": "辣椒油",
+      "en": "chili oil",
+      "aliases": [
+        "红油",
+        "辣子油"
+      ],
+      "allergens": [],
+      "category": "oil"
+    },
+    {
+      "key": "chili-powder",
+      "zh": "辣椒粉",
+      "en": "chili powder",
+      "aliases": [
+        "辣椒面",
+        "细辣椒粉"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "chinese-broccoli",
+      "zh": "芥蓝",
+      "en": "Chinese broccoli",
+      "aliases": [
+        "芥兰",
+        "广东芥兰"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "chinese-cabbage",
+      "zh": "大白菜",
+      "en": "napa cabbage",
+      "aliases": [
+        "白菜",
+        "黄芽白",
+        "绍菜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "chinese-yam",
+      "zh": "山药",
+      "en": "Chinese yam",
+      "aliases": [
+        "淮山",
+        "铁棍山药"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "chives",
+      "zh": "韭菜",
+      "en": "Chinese chives",
+      "aliases": [
+        "韭",
+        "韭菜段"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "chocolate",
+      "zh": "黑巧克力",
+      "en": "dark chocolate",
+      "aliases": [
+        "巧克力",
+        "巧克力币"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "other"
+    },
+    {
+      "key": "choy-sum",
+      "zh": "菜心",
+      "en": "choy sum",
+      "aliases": [
+        "油菜心",
+        "菜薹"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "cilantro",
+      "zh": "香菜",
+      "en": "cilantro",
+      "aliases": [
+        "芫荽",
+        "香菜碎"
+      ],
+      "allergens": [],
+      "category": "herb"
+    },
+    {
+      "key": "cinnamon",
+      "zh": "桂皮",
+      "en": "cinnamon",
+      "aliases": [
+        "肉桂",
+        "肉桂棒"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "clam",
+      "zh": "蛤蜊",
+      "en": "clam",
+      "aliases": [
+        "花蛤",
+        "文蛤",
+        "蛤蜊肉"
+      ],
+      "allergens": [
+        "mollusk"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "clove-spice",
+      "zh": "丁香",
+      "en": "clove",
+      "aliases": [
+        "丁香粒"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "cocoa",
+      "zh": "可可粉",
+      "en": "cocoa powder",
+      "aliases": [
+        "无糖可可粉"
+      ],
+      "allergens": [],
+      "category": "other"
+    },
+    {
+      "key": "coconut-flake",
+      "zh": "椰蓉",
+      "en": "desiccated coconut",
+      "aliases": [
+        "椰丝",
+        "椰碎"
+      ],
+      "allergens": [],
+      "category": "other"
+    },
+    {
+      "key": "coconut-milk",
+      "zh": "椰奶",
+      "en": "coconut milk",
+      "aliases": [
+        "椰浆",
+        "浓椰浆"
+      ],
+      "allergens": [],
+      "category": "other"
+    },
+    {
+      "key": "coconut-oil",
+      "zh": "椰子油",
+      "en": "coconut oil",
+      "aliases": [
+        "椰油"
+      ],
+      "allergens": [],
+      "category": "oil"
+    },
+    {
+      "key": "cod",
+      "zh": "鳕鱼",
+      "en": "cod",
+      "aliases": [
+        "银鳕鱼",
+        "鳕鱼柳"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "condensed-milk",
+      "zh": "炼乳",
+      "en": "condensed milk",
+      "aliases": [
+        "甜炼乳"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "category": "dairy"
+    },
+    {
+      "key": "cooking-wine",
+      "zh": "料酒",
+      "en": "cooking wine",
+      "aliases": [
+        "黄酒",
+        "花雕酒"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "seasoning"
+    },
+    {
+      "key": "coriander-seed",
+      "zh": "芫荽籽",
+      "en": "coriander seed",
+      "aliases": [
+        "香菜籽",
+        "胡荽籽"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "corn-tortilla",
+      "zh": "玉米饼",
+      "en": "corn tortilla",
+      "aliases": [
+        "墨西哥玉米饼",
+        "玉米薄饼"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "cornmeal",
+      "zh": "玉米面",
+      "en": "cornmeal",
+      "aliases": [
+        "苞米面",
+        "玉米糁"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "cornstarch",
+      "zh": "玉米淀粉",
+      "en": "cornstarch",
+      "aliases": [
+        "生粉",
+        "淀粉",
+        "玉米粉",
+        "水淀粉",
+        "湿淀粉"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "crab",
+      "zh": "蟹",
+      "en": "crab",
+      "aliases": [
+        "大闸蟹",
+        "花蟹",
+        "蟹肉",
+        "梭子蟹"
+      ],
+      "allergens": [
+        "crustacean"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "crucian-carp",
+      "zh": "鲫鱼",
+      "en": "crucian carp",
+      "aliases": [
+        "鲫鱼汤料"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "cucumber",
+      "zh": "黄瓜",
+      "en": "cucumber",
+      "aliases": [
+        "青瓜",
+        "黄瓜条",
+        "黄瓜丝"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "cumin",
+      "zh": "孜然",
+      "en": "cumin",
+      "aliases": [
+        "孜然粉",
+        "孜然粒"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "cured-pork",
+      "zh": "腊肉",
+      "en": "cured pork",
+      "aliases": [
+        "烟熏腊肉",
+        "腊肉片"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "curry-powder",
+      "zh": "咖喱粉",
+      "en": "curry powder",
+      "aliases": [
+        "咖喱"
+      ],
+      "allergens": [
+        "mustard"
+      ],
+      "category": "spice"
+    },
+    {
+      "key": "daikon",
+      "zh": "白萝卜",
+      "en": "daikon radish",
+      "aliases": [
+        "萝卜",
+        "萝卜块",
+        "萝卜丝"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "dark-soy-sauce",
+      "zh": "老抽",
+      "en": "dark soy sauce",
+      "aliases": [
+        "老抽酱油"
+      ],
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "dijon-mustard",
+      "zh": "第戎芥末",
+      "en": "Dijon mustard",
+      "aliases": [
+        "黄芥末酱",
+        "法式芥末"
+      ],
+      "allergens": [
+        "mustard",
+        "sulfite"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "dill",
+      "zh": "莳萝",
+      "en": "dill",
+      "aliases": [
+        "刁草"
+      ],
+      "allergens": [],
+      "category": "herb"
+    },
+    {
+      "key": "dongcai",
+      "zh": "冬菜",
+      "en": "Chaozhou preserved cabbage",
+      "aliases": [
+        "潮汕冬菜",
+        "天津冬菜"
+      ],
+      "allergens": [],
+      "category": "pickle"
+    },
+    {
+      "key": "doubanjiang",
+      "zh": "豆瓣酱",
+      "en": "doubanjiang",
+      "aliases": [
+        "郫县豆瓣",
+        "豆瓣",
+        "辣豆瓣",
+        "郫县豆瓣酱",
+        "红油豆瓣"
+      ],
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "dried-chili",
+      "zh": "干辣椒",
+      "en": "dried chili",
+      "aliases": [
+        "干红辣椒",
+        "辣椒段",
+        "干辣椒段"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "dried-daylily",
+      "zh": "黄花菜",
+      "en": "dried daylily",
+      "aliases": [
+        "金针菜",
+        "黄花"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "dried-noodle",
+      "zh": "挂面",
+      "en": "dried noodles",
+      "aliases": [
+        "干面条",
+        "细挂面"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "dried-scallop",
+      "zh": "干贝",
+      "en": "dried scallop",
+      "aliases": [
+        "瑶柱",
+        "干贝丝"
+      ],
+      "allergens": [
+        "mollusk"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "dried-shrimp",
+      "zh": "虾米",
+      "en": "dried shrimp",
+      "aliases": [
+        "海米",
+        "金钩"
+      ],
+      "allergens": [
+        "crustacean"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "dried-tofu",
+      "zh": "豆腐干",
+      "en": "dried tofu",
+      "aliases": [
+        "香干",
+        "豆干",
+        "白干"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "legume"
+    },
+    {
+      "key": "duck-breast",
+      "zh": "鸭胸",
+      "en": "duck breast",
+      "aliases": [
+        "鸭胸肉"
+      ],
+      "allergens": [],
+      "category": "poultry"
+    },
+    {
+      "key": "duck-egg",
+      "zh": "鸭蛋",
+      "en": "duck egg",
+      "aliases": [
+        "鲜鸭蛋"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "category": "egg"
+    },
+    {
+      "key": "dumpling-wrapper",
+      "zh": "饺子皮",
+      "en": "dumpling wrapper",
+      "aliases": [
+        "水饺皮"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "edamame",
+      "zh": "毛豆",
+      "en": "edamame",
+      "aliases": [
+        "毛豆仁",
+        "青豆"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "legume"
+    },
+    {
+      "key": "eel",
+      "zh": "黄鳝",
+      "en": "swamp eel",
+      "aliases": [
+        "鳝鱼",
+        "鳝丝",
+        "鳝段"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "fish"
+    },
+    {
+      "key": "egg",
+      "zh": "鸡蛋",
+      "en": "egg",
+      "aliases": [
+        "蛋",
+        "蛋液",
+        "全蛋",
+        "鸡蛋液"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "category": "egg"
+    },
+    {
+      "key": "egg-white",
+      "zh": "蛋清",
+      "en": "egg white",
+      "aliases": [
+        "蛋白"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "category": "egg"
+    },
+    {
+      "key": "egg-yolk",
+      "zh": "蛋黄",
+      "en": "egg yolk",
+      "aliases": [
+        "生蛋黄"
+      ],
+      "allergens": [
+        "egg"
+      ],
+      "category": "egg"
+    },
+    {
+      "key": "eggplant",
+      "zh": "茄子",
+      "en": "eggplant",
+      "aliases": [
+        "茄瓜",
+        "长茄",
+        "茄子条"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "enoki",
+      "zh": "金针菇",
+      "en": "enoki mushroom",
+      "aliases": [
+        "金菇"
+      ],
+      "allergens": [],
+      "category": "fungus"
+    },
+    {
+      "key": "fermented-black-bean",
+      "zh": "豆豉",
+      "en": "fermented black beans",
+      "aliases": [
+        "豆豉粒",
+        "阳江豆豉"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "fermented-chili-paste",
+      "zh": "糍粑辣椒",
+      "en": "ciba chili paste",
+      "aliases": [
+        "糍粑辣子"
+      ],
+      "allergens": [],
+      "category": "sauce"
+    },
+    {
+      "key": "fermented-tofu",
+      "zh": "腐乳",
+      "en": "fermented tofu",
+      "aliases": [
+        "南乳",
+        "白腐乳",
+        "红腐乳"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "firm-tofu",
+      "zh": "北豆腐",
+      "en": "firm tofu",
+      "aliases": [
+        "老豆腐",
+        "豆腐块",
+        "豆腐"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "legume"
+    },
+    {
+      "key": "fish-sauce",
+      "zh": "鱼露",
+      "en": "fish sauce",
+      "aliases": [
+        "鱼酱油"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "five-spice",
+      "zh": "五香粉",
+      "en": "five spice powder",
+      "aliases": [
+        "五香"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "flour",
+      "zh": "面粉",
+      "en": "all-purpose flour",
+      "aliases": [
+        "中筋面粉",
+        "普通面粉",
+        "白面"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "flour-tortilla",
+      "zh": "面粉薄饼",
+      "en": "flour tortilla",
+      "aliases": [
+        "墨西哥面饼"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "fried-tofu",
+      "zh": "油豆腐",
+      "en": "fried tofu puff",
+      "aliases": [
+        "豆泡",
+        "油豆泡"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "legume"
+    },
+    {
+      "key": "galangal",
+      "zh": "南姜",
+      "en": "galangal",
+      "aliases": [
+        "高良姜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "garam-masala",
+      "zh": "印度综合香料",
+      "en": "garam masala",
+      "aliases": [
+        "葛拉姆马萨拉"
+      ],
+      "allergens": [],
+      "category": "seasoning"
+    },
+    {
+      "key": "garlic",
+      "zh": "大蒜",
+      "en": "garlic",
+      "aliases": [
+        "蒜",
+        "蒜瓣",
+        "蒜末",
+        "蒜蓉",
+        "蒜泥"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "garlic-sprout",
+      "zh": "蒜苗",
+      "en": "garlic sprout",
+      "aliases": [
+        "青蒜",
+        "蒜叶",
+        "大蒜苗"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "gelatin",
+      "zh": "吉利丁",
+      "en": "gelatin",
+      "aliases": [
+        "吉利丁片",
+        "明胶"
+      ],
+      "allergens": [],
+      "category": "other"
+    },
+    {
+      "key": "ghee",
+      "zh": "酥油",
+      "en": "ghee",
+      "aliases": [
+        "印度酥油"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "category": "dairy"
+    },
+    {
+      "key": "ginger",
+      "zh": "姜",
+      "en": "ginger",
+      "aliases": [
+        "生姜",
+        "老姜",
+        "姜片",
+        "姜末",
+        "姜丝",
+        "姜块"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "glutinous-rice",
+      "zh": "糯米",
+      "en": "glutinous rice",
+      "aliases": [
+        "江米",
+        "圆糯米"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "glutinous-rice-flour",
+      "zh": "糯米粉",
+      "en": "glutinous rice flour",
+      "aliases": [
+        "糯米面"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "gochujang",
+      "zh": "韩式辣椒酱",
+      "en": "gochujang",
+      "aliases": [
+        "苦椒酱"
+      ],
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "grass-carp",
+      "zh": "草鱼",
+      "en": "grass carp",
+      "aliases": [
+        "鲩鱼",
+        "草鱼片"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "green-beans",
+      "zh": "豆角",
+      "en": "green beans",
+      "aliases": [
+        "四季豆",
+        "豇豆",
+        "芸豆角"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "green-chili",
+      "zh": "尖椒",
+      "en": "green chili",
+      "aliases": [
+        "青尖椒",
+        "线椒",
+        "二荆条"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "green-papaya",
+      "zh": "青木瓜",
+      "en": "green papaya",
+      "aliases": [],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "green-pea",
+      "zh": "豌豆",
+      "en": "green pea",
+      "aliases": [
+        "豌豆粒"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "green-pepper",
+      "zh": "青椒",
+      "en": "green bell pepper",
+      "aliases": [
+        "柿子椒",
+        "青椒块",
+        "青椒丝"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "green-sichuan-peppercorn",
+      "zh": "青花椒",
+      "en": "green Sichuan peppercorn",
+      "aliases": [
+        "藤椒",
+        "鲜青花椒"
+      ],
+      "allergens": [],
+      "category": "spice"
     },
     {
       "key": "ground-beef",
@@ -928,6 +1559,135 @@
       ],
       "allergens": [],
       "category": "meat"
+    },
+    {
+      "key": "ground-pork",
+      "zh": "猪肉末",
+      "en": "ground pork",
+      "aliases": [
+        "肉末",
+        "猪绞肉",
+        "肉馅"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "hairtail",
+      "zh": "带鱼",
+      "en": "hairtail fish",
+      "aliases": [
+        "刀鱼段",
+        "带鱼段"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "ham",
+      "zh": "火腿",
+      "en": "ham",
+      "aliases": [
+        "金华火腿",
+        "火腿片",
+        "火腿丁"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "heavy-cream",
+      "zh": "淡奶油",
+      "en": "heavy cream",
+      "aliases": [
+        "动物淡奶油",
+        "鲜奶油"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "category": "dairy"
+    },
+    {
+      "key": "highland-barley",
+      "zh": "青稞",
+      "en": "highland barley",
+      "aliases": [
+        "青稞粉",
+        "青稞面"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "honey",
+      "zh": "蜂蜜",
+      "en": "honey",
+      "aliases": [
+        "百花蜜"
+      ],
+      "allergens": [],
+      "category": "sweetener"
+    },
+    {
+      "key": "jasmine-rice",
+      "zh": "泰国香米",
+      "en": "jasmine rice",
+      "aliases": [
+        "香米",
+        "长粒米"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "kelp",
+      "zh": "海带",
+      "en": "kelp",
+      "aliases": [
+        "昆布",
+        "海带结",
+        "海带丝"
+      ],
+      "allergens": [],
+      "category": "seaweed"
+    },
+    {
+      "key": "ketchup",
+      "zh": "番茄酱",
+      "en": "ketchup",
+      "aliases": [
+        "茄汁"
+      ],
+      "allergens": [],
+      "category": "sauce"
+    },
+    {
+      "key": "kimchi",
+      "zh": "泡菜",
+      "en": "kimchi",
+      "aliases": [
+        "韩式泡菜",
+        "辣白菜"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "fermented"
+    },
+    {
+      "key": "king-oyster-mushroom",
+      "zh": "杏鲍菇",
+      "en": "king oyster mushroom",
+      "aliases": [
+        "杏鲍菇片"
+      ],
+      "allergens": [],
+      "category": "fungus"
     },
     {
       "key": "lamb",
@@ -952,526 +1712,38 @@
       "category": "meat"
     },
     {
-      "key": "chicken-breast",
-      "zh": "鸡胸肉",
-      "en": "chicken breast",
+      "key": "lard",
+      "zh": "猪油",
+      "en": "lard",
       "aliases": [
-        "鸡胸",
-        "鸡胸肉片"
+        "猪板油",
+        "荤油"
       ],
       "allergens": [],
-      "category": "poultry"
+      "category": "oil"
     },
     {
-      "key": "chicken-thigh",
-      "zh": "鸡腿肉",
-      "en": "chicken thigh",
+      "key": "lemon",
+      "zh": "柠檬",
+      "en": "lemon",
       "aliases": [
-        "鸡腿",
-        "去骨鸡腿肉",
-        "鸡腿肉块"
+        "柠檬汁",
+        "柠檬片",
+        "黄柠檬"
       ],
       "allergens": [],
-      "category": "poultry"
+      "category": "fruit"
     },
     {
-      "key": "whole-chicken",
-      "zh": "整鸡",
-      "en": "whole chicken",
+      "key": "lemongrass",
+      "zh": "香茅",
+      "en": "lemongrass",
       "aliases": [
-        "三黄鸡",
-        "土鸡",
-        "童子鸡"
+        "柠檬草",
+        "香茅草"
       ],
       "allergens": [],
-      "category": "poultry"
-    },
-    {
-      "key": "chicken-wing",
-      "zh": "鸡翅",
-      "en": "chicken wings",
-      "aliases": [
-        "鸡翅中",
-        "翅中",
-        "鸡翅根"
-      ],
-      "allergens": [],
-      "category": "poultry"
-    },
-    {
-      "key": "chicken-feet",
-      "zh": "鸡爪",
-      "en": "chicken feet",
-      "aliases": [
-        "凤爪"
-      ],
-      "allergens": [],
-      "category": "poultry"
-    },
-    {
-      "key": "whole-duck",
-      "zh": "鸭",
-      "en": "duck",
-      "aliases": [
-        "整鸭",
-        "鸭子",
-        "鸭肉"
-      ],
-      "allergens": [],
-      "category": "poultry"
-    },
-    {
-      "key": "duck-breast",
-      "zh": "鸭胸",
-      "en": "duck breast",
-      "aliases": [
-        "鸭胸肉"
-      ],
-      "allergens": [],
-      "category": "poultry"
-    },
-    {
-      "key": "bacon",
-      "zh": "培根",
-      "en": "bacon",
-      "aliases": [
-        "培根片"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "ham",
-      "zh": "火腿",
-      "en": "ham",
-      "aliases": [
-        "金华火腿",
-        "火腿片",
-        "火腿丁"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "cured-pork",
-      "zh": "腊肉",
-      "en": "cured pork",
-      "aliases": [
-        "烟熏腊肉",
-        "腊肉片"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "cantonese-sausage",
-      "zh": "腊肠",
-      "en": "Cantonese sausage",
-      "aliases": [
-        "广式腊肠",
-        "香肠",
-        "腊肠片"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "sea-bass",
-      "zh": "鲈鱼",
-      "en": "sea bass",
-      "aliases": [
-        "鲈",
-        "海鲈鱼"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "grass-carp",
-      "zh": "草鱼",
-      "en": "grass carp",
-      "aliases": [
-        "鲩鱼",
-        "草鱼片"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "crucian-carp",
-      "zh": "鲫鱼",
-      "en": "crucian carp",
-      "aliases": [
-        "鲫鱼汤料"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "hairtail",
-      "zh": "带鱼",
-      "en": "hairtail fish",
-      "aliases": [
-        "刀鱼段",
-        "带鱼段"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "salmon",
-      "zh": "三文鱼",
-      "en": "salmon",
-      "aliases": [
-        "鲑鱼",
-        "三文鱼柳"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "cod",
-      "zh": "鳕鱼",
-      "en": "cod",
-      "aliases": [
-        "银鳕鱼",
-        "鳕鱼柳"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "tuna",
-      "zh": "金枪鱼",
-      "en": "tuna",
-      "aliases": [
-        "吞拿鱼"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "shrimp",
-      "zh": "虾",
-      "en": "shrimp",
-      "aliases": [
-        "明虾",
-        "大虾",
-        "鲜虾",
-        "基围虾",
-        "虾子"
-      ],
-      "allergens": [
-        "crustacean"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "peeled-shrimp",
-      "zh": "虾仁",
-      "en": "peeled shrimp",
-      "aliases": [
-        "虾肉",
-        "虾仁丁"
-      ],
-      "allergens": [
-        "crustacean"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "dried-shrimp",
-      "zh": "虾米",
-      "en": "dried shrimp",
-      "aliases": [
-        "海米",
-        "金钩"
-      ],
-      "allergens": [
-        "crustacean"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "crab",
-      "zh": "蟹",
-      "en": "crab",
-      "aliases": [
-        "大闸蟹",
-        "花蟹",
-        "蟹肉",
-        "梭子蟹"
-      ],
-      "allergens": [
-        "crustacean"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "clam",
-      "zh": "蛤蜊",
-      "en": "clam",
-      "aliases": [
-        "花蛤",
-        "文蛤",
-        "蛤蜊肉"
-      ],
-      "allergens": [
-        "mollusk"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "oyster",
-      "zh": "牡蛎",
-      "en": "oyster",
-      "aliases": [
-        "生蚝",
-        "蚝肉"
-      ],
-      "allergens": [
-        "mollusk"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "scallop",
-      "zh": "扇贝",
-      "en": "scallop",
-      "aliases": [
-        "扇贝肉",
-        "带子"
-      ],
-      "allergens": [
-        "mollusk"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "squid",
-      "zh": "鱿鱼",
-      "en": "squid",
-      "aliases": [
-        "鱿鱼须",
-        "鱿鱼圈"
-      ],
-      "allergens": [
-        "mollusk"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "octopus",
-      "zh": "章鱼",
-      "en": "octopus",
-      "aliases": [
-        "八爪鱼"
-      ],
-      "allergens": [
-        "mollusk"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "mussel",
-      "zh": "青口",
-      "en": "mussel",
-      "aliases": [
-        "贻贝",
-        "海虹"
-      ],
-      "allergens": [
-        "mollusk"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "salted-fish",
-      "zh": "咸鱼",
-      "en": "salted fish",
-      "aliases": [
-        "咸鱼块",
-        "梅香咸鱼"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "dried-scallop",
-      "zh": "干贝",
-      "en": "dried scallop",
-      "aliases": [
-        "瑶柱",
-        "干贝丝"
-      ],
-      "allergens": [
-        "mollusk"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "nori",
-      "zh": "紫菜",
-      "en": "nori",
-      "aliases": [
-        "海苔",
-        "烤紫菜"
-      ],
-      "allergens": [],
-      "category": "seaweed"
-    },
-    {
-      "key": "kelp",
-      "zh": "海带",
-      "en": "kelp",
-      "aliases": [
-        "昆布",
-        "海带结",
-        "海带丝"
-      ],
-      "allergens": [],
-      "category": "seaweed"
-    },
-    {
-      "key": "firm-tofu",
-      "zh": "北豆腐",
-      "en": "firm tofu",
-      "aliases": [
-        "老豆腐",
-        "豆腐块",
-        "豆腐"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "legume"
-    },
-    {
-      "key": "silken-tofu",
-      "zh": "嫩豆腐",
-      "en": "silken tofu",
-      "aliases": [
-        "内酯豆腐",
-        "南豆腐",
-        "嫩豆腐块"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "legume"
-    },
-    {
-      "key": "dried-tofu",
-      "zh": "豆腐干",
-      "en": "dried tofu",
-      "aliases": [
-        "香干",
-        "豆干",
-        "白干"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "legume"
-    },
-    {
-      "key": "tofu-skin-stick",
-      "zh": "腐竹",
-      "en": "dried tofu stick",
-      "aliases": [
-        "豆筋",
-        "腐竹段"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "legume"
-    },
-    {
-      "key": "fried-tofu",
-      "zh": "油豆腐",
-      "en": "fried tofu puff",
-      "aliases": [
-        "豆泡",
-        "油豆泡"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "legume"
-    },
-    {
-      "key": "soy-milk",
-      "zh": "豆浆",
-      "en": "soy milk",
-      "aliases": [
-        "无糖豆浆"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "legume"
-    },
-    {
-      "key": "soybean",
-      "zh": "黄豆",
-      "en": "soybean",
-      "aliases": [
-        "大豆",
-        "干黄豆"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "legume"
-    },
-    {
-      "key": "mung-bean",
-      "zh": "绿豆",
-      "en": "mung bean",
-      "aliases": [
-        "绿豆仁"
-      ],
-      "allergens": [],
-      "category": "legume"
-    },
-    {
-      "key": "red-bean",
-      "zh": "红豆",
-      "en": "adzuki bean",
-      "aliases": [
-        "赤小豆",
-        "红豆沙用料"
-      ],
-      "allergens": [],
-      "category": "legume"
-    },
-    {
-      "key": "chickpea",
-      "zh": "鹰嘴豆",
-      "en": "chickpea",
-      "aliases": [
-        "鸡豆",
-        "雪莲子豆"
-      ],
-      "allergens": [],
-      "category": "legume"
+      "category": "herb"
     },
     {
       "key": "lentil",
@@ -1485,80 +1757,123 @@
       "category": "legume"
     },
     {
-      "key": "egg",
-      "zh": "鸡蛋",
-      "en": "egg",
+      "key": "lettuce",
+      "zh": "生菜",
+      "en": "lettuce",
       "aliases": [
-        "蛋",
-        "蛋液",
-        "全蛋",
-        "鸡蛋液"
+        "球生菜",
+        "罗马生菜"
       ],
-      "allergens": [
-        "egg"
-      ],
-      "category": "egg"
+      "allergens": [],
+      "category": "vegetable"
     },
     {
-      "key": "egg-yolk",
-      "zh": "蛋黄",
-      "en": "egg yolk",
+      "key": "light-soy-sauce",
+      "zh": "生抽",
+      "en": "light soy sauce",
       "aliases": [
-        "生蛋黄"
+        "酱油",
+        "生抽酱油"
       ],
       "allergens": [
-        "egg"
+        "soy",
+        "gluten"
       ],
-      "category": "egg"
+      "category": "sauce"
     },
     {
-      "key": "egg-white",
-      "zh": "蛋清",
-      "en": "egg white",
+      "key": "lime",
+      "zh": "青柠",
+      "en": "lime",
       "aliases": [
-        "蛋白"
+        "青柠檬",
+        "青柠汁"
       ],
-      "allergens": [
-        "egg"
-      ],
-      "category": "egg"
+      "allergens": [],
+      "category": "fruit"
     },
     {
-      "key": "duck-egg",
-      "zh": "鸭蛋",
-      "en": "duck egg",
+      "key": "longjing-tea",
+      "zh": "龙井茶",
+      "en": "Longjing tea",
       "aliases": [
-        "鲜鸭蛋"
+        "龙井",
+        "西湖龙井"
       ],
-      "allergens": [
-        "egg"
-      ],
-      "category": "egg"
+      "allergens": [],
+      "category": "other"
     },
     {
-      "key": "salted-egg-yolk",
-      "zh": "咸蛋黄",
-      "en": "salted egg yolk",
+      "key": "lotus-root",
+      "zh": "莲藕",
+      "en": "lotus root",
       "aliases": [
-        "咸蛋黄碎"
+        "藕",
+        "藕片",
+        "藕段"
       ],
-      "allergens": [
-        "egg"
-      ],
-      "category": "egg"
+      "allergens": [],
+      "category": "vegetable"
     },
     {
-      "key": "century-egg",
-      "zh": "皮蛋",
-      "en": "century egg",
+      "key": "luffa",
+      "zh": "丝瓜",
+      "en": "luffa",
       "aliases": [
-        "松花蛋",
-        "皮蛋丁"
+        "胜瓜",
+        "八角瓜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "mandarin-fish",
+      "zh": "鳜鱼",
+      "en": "mandarin fish",
+      "aliases": [
+        "桂鱼",
+        "鳜鱼条"
       ],
       "allergens": [
-        "egg"
+        "fish"
       ],
-      "category": "egg"
+      "category": "seafood"
+    },
+    {
+      "key": "mango",
+      "zh": "芒果",
+      "en": "mango",
+      "aliases": [
+        "芒果肉",
+        "青芒果"
+      ],
+      "allergens": [],
+      "category": "fruit"
+    },
+    {
+      "key": "mayonnaise",
+      "zh": "蛋黄酱",
+      "en": "mayonnaise",
+      "aliases": [
+        "沙拉酱",
+        "美乃滋"
+      ],
+      "allergens": [
+        "egg",
+        "mustard"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "mei-cai",
+      "zh": "梅干菜",
+      "en": "preserved mustard",
+      "aliases": [
+        "霉干菜",
+        "梅菜"
+      ],
+      "allergens": [],
+      "category": "fermented"
     },
     {
       "key": "milk",
@@ -1574,69 +1889,47 @@
       "category": "dairy"
     },
     {
-      "key": "heavy-cream",
-      "zh": "淡奶油",
-      "en": "heavy cream",
+      "key": "millet",
+      "zh": "小米",
+      "en": "millet",
       "aliases": [
-        "动物淡奶油",
-        "鲜奶油"
+        "黄小米"
       ],
-      "allergens": [
-        "milk"
-      ],
-      "category": "dairy"
+      "allergens": [],
+      "category": "grain"
     },
     {
-      "key": "butter",
-      "zh": "黄油",
-      "en": "butter",
+      "key": "mint",
+      "zh": "薄荷",
+      "en": "mint",
       "aliases": [
-        "无盐黄油",
-        "有盐黄油"
+        "薄荷叶"
       ],
-      "allergens": [
-        "milk"
-      ],
-      "category": "dairy"
+      "allergens": [],
+      "category": "herb"
     },
     {
-      "key": "yogurt",
-      "zh": "酸奶",
-      "en": "yogurt",
+      "key": "mirin",
+      "zh": "味醂",
+      "en": "mirin",
       "aliases": [
-        "原味酸奶",
-        "希腊酸奶"
+        "味淋"
       ],
-      "allergens": [
-        "milk"
-      ],
-      "category": "dairy"
+      "allergens": [],
+      "category": "seasoning"
     },
     {
-      "key": "cheese",
-      "zh": "奶酪",
-      "en": "cheese",
+      "key": "miso",
+      "zh": "味噌",
+      "en": "miso",
       "aliases": [
-        "芝士",
-        "起司"
+        "白味噌",
+        "赤味噌"
       ],
       "allergens": [
-        "milk"
+        "soy"
       ],
-      "category": "dairy"
-    },
-    {
-      "key": "parmesan",
-      "zh": "帕玛森芝士",
-      "en": "Parmesan",
-      "aliases": [
-        "帕玛森",
-        "巴马臣芝士"
-      ],
-      "allergens": [
-        "milk"
-      ],
-      "category": "dairy"
+      "category": "sauce"
     },
     {
       "key": "mozzarella",
@@ -1652,11 +1945,205 @@
       "category": "dairy"
     },
     {
-      "key": "condensed-milk",
-      "zh": "炼乳",
-      "en": "condensed milk",
+      "key": "msg",
+      "zh": "味精",
+      "en": "MSG",
       "aliases": [
-        "甜炼乳"
+        "谷氨酸钠"
+      ],
+      "allergens": [],
+      "category": "seasoning"
+    },
+    {
+      "key": "mung-bean",
+      "zh": "绿豆",
+      "en": "mung bean",
+      "aliases": [
+        "绿豆仁"
+      ],
+      "allergens": [],
+      "category": "legume"
+    },
+    {
+      "key": "mussel",
+      "zh": "青口",
+      "en": "mussel",
+      "aliases": [
+        "贻贝",
+        "海虹"
+      ],
+      "allergens": [
+        "mollusk"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "naan",
+      "zh": "馕",
+      "en": "naan",
+      "aliases": [
+        "烤馕",
+        "馕饼"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "nori",
+      "zh": "紫菜",
+      "en": "nori",
+      "aliases": [
+        "海苔",
+        "烤紫菜"
+      ],
+      "allergens": [],
+      "category": "seaweed"
+    },
+    {
+      "key": "oat",
+      "zh": "燕麦",
+      "en": "oats",
+      "aliases": [
+        "燕麦片",
+        "即食燕麦"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "octopus",
+      "zh": "章鱼",
+      "en": "octopus",
+      "aliases": [
+        "八爪鱼"
+      ],
+      "allergens": [
+        "mollusk"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "olive",
+      "zh": "橄榄",
+      "en": "olive",
+      "aliases": [
+        "黑橄榄",
+        "青橄榄"
+      ],
+      "allergens": [],
+      "category": "other"
+    },
+    {
+      "key": "olive-oil",
+      "zh": "橄榄油",
+      "en": "olive oil",
+      "aliases": [
+        "初榨橄榄油",
+        "特级初榨橄榄油"
+      ],
+      "allergens": [],
+      "category": "oil"
+    },
+    {
+      "key": "onion",
+      "zh": "洋葱",
+      "en": "onion",
+      "aliases": [
+        "洋葱丝",
+        "紫洋葱",
+        "白洋葱"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "orange",
+      "zh": "橙子",
+      "en": "orange",
+      "aliases": [
+        "橙皮",
+        "橙汁",
+        "甜橙"
+      ],
+      "allergens": [],
+      "category": "fruit"
+    },
+    {
+      "key": "oregano",
+      "zh": "牛至",
+      "en": "oregano",
+      "aliases": [
+        "披萨草",
+        "俄勒冈"
+      ],
+      "allergens": [],
+      "category": "herb"
+    },
+    {
+      "key": "oyster",
+      "zh": "牡蛎",
+      "en": "oyster",
+      "aliases": [
+        "生蚝",
+        "蚝肉"
+      ],
+      "allergens": [
+        "mollusk"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "oyster-mushroom",
+      "zh": "平菇",
+      "en": "oyster mushroom",
+      "aliases": [
+        "秀珍菇"
+      ],
+      "allergens": [],
+      "category": "fungus"
+    },
+    {
+      "key": "oyster-sauce",
+      "zh": "蚝油",
+      "en": "oyster sauce",
+      "aliases": [
+        "蚝油汁"
+      ],
+      "allergens": [
+        "mollusk",
+        "gluten"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "palm-sugar",
+      "zh": "椰糖",
+      "en": "palm sugar",
+      "aliases": [
+        "棕榈糖"
+      ],
+      "allergens": [],
+      "category": "condiment"
+    },
+    {
+      "key": "paprika",
+      "zh": "红椒粉",
+      "en": "paprika",
+      "aliases": [
+        "甜椒粉"
+      ],
+      "allergens": [],
+      "category": "seasoning"
+    },
+    {
+      "key": "parmesan",
+      "zh": "帕玛森芝士",
+      "en": "Parmesan",
+      "aliases": [
+        "帕玛森",
+        "巴马臣芝士"
       ],
       "allergens": [
         "milk"
@@ -1664,15 +2151,335 @@
       "category": "dairy"
     },
     {
-      "key": "coconut-milk",
-      "zh": "椰奶",
-      "en": "coconut milk",
+      "key": "parsley",
+      "zh": "欧芹",
+      "en": "parsley",
       "aliases": [
-        "椰浆",
-        "浓椰浆"
+        "法香",
+        "洋香菜"
       ],
       "allergens": [],
-      "category": "other"
+      "category": "herb"
+    },
+    {
+      "key": "peanut",
+      "zh": "花生",
+      "en": "peanut",
+      "aliases": [
+        "花生米",
+        "去皮花生",
+        "花生碎",
+        "炸花生"
+      ],
+      "allergens": [
+        "peanut"
+      ],
+      "category": "nut"
+    },
+    {
+      "key": "peanut-butter",
+      "zh": "花生酱",
+      "en": "peanut butter",
+      "aliases": [
+        "幼滑花生酱"
+      ],
+      "allergens": [
+        "peanut"
+      ],
+      "category": "sauce"
+    },
+    {
+      "key": "peanut-oil",
+      "zh": "花生油",
+      "en": "peanut oil",
+      "aliases": [
+        "生油"
+      ],
+      "allergens": [
+        "peanut"
+      ],
+      "category": "oil"
+    },
+    {
+      "key": "peeled-shrimp",
+      "zh": "虾仁",
+      "en": "peeled shrimp",
+      "aliases": [
+        "虾肉",
+        "虾仁丁"
+      ],
+      "allergens": [
+        "crustacean"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "penne",
+      "zh": "通心粉",
+      "en": "penne",
+      "aliases": [
+        "斜管面"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "perilla",
+      "zh": "紫苏",
+      "en": "perilla",
+      "aliases": [
+        "紫苏叶"
+      ],
+      "allergens": [],
+      "category": "herb"
+    },
+    {
+      "key": "pickled-chili",
+      "zh": "泡椒",
+      "en": "pickled chili",
+      "aliases": [
+        "泡辣椒",
+        "泡二荆条",
+        "野山椒"
+      ],
+      "allergens": [],
+      "category": "fermented"
+    },
+    {
+      "key": "pickled-chili-hunan",
+      "zh": "剁椒",
+      "en": "Hunan chopped pickled chili",
+      "aliases": [
+        "剁辣椒"
+      ],
+      "allergens": [],
+      "category": "condiment"
+    },
+    {
+      "key": "pickled-cucumber",
+      "zh": "酸黄瓜",
+      "en": "pickled cucumber",
+      "aliases": [
+        "腌黄瓜"
+      ],
+      "allergens": [],
+      "category": "fermented"
+    },
+    {
+      "key": "pickled-mustard",
+      "zh": "酸菜",
+      "en": "pickled mustard green",
+      "aliases": [
+        "酸菜丝",
+        "东北酸菜"
+      ],
+      "allergens": [],
+      "category": "fermented"
+    },
+    {
+      "key": "pine-nut",
+      "zh": "松子",
+      "en": "pine nut",
+      "aliases": [
+        "松子仁"
+      ],
+      "allergens": [
+        "tree-nut"
+      ],
+      "category": "nut"
+    },
+    {
+      "key": "pita",
+      "zh": "皮塔饼",
+      "en": "pita",
+      "aliases": [
+        "口袋饼",
+        "中东薄饼"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "pork-belly",
+      "zh": "五花肉",
+      "en": "pork belly",
+      "aliases": [
+        "三层肉",
+        "带皮五花肉",
+        "五花肉片"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "pork-intestine",
+      "zh": "猪大肠",
+      "en": "pork intestine",
+      "aliases": [
+        "肥肠",
+        "大肠"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "pork-liver",
+      "zh": "猪肝",
+      "en": "pork liver",
+      "aliases": [
+        "猪肝片"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "pork-ribs",
+      "zh": "猪排骨",
+      "en": "pork ribs",
+      "aliases": [
+        "排骨",
+        "肋排",
+        "小排"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "pork-shoulder",
+      "zh": "猪肩肉",
+      "en": "pork shoulder",
+      "aliases": [
+        "梅花肉",
+        "猪前腿肉"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "pork-tenderloin",
+      "zh": "猪里脊",
+      "en": "pork tenderloin",
+      "aliases": [
+        "里脊肉",
+        "猪柳"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "pork-trotter",
+      "zh": "猪蹄",
+      "en": "pork trotter",
+      "aliases": [
+        "猪手",
+        "猪脚"
+      ],
+      "allergens": [],
+      "category": "meat"
+    },
+    {
+      "key": "potato",
+      "zh": "土豆",
+      "en": "potato",
+      "aliases": [
+        "马铃薯",
+        "洋芋",
+        "土豆块",
+        "土豆丝"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "potato-starch",
+      "zh": "土豆淀粉",
+      "en": "potato starch",
+      "aliases": [
+        "太白粉"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "pumpkin",
+      "zh": "南瓜",
+      "en": "pumpkin",
+      "aliases": [
+        "倭瓜",
+        "南瓜块"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "quinoa",
+      "zh": "藜麦",
+      "en": "quinoa",
+      "aliases": [
+        "藜麦米"
+      ],
+      "allergens": [],
+      "category": "grain"
+    },
+    {
+      "key": "ramen-noodle",
+      "zh": "拉面",
+      "en": "ramen noodles",
+      "aliases": [
+        "日式拉面",
+        "碱水面"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "rapeseed-oil",
+      "zh": "菜籽油",
+      "en": "rapeseed oil",
+      "aliases": [
+        "菜油",
+        "川菜用油"
+      ],
+      "allergens": [],
+      "category": "oil"
+    },
+    {
+      "key": "red-bean",
+      "zh": "红豆",
+      "en": "adzuki bean",
+      "aliases": [
+        "赤小豆",
+        "红豆沙用料"
+      ],
+      "allergens": [],
+      "category": "legume"
+    },
+    {
+      "key": "red-cabbage",
+      "zh": "紫甘蓝",
+      "en": "red cabbage",
+      "aliases": [
+        "紫包菜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "red-pepper",
+      "zh": "红椒",
+      "en": "red bell pepper",
+      "aliases": [
+        "红甜椒",
+        "彩椒"
+      ],
+      "allergens": [],
+      "category": "vegetable"
     },
     {
       "key": "rice",
@@ -1687,86 +2494,12 @@
       "category": "grain"
     },
     {
-      "key": "glutinous-rice",
-      "zh": "糯米",
-      "en": "glutinous rice",
+      "key": "rice-cake",
+      "zh": "年糕",
+      "en": "rice cake",
       "aliases": [
-        "江米",
-        "圆糯米"
-      ],
-      "allergens": [],
-      "category": "grain"
-    },
-    {
-      "key": "jasmine-rice",
-      "zh": "泰国香米",
-      "en": "jasmine rice",
-      "aliases": [
-        "香米",
-        "长粒米"
-      ],
-      "allergens": [],
-      "category": "grain"
-    },
-    {
-      "key": "flour",
-      "zh": "面粉",
-      "en": "all-purpose flour",
-      "aliases": [
-        "中筋面粉",
-        "普通面粉",
-        "白面"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "bread-flour",
-      "zh": "高筋面粉",
-      "en": "bread flour",
-      "aliases": [
-        "高筋粉"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "cake-flour",
-      "zh": "低筋面粉",
-      "en": "cake flour",
-      "aliases": [
-        "低筋粉",
-        "薄力粉"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "cornstarch",
-      "zh": "玉米淀粉",
-      "en": "cornstarch",
-      "aliases": [
-        "生粉",
-        "淀粉",
-        "玉米粉",
-        "水淀粉",
-        "湿淀粉"
-      ],
-      "allergens": [],
-      "category": "grain"
-    },
-    {
-      "key": "glutinous-rice-flour",
-      "zh": "糯米粉",
-      "en": "glutinous rice flour",
-      "aliases": [
-        "糯米面"
+        "韩式年糕",
+        "水磨年糕"
       ],
       "allergens": [],
       "category": "grain"
@@ -1780,45 +2513,6 @@
         "在来米粉"
       ],
       "allergens": [],
-      "category": "grain"
-    },
-    {
-      "key": "wheat-noodle",
-      "zh": "面条",
-      "en": "wheat noodles",
-      "aliases": [
-        "鲜面条",
-        "手擀面"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "dried-noodle",
-      "zh": "挂面",
-      "en": "dried noodles",
-      "aliases": [
-        "干面条",
-        "细挂面"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "ramen-noodle",
-      "zh": "拉面",
-      "en": "ramen noodles",
-      "aliases": [
-        "日式拉面",
-        "碱水面"
-      ],
-      "allergens": [
-        "gluten"
-      ],
       "category": "grain"
     },
     {
@@ -1844,210 +2538,102 @@
       "category": "grain"
     },
     {
-      "key": "spaghetti",
-      "zh": "意大利面",
-      "en": "spaghetti",
+      "key": "rice-vinegar",
+      "zh": "米醋",
+      "en": "rice vinegar",
       "aliases": [
-        "意面",
-        "细长意面"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "penne",
-      "zh": "通心粉",
-      "en": "penne",
-      "aliases": [
-        "斜管面"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "wonton-wrapper",
-      "zh": "云吞皮",
-      "en": "wonton wrapper",
-      "aliases": [
-        "馄饨皮",
-        "抄手皮"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "dumpling-wrapper",
-      "zh": "饺子皮",
-      "en": "dumpling wrapper",
-      "aliases": [
-        "水饺皮"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "spring-roll-wrapper",
-      "zh": "春卷皮",
-      "en": "spring roll wrapper",
-      "aliases": [
-        "春卷皮子"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "bread",
-      "zh": "面包",
-      "en": "bread",
-      "aliases": [
-        "法棍",
-        "欧包",
-        "面包片"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "toast",
-      "zh": "吐司",
-      "en": "toast bread",
-      "aliases": [
-        "吐司片",
-        "白吐司"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "naan",
-      "zh": "馕",
-      "en": "naan",
-      "aliases": [
-        "烤馕",
-        "馕饼"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "pita",
-      "zh": "皮塔饼",
-      "en": "pita",
-      "aliases": [
-        "口袋饼",
-        "中东薄饼"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
-    },
-    {
-      "key": "corn-tortilla",
-      "zh": "玉米饼",
-      "en": "corn tortilla",
-      "aliases": [
-        "墨西哥玉米饼",
-        "玉米薄饼"
+        "白米醋"
       ],
       "allergens": [],
-      "category": "grain"
+      "category": "seasoning"
     },
     {
-      "key": "flour-tortilla",
-      "zh": "面粉薄饼",
-      "en": "flour tortilla",
+      "key": "rice-wine",
+      "zh": "米酒",
+      "en": "rice wine",
       "aliases": [
-        "墨西哥面饼"
+        "糯米酒",
+        "甜酒酿"
+      ],
+      "allergens": [],
+      "category": "seasoning"
+    },
+    {
+      "key": "river-shrimp",
+      "zh": "河虾仁",
+      "en": "river shrimp",
+      "aliases": [
+        "河虾",
+        "鲜虾仁"
       ],
       "allergens": [
-        "gluten"
+        "crustacean"
       ],
-      "category": "grain"
+      "category": "seafood"
     },
     {
-      "key": "oat",
-      "zh": "燕麦",
-      "en": "oats",
+      "key": "rock-sugar",
+      "zh": "冰糖",
+      "en": "rock sugar",
       "aliases": [
-        "燕麦片",
-        "即食燕麦"
-      ],
-      "allergens": [],
-      "category": "grain"
-    },
-    {
-      "key": "quinoa",
-      "zh": "藜麦",
-      "en": "quinoa",
-      "aliases": [
-        "藜麦米"
+        "单晶冰糖",
+        "冰糖碎"
       ],
       "allergens": [],
-      "category": "grain"
+      "category": "seasoning"
     },
     {
-      "key": "highland-barley",
-      "zh": "青稞",
-      "en": "highland barley",
+      "key": "rosemary",
+      "zh": "迷迭香",
+      "en": "rosemary",
       "aliases": [
-        "青稞粉",
-        "青稞面"
+        "迷迭香枝"
+      ],
+      "allergens": [],
+      "category": "herb"
+    },
+    {
+      "key": "saffron",
+      "zh": "藏红花",
+      "en": "saffron",
+      "aliases": [
+        "番红花"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "sage",
+      "zh": "鼠尾草",
+      "en": "sage",
+      "aliases": [
+        "鼠尾草叶"
+      ],
+      "allergens": [],
+      "category": "herb"
+    },
+    {
+      "key": "sake",
+      "zh": "清酒",
+      "en": "sake",
+      "aliases": [
+        "日本酒"
+      ],
+      "allergens": [],
+      "category": "seasoning"
+    },
+    {
+      "key": "salmon",
+      "zh": "三文鱼",
+      "en": "salmon",
+      "aliases": [
+        "鲑鱼",
+        "三文鱼柳"
       ],
       "allergens": [
-        "gluten"
+        "fish"
       ],
-      "category": "grain"
-    },
-    {
-      "key": "millet",
-      "zh": "小米",
-      "en": "millet",
-      "aliases": [
-        "黄小米"
-      ],
-      "allergens": [],
-      "category": "grain"
-    },
-    {
-      "key": "cornmeal",
-      "zh": "玉米面",
-      "en": "cornmeal",
-      "aliases": [
-        "苞米面",
-        "玉米糁"
-      ],
-      "allergens": [],
-      "category": "grain"
-    },
-    {
-      "key": "breadcrumb",
-      "zh": "面包糠",
-      "en": "breadcrumbs",
-      "aliases": [
-        "干面包糠",
-        "日式面包糠"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "grain"
+      "category": "seafood"
     },
     {
       "key": "salt",
@@ -2062,210 +2648,137 @@
       "category": "seasoning"
     },
     {
-      "key": "sugar",
-      "zh": "白糖",
-      "en": "sugar",
+      "key": "salt-baked-powder",
+      "zh": "盐焗粉",
+      "en": "salt-baked seasoning powder",
       "aliases": [
-        "白砂糖",
-        "砂糖",
-        "细砂糖"
+        "盐焗鸡粉"
       ],
       "allergens": [],
       "category": "seasoning"
     },
     {
-      "key": "rock-sugar",
-      "zh": "冰糖",
-      "en": "rock sugar",
+      "key": "salt-pork",
+      "zh": "咸肉",
+      "en": "salt-cured pork belly",
       "aliases": [
-        "单晶冰糖",
-        "冰糖碎"
+        "腌肉",
+        "金华咸肉",
+        "咸五花肉"
       ],
       "allergens": [],
-      "category": "seasoning"
+      "category": "meat"
     },
     {
-      "key": "brown-sugar",
-      "zh": "红糖",
-      "en": "brown sugar",
+      "key": "salted-egg-yolk",
+      "zh": "咸蛋黄",
+      "en": "salted egg yolk",
       "aliases": [
-        "黑糖",
-        "赤砂糖"
-      ],
-      "allergens": [],
-      "category": "seasoning"
-    },
-    {
-      "key": "honey",
-      "zh": "蜂蜜",
-      "en": "honey",
-      "aliases": [
-        "百花蜜"
-      ],
-      "allergens": [],
-      "category": "sweetener"
-    },
-    {
-      "key": "light-soy-sauce",
-      "zh": "生抽",
-      "en": "light soy sauce",
-      "aliases": [
-        "酱油",
-        "生抽酱油"
+        "咸蛋黄碎"
       ],
       "allergens": [
-        "soy",
-        "gluten"
+        "egg"
       ],
-      "category": "sauce"
+      "category": "egg"
     },
     {
-      "key": "dark-soy-sauce",
-      "zh": "老抽",
-      "en": "dark soy sauce",
+      "key": "salted-fish",
+      "zh": "咸鱼",
+      "en": "salted fish",
       "aliases": [
-        "老抽酱油"
-      ],
-      "allergens": [
-        "soy",
-        "gluten"
-      ],
-      "category": "sauce"
-    },
-    {
-      "key": "doubanjiang",
-      "zh": "豆瓣酱",
-      "en": "doubanjiang",
-      "aliases": [
-        "郫县豆瓣",
-        "豆瓣",
-        "辣豆瓣",
-        "郫县豆瓣酱",
-        "红油豆瓣"
-      ],
-      "allergens": [
-        "soy",
-        "gluten"
-      ],
-      "category": "sauce"
-    },
-    {
-      "key": "sweet-bean-sauce",
-      "zh": "甜面酱",
-      "en": "sweet bean sauce",
-      "aliases": [
-        "甜酱"
-      ],
-      "allergens": [
-        "soy",
-        "gluten"
-      ],
-      "category": "sauce"
-    },
-    {
-      "key": "soybean-paste",
-      "zh": "黄豆酱",
-      "en": "soybean paste",
-      "aliases": [
-        "大酱",
-        "豆酱"
-      ],
-      "allergens": [
-        "soy",
-        "gluten"
-      ],
-      "category": "sauce"
-    },
-    {
-      "key": "fermented-black-bean",
-      "zh": "豆豉",
-      "en": "fermented black beans",
-      "aliases": [
-        "豆豉粒",
-        "阳江豆豉"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "sauce"
-    },
-    {
-      "key": "fermented-tofu",
-      "zh": "腐乳",
-      "en": "fermented tofu",
-      "aliases": [
-        "南乳",
-        "白腐乳",
-        "红腐乳"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "sauce"
-    },
-    {
-      "key": "oyster-sauce",
-      "zh": "蚝油",
-      "en": "oyster sauce",
-      "aliases": [
-        "蚝油汁"
-      ],
-      "allergens": [
-        "mollusk",
-        "gluten"
-      ],
-      "category": "sauce"
-    },
-    {
-      "key": "fish-sauce",
-      "zh": "鱼露",
-      "en": "fish sauce",
-      "aliases": [
-        "鱼酱油"
+        "咸鱼块",
+        "梅香咸鱼"
       ],
       "allergens": [
         "fish"
       ],
-      "category": "sauce"
+      "category": "seafood"
     },
     {
-      "key": "shrimp-paste",
-      "zh": "虾酱",
-      "en": "shrimp paste",
+      "key": "sand-ginger",
+      "zh": "沙姜",
+      "en": "sand ginger",
       "aliases": [
-        "虾膏",
-        "马拉盏"
+        "山奈",
+        "三奈"
       ],
-      "allergens": [
-        "crustacean"
-      ],
-      "category": "sauce"
+      "allergens": [],
+      "category": "aromatic"
     },
     {
-      "key": "sesame-paste",
-      "zh": "芝麻酱",
-      "en": "sesame paste",
+      "key": "scallion",
+      "zh": "小葱",
+      "en": "scallion",
       "aliases": [
-        "麻酱",
-        "芝麻花生酱"
+        "葱",
+        "青葱",
+        "葱花",
+        "香葱"
       ],
-      "allergens": [
-        "sesame",
-        "peanut"
-      ],
-      "category": "sauce"
+      "allergens": [],
+      "category": "vegetable"
     },
     {
-      "key": "peanut-butter",
-      "zh": "花生酱",
-      "en": "peanut butter",
+      "key": "scallop",
+      "zh": "扇贝",
+      "en": "scallop",
       "aliases": [
-        "幼滑花生酱"
+        "扇贝肉",
+        "带子"
       ],
       "allergens": [
-        "peanut"
+        "mollusk"
       ],
-      "category": "sauce"
+      "category": "seafood"
+    },
+    {
+      "key": "sea-bass",
+      "zh": "鲈鱼",
+      "en": "sea bass",
+      "aliases": [
+        "鲈",
+        "海鲈鱼"
+      ],
+      "allergens": [
+        "fish"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "sea-cucumber",
+      "zh": "海参",
+      "en": "sea cucumber",
+      "aliases": [
+        "水发海参"
+      ],
+      "allergens": [
+        "mollusk"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "seasoned-soy-for-seafood",
+      "zh": "蒸鱼豉油",
+      "en": "seasoned soy sauce for seafood",
+      "aliases": [
+        "豉油"
+      ],
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "category": "condiment"
+    },
+    {
+      "key": "seaweed",
+      "zh": "海藻",
+      "en": "seaweed",
+      "aliases": [
+        "裙带菜",
+        "海菜"
+      ],
+      "allergens": [],
+      "category": "seaweed"
     },
     {
       "key": "sesame",
@@ -2295,191 +2808,18 @@
       "category": "oil"
     },
     {
-      "key": "peanut",
-      "zh": "花生",
-      "en": "peanut",
+      "key": "sesame-paste",
+      "zh": "芝麻酱",
+      "en": "sesame paste",
       "aliases": [
-        "花生米",
-        "去皮花生",
-        "花生碎",
-        "炸花生"
+        "麻酱",
+        "芝麻花生酱"
       ],
       "allergens": [
+        "sesame",
         "peanut"
       ],
-      "category": "nut"
-    },
-    {
-      "key": "walnut",
-      "zh": "核桃",
-      "en": "walnut",
-      "aliases": [
-        "核桃仁",
-        "核桃碎"
-      ],
-      "allergens": [
-        "tree-nut"
-      ],
-      "category": "nut"
-    },
-    {
-      "key": "cashew",
-      "zh": "腰果",
-      "en": "cashew",
-      "aliases": [
-        "腰果仁",
-        "烤腰果"
-      ],
-      "allergens": [
-        "tree-nut"
-      ],
-      "category": "nut"
-    },
-    {
-      "key": "almond",
-      "zh": "杏仁",
-      "en": "almond",
-      "aliases": [
-        "巴旦木",
-        "杏仁片"
-      ],
-      "allergens": [
-        "tree-nut"
-      ],
-      "category": "nut"
-    },
-    {
-      "key": "pine-nut",
-      "zh": "松子",
-      "en": "pine nut",
-      "aliases": [
-        "松子仁"
-      ],
-      "allergens": [
-        "tree-nut"
-      ],
-      "category": "nut"
-    },
-    {
-      "key": "five-spice",
-      "zh": "五香粉",
-      "en": "five spice powder",
-      "aliases": [
-        "五香"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "thirteen-spice",
-      "zh": "十三香",
-      "en": "thirteen spice",
-      "aliases": [
-        "十三香粉"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "cumin",
-      "zh": "孜然",
-      "en": "cumin",
-      "aliases": [
-        "孜然粉",
-        "孜然粒"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "curry-powder",
-      "zh": "咖喱粉",
-      "en": "curry powder",
-      "aliases": [
-        "咖喱"
-      ],
-      "allergens": [
-        "mustard"
-      ],
-      "category": "spice"
-    },
-    {
-      "key": "turmeric",
-      "zh": "姜黄",
-      "en": "turmeric",
-      "aliases": [
-        "姜黄粉"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "black-pepper",
-      "zh": "黑胡椒",
-      "en": "black pepper",
-      "aliases": [
-        "黑胡椒碎",
-        "现磨黑胡椒"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "white-pepper",
-      "zh": "白胡椒",
-      "en": "white pepper",
-      "aliases": [
-        "白胡椒粉",
-        "胡椒"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "chili-powder",
-      "zh": "辣椒粉",
-      "en": "chili powder",
-      "aliases": [
-        "辣椒面",
-        "细辣椒粉"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "chili-oil",
-      "zh": "辣椒油",
-      "en": "chili oil",
-      "aliases": [
-        "红油",
-        "辣子油"
-      ],
-      "allergens": [],
-      "category": "oil"
-    },
-    {
-      "key": "cooking-wine",
-      "zh": "料酒",
-      "en": "cooking wine",
-      "aliases": [
-        "黄酒",
-        "花雕酒"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "seasoning"
-    },
-    {
-      "key": "rice-wine",
-      "zh": "米酒",
-      "en": "rice wine",
-      "aliases": [
-        "糯米酒",
-        "甜酒酿"
-      ],
-      "allergens": [],
-      "category": "seasoning"
+      "category": "sauce"
     },
     {
       "key": "shaoxing-wine",
@@ -2495,89 +2835,136 @@
       "category": "seasoning"
     },
     {
-      "key": "black-vinegar",
-      "zh": "香醋",
-      "en": "black vinegar",
+      "key": "sheet-jelly",
+      "zh": "粉皮",
+      "en": "mung bean sheet jelly",
       "aliases": [
-        "镇江香醋",
-        "陈醋"
-      ],
-      "allergens": [
-        "gluten"
-      ],
-      "category": "seasoning"
-    },
-    {
-      "key": "rice-vinegar",
-      "zh": "米醋",
-      "en": "rice vinegar",
-      "aliases": [
-        "白米醋"
+        "拉皮",
+        "绿豆粉皮"
       ],
       "allergens": [],
-      "category": "seasoning"
+      "category": "other"
     },
     {
-      "key": "white-vinegar",
-      "zh": "白醋",
-      "en": "white vinegar",
+      "key": "shiitake",
+      "zh": "香菇",
+      "en": "shiitake mushroom",
       "aliases": [
-        "蒸馏白醋"
+        "冬菇",
+        "香菇片",
+        "干香菇"
       ],
       "allergens": [],
-      "category": "seasoning"
+      "category": "fungus"
     },
     {
-      "key": "balsamic",
-      "zh": "黑醋",
-      "en": "balsamic vinegar",
+      "key": "shrimp",
+      "zh": "虾",
+      "en": "shrimp",
       "aliases": [
-        "巴萨米克醋"
+        "明虾",
+        "大虾",
+        "鲜虾",
+        "基围虾",
+        "虾子"
       ],
       "allergens": [
-        "sulfite"
+        "crustacean"
       ],
-      "category": "seasoning"
+      "category": "seafood"
     },
     {
-      "key": "miso",
-      "zh": "味噌",
-      "en": "miso",
+      "key": "shrimp-paste",
+      "zh": "虾酱",
+      "en": "shrimp paste",
       "aliases": [
-        "白味噌",
-        "赤味噌"
+        "虾膏",
+        "马拉盏"
       ],
       "allergens": [
-        "soy"
+        "crustacean"
       ],
       "category": "sauce"
     },
     {
-      "key": "mirin",
-      "zh": "味醂",
-      "en": "mirin",
+      "key": "sichuan-peppercorn",
+      "zh": "花椒",
+      "en": "Sichuan peppercorn",
       "aliases": [
-        "味淋"
+        "红花椒",
+        "花椒粒",
+        "花椒粉",
+        "花椒面"
       ],
       "allergens": [],
-      "category": "seasoning"
+      "category": "spice"
     },
     {
-      "key": "sake",
-      "zh": "清酒",
-      "en": "sake",
+      "key": "silken-tofu",
+      "zh": "嫩豆腐",
+      "en": "silken tofu",
       "aliases": [
-        "日本酒"
+        "内酯豆腐",
+        "南豆腐",
+        "嫩豆腐块"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "legume"
+    },
+    {
+      "key": "sliced-beef",
+      "zh": "肥牛",
+      "en": "sliced beef",
+      "aliases": [
+        "肥牛卷"
       ],
       "allergens": [],
-      "category": "seasoning"
+      "category": "meat"
     },
     {
-      "key": "gochujang",
-      "zh": "韩式辣椒酱",
-      "en": "gochujang",
+      "key": "snow-peas",
+      "zh": "荷兰豆",
+      "en": "snow peas",
       "aliases": [
-        "苦椒酱"
+        "甜豆"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "soy-milk",
+      "zh": "豆浆",
+      "en": "soy milk",
+      "aliases": [
+        "无糖豆浆"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "legume"
+    },
+    {
+      "key": "soybean",
+      "zh": "黄豆",
+      "en": "soybean",
+      "aliases": [
+        "大豆",
+        "干黄豆"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "legume"
+    },
+    {
+      "key": "soybean-paste",
+      "zh": "黄豆酱",
+      "en": "soybean paste",
+      "aliases": [
+        "大酱",
+        "豆酱"
       ],
       "allergens": [
         "soy",
@@ -2586,55 +2973,64 @@
       "category": "sauce"
     },
     {
-      "key": "kimchi",
-      "zh": "泡菜",
-      "en": "kimchi",
+      "key": "soybean-sprouts",
+      "zh": "黄豆芽",
+      "en": "soybean sprouts",
       "aliases": [
-        "韩式泡菜",
-        "辣白菜"
+        "大豆芽"
       ],
       "allergens": [
-        "fish"
+        "soy"
       ],
-      "category": "fermented"
+      "category": "vegetable"
     },
     {
-      "key": "mayonnaise",
-      "zh": "蛋黄酱",
-      "en": "mayonnaise",
+      "key": "spaghetti",
+      "zh": "意大利面",
+      "en": "spaghetti",
       "aliases": [
-        "沙拉酱",
-        "美乃滋"
+        "意面",
+        "细长意面"
       ],
       "allergens": [
-        "egg",
-        "mustard"
+        "gluten"
       ],
-      "category": "sauce"
+      "category": "grain"
     },
     {
-      "key": "dijon-mustard",
-      "zh": "第戎芥末",
-      "en": "Dijon mustard",
+      "key": "spinach",
+      "zh": "菠菜",
+      "en": "spinach",
       "aliases": [
-        "黄芥末酱",
-        "法式芥末"
-      ],
-      "allergens": [
-        "mustard",
-        "sulfite"
-      ],
-      "category": "sauce"
-    },
-    {
-      "key": "ketchup",
-      "zh": "番茄酱",
-      "en": "ketchup",
-      "aliases": [
-        "茄汁"
+        "菠菜叶"
       ],
       "allergens": [],
-      "category": "sauce"
+      "category": "vegetable"
+    },
+    {
+      "key": "spring-roll-wrapper",
+      "zh": "春卷皮",
+      "en": "spring roll wrapper",
+      "aliases": [
+        "春卷皮子"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "squid",
+      "zh": "鱿鱼",
+      "en": "squid",
+      "aliases": [
+        "鱿鱼须",
+        "鱿鱼圈"
+      ],
+      "allergens": [
+        "mollusk"
+      ],
+      "category": "seafood"
     },
     {
       "key": "sriracha",
@@ -2647,92 +3043,15 @@
       "category": "sauce"
     },
     {
-      "key": "rapeseed-oil",
-      "zh": "菜籽油",
-      "en": "rapeseed oil",
+      "key": "star-anise",
+      "zh": "八角",
+      "en": "star anise",
       "aliases": [
-        "菜油",
-        "川菜用油"
+        "大料",
+        "八角茴香"
       ],
       "allergens": [],
-      "category": "oil"
-    },
-    {
-      "key": "peanut-oil",
-      "zh": "花生油",
-      "en": "peanut oil",
-      "aliases": [
-        "生油"
-      ],
-      "allergens": [
-        "peanut"
-      ],
-      "category": "oil"
-    },
-    {
-      "key": "vegetable-oil",
-      "zh": "植物油",
-      "en": "vegetable oil",
-      "aliases": [
-        "调和油",
-        "大豆油",
-        "玉米油"
-      ],
-      "allergens": [],
-      "category": "oil"
-    },
-    {
-      "key": "olive-oil",
-      "zh": "橄榄油",
-      "en": "olive oil",
-      "aliases": [
-        "初榨橄榄油",
-        "特级初榨橄榄油"
-      ],
-      "allergens": [],
-      "category": "oil"
-    },
-    {
-      "key": "lard",
-      "zh": "猪油",
-      "en": "lard",
-      "aliases": [
-        "猪板油",
-        "荤油"
-      ],
-      "allergens": [],
-      "category": "oil"
-    },
-    {
-      "key": "coconut-oil",
-      "zh": "椰子油",
-      "en": "coconut oil",
-      "aliases": [
-        "椰油"
-      ],
-      "allergens": [],
-      "category": "oil"
-    },
-    {
-      "key": "msg",
-      "zh": "味精",
-      "en": "MSG",
-      "aliases": [
-        "谷氨酸钠"
-      ],
-      "allergens": [],
-      "category": "seasoning"
-    },
-    {
-      "key": "chicken-bouillon",
-      "zh": "鸡精",
-      "en": "chicken bouillon",
-      "aliases": [
-        "鸡粉",
-        "高汤粉"
-      ],
-      "allergens": [],
-      "category": "seasoning"
+      "category": "spice"
     },
     {
       "key": "stock",
@@ -2747,94 +3066,52 @@
       "category": "other"
     },
     {
-      "key": "water",
-      "zh": "清水",
-      "en": "water",
+      "key": "sugar",
+      "zh": "白糖",
+      "en": "sugar",
       "aliases": [
-        "水",
-        "凉水",
-        "热水",
-        "温水"
+        "白砂糖",
+        "砂糖",
+        "细砂糖"
       ],
       "allergens": [],
-      "category": "other"
+      "category": "seasoning"
     },
     {
-      "key": "lemon",
-      "zh": "柠檬",
-      "en": "lemon",
+      "key": "sweet-bean-sauce",
+      "zh": "甜面酱",
+      "en": "sweet bean sauce",
       "aliases": [
-        "柠檬汁",
-        "柠檬片",
-        "黄柠檬"
+        "甜酱"
       ],
-      "allergens": [],
-      "category": "fruit"
+      "allergens": [
+        "soy",
+        "gluten"
+      ],
+      "category": "sauce"
     },
     {
-      "key": "lime",
-      "zh": "青柠",
-      "en": "lime",
+      "key": "sweet-corn",
+      "zh": "玉米",
+      "en": "sweet corn",
       "aliases": [
-        "青柠檬",
-        "青柠汁"
+        "玉米粒",
+        "甜玉米"
       ],
       "allergens": [],
-      "category": "fruit"
+      "category": "vegetable"
     },
     {
-      "key": "orange",
-      "zh": "橙子",
-      "en": "orange",
+      "key": "sweet-potato",
+      "zh": "红薯",
+      "en": "sweet potato",
       "aliases": [
-        "橙皮",
-        "橙汁",
-        "甜橙"
+        "地瓜",
+        "番薯",
+        "山芋"
       ],
       "allergens": [],
-      "category": "fruit"
-    },
-    {
-      "key": "apple",
-      "zh": "苹果",
-      "en": "apple",
-      "aliases": [
-        "苹果块",
-        "青苹果"
-      ],
-      "allergens": [],
-      "category": "fruit"
-    },
-    {
-      "key": "banana",
-      "zh": "香蕉",
-      "en": "banana",
-      "aliases": [
-        "香蕉泥"
-      ],
-      "allergens": [],
-      "category": "fruit"
-    },
-    {
-      "key": "mango",
-      "zh": "芒果",
-      "en": "mango",
-      "aliases": [
-        "芒果肉",
-        "青芒果"
-      ],
-      "allergens": [],
-      "category": "fruit"
-    },
-    {
-      "key": "avocado",
-      "zh": "牛油果",
-      "en": "avocado",
-      "aliases": [
-        "鳄梨"
-      ],
-      "allergens": [],
-      "category": "fruit"
+      "category": "vegetable"
     },
     {
       "key": "tamarind",
@@ -2848,391 +3125,48 @@
       "category": "fruit"
     },
     {
-      "key": "coconut-flake",
-      "zh": "椰蓉",
-      "en": "desiccated coconut",
+      "key": "taro",
+      "zh": "芋头",
+      "en": "taro",
       "aliases": [
-        "椰丝",
-        "椰碎"
+        "芋艿",
+        "香芋"
       ],
       "allergens": [],
-      "category": "other"
+      "category": "vegetable"
     },
     {
-      "key": "vanilla",
-      "zh": "香草荚",
-      "en": "vanilla pod",
+      "key": "thirteen-spice",
+      "zh": "十三香",
+      "en": "thirteen spice",
       "aliases": [
-        "香草精",
-        "香草籽"
+        "十三香粉"
       ],
       "allergens": [],
       "category": "spice"
     },
     {
-      "key": "cocoa",
-      "zh": "可可粉",
-      "en": "cocoa powder",
+      "key": "thyme",
+      "zh": "百里香",
+      "en": "thyme",
       "aliases": [
-        "无糖可可粉"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "chocolate",
-      "zh": "黑巧克力",
-      "en": "dark chocolate",
-      "aliases": [
-        "巧克力",
-        "巧克力币"
-      ],
-      "allergens": [
-        "soy"
-      ],
-      "category": "other"
-    },
-    {
-      "key": "yeast",
-      "zh": "酵母",
-      "en": "yeast",
-      "aliases": [
-        "干酵母",
-        "速发酵母"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "baking-powder",
-      "zh": "泡打粉",
-      "en": "baking powder",
-      "aliases": [
-        "发粉"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "baking-soda",
-      "zh": "小苏打",
-      "en": "baking soda",
-      "aliases": [
-        "苏打粉",
-        "食用碱"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "gelatin",
-      "zh": "吉利丁",
-      "en": "gelatin",
-      "aliases": [
-        "吉利丁片",
-        "明胶"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "agar",
-      "zh": "琼脂",
-      "en": "agar",
-      "aliases": [
-        "寒天",
-        "琼脂粉"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "pickled-cucumber",
-      "zh": "酸黄瓜",
-      "en": "pickled cucumber",
-      "aliases": [
-        "腌黄瓜"
-      ],
-      "allergens": [],
-      "category": "fermented"
-    },
-    {
-      "key": "olive",
-      "zh": "橄榄",
-      "en": "olive",
-      "aliases": [
-        "黑橄榄",
-        "青橄榄"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "capers",
-      "zh": "酸豆",
-      "en": "capers",
-      "aliases": [
-        "水瓜柳"
-      ],
-      "allergens": [],
-      "category": "fermented"
-    },
-    {
-      "key": "parsley",
-      "zh": "欧芹",
-      "en": "parsley",
-      "aliases": [
-        "法香",
-        "洋香菜"
+        "百里香叶"
       ],
       "allergens": [],
       "category": "herb"
     },
     {
-      "key": "dill",
-      "zh": "莳萝",
-      "en": "dill",
+      "key": "toast",
+      "zh": "吐司",
+      "en": "toast bread",
       "aliases": [
-        "刁草"
-      ],
-      "allergens": [],
-      "category": "herb"
-    },
-    {
-      "key": "sage",
-      "zh": "鼠尾草",
-      "en": "sage",
-      "aliases": [
-        "鼠尾草叶"
-      ],
-      "allergens": [],
-      "category": "herb"
-    },
-    {
-      "key": "oregano",
-      "zh": "牛至",
-      "en": "oregano",
-      "aliases": [
-        "披萨草",
-        "俄勒冈"
-      ],
-      "allergens": [],
-      "category": "herb"
-    },
-    {
-      "key": "coriander-seed",
-      "zh": "芫荽籽",
-      "en": "coriander seed",
-      "aliases": [
-        "香菜籽",
-        "胡荽籽"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "star-anise",
-      "zh": "八角",
-      "en": "star anise",
-      "aliases": [
-        "大料",
-        "八角茴香"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "cinnamon",
-      "zh": "桂皮",
-      "en": "cinnamon",
-      "aliases": [
-        "肉桂",
-        "肉桂棒"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "clove-spice",
-      "zh": "丁香",
-      "en": "clove",
-      "aliases": [
-        "丁香粒"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "cardamom",
-      "zh": "小豆蔻",
-      "en": "cardamom",
-      "aliases": [
-        "绿豆蔻"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "saffron",
-      "zh": "藏红花",
-      "en": "saffron",
-      "aliases": [
-        "番红花"
-      ],
-      "allergens": [],
-      "category": "spice"
-    },
-    {
-      "key": "ghee",
-      "zh": "酥油",
-      "en": "ghee",
-      "aliases": [
-        "印度酥油"
-      ],
-      "allergens": [
-        "milk"
-      ],
-      "category": "dairy"
-    },
-    {
-      "key": "tsampa",
-      "zh": "糌粑",
-      "en": "tsampa",
-      "aliases": [
-        "青稞炒面"
+        "吐司片",
+        "白吐司"
       ],
       "allergens": [
         "gluten"
       ],
       "category": "grain"
-    },
-    {
-      "key": "butter-tea",
-      "zh": "酥油茶",
-      "en": "butter tea",
-      "aliases": [
-        "藏式酥油茶"
-      ],
-      "allergens": [
-        "milk"
-      ],
-      "category": "drink"
-    },
-    {
-      "key": "seaweed",
-      "zh": "海藻",
-      "en": "seaweed",
-      "aliases": [
-        "裙带菜",
-        "海菜"
-      ],
-      "allergens": [],
-      "category": "seaweed"
-    },
-    {
-      "key": "bamboo-charcoal",
-      "zh": "竹炭",
-      "en": "bamboo charcoal",
-      "aliases": [
-        "烧烤炭"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "garlic-sprout",
-      "zh": "蒜苗",
-      "en": "garlic sprout",
-      "aliases": [
-        "青蒜",
-        "蒜叶",
-        "大蒜苗"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "pickled-chili",
-      "zh": "泡椒",
-      "en": "pickled chili",
-      "aliases": [
-        "泡辣椒",
-        "泡二荆条",
-        "野山椒",
-        "剁椒"
-      ],
-      "allergens": [],
-      "category": "fermented"
-    },
-    {
-      "key": "celtuce",
-      "zh": "莴笋",
-      "en": "celtuce",
-      "aliases": [
-        "青笋",
-        "莴苣",
-        "莴笋茎"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "fermented-chili-paste",
-      "zh": "糍粑辣椒",
-      "en": "ciba chili paste",
-      "aliases": [
-        "糍粑辣子"
-      ],
-      "allergens": [],
-      "category": "sauce"
-    },
-    {
-      "key": "carp",
-      "zh": "鲤鱼",
-      "en": "carp",
-      "aliases": [
-        "鲤"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "fish"
-    },
-    {
-      "key": "eel",
-      "zh": "黄鳝",
-      "en": "swamp eel",
-      "aliases": [
-        "鳝鱼",
-        "鳝丝",
-        "鳝段"
-      ],
-      "allergens": [
-        "fish"
-      ],
-      "category": "fish"
-    },
-    {
-      "key": "sea-cucumber",
-      "zh": "海参",
-      "en": "sea cucumber",
-      "aliases": [
-        "水发海参"
-      ],
-      "allergens": [
-        "mollusk"
-      ],
-      "category": "seafood"
-    },
-    {
-      "key": "beef",
-      "zh": "牛肉",
-      "en": "beef",
-      "aliases": [
-        "黄牛肉"
-      ],
-      "allergens": [],
-      "category": "meat"
     },
     {
       "key": "tofu-skin",
@@ -3249,79 +3183,6 @@
       "category": "soy"
     },
     {
-      "key": "rice-cake",
-      "zh": "年糕",
-      "en": "rice cake",
-      "aliases": [
-        "韩式年糕",
-        "水磨年糕"
-      ],
-      "allergens": [],
-      "category": "grain"
-    },
-    {
-      "key": "galangal",
-      "zh": "南姜",
-      "en": "galangal",
-      "aliases": [
-        "高良姜"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "garam-masala",
-      "zh": "印度综合香料",
-      "en": "garam masala",
-      "aliases": [
-        "葛拉姆马萨拉"
-      ],
-      "allergens": [],
-      "category": "seasoning"
-    },
-    {
-      "key": "tomato-paste",
-      "zh": "番茄膏",
-      "en": "tomato paste",
-      "aliases": [
-        "番茄浓缩酱"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "paprika",
-      "zh": "红椒粉",
-      "en": "paprika",
-      "aliases": [
-        "甜椒粉"
-      ],
-      "allergens": [],
-      "category": "seasoning"
-    },
-    {
-      "key": "chili-flakes",
-      "zh": "辣椒碎",
-      "en": "chili flakes",
-      "aliases": [
-        "干辣椒碎"
-      ],
-      "allergens": [],
-      "category": "seasoning"
-    },
-    {
-      "key": "salt-pork",
-      "zh": "咸肉",
-      "en": "salt-cured pork belly",
-      "aliases": [
-        "腌肉",
-        "金华咸肉",
-        "咸五花肉"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
       "key": "tofu-skin-knot",
       "zh": "百叶结",
       "en": "tofu skin knot",
@@ -3334,33 +3195,58 @@
       "category": "soy"
     },
     {
-      "key": "potato-starch",
-      "zh": "土豆淀粉",
-      "en": "potato starch",
+      "key": "tofu-skin-stick",
+      "zh": "腐竹",
+      "en": "dried tofu stick",
       "aliases": [
-        "太白粉"
+        "豆筋",
+        "腐竹段"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "legume"
+    },
+    {
+      "key": "tomato",
+      "zh": "番茄",
+      "en": "tomato",
+      "aliases": [
+        "西红柿",
+        "番茄块",
+        "罐装番茄"
       ],
       "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "tomato-paste",
+      "zh": "番茄膏",
+      "en": "tomato paste",
+      "aliases": [
+        "番茄浓缩酱"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "tsampa",
+      "zh": "糌粑",
+      "en": "tsampa",
+      "aliases": [
+        "青稞炒面"
+      ],
+      "allergens": [
+        "gluten"
+      ],
       "category": "grain"
     },
     {
-      "key": "beef-tripe",
-      "zh": "牛肚",
-      "en": "beef tripe",
+      "key": "tuna",
+      "zh": "金枪鱼",
+      "en": "tuna",
       "aliases": [
-        "毛肚",
-        "牛百叶"
-      ],
-      "allergens": [],
-      "category": "meat"
-    },
-    {
-      "key": "mandarin-fish",
-      "zh": "鳜鱼",
-      "en": "mandarin fish",
-      "aliases": [
-        "桂鱼",
-        "鳜鱼条"
+        "吞拿鱼"
       ],
       "allergens": [
         "fish"
@@ -3368,35 +3254,106 @@
       "category": "seafood"
     },
     {
-      "key": "river-shrimp",
-      "zh": "河虾仁",
-      "en": "river shrimp",
+      "key": "turmeric",
+      "zh": "姜黄",
+      "en": "turmeric",
       "aliases": [
-        "河虾",
-        "鲜虾仁"
+        "姜黄粉"
       ],
-      "allergens": [
-        "crustacean"
-      ],
-      "category": "seafood"
+      "allergens": [],
+      "category": "spice"
     },
     {
-      "key": "longjing-tea",
-      "zh": "龙井茶",
-      "en": "Longjing tea",
+      "key": "vanilla",
+      "zh": "香草荚",
+      "en": "vanilla pod",
       "aliases": [
-        "龙井",
-        "西湖龙井"
+        "香草精",
+        "香草籽"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "vegetable-oil",
+      "zh": "植物油",
+      "en": "vegetable oil",
+      "aliases": [
+        "调和油",
+        "大豆油",
+        "玉米油"
+      ],
+      "allergens": [],
+      "category": "oil"
+    },
+    {
+      "key": "walnut",
+      "zh": "核桃",
+      "en": "walnut",
+      "aliases": [
+        "核桃仁",
+        "核桃碎"
+      ],
+      "allergens": [
+        "tree-nut"
+      ],
+      "category": "nut"
+    },
+    {
+      "key": "water",
+      "zh": "清水",
+      "en": "water",
+      "aliases": [
+        "水",
+        "凉水",
+        "热水",
+        "温水"
       ],
       "allergens": [],
       "category": "other"
     },
     {
-      "key": "green-pea",
-      "zh": "豌豆",
-      "en": "green pea",
+      "key": "water-bamboo",
+      "zh": "茭白",
+      "en": "water bamboo",
       "aliases": [
-        "豌豆粒"
+        "茭笋"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "water-chestnut",
+      "zh": "荸荠",
+      "en": "water chestnut",
+      "aliases": [
+        "马蹄",
+        "马蹄碎"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "water-spinach",
+      "zh": "空心菜",
+      "en": "water spinach",
+      "aliases": [
+        "通菜",
+        "蕹菜",
+        "竹叶菜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "welsh-onion",
+      "zh": "大葱",
+      "en": "Welsh onion",
+      "aliases": [
+        "京葱",
+        "葱丝",
+        "葱白",
+        "葱段"
       ],
       "allergens": [],
       "category": "vegetable"
@@ -3415,39 +3372,49 @@
       "category": "other"
     },
     {
-      "key": "sheet-jelly",
-      "zh": "粉皮",
-      "en": "mung bean sheet jelly",
+      "key": "wheat-noodle",
+      "zh": "面条",
+      "en": "wheat noodles",
       "aliases": [
-        "拉皮",
-        "绿豆粉皮"
-      ],
-      "allergens": [],
-      "category": "other"
-    },
-    {
-      "key": "dried-daylily",
-      "zh": "黄花菜",
-      "en": "dried daylily",
-      "aliases": [
-        "金针菜",
-        "黄花"
-      ],
-      "allergens": [],
-      "category": "vegetable"
-    },
-    {
-      "key": "seasoned-soy-for-seafood",
-      "zh": "蒸鱼豉油",
-      "en": "seasoned soy sauce for seafood",
-      "aliases": [
-        "豉油"
+        "鲜面条",
+        "手擀面"
       ],
       "allergens": [
-        "soy",
         "gluten"
       ],
-      "category": "condiment"
+      "category": "grain"
+    },
+    {
+      "key": "white-fungus",
+      "zh": "银耳",
+      "en": "white fungus",
+      "aliases": [
+        "雪耳",
+        "白木耳"
+      ],
+      "allergens": [],
+      "category": "fungus"
+    },
+    {
+      "key": "white-pepper",
+      "zh": "白胡椒",
+      "en": "white pepper",
+      "aliases": [
+        "白胡椒粉",
+        "胡椒"
+      ],
+      "allergens": [],
+      "category": "spice"
+    },
+    {
+      "key": "white-vinegar",
+      "zh": "白醋",
+      "en": "white vinegar",
+      "aliases": [
+        "蒸馏白醋"
+      ],
+      "allergens": [],
+      "category": "seasoning"
     },
     {
       "key": "white-wine",
@@ -3463,12 +3430,83 @@
       "category": "condiment"
     },
     {
-      "key": "apple-cider-vinegar",
-      "zh": "苹果醋",
-      "en": "apple cider vinegar",
-      "aliases": [],
+      "key": "whole-chicken",
+      "zh": "整鸡",
+      "en": "whole chicken",
+      "aliases": [
+        "三黄鸡",
+        "土鸡",
+        "童子鸡"
+      ],
       "allergens": [],
-      "category": "condiment"
+      "category": "poultry"
+    },
+    {
+      "key": "whole-duck",
+      "zh": "鸭",
+      "en": "duck",
+      "aliases": [
+        "整鸭",
+        "鸭子",
+        "鸭肉"
+      ],
+      "allergens": [],
+      "category": "poultry"
+    },
+    {
+      "key": "winter-melon",
+      "zh": "冬瓜",
+      "en": "winter melon",
+      "aliases": [
+        "冬瓜块"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "wonton-wrapper",
+      "zh": "云吞皮",
+      "en": "wonton wrapper",
+      "aliases": [
+        "馄饨皮",
+        "抄手皮"
+      ],
+      "allergens": [
+        "gluten"
+      ],
+      "category": "grain"
+    },
+    {
+      "key": "wood-ear",
+      "zh": "木耳",
+      "en": "wood ear mushroom",
+      "aliases": [
+        "黑木耳",
+        "木耳丝"
+      ],
+      "allergens": [],
+      "category": "fungus"
+    },
+    {
+      "key": "yeast",
+      "zh": "酵母",
+      "en": "yeast",
+      "aliases": [
+        "干酵母",
+        "速发酵母"
+      ],
+      "allergens": [],
+      "category": "other"
+    },
+    {
+      "key": "yellow-chives",
+      "zh": "韭黄",
+      "en": "yellow chives",
+      "aliases": [
+        "韭黄段"
+      ],
+      "allergens": [],
+      "category": "vegetable"
     },
     {
       "key": "yellow-mustard",
@@ -3479,6 +3517,40 @@
         "mustard"
       ],
       "category": "condiment"
+    },
+    {
+      "key": "yogurt",
+      "zh": "酸奶",
+      "en": "yogurt",
+      "aliases": [
+        "原味酸奶",
+        "希腊酸奶"
+      ],
+      "allergens": [
+        "milk"
+      ],
+      "category": "dairy"
+    },
+    {
+      "key": "zhacai",
+      "zh": "榨菜",
+      "en": "zhacai pickled mustard",
+      "aliases": [
+        "涪陵榨菜",
+        "榨菜丝"
+      ],
+      "allergens": [],
+      "category": "fermented"
+    },
+    {
+      "key": "zucchini",
+      "zh": "西葫芦",
+      "en": "zucchini",
+      "aliases": [
+        "角瓜"
+      ],
+      "allergens": [],
+      "category": "vegetable"
     }
   ]
 }

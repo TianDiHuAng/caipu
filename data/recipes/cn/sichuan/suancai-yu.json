@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "suancai-yu",
+  "name": {
+    "zh": "酸菜鱼",
+    "en": "Fish with Pickled Mustard Greens"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-seafood",
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "umami",
+    "fragrant",
+    "numbing"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 600,
+          "unit": "g",
+          "note": "取净鱼肉，鱼骨留用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 300,
+          "unit": "g",
+          "note": "冲洗后切段，挤干水分",
+          "optional": false
+        },
+        {
+          "name": "泡椒",
+          "name_en": "pickled chili",
+          "amount": 30,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "青花椒更香",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蛋清",
+          "name_en": "egg white",
+          "amount": 1,
+          "unit": "piece",
+          "note": "腌鱼片用",
+          "optional": false
+        },
+        {
+          "name": "土豆淀粉",
+          "name_en": "potato starch",
+          "amount": 20,
+          "unit": "g",
+          "note": "上浆用",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "腌鱼片去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "上浆与调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒酸菜与泼油",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "无高汤可用清水加鱼骨熬 10 分钟",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "片鱼刀",
+    "炒锅",
+    "汤盆",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去骨取肉，斜刀片成 3mm 厚的鱼片，鱼骨剁段；鱼片用清水抓洗两遍至水清，挤干水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "抓洗能去掉表面血水与黏液，鱼片才不腥、汤才清。",
+      "visual_cue": "鱼片由暗红转为粉白，水不再浑浊"
+    },
+    {
+      "n": 2,
+      "text": "鱼片加盐 2g、白胡椒、料酒抓匀，再加蛋清与土豆淀粉上浆，静置 15 分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "上浆后不要反复搅动，淀粉层破了鱼片容易散。",
+      "visual_cue": "鱼片表面裹上一层薄薄的半透明浆"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油 40ml，中小火炒香姜片、大蒜、泡椒与干辣椒的一半，再下酸菜翻炒 3 分钟至出酸香。",
+      "time_min": 5,
+      "heat": "中小火",
+      "tip": "酸菜一定要炒透，酸味才醇厚，不炒会有生涩味。",
+      "visual_cue": "酸菜边缘微微焦边，锅中飘出明显酸香"
+    },
+    {
+      "n": 4,
+      "text": "倒入高汤与鱼骨，大火烧开后转中火煮 8 分钟，让汤色转白、酸味融进汤里。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "汤要滚起来再下鱼片，温度够高鱼片才嫩。",
+      "visual_cue": "汤色由清转乳白，表面浮着红油点"
+    },
+    {
+      "n": 5,
+      "text": "转小火，把鱼片一片片滑入汤中，保持汤面微沸 90 秒，鱼片变白卷曲立即连汤倒入汤盆。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "鱼片下锅后不要翻动，晃锅让汤汁浸过即可。",
+      "visual_cue": "鱼片由透明变白、边缘卷起"
+    },
+    {
+      "n": 6,
+      "text": "另起锅烧热剩下的植物油，下剩余干辣椒与花椒炸 10 秒，趁热泼在鱼片上。",
+      "time_min": 2,
+      "heat": "中大火",
+      "tip": "油温约 180℃，辣椒下锅立即起泡但不焦黑。",
+      "visual_cue": "泼油时滋啦作响，辣椒瞬间变暗红"
+    }
+  ],
+  "tips": [
+    "鱼片厚度控制在 3mm 左右，太厚不易熟透、太薄一煮就碎。",
+    "酸菜本身有咸味，调味前先尝汤，盐量按酸菜咸度调整。",
+    "剩下的鱼头鱼骨可以煎香后单独熬汤，不浪费且汤更鲜。"
+  ],
+  "common_mistakes": [
+    "鱼片直接下滚水久煮，肉质变老发硬，一夹就散。",
+    "酸菜没炒直接下水，汤有生涩味且不够酸香。",
+    "上浆时淀粉放太多，汤变糊、失去清爽感。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "黑鱼",
+      "ratio": "1:1",
+      "note": "黑鱼肉质更紧实不易散，适合新手，价格略高。"
+    },
+    {
+      "original": "酸菜",
+      "substitute": "雪菜",
+      "ratio": "1:0.9",
+      "note": "雪菜咸度更高，需多冲洗两遍并减盐。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用市售酸菜鱼调料包代替泡椒与豆瓣调味，只需自备鱼片与酸菜。",
+    "番茄酸汤版：以番茄与番茄膏代替一半酸菜，酸味更柔和，适合不吃辣的家庭成员。"
+  ],
+  "serving_suggestion": "趁热上桌，配白米饭；汤可以留着下面条，是川渝家庭的常见吃法。",
+  "storage": "冷藏 1 天，鱼片与汤分开存放，复热时汤先烧开再下鱼片烫 1 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 330,
+    "protein_g": 34,
+    "fat_g": 18,
+    "carbs_g": 8,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "淡水鱼必须彻底加热，鱼片中心温度达到 63℃ 以上并完全变白不透明，严禁生食或半生。",
+    "处理活鱼时注意鱼鳍与鱼牙划伤，生鱼接触过的台面需用热水与洗涤剂清洗。",
+    "酸菜属腌制食品，钠含量高，高血压人群应减少汤汁摄入。"
+  ],
+  "origin_note": "酸菜鱼在二十世纪八九十年代的川渝江湖菜中流行起来，以老坛酸菜的酸香配鱼片的嫩滑，是码头菜向家常菜过渡的代表。",
+  "tags": [
+    "川菜",
+    "汤菜",
+    "酸辣",
+    "宴客"
+  ],
+  "related_ids": [
+    "shuizhu-niurou",
+    "mapo-doufu",
+    "tom-yum-goong"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
