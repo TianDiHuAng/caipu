@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yangzhou-chaofan",
+  "name": {
+    "zh": "扬州炒饭",
+    "en": "Yangzhou Fried Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 450,
+          "unit": "g",
+          "note": "熟饭约 450g，用隔夜饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "约 100g，打散",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 50,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡发切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 40,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "分两次下锅",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 5,
+          "unit": "ml",
+          "note": "虾仁去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "分两次调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "打蛋碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "隔夜饭用手抓散成颗粒，鸡蛋打散，火腿、香菇、胡萝卜切 5mm 小丁。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "米饭抓散是炒饭粒粒分明的关键，结块下锅必粘。",
+      "visual_cue": "米饭颗粒松散，无大团块"
+    },
+    {
+      "n": 2,
+      "text": "虾仁丁加料酒与 1g 盐抓匀，热锅下 10ml 植物油滑炒至变色盛出。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "虾仁先滑熟再回锅，避免久炒变老。",
+      "visual_cue": "虾仁由半透明变为粉白色卷曲"
+    },
+    {
+      "n": 3,
+      "text": "锅下 20ml 油，倒入蛋液快速划散成蛋块，随即下米饭中大火翻炒 2 分钟。",
+      "time_min": 3,
+      "heat": "中大火",
+      "tip": "蛋液半凝固时下饭，蛋香能裹住米粒。",
+      "visual_cue": "米粒表面泛油光、颗颗分离跳动"
+    },
+    {
+      "n": 4,
+      "text": "下火腿丁、香菇丁、胡萝卜丁炒 1 分钟，再下虾仁与 3g 盐、白胡椒翻匀。",
+      "time_min": 3,
+      "heat": "中大火",
+      "tip": "配料切得比米粒略小，口感才协调。",
+      "visual_cue": "配料均匀分布，锅中有明显香气"
+    },
+    {
+      "n": 5,
+      "text": "沿锅边淋 15ml 油，撒葱花大火翻炒 30 秒出锅。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "最后补油能让饭粒更亮更香，不粘锅。",
+      "visual_cue": "葱花翠绿，米粒干爽有弹性"
+    }
+  ],
+  "tips": [
+    "没有隔夜饭时，新煮的饭摊开吹凉 30 分钟再用。",
+    "米饭偏湿可提前冷藏 2 小时，水分更易散。",
+    "配料总量不超过米饭的 1/3，否则饭粒不易炒散。"
+  ],
+  "common_mistakes": [
+    "用刚出锅的热饭直接炒，成品黏成一坨。",
+    "一次下太多饭，锅温骤降变成「焖饭」。",
+    "葱花下得太早，炒久会发黄发苦，失去清香。"
+  ],
+  "substitutions": [
+    {
+      "original": "火腿",
+      "substitute": "叉烧",
+      "ratio": "1:1",
+      "note": "甜味更明显，盐可减 1g。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "鸡胸肉丁",
+      "ratio": "80g 虾仁 ≈ 80g 鸡丁",
+      "note": "鸡丁需先滑炒至全熟。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：配料只用鸡蛋、火腿与葱花，做成最经典的蛋炒饭底。",
+    "素食版：去掉虾仁与火腿，加 60g 毛豆与玉米粒，用生抽 10ml 补味。"
+  ],
+  "serving_suggestion": "单独作为一餐，或配一碗紫菜蛋花汤；宴席上常作为主食收尾。",
+  "storage": "冷藏 1 天，复热时锅中加 10ml 清水加盖焖 1 分钟再翻炒，避免干硬。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 520,
+    "protein_g": 19,
+    "fat_g": 18,
+    "carbs_g": 68,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁需炒至完全不透明，鸡蛋需完全凝固，避免沙门氏菌风险。",
+    "隔夜饭冷藏不超过 24 小时，复热需彻底加热至冒热气。",
+    "炒饭量大时分批炒，确保每粒饭都受热。"
+  ],
+  "origin_note": "扬州炒饭源自淮扬一带的「碎金饭」，讲究蛋液裹米、配料切丁均匀，是扬州厨师考级的传统品种。",
+  "tags": [
+    "苏菜",
+    "主食",
+    "快手",
+    "家常"
+  ],
+  "related_ids": [
+    "dandan-mian",
+    "baozaifan",
+    "dazhu-gansi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

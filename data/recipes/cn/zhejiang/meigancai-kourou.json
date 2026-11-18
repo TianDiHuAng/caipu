@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "meigancai-kourou",
+  "name": {
+    "zh": "梅干菜扣肉",
+    "en": "Steamed Pork Belly with Preserved Mustard Greens"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-meat",
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 90,
+    "total_min": 120
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 700,
+          "unit": "g",
+          "note": "带皮方块，肥瘦相间",
+          "optional": false
+        },
+        {
+          "name": "梅干菜",
+          "name_en": "preserved mustard",
+          "amount": 120,
+          "unit": "g",
+          "note": "提前泡发洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "煮肉用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎皮与炒菜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "按梅干菜咸度调整",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "煮肉用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "深碗",
+    "蒸锅",
+    "牙签"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块冷水下锅，加姜片、葱结、八角与料酒，大火烧开转小火煮 25 分钟至七成熟。",
+      "time_min": 28,
+      "heat": "小火",
+      "tip": "煮到筷子能插入皮但仍有阻力，太烂切片会散。",
+      "visual_cue": "肉皮变软，按压有弹性"
+    },
+    {
+      "n": 2,
+      "text": "捞出擦干，用牙签在肉皮上密集扎孔，趁热抹一层老抽上色。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "扎孔能让炸出的虎皮更蓬松，也更易吸汁。",
+      "visual_cue": "肉皮呈均匀深酱色，孔洞密布"
+    },
+    {
+      "n": 3,
+      "text": "锅中放 30ml 植物油烧至六成热，肉皮朝下煎 2 分钟至起泡，翻面略煎后取出切 8mm 厚片。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "下锅时用锅盖挡一下，猪皮爆油较剧烈。",
+      "visual_cue": "肉皮起密集小泡、呈虎皮纹"
+    },
+    {
+      "n": 4,
+      "text": "梅干菜泡发后挤干切碎，用锅中余油加冰糖 10g 炒香，加生抽、3g 盐与 100ml 清水焖 3 分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "梅干菜要炒过才香，生味重的可多洗两遍。",
+      "visual_cue": "梅干菜油亮、香气浓郁无酸味"
+    },
+    {
+      "n": 5,
+      "text": "肉片皮朝下整齐码入深碗，铺满梅干菜压实，淋 50ml 煮肉原汤，上锅大火蒸 60 分钟。",
+      "time_min": 62,
+      "heat": "大火",
+      "tip": "蒸足时间肉才会入口即化，中途不加水。",
+      "visual_cue": "筷子能轻松穿透肉片，碗中汤汁清亮"
+    },
+    {
+      "n": 6,
+      "text": "取出倒扣于盘，泌出的汤汁勾薄芡后淋回肉面。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "倒扣前先泌出汤汁，避免洒出烫手。",
+      "visual_cue": "肉片完整不散，酱汁挂满表面"
+    }
+  ],
+  "tips": [
+    "梅干菜咸度差异大，泡发后先尝再决定加盐量。",
+    "煎皮后立即泡冷水 10 分钟，虎皮更蓬松。",
+    "剩汤汁拌饭极香，可留作下次蒸菜的底味。"
+  ],
+  "common_mistakes": [
+    "肉煮过头再切，片形散碎、蒸后成泥。",
+    "梅干菜未洗净，成品带沙粒与苦涩味。",
+    "梅干菜淘洗不干净，成品带沙粒并留有苦涩味。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "1:1",
+      "note": "脂肪少，蒸制时间延长 15 分钟。"
+    },
+    {
+      "original": "梅干菜",
+      "substitute": "干豆角",
+      "ratio": "120g 梅干菜 ≈ 100g 干豆角",
+      "note": "需多泡 30 分钟，口感更韧。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用压力锅压 25 分钟代替蒸 60 分钟，节省时间。",
+    "少油版：肉皮不煎，直接煮后蒸，省去爆油风险，虎皮感较弱。"
+  ],
+  "serving_suggestion": "配米饭与一碗青菜汤，是浙江宴席的压轴大菜；也可夹入荷叶饼。",
+  "storage": "冷藏 3 天，冷冻 1 个月；复蒸 20 分钟即可恢复软糯。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 680,
+    "protein_g": 22,
+    "fat_g": 58,
+    "carbs_g": 14,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉必须蒸至中心温度 74℃ 以上，肥肉呈半透明状。",
+    "煎猪皮会剧烈爆油，操作时保持距离并盖锅盖。",
+    "梅干菜属腌制品，含盐高，高血压人群应减少食用量。"
+  ],
+  "origin_note": "梅干菜扣肉在浙江绍兴、金华一带常见，以本地芥菜腌晒的梅干菜配五花肉同蒸，讲究「肉酥菜香、油而不腻」。",
+  "tags": [
+    "浙菜",
+    "宴客",
+    "蒸菜",
+    "下饭"
+  ],
+  "related_ids": [
+    "dongpo-rou",
+    "maoshi-hongshaorou",
+    "lawi-hezheng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zha-ouhe",
+  "name": {
+    "zh": "炸藕盒",
+    "en": "Lotus Root Sandwiches (Fried)"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "snack",
+    "appetizer"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "莲藕",
+          "name_en": "lotus root",
+          "amount": 500,
+          "unit": "g",
+          "note": "选粗细均匀的九孔藕",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 250,
+          "unit": "g",
+          "note": "三分肥七分瘦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 100,
+          "unit": "g",
+          "note": "调面糊",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "约 50g，入面糊",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "肉馅调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "去腥提香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "肉馅与面糊各半",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "面糊增脆",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 350,
+          "unit": "ml",
+          "note": "油炸用，可过滤回收",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 90,
+          "unit": "ml",
+          "note": "调面糊",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅或深锅",
+    "油温计",
+    "厨房纸",
+    "裱花袋"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "莲藕去皮切 3mm 薄片，切好后泡在清水中防止氧化变黑。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "第一刀不切断、第二刀切断，可做成夹子状更好装馅。",
+      "visual_cue": "藕片切面洁白，孔洞清晰"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加葱末、姜末、生抽、料酒、白胡椒与 2g 盐，顺一个方向搅打上劲。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "搅到肉馅发黏能挂住筷子，炸后不易散。",
+      "visual_cue": "肉馅黏稠成团，挑起不滴落"
+    },
+    {
+      "n": 3,
+      "text": "面粉、玉米淀粉、鸡蛋与 90ml 清水、3g 盐调成能挂住勺背的稠面糊。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "面糊太稀挂不住，太稠外壳厚；用勺背测试最直观。",
+      "visual_cue": "面糊缓慢流下，勺背留一层薄膜"
+    },
+    {
+      "n": 4,
+      "text": "藕片夹入约 20g 肉馅压紧，全部做好后逐个裹面糊。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "藕片表面擦干再夹馅，否则面糊易脱落。",
+      "visual_cue": "藕盒边缘有肉馅微鼓，外形平整"
+    },
+    {
+      "n": 5,
+      "text": "锅中倒入 350ml 植物油烧至 175℃，下藕盒中火炸 4 分钟至浅金黄捞出；升温到 190℃ 复炸 40 秒。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "复炸能让外壳酥脆并逼出多余油。",
+      "visual_cue": "外壳金黄起脆壳，敲击有清脆声"
+    }
+  ],
+  "tips": [
+    "藕片切好后用淡盐水泡 5 分钟，口感更脆且不易断。",
+    "肉馅可提前一天调好冷藏，更入味。",
+    "炸好的藕盒放厨房纸上吸油 1 分钟再装盘，成品不油腻。"
+  ],
+  "common_mistakes": [
+    "藕片切太厚，炸不透、内部生硬。",
+    "油温过低就下锅，藕盒吸油发软，外皮容易脱落。",
+    "一次下太多藕盒，油温骤降导致外皮脱落。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "鸡肉末",
+      "ratio": "250g 猪肉末 ≈ 250g 鸡肉末",
+      "note": "鸡肉偏瘦，可加 10ml 植物油补润。"
+    },
+    {
+      "original": "莲藕",
+      "substitute": "茄子",
+      "ratio": "500g 藕 ≈ 400g 长茄",
+      "note": "茄子夹同样做法，炸制时间减到 3 分钟。"
+    }
+  ],
+  "variations": [
+    "空气炸锅版：表面刷油，200℃ 烤 12 分钟中途翻面，用油量大幅减少。",
+    "糖醋版：炸好后淋 60ml 糖醋汁翻匀，做成糖醋藕盒。"
+  ],
+  "serving_suggestion": "趁热吃，配椒盐或蘸醋；作为年节炸货或便当配菜都合适。",
+  "storage": "冷藏 2 天，复热用 180℃ 烤箱 6 分钟恢复脆度，不建议微波。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 430,
+    "protein_g": 16,
+    "fat_g": 26,
+    "carbs_g": 32,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末必须完全炸熟，中心温度达到 71℃ 以上，避免生肉夹生。",
+    "炸制用油温高，藕片含水会爆油，下锅时沿锅边轻放。",
+    "炸油使用不超过 3 次，反复高温会产生有害物质。"
+  ],
+  "origin_note": "藕盒在山东、江苏一带是过年必备的炸货，藕象征「路路通」，夹馅油炸后外酥内嫩，常与炸茄盒一起上桌。",
+  "tags": [
+    "鲁菜",
+    "小吃",
+    "油炸",
+    "年节"
+  ],
+  "related_ids": [
+    "shizitou",
+    "guobao-rou",
+    "yanshui-ya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

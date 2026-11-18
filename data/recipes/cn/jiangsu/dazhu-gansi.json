@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dazhu-gansi",
+  "name": {
+    "zh": "大煮干丝",
+    "en": "Braised Shredded Tofu with Ham and Shrimp"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-tofu",
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "light",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "豆腐干",
+          "name_en": "dried tofu",
+          "amount": 300,
+          "unit": "g",
+          "note": "扬州白干，切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "river shrimp",
+          "amount": 80,
+          "unit": "g",
+          "note": "新鲜小河虾去壳",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 40,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "鸡骨与猪骨吊的清汤",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 15,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 8,
+          "unit": "ml",
+          "note": "虾仁去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "按汤的咸淡微调",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "细孔筛",
+    "炒锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐干先片成 1mm 薄片，再切成 1mm 粗细的丝，放入清水中轻轻拨散。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "刀要薄而稳，切丝粗细一致才能同时熟。",
+      "visual_cue": "干丝根根分明，长短一致"
+    },
+    {
+      "n": 2,
+      "text": "干丝用沸水浸烫 2 分钟，去除豆腥味，捞出沥干备用。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "烫的时间不要太长，干丝会断、失去韧性。",
+      "visual_cue": "干丝变软但仍挺括，水略发白"
+    },
+    {
+      "n": 3,
+      "text": "虾仁加料酒、白胡椒与 2g 盐抓匀腌 5 分钟；火腿丝、笋丝用高汤焯 1 分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "火腿本身有咸味，先焯一次可避免汤过咸。",
+      "visual_cue": "火腿丝颜色转浅红，笋丝断生"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下猪油化开，下姜片、葱段煸香，倒入高汤烧开，捞出葱姜。",
+      "time_min": 3,
+      "heat": "中大火",
+      "tip": "猪油是这道菜的灵魂，缺了汤会寡淡。",
+      "visual_cue": "汤面泛油光，香气清鲜"
+    },
+    {
+      "n": 5,
+      "text": "下干丝与笋丝小火煮 8 分钟，再下虾仁、火腿丝煮 2 分钟，调盐出锅。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "小火慢煮让干丝吸足汤味，汤面保持微沸不翻滚。",
+      "visual_cue": "干丝吸饱汤汁变沉，汤色乳白微黄"
+    }
+  ],
+  "tips": [
+    "干丝切得越细越考验刀工，家庭可用擦片器先片薄再切丝。",
+    "高汤建议提前吊好，清水代替会明显寡淡。",
+    "盛碗时先放干丝再浇汤，表面堆火腿丝与虾仁更好看。"
+  ],
+  "common_mistakes": [
+    "干丝不烫直接下锅，豆腥味盖住汤鲜。",
+    "盐一次放太多，火腿与高汤本身已有咸味，汤会过咸。",
+    "盐一次放多，火腿与高汤本身已有咸味。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐干",
+      "substitute": "嫩豆腐",
+      "ratio": "300g 干丝 ≈ 350g 嫩豆腐（切条）",
+      "note": "口感更嫩但不成丝，属家庭简易版。"
+    },
+    {
+      "original": "河虾仁",
+      "substitute": "虾仁",
+      "ratio": "1:1",
+      "note": "大虾仁切小段，煮制时间不变。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用现成干丝（真空包装）代替手工切丝，省 10 分钟。",
+    "蟹粉版：起锅前加 30g 蟹粉，做成蟹粉干丝，鲜味更浓。"
+  ],
+  "serving_suggestion": "作为早茶或宴席的头道汤菜，配小笼包、汤包同食最经典。",
+  "storage": "冷藏 1 天，复热需加 100ml 高汤稀释，干丝久放会吸干汤汁。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 量）",
+    "calories_kcal": 280,
+    "protein_g": 24,
+    "fat_g": 14,
+    "carbs_g": 10,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁需煮至完全变红不透明，中心温度达到 63℃ 以上。",
+    "干丝属豆制品，室温放置不超过 2 小时，冷藏保存并彻底加热。",
+    "高汤反复加热需煮沸后使用，避免细菌繁殖。"
+  ],
+  "origin_note": "大煮干丝是扬州早茶的代表，讲究「刀工细、汤头清、配料鲜」，相传由清代扬州的「九丝汤」演变而来。",
+  "tags": [
+    "苏菜",
+    "汤菜",
+    "宴客",
+    "清淡"
+  ],
+  "related_ids": [
+    "xiefen-doufu",
+    "shizitou",
+    "yanshui-ya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

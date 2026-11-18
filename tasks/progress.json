@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:38:31.521Z",
+  "generatedAt": "2026-11-18T14:53:15.467Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 443,
+    "cells": 447,
     "target": 3274,
-    "actual": 86,
-    "coverage": 0.02626756261453879
+    "actual": 95,
+    "coverage": 0.029016493585827734
   },
   "regions": {
     "cn": [
@@ -161,7 +161,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 7,
         "cells": [
           {
             "category": "main-seafood",
@@ -231,6 +231,33 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "linyi-chaoji"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "zha-ouhe"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "zha-ouhe"
+            ]
           }
         ]
       },
@@ -347,7 +374,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 7,
         "cells": [
           {
             "category": "main-seafood",
@@ -371,8 +398,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "dazhu-gansi"
+            ]
           },
           {
             "category": "appetizer",
@@ -399,8 +428,9 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "dazhu-gansi",
               "xiefen-doufu"
             ]
           },
@@ -415,8 +445,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "yangzhou-chaofan"
+            ]
           },
           {
             "category": "cold-dish",
@@ -435,7 +467,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 7,
         "cells": [
           {
             "category": "main-seafood",
@@ -451,9 +483,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "dongpo-rou"
+              "dongpo-rou",
+              "meigancai-kourou"
             ]
           },
           {
@@ -483,8 +516,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "youmen-shunsun"
+            ]
           },
           {
             "category": "main-egg",
@@ -506,6 +541,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "banquet",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "meigancai-kourou"
+            ]
           }
         ]
       },
