@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-18T14:39:13.405Z
+- 生成时间：2026-11-18T15:00:59.191Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：26 个，抽样 26 道，平均分 96
 - 需重写（C/D）：0 道
@@ -27,12 +27,12 @@
 | french | french-onion-soup | 87 | B | 准确性 18/25；安全性 14/20 |
 | fujian | lizhi-rou | 100 | A | 无 |
 | german | wiener-schnitzel | 100 | A | 无 |
-| hakka | yanju-ji | 93 | A | 准确性 18/25 |
+| hakka | niang-doufu | 100 | A | 无 |
 | hunan | duojiao-yutou | 100 | A | 无 |
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
-| jiangsu | yanshui-ya | 100 | A | 无 |
+| jiangsu | yangzhou-chaofan | 100 | A | 无 |
 | korean | dolsot-bibimbap | 93 | A | 准确性 18/25 |
 | mexican | tacos-de-carne | 100 | A | 无 |
 | shandong | jiuzhuan-dachang | 100 | A | 无 |

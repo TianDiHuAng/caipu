@@ -14,7 +14,7 @@
 | 阶段 5（性能 / 多语言 / Docker / 移动端指南） | 已完成主体 |
 | 阶段 6（全库巡检） | 未开始（依赖阶段 4 数量） |
 
-进度基准：`tasks/progress.json` → totals.target = 3274，totals.actual = 75（口径为「菜谱 × 品类」格子计数，一道菜多品类会重复计）。
+进度基准：`tasks/progress.json` → totals.target = 3274，totals.actual = 103（口径为「菜谱 × 品类」格子计数，一道菜多品类会重复计）。
 
 ## 二、单批生产关系（固定套路，勿改）
 
@@ -39,6 +39,9 @@
 - 含鸡蛋/豆角/菌菇/贝类等高风险食材时，`food_safety` 必须出现「安全/彻底加热/中心温度/熟透/不要生食/冷藏」之一。
 - `time.total_min` 要 ≥ 步骤时长合计（含熬汤等并行工序时下调单步时长，并在 tip 里写「可提前熬制」）。
 - 每份主料总量 ≤ 700g（汤、高汤放 seasoning 分组，不要放 main）。
+- 油炸类总油量上限 270ml（非油炸 360ml）；「复炸」步骤必须写明 `植物油`，否则判未使用。
+- `common_mistakes` 每条 ≥ 15 字，`origin_note` ≥ 40 字。
+- 步骤里的比喻别用食材名（如「黄豆粒大小」会判为未登记的黄豆），改用「小指盖大小」。
 
 ## 四、下批推荐格子（热门优先）
 
@@ -64,8 +67,12 @@ npm run progress
 
 ## 最近一次更新（本轮结束）
 
-- 菜谱库：75 道，validate 全绿；测试 29/29（Node 24）。
+- 菜谱库：86 道，validate 全绿；测试 29/29（Node 24）。
 - 抽检：`npm run audit` 覆盖 26 菜系，均分 96，无 C/D 级；报告在 tasks/AUDIT_REPORT.md。
-- 已修：食材词典「剁椒」别名冲突（从泡椒词条移除）、进度统计漏计残余品类、葱烧海参重复、若干枚举/单位/关联错误。
-- 待办：阶段 4 内容生产（86/3274）。下批建议继续 sichuan/appetizer、cantonese/main-vegetable、hunan/main-vegetable，再推进 shandong、jiangsu、zhejiang、fujian、anhui。
+- 本轮新增（第 11-12 批，共 11 道）：
+  - shandong：临沂炒鸡、炸藕盒
+  - jiangsu：大煮干丝、扬州炒饭
+  - zhejiang：梅干菜扣肉、油焖笋
+  - fujian：醉排骨｜hakka：客家酿豆腐｜shanghai：上海酱鸭｜dongbei：小鸡炖蘑菇｜xibei：羊肉泡馍
+- 待办：阶段 4 内容生产（103/3274，3.1%）。下批建议 sichuan/appetizer、cantonese/main-vegetable、hunan/main-vegetable，再接 anhui（仅 2 道）、yunguai、xibei 薄弱格子。
 - 每 10 批后执行 `npm run audit`，C/D 级按报告明细重写。
