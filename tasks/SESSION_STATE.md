@@ -67,9 +67,12 @@ npm run progress
 
 ## 最近一次更新（本轮结束）
 
-- 菜谱库：98 道，validate 全绿；测试 29/29（Node 24）。
-- 抽检：`npm run audit` 覆盖 26 菜系，均分 96，无 C/D 级；报告在 tasks/AUDIT_REPORT.md。
-- 本轮新增（第 13-14 批，共 12 道）：
+- 菜谱库：139 道，validate 全绿；测试 29/29（Node 24）；内容进度 168/3274（5.1%）。
+- 第 21 批（6 道）：山东醋椒鱼汤｜嘉兴鲜肉粽｜福州七星鱼丸｜湖南剁辣椒｜韩式猪肉汤饭｜泰式绿咖喱鸡。
+- 抽检：`npm run audit` 覆盖 32 菜系，均分 95，无 C/D 级。
+- 食材词典补 5 项（粽叶/红辣椒/绿咖喱酱/白酒/小鱼干/辣椒酱，共 325 条）。
+- 待办：阶段 4 继续按批推进；下批建议 cantonese/soup、sichuan/staple-noodle、jiangsu/main-seafood。
+- 历史批次（第 13-14 批，共 12 道）：
   - cantonese：蚝油生菜、虾仁滑蛋
   - hunan：酸辣藕丁｜anhui：火腿烧笋｜yunguai：汽锅鸡｜sichuan：凉拌腐竹
   - jiangsu：阳春面｜chaoshan：潮汕牛肉丸｜xinjiang：新疆炒米粉｜dongbei：拍黄瓜
