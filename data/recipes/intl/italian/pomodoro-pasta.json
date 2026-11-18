@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "pomodoro-pasta",
+  "name": {
+    "zh": "番茄罗勒意面",
+    "en": "Spaghetti al Pomodoro",
+    "original": "Spaghetti al Pomodoro"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 25,
+    "total_min": 35
+  },
+  "servings": 2,
+  "flavor": [
+    "sour",
+    "umami",
+    "herbal",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "意大利面",
+          "name_en": "spaghetti",
+          "amount": 200,
+          "unit": "g",
+          "note": "选 1.8 毫米直径的直面，煮 9 分钟至弹牙",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 600,
+          "unit": "g",
+          "note": "选熟透的罗马番茄，底部划十字",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片，不要拍碎以免焦糊",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 10,
+          "unit": "g",
+          "note": "叶片手撕，梗留用",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 12,
+          "unit": "g",
+          "note": "煮面水用 10 克，酱汁用 2 克",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "分两次用，炒香 20 毫升、起锅 10 毫升",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "番茄偏酸时平衡用",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 20,
+          "unit": "g",
+          "note": "现刨，直接刨在面上",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "平底锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄划十字后放入沸水烫 30 秒，捞出过冷水去皮，切成 1 厘米小丁，汁水一并留用。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "去皮能让酱汁口感顺滑，不去皮的话番茄皮会在收汁时卷成硬片影响口感。",
+      "visual_cue": "番茄皮轻松卷起脱落，果肉呈鲜红色、切面多汁。"
+    },
+    {
+      "n": 2,
+      "text": "深锅加 3 升水烧开，加盐 10 克，下意大利面按包装时间减 1 分钟煮，捞出前留 100 毫升煮面水。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "煮面水要咸得像海水，这是意面唯一入味的机会；留的煮面水含糊化物质，是乳化酱汁的关键。",
+      "visual_cue": "意面由硬挺转为柔软但仍带一点白芯，咬断时中心有极细的硬点。"
+    },
+    {
+      "n": 3,
+      "text": "平底锅中小火下橄榄油 20 毫升与蒜片，慢煎 3 分钟至蒜片边缘泛金，下洋葱丁炒 4 分钟至透明。",
+      "time_min": 7,
+      "heat": "中小火",
+      "tip": "蒜片一旦变褐就会发苦，泛金就要下洋葱降温，全程中小火。",
+      "visual_cue": "蒜片呈浅金色、边缘微卷，洋葱由白转透明且体积缩小三分之一。"
+    },
+    {
+      "n": 4,
+      "text": "倒入番茄丁与汁水，加盐 2 克、白糖 3 克，中火煮 8 分钟，其间用木勺把番茄压碎。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄要煮到出沙、油水分离才算到位，中途别加太多水，番茄本身的水分足够。",
+      "visual_cue": "酱汁由稀变稠、颜色转成深红，木勺划过锅底能留下短暂不闭合的痕迹。"
+    },
+    {
+      "n": 5,
+      "text": "把煮好的面与 60 毫升煮面水倒入酱汁锅，转中大火翻拌 1 分钟，让糊化物质与油脂乳化成顺滑酱汁。",
+      "time_min": 1,
+      "heat": "中大火",
+      "tip": "翻拌要用夹子或筷子把面挑起再落下，比铲子更能让酱汁裹匀。",
+      "visual_cue": "每根意面都裹上橙红色酱汁、锅底没有游离的汤汁，面身有光泽。"
+    },
+    {
+      "n": 6,
+      "text": "关火，撒入撕碎的罗勒叶与黑胡椒 1 克，淋剩余橄榄油 10 毫升拌匀，装盘后刨上帕玛森芝士。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "罗勒关火后放，高温会把它的清香变成草腥；芝士最后刨，靠面的余温微微融化。",
+      "visual_cue": "罗勒叶颜色翠绿不发黑，芝士在面上形成薄薄一层半融的白色碎屑。"
+    }
+  ],
+  "tips": [
+    "番茄品种决定成败，罗马番茄肉厚汁少最适合做酱，普通番茄需延长收汁 3 分钟。",
+    "煮面水是天然的乳化剂，酱汁太干时补一勺立刻顺滑，不要用清水。",
+    "想更浓可以加 10 克番茄膏同炒，颜色和鲜味都会提升一档。"
+  ],
+  "common_mistakes": [
+    "面条煮到全熟才捞出，回锅拌酱后彻底软烂，完全没有弹牙感。",
+    "酱汁做好后把面直接拌进去不开火，淀粉没被激活，酱汁全沉在盘底裹不住面。"
+  ],
+  "substitutions": [
+    {
+      "original": "意大利面",
+      "substitute": "通心粉",
+      "ratio": "200 克直面换 200 克通心粉",
+      "note": "通心粉需多煮 1 分钟，酱汁可多留 20 毫升以便灌入管腔。"
+    },
+    {
+      "original": "帕玛森芝士",
+      "substitute": "马苏里拉",
+      "ratio": "20 克帕玛森换 40 克马苏里拉",
+      "note": "马苏里拉风味更淡、拉丝感强，适合喜欢奶香的人。"
+    },
+    {
+      "original": "罗勒",
+      "substitute": "欧芹",
+      "ratio": "10 克罗勒换 8 克欧芹",
+      "note": "欧芹香气更青草，切碎后关火拌入，风味偏清爽。"
+    }
+  ],
+  "variations": [
+    "Puttanesca 风味版：加 20 克酸豆与 10 克鳀鱼同炒，咸鲜味更重，适合重口味。",
+    "奶油版：起锅前加 50 毫升淡奶油同煮 1 分钟，酱汁更浓稠，酸甜感被奶香包裹。"
+  ],
+  "serving_suggestion": "一人份约 200 克面条，配一杯清爽的干白或气泡水；前菜可搭番茄面包片，甜点接一份提拉米苏。",
+  "storage": "酱汁可冷藏 4 天或冷冻 2 个月；面条建议现煮现吃，拌好的面冷藏后会粘连成块。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320 克成品）",
+    "calories_kcal": 512,
+    "protein_g": 16.8,
+    "fat_g": 18.6,
+    "carbs_g": 72.4,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "钠主要来自煮面水与芝士，实际摄入随留汤量与芝士用量变化，误差约 20%。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "煮面时锅要大、水要足，避免溢锅浇灭明火；捞面时先关火再靠近锅边操作。",
+    "番茄与罗勒需洗净沥干，生食罗勒叶避免与生肉砧板接触。"
+  ],
+  "origin_note": "番茄罗勒意面是意大利南部最基础的意面做法之一，只用番茄、蒜、罗勒和橄榄油四样主料，靠番茄本身的甜与罗勒的香撑起整道面。意大利人把它视作检验厨师基本功的菜，因为没有任何重味可以掩盖失误。",
+  "tags": [
+    "意大利菜",
+    "素食可调",
+    "快手菜",
+    "意面"
+  ],
+  "related_ids": [
+    "teriyaki-chicken",
+    "miso-salmon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yandu-xian",
+  "name": {
+    "zh": "腌笃鲜",
+    "en": "Salt Pork and Bamboo Shoot Soup",
+    "original": "醃篤鮮"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "咸肉",
+          "name_en": "cured pork belly",
+          "amount": 200,
+          "unit": "g",
+          "note": "金华咸肉最佳，切 2 厘米见方的块，提前浸泡去咸",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 300,
+          "unit": "g",
+          "note": "鲜肉与咸肉约 3 比 2，切成同样大小的块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 300,
+          "unit": "g",
+          "note": "春笋最佳，切滚刀块，需焯水去草酸与涩味",
+          "optional": false
+        },
+        {
+          "name": "百叶结",
+          "name_en": "tofu skin knots",
+          "amount": 100,
+          "unit": "g",
+          "note": "温水泡软后挤干水分，最后 20 分钟放入",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片，焯水与炖煮各用一半",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段，炖煮时放入",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "Shaoxing cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "焯水 15 毫升，炖煮 15 毫升",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "咸肉本身很咸，尝过汤再决定是否补盐",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "起锅前撒入，去腥提鲜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "汤锅",
+    "漏勺",
+    "砧板",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "咸肉切 2 厘米见方的块，用清水浸泡 30 分钟，中途换水两次，去掉表面多余盐分。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "浸泡时间取决于咸肉的咸度，若为自家腌制的特咸咸肉需泡 2 小时以上。",
+      "visual_cue": "咸肉表面由深红转为淡粉、摸起来不再黏手，水色微黄。"
+    },
+    {
+      "n": 2,
+      "text": "五花肉与咸肉分别冷水下锅，加姜片与 15 毫升料酒，水开后煮 3 分钟，撇净浮沫后捞出用温水冲洗。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "两种肉分开焯水，避免咸肉的盐分进入鲜肉；必须冷水下锅才能把血水逼出来。",
+      "visual_cue": "肉块表面收紧、浮沫呈灰褐色浮在水面，捞出后没有血水渗出。"
+    },
+    {
+      "n": 3,
+      "text": "竹笋剥壳切滚刀块，冷水下锅焯 4 分钟，捞出后用清水冲凉。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "鲜笋含草酸，焯水能去涩并减少对肠胃的刺激，这一步不能省。",
+      "visual_cue": "笋块由生白转为半透明、闻起来没有生涩的青草味，咬一口脆而不麻。"
+    },
+    {
+      "n": 4,
+      "text": "砂锅中放 1500 毫升清水，下五花肉、咸肉、姜片、葱段与 15 毫升料酒，大火烧开后转最小火，盖盖炖 60 分钟。",
+      "time_min": 65,
+      "heat": "小火",
+      "tip": "「笃」就是小火慢炖的意思，火大汤会浑、肉会柴。",
+      "visual_cue": "水面只有零星小泡、汤色由清转成奶白，五花肉用筷子能插入但有阻力。"
+    },
+    {
+      "n": 5,
+      "text": "放入笋块继续炖 20 分钟，让笋吸足肉汤的鲜味。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "笋后放是为了保持形状与脆度，一起炖 80 分钟会烂成渣。",
+      "visual_cue": "笋块颜色变深、体积略微膨胀，汤色加深为淡琥珀色。"
+    },
+    {
+      "n": 6,
+      "text": "最后放入泡软的百叶结煮 8 分钟，尝汤后决定是否加 2 克盐，撒 1 克白胡椒，关火焖 3 分钟即可。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "百叶结久煮会散，8 分钟足够吸汁；盐一定要先尝再加，咸肉的咸度差异极大。",
+      "visual_cue": "百叶结吸饱汤汁变得饱满柔软，汤面浮一层清亮的油花，入口咸鲜回甘。"
+    }
+  ],
+  "tips": [
+    "整道菜几乎不加盐，咸肉的咸味就是唯一调味，因此咸肉的品质决定成败。",
+    "笋最好选春笋中段，纤维细、涩味轻；冬笋也可用但需多焯 2 分钟。"
+  ],
+  "common_mistakes": [
+    "咸肉不泡直接下锅，汤咸得发苦，完全盖住笋的清甜。",
+    "全程大火滚煮，汤色浑浊、肉块散烂，失去「清汤」的品相。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸肉",
+      "substitute": "金华火腿上方",
+      "ratio": "200 克咸肉换 150 克火腿",
+      "note": "火腿更香但更咸，需泡 1 小时并把用量减到 120 克。"
+    },
+    {
+      "original": "百叶结",
+      "substitute": "油豆腐或腐竹",
+      "ratio": "100 克百叶结换 100 克腐竹",
+      "note": "腐竹需提前泡发 2 小时，吸汁后口感更绵。"
+    }
+  ],
+  "variations": [
+    "家庭快手版：用高压锅把两种肉压 20 分钟，再开盖加笋炖 15 分钟，总时间缩短到 50 分钟。",
+    "腌笃鲜加青菜：起锅前 3 分钟放一把上海青，汤色更清、卖相更好。"
+  ],
+  "serving_suggestion": "连砂锅上桌，一人份约 130 克肉与 80 克笋；先喝一碗汤，再配米饭，是江浙清明前后的时令吃法。",
+  "storage": "冷藏可存 3 天，复热时加少量热水小火煮开；汤会因胶质凝固成冻，属正常现象。",
+  "nutrition_estimate": {
+    "basis": "每份（约 130 克肉与 80 克笋）",
+    "calories_kcal": 486,
+    "protein_g": 22.4,
+    "fat_g": 39.8,
+    "carbs_g": 8.6,
+    "sodium_mg": 1126,
+    "is_estimate": true,
+    "disclaimer": "咸肉的咸度与肥瘦比例差异大，钠与热量估算误差可达 25%。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "咸肉属腌制品，钠含量高，高血压人群应控制分量并少喝汤。",
+    "鲜笋含草酸，肾结石患者与肠胃虚弱者不宜多食，务必焯水后再烹。"
+  ],
+  "origin_note": "腌笃鲜是上海及苏南一带春季的时令汤菜，「腌」指咸肉、「笃」指小火慢炖、「鲜」指鲜肉与春笋。它体现了江南人「以咸吊鲜」的调味思路，清明前后笋最嫩时家家会做。相关菜名的最早文献记载难以确考，此处仅作地域饮食背景说明。",
+  "tags": [
+    "沪菜",
+    "汤羹",
+    "春季菜",
+    "家常菜"
+  ],
+  "related_ids": [
+    "shizitou",
+    "yipin-guo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

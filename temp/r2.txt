@@ -1,0 +1,8 @@
+﻿
+const MENTION_SCOPE = new Set([
+  // ---------- R4 步骤与配料互相引用 ----------
+    if (!MENTION_SCOPE.has(item.category)) continue;
+    push(`steps: 文本提到「${item.zh}」，但配料表中没有该食材`);
+
+
+

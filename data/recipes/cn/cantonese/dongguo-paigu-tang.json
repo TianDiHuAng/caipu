@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dongguo-paigu-tang",
+  "name": {
+    "zh": "冬瓜排骨汤",
+    "en": "Winter Melon and Pork Rib Soup",
+    "original": "冬瓜排骨湯"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 60,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 600,
+          "unit": "g",
+          "note": "斩成 4 厘米段，冷水浸泡 20 分钟中途换水两次去血水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "冬瓜",
+          "name_en": "winter melon",
+          "amount": 600,
+          "unit": "g",
+          "note": "去皮去瓤，切成 3 厘米厚的大块，皮可留一小片同煮增清香",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍扁，不去皮",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打成一个葱结，出锅前捞出",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "出锅前分两次加，先 3 克后尝味补 2 克",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "焯水时用",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨，装碗后撒更香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "菜刀",
+    "砧板",
+    "漏勺",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨冷水浸泡 20 分钟，中途换两次水，把血水泡出来，排骨颜色由鲜红转浅粉。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡水比焯水更彻底地去掉血水，汤色才能清而不腥。",
+      "visual_cue": "水面浮起淡粉色血水，排骨断面颜色变浅、摸起来不再黏手。"
+    },
+    {
+      "n": 2,
+      "text": "排骨冷水下锅，加料酒 15 毫升与两片姜，大火煮开后撇净浮沫，煮 3 分钟捞出用温水冲洗表面。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "冲洗必须用温水，冷水一激排骨纤维收紧，后面炖两小时也不烂。",
+      "visual_cue": "浮沫变成灰褐色并结块浮起，排骨表面干净无血污附着。"
+    },
+    {
+      "n": 3,
+      "text": "排骨放回洗净的汤锅，加 2000 毫升清水、姜块与葱结，大火煮开后转小火加盖炖 40 分钟。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "水要一次加足，中途加水会让汤温骤降，肉质质凝固后汤味寡淡。",
+      "visual_cue": "汤面保持细密小泡缓慢翻滚，汤色由清转成淡乳白，排骨用筷子能戳进肉里。"
+    },
+    {
+      "n": 4,
+      "text": "下冬瓜块，转中火不加盖煮 12 分钟，让冬瓜吸饱汤味并保持形状。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "冬瓜后放，久炖会化在汤里变成糊；不加盖能让青涩气挥发掉。",
+      "visual_cue": "冬瓜由不透明的白转成半透明，边缘略透亮，用筷子能轻松插入但有阻力。"
+    },
+    {
+      "n": 5,
+      "text": "捞出葱结与姜块，加盐 3 克搅匀尝味，按需要补 2 克，关火。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "盐一定最后放，早加盐排骨失水变柴，汤也不容易炖白。",
+      "visual_cue": "汤尝起来咸鲜平衡、回口有排骨的甜味，冬瓜中心也带咸味。"
+    },
+    {
+      "n": 6,
+      "text": "盛碗后撒现磨白胡椒与葱花，趁热喝，汤温降到六十度左右时鲜甜最明显。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "白胡椒现磨才够香，提前磨好的粉末香气散得快。",
+      "visual_cue": "碗面浮着零星油花，汤清澈见底，排骨肉轻轻一拨就离骨。"
+    }
+  ],
+  "tips": [
+    "想汤更白可以在第 3 步前把排骨用少量油煎到表面微黄，再冲入开水，汤色会明显变浓。",
+    "冬瓜皮别全丢，留一片洗净同炖能带出清甜，出锅前捞出即可。",
+    "排骨选肋排比脊骨好，肉厚且出汤清；若用脊骨需延长炖煮 20 分钟。"
+  ],
+  "common_mistakes": [
+    "焯水后用冷水冲排骨，肉质骤然收缩，炖一小时仍然发柴咬不动。",
+    "冬瓜和排骨一起下锅炖 40 分钟，出锅时冬瓜已经化成一锅糊，汤也变浑。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪排骨",
+      "substitute": "鸡腿肉",
+      "ratio": "600 克排骨换 500 克带骨鸡腿",
+      "note": "鸡腿炖 30 分钟即可，总时长缩短一刻钟，汤味更清甜。"
+    },
+    {
+      "original": "冬瓜",
+      "substitute": "节瓜",
+      "ratio": "600 克冬瓜换 600 克节瓜",
+      "note": "节瓜质地更紧实，煮 15 分钟不会散，适合喜欢口感的人。"
+    },
+    {
+      "original": "白胡椒",
+      "substitute": "黑胡椒",
+      "ratio": "2 克白胡椒换 2 克黑胡椒",
+      "note": "黑胡椒香气更冲，用量可减到 1.5 克，避免压住汤的清甜。"
+    }
+  ],
+  "variations": [
+    "粤式老火版：加 20 克薏米与 10 克陈皮同炖 90 分钟，汤更浓，适合湿冷的回南天。",
+    "快手版：用高压锅上汽后压 15 分钟，再开盖下冬瓜煮 8 分钟，总时长可压到 30 分钟。"
+  ],
+  "serving_suggestion": "饭前一人一碗，约 350 克汤带料；配一碟豉油蘸排骨，或直接连汤带肉浇在米饭上。",
+  "storage": "冷藏可存 3 天，复热时加少量开水小火加热到沸腾；冬瓜久放会出水变软，建议排骨与冬瓜分开存放。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350 克成品，含汤）",
+    "calories_kcal": 198,
+    "protein_g": 18.6,
+    "fat_g": 11.2,
+    "carbs_g": 6.4,
+    "sodium_mg": 540,
+    "is_estimate": true,
+    "disclaimer": "汤中溶出的脂肪与钠约占总量的三成，实际摄入随喝汤量变化，误差约 20%。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "排骨中心温度需达到 74 摄氏度，骨边不见血水渗出才算熟透。",
+    "汤在室温放置不要超过 2 小时，复热需加热至滚沸并保持 1 分钟。"
+  ],
+  "origin_note": "冬瓜排骨汤是粤式家常汤水的代表之一，讲究清而不寡、汤料同食。广东人把汤看作一顿饭的前奏，这类清汤通常用小火慢炖，靠食材本身的鲜甜出味，不依赖浓重调味。",
+  "tags": [
+    "粤菜",
+    "家常汤",
+    "清汤",
+    "夏季菜"
+  ],
+  "related_ids": [
+    "baiqie-ji",
+    "qingzheng-luyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xiefen-doufu",
+  "name": {
+    "zh": "蟹粉豆腐",
+    "en": "Crab Roe Tofu",
+    "original": "蟹粉豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "rich",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切 2 厘米见方的块，用淡盐水浸泡 5 分钟去豆腥",
+          "optional": false
+        },
+        {
+          "name": "蟹",
+          "name_en": "crab",
+          "amount": 300,
+          "unit": "g",
+          "note": "蒸熟后拆出蟹肉与蟹黄，约得 120 克蟹粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "一半切末去腥，一半切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清半个，用于勾芡前增稠",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "分两次用，调汤底 2 克、起锅前 1 克",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "炒蟹粉时去腥",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅前沿锅边淋入提鲜",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨，去腥提香",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒蟹粉用，香气比植物油厚",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "加 20 毫升清水调成水淀粉",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "蒸锅",
+    "菜刀",
+    "砧板",
+    "汤勺",
+    "蟹拆工具"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蟹刷净后冷水上锅，大火蒸 12 分钟至壳变橙红，取出稍凉后拆出蟹肉与蟹黄，蟹壳的汁水一并刮入碗中。",
+      "time_min": 25,
+      "heat": "大火",
+      "tip": "拆蟹要等凉到手能握住但还温热时操作，太烫难拆，全凉后蟹肉会粘在壳上。",
+      "visual_cue": "蟹壳呈均匀橙红色、蟹黄凝固成块，拆出的蟹肉成丝不散。"
+    },
+    {
+      "n": 2,
+      "text": "嫩豆腐切块放入淡盐水浸泡 5 分钟，捞出沥干，锅中水烧开后将豆腐汆 1 分钟去豆味。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "盐水浸泡能让豆腐紧实不易碎，汆水时间不要超过 1 分钟，否则豆腐会变硬发孔。",
+      "visual_cue": "豆腐表面微微收紧、边缘不再有碎屑脱落，色泽乳白。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅小火烧化猪油 25 克，下姜末炒 30 秒出香，倒入蟹粉与料酒 10 毫升，用铲背压散，小火煸 2 分钟。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蟹粉要用小火慢慢煸出红油，火大只会把蟹黄炒干发黑，鲜味全失。",
+      "visual_cue": "蟹粉由散碎结成一团团、渗出橙红色油脂，闻到浓郁的蟹香。"
+    },
+    {
+      "n": 4,
+      "text": "加 250 毫升热水、盐 2 克与白胡椒 1 克烧开，轻轻推入豆腐块，小火煨 3 分钟让豆腐吸味。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "用锅铲背推而不是翻炒，豆腐才不会碎；水面保持微沸，翻滚会把豆腐撞烂。",
+      "visual_cue": "汤色变成淡橙色，豆腐块完整浮在汤中，边缘微微染上蟹黄色。"
+    },
+    {
+      "n": 5,
+      "text": "把水淀粉搅匀后分两次淋入，边淋边转锅，待汤汁变稠能挂住豆腐时淋入蛋清，再推两下。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "水淀粉分次加才不会结块，蛋清要在勾芡后加，才能形成薄薄一层亮膜。",
+      "visual_cue": "汤汁浓稠发亮、能均匀裹住豆腐，勺背挂汁不滴落。"
+    },
+    {
+      "n": 6,
+      "text": "起锅前沿锅边淋香醋 5 毫升，撒盐 1 克与葱花，装盘时先盛豆腐再浇蟹粉。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "香醋只淋锅边不直接倒进菜里，遇热锅汽化后留下的是鲜而不是酸。",
+      "visual_cue": "成品红白分明、表面泛着油亮光泽，尝一口蟹鲜压住豆味、回味带一点醋香。"
+    }
+  ],
+  "tips": [
+    "没有鲜蟹可用 100 克蟹黄酱加 20 克虾仁代替，鲜度略降但省去拆蟹的两小时。",
+    "猪油是这道菜的灵魂，换成植物油香气会薄一层，实在不吃猪油可用黄油 20 克替代。",
+    "豆腐汆水时加 2 克盐，能让豆腥味去得更彻底，也让豆腐更耐煮。"
+  ],
+  "common_mistakes": [
+    "用老豆腐代替嫩豆腐，成菜口感粗糙发硬，还容易在勾芡时散成碎块。",
+    "蟹粉炒好后直接加水大火滚，蟹黄被冲散在汤里，成菜看不到蟹粉只有一锅黄汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "蟹",
+      "substitute": "蟹黄酱",
+      "ratio": "300 克鲜蟹换 100 克蟹黄酱",
+      "note": "蟹黄酱已调味，盐减到 1.5 克，香醋可省掉。"
+    },
+    {
+      "original": "嫩豆腐",
+      "substitute": "内酯豆腐",
+      "ratio": "400 克嫩豆腐换 400 克内酯豆腐",
+      "note": "内酯豆腐更嫩，汆水时间减到 30 秒，推锅要更轻。"
+    },
+    {
+      "original": "猪油",
+      "substitute": "黄油",
+      "ratio": "25 克猪油换 20 克黄油",
+      "note": "黄油香气偏西式，成品会带一点奶香，适合配面包吃。"
+    }
+  ],
+  "variations": [
+    "淮扬酒楼版：蟹粉分两次用，一半炒进汤里，一半最后铺在豆腐表面，卖相更华丽。",
+    "家常版：用蟹柳与咸蛋黄各 60 克代替蟹粉，成本降到三分之一，孩子更爱吃。"
+  ],
+  "serving_suggestion": "一人份约 180 克，配一小碗白饭拌汤汁最佳；宴客时用深盘盛装，撒几粒青豆点缀，趁热吃蟹香最足。",
+  "storage": "冷藏可存 2 天，复热时隔水蒸 8 分钟，不要翻炒；蟹类菜品不建议冷冻，解冻后蟹肉发柴。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180 克成品）",
+    "calories_kcal": 296,
+    "protein_g": 18.4,
+    "fat_g": 21.6,
+    "carbs_g": 7.2,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "蟹黄胆固醇较高，数值按蟹粉含黄三成估算，实际随蟹的品种与季节波动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "蟹必须彻底蒸熟，壳全红、蟹黄凝固；死蟹与隔夜生蟹不得食用。",
+    "蛋清为蛋类过敏原，加入前需确认就餐者无蛋类过敏；蛋清入锅后需加热至中心温度 75 摄氏度以上并保持 30 秒。",
+    "蛋清为蛋类过敏原，加入前需确认就餐者无蛋类过敏；蛋清入锅后汤温需保持 75 摄氏度以上并持续 30 秒。"
+  ],
+  "origin_note": "蟹粉豆腐是淮扬一带的经典搭配，把拆出的蟹肉蟹黄与嫩豆腐同烧，用豆腐的清甜承接蟹的浓鲜。江南秋季蟹肥时，家庭常把吃剩的蟹拆成蟹粉冷冻保存，随时可以做这道菜。",
+  "tags": [
+    "苏菜",
+    "淮扬菜",
+    "蟹",
+    "豆腐",
+    "宴客菜"
+  ],
+  "related_ids": [
+    "shizitou",
+    "songshu-guiyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "lawi-hezheng",
+  "name": {
+    "zh": "腊味合蒸",
+    "en": "Steamed Cured Meats",
+    "original": "臘味合蒸"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 40,
+    "total_min": 65
+  },
+  "servings": 3,
+  "flavor": [
+    "smoky",
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 200,
+          "unit": "g",
+          "note": "选肥瘦相间的湖南腊肉，表面烟熏层需刷洗干净",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Chinese sausage",
+          "amount": 150,
+          "unit": "g",
+          "note": "广式或湘式均可，斜切成 4 毫米厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "剪成段，去籽可减辣",
+          "optional": false
+        },
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 12,
+          "unit": "g",
+          "note": "略剁碎，铺在肉上蒸出酱香",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切细丝，铺底去腥",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段，垫在碗底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "Shaoxing cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "淋在肉上，帮助挥发烟熏气味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "少量糖能柔化腊味的咸硬口感",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "出锅前淋入提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "深盘",
+    "刷子",
+    "砧板",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "腊肉用温水加少许食用碱面刷洗表面烟熏层，再用清水冲净；整块冷水下锅煮 8 分钟，去除多余盐分与表面油污。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "煮腊肉能显著降低咸度，也能让肉质回软，切片时不易碎。",
+      "visual_cue": "腊肉表面由黑褐转为棕黄，肥肉部分变得半透明，煮过的水呈淡褐色。"
+    },
+    {
+      "n": 2,
+      "text": "煮好的腊肉晾至微温，切成 3 毫米厚的薄片，肥瘦相间处不要断开；腊肠斜切成 4 毫米厚片。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "腊肉必须晾到不烫手再切，热切容易碎裂；刀要锋利，压切而非锯切。",
+      "visual_cue": "肉片边缘平齐、肥肉呈半透明的琥珀色，切片时没有掉渣。"
+    },
+    {
+      "n": 3,
+      "text": "干辣椒剪段，豆豉剁碎，姜切细丝，大葱切段；把葱段与一半姜丝铺在深盘底部。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "葱姜垫底可避免肉片直接贴盘，蒸出的油脂会顺着缝隙流下形成汤汁。",
+      "visual_cue": "盘中铺满一层葱绿与姜丝，辣椒段切口整齐、豆豉呈颗粒状。"
+    },
+    {
+      "n": 4,
+      "text": "腊肉片与腊肠片交替码放成扇形，撒上剩余姜丝、干辣椒段与豆豉，淋 20 毫升料酒与 6 克白糖。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "肉片叠放时略微倾斜，让蒸汽能从缝隙进入，熟得更均匀。",
+      "visual_cue": "肉片层层叠压如花瓣、肥瘦颜色对比明显，表面撒料分布均匀。"
+    },
+    {
+      "n": 5,
+      "text": "蒸锅水开后放入深盘，中火蒸 35 分钟，中途不揭盖；关火后焖 3 分钟再取出。",
+      "time_min": 38,
+      "heat": "中火",
+      "tip": "必须水开后再上锅，冷水上锅蒸出的腊味香气发散、油脂析出不充分。",
+      "visual_cue": "盘底积起一层红亮的油脂汤汁，肉片边缘卷起、肥肉完全透明。"
+    },
+    {
+      "n": 6,
+      "text": "出锅后淋 5 毫升香油，撒少许大葱切成的葱末，趁热连同汤汁一起上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "香油要在关火后淋，高温会让它的坚果香挥发掉。",
+      "visual_cue": "表面油光发亮，飘出烟熏与豆豉混合的浓香，用筷子夹起肉片能感到柔软。"
+    }
+  ],
+  "tips": [
+    "腊肉与腊肠本身的咸度差别很大，蒸之前务必先煮或蒸 5 分钟尝一小片，再决定是否加盐。",
+    "盘底的油汁是整道菜的精华，拌饭或拌面条极香，不要倒掉。"
+  ],
+  "common_mistakes": [
+    "腊肉不洗不煮直接上锅，成品过咸且带烟灰味，口感发硬。",
+    "切片过厚，蒸制时间不足，肥肉部分仍有油腻的生硬感，嚼不烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肉",
+      "substitute": "火腿或腊肠增量",
+      "ratio": "200 克腊肉换 200 克火腿",
+      "note": "火腿咸度更高，需延长煮制到 12 分钟并省略白糖。"
+    },
+    {
+      "original": "豆豉",
+      "substitute": "豆瓣酱",
+      "ratio": "12 克豆豉换 10 克豆瓣酱",
+      "note": "豆瓣酱含水较多，蒸出的汤汁更浓，需减少料酒到 10 毫升。"
+    }
+  ],
+  "variations": [
+    "腊味合蒸南瓜：盘底铺 200 克南瓜厚片，吸收腊味油脂后甜咸交融。",
+    "电饭锅版：食材码好后放在蒸架上与米饭同蒸，饭熟时腊味也刚好，适合一人食。"
+  ],
+  "serving_suggestion": "趁热上桌，一人份约 110 克肉片；配白米饭或荷叶饼，另备一碟清炒青菜平衡咸味。",
+  "storage": "冷藏可存 3 天，复热需隔水蒸 8 分钟；腊味本身耐存，未切的整块腊肉可挂通风处保存 1 个月以上。",
+  "nutrition_estimate": {
+    "basis": "每份（约 110 克肉片）",
+    "calories_kcal": 428,
+    "protein_g": 18.6,
+    "fat_g": 36.4,
+    "carbs_g": 6.8,
+    "sodium_mg": 1246,
+    "is_estimate": true,
+    "disclaimer": "腊味腌制用盐量差异很大，钠含量估算误差可达 30%。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "腊味属腌制品，钠与亚硝酸盐含量较高，建议每周食用不超过两次，孕妇与儿童适量。",
+    "自制腊肉若表面出现霉斑或发黏，应立即丢弃，不可切掉霉变部分后继续食用。"
+  ],
+  "origin_note": "腊味合蒸是湖南冬季的经典做法，湘西、湘南山区历来有冬至腌肉、松枝熏制的习俗，腊肉腊肠挂在灶头经烟熏风干，能存到次年春耕。把几种腊味同盘蒸制，既省柴火，也让不同腊味的油脂互相浸润。具体成形年代无确切记载，此处只作地域饮食背景说明。",
+  "tags": [
+    "湘菜",
+    "蒸菜",
+    "冬季菜",
+    "腊味"
+  ],
+  "related_ids": [
+    "lajiao-chaorou",
+    "yipin-guo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

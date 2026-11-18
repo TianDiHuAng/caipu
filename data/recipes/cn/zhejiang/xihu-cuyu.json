@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xihu-cuyu",
+  "name": {
+    "zh": "西湖醋鱼",
+    "en": "West Lake Vinegar Fish",
+    "original": "西湖醋魚"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "sweet",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 800,
+          "unit": "g",
+          "note": "选 800 克左右的鲜活草鱼，宰杀后从背部剖开成雌雄两片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "10 克切末入醋汁，15 克切片煮鱼去腥",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段，与姜片同煮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 50,
+          "unit": "ml",
+          "note": "主体酸味，起锅前再补 10 毫升保留香气",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "与醋约按 0.8 比 1 配比，形成先酸后甜",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提供咸鲜底色，不可用老抽代替",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "Shaoxing cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煮鱼时加入去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "调成水淀粉勾薄芡",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "煮鱼水中使用，参考量 3 克",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "大汤锅",
+    "漏勺",
+    "砧板",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼宰杀去鳞去内脏，刮净腹内黑膜，从背部下刀剖成两片、腹部相连，鱼身两面各斜剞三刀，用清水冲净血水。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "从背部剖开能让鱼身平摊受热均匀，腹部相连则保持整条上桌的卖相。",
+      "visual_cue": "鱼身平摊后厚度约 2 厘米、切口整齐，腹内没有残留的黑膜。"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加 1500 毫升清水，放姜片、葱段、20 毫升料酒与 3 克盐烧开，转小火让水面保持微沸。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "水必须微沸而不是翻滚，滚水会把鱼肉冲散，成品不成形。",
+      "visual_cue": "锅底不断冒出小泡、水面几乎没有大的翻花，闻到姜葱的清香。"
+    },
+    {
+      "n": 3,
+      "text": "手提鱼尾把鱼皮朝上放入锅中，小火浸煮 4 分钟，用勺把热水不断浇在露出水面的鱼身上。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "鱼皮朝上放可防止鱼皮粘锅破损；浇热水是为了让未浸没的部分同步受热。",
+      "visual_cue": "鱼眼变白凸出、鱼鳍能轻松拔出，鱼身表面由透明转成均匀的白色。"
+    },
+    {
+      "n": 4,
+      "text": "用漏勺托住鱼身捞出，沥干水分后摆入长盘，鱼皮朝上，把鱼身轻轻整理成自然的弧度。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "捞出时动作要稳，鱼身很软，用两把铲子从两侧托起最稳妥。",
+      "visual_cue": "鱼肉表面完整无破损、切口处呈洁白的片状，盘中没有积水。"
+    },
+    {
+      "n": 5,
+      "text": "另起锅放 150 毫升煮鱼的原汤，加 50 毫升香醋、40 克白糖、15 毫升生抽与 10 克姜末烧开，尝味调整酸甜。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "用煮鱼原汤调汁是这道菜的关键，鱼汤的胶质能让醋汁自然地挂住鱼身。",
+      "visual_cue": "汤汁呈浅琥珀色、表面微微冒泡，闻起来酸中带甜而不冲鼻。"
+    },
+    {
+      "n": 6,
+      "text": "15 克玉米淀粉加 30 毫升清水调匀，缓缓淋入锅中并不停搅动至汤汁浓稠透亮，起锅前补 10 毫升香醋，趁热浇在鱼身上。",
+      "time_min": 2,
+      "heat": "中小火",
+      "tip": "最后补的醋要离火再加，高温会让醋酸挥发，酸味只剩一半。",
+      "visual_cue": "芡汁浓稠如米汤、能均匀挂在鱼身上形成一层亮膜，盘中不积汁。"
+    }
+  ],
+  "tips": [
+    "草鱼要选 750 至 900 克，太小肉薄易散，太大肉质粗老。",
+    "鱼煮好后不要久放，从捞出到浇汁控制在 3 分钟内，鱼肉才嫩。"
+  ],
+  "common_mistakes": [
+    "水大开后下鱼，鱼皮被冲得支离破碎，鱼肉也因高温收缩变柴。",
+    "醋一次性全放且大火久煮，酸味挥发只剩甜味，失去「醋鱼」的本味。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲈鱼",
+      "ratio": "1:1 等量替换",
+      "note": "鲈鱼刺少肉嫩，浸煮时间缩短到 3 分钟，更适合老人小孩。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "米醋加少量陈醋",
+      "ratio": "45 毫升米醋加 5 毫升陈醋",
+      "note": "酸味更直接，陈醋补一点醇厚感。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用整条鱼不剖背，直接整条浸煮 6 分钟，浇汁方式不变，卖相稍逊但操作更简单。",
+    "糖醋鲤鱼式改法：把草鱼换成小黄鱼，先煎后浇汁，外皮更香。"
+  ],
+  "serving_suggestion": "整条上桌，鱼腹朝外；一人份约 180 克带骨鱼肉，配一碗白米饭，酸甜汁拌饭尤其下口。",
+  "storage": "不建议隔夜，鱼肉久放会散、醋汁香气尽失；若需保存，鱼肉与醋汁分开冷藏，复热时鱼肉蒸 4 分钟再浇新调的汁。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180 克带骨鱼肉）",
+    "calories_kcal": 268,
+    "protein_g": 26.4,
+    "fat_g": 8.6,
+    "carbs_g": 18.2,
+    "sodium_mg": 642,
+    "is_estimate": true,
+    "disclaimer": "带骨计算会因剔除骨重不同产生约 15% 误差。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "淡水鱼必须彻底浸熟，鱼肉最厚处中心温度达到 63 摄氏度以上，切开后肉色不透明、无血水渗出。",
+    "草鱼胆有毒，处理时避免弄破胆囊；若鱼肉沾到胆汁应立即切除并冲洗。"
+  ],
+  "origin_note": "西湖醋鱼是杭州的传统名菜，相传源于南宋临安的「叔嫂传珍」故事，也有说法认为它脱胎于明清西湖船菜的做法。它讲究不用油、只用醋与糖调汁，突出鱼肉本身的鲜嫩，是浙菜里「清鲜」风格的代表。具体源流各家记载不一，此处仅作饮食文化背景说明。",
+  "tags": [
+    "浙菜",
+    "经典名菜",
+    "酸甜",
+    "少油"
+  ],
+  "related_ids": [
+    "tangcu-liyu",
+    "congsao-haishen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

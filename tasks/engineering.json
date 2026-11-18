@@ -5,64 +5,234 @@
       "id": "P0",
       "title": "阶段 0 文档与任务清单",
       "items": [
-        { "id": "P0-01", "title": "docs/PRD.md 用户、场景、功能、页面清单", "done": true },
-        { "id": "P0-02", "title": "docs/SCHEMA.md + schema/recipe.schema.json", "done": true },
-        { "id": "P0-03", "title": "docs/TAXONOMY.md + data/taxonomy.json 分类体系", "done": true },
-        { "id": "P0-04", "title": "docs/STYLE.md 写作规范与质量门槛", "done": true },
-        { "id": "P0-05", "title": "docs/DECISIONS.md 决策日志", "done": true },
-        { "id": "P0-06", "title": "data/ingredients.json 食材词典（中英名/别名/过敏原）", "done": true },
-        { "id": "P0-07", "title": "scripts/validate 校验脚本（8 项质量门槛 + 一致性规则）", "done": true },
-        { "id": "P0-08", "title": "tasks/progress.json 与 tasks/TASKS.md 生成脚本", "done": true }
+        {
+          "id": "P0-01",
+          "title": "docs/PRD.md 用户、场景、功能、页面清单",
+          "done": true
+        },
+        {
+          "id": "P0-02",
+          "title": "docs/SCHEMA.md + schema/recipe.schema.json",
+          "done": true
+        },
+        {
+          "id": "P0-03",
+          "title": "docs/TAXONOMY.md + data/taxonomy.json 分类体系",
+          "done": true
+        },
+        {
+          "id": "P0-04",
+          "title": "docs/STYLE.md 写作规范与质量门槛",
+          "done": true
+        },
+        {
+          "id": "P0-05",
+          "title": "docs/DECISIONS.md 决策日志",
+          "done": true
+        },
+        {
+          "id": "P0-06",
+          "title": "data/ingredients.json 食材词典（中英名/别名/过敏原）",
+          "done": true
+        },
+        {
+          "id": "P0-07",
+          "title": "scripts/validate 校验脚本（8 项质量门槛 + 一致性规则）",
+          "done": true
+        },
+        {
+          "id": "P0-08",
+          "title": "tasks/progress.json 与 tasks/TASKS.md 生成脚本",
+          "done": true
+        }
       ]
     },
     {
       "id": "P1",
       "title": "阶段 1 项目骨架、数据库、导入脚本、API 与测试",
       "items": [
-        { "id": "P1-01", "title": "根工作区：package.json workspaces、tsconfig、.gitignore、.editorconfig", "done": false },
-        { "id": "P1-02", "title": "packages/shared：菜谱类型、份量换算、单位换算、格式化工具", "done": false },
-        { "id": "P1-03", "title": "packages/db：Drizzle ORM schema（SQLite→PostgreSQL 可迁移）", "done": false },
-        { "id": "P1-04", "title": "packages/db：迁移与建库脚本", "done": false },
-        { "id": "P1-05", "title": "scripts/import.mjs：JSON 源数据导入数据库（幂等）", "done": false },
-        { "id": "P1-06", "title": "导入脚本自动化测试", "done": false },
-        { "id": "P1-07", "title": "apps/api：Fastify 骨架、配置、错误处理、CORS、请求日志", "done": false },
-        { "id": "P1-08", "title": "API：GET /health 与 GET /api/v1/meta 分类树", "done": false },
-        { "id": "P1-09", "title": "API：GET /api/v1/recipes 列表（分页/筛选/排序）", "done": false },
-        { "id": "P1-10", "title": "API：GET /api/v1/recipes/:id 详情", "done": false },
-        { "id": "P1-11", "title": "API：GET /api/v1/search 关键词搜索", "done": false },
-        { "id": "P1-12", "title": "API：GET /api/v1/filters 筛选项聚合", "done": false },
-        { "id": "P1-13", "title": "API：GET /api/v1/recipes/random 随机推荐", "done": false },
-        { "id": "P1-14", "title": "API：GET /api/v1/ingredients 食材反查", "done": false },
-        { "id": "P1-15", "title": "API 自动化测试套件（node:test + inject）", "done": false },
-        { "id": "P1-16", "title": "docs/API.md 接口文档（含 OpenAPI 描述）", "done": false }
+        {
+          "id": "P1-01",
+          "title": "根工作区：package.json workspaces、tsconfig、.gitignore、.editorconfig",
+          "done": true
+        },
+        {
+          "id": "P1-02",
+          "title": "packages/shared：菜谱类型、份量换算、单位换算、格式化工具",
+          "done": true
+        },
+        {
+          "id": "P1-03",
+          "title": "packages/db：Drizzle ORM schema（SQLite→PostgreSQL 可迁移）",
+          "done": true
+        },
+        {
+          "id": "P1-04",
+          "title": "packages/db：迁移与建库脚本",
+          "done": true
+        },
+        {
+          "id": "P1-05",
+          "title": "scripts/import.mjs：JSON 源数据导入数据库（幂等）",
+          "done": true
+        },
+        {
+          "id": "P1-06",
+          "title": "导入脚本自动化测试",
+          "done": true
+        },
+        {
+          "id": "P1-07",
+          "title": "apps/api：Fastify 骨架、配置、错误处理、CORS、请求日志",
+          "done": true
+        },
+        {
+          "id": "P1-08",
+          "title": "API：GET /health 与 GET /api/v1/meta 分类树",
+          "done": true
+        },
+        {
+          "id": "P1-09",
+          "title": "API：GET /api/v1/recipes 列表（分页/筛选/排序）",
+          "done": true
+        },
+        {
+          "id": "P1-10",
+          "title": "API：GET /api/v1/recipes/:id 详情",
+          "done": true
+        },
+        {
+          "id": "P1-11",
+          "title": "API：GET /api/v1/search 关键词搜索",
+          "done": true
+        },
+        {
+          "id": "P1-12",
+          "title": "API：GET /api/v1/filters 筛选项聚合",
+          "done": true
+        },
+        {
+          "id": "P1-13",
+          "title": "API：GET /api/v1/recipes/random 随机推荐",
+          "done": true
+        },
+        {
+          "id": "P1-14",
+          "title": "API：GET /api/v1/ingredients 食材反查",
+          "done": true
+        },
+        {
+          "id": "P1-15",
+          "title": "API 自动化测试套件（node:test + inject）",
+          "done": true
+        },
+        {
+          "id": "P1-16",
+          "title": "docs/API.md 接口文档（含 OpenAPI 描述）",
+          "done": true
+        },
+        {
+          "id": "P1-17",
+          "title": "验收：npm test 26/26 与 scripts/smoke.mjs 17/17 全通过，记录 STAGE_REPORT.md",
+          "done": true
+        },
+        {
+          "id": "P1-18",
+          "title": "验收：init + import 幂等重建数据库，health 计数正确",
+          "done": true
+        }
       ]
     },
     {
       "id": "P2",
       "title": "阶段 2 五十道样板菜谱",
       "items": [
-        { "id": "P2-01", "title": "样板批次 1：川/粤/鲁/苏/浙 12 道", "done": false },
-        { "id": "P2-02", "title": "样板批次 2：闽/湘/徽/京/沪 13 道", "done": false },
-        { "id": "P2-03", "title": "样板批次 3：日/韩/泰/意/法 12 道", "done": false },
-        { "id": "P2-04", "title": "样板批次 4：印/美/墨/中东/烘焙甜点饮品 13 道", "done": false },
-        { "id": "P2-05", "title": "50 道样板全量 validate 通过并回写 STYLE.md 质量标准", "done": false }
+        {
+          "id": "P2-01",
+          "title": "样板批次 1：川/粤/鲁/苏/浙 12 道",
+          "done": true
+        },
+        {
+          "id": "P2-02",
+          "title": "样板批次 2：闽/湘/徽/京/沪 13 道",
+          "done": true
+        },
+        {
+          "id": "P2-03",
+          "title": "样板批次 3：日/韩/泰/意/法 12 道",
+          "done": true
+        },
+        {
+          "id": "P2-04",
+          "title": "样板批次 4：印/美/墨/中东/烘焙甜点饮品 13 道",
+          "done": true
+        },
+        {
+          "id": "P2-05",
+          "title": "50 道样板全量 validate 通过并回写 STYLE.md 质量标准",
+          "done": true
+        }
       ]
     },
     {
       "id": "P3",
       "title": "阶段 3 网站核心页面、SEO、响应式",
       "items": [
-        { "id": "P3-01", "title": "apps/web：Next.js + TypeScript + Tailwind 骨架与布局", "done": false },
-        { "id": "P3-02", "title": "首页：搜索入口、热门菜系、精选菜谱、分类导航", "done": false },
-        { "id": "P3-03", "title": "分类树页 /categories 与分类详情 /categories/[slug]", "done": false },
-        { "id": "P3-04", "title": "菜系列表 /cuisines 与菜系详情 /cuisines/[slug]", "done": false },
-        { "id": "P3-05", "title": "菜谱详情页 /recipes/[id]（分组配料、步骤、贴士、换算控件）", "done": false },
-        { "id": "P3-06", "title": "搜索页 /search（关键词 + 多维筛选）", "done": false },
-        { "id": "P3-07", "title": "食材反查页 /ingredients 与 /ingredients/[slug]", "done": false },
-        { "id": "P3-08", "title": "份量换算与单位切换组件（客户端计算）", "done": false },
-        { "id": "P3-09", "title": "打印视图 /recipes/[id]/print", "done": false },
-        { "id": "P3-10", "title": "SEO：metadata、schema.org/Recipe、sitemap.xml、robots.txt、Open Graph", "done": false },
-        { "id": "P3-11", "title": "响应式与可访问性验收（移动端断点、语义化标签、对比度）", "done": false }
+        {
+          "id": "P3-01",
+          "title": "apps/web：Next.js + TypeScript + Tailwind 骨架与布局",
+          "done": true
+        },
+        {
+          "id": "P3-02",
+          "title": "首页：搜索入口、热门菜系、精选菜谱、分类导航",
+          "done": true
+        },
+        {
+          "id": "P3-03",
+          "title": "分类树页 /categories 与分类详情 /categories/[slug]",
+          "done": true
+        },
+        {
+          "id": "P3-04",
+          "title": "菜系列表 /cuisines 与菜系详情 /cuisines/[slug]",
+          "done": true
+        },
+        {
+          "id": "P3-05",
+          "title": "菜谱详情页 /recipes/[id]（分组配料、步骤、贴士、换算控件）",
+          "done": true
+        },
+        {
+          "id": "P3-06",
+          "title": "搜索页 /search（关键词 + 多维筛选）",
+          "done": true
+        },
+        {
+          "id": "P3-07",
+          "title": "食材反查页 /ingredients 与 /ingredients/[slug]",
+          "done": true
+        },
+        {
+          "id": "P3-08",
+          "title": "份量换算与单位切换组件（客户端计算）",
+          "done": true
+        },
+        {
+          "id": "P3-09",
+          "title": "打印视图 /recipes/[id]/print",
+          "done": true
+        },
+        {
+          "id": "P3-10",
+          "title": "SEO：metadata、schema.org/Recipe、sitemap.xml、robots.txt、Open Graph",
+          "done": true
+        },
+        {
+          "id": "P3-11",
+          "title": "响应式与可访问性验收（移动端断点、语义化标签、对比度）",
+          "done": true
+        }
       ]
     },
     {
@@ -74,23 +244,67 @@
       "id": "P5",
       "title": "阶段 5 搜索优化、多语言、性能、Docker、文档",
       "items": [
-        { "id": "P5-01", "title": "搜索优化：权重排序、同义词、拼音扩展、高亮", "done": false },
-        { "id": "P5-02", "title": "多语言界面（zh/en）与 locale 路由", "done": false },
-        { "id": "P5-03", "title": "性能优化：缓存、图片占位、ISR/SSG、索引优化", "done": false },
-        { "id": "P5-04", "title": "Docker 与 docker compose 一键启动", "done": false },
-        { "id": "P5-05", "title": "README（运行、新增菜谱、对接 App/小程序）", "done": false },
-        { "id": "P5-06", "title": "docs/MOBILE_API.md 移动端对接指南", "done": false },
-        { "id": "P5-07", "title": "docs/DEPLOY.md 部署文档", "done": false }
+        {
+          "id": "P5-01",
+          "title": "搜索优化：权重排序、同义词、拼音扩展、高亮",
+          "done": true
+        },
+        {
+          "id": "P5-02",
+          "title": "多语言界面（zh/en）与 locale 路由",
+          "done": true
+        },
+        {
+          "id": "P5-03",
+          "title": "性能优化：缓存、图片占位、ISR/SSG、索引优化",
+          "done": true
+        },
+        {
+          "id": "P5-04",
+          "title": "Docker 与 docker compose 一键启动",
+          "done": true
+        },
+        {
+          "id": "P5-05",
+          "title": "README（运行、新增菜谱、对接 App/小程序）",
+          "done": true
+        },
+        {
+          "id": "P5-06",
+          "title": "docs/MOBILE_API.md 移动端对接指南",
+          "done": true
+        },
+        {
+          "id": "P5-07",
+          "title": "docs/DEPLOY.md 部署文档",
+          "done": true
+        }
       ]
     },
     {
       "id": "P6",
       "title": "阶段 6 全库质量巡检与收尾",
       "items": [
-        { "id": "P6-01", "title": "全库 validate + 测试全绿，修复所有 [BLOCKED]", "done": false },
-        { "id": "P6-02", "title": "每个菜系完成至少一次 5% 随机抽检并修复不合格项", "done": false },
-        { "id": "P6-03", "title": "tasks/FINAL_CHECK.md 终止条件逐项自检", "done": false },
-        { "id": "P6-04", "title": "tasks/STAGE_REPORT.md 各阶段验收记录", "done": false }
+        {
+          "id": "P6-01",
+          "title": "全库 validate + 测试全绿，修复所有 [BLOCKED]",
+          "done": false
+        },
+        {
+          "id": "P6-02",
+          "title": "每个菜系完成至少一次 5% 随机抽检并修复不合格项",
+          "done": false
+        },
+        {
+          "id": "P6-03",
+          "title": "tasks/FINAL_CHECK.md 终止条件逐项自检",
+          "done": false
+        },
+        {
+          "id": "P6-04",
+          "title": "tasks/STAGE_REPORT.md 各阶段验收记录",
+          "done": false
+        }
       ]
     }
   ]

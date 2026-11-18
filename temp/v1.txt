@@ -1,0 +1,31 @@
+﻿校验范围: 3 个文件（成功解析 3）
+分类体系: 59 菜系 / 26 品类；食材词典: 271 项
+
+[问题文件] 3 个（schema 失败 0，规则失败 3）：
+
+· data/recipes/cn/sichuan/gongbao-jiding.json (gongbao-jiding) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+   - ingredients: 「盐」在全部步骤与提示中均未被使用
+   - steps: 文本提到「鸡胸肉」，但配料表中没有该食材
+   - steps: 文本提到「小葱」，但配料表中没有该食材
+   - steps: 文本提到「虾仁」，但配料表中没有该食材
+   - steps: 文本提到「大米」，但配料表中没有该食材
+   - steps: 文本提到「虾」，但配料表中没有该食材
+
+· data/recipes/cn/sichuan/mapo-doufu.json (mapo-doufu) [RULES]
+   - steps: 文本提到「北豆腐」，但配料表中没有该食材
+   - steps: 文本提到「香菇」，但配料表中没有该食材
+   - steps: 文本提到「猪肉末」，但配料表中没有该食材
+   - steps: 文本提到「大米」，但配料表中没有该食材
+
+· data/recipes/cn/sichuan/yuxiang-rousi.json (yuxiang-rousi) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+   - steps: 文本提到「茄子」，但配料表中没有该食材
+   - steps: 文本提到「番茄」，但配料表中没有该食材
+   - steps: 文本提到「小米辣」，但配料表中没有该食材
+   - steps: 文本提到「小葱」，但配料表中没有该食材
+   - steps: 文本提到「黄瓜」，但配料表中没有该食材
+   - steps: 文本提到「竹笋」，但配料表中没有该食材
+   - steps: 文本提到「大米」，但配料表中没有该食材
+
+❌ 未通过：3 类问题，累计 19 条

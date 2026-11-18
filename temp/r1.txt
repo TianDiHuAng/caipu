@@ -1,0 +1,41 @@
+﻿// 菜谱内容质量规则：对应 STYLE.md「质量门槛」8 条与若干一致性规则
+import { buildNameIndex, buildKeyIndex } from './loaders.mjs';
+
+const PLACEHOLDER_PATTERNS = [
+  { re: /TODO|FIXME|TBD/i, label: '占位符 TODO/FIXME' },
+  { re: /待补|待完善|待定|后续补充|后续可|以后再说/, label: '占位表述' },
+  { re: /同上|同前|见上|参照上文/, label: '省略表述' },
+  { re: /…{2,}|\.{3,}/, label: '省略号' },
+  { re: /^\s*$/, label: '空文本' }
+];
+
+const OIL_KEYS = new Set([
+  'rapeseed-oil', 'peanut-oil', 'vegetable-oil', 'olive-oil',
+  'lard', 'coconut-oil', 'sesame-oil', 'chili-oil'
+]);
+
+const PROTEIN_PER_PIECE = {
+  egg: 55, meat: 90, poultry: 100, seafood: 70, vegetable: 130,
+  fruit: 150, grain: 60, legume: 80, fungus: 20, dairy: 100, other: 60
+};
+
+const MENTION_SCOPE = new Set([
+  'meat', 'poultry', 'seafood', 'egg', 'legume', 'fungus', 'grain',
+  'vegetable', 'fruit', 'dairy', 'nut'
+]);
+
+const ANIMAL_CATEGORIES = new Set(['meat', 'poultry', 'seafood']);
+
+/** 单位换算为近似克重 */
+export function toGrams(amount, unit, entry) {
+  if (unit === 'to-taste') return 0;
+  const n = Number(amount) || 0;
+  switch (unit) {
+    case 'g':
+    case 'ml':
+      return n;
+    case 'piece':
+      return n * (PROTEIN_PER_PIECE[entry?.category] ?? 60);
+    case 'clove':
+      return n * 5;
+    case 'slice':

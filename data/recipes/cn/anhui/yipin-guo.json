@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yipin-guo",
+  "name": {
+    "zh": "一品锅",
+    "en": "Yipin Layered Hot Pot",
+    "original": "一品鍋"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 100,
+    "total_min": 130
+  },
+  "servings": 6,
+  "flavor": [
+    "rich",
+    "salty",
+    "umami",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 400,
+          "unit": "g",
+          "note": "切 1 厘米厚的方片，先煎出部分油脂",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "boneless chicken thigh",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块，用料酒与姜片略腌去腥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 300,
+          "unit": "g",
+          "note": "整片铺在锅底，防止糊底并吸油",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块，需先焯水 3 分钟去涩",
+          "optional": false
+        },
+        {
+          "name": "油豆腐",
+          "name_en": "fried tofu puff",
+          "amount": 120,
+          "unit": "g",
+          "note": "对半切开，便于吸汤汁",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake",
+          "amount": 60,
+          "unit": "g",
+          "note": "干香菇提前用温水泡发，泡菇水留用",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片，与葱一同铺在肉层之间",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段，垫在锅底增香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "分层淋入，提供主体咸鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "只为加深汤色，多放会发黑",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "Shaoxing cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "腌鸡与炖煮各用 20 毫升",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "平衡咸味并让汤汁油亮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "最后尝味后决定是否补加",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎五花肉时润锅用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干香菇用 200 毫升温水泡发 20 分钟，泡菇水静置沉淀后留上层清液备用；竹笋切滚刀块，冷水下锅焯 3 分钟后捞出。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "泡菇水是这道菜的鲜味来源之一，务必保留，但底部沉淀的沙粒要倒掉。",
+      "visual_cue": "香菇伞面完全舒展、捏起来柔软有弹性；竹笋由生白转为半透明、涩味明显减弱。"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切 1 厘米厚片，锅中放 20 毫升菜籽油，中小火煎 5 分钟至两面微黄、油脂渗出，盛出备用。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "煎肉只为逼出多余油脂，不必煎到全熟，后续炖煮还会继续软化。",
+      "visual_cue": "肉片两面呈浅金黄色、边缘微微卷起，锅底积起一层透明猪油。"
+    },
+    {
+      "n": 3,
+      "text": "鸡腿肉切 3 厘米块，加 20 毫升料酒与几片姜抓匀腌 10 分钟；大白菜整片洗净，焯水 30 秒至变软便于铺底。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "白菜先焯软可避免在砂锅中支棱着顶破上层食材，也让层与层之间更服帖。",
+      "visual_cue": "鸡肉表面不再有血水渗出，白菜叶由脆硬变得柔软可折叠。"
+    },
+    {
+      "n": 4,
+      "text": "砂锅底铺白菜叶与葱段，依次码入煎好的五花肉、鸡块、竹笋、香菇与油豆腐，每层之间撒几片姜并淋 10 毫升生抽。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "分层码放是「一品锅」的规矩，耐煮的在下、易熟的在上，汤汁自上而下渗。",
+      "visual_cue": "锅中食材层层分明、堆成小丘状，液面尚未没过食材。"
+    },
+    {
+      "n": 5,
+      "text": "把泡菇水与 400 毫升清水混合，加 40 毫升生抽、10 毫升老抽、20 毫升料酒与 15 克冰糖调匀，沿锅边缓缓注入至食材七成高。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "汤汁沿锅边注入，直接冲在食材上会把码好的层冲散。",
+      "visual_cue": "汤汁呈深琥珀色，液面在食材七成处，最上层的油豆腐浮出汤面。"
+    },
+    {
+      "n": 6,
+      "text": "大火烧开后转小火，盖盖炖 80 分钟，中途不揭盖；最后 10 分钟开盖加 4 克盐调味并略收汤汁。",
+      "time_min": 90,
+      "heat": "小火",
+      "tip": "全程小火，砂锅聚热强，火大容易糊底；若汤汁见底可补少量热水。",
+      "visual_cue": "汤汁减少约三成、表面浮一层红亮油花，五花肉用筷子一夹即断，白菜呈半透明。"
+    }
+  ],
+  "tips": [
+    "层次顺序可按家中食材调整，但白菜与葱必须垫底，否则五花肉直接贴锅容易焦糊。",
+    "砂锅上桌前先在桌上垫一块木板，骤冷骤热会让砂锅开裂。"
+  ],
+  "common_mistakes": [
+    "所有食材一次全部下锅且加足水大火煮，结果上层食材煮烂、下层还没入味。",
+    "省略焯白菜这一步，白菜在锅中支起空隙，汤汁分布不均，有的食材完全没浸到汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "油豆腐",
+      "substitute": "豆腐皮或百叶结",
+      "ratio": "120 克油豆腐换 100 克百叶结",
+      "note": "百叶结需提前用温水泡软 15 分钟，吸汁能力更强。"
+    },
+    {
+      "original": "竹笋",
+      "substitute": "茭白或冬笋",
+      "ratio": "150 克竹笋换 150 克茭白",
+      "note": "茭白无需焯水，直接切块下锅即可，口感更嫩。"
+    }
+  ],
+  "variations": [
+    "绩溪一品锅：传统做法会在最上层铺蛋饺与肉圆，形成「一品」的完整形制，需额外准备 8 个蛋饺。",
+    "家庭简化版：用铸铁锅代替砂锅，炖制时间缩短到 60 分钟，最后开盖大火收汁 5 分钟。"
+  ],
+  "serving_suggestion": "整锅上桌，由下往上依次取食，一人份约 150 克肉与 100 克蔬菜；汤汁拌饭极下口，宜配一碟清口小菜。",
+  "storage": "冷藏可存 3 天，复热时补少量热水小火炖 15 分钟；反复加热会让白菜过烂，建议分次取用后单独保存。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250 克成品）",
+    "calories_kcal": 462,
+    "protein_g": 26.4,
+    "fat_g": 32.8,
+    "carbs_g": 14.2,
+    "sodium_mg": 1086,
+    "is_estimate": true,
+    "disclaimer": "分层食材取用比例不同，热量差异较大，估算误差约 20%。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡肉与猪肉混合炖煮需确保两者中心温度均达到 74 摄氏度，砂锅聚热慢，务必炖足时间。",
+    "泡发香菇的水需冷藏保存且当天使用，室温放置过久易滋生细菌。"
+  ],
+  "origin_note": "一品锅是徽州绩溪一带的冬季大菜，相传与明代官员回乡宴客的排场有关，因层层叠叠、用料丰厚而被称作「一品」。徽州山区冬季湿冷，一锅炖煮既省燃料又能久放，逐渐成为年节与待客的固定菜式。相关典故的细节多为民间流传，此处仅作文化背景。",
+  "tags": [
+    "徽菜",
+    "宴客菜",
+    "砂锅",
+    "冬季菜"
+  ],
+  "related_ids": [
+    "dongpo-rou",
+    "yandu-xian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

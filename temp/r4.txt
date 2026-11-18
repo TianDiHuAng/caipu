@@ -1,0 +1,39 @@
+﻿
+  scripts\lib\rules.mjs:111:  // 不包含 tips、variations、substitutions、serving_suggestion 等旁述字段，
+  scripts\lib\rules.mjs:112:  // 否则「鸡胸肉可替代鸡腿肉」这类合理旁述会被误判为缺失配料。
+> scripts\lib\rules.mjs:113:  const stepScopeText = (recipe.steps || [])
+  scripts\lib\rules.mjs:114:    .map((s) => `${s.text || ''} ${s.tip || ''} ${s.visual_cue || ''}`)
+  scripts\lib\rules.mjs:115:    .join('\n');
+  scripts\lib\rules.mjs:116:
+  scripts\lib\rules.mjs:117:  // ---------- R2 占位符与文本规范 ----------
+  scripts\lib\rules.mjs:118:  const textFields = [
+  scripts\lib\rules.mjs:119:    ['serving_suggestion', recipe.serving_suggestion],
+  scripts\lib\rules.mjs:120:    ['storage', recipe.storage],
+  scripts\lib\rules.mjs:121:    ['food_safety_notes', recipe.food_safety_notes],
+  scripts\lib\rules.mjs:188:      // 该配料是否在烹饪步骤中被使用
+  scripts\lib\rules.mjs:189:      const candidates = [it.name, entry.zh, ...(entry.aliases || [])].filter((x) => x && x
+.length >= 1);
+> scripts\lib\rules.mjs:190:      if (candidates.some((c) => stepScopeText.includes(c))) usedNames.add(entry);
+  scripts\lib\rules.mjs:191:      else push(`ingredients: 「${it.name}」在全部步骤与提示中均未被使用`);
+  scripts\lib\rules.mjs:192:    }
+  scripts\lib\rules.mjs:193:  }
+  scripts\lib\rules.mjs:194:
+  scripts\lib\rules.mjs:195:  const perMain = mainGram / servings;
+  scripts\lib\rules.mjs:196:  if (perMain < 60) push(`用量: 每份主料约 ${Math.round(perMain)}g，低于 60g 下限（份量或用量可能写错）`);
+  scripts\lib\rules.mjs:197:  if (perMain > 700) push(`用量: 每份主料约 ${Math.round(perMain)}g，超过 700g 上限`);
+  scripts\lib\rules.mjs:198:  const saltPerServing = saltGram / servings;
+  scripts\lib\rules.mjs:202:  if (oilMl > oilLimit) push(`用量: 总油量 ${Math.round(oilMl)}ml 超过上限 ${Math.round(oilLimit)}ml
+（${isFried ? '油炸' : '常规'}）`);
+  scripts\lib\rules.mjs:203:
+> scripts\lib\rules.mjs:204:  // ---------- R4 步骤与配料互相引用 ----------
+> scripts\lib\rules.mjs:205:  const mentioned = matchIngredients(stepScopeText, matcher);
+  scripts\lib\rules.mjs:206:  for (const item of mentioned) {
+  scripts\lib\rules.mjs:207:    if (!MENTION_SCOPE.has(item.category)) continue;
+  scripts\lib\rules.mjs:208:    if (declaredItems.has(item)) continue;
+  scripts\lib\rules.mjs:209:    if (usedNames.has(item)) continue;
+  scripts\lib\rules.mjs:210:    push(`steps: 文本提到「${item.zh}」，但配料表中没有该食材`);
+  scripts\lib\rules.mjs:211:  }
+  scripts\lib\rules.mjs:212:
+  scripts\lib\rules.mjs:213:  // ---------- R5 过敏原一致性 ----------
+
+

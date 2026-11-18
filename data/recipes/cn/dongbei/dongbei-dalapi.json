@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dongbei-dalapi",
+  "name": {
+    "zh": "东北大拉皮",
+    "en": "Northeastern Sheet Jelly Salad",
+    "original": "东北大拉皮"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "cold-dish"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "salty",
+    "fragrant",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "粉皮",
+          "name_en": "mung bean sheet jelly",
+          "amount": 300,
+          "unit": "g",
+          "note": "选现成湿粉皮，切 1.5 厘米宽条；干粉皮需提前泡软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "绿豆芽",
+          "name_en": "mung bean sprout",
+          "amount": 100,
+          "unit": "g",
+          "note": "焯 20 秒过凉沥干",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "coriander",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末，调汁用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "底味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "酸度按口味增减",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "自炼红油更香",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "白芝麻",
+          "name_en": "toasted sesame",
+          "amount": 8,
+          "unit": "g",
+          "note": "干锅小火焙香后撒面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调节咸度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大拌菜盆",
+    "漏勺",
+    "擦丝器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "粉皮放入沸水焯 30 秒至透明柔软，立即捞出过冷水，沥干后切 1.5 厘米宽条，拌 3 毫升香油防止粘连。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "粉皮焯到刚透明就捞出，久煮会化成一团没有筋性。",
+      "visual_cue": "粉皮由乳白转为半透明、边缘柔韧，筷子夹起不断。"
+    },
+    {
+      "n": 2,
+      "text": "黄瓜与胡萝卜切细丝，豆芽焯 20 秒过凉水沥干，香菜切段，依次码放在大盆中。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "蔬菜丝要沥干水分，带水下盆会让料汁变稀、成品出水。",
+      "visual_cue": "菜丝干爽挺立、盆底无水。"
+    },
+    {
+      "n": 3,
+      "text": "取小碗放蒜末、30 毫升生抽、30 毫升香醋、8 克白糖、3 克盐、25 毫升辣椒油与 8 毫升香油，搅到糖盐完全溶解。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "料汁先调好再拌，边拌边尝，酸甜咸三者要平衡。",
+      "visual_cue": "料汁呈红亮油润状、蒜香冲鼻，碗底无未溶颗粒。"
+    },
+    {
+      "n": 4,
+      "text": "粉皮铺在菜丝上，淋入料汁，从盆底向上翻拌 10 下，撒熟白芝麻与香菜段即可装盘。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "翻拌而不是抓拌，粉皮本身容易被抓断。",
+      "visual_cue": "粉皮均匀挂汁、蔬菜丝颜色分明，盆底留有少量汤汁。"
+    }
+  ],
+  "tips": [
+    "粉皮焯后立刻过冷水能保持筋道，泡在热水里会继续软化。",
+    "料汁中的醋建议用陈醋或香醋，米醋酸度不足，拌出来寡淡。"
+  ],
+  "common_mistakes": [
+    "粉皮焯完不沥干直接拌，料汁被稀释，成品口味发淡。",
+    "蔬菜丝切得太粗，与粉皮口感不协调，且不易挂汁。"
+  ],
+  "substitutions": [
+    {
+      "original": "粉皮",
+      "substitute": "绿豆凉粉",
+      "ratio": "1:1",
+      "note": "凉粉更滑，切条后不需焯水，直接拌制。"
+    },
+    {
+      "original": "辣椒油",
+      "substitute": "花椒油",
+      "ratio": "1:1",
+      "note": "香气转向麻香，辣度大幅降低。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：省去焯粉皮，用即食凉皮直接拌，口感略硬但省时。",
+    "加肉版：加 100 克熟鸡丝或酱牛肉丝，蛋白质更足，可作主菜。"
+  ],
+  "serving_suggestion": "4 人份凉菜，现拌现吃，配烤肉或炖菜解腻；夏天可冷藏 20 分钟后再上桌。",
+  "storage": "拌好后冷藏不超过 12 小时，粉皮会持续吸汁变硬；配料可分开冷藏保存 2 天。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180 克成品）",
+    "calories_kcal": 186,
+    "protein_g": 4.2,
+    "fat_g": 8.4,
+    "carbs_g": 24.6,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料用量与常见食材成分表推算，粉皮含水量差异大，碳水数值可能浮动 20%。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "凉拌菜不加热，蔬菜与粉皮处理后须在 2 小时内食用，室温放置不超过 2 小时。",
+    "豆芽焯水要彻底，生豆芽可能携带致病菌。",
+    "粉皮含绿豆淀粉，对豆类过敏者需留意。"
+  ],
+  "origin_note": "东北大拉皮是东北家庭的常见凉菜，以绿豆或土豆淀粉制成的拉皮配黄瓜丝、豆芽，浇蒜香酸辣汁。各地配菜略有差异，此处按家常做法整理。",
+  "tags": [
+    "东北菜",
+    "凉菜",
+    "爽口",
+    "快手菜",
+    "素菜"
+  ],
+  "related_ids": [
+    "guobao-rou",
+    "lajiao-chaorou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

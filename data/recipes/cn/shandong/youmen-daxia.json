@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "youmen-daxia",
+  "name": {
+    "zh": "油焖大虾",
+    "en": "Shandong Braised Prawns",
+    "original": "油燜大蝦"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "umami",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 600,
+          "unit": "g",
+          "note": "选对虾，剪去虾枪虾须，从背部剪开挑出虾线，保留虾头虾脑",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "葱白切段，葱叶切花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "虾本身带咸鲜，盐要少",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "鲁菜油焖讲究甜出头、咸收口",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "补咸鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥并帮助出红油",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅前提香，吃不出酸",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎虾用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "锅铲",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾剪去虾枪与长须，背部剪开挑出虾线，用厨房纸吸干表面水分，虾头里的虾脑保留不挤掉。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "虾脑是红油和鲜味的来源，剪虾枪时贴根部剪，别把头剪破让虾脑流失。",
+      "visual_cue": "虾身干爽无水分，背部裂口露出完整的虾线并被挑净。"
+    },
+    {
+      "n": 2,
+      "text": "炒锅烧热下花生油 40 毫升，六成热时把虾平铺入锅，中火煎 2 分钟至一面变红。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "虾要一只只摆开煎，叠在一起会出水变成水煮虾，红油也出不来。",
+      "visual_cue": "虾壳由青灰转为橙红、贴锅一面出现浅褐色焦点，闻到虾壳焦香。"
+    },
+    {
+      "n": 3,
+      "text": "翻面再煎 2 分钟，用锅铲轻压虾头把虾脑压出，让红油渗进锅里。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "压虾头要轻，压破虾壳会带出碎壳；看到红油渗出就够了。",
+      "visual_cue": "锅底积起橙红色虾油，虾身两面通红、弯成弧形。"
+    },
+    {
+      "n": 4,
+      "text": "下姜丝、蒜片、葱白段炒 30 秒，烹入料酒 20 毫升，加白糖 15 克、生抽 10 毫升、盐 2 克与 80 毫升清水。",
+      "time_min": 1,
+      "heat": "中火",
+      "tip": "水不要多，油焖靠的是少量汤汁在油里乳化收浓，水多了就成了红烧。",
+      "visual_cue": "汤汁沸腾冒大泡，颜色由清转成红褐色，糖已完全化开。"
+    },
+    {
+      "n": 5,
+      "text": "加盖转小火焖 4 分钟，中途翻一次面，让虾均匀吸味。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "焖的时间按虾的大小调整，对虾 4 分钟够，小个的 2 分钟即可。",
+      "visual_cue": "汤汁收至原来的一半、变得浓稠挂壳，虾身颜色更深。"
+    },
+    {
+      "n": 6,
+      "text": "开盖转中火收汁 1 分钟，汤汁浓稠到能挂住虾壳时沿锅边淋香醋 5 毫升，撒葱叶翻匀出锅。",
+      "time_min": 1,
+      "heat": "中火",
+      "tip": "收汁时不断用铲子把汁浇在虾身上，壳面才会油亮；醋最后淋，早了酸味会挥发掉香气。",
+      "visual_cue": "每只虾表面裹着一层透亮红汁、盘底只剩薄薄一层油汁，尝起来先甜后咸鲜。"
+    }
+  ],
+  "tips": [
+    "鲁菜油焖的糖量看着多，实际是让糖在油里焦化形成亮壳，不是单纯的甜。",
+    "煎虾的油别倒，滤掉渣后拌面或炒青菜都是极好的虾油。",
+    "虾脑发黑说明不新鲜，这类虾不适合油焖，改做白灼也难吃，建议换货。"
+  ],
+  "common_mistakes": [
+    "虾不吸干水分直接下锅，油温骤降、虾在锅里被水汽焖熟，壳不脆也出不了红油。",
+    "一开始就加大量水炖，成品成了虾汤，收不浓也挂不住壳。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾",
+      "substitute": "基围虾",
+      "ratio": "600 克对虾换 600 克基围虾",
+      "note": "基围虾个头小，焖制时间减到 2 分钟，糖量减到 10 克。"
+    },
+    {
+      "original": "花生油",
+      "substitute": "菜籽油",
+      "ratio": "40 毫升花生油换 40 毫升菜籽油",
+      "note": "菜籽油需先烧到冒烟再降温，去掉生油味。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "冰糖",
+      "ratio": "15 克白糖换 18 克冰糖",
+      "note": "冰糖化得慢，需在加水前用小火先炒化，成品光泽更好。"
+    }
+  ],
+  "variations": [
+    "胶东版：出锅前加 20 克番茄酱同焖，颜色更红亮，酸甜感更明显。",
+    "家常版：虾煎好后不加水，直接用 30 毫升啤酒代替清水焖，麦芽香与虾鲜很搭。"
+  ],
+  "serving_suggestion": "一人份约 200 克带壳虾，配白饭与清炒芦笋；虾汁拌饭是这道菜最受欢迎的吃法。",
+  "storage": "冷藏可存 2 天，复热加 20 毫升水小火焖 3 分钟；不建议冷冻，虾肉会失去弹性。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200 克可食部分）",
+    "calories_kcal": 268,
+    "protein_g": 34.6,
+    "fat_g": 10.2,
+    "carbs_g": 9.4,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "糖在收汁过程中部分留在锅里，实际摄入糖量低于配料表，误差约 20%。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "虾需煎焖至通体橙红、肉质不透明，虾头与身体连接处紧实。",
+    "甲壳类为常见过敏原，处理生虾后需彻底清洗砧板与手，避免交叉污染。"
+  ],
+  "origin_note": "油焖大虾是鲁菜经典，胶东半岛盛产对虾，当地用煎、焖、收汁三步把虾的鲜甜浓缩在壳上。所谓油焖，指用油而非水作为主要传热介质，靠少量汤汁与油脂乳化形成亮汁。",
+  "tags": [
+    "鲁菜",
+    "海鲜",
+    "宴客菜",
+    "油焖"
+  ],
+  "related_ids": [
+    "congsao-haishen",
+    "qingzheng-luyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

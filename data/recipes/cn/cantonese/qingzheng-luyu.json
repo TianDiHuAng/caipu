@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "qingzheng-luyu",
+  "name": {
+    "zh": "清蒸鲈鱼",
+    "en": "Steamed Sea Bass",
+    "original": "清蒸鲈鱼"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲈鱼",
+          "name_en": "sea bass",
+          "amount": 600,
+          "unit": "g",
+          "note": "选 1 条约 600 克的鲜活鲈鱼，去鳞去内脏后两面各划三刀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "15 克切片垫底，10 克切细丝铺面",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "20 克切段垫底，20 克切细丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "coriander",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段，最后点缀",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蒸鱼豉油",
+          "name_en": "seasoned soy sauce for seafood",
+          "amount": 40,
+          "unit": "ml",
+          "note": "选广式蒸鱼豉油，咸度已调好",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "shaoxing wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "抹在鱼身内外去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "抹鱼皮用，帮助收紧",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "最后泼油用，需烧到冒烟",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "长盘",
+    "厨房温度计",
+    "小奶锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲈鱼处理干净后用厨房纸把鱼腹与鱼皮彻底擦干，内外抹 3 克盐与 15 毫升料酒，鱼身两侧刀口各塞一片姜，静置 10 分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "鱼皮必须擦干，带水下锅蒸汽会在鱼皮表面凝结成水珠，腥味重且不易上色。",
+      "visual_cue": "鱼身表面干爽、刀口微微张开，腹腔无血水。"
+    },
+    {
+      "n": 2,
+      "text": "盘底铺葱段与姜片，把鱼架在上面，鱼腹内塞两片姜，让蒸汽能从鱼身下方通过。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "鱼不要直接贴盘，架空后受热均匀，底部不会积水变腥。",
+      "visual_cue": "鱼身平放不塌、盘底留有空隙。"
+    },
+    {
+      "n": 3,
+      "text": "蒸锅加水大火烧开上汽后放入鱼盘，加盖大火蒸 8 分钟，关火后焖 2 分钟；用温度计插入鱼背最厚处，达到 63 摄氏度即熟。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "必须水开上汽后再放鱼，冷水上锅鱼肉会因长时间低温加热而变柴。",
+      "visual_cue": "鱼眼凸出变白、鱼皮微微开裂，筷子插入背部能轻松分离鱼肉。"
+    },
+    {
+      "n": 4,
+      "text": "取出鱼盘，倒掉盘中蒸出的汤汁，拣去葱姜，重新铺上葱丝与姜丝；小奶锅烧 30 毫升菜籽油至冒青烟，均匀泼在葱姜上激香。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "盘底的汤汁带腥味必须倒掉，泼油要一次到位、油温够高才出香。",
+      "visual_cue": "葱丝瞬间卷曲、表面冒细密小泡，空气中弥漫葱油香。"
+    },
+    {
+      "n": 5,
+      "text": "沿盘边淋入 40 毫升蒸鱼豉油，撒香菜段即可上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "豉油沿盘边淋入而不是直接浇在鱼身，能保持鱼皮完整、色泽清亮。",
+      "visual_cue": "盘底酱色均匀，鱼肉雪白分层、轻压有弹性。"
+    }
+  ],
+  "tips": [
+    "蒸鱼时间按每 500 克 8 分钟估算，鱼越大时间越长，但超过 1 千克建议改刀或分段蒸。",
+    "蒸鱼豉油不要提前浇，泼油后再淋才能保住酱香与鱼鲜。"
+  ],
+  "common_mistakes": [
+    "冷水上锅蒸鱼，鱼肉在缓慢升温中被拉长加热时间，出锅后发柴发散。",
+    "蒸好后不焖直接开盖，鱼皮遇冷空气骤缩开裂，卖相变差。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲈鱼",
+      "substitute": "多宝鱼",
+      "ratio": "1:1",
+      "note": "多宝鱼肉质更嫩，蒸制时间缩短 1 分钟。"
+    },
+    {
+      "original": "蒸鱼豉油",
+      "substitute": "生抽加糖",
+      "ratio": "40 毫升生抽配 2 克糖",
+      "note": "咸度略高，用量减到 30 毫升。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：省去泼油，改用 10 毫升香油淋面，香气稍逊但少油烟。",
+    "顺德版：鱼身下垫 20 克猪油同蒸，鱼肉更滑，蒸出的汤汁拌饭极香。"
+  ],
+  "serving_suggestion": "3 人份，配白米饭与一碟灼菜心；趁热食用，鱼肉冷后腥味回升。",
+  "storage": "现蒸现吃，冷藏后鱼肉纤维回生，不建议保存；剩余鱼肉可拆碎煮粥。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180 克可食部分）",
+    "calories_kcal": 246,
+    "protein_g": 30.2,
+    "fat_g": 12.6,
+    "carbs_g": 3.4,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料用量与常见食材成分表推算，可食部分比例按 65% 估算，实际数值因鱼大小而异。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "low-carb",
+    "dairy-free",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "鲈鱼须蒸到中心温度 63 摄氏度以上，靠近脊骨处不得呈半透明胶状。",
+    "鱼腹内的黑膜与血线必须去除干净，否则腥味明显并可能残留污染物。",
+    "鱼类属鱼类过敏原，过敏者禁食；蒸鱼豉油含大豆与小麦。"
+  ],
+  "origin_note": "清蒸鲈鱼是粤菜处理鲜活海鱼的基本做法，讲究原味与火候，只用豉油与葱油提鲜。鲈鱼在岭南饮食中历来被视为清蒸上品，具体源流不作确切考证。",
+  "tags": [
+    "粤菜",
+    "清蒸",
+    "海鲜",
+    "清淡",
+    "快手菜"
+  ],
+  "related_ids": [
+    "baiqie-ji",
+    "chizhi-paigu",
+    "longjing-xiaren"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

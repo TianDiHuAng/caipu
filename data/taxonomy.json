@@ -1,126 +1,1645 @@
-﻿{
+{
   "schemaVersion": "1.0",
   "regions": [
-    { "slug": "cn", "zh": "中国", "en": "China" },
-    { "slug": "intl", "zh": "外国", "en": "International" }
+    {
+      "slug": "cn",
+      "zh": "中国",
+      "en": "China"
+    },
+    {
+      "slug": "intl",
+      "zh": "外国",
+      "en": "International"
+    }
   ],
   "categories": [
-    { "slug": "appetizer", "zh": "前菜", "en": "Appetizer", "desc": "开胃菜、头盘、小份迎客菜" },
-    { "slug": "salad", "zh": "沙拉", "en": "Salad", "desc": "以生鲜或熟制蔬果为主体的拌食" },
-    { "slug": "cold-dish", "zh": "凉菜", "en": "Cold Dish", "desc": "中式凉拌、卤味与冷盘" },
-    { "slug": "soup", "zh": "汤羹", "en": "Soup", "desc": "清汤、浓汤、羹与炖汤" },
-    { "slug": "main-meat", "zh": "主菜·肉", "en": "Meat Main", "desc": "猪牛羊等畜肉为主料的菜" },
-    { "slug": "main-poultry", "zh": "主菜·禽", "en": "Poultry Main", "desc": "鸡鸭鹅等禽类为主料的菜" },
-    { "slug": "main-seafood", "zh": "主菜·海鲜", "en": "Seafood Main", "desc": "鱼虾蟹贝类为主料的菜" },
-    { "slug": "main-egg", "zh": "主菜·蛋", "en": "Egg Main", "desc": "以蛋为主体的菜" },
-    { "slug": "main-tofu", "zh": "主菜·豆制品", "en": "Tofu Main", "desc": "豆腐、豆干、腐竹等豆制品菜" },
-    { "slug": "main-vegetable", "zh": "主菜·蔬菜", "en": "Vegetable Main", "desc": "以蔬菜为主体的热菜" },
-    { "slug": "staple-rice", "zh": "主食·饭", "en": "Rice Dish", "desc": "米饭、炒饭、烩饭、饭团" },
-    { "slug": "staple-noodle", "zh": "主食·面", "en": "Noodle Dish", "desc": "面条、米粉、意面" },
-    { "slug": "staple-bread", "zh": "主食·饼", "en": "Bread Staple", "desc": "饼、馍、馕等非烘焙甜面包的主食面食" },
-    { "slug": "staple-congee", "zh": "主食·粥", "en": "Congee", "desc": "粥、糊、燕麦粥" },
-    { "slug": "snack", "zh": "小吃", "en": "Street Food", "desc": "街头小吃、点心与便携小食" },
-    { "slug": "bakery", "zh": "烘焙面包", "en": "Bakery", "desc": "面包、酥皮与烘焙点心" },
-    { "slug": "dessert", "zh": "甜点", "en": "Dessert", "desc": "甜品、糕点、糖水与冰品" },
-    { "slug": "drink", "zh": "饮品", "en": "Drink", "desc": "茶、咖啡、果汁、鸡尾酒与无酒精饮" },
-    { "slug": "sauce", "zh": "酱汁与基础调味", "en": "Sauce", "desc": "酱、蘸料、底汤与复合调味" },
-    { "slug": "fermented", "zh": "腌制发酵", "en": "Pickle & Ferment", "desc": "泡菜、腌菜、酱腌与发酵调味" },
-    { "slug": "breakfast", "zh": "早餐", "en": "Breakfast", "desc": "成套早餐组合" },
-    { "slug": "kids", "zh": "儿童餐", "en": "Kids", "desc": "少辣少盐、适口性好的菜" },
-    { "slug": "banquet", "zh": "宴客菜", "en": "Banquet", "desc": "工序与摆盘适合请客的大菜" },
-    { "slug": "low-cal", "zh": "低卡健身餐", "en": "Low Cal", "desc": "高蛋白或低热量的餐食" },
-    { "slug": "special-diet", "zh": "特殊饮食", "en": "Special Diet", "desc": "素食、无麸质、清真等专项" },
-    { "slug": "hotpot-bbq", "zh": "火锅与烧烤", "en": "Hotpot & BBQ", "desc": "火锅、涮锅、烧烤与铁板" }
+    {
+      "slug": "appetizer",
+      "zh": "前菜",
+      "en": "Appetizer",
+      "desc": "开胃菜、头盘、小份迎客菜"
+    },
+    {
+      "slug": "salad",
+      "zh": "沙拉",
+      "en": "Salad",
+      "desc": "以生鲜或熟制蔬果为主体的拌食"
+    },
+    {
+      "slug": "cold-dish",
+      "zh": "凉菜",
+      "en": "Cold Dish",
+      "desc": "中式凉拌、卤味与冷盘"
+    },
+    {
+      "slug": "soup",
+      "zh": "汤羹",
+      "en": "Soup",
+      "desc": "清汤、浓汤、羹与炖汤"
+    },
+    {
+      "slug": "main-meat",
+      "zh": "主菜·肉",
+      "en": "Meat Main",
+      "desc": "猪牛羊等畜肉为主料的菜"
+    },
+    {
+      "slug": "main-poultry",
+      "zh": "主菜·禽",
+      "en": "Poultry Main",
+      "desc": "鸡鸭鹅等禽类为主料的菜"
+    },
+    {
+      "slug": "main-seafood",
+      "zh": "主菜·海鲜",
+      "en": "Seafood Main",
+      "desc": "鱼虾蟹贝类为主料的菜"
+    },
+    {
+      "slug": "main-egg",
+      "zh": "主菜·蛋",
+      "en": "Egg Main",
+      "desc": "以蛋为主体的菜"
+    },
+    {
+      "slug": "main-tofu",
+      "zh": "主菜·豆制品",
+      "en": "Tofu Main",
+      "desc": "豆腐、豆干、腐竹等豆制品菜"
+    },
+    {
+      "slug": "main-vegetable",
+      "zh": "主菜·蔬菜",
+      "en": "Vegetable Main",
+      "desc": "以蔬菜为主体的热菜"
+    },
+    {
+      "slug": "staple-rice",
+      "zh": "主食·饭",
+      "en": "Rice Dish",
+      "desc": "米饭、炒饭、烩饭、饭团"
+    },
+    {
+      "slug": "staple-noodle",
+      "zh": "主食·面",
+      "en": "Noodle Dish",
+      "desc": "面条、米粉、意面"
+    },
+    {
+      "slug": "staple-bread",
+      "zh": "主食·饼",
+      "en": "Bread Staple",
+      "desc": "饼、馍、馕等非烘焙甜面包的主食面食"
+    },
+    {
+      "slug": "staple-congee",
+      "zh": "主食·粥",
+      "en": "Congee",
+      "desc": "粥、糊、燕麦粥"
+    },
+    {
+      "slug": "snack",
+      "zh": "小吃",
+      "en": "Street Food",
+      "desc": "街头小吃、点心与便携小食"
+    },
+    {
+      "slug": "bakery",
+      "zh": "烘焙面包",
+      "en": "Bakery",
+      "desc": "面包、酥皮与烘焙点心"
+    },
+    {
+      "slug": "dessert",
+      "zh": "甜点",
+      "en": "Dessert",
+      "desc": "甜品、糕点、糖水与冰品"
+    },
+    {
+      "slug": "drink",
+      "zh": "饮品",
+      "en": "Drink",
+      "desc": "茶、咖啡、果汁、鸡尾酒与无酒精饮"
+    },
+    {
+      "slug": "sauce",
+      "zh": "酱汁与基础调味",
+      "en": "Sauce",
+      "desc": "酱、蘸料、底汤与复合调味"
+    },
+    {
+      "slug": "fermented",
+      "zh": "腌制发酵",
+      "en": "Pickle & Ferment",
+      "desc": "泡菜、腌菜、酱腌与发酵调味"
+    },
+    {
+      "slug": "breakfast",
+      "zh": "早餐",
+      "en": "Breakfast",
+      "desc": "成套早餐组合"
+    },
+    {
+      "slug": "kids",
+      "zh": "儿童餐",
+      "en": "Kids",
+      "desc": "少辣少盐、适口性好的菜"
+    },
+    {
+      "slug": "banquet",
+      "zh": "宴客菜",
+      "en": "Banquet",
+      "desc": "工序与摆盘适合请客的大菜"
+    },
+    {
+      "slug": "low-cal",
+      "zh": "低卡健身餐",
+      "en": "Low Cal",
+      "desc": "高蛋白或低热量的餐食"
+    },
+    {
+      "slug": "special-diet",
+      "zh": "特殊饮食",
+      "en": "Special Diet",
+      "desc": "素食、无麸质、清真等专项"
+    },
+    {
+      "slug": "hotpot-bbq",
+      "zh": "火锅与烧烤",
+      "en": "Hotpot & BBQ",
+      "desc": "火锅、涮锅、烧烤与铁板"
+    }
   ],
   "flavors": [
-    { "slug": "salty", "zh": "咸鲜" }, { "slug": "spicy", "zh": "辣" },
-    { "slug": "numbing", "zh": "麻" }, { "slug": "sour", "zh": "酸" },
-    { "slug": "sweet", "zh": "甜" }, { "slug": "bitter", "zh": "苦" },
-    { "slug": "umami", "zh": "鲜" }, { "slug": "smoky", "zh": "熏烤香" },
-    { "slug": "fragrant", "zh": "香" }, { "slug": "light", "zh": "清淡" },
-    { "slug": "rich", "zh": "浓郁" }, { "slug": "tangy", "zh": "酸香" },
-    { "slug": "savory", "zh": "咸香" }, { "slug": "herbal", "zh": "草本" }
+    {
+      "slug": "salty",
+      "zh": "咸鲜"
+    },
+    {
+      "slug": "spicy",
+      "zh": "辣"
+    },
+    {
+      "slug": "numbing",
+      "zh": "麻"
+    },
+    {
+      "slug": "sour",
+      "zh": "酸"
+    },
+    {
+      "slug": "sweet",
+      "zh": "甜"
+    },
+    {
+      "slug": "bitter",
+      "zh": "苦"
+    },
+    {
+      "slug": "umami",
+      "zh": "鲜"
+    },
+    {
+      "slug": "smoky",
+      "zh": "熏烤香"
+    },
+    {
+      "slug": "fragrant",
+      "zh": "香"
+    },
+    {
+      "slug": "light",
+      "zh": "清淡"
+    },
+    {
+      "slug": "rich",
+      "zh": "浓郁"
+    },
+    {
+      "slug": "tangy",
+      "zh": "酸香"
+    },
+    {
+      "slug": "savory",
+      "zh": "咸香"
+    },
+    {
+      "slug": "herbal",
+      "zh": "草本"
+    }
   ],
   "dietTags": [
-    { "slug": "vegetarian", "zh": "素食" }, { "slug": "vegan", "zh": "纯素" },
-    { "slug": "gluten-free", "zh": "无麸质" }, { "slug": "dairy-free", "zh": "无乳" },
-    { "slug": "halal", "zh": "清真" }, { "slug": "kosher", "zh": "犹太洁食" },
-    { "slug": "low-carb", "zh": "低碳水" }, { "slug": "high-protein", "zh": "高蛋白" },
-    { "slug": "pescatarian", "zh": "鱼素" }
+    {
+      "slug": "vegetarian",
+      "zh": "素食"
+    },
+    {
+      "slug": "vegan",
+      "zh": "纯素"
+    },
+    {
+      "slug": "gluten-free",
+      "zh": "无麸质"
+    },
+    {
+      "slug": "dairy-free",
+      "zh": "无乳"
+    },
+    {
+      "slug": "halal",
+      "zh": "清真"
+    },
+    {
+      "slug": "kosher",
+      "zh": "犹太洁食"
+    },
+    {
+      "slug": "low-carb",
+      "zh": "低碳水"
+    },
+    {
+      "slug": "high-protein",
+      "zh": "高蛋白"
+    },
+    {
+      "slug": "pescatarian",
+      "zh": "鱼素"
+    }
   ],
   "allergens": [
-    { "slug": "gluten", "zh": "麸质" }, { "slug": "crustacean", "zh": "甲壳类" },
-    { "slug": "mollusk", "zh": "软体类" }, { "slug": "fish", "zh": "鱼" },
-    { "slug": "egg", "zh": "蛋" }, { "slug": "peanut", "zh": "花生" },
-    { "slug": "tree-nut", "zh": "树坚果" }, { "slug": "soy", "zh": "大豆" },
-    { "slug": "milk", "zh": "乳" }, { "slug": "sesame", "zh": "芝麻" },
-    { "slug": "celery", "zh": "芹菜" }, { "slug": "mustard", "zh": "芥末" },
-    { "slug": "sulfite", "zh": "亚硫酸盐" }, { "slug": "lupin", "zh": "羽扇豆" }
+    {
+      "slug": "gluten",
+      "zh": "麸质"
+    },
+    {
+      "slug": "crustacean",
+      "zh": "甲壳类"
+    },
+    {
+      "slug": "mollusk",
+      "zh": "软体类"
+    },
+    {
+      "slug": "fish",
+      "zh": "鱼"
+    },
+    {
+      "slug": "egg",
+      "zh": "蛋"
+    },
+    {
+      "slug": "peanut",
+      "zh": "花生"
+    },
+    {
+      "slug": "tree-nut",
+      "zh": "树坚果"
+    },
+    {
+      "slug": "soy",
+      "zh": "大豆"
+    },
+    {
+      "slug": "milk",
+      "zh": "乳"
+    },
+    {
+      "slug": "sesame",
+      "zh": "芝麻"
+    },
+    {
+      "slug": "celery",
+      "zh": "芹菜"
+    },
+    {
+      "slug": "mustard",
+      "zh": "芥末"
+    },
+    {
+      "slug": "sulfite",
+      "zh": "亚硫酸盐"
+    },
+    {
+      "slug": "lupin",
+      "zh": "羽扇豆"
+    }
   ],
   "targetRules": {
-    "A": { "core": 15, "other": 2, "label": "重点菜系" },
-    "B": { "core": 6, "other": 1, "label": "常规菜系" },
-    "C": { "core": 3, "other": 1, "label": "小众菜系" }
+    "A": {
+      "core": 15,
+      "other": 2,
+      "label": "重点菜系"
+    },
+    "B": {
+      "core": 6,
+      "other": 1,
+      "label": "常规菜系"
+    },
+    "C": {
+      "core": 3,
+      "other": 1,
+      "label": "小众菜系"
+    }
   },
   "cuisines": [
-    { "slug": "sichuan", "zh": "川菜", "en": "Sichuan", "region": "cn", "tier": "A", "core": ["main-meat", "main-poultry", "main-tofu", "appetizer", "sauce"], "unsupported": ["bakery", "staple-congee", "kids", "salad", "breakfast"], "intro": "以麻辣、鱼香、怪味、糊辣为代表，讲究一菜一格、百菜百味，调味手法在全国菜系中最复杂。" },
-    { "slug": "shandong", "zh": "鲁菜", "en": "Shandong", "region": "cn", "tier": "A", "core": ["main-seafood", "main-meat", "soup", "staple-bread", "banquet"], "unsupported": ["bakery", "dessert", "salad", "drink", "staple-congee"], "intro": "北方菜系的根基，善用高汤与爆炒，讲究咸鲜醇厚、火候精准，宫廷菜多出其源流。" },
-    { "slug": "cantonese", "zh": "粤菜", "en": "Cantonese", "region": "cn", "tier": "A", "core": ["main-seafood", "soup", "main-poultry", "staple-rice", "dessert"], "unsupported": ["bakery", "staple-congee", "kids", "salad", "fermented"], "intro": "重本味、轻重口，讲究清、鲜、爽、嫩、滑，蒸与煲汤见长，老火汤与点心体系自成一脉。" },
-    { "slug": "jiangsu", "zh": "苏菜", "en": "Jiangsu", "region": "cn", "tier": "A", "core": ["main-seafood", "main-meat", "soup", "appetizer", "snack"], "unsupported": ["bakery", "drink", "salad", "hotpot-bbq", "main-egg"], "intro": "刀工精细、火候讲究，口味平和偏甜，善用河鲜与炖焖，讲究造型与汤汁的层次。" },
-    { "slug": "zhejiang", "zh": "浙菜", "en": "Zhejiang", "region": "cn", "tier": "A", "core": ["main-seafood", "main-meat", "soup", "staple-rice", "dessert"], "unsupported": ["bakery", "salad", "kids", "hotpot-bbq", "drink"], "intro": "清鲜爽脆、原汁原味，善用河湖时鲜与梅干菜、糟卤等本地调味，讲究一个“鲜”字。" },
-    { "slug": "fujian", "zh": "闽菜", "en": "Fujian", "region": "cn", "tier": "A", "core": ["soup", "main-seafood", "main-meat", "snack", "sauce"], "unsupported": ["bakery", "salad", "kids", "drink", "staple-congee"], "intro": "以汤提鲜、以糟增香，红糟、虾油、鱼露构成独特风味体系，汤菜数量居各菜系前列。" },
-    { "slug": "hunan", "zh": "湘菜", "en": "Hunan", "region": "cn", "tier": "A", "core": ["main-meat", "main-poultry", "main-vegetable", "appetizer", "fermented"], "unsupported": ["bakery", "salad", "staple-congee", "drink", "kids"], "intro": "香辣见长、咸鲜微酸，善用腊味、剁椒与烟熏，重油重色但讲究干香不出水。" },
-    { "slug": "anhui", "zh": "徽菜", "en": "Anhui", "region": "cn", "tier": "A", "core": ["main-meat", "main-vegetable", "soup", "fermented", "staple-bread"], "unsupported": ["bakery", "salad", "drink", "dessert", "staple-congee"], "intro": "重火功、善烧炖，以山珍与腌腊为长，讲究原锅上桌、汤浓味厚。" },
-    { "slug": "beijing", "zh": "京菜", "en": "Beijing", "region": "cn", "tier": "B", "core": ["main-meat", "staple-noodle", "snack", "dessert", "banquet"], "unsupported": ["bakery", "salad", "fermented", "staple-congee", "drink"], "intro": "融合宫廷、官府与市井三种脉络，讲究规制与酱香，面食与小吃体系尤其丰富。" },
-    { "slug": "shanghai", "zh": "沪菜", "en": "Shanghai", "region": "cn", "tier": "B", "core": ["main-meat", "main-seafood", "appetizer", "snack", "dessert"], "unsupported": ["bakery", "hotpot-bbq", "salad", "drink", "staple-congee"], "intro": "浓油赤酱与清淡并存的都市菜，善用糖与酱油调出红亮与醇厚，本帮菜讲究「甜上口、咸收口」。" },
-    { "slug": "dongbei", "zh": "东北菜", "en": "Northeastern", "region": "cn", "tier": "B", "core": ["main-vegetable", "main-meat", "staple-bread", "cold-dish", "banquet"], "unsupported": ["bakery", "staple-congee", "dessert", "drink", "salad"], "intro": "量大实惠、咸鲜浓香，炖菜与腌渍白菜体系发达，讲究一锅到底的满足感。" },
-    { "slug": "xibei", "zh": "西北菜", "en": "Northwestern", "region": "cn", "tier": "B", "core": ["staple-noodle", "staple-bread", "main-meat", "soup", "snack"], "unsupported": ["bakery", "salad", "dessert", "drink", "staple-congee"], "intro": "面食为王，牛羊为主，调味直白咸香，善用孜然、辣椒与醋，一料一味不绕弯。" },
-    { "slug": "yunguai", "zh": "云贵菜", "en": "Yunnan-Guizhou", "region": "cn", "tier": "B", "core": ["main-vegetable", "soup", "main-meat", "snack", "fermented"], "unsupported": ["bakery", "salad", "dessert", "drink", "staple-congee"], "intro": "酸辣与酸汤为核心，善用发酵酸、野生菌与香草，风味野而清，层次来自本地食材。" },
-    { "slug": "hakka", "zh": "客家菜", "en": "Hakka", "region": "cn", "tier": "B", "core": ["main-meat", "main-tofu", "soup", "fermented", "banquet"], "unsupported": ["bakery", "salad", "dessert", "drink", "staple-congee"], "intro": "重油重咸、耐存放，善用梅菜与酿制手法，砂锅焖炖见长，风味朴厚。" },
-    { "slug": "chaoshan", "zh": "潮汕菜", "en": "Chaoshan", "region": "cn", "tier": "B", "core": ["main-seafood", "soup", "snack", "sauce", "staple-congee"], "unsupported": ["bakery", "salad", "dessert", "drink", "kids"], "intro": "以本味取胜，刀工与卤水极讲究，牛肉火锅、鱼饭、粿品与蘸料共同构成完整的味觉体系。" },
-    { "slug": "taiwan", "zh": "台湾菜", "en": "Taiwanese", "region": "cn", "tier": "B", "core": ["snack", "main-poultry", "main-seafood", "staple-rice", "dessert"], "unsupported": ["bakery", "salad", "fermented", "staple-congee", "banquet"], "intro": "闽南底子融合日式与本土物产，小吃密度极高，酱油膏、油葱与麻油构成日常的味道。" },
-    { "slug": "hongkong", "zh": "港澳菜", "en": "Hong Kong-Macau", "region": "cn", "tier": "B", "core": ["main-seafood", "staple-rice", "bakery", "dessert", "drink"], "unsupported": ["salad", "staple-congee", "kids", "fermented", "main-egg"], "intro": "粤菜的城市化变体，茶餐厅、烧腊与葡式影响交织，讲究效率与镬气并存。" },
-    { "slug": "xinjiang", "zh": "新疆菜", "en": "Xinjiang", "region": "cn", "tier": "B", "core": ["main-meat", "staple-bread", "staple-noodle", "snack", "drink"], "unsupported": ["bakery", "salad", "soup", "dessert", "staple-congee"], "intro": "羊肉、孜然与馕构成骨架，烤肉与手抓饭并列，香料直给、火候奔放。" },
-    { "slug": "halal-cn", "zh": "清真菜", "en": "Chinese Halal", "region": "cn", "tier": "B", "core": ["main-meat", "staple-noodle", "soup", "snack", "banquet"], "unsupported": ["bakery", "salad", "dessert", "drink", "staple-congee"], "intro": "以牛羊为主、忌猪肉，善用清汤与香料，扒、烤、烩技法自成体系，讲究洁净与分量。" },
-    { "slug": "tibetan", "zh": "藏餐", "en": "Tibetan", "region": "cn", "tier": "C", "core": ["main-meat", "staple-bread", "soup", "drink", "staple-noodle"], "unsupported": ["bakery", "salad", "dessert", "main-seafood", "snack"], "intro": "青稞、酥油与牦牛肉为根基，高原物产塑造了高热量、耐储存的饮食方式。" },
-    { "slug": "mongolian", "zh": "内蒙菜", "en": "Inner Mongolian", "region": "cn", "tier": "C", "core": ["main-meat", "staple-bread", "drink", "soup", "dessert"], "unsupported": ["bakery", "salad", "main-seafood", "snack", "staple-congee"], "intro": "以羊肉与奶食为主轴，手把肉、奶茶、奶豆腐构成草原饮食的基本盘。" },
-    { "slug": "japanese", "zh": "日本料理", "en": "Japanese", "region": "intl", "tier": "A", "core": ["main-seafood", "staple-rice", "soup", "appetizer", "dessert"], "unsupported": ["bakery", "salad", "kids", "hotpot-bbq", "fermented"], "intro": "以出汁与酱油、味醂、味噌为调味中枢，讲究食材时令与刀工，追求本味的清透表达。" },
-    { "slug": "korean", "zh": "韩国料理", "en": "Korean", "region": "intl", "tier": "A", "core": ["main-meat", "soup", "staple-rice", "fermented", "snack"], "unsupported": ["bakery", "salad", "dessert", "staple-congee", "drink"], "intro": "发酵是灵魂，辣椒酱与大豆酱定调，汤饭与烤肉并重，配菜体系撑起整桌的层次。" },
-    { "slug": "thai", "zh": "泰国菜", "en": "Thai", "region": "intl", "tier": "A", "core": ["main-poultry", "soup", "salad", "main-seafood", "dessert"], "unsupported": ["bakery", "staple-bread", "hotpot-bbq", "breakfast", "low-cal"], "intro": "酸甜苦辣咸五味的平衡艺术，鱼露、青柠、香茅与椰奶构成骨架，讲究入口的层次与回甘。" },
-    { "slug": "italian", "zh": "意大利菜", "en": "Italian", "region": "intl", "tier": "A", "core": ["staple-bread", "main-poultry", "dessert", "appetizer", "sauce"], "unsupported": ["bakery", "drink", "salad", "fermented", "kids"], "intro": "以地域为界的多元料理，讲究少而好的食材、简单的组合与手工面食的火候。" },
-    { "slug": "french", "zh": "法国菜", "en": "French", "region": "intl", "tier": "A", "core": ["main-meat", "dessert", "sauce", "soup", "bakery"], "unsupported": ["drink", "salad", "kids", "low-cal", "staple-congee"], "intro": "以五大母酱与高汤体系为骨架，强调技法规范与酱汁完成度，是西餐技法的教科书。" },
-    { "slug": "spanish", "zh": "西班牙菜", "en": "Spanish", "region": "intl", "tier": "A", "core": ["main-seafood", "appetizer", "staple-rice", "dessert", "sauce"], "unsupported": ["bakery", "drink", "salad", "kids", "staple-congee"], "intro": "以橄榄油、蒜与雪莉酒为底色，小食文化发达，米饭类与炭火料理同样出色。" },
-    { "slug": "vietnamese", "zh": "越南菜", "en": "Vietnamese", "region": "intl", "tier": "B", "core": ["soup", "staple-noodle", "salad", "main-meat", "drink"], "unsupported": ["bakery", "dessert", "hotpot-bbq", "breakfast", "low-cal"], "intro": "清爽轻盈，善用鱼露、青柠与新鲜香草，汤粉与生春卷体现对清鲜的追求。" },
-    { "slug": "indonesian", "zh": "印尼菜", "en": "Indonesian", "region": "intl", "tier": "B", "core": ["staple-rice", "main-poultry", "soup", "snack", "dessert"], "unsupported": ["bakery", "salad", "breakfast", "low-cal", "banquet"], "intro": "香料层叠，甜酱油与椰奶定调，炒饭、沙嗲与慢炖菜构成群岛风味的底色。" },
-    { "slug": "malaysian", "zh": "马来菜", "en": "Malaysian", "region": "intl", "tier": "B", "core": ["staple-noodle", "main-seafood", "soup", "snack", "dessert"], "unsupported": ["bakery", "salad", "breakfast", "low-cal", "banquet"], "intro": "马来、华人、印度三源汇流，椰浆、虾酱与香茅交织，口味浓烈又善用酸度提亮。" },
-    { "slug": "singaporean", "zh": "新加坡菜", "en": "Singaporean", "region": "intl", "tier": "B", "core": ["staple-rice", "main-seafood", "soup", "snack", "drink"], "unsupported": ["bakery", "salad", "dessert", "low-cal", "fermented"], "intro": "多元族群饮食的合流，海南鸡饭、辣椒蟹与叻沙是城市味觉的坐标。" },
-    { "slug": "filipino", "zh": "菲律宾菜", "en": "Filipino", "region": "intl", "tier": "B", "core": ["main-meat", "soup", "staple-rice", "dessert", "snack"], "unsupported": ["bakery", "salad", "low-cal", "banquet", "fermented"], "intro": "酸咸并重，善用醋与酱油的搭配，炖菜与烤全猪是节庆的主角。" },
-    { "slug": "indian", "zh": "印度菜", "en": "Indian", "region": "intl", "tier": "A", "core": ["main-vegetable", "main-poultry", "staple-bread", "soup", "dessert"], "unsupported": ["bakery", "salad", "kids", "hotpot-bbq", "low-cal"], "intro": "香料的复合艺术，玛莎拉、酥油与酸奶构成底味，素食体系极为庞大。" },
-    { "slug": "south-asian", "zh": "南亚菜", "en": "South Asian", "region": "intl", "tier": "B", "core": ["staple-rice", "main-vegetable", "soup", "snack", "dessert"], "unsupported": ["bakery", "salad", "kids", "hotpot-bbq", "low-cal"], "intro": "斯里兰卡、孟加-拉与尼泊尔各具面貌，椰浆咖喱、豆类与米制主食是共同语言。" },
-    { "slug": "middle-eastern", "zh": "中东风味", "en": "Middle Eastern", "region": "intl", "tier": "B", "core": ["appetizer", "main-meat", "staple-bread", "salad", "dessert"], "unsupported": ["bakery", "drink", "kids", "staple-congee", "low-cal"], "intro": "芝麻酱、柠檬与香料交织，冷热小碟与烤肉并列，共享式用餐是基本礼仪。" },
-    { "slug": "turkish", "zh": "土耳其菜", "en": "Turkish", "region": "intl", "tier": "B", "core": ["main-meat", "staple-bread", "appetizer", "dessert", "soup"], "unsupported": ["drink", "salad", "kids", "staple-congee", "low-cal"], "intro": "奥斯曼宫廷与安纳托利亚乡土的交汇，烤肉、薄饼与甜酥并重，酸奶无处不在。" },
-    { "slug": "mediterranean", "zh": "地中海菜", "en": "Mediterranean", "region": "intl", "tier": "B", "core": ["salad", "main-seafood", "appetizer", "main-vegetable", "sauce"], "unsupported": ["bakery", "drink", "staple-congee", "fermented", "banquet"], "intro": "橄榄油、番茄、豆类与海鲜构成主轴，讲究清爽与食材本味，是健康饮食的代表路径。" },
-    { "slug": "greek", "zh": "希腊菜", "en": "Greek", "region": "intl", "tier": "B", "core": ["appetizer", "main-meat", "salad", "dessert", "bakery"], "unsupported": ["drink", "staple-congee", "fermented", "low-cal", "breakfast"], "intro": "以橄榄油、羊乳酪、柠檬与香草为基调，烤与炖并用，餐桌崇尚简单直白。" },
-    { "slug": "portuguese", "zh": "葡萄牙菜", "en": "Portuguese", "region": "intl", "tier": "B", "core": ["main-seafood", "dessert", "main-meat", "soup", "bakery"], "unsupported": ["drink", "salad", "staple-congee", "low-cal", "kids"], "intro": "大西洋海产与修会料理传统结合，鳕鱼、蛋挞与海盐是绕不开的三件事。" },
-    { "slug": "german", "zh": "德国菜", "en": "German", "region": "intl", "tier": "B", "core": ["main-meat", "bakery", "fermented", "salad", "dessert"], "unsupported": ["drink", "staple-congee", "kids", "low-cal", "banquet"], "intro": "猪肉、土豆与酸菜的三位一体，面包与香肠极度细分，口味实在不花哨。" },
-    { "slug": "british", "zh": "英国菜", "en": "British", "region": "intl", "tier": "B", "core": ["main-meat", "bakery", "dessert", "breakfast", "soup"], "unsupported": ["salad", "drink", "staple-congee", "banquet", "low-cal"], "intro": "以烤、炖与炸为主，讲究食材的实诚与配酱，早餐与午后点心是文化符号。" },
-    { "slug": "irish", "zh": "爱尔兰菜", "en": "Irish", "region": "intl", "tier": "C", "core": ["main-meat", "staple-bread", "soup", "breakfast", "drink"], "unsupported": ["salad", "dessert", "bakery", "staple-congee", "low-cal"], "intro": "土豆、羊肉与奶制品撑起的农家料理，炖锅与全麦面包朴素而扎实。" },
-    { "slug": "nordic", "zh": "北欧菜", "en": "Nordic", "region": "intl", "tier": "B", "core": ["main-seafood", "bakery", "fermented", "dessert", "breakfast"], "unsupported": ["drink", "salad", "staple-congee", "kids", "banquet"], "intro": "依靠腌制、烟熏与发酵度过长冬，黑麦面包与海产是主食结构的两端。" },
-    { "slug": "eastern-european", "zh": "东欧菜", "en": "Eastern European", "region": "intl", "tier": "B", "core": ["soup", "main-meat", "staple-bread", "fermented", "dessert"], "unsupported": ["drink", "salad", "staple-congee", "low-cal", "hotpot-bbq"], "intro": "以根茎、卷心菜、猪肉与酸奶油为骨架，饺类与浓汤在多个国度共享类似形态。" },
-    { "slug": "russian", "zh": "俄式菜", "en": "Russian", "region": "intl", "tier": "B", "core": ["soup", "main-meat", "salad", "bakery", "drink"], "unsupported": ["staple-congee", "low-cal", "hotpot-bbq", "kids", "banquet"], "intro": "甜菜、酸奶油与黑面包是日常的核心，冷盘与汤品在宴席上占据重要位置。" },
-    { "slug": "american", "zh": "美式菜", "en": "American", "region": "intl", "tier": "A", "core": ["main-meat", "bakery", "dessert", "breakfast", "salad"], "unsupported": ["staple-congee", "fermented", "banquet", "hotpot-bbq", "low-cal"], "intro": "移民饮食的大熔炉，烧烤、汉堡与烘焙甜点构成大众印象，食材量大、风味直接。" },
-    { "slug": "american-south", "zh": "美国南方菜", "en": "Southern US", "region": "intl", "tier": "B", "core": ["main-poultry", "main-vegetable", "bakery", "dessert", "breakfast"], "unsupported": ["staple-congee", "fermented", "banquet", "low-cal", "drink"], "intro": "炸鸡、玉米面与慢炖绿叶菜的故乡，油脂与糖慷慨，家常味浓郁。" },
-    { "slug": "tex-mex", "zh": "德州墨西哥菜", "en": "Tex-Mex", "region": "intl", "tier": "B", "core": ["main-meat", "snack", "sauce", "breakfast", "main-vegetable"], "unsupported": ["staple-congee", "fermented", "dessert", "banquet", "low-cal"], "intro": "墨西哥传统与德州牛肉、奶酪的融合，玉米饼、豆泥与辣酱构成完整体系。" },
-    { "slug": "cajun", "zh": "卡真菜", "en": "Cajun", "region": "intl", "tier": "C", "core": ["main-seafood", "staple-rice", "soup", "main-poultry", "sauce"], "unsupported": ["bakery", "salad", "dessert", "drink", "low-cal"], "intro": "路易斯安那的乡野料理，面粉油糊与香料粉定调，一锅炖煮出浓烈的南方气息。" },
-    { "slug": "mexican", "zh": "墨西哥菜", "en": "Mexican", "region": "intl", "tier": "A", "core": ["snack", "main-meat", "sauce", "soup", "drink"], "unsupported": ["bakery", "staple-congee", "kids", "low-cal", "banquet"], "intro": "玉米、辣椒与豆类的古老组合，烤、煎、捣与手工压饼构成完整的日常技艺。" },
-    { "slug": "peruvian", "zh": "秘鲁菜", "en": "Peruvian", "region": "intl", "tier": "C", "core": ["main-seafood", "main-poultry", "appetizer", "staple-rice", "drink"], "unsupported": ["bakery", "staple-congee", "fermented", "low-cal", "banquet"], "intro": "安第斯物产、西班牙技法与亚洲移民影响交汇，酸橘汁腌鱼是标志性的表达。" },
-    { "slug": "brazilian", "zh": "巴西菜", "en": "Brazilian", "region": "intl", "tier": "C", "core": ["main-meat", "staple-rice", "snack", "dessert", "drink"], "unsupported": ["bakery", "soup", "fermented", "low-cal", "staple-congee"], "intro": "木薯、黑豆与烤肉构成主干，非洲与欧洲影响层层叠加，口味偏浓。" },
-    { "slug": "argentinian", "zh": "阿根廷菜", "en": "Argentinian", "region": "intl", "tier": "C", "core": ["main-meat", "sauce", "bakery", "dessert", "drink"], "unsupported": ["staple-congee", "fermented", "low-cal", "banquet", "kids"], "intro": "牛肉与炭火烤肉的国度，青酱与马黛茶是餐桌上不变的两件物事。" },
-    { "slug": "caribbean", "zh": "加勒比菜", "en": "Caribbean", "region": "intl", "tier": "C", "core": ["main-poultry", "main-seafood", "staple-rice", "drink", "dessert"], "unsupported": ["bakery", "staple-congee", "fermented", "low-cal", "banquet"], "intro": "非洲、原住民与欧洲殖民饮食的混血，香料、椰奶与朗姆酒构成热带风味。" },
-    { "slug": "north-african", "zh": "北非菜", "en": "North African", "region": "intl", "tier": "B", "core": ["soup", "main-vegetable", "staple-bread", "salad", "dessert"], "unsupported": ["bakery", "drink", "staple-congee", "low-cal", "hotpot-bbq"], "intro": "塔吉锅与库斯库斯是核心器具与主食，香料铺陈浓郁，甜咸常在同一道菜里相遇。" },
-    { "slug": "west-african", "zh": "西非菜", "en": "West African", "region": "intl", "tier": "C", "core": ["staple-rice", "soup", "main-meat", "snack", "sauce"], "unsupported": ["bakery", "salad", "dessert", "drink", "low-cal"], "intro": "木薯、山药与花生、棕榈油构成主体，炖菜浓稠，常以糊状主食蘸食。" },
-    { "slug": "east-african", "zh": "东非菜", "en": "East African", "region": "intl", "tier": "C", "core": ["main-meat", "staple-bread", "soup", "main-vegetable", "drink"], "unsupported": ["bakery", "salad", "dessert", "fermented", "low-cal"], "intro": "玉米糊与炖菜是日常，斯瓦希里海岸的香料与印度洋贸易带来椰奶与咖喱的痕迹。" },
-    { "slug": "south-african", "zh": "南非菜", "en": "South African", "region": "intl", "tier": "C", "core": ["main-meat", "staple-bread", "dessert", "snack", "salad"], "unsupported": ["soup", "fermented", "low-cal", "staple-congee", "banquet"], "intro": "烧烤、玉米与荷兰移民的烘焙传统并存，多族群饮食在同一张桌上摆开。" },
-    { "slug": "australian", "zh": "澳新菜", "en": "Australian-NZ", "region": "intl", "tier": "C", "core": ["main-seafood", "bakery", "breakfast", "dessert", "salad"], "unsupported": ["soup", "fermented", "staple-congee", "main-egg", "banquet"], "intro": "海洋与移民饮食的复合体，强调新鲜食材与户外烧烤，咖啡文化同样深厚。" }
+    {
+      "slug": "sichuan",
+      "zh": "川菜",
+      "en": "Sichuan",
+      "region": "cn",
+      "tier": "A",
+      "core": [
+        "main-meat",
+        "main-poultry",
+        "main-tofu",
+        "appetizer",
+        "sauce"
+      ],
+      "unsupported": [
+        "bakery",
+        "staple-congee",
+        "kids",
+        "salad",
+        "breakfast"
+      ],
+      "intro": "以麻辣、鱼香、怪味、糊辣为代表，讲究一菜一格、百菜百味，调味手法在全国菜系中最复杂。"
+    },
+    {
+      "slug": "shandong",
+      "zh": "鲁菜",
+      "en": "Shandong",
+      "region": "cn",
+      "tier": "A",
+      "core": [
+        "main-seafood",
+        "main-meat",
+        "soup",
+        "staple-bread",
+        "banquet"
+      ],
+      "unsupported": [
+        "bakery",
+        "dessert",
+        "salad",
+        "drink",
+        "staple-congee"
+      ],
+      "intro": "北方菜系的根基，善用高汤与爆炒，讲究咸鲜醇厚、火候精准，宫廷菜多出其源流。"
+    },
+    {
+      "slug": "cantonese",
+      "zh": "粤菜",
+      "en": "Cantonese",
+      "region": "cn",
+      "tier": "A",
+      "core": [
+        "main-seafood",
+        "main-meat",
+        "soup",
+        "main-poultry",
+        "staple-rice",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "staple-congee",
+        "kids",
+        "salad",
+        "fermented"
+      ],
+      "intro": "重本味、轻重口，讲究清、鲜、爽、嫩、滑，蒸与煲汤见长，老火汤与点心体系自成一脉。"
+    },
+    {
+      "slug": "jiangsu",
+      "zh": "苏菜",
+      "en": "Jiangsu",
+      "region": "cn",
+      "tier": "A",
+      "core": [
+        "main-seafood",
+        "main-meat",
+        "soup",
+        "appetizer",
+        "snack"
+      ],
+      "unsupported": [
+        "bakery",
+        "drink",
+        "salad",
+        "hotpot-bbq",
+        "main-egg"
+      ],
+      "intro": "刀工精细、火候讲究，口味平和偏甜，善用河鲜与炖焖，讲究造型与汤汁的层次。"
+    },
+    {
+      "slug": "zhejiang",
+      "zh": "浙菜",
+      "en": "Zhejiang",
+      "region": "cn",
+      "tier": "A",
+      "core": [
+        "main-seafood",
+        "main-meat",
+        "soup",
+        "staple-rice",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "kids",
+        "hotpot-bbq",
+        "drink"
+      ],
+      "intro": "清鲜爽脆、原汁原味，善用河湖时鲜与梅干菜、糟卤等本地调味，讲究一个“鲜”字。"
+    },
+    {
+      "slug": "fujian",
+      "zh": "闽菜",
+      "en": "Fujian",
+      "region": "cn",
+      "tier": "A",
+      "core": [
+        "soup",
+        "main-seafood",
+        "main-meat",
+        "snack",
+        "sauce"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "kids",
+        "drink",
+        "staple-congee"
+      ],
+      "intro": "以汤提鲜、以糟增香，红糟、虾油、鱼露构成独特风味体系，汤菜数量居各菜系前列。"
+    },
+    {
+      "slug": "hunan",
+      "zh": "湘菜",
+      "en": "Hunan",
+      "region": "cn",
+      "tier": "A",
+      "core": [
+        "main-meat",
+        "main-poultry",
+        "main-vegetable",
+        "appetizer",
+        "fermented"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "staple-congee",
+        "drink",
+        "kids"
+      ],
+      "intro": "香辣见长、咸鲜微酸，善用腊味、剁椒与烟熏，重油重色但讲究干香不出水。"
+    },
+    {
+      "slug": "anhui",
+      "zh": "徽菜",
+      "en": "Anhui",
+      "region": "cn",
+      "tier": "A",
+      "core": [
+        "main-meat",
+        "main-vegetable",
+        "soup",
+        "fermented",
+        "staple-bread"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "drink",
+        "dessert",
+        "staple-congee"
+      ],
+      "intro": "重火功、善烧炖，以山珍与腌腊为长，讲究原锅上桌、汤浓味厚。"
+    },
+    {
+      "slug": "beijing",
+      "zh": "京菜",
+      "en": "Beijing",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "staple-noodle",
+        "snack",
+        "dessert",
+        "banquet"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "fermented",
+        "staple-congee",
+        "drink"
+      ],
+      "intro": "融合宫廷、官府与市井三种脉络，讲究规制与酱香，面食与小吃体系尤其丰富。"
+    },
+    {
+      "slug": "shanghai",
+      "zh": "沪菜",
+      "en": "Shanghai",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "main-seafood",
+        "appetizer",
+        "snack",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "hotpot-bbq",
+        "salad",
+        "drink",
+        "staple-congee"
+      ],
+      "intro": "浓油赤酱与清淡并存的都市菜，善用糖与酱油调出红亮与醇厚，本帮菜讲究「甜上口、咸收口」。"
+    },
+    {
+      "slug": "dongbei",
+      "zh": "东北菜",
+      "en": "Northeastern",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-vegetable",
+        "main-meat",
+        "staple-bread",
+        "cold-dish",
+        "banquet"
+      ],
+      "unsupported": [
+        "bakery",
+        "staple-congee",
+        "dessert",
+        "drink",
+        "salad"
+      ],
+      "intro": "量大实惠、咸鲜浓香，炖菜与腌渍白菜体系发达，讲究一锅到底的满足感。"
+    },
+    {
+      "slug": "xibei",
+      "zh": "西北菜",
+      "en": "Northwestern",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "staple-noodle",
+        "staple-bread",
+        "main-meat",
+        "soup",
+        "snack"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "drink",
+        "staple-congee"
+      ],
+      "intro": "面食为王，牛羊为主，调味直白咸香，善用孜然、辣椒与醋，一料一味不绕弯。"
+    },
+    {
+      "slug": "yunguai",
+      "zh": "云贵菜",
+      "en": "Yunnan-Guizhou",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-vegetable",
+        "soup",
+        "main-meat",
+        "snack",
+        "fermented"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "drink",
+        "staple-congee"
+      ],
+      "intro": "酸辣与酸汤为核心，善用发酵酸、野生菌与香草，风味野而清，层次来自本地食材。"
+    },
+    {
+      "slug": "hakka",
+      "zh": "客家菜",
+      "en": "Hakka",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "main-tofu",
+        "soup",
+        "fermented",
+        "banquet"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "drink",
+        "staple-congee"
+      ],
+      "intro": "重油重咸、耐存放，善用梅菜与酿制手法，砂锅焖炖见长，风味朴厚。"
+    },
+    {
+      "slug": "chaoshan",
+      "zh": "潮汕菜",
+      "en": "Chaoshan",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-seafood",
+        "soup",
+        "snack",
+        "sauce",
+        "staple-congee"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "drink",
+        "kids"
+      ],
+      "intro": "以本味取胜，刀工与卤水极讲究，牛肉火锅、鱼饭、粿品与蘸料共同构成完整的味觉体系。"
+    },
+    {
+      "slug": "taiwan",
+      "zh": "台湾菜",
+      "en": "Taiwanese",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "snack",
+        "main-poultry",
+        "main-seafood",
+        "staple-rice",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "fermented",
+        "staple-congee",
+        "banquet"
+      ],
+      "intro": "闽南底子融合日式与本土物产，小吃密度极高，酱油膏、油葱与麻油构成日常的味道。"
+    },
+    {
+      "slug": "hongkong",
+      "zh": "港澳菜",
+      "en": "Hong Kong-Macau",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-seafood",
+        "staple-rice",
+        "bakery",
+        "dessert",
+        "drink"
+      ],
+      "unsupported": [
+        "salad",
+        "staple-congee",
+        "kids",
+        "fermented",
+        "main-egg"
+      ],
+      "intro": "粤菜的城市化变体，茶餐厅、烧腊与葡式影响交织，讲究效率与镬气并存。"
+    },
+    {
+      "slug": "xinjiang",
+      "zh": "新疆菜",
+      "en": "Xinjiang",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "staple-bread",
+        "staple-noodle",
+        "snack",
+        "drink"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "soup",
+        "dessert",
+        "staple-congee"
+      ],
+      "intro": "羊肉、孜然与馕构成骨架，烤肉与手抓饭并列，香料直给、火候奔放。"
+    },
+    {
+      "slug": "halal-cn",
+      "zh": "清真菜",
+      "en": "Chinese Halal",
+      "region": "cn",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "staple-noodle",
+        "soup",
+        "snack",
+        "banquet"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "drink",
+        "staple-congee"
+      ],
+      "intro": "以牛羊为主、忌猪肉，善用清汤与香料，扒、烤、烩技法自成体系，讲究洁净与分量。"
+    },
+    {
+      "slug": "tibetan",
+      "zh": "藏餐",
+      "en": "Tibetan",
+      "region": "cn",
+      "tier": "C",
+      "core": [
+        "main-meat",
+        "staple-bread",
+        "soup",
+        "drink",
+        "staple-noodle"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "main-seafood",
+        "snack"
+      ],
+      "intro": "青稞、酥油与牦牛肉为根基，高原物产塑造了高热量、耐储存的饮食方式。"
+    },
+    {
+      "slug": "mongolian",
+      "zh": "内蒙菜",
+      "en": "Inner Mongolian",
+      "region": "cn",
+      "tier": "C",
+      "core": [
+        "main-meat",
+        "staple-bread",
+        "drink",
+        "soup",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "main-seafood",
+        "snack",
+        "staple-congee"
+      ],
+      "intro": "以羊肉与奶食为主轴，手把肉、奶茶、奶豆腐构成草原饮食的基本盘。"
+    },
+    {
+      "slug": "japanese",
+      "zh": "日本料理",
+      "en": "Japanese",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "main-seafood",
+        "staple-rice",
+        "soup",
+        "appetizer",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "kids",
+        "hotpot-bbq",
+        "fermented"
+      ],
+      "intro": "以出汁与酱油、味醂、味噌为调味中枢，讲究食材时令与刀工，追求本味的清透表达。"
+    },
+    {
+      "slug": "korean",
+      "zh": "韩国料理",
+      "en": "Korean",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "main-meat",
+        "soup",
+        "staple-rice",
+        "fermented",
+        "snack"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "staple-congee",
+        "drink"
+      ],
+      "intro": "发酵是灵魂，辣椒酱与大豆酱定调，汤饭与烤肉并重，配菜体系撑起整桌的层次。"
+    },
+    {
+      "slug": "thai",
+      "zh": "泰国菜",
+      "en": "Thai",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "main-poultry",
+        "soup",
+        "salad",
+        "main-seafood",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "staple-bread",
+        "hotpot-bbq",
+        "breakfast",
+        "low-cal"
+      ],
+      "intro": "酸甜苦辣咸五味的平衡艺术，鱼露、青柠、香茅与椰奶构成骨架，讲究入口的层次与回甘。"
+    },
+    {
+      "slug": "italian",
+      "zh": "意大利菜",
+      "en": "Italian",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "staple-bread",
+        "main-poultry",
+        "dessert",
+        "appetizer",
+        "sauce"
+      ],
+      "unsupported": [
+        "bakery",
+        "drink",
+        "salad",
+        "fermented",
+        "kids"
+      ],
+      "intro": "以地域为界的多元料理，讲究少而好的食材、简单的组合与手工面食的火候。"
+    },
+    {
+      "slug": "french",
+      "zh": "法国菜",
+      "en": "French",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "main-meat",
+        "dessert",
+        "sauce",
+        "soup",
+        "bakery"
+      ],
+      "unsupported": [
+        "drink",
+        "salad",
+        "kids",
+        "low-cal",
+        "staple-congee"
+      ],
+      "intro": "以五大母酱与高汤体系为骨架，强调技法规范与酱汁完成度，是西餐技法的教科书。"
+    },
+    {
+      "slug": "spanish",
+      "zh": "西班牙菜",
+      "en": "Spanish",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "main-seafood",
+        "appetizer",
+        "staple-rice",
+        "dessert",
+        "sauce"
+      ],
+      "unsupported": [
+        "bakery",
+        "drink",
+        "salad",
+        "kids",
+        "staple-congee"
+      ],
+      "intro": "以橄榄油、蒜与雪莉酒为底色，小食文化发达，米饭类与炭火料理同样出色。"
+    },
+    {
+      "slug": "vietnamese",
+      "zh": "越南菜",
+      "en": "Vietnamese",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "soup",
+        "staple-noodle",
+        "salad",
+        "main-meat",
+        "drink"
+      ],
+      "unsupported": [
+        "bakery",
+        "dessert",
+        "hotpot-bbq",
+        "breakfast",
+        "low-cal"
+      ],
+      "intro": "清爽轻盈，善用鱼露、青柠与新鲜香草，汤粉与生春卷体现对清鲜的追求。"
+    },
+    {
+      "slug": "indonesian",
+      "zh": "印尼菜",
+      "en": "Indonesian",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "staple-rice",
+        "main-poultry",
+        "soup",
+        "snack",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "breakfast",
+        "low-cal",
+        "banquet"
+      ],
+      "intro": "香料层叠，甜酱油与椰奶定调，炒饭、沙嗲与慢炖菜构成群岛风味的底色。"
+    },
+    {
+      "slug": "malaysian",
+      "zh": "马来菜",
+      "en": "Malaysian",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "staple-noodle",
+        "main-seafood",
+        "soup",
+        "snack",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "breakfast",
+        "low-cal",
+        "banquet"
+      ],
+      "intro": "马来、华人、印度三源汇流，椰浆、虾酱与香茅交织，口味浓烈又善用酸度提亮。"
+    },
+    {
+      "slug": "singaporean",
+      "zh": "新加坡菜",
+      "en": "Singaporean",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "staple-rice",
+        "main-seafood",
+        "soup",
+        "snack",
+        "drink"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "low-cal",
+        "fermented"
+      ],
+      "intro": "多元族群饮食的合流，海南鸡饭、辣椒蟹与叻沙是城市味觉的坐标。"
+    },
+    {
+      "slug": "filipino",
+      "zh": "菲律宾菜",
+      "en": "Filipino",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "soup",
+        "staple-rice",
+        "dessert",
+        "snack"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "low-cal",
+        "banquet",
+        "fermented"
+      ],
+      "intro": "酸咸并重，善用醋与酱油的搭配，炖菜与烤全猪是节庆的主角。"
+    },
+    {
+      "slug": "indian",
+      "zh": "印度菜",
+      "en": "Indian",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "main-vegetable",
+        "main-poultry",
+        "staple-bread",
+        "soup",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "kids",
+        "hotpot-bbq",
+        "low-cal"
+      ],
+      "intro": "香料的复合艺术，玛莎拉、酥油与酸奶构成底味，素食体系极为庞大。"
+    },
+    {
+      "slug": "south-asian",
+      "zh": "南亚菜",
+      "en": "South Asian",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "staple-rice",
+        "main-vegetable",
+        "soup",
+        "snack",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "kids",
+        "hotpot-bbq",
+        "low-cal"
+      ],
+      "intro": "斯里兰卡、孟加-拉与尼泊尔各具面貌，椰浆咖喱、豆类与米制主食是共同语言。"
+    },
+    {
+      "slug": "middle-eastern",
+      "zh": "中东风味",
+      "en": "Middle Eastern",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "appetizer",
+        "main-meat",
+        "staple-bread",
+        "salad",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "drink",
+        "kids",
+        "staple-congee",
+        "low-cal"
+      ],
+      "intro": "芝麻酱、柠檬与香料交织，冷热小碟与烤肉并列，共享式用餐是基本礼仪。"
+    },
+    {
+      "slug": "turkish",
+      "zh": "土耳其菜",
+      "en": "Turkish",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "staple-bread",
+        "appetizer",
+        "dessert",
+        "soup"
+      ],
+      "unsupported": [
+        "drink",
+        "salad",
+        "kids",
+        "staple-congee",
+        "low-cal"
+      ],
+      "intro": "奥斯曼宫廷与安纳托利亚乡土的交汇，烤肉、薄饼与甜酥并重，酸奶无处不在。"
+    },
+    {
+      "slug": "mediterranean",
+      "zh": "地中海菜",
+      "en": "Mediterranean",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "salad",
+        "main-seafood",
+        "appetizer",
+        "main-vegetable",
+        "sauce"
+      ],
+      "unsupported": [
+        "bakery",
+        "drink",
+        "staple-congee",
+        "fermented",
+        "banquet"
+      ],
+      "intro": "橄榄油、番茄、豆类与海鲜构成主轴，讲究清爽与食材本味，是健康饮食的代表路径。"
+    },
+    {
+      "slug": "greek",
+      "zh": "希腊菜",
+      "en": "Greek",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "appetizer",
+        "main-meat",
+        "salad",
+        "dessert",
+        "bakery"
+      ],
+      "unsupported": [
+        "drink",
+        "staple-congee",
+        "fermented",
+        "low-cal",
+        "breakfast"
+      ],
+      "intro": "以橄榄油、羊乳酪、柠檬与香草为基调，烤与炖并用，餐桌崇尚简单直白。"
+    },
+    {
+      "slug": "portuguese",
+      "zh": "葡萄牙菜",
+      "en": "Portuguese",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "main-seafood",
+        "dessert",
+        "main-meat",
+        "soup",
+        "bakery"
+      ],
+      "unsupported": [
+        "drink",
+        "salad",
+        "staple-congee",
+        "low-cal",
+        "kids"
+      ],
+      "intro": "大西洋海产与修会料理传统结合，鳕鱼、蛋挞与海盐是绕不开的三件事。"
+    },
+    {
+      "slug": "german",
+      "zh": "德国菜",
+      "en": "German",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "bakery",
+        "fermented",
+        "salad",
+        "dessert"
+      ],
+      "unsupported": [
+        "drink",
+        "staple-congee",
+        "kids",
+        "low-cal",
+        "banquet"
+      ],
+      "intro": "猪肉、土豆与酸菜的三位一体，面包与香肠极度细分，口味实在不花哨。"
+    },
+    {
+      "slug": "british",
+      "zh": "英国菜",
+      "en": "British",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "bakery",
+        "dessert",
+        "breakfast",
+        "soup"
+      ],
+      "unsupported": [
+        "salad",
+        "drink",
+        "staple-congee",
+        "banquet",
+        "low-cal"
+      ],
+      "intro": "以烤、炖与炸为主，讲究食材的实诚与配酱，早餐与午后点心是文化符号。"
+    },
+    {
+      "slug": "irish",
+      "zh": "爱尔兰菜",
+      "en": "Irish",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-meat",
+        "staple-bread",
+        "soup",
+        "breakfast",
+        "drink"
+      ],
+      "unsupported": [
+        "salad",
+        "dessert",
+        "bakery",
+        "staple-congee",
+        "low-cal"
+      ],
+      "intro": "土豆、羊肉与奶制品撑起的农家料理，炖锅与全麦面包朴素而扎实。"
+    },
+    {
+      "slug": "nordic",
+      "zh": "北欧菜",
+      "en": "Nordic",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "main-seafood",
+        "bakery",
+        "fermented",
+        "dessert",
+        "breakfast"
+      ],
+      "unsupported": [
+        "drink",
+        "salad",
+        "staple-congee",
+        "kids",
+        "banquet"
+      ],
+      "intro": "依靠腌制、烟熏与发酵度过长冬，黑麦面包与海产是主食结构的两端。"
+    },
+    {
+      "slug": "eastern-european",
+      "zh": "东欧菜",
+      "en": "Eastern European",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "soup",
+        "main-meat",
+        "staple-bread",
+        "fermented",
+        "dessert"
+      ],
+      "unsupported": [
+        "drink",
+        "salad",
+        "staple-congee",
+        "low-cal",
+        "hotpot-bbq"
+      ],
+      "intro": "以根茎、卷心菜、猪肉与酸奶油为骨架，饺类与浓汤在多个国度共享类似形态。"
+    },
+    {
+      "slug": "russian",
+      "zh": "俄式菜",
+      "en": "Russian",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "soup",
+        "main-meat",
+        "salad",
+        "bakery",
+        "drink"
+      ],
+      "unsupported": [
+        "staple-congee",
+        "low-cal",
+        "hotpot-bbq",
+        "kids",
+        "banquet"
+      ],
+      "intro": "甜菜、酸奶油与黑面包是日常的核心，冷盘与汤品在宴席上占据重要位置。"
+    },
+    {
+      "slug": "american",
+      "zh": "美式菜",
+      "en": "American",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "main-meat",
+        "bakery",
+        "dessert",
+        "breakfast",
+        "salad"
+      ],
+      "unsupported": [
+        "staple-congee",
+        "fermented",
+        "banquet",
+        "hotpot-bbq",
+        "low-cal"
+      ],
+      "intro": "移民饮食的大熔炉，烧烤、汉堡与烘焙甜点构成大众印象，食材量大、风味直接。"
+    },
+    {
+      "slug": "american-south",
+      "zh": "美国南方菜",
+      "en": "Southern US",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "main-poultry",
+        "main-vegetable",
+        "bakery",
+        "dessert",
+        "breakfast"
+      ],
+      "unsupported": [
+        "staple-congee",
+        "fermented",
+        "banquet",
+        "low-cal",
+        "drink"
+      ],
+      "intro": "炸鸡、玉米面与慢炖绿叶菜的故乡，油脂与糖慷慨，家常味浓郁。"
+    },
+    {
+      "slug": "tex-mex",
+      "zh": "德州墨西哥菜",
+      "en": "Tex-Mex",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "main-meat",
+        "snack",
+        "sauce",
+        "breakfast",
+        "main-vegetable"
+      ],
+      "unsupported": [
+        "staple-congee",
+        "fermented",
+        "dessert",
+        "banquet",
+        "low-cal"
+      ],
+      "intro": "墨西哥传统与德州牛肉、奶酪的融合，玉米饼、豆泥与辣酱构成完整体系。"
+    },
+    {
+      "slug": "cajun",
+      "zh": "卡真菜",
+      "en": "Cajun",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-seafood",
+        "staple-rice",
+        "soup",
+        "main-poultry",
+        "sauce"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "drink",
+        "low-cal"
+      ],
+      "intro": "路易斯安那的乡野料理，面粉油糊与香料粉定调，一锅炖煮出浓烈的南方气息。"
+    },
+    {
+      "slug": "mexican",
+      "zh": "墨西哥菜",
+      "en": "Mexican",
+      "region": "intl",
+      "tier": "A",
+      "core": [
+        "snack",
+        "main-meat",
+        "sauce",
+        "soup",
+        "drink"
+      ],
+      "unsupported": [
+        "bakery",
+        "staple-congee",
+        "kids",
+        "low-cal",
+        "banquet"
+      ],
+      "intro": "玉米、辣椒与豆类的古老组合，烤、煎、捣与手工压饼构成完整的日常技艺。"
+    },
+    {
+      "slug": "peruvian",
+      "zh": "秘鲁菜",
+      "en": "Peruvian",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-seafood",
+        "main-poultry",
+        "appetizer",
+        "staple-rice",
+        "drink"
+      ],
+      "unsupported": [
+        "bakery",
+        "staple-congee",
+        "fermented",
+        "low-cal",
+        "banquet"
+      ],
+      "intro": "安第斯物产、西班牙技法与亚洲移民影响交汇，酸橘汁腌鱼是标志性的表达。"
+    },
+    {
+      "slug": "brazilian",
+      "zh": "巴西菜",
+      "en": "Brazilian",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-meat",
+        "staple-rice",
+        "snack",
+        "dessert",
+        "drink"
+      ],
+      "unsupported": [
+        "bakery",
+        "soup",
+        "fermented",
+        "low-cal",
+        "staple-congee"
+      ],
+      "intro": "木薯、黑豆与烤肉构成主干，非洲与欧洲影响层层叠加，口味偏浓。"
+    },
+    {
+      "slug": "argentinian",
+      "zh": "阿根廷菜",
+      "en": "Argentinian",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-meat",
+        "sauce",
+        "bakery",
+        "dessert",
+        "drink"
+      ],
+      "unsupported": [
+        "staple-congee",
+        "fermented",
+        "low-cal",
+        "banquet",
+        "kids"
+      ],
+      "intro": "牛肉与炭火烤肉的国度，青酱与马黛茶是餐桌上不变的两件物事。"
+    },
+    {
+      "slug": "caribbean",
+      "zh": "加勒比菜",
+      "en": "Caribbean",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-poultry",
+        "main-seafood",
+        "staple-rice",
+        "drink",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "staple-congee",
+        "fermented",
+        "low-cal",
+        "banquet"
+      ],
+      "intro": "非洲、原住民与欧洲殖民饮食的混血，香料、椰奶与朗姆酒构成热带风味。"
+    },
+    {
+      "slug": "north-african",
+      "zh": "北非菜",
+      "en": "North African",
+      "region": "intl",
+      "tier": "B",
+      "core": [
+        "soup",
+        "main-vegetable",
+        "staple-bread",
+        "salad",
+        "dessert"
+      ],
+      "unsupported": [
+        "bakery",
+        "drink",
+        "staple-congee",
+        "low-cal",
+        "hotpot-bbq"
+      ],
+      "intro": "塔吉锅与库斯库斯是核心器具与主食，香料铺陈浓郁，甜咸常在同一道菜里相遇。"
+    },
+    {
+      "slug": "west-african",
+      "zh": "西非菜",
+      "en": "West African",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "staple-rice",
+        "soup",
+        "main-meat",
+        "snack",
+        "sauce"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "drink",
+        "low-cal"
+      ],
+      "intro": "木薯、山药与花生、棕榈油构成主体，炖菜浓稠，常以糊状主食蘸食。"
+    },
+    {
+      "slug": "east-african",
+      "zh": "东非菜",
+      "en": "East African",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-meat",
+        "staple-bread",
+        "soup",
+        "main-vegetable",
+        "drink"
+      ],
+      "unsupported": [
+        "bakery",
+        "salad",
+        "dessert",
+        "fermented",
+        "low-cal"
+      ],
+      "intro": "玉米糊与炖菜是日常，斯瓦希里海岸的香料与印度洋贸易带来椰奶与咖喱的痕迹。"
+    },
+    {
+      "slug": "south-african",
+      "zh": "南非菜",
+      "en": "South African",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-meat",
+        "staple-bread",
+        "dessert",
+        "snack",
+        "salad"
+      ],
+      "unsupported": [
+        "soup",
+        "fermented",
+        "low-cal",
+        "staple-congee",
+        "banquet"
+      ],
+      "intro": "烧烤、玉米与荷兰移民的烘焙传统并存，多族群饮食在同一张桌上摆开。"
+    },
+    {
+      "slug": "australian",
+      "zh": "澳新菜",
+      "en": "Australian-NZ",
+      "region": "intl",
+      "tier": "C",
+      "core": [
+        "main-seafood",
+        "bakery",
+        "breakfast",
+        "dessert",
+        "salad"
+      ],
+      "unsupported": [
+        "soup",
+        "fermented",
+        "staple-congee",
+        "main-egg",
+        "banquet"
+      ],
+      "intro": "海洋与移民饮食的复合体，强调新鲜食材与户外烧烤，咖啡文化同样深厚。"
+    }
   ]
 }

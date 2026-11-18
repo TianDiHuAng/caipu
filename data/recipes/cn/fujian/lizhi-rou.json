@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "lizhi-rou",
+  "name": {
+    "zh": "荔枝肉",
+    "en": "Lychee-shaped Sweet and Sour Pork",
+    "original": "荔枝肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "sour",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 450,
+          "unit": "g",
+          "note": "切成 2 厘米厚片，表面剞十字花刀深至三分之二",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "荸荠",
+          "name_en": "water chestnut",
+          "amount": 100,
+          "unit": "g",
+          "note": "去皮切成与肉块等大的滚刀块，模仿荔枝核",
+          "optional": false
+        },
+        {
+          "name": "蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末，糖醋汁下锅时爆香",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段，最后与肉同炒提香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 40,
+          "unit": "g",
+          "note": "福州做法用番茄酱调色，是本地特色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 45,
+          "unit": "g",
+          "note": "与香醋配成酸甜汁，糖量可按口味减 10 克",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "提供主体酸味，起锅前补 5 毫升保香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "腌肉用 2 克，糖醋汁用 1 克",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "Shaoxing cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌肉去腥，与盐同时抓匀",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 100,
+          "unit": "g",
+          "note": "拍粉 80 克，勾芡 20 克",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 260,
+          "unit": "ml",
+          "note": "炸制用油，实际耗油约 50 毫升",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "砧板",
+    "菜刀",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊切 2 厘米厚片，在两面剞十字花刀，刀深至肉片三分之二但不切断，切成 2.5 厘米见方的块，加 2 克盐与 15 毫升料酒抓匀腌 10 分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "剞花刀是为了让肉块受热后卷曲成荔枝壳的颗粒状，刀口要密而不透。",
+      "visual_cue": "肉块表面布满菱形刀纹、用手拉开能见到网状纹路但不散开。"
+    },
+    {
+      "n": 2,
+      "text": "肉块用厨房纸吸干表面水分，放入 80 克玉米淀粉中滚匀，用手轻压让粉嵌入刀纹，抖掉多余干粉。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "粉要嵌进刀纹里，炸出来才有荔枝壳的凹凸质感；粉太厚会脱壳。",
+      "visual_cue": "每块肉均匀裹着一层薄白粉，刀纹清晰可见，抖一下不会大量掉粉。"
+    },
+    {
+      "n": 3,
+      "text": "锅中倒 260 毫升菜籽油烧至六成热，逐块下肉，中火炸 3 分钟至定型微黄后捞出。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "下锅后不要立即翻动，等外壳定型再用漏勺推散，否则粉壳会掉。",
+      "visual_cue": "肉块浮起、外壳变硬呈浅黄色，刀纹处已张开成颗粒状。"
+    },
+    {
+      "n": 4,
+      "text": "油温升到七成热，把肉块回锅复炸 40 秒至金黄酥脆，捞出沥油；荸荠块下油锅炸 30 秒后一同沥干。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "复炸是酥脆的关键，第一次炸熟、第二次炸脆，两次油温差至少 40 度。",
+      "visual_cue": "外壳金黄发亮、用筷子敲有清脆声，荸荠表面微微起皱。"
+    },
+    {
+      "n": 5,
+      "text": "另起锅留 15 毫升油，小火爆香蒜末，加入 40 克番茄酱炒出红油，再下 45 克白糖、30 毫升香醋、1 克盐与 80 毫升清水煮开。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "番茄酱必须炒到出红油再去酸涩味，糖醋汁的酸甜比按糖比醋约 1.5 比 1。",
+      "visual_cue": "锅中汁液呈透亮的橘红色，表面浮一层细密红油，酸香扑鼻。"
+    },
+    {
+      "n": 6,
+      "text": "20 克玉米淀粉加 40 毫升清水调匀，分两次淋入锅中搅至浓稠，倒入炸好的肉块与荸荠，加葱段大火翻匀，起锅前补 5 毫升香醋。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "肉块下锅后翻炒不超过 30 秒，久炒外壳吸汁回软。",
+      "visual_cue": "每块肉均匀裹上薄亮的酱汁、颗粒状外壳仍清晰，盘中不见多余汤汁。"
+    }
+  ],
+  "tips": [
+    "刀工是荔枝肉的灵魂，十字花刀间距约 4 毫米，太稀则卷不成形，太密则容易断。",
+    "糖醋汁提前调好放小碗，最后一步只有两分钟，现场调味一定手忙脚乱。"
+  ],
+  "common_mistakes": [
+    "肉块只拍粉不剞刀，炸出来是光滑的肉块，完全失去「荔枝」的形似。",
+    "只炸一次就浇汁，外壳很快被汁水泡软，上桌时已经塌了。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡腿肉",
+      "ratio": "1:1 等量替换",
+      "note": "鸡腿肉更嫩但吸汁更快，糖醋汁需加稠 2 克淀粉以缩短裹汁时间。"
+    },
+    {
+      "original": "番茄酱",
+      "substitute": "番茄膏加白糖",
+      "ratio": "40 克番茄酱换 25 克番茄膏加 10 克白糖",
+      "note": "颜色更深、酸度更高，醋可减到 25 毫升。"
+    }
+  ],
+  "variations": [
+    "家庭少油版：改用平底锅半煎半炸，油量减到 120 毫升，两次各煎 3 分钟，外壳略薄。",
+    "荔枝肉拼盘：与炸芋头块同盘，淋同一锅糖醋汁，是福州宴席常见的组合。"
+  ],
+  "serving_suggestion": "刚出锅即上桌，一人份约 110 克；酸甜口适合配白米饭，另上一碟清炒时蔬解腻。",
+  "storage": "不建议隔夜，外壳吸汁后完全失去酥脆；若需保存，肉块与酱汁分开冷藏，复热时肉块 190 摄氏度烤 5 分钟再浇热汁。",
+  "nutrition_estimate": {
+    "basis": "每份（约 110 克肉块与 25 克荸荠）",
+    "calories_kcal": 468,
+    "protein_g": 26.8,
+    "fat_g": 22.4,
+    "carbs_g": 42.6,
+    "sodium_mg": 586,
+    "is_estimate": true,
+    "disclaimer": "挂粉厚度与实际吸油量差异较大，热量估算误差约 18%。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "猪肉必须炸至中心完全熟透，最厚处中心温度达到 71 摄氏度以上，切开后无粉红色。",
+    "炸制用油控制在 170 至 180 摄氏度，油面大量冒青烟时应离火降温后再继续。"
+  ],
+  "origin_note": "荔枝肉是福州传统名菜，因肉块剞花刀后炸成卷曲颗粒状、色泽红亮，形似荔枝而得名。福州一带自唐宋起盛产荔枝，厨师以形取名，用番茄酱调色是近代闽菜受外来调味影响后的做法。早期是否使用番茄酱已难确考，此处仅作饮食文化背景说明。",
+  "tags": [
+    "闽菜",
+    "酸甜",
+    "炸制",
+    "经典名菜"
+  ],
+  "related_ids": [
+    "tangcu-liyu",
+    "guobao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

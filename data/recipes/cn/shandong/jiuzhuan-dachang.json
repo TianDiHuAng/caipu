@@ -1,0 +1,299 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiuzhuan-dachang",
+  "name": {
+    "zh": "九转大肠",
+    "en": "Braised Pork Intestine, Shandong Style",
+    "original": "九转大肠"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 5,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 80,
+    "total_min": 120
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "sour",
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪大肠",
+          "name_en": "pork large intestine",
+          "amount": 700,
+          "unit": "g",
+          "note": "选肠壁厚实的直肠段，直径约 3 厘米，剪成 6 厘米长的段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菜",
+          "name_en": "coriander",
+          "amount": 15,
+          "unit": "g",
+          "note": "切 3 厘米段，装盘时点缀",
+          "optional": true
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "15 克拍破用于煮肠，10 克切末用于烧制",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切长段，与姜一起下锅去腥",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "plain flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "仅用于搓洗肠壁黏液，冲洗后不留在成品中",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 45,
+          "unit": "g",
+          "note": "其中 20 克炒糖色，25 克调酸甜汁",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 35,
+          "unit": "ml",
+          "note": "分两次烹入，第一次去腥，第二次出锅前提酸香",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "提供底味与色泽",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "shaoxing wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煮肠与烧制各 20 毫升",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "4 克搓洗肠壁，2 克入汤汁",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "sichuan peppercorn",
+          "amount": 4,
+          "unit": "g",
+          "note": "煮肠时去腥用，煮后捞出弃去",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "烧制时增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cassia bark",
+          "amount": 3,
+          "unit": "g",
+          "note": "与八角同下，不可过量以免压住酸甜",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎制肠段用，实耗约 30 毫升",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "出锅前淋入增亮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深汤锅",
+    "平底不粘锅",
+    "炒锅",
+    "漏勺",
+    "厨房剪刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪大肠翻面撕去内壁多余脂肪，只保留薄薄一层；加 4 克盐与20 克面粉反复搓洗五分钟，冲净后再用 20 毫升料酒抓洗一遍，最后翻回正面。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "搓到肠壁发涩、水冲后不再滑手，闻起来只有淡淡的肉腥而没有粪臭味。",
+      "visual_cue": "肠壁由粉白转为米白、表面无水膜感，冲洗水清亮不挂沫。"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，放肠段、20 毫升料酒、15 克姜、20 克大葱段与 4 克花椒，大火烧开后转中火煮 35 分钟，撇净浮沫。",
+      "time_min": 35,
+      "heat": "中火",
+      "tip": "煮到筷子能穿过肠壁但仍有阻力，过软会在后续煎制时塌陷。",
+      "visual_cue": "肠段由软塌变得饱满鼓胀、切口处肠壁厚度均匀约 5 毫米。"
+    },
+    {
+      "n": 3,
+      "text": "煮好的肠段捞出沥干，用厨房纸吸干表面水分，放入平底锅用 60 毫升菜籽油中火煎 6 分钟，不断翻面至表面微皱起小泡。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "一定要吸干水分再下锅，否则油花四溅；煎到肠皮收紧起皱即可，不必煎到硬脆。",
+      "visual_cue": "肠段表面出现细密皱褶、颜色由白转浅金，锅底油未见大量水汽。"
+    },
+    {
+      "n": 4,
+      "text": "炒锅中放 20 克白糖与 15 毫升清水，小火加热并不停搅动，糖液由大泡转为细密小泡、颜色变成枣红时立即冲入 200 毫升热水，搅匀成糖色水。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色到枣红就必须加热水，晚两秒就会发苦，冲水时沿锅边淋入以免溅油。",
+      "visual_cue": "糖液呈透亮枣红色、表面泡沫细小均匀，加水后无焦糊味。"
+    },
+    {
+      "n": 5,
+      "text": "把煎好的肠段与糖色水一起倒回炒锅，加 25 克白糖、25 毫升生抽、2 克盐、八角、桂皮、10 克姜末与 100 毫升清水，大火烧开后转小火焖 25 分钟，中途翻动两次。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "汤汁要没过肠段一半，焖到用筷子轻压肠壁能陷下去、汤汁收到剩三分之一。",
+      "visual_cue": "汤汁浓稠挂勺、肠段表面泛出油亮红光，锅中香气由酸转甜。"
+    },
+    {
+      "n": 6,
+      "text": "转大火收汁，沿锅边烹入 15 毫升香醋，快速翻动让醋香裹住肠段，汁水收到能挂在肠壁上时淋 6 毫升香油，撒香菜段出锅。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "醋一定最后烹入，早放酸味会在长时间加热中挥发掉，只剩甜腻。",
+      "visual_cue": "成品红亮油润、盘底几乎无流动汤汁，醋香冲鼻而不刺喉。"
+    }
+  ],
+  "tips": [
+    "大肠的清洗决定成败：盐与面粉各搓一遍能把黏液与异味带走，只用水冲的成品必然发腥。",
+    "煎制前务必吸干水分，肠壁含水时下锅会先出水再上色，成品软塌不起皱。",
+    "糖色与白糖分两段用：糖色负责颜色，白糖负责甜味，全用糖色会发苦，全用白糖则颜色发暗。"
+  ],
+  "common_mistakes": [
+    "肠段煮得过软再煎，下锅就塌成一片，成品没有九转大肠应有的挺立形态。",
+    "糖色炒到深褐才加水，成品带明显焦苦味，酸甜完全被苦味盖住。",
+    "收汁时全程小火，汤汁长时间翻滚把肠壁煮散，口感由弹韧变成软烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪大肠",
+      "substitute": "猪小肠",
+      "ratio": "1:1.2",
+      "note": "小肠壁薄、直径小，煮制时间缩短到 20 分钟，煎制时缩短到 4 分钟，成品更脆但少了厚实感。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "陈醋",
+      "ratio": "1:1",
+      "note": "陈醋色泽更深、酸度略低，用量增加 5 毫升，成品颜色偏深。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：省去煎制步骤，煮好后直接下锅烧制，成品少了皱皮口感，但油量与操作难度都大幅降低。",
+    "济南老派版：在烧制时加入 3 克砂仁粉与 2 克肉桂粉，出锅前撒 5 克花椒粉，香气更复合，药香明显。",
+    "免糖色版：用 15 毫升老抽替代糖色上色，白糖减到 20 克，颜色偏酱褐但不会有焦苦风险，适合新手。"
+  ],
+  "serving_suggestion": "4 人份热菜，装盘后趁热食用，配米饭或荷叶饼夹食皆宜；旁边备一小碟生黄瓜条解腻。",
+  "storage": "冷藏密封可放 2 天，复热时加 20 毫升清水小火焖 3 分钟，避免直接大火导致肠壁发硬；不建议冷冻，解冻后口感明显变韧。",
+  "nutrition_estimate": {
+    "basis": "每份（约 175 克成品）",
+    "calories_kcal": 486,
+    "protein_g": 19.4,
+    "fat_g": 36.8,
+    "carbs_g": 18.6,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料用量与常见食材成分表推算，猪大肠的脂肪含量个体差异较大，热量可能有 20% 以上浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪大肠属高风险内脏，必须煮到中心温度 71 摄氏度以上并持续 15 秒，肠壁不得有任何血水残留。",
+    "清洗时若发现肠壁有异常硬结、出血点或异味刺鼻，整段丢弃，不可通过加香料掩盖。",
+    "成品在室温放置不得超过 2 小时，复热须彻底加热到滚沸后再食用。"
+  ],
+  "origin_note": "九转大肠是济南的传统名菜，相传清光绪年间由济南九华楼酒楼创制，因制作需经煮、煎、烧、煨等多道工序，借用道家「九转金丹」之意取名。菜品以酸甜咸香并重、肠段红亮挺立为特征，具体创制细节各方记载不一，此处只作地域饮食背景说明。",
+  "tags": [
+    "鲁菜",
+    "济南",
+    "内脏",
+    "酸甜",
+    "宴客菜",
+    "功夫菜"
+  ],
+  "related_ids": [
+    "congsao-haishen",
+    "tangcu-liyu",
+    "guobao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

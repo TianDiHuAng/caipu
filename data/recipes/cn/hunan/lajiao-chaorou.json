@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "lajiao-chaorou",
+  "name": {
+    "zh": "辣椒炒肉",
+    "en": "Hunan Chili Stir-fried Pork",
+    "original": "辣椒炒肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 2,
+  "flavor": [
+    "spicy",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 300,
+          "unit": "g",
+          "note": "选肥瘦相间的三层肉，肥肉约占三成，切成 2 毫米薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green pepper",
+          "amount": 200,
+          "unit": "g",
+          "note": "选皮薄皱皮的螺丝椒，斜切成 5 厘米长的粗丝",
+          "optional": false
+        },
+        {
+          "name": "蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "约 3 瓣，拍松后切粗粒，不要剁成蓉",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切三片薄片，用于煸炒时去腥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酱油",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "分两次用，10 毫升腌肉、5 毫升起锅前补味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "青椒单独煸炒时使用，参考量 2 克",
+          "optional": false
+        },
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 8,
+          "unit": "g",
+          "note": "略剁碎，与蒜粒同下锅炒出酱香",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煸青椒 15 毫升、炒肉 10 毫升，分两次下锅",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "砧板",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切 2 毫米薄片，肥瘦分开摆放；瘦肉部分加 10 毫升酱油抓匀静置 10 分钟，肥肉片不用腌，直接备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肥瘦一定要分开，肥肉先煸出油再下瘦肉，否则整盘菜会油水混浊。",
+      "visual_cue": "瘦肉片表面均匀挂上浅酱色，盆底无多余酱汁，用手触摸有轻微黏性。"
+    },
+    {
+      "n": 2,
+      "text": "青椒斜切成粗丝，锅中不放油，中火下青椒干煸 2 分钟，撒入 2 克盐，煸到表皮起皱、边缘微焦后盛出。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "干煸时不放油是这道菜的关键，青椒自身水分被逼出后才会呈现虎皮质感，也能吸收后面的肉汁。",
+      "visual_cue": "青椒表皮出现白色斑点与皱褶，体积缩小约两成，闻到明显的椒香而不是生青味。"
+    },
+    {
+      "n": 3,
+      "text": "锅中下 15 毫升菜籽油，放入肥肉片，中小火慢煸 3 分钟至肥肉卷曲、透明出油，油渣边缘微黄。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "肥肉煸到「灯盏窝」状最好，油出得透而不焦，剩下的油脂正好用来炒瘦肉。",
+      "visual_cue": "肥肉片由粉白变成半透明、边缘卷起成浅金黄，锅底积起一层清亮猪油。"
+    },
+    {
+      "n": 4,
+      "text": "转中大火，下姜片、蒜粒与豆豉爆香 20 秒，倒入腌好的瘦肉片快速划散，炒到肉片变色断生。",
+      "time_min": 2,
+      "heat": "中大火",
+      "tip": "瘦肉下锅后不要立刻翻动，先摊平煎 15 秒再翻，能形成焦边而不出水。",
+      "visual_cue": "瘦肉由粉红转成灰白、边缘出现浅褐焦边，锅中油面清亮不浑浊。"
+    },
+    {
+      "n": 5,
+      "text": "倒回青椒丝，淋入剩余 5 毫升酱油，大火颠炒 40 秒让肉汁与椒香融合，尝咸淡后关火装盘。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "青椒回锅时间必须短，超过一分钟就会软塌，虎皮香也会被油浸失。",
+      "visual_cue": "青椒表面裹上一层油亮的酱色，锅底酱汁基本收干，空气中是辣椒煸香混着猪油的复合香气。"
+    }
+  ],
+  "tips": [
+    "螺丝椒或皱皮椒比圆椒更适合，皮薄易起虎皮、辣度也更有层次；怕辣可去籽但保留白色筋膜。",
+    "全程不要加水，一旦加水就变成炖菜，肉片发柴、青椒失去脆度。"
+  ],
+  "common_mistakes": [
+    "青椒与肉一起下锅同炒，结果青椒出水和肉片同煮，成品汤汁多、椒香寡淡。",
+    "用纯瘦肉代替五花肉，缺少煸出的猪油，香气单薄且肉片容易发干。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉带皮",
+      "ratio": "1:1 等量替换",
+      "note": "前腿肉筋膜较多需逆纹切，煸油时间缩短 30 秒，口感更紧实。"
+    },
+    {
+      "original": "豆豉",
+      "substitute": "浏阳豆豉酱",
+      "ratio": "8 克豆豉换 12 克豆豉酱",
+      "note": "酱体含盐，需把盐量减到 1 克以免过咸。"
+    }
+  ],
+  "variations": [
+    "农家一碗香：加入 2 个煎蛋块与 50 克豆干同炒，成为湖南常见的家常拼炒。",
+    "少油版：五花肉先冷冻 20 分钟再切，用不粘锅干煸出油，总用油可降到 12 毫升。"
+  ],
+  "serving_suggestion": "趁热盛在热过的盘中，配一大碗白米饭，一人份约 150 克肉与 100 克青椒；饭后再喝点淡茶缓解口腔的辣感。",
+  "storage": "冷藏可存 2 天，复热时用炒锅大火快炒 1 分钟，微波会让青椒进一步软烂；不建议冷冻，青椒解冻后完全失去脆度。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250 克成品）",
+    "calories_kcal": 486,
+    "protein_g": 21.3,
+    "fat_g": 41.2,
+    "carbs_g": 8.4,
+    "sodium_mg": 786,
+    "is_estimate": true,
+    "disclaimer": "五花肉肥瘦比例差异会显著影响热量，肥肉占比每增加一成，热量约上升 40 千卡。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "猪肉片必须炒至完全变色、中心无粉红，中心温度达到 71 摄氏度以上再出锅。",
+    "干煸青椒时油温较高，若锅已冒大量青烟应先离火降温，避免油温超过烟点产生有害物质。"
+  ],
+  "origin_note": "辣椒炒肉是湘菜家常味型的代表，湖南人称之为「农家小炒肉」，讲究肉要带肥、椒要够辣、油要够香。相传它最初是乡间灶台上的快手菜，用现宰猪肉与自家晒的辣椒同炒，后来被长沙的餐馆做成招牌。具体起源缺乏确切记载，此处只作地域饮食背景说明。",
+  "tags": [
+    "湘菜",
+    "下饭菜",
+    "快手菜",
+    "家常菜"
+  ],
+  "related_ids": [
+    "huiguo-rou",
+    "mapo-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

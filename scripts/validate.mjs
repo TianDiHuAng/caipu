@@ -73,8 +73,10 @@ for (const rec of schemaOk) {
   }
 }
 
-const globalErrs = runGlobalRules(records);
-const dupErrs = skipDup ? [] : runDuplicateCheck(records);
+// 单文件模式下库里其他菜谱未加载，related_ids 的存在性无法判断，故只保留 id/路径一致性检查
+let globalErrs = runGlobalRules(records);
+if (singleFile) globalErrs = globalErrs.filter((e) => !/related_ids 中的/.test(e));
+const dupErrs = skipDup || singleFile ? [] : runDuplicateCheck(records);
 
 const out = [];
 out.push(`校验范围: ${files.length} 个文件（成功解析 ${records.length}）`);

@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "songshu-guiyu",
+  "name": {
+    "zh": "松鼠鳜鱼",
+    "en": "Squirrel-Shaped Sweet and Sour Mandarin Fish",
+    "original": "松鼠鳜鱼"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 5,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 20,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "sour",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳜鱼",
+          "name_en": "mandarin fish",
+          "amount": 750,
+          "unit": "g",
+          "note": "选 1 条约 750 克的鲜活鳜鱼，去鳞去内脏后从背部开刀成两片相连的鱼身",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "松子仁",
+          "name_en": "pine nut",
+          "amount": 30,
+          "unit": "g",
+          "note": "干锅小火焙香，出锅前撒面",
+          "optional": false
+        },
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 30,
+          "unit": "g",
+          "note": "冷冻豌豆即可，最后与酱汁同煮 1 分钟",
+          "optional": true
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切丝泡水取姜汁用于腌鱼",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 120,
+          "unit": "g",
+          "note": "约 80 克裹鱼柳，40 克用于调芡",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 90,
+          "unit": "g",
+          "note": "选无添加糖的纯番茄酱，酸甜自己调",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 55,
+          "unit": "g",
+          "note": "与醋配成 1:1 的酸甜基底",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "分两次用，30 毫升入汁，10 毫升出锅前提香",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "shaoxing wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "腌鱼去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "3 克腌鱼，2 克入酱汁",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 350,
+          "unit": "ml",
+          "note": "用于炸制，实耗约 80 毫升，油温需达 180 摄氏度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炒锅",
+    "厨房温度计",
+    "漏勺",
+    "锋利主厨刀",
+    "盛菜长盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鳜鱼去鳞去内脏洗净，从胸鳍后斩下鱼头，沿脊骨把两侧鱼肉片下但保持尾部相连；鱼身内侧剞十字花刀，刀距 1 厘米、深至鱼皮不破，用 3 克盐、20 毫升料酒与姜汁抹匀腌 10 分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "花刀要切到鱼皮而不切断，皮破则在炸制时鱼柳散开、无法立起。",
+      "visual_cue": "鱼皮完整无破口，鱼肉翻开呈菱形网格、按压有弹性。"
+    },
+    {
+      "n": 2,
+      "text": "腌好的鱼拍干表面水分，把 80 克玉米淀粉均匀撒进花刀缝里，抖掉多余淀粉，用手提起鱼尾让鱼柳自然展开。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "淀粉要填进每一道刀口，抖掉浮粉可避免炸时油变浑浊。",
+      "visual_cue": "每条鱼柳都被淀粉薄薄裹住，提起鱼尾时鱼柳呈穗状自然下垂。"
+    },
+    {
+      "n": 3,
+      "text": "菜籽油烧到 180 摄氏度，手提鱼尾先把鱼身浸入油中定型 30 秒，再整条放入炸 4 分钟，中途用勺把热油浇在鱼背，炸到外壳金黄硬挺后捞出沥油，摆盘时鱼头另炸 1 分钟立在盘头。",
+      "time_min": 7,
+      "heat": "中大火",
+      "tip": "油温低于 170 摄氏度会脱浆吸油，高于 190 摄氏度则外焦内生，用温度计确认再下鱼。",
+      "visual_cue": "外壳呈均匀金黄、用勺背轻敲有清脆响声，鱼柳舒展成松鼠尾状。"
+    },
+    {
+      "n": 4,
+      "text": "炒锅留 15 毫升底油，下 90 克番茄酱小火炒 40 秒到颜色加深、酸味变柔和，加 150 毫升清水、55 克白糖、30 毫升香醋与 2 克盐烧开。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "番茄酱必须小火炒过才没有生番茄的尖酸味，炒到油色变红为度。",
+      "visual_cue": "酱汁呈透亮番茄红、表面冒细泡并带甜香。"
+    },
+    {
+      "n": 5,
+      "text": "40 克玉米淀粉加 60 毫升清水调成水淀粉，缓缓淋入沸腾的酱汁并不停搅动，熬到能挂勺时烹入 10 毫升香醋，浇在炸好的鱼身上，撒焙香的松子仁与豌豆即可。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "芡汁稠度以能挂在鱼柳上又不流动过快为准，太稠会糊成一团。",
+      "visual_cue": "酱汁红亮透明、从勺背流下呈连续线状，浇在鱼上能均匀裹住花刀缝隙。"
+    }
+  ],
+  "tips": [
+    "鱼身花刀的深浅一致是成型关键，一刀深一刀浅会让鱼柳炸后高低不平，摆盘失去松鼠形态。",
+    "复炸 20 秒能让外壳更脆，但必须在酱汁调好后再复炸，避免吸汁回软。"
+  ],
+  "common_mistakes": [
+    "鱼皮在下锅前被刀划破，炸时鱼柳外翻，成品散成碎块。",
+    "酱汁勾芡后长时间保温，芡汁返稀、浇上鱼身后顺着盘底流走。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳜鱼",
+      "substitute": "鲈鱼",
+      "ratio": "1:1",
+      "note": "鲈鱼刺少肉厚，同样开背剞花刀，炸制时间缩短 1 分钟，成品形态略小。"
+    },
+    {
+      "original": "松子仁",
+      "substitute": "熟白芝麻",
+      "ratio": "1:1",
+      "note": "芝麻更小更易附着，香气偏轻，用量减到 15 克。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：不做花刀，把鱼片成 3 厘米宽的条直接裹粉炸，酱汁照旧，成品是糖醋鱼条，操作难度大幅降低。",
+    "苏州老派版：酱汁中加入 20 克山楂糕同熬，酸味更有层次，颜色也更红亮。"
+  ],
+  "serving_suggestion": "4 人份宴客菜，炸好立即浇汁上桌，配一碗白米饭与清炒时蔬；鱼身下的酱汁可拌饭。",
+  "storage": "现炸现吃，冷藏后外壳必回软，不建议保存；剩余酱汁可冷藏 3 天，复热后可用于其他糖醋菜。",
+  "nutrition_estimate": {
+    "basis": "每份（约 190 克成品）",
+    "calories_kcal": 412,
+    "protein_g": 27.5,
+    "fat_g": 22.4,
+    "carbs_g": 26.8,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料用量与常见食材成分表推算，炸制吸油量受油温影响较大，热量可能有 20% 浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "tree-nut"
+  ],
+  "diet_tags": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鳜鱼须炸到鱼肉中心温度 63 摄氏度以上并呈不透明白色，靠近脊骨处不得发红。",
+    "炸油重复使用不超过 3 次，油色发暗或起大量泡沫即弃用。",
+    "淡水鱼生食风险高，本菜必须彻底加热，不可做成半生口感。"
+  ],
+  "origin_note": "松鼠鳜鱼是苏州的传统名菜，相传与清代乾隆下江南的传说有关，因鱼身炸后头昂尾翘、浇汁时发出吱吱声而得名。传说细节缺乏可靠史料，此处仅作地域饮食背景说明。",
+  "tags": [
+    "苏菜",
+    "苏州",
+    "宴客菜",
+    "糖醋",
+    "炸物",
+    "功夫菜"
+  ],
+  "related_ids": [
+    "tangcu-liyu",
+    "xihu-cuyu",
+    "longjing-xiaren"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

@@ -1,0 +1,49 @@
+﻿校验范围: 21 个文件（成功解析 21）
+分类体系: 59 菜系 / 26 品类；食材词典: 285 项
+
+[问题文件] 11 个（schema 失败 0，规则失败 11）：
+
+· data/recipes/cn/anhui/yipin-guo.json (yipin-guo) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+
+· data/recipes/cn/beijing/jingjiang-rousi.json (jingjiang-rousi) [RULES]
+   - ingredients: 「豆腐皮」在全部步骤与提示中均未被使用
+   - steps: 文本提到「猪肉末」，但配料表中没有该食材
+
+· data/recipes/cn/cantonese/chizhi-paigu.json (chizhi-paigu) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+   - steps: 文本提到「小葱」，但配料表中没有该食材
+   - steps: 文本提到「咸肉」，但配料表中没有该食材
+
+· data/recipes/cn/fujian/lizhi-rou.json (lizhi-rou) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+
+· data/recipes/cn/hunan/lawi-hezheng.json (lawi-hezheng) [RULES]
+   - steps: 文本提到「小葱」，但配料表中没有该食材
+   - steps: 文本提到「面粉」，但配料表中没有该食材
+
+· data/recipes/cn/jiangsu/shizitou.json (shizitou) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+   - steps: 文本提到「猪肉末」，但配料表中没有该食材
+
+· data/recipes/cn/shandong/congsao-haishen.json (congsao-haishen) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
+
+· data/recipes/cn/shanghai/yandu-xian.json (yandu-xian) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+
+· data/recipes/cn/sichuan/shuizhu-niurou.json (shuizhu-niurou) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+   - steps: 文本提到「牛肉」，但配料表中没有该食材
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
+
+· data/recipes/cn/xinjiang/ziran-yangrouchuan.json (ziran-yangrouchuan) [RULES]
+   - time: 步骤时间合计 103 分远超 total 42 分（含并行工序时请下调步骤时长）
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
+
+· data/recipes/cn/zhejiang/xihu-cuyu.json (xihu-cuyu) [RULES]
+   - ingredients: 「大葱」在全部步骤与提示中均未被使用
+   - steps: 文本提到「大蒜」，但配料表中没有该食材
+
+❌ 未通过：11 类问题，累计 21 条

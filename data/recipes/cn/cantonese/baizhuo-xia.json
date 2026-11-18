@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "baizhuo-xia",
+  "name": {
+    "zh": "白灼虾",
+    "en": "Poached Prawns with Soy Dip",
+    "original": "白灼蝦"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-seafood",
+    "appetizer"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 6,
+    "total_min": 16
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 600,
+          "unit": "g",
+          "note": "选活虾或冰鲜全虾，剪去虾枪与长须，背部挑出虾线",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半切片入水，一半切细丝泡在蘸碟里",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "一半打结入水，一半切葱花",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切圈，按口味增减",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "蘸碟基底",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "蘸碟提香",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "note": "中和酱油的咸",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥入水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "小碗",
+    "菜刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾冲洗干净，用剪刀从背部剪开取出虾线，剪去虾枪与长须，冲洗后沥干水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "虾线是腥味的主要来源，背部剪开比用牙签挑更彻底，也不容易把虾肉弄断。",
+      "visual_cue": "虾背裂口露出青灰色的虾线，整只虾冲洗后壳面透亮。"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加 1500 毫升清水，放姜片、葱结与料酒 15 毫升，大火烧到锅底冒密集大泡、水面翻滚。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "水必须彻底滚沸再下虾，水温不足虾会在温水里慢慢失水，肉质发柴。",
+      "visual_cue": "水面剧烈翻滚、生姜香气明显，锅边挂满水汽。"
+    },
+    {
+      "n": 3,
+      "text": "下虾，保持大火煮 90 秒，看到虾身全部转为橙红、自然弯曲即用漏勺捞出。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "600 克虾分两批下锅，一次下太多水温骤降，第一批熟第二批生。",
+      "visual_cue": "虾壳通体橙红有光泽、虾身弯成 C 形，按压虾头与身体连接处紧实有弹性。"
+    },
+    {
+      "n": 4,
+      "text": "捞出后立刻放入冰水中浸 30 秒，让虾肉收紧，捞出沥干摆盘。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "冰水这一步决定口感，热虾直接摆盘会继续受热，肉变老且壳色发暗。",
+      "visual_cue": "虾壳颜色更鲜亮、虾肉与壳之间出现细微空隙，捏起来弹手。"
+    },
+    {
+      "n": 5,
+      "text": "生抽 30 毫升、白糖 2 克、香油 5 毫升与姜丝、小米辣圈、葱花调成蘸碟，随虾上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "蘸碟提前 10 分钟调好让姜丝和小米辣出味，临时调味道寡淡。",
+      "visual_cue": "蘸碟呈浅褐色透亮，姜丝沉底，闻起来有香油与辣椒的清香。"
+    }
+  ],
+  "tips": [
+    "判断熟度只看形状：C 形刚好，卷成 O 形就已经过火，虾肉开始发韧。",
+    "水里加姜葱料酒是粤式白灼的标配，不放盐，靠蘸碟调味才能吃出虾本身的甜。",
+    "冰鲜虾可用 1 升水加 10 克盐浸泡 10 分钟再冲洗，去除冰鲜味。"
+  ],
+  "common_mistakes": [
+    "冷水下虾慢慢加热，虾肉在升温过程中大量失水，出锅后缩成一小团。",
+    "煮好后一直泡在热水里等齐所有菜上桌，余温把虾肉焖老，壳也发白发暗。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾",
+      "substitute": "基围虾",
+      "ratio": "600 克大虾换 600 克基围虾",
+      "note": "基围虾壳薄易熟，煮制时间缩短到 60 秒，其余不变。"
+    },
+    {
+      "original": "生抽",
+      "substitute": "蒸鱼豉油",
+      "ratio": "30 毫升生抽换 30 毫升蒸鱼豉油",
+      "note": "蒸鱼豉油本身带甜味，白糖可以省掉，咸度也更柔和。"
+    },
+    {
+      "original": "小米辣",
+      "substitute": "辣椒油",
+      "ratio": "10 克小米辣换 10 毫升辣椒油",
+      "note": "辣椒油直接淋在蘸碟里，辣味更柔和，也不会那么冲。"
+    }
+  ],
+  "variations": [
+    "粤式姜葱蘸碟版：不用酱油，把姜末、葱花用 60 度热油泼香，加盐调成姜葱油，蘸虾更清爽。",
+    "椒盐版：白灼后沥干，用 180 度油炸 20 秒，撒椒盐与蒜末，口感更干香。"
+  ],
+  "serving_suggestion": "一人份约 200 克带壳虾，配一碟蘸汁；宴客时作为冷盘第一道，剥壳蘸食，虾头可留作熬汤。",
+  "storage": "冷藏不超过 1 天，虾肉极易变质；复热建议用蒸锅大火 2 分钟，不要微波。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200 克可食部分）",
+    "calories_kcal": 186,
+    "protein_g": 36.2,
+    "fat_g": 2.4,
+    "carbs_g": 1.2,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "虾的可食部分约占带壳重量的 60%，钠主要来自蘸碟，蘸多蘸少差别明显。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "虾必须煮至通体橙红、肉质由透明转乳白，中心不透明方可食用。",
+    "甲壳类是常见过敏原，处理生虾的器具需与熟食分开清洗，避免交叉污染。"
+  ],
+  "origin_note": "白灼是粤菜处理鲜活海河鲜最典型的手法，只用沸水加姜葱料酒，把食材本身的味道完整保留下来。珠三角一带讲究虾要活、水要滚、时间要短，出锅过一次冰水则是酒楼常用的细节处理。",
+  "tags": [
+    "粤菜",
+    "海鲜",
+    "白灼",
+    "宴客菜",
+    "低脂"
+  ],
+  "related_ids": [
+    "baiqie-ji",
+    "qingzheng-luyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

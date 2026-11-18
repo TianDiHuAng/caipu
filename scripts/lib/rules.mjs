@@ -107,6 +107,12 @@ export function runRecipeRules(recipe, ctx) {
 
   const cuisineCfg = taxonomy.cuisines.find((c) => c.slug === recipe.cuisine?.style);
   const allText = collectText(recipe);
+  // 配料引用检查只针对「烹饪步骤本体」（步骤文本/提示/感官线索），
+  // 不包含 tips、variations、substitutions、serving_suggestion 等旁述字段，
+  // 否则「鸡胸肉可替代鸡腿肉」这类合理旁述会被误判为缺失配料。
+  const stepScopeText = (recipe.steps || [])
+    .map((s) => `${s.text || ''} ${s.tip || ''} ${s.visual_cue || ''}`)
+    .join('\n');
 
   // ---------- R2 占位符与文本规范 ----------
   const textFields = [
@@ -179,9 +185,9 @@ export function runRecipeRules(recipe, ctx) {
       if (entry.key === 'salt') saltGram += grams;
       if (OIL_KEYS.has(entry.key)) oilMl += Math.max(grams, 0);
 
-      // 该配料是否在步骤中被使用
+      // 该配料是否在烹饪步骤中被使用
       const candidates = [it.name, entry.zh, ...(entry.aliases || [])].filter((x) => x && x.length >= 1);
-      if (candidates.some((c) => allText.includes(c))) usedNames.add(entry);
+      if (candidates.some((c) => stepScopeText.includes(c))) usedNames.add(entry);
       else push(`ingredients: 「${it.name}」在全部步骤与提示中均未被使用`);
     }
   }
@@ -196,11 +202,21 @@ export function runRecipeRules(recipe, ctx) {
   if (oilMl > oilLimit) push(`用量: 总油量 ${Math.round(oilMl)}ml 超过上限 ${Math.round(oilLimit)}ml（${isFried ? '油炸' : '常规'}）`);
 
   // ---------- R4 步骤与配料互相引用 ----------
-  const mentioned = matchIngredients(allText, matcher);
+  // 已声明配料的全部写法，用于「包含关系豁免」：如文本中的「葱段」已被配料「大葱」覆盖
+  const declaredNames = [];
+  for (const entry of declaredItems) {
+    declaredNames.push(entry.zh, ...(entry.aliases || []));
+  }
+  const coveredByDeclared = (item) => {
+    const own = [item.zh, ...(item.aliases || [])].filter((x) => x && x.length >= 2);
+    return declaredNames.some((d) => d && own.some((n) => d.includes(n) || n.includes(d)));
+  };
+  const mentioned = matchIngredients(stepScopeText, matcher);
   for (const item of mentioned) {
     if (!MENTION_SCOPE.has(item.category)) continue;
     if (declaredItems.has(item)) continue;
     if (usedNames.has(item)) continue;
+    if (coveredByDeclared(item)) continue;
     push(`steps: 文本提到「${item.zh}」，但配料表中没有该食材`);
   }
 

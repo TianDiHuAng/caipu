@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhajiangmian",
+  "name": {
+    "zh": "老北京炸酱面",
+    "en": "Beijing Zhajiang Noodles",
+    "original": "炸酱面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 450,
+          "unit": "g",
+          "note": "选直径 2 毫米的手擀面或机制鲜面，煮后筋道不糊",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 200,
+          "unit": "g",
+          "note": "肥瘦三七开，手工切小丁比绞肉更有嚼头",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝作面码",
+          "optional": false
+        },
+        {
+          "name": "绿豆芽",
+          "name_en": "mung bean sprout",
+          "amount": 100,
+          "unit": "g",
+          "note": "焯水 20 秒过凉",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末，炒酱用",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 120,
+          "unit": "g",
+          "note": "选干黄酱，用清水澥开",
+          "optional": false
+        },
+        {
+          "name": "甜面酱",
+          "name_en": "sweet bean sauce",
+          "amount": 60,
+          "unit": "g",
+          "note": "与黄豆酱按 2:1 配比",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "shaoxing wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒肉丁时去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡酱的咸度",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒酱用，油量要足才能封住酱香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "深汤锅",
+    "大碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄豆酱与甜面酱放入碗中，分三次加入 120 毫升清水，边加边搅成能缓慢流动的稀糊，静置 10 分钟让酱块化开。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "澥酱要分次加水，一次倒足容易结块；稀糊状下锅才不糊底。",
+      "visual_cue": "酱糊无干块、用勺舀起能连成线流下。"
+    },
+    {
+      "n": 2,
+      "text": "锅中放 60 毫升菜籽油，中小火下猪肉末与姜末煸 5 分钟，把水分炒干、肉末边缘微焦，烹入 15 毫升料酒。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "肉末要煸到出油、颗粒分明，湿肉末下酱会腥。",
+      "visual_cue": "肉末由粉红转为金黄、锅底油变清亮。"
+    },
+    {
+      "n": 3,
+      "text": "转小火倒入澥好的酱糊，不停搅动熬 20 分钟，中途分两次加 50 毫升清水，最后加 10 克白糖与大葱末，熬到酱色发亮、油浮在表面。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "熬酱全程小火并不停搅，火力一大糖分与酱体就会糊底发苦。",
+      "visual_cue": "酱体浓稠起泡、表面浮出一层红亮明油，搅动时能见到锅底。"
+    },
+    {
+      "n": 4,
+      "text": "另起锅烧水，水开后下面条煮 3 分钟，捞出过凉水沥干；豆芽焯 20 秒，黄瓜切丝。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "面条煮到中心留一点白芯最筋道，过凉水可去表面浮粉、防止粘连。",
+      "visual_cue": "面条透亮有弹性，筷子夹起不断条。"
+    },
+    {
+      "n": 5,
+      "text": "面条盛碗，舀 2 勺炸酱铺在面上，配黄瓜丝与豆芽，吃前从碗底向上拌匀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酱要热、面要温，拌的时候让每根面都裹上酱而不积在碗底。",
+      "visual_cue": "面条呈均匀酱褐色，碗底无多余汤汁。"
+    }
+  ],
+  "tips": [
+    "黄豆酱与甜面酱 2:1 是北京家常配比，全用黄酱过咸，全用甜面酱则发甜。",
+    "炸酱可一次多做，冷却后表面封一层油，冷藏可存两周。"
+  ],
+  "common_mistakes": [
+    "酱没澥开就下锅，成品里有干硬的酱块，口感粗糙。",
+    "熬酱时用中大火图快，锅底焦化后整锅酱带苦味，无法挽回。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄豆酱",
+      "substitute": "豆瓣酱",
+      "ratio": "1:1",
+      "note": "豆瓣酱更咸更辣，用量减到 90 克并减少白糖 3 克。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "1:1",
+      "note": "牛肉更瘦，需多加 10 毫升油防止发干。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：酱糊下锅后只熬 8 分钟，酱香略薄但省时，适合工作日。",
+    "素炸酱：去掉肉末，用 100 克香菇丁与 50 克豆干丁代替，加 5 毫升生抽补鲜。"
+  ],
+  "serving_suggestion": "3 人份，配腊八蒜或生蒜瓣，另备一碗面汤原汤化食。",
+  "storage": "炸酱冷藏密封 14 天，表面封油可延长至 3 周；面条现煮现吃，不建议冷藏。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320 克成品）",
+    "calories_kcal": 682,
+    "protein_g": 24.6,
+    "fat_g": 28.4,
+    "carbs_g": 78.2,
+    "sodium_mg": 1420,
+    "is_estimate": true,
+    "disclaimer": "按配料用量与常见食材成分表推算，酱料含盐量因品牌差异较大，钠含量可能浮动 30%。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "猪肉末须炒到完全变色、中心温度 71 摄氏度以上。",
+    "炸酱含盐量高，冷藏保存时表面须有油封，出现酸味或霉点即丢弃。",
+    "面条含小麦与麸质，麸质过敏者不可食用。"
+  ],
+  "origin_note": "炸酱面是北京家庭常见的面食，以黄酱炒肉丁浇面、配时令面码为特征。关于其源流有源自清代北京街头面摊的说法，具体年代难以确证，此处仅作地域饮食背景说明。",
+  "tags": [
+    "京菜",
+    "面食",
+    "家常菜",
+    "酱香",
+    "快手菜"
+  ],
+  "related_ids": [
+    "jingjiang-rousi",
+    "guobao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

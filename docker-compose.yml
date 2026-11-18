@@ -1,0 +1,31 @@
+services:
+  caipu:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: caipu:local
+    container_name: caipu
+    ports:
+      - "3000:3000"   # 网站
+      - "4000:4000"   # REST API（App/小程序直连）
+    environment:
+      NODE_ENV: production
+      PORT: "4000"
+      WEB_PORT: "3000"
+      HOST_BIND: "0.0.0.0"
+      CAIPU_DB_PATH: /app/data/db/caipu.sqlite
+      API_BASE_URL: http://127.0.0.1:4000
+      SEED_IF_EMPTY: "1"   # 首次启动自动建库并导入 data/recipes
+    volumes:
+      - caipu-db:/app/data/db
+      - ./data/recipes:/app/data/recipes:ro   # 新增菜谱后重启即可重新导入
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:4000/api/v1/meta').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  caipu-db:

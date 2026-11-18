@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "nongjia-xiaochaorou",
+  "name": {
+    "zh": "农家小炒肉",
+    "en": "Hunan Stir-Fried Pork with Chilies",
+    "original": "農家小炒肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "savory",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 300,
+          "unit": "g",
+          "note": "切 2 毫米薄片，肥瘦分开",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 150,
+          "unit": "g",
+          "note": "切 2 毫米薄片，逆纹切",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "尖椒",
+          "name_en": "green chili",
+          "amount": 200,
+          "unit": "g",
+          "note": "斜切成 3 厘米段，怕辣可去籽",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 15,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 10,
+          "unit": "g",
+          "note": "略剁碎更出味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "豆豉与酱油有咸味，盐只在炒辣椒时用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌里脊与调味各一半",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 3,
+          "unit": "ml",
+          "note": "只为上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "腌里脊去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "note": "提鲜解辣",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "五花肉会出油，用油量不宜多",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "菜刀",
+    "砧板",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊片加生抽 7 毫升、料酒 10 毫升抓匀腌 10 分钟；五花肉片肥瘦分开摆好备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "里脊先腌才有底味，五花肉不腌，靠煸出的油和豆豉提香。",
+      "visual_cue": "里脊片表面发黏、调料被吸收，盆底没有多余液体。"
+    },
+    {
+      "n": 2,
+      "text": "炒锅烧到微微冒烟，下五花肉的肥肉部分，中小火煸 3 分钟至出油、边缘卷曲成灯盏窝。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "冷锅下肥肉慢慢升温，油才能煸透；锅太热会立刻把表面封住，油出不来。",
+      "visual_cue": "肥肉片卷成小碗状、边缘微焦，锅底积起一层清亮的猪油。"
+    },
+    {
+      "n": 3,
+      "text": "下瘦五花肉与腌好的里脊，转中大火翻炒 2 分钟至肉片变色，盛出备用，锅中留 15 毫升菜籽油。",
+      "time_min": 2,
+      "heat": "中大火",
+      "tip": "肉片先炒到七成熟盛出，回锅时才不会老，这是湘菜小炒的通用手法。",
+      "visual_cue": "肉片由粉红转浅褐、表面微微收紧，锅底油色清亮不发浑。"
+    },
+    {
+      "n": 4,
+      "text": "下尖椒段与盐 2 克，中大火干煸 2 分钟至表皮起虎皮斑，再下蒜片、姜丝、小米辣与豆豉炒 30 秒。",
+      "time_min": 2,
+      "heat": "中大火",
+      "tip": "辣椒先用盐煸出虎皮，辣味会变得圆润，直接和肉一起炒只会生辣。",
+      "visual_cue": "尖椒表皮出现白色虎皮斑、体积变软，闻到明显的焦香辣气。"
+    },
+    {
+      "n": 5,
+      "text": "倒回肉片，加生抽 8 毫升、老抽 3 毫升、白糖 2 克，转大火快速翻炒 1 分钟让酱汁裹匀。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "最后一步全程大火，锅气足肉才香；超过 2 分钟肉片就会出水变柴。",
+      "visual_cue": "肉片裹上红亮酱色、锅底几乎不见汤汁，翻炒时能听到油爆声。"
+    },
+    {
+      "n": 6,
+      "text": "关火装盘，趁热吃，配一碗白饭最下口，汤汁拌饭是本地人的吃法。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "这道菜讲究现炒现吃，放置 10 分钟后油脂凝固、香气散掉大半。",
+      "visual_cue": "成品油亮红润、辣椒翠中带焦斑，尝一口咸辣鲜香、肥肉不腻。"
+    }
+  ],
+  "tips": [
+    "五花肉选带皮的，皮在煸制时会变得弹韧，口感层次更丰富。",
+    "豆豉是湘菜小炒的隐藏关键，浏阳豆豉香气最正，用前略剁碎更容易出味。",
+    "想更辣可以把尖椒换成螺丝椒，辣度提升但香气也更足。"
+  ],
+  "common_mistakes": [
+    "所有肉片一起下锅猛炒，肥肉没煸出油、瘦肉已经变柴，口感两极分化。",
+    "辣椒和肉同时下锅，辣椒还没断生肉就炒老了，成品水汽重、没有锅气。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪肩肉",
+      "ratio": "300 克五花肉换 300 克猪肩肉",
+      "note": "猪肩肉脂肪少，需补 10 毫升油同炒，成品更清爽。"
+    },
+    {
+      "original": "尖椒",
+      "substitute": "青椒",
+      "ratio": "200 克尖椒换 200 克青椒",
+      "note": "青椒辣度低、肉质厚，煸制时间延长 1 分钟，适合孩子吃。"
+    },
+    {
+      "original": "豆豉",
+      "substitute": "豆瓣酱",
+      "ratio": "10 克豆豉换 12 克郫县豆瓣酱",
+      "note": "豆瓣酱更咸更红，盐减半，生抽减到 10 毫升。"
+    }
+  ],
+  "variations": [
+    "湘西版：加入 30 克腊肉同炒，先用温水泡 10 分钟去咸，风味更浓。",
+    "少油版：五花肉改用空气炸锅 200 度烤 8 分钟逼油，再切段回锅，用油量减到 10 毫升。"
+  ],
+  "serving_suggestion": "一人份约 150 克，配一碗白饭和一份清炒时蔬；湖南本地吃法会连汤汁一起浇在饭上。",
+  "storage": "冷藏可存 2 天，复热用炒锅大火快炒 1 分钟；微波加热会让辣椒发软出水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150 克成品）",
+    "calories_kcal": 428,
+    "protein_g": 22.6,
+    "fat_g": 33.4,
+    "carbs_g": 8.8,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "五花肉肥瘦比差异很大，实际脂肪含量可能上下浮动三成。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "猪肉片需炒至完全变色、中心不见粉红，中心温度达到 71 摄氏度。",
+    "干煸辣椒时油温较高，辣椒段带水下锅会剧烈爆油，下锅前擦干水分。"
+  ],
+  "origin_note": "小炒肉是湖南农家菜的招牌，讲究用本地螺丝椒与带皮五花肉，大火快炒出锅气。湖南人把这种炒法叫小炒，区别于需要勾芡和慢烧的大菜，核心是猛火、短时、重辣。",
+  "tags": [
+    "湘菜",
+    "家常菜",
+    "下饭菜",
+    "小炒",
+    "辣"
+  ],
+  "related_ids": [
+    "lajiao-chaorou",
+    "huiguo-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

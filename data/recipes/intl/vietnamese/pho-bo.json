@@ -1,0 +1,301 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "pho-bo",
+  "name": {
+    "zh": "越南牛肉河粉",
+    "en": "Vietnamese Beef Pho",
+    "original": "Phở bò"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "vietnamese"
+  },
+  "category": [
+    "staple-noodle",
+    "soup"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 180,
+    "total_min": 205
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "herbal",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 800,
+          "unit": "g",
+          "note": "整块焯水后小火慢炖，炖好切片",
+          "optional": false
+        },
+        {
+          "name": "河粉",
+          "name_en": "flat rice noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "干河粉提前用温水泡 30 分钟至软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 300,
+          "unit": "g",
+          "note": "两个整颗，对半切后干锅烙香",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 60,
+          "unit": "g",
+          "note": "整块拍裂，干锅烙到表皮焦黑",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 4,
+          "unit": "piece",
+          "note": "与桂皮一起干锅焙香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "约 8 厘米长的一段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段，梗留用",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "焯水 30 秒",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "切角，上桌现挤",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 15,
+          "unit": "g",
+          "note": "九层塔或泰国罗勒，最后放入碗中",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 45,
+          "unit": "ml",
+          "note": "分两次加，先 30 毫升后尝味补",
+          "optional": false,
+          "substitute": "生抽 40 毫升加 5 克糖"
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "让汤底圆润",
+          "optional": false,
+          "substitute": "白糖 15 克"
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "焯水与调味各半",
+          "optional": false,
+          "substitute": "海盐 5 克"
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大汤锅",
+    "平底锅",
+    "漏勺",
+    "菜刀",
+    "砧板",
+    "纱布袋"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩整块冷水下锅，加盐 2 克煮开撇净浮沫，煮 5 分钟后捞出用温水冲洗干净。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "整块焯水比切块好，表面遇热收紧后能锁住内部汁水，炖出的汤更清。",
+      "visual_cue": "浮沫结块浮起并被撇净，牛腩表面由红转灰白、没有血污。"
+    },
+    {
+      "n": 2,
+      "text": "洋葱对半切、姜拍裂，平底锅不放油中火烙 6 分钟，烙到洋葱切面焦黑、姜皮起泡。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "这一步是越南河粉汤底的灵魂，焦化的洋葱与姜带来甜香和深色，绝不能省。",
+      "visual_cue": "洋葱切面呈深褐色近乎焦黑、姜表皮起皱发黑，闻到明显的焦甜香。"
+    },
+    {
+      "n": 3,
+      "text": "八角与桂皮用干锅中火焙 1 分钟至出香，装进纱布袋扎紧，与洋葱、姜、牛腩一起放入汤锅。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "香料必须焙过才出味，直接下汤只有生木味；装袋方便最后捞出。",
+      "visual_cue": "八角颜色由褐转深、桂皮边缘微卷，闻到浓郁香气。"
+    },
+    {
+      "n": 4,
+      "text": "加 3 升清水大火煮开，转最小火保持汤面微微冒泡，炖 2.5 小时，中途撇两次浮油。",
+      "time_min": 150,
+      "heat": "小火",
+      "tip": "全程不能大滚，滚沸会让脂肪乳化、汤变浑浊，越南河粉讲究清汤。",
+      "visual_cue": "汤色由清转浅琥珀、表面浮起少量清亮油花，牛腩用筷子能戳透。"
+    },
+    {
+      "n": 5,
+      "text": "捞出牛腩放凉后逆纹切 3 毫米薄片；汤中加鱼露 30 毫升、冰糖 20 克、盐 3 克，小火再煮 10 分钟，捞出香料袋。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "鱼露最后加，久煮会失去鲜味只剩咸；冰糖让汤的咸鲜更柔。",
+      "visual_cue": "汤色清亮见底、呈浅琥珀色，尝起来咸鲜回甘、有八角与桂皮的尾香。"
+    },
+    {
+      "n": 6,
+      "text": "另起锅烧水，河粉按包装时间煮 1 分钟至软，捞出分装四碗，铺上牛腩片、焯过的豆芽与葱花。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "河粉要单独煮，直接下汤锅会把汤弄浑，粉浆也会让汤变稠。",
+      "visual_cue": "河粉由半透明转为乳白、柔软可绕筷不断。"
+    },
+    {
+      "n": 7,
+      "text": "按骨缝切片后，把滚沸的汤从高处冲入碗中烫熟表面，配香菜、罗勒、青柠角与剩余鱼露上桌，吃前挤青柠、放罗勒。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "汤必须滚沸冲入，靠汤温把薄肉片和香草烫出香气，这也是河粉上桌时最香的一刻。",
+      "visual_cue": "汤面冒出大量热气、罗勒遇热立刻塌软并释放香气，汤色清而不浑。"
+    }
+  ],
+  "tips": [
+    "想更接近河内风味，可加 200 克牛骨同炖，汤的胶质与层次会明显提升。",
+    "牛腩炖好后冷藏一夜再切片，肉质紧实切得薄，口感更好。",
+    "鱼露品牌咸度差异极大，务必分次加并在最后 10 分钟调定。"
+  ],
+  "common_mistakes": [
+    "香料不焙直接下锅，汤里只有药味没有香气，喝起来像中药。",
+    "全程大火滚煮，汤色浑浊发白，表面浮一层厚油，完全失去清汤的卖相。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "800 克牛腩换 800 克牛腱",
+      "note": "牛腱筋膜多、口感更弹，炖制时间延长 30 分钟。"
+    },
+    {
+      "original": "河粉",
+      "substitute": "米粉",
+      "ratio": "400 克河粉换 400 克细米粉",
+      "note": "细米粉更易熟，泡 20 分钟、煮 30 秒即可。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "生抽",
+      "ratio": "45 毫升鱼露换 40 毫升生抽",
+      "note": "生抽缺鱼露的发酵鲜，需补 5 克糖与 2 克盐。"
+    }
+  ],
+  "variations": [
+    "西贡版：牛腩改为生牛肉薄片，靠滚汤烫熟，另配牛百叶与牛丸，配料更丰富。",
+    "鸡河粉：把牛腩换成整鸡炖 1.5 小时，汤更清甜，香料减半。"
+  ],
+  "serving_suggestion": "一人一碗约 450 克，配一碟豆芽、罗勒与青柠；越南本地吃法还会加辣椒酱与海鲜酱调在碟里蘸肉。",
+  "storage": "汤底冷藏 3 天、冷冻 2 个月；河粉与配菜分别冷藏，吃前现煮现冲。",
+  "nutrition_estimate": {
+    "basis": "每份（约 450 克成品）",
+    "calories_kcal": 486,
+    "protein_g": 32.8,
+    "fat_g": 12.4,
+    "carbs_g": 58.6,
+    "sodium_mg": 1420,
+    "is_estimate": true,
+    "disclaimer": "钠主要来自鱼露，减少到 25 毫升可降低约 400 毫克钠，误差约 20%。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "牛腩需炖至中心温度 71 摄氏度以上并保持，切开不见血水。",
+    "若用生牛肉片冲汤的做法，必须选用可生食级别的牛肉，且汤温需保持滚沸冲入。"
+  ],
+  "origin_note": "越南河粉在二十世纪初的越南北部出现，一般认为受到法国炖牛肉与中国米粉的双重影响。河内风格讲究汤清味醇、配料克制，南部西贡风格则配料丰富、汤偏甜。",
+  "tags": [
+    "越南菜",
+    "汤粉",
+    "牛肉",
+    "慢炖"
+  ],
+  "related_ids": [
+    "tom-yum-goong",
+    "dolsot-bibimbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

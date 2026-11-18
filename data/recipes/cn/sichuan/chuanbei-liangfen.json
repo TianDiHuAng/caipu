@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chuanbei-liangfen",
+  "name": {
+    "zh": "川北凉粉",
+    "en": "Sichuan Bean Jelly with Chili Dressing",
+    "original": "川北涼粉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "cold-dish",
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 8,
+    "total_min": 23
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "sour",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "粉皮",
+          "name_en": "mung bean sheet jelly",
+          "amount": 400,
+          "unit": "g",
+          "note": "选豌豆凉粉，质地半透明有弹性，切成 1 厘米见方的条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "捣成泥，加 20 毫升凉开水调成蒜水",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 30,
+          "unit": "g",
+          "note": "干锅炒香后压碎",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 8,
+          "unit": "g",
+          "note": "白芝麻，炒香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "复合酱油的基底",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 20,
+          "unit": "ml",
+          "note": "保宁醋最佳，酸味厚而不尖",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "带辣椒面的红油，连渣一起用",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨，麻味才够冲",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "中和酸辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调底味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "收尾提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "菜刀",
+    "砧板",
+    "小碗",
+    "漏勺",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "粉皮用凉开水冲洗表面，切成 1 厘米见方、8 厘米长的条，放入冰水中浸泡 5 分钟让质地更紧实。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "凉粉怕热，全程用凉开水操作，接触生水容易变质；冰水浸泡能让切面更挺括不易断。",
+      "visual_cue": "凉粉条边缘透明、按压有弹性，捞出后不粘连成团。"
+    },
+    {
+      "n": 2,
+      "text": "小碗调汁：生抽 25 毫升、香醋 20 毫升、白糖 6 克、盐 3 克搅到糖盐完全化开，尝一口应是酸咸平衡。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "糖不必多，作用是让酸和辣靠得更近；醋选保宁醋或镇江香醋，不要用白醋。",
+      "visual_cue": "料汁呈深红褐色、清澈无颗粒，尝起来先酸后鲜。"
+    },
+    {
+      "n": 3,
+      "text": "把凉粉条沥干水分，整齐码在深盘中，先淋料汁，再依次淋蒜水 20 毫升、辣椒油 30 毫升。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "顺序不能乱，料汁打底才能让凉粉内部入味，辣椒油最后淋才能浮在表面不被稀释。",
+      "visual_cue": "凉粉表面挂上一层红亮的油层，盘底积起浅褐色料汁。"
+    },
+    {
+      "n": 4,
+      "text": "撒花椒粉 3 克、小米辣圈、葱花、碎花生与熟芝麻，最后淋香油 8 毫升，上桌后由食客自己拌匀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "花椒粉一定要最后撒，提前拌进料汁里麻味会挥发掉一半。",
+      "visual_cue": "花椒粉在红油表面形成细密的褐色颗粒，闻起来麻香冲鼻，拌开后每根凉粉都裹上红油。"
+    }
+  ],
+  "tips": [
+    "凉粉切条前把刀蘸一下凉开水，切面光滑不粘刀，条也更完整。",
+    "花生现炒现压最香，用料理机打会出油变成花生酱，失去颗粒感。",
+    "喜欢更麻的口感可以加 5 毫升藤椒油，麻感更清冽，与红油的厚重互补。"
+  ],
+  "common_mistakes": [
+    "凉粉提前拌好放着等客人，20 分钟后就会出水变稀，料汁全沉在盘底。",
+    "花椒粉和辣椒油一起提前调好，麻味在半小时内就散尽，只剩辣不见麻。"
+  ],
+  "substitutions": [
+    {
+      "original": "粉皮",
+      "substitute": "红薯凉粉",
+      "ratio": "400 克豌豆凉粉换 400 克红薯凉粉",
+      "note": "红薯凉粉颜色偏褐、口感更糯，切条要粗一点，拌制时间不变。"
+    },
+    {
+      "original": "辣椒油",
+      "substitute": "老干妈辣酱",
+      "ratio": "30 毫升辣椒油换 35 克辣酱",
+      "note": "辣酱含盐，生抽减到 15 毫升，糖减到 3 克。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "陈醋",
+      "ratio": "20 毫升香醋换 20 毫升陈醋",
+      "note": "陈醋颜色深、酸味更冲，可补 3 克糖平衡。"
+    }
+  ],
+  "variations": [
+    "川北原味版：不加花生与芝麻，只用红油、蒜水与花椒粉，麻辣更纯粹。",
+    "麻酱版：加 30 克芝麻酱用温水澥开同拌，口感更浓稠，适合不吃太辣的人。"
+  ],
+  "serving_suggestion": "一人份约 150 克，作为夏季凉菜或小吃单独上桌；配一碗冰镇绿豆汤解辣，也可作为火锅的前菜。",
+  "storage": "凉粉冷藏可存 2 天，但拌好的成品需当餐吃完；料汁可冷藏 5 天，随用随取。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150 克成品）",
+    "calories_kcal": 226,
+    "protein_g": 4.2,
+    "fat_g": 13.6,
+    "carbs_g": 22.8,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "辣椒油用量因人而异，减少至 15 毫升可降低约 130 千卡。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "凉粉为淀粉制品，室温放置超过 4 小时易滋生细菌，需冷藏保存。",
+    "花生为常见过敏原，制作前需确认就餐者无花生过敏，可单独盛放。"
+  ],
+  "origin_note": "川北凉粉源自四川南充一带，用豌豆淀粉熬制成半透明的凉粉，切条后浇上红油、蒜水与保宁醋。当地人把它当作消暑小吃，街头摊子往往只卖这一样，讲究红油要香、醋要醇、花椒要现磨。",
+  "tags": [
+    "川菜",
+    "凉菜",
+    "小吃",
+    "夏季菜",
+    "素食"
+  ],
+  "related_ids": [
+    "mapo-doufu",
+    "lazi-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

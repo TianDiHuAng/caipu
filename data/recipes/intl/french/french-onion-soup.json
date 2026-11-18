@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-onion-soup",
+  "name": {
+    "zh": "法式洋葱汤",
+    "en": "French Onion Soup",
+    "original": "Soupe à l'oignon"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 60,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "umami",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 1000,
+          "unit": "g",
+          "note": "切 3 毫米薄丝，黄洋葱甜度最高",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "分两次用，炒洋葱 30 克、刷面包 10 克",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 4,
+          "unit": "slice",
+          "note": "切 2 厘米厚的法棍片，隔夜的最好",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 120,
+          "unit": "g",
+          "note": "格鲁耶尔奶酪擦丝，也可用马苏里拉混合",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切半，用来擦面包片",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "note": "新鲜或干品均可，用纱布包成香草包",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分次加，洋葱炒制过程中逐次调整",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "帮助洋葱焦糖化",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 60,
+          "unit": "ml",
+          "note": "刮锅底焦化物用",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "牛肉高汤最佳，素食者可用蔬菜高汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底汤锅",
+    "烤箱",
+    "耐高温汤碗",
+    "菜刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱去皮切 3 毫米薄丝，1000 克洋葱约需 8 个中等大小的黄洋葱，切好后堆在锅里压实。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "切得越薄焦糖化越快，但薄过 2 毫米容易在长时炒制中化成泥。",
+      "visual_cue": "洋葱丝粗细均匀、堆在锅里有明显体积感，切面渗出的汁水清亮。"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅小火化开黄油 30 克，倒入洋葱丝加盐 4 克，翻拌均匀后加盖焖 10 分钟让洋葱出水。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "先加盖出水能让洋葱在自身汁水里软化，缩短后面炒制时间。",
+      "visual_cue": "洋葱体积缩到原来的三分之二、锅底出现浅黄色液体，洋葱丝变软。"
+    },
+    {
+      "n": 3,
+      "text": "开盖转中火，持续翻炒 40 分钟，每 5 分钟刮一次锅底，中途加白糖 5 克与盐 2 克。",
+      "time_min": 40,
+      "heat": "中火",
+      "tip": "这是整道菜最关键的 40 分钟，火太大糖会烧焦发苦，火太小上色太慢，中火并保持翻动最稳。",
+      "visual_cue": "洋葱由白转金黄再转深琥珀色，体积缩到原来的四分之一，锅底出现棕色焦化物。"
+    },
+    {
+      "n": 4,
+      "text": "倒入白葡萄酒 60 毫升，用木勺刮起锅底所有棕色焦化物，煮 2 分钟至酒气挥发。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "这些棕色焦化物就是全部风味的来源，一定要刮干净，别浪费。",
+      "visual_cue": "锅底恢复干净、液体变成深褐色，闻到明显的酒香与焦糖香。"
+    },
+    {
+      "n": 5,
+      "text": "加高汤 1200 毫升与百里香香草包，煮开后转小火炖 20 分钟，加盐 2 克与黑胡椒 2 克调味。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "炖的时间不必太长，洋葱味已经全部释出，久煮只会让汤变咸。",
+      "visual_cue": "汤色深琥珀、表面浮少量油花，尝起来先是洋葱的甜、后有高汤的咸鲜。"
+    },
+    {
+      "n": 6,
+      "text": "面包片用蒜瓣擦一遍表面，抹上剩余黄油 10 克，180 度烤 5 分钟至微脆；汤盛入耐高温碗，盖面包片，铺满奶酪丝。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "面包要烤到干硬，否则浸在汤里会立刻塌成一团。",
+      "visual_cue": "面包片边缘金黄、按压有脆响，奶酪丝铺满碗口不留空隙。"
+    },
+    {
+      "n": 7,
+      "text": "烤箱上火 220 度烤 8 分钟，直到奶酪融化起泡并出现褐色斑点，取出静置 2 分钟再上桌。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "烤的时候把碗放在烤盘上接溢出的汤汁，奶酪沸腾后极易溢出。",
+      "visual_cue": "奶酪表面鼓起大泡、局部呈焦褐色，用勺子能拉出连续不断的丝。"
+    }
+  ],
+  "tips": [
+    "洋葱必须用黄洋葱，紫洋葱辛辣、白洋葱水分多，都做不出足够的甜味。",
+    "炒洋葱时锅底出现焦黑点要立刻降火并加 20 毫升水刮开，苦味一旦产生无法去除。",
+    "汤可以提前一天做好冷藏，第二天再烤奶酪，风味反而更融合。"
+  ],
+  "common_mistakes": [
+    "为了省时间用大火 15 分钟炒洋葱，表面焦黑里面还是白的，汤只有苦味没有甜味。",
+    "奶酪用低脂马苏里拉且烤得不够，出锅后不拉丝也不起泡，失去这道菜的灵魂。"
+  ],
+  "substitutions": [
+    {
+      "original": "高汤",
+      "substitute": "蔬菜高汤",
+      "ratio": "1200 毫升牛肉高汤换 1200 毫升蔬菜高汤",
+      "note": "蔬菜高汤更清淡，需补 10 克生抽或 5 克干香菇粉提鲜，成品为素食。"
+    },
+    {
+      "original": "奶酪",
+      "substitute": "马苏里拉",
+      "ratio": "120 克格鲁耶尔换 120 克马苏里拉",
+      "note": "马苏里拉风味温和、拉丝更好，但缺一点坚果香。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "苹果醋",
+      "ratio": "60 毫升白葡萄酒换 30 毫升苹果醋加 30 毫升水",
+      "note": "酸度接近，但少了酒香，可补 2 克糖平衡。"
+    }
+  ],
+  "variations": [
+    "里昂传统版：用鸡高汤代替牛高汤，汤色更浅，出锅前加一勺干邑提香。",
+    "简易版：洋葱用高压锅加 20 毫升水压 20 分钟再开盖炒 10 分钟，总时长缩短到 35 分钟。"
+  ],
+  "serving_suggestion": "一人一碗约 350 克，配一份绿叶沙拉解腻；作为前菜时四碗正好，作为主餐可配半份烤鸡。",
+  "storage": "汤底冷藏 4 天、冷冻 2 个月；加了面包与奶酪的成品不建议保存，需现做现吃。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350 克成品，含面包与奶酪）",
+    "calories_kcal": 386,
+    "protein_g": 14.2,
+    "fat_g": 22.4,
+    "carbs_g": 32.6,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "钠含量主要取决于所用高汤，自制无盐高汤可减少一半，误差约 25%。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "耐高温汤碗需确认可进烤箱，普通瓷碗在 220 度下可能炸裂。",
+    "取出烤碗时戴厚手套，碗体温度极高，放置时垫木板而非玻璃或石材台面。"
+  ],
+  "origin_note": "法式洋葱汤在法国是工人阶层的日常食物，洋葱便宜耐放，长时间炒制后自然带甜。加上面包与奶酪烤制上色的做法在巴黎的餐馆里流行开来，成为经典的法式前菜之一。",
+  "tags": [
+    "法国菜",
+    "汤",
+    "烤箱菜",
+    "前菜"
+  ],
+  "related_ids": [
+    "dongguo-paigu-tang",
+    "shizitou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

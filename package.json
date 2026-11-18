@@ -1,0 +1,42 @@
+{
+  "name": "caipu",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "中外菜谱全栈项目：数据层 + REST API + Next.js 网站，API 优先供 App/小程序复用",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev:api": "npm run dev -w @caipu/api",
+    "dev:web": "npm run dev -w @caipu/web",
+    "build:web": "npm run build -w @caipu/web",
+    "start:api": "npm run start -w @caipu/api",
+    "start:web": "node scripts/start-web.mjs",
+    "db:init": "tsx packages/db/src/init.ts",
+    "db:reset": "tsx packages/db/src/init.ts --reset",
+    "import": "tsx scripts/import.ts",
+    "validate": "node scripts/validate.mjs",
+    "progress": "node scripts/gen-progress.mjs && node scripts/sync-tasks.mjs",
+    "test": "node --import tsx --test --test-reporter=spec \"tests/*.test.mjs\"",
+    "test:data": "node --test tests/data.test.mjs",
+    "test:api": "node --import tsx --test tests/api.test.mjs",
+    "check": "node scripts/validate.mjs && npm test"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "@fastify/cors": "^10.1.0",
+    "better-sqlite3": "^11.10.0",
+    "drizzle-orm": "^0.36.4",
+    "fastify": "^5.12.8",
+    "pinyin-pro": "^3.29.5"
+  }
+}

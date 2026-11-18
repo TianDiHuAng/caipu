@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sikai-kaofu",
+  "name": {
+    "zh": "四喜烤麸",
+    "en": "Braised Wheat Gluten with Mushrooms and Daylily",
+    "original": "四喜烤麸"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 30,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "烤麸",
+          "name_en": "wheat gluten puff",
+          "amount": 400,
+          "unit": "g",
+          "note": "选干烤麸，泡发后挤干水分撕成 3 厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "干香菇温水泡发，泡菇水留用",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡发后撕小朵",
+          "optional": false
+        },
+        {
+          "name": "黄花菜",
+          "name_en": "dried daylily",
+          "amount": 30,
+          "unit": "g",
+          "note": "泡发后掐去硬梗",
+          "optional": false
+        },
+        {
+          "name": "花生米",
+          "name_en": "peanut",
+          "amount": 50,
+          "unit": "g",
+          "note": "生花生提前泡 2 小时",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "提供咸鲜",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "上海风味偏甜，可按口味减 5 克",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "出锅前淋入",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "炸烤麸用，实耗约 40 毫升",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "最后调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "厨房纸",
+    "深碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干烤麸用温水泡 40 分钟至完全软化，反复挤压换水三次去掉酸味，撕成不规则小块后用力挤干，越干越吸味。",
+      "time_min": 45,
+      "heat": "无火",
+      "tip": "烤麸内部蜂窝多，必须挤到捏不出水，否则下锅炸时爆油且不入味。",
+      "visual_cue": "烤麸由硬挺转为柔软海绵状、捏后不回弹，挤出的水基本清亮。"
+    },
+    {
+      "n": 2,
+      "text": "锅中放 120 毫升菜籽油烧到六成热，下烤麸块中火炸 5 分钟至外壳金黄硬挺，捞出沥油并用厨房纸吸去表面浮油。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "炸到外壳定型即可，炸过头内部干硬，烧后回不了软。",
+      "visual_cue": "烤麸表面金黄起壳、敲之有声，体积略缩小。"
+    },
+    {
+      "n": 3,
+      "text": "锅中留 15 毫升底油，下冰糖小火炒化成浅琥珀色，倒入香菇、木耳、黄花菜与花生米翻炒 1 分钟，加 35 毫升生抽与 300 毫升泡菇水烧开。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "泡菇水沉淀后取上层使用，底部细沙弃去，这是鲜味来源。",
+      "visual_cue": "汤汁呈浅酱色、香菇与木耳吸汁变软。"
+    },
+    {
+      "n": 4,
+      "text": "放入炸好的烤麸，中小火焖 15 分钟至汤汁收至一半，加 3 克盐调味，转大火收汁 3 分钟，淋 10 毫升香油出锅。",
+      "time_min": 20,
+      "heat": "中小火",
+      "tip": "收汁到烤麸表面油亮、盘底只剩薄薄一层汁为准，过干会发柴。",
+      "visual_cue": "成品酱红油亮、按压有弹性，盘底无流动汤汁。"
+    }
+  ],
+  "tips": [
+    "烤麸必须挤干再炸，含水的烤麸炸后会软塌、烧制时吸不进酱汁。",
+    "四喜指香菇、木耳、黄花菜、花生四样配菜，缺一味风味就不完整。"
+  ],
+  "common_mistakes": [
+    "烤麸泡发后不换水，成品带明显酸味。",
+    "全程大火烧，烤麸外层散开、内部仍硬，口感不一致。"
+  ],
+  "substitutions": [
+    {
+      "original": "烤麸",
+      "substitute": "油面筋",
+      "ratio": "1:0.8",
+      "note": "油面筋更吸汁，炸制时间缩短到 2 分钟，成品更软。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "1:1",
+      "note": "白糖上色快，炒糖时间缩短 20 秒。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：烤麸不炸，改为平底锅少油煎至表面结壳，用油量减少 60 毫升。",
+    "本帮甜口版：冰糖增至 45 克并加 10 毫升老抽，颜色更深、甜味更重。"
+  ],
+  "serving_suggestion": "4 人份冷热皆宜，作冷盘时冷藏 2 小时后风味更融合；配粥或米饭均可。",
+  "storage": "冷藏密封 4 天，风味随时间加深；不建议冷冻，解冻后烤麸易碎。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150 克成品）",
+    "calories_kcal": 328,
+    "protein_g": 14.2,
+    "fat_g": 18.6,
+    "carbs_g": 28.4,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料用量与常见食材成分表推算，烤麸吸油量与挤水程度相关，热量可能浮动 20%。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "烤麸为小麦面筋制品，含麸质，乳糜泻患者禁食。",
+    "干香菇与木耳需用冷水或温水泡发，泡发超过 4 小时应冷藏，出现黏液即丢弃。",
+    "炸制用油温度控制在 170 摄氏度左右，油色发暗后不再复用。"
+  ],
+  "origin_note": "四喜烤麸是上海本帮菜中的经典冷盘，以烤麸配香菇、木耳、黄花菜、花生四样，取「四喜」的吉意。其做法在上海、江浙一带的家常菜中广泛流传，具体源流不作确切考证。",
+  "tags": [
+    "沪菜",
+    "本帮菜",
+    "素菜",
+    "冷盘",
+    "甜咸口"
+  ],
+  "related_ids": [
+    "yandu-xian",
+    "dongpo-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

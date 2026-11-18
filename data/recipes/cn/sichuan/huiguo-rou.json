@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huiguo-rou",
+  "name": {
+    "zh": "回锅肉",
+    "en": "Twice-cooked Pork",
+    "original": "回鍋肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 350,
+          "unit": "g",
+          "note": "选带皮坐臀肉或五花，整块煮后再切，厚约 2 毫米",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprouts",
+          "amount": 120,
+          "unit": "g",
+          "note": "斜切成 4 厘米长段，蒜白与蒜叶分开备用",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片，煮肉时放入水中去腥",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段，与姜片同煮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "郫县豆瓣",
+          "name_en": "Pixian doubanjiang",
+          "amount": 25,
+          "unit": "g",
+          "note": "剁细，小火炒出红油是这道菜的灵魂",
+          "optional": false
+        },
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 10,
+          "unit": "g",
+          "note": "略剁碎，与豆瓣同炒增加发酵香",
+          "optional": false
+        },
+        {
+          "name": "酱油",
+          "name_en": "light soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "起锅前补味，豆瓣本身很咸不宜多放",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "少量平衡豆瓣的咸辣，尝不出甜味为宜",
+          "optional": false
+        },
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "润锅用，肉片自身会出油，不必多放",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "煮肉水中使用，参考量 2 克",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "煮锅",
+    "砧板",
+    "菜刀",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块冷水下锅，加姜片、大葱段与 2 克盐，大火烧开后转中火煮 18 分钟，煮到筷子能轻松插透肉皮但肉不散。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "煮到七成熟即可，全熟会让后续煸炒时肉片散碎；关火后在汤里泡 5 分钟更嫩。",
+      "visual_cue": "肉块表面由粉红变白、皮呈半透明，筷子插入皮面几乎无阻力，中心略带一点粉。"
+    },
+    {
+      "n": 2,
+      "text": "煮好的肉捞出晾到不烫手，切成 2 毫米厚的薄片，切时皮朝下压稳，每片都要带皮带肥带瘦。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉要晾凉再切，热的时候切极易碎；厚度控制在 2 毫米，太厚不易出灯盏窝。",
+      "visual_cue": "肉片边缘平齐、肥瘦分层清晰，对着光能看到皮与肥肉半透明的质感。"
+    },
+    {
+      "n": 3,
+      "text": "蒜苗斜切成段，蒜白与蒜叶分开放；郫县豆瓣剁细，豆豉略剁碎，两者混合备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蒜白先下锅、蒜叶最后放，成熟度不同，一起下锅会导致蒜叶发黄。",
+      "visual_cue": "蒜白切口呈椭圆形、质地硬挺，蒜叶颜色深绿有光泽，豆瓣呈暗红细腻的酱状。"
+    },
+    {
+      "n": 4,
+      "text": "锅中下 20 毫升菜籽油滑锅，倒出多余的油，下肉片摊平，中小火慢煸 4 分钟至肉片卷曲成灯盏窝、边缘微焦。",
+      "time_min": 5,
+      "heat": "中小火",
+      "tip": "煸肉时用锅铲轻压肉片，逼出多余油脂；卷成灯盏窝状才算到位。",
+      "visual_cue": "肉片边缘卷起成小碗状、肥肉部分变透明，锅底积起一层红亮猪油。"
+    },
+    {
+      "n": 5,
+      "text": "把肉片拨到锅边，用锅中的油小火炒豆瓣与豆豉 60 秒至出红油、酱香浓郁，再与肉片翻炒均匀。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "豆瓣一定要用小火慢炒，火大瞬间焦糊发苦，红油也出不来。",
+      "visual_cue": "豆瓣由暗红转为油亮的红褐色，锅中油色变成橘红，闻到发酵豆香混着辣香。"
+    },
+    {
+      "n": 6,
+      "text": "下蒜白段大火翻炒 30 秒，淋入 8 毫升酱油与 4 克白糖炒匀，最后下蒜叶翻两下断生即关火。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "蒜叶只需断生，炒久会发黄出水；糖只作平衡，不能吃出甜味。",
+      "visual_cue": "蒜白转成半透明、边缘微微卷曲，蒜叶颜色由深绿转为翠绿发亮，锅中无多余汤汁。"
+    }
+  ],
+  "tips": [
+    "肉片切得薄且均匀是成败关键，可把煮好的肉冷藏 30 分钟再切，硬度刚好。",
+    "郫县豆瓣本身极咸，酱油只在尝过味道后决定是否补，宁少勿多。"
+  ],
+  "common_mistakes": [
+    "肉片切得太厚或带水汽下锅，煸不出灯盏窝，成品油腻且不成形。",
+    "豆瓣与肉片同时下锅大火爆炒，豆瓣焦糊发苦，整盘菜带明显糊味。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "二刀肉（坐臀肉）",
+      "ratio": "1:1 等量替换",
+      "note": "二刀肉肥瘦更分明、更易卷成灯盏窝，是传统做法首选。"
+    },
+    {
+      "original": "蒜苗",
+      "substitute": "青蒜或洋葱",
+      "ratio": "120 克蒜苗换 100 克青蒜",
+      "note": "青蒜辛香更冲、用量略减；洋葱则甜味更重，需减糖到 2 克。"
+    }
+  ],
+  "variations": [
+    "家庭简化版：用现成的回锅肉酱代替豆瓣与豆豉，省略第 5 步的炒酱，总时间缩短 5 分钟。",
+    "连锅汤式：煮肉的汤加白萝卜再煮 20 分钟，成为一菜一汤的组合。"
+  ],
+  "serving_suggestion": "刚出锅时最香，配白米饭食用，一人份约 120 克肉片；因咸辣较重，建议同时上一碗清汤或凉拌黄瓜。",
+  "storage": "冷藏可存 2 天，复热用炒锅干煸 1 分钟即可恢复香气；蒜苗复热后会发黄，建议复热前挑出、重新加新鲜蒜苗。",
+  "nutrition_estimate": {
+    "basis": "每份（约 160 克成品）",
+    "calories_kcal": 512,
+    "protein_g": 17.8,
+    "fat_g": 45.6,
+    "carbs_g": 9.2,
+    "sodium_mg": 968,
+    "is_estimate": true,
+    "disclaimer": "煮肉会溶出部分脂肪，实际热量取决于肉块肥瘦与煸出的油量，浮动约 18%。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "肉片虽经过煮制，仍需在锅中煸炒至完全熟透、中心无粉红，煮肉只是预处理而非杀菌终点。",
+    "含豆瓣的菜品钠含量较高，高血压人群应减少酱油并控制单次食用量。"
+  ],
+  "origin_note": "回锅肉相传源自四川民间的祭祀习俗，用煮过的猪肉再回锅炒制，故称「回锅」。清末《成都通览》中已有类似记载，后来以郫县豆瓣定味，成为川菜家常味之首，被当地人称作「川菜第一菜」。早期具体做法细节说法不一，此处只作文化背景说明。",
+  "tags": [
+    "川菜",
+    "下饭菜",
+    "家常菜",
+    "经典名菜"
+  ],
+  "related_ids": [
+    "lajiao-chaorou",
+    "mapo-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

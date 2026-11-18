@@ -75,3 +75,15 @@
 **决策**：`amount` 允许 `null` 仅当 `unit = "to-taste"`；`to-taste` 限 9 类调味食材白名单。
 **理由**：用户明确点名"适量滥用"是质量问题。白名单是能落地执行的边界，比"建议不要用"有效。
 **影响面**：`scripts/validate.mjs`、`data/ingredients.json`。
+
+## 2026-11-18 构建期不依赖 API（改为运行时渲染）
+
+- 决策：所有取数页面（首页、分类、菜系、搜索、食材、详情、打印）统一 `export const dynamic = 'force-dynamic'`，`app/sitemap.ts` 同样改为动态生成。
+- 原因：`next build` 在静态生成阶段会请求 `http://127.0.0.1:4000`，容器构建期与本地无 API 时必然 `fetch failed`，既污染构建输出，也会把空数据固化进静态页。
+- 代价：放弃 ISR 的全页静态化，改为每次请求 SSR（数据实为本地 SQLite，查询毫秒级）；如需 CDN 静态化，后续可在有 API 的构建环境中改回 ISR。
+- 备注：`ng build` 后 API 不可用时页面仍能返回 200 骨架，不再出现构建失败。
+
+## 2026-11-18 better-sqlite3 与 Node 版本
+
+- 现象：Node 24 下 `ERR_DLOPEN_FAILED`，原生模块未针对该 ABI 编译。
+- 决策：`npm rebuild better-sqlite3` 作为标准修复步骤写入 README / DEPLOY；容器固定 `node:20-bookworm-slim` 并在构建期安装 python3/make/g++ 保证可从源码编译。

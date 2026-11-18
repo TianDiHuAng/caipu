@@ -1,0 +1,49 @@
+﻿appetizer=前菜
+salad=沙拉
+cold-dish=凉菜
+soup=汤羹
+main-meat=主菜·肉
+main-poultry=主菜·禽
+main-seafood=主菜·海鲜
+main-egg=主菜·蛋
+main-tofu=主菜·豆制品
+main-vegetable=主菜·蔬菜
+staple-rice=主食·饭
+staple-noodle=主食·面
+staple-bread=主食·饼
+staple-congee=主食·粥
+snack=小吃
+bakery=烘焙面包
+dessert=甜点
+drink=饮品
+sauce=酱汁与基础调味
+fermented=腌制发酵
+breakfast=早餐
+kids=儿童餐
+banquet=宴客菜
+low-cal=低卡健身餐
+special-diet=特殊饮食
+hotpot-bbq=火锅与烧烤
+---sichuan--
+{
+ "slug": "sichuan",
+ "zh": "川菜",
+ "en": "Sichuan",
+ "region": "cn",
+ "tier": "A",
+ "core": [
+  "main-meat",
+  "main-poultry",
+  "main-tofu",
+  "appetizer",
+  "sauce"
+ ],
+ "unsupported": [
+  "bakery",
+  "staple-congee",
+  "kids",
+  "salad",
+  "breakfast"
+ ],
+ "intro": "以麻辣、鱼香、怪味、糊辣为代表，讲究一菜一格、百菜百味，调味手法在全国菜系中最复杂。"
+}

@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "wiener-schnitzel",
+  "name": {
+    "zh": "维也纳炸猪排",
+    "en": "Wiener Schnitzel",
+    "original": "Wiener Schnitzel"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 400,
+          "unit": "g",
+          "note": "切两块 200 克的厚片，用肉锤敲成 4 毫米薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "普通中筋面粉，过筛",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散成蛋液，过筛去掉系带",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 120,
+          "unit": "g",
+          "note": "选粗颗粒干面包糠，不要用日式细糠",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切角，上桌挤汁",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎撒面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "两面薄撒",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "与植物油混合煎制，纯黄油易焦",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "肉锤",
+    "平底锅",
+    "三个浅盘",
+    "厨房纸",
+    "夹子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊横切成 2 厘米厚片，夹在两层保鲜膜中间，用肉锤从中心向外敲成 4 毫米均匀薄片。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "敲的时候从中心往外推，边缘薄中心厚就会煎得干湿不均；敲太薄容易破。",
+      "visual_cue": "肉片面积约为原来的三倍、厚度均匀透光，边缘没有裂口。"
+    },
+    {
+      "n": 2,
+      "text": "肉片两面撒盐 4 克与黑胡椒 1 克，静置 5 分钟；三个浅盘分别装面粉、蛋液与面包糠。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "调味后静置能让盐渗入，但不要超过 10 分钟，盐会抽出水分让裹粉脱落。",
+      "visual_cue": "肉片表面微微出水、调料附着均匀。"
+    },
+    {
+      "n": 3,
+      "text": "肉片先两面拍上面粉并抖掉多余粉，再浸入蛋液让两面完全湿润，最后按入面包糠，用手掌轻压使糠粘牢。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面包糠一定不要按压过度，压紧了炸出来是硬壳；抖掉多余面粉是防止外壳起泡脱落的关键。",
+      "visual_cue": "外壳均匀覆盖、看不到裸露的肉面，提起时面包糠不掉落。"
+    },
+    {
+      "n": 4,
+      "text": "平底锅中火加热黄油 60 克与 40 毫升植物油，油温升到 170 度时下猪排，边煎边用勺子把热油浇在表面。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "黄油加植物油能提高烟点，纯黄油在 170 度就会焦黑发苦。",
+      "visual_cue": "油面泛起细密泡沫、面包糠边缘迅速转为金黄。"
+    },
+    {
+      "n": 5,
+      "text": "每面煎 90 秒，中途轻轻晃动锅子让油流动，直到两面呈均匀浅金色，取出放厨房纸上吸油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "判断熟度看外壳颜色，浅金色即熟；煎到深褐说明油温过高，里面还没熟。",
+      "visual_cue": "外壳鼓起小泡、呈均匀的浅金色，用夹子按压能感到肉质紧实有弹性。"
+    },
+    {
+      "n": 6,
+      "text": "装盘后撒欧芹碎，配柠檬角与一片柠檬，趁热挤汁食用。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "柠檬汁一定要吃前现挤，早挤会让外壳回软。",
+      "visual_cue": "切开时外壳与肉分离、肉呈乳白色略带粉，挤上柠檬汁后香气明显上扬。"
+    }
+  ],
+  "tips": [
+    "正宗维也纳炸猪排用小牛肉，用猪里脊是更常见的家常版本，成本低且肉质同样嫩。",
+    "面包糠要选粗颗粒的干糠，细糠吸油多、炸出来发硬。",
+    "煎完立刻吃，放置 5 分钟外壳就会因蒸汽回软。"
+  ],
+  "common_mistakes": [
+    "肉片敲得薄厚不均，薄的边缘已经焦黑、厚的中心还是生的。",
+    "裹粉后放置太久才下锅，面粉吸水变糊，炸的时候外壳整片脱落。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡胸肉",
+      "ratio": "400 克猪里脊换 400 克鸡胸肉",
+      "note": "鸡胸肉更瘦，敲成 6 毫米厚，煎制时间各减 20 秒。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "日式面包糠",
+      "ratio": "120 克粗糠换 120 克日式细糠",
+      "note": "细糠炸后更酥但吸油多，油温需提高到 180 度。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "澄清黄油",
+      "ratio": "60 克黄油换 60 克澄清黄油",
+      "note": "澄清黄油烟点高不易焦，可省去植物油，风味更纯。"
+    }
+  ],
+  "variations": [
+    "Jägerschnitzel 猎人版：煎好后浇上用蘑菇、洋葱与淡奶油煮成的酱汁。",
+    "Cordon bleu 蓝带版：两片薄猪排中间夹火腿与奶酪，裹粉后同样煎制，切开有流心。"
+  ],
+  "serving_suggestion": "一人一块约 200 克，传统配菜是欧芹土豆与柠檬角，也可配一份酸黄瓜沙拉解腻。",
+  "storage": "冷藏可存 1 天，复热用烤箱 200 度烤 5 分钟恢复脆度；不建议微波，外壳会完全回软。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200 克成品）",
+    "calories_kcal": 686,
+    "protein_g": 44.2,
+    "fat_g": 42.6,
+    "carbs_g": 32.4,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "煎制用油大部分留在锅中，实际吸油率按 12% 估算，误差约 20%。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉中心温度需达到 63 摄氏度并静置 3 分钟；外壳呈浅金色时内部通常已达 68 摄氏度。",
+    "煎制时油温高，肉片下锅前擦干表面蛋液，避免爆油。"
+  ],
+  "origin_note": "维也纳炸猪排是奥地利与德国南部的经典菜，传统版本用小牛肉，称为 Wiener Schnitzel，用猪肉则叫 Schnitzel Wiener Art。裹粉三重衣后薄煎，追求外壳与肉分离、鼓起的酥松质感。",
+  "tags": [
+    "德国菜",
+    "奥地利菜",
+    "油炸",
+    "肉类主菜"
+  ],
+  "related_ids": [
+    "youmen-daxia",
+    "pho-bo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

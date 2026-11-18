@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-slate-800 antialiased;
+}
+
+a {
+  @apply text-brand-700 hover:underline;
+}
+
+@media print {
+  header nav,
+  .no-print {
+    display: none !important;
+  }
+  body {
+    font-size: 11pt;
+  }
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+}

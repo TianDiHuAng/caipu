@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tacos-de-carne",
+  "name": {
+    "zh": "牛肉塔可",
+    "en": "Beef Tacos",
+    "original": "Tacos de Carne"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "staple-bread",
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "sour",
+    "savory",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 9,
+          "unit": "piece",
+          "note": "直径 15 厘米的软玉米饼，用前干锅烘热",
+          "optional": false
+        },
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 400,
+          "unit": "g",
+          "note": "肥瘦二八，炒时不易发干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "一半切细丁炒肉，一半切丁生吃",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "去籽切小丁，做沙沙酱",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎，梗叶分开",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "榨汁约 30 毫升",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝垫底",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 60,
+          "unit": "g",
+          "note": "擦丝，可选",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "分两次用",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨，风味差别很大",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "选微辣的红椒粉，不是辣椒面",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒肉用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "菜刀",
+    "砧板",
+    "木勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱一半切细丁、一半切粗丁分开放；番茄去籽切丁与粗洋葱丁、香菜叶、青柠汁 15 毫升、盐 1 克拌成沙沙酱。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "番茄一定要去籽，籽和汁水会让沙沙酱出水变稀，包进饼里漏一手。",
+      "visual_cue": "沙沙酱颜色红白绿相间、拌好后碗底几乎没有积汁。"
+    },
+    {
+      "n": 2,
+      "text": "平底锅中火烧热橄榄油 15 毫升，下细洋葱丁与蒜末炒 2 分钟至洋葱透明。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "洋葱要炒到透明才甜，火大只会把边缘炒焦而中心还是生的。",
+      "visual_cue": "洋葱丁由白转透明、边缘微微泛黄，闻到蒜香。"
+    },
+    {
+      "n": 3,
+      "text": "下牛肉末转大火炒 4 分钟，用木勺不断压散，炒到颗粒分明、表面出现褐色焦斑。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "牛肉末要压散而不是翻炒，结块的肉末内部炒不到，吃起来发腥。",
+      "visual_cue": "肉末颗粒分明、颜色深褐、锅底积起一层油脂，闻起来有焦香。"
+    },
+    {
+      "n": 4,
+      "text": "加孜然 4 克、辣椒粉 6 克、盐 3 克、黑胡椒 1 克翻炒 30 秒至香料出香，加 30 毫升清水焖 2 分钟收干。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料最后加并快速翻炒，久炒会发苦；加少量水能让香料味均匀渗进肉里。",
+      "visual_cue": "肉末表面裹上红褐色香料层、锅底无游离水分，香气明显。"
+    },
+    {
+      "n": 5,
+      "text": "干锅小火把玉米饼两面各烘 20 秒，烘到柔软有弹性并出现浅褐色斑点，用干净毛巾包住保温。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "玉米饼必须烘热才柔韧，冷的饼一折就裂；烘过头会变脆碎掉。",
+      "visual_cue": "饼身变软可自由弯折不裂，表面有零星焦斑、闻到玉米香。"
+    },
+    {
+      "n": 6,
+      "text": "每张饼依次放生菜丝、牛肉末、沙沙酱、粗洋葱丁、香菜梗碎与奶酪丝，挤上剩余青柠汁，对折即可食用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "馅料只放饼的中线，占面积的三分之一，太多会包不住。",
+      "visual_cue": "饼能轻松对折不断裂，咬下去先脆后嫩、汁水刚好不滴落。"
+    }
+  ],
+  "tips": [
+    "玉米饼买回来先冷藏保存，用前回温再烘，比室温放置的更不易碎。",
+    "沙沙酱现拌现吃，放置超过 1 小时番茄会出水，可把汁水滤掉再用。",
+    "想更接近街头风味，可在牛肉末里加 30 克切碎的牛油果或菠萝丁。"
+  ],
+  "common_mistakes": [
+    "玉米饼不烘直接包，冷饼一折就从中间裂开，馅料全掉出来。",
+    "牛肉末下锅后不停翻动，肉末被搅成细渣并大量出水，炒不出焦香。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "鸡腿肉",
+      "ratio": "400 克牛肉末换 400 克鸡腿肉丁",
+      "note": "鸡肉切 1 厘米丁，炒制时间缩短到 3 分钟，需补 5 毫升油。"
+    },
+    {
+      "original": "玉米饼",
+      "substitute": "面粉饼",
+      "ratio": "9 张玉米饼换 9 张面粉薄饼",
+      "note": "面粉饼更柔软不易裂，适合新手，风味偏中性。"
+    },
+    {
+      "original": "奶酪",
+      "substitute": "酸奶油",
+      "ratio": "60 克奶酪换 80 克酸奶油",
+      "note": "酸奶油带来清凉酸感，与辣味互补，热量略低。"
+    }
+  ],
+  "variations": [
+    "牧羊人版：用羊肉末代替牛肉，加 5 克干牛至，风味更野。",
+    "脆壳版：把玉米饼 190 度油炸 40 秒定型成 U 形硬壳，填入馅料，口感更接近快餐塔可。"
+  ],
+  "serving_suggestion": "一人 3 个塔可约 300 克，配一碗黑豆汤与冰镇柠檬水；街头吃法会额外配一碟腌辣椒。",
+  "storage": "牛肉馅冷藏可存 2 天，复热用平底锅干炒 2 分钟；玉米饼冷藏 5 天，冷冻可存 2 个月。",
+  "nutrition_estimate": {
+    "basis": "每份（3 个塔可）",
+    "calories_kcal": 528,
+    "protein_g": 32.4,
+    "fat_g": 24.6,
+    "carbs_g": 42.8,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "奶酪与酸奶油用量影响脂肪含量，玉米饼品牌差异导致热量上下浮动约 15%。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "牛肉末需炒至完全失去粉红色、中心温度达到 71 摄氏度，肉末内部最易残留细菌。",
+    "生吃的洋葱、番茄、香菜需用净水冲洗并沥干，与生肉砧板分开处理。"
+  ],
+  "origin_note": "塔可是墨西哥街头最常见的食物，玉米饼卷上肉、洋葱与香菜，挤一点青柠就能吃。北部地区偏爱烤牛肉，南部则多用猪肉。玉米饼在墨西哥有数千年的历史，是当地主食的基础。",
+  "tags": [
+    "墨西哥菜",
+    "街头小吃",
+    "牛肉",
+    "快手菜"
+  ],
+  "related_ids": [
+    "dolsot-bibimbap",
+    "tom-yum-goong"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
