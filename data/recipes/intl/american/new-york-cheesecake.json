@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "new-york-cheesecake",
+  "name": {
+    "zh": "纽约芝士蛋糕",
+    "en": "New York Cheesecake"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 70,
+    "total_min": 100
+  },
+  "servings": 8,
+  "flavor": [
+    "sweet",
+    "sour",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "奶油奶酪",
+          "name_en": "cream cheese",
+          "amount": 500,
+          "unit": "g",
+          "note": "室温软化",
+          "optional": false
+        },
+        {
+          "name": "消化饼干",
+          "name_en": "digestive biscuit",
+          "amount": 150,
+          "unit": "g",
+          "note": "压成碎屑",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 120,
+          "unit": "g",
+          "note": "增酸香",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取皮屑与汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 70,
+          "unit": "g",
+          "note": "融化拌饼底",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 120,
+          "unit": "g",
+          "note": "分次加",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "稳定组织",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "8 寸活底模",
+    "电动打蛋器",
+    "水浴烤盘",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "消化饼干压成细屑，与 70g 融化黄油拌匀，压实在模具底部，冷藏 20 分钟定型。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "用平底杯压紧，饼底才不会散。",
+      "visual_cue": "饼底平整紧实、按压不松动"
+    },
+    {
+      "n": 2,
+      "text": "奶油奶酪切小块室温软化 30 分钟，加 120g 白糖与 2g 盐打至顺滑无颗粒。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "奶酪必须回温，冷的打不散会结块。",
+      "visual_cue": "糊体细腻顺滑、刮刀划过无颗粒"
+    },
+    {
+      "n": 3,
+      "text": "分三次加入 3 个鸡蛋，每次彻底拌匀后再加下一个，避免油水分离。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "一次加一个，慢速搅拌少进气。",
+      "visual_cue": "蛋液完全吸收、糊体光亮"
+    },
+    {
+      "n": 4,
+      "text": "加入 120g 酸奶油、1 个柠檬的皮屑与 15ml 柠檬汁，筛入 15g 玉米淀粉拌匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "柠檬皮只刮黄色层，白色部分发苦。",
+      "visual_cue": "糊体浓稠可挂刮刀、带柠檬清香"
+    },
+    {
+      "n": 5,
+      "text": "模具外包两层锡纸防进水，倒入奶酪糊抹平，放入注有热水的烤盘，150℃ 烤 65 分钟。",
+      "time_min": 70,
+      "heat": "小火",
+      "tip": "水浴能让温度缓和，避免表面开裂。",
+      "visual_cue": "边缘定型、中心轻晃有布丁感"
+    },
+    {
+      "n": 6,
+      "text": "关火后留在烤箱中焖 30 分钟，取出放凉再冷藏 6 小时脱模切块。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "缓慢降温是防塌陷的关键。",
+      "visual_cue": "表面平整无裂、切面细腻绵密"
+    }
+  ],
+  "tips": [
+    "所有材料提前回温，温度一致才不容易分离。",
+    "搅拌全程低速，卷入空气会让蛋糕烤后塌陷。",
+    "切块时刀用热水烫过擦干，切面才利落。"
+  ],
+  "common_mistakes": [
+    "奶酪没软化就打，成品里能吃到小颗粒。",
+    "烤箱温度过高，表面先结皮后鼓裂成大缝。",
+    "烤好立刻出炉，温差过大导致中心塌陷回缩。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶油奶酪",
+      "substitute": "马斯卡彭",
+      "ratio": "500g 对 500g",
+      "note": "质地更软，需加 20g 淀粉稳定。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "原味酸奶",
+      "ratio": "120g 对 120g",
+      "note": "需选浓稠型，沥去乳清再用。"
+    }
+  ],
+  "variations": [
+    "经典纽约版：表面不加水，烤到深色顶面，风味更浓。",
+    "莓果版：表面铺 100g 蓝莓同烤，酸甜平衡。"
+  ],
+  "serving_suggestion": "冷藏后切块，配一勺打发奶油与新鲜莓果。",
+  "storage": "冷藏 4 天，冷冻可存 1 个月；冷冻后需冷藏回温再切。",
+  "nutrition_estimate": {
+    "basis": "每份（1/8 块）",
+    "calories_kcal": 520,
+    "protein_g": 9,
+    "fat_g": 36,
+    "carbs_g": 40,
+    "sodium_mg": 380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋与奶酪糊需烤至中心凝固，避免沙门氏菌风险。",
+    "含乳制品，冷藏保存不超过 4 天，出现异味即弃。",
+    "烤箱与水浴盘温度高，取出时戴隔热手套。"
+  ],
+  "origin_note": "纽约芝士蛋糕是美式烘焙的代表，以大量奶油奶酪配酸奶油打成的浓厚糊体，隔水低温慢烤，口感密实绵滑，顶面微酸解腻。",
+  "tags": [
+    "美式",
+    "甜点",
+    "芝士蛋糕",
+    "烘焙"
+  ],
+  "related_ids": [
+    "bruschetta",
+    "butter-chicken",
+    "pomodoro-pasta"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}

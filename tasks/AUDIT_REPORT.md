@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-18T16:29:13.810Z
+- 生成时间：2026-11-18T16:40:30.002Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：31 个，抽样 31 道，平均分 96
+- 覆盖菜系：32 个，抽样 32 道，平均分 95
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -18,39 +18,40 @@
 
 | 菜系 | 菜谱 id | 得分 | 等级 | 扣分项 |
 | --- | --- | --- | --- | --- |
+| american | new-york-cheesecake | 93 | A | 准确性 18/25 |
 | american-south | bbq-pork-ribs | 93 | A | 准确性 18/25 |
-| anhui | huotui-shao-sun | 100 | A | 无 |
+| anhui | yipin-guo | 93 | A | 准确性 18/25 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
-| cantonese | zicai-danhua-tang | 100 | A | 无 |
-| chaoshan | chaoshan-shaguozhou | 87 | B | 准确性 18/25；安全性 14/20 |
-| dongbei | dongbei-dalapi | 100 | A | 无 |
+| cantonese | mizhi-chashao | 93 | A | 准确性 18/25 |
+| chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
+| dongbei | dongbei-luandun | 93 | A | 准确性 18/25 |
 | french | french-onion-soup | 87 | B | 准确性 18/25；安全性 14/20 |
-| fujian | xianggu-rougeng | 93 | A | 准确性 18/25 |
+| fujian | baizhuo-xiaoguan | 93 | A | 准确性 18/25 |
 | german | wiener-schnitzel | 100 | A | 无 |
 | hakka | kejia-chao-mifen | 93 | A | 准确性 18/25 |
 | halal-cn | shuipen-yangrou | 93 | A | 准确性 18/25 |
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
-| hunan | dongan-ziji | 100 | A | 无 |
+| hunan | ganguo-huacai | 100 | A | 无 |
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
-| italian | pomodoro-pasta | 100 | A | 无 |
+| italian | bruschetta | 93 | A | 准确性 18/25 |
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
 | jiangsu | shuijing-yaorou | 100 | A | 无 |
-| korean | dolsot-bibimbap | 93 | A | 准确性 18/25 |
+| korean | kimchi-jjigae | 100 | A | 无 |
 | mexican | tacos-de-carne | 100 | A | 无 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |
-| shandong | zha-ouhe | 100 | A | 无 |
-| shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
-| sichuan | suancai-yu | 100 | A | 无 |
+| shandong | linyi-chaoji | 100 | A | 无 |
+| shanghai | yandu-xian | 87 | B | 准确性 18/25；安全性 14/20 |
+| sichuan | yuxiang-rousi | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
-| thai | som-tam | 100 | A | 无 |
+| thai | tom-yum-goong | 94 | A | 安全性 14/20 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | vietnamese | pho-bo | 100 | A | 无 |
-| xibei | yangrou-paomo | 93 | A | 准确性 18/25 |
-| xinjiang | ziran-yangrouchuan | 91 | A | 准确性 18/25；可操作性 28/30 |
-| yunguai | qiguo-ji | 93 | A | 准确性 18/25 |
+| xibei | youpo-mian | 100 | A | 无 |
+| xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
+| yunguai | guoqiao-mixian | 100 | A | 无 |
 | zhejiang | longjing-xiaren | 94 | A | 安全性 14/20 |
 
 ## 结论
 
-- 本批 31 道全部达到 B 级及以上，无需重写。
+- 本批 32 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。

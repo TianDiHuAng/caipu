@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:30:31.288Z",
+  "generatedAt": "2026-11-18T16:40:29.292Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 457,
     "target": 3274,
-    "actual": 155,
-    "coverage": 0.04734270006108735
+    "actual": 161,
+    "coverage": 0.049175320708613315
   },
   "regions": {
     "cn": [
@@ -387,7 +387,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-seafood",
@@ -430,8 +430,10 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "yaxue-fensi-tang"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -578,7 +580,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "soup",
@@ -593,8 +595,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "baizhuo-xiaoguan"
+            ]
           },
           {
             "category": "main-meat",
@@ -656,7 +660,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -696,8 +700,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "lei-lajiao-pidan"
+            ]
           },
           {
             "category": "fermented",
@@ -1775,7 +1781,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "main-seafood",
@@ -1808,8 +1814,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "chawanmushi"
+            ]
           },
           {
             "category": "dessert",
@@ -2029,7 +2037,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "staple-bread",
@@ -2058,8 +2066,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "bruschetta"
+            ]
           },
           {
             "category": "sauce",
@@ -3324,7 +3334,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-meat",
@@ -3344,8 +3354,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "new-york-cheesecake"
+            ]
           },
           {
             "category": "breakfast",

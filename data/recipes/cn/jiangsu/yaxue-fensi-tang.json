@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yaxue-fensi-tang",
+  "name": {
+    "zh": "南京鸭血粉丝汤",
+    "en": "Nanjing Duck Blood and Vermicelli Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 100,
+    "total_min": 120
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸭血",
+          "name_en": "duck blood curd",
+          "amount": 400,
+          "unit": "g",
+          "note": "切 1cm 块",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 200,
+          "unit": "g",
+          "note": "提前泡软",
+          "optional": false
+        },
+        {
+          "name": "鸭腿",
+          "name_en": "duck leg",
+          "amount": 600,
+          "unit": "g",
+          "note": "或鸭架 800g 同用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸭胗",
+          "name_en": "duck gizzard",
+          "amount": 150,
+          "unit": "g",
+          "note": "卤熟切片",
+          "optional": false
+        },
+        {
+          "name": "豆腐皮",
+          "name_en": "tofu skin",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥提香",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "按口味加",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "焯水",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "收尾",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "砂锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸭腿下冷水锅加 20ml 料酒焯 5 分钟，冲净后加姜片葱段与 2000ml 清水小火熬 90 分钟。",
+      "time_min": 100,
+      "heat": "小火",
+      "tip": "汤熬到发白，整碗汤的底味才立得住。",
+      "visual_cue": "汤色乳白、表面浮一层薄油"
+    },
+    {
+      "n": 2,
+      "text": "鸭血切 1cm 见方的块，放入沸水中汆 2 分钟定型，捞出泡在冷水里。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "汆过的鸭血不腥且久煮不碎。",
+      "visual_cue": "鸭血表面变深、切口平滑"
+    },
+    {
+      "n": 3,
+      "text": "粉丝用温水泡 20 分钟至变软，剪成 15cm 长段，方便入口。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡软即可，久泡会烂。",
+      "visual_cue": "粉丝能轻松弯折、手感柔软"
+    },
+    {
+      "n": 4,
+      "text": "豆腐皮切细丝，用开水烫 30 秒去豆腥，捞出沥干。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "烫过的豆腐皮不易发黏。",
+      "visual_cue": "豆腐皮丝柔韧、颜色转浅"
+    },
+    {
+      "n": 5,
+      "text": "高汤过滤后加 8g 盐与 3g 白胡椒调味，下鸭血与鸭胗片小火煮 5 分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "鸭血要煮透，中心颜色一致才算熟。",
+      "visual_cue": "鸭血块浮起、汤面香气浓郁"
+    },
+    {
+      "n": 6,
+      "text": "另起锅把粉丝与豆腐皮丝烫熟捞入碗中，浇上滚汤与配料，淋 10ml 香油、20ml 辣椒油，撒香菜末。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "汤要滚烫浇下去，粉丝才吸味。",
+      "visual_cue": "碗中汤色乳白、红油浮面"
+    }
+  ],
+  "tips": [
+    "汤底是灵魂，有时间就多熬半小时，味道差别明显。",
+    "鸭血汆水后泡冷水，能保持嫩滑不散。",
+    "白胡椒要现磨，香气比瓶装粉强很多。"
+  ],
+  "common_mistakes": [
+    "鸭血直接下汤煮，血水混进汤里发腥发浑。",
+    "粉丝用开水久泡，最后软烂糊成一团。",
+    "汤里过早加辣椒油，久煮后辣味发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸭血",
+      "substitute": "猪血",
+      "ratio": "400g 对 400g",
+      "note": "口感略粗，汆水时间缩短 1 分钟。"
+    },
+    {
+      "original": "鸭胗",
+      "substitute": "鸭肝",
+      "ratio": "150g 对 130g",
+      "note": "鸭肝易老，最后 1 分钟下锅即可。"
+    }
+  ],
+  "variations": [
+    "清汤版：不加辣椒油，只用白胡椒提味，更适合老人。",
+    "全家福版：加 100g 鸭胗片与 80g 油豆腐，料更足。"
+  ],
+  "serving_suggestion": "一碗汤配一笼汤包，就是南京人的早点标配。",
+  "storage": "汤与配料分开冷藏可存 2 天，复热时粉丝另烫避免糊汤。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 锅）",
+    "calories_kcal": 380,
+    "protein_g": 26,
+    "fat_g": 14,
+    "carbs_g": 38,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸭血必须彻底煮熟，中心不透红后再食用。",
+    "鸭胗等内脏需充分加热，避免寄生虫与细菌风险。",
+    "汤品含盐较高，高血压人群应减少调味用量。"
+  ],
+  "origin_note": "鸭血粉丝汤是南京街头的招牌小吃，以鸭腿熬出乳白汤底，配嫩鸭血、弹粉丝与卤鸭胗，一勺辣油下去，鲜香直冲鼻尖。",
+  "tags": [
+    "苏菜",
+    "南京",
+    "小吃",
+    "汤品"
+  ],
+  "related_ids": [
+    "lurou-fan",
+    "yangchun-mian",
+    "dandan-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-18",
+  "updated_at": "2026-11-18"
+}
