@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-19T06:24:03.744Z
+> 生成时间：2026-11-19T06:41:48.770Z
 
-**总览**：工程任务 49/53；菜谱内容 233/3274（7.1%），共 470 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 239/3274（7.3%），共 471 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -388,7 +388,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（44/1935）
+### 外国菜系（50/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，6/107</summary>
 
@@ -463,17 +463,18 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>西班牙菜 spanish</b> — A 级，0/107</summary>
+<details><summary><b>西班牙菜 spanish</b> — A 级，3/107</summary>
 
-- [ ] `P4-spanish/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 0
+- [ ] `P4-spanish/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 1
 - [ ] `P4-spanish/appetizer` 前菜（Appetizer）目标 15，已完成 0
-- [ ] `P4-spanish/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 0
+- [ ] `P4-spanish/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 1
 - [ ] `P4-spanish/dessert` 甜点（Dessert）目标 15，已完成 0
 - [ ] `P4-spanish/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 0
 - [ ] `P4-spanish/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-spanish/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-spanish/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-spanish/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
+- [x] `P4-spanish/soup` 汤羹（Soup）目标 0，已完成 1
 
 </details>
 
@@ -745,12 +746,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>墨西哥菜 mexican</b> — A 级，2/107</summary>
+<details><summary><b>墨西哥菜 mexican</b> — A 级，5/107</summary>
 
 - [ ] `P4-mexican/snack` 小吃（Street Food）目标 15，已完成 1
-- [ ] `P4-mexican/main-meat` 主菜·肉（Meat Main）目标 15，已完成 0
-- [ ] `P4-mexican/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 0
-- [ ] `P4-mexican/soup` 汤羹（Soup）目标 15，已完成 0
+- [ ] `P4-mexican/main-meat` 主菜·肉（Meat Main）目标 15，已完成 1
+- [ ] `P4-mexican/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 1
+- [ ] `P4-mexican/soup` 汤羹（Soup）目标 15，已完成 1
 - [ ] `P4-mexican/drink` 饮品（Drink）目标 15，已完成 0
 - [ ] `P4-mexican/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-mexican/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0

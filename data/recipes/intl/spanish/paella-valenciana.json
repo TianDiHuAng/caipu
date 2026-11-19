@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "paella-valenciana",
+  "name": {
+    "zh": "西班牙海鲜饭",
+    "en": "Paella Valenciana"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 50,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 320,
+          "unit": "g",
+          "note": "短粒米，免洗",
+          "optional": false
+        },
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 200,
+          "unit": "g",
+          "note": "带壳留头",
+          "optional": false
+        },
+        {
+          "name": "青口",
+          "name_en": "mussel",
+          "amount": 200,
+          "unit": "g",
+          "note": "刷净外壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "擦成泥",
+          "optional": false
+        },
+        {
+          "name": "红椒",
+          "name_en": "red bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 80,
+          "unit": "g",
+          "note": "鲜或速冻",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 900,
+          "unit": "ml",
+          "note": "加热后使用",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 60,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 0.5,
+          "unit": "g",
+          "note": "用高汤泡开",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "煎香用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色提香",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "双耳平底锅",
+    "木铲",
+    "厨房布",
+    "小锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾去壳留头，青口刷净外壳，洋葱与大蒜切末，番茄擦成泥备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "番茄擦泥比切块更容易熬进米里。",
+      "visual_cue": "料头齐备、番茄成泥"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒橄榄油中火烧热，下虾与青口煎至变色卷曲，先盛出。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "海鲜只煎定型，后面还会回锅。",
+      "visual_cue": "虾身变红、青口开口"
+    },
+    {
+      "n": 3,
+      "text": "原锅下洋葱末与蒜末炒香，加红椒丁与番茄泥炒五分钟至汤汁发暗。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄泥要炒到发暗，甜味才出来。",
+      "visual_cue": "锅底泛红、水分基本收干"
+    },
+    {
+      "n": 4,
+      "text": "下大米与红椒粉翻炒两分钟，让每一粒米都裹上油与料汁。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "米炒过才粒粒分明不粘连。",
+      "visual_cue": "米粒油亮、颗颗分开"
+    },
+    {
+      "n": 5,
+      "text": "淋白葡萄酒煮至酒气散尽，加盐，倒入泡了藏红花的热高汤与香叶煮开。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "高汤要热，冷水会让米粒夹生。",
+      "visual_cue": "汤汁沸腾、颜色金黄"
+    },
+    {
+      "n": 6,
+      "text": "转小火煮十八分钟，中途不要搅动，让米在锅底结出薄薄焦层。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "不搅动才有锅巴，这是灵魂。",
+      "visual_cue": "汤汁基本被米粒吸收"
+    },
+    {
+      "n": 7,
+      "text": "摆回虾与青口，撒豌豆与黑胡椒再焖八分钟，关火盖布静置五分钟。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "静置让余温把米芯焖透。",
+      "visual_cue": "米粒饱满、青口全部张口"
+    }
+  ],
+  "tips": [
+    "高汤必须提前加热，冷汤下锅会让米粒夹生。",
+    "下米后不要搅动，锅底那层焦香锅巴是精髓。",
+    "关火后盖布静置五分钟，米芯才彻底焖透。"
+  ],
+  "common_mistakes": [
+    "用冷水或凉高汤一次倒入，米粒外层糊化、里面发硬。",
+    "中途不停搅动，米饭变成一锅稠粥。",
+    "藏红花直接撒干粉下锅，颜色和香气都出不来。"
+  ],
+  "substitutions": [
+    {
+      "original": "藏红花",
+      "substitute": "姜黄粉",
+      "ratio": "0.5g 对 2g",
+      "note": "颜色接近，香气差一截。"
+    },
+    {
+      "original": "青口",
+      "substitute": "蛤蜊",
+      "ratio": "200g 对 250g",
+      "note": "鲜味相近，需提前吐沙。"
+    }
+  ],
+  "variations": [
+    "瓦伦西亚农家版：加 150g 鸡腿肉与 80g 四季豆，不放海鲜。",
+    "墨鱼汁版：高汤里加 10g 墨鱼汁，做成黑米饭。"
+  ],
+  "serving_suggestion": "连锅端上桌，配柠檬角挤汁，用木勺从锅边往中间分盛。",
+  "storage": "现做现吃最好，冷藏可存 1 天，复热需加盖小火蒸透。",
+  "nutrition_estimate": {
+    "basis": "每份（约 400g）",
+    "calories_kcal": 620,
+    "protein_g": 30,
+    "fat_g": 18,
+    "carbs_g": 82,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "mollusk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "青口须全部张口，闭壳的说明已死，不可食用。",
+    "虾与贝类均为常见过敏原，过敏人群禁食。",
+    "双耳锅离火后锅体仍烫，端锅须戴厚手套。"
+  ],
+  "origin_note": "海鲜饭源自瓦伦西亚的稻田边，农人用双耳浅锅把米、藏红花与当日海鲜一锅焖熟，锅底那层焦脆的锅巴叫 socarrat，是本地人抢着吃的一角。",
+  "tags": [
+    "西班牙菜",
+    "米饭",
+    "海鲜",
+    "一锅出"
+  ],
+  "related_ids": [
+    "meatloaf",
+    "caesar-salad",
+    "pomodoro-pasta"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

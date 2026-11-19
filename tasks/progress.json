@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:24:03.682Z",
+  "generatedAt": "2026-11-19T06:41:48.710Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 470,
+    "cells": 471,
     "target": 3274,
-    "actual": 233,
-    "coverage": 0.07116676847892486
+    "actual": 239,
+    "coverage": 0.07299938912645082
   },
   "regions": {
     "cn": [
@@ -2363,14 +2363,16 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 0,
+        "actual": 3,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "gambas-al-ajillo"
+            ]
           },
           {
             "category": "appetizer",
@@ -2383,8 +2385,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "paella-valenciana"
+            ]
           },
           {
             "category": "dessert",
@@ -2427,6 +2431,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "gazpacho"
+            ]
           }
         ]
       },
@@ -3788,7 +3801,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 2,
+        "actual": 5,
         "cells": [
           {
             "category": "snack",
@@ -3803,22 +3816,28 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "carnitas"
+            ]
           },
           {
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "guacamole"
+            ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tortilla-soup"
+            ]
           },
           {
             "category": "drink",

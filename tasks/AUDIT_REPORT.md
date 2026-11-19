@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T06:24:04.394Z
+- 生成时间：2026-11-19T06:41:49.381Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：32 个，抽样 34 道，平均分 97
+- 覆盖菜系：33 个，抽样 35 道，平均分 96
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -38,22 +38,23 @@
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
 | jiangsu | yangzhou-chaofan | 100 | A | 无 |
 | korean | dolsot-bibimbap | 93 | A | 准确性 18/25 |
-| mexican | tacos-de-carne | 100 | A | 无 |
+| mexican | tortilla-soup | 94 | A | 安全性 14/20 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |
 | shandong | tangcu-liyu | 100 | A | 无 |
 | shanghai | youbao-xia | 100 | A | 无 |
 | sichuan | sichuan-hongyou-lazi | 93 | A | 准确性 18/25 |
 | sichuan | dandan-mian | 100 | A | 无 |
+| spanish | paella-valenciana | 94 | A | 安全性 14/20 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
-| thai | som-tam | 100 | A | 无 |
+| thai | tom-yum-goong | 94 | A | 安全性 14/20 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | vietnamese | pho-bo | 100 | A | 无 |
 | xibei | shaanxi-saozi-mian | 93 | A | 准确性 18/25 |
-| xinjiang | naobao-rou | 100 | A | 无 |
-| yunguai | guoqiao-mixian | 100 | A | 无 |
-| zhejiang | xihu-niurougeng | 100 | A | 无 |
+| xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
+| yunguai | xiaoguo-mixian | 100 | A | 无 |
+| zhejiang | guihua-nuomiyu | 93 | A | 准确性 18/25 |
 
 ## 结论
 
-- 本批 34 道全部达到 B 级及以上，无需重写。
+- 本批 35 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。
