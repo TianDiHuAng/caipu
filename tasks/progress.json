@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:37:39.181Z",
+  "generatedAt": "2026-11-19T05:02:34.798Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 462,
+    "cells": 461,
     "target": 3274,
-    "actual": 199,
-    "coverage": 0.06078191814294441
+    "actual": 189,
+    "coverage": 0.057727550397067805
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 32,
+        "actual": 31,
         "cells": [
           {
             "category": "main-meat",
@@ -62,11 +62,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 2,
             "ids": [
               "fuqi-feipian",
-              "liangban-fuzhu",
-              "suanni-bairou"
+              "liangban-fuzhu"
             ]
           },
           {
@@ -289,7 +288,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 22,
+        "actual": 20,
         "cells": [
           {
             "category": "main-seafood",
@@ -348,10 +347,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 1,
             "ids": [
-              "jiang-zhuang-nai",
-              "jiangzhuangnai"
+              "jiang-zhuang-nai"
             ]
           },
           {
@@ -398,15 +396,6 @@
             ]
           },
           {
-            "category": "drink",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "jiangzhuangnai"
-            ]
-          },
-          {
             "category": "snack",
             "kind": "extra",
             "target": 0,
@@ -423,7 +412,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 16,
+        "actual": 15,
         "cells": [
           {
             "category": "main-seafood",
@@ -476,10 +465,8 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
-            "ids": [
-              "youmen-sun"
-            ]
+            "actual": 0,
+            "ids": []
           },
           {
             "category": "main-tofu",
@@ -640,7 +627,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 5,
         "cells": [
           {
             "category": "soup",
@@ -664,10 +651,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 2,
             "ids": [
               "lizhi-rou",
-              "lizhirou",
               "zui-paigu"
             ]
           },
@@ -723,16 +709,15 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 15,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 6,
             "ids": [
               "lajiao-chaorou",
-              "lawei-hezheng",
               "lawi-hezheng",
               "maoshi-hongshaorou",
               "nongjia-xiaochaorou",
@@ -1084,7 +1069,7 @@
         "en": "Northeastern",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 9,
         "cells": [
           {
             "category": "main-vegetable",
@@ -1097,11 +1082,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 3,
             "ids": [
               "dongbei-luandun",
               "guobao-rou",
-              "guobaorou",
               "suancai-bairou"
             ]
           },
@@ -1858,7 +1842,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 5,
         "cells": [
           {
             "category": "main-seafood",
@@ -1882,9 +1866,8 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 1,
             "ids": [
-              "miso-shiru",
               "miso-soup"
             ]
           },
@@ -2039,7 +2022,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 4,
         "cells": [
           {
             "category": "main-poultry",
@@ -2054,9 +2037,8 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 1,
             "ids": [
-              "dongyingong",
               "tom-yum-goong"
             ]
           },
@@ -2073,9 +2055,8 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 1,
             "ids": [
-              "dongyingong",
               "tom-yum-goong"
             ]
           },
