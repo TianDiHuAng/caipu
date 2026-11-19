@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "bulgogi",
+  "name": {
+    "zh": "韩式烤牛肉",
+    "en": "Bulgogi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 268,
+    "cook_min": 16,
+    "total_min": 284
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛里脊",
+          "name_en": "beef tenderloin",
+          "amount": 500,
+          "unit": "g",
+          "note": "逆纹切薄片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 150,
+          "unit": "g",
+          "note": "磨泥嫩肉",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "斜切",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 200,
+          "unit": "g",
+          "note": "洗净沥干，包肉用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 50,
+          "unit": "ml",
+          "note": "腌料主体",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "出锅撒",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "保鲜盒",
+    "平底锅",
+    "磨泥器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛里脊逆纹切成 0.3cm 薄片，用厨房纸吸去血水，冷藏备用。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "逆纹切才不塞牙，片要薄而匀。",
+      "visual_cue": "肉片透光、纹理被切断"
+    },
+    {
+      "n": 2,
+      "text": "梨去皮磨成泥，与 50ml 酱油、25g 白糖、蒜末、黑胡椒混成腌料。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "梨的酶能软化肉质，别省。",
+      "visual_cue": "腌料呈浅褐色、有果香"
+    },
+    {
+      "n": 3,
+      "text": "肉片与洋葱丝倒入腌料抓匀，冷藏腌制 4 小时，中途翻动两次。",
+      "time_min": 245,
+      "heat": "无火",
+      "tip": "腌足四小时，味道才能进到肉里。",
+      "visual_cue": "肉片吸饱汁液、颜色转深"
+    },
+    {
+      "n": 4,
+      "text": "平底锅大火烧热，抖去多余腌汁后把肉片单层铺入锅中。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "一次别铺太多，否则变成水煮。",
+      "visual_cue": "肉片边缘迅速变色、滋滋作响"
+    },
+    {
+      "n": 5,
+      "text": "煎 1 分钟翻面，加洋葱丝与 15ml 香油大火翻炒 2 分钟。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "保持大火快炒，肉才嫩。",
+      "visual_cue": "肉片焦边、洋葱微软"
+    },
+    {
+      "n": 6,
+      "text": "撒大葱与 5g 白芝麻翻匀立刻出锅，趁热用生菜包食。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "久炒会出水，肉质变老。",
+      "visual_cue": "肉片油亮、香气四溢"
+    }
+  ],
+  "tips": [
+    "梨泥比糖更嫩肉，成品带自然果甜。",
+    "腌汁要抖掉再下锅，否则容易糊锅。",
+    "全程大火，锅温足才能炒出焦香。"
+  ],
+  "common_mistakes": [
+    "顺着纹理切片，嚼起来又韧又塞牙，完全咬不动。",
+    "小火慢炒，肉片出水变成炖牛肉。",
+    "腌料太咸又加盐，整盘咸得无法入口。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛里脊",
+      "substitute": "猪梅花肉",
+      "ratio": "500g 对 500g",
+      "note": "更油润，腌 3 小时即可。"
+    },
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "150g 对 150g",
+      "note": "甜度更高，白糖减 5g。"
+    }
+  ],
+  "variations": [
+    "芝士版：炒好后撒 60g 芝士焗至融化。",
+    "粉丝版：加泡软的粉丝同炒吸汁。"
+  ],
+  "serving_suggestion": "配生菜、蒜片与包饭酱，卷起来一口吃下。",
+  "storage": "冷藏 2 天，复热用大火快炒 1 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/3 份）",
+    "calories_kcal": 420,
+    "protein_g": 36,
+    "fat_g": 22,
+    "carbs_g": 18,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉需炒至完全变色熟透，避免半生。",
+    "腌肉冷藏进行，室温放置不超过 1 小时。",
+    "芝麻属常见过敏原，过敏者请去除。"
+  ],
+  "origin_note": "韩式烤牛肉源自朝鲜半岛的宫廷料理，用梨泥与酱油腌肉，靠果酶让牛肉软嫩，再大火快炒出焦香，如今是韩国家家户户的待客菜。",
+  "tags": [
+    "韩国菜",
+    "牛肉",
+    "烤肉",
+    "腌制"
+  ],
+  "related_ids": [
+    "kimchi",
+    "dolsot-bibimbap",
+    "dwaeji-gukbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

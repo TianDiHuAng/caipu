@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "matcha-pudding",
+  "name": {
+    "zh": "抹茶奶冻",
+    "en": "Matcha Pudding"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 266,
+    "cook_min": 14,
+    "total_min": 280
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "bitter",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 350,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 120,
+          "unit": "ml",
+          "note": "脂肪 35%",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "抹茶粉",
+          "name_en": "matcha powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 55,
+          "unit": "g",
+          "note": "按口味增减",
+          "optional": false
+        },
+        {
+          "name": "吉利丁",
+          "name_en": "gelatin",
+          "amount": 7,
+          "unit": "g",
+          "note": "冰水泡软",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅",
+    "细筛",
+    "布丁模"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "明胶 7g 放入冰水中浸泡 5 分钟至完全软化，捞出轻轻挤干水分备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "用冰水泡，明胶才不流失。",
+      "visual_cue": "明胶片柔软可折叠"
+    },
+    {
+      "n": 2,
+      "text": "抹茶粉 10g 过细筛，与 55g 白糖拌匀后分次加 50ml 温牛奶调成无颗粒茶浆。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "先拌糖再冲奶，抹茶才不结块。",
+      "visual_cue": "茶浆顺滑、颜色均匀无干粉"
+    },
+    {
+      "n": 3,
+      "text": "剩余牛奶与淡奶油入锅，小火加热到 70℃ 微冒热气即离火。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "煮沸会产生奶皮，影响口感。",
+      "visual_cue": "锅边冒起细小气泡、奶液微烫"
+    },
+    {
+      "n": 4,
+      "text": "把热奶液分三次倒入茶浆中搅匀，再加入软化明胶搅至完全融化。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "先少量兑温再回锅，避免结疙瘩。",
+      "visual_cue": "液体顺滑、明胶无颗粒"
+    },
+    {
+      "n": 5,
+      "text": "用细筛过滤两遍去除泡沫与茶渣，分装进模具至八分满。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "过滤两遍口感才细腻。",
+      "visual_cue": "液面平静、几乎看不到气泡"
+    },
+    {
+      "n": 6,
+      "text": "冷藏 4 小时至完全凝固，取出用温水烫模 5 秒倒扣脱模。",
+      "time_min": 243,
+      "heat": "无火",
+      "tip": "轻晃不流动才算凝固好。",
+      "visual_cue": "奶冻完整脱出、表面光滑"
+    }
+  ],
+  "tips": [
+    "抹茶粉务必过筛，否则成品带颗粒。",
+    "加热奶液不要沸腾，否则奶皮影响口感。",
+    "明胶按液体总量的 1.1% 添加最稳妥。"
+  ],
+  "common_mistakes": [
+    "抹茶直接倒入热奶，结成一块块茶疙瘩。",
+    "明胶撒进锅里没完全融化，底部结一层胶皮。",
+    "冷藏时间不够就脱模，奶冻塌成一摊。"
+  ],
+  "substitutions": [
+    {
+      "original": "淡奶油",
+      "substitute": "椰浆",
+      "ratio": "120ml 对 120ml",
+      "note": "椰香版需多加 1g 明胶。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "蜂蜜",
+      "ratio": "55g 对 45g",
+      "note": "甜味更柔，抹茶苦味更突出。"
+    }
+  ],
+  "variations": [
+    "红豆版：模具底部先铺一层蜜红豆。",
+    "双层版：下层原味奶冻凝固后再倒抹茶层。"
+  ],
+  "serving_suggestion": "冷藏后直接食用，配一小杯煎茶解甜。",
+  "storage": "密封冷藏 3 天，不建议冷冻以免出水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 125g）",
+    "calories_kcal": 290,
+    "protein_g": 5,
+    "fat_g": 19,
+    "carbs_g": 24,
+    "sodium_mg": 60,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品，乳糖不耐者请少量食用。",
+    "抹茶含咖啡因，儿童与睡前不宜多食。"
+  ],
+  "origin_note": "抹茶奶冻是日本和果子与西式奶冻结合的做法，用石磨抹茶的清苦压住奶油的甜腻，入口先苦后甜，是茶席上常见的冰点。",
+  "tags": [
+    "日本菜",
+    "甜点",
+    "抹茶",
+    "冷藏"
+  ],
+  "related_ids": [
+    "panna-cotta",
+    "dorayaki",
+    "mitarashi-dango"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

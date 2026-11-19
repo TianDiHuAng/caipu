@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "caprese-salad",
+  "name": {
+    "zh": "卡布里沙拉",
+    "en": "Caprese Salad"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "appetizer",
+    "cold-dish"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 26,
+    "cook_min": 0,
+    "total_min": 26
+  },
+  "servings": 2,
+  "flavor": [
+    "light",
+    "tangy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "熟透的大番茄",
+          "optional": false
+        },
+        {
+          "name": "马苏里拉",
+          "name_en": "mozzarella",
+          "amount": 200,
+          "unit": "g",
+          "note": "新鲜水牛芝士",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 12,
+          "unit": "g",
+          "note": "新鲜叶片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "初榨",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "粗盐",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "菜刀",
+    "盘子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄洗净去蒂，切成 0.8cm 厚的圆片，切好摊在厨房纸上吸去表面汁水。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "吸干汁水，摆盘才不会稀。",
+      "visual_cue": "番茄片表面干爽、形状完整"
+    },
+    {
+      "n": 2,
+      "text": "马苏里拉芝士沥干盐水，同样切成 0.8cm 厚的圆片备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "芝士回温十分钟风味更足。",
+      "visual_cue": "芝士片柔软、边缘不散"
+    },
+    {
+      "n": 3,
+      "text": "番茄片与芝士片交替叠放成扇形，摆盘时略微错开角度更立体。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "厚薄一致，摆出来才整齐。",
+      "visual_cue": "红白相间、层次分明"
+    },
+    {
+      "n": 4,
+      "text": "罗勒叶撕成小片撒在表面，避免用刀切以免氧化发黑。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "手撕出的断面不易变黑。",
+      "visual_cue": "罗勒香气明显、叶片翠绿"
+    },
+    {
+      "n": 5,
+      "text": "淋 25ml 橄榄油，撒 3g 盐与 1g 黑胡椒，静置 5 分钟入味后食用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "盐最后撒，早了会把番茄腌出水。",
+      "visual_cue": "表面油光清亮、香气上冲"
+    }
+  ],
+  "tips": [
+    "番茄与芝士一定要常温，冷藏过的风味变淡。",
+    "橄榄油选初榨，香气是这道菜的一半。",
+    "海盐颗粒比细盐更适合，口感有层次。"
+  ],
+  "common_mistakes": [
+    "番茄切好不吸汁，摆盘后盘底一汪水。",
+    "用陈年干酪代替新鲜芝士，口感完全不对。",
+    "提前很久加盐，番茄出水塌成一片。"
+  ],
+  "substitutions": [
+    {
+      "original": "马苏里拉芝士",
+      "substitute": "布拉塔芝士",
+      "ratio": "200g 对 250g",
+      "note": "更柔软，需整只摆盘。"
+    },
+    {
+      "original": "罗勒",
+      "substitute": "薄荷",
+      "ratio": "12g 对 10g",
+      "note": "香气更凉，用量略减。"
+    }
+  ],
+  "variations": [
+    "克里斯蒂娜版：番茄先用沸水去皮，口感更细。",
+    "烤面包版：配 4 片法棍做成开放三明治。"
+  ],
+  "serving_suggestion": "作为开胃前菜，配法棍与一杯干白最合适。",
+  "storage": "现做现吃，冷藏不超过 12 小时，回温后再食用。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 300,
+    "protein_g": 15,
+    "fat_g": 24,
+    "carbs_g": 9,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品，乳糖不耐者建议少量食用。",
+    "生食菜品须洗净番茄与罗勒，避免农残与微生物。"
+  ],
+  "origin_note": "卡布里沙拉源自意大利卡普里岛，用番茄、马苏里拉与罗勒凑成意大利国旗的三色，只靠橄榄油和盐调味，看似简单却极考验原料新鲜度。",
+  "tags": [
+    "意大利菜",
+    "沙拉",
+    "番茄",
+    "芝士"
+  ],
+  "related_ids": [
+    "pesto",
+    "bruschetta",
+    "caesar-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

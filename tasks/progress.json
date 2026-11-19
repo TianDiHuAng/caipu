@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:37:25.168Z",
+  "generatedAt": "2026-11-19T10:30:36.768Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 485,
+    "cells": 489,
     "target": 3274,
-    "actual": 305,
-    "coverage": 0.09315821624923641
+    "actual": 322,
+    "coverage": 0.09835064141722663
   },
   "regions": {
     "cn": [
@@ -1938,7 +1938,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 10,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
@@ -1983,9 +1983,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "dorayaki"
+              "dorayaki",
+              "matcha-pudding",
+              "mitarashi-dango"
             ]
           },
           {
@@ -2025,6 +2027,15 @@
               "karaage",
               "teriyaki-chicken"
             ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "mitarashi-dango"
+            ]
           }
         ]
       },
@@ -2034,14 +2045,15 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 14,
+        "actual": 17,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "bulgogi",
               "dolsot-bibimbap"
             ]
           },
@@ -2049,9 +2061,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "dwaeji-gukbap"
+              "dwaeji-gukbap",
+              "sundubu-jjigae"
             ]
           },
           {
@@ -2103,8 +2116,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "sundubu-jjigae"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -2257,14 +2272,15 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 13,
         "cells": [
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "ciabatta",
               "focaccia"
             ]
           },
@@ -2281,8 +2297,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "panna-cotta",
               "tiramisu"
             ]
           },
@@ -2290,17 +2307,19 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "bruschetta"
+              "bruschetta",
+              "caprese-salad"
             ]
           },
           {
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "pesto-genovese",
               "pesto"
             ]
           },
@@ -2336,6 +2355,15 @@
             ]
           },
           {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "caprese-salad"
+            ]
+          },
+          {
             "category": "staple-rice",
             "kind": "extra",
             "target": 0,
@@ -2352,7 +2380,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 11,
+        "actual": 15,
         "cells": [
           {
             "category": "main-meat",
@@ -2368,18 +2396,20 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "creme-brulee"
+              "creme-brulee",
+              "tarte-tatin"
             ]
           },
           {
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "sauce-bechamel"
+              "sauce-bechamel",
+              "sauce-hollandaise"
             ]
           },
           {
@@ -2396,8 +2426,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "baguette",
+              "tarte-tatin"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -2869,7 +2902,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 7,
+        "actual": 9,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2943,6 +2976,24 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "raita"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "raita"
+            ]
           },
           {
             "category": "snack",

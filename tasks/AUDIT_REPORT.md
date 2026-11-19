@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T09:38:04.553Z
+- 生成时间：2026-11-19T10:30:30.535Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 42 道，平均分 98
 - 需重写（C/D）：0 道
@@ -35,9 +35,9 @@
 | halal-cn | shuipen-yangrou | 93 | A | 准确性 18/25 |
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | ganguo-huacai | 100 | A | 无 |
-| indian | chana-masala | 100 | A | 无 |
+| indian | kheer | 100 | A | 无 |
 | italian | pomodoro-pasta | 100 | A | 无 |
-| japanese | dorayaki | 100 | A | 无 |
+| japanese | karaage | 100 | A | 无 |
 | jiangsu | yanshui-ya | 100 | A | 无 |
 | korean | gimbap | 93 | A | 准确性 18/25 |
 | mexican | tacos-de-carne | 100 | A | 无 |

@@ -1,0 +1,203 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sauce-hollandaise",
+  "name": {
+    "zh": "荷兰酸奶油酱",
+    "en": "Hollandaise Sauce"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 12,
+    "total_min": 30
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "sour",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg yolk",
+          "amount": 3,
+          "unit": "piece",
+          "note": "常温回温",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 200,
+          "unit": "g",
+          "note": "澄清后取油",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调节稠度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "隔水锅",
+    "打蛋器",
+    "小奶锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄油切小块放入小奶锅，小火加热至完全融化并浮起白色乳清泡沫。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "不要搅动，让杂质自然沉底。",
+      "visual_cue": "液面浮起厚厚一层白沫"
+    },
+    {
+      "n": 2,
+      "text": "用勺子撇去表面白沫，取上层澄清黄油约 160ml，剩余乳渣弃去。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "澄清黄油不易起油水分离。",
+      "visual_cue": "油体金黄透亮、无浑浊"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋取 3 个蛋黄加 15ml 柠檬汁与 20ml 温水，放入隔水锅中小火不停搅打。",
+      "time_min": 6,
+      "heat": "微火",
+      "tip": "锅底不能碰到水，温度过高蛋黄会结块。",
+      "visual_cue": "蛋液变浅发稠、能挂住打蛋器"
+    },
+    {
+      "n": 4,
+      "text": "离火后分十次淋入澄清黄油，每加一次都搅打至完全融合再加下一次。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "一次倒多必然油水分离。",
+      "visual_cue": "酱体浓稠顺滑、有缎面光泽"
+    },
+    {
+      "n": 5,
+      "text": "加 2g 盐、1g 白胡椒与剩余柠檬汁调味，尝一下酸咸是否平衡。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酸味不足可再挤几滴柠檬汁。",
+      "visual_cue": "酱汁微酸带奶香、能挂勺"
+    }
+  ],
+  "tips": [
+    "全程温度控制在 65℃ 左右，手感温热不烫。",
+    "黄油必须一小勺一小勺地淋入，倒急了立刻油水分离。",
+    "做好的酱放在 50℃ 温水中保温，别直接加热。"
+  ],
+  "common_mistakes": [
+    "蛋黄直接大火加热，变成一锅炒蛋碎。",
+    "黄油倒得太快，酱汁彻底油水分离。",
+    "用带盐黄油又额外加盐，咸得发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄油",
+      "substitute": "无水黄油",
+      "ratio": "200g 对 160g",
+      "note": "省去澄清步骤。"
+    },
+    {
+      "original": "柠檬",
+      "substitute": "白醋",
+      "ratio": "30g 对 15ml",
+      "note": "酸味更冲，用量减半。"
+    }
+  ],
+  "variations": [
+    "贝阿恩酱：加 10g 龙蒿碎与红葱头碎。",
+    "马尔泰斯酱：拌入 20ml 番茄酱调色。"
+  ],
+  "serving_suggestion": "淋在班尼迪克蛋、水煮芦笋或煎鱼上，趁温热食用。",
+  "storage": "冷藏 2 天，复温时隔水加 5ml 温水慢慢搅开。",
+  "nutrition_estimate": {
+    "basis": "每份（约 50ml）",
+    "calories_kcal": 340,
+    "protein_g": 3,
+    "fat_g": 36,
+    "carbs_g": 1,
+    "sodium_mg": 210,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "使用生蛋黄，须选新鲜蛋并当日食用。",
+    "孕妇、幼儿与免疫力低下者建议改用巴氏杀菌蛋液。",
+    "酱汁在 60℃ 以上久置会凝固，保温勿超 1 小时。",
+    "使用生蛋黄调制，须选新鲜鸡蛋并在 2 小时内冷藏食用，孕妇与幼儿建议改用巴氏杀菌蛋液。"
+  ],
+  "origin_note": "荷兰酱是法式五大母酱之一，据传源于诺曼底，靠蛋黄与澄清黄油乳化而成，质地如绸缎，是班尼迪克蛋和水煮海鲜最经典的搭配。",
+  "tags": [
+    "法国菜",
+    "酱汁",
+    "蛋黄",
+    "黄油"
+  ],
+  "related_ids": [
+    "sauce-bechamel",
+    "quiche-lorraine",
+    "creme-brulee"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

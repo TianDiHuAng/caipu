@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "panna-cotta",
+  "name": {
+    "zh": "意式奶冻",
+    "en": "Panna Cotta"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 258,
+    "cook_min": 14,
+    "total_min": 272
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 300,
+          "unit": "ml",
+          "note": "脂肪 35%",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "按口味增减",
+          "optional": false
+        },
+        {
+          "name": "吉利丁",
+          "name_en": "gelatin",
+          "amount": 8,
+          "unit": "g",
+          "note": "泡冷水软化",
+          "optional": false
+        },
+        {
+          "name": "香草荚",
+          "name_en": "vanilla pod",
+          "amount": 3,
+          "unit": "ml",
+          "note": "可选",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅",
+    "量杯",
+    "布丁模"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "明胶 8g 放入冰水中浸泡 5 分钟至完全软化，捞出挤干水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "必须用冰水，温水会把明胶泡化流失。",
+      "visual_cue": "明胶片柔软折叠不起裂"
+    },
+    {
+      "n": 2,
+      "text": "淡奶油与牛奶倒入小锅，加 60g 白糖，小火加热并搅拌至糖完全溶解。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "边加热边搅，避免糖沉底。",
+      "visual_cue": "液面微冒热气、糖粒消失"
+    },
+    {
+      "n": 3,
+      "text": "奶液加热到 70℃ 左右离火，放入软化的明胶搅至完全融化无颗粒。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "不要煮沸，高温会让明胶失去凝固力。",
+      "visual_cue": "胶体完全消失、液体顺滑"
+    },
+    {
+      "n": 4,
+      "text": "加 3ml 香草精搅匀，用细筛过滤两遍去除气泡与杂质。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "过滤两遍成品才细腻无孔。",
+      "visual_cue": "液面几乎无气泡、质地均匀"
+    },
+    {
+      "n": 5,
+      "text": "分装进布丁模至八分满，冷藏 4 小时至完全凝固。",
+      "time_min": 245,
+      "heat": "无火",
+      "tip": "冷藏而非冷冻，冷冻会出水变渣。",
+      "visual_cue": "轻晃模具中心不流动"
+    },
+    {
+      "n": 6,
+      "text": "取出模具在温水中浸 5 秒，倒扣轻敲脱模装盘。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "水温别太烫，否则边缘会化。",
+      "visual_cue": "奶冻完整脱模、表面光滑"
+    }
+  ],
+  "tips": [
+    "明胶用量按液体总量的 1.2% 计算最稳。",
+    "奶液不要煮沸，80℃ 以上明胶会降解。",
+    "冷藏时间至少 4 小时，急冻不成型。"
+  ],
+  "common_mistakes": [
+    "明胶直接撒进热奶，结成一团团疙瘩。",
+    "奶液煮到沸腾，成品凝固不住成了奶汤。",
+    "脱模时硬抠，边缘被刮得坑坑洼洼。"
+  ],
+  "substitutions": [
+    {
+      "original": "淡奶油",
+      "substitute": "椰浆",
+      "ratio": "300ml 对 300ml",
+      "note": "做成椰香版，需多加 1g 明胶。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "蜂蜜",
+      "ratio": "60g 对 50g",
+      "note": "甜度更柔，色泽略深。"
+    }
+  ],
+  "variations": [
+    "咖啡版：加 5g 速溶咖啡粉同煮。",
+    "果酱版：冷藏定型后在表面淋一层树莓果泥再上桌。"
+  ],
+  "serving_suggestion": "冷藏后直接吃，淋焦糖酱或配新鲜莓果。",
+  "storage": "密封冷藏 3 天，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "每份（约 125g）",
+    "calories_kcal": 330,
+    "protein_g": 4,
+    "fat_g": 26,
+    "carbs_g": 21,
+    "sodium_mg": 55,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品，乳糖不耐者请少量食用。",
+    "明胶需完全融化，结块会影响口感但无安全问题。"
+  ],
+  "origin_note": "意式奶冻来自意大利北部皮埃蒙特区，原意是煮熟的奶油，只用奶油、糖和明胶三样，靠冷藏成型，质地颤而不散，是最省事的意式甜点。",
+  "tags": [
+    "意大利菜",
+    "甜点",
+    "奶油",
+    "冷藏"
+  ],
+  "related_ids": [
+    "creme-brulee",
+    "flan",
+    "tiramisu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "ciabatta",
+  "name": {
+    "zh": "意式恰巴塔",
+    "en": "Ciabatta"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 226,
+    "cook_min": 32,
+    "total_min": 258
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "高筋面粉",
+          "name_en": "bread flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "蛋白质 12%",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 320,
+          "unit": "ml",
+          "note": "约 24℃",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "低量慢发",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "后加",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "刮板",
+    "烤箱",
+    "烤布"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干酵母 4g 溶入 320ml 温水中静置 5 分钟，水面浮起细密气泡说明活性正常。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水温接近体温，烫了酵母就失活。",
+      "visual_cue": "液面浮起一层小气泡"
+    },
+    {
+      "n": 2,
+      "text": "高筋面粉倒入酵母水用刮板翻拌成没有干粉的稀面团，盖布静置 30 分钟水解。",
+      "time_min": 33,
+      "heat": "无火",
+      "tip": "面团很稀是正常的，别加干粉。",
+      "visual_cue": "面团粘稠、看不到干粉块"
+    },
+    {
+      "n": 3,
+      "text": "加入 8g 盐与 20ml 橄榄油，用刮板翻折三十次让面筋逐渐形成。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "靠翻折不靠揉，气孔才大。",
+      "visual_cue": "面团能拉出粗糙的薄膜"
+    },
+    {
+      "n": 4,
+      "text": "室温发酵 40 分钟后，每 30 分钟翻折一次共三次，面团变得蓬松有气。",
+      "time_min": 130,
+      "heat": "无火",
+      "tip": "动作要轻，别把气泡压破。",
+      "visual_cue": "体积两倍大、内部充满气泡"
+    },
+    {
+      "n": 5,
+      "text": "案板撒厚高筋面粉，把面团轻轻倒在粉上切成四块，不要按压排气。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切刀要利，压扁就不够蓬了。",
+      "visual_cue": "面块断面保留大孔、形状立体"
+    },
+    {
+      "n": 6,
+      "text": "面块移到烤布上二次发酵 40 分钟，入 230℃ 烤箱烤 28 分钟至外壳金黄。",
+      "time_min": 70,
+      "heat": "大火",
+      "tip": "烤箱里放一盘热水制造蒸汽。",
+      "visual_cue": "外壳金黄发脆、敲击有空响"
+    }
+  ],
+  "tips": [
+    "面团含水量高达八成，靠翻折而非揉面建立筋度。",
+    "切块时不要按压，蓬松的大孔全靠这步保住。",
+    "烤前喷蒸汽，外壳薄脆内里湿润。"
+  ],
+  "common_mistakes": [
+    "一直加面粉揉到不粘手，烤出来像法棍一样紧实。",
+    "翻折时用力压扁面团，气泡全被挤光。",
+    "烤箱温度不够，面包塌软没有骨架。"
+  ],
+  "substitutions": [
+    {
+      "original": "高筋面粉",
+      "substitute": "中筋面粉",
+      "ratio": "400g 对 400g",
+      "note": "筋度低，多翻折一次。"
+    },
+    {
+      "original": "橄榄油",
+      "substitute": "黄油",
+      "ratio": "20ml 对 20g",
+      "note": "香气更浓，需融化放凉。"
+    }
+  ],
+  "variations": [
+    "橄榄版：面团里拌入 60g 切碎黑橄榄。",
+    "全麦版：掺 80g 全麦粉，水加 20ml。"
+  ],
+  "serving_suggestion": "切片蘸橄榄油黑醋，或剖开夹火腿芝士做成帕尼尼。",
+  "storage": "室温纸袋存 1 天，冷冻 1 个月，复烤 6 分钟回脆。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 个）",
+    "calories_kcal": 390,
+    "protein_g": 12,
+    "fat_g": 7,
+    "carbs_g": 70,
+    "sodium_mg": 600,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "烤箱高温，取烤盘须戴隔热手套。",
+    "面包需烤至中心熟透，按压回弹再出炉。"
+  ],
+  "origin_note": "恰巴塔是意大利威尼托的乡村面包，名字原意是拖鞋，因为面坯扁长蓬松而得名，含水量极高、气孔大小不一，是意式三明治的灵魂。",
+  "tags": [
+    "意大利菜",
+    "面包",
+    "烘焙",
+    "高含水"
+  ],
+  "related_ids": [
+    "bruschetta",
+    "baguette",
+    "caesar-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

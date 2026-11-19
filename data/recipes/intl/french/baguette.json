@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "baguette",
+  "name": {
+    "zh": "法式长棍面包",
+    "en": "French Baguette"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 335,
+    "cook_min": 40,
+    "total_min": 375
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "高筋面粉",
+          "name_en": "bread flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "蛋白质 12% 以上",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 360,
+          "unit": "ml",
+          "note": "约 25℃",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "低量慢发",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "海盐更佳",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "助酵母起发",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "刮板",
+    "烤箱",
+    "喷壶"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干酵母 4g 与 5g 白糖溶入 300ml 温水，静置 5 分钟至水面泛起细密气泡。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水温接近体温最好，超过 45℃ 酵母会失活。",
+      "visual_cue": "表面浮起一层细泡"
+    },
+    {
+      "n": 2,
+      "text": "高筋面粉与 10g 盐混合后开窝，倒入酵母水，用刮板翻拌成没有干粉的湿面团。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "面团偏湿属正常，不要急着补粉。",
+      "visual_cue": "面团粗糙粘手、无干粉块"
+    },
+    {
+      "n": 3,
+      "text": "盖湿布室温水解 40 分钟，之后每 30 分钟折叠一次，一共折叠三次。",
+      "time_min": 130,
+      "heat": "无火",
+      "tip": "折叠代替揉面，面筋更整齐。",
+      "visual_cue": "面团光滑有弹性、能拉出薄膜"
+    },
+    {
+      "n": 4,
+      "text": "面团冷藏发酵 2 小时后取出回温 20 分钟，轻拍排气分成三份。",
+      "time_min": 140,
+      "heat": "无火",
+      "tip": "冷藏慢发风味更足、气孔更细。",
+      "visual_cue": "体积两倍大、指压缓慢回弹"
+    },
+    {
+      "n": 5,
+      "text": "每份面团自上而下卷起收口，搓成 55cm 长的棍状，收口朝下放在烤布上。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "收口捏紧压实，烤时才不会侧裂。",
+      "visual_cue": "面坯粗细均匀、表皮紧绷"
+    },
+    {
+      "n": 6,
+      "text": "二次发酵 45 分钟后斜划五刀，喷水入 240℃ 烤箱烤 22 分钟。",
+      "time_min": 70,
+      "heat": "大火",
+      "tip": "入炉前喷蒸汽，表皮才脆。",
+      "visual_cue": "割口张开翻边、表皮深金褐色"
+    }
+  ],
+  "tips": [
+    "面团含水量高，用刮板翻折比手揉省力。",
+    "烤箱必须充分预热，温度不够就涨不开。",
+    "割刀要快且斜切三十度，裂口才漂亮。"
+  ],
+  "common_mistakes": [
+    "面团揉得过硬，成品组织紧密像馒头。",
+    "发酵不足就入炉，面包体积小且底部实心。",
+    "没有喷蒸汽就让面包直接入炉，表皮厚韧且咬不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "高筋面粉",
+      "substitute": "中筋面粉",
+      "ratio": "500g 对 500g",
+      "note": "筋度低，多折叠一次。"
+    },
+    {
+      "original": "干酵母",
+      "substitute": "鲜酵母",
+      "ratio": "4g 对 12g",
+      "note": "发酵更快，冷藏减 30 分钟。"
+    }
+  ],
+  "variations": [
+    "乡村版：整成圆形割十字，烤制加 3 分钟。",
+    "全麦版：掺 100g 全麦粉，水量加 20ml。"
+  ],
+  "serving_suggestion": "切片配黄油果酱，或剖开夹火腿做成三明治。",
+  "storage": "室温纸袋存 1 天，冷冻 1 个月，复烤 5 分钟回脆。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 根）",
+    "calories_kcal": 480,
+    "protein_g": 15,
+    "fat_g": 2,
+    "carbs_g": 98,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "烤箱温度高，取放烤盘须戴隔热手套。",
+    "面包需烤至中心熟透再食用，避免生面芯。"
+  ],
+  "origin_note": "法棍是法国面包的代表，只用面粉、水、盐和酵母四样原料，靠长时间发酵与高温蒸汽烤出脆皮和大小不一的气孔，配方越简单越考验手上功夫。",
+  "tags": [
+    "法国菜",
+    "烘焙",
+    "面包",
+    "发酵"
+  ],
+  "related_ids": [
+    "bruschetta",
+    "caesar-salad",
+    "quiche-lorraine"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
