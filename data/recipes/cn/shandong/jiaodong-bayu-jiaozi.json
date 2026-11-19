@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiaodong-bayu-jiaozi",
+  "name": {
+    "zh": "鲅鱼饺子",
+    "en": "Spanish Mackerel Dumplings"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "snack",
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 12,
+    "total_min": 57
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲅鱼",
+          "name_en": "spanish mackerel",
+          "amount": 500,
+          "unit": "g",
+          "note": "取净肉",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "剁成泥增香",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "中筋粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "韭菜",
+          "name_en": "Chinese chives",
+          "amount": 80,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分次打入",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "封住水分",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "和面用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "擀面杖",
+    "大盆",
+    "汤锅",
+    "纱布"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加 200ml 清水与 10ml 植物油揉成偏硬面团，盖湿布醒 30 分钟。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "面团偏硬，擀出的皮才不粘不破。",
+      "visual_cue": "面团光滑不粘手、按压有回弹"
+    },
+    {
+      "n": 2,
+      "text": "鲅鱼去骨取净肉，用勺子顺一个方向刮成鱼泥，挑净残留细刺。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "刮比剁更能保留鱼肉纤维的弹。",
+      "visual_cue": "鱼泥细腻、无刺无皮"
+    },
+    {
+      "n": 3,
+      "text": "鱼泥加五花肉泥、姜末、葱末、白胡椒与料酒，分三次加 80ml 清水顺向搅打上劲。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水分次加，鱼肉才能吃足水变嫩。",
+      "visual_cue": "馅料黏稠拉丝、能抱成团"
+    },
+    {
+      "n": 4,
+      "text": "加蛋清与 8g 盐继续搅 3 分钟，最后拌入韭菜末与香油，冷藏 20 分钟。",
+      "time_min": 23,
+      "heat": "无火",
+      "tip": "韭菜最后拌，久拌会出水。",
+      "visual_cue": "馅料泛白蓬松、闻着鲜不腥"
+    },
+    {
+      "n": 5,
+      "text": "面团搓条切 8g 小剂子，擀成薄圆皮，包入 12g 馅料对折捏紧成月牙形。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "皮薄馅大是鲅鱼饺子的特点。",
+      "visual_cue": "饺子肚圆皮薄、封口紧实"
+    },
+    {
+      "n": 6,
+      "text": "汤锅加 2000ml 水烧开，下饺子用手勺背推散，浮起后点两次冷水再煮 3 分钟。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "点冷水能让馅熟透而皮不破。",
+      "visual_cue": "饺子鼓起浮面、皮透出白肚"
+    }
+  ],
+  "tips": [
+    "鲅鱼一定要刮泥，剁出来的馅发柴。",
+    "打水要分次，一次倒进去馅会散。",
+    "韭菜最后拌，早了会出水让饺子破皮。"
+  ],
+  "common_mistakes": [
+    "鱼肉不挑刺直接剁，吃时咬着硬刺。",
+    "一次性加足水搅，鱼馅水馅分离搅不上劲。",
+    "面皮擀得太薄，煮时全部破口漏汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲅鱼",
+      "substitute": "黄鱼",
+      "ratio": "500g 对 500g",
+      "note": "肉质更细，打水量减 20ml。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "猪肥膘",
+      "ratio": "120g 对 100g",
+      "note": "更油润，香油可减半。"
+    }
+  ],
+  "variations": [
+    "加虾版：拌入 100g 虾茸，鲜味层次更足。",
+    "清汤版：饺子盛出后浇一勺紫菜虾皮清汤。"
+  ],
+  "serving_suggestion": "蘸上米醋配蒜泥，再配一碗饺子原汤一起享用。",
+  "storage": "生饺子冷冻 2 周，熟饺子冷藏 1 天；复热用蒸或煎。",
+  "nutrition_estimate": {
+    "basis": "每份（约 12 个）",
+    "calories_kcal": 540,
+    "protein_g": 30,
+    "fat_g": 16,
+    "carbs_g": 70,
+    "sodium_mg": 940,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鱼刺务必挑净，给老人和儿童食用时再用手按压检查一遍。",
+    "饺子需煮至浮起后再煮 1 分钟，确保鱼馅熟透。",
+    "海鱼属常见致敏食材，过敏人群禁食。"
+  ],
+  "origin_note": "鲅鱼饺子是胶东沿海的家常主食，选春天最肥的鲅鱼刮泥，掺五花肉与韭菜，皮薄馅大水嫩，一口咬开全是海味。",
+  "tags": [
+    "鲁菜",
+    "饺子",
+    "海鲜",
+    "主食"
+  ],
+  "related_ids": [
+    "youmen-daxia",
+    "linyi-chaoji",
+    "cu-jiao-yutang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

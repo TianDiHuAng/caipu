@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-19T04:21:18.202Z
+> 生成时间：2026-11-19T04:25:32.026Z
 
-**总览**：工程任务 49/53；菜谱内容 178/3274（5.4%），共 460 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 186/3274（5.7%），共 461 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,13 +83,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（150/1339）
+### 中国菜系（158/1339）
 
-<details><summary><b>川菜 sichuan</b> — A 级，28/107</summary>
+<details><summary><b>川菜 sichuan</b> — A 级，29/107</summary>
 
 - [ ] `P4-sichuan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 4
 - [ ] `P4-sichuan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 3
-- [ ] `P4-sichuan/main-tofu` 主菜·豆制品（Tofu Main）目标 15，已完成 1
+- [ ] `P4-sichuan/main-tofu` 主菜·豆制品（Tofu Main）目标 15，已完成 2
 - [ ] `P4-sichuan/appetizer` 前菜（Appetizer）目标 15，已完成 3
 - [ ] `P4-sichuan/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 1
 - [ ] `P4-sichuan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 2
@@ -104,9 +104,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>鲁菜 shandong</b> — A 级，9/107</summary>
+<details><summary><b>鲁菜 shandong</b> — A 级，11/107</summary>
 
-- [ ] `P4-shandong/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 3
+- [ ] `P4-shandong/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 4
 - [ ] `P4-shandong/main-meat` 主菜·肉（Meat Main）目标 15，已完成 1
 - [ ] `P4-shandong/soup` 汤羹（Soup）目标 15，已完成 1
 - [ ] `P4-shandong/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 1
@@ -115,18 +115,18 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-shandong/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-shandong/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-shandong/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
+- [x] `P4-shandong/snack` 小吃（Street Food）目标 0，已完成 2
 - [x] `P4-shandong/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
-- [x] `P4-shandong/snack` 小吃（Street Food）目标 0，已完成 1
 - [x] `P4-shandong/appetizer` 前菜（Appetizer）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>粤菜 cantonese</b> — A 级，20/122</summary>
+<details><summary><b>粤菜 cantonese</b> — A 级，21/122</summary>
 
 - [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 4
 - [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
 - [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 4
-- [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
+- [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 2
 - [ ] `P4-cantonese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 1
 - [ ] `P4-cantonese/dessert` 甜点（Dessert）目标 15，已完成 2
 - [ ] `P4-cantonese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 3
@@ -138,19 +138,20 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>苏菜 jiangsu</b> — A 级，13/107</summary>
+<details><summary><b>苏菜 jiangsu</b> — A 级，15/107</summary>
 
 - [ ] `P4-jiangsu/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
 - [ ] `P4-jiangsu/main-meat` 主菜·肉（Meat Main）目标 15，已完成 1
 - [ ] `P4-jiangsu/soup` 汤羹（Soup）目标 15，已完成 1
 - [ ] `P4-jiangsu/appetizer` 前菜（Appetizer）目标 15，已完成 1
-- [ ] `P4-jiangsu/snack` 小吃（Street Food）目标 15，已完成 1
+- [ ] `P4-jiangsu/snack` 小吃（Street Food）目标 15，已完成 2
 - [ ] `P4-jiangsu/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-jiangsu/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 2
 - [ ] `P4-jiangsu/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 1
 - [ ] `P4-jiangsu/staple-rice` 主食·饭（Rice Dish）目标 8，已完成 1
 - [x] `P4-jiangsu/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2
 - [x] `P4-jiangsu/dessert` 甜点（Dessert）目标 0，已完成 1
+- [x] `P4-jiangsu/breakfast` 早餐（Breakfast）目标 0，已完成 1
 
 </details>
 
@@ -183,9 +184,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>湘菜 hunan</b> — A 级，13/107</summary>
+<details><summary><b>湘菜 hunan</b> — A 级，14/107</summary>
 
-- [ ] `P4-hunan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 6
+- [ ] `P4-hunan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 7
 - [ ] `P4-hunan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
 - [ ] `P4-hunan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 3
 - [ ] `P4-hunan/appetizer` 前菜（Appetizer）目标 15，已完成 1
@@ -242,10 +243,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>东北菜 dongbei</b> — B 级，7/38</summary>
+<details><summary><b>东北菜 dongbei</b> — B 级，8/38</summary>
 
 - [ ] `P4-dongbei/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 0
-- [ ] `P4-dongbei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
+- [ ] `P4-dongbei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 3
 - [ ] `P4-dongbei/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 0
 - [ ] `P4-dongbei/cold-dish` 凉菜（Cold Dish）目标 6，已完成 2
 - [ ] `P4-dongbei/banquet` 宴客菜（Banquet）目标 6，已完成 0

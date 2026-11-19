@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "guobaorou",
+  "name": {
+    "zh": "锅包肉",
+    "en": "Sweet and Sour Crispy Pork Slices"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "sweet",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 500,
+          "unit": "g",
+          "note": "切 0.5cm 厚大片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 120,
+          "unit": "g",
+          "note": "土豆淀粉最佳",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 40,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "note": "酸味主体",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "与醋等量",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "补咸鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "腌肉",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 350,
+          "unit": "ml",
+          "note": "实耗约 50ml",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "肉锤",
+    "大盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "里脊肉切 0.5cm 厚的大片，用肉锤轻捶松散，加 4g 盐与 15ml 料酒腌 10 分钟。",
+      "time_min": 13,
+      "heat": "无火",
+      "tip": "捶松纤维，炸后才不柴。",
+      "visual_cue": "肉片变薄变大、手感柔软"
+    },
+    {
+      "n": 2,
+      "text": "淀粉加 100ml 清水泡 20 分钟，倒掉表面清水，用底层湿淀粉抓匀肉片。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "湿淀粉挂得厚，炸出来才酥脆。",
+      "visual_cue": "肉片裹上浓厚淀粉糊、不滴落"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒 350ml 植物油烧至七成热，逐片下肉炸 2 分钟至定型微黄，捞出沥油。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "一次别下太多，油温掉了就不脆。",
+      "visual_cue": "外壳硬挺、颜色浅金"
+    },
+    {
+      "n": 4,
+      "text": "油温升到八成热，下肉片复炸 40 秒至金黄酥脆，捞出控油。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "复炸用植物油，成品才够酥不返潮。",
+      "visual_cue": "外壳起泡、敲之有声"
+    },
+    {
+      "n": 5,
+      "text": "另起锅留 15ml 底油，下姜丝、葱丝与胡萝卜丝炒 30 秒，加白醋、白糖与生抽烧开。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "糖醋汁烧到起大泡，酸味才不冲。",
+      "visual_cue": "汁液清亮、酸甜味冲鼻"
+    },
+    {
+      "n": 6,
+      "text": "倒入炸好的肉片大火快速翻匀，让每片都裹上糖醋汁，撒香菜段即可出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "下锅到出锅不超过 40 秒，保持酥脆。",
+      "visual_cue": "肉片油亮挂汁、盘底无积水"
+    }
+  ],
+  "tips": [
+    "用土豆淀粉挂糊，炸后最酥最挺。",
+    "复炸这一步不能省，脆度全靠它。",
+    "糖醋汁要现调现浇，久放会返软。"
+  ],
+  "common_mistakes": [
+    "用面粉裹肉，炸出来软塌不脆。，成品口感会明显变差。",
+    "油温不够就下肉，外壳吸油发腻。",
+    "肉片在汁里久翻，外壳被泡软成坨。"
+  ],
+  "substitutions": [
+    {
+      "original": "里脊肉",
+      "substitute": "鸡胸肉",
+      "ratio": "500g 对 500g",
+      "note": "口感更嫩，捶打时间加倍。"
+    },
+    {
+      "original": "白醋",
+      "substitute": "米醋",
+      "ratio": "60ml 对 60ml",
+      "note": "酸味柔和，糖可减 5g。"
+    }
+  ],
+  "variations": [
+    "番茄版：加 30g 番茄酱调汁，颜色更红。",
+    "橙汁版：用 60ml 橙汁替代部分白醋，果香清爽。"
+  ],
+  "serving_suggestion": "出锅立马上桌，趁热吃最酥，凉了就回软。",
+  "storage": "现炸现吃，不建议存放；剩下的可 200℃ 复烤 5 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 125g 肉）",
+    "calories_kcal": 520,
+    "protein_g": 28,
+    "fat_g": 26,
+    "carbs_g": 42,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "油炸时油温高，肉片带水会剧烈爆油，下锅前抖干表面水分。",
+    "猪肉需彻底炸熟，切开中心不见粉色。",
+    "含大量淀粉与糖，糖尿病人群应控制份量。"
+  ],
+  "origin_note": "锅包肉是哈尔滨道台府菜的代表，为适应外宾口味把咸鲜的焦炒肉片改成糖醋口，外酥里嫩、酸甜开胃，是东北菜里最有名的一道。",
+  "tags": [
+    "东北菜",
+    "猪肉",
+    "糖醋",
+    "炸菜"
+  ],
+  "related_ids": [
+    "dongbei-dalapi",
+    "guobao-rou",
+    "pai-huanggua"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

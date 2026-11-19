@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T04:21:18.815Z
+- 生成时间：2026-11-19T04:25:32.748Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：32 个，抽样 33 道，平均分 95
 - 需重写（C/D）：0 道
@@ -22,9 +22,9 @@
 | american-south | bbq-pork-ribs | 93 | A | 准确性 18/25 |
 | anhui | yipin-guo | 93 | A | 准确性 18/25 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
-| cantonese | mizhi-chashao | 93 | A | 准确性 18/25 |
+| cantonese | jiangzhuangnai | 93 | A | 准确性 18/25 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
-| dongbei | dongbei-luandun | 93 | A | 准确性 18/25 |
+| dongbei | guobao-rou | 100 | A | 无 |
 | french | french-onion-soup | 87 | B | 准确性 18/25；安全性 14/20 |
 | fujian | baizhuo-xiaoguan | 93 | A | 准确性 18/25 |
 | german | wiener-schnitzel | 100 | A | 无 |
@@ -35,11 +35,11 @@
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
 | italian | bruschetta | 93 | A | 准确性 18/25 |
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
-| jiangsu | shizitou | 93 | A | 准确性 18/25 |
+| jiangsu | shengjian-bao | 93 | A | 准确性 18/25 |
 | korean | kimchi-jjigae | 100 | A | 无 |
 | mexican | tacos-de-carne | 100 | A | 无 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |
-| shandong | linyi-chaoji | 100 | A | 无 |
+| shandong | jiuzhuan-dachang | 100 | A | 无 |
 | shanghai | yandu-xian | 87 | B | 准确性 18/25；安全性 14/20 |
 | sichuan | yuxiang-rousi | 100 | A | 无 |
 | sichuan | dandan-mian | 100 | A | 无 |
