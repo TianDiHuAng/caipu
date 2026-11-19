@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "agua-fresca",
+  "name": {
+    "zh": "墨西哥青柠黄瓜饮",
+    "en": "Agua Fresca"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 0,
+    "total_min": 10
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 80,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 200,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "薄荷",
+          "name_en": "mint",
+          "amount": 6,
+          "unit": "g",
+          "note": "取叶",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "冰水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "料理机",
+    "滤网",
+    "水壶",
+    "长勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄瓜去皮切块，与一半清水一起放进料理机打成细腻的绿色汁液。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "去皮打，颜色才透亮。",
+      "visual_cue": "汁液翠绿、无颗粒"
+    },
+    {
+      "n": 2,
+      "text": "用细滤网滤掉渣滓，加青柠汁、白糖与盐搅拌到糖完全化开。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先化糖再加冰，甜度才准。",
+      "visual_cue": "糖粒消失、汁液清亮"
+    },
+    {
+      "n": 3,
+      "text": "倒入剩余冰水搅匀，加薄荷叶轻压出香，冷藏十分钟后饮用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "薄荷轻压，别捣碎发苦。",
+      "visual_cue": "饮品冰凉、薄荷浮面"
+    }
+  ],
+  "tips": [
+    "黄瓜去皮再打，饮品的绿色才通透漂亮。",
+    "糖先在少量汁液里化开再加冰水，甜度才均匀。",
+    "薄荷只轻压出香，捣碎会释放苦味。"
+  ],
+  "common_mistakes": [
+    "糖直接倒进冰水，喝到底部全是糖粒。",
+    "不打滤直接喝，满口都是黄瓜渣，口感全无。",
+    "青柠挤完把皮一起泡，久放发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄瓜",
+      "substitute": "西瓜",
+      "ratio": "200g 对 300g",
+      "note": "白糖减到 20g。"
+    },
+    {
+      "original": "青柠",
+      "substitute": "柠檬",
+      "ratio": "80g 对 80g",
+      "note": "酸度略低，可加 10g。"
+    }
+  ],
+  "variations": [
+    "气泡版：一半清水换成冰苏打水，口感更清爽。",
+    "辣味版：加 3g 辣椒粉与盐同调。"
+  ],
+  "serving_suggestion": "加满冰块，配薄荷叶与青柠片装饰。",
+  "storage": "冷藏可存 2 天，饮用前摇匀。",
+  "nutrition_estimate": {
+    "basis": "每份（约 280ml）",
+    "calories_kcal": 60,
+    "protein_g": 1,
+    "fat_g": 0,
+    "carbs_g": 15,
+    "sodium_mg": 70,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "饮品为生食制作，须使用干净饮用水与洗净的果蔬。",
+    "冷藏保存不超过 2 天，出现异味即丢弃。",
+    "儿童饮用可将白糖减至 20g，避免摄入过多糖分。"
+  ],
+  "origin_note": "青柠黄瓜饮是墨西哥街头随处可见的清凉饮品，路边摊用大玻璃罐装着，一杯下去把暑气浇灭。做法只有打汁、滤渣、调酸甜三步。",
+  "tags": [
+    "墨西哥菜",
+    "饮品",
+    "青柠",
+    "黄瓜"
+  ],
+  "related_ids": [
+    "kheer",
+    "thai-coconut-sticky-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

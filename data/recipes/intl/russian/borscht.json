@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "borscht",
+  "name": {
+    "zh": "罗宋汤",
+    "en": "Borscht"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "russian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "甜菜",
+          "name_en": "beet",
+          "amount": 300,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 250,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 20,
+          "unit": "ml",
+          "note": "保色提酸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "木勺",
+    "擦丝器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩冷水下锅焯去血沫，冲净后加清水与香叶小火炖四十分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "冷水下锅，血沫才出得净。",
+      "visual_cue": "汤色清亮、牛腩变软"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，炒洋葱与胡萝卜五分钟至变软，加番茄与番茄膏炒出红油。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "番茄膏炒过才没有生味。",
+      "visual_cue": "锅底见红油、蔬菜软化"
+    },
+    {
+      "n": 3,
+      "text": "加入甜菜丝炒三分钟，倒白醋翻炒，酸性能让甜菜的红色稳住。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "先加醋，汤色才不发褐。",
+      "visual_cue": "甜菜丝软塌、颜色鲜红"
+    },
+    {
+      "n": 4,
+      "text": "炒好的蔬菜倒进牛腩汤里，加土豆煮二十分钟，再放卷心菜煮十分钟。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "卷心菜后放，保留脆甜。",
+      "visual_cue": "土豆软糯、卷心菜变软"
+    },
+    {
+      "n": 5,
+      "text": "加盐与白糖调味，关火后拌入蒜末，静置十分钟再盛出。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蒜末离火加，香气才冲。",
+      "visual_cue": "汤色深红、表面浮油"
+    }
+  ],
+  "tips": [
+    "甜菜下锅前先拌醋，红色才不被氧化成褐。",
+    "卷心菜最后十分钟放，久煮会发黄失脆。",
+    "蒜末关火后拌入，久煮香气全跑掉。"
+  ],
+  "common_mistakes": [
+    "甜菜没加醋就久煮，汤色变成暗褐色。",
+    "牛腩不焯水直接炖，汤浑浊带腥。",
+    "所有蔬菜一起下锅，土豆化成泥、卷心菜烂透。"
+  ],
+  "substitutions": [
+    {
+      "original": "甜菜",
+      "substitute": "胡萝卜",
+      "ratio": "300g 对 350g",
+      "note": "颜色偏橙，酸味需补足。"
+    },
+    {
+      "original": "牛腩",
+      "substitute": "牛肉末",
+      "ratio": "400g 对 350g",
+      "note": "炖制时间缩短到 15 分钟。"
+    }
+  ],
+  "variations": [
+    "冷食版：冷藏后加酸奶油与煮蛋碎。",
+    "素食版：牛腩换成 300g 蘑菇与 200g 鹰嘴豆。"
+  ],
+  "serving_suggestion": "配黑麦面包与一勺酸奶，撒欧芹碎。",
+  "storage": "冷藏可存 4 天，隔夜风味更融合，复热须煮沸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 450g）",
+    "calories_kcal": 330,
+    "protein_g": 24,
+    "fat_g": 14,
+    "carbs_g": 28,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至软烂熟透，中心温度 71℃ 以上。",
+    "汤品含甜菜，食用后尿液可能变红，属正常现象。",
+    "隔夜复热须彻底煮沸，避免细菌滋生。"
+  ],
+  "origin_note": "罗宋汤是东欧的灵魂汤品，乌克兰与俄罗斯都视其为国菜。甜菜给颜色、牛腩给厚度、醋给酸味，最后加一勺酸奶油，是寒冷季节最实在的一碗热汤。",
+  "tags": [
+    "俄式菜",
+    "汤品",
+    "甜菜",
+    "牛腩"
+  ],
+  "related_ids": [
+    "british-roast-beef",
+    "chana-masala"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

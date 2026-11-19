@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sauce-bechamel",
+  "name": {
+    "zh": "法式白酱",
+    "en": "Sauce Bechamel"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 5,
+    "cook_min": 15,
+    "total_min": 20
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "无盐",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "flour",
+          "amount": 50,
+          "unit": "g",
+          "note": "中筋过筛",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆蔻",
+          "name_en": "cardamom",
+          "amount": 2,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "打蛋器",
+    "量杯",
+    "刮刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄油切小块放进厚底锅，小火化开后加面粉，用打蛋器不停搅成面糊。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "面粉要炒透，才能去掉生面味。",
+      "visual_cue": "面糊顺滑、微微起泡"
+    },
+    {
+      "n": 2,
+      "text": "面糊小火炒两分钟至颜色微黄、散发坚果香，全程不要停手。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "炒过的面糊才不腥。",
+      "visual_cue": "面糊微黄、香气浓郁"
+    },
+    {
+      "n": 3,
+      "text": "牛奶分四次倒入，每次都搅到完全吸收再加下一次，煮到酱体浓稠冒泡。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "分次加奶，才不会结块。",
+      "visual_cue": "酱体浓稠、能挂住打蛋器"
+    },
+    {
+      "n": 4,
+      "text": "加盐、黑胡椒与豆蔻粉调味，再煮两分钟关火即可使用。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "豆蔻是白酱的灵魂香料。",
+      "visual_cue": "酱面光滑、调味均匀"
+    }
+  ],
+  "tips": [
+    "牛奶分次倒入并持续搅打，白酱才不会结块。",
+    "面糊要炒到微黄出香，否则成品带生面粉味。",
+    "豆蔻别省，它决定了白酱的层次。"
+  ],
+  "common_mistakes": [
+    "牛奶一次性倒进面糊，锅里全是疙瘩。",
+    "面糊没炒熟就加奶，酱汁带生粉味。",
+    "火太大又不搅拌，锅底糊出一层焦膜。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "豆浆",
+      "ratio": "500ml 对 500ml",
+      "note": "素食可用，香气略淡。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "橄榄油",
+      "ratio": "50g 对 40ml",
+      "note": "热量低一些，风味更清爽。"
+    }
+  ],
+  "variations": [
+    "奶酪版：关火后拌入 60g 奶酪碎做芝士白酱。",
+    "洋葱版：先用洋葱炒香再滤掉，香气更深。"
+  ],
+  "serving_suggestion": "浇在意大利面、烤蔬菜或焗饭上，也可做千层面的夹层。",
+  "storage": "冷藏可存 3 天，复热须加少量牛奶稀释并不断搅拌。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 220,
+    "protein_g": 6,
+    "fat_g": 16,
+    "carbs_g": 12,
+    "sodium_mg": 320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品与麸质，相关过敏人群须替换配料。",
+    "熬酱时锅温高，搅拌时注意蒸汽烫手。",
+    "成品须冷藏保存，重复加热不超过一次。"
+  ],
+  "origin_note": "白酱是法式五大母酱之一，只用黄油、面粉和牛奶三样。面粉在黄油里炒香再加奶，靠淀粉糊化增稠，是焗菜、千层面和奶油汤的基础。",
+  "tags": [
+    "法国菜",
+    "酱料",
+    "白酱",
+    "基础酱"
+  ],
+  "related_ids": [
+    "quiche-lorraine",
+    "creme-brulee"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "flan",
+  "name": {
+    "zh": "西班牙焦糖布丁",
+    "en": "Flan"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三个全蛋",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 120,
+          "unit": "g",
+          "note": "分焦糖与蛋液",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香草荚",
+          "name_en": "vanilla pod",
+          "amount": 2,
+          "unit": "g",
+          "note": "剖开取籽",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "布丁模",
+    "打蛋器",
+    "烤箱",
+    "深烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "白糖取 60g 放小锅，小火加热到融化变琥珀色，趁热倒进布丁模底部铺平。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色到琥珀就离火，深了发苦。",
+      "visual_cue": "糖液呈琥珀色、流动变缓"
+    },
+    {
+      "n": 2,
+      "text": "牛奶加香草荚小火加热到微微冒汽，关火焖五分钟让香气渗出。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "牛奶别煮沸，会起皮。",
+      "visual_cue": "奶液冒汽、香气明显"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋加剩余白糖与盐打散，缓缓倒入温牛奶边倒边搅，过筛两次去掉气泡。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "过筛两次，成品才无孔洞。",
+      "visual_cue": "蛋奶液顺滑、表面无泡"
+    },
+    {
+      "n": 4,
+      "text": "蛋奶液倒进布丁模，烤盘注入热水至模子一半高，160℃ 水浴烤二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "水浴让布丁受热温和不裂。",
+      "visual_cue": "布丁凝固、轻晃中心微颤"
+    },
+    {
+      "n": 5,
+      "text": "取出放凉后冷藏两小时，倒扣脱模让焦糖汁流下即可。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冷藏定型后再脱模。",
+      "visual_cue": "布丁完整脱模、焦糖包裹表面"
+    }
+  ],
+  "tips": [
+    "糖色只熬到琥珀色，颜色过深会带明显苦味。",
+    "蛋奶液务必过筛两次，烤出的布丁才无蜂窝孔洞。",
+    "水浴烤制能稳住温度，布丁才细腻不裂。"
+  ],
+  "common_mistakes": [
+    "糖色熬过头，布丁底部带焦苦味。",
+    "蛋奶液没过滤，成品切开全是气孔。",
+    "不加水浴直接烤，表面裂开内部变老。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "500ml 对 400ml 加 100ml 牛奶",
+      "note": "质地更浓，烤制时间加 3 分钟。"
+    },
+    {
+      "original": "香草荚",
+      "substitute": "香草精",
+      "ratio": "2g 对 3ml",
+      "note": "直接拌入蛋液即可。"
+    }
+  ],
+  "variations": [
+    "橙味版：牛奶里加 10g 橙皮屑同焖。",
+    "椰奶版：牛奶换成椰奶，风味更南洋。"
+  ],
+  "serving_suggestion": "冷藏后倒扣在小碟上，焦糖汁自然流下，配一杯黑咖啡。",
+  "storage": "冷藏可存 3 天，密封避免串味。",
+  "nutrition_estimate": {
+    "basis": "每份（约 160g）",
+    "calories_kcal": 260,
+    "protein_g": 8,
+    "fat_g": 10,
+    "carbs_g": 34,
+    "sodium_mg": 130,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋与乳制品，相关过敏人群须替换。",
+    "熬糖色温度极高，倒糖时远离手部并戴手套。",
+    "布丁冷藏保存，室温放置超过 2 小时不宜食用。"
+  ],
+  "origin_note": "焦糖布丁是西班牙餐馆的固定甜点，蛋奶液靠水浴慢慢烤凝，底部一层琥珀焦糖在脱模时流下来。做法人人会，难的是火候与过筛这两步。",
+  "tags": [
+    "西班牙菜",
+    "甜点",
+    "焦糖",
+    "布丁"
+  ],
+  "related_ids": [
+    "creme-brulee",
+    "tortilla-espanola"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

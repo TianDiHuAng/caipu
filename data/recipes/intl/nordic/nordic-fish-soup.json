@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "nordic-fish-soup",
+  "name": {
+    "zh": "北欧奶油鱼汤",
+    "en": "Nordic Creamy Fish Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "nordic"
+  },
+  "category": [
+    "soup",
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳕鱼",
+          "name_en": "cod",
+          "amount": 500,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "amount": 100,
+          "unit": "g",
+          "note": "黑麦面包，佐餐",
+          "name_en": "bread",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒底",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "莳萝",
+          "name_en": "dill",
+          "amount": 6,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "打蛋器",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "汤锅小火化开黄油，下洋葱、胡萝卜与芹菜炒六分钟至蔬菜变软出香。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "蔬菜炒软，汤才不寡。",
+      "visual_cue": "蔬菜软化、洋葱透明"
+    },
+    {
+      "n": 2,
+      "text": "撒入面粉不停搅拌炒两分钟，让面粉裹住蔬菜形成面糊底。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "面粉要炒熟，汤才不粉。",
+      "visual_cue": "面糊起泡、无干粉"
+    },
+    {
+      "n": 3,
+      "text": "分次倒入清水边倒边搅，再加土豆丁煮十五分钟至土豆软烂。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "分次加水，避免结块。",
+      "visual_cue": "汤汁浓稠、土豆软糯"
+    },
+    {
+      "n": 4,
+      "text": "放入鳕鱼块小火煮五分钟，倒入牛奶煮到微沸，加盐与白胡椒。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "牛奶别煮沸，会分层。",
+      "visual_cue": "鱼块变白、汤色乳白"
+    },
+    {
+      "n": 5,
+      "text": "盛碗撒莳萝碎，配一片黑麦面包与黄油上桌，趁热食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "莳萝最后撒，香气才留。",
+      "visual_cue": "汤面浮绿、质地顺滑"
+    }
+  ],
+  "tips": [
+    "面粉要在黄油里炒熟再加水，否则汤带生粉味。",
+    "牛奶最后加并保持微沸，滚沸会油水分离。",
+    "鳕鱼块最后五分钟才下，久煮散成碎渣。"
+  ],
+  "common_mistakes": [
+    "清水一次性倒进面糊，结成一锅疙瘩。",
+    "牛奶大火煮沸，汤面浮起一层絮状物。",
+    "土豆切太大，煮到鱼都散了还没软。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳕鱼",
+      "substitute": "鲈鱼",
+      "ratio": "500g 对 500g",
+      "note": "肉质更细，煮制时间减 1 分钟。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "奶油",
+      "ratio": "200ml 对 150ml",
+      "note": "质地更浓，可加水 50ml。"
+    }
+  ],
+  "variations": [
+    "虾味版：加 200g 虾同煮。",
+    "番茄版：加 150g 番茄丁，牛奶减半。"
+  ],
+  "serving_suggestion": "配黑麦面包与黄油，撒白胡椒与莳萝碎。",
+  "storage": "冷藏可存 2 天，复热须小火并不断搅拌。",
+  "nutrition_estimate": {
+    "basis": "每份（约 380g）",
+    "calories_kcal": 340,
+    "protein_g": 28,
+    "fat_g": 14,
+    "carbs_g": 26,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "fish",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鳕鱼须煮至鱼肉完全变白、易分层，中心温度 63℃ 以上。",
+    "含乳制品与麸质，相关过敏人群须替换。",
+    "汤品含鱼，隔夜复热须彻底煮沸。"
+  ],
+  "origin_note": "奶油鱼汤是北欧渔村的日常主食，黄油炒蔬菜、面粉勾芡、牛奶收浓，最后放几块鳕鱼。北欧人习惯配一片黑麦面包，把汤喝到碗底。",
+  "tags": [
+    "北欧菜",
+    "汤品",
+    "鳕鱼",
+    "奶油"
+  ],
+  "related_ids": [
+    "bouillabaisse",
+    "garlic-butter-shrimp"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

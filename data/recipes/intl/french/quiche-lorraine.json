@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "quiche-lorraine",
+  "name": {
+    "zh": "洛林咸派",
+    "en": "Quiche Lorraine"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "staple-bread",
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 35,
+    "total_min": 60
+  },
+  "servings": 6,
+  "flavor": [
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 125,
+          "unit": "g",
+          "note": "冷藏切丁",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 150,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 100,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        },
+        {
+          "name": "奶油",
+          "name_en": "cream",
+          "amount": 200,
+          "unit": "ml",
+          "note": "淡奶油",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 50,
+          "unit": "ml",
+          "note": "调节浓稠",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "派模",
+    "擀面杖",
+    "平底锅",
+    "烤箱",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉与冷藏黄油丁搓成粗砂状，加少量清水揉成团，冷藏松弛二十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "黄油要冷，面团才酥。",
+      "visual_cue": "面团成团、手感微凉"
+    },
+    {
+      "n": 2,
+      "text": "面团擀成三毫米厚圆片铺进派模，压实边缘后用叉子在底部扎孔。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "扎孔防止烤时鼓起。",
+      "visual_cue": "派皮贴合模壁、孔洞均匀"
+    },
+    {
+      "n": 3,
+      "text": "培根下平底锅小火煸出油，煎到边缘微焦后捞出铺在派皮底部，撒一半奶酪。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "培根煸干，派里才不会出水。",
+      "visual_cue": "培根焦边、油脂析出"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋打散加奶油、牛奶、盐与黑胡椒拌匀，过筛后倒进派模，撒剩余奶酪。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋奶液过筛，口感更细。",
+      "visual_cue": "蛋液顺滑、奶酪铺匀"
+    },
+    {
+      "n": 5,
+      "text": "烤箱 180℃ 烤三十分钟至表面金黄、轻轻晃动中心不流动，取出静置十分钟再切。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "静置十分钟再切才不塌。",
+      "visual_cue": "表面金黄、中心凝固"
+    }
+  ],
+  "tips": [
+    "黄油必须冷藏状态搓进面粉，派皮才酥松。",
+    "蛋奶液过筛一次，烤出的内馅才细腻无孔。",
+    "出炉静置十分钟再切，内馅才不流散。"
+  ],
+  "common_mistakes": [
+    "黄油软化后再搓面，派皮烤完发硬不酥。",
+    "蛋奶液倒太满，烤时溢出糊在模子外。",
+    "刚出炉就急着切块，内馅会全部流散不成形。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "火腿",
+      "ratio": "150g 对 150g",
+      "note": "咸度更低，盐可减 1g。"
+    },
+    {
+      "original": "奶油",
+      "substitute": "牛奶",
+      "ratio": "200ml 对 200ml",
+      "note": "质地更轻，烤制时间减 3 分钟。"
+    }
+  ],
+  "variations": [
+    "素食版：去掉培根，加 150g 炒软的洋葱与蘑菇。",
+    "奶酪版：奶酪加至 150g，表面更厚实。"
+  ],
+  "serving_suggestion": "温热时切块，配一份蔬菜沙拉当午餐或早午餐。",
+  "storage": "冷藏可存 3 天，复热 170℃ 烤 8 分钟恢复酥皮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 480,
+    "protein_g": 16,
+    "fat_g": 34,
+    "carbs_g": 26,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质、蛋与乳制品，相关过敏人群须替换。",
+    "派模与烤箱温度高，取模须戴隔热手套。",
+    "含肉馅的派须冷藏保存，室温放置不超过 2 小时。"
+  ],
+  "origin_note": "洛林咸派来自法国东北部洛林地区，最初只有培根、蛋和奶油三样。派皮要酥、内馅要嫩，烤到表面金黄、中心微颤，静置十分钟再切才不会塌。",
+  "tags": [
+    "法国菜",
+    "咸派",
+    "培根",
+    "烤箱菜"
+  ],
+  "related_ids": [
+    "sauce-bechamel",
+    "creme-brulee"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

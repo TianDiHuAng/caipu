@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "british-roast-beef",
+  "name": {
+    "zh": "英式烤牛里脊",
+    "en": "Roast Beef"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "british"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 70,
+    "total_min": 90
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛里脊",
+          "name_en": "beef tenderloin",
+          "amount": 800,
+          "unit": "g",
+          "note": "整块回温",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "迷迭香",
+          "name_en": "rosemary",
+          "amount": 6,
+          "unit": "g",
+          "note": "新鲜",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "烤肉汁底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "抹面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "收汁用",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 15,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "烤架",
+    "温度计",
+    "平底锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛里脊提前一小时从冷藏取出回温，用厨房纸擦干，全身抹盐、黑胡椒与橄榄油。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "回温后中心才不会外熟内生。",
+      "visual_cue": "肉表面干爽、调味均匀"
+    },
+    {
+      "n": 2,
+      "text": "烤盘铺洋葱、胡萝卜、大蒜与迷迭香，架上牛里脊，周围摆土豆块并撒盐。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "蔬菜垫底，烤肉汁不糊盘。",
+      "visual_cue": "蔬菜铺满、牛里脊居中"
+    },
+    {
+      "n": 3,
+      "text": "220℃ 先烤二十分钟上色，转 180℃ 继续烤四十分钟至中心 54℃，其间不要开箱门。",
+      "time_min": 50,
+      "heat": "无火",
+      "tip": "用温度计判断，别靠时间猜。",
+      "visual_cue": "表面焦褐、肉汁清澈"
+    },
+    {
+      "n": 4,
+      "text": "取出牛里脊盖锡纸静置十五分钟，让肉汁回流，切时不出血水。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "静置和烤一样重要。",
+      "visual_cue": "肉汁回流、切面湿润"
+    },
+    {
+      "n": 5,
+      "text": "烤盘蔬菜与高汤入锅煮开，加面粉与黄油收成浓稠肉汁，配切片牛里脊上桌。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "刮起盘底焦物，汁才香。",
+      "visual_cue": "肉汁浓稠、挂勺不流"
+    }
+  ],
+  "tips": [
+    "牛里脊必须回温再烤，冷肉直接进烤箱会外焦内生。",
+    "用温度计读中心温度，54℃ 出炉配静置正好三分熟。",
+    "烤完静置十五分钟再切，肉汁才不会流一盘子。"
+  ],
+  "common_mistakes": [
+    "冷牛里脊直接进烤箱，中心温度永远追不上表面。",
+    "不看温度只按时间，切开全是灰褐色。",
+    "烤完立刻切，肉汁全流失，肉质发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛里脊",
+      "substitute": "牛外脊",
+      "ratio": "800g 对 800g",
+      "note": "脂肪更多，烤制时间加 5 分钟。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "橄榄油",
+      "ratio": "30g 对 25ml",
+      "note": "收汁风味略淡。"
+    }
+  ],
+  "variations": [
+    "威灵顿版：整块牛里脊包酥皮烤制。",
+    "香草版：迷迭香加倍，另加 5g 百里香。"
+  ],
+  "serving_suggestion": "配约克夏布丁、烤土豆、肉汁与辣根酱。",
+  "storage": "冷藏可存 3 天，切片后冷食做三明治更佳。",
+  "nutrition_estimate": {
+    "basis": "每份（约 280g）",
+    "calories_kcal": 520,
+    "protein_g": 48,
+    "fat_g": 30,
+    "carbs_g": 14,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛里脊中心温度须达 54℃ 以上并按需延长，儿童孕妇建议全熟（71℃ 以上）。",
+    "烤肉盘与肉汁温度高，取盘须戴隔热手套。",
+    "生肉汁液接触的器具须彻底清洗。"
+  ],
+  "origin_note": "英式烤牛里脊是英国周日的固定主菜，配约克夏布丁和肉汁一起上桌。关键全在温度：中心 54℃ 出炉、静置十五分钟，切面才是漂亮的粉红色。",
+  "tags": [
+    "英国菜",
+    "牛里脊",
+    "烤箱",
+    "主菜"
+  ],
+  "related_ids": [
+    "borscht",
+    "garlic-butter-shrimp"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

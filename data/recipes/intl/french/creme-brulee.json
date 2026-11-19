@@ -3,7 +3,7 @@
   "content_version": 1,
   "id": "creme-brulee",
   "name": {
-    "zh": "法式焦糖布丁",
+    "zh": "法式焦糖布蕾",
     "en": "Creme Brulee"
   },
   "cuisine": {
@@ -13,11 +13,11 @@
   "category": [
     "dessert"
   ],
-  "difficulty": 3,
+  "difficulty": 2,
   "time": {
     "prep_min": 15,
-    "cook_min": 40,
-    "total_min": 55
+    "cook_min": 35,
+    "total_min": 50
   },
   "servings": 4,
   "flavor": [
@@ -30,40 +30,19 @@
       "group": "main",
       "items": [
         {
-          "name": "淡奶油",
-          "name_en": "heavy cream",
+          "name": "奶油",
+          "name_en": "cream",
           "amount": 400,
           "unit": "ml",
-          "note": "脂肪含量约 35%",
+          "note": "淡奶油",
           "optional": false
-        }
-      ]
-    },
-    {
-      "group": "aux",
-      "items": [
+        },
         {
           "name": "鸡蛋",
           "name_en": "egg",
           "amount": 100,
           "unit": "g",
-          "note": "只用蛋黄，约五个",
-          "optional": false
-        },
-        {
-          "name": "蛋黄",
-          "name_en": "egg yolk",
-          "amount": 100,
-          "unit": "g",
-          "note": "约五个",
-          "optional": false
-        },
-        {
-          "name": "香草荚",
-          "name_en": "vanilla pod",
-          "amount": 4,
-          "unit": "g",
-          "note": "剖开刮籽",
+          "note": "四个蛋黄",
           "optional": false
         }
       ]
@@ -72,141 +51,132 @@
       "group": "seasoning",
       "items": [
         {
-          "name": "红糖",
-          "name_en": "brown sugar",
-          "amount": 40,
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 80,
           "unit": "g",
-          "note": "表面焦糖用",
+          "note": "分蛋液与表面",
           "optional": false
         },
         {
-          "name": "清水",
-          "name_en": "water",
-          "amount": 400,
-          "unit": "ml",
-          "note": "水浴用",
+          "name": "香草荚",
+          "name_en": "vanilla pod",
+          "amount": 2,
+          "unit": "g",
+          "note": "剖开取籽",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
           "optional": false
         }
       ]
     }
   ],
   "equipment": [
-    "烤碗",
-    "烤箱",
+    "小锅",
     "打蛋器",
-    "喷枪"
+    "烤碗",
+    "喷枪",
+    "烤盘"
   ],
   "steps": [
     {
       "n": 1,
-      "text": "淡奶油倒进小锅，剖开香草荚刮出籽一起放进去，小火加热到边缘冒小泡。",
-      "time_min": 6,
+      "text": "奶油加香草荚小火加热到微微冒汽，关火焖五分钟让香气渗出后捞出荚壳。",
+      "time_min": 8,
       "heat": "小火",
-      "tip": "不要煮沸，边缘冒泡就离火。",
-      "visual_cue": "奶油微沸、香气散出"
+      "tip": "别煮沸，起皮就影响口感。",
+      "visual_cue": "奶液冒汽、香气明显"
     },
     {
       "n": 2,
-      "text": "蛋黄加白糖轻轻搅匀，不要打出泡沫，否则成品表面会有气孔。",
-      "time_min": 4,
+      "text": "蛋黄加 50g 白糖与盐打散，边搅边缓缓倒入温奶油，搅到完全融合。",
+      "time_min": 5,
       "heat": "无火",
-      "tip": "只搅不抽打，泡沫是敌人。",
-      "visual_cue": "蛋液顺滑无粗泡、呈哑光"
+      "tip": "奶油要温不要烫，否则蛋会熟。",
+      "visual_cue": "蛋奶液顺滑、颜色淡黄"
     },
     {
       "n": 3,
-      "text": "热奶油分三次慢慢倒进蛋液，边倒边搅，避免蛋液被烫成蛋花。",
-      "time_min": 5,
+      "text": "蛋奶液过筛后倒进烤碗，放入注了热水的烤盘，150℃ 水浴烤二十五分钟。",
+      "time_min": 25,
       "heat": "无火",
-      "tip": "一点点倒，温度差太大就结块。",
-      "visual_cue": "混合液顺滑、无颗粒"
+      "tip": "水浴慢烤，质地才细腻。",
+      "visual_cue": "布蕾凝固、中心轻晃微颤"
     },
     {
       "n": 4,
-      "text": "混合液过筛两遍，撇去表面浮沫，倒进烤碗，装七分满即可。",
-      "time_min": 5,
+      "text": "出炉放凉冷藏两小时，表面撒剩余白糖，用喷枪烧到焦糖化即可。",
+      "time_min": 3,
       "heat": "无火",
-      "tip": "过筛两遍口感才细腻。",
-      "visual_cue": "液面平整、表面无浮沫"
-    },
-    {
-      "n": 5,
-      "text": "烤盘倒入滚烫的清水至烤碗一半高，150℃ 水浴烤三十分钟。",
-      "time_min": 30,
-      "heat": "无火",
-      "tip": "中心微晃就可出炉，余温会继续凝固。",
-      "visual_cue": "中心轻晃、边缘已定"
-    },
-    {
-      "n": 6,
-      "text": "冷藏两小时后表面撒一层红糖，用喷枪烧到融化起焦壳即可。",
-      "time_min": 5,
-      "heat": "无火",
-      "tip": "红糖铺薄薄一层，太厚会发苦。",
-      "visual_cue": "表面焦糖化、呈琥珀色"
+      "tip": "糖要薄薄一层，烧起来才脆。",
+      "visual_cue": "表面琥珀脆壳、轻敲有声"
     }
   ],
   "tips": [
-    "蛋液只搅拌不打发，打进空气会让表面布满气孔。",
-    "水浴是成败关键，水温和缓才能烤出细腻如膏的质地。",
-    "焦糖要现烧现吃，糖壳放久会返潮变软。"
+    "奶油加热到冒汽即可，煮沸会结皮影响细腻度。",
+    "蛋奶液务必过筛，烤出的布蕾才无气泡。",
+    "焦糖层要现烧现吃，久放会回软。"
   ],
   "common_mistakes": [
-    "热奶油一次性倒进蛋液，蛋液结成一团蛋花。",
-    "烤箱温度偏高又没水浴，布丁表面结皮内部蜂窝。",
-    "喷枪离得太近，糖面瞬间烧黑发苦。"
+    "蛋奶液倒进滚烫奶油，蛋液直接结块。",
+    "烤箱温度太高又不水浴，表面裂开呈蜂窝状。",
+    "表面糖撒太厚，烧出的焦糖又苦又硬。"
   ],
   "substitutions": [
     {
-      "original": "香草荚",
-      "substitute": "香草精",
-      "ratio": "4g 对 5ml",
-      "note": "香气略淡，需在离火后加入。"
+      "original": "奶油",
+      "substitute": "牛奶",
+      "ratio": "400ml 对 400ml 加 30g 黄油",
+      "note": "质地更轻，烤制时间减 5 分钟。"
     },
     {
-      "original": "淡奶油",
-      "substitute": "牛奶",
-      "ratio": "400ml 对 400ml",
-      "note": "质地更轻盈，烤制时间缩短 5 分钟。"
+      "original": "香草荚",
+      "substitute": "香草精",
+      "ratio": "2g 对 3ml",
+      "note": "直接拌入蛋奶液。"
     }
   ],
   "variations": [
-    "柑橘版：布丁液里加 5g 橙皮屑。",
-    "咖啡版：奶油中加 8g 速溶咖啡粉一起加热。"
+    "柠檬版：奶油里加 10g 柠檬皮屑同焖。",
+    "咖啡版：加 3g 速溶咖啡粉，风味更成人。"
   ],
-  "serving_suggestion": "配几颗覆盆子或一小块酥饼，用勺子敲破糖壳再吃。",
-  "storage": "冷藏可存 2 天，焦糖壳须食用前再烧。",
+  "serving_suggestion": "冷藏后现烧焦糖，配一小勺莓果解腻。",
+  "storage": "布蕾冷藏可存 2 天，焦糖层须食用前再烧。",
   "nutrition_estimate": {
     "basis": "每份（约 140g）",
-    "calories_kcal": 430,
+    "calories_kcal": 380,
     "protein_g": 6,
-    "fat_g": 36,
+    "fat_g": 30,
     "carbs_g": 24,
-    "sodium_mg": 60,
+    "sodium_mg": 90,
     "is_estimate": true,
     "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
   "allergens": [
-    "egg",
-    "milk"
+    "egg"
   ],
   "diet_tags": [],
   "food_safety_notes": [
-    "蛋黄液须彻底加热至中心温度 82℃ 以上，避免沙门氏菌风险。",
-    "含乳制品与蛋类，相关过敏人群不宜食用。",
-    "喷枪明火使用须远离纸巾窗帘，烧糖时不要俯身正对碗口。"
+    "含蛋与乳制品，相关过敏人群须替换。",
+    "喷枪火焰温度极高，烧制时远离纸品与布料。",
+    "布蕾须冷藏保存，室温放置不超过 2 小时。"
   ],
-  "origin_note": "焦糖布丁是法国宫廷菜谱里流传最广的一道甜点，名字直译是「烧焦的奶油」。表面那层现烧的糖壳脆得能敲响，下面是冰凉细腻的蛋奶糊，一冷一热构成法式甜点的经典对比。",
+  "origin_note": "焦糖布蕾是法式甜点的经典，只用奶油、蛋黄和糖。蛋奶液低温水浴烤到刚凝，冷藏后表面撒糖用喷枪烧成琥珀脆壳，一勺敲下去要有脆响。",
   "tags": [
     "法国菜",
     "甜点",
     "焦糖",
-    "蛋奶"
+    "奶油"
   ],
   "related_ids": [
-    "boeuf-bourguignon",
-    "french-onion-soup",
-    "ratatouille"
+    "flan",
+    "quiche-lorraine"
   ],
   "image_url": null,
   "image_credit": null,

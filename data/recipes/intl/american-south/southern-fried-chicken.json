@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "southern-fried-chicken",
+  "name": {
+    "zh": "美式南方炸鸡",
+    "en": "Southern Fried Chicken"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american-south"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "带骨或去骨切块",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 150,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "腌渍用",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 20,
+          "unit": "g",
+          "note": "挤汁入奶",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "增辣上色",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 40,
+          "unit": "g",
+          "note": "增加脆度",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 270,
+          "unit": "ml",
+          "note": "炸制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "温度计",
+    "漏勺",
+    "大碗",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛奶加柠檬汁静置五分钟成酪乳状，放入鸡腿肉块、蒜末与一半盐腌二十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "酸性奶让鸡肉更嫩。",
+      "visual_cue": "奶液微稠、鸡块浸透"
+    },
+    {
+      "n": 2,
+      "text": "面粉、淀粉、辣椒粉、黑胡椒与剩余盐混匀成裹粉，鸡块捞出沥掉多余奶液。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "粉料混匀，裹层才均匀。",
+      "visual_cue": "粉料均匀、鸡块湿而不滴"
+    },
+    {
+      "n": 3,
+      "text": "植物油倒入深锅烧到 170℃，鸡腿肉块裹粉压实后抖掉多余干粉，分两批下锅。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "压一下粉，炸衣才贴肉。",
+      "visual_cue": "粉层贴紧、油面翻泡"
+    },
+    {
+      "n": 4,
+      "text": "每批炸八分钟至深金黄、外壳硬脆，捞出沥油静置三分钟再上桌。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "静置让内部余温收尾。",
+      "visual_cue": "外壳深金、敲击有声"
+    }
+  ],
+  "tips": [
+    "牛奶加柠檬汁做简易酪乳，腌出的鸡肉更嫩更多汁。",
+    "裹粉要压实再抖掉多余干粉，炸衣才贴肉不掉。",
+    "油量不多就分两批炸，锅温稳定外壳才脆。"
+  ],
+  "common_mistakes": [
+    "鸡块湿着裹粉就炸，炸衣整片脱落。",
+    "油温太低就下锅，炸出来油润发软。",
+    "一次全下锅，油温骤降，成品又油又白。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅",
+      "ratio": "700g 对 800g",
+      "note": "炸制时间减到 7 分钟。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "酸奶",
+      "ratio": "200ml 对 200g",
+      "note": "酸度更高，腌 15 分钟即可。"
+    }
+  ],
+  "variations": [
+    "辣味版：裹粉里辣椒粉加倍，另加 5g 辣椒粉撒面。",
+    "烤箱版：200℃ 烤二十五分钟，中途翻面。"
+  ],
+  "serving_suggestion": "配土豆泥、肉汁与凉拌卷心菜，再来一杯冰红茶。",
+  "storage": "冷藏可存 2 天，复热 200℃ 烤 6 分钟恢复脆皮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 260g）",
+    "calories_kcal": 640,
+    "protein_g": 42,
+    "fat_g": 38,
+    "carbs_g": 30,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡块须炸至中心完全熟透、无血水，中心温度 74℃ 以上。",
+    "油炸时鸡块带湿易爆油，沿锅边轻放并保持距离。",
+    "炸油颜色变深即废弃，不宜反复使用超过 3 次。"
+  ],
+  "origin_note": "南方炸鸡是美国南部的标志性食物，酪乳腌渍、调味面粉裹层、中温慢炸，外壳咬下去要有脆响。周日炸一锅、凉了带去野餐，是南方家庭的传统。",
+  "tags": [
+    "美国南方菜",
+    "炸鸡",
+    "油炸",
+    "酪乳"
+  ],
+  "related_ids": [
+    "buffalo-wings",
+    "hamburger"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

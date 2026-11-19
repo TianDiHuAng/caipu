@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "turkish-kofta",
+  "name": {
+    "zh": "土耳其烤肉丸",
+    "en": "Turkish Kofta"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "turkish"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 450,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "擦泥挤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "一个取蛋清",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡软挤干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "烤签",
+    "平底锅",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱擦成泥后挤掉汁水，与牛肉末、蛋清、泡软挤干的面包一起放进大碗。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洋葱汁挤掉，肉丸才不散。",
+      "visual_cue": "肉馅黏稠、洋葱成泥"
+    },
+    {
+      "n": 2,
+      "text": "加蒜末、欧芹碎、孜然、辣椒粉、盐与黑胡椒，顺一个方向搅到起胶。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "搅到发黏上劲，口感才弹。",
+      "visual_cue": "肉馅发亮、能拉出丝"
+    },
+    {
+      "n": 3,
+      "text": "肉馅冷藏十分钟后分成十二份，搓成椭圆压扁，串在烤签上整形成长条。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "压扁贴签，受热更均匀。",
+      "visual_cue": "肉条厚薄一致、贴合烤签"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒植物油中火烧热，肉丸每面煎三分钟至表面焦褐、内部熟透。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "别频繁翻动，焦壳才成型。",
+      "visual_cue": "表面焦褐、按压有弹性"
+    }
+  ],
+  "tips": [
+    "洋葱擦泥后挤干汁水，多余水分会让肉丸在锅里散开。",
+    "肉馅要顺一个方向搅到起胶，烤出来才有弹性。",
+    "整形时压扁贴紧烤签，受热均匀才不会外焦里生。"
+  ],
+  "common_mistakes": [
+    "肉馅没上劲就下锅，一煎就散成肉末。",
+    "火太大又不翻面，外面焦黑里面还是生的。",
+    "肉丸做得太厚，中心始终熟不透，切开还是粉色。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "羊肉末",
+      "ratio": "450g 对 450g",
+      "note": "香气更浓，孜然可减半。"
+    },
+    {
+      "original": "面包",
+      "substitute": "面包糠",
+      "ratio": "40g 对 30g",
+      "note": "吸水性更强。"
+    }
+  ],
+  "variations": [
+    "酸奶版：配 200g 酸奶与烤饼一起上桌。",
+    "番茄版：煎好后加 200g 番茄膏酱汁焖五分钟。"
+  ],
+  "serving_suggestion": "配皮塔饼、番茄片、洋葱丝与酸奶酱，卷起来吃。",
+  "storage": "冷藏可存 2 天，冷冻 1 个月，复热用平底锅小火煎 4 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 190g）",
+    "calories_kcal": 420,
+    "protein_g": 30,
+    "fat_g": 28,
+    "carbs_g": 10,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉末须完全煎熟至中心温度 71℃ 以上，避免肉馅内部细菌残留。",
+    "鸡蛋为常见过敏原，过敏人群可省略蛋清改用 10g 淀粉。",
+    "生肉接触过的砧板与手须彻底清洗。"
+  ],
+  "origin_note": "烤肉丸是土耳其烧烤摊的常客，当地人叫它 kofta。洋葱泥给肉馅水分与甜味，孜然与辣椒粉定下那股中东香气，压扁贴在烤签上，炭火一烤就滋滋冒油。",
+  "tags": [
+    "土耳其菜",
+    "牛肉",
+    "烤肉",
+    "孜然"
+  ],
+  "related_ids": [
+    "hummus"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

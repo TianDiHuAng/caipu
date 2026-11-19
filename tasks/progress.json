@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:28:26.520Z",
+  "generatedAt": "2026-11-19T09:37:25.168Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 479,
+    "cells": 485,
     "target": 3274,
-    "actual": 273,
-    "coverage": 0.08338423946243127
+    "actual": 305,
+    "coverage": 0.09315821624923641
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 37,
+        "actual": 38,
         "cells": [
           {
             "category": "main-meat",
@@ -74,9 +74,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "sichuan-hongyou-lazi"
+              "sichuan-hongyou-lazi",
+              "yuxiang-jiang"
             ]
           },
           {
@@ -567,7 +568,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 14,
         "cells": [
           {
             "category": "main-seafood",
@@ -612,9 +613,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "guihua-nuomiyu"
+              "guihua-nuomiyu",
+              "ningbo-tangyuan"
             ]
           },
           {
@@ -651,9 +653,10 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "congbaogui"
+              "congbaogui",
+              "ningbo-tangyuan"
             ]
           },
           {
@@ -885,7 +888,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -927,8 +930,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "huizhou-shaobing"
+            ]
           },
           {
             "category": "main-egg",
@@ -974,6 +979,15 @@
             "actual": 1,
             "ids": [
               "fuliji-shaoji"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "huizhou-shaobing"
             ]
           }
         ]
@@ -2144,14 +2158,15 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 7,
+        "actual": 12,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "larb-gai",
               "thai-cashew-chicken",
               "thai-green-curry-chicken"
             ]
@@ -2170,8 +2185,9 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "larb-gai",
               "som-tam"
             ]
           },
@@ -2179,8 +2195,9 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "thai-steamed-fish",
               "tom-yum-goong"
             ]
           },
@@ -2188,8 +2205,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "thai-coconut-sticky-rice"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -2219,6 +2238,15 @@
             "actual": 1,
             "ids": [
               "pad-thai"
+            ]
+          },
+          {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "thai-coconut-sticky-rice"
             ]
           }
         ]
@@ -2324,15 +2352,16 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "boeuf-bourguignon"
+              "boeuf-bourguignon",
+              "quiche-lorraine"
             ]
           },
           {
@@ -2348,8 +2377,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "sauce-bechamel"
+            ]
           },
           {
             "category": "soup",
@@ -2416,6 +2447,15 @@
             "ids": [
               "garlic-butter-shrimp"
             ]
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "quiche-lorraine"
+            ]
           }
         ]
       },
@@ -2425,23 +2465,26 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 8,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "gambas-al-ajillo"
+              "gambas-al-ajillo",
+              "pulpo-a-la-gallega"
             ]
           },
           {
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tortilla-espanola"
+            ]
           },
           {
             "category": "staple-rice",
@@ -2456,22 +2499,28 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "flan"
+            ]
           },
           {
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "romesco"
+            ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tortilla-espanola"
+            ]
           },
           {
             "category": "main-egg",
@@ -2820,7 +2869,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2862,8 +2911,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "kheer"
+            ]
           },
           {
             "category": "main-egg",
@@ -2978,14 +3029,16 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "hummus"
+            ]
           },
           {
             "category": "main-meat",
@@ -3028,6 +3081,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "hummus"
+            ]
           }
         ]
       },
@@ -3037,14 +3099,16 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "turkish-kofta"
+            ]
           },
           {
             "category": "staple-bread",
@@ -3155,14 +3219,16 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 3,
         "cells": [
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tzatziki"
+            ]
           },
           {
             "category": "main-meat",
@@ -3175,8 +3241,10 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "greek-roast-vegetable-salad"
+            ]
           },
           {
             "category": "dessert",
@@ -3205,6 +3273,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "sauce",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "tzatziki"
+            ]
           }
         ]
       },
@@ -3214,14 +3291,16 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "portuguese-grilled-sardines"
+            ]
           },
           {
             "category": "dessert",
@@ -3340,14 +3419,16 @@
         "en": "British",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "british-roast-beef"
+            ]
           },
           {
             "category": "bakery",
@@ -3444,14 +3525,16 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "nordic-fish-soup"
+            ]
           },
           {
             "category": "bakery",
@@ -3494,6 +3577,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "nordic-fish-soup"
+            ]
           }
         ]
       },
@@ -3562,14 +3654,16 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "borscht"
+            ]
           },
           {
             "category": "main-meat",
@@ -3727,14 +3821,16 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "southern-fried-chicken"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -3908,7 +4004,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "snack",
@@ -3950,8 +4046,10 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "agua-fresca"
+            ]
           },
           {
             "category": "main-vegetable",

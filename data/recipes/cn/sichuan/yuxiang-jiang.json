@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yuxiang-jiang",
+  "name": {
+    "zh": "川味鱼香酱",
+    "en": "Sichuan Yuxiang Sauce"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 10,
+    "total_min": 20
+  },
+  "servings": 2,
+  "flavor": [
+    "spicy",
+    "sour",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 80,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "调甜",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "酱油",
+          "name_en": "soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "稀释",
+          "optional": false
+        },
+        {
+          "name": "淀粉",
+          "name_en": "starch",
+          "amount": 10,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅",
+    "碗",
+    "木勺",
+    "量勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "碗里放白糖、米醋、酱油、清水与淀粉，搅匀成碗汁备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "淀粉先化开，勾芡才不结块。",
+      "visual_cue": "碗汁均匀、无干粉"
+    },
+    {
+      "n": 2,
+      "text": "锅中倒植物油小火加热，下辣椒酱炒出红油，火别大以免炒焦。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "小火炒红油，颜色才亮。",
+      "visual_cue": "油色红亮、香气冲鼻"
+    },
+    {
+      "n": 3,
+      "text": "加姜末与蒜末炒出香味，倒入碗汁转中火煮到冒泡变浓稠。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "边倒边搅，芡才均匀。",
+      "visual_cue": "酱汁浓稠、气泡翻起"
+    },
+    {
+      "n": 4,
+      "text": "加盐调味，煮到酱体能挂勺即可关火装瓶保存。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "挂勺就停火，过了发硬。",
+      "visual_cue": "酱体透亮、挂勺不流"
+    }
+  ],
+  "tips": [
+    "糖、醋、酱油的比例按 2:3:3 调，酸甜咸才平衡。",
+    "辣椒酱要用小火炒出红油，火大就苦。",
+    "淀粉水边倒边搅，芡汁才顺滑不结块。"
+  ],
+  "common_mistakes": [
+    "辣椒酱大火炒，红油没出来先糊了锅。",
+    "淀粉水一次性倒入，酱里全是白色疙瘩。",
+    "醋放太早久煮，酸味挥发只剩咸甜。"
+  ],
+  "substitutions": [
+    {
+      "original": "辣椒酱",
+      "substitute": "豆瓣酱",
+      "ratio": "80g 对 80g",
+      "note": "咸度更高，盐可减 1g。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "白醋",
+      "ratio": "30ml 对 30ml",
+      "note": "酸味更直接。"
+    }
+  ],
+  "variations": [
+    "糖醋版：糖加至 30g，醋减至 20ml，口感更甜。",
+    "蒜香版：蒜末加至 60g，出锅前再撒一把生蒜。"
+  ],
+  "serving_suggestion": "用来炒肉丝、茄子或豆腐，一勺就能出锅鱼香味。",
+  "storage": "冷藏密封可存 10 天，取用须用干净勺子。",
+  "nutrition_estimate": {
+    "basis": "每份（约 75g）",
+    "calories_kcal": 150,
+    "protein_g": 3,
+    "fat_g": 12,
+    "carbs_g": 9,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含大豆制品，相关过敏人群须替换。",
+    "炒红油时油温高，辣椒酱下锅易溅，须保持距离。",
+    "自制酱须冷藏保存，取用器具保持干燥清洁。"
+  ],
+  "origin_note": "鱼香酱是川菜里最出名的一味复合调料，靠辣椒酱、姜蒜、糖醋和酱油调出所谓的鱼香。真正下锅时讲究糖醋比例和勾芡火候，芡亮汁浓才算合格。",
+  "tags": [
+    "川菜",
+    "酱料",
+    "鱼香",
+    "复合味"
+  ],
+  "related_ids": [
+    "yuxiang-rousi",
+    "sichuan-hongyou-lazi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

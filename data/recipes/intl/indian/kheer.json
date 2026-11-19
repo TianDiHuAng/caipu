@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "kheer",
+  "name": {
+    "zh": "印度米布丁",
+    "en": "Kheer"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 40,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 100,
+          "unit": "g",
+          "note": "短粒米洗净",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 800,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "腰果",
+          "name_en": "cashew",
+          "amount": 30,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "葡萄干",
+          "name_en": "raisin",
+          "amount": 25,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "豆蔻",
+          "name_en": "cardamom",
+          "amount": 2,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 70,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 0.3,
+          "unit": "g",
+          "note": "温水泡开",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "小碗",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米洗净后泡十分钟，沥干备用，泡过的米更容易煮开花。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡过的米煮得快。",
+      "visual_cue": "米粒发白、沥干不滴水"
+    },
+    {
+      "n": 2,
+      "text": "牛奶倒入厚底锅煮到微沸，加米转小火煮三十五分钟，边煮边刮底。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "全程刮底，牛奶易糊。",
+      "visual_cue": "米粒开花、奶液变稠"
+    },
+    {
+      "n": 3,
+      "text": "加白糖搅到化开，再煮五分钟收浓，撒豆蔻粉与藏红花水拌匀。",
+      "time_min": 35,
+      "heat": "小火",
+      "tip": "糖后加，米才容易煮软。",
+      "visual_cue": "质地浓稠、色呈浅黄"
+    },
+    {
+      "n": 4,
+      "text": "关火撒腰果碎与葡萄干，温热或冷藏后食用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "坚果最后加，保持脆感。",
+      "visual_cue": "表面点缀、质地挂勺"
+    }
+  ],
+  "tips": [
+    "牛奶全程小火并不断刮底，糊锅的焦味会毁掉整锅。",
+    "米先泡十分钟再煮，米粒才容易开花出浆。",
+    "糖最后加，早放会让米粒紧实不易煮软。"
+  ],
+  "common_mistakes": [
+    "大火煮牛奶，沸出锅沿还糊了底，整锅都带焦味。",
+    "糖一开始就加，米煮到发硬也不开花。",
+    "煮好立刻装碗，放凉后变成一块糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "椰浆",
+      "ratio": "800ml 对 600ml 加 200ml 水",
+      "note": "风味更南洋。"
+    },
+    {
+      "original": "葡萄干",
+      "substitute": "红枣",
+      "ratio": "25g 对 30g",
+      "note": "先去核切碎。"
+    }
+  ],
+  "variations": [
+    "椰香版：一半牛奶换椰浆，加 20g 椰丝。",
+    "坚果版：腰果换成 30g 开心果。"
+  ],
+  "serving_suggestion": "温热时盛小碗，撒豆蔻粉与坚果碎；冷藏后口感更像布丁。",
+  "storage": "冷藏可存 3 天，食用前加少量牛奶调开。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 330,
+    "protein_g": 10,
+    "fat_g": 12,
+    "carbs_g": 46,
+    "sodium_mg": 120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品与坚果，相关过敏人群须替换。",
+    "牛奶煮制时易沸溢，须留出空间并有人看守。",
+    "成品冷藏保存，室温放置不超过 2 小时。"
+  ],
+  "origin_note": "米布丁是印度节庆与寺庙供品的常客，家庭做法只用米、牛奶和糖，慢火熬到米粒开花、奶液变稠，最后撒豆蔻与藏红花，满屋都是奶香。",
+  "tags": [
+    "印度菜",
+    "甜点",
+    "米",
+    "牛奶"
+  ],
+  "related_ids": [
+    "chana-masala",
+    "thai-coconut-sticky-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
