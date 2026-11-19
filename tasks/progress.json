@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:21:14.323Z",
+  "generatedAt": "2026-11-19T11:59:15.665Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 493,
     "target": 3274,
-    "actual": 340,
-    "coverage": 0.10384850335980451
+    "actual": 351,
+    "coverage": 0.10720830788026879
   },
   "regions": {
     "cn": [
@@ -192,7 +192,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 18,
+        "actual": 20,
         "cells": [
           {
             "category": "main-seafood",
@@ -222,9 +222,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "cu-jiao-yutang"
+              "cu-jiao-yutang",
+              "jiyu-doufu-tang"
             ]
           },
           {
@@ -241,8 +242,9 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "sixi-wanzi",
               "zhaoliu-yupian"
             ]
           },
@@ -583,7 +585,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "main-seafood",
@@ -619,9 +621,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "jiaxing-zongzi"
+              "jiaxing-zongzi",
+              "xianrou-caifan"
             ]
           },
           {
@@ -700,15 +703,16 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "xianggu-rougeng"
+              "xianggu-rougeng",
+              "zicai-sharen-tang"
             ]
           },
           {
@@ -784,7 +788,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 17,
+        "actual": 19,
         "cells": [
           {
             "category": "main-meat",
@@ -804,8 +808,9 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "dong-an-ji",
               "dongan-ziji"
             ]
           },
@@ -826,8 +831,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "hunan-suan-luobo",
               "lei-lajiao-pidan"
             ]
           },
@@ -2535,7 +2541,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 9,
+        "actual": 11,
         "cells": [
           {
             "category": "main-seafood",
@@ -2570,17 +2576,19 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "flan"
+              "flan",
+              "tarta-de-santiago"
             ]
           },
           {
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "romesco-sauce",
               "romesco"
             ]
           },
@@ -4096,14 +4104,15 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 11,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "elote",
               "tacos-de-carne"
             ]
           },
@@ -4130,8 +4139,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "sopa-de-frijol",
               "tortilla-soup"
             ]
           },
@@ -4139,9 +4149,10 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "agua-fresca"
+              "agua-fresca",
+              "horchata"
             ]
           },
           {

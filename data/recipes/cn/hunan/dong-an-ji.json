@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dong-an-ji",
+  "name": {
+    "zh": "湖南东安鸡",
+    "en": "Hunan Dong'an Chicken"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "带骨斩块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 15,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "note": "东安鸡灵魂",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "分两次用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "煮鸡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿斩成 3 厘米见方的块，冷水下锅加 10ml 料酒焯 3 分钟捞出洗净。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "冷水下锅，血沫才能逼出来。",
+      "visual_cue": "水面浮起灰白浮沫、鸡块紧缩"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加 500ml 清水与姜丝，放入鸡块小火煮 10 分钟至七分熟，捞出留汤。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "煮到七分熟就捞，后面还要煸炒。",
+      "visual_cue": "鸡肉断面略带粉色、汤色微黄"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下 40ml 植物油，小火煸香花椒与干辣椒段至颜色转深。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "辣椒别炒黑，否则整道菜发苦。",
+      "visual_cue": "辣椒段呈暗红色、花椒香气冒出"
+    },
+    {
+      "n": 4,
+      "text": "倒入鸡块中火翻炒 4 分钟，沿锅边淋 20ml 料酒与 20ml 生抽。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鸡块炒到边缘微黄更香。",
+      "visual_cue": "鸡块表面收紧、上色均匀"
+    },
+    {
+      "n": 5,
+      "text": "加 150ml 煮鸡原汤与 60ml 米醋，小火焖 8 分钟让酸味渗进肉里。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "米醋分两次放，香气更立体。",
+      "visual_cue": "汤汁收至一半、鸡块油亮"
+    },
+    {
+      "n": 6,
+      "text": "撒 3g 盐与葱段，再淋 10ml 米醋翻匀，大火收汁 1 分钟出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "起锅前补醋，酸香才冲。",
+      "visual_cue": "汤汁浓稠挂肉、酸香扑鼻"
+    }
+  ],
+  "tips": [
+    "米醋要分两次下，第一次入味第二次提香。",
+    "鸡肉煮到七分熟再炒，肉质才嫩不柴。",
+    "干辣椒要用小火慢煸，火急了十秒就发苦。"
+  ],
+  "common_mistakes": [
+    "鸡肉直接生炒下锅，肉质发老还带腥味。",
+    "醋一次性倒完，酸味发冲没有层次。",
+    "辣椒炒到发黑，整锅带着焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿",
+      "substitute": "三黄鸡",
+      "ratio": "600g 对 600g",
+      "note": "肉质更嫩，煮制时间减 2 分钟。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "香醋",
+      "ratio": "60ml 对 55ml",
+      "note": "香醋酸度略高，用量稍减。"
+    }
+  ],
+  "variations": [
+    "去骨版：用鸡腿肉去骨切块，吃起来更方便。",
+    "加仔姜版：加 30g 仔姜丝同焖更清爽。"
+  ],
+  "serving_suggestion": "趁热上桌，酸辣汁拌饭极下饭，配一碗白米饭。",
+  "storage": "冷藏 1 天，复热时加一勺原汤小火焖 3 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 380,
+    "protein_g": 32,
+    "fat_g": 22,
+    "carbs_g": 8,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底加热至中心无血色，煮制后焖炒时间不可缩短。",
+    "处理生鸡肉后须洗手并清洗刀具砧板，避免交叉污染。"
+  ],
+  "origin_note": "东安鸡出自湖南永州东安县，是湘菜里的名菜。用米醋与干辣椒一酸一辣，把鸡肉的鲜味提得极亮，讲究醋分两次下，起锅前那一勺才让酸香立起来。",
+  "tags": [
+    "湘菜",
+    "鸡肉",
+    "酸辣",
+    "名菜"
+  ],
+  "related_ids": [
+    "duojiao-zheng-yutou",
+    "lajiao-chaorou",
+    "hunan-duolajiao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

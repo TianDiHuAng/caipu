@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xianrou-caifan",
+  "name": {
+    "zh": "浙江咸肉菜饭",
+    "en": "Zhejiang Salted Pork Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 35,
+    "total_min": 65
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "淘洗干净",
+          "optional": false
+        },
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 200,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 340,
+          "unit": "ml",
+          "note": "比平时略少",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒配料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "咸肉本身有咸味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "电饭煲",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后沥干，静置 10 分钟让表面水分收干。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "米粒干爽，焖出的饭才不黏糊。",
+      "visual_cue": "米粒松散干爽、互不粘连"
+    },
+    {
+      "n": 2,
+      "text": "咸肉丁冷水下锅煮 3 分钟，捞出沥干去除表面浮盐。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "先焯一遍，饭不会过咸。",
+      "visual_cue": "水面浮起白沫、咸肉转浅色"
+    },
+    {
+      "n": 3,
+      "text": "炒锅烧热下 20ml 植物油，倒入咸肉丁小火煸 4 分钟至边缘微焦。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "把咸肉的油煸出来，饭才香。",
+      "visual_cue": "咸肉出油透亮、锅底见油光"
+    },
+    {
+      "n": 4,
+      "text": "下青菜碎大火翻炒 2 分钟至变软出水，加 2g 盐炒匀。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "青菜炒软再焖，才不会发黄发苦。",
+      "visual_cue": "菜叶塌软、颜色转深绿"
+    },
+    {
+      "n": 5,
+      "text": "把大米倒入锅中与配料翻匀，一起移入电饭煲，加 340ml 清水。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "米和菜拌匀，味道才均匀。",
+      "visual_cue": "米菜混合均匀、水面与米齐平"
+    },
+    {
+      "n": 6,
+      "text": "按下煮饭键焖至跳闸，再焖 10 分钟开盖，用饭勺翻松即可。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "跳闸后别急着开盖，余温能让米心熟透。",
+      "visual_cue": "饭面平整油亮、有咸肉香气"
+    }
+  ],
+  "tips": [
+    "米水比约一比一点一，青菜出水会补足水分。",
+    "咸肉先焯水再煸，饭的咸度更好控制。",
+    "青菜要炒软再下锅焖，生青菜容易发黄。"
+  ],
+  "common_mistakes": [
+    "咸肉直接下锅不焯水，整锅饭咸得发苦。",
+    "清水按平时量加，青菜出水后饭变成粥。",
+    "跳闸后立刻开盖，米心发硬吃着夹生。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸肉",
+      "substitute": "腊肉",
+      "ratio": "120g 对 120g",
+      "note": "腊肉带烟熏味，盐可再减 1g。"
+    },
+    {
+      "original": "青菜",
+      "substitute": "小白菜",
+      "ratio": "200g 对 200g",
+      "note": "出水更多，清水减 20ml。"
+    }
+  ],
+  "variations": [
+    "双拼版：咸肉与香肠各 60g，风味更甜。",
+    "加笋版：拌入 80g 冬笋丁同焖，口感更脆。"
+  ],
+  "serving_suggestion": "配一碗紫菜汤与一碟酱菜，是浙江人家冬天的一顿家常饭。",
+  "storage": "冷藏 1 天，复热时撒一勺清水盖盖小火焖 5 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 560,
+    "protein_g": 18,
+    "fat_g": 16,
+    "carbs_g": 84,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "咸肉属腌腊制品，须彻底煮透炒熟，高血压人群少食。",
+    "焖饭时水量要足，避免锅底结焦产生焦糊物。"
+  ],
+  "origin_note": "咸肉菜饭是浙江冬日最朴素的焖饭，霜打过的青菜自带甜味，配上自家腌的咸肉，一锅焖出油润咸香，饭粒吸饱肉汁与菜汁，配一碗清汤就够一顿。",
+  "tags": [
+    "浙菜",
+    "主食",
+    "咸肉",
+    "焖饭"
+  ],
+  "related_ids": [
+    "baozaifan",
+    "larou-chaofan",
+    "claypot-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sixi-wanzi",
+  "name": {
+    "zh": "山东四喜丸子",
+    "en": "Shandong Braised Pork Meatballs"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 45,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "肥三瘦七剁馅",
+          "optional": false
+        },
+        {
+          "name": "荸荠",
+          "name_en": "water chestnut",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小粒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "拌馅上劲",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 30,
+          "unit": "g",
+          "note": "增稠成型",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炸丸子",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炖丸子",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤勺",
+    "深盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉先切片再剁成粗粒，荸荠切成小粒备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "手工剁的肉料更有颗粒感。",
+      "visual_cue": "肉料细腻带黏性、荸荠粒均匀"
+    },
+    {
+      "n": 2,
+      "text": "把剁好的五花肉加 1 个鸡蛋、3g 盐、30ml 生抽、15ml 料酒、葱姜末与 30g 玉米淀粉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "顺一个方向搅，肉料才上劲不散。",
+      "visual_cue": "肉料抱团起胶、表面发亮"
+    },
+    {
+      "n": 3,
+      "text": "顺一个方向搅打至起胶，拌入荸荠粒，双手沾水团成 4 个大丸子。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "摔打能让丸子紧实，炖时不裂。",
+      "visual_cue": "丸子表面光滑圆整"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒 200ml 植物油烧至六成热，下丸子中火炸 6 分钟至表面金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "油温不够丸子会散，太热外焦里生。",
+      "visual_cue": "丸子浮起、外壳金黄挺立"
+    },
+    {
+      "n": 5,
+      "text": "捞出丸子放入深盘，加 300ml 清水、5g 白糖与剩余生抽。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "水量到丸子一半高即可。",
+      "visual_cue": "汤汁没过丸子下半部分"
+    },
+    {
+      "n": 6,
+      "text": "上锅大火蒸 25 分钟，取出丸子装盘，蒸出的汤汁勾薄芡淋上。",
+      "time_min": 28,
+      "heat": "大火",
+      "tip": "蒸比炖更能保住丸子形状。",
+      "visual_cue": "丸子膨大松软、汤汁浓稠挂勺"
+    }
+  ],
+  "tips": [
+    "五花肉选肥三瘦七，蒸出来才不柴不腻。",
+    "下锅前反复摔打排气，丸子才不会开裂。",
+    "蒸出的原汤勾芡，比另调酱汁更鲜。"
+  ],
+  "common_mistakes": [
+    "肉料全用瘦肉，蒸完干硬像肉饼。",
+    "油温过低就下锅，丸子散在油里成肉渣。",
+    "大火久蒸不收汁，丸子泡在汤里发淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "荸荠",
+      "substitute": "莲藕",
+      "ratio": "100g 对 100g",
+      "note": "口感更脆，需切得更细。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "梅花肉",
+      "ratio": "500g 对 500g",
+      "note": "脂肪略少，可加 20g 猪油。"
+    }
+  ],
+  "variations": [
+    "红烧版：炸后加酱油冰糖小火煨 40 分钟。",
+    "清蒸版：不炸直接蒸 35 分钟，更清淡。"
+  ],
+  "serving_suggestion": "四个丸子寓意福禄寿喜，山东宴席上压轴出场，配青菜垫底。",
+  "storage": "冷藏 2 天，复热时加少量清水蒸 10 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 40,
+    "carbs_g": 14,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须拌入肉料后彻底蒸熟，中心温度达 70 度以上。",
+    "油炸时油量较大，下锅前擦干丸子表面水分防溅油。"
+  ],
+  "origin_note": "四喜丸子是鲁菜宴席的经典大件，四个大丸子象征人生四喜。肉料肥瘦相间，掺入荸荠增加脆口，先炸后蒸，外层紧实内里松软，浇上原汤芡汁才够体面。",
+  "tags": [
+    "鲁菜",
+    "宴席",
+    "丸子",
+    "蒸菜"
+  ],
+  "related_ids": [
+    "shandong-dabobo",
+    "shandong-jianbing",
+    "baochao-yaohua"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "horchata",
+  "name": {
+    "zh": "墨西哥欧洽塔",
+    "en": "Horchata"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 260,
+    "cook_min": 10,
+    "total_min": 270
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 150,
+          "unit": "g",
+          "note": "长粒米",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "一根肉桂棒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "打浆与稀释",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "料理机",
+    "细筛",
+    "纱布",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米冲洗两遍，加 400ml 清水浸泡 4 小时。",
+      "time_min": 240,
+      "heat": "无火",
+      "tip": "泡到米粒一捏就碎最好。",
+      "visual_cue": "米粒发白膨大、水略浑"
+    },
+    {
+      "n": 2,
+      "text": "泡好的米连水倒入料理机，加肉桂棒打 2 分钟至细腻浆状。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "多打一会儿，米浆越细口感越顺。",
+      "visual_cue": "浆体乳白细腻、无粗颗粒"
+    },
+    {
+      "n": 3,
+      "text": "米浆过细筛，再用纱布包住滤一遍，挤干米渣。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "滤得越干净，喝起来越滑。",
+      "visual_cue": "滤液细滑、纱布上只剩干渣"
+    },
+    {
+      "n": 4,
+      "text": "米浆加 300ml 牛奶、400ml 清水与 60g 白糖搅匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "糖先少放，冰镇后可再补。",
+      "visual_cue": "液体均匀乳白、糖完全化开"
+    },
+    {
+      "n": 5,
+      "text": "密封冷藏 2 小时至冰凉，喝前摇匀，杯里放几块冰。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "冰镇后风味才融合。",
+      "visual_cue": "饮品冰凉挂杯、表面细腻"
+    }
+  ],
+  "tips": [
+    "米要泡足 4 小时，否则打不细会有颗粒感。",
+    "用纱布滤上两遍，口感才真正顺滑不挂喉。",
+    "糖量按口味增减，冰镇后甜度会被压淡。"
+  ],
+  "common_mistakes": [
+    "米没泡透就直接打浆，喝起来满口都是渣。",
+    "打完不过滤直接喝，颗粒感重还容易分层。",
+    "糖一次加足不试味，冰镇之后甜得发腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "燕麦奶",
+      "ratio": "300ml 对 300ml",
+      "note": "做成植物奶版本，风味更清爽。"
+    },
+    {
+      "original": "肉桂",
+      "substitute": "香草荚",
+      "ratio": "5g 对 半根",
+      "note": "香气更柔和。"
+    }
+  ],
+  "variations": [
+    "坚果版：加 30g 杏仁同打，口感更浓。",
+    "加酒版：成人版加 30ml 朗姆酒。"
+  ],
+  "serving_suggestion": "加满冰块倒入高杯，撒少许肉桂粉。",
+  "storage": "冷藏 3 天，喝前摇匀，出现酸味即弃。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320ml）",
+    "calories_kcal": 220,
+    "protein_g": 5,
+    "fat_g": 5,
+    "carbs_g": 38,
+    "sodium_mg": 60,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品，乳糖不耐受人群可换植物奶。",
+    "冷藏保存不得超过 3 天，出现酸味须丢弃。"
+  ],
+  "origin_note": "Horchata 源自西班牙瓦伦西亚，随殖民传入墨西哥后改用大米制作，成为街头塔可摊的标准配饮。米浆加牛奶与肉桂，冰凉微甜，专治辣到冒火的舌头。",
+  "tags": [
+    "墨西哥菜",
+    "饮品",
+    "大米",
+    "肉桂"
+  ],
+  "related_ids": [
+    "sopa-de-frijol",
+    "elote",
+    "pico-de-gallo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
