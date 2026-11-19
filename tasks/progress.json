@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:53:41.228Z",
+  "generatedAt": "2026-11-19T06:06:15.254Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 470,
     "target": 3274,
-    "actual": 220,
-    "coverage": 0.06719609040928527
+    "actual": 227,
+    "coverage": 0.0693341478313989
   },
   "regions": {
     "cn": [
@@ -189,18 +189,19 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 14,
+        "actual": 16,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "congshao-haishen",
               "jiaodong-bayu-jiaozi",
               "tangcu-liyu",
-              "youmen-daxia"
+              "youmen-daxia",
+              "zhaoliu-yupian"
             ]
           },
           {
@@ -236,8 +237,10 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "zhaoliu-yupian"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -564,7 +567,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-seafood",
@@ -609,8 +612,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "guihua-nuomiyu"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -677,7 +682,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "soup",
@@ -720,8 +725,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shacha-jiang"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -759,7 +766,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 16,
+        "actual": 17,
         "cells": [
           {
             "category": "main-meat",
@@ -810,8 +817,10 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "duo-lajiao"
+            ]
           },
           {
             "category": "main-egg",
@@ -876,7 +885,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
@@ -900,15 +909,19 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "wenzheng-shansun-tang"
+            ]
           },
           {
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "huizhou-maodoufu"
+            ]
           },
           {
             "category": "staple-bread",

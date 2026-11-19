@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T05:53:42.212Z
+- 生成时间：2026-11-19T06:06:16.020Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：32 个，抽样 34 道，平均分 96
 - 需重写（C/D）：0 道
@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | --- |
 | american | new-york-cheesecake | 93 | A | 准确性 18/25 |
 | american-south | bbq-pork-ribs | 93 | A | 准确性 18/25 |
-| anhui | yipin-guo | 93 | A | 准确性 18/25 |
+| anhui | wenzheng-shansun-tang | 100 | A | 无 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | cantonese | baizhuo-xia | 87 | B | 准确性 18/25；安全性 14/20 |
 | cantonese | siyou-ji | 100 | A | 无 |
@@ -51,7 +51,7 @@
 | xibei | shaanxi-saozi-mian | 93 | A | 准确性 18/25 |
 | xinjiang | naobao-rou | 100 | A | 无 |
 | yunguai | guoqiao-mixian | 100 | A | 无 |
-| zhejiang | youmen-shunsun | 93 | A | 准确性 18/25 |
+| zhejiang | xihu-niurougeng | 100 | A | 无 |
 
 ## 结论
 
