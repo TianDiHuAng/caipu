@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T22:46:13.880Z
+- 生成时间：2026-11-19T23:18:12.642Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 46 道，平均分 97
 - 需重写（C/D）：0 道
@@ -24,7 +24,7 @@
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | baozaifan | 93 | A | 准确性 18/25 |
-| cantonese | ganchao-niuhe | 94 | A | 安全性 14/20 |
+| cantonese | guangshi-hongdou-sha | 93 | A | 准确性 18/25 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | creme-brulee | 100 | A | 无 |
@@ -49,8 +49,8 @@
 | nordic | nordic-fish-soup | 100 | A | 无 |
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | borscht | 100 | A | 无 |
-| shandong | fanqie-daxia | 94 | A | 安全性 14/20 |
-| shandong | jiuzhuan-dachang | 100 | A | 无 |
+| shandong | jiaodong-bayu-jiaozi | 93 | A | 准确性 18/25 |
+| shandong | cu-jiao-yutang | 100 | A | 无 |
 | shanghai | youbao-xia | 100 | A | 无 |
 | sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
 | sichuan | gongbao-jiding | 100 | A | 无 |
@@ -63,7 +63,7 @@
 | xibei | yangrou-paomo | 93 | A | 准确性 18/25 |
 | xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
 | yunguai | guilin-mifen | 93 | A | 准确性 18/25 |
-| zhejiang | dingsheng-gao | 100 | A | 无 |
+| zhejiang | dongpo-rou | 93 | A | 准确性 18/25 |
 
 ## 结论
 

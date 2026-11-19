@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tudou-shao-paigu",
+  "name": {
+    "zh": "土豆烧排骨",
+    "en": "Braised Pork Ribs with Potatoes"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 500,
+          "unit": "g",
+          "note": "剁成小段",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍破",
+          "optional": false
+        },
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒料用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "烧制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪排骨冷水下锅，加料酒汆五分钟，捞出用温水冲净浮沫。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "汆透再烧，汤才清不发腥。",
+      "visual_cue": "排骨表面收紧、水面浮沫撇净"
+    },
+    {
+      "n": 2,
+      "text": "土豆去皮切滚刀块，泡在清水里防止氧化变黑。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "土豆切块后浸清水，能洗掉表面淀粉。",
+      "visual_cue": "土豆块大小均匀、表面干爽"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油烧热，放豆瓣酱小火炒出红油，再下生姜与大蒜炒香。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "豆瓣酱要用小火炒，火大就发苦。",
+      "visual_cue": "油色红亮、豆瓣香窜出"
+    },
+    {
+      "n": 4,
+      "text": "倒入排骨翻炒上色，加生抽、白糖与清水烧开。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "水要没过排骨，中途补水会淡味。",
+      "visual_cue": "排骨裹满红油、汤汁翻滚"
+    },
+    {
+      "n": 5,
+      "text": "转小火加盖烧二十五分钟，再放土豆与盐继续烧十分钟。",
+      "time_min": 37,
+      "heat": "小火",
+      "tip": "土豆后放，早了会烧成泥。",
+      "visual_cue": "排骨酥软、土豆刚能插入筷子"
+    },
+    {
+      "n": 6,
+      "text": "转大火收汁至浓稠，汤汁裹住排骨与土豆即可出锅。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "收汁时轻推锅底，土豆易粘。",
+      "visual_cue": "汤汁红亮挂勺、盘底不流汁"
+    }
+  ],
+  "tips": [
+    "排骨选肉厚的小排，烧出来才软嫩不柴。",
+    "土豆切好后浸在清水里，洗掉表面淀粉不易糊锅。",
+    "想更香可以加一个八角同烧，川味更足。"
+  ],
+  "common_mistakes": [
+    "豆瓣酱大火炒，红油没出色先出焦苦味。",
+    "土豆与排骨同时下锅，土豆烧化成糊。",
+    "收汁收得太干，锅底结一层焦糖。"
+  ],
+  "substitutions": [
+    {
+      "original": "土豆",
+      "substitute": "红薯",
+      "ratio": "300g 对 300g",
+      "note": "甜味更重，盐可减一克。"
+    },
+    {
+      "original": "猪排骨",
+      "substitute": "鸡腿肉",
+      "ratio": "500g 对 450g",
+      "note": "易熟，烧制时间减十分钟。"
+    }
+  ],
+  "variations": [
+    "加半根玉米同烧，汤汁更甜，孩子很喜欢。",
+    "把土豆换成芋头同烧，汤汁更绵密，口感更糯。"
+  ],
+  "serving_suggestion": "连汤汁一起上桌，浇在米饭上最下饭。",
+  "storage": "冷藏可放两天，复热时加少量清水小火煨透。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 460,
+    "protein_g": 22,
+    "fat_g": 30,
+    "carbs_g": 22,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "排骨须烧至中心熟透，切开不见血水再食用。",
+    "土豆发芽或表皮变绿的部分含龙葵素，须整块弃用。",
+    "炒豆瓣酱时油温偏高，下料时注意防溅。"
+  ],
+  "origin_note": "土豆烧排骨是川渝人家的家常硬菜，豆瓣酱炒出红油再烧排骨，土豆吸了肉汁与辣香，一锅端上桌就能扒两碗饭。",
+  "tags": [
+    "川菜",
+    "红烧",
+    "家常",
+    "下饭"
+  ],
+  "related_ids": [
+    "huiguo-rou",
+    "douban-yu",
+    "mapo-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

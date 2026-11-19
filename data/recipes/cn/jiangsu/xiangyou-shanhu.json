@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xiangyou-shanhu",
+  "name": {
+    "zh": "响油鳝糊",
+    "en": "Stir-fried Eel with Sizzling Oil"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄鳝",
+          "name_en": "swamp eel",
+          "amount": 500,
+          "unit": "g",
+          "note": "去骨切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半切丝一半切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "起锅前放",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "收尾",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煸炒与响油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "烧制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄鳝用开水烫三十秒去黏沫，冲净后去骨切成五厘米长的丝。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "烫到表皮发白就捞出，久了肉散。",
+      "visual_cue": "鳝丝表面洁白、不见黏液"
+    },
+    {
+      "n": 2,
+      "text": "鳝丝加料酒与少许盐抓匀腌十分钟，生姜与大蒜切末备用。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "腌十分钟去腥，别腌太久出水。",
+      "visual_cue": "鳝丝表面微黏、闻不到土腥味"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下四十毫升植物油烧热，放姜末与蒜末炒香，倒入鳝丝大火煸炒两分钟。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "锅要够热，鳝丝才不断不碎。",
+      "visual_cue": "鳝丝卷曲发亮、锅底无汤水"
+    },
+    {
+      "n": 4,
+      "text": "加生抽、老抽、白糖与清水烧开，转中火烧三分钟至入味。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "汤汁收到一半就够，留汁才润。",
+      "visual_cue": "鳝丝呈酱红、汤汁微微发稠"
+    },
+    {
+      "n": 5,
+      "text": "淋香醋、香油与白胡椒翻匀，盛入盘中，中间扒出一个小坑。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "醋最后放，酸香才不挥发。",
+      "visual_cue": "鳝糊油润发亮、坑中可见汤汁"
+    },
+    {
+      "n": 6,
+      "text": "鳝糊中间撒葱花与姜丝，浇上烧至冒烟的二十毫升植物油，趁热上桌。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "油一定要烧到冒烟，浇下去才有响声。",
+      "visual_cue": "盘中吱吱作响、葱香冲鼻"
+    }
+  ],
+  "tips": [
+    "买鳝丝时选粗细均匀的，煸炒才一齐成熟。",
+    "汤汁不要收太干，鳝糊讲究油润。",
+    "响油要当着客人的面浇，声音就是招牌。"
+  ],
+  "common_mistakes": [
+    "鳝丝下锅时油温不够，出水变成煮鳝丝。",
+    "翻动太用力，鳝丝断成碎末不成形。",
+    "响油的油温不足，浇上去没有响声还带生油味。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄鳝",
+      "substitute": "虾仁",
+      "ratio": "500g 对 350g",
+      "note": "口感不同，炒制时间减半。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "米醋",
+      "ratio": "10ml 对 10ml",
+      "note": "酸味更直，用量可略减。"
+    }
+  ],
+  "variations": [
+    "加二十克笋丝同炒，口感更脆爽。",
+    "把鳝丝换成鳝段红烧，是另一路的浓油赤酱做法。"
+  ],
+  "serving_suggestion": "趁热吃，配米饭或拌阳春面都非常合适。",
+  "storage": "当天吃完最佳，鳝类隔夜后腥味会加重。",
+  "nutrition_estimate": {
+    "basis": "每份（约 140g）",
+    "calories_kcal": 320,
+    "protein_g": 26,
+    "fat_g": 21,
+    "carbs_g": 7,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "黄鳝须现杀现做，死后放置过久会产生组胺不宜食用。",
+    "鳝丝必须炒至完全熟透，肉质由透明转为不透明。",
+    "浇响油时油温极高，盘中带水易爆溅，操作时远离面部。"
+  ],
+  "origin_note": "响油鳝糊是苏帮菜的招牌，鳝丝浓油赤酱炒好后浇一勺滚油，端上桌还吱吱作响，苏州人吃面时最爱拿它做浇头。",
+  "tags": [
+    "苏菜",
+    "浓油赤酱",
+    "海鲜",
+    "招牌"
+  ],
+  "related_ids": [
+    "suzhou-yingtao-rou",
+    "sun-shao-rou",
+    "yanshui-hexia"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
