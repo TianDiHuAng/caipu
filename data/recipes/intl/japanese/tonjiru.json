@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tonjiru",
+  "name": {
+    "zh": "日式猪肉味噌汤",
+    "en": "Tonjiru"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 200,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 150,
+          "unit": "g",
+          "note": "切扇形薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "味噌",
+          "name_en": "miso",
+          "amount": 60,
+          "unit": "g",
+          "note": "白味噌与红味噌各半",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "昆布柴鱼高汤",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "炒肉用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "滤网",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切薄片，白萝卜切扇形薄片，胡萝卜切薄片，洋葱切细丝。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "根菜切薄才容易煮软。",
+      "visual_cue": "片薄均匀、丝条整齐"
+    },
+    {
+      "n": 2,
+      "text": "锅中倒香油中火烧热，下五花肉片煸炒到边缘卷起、油脂析出。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉先煸出油，汤才香不腻。",
+      "visual_cue": "肉片卷边、锅底出油"
+    },
+    {
+      "n": 3,
+      "text": "下白萝卜、胡萝卜与洋葱丝翻炒两分钟，让蔬菜裹上肉油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蔬菜炒过再煮，甜味更明显。",
+      "visual_cue": "蔬菜微微透亮、裹上油光"
+    },
+    {
+      "n": 4,
+      "text": "倒入高汤煮开，撇净浮沫，转小火煮十分钟到萝卜片能轻松咬断。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "浮沫撇干净，汤才清。",
+      "visual_cue": "萝卜透明、汤色清亮"
+    },
+    {
+      "n": 5,
+      "text": "关火把味噌放在滤网里，浸进汤里用勺子慢慢化开，再加生抽调味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "味噌不能煮沸，香气会散。",
+      "visual_cue": "汤色浑厚、味噌完全化开"
+    },
+    {
+      "n": 6,
+      "text": "盛碗后撒上翠绿的葱花，趁热端上桌，配一碗热气腾腾的饭。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "葱花最后撒，香气才冲。",
+      "visual_cue": "葱花翠绿、汤面微沸"
+    }
+  ],
+  "tips": [
+    "五花肉先煸出油，汤的香气才够厚而不腻。",
+    "味噌必须关火后再化开，一旦煮滚香气就跑光了。",
+    "味噌与生抽的咸度都不低，高血压人群请减量使用。"
+  ],
+  "common_mistakes": [
+    "味噌直接大火煮开，汤色发暗、香气全失。",
+    "五花肉不煸直接下汤，汤面上浮着一层白油。",
+    "根菜切得太厚，煮二十分钟还咬着硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪里脊",
+      "ratio": "200g 对 200g",
+      "note": "油脂少，需补 5ml 香油。"
+    },
+    {
+      "original": "味噌",
+      "substitute": "韩式大酱",
+      "ratio": "60g 对 55g",
+      "note": "酱香更冲，咸度略高。"
+    }
+  ],
+  "variations": [
+    "牛蒡版：加 80g 牛蒡薄片，土香更足。",
+    "豆乳版：最后加 150ml 无糖豆浆，口感更醇。"
+  ],
+  "serving_suggestion": "盛进木质汤碗，配一碗白米饭和一小碟渍物。",
+  "storage": "冷藏可存 2 天，复热时小火加热，不要煮沸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 380g）",
+    "calories_kcal": 260,
+    "protein_g": 14,
+    "fat_g": 16,
+    "carbs_g": 14,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "味噌与生抽含盐较高，高血压人群应减量。",
+    "五花肉须煸至完全变色，避免半生。",
+    "汤品出锅温度很高，端碗时注意烫手，可先用托盘。"
+  ],
+  "origin_note": "猪肉味噌汤是日本东北农村的家常汤，把田里收的根菜和一点猪肉一起下锅，最后化开一勺味噌。料比汤多，一碗就能配完整碗米饭。",
+  "tags": [
+    "日本菜",
+    "汤品",
+    "味噌",
+    "猪肉"
+  ],
+  "related_ids": [
+    "chawanmushi",
+    "miso-salmon",
+    "miso-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

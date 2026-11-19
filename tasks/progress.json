@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:41:48.710Z",
+  "generatedAt": "2026-11-19T06:56:39.593Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 471,
+    "cells": 472,
     "target": 3274,
-    "actual": 239,
-    "coverage": 0.07299938912645082
+    "actual": 246,
+    "coverage": 0.07513744654856444
   },
   "regions": {
     "cn": [
@@ -1924,7 +1924,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 8,
         "cells": [
           {
             "category": "main-seafood",
@@ -1949,9 +1949,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "miso-soup"
+              "miso-soup",
+              "tonjiru"
             ]
           },
           {
@@ -1967,8 +1968,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "dorayaki"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -2015,7 +2018,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 9,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -2050,15 +2053,18 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "kimchi"
+            ]
           },
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "hotteok",
               "korean-fried-chicken"
             ]
           },
@@ -2098,6 +2104,15 @@
             "ids": [
               "budae-jjigae",
               "kimchi-jjigae"
+            ]
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "hotteok"
             ]
           },
           {
@@ -2200,14 +2215,16 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "focaccia"
+            ]
           },
           {
             "category": "main-poultry",
@@ -2748,7 +2765,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2770,8 +2787,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "naan"
+            ]
           },
           {
             "category": "soup",

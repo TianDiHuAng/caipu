@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hotteok",
+  "name": {
+    "zh": "韩式糖饼",
+    "en": "Hotteok"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "snack",
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 100,
+    "cook_min": 20,
+    "total_min": 120
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "高筋面粉",
+          "name_en": "bread flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 180,
+          "unit": "ml",
+          "note": "温到 35℃",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "耐高糖干酵母",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "note": "馅用",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒香压碎",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "磨成粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎饼用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "面团调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "平底锅",
+    "擀面杖",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温牛奶化开酵母与盐，倒进过筛的高筋面粉里，揉成光滑柔软的面团。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "面团要比包子面软，粘手正常。",
+      "visual_cue": "面团光滑、按压回弹"
+    },
+    {
+      "n": 2,
+      "text": "盆上盖湿布放在温暖处发酵，等面团涨到两倍大、内部呈蜂窝状。",
+      "time_min": 70,
+      "heat": "无火",
+      "tip": "冬天可放进关火的烤箱发酵。",
+      "visual_cue": "体积两倍、内部蜂窝"
+    },
+    {
+      "n": 3,
+      "text": "芝麻炒香压碎，与白糖、桂皮粉拌成馅料，尝一下甜度再微调。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "桂皮只要一点点，多了发苦。",
+      "visual_cue": "馅料均匀、香气扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "手上抹油把面团分成八份，按扁包入一勺馅料，收口捏紧滚圆。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "收口一定捏死，否则糖汁会漏。",
+      "visual_cue": "面团滚圆、收口朝下"
+    },
+    {
+      "n": 5,
+      "text": "平底锅倒植物油，收口朝下放入面团，中小火按扁成圆饼煎到底部金黄。",
+      "time_min": 10,
+      "heat": "中小火",
+      "tip": "下锅后用铲背压扁，越薄越脆。",
+      "visual_cue": "饼底金黄、边缘微鼓起"
+    },
+    {
+      "n": 6,
+      "text": "翻面再煎五分钟，听到滋滋糖汁声、饼身鼓起就出锅趁热吃。",
+      "time_min": 10,
+      "heat": "中小火",
+      "tip": "糖汁极烫，咬开先吹一吹。",
+      "visual_cue": "两面金黄、饼身鼓胀"
+    }
+  ],
+  "tips": [
+    "面团要揉得比包子面更软，煎出来才有外脆内糯的口感。",
+    "收口一定捏紧，糖汁漏出来会把饼煎成黑炭。",
+    "趁热吃风味最好，凉了白糖会重新结晶。"
+  ],
+  "common_mistakes": [
+    "面团偏硬，煎出的饼皮厚又韧，咬着费劲。",
+    "馅包太多，一压就破、糖汁流满锅底。",
+    "火开太大，外皮焦黑而里面还是生面团。"
+  ],
+  "substitutions": [
+    {
+      "original": "桂皮",
+      "substitute": "肉桂粉",
+      "ratio": "3g 对 3g",
+      "note": "香气更浓，用量可减到 2g。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "180ml 对 170ml",
+      "note": "奶香变淡，需加 5g 糖补偿。"
+    }
+  ],
+  "variations": [
+    "坚果版：馅里加 30g 碎核桃与南瓜子。",
+    "芝士版：馅中用 60g 马苏里拉替换一半白糖。"
+  ],
+  "serving_suggestion": "出锅稍晾一分钟，配一杯热的大麦茶或牛奶。",
+  "storage": "当天吃完最好，冷藏可存 2 天，复热用平底锅小火两面各煎一分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（2 个，约 160g）",
+    "calories_kcal": 420,
+    "protein_g": 9,
+    "fat_g": 13,
+    "carbs_g": 68,
+    "sodium_mg": 230,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "糖馅温度极高，咬开前务必吹凉，避免烫伤口腔。",
+    "煎制时糖汁遇油易溅，翻面时用锅盖稍挡。",
+    "面团含麸质，乳糜泻人群不宜食用。"
+  ],
+  "origin_note": "糖饼是韩国冬天的街头小吃，铁板上压得扁扁的面饼里包着红糖与肉桂，煎到鼓起时咬开一口，滚烫的糖汁顺着指缝往下淌，是很多人放学路上的记忆。",
+  "tags": [
+    "韩国菜",
+    "面点",
+    "甜点",
+    "街头小吃"
+  ],
+  "related_ids": [
+    "budae-jjigae",
+    "dolsot-bibimbap",
+    "dwaeji-gukbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

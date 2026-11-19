@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "kimchi",
+  "name": {
+    "zh": "韩式辣白菜",
+    "en": "Baechu Kimchi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "fermented"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 130,
+    "cook_min": 10,
+    "total_min": 140
+  },
+  "servings": 8,
+  "flavor": [
+    "sour",
+    "spicy",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 2000,
+          "unit": "g",
+          "note": "去掉外层老叶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 300,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "韭菜",
+          "name_en": "Chinese chives",
+          "amount": 60,
+          "unit": "g",
+          "note": "切寸段",
+          "optional": false
+        },
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 150,
+          "unit": "g",
+          "note": "擦成泥",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "amount": 150,
+          "unit": "g",
+          "note": "擦成泥",
+          "optional": false,
+          "name_en": "Asian pear"
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 60,
+          "unit": "g",
+          "note": "捣成泥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "捣成泥",
+          "optional": false
+        },
+        {
+          "name": "糯米粉",
+          "name_en": "glutinous rice flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "煮成糊",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "煮糯米糊",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 80,
+          "unit": "g",
+          "note": "粗粒韩式辣椒粉",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "虾酱",
+          "name_en": "shrimp paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "发酵风味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 40,
+          "unit": "g",
+          "note": "腌白菜用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "帮助发酵",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大盆",
+    "密封保鲜盒",
+    "料理碗",
+    "厨房手套"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大白菜纵向切成四瓣，逐层掀开叶片，把盐均匀撒在每一层叶根上。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "叶根撒盐多些，叶子轻撒即可。",
+      "visual_cue": "每层叶根都沾上盐粒"
+    },
+    {
+      "n": 2,
+      "text": "把白菜静置一小时半到叶片变软，中途翻动一次，再用清水冲洗三遍。",
+      "time_min": 90,
+      "heat": "无火",
+      "tip": "腌到叶帮能弯折就是到位了。",
+      "visual_cue": "叶帮柔软、能轻松弯折"
+    },
+    {
+      "n": 3,
+      "text": "糯米粉加清水小火煮成半透明糊状，放凉备用，中途不停搅拌。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "糊要煮透，黏性才够挂料。",
+      "visual_cue": "糊体半透明、能挂住勺"
+    },
+    {
+      "n": 4,
+      "text": "白萝卜切细丝，韭菜切寸段，苹果与梨擦成泥，大蒜与姜捣成泥。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "苹果与梨是天然甜味来源。",
+      "visual_cue": "果泥细腻、菜丝均匀"
+    },
+    {
+      "n": 5,
+      "text": "把米糊、辣椒粉、鱼露、虾酱、白糖、果泥与蒜姜泥拌成红亮酱料。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "戴手套拌，辣椒粉很呛手。",
+      "visual_cue": "酱料红亮、稠而不干"
+    },
+    {
+      "n": 6,
+      "text": "把酱料逐层抹进白菜叶间，卷起码进保鲜盒，室温放一天后冷藏两周。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "冷藏一周后酸味最刚好。",
+      "visual_cue": "白菜裹满红酱、盒内无空气"
+    }
+  ],
+  "tips": [
+    "腌盐时间要够，叶帮弯折不断才说明脱足了水。",
+    "打好的粉糊必须完全放凉再加辣椒粉，太烫会把粉烫出苦味。",
+    "苹果与梨各半，甜味和果香都比单用一种更厚。"
+  ],
+  "common_mistakes": [
+    "白菜腌得太短就抹酱，成品出水太多、味道寡淡。",
+    "打好的粉糊趁热拌辣椒粉，颜色发暗还带苦味。",
+    "保鲜盒装太满不留空隙，发酵时汁水溢出。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾酱",
+      "substitute": "蚝油",
+      "ratio": "20g 对 20g",
+      "note": "腥味更轻，发酵香弱一些。"
+    },
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "150g 对 150g",
+      "note": "甜味更直，果香略单一。"
+    }
+  ],
+  "variations": [
+    "萝卜块版：把白菜换成 1500g 白萝卜块，腌法相同。",
+    "清淡版：辣椒粉减到 50g，鱼露同时减半。"
+  ],
+  "serving_suggestion": "剪成小段装碟，配米饭、烤肉或豆腐锅一起吃。",
+  "storage": "密封冷藏可存 3 到 4 周，取用时用干净筷子夹取。",
+  "nutrition_estimate": {
+    "basis": "每份（约 120g）",
+    "calories_kcal": 45,
+    "protein_g": 2,
+    "fat_g": 0.5,
+    "carbs_g": 8,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腌菜含盐较高，高血压人群应控制食用量。",
+    "发酵时产生气体，保鲜盒不要完全压紧以免胀裂。",
+    "抹酱时戴一次性手套，辣椒粉易刺激皮肤与眼睛。"
+  ],
+  "origin_note": "辣白菜是韩国过冬腌菜的当家菜，每年入冬前邻里聚在一起腌上几百棵，红亮的酱料抹进每一层叶片，靠室温一天起发酵，冷藏后越放越酸香。",
+  "tags": [
+    "韩国菜",
+    "发酵",
+    "泡菜",
+    "辣白菜"
+  ],
+  "related_ids": [
+    "budae-jjigae",
+    "dolsot-bibimbap",
+    "dwaeji-gukbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
