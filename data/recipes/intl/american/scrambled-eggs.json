@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "scrambled-eggs",
+  "name": {
+    "zh": "美式炒蛋",
+    "en": "American Scrambled Eggs"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 5,
+    "cook_min": 8,
+    "total_min": 13
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 200,
+          "unit": "g",
+          "note": "约四个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 30,
+          "unit": "ml",
+          "note": "让蛋液更嫩",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "小火融化",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "不粘锅",
+    "打蛋器",
+    "硅胶铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋打入碗中，加牛奶与盐，用打蛋器搅打到蛋液均匀无筋。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "打到看不见蛋白丝，口感才细。",
+      "visual_cue": "蛋液均匀、颜色一致"
+    },
+    {
+      "n": 2,
+      "text": "不粘锅小火加热，放黄油慢慢融化到起细泡但不变色。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "黄油起泡就够了，变褐就发苦。",
+      "visual_cue": "黄油融化、表面细泡"
+    },
+    {
+      "n": 3,
+      "text": "倒入蛋液静置二十秒，让底部先凝出一层薄薄的蛋皮。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "别急着搅，先让底部定型。",
+      "visual_cue": "锅底蛋液凝出一层薄皮"
+    },
+    {
+      "n": 4,
+      "text": "用硅胶铲从边缘向中间缓慢推，形成大片柔软蛋块后立刻离火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "离火要早，余温还会继续凝固。",
+      "visual_cue": "蛋块湿润、表面仍有光泽"
+    },
+    {
+      "n": 5,
+      "text": "撒上现磨的黑胡椒与葱花，趁热装盘端上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "葱花最后撒，颜色才翠。",
+      "visual_cue": "葱花翠绿、蛋块成团"
+    }
+  ],
+  "tips": [
+    "全程小火是嫩炒蛋的关键，急不得。",
+    "蛋液刚凝就离火，余温会把它焐熟。",
+    "蛋液里加一点牛奶，蛋块会更松软湿润。"
+  ],
+  "common_mistakes": [
+    "大火猛炒，蛋块又老又干，盘底还出一汪水。",
+    "频繁快速搅拌，蛋碎成糊状毫无口感。",
+    "盐等到出锅后才撒，咸味全浮在表面，里面寡淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "30ml 对 25ml",
+      "note": "更浓郁，热量也更高。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "30g 对 25ml",
+      "note": "少了奶香，但更适合乳糖不耐者。"
+    }
+  ],
+  "variations": [
+    "芝士版：离火前撒 30g 切达芝士，靠余温化开。",
+    "香草版：加 5g 细香葱与 2g 欧芹，香气更清新。"
+  ],
+  "serving_suggestion": "趁热配烤吐司与一片培根，就是标准美式早餐。",
+  "storage": "建议现做现吃，冷藏后复热会变硬发干。",
+  "nutrition_estimate": {
+    "basis": "每份（约 130g）",
+    "calories_kcal": 270,
+    "protein_g": 16,
+    "fat_g": 21,
+    "carbs_g": 4,
+    "sodium_mg": 480,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须彻底加热至完全凝固，避免食用半生蛋液。",
+    "鸡蛋为常见过敏原，过敏人群需替换食材。",
+    "黄油高温下极易焦糊发苦，全程要保持小火。"
+  ],
+  "origin_note": "美式炒蛋讲究一个嫩字，全程小火慢推，蛋块湿润蓬松，配黄油奶香与现磨黑胡椒，是美国家庭早餐盘里最朴素也最考验火候的一道。",
+  "tags": [
+    "美式菜",
+    "早餐",
+    "鸡蛋",
+    "快手"
+  ],
+  "related_ids": [
+    "meatloaf",
+    "caesar-salad",
+    "dwaeji-gukbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

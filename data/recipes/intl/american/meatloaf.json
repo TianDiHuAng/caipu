@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "meatloaf",
+  "name": {
+    "zh": "美式肉糕",
+    "en": "American Meatloaf"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 55,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 600,
+          "unit": "g",
+          "note": "肥瘦三七比例的牛肉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 60,
+          "unit": "g",
+          "note": "干面包糠",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "约一个",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 80,
+          "unit": "ml",
+          "note": "泡软面包糠",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 80,
+          "unit": "g",
+          "note": "刷面用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨更香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒洋葱",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "炒锅",
+    "大碗",
+    "烤盘",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱切成细末，锅中放植物油小火炒到透明发软，盛出放凉备用。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "炒过的洋葱更甜，也少出水。",
+      "visual_cue": "洋葱末透明、香气散出"
+    },
+    {
+      "n": 2,
+      "text": "牛肉加面包糠、鸡蛋、牛奶、放凉的洋葱末、盐与黑胡椒。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面包糠先吸饱牛奶，口感才润。",
+      "visual_cue": "配料齐全、面包糠湿润"
+    },
+    {
+      "n": 3,
+      "text": "用手顺一个方向反复搅打肉料，直到起黏性抱成一团。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "顺一个方向打，肉糕才不裂。",
+      "visual_cue": "肉料发黏、能整团离盆"
+    },
+    {
+      "n": 4,
+      "text": "肉料整形成 20cm 长、8cm 宽的长条，表面抹平后刷一层番茄酱。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "厚薄均匀，烤时才不生熟不均。",
+      "visual_cue": "表面平整、酱色均匀"
+    },
+    {
+      "n": 5,
+      "text": "烤盘垫锡纸，180℃ 烤 45 分钟，出炉静置 10 分钟再切片。",
+      "time_min": 47,
+      "heat": "中火",
+      "tip": "静置这十分钟能让肉汁回吸。",
+      "visual_cue": "表面焦亮、中心不见粉红"
+    }
+  ],
+  "tips": [
+    "面包糠先用牛奶泡软，肉糕才不会干柴。",
+    "肉料务必顺一个方向搅上劲，切片才不散。",
+    "出炉静置十分钟再切，肉汁才不流失。"
+  ],
+  "common_mistakes": [
+    "肉料没有打上劲，切片时整块松散地垮下来。",
+    "番茄酱一开始就拌进肉里，表面烤不出焦亮。",
+    "烤完立刻切片，肉汁全流到盘子里。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "牛猪混合肉",
+      "ratio": "600g 对 600g",
+      "note": "与牛肉混合后更润更香，比例按口味调整即可。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "隔夜面包",
+      "ratio": "60g 对 70g",
+      "note": "撕碎后同样用牛奶泡软。"
+    }
+  ],
+  "variations": [
+    "芝士夹心版：肉料中间包 80g 马苏里拉芝士，切开会拉丝。",
+    "烟熏版：加 5g 烟熏辣椒粉，风味更粗犷。"
+  ],
+  "serving_suggestion": "切片摆盘，配土豆泥与青豆，淋上盘里的肉汁。",
+  "storage": "冷藏 3 天，切片后加盖复烤 10 分钟；冷冻可存 1 个月。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 420,
+    "protein_g": 32,
+    "fat_g": 26,
+    "carbs_g": 14,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉末须彻底烤熟，中心温度达到 71℃ 以上。",
+    "生肉处理后须洗手并清洁砧板，避免交叉污染。",
+    "鸡蛋为常见过敏原，过敏人群需替换。"
+  ],
+  "origin_note": "美式肉糕是美国家庭餐桌上的常客，牛肉末混上面包糠与洋葱压成长条，表面刷番茄酱烤到焦亮，切开来汁水丰盈，配土豆泥就是一顿正经晚饭。",
+  "tags": [
+    "美式菜",
+    "烤箱菜",
+    "牛肉",
+    "家常"
+  ],
+  "related_ids": [
+    "bbq-pork-ribs",
+    "bolognese",
+    "new-york-cheesecake"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:06:15.254Z",
+  "generatedAt": "2026-11-19T06:24:03.682Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 470,
     "target": 3274,
-    "actual": 227,
-    "coverage": 0.0693341478313989
+    "actual": 233,
+    "coverage": 0.07116676847892486
   },
   "regions": {
     "cn": [
@@ -2200,7 +2200,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "staple-bread",
@@ -2240,8 +2240,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "pesto"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -2282,14 +2284,16 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "boeuf-bourguignon"
+            ]
           },
           {
             "category": "dessert",
@@ -2731,7 +2735,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2760,8 +2764,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tomato-shorba"
+            ]
           },
           {
             "category": "dessert",
@@ -3520,14 +3526,16 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 1,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "meatloaf"
+            ]
           },
           {
             "category": "bakery",
@@ -3549,15 +3557,19 @@
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "scrambled-eggs"
+            ]
           },
           {
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "caesar-salad"
+            ]
           },
           {
             "category": "main-vegetable",

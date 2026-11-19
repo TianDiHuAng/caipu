@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "pesto",
+  "name": {
+    "zh": "青酱",
+    "en": "Basil Pesto"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 2,
+    "total_min": 17
+  },
+  "servings": 2,
+  "flavor": [
+    "fragrant",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 60,
+          "unit": "g",
+          "note": "只取叶片",
+          "optional": false
+        },
+        {
+          "name": "松子",
+          "name_en": "pine nut",
+          "amount": 40,
+          "unit": "g",
+          "note": "生松子仁",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 50,
+          "unit": "g",
+          "note": "现刨碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "去芯",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "分次淋入",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "料理机",
+    "干锅",
+    "玻璃瓶",
+    "刮刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "罗勒叶摘下叶片、弃掉硬梗，用清水冲洗后彻底沥干水分。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "叶片带水会让酱发黑。",
+      "visual_cue": "罗勒叶干爽、没有黄叶"
+    },
+    {
+      "n": 2,
+      "text": "松子放干锅小火焙香，见颜色微微转黄就立刻离火。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "松子含油高，多炒十秒就糊。",
+      "visual_cue": "松子微黄、香气散出"
+    },
+    {
+      "n": 3,
+      "text": "料理机放罗勒、松子、大蒜与盐，边打边分次淋入橄榄油打成粗酱。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打几下停一下，别打成泥。",
+      "visual_cue": "酱体粗颗粒、颜色翠绿"
+    },
+    {
+      "n": 4,
+      "text": "倒出后拌入刨碎的帕玛森芝士，装瓶后表面封一层橄榄油。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "封油能隔氧，颜色才不发黑。",
+      "visual_cue": "芝士拌匀、表面油封平整"
+    }
+  ],
+  "tips": [
+    "罗勒叶一定要擦干，带水打出的酱很快发黑。",
+    "松子焙到微黄就够，多一秒就带苦味。",
+    "装瓶后封一层橄榄油，能放更久不氧化。"
+  ],
+  "common_mistakes": [
+    "罗勒带水直接打，酱放半天就变成褐色。",
+    "松子焙过头，整瓶酱都带一股苦味。",
+    "一次性把所有油倒进去，打出来分层不乳化。"
+  ],
+  "substitutions": [
+    {
+      "original": "松子",
+      "substitute": "核桃仁",
+      "ratio": "40g 对 45g",
+      "note": "价格便宜，味稍苦。"
+    },
+    {
+      "original": "帕玛森芝士",
+      "substitute": "佩科里诺奶酪",
+      "ratio": "50g 对 45g",
+      "note": "更咸，盐可减 1g。"
+    }
+  ],
+  "variations": [
+    "番茄青酱：加 100g 油浸番茄干同打，颜色偏砖红。",
+    "坚果版：加 20g 腰果，口感更绵密。"
+  ],
+  "serving_suggestion": "拌意面时加一勺煮面水调开，也可抹面包、配水煮蔬菜。",
+  "storage": "装瓶冷藏可存 1 周，冷冻成小块可存 3 个月。",
+  "nutrition_estimate": {
+    "basis": "每份（约 130g）",
+    "calories_kcal": 600,
+    "protein_g": 11,
+    "fat_g": 61,
+    "carbs_g": 7,
+    "sodium_mg": 450,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "松子为常见过敏原，坚果过敏人群禁用。",
+    "自制酱无防腐剂，须冷藏并在 1 周内用完。",
+    "料理机高速运转会产生热量，须分次短时搅打。"
+  ],
+  "origin_note": "青酱来自意大利热那亚，当地人把山坡上的罗勒与松子、帕玛森、橄榄油一起捣碎，翠绿浓香，是利古里亚餐桌上的万能酱。",
+  "tags": [
+    "意大利菜",
+    "酱料",
+    "罗勒",
+    "松子"
+  ],
+  "related_ids": [
+    "bolognese",
+    "meatloaf",
+    "caesar-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

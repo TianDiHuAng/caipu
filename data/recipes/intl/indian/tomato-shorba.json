@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tomato-shorba",
+  "name": {
+    "zh": "印度番茄汤",
+    "en": "Tomato Shorba"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 33,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 500,
+          "unit": "g",
+          "note": "熟透的沙瓤番茄",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "孜然粒",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 2,
+          "unit": "g",
+          "note": "上色提香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "料理棒",
+    "木铲",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄顶部划十字，用开水烫三分钟后撕去外皮，切成小块备用。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "烫过的番茄一撕就掉皮。",
+      "visual_cue": "番茄皮脱落、果肉软烂"
+    },
+    {
+      "n": 2,
+      "text": "洋葱、大蒜与姜分别切成细末，香菜切碎装小碗待用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "末切细些，汤的口感更顺。",
+      "visual_cue": "末粒细匀、彼此不粘结成块"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒入植物油中火烧热，下孜然粒炒到香味冒出，再下洋葱末炒软。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "孜然一下锅就要跟洋葱，别炒焦。",
+      "visual_cue": "孜然噼啪作响、洋葱透明"
+    },
+    {
+      "n": 4,
+      "text": "加番茄块与姜黄粉翻炒五分钟，炒到番茄出水塌软。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "炒出红油，汤色才够亮。",
+      "visual_cue": "番茄塌软、锅底泛红"
+    },
+    {
+      "n": 5,
+      "text": "倒清水煮开后转小火煮十分钟，用料理棒把汤打成细腻糊状。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "打之前离火，避免烫溅。",
+      "visual_cue": "汤体顺滑、看不见明显颗粒"
+    },
+    {
+      "n": 6,
+      "text": "加盐与黑胡椒调味，盛碗后撒上香菜碎即可。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "香菜最后撒，香气才鲜。",
+      "visual_cue": "汤色橙红、香菜点缀"
+    }
+  ],
+  "tips": [
+    "番茄先烫过再撕皮，汤体才够顺滑无渣。",
+    "孜然一定要下油炒香，香气才立得住。",
+    "打汤前先离火，避免热汤溅出烫伤。"
+  ],
+  "common_mistakes": [
+    "番茄不去皮直接打，汤里全是卷起的皮渣。",
+    "孜然炒到发黑才下洋葱，整锅带焦苦味。",
+    "汤一直大火滚，颜色发暗、酸味变尖。"
+  ],
+  "substitutions": [
+    {
+      "original": "番茄",
+      "substitute": "罐装番茄",
+      "ratio": "500g 对 400g",
+      "note": "酸度更稳定，糖可加 2g。"
+    },
+    {
+      "original": "孜然",
+      "substitute": "小茴香",
+      "ratio": "3g 对 3g",
+      "note": "香气更柔，辣感更弱。"
+    }
+  ],
+  "variations": [
+    "加奶版：出锅前淋 50ml 淡奶油，口感更圆润。",
+    "浓汤版：少放 200ml 清水，煮成蘸饼的浓汤。"
+  ],
+  "serving_suggestion": "盛入汤碗撒香菜，配一张烤饼或一小碟米饭。",
+  "storage": "冷藏 3 天，冷冻可存 1 个月，复热后搅匀再喝。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 110,
+    "protein_g": 3,
+    "fat_g": 7,
+    "carbs_g": 10,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "使用料理棒前须离火，避免热汤飞溅烫伤。",
+    "姜黄与孜然气味浓，幼儿食用建议减半。",
+    "汤品隔夜复热时须彻底煮开再食用。"
+  ],
+  "origin_note": "番茄汤在印度叫 shorba，是餐桌上的开胃小汤，番茄的酸配上孜然与姜黄的暖香，喝一口胃就开了，配烤饼或抓饭都合适。",
+  "tags": [
+    "印度菜",
+    "汤品",
+    "番茄",
+    "开胃"
+  ],
+  "related_ids": [
+    "butter-chicken",
+    "meatloaf",
+    "caesar-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

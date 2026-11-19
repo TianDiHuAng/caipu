@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T06:06:16.020Z
+- 生成时间：2026-11-19T06:24:04.394Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：32 个，抽样 34 道，平均分 96
+- 覆盖菜系：32 个，抽样 34 道，平均分 97
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -18,7 +18,7 @@
 
 | 菜系 | 菜谱 id | 得分 | 等级 | 扣分项 |
 | --- | --- | --- | --- | --- |
-| american | new-york-cheesecake | 93 | A | 准确性 18/25 |
+| american | meatloaf | 100 | A | 无 |
 | american-south | bbq-pork-ribs | 93 | A | 准确性 18/25 |
 | anhui | wenzheng-shansun-tang | 100 | A | 无 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
@@ -26,7 +26,7 @@
 | cantonese | siyou-ji | 100 | A | 无 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | guobao-rou | 100 | A | 无 |
-| french | french-onion-soup | 87 | B | 准确性 18/25；安全性 14/20 |
+| french | boeuf-bourguignon | 100 | A | 无 |
 | fujian | fuzhou-yuwan | 93 | A | 准确性 18/25 |
 | german | wiener-schnitzel | 100 | A | 无 |
 | hakka | yanju-ji | 93 | A | 准确性 18/25 |
@@ -34,7 +34,7 @@
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | shousi-baocai | 100 | A | 无 |
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
-| italian | bruschetta | 93 | A | 准确性 18/25 |
+| italian | chicken-cacciatore | 93 | A | 准确性 18/25 |
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
 | jiangsu | yangzhou-chaofan | 100 | A | 无 |
 | korean | dolsot-bibimbap | 93 | A | 准确性 18/25 |
