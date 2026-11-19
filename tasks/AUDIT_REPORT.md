@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T21:49:53.503Z
+- 生成时间：2026-11-19T22:20:22.779Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 45 道，平均分 97
 - 需重写（C/D）：0 道
@@ -24,7 +24,7 @@
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | baozaifan | 93 | A | 准确性 18/25 |
-| cantonese | ganchao-niuhe | 94 | A | 安全性 14/20 |
+| cantonese | guangshi-hongdou-sha | 93 | A | 准确性 18/25 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | creme-brulee | 100 | A | 无 |
@@ -39,7 +39,7 @@
 | indian | raita | 100 | A | 无 |
 | italian | bruschetta | 93 | A | 准确性 18/25 |
 | japanese | teriyaki-chicken | 100 | A | 无 |
-| jiangsu | shengjian-bao | 93 | A | 准确性 18/25 |
+| jiangsu | shizitou | 93 | A | 准确性 18/25 |
 | jiangsu | yangchun-mian | 100 | A | 无 |
 | korean | yukgaejang | 93 | A | 准确性 18/25 |
 | mexican | agua-fresca | 97 | A | 完整性 22/25 |
