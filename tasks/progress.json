@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T20:48:16.083Z",
+  "generatedAt": "2026-11-19T21:11:50.882Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 493,
     "target": 3274,
-    "actual": 439,
-    "coverage": 0.1340867440439829
+    "actual": 445,
+    "coverage": 0.13591936469150886
   },
   "regions": {
     "cn": [
@@ -195,7 +195,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 25,
         "cells": [
           {
             "category": "main-seafood",
@@ -248,9 +248,10 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "congshao-tijin",
+              "pa-yuanke-baoyu",
               "sixi-wanzi",
               "zhaoliu-yupian"
             ]
@@ -329,7 +330,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 29,
+        "actual": 30,
         "cells": [
           {
             "category": "main-seafood",
@@ -382,11 +383,12 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "baozaifan",
               "claypot-rice",
-              "shengchao-nuomifan"
+              "shengchao-nuomifan",
+              "tingzai-zhou"
             ]
           },
           {
@@ -725,7 +727,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 15,
+        "actual": 17,
         "cells": [
           {
             "category": "soup",
@@ -754,9 +756,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "lizhi-rou",
+              "minnan-fengrou",
               "zui-paigu"
             ]
           },
@@ -764,9 +767,10 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "fuzhou-rouyan",
+              "fuzhou-yuni",
               "fuzhou-yuwan",
               "haili-bing"
             ]
@@ -944,7 +948,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "main-meat",
@@ -960,9 +964,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "huotui-shao-sun",
+              "qingchao-luhao",
               "xianggu-shao-shansun"
             ]
           },
@@ -2122,7 +2127,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 23,
+        "actual": 24,
         "cells": [
           {
             "category": "main-meat",
@@ -2162,11 +2167,12 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "gochujang",
               "kimchi",
-              "kkakdugi"
+              "kkakdugi",
+              "korean-perilla-jangajji"
             ]
           },
           {

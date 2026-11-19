@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T20:48:07.614Z
+- 生成时间：2026-11-19T21:11:43.826Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：40 个，抽样 44 道，平均分 97
+- 覆盖菜系：40 个，抽样 45 道，平均分 97
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -48,22 +48,23 @@
 | nordic | nordic-fish-soup | 100 | A | 无 |
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | borscht | 100 | A | 无 |
+| shandong | huangmen-ji | 93 | A | 准确性 18/25 |
 | shandong | cu-jiao-yutang | 100 | A | 无 |
 | shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
-| sichuan | kaishui-baicai | 100 | A | 无 |
 | sichuan | yuxiang-jiang | 100 | A | 无 |
-| spanish | calamares-fritos | 100 | A | 无 |
+| sichuan | gongbao-jiding | 100 | A | 无 |
+| spanish | champinones-al-ajillo | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
-| thai | thai-cashew-chicken | 100 | A | 无 |
+| thai | thai-coconut-sticky-rice | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | turkish | turkish-kofta | 100 | A | 无 |
-| vietnamese | banh-mi | 94 | A | 安全性 14/20 |
-| xibei | yangrou-paomo | 93 | A | 准确性 18/25 |
-| xinjiang | ziran-yangrouchuan | 91 | A | 准确性 18/25；可操作性 28/30 |
-| yunguai | qiguo-ji | 93 | A | 准确性 18/25 |
-| zhejiang | guihua-nuomiyu | 93 | A | 准确性 18/25 |
+| vietnamese | pho-bo | 100 | A | 无 |
+| xibei | youpo-mian | 100 | A | 无 |
+| xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
+| yunguai | guoqiao-mixian | 100 | A | 无 |
+| zhejiang | dingsheng-gao | 100 | A | 无 |
 
 ## 结论
 
-- 本批 44 道全部达到 B 级及以上，无需重写。
+- 本批 45 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。

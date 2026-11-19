@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "minnan-fengrou",
+  "name": {
+    "zh": "闽南封肉",
+    "en": "Minnan Braised Pork Block"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 150,
+    "cook_min": 120,
+    "total_min": 270
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "整块方形带皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡软",
+          "optional": false
+        },
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡软",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提亮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "棉线",
+    "炒锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块皮朝下在热锅上烙至微焦，刮净毛根后用温水刷洗干净。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "烙皮能去猪腥，成品皮更弹。",
+      "visual_cue": "表皮呈浅金黄色、无残毛"
+    },
+    {
+      "n": 2,
+      "text": "整块五花肉用棉线十字捆紧，冷水下锅加姜片与 20ml 料酒焯 10 分钟，捞出冲净。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "捆线能防止久炖散形，切片才漂亮。",
+      "visual_cue": "肉块方整、表面无血沫"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下 30ml 植物油，爆香姜片、大蒜、香菇与虾米，加 20ml 料酒炝锅。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香菇虾米先煸香，鲜味才出得来。",
+      "visual_cue": "锅气冲起、香菇边缘微焦"
+    },
+    {
+      "n": 4,
+      "text": "砂锅底铺葱段与竹箅，放入肉块，加 40ml 生抽、10ml 老抽、20g 冰糖、2 颗八角与 5g 桂皮。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "垫竹箅是为了防糊底。",
+      "visual_cue": "肉块皮朝上摆放稳当"
+    },
+    {
+      "n": 5,
+      "text": "倒入 800ml 开水没过肉块，大火烧开转小火盖盖焖 100 分钟，中途翻面一次。",
+      "time_min": 105,
+      "heat": "小火",
+      "tip": "一定用开水，冷水会让肉皮骤缩。",
+      "visual_cue": "筷子能轻松插入肉块中心"
+    },
+    {
+      "n": 6,
+      "text": "加 5g 盐调味，转中火收汁 10 分钟至汤汁浓稠，拆线后切厚片浇汁上桌。",
+      "time_min": 13,
+      "heat": "中火",
+      "tip": "收汁时要舀汁淋面，上色才均匀。",
+      "visual_cue": "肉皮红亮、汤汁挂勺不流"
+    }
+  ],
+  "tips": [
+    "选五花肉要层次分明，肥瘦肉各占一半最佳。",
+    "焖制全程小火保持微沸，大火会让肉散烂。",
+    "拆线要在收汁后，趁热拆肉块才不会变形。"
+  ],
+  "common_mistakes": [
+    "表皮没烙直接下锅，成品带明显腥气。",
+    "焖煮时用了冷水，表皮骤然收缩变得又硬又韧",
+    "最后收汁收到锅干，肉块表面发白发柴"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "800g 对 800g",
+      "note": "脂肪少一些，焖制时间延长 15 分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "红糖",
+      "ratio": "20g 对 18g",
+      "note": "颜色更深，带焦糖香。"
+    }
+  ],
+  "variations": [
+    "同安封肉版：加 100g 板栗同焖，是厦门同安传统做法。",
+    "笋干版：锅底铺泡发笋干，吸油更清爽。"
+  ],
+  "serving_suggestion": "切厚片码盘浇汁，配白米饭与蒜泥白肉酱同食。",
+  "storage": "冷藏 2 天风味更佳，复热需带汁小火焖 10 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 620,
+    "protein_g": 22,
+    "fat_g": 54,
+    "carbs_g": 12,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉必须焖至完全熟透，中心无血水。",
+    "表皮烙制时油花四溅，需站远并盖上锅盖防烫伤。",
+    "脂肪含量高，高血脂与胆囊疾病人群应减量。"
+  ],
+  "origin_note": "封肉是闽南婚宴与年节必备的大菜，整块五花肉捆扎后与香菇虾米同焖，讲究封而不散、入口即化，厦门同安的封肉最负盛名。",
+  "tags": [
+    "闽菜",
+    "猪肉",
+    "宴客",
+    "闽南"
+  ],
+  "related_ids": [
+    "lizhi-rou",
+    "zui-paigu",
+    "jiangyoushui-luyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

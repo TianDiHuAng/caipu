@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tingzai-zhou",
+  "name": {
+    "zh": "荔湾艇仔粥",
+    "en": "Tingzai Boat Congee"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 90,
+    "total_min": 120
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 200,
+          "unit": "g",
+          "note": "油粘米",
+          "optional": false
+        },
+        {
+          "name": "猪筒骨",
+          "name_en": "pork marrow bone",
+          "amount": 400,
+          "unit": "g",
+          "note": "吊粥底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 80,
+          "unit": "g",
+          "note": "干鱿鱼切丝",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 40,
+          "unit": "g",
+          "note": "炸香去皮",
+          "optional": false
+        },
+        {
+          "name": "猪皮",
+          "name_en": "pork skin",
+          "amount": 60,
+          "unit": "g",
+          "note": "炸浮皮泡软",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "摊蛋皮切丝",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "腌米",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "砂锅",
+    "平底锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘净后加 20ml 花生油与 10ml 生抽拌匀腌 20 分钟，猪骨焯水洗净。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "油腌过的米煮出的粥底更绵滑。",
+      "visual_cue": "米粒泛油光、猪骨表面无血沫"
+    },
+    {
+      "n": 2,
+      "text": "猪骨与 2500ml 清水入锅大火烧开，转小火煲 60 分钟成骨汤，捞去骨渣。",
+      "time_min": 65,
+      "heat": "小火",
+      "tip": "骨汤要滤净碎渣，粥才够净。",
+      "visual_cue": "汤色乳白、表面浮油清亮"
+    },
+    {
+      "n": 3,
+      "text": "干鱿鱼用温水泡 30 分钟撕成细丝，猪皮用温水泡软后切细条。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "鱿鱼泡到能弯折即可，久泡失去嚼劲。",
+      "visual_cue": "鱿鱼丝柔软、猪皮吸饱水发胀"
+    },
+    {
+      "n": 4,
+      "text": "骨汤下腌好的大米，大火烧开后转小火不停搅动 40 分钟煮至米粒开花。",
+      "time_min": 45,
+      "heat": "小火",
+      "tip": "全程勺子贴底搅动，防糊锅。",
+      "visual_cue": "米粒开花、粥面泛起米油"
+    },
+    {
+      "n": 5,
+      "text": "鸡蛋摊成薄蛋皮切丝，粥中下鱿鱼丝与猪皮条再煮 5 分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "鱿鱼和浮皮后放，早煮会失去口感。",
+      "visual_cue": "蛋皮丝金黄、鱿鱼丝卷起"
+    },
+    {
+      "n": 6,
+      "text": "加 6g 盐、3g 白胡椒调味，盛碗后铺蛋皮丝、炸花生、大葱末、姜丝与香菜段。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "配料最后铺碗，吃前自己拌匀。",
+      "visual_cue": "粥面配料色彩分明、粥体稠滑"
+    }
+  ],
+  "tips": [
+    "米要先油腌再煮，粥底才绵滑不散。",
+    "熬粥全程小火贴底搅，糊底整锅都有焦味。",
+    "配料的炸花生要最后放，泡久就不脆了。"
+  ],
+  "common_mistakes": [
+    "水一次加太少中途添水，粥底分层变成泡饭。",
+    "鱿鱼一开始就下锅久煮，嚼起来像橡皮。",
+    "白胡椒放太早，长时间熬煮后辛香全失。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪骨",
+      "substitute": "大地鱼干",
+      "ratio": "400g 对 60g",
+      "note": "正宗广式粥底做法，鲜味更集中。"
+    },
+    {
+      "original": "炸浮皮",
+      "substitute": "油条",
+      "ratio": "60g 对 80g",
+      "note": "口感更脆，但需现放现吃。"
+    }
+  ],
+  "variations": [
+    "及第版：加猪肝、猪肚与肉丸，是最常见变体。",
+    "鱼片版：加 100g 生鱼片烫熟，鲜甜更突出。"
+  ],
+  "serving_suggestion": "趁热连配料一起拌匀食用，配一碟豉油辣椒圈。",
+  "storage": "粥底冷藏 1 天，配料另存；复热时加少量水调开。",
+  "nutrition_estimate": {
+    "basis": "每份（约 400ml）",
+    "calories_kcal": 380,
+    "protein_g": 20,
+    "fat_g": 16,
+    "carbs_g": 38,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪骨汤需彻底熬煮并滤净碎骨，避免划伤口腔。",
+    "鱿鱼等海鲜须煮透，避免副溶血弧菌感染。",
+    "鸡蛋须彻底加热至熟透，接触生蛋液后要及时洗手，避免沙门氏菌污染。"
+  ],
+  "origin_note": "艇仔粥源自广州荔湾的水上人家，小艇沿河叫卖，用鱼片、鱿鱼、浮皮、花生等十几种配料现滚现卖，粥底绵滑、料头丰富，是老广记忆里的西关味道。",
+  "tags": [
+    "粤菜",
+    "粥品",
+    "荔湾",
+    "小吃"
+  ],
+  "related_ids": [
+    "baozaifan",
+    "baiqie-ji",
+    "chizhi-paigu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

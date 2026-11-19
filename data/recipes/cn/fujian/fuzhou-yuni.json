@@ -1,0 +1,221 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fuzhou-yuni",
+  "name": {
+    "zh": "福州芋泥",
+    "en": "Fuzhou Taro Paste"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 30,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "芋头",
+          "name_en": "taro",
+          "amount": 600,
+          "unit": "g",
+          "note": "槟榔芋",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 60,
+          "unit": "g",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "红枣",
+          "name_en": "red date",
+          "amount": 30,
+          "unit": "g",
+          "note": "装饰",
+          "optional": false
+        },
+        {
+          "name": "白果",
+          "name_en": "ginkgo nut",
+          "amount": 40,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        },
+        {
+          "name": "熟白芝麻",
+          "name_en": "toasted white sesame",
+          "amount": 10,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸屉",
+    "炒锅",
+    "木铲",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "芋头削皮切 3cm 厚片，上蒸屉大火蒸 25 分钟至用筷子能轻松插透。",
+      "time_min": 30,
+      "heat": "大火",
+      "tip": "削芋头皮时戴手套，黏液会让手发痒。",
+      "visual_cue": "芋片软烂、筷子一插到底"
+    },
+    {
+      "n": 2,
+      "text": "趁热用刀面把芋片压成细泥，反复碾压 3 遍至没有颗粒。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "热的时候压，凉了芋泥会结块压不细。",
+      "visual_cue": "芋泥细腻顺滑、无干硬小块"
+    },
+    {
+      "n": 3,
+      "text": "炒锅小火化开 60g 猪油，倒入芋泥不停翻炒 5 分钟。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "全程小火，猪油焦了整锅带苦味。",
+      "visual_cue": "芋泥吸油发亮、铲子推过能留痕"
+    },
+    {
+      "n": 4,
+      "text": "分两次加入 100g 白糖与 2g 盐，继续翻炒 8 分钟至糖完全融化。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "盐能提甜，别省略这一小撮。",
+      "visual_cue": "芋泥顺滑拉丝、铲起不散"
+    },
+    {
+      "n": 5,
+      "text": "红枣去核切丝，白果氽水 3 分钟去涩，铺在芋泥表面作装饰。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "白果必须氽透，生白果有毒性。",
+      "visual_cue": "白果透亮、枣丝油润"
+    },
+    {
+      "n": 6,
+      "text": "芋泥装碗压实，倒扣入盘撒 10g 熟白芝麻，趁热上桌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "倒扣前碗壁抹点猪油，脱模更完整。",
+      "visual_cue": "芋泥成形不塌、芝麻分布均匀"
+    }
+  ],
+  "tips": [
+    "选槟榔芋，质地粉糯，做芋泥最合适。",
+    "猪油要分次加，芋泥才能完全吸收不发腻。",
+    "炒芋泥用木铲，铁铲容易刮出金属味。"
+  ],
+  "common_mistakes": [
+    "芋头蒸不透就压泥，成品满是硬疙瘩。",
+    "白糖下锅后火开太大，糖焦化整锅发苦",
+    "白果没氽水直接吃，涩味重且有毒性风险。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪油",
+      "substitute": "黄油",
+      "ratio": "60g 对 60g",
+      "note": "奶香更浓，适合不吃猪油的人。"
+    },
+    {
+      "original": "槟榔芋",
+      "substitute": "荔浦芋头",
+      "ratio": "600g 对 600g",
+      "note": "粉度略低，需多加 10g 猪油。"
+    }
+  ],
+  "variations": [
+    "八宝芋泥版：加莲子、桂圆与蜜饯同蒸，是宴席版本。",
+    "椰香版：猪油减半改加 80ml 椰浆，风味更清爽。"
+  ],
+  "serving_suggestion": "热食最佳，一勺入口绵密甜香，配一壶铁观音解腻。",
+  "storage": "冷藏 2 天，复蒸 8 分钟回软；不建议冷冻，口感会变沙。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 420,
+    "protein_g": 4,
+    "fat_g": 20,
+    "carbs_g": 58,
+    "sodium_mg": 120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "芋头黏液会引起皮肤瘙痒，处理时建议戴手套。",
+    "白果含微量毒素，必须充分加热且不宜大量食用。",
+    "含猪油与糖分较高，糖尿病与高血脂人群应控制份量。"
+  ],
+  "origin_note": "芋泥是福州传统甜点，逢年过节与宴席收尾都会上一碗，用槟榔芋蒸透压泥后以猪油慢炒，讲究「芋香透油、入口即化」，福州人称之为压轴甜。",
+  "tags": [
+    "闽菜",
+    "甜点",
+    "芋头",
+    "福州"
+  ],
+  "related_ids": [
+    "fuzhou-rouyan",
+    "fuzhou-yuwan",
+    "guangshi-hongdou-sha"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
