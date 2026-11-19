@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xianggu-pa-caixin",
+  "name": {
+    "zh": "香菇扒菜心",
+    "en": "Braised Bok Choy with Shiitake"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "菜心",
+          "name_en": "choy sum",
+          "amount": 500,
+          "unit": "g",
+          "note": "选矮脚菜心",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 100,
+          "unit": "g",
+          "note": "厚肉干香菇",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "氽水用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干香菇用 200ml 温水泡发 30 分钟，泡菇水留用，香菇挤干后切十字花刀。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "泡菇水是鲜味精华，千万别倒。",
+      "visual_cue": "香菇饱满回软、菇水呈茶色"
+    },
+    {
+      "n": 2,
+      "text": "菜心削去根部老皮，纵切四瓣后洗净，沥干水分备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "根部厚皮削掉，吃起来才不带渣。",
+      "visual_cue": "菜心剖面对称、无泥点"
+    },
+    {
+      "n": 3,
+      "text": "汤锅烧 1500ml 水加 4g 盐，菜心入水氽 60 秒立即捞出过凉。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "氽水加盐能保住翠绿，过凉定色。",
+      "visual_cue": "菜心翠绿挺立、根部变软"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下 30ml 植物油，爆香蒜片与姜丝，下香菇小火煎 2 分钟至边缘微焦。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香菇先煎出香味，比直接煮鲜得多。",
+      "visual_cue": "菇面呈浅褐色、香气扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "倒入泡菇水与 20ml 蚝油、10ml 生抽、3g 白糖，小火煨 5 分钟至入味。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "只加泡菇水不加清水，鲜味最集中。",
+      "visual_cue": "汤汁减少三分之一、香菇吸饱汁"
+    },
+    {
+      "n": 6,
+      "text": "菜心码盘围边，香菇摆在中央，锅中汤汁用 8g 淀粉水勾薄芡后浇在菜心上。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "芡汁要透亮，浇在菜心上会稍渗开。",
+      "visual_cue": "芡汁挂勺、盘中无积水"
+    }
+  ],
+  "tips": [
+    "香菇务必用厚肉的干菇，鲜菇香气差一大截。",
+    "菜心氽水后过凉水，颜色能一直保持翠绿。",
+    "泡菇水底部如有细沙，取上层澄清部分使用。"
+  ],
+  "common_mistakes": [
+    "菜心氽水时间过长，出锅软塌发黄。",
+    "香菇没煎直接煮，香气寡淡像白水炖菜。",
+    "芡汁勾得太稠，把整盘菜糊成一坨黏糊的团块"
+  ],
+  "substitutions": [
+    {
+      "original": "菜心",
+      "substitute": "上海青",
+      "ratio": "500g 对 500g",
+      "note": "梗更厚，氽水时间加 20 秒。"
+    },
+    {
+      "original": "蚝油",
+      "substitute": "鲍汁",
+      "ratio": "20ml 对 20ml",
+      "note": "鲜味更厚，适合宴客版。"
+    }
+  ],
+  "variations": [
+    "蟹粉版：加 40g 蟹粉与香菇同煨，是徽州宴席的升级做法。",
+    "腊味版：加 50g 腊肉薄片煸香后同煨，咸香下饭。"
+  ],
+  "serving_suggestion": "整齐码盘上桌，先夹菜心蘸汁，再配香菇同食。",
+  "storage": "冷藏 1 天，复热需加少量水小火回温，避免菜心发黄。",
+  "nutrition_estimate": {
+    "basis": "每份（约 160g）",
+    "calories_kcal": 130,
+    "protein_g": 5,
+    "fat_g": 8,
+    "carbs_g": 10,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "菜心根部容易藏泥，须逐棵掰开冲洗。",
+    "香菇泡发时间不宜超过 4 小时，夏季应冷藏泡发。",
+    "勾芡后温度较高，食用时注意烫口。"
+  ],
+  "origin_note": "香菇扒菜心是徽菜中素菜荤做的代表，用泡菇水与蚝油煨出厚味，再把透亮的芡汁扒在翠绿的菜心上，讲究「菇香入菜、菜心不老」，是宴席上必不可少的一道清口菜。",
+  "tags": [
+    "徽菜",
+    "素菜",
+    "香菇",
+    "宴席"
+  ],
+  "related_ids": [
+    "qingchao-luhao",
+    "xianggu-shao-shansun",
+    "huotui-shao-sun"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

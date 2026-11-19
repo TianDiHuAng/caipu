@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "youbao-shuangcui",
+  "name": {
+    "zh": "油爆双脆",
+    "en": "Quick-fried Tripe and Kidney"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 5,
+    "total_min": 30
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肚",
+          "name_en": "pork tripe",
+          "amount": 250,
+          "unit": "g",
+          "note": "取肚头厚处",
+          "optional": false
+        },
+        {
+          "name": "猪腰",
+          "name_en": "pork kidney",
+          "amount": 250,
+          "unit": "g",
+          "note": "去腰臊",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "搓洗内脏用",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切马蹄葱",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "上浆",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "宽油滑炒",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "起锅淋入",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肚头用盐与面粉反复搓洗三遍，刮净内壁黏液，切 4cm 见方的块后打十字花刀。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "黏液不刮净，成品会有股明显的脏器味。",
+      "visual_cue": "肚块色泽洁白、表面干爽、刀纹呈整齐网格"
+    },
+    {
+      "n": 2,
+      "text": "猪腰从中间片开，去除白色腰臊，切麦穗花刀后与肚块一起用料酒腌 10 分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "腰臊必须削干净，否则整盘带腥。",
+      "visual_cue": "腰片无白筋、花刀翻卷成穗"
+    },
+    {
+      "n": 3,
+      "text": "两种主料加 4g 盐与 15g 淀粉抓匀上浆，再拌入 10ml 香油锁住水分。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "上浆要抓到手感发黏才算到位。",
+      "visual_cue": "表面挂薄浆、不滴落"
+    },
+    {
+      "n": 4,
+      "text": "碗中调汁：15ml 香醋、10ml 料酒、5g 淀粉加 40ml 清水搅匀备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "碗汁提前调好，爆炒时没时间现配。",
+      "visual_cue": "碗汁清澈、无干粉块"
+    },
+    {
+      "n": 5,
+      "text": "炒锅烧至冒青烟倒入 200ml 植物油，六成热时下肚块与腰片快速划散 8 秒即捞出。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "油温不够会脱浆，时间超十秒就老。",
+      "visual_cue": "主料卷成花形、表面泛白"
+    },
+    {
+      "n": 6,
+      "text": "锅留 20ml 底油爆香大葱、生姜与大蒜与冬笋片，回锅主料，顺锅边淋入碗汁颠翻三下，起锅装盘。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "全程大火颠炒，动作慢了就不脆。",
+      "visual_cue": "汤汁紧裹、盘底不见汤水"
+    }
+  ],
+  "tips": [
+    "肚头只取最厚的一段，薄的地方炒出来发韧。",
+    "上浆后静置 10 分钟再滑油，浆才挂得牢。",
+    "碗汁里的醋别省，酸香能让双脆更爽口。"
+  ],
+  "common_mistakes": [
+    "腰臊没有去净，成品带明显腥臊味。",
+    "油温只有三四成热就下锅，主料脱浆成一锅糊。",
+    "在锅里翻炒超过半分钟，脆嫩全失嚼不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪腰",
+      "substitute": "鸡胗",
+      "ratio": "250g 对 250g",
+      "note": "口感更脆，腥味更轻。"
+    },
+    {
+      "original": "冬笋",
+      "substitute": "茭白",
+      "ratio": "60g 对 60g",
+      "note": "清甜度接近，但需多炒十秒。"
+    }
+  ],
+  "variations": [
+    "芫爆版：起锅前加 30g 香菜段，香气更冲。",
+    "酱爆版：碗汁中加 15g 甜面酱，是济南馆子的常见做法。"
+  ],
+  "serving_suggestion": "出锅立刻上桌，配米饭趁热吃，凉了脆度骤降。",
+  "storage": "不建议存放，滑油后冷藏一夜再回锅口感会明显变韧。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 300,
+    "protein_g": 26,
+    "fat_g": 18,
+    "carbs_g": 9,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肚与猪腰须彻底清洗并充分加热至完全熟透，避免寄生虫与细菌风险。",
+    "内脏胆固醇高，高血脂人群应少量食用。",
+    "宽油滑炒时油温高，注意防油溅烫伤。"
+  ],
+  "origin_note": "油爆双脆是鲁菜中技术要求最高的爆炒菜之一，肚头与腰子必须在十几秒内完成滑油与爆汁，成菜脆嫩爽口、卤汁紧裹，旧时济南饭庄常以此菜考厨。",
+  "tags": [
+    "鲁菜",
+    "爆炒",
+    "内脏",
+    "宴席"
+  ],
+  "related_ids": [
+    "pa-yuanke-baoyu",
+    "youmen-daxia",
+    "congshao-haishen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

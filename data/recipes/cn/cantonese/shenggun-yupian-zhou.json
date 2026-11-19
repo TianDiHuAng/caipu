@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shenggun-yupian-zhou",
+  "name": {
+    "zh": "生滚鱼片粥",
+    "en": "Cantonese Fish Slice Congee"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 120,
+    "cook_min": 70,
+    "total_min": 190
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "light",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 400,
+          "unit": "g",
+          "note": "取净肉切片",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 180,
+          "unit": "g",
+          "note": "油粘米",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半切丝一半拍碎",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "猪筒骨",
+          "name_en": "pork marrow bone",
+          "amount": 300,
+          "unit": "g",
+          "note": "吊粥底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌鱼",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "腌米与腌鱼",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "腌鱼锁水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "砂锅",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘净加 15ml 花生油拌匀腌 30 分钟，猪骨冷水下锅焯去血沫后洗净。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "油腌过的米更容易煮出米油。",
+      "visual_cue": "米粒泛油光、猪骨表面干净"
+    },
+    {
+      "n": 2,
+      "text": "猪骨加 2200ml 清水大火烧开转小火煲 50 分钟，滤出清汤备用。",
+      "time_min": 55,
+      "heat": "小火",
+      "tip": "骨汤务必滤净碎渣，粥才顺滑。",
+      "visual_cue": "汤色乳白、无骨屑悬浮"
+    },
+    {
+      "n": 3,
+      "text": "草鱼净肉斜刀片成 3mm 薄片，加 15ml 生抽、8g 淀粉、10ml 花生油与姜丝抓匀腌 15 分钟。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "鱼片要逆纹斜切，断筋才嫩。",
+      "visual_cue": "鱼片透亮、边缘完整不散"
+    },
+    {
+      "n": 4,
+      "text": "骨汤下腌好的大米与拍碎的生姜，大火烧开转小火贴底搅动 40 分钟至米粒开花。",
+      "time_min": 45,
+      "heat": "小火",
+      "tip": "勺子必须贴底搅，防糊锅。",
+      "visual_cue": "米粒开花、粥面浮起米油"
+    },
+    {
+      "n": 5,
+      "text": "加 6g 盐与 3g 白胡椒调味，转大火让粥面翻滚，把鱼片逐片下锅烫 60 秒。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "鱼片一片片放，成团会外老内生。",
+      "visual_cue": "鱼片变白卷边、粥体仍稠"
+    },
+    {
+      "n": 6,
+      "text": "关火撒大葱段与香菜段，静置 30 秒让香气散出后盛碗。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "大葱段关火后再放，颜色才保持翠绿",
+      "visual_cue": "粥面点缀翠绿、鱼片完整"
+    }
+  ],
+  "tips": [
+    "米要先油腌，煮出的粥底才绵滑带米油。",
+    "鱼片只在最后烫一分钟，久煮必柴。",
+    "粥底熬好后要转大火滚起来再下鱼，温度才够。"
+  ],
+  "common_mistakes": [
+    "粥底太稠下鱼片，鱼肉粘成一块。",
+    "鱼片用重手法搅拌，下锅就碎成渣。",
+    "白胡椒一开始就下锅，长时间熬煮后辛香全失。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲈鱼",
+      "ratio": "400g 对 400g",
+      "note": "刺更少，肉质更细嫩。"
+    },
+    {
+      "original": "猪骨",
+      "substitute": "大地鱼干",
+      "ratio": "300g 对 50g",
+      "note": "更地道的广式粥底，鲜味更集中。"
+    }
+  ],
+  "variations": [
+    "鱼头粥版：用鱼头煎香后直接下粥底同熬，鲜味更浓。",
+    "加料版：加 60g 猪肝片同烫，是顺德夜宵常见做法。"
+  ],
+  "serving_suggestion": "趁滚烫上桌，撒白胡椒后立即食用，配一碟姜丝豉油。",
+  "storage": "粥底冷藏 1 天，鱼片须现切现烫，不宜复热。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350ml）",
+    "calories_kcal": 340,
+    "protein_g": 24,
+    "fat_g": 12,
+    "carbs_g": 34,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "草鱼刺多，片鱼时须彻底去骨，老人儿童食用要格外留意。",
+    "鱼片须彻底烫熟至肉质不透明，避免寄生虫风险。",
+    "生熟刀板分开，处理生鱼后要洗手。"
+  ],
+  "origin_note": "生滚粥是广州大排档的招牌做法，把新鲜鱼片直接放入滚沸的粥底中烫熟，讲究「鱼嫩粥滑、即点即做」，是检验粥底的经典吃法。",
+  "tags": [
+    "粤菜",
+    "粥品",
+    "鱼片",
+    "宵夜"
+  ],
+  "related_ids": [
+    "tingzai-zhou",
+    "baiqie-ji",
+    "chizhi-paigu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T21:11:50.882Z",
+  "generatedAt": "2026-11-19T21:50:18.223Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 493,
+    "cells": 494,
     "target": 3274,
-    "actual": 445,
-    "coverage": 0.13591936469150886
+    "actual": 451,
+    "coverage": 0.13775198533903482
   },
   "regions": {
     "cn": [
@@ -195,7 +195,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 25,
+        "actual": 26,
         "cells": [
           {
             "category": "main-seafood",
@@ -248,11 +248,12 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "congshao-tijin",
               "pa-yuanke-baoyu",
               "sixi-wanzi",
+              "youbao-shuangcui",
               "zhaoliu-yupian"
             ]
           },
@@ -330,7 +331,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 30,
+        "actual": 31,
         "cells": [
           {
             "category": "main-seafood",
@@ -383,11 +384,12 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "baozaifan",
               "claypot-rice",
               "shengchao-nuomifan",
+              "shenggun-yupian-zhou",
               "tingzai-zhou"
             ]
           },
@@ -727,7 +729,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 17,
+        "actual": 19,
         "cells": [
           {
             "category": "soup",
@@ -779,10 +781,11 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "fujian-congyou-zhi",
               "fujian-suanrong-jiang",
+              "fuzhou-xiayou",
               "shacha-jiang"
             ]
           },
@@ -813,6 +816,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "fuzhou-guangbing"
+            ]
           }
         ]
       },
@@ -948,7 +960,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 15,
+        "actual": 16,
         "cells": [
           {
             "category": "main-meat",
@@ -964,10 +976,11 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "huotui-shao-sun",
               "qingchao-luhao",
+              "xianggu-pa-caixin",
               "xianggu-shao-shansun"
             ]
           },
@@ -3027,17 +3040,18 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 17,
+        "actual": 18,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "aloo-gobi",
               "aloo-palak",
-              "chana-masala"
+              "chana-masala",
+              "palak-paneer"
             ]
           },
           {

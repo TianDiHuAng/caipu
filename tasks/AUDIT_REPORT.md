@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T21:11:43.826Z
+- 生成时间：2026-11-19T21:49:53.503Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 45 道，平均分 97
 - 需重写（C/D）：0 道
@@ -20,7 +20,7 @@
 | --- | --- | --- | --- | --- |
 | american | brownie | 93 | A | 准确性 18/25 |
 | american-south | southern-fried-chicken | 100 | A | 无 |
-| anhui | wenzheng-shansun-tang | 100 | A | 无 |
+| anhui | xianggu-pa-caixin | 93 | A | 准确性 18/25 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | baozaifan | 93 | A | 准确性 18/25 |
@@ -28,7 +28,7 @@
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | creme-brulee | 100 | A | 无 |
-| fujian | fuzhou-rouyan | 100 | A | 无 |
+| fujian | fuzhou-guangbing | 100 | A | 无 |
 | german | wiener-schnitzel | 100 | A | 无 |
 | greek | greek-roast-vegetable-salad | 100 | A | 无 |
 | hakka | kejia-chao-mifen | 93 | A | 准确性 18/25 |
