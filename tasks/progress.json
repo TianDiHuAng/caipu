@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:02:34.798Z",
+  "generatedAt": "2026-11-19T05:12:40.547Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 461,
+    "cells": 464,
     "target": 3274,
-    "actual": 189,
-    "coverage": 0.057727550397067805
+    "actual": 198,
+    "coverage": 0.06047648136835675
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 31,
+        "actual": 33,
         "cells": [
           {
             "category": "main-meat",
@@ -139,6 +139,17 @@
             ]
           },
           {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 3,
+            "ids": [
+              "kaishui-baicai",
+              "suancai-yu",
+              "suanluobo-laoya-tang"
+            ]
+          },
+          {
             "category": "main-seafood",
             "kind": "extra",
             "target": 0,
@@ -149,22 +160,13 @@
             ]
           },
           {
-            "category": "soup",
+            "category": "banquet",
             "kind": "extra",
             "target": 0,
             "actual": 2,
             "ids": [
-              "suancai-yu",
-              "suanluobo-laoya-tang"
-            ]
-          },
-          {
-            "category": "banquet",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "gongbao-jiding"
+              "gongbao-jiding",
+              "kaishui-baicai"
             ]
           }
         ]
@@ -175,7 +177,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
@@ -193,8 +195,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "bazi-rou",
               "jiuzhuan-dachang"
             ]
           },
@@ -288,7 +291,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 20,
+        "actual": 21,
         "cells": [
           {
             "category": "main-seafood",
@@ -356,11 +359,12 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "baizhuo-jielan",
               "haoyou-shengcai",
-              "suanrong-caixin"
+              "suanrong-caixin",
+              "suanrong-xilanhua"
             ]
           },
           {
@@ -532,7 +536,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 9,
+        "actual": 11,
         "cells": [
           {
             "category": "main-seafood",
@@ -609,6 +613,24 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "congbaogui"
+            ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "congbaogui"
+            ]
           },
           {
             "category": "banquet",
@@ -1932,7 +1954,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -1974,8 +1996,10 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "korean-fried-chicken"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -2012,6 +2036,15 @@
             "actual": 1,
             "ids": [
               "kimchi-jjigae"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "korean-fried-chicken"
             ]
           }
         ]
@@ -2103,7 +2136,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "staple-bread",
@@ -2125,8 +2158,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tiramisu"
+            ]
           },
           {
             "category": "appetizer",

@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tiramisu",
+  "name": {
+    "zh": "提拉米苏",
+    "en": "Tiramisu"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 280,
+    "cook_min": 15,
+    "total_min": 295
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "bitter",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "马斯卡彭芝士",
+          "name_en": "mascarpone cheese",
+          "amount": 250,
+          "unit": "g",
+          "note": "室温回软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "手指饼干",
+          "name_en": "ladyfinger biscuit",
+          "amount": 120,
+          "unit": "g",
+          "note": "约 16 根",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "新鲜，蛋清蛋黄分离",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 70,
+          "unit": "g",
+          "note": "分次使用",
+          "optional": false
+        },
+        {
+          "name": "咖啡",
+          "name_en": "coffee",
+          "amount": 150,
+          "unit": "ml",
+          "note": "浓咖啡，放凉",
+          "optional": false
+        },
+        {
+          "name": "可可粉",
+          "name_en": "cocoa powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "装饰用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "打蛋白时稳定泡沫",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "打蛋器",
+    "刮刀",
+    "方形保鲜盒",
+    "冰箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "浓咖啡倒入浅盘放凉，加 10g 细砂糖搅至融化备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "咖啡必须完全放凉，热咖啡会化掉饼干。",
+      "visual_cue": "咖啡液温度接近室温"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋磕开分离蛋黄与蛋清，分别放入无油无水的干净盆中。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋清盆一定无油无水，否则打不发。",
+      "visual_cue": "蛋黄完整、蛋清无蛋黄混入"
+    },
+    {
+      "n": 3,
+      "text": "蛋黄加 40g 细砂糖打发至颜色变浅发白，再分次拌入马斯卡彭芝士至顺滑无颗粒。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "芝士回软后再拌，才不会有小疙瘩。",
+      "visual_cue": "糊体细腻、提起刮刀缓慢流下"
+    },
+    {
+      "n": 4,
+      "text": "蛋清加 1g 盐打至起泡，分两次加入剩余 20g 细砂糖打至硬性发泡，分三次翻拌入芝士糊。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "翻拌用切拌手法，画圈会消泡。",
+      "visual_cue": "糊体蓬松、体积明显变大"
+    },
+    {
+      "n": 5,
+      "text": "手指饼干在咖啡液中快速蘸一下，单面约 1 秒，铺满保鲜盒底部。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "蘸太久饼干会烂成糊。",
+      "visual_cue": "饼干吸汁但仍有形"
+    },
+    {
+      "n": 6,
+      "text": "抹一层芝士糊抹平，再铺一层蘸过咖啡的手指饼干，重复至容器装满，顶层抹平。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "每层厚度均匀，切块才整齐。",
+      "visual_cue": "层次分明、表面平整"
+    },
+    {
+      "n": 7,
+      "text": "盖盖放入冰箱冷藏 4 小时，让芝士糊凝固、风味融合。",
+      "time_min": 240,
+      "heat": "无火",
+      "tip": "冷藏不足会塌，切块不成形。",
+      "visual_cue": "轻晃容器中心不流动"
+    },
+    {
+      "n": 8,
+      "text": "取出后用细筛均匀筛上可可粉，切块装盘即可。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "可可粉临吃前筛，久放会回潮。",
+      "visual_cue": "表面覆薄薄一层可可粉"
+    }
+  ],
+  "tips": [
+    "芝士提前回软，拌出的糊才顺滑。",
+    "咖啡蘸饼干只要 1 秒，久了就烂。",
+    "冷藏满 4 小时再切，边缘才利落。"
+  ],
+  "common_mistakes": [
+    "蛋清打发不足，芝士糊撑不住，成品会塌陷。",
+    "咖啡没有放凉就蘸饼干，饼干立刻化成一团糊。",
+    "翻拌时习惯画圈搅拌，糊体消泡后变得稀薄。"
+  ],
+  "substitutions": [
+    {
+      "original": "马斯卡彭芝士",
+      "substitute": "奶油奶酪",
+      "ratio": "250g 对 250g",
+      "note": "质地更紧实，需回软后打顺。"
+    },
+    {
+      "original": "手指饼干",
+      "substitute": "海绵蛋糕片",
+      "ratio": "120g 对 130g",
+      "note": "吸汁快，蘸 1 秒即可。"
+    }
+  ],
+  "variations": [
+    "酒香版：咖啡液中加 15ml 咖啡酒，风味更成人的味道。",
+    "抹茶版：可可粉换抹茶粉 8g，微苦清香。"
+  ],
+  "serving_suggestion": "冷藏取出后 10 分钟内食用，口感最好。",
+  "storage": "冷藏 2 天，密封保存防止串味。",
+  "nutrition_estimate": {
+    "basis": "每份（约 140g）",
+    "calories_kcal": 420,
+    "protein_g": 9,
+    "fat_g": 27,
+    "carbs_g": 34,
+    "sodium_mg": 130,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "配方含生鸡蛋，须选用标注可生食的新鲜鸡蛋，孕妇、幼儿与免疫力低下者谨慎食用。",
+    "马斯卡彭芝士属乳制品，乳糖不耐者适量。",
+    "冷藏甜点全程保持 4℃ 以下，取出后 2 小时内吃完。"
+  ],
+  "origin_note": "提拉米苏来自意大利威尼托，名字意为「带我走」，用马斯卡彭芝士、咖啡与可可粉叠出层层苦甜，是意式甜点里最有辨识度的一款。",
+  "tags": [
+    "意式",
+    "甜点",
+    "咖啡",
+    "免烤"
+  ],
+  "related_ids": [
+    "new-york-cheesecake",
+    "bruschetta",
+    "pomodoro-pasta"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

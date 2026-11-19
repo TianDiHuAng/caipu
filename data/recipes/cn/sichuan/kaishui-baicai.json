@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "kaishui-baicai",
+  "name": {
+    "zh": "开水白菜",
+    "en": "Napa Cabbage in Clear Consomme"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "soup",
+    "banquet"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 95,
+    "total_min": 120
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "娃娃菜",
+          "name_en": "baby napa cabbage",
+          "amount": 600,
+          "unit": "g",
+          "note": "只取嫩叶，剖成四瓣",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 120,
+          "unit": "g",
+          "note": "剁成细茸，用于扫汤",
+          "optional": false
+        },
+        {
+          "name": "干贝",
+          "name_en": "dried scallop",
+          "amount": 15,
+          "unit": "g",
+          "note": "提前温水泡发",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半煮汤一半切丝",
+          "optional": false
+        },
+        {
+          "name": "枸杞",
+          "name_en": "goji berry",
+          "amount": 5,
+          "unit": "g",
+          "note": "温水略泡",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "清鸡汤，撇净浮油",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "细筛",
+    "蒸笼",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "娃娃菜剖成四瓣，只留娃娃菜的嫩叶，修掉老梗，冷水浸泡 10 分钟捞出沥干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "嫩叶要整瓣不散，修梗时从根部斜切。",
+      "visual_cue": "嫩叶完整、水分散尽"
+    },
+    {
+      "n": 2,
+      "text": "鸡胸肉剁成细茸，分次加 100ml 鸡汤解散成稀浆状。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉茸越细，扫出的汤越清。",
+      "visual_cue": "肉茸呈细腻黏稠的浆状"
+    },
+    {
+      "n": 3,
+      "text": "鸡汤倒入汤锅，加姜片、葱段与料酒大火烧开，撇净浮沫后转小火。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "浮沫必须撇净，汤才不腥。",
+      "visual_cue": "汤面浮沫除尽、汤色清亮"
+    },
+    {
+      "n": 4,
+      "text": "把鸡胸肉茸浆缓缓倒入汤中，边倒边搅，小火微沸 30 分钟让肉茸吸附杂质。",
+      "time_min": 30,
+      "heat": "小火",
+      "tip": "全程不能让汤翻滚，否则汤浑。",
+      "visual_cue": "肉茸结成灰白絮团浮起"
+    },
+    {
+      "n": 5,
+      "text": "用细筛滤出肉茸，汤回锅加盐、干贝与枸杞，小火保温备用。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "滤汤时不要挤压肉茸，避免汤色发浑。",
+      "visual_cue": "汤色清澈见底、咸鲜适口"
+    },
+    {
+      "n": 6,
+      "text": "娃娃菜的嫩叶放进沸水焯 40 秒，立刻捞出过凉水定色。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "焯水时间宁短勿长，嫩叶要保持脆嫩。",
+      "visual_cue": "汤色清澈、能看见碗底花纹"
+    },
+    {
+      "n": 7,
+      "text": "娃娃菜的嫩叶整齐码进汤碗，舀入清汤没过娃娃菜的嫩叶，上蒸笼中火蒸 20 分钟。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "蒸制让嫩叶吸汤，比直接煮更清甜。",
+      "visual_cue": "嫩叶软嫩、汤面平静"
+    },
+    {
+      "n": 8,
+      "text": "出笼后重新淋一勺滚烫清汤，撒上葱丝即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "二次淋汤冲开香气，是这道菜的关键仪式。",
+      "visual_cue": "汤清菜绿、葱丝浮面"
+    }
+  ],
+  "tips": [
+    "扫汤全程保持小火微沸，汤一滚就变浑浊。",
+    "嫩叶焯水后必须立刻过凉水，颜色才会翠绿。",
+    "上桌前再淋一勺滚汤，香气才冲得出来。"
+  ],
+  "common_mistakes": [
+    "吊汤时用大火滚煮，成品浑浊不透亮。",
+    "嫩叶焯水时间过长，入口软塌没有脆感。",
+    "盐一次性加足，掩盖了汤本身的鲜甜味。"
+  ],
+  "substitutions": [
+    {
+      "original": "娃娃菜",
+      "substitute": "大白嫩叶",
+      "ratio": "600g 对 700g",
+      "note": "大白菜梗厚，蒸制时间加 5 分钟。"
+    },
+    {
+      "original": "鸡汤",
+      "substitute": "鸡架高汤",
+      "ratio": "1200ml 对 1200ml",
+      "note": "需多撇两次浮油。"
+    }
+  ],
+  "variations": [
+    "加料版：清汤中加 10g 火腿片同滤，鲜味更厚。",
+    "素版：鸡汤换菌菇高汤，用蛋清代替鸡胸肉扫汤。"
+  ],
+  "serving_suggestion": "趁热喝汤吃菜，汤先入口最能体会清鲜。",
+  "storage": "当天食用最佳，冷藏不超过 1 天，复热需隔水蒸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 95,
+    "protein_g": 10,
+    "fat_g": 3,
+    "carbs_g": 6,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡汤需彻底烧开撇沫，禽类汤汁必须完全熟制。",
+    "嫩叶焯水后立即食用或冷藏，避免长时间室温放置。",
+    "干贝属贝类，过敏人群需替换为香菇。"
+  ],
+  "origin_note": "开水白菜是川菜清汤的代表作，看似白菜泡水，实则用鸡茸反复扫汤，把一锅浓汤吊成见底的清汤，是川菜里最难的家常菜。",
+  "tags": [
+    "川菜",
+    "国宴",
+    "清汤",
+    "娃娃菜"
+  ],
+  "related_ids": [
+    "mapo-doufu",
+    "dandan-mian",
+    "fuzhou-yuwan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

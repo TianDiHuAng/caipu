@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "congbaogui",
+  "name": {
+    "zh": "葱包桧",
+    "en": "Scallion and Youtiao Roll"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "snack",
+    "breakfast"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "春卷皮",
+          "name_en": "spring roll wrapper",
+          "amount": 210,
+          "unit": "g",
+          "note": "6 张，直径约 20cm",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "油条",
+          "name_en": "fried dough stick",
+          "amount": 150,
+          "unit": "g",
+          "note": "切成 12cm 长段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切 10cm 长段",
+          "optional": false
+        },
+        {
+          "name": "甜面酱",
+          "name_en": "sweet bean sauce",
+          "amount": 40,
+          "unit": "g",
+          "note": "涂抹与蘸食",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "葱段略撒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "锅铲",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小葱洗净沥干切成 10cm 长段，撒 2g 盐略腌 5 分钟；油条切成长段。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "葱段必须晾干，湿葱会把皮泡软。",
+      "visual_cue": "葱段挺直、表面无水"
+    },
+    {
+      "n": 2,
+      "text": "春卷皮平铺，抹一层甜面酱，放入油条与三四根葱段，卷紧后接口抹水粘牢。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "卷的时候两端折进来，煎时馅才不会掉。",
+      "visual_cue": "卷身紧实、接口贴合"
+    },
+    {
+      "n": 3,
+      "text": "平底锅刷 30ml 植物油，中火把春卷摆入，煎 4 分钟至底面金黄。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "油不要多，干煎才脆。",
+      "visual_cue": "底面出现均匀的金黄焦斑"
+    },
+    {
+      "n": 4,
+      "text": "翻面后用铲子逐个压扁，继续煎 3 分钟把两面压到起脆壳。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "压扁能让皮与馅贴紧，口感更脆。",
+      "visual_cue": "外皮薄脆、能听到沙沙声"
+    },
+    {
+      "n": 5,
+      "text": "出锅后斜刀切成两段，趁热蘸着剩余甜面酱食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "切的时候刀口要快，避免压散。",
+      "visual_cue": "断面层次分明、酱香扑鼻"
+    }
+  ],
+  "tips": [
+    "用铲子压扁这一步不能省，压过外皮才够脆。",
+    "小葱一定要晾干水分，湿葱会把春卷皮泡软。",
+    "甜面酱先在皮上抹薄薄一层，卷内才够入味。"
+  ],
+  "common_mistakes": [
+    "锅里油倒太多变成半炸，外皮发硬又吸油。",
+    "春卷卷得太松，煎的时候馅料会掉出来。",
+    "全程小火慢煎，皮干硬不回软也不起脆壳。"
+  ],
+  "substitutions": [
+    {
+      "original": "油条",
+      "substitute": "春卷炸条",
+      "ratio": "150g 对 150g",
+      "note": "口感更脆，煎的时间减 1 分钟。"
+    },
+    {
+      "original": "春卷皮",
+      "substitute": "薄饼皮",
+      "ratio": "210g 对 210g",
+      "note": "薄饼皮更软，需多煎 1 分钟。"
+    }
+  ],
+  "variations": [
+    "加蛋版：卷好后浸一层蛋液再煎，外层更香。",
+    "辣酱版：甜面酱换一半辣酱，甜辣交织。"
+  ],
+  "serving_suggestion": "现煎现吃，配一碗豆浆就是杭州式早餐。",
+  "storage": "当天吃完，冷藏后回锅干煎 2 分钟可回脆。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 330,
+    "protein_g": 7,
+    "fat_g": 18,
+    "carbs_g": 36,
+    "sodium_mg": 690,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "煎制时油温较高，卷内可能有热汽，咬开时注意烫口。",
+    "油条为油炸食品，需确认无哈喇味再使用。",
+    "小葱需彻底洗净，生食部分注意清洁。"
+  ],
+  "origin_note": "葱包桧是杭州的街头早点，用春卷皮裹油条与小葱，压扁煎脆，名字里带着老百姓对秦桧的调侃，是很有烟火气的杭州味道。",
+  "tags": [
+    "浙菜",
+    "小吃",
+    "早餐",
+    "杭州"
+  ],
+  "related_ids": [
+    "shengjian-bao",
+    "congyou-banmian",
+    "shandong-jianbing"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

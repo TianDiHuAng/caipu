@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "bazi-rou",
+  "name": {
+    "zh": "把子肉",
+    "en": "Braised Pork Belly Slabs"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 100,
+    "total_min": 130
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "带皮，切 2cm 厚大片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切长段铺锅底",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "约 2 颗",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "2 片",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 60,
+          "unit": "ml",
+          "note": "主咸味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "提亮回甜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "补底味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "汤锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成 2cm 厚的大片，冷水浸泡 20 分钟逼出血水，中途换一次水。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡水比焯水更能保住肉香。",
+      "visual_cue": "肉片发白、水色变淡"
+    },
+    {
+      "n": 2,
+      "text": "肉片冷水下锅，加姜片与料酒大火烧开，焯 8 分钟撇净浮沫后捞出冲净。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才出得干净。",
+      "visual_cue": "浮沫成灰褐色、肉片紧实"
+    },
+    {
+      "n": 3,
+      "text": "砂锅底铺小葱段、姜片、八角、香叶与桂皮，码放时留出缝隙。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "垫葱姜能防粘底，也让香气往上走。",
+      "visual_cue": "锅底铺满、香料均匀"
+    },
+    {
+      "n": 4,
+      "text": "肉片皮朝上码入砂锅，加生抽、老抽、冰糖、盐与 600ml 清水，水面略低于肉面。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水不要没过肉，靠焖让味道渗进去。",
+      "visual_cue": "汤汁刚及肉片八成"
+    },
+    {
+      "n": 5,
+      "text": "大火烧开后转小火焖 80 分钟，中途把肉片上下翻动一次。",
+      "time_min": 82,
+      "heat": "小火",
+      "tip": "小火保持似开非开，肉才酥而不散。",
+      "visual_cue": "筷子能扎透肉皮、汤汁浓稠"
+    },
+    {
+      "n": 6,
+      "text": "转中火收汁 8 分钟，边收边把汤汁淋在肉面上，至肉皮红亮即关火。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "收汁时勤淋汁，颜色才均匀发亮。",
+      "visual_cue": "肉皮油亮、汤汁挂勺"
+    }
+  ],
+  "tips": [
+    "垫葱姜防粘底，取肉时整片不破。",
+    "小火焖足 80 分钟，肥肉才入口即化。",
+    "收汁阶段勤淋汁，成品才有镜面感。"
+  ],
+  "common_mistakes": [
+    "全程大火猛煮，肉片迅速卷缩、口感发柴。",
+    "水一次加得太多，成品汤汁味淡颜色也浅。",
+    "收汁阶段直接出锅，肉面暗淡没有油亮感。"
+  ],
+  "substitutions": [
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "30g 对 25g",
+      "note": "糖色略浅，需多收 2 分钟。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "800g 对 800g",
+      "note": "脂肪少，焖制时间减 15 分钟。"
+    }
+  ],
+  "variations": [
+    "加卤蛋版：同锅放入 4 个鸡蛋同焖，蛋黄吸汁更好吃。",
+    "酱香版：加 20g 黄豆酱同焖，酱味更浓。"
+  ],
+  "serving_suggestion": "配米饭浇汁，一片肉一碗饭是济南人的吃法。",
+  "storage": "冷藏 2 天，复热连汁小火蒸 10 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 620,
+    "protein_g": 22,
+    "fat_g": 52,
+    "carbs_g": 10,
+    "sodium_mg": 950,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉脂肪含量高，血脂异常者适量。",
+    "焖制需保证肉中心完全熟透，筷子能轻松扎透。",
+    "收汁时汤汁浓稠易溅，注意防烫。"
+  ],
+  "origin_note": "把子肉是济南的把子肉配干饭，肉切大片、酱油焖透，讲究「肥而不腻、入口即化」，是山东人最实在的一碗硬菜。",
+  "tags": [
+    "鲁菜",
+    "红烧肉",
+    "五花肉",
+    "下饭"
+  ],
+  "related_ids": [
+    "maoshi-hongshaorou",
+    "dongpo-rou",
+    "suancai-bairou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
