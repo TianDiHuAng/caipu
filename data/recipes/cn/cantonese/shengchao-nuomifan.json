@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shengchao-nuomifan",
+  "name": {
+    "zh": "广式生炒糯米饭",
+    "en": "Cantonese Stir-fried Glutinous Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 240,
+    "cook_min": 25,
+    "total_min": 265
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "糯米",
+          "name_en": "glutinous rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "圆糯米",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 60,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡软切丁",
+          "optional": false
+        },
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡软",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切大葱末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "炒散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "少量",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "蒸屉",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "糯米淘洗后浸泡 4 小时至米粒发白，捞出沥干 20 分钟，摊在蒸屉上大火蒸 25 分钟。",
+      "time_min": 270,
+      "heat": "大火",
+      "tip": "泡够时间的米蒸出来才粒粒分明不粘连。",
+      "visual_cue": "米粒透明饱满、捏之软而不烂"
+    },
+    {
+      "n": 2,
+      "text": "腊肠、腊肉切小丁，香菇与虾米泡软后切碎，泡菇水留 50ml 备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "泡菇水是鲜味来源，别倒掉。",
+      "visual_cue": "腊味丁大小均匀、香菇碎干爽"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下 20ml 植物油，中火把腊肠丁与腊肉丁煸 3 分钟出油，再下香菇碎、虾米炒香。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "腊味先煸出油，整锅饭才够润。",
+      "visual_cue": "腊味边缘微卷、锅底浮起油脂"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋打散倒入锅边炒成小块，加 20ml 生抽、5ml 老抽、3g 盐与 2g 白胡椒炒匀。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蛋液下锅后别急着翻，凝块再炒更香。",
+      "visual_cue": "蛋块金黄、酱色均匀裹住配料"
+    },
+    {
+      "n": 5,
+      "text": "倒入蒸好的糯米与 50ml 泡菇水，转小火用铲子翻拌 6 分钟至米粒吸汁油亮。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "全程小火翻拌，大火会把米炒硬。",
+      "visual_cue": "糯米粒粒上色、锅底无积水"
+    },
+    {
+      "n": 6,
+      "text": "撒入 30g 大葱大葱末再翻两下，关火装砂锅焖 2 分钟即可上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "大葱末最后放，香气才不散。",
+      "visual_cue": "葱绿点缀分明、饭面泛油光"
+    }
+  ],
+  "tips": [
+    "糯米必须泡足 4 小时，浸泡不足蒸出来会有硬芯。",
+    "腊味本身很咸，盐量要比平时减半。",
+    "用铲子背翻压而不是乱铲，米粒才不碎。"
+  ],
+  "common_mistakes": [
+    "糯米没泡透直接生炒，米芯硬得咬不动。",
+    "火太大又不加水，锅底结出一层焦壳。",
+    "盐按普通炒饭的量放，腊味一咸整锅弃掉。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肠",
+      "substitute": "广式腊肠王",
+      "ratio": "80g 对 80g",
+      "note": "酒香更浓，风味更接近茶楼版本。"
+    },
+    {
+      "original": "虾米",
+      "substitute": "干贝丝",
+      "ratio": "20g 对 20g",
+      "note": "鲜味更清雅，泡发时间需延长 10 分钟。"
+    }
+  ],
+  "variations": [
+    "腊味双拼版：另加 50g 腊鸭腿肉丁同炒。",
+    "冬菇版：香菇换成泡发的花菇，香气更厚。"
+  ],
+  "serving_suggestion": "趁热盛入砂锅，配一碟芥蓝或一碗例汤是茶楼常见搭配。",
+  "storage": "冷藏 1 天，复热时加一勺水盖盖焖 3 分钟，避免米粒发硬。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 锅）",
+    "calories_kcal": 620,
+    "protein_g": 18,
+    "fat_g": 26,
+    "carbs_g": 76,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腊味为腌制品，含盐较高，高血压人群应减量食用。",
+    "鸡蛋必须炒至完全凝固，避免沙门氏菌风险。",
+    "剩饭冷藏后复热需彻底加热至烫口。"
+  ],
+  "origin_note": "生炒糯米饭是广东茶楼与家常都能见到的点心式主食，先用腊味煸出油，再把蒸透的糯米拌进去吸汁，讲究火候与手快，成品粒粒油亮。",
+  "tags": [
+    "粤菜",
+    "主食",
+    "糯米",
+    "腊味"
+  ],
+  "related_ids": [
+    "claypot-rice",
+    "baozaifan",
+    "baiqie-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

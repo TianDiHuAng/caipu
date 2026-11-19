@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xiang-pijiu-ya",
+  "name": {
+    "zh": "湘味啤酒鸭",
+    "en": "Hunan Beer-Braised Duck"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 70,
+    "total_min": 95
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸭",
+          "name_en": "duck",
+          "amount": 1000,
+          "unit": "g",
+          "note": "斩成麻将块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍破",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 12,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "啤酒",
+          "name_en": "beer",
+          "amount": 500,
+          "unit": "ml",
+          "note": "整瓶倒入",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸭肉 1000g 冷水下锅，加 20ml 料酒与一半姜片，煮开撇去浮沫后捞出冲净。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血水逼干净。",
+      "visual_cue": "浮沫打净、鸭块表面变白"
+    },
+    {
+      "n": 2,
+      "text": "锅中不放油，下鸭块中火干煸 8 分钟，把皮下油脂煸出来。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "鸭油多，干煸出油才不会腻。",
+      "visual_cue": "鸭皮微黄、锅底积油"
+    },
+    {
+      "n": 3,
+      "text": "把鸭块拨到一边，下 50ml 植物油、姜片、蒜与干辣椒段炒 2 分钟出香。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料炒香再和鸭块合炒，味道更透。",
+      "visual_cue": "香料出香、辣椒变色"
+    },
+    {
+      "n": 4,
+      "text": "加 3g 八角、5g 桂皮与鸭块一同翻炒，淋 40ml 生抽和 8ml 老抽上色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "老抽只为上色，多了会发黑。",
+      "visual_cue": "鸭块通体红褐、酱色均匀"
+    },
+    {
+      "n": 5,
+      "text": "倒入 500ml 啤酒没过鸭块，加葱段，大火烧开后转小火。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "啤酒代替水，麦芽香能压住鸭腥。",
+      "visual_cue": "液面微沸、泡沫转为细密"
+    },
+    {
+      "n": 6,
+      "text": "盖上锅盖小火焖 50 分钟，中途翻动两次，让鸭块上下入味一致。",
+      "time_min": 50,
+      "heat": "小火",
+      "tip": "小火慢焖，鸭肉才酥而不散。",
+      "visual_cue": "鸭肉轻推离骨、汤汁剩半"
+    },
+    {
+      "n": 7,
+      "text": "加 6g 盐调味，转中火收汁 8 分钟至汤汁浓稠裹住鸭块。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "收汁勤翻，糖分和油容易糊底。",
+      "visual_cue": "汤汁红亮挂身、锅底见红油"
+    }
+  ],
+  "tips": [
+    "鸭块先干煸出油，成菜才香而不腻。",
+    "啤酒要一次倒足，中途加水会冲淡麦香。",
+    "收汁阶段盯紧锅底，鸭油容易糊锅发苦。"
+  ],
+  "common_mistakes": [
+    "鸭肉不焯水直接焖，腥味压不住还有血沫。",
+    "啤酒只倒半瓶又补清水，味道寡淡。",
+    "大火焖煮，鸭肉紧缩发柴口感全无。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸭",
+      "substitute": "鸡腿",
+      "ratio": "1000g 对 900g",
+      "note": "焖制时间减到 30 分钟。"
+    },
+    {
+      "original": "啤酒",
+      "substitute": "清水加 20ml 料酒",
+      "ratio": "500ml 对 500ml",
+      "note": "少了麦香，需补 5g 白糖提味。"
+    }
+  ],
+  "variations": [
+    "加 200g 土豆块同焖，吸饱汤汁更好吃。",
+    "起锅前淋 5ml 香醋，辣味更立体。"
+  ],
+  "serving_suggestion": "连汤汁装深盘，配米饭或下酒都合适。",
+  "storage": "冷藏可存 3 天，复热时加少量水小火回锅。",
+  "nutrition_estimate": {
+    "basis": "每份（约 260g）",
+    "calories_kcal": 620,
+    "protein_g": 34,
+    "fat_g": 46,
+    "carbs_g": 10,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸭肉须焖至完全熟透，骨缝不见血色。"
+  ],
+  "origin_note": "啤酒鸭是湖南民间的家常做法，用整瓶啤酒代替清水焖鸭，麦芽的甜香中和了鸭肉的腥气，再配干辣椒和八角提味。鸭块先干煸出油，焖到酥烂收汁，红亮浓香，是湘菜里少见的「不靠重辣也能下饭」的菜。",
+  "tags": [
+    "湖南",
+    "鸭肉",
+    "炖菜",
+    "啤酒"
+  ],
+  "related_ids": [
+    "duojiao-yutou",
+    "maoshi-hongshaorou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

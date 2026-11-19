@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-19T15:37:09.733Z
+> 生成时间：2026-11-19T20:48:16.160Z
 
-**总览**：工程任务 49/53；菜谱内容 399/3274（12.2%），共 493 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 439/3274（13.4%），共 493 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,15 +83,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（220/1339）
+### 中国菜系（247/1339）
 
-<details><summary><b>川菜 sichuan</b> — A 级，39/107</summary>
+<details><summary><b>川菜 sichuan</b> — A 级，42/107</summary>
 
 - [ ] `P4-sichuan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 6
 - [ ] `P4-sichuan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 3
-- [ ] `P4-sichuan/main-tofu` 主菜·豆制品（Tofu Main）目标 15，已完成 2
-- [ ] `P4-sichuan/appetizer` 前菜（Appetizer）目标 15，已完成 2
-- [ ] `P4-sichuan/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 2
+- [ ] `P4-sichuan/main-tofu` 主菜·豆制品（Tofu Main）目标 15，已完成 3
+- [ ] `P4-sichuan/appetizer` 前菜（Appetizer）目标 15，已完成 3
+- [ ] `P4-sichuan/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 3
 - [ ] `P4-sichuan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 4
 - [ ] `P4-sichuan/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 1
 - [ ] `P4-sichuan/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 3
@@ -105,13 +105,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>鲁菜 shandong</b> — A 级，20/107</summary>
+<details><summary><b>鲁菜 shandong</b> — A 级，24/107</summary>
 
 - [ ] `P4-shandong/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 5
 - [ ] `P4-shandong/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
-- [ ] `P4-shandong/soup` 汤羹（Soup）目标 15，已完成 2
-- [ ] `P4-shandong/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 2
-- [ ] `P4-shandong/banquet` 宴客菜（Banquet）目标 15，已完成 2
+- [ ] `P4-shandong/soup` 汤羹（Soup）目标 15，已完成 3
+- [ ] `P4-shandong/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 4
+- [ ] `P4-shandong/banquet` 宴客菜（Banquet）目标 15，已完成 3
 - [ ] `P4-shandong/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-shandong/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-shandong/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
@@ -123,13 +123,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>粤菜 cantonese</b> — A 级，28/122</summary>
+<details><summary><b>粤菜 cantonese</b> — A 级，29/122</summary>
 
 - [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 5
 - [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
 - [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 4
 - [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 3
-- [ ] `P4-cantonese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 2
+- [ ] `P4-cantonese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 3
 - [ ] `P4-cantonese/dessert` 甜点（Dessert）目标 15，已完成 3
 - [ ] `P4-cantonese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 5
 - [ ] `P4-cantonese/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
@@ -140,13 +140,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>苏菜 jiangsu</b> — A 级，21/107</summary>
+<details><summary><b>苏菜 jiangsu</b> — A 级，27/107</summary>
 
 - [ ] `P4-jiangsu/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 3
-- [ ] `P4-jiangsu/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
-- [ ] `P4-jiangsu/soup` 汤羹（Soup）目标 15，已完成 2
-- [ ] `P4-jiangsu/appetizer` 前菜（Appetizer）目标 15，已完成 2
-- [ ] `P4-jiangsu/snack` 小吃（Street Food）目标 15，已完成 2
+- [ ] `P4-jiangsu/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
+- [ ] `P4-jiangsu/soup` 汤羹（Soup）目标 15，已完成 4
+- [ ] `P4-jiangsu/appetizer` 前菜（Appetizer）目标 15，已完成 3
+- [ ] `P4-jiangsu/snack` 小吃（Street Food）目标 15，已完成 4
 - [ ] `P4-jiangsu/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-jiangsu/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 2
 - [ ] `P4-jiangsu/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 1
@@ -158,13 +158,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>浙菜 zhejiang</b> — A 级，15/107</summary>
+<details><summary><b>浙菜 zhejiang</b> — A 级，20/107</summary>
 
-- [ ] `P4-zhejiang/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
-- [ ] `P4-zhejiang/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
-- [ ] `P4-zhejiang/soup` 汤羹（Soup）目标 15，已完成 2
-- [ ] `P4-zhejiang/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 2
-- [ ] `P4-zhejiang/dessert` 甜点（Dessert）目标 15，已完成 2
+- [ ] `P4-zhejiang/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 3
+- [ ] `P4-zhejiang/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
+- [ ] `P4-zhejiang/soup` 汤羹（Soup）目标 15，已完成 3
+- [ ] `P4-zhejiang/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 3
+- [ ] `P4-zhejiang/dessert` 甜点（Dessert）目标 15，已完成 3
 - [ ] `P4-zhejiang/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 1
 - [ ] `P4-zhejiang/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-zhejiang/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
@@ -175,13 +175,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>闽菜 fujian</b> — A 级，11/107</summary>
+<details><summary><b>闽菜 fujian</b> — A 级，15/107</summary>
 
 - [ ] `P4-fujian/soup` 汤羹（Soup）目标 15，已完成 3
-- [ ] `P4-fujian/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
+- [ ] `P4-fujian/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 4
 - [ ] `P4-fujian/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
-- [ ] `P4-fujian/snack` 小吃（Street Food）目标 15，已完成 2
-- [ ] `P4-fujian/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 2
+- [ ] `P4-fujian/snack` 小吃（Street Food）目标 15，已完成 3
+- [ ] `P4-fujian/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 3
 - [ ] `P4-fujian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-fujian/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-fujian/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
@@ -189,12 +189,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>湘菜 hunan</b> — A 级，21/107</summary>
+<details><summary><b>湘菜 hunan</b> — A 级，24/107</summary>
 
 - [ ] `P4-hunan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 6
-- [ ] `P4-hunan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 2
+- [ ] `P4-hunan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 4
 - [ ] `P4-hunan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 5
-- [ ] `P4-hunan/appetizer` 前菜（Appetizer）目标 15，已完成 2
+- [ ] `P4-hunan/appetizer` 前菜（Appetizer）目标 15，已完成 3
 - [ ] `P4-hunan/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 3
 - [ ] `P4-hunan/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-hunan/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
@@ -206,11 +206,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>徽菜 anhui</b> — A 级，13/107</summary>
+<details><summary><b>徽菜 anhui</b> — A 级，14/107</summary>
 
 - [ ] `P4-anhui/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
 - [ ] `P4-anhui/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 2
-- [ ] `P4-anhui/soup` 汤羹（Soup）目标 15，已完成 2
+- [ ] `P4-anhui/soup` 汤羹（Soup）目标 15，已完成 3
 - [ ] `P4-anhui/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 2
 - [ ] `P4-anhui/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 2
 - [ ] `P4-anhui/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
@@ -390,14 +390,14 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（179/1935）
+### 外国菜系（192/1935）
 
-<details><summary><b>日本料理 japanese</b> — A 级，17/107</summary>
+<details><summary><b>日本料理 japanese</b> — A 级，20/107</summary>
 
-- [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
+- [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 3
 - [ ] `P4-japanese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 3
 - [ ] `P4-japanese/soup` 汤羹（Soup）目标 15，已完成 3
-- [ ] `P4-japanese/appetizer` 前菜（Appetizer）目标 15，已完成 2
+- [ ] `P4-japanese/appetizer` 前菜（Appetizer）目标 15，已完成 4
 - [ ] `P4-japanese/dessert` 甜点（Dessert）目标 15，已完成 3
 - [ ] `P4-japanese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-japanese/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
@@ -409,12 +409,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>韩国料理 korean</b> — A 级，22/107</summary>
+<details><summary><b>韩国料理 korean</b> — A 级，23/107</summary>
 
 - [ ] `P4-korean/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
 - [ ] `P4-korean/soup` 汤羹（Soup）目标 15，已完成 4
 - [ ] `P4-korean/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 3
-- [ ] `P4-korean/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 2
+- [ ] `P4-korean/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 3
 - [ ] `P4-korean/snack` 小吃（Street Food）目标 15，已完成 3
 - [ ] `P4-korean/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-korean/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
@@ -443,11 +443,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>意大利菜 italian</b> — A 级，16/107</summary>
+<details><summary><b>意大利菜 italian</b> — A 级，20/107</summary>
 
 - [ ] `P4-italian/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 3
-- [ ] `P4-italian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 2
-- [ ] `P4-italian/dessert` 甜点（Dessert）目标 15，已完成 2
+- [ ] `P4-italian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 4
+- [ ] `P4-italian/dessert` 甜点（Dessert）目标 15，已完成 4
 - [ ] `P4-italian/appetizer` 前菜（Appetizer）目标 15，已完成 2
 - [ ] `P4-italian/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 3
 - [ ] `P4-italian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
@@ -459,12 +459,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>法国菜 french</b> — A 级，15/107</summary>
+<details><summary><b>法国菜 french</b> — A 级，18/107</summary>
 
-- [ ] `P4-french/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
+- [ ] `P4-french/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
 - [ ] `P4-french/dessert` 甜点（Dessert）目标 15，已完成 2
-- [ ] `P4-french/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 2
-- [ ] `P4-french/soup` 汤羹（Soup）目标 15，已完成 2
+- [ ] `P4-french/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 3
+- [ ] `P4-french/soup` 汤羹（Soup）目标 15，已完成 3
 - [ ] `P4-french/bakery` 烘焙面包（Bakery）目标 15，已完成 2
 - [ ] `P4-french/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 1
 - [ ] `P4-french/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
@@ -552,12 +552,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>印度菜 indian</b> — A 级，15/107</summary>
+<details><summary><b>印度菜 indian</b> — A 级，17/107</summary>
 
-- [ ] `P4-indian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 2
+- [ ] `P4-indian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 3
 - [ ] `P4-indian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 2
 - [ ] `P4-indian/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 3
-- [ ] `P4-indian/soup` 汤羹（Soup）目标 15，已完成 2
+- [ ] `P4-indian/soup` 汤羹（Soup）目标 15，已完成 3
 - [ ] `P4-indian/dessert` 甜点（Dessert）目标 15，已完成 2
 - [ ] `P4-indian/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-indian/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0

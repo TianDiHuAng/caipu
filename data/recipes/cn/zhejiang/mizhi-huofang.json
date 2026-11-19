@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mizhi-huofang",
+  "name": {
+    "zh": "蜜汁火方",
+    "en": "Honey-Glazed Ham"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 120,
+    "total_min": 150
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 400,
+          "unit": "g",
+          "note": "取中方整块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "莲子",
+          "name_en": "lotus seeds",
+          "amount": 60,
+          "unit": "g",
+          "note": "去莲心",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 70,
+          "unit": "g",
+          "note": "分次使用",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 150,
+          "unit": "ml",
+          "note": "去咸腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "深碗",
+    "汤勺",
+    "小锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "火腿 400g 用温水刷洗表面油污，切成 4 厘米见方的块，冷水下锅焯 5 分钟。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "焯水能去掉表面浮油和部分咸味。",
+      "visual_cue": "水面浮起白色泡沫、火腿颜色转浅"
+    },
+    {
+      "n": 2,
+      "text": "焯好的火腿块放入深碗，加 150ml 黄酒与清水没过，中火蒸 40 分钟去咸腥。",
+      "time_min": 40,
+      "heat": "中火",
+      "tip": "碗口盖一层保鲜膜，蒸汽回流味道更匀。",
+      "visual_cue": "汤色发黄、酒香压过咸味"
+    },
+    {
+      "n": 3,
+      "text": "倒掉碗中汤汁，重新加 50ml 黄酒与 40g 冰糖，再蒸 40 分钟。",
+      "time_min": 40,
+      "heat": "中火",
+      "tip": "倒掉旧汤是关键，否则越蒸越咸。",
+      "visual_cue": "火腿块上色发亮、汤汁转琥珀"
+    },
+    {
+      "n": 4,
+      "text": "莲子 60g 用温水泡 20 分钟并去掉莲心，放入碗边与火腿同蒸 25 分钟。",
+      "time_min": 45,
+      "heat": "中火",
+      "tip": "莲心不去会发苦，一定要挑干净。",
+      "visual_cue": "莲子饱满开花、入口即散"
+    },
+    {
+      "n": 5,
+      "text": "蒸出的汤汁滗入小锅，加 30g 冰糖小火熬 3 分钟至完全化开。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "汤汁本身有咸味，冰糖要分次加。",
+      "visual_cue": "汤汁浓稠透亮、甜香扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "8g 淀粉加 15ml 清水调匀，倒入锅中勾薄芡，边倒边搅至汤汁透亮。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "芡要薄，厚了会盖住火腿香。",
+      "visual_cue": "芡汁能挂勺又不结块"
+    },
+    {
+      "n": 7,
+      "text": "把芡汁均匀浇在火腿块上，莲子摆在四周即可上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热浇汁，光泽才好看。",
+      "visual_cue": "火腿红亮、芡汁晶莹"
+    }
+  ],
+  "tips": [
+    "火腿选中方部位，肥瘦相间，蒸后才不干柴。",
+    "两次换汤再蒸是去咸的关键，省一步就齁。",
+    "冰糖分次加，边尝边调，甜味才不会压住咸鲜。"
+  ],
+  "common_mistakes": [
+    "火腿不焯水直接蒸，腥味重得下不了口。",
+    "只蒸一次就浇蜜汁，外层甜里层死咸。",
+    "芡汁勾得太厚，整盘菜糊成一团。"
+  ],
+  "substitutions": [
+    {
+      "original": "火腿",
+      "substitute": "金华火腿上方",
+      "ratio": "400g 对 400g",
+      "note": "咸度略高，焯水时间加到 8 分钟。"
+    },
+    {
+      "original": "莲子",
+      "substitute": "白果",
+      "ratio": "60g 对 60g",
+      "note": "白果须彻底煮熟，一次不宜多食。"
+    }
+  ],
+  "variations": [
+    "加 20g 糖桂花同蒸，香气更清雅。",
+    "用 50ml 蜂蜜替换部分冰糖，蜜香更直接。"
+  ],
+  "serving_suggestion": "整块摆盘、浇汁上桌，配一碗清汤和时蔬平衡咸甜。",
+  "storage": "冷藏可存 3 天，复蒸 15 分钟即可，勿用微波以免火腿发硬。",
+  "nutrition_estimate": {
+    "basis": "每份（约 130g）",
+    "calories_kcal": 420,
+    "protein_g": 24,
+    "fat_g": 26,
+    "carbs_g": 20,
+    "sodium_mg": 1380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "火腿属腌腊制品，钠含量高，高血压与肾病人群应少量食用。"
+  ],
+  "origin_note": "蜜汁火方是浙江传统宴席上的甜咸大菜，取金华火腿中方整块，用黄酒反复蒸透去咸，再以冰糖收出琥珀色的蜜汁，最后撒上莲子同蒸。火腿酥而不烂，甜里带咸，是老派浙菜里的硬功夫。",
+  "tags": [
+    "浙江",
+    "宴席",
+    "火腿",
+    "蒸菜"
+  ],
+  "related_ids": [
+    "dongpo-rou",
+    "meigancai-kourou",
+    "songsao-yugen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xiongzhang-doufu",
+  "name": {
+    "zh": "熊掌豆腐",
+    "en": "Bear Paw Tofu"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich",
+    "numbing"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切长方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 80,
+          "unit": "g",
+          "note": "肥瘦相间",
+          "optional": false
+        },
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 50,
+          "unit": "g",
+          "note": "斜切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎豆腐",
+          "optional": false
+        },
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒红油",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 6,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 2,
+          "unit": "g",
+          "note": "起锅撒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐 400g 切成 5 厘米长、1.5 厘米厚的长方块，放进淡盐水里浸 5 分钟。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "盐水浸过，煎的时候不容易碎。",
+      "visual_cue": "豆腐块完整、表面微微发紧"
+    },
+    {
+      "n": 2,
+      "text": "蒜苗 50g 斜切成段，姜末 10g 与 25g 豆瓣酱分别装好备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "豆瓣酱先剁细，炒出的红油更匀。",
+      "visual_cue": "蒜苗段整齐、豆瓣酱细腻"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒 60ml 植物油烧至六成热，豆腐块逐块下锅煎 6 分钟至两面金黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "下锅后别急着翻，定型再动。",
+      "visual_cue": "豆腐两面结壳、呈浅金色"
+    },
+    {
+      "n": 4,
+      "text": "盛出豆腐，锅内留底油下猪肉末 80g 炒散，加豆瓣酱与姜末炒出红油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "豆瓣酱要炒到油色发红才够香。",
+      "visual_cue": "肉末酥香、油色红亮"
+    },
+    {
+      "n": 5,
+      "text": "加 200ml 清水、15ml 生抽与 2g 盐烧开，放回豆腐小火焖 5 分钟。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "用推锅代替翻炒，豆腐才不会破。",
+      "visual_cue": "汤汁微沸、豆腐吸饱汤色"
+    },
+    {
+      "n": 6,
+      "text": "下蒜苗段翻匀，用 6g 淀粉调水勾芡至汤汁浓稠，撒 2g 花椒粉出锅。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "芡汁要能挂住豆腐，太稀就成汤了。",
+      "visual_cue": "汤汁裹匀、蒜苗翠绿"
+    }
+  ],
+  "tips": [
+    "豆腐先用盐水浸，煎的时候不易碎也不粘锅。",
+    "豆瓣酱本身很咸，生抽和盐都要减量。",
+    "勾芡分两次下，芡汁才均匀不结块。"
+  ],
+  "common_mistakes": [
+    "豆腐一下锅就急着翻动，碎成一锅豆花。",
+    "豆瓣酱没炒香就加水，整盘菜只有咸味。",
+    "芡汁一次倒完，锅底结出一层糊块。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "80g 对 80g",
+      "note": "口感更紧实，需多炒 1 分钟。"
+    },
+    {
+      "original": "豆瓣酱",
+      "substitute": "辣椒酱",
+      "ratio": "25g 对 25g",
+      "note": "辣度更高，盐要减 1g。"
+    }
+  ],
+  "variations": [
+    "加 50g 木耳同烧，口感更有层次。",
+    "最后淋 5ml 辣椒油，辣香更冲。"
+  ],
+  "serving_suggestion": "连汁带豆腐浇在米饭上，配一碗冬瓜汤解辣。",
+  "storage": "冷藏可存 2 天，复热时加少量清水，避免芡汁发糊。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 320,
+    "protein_g": 16,
+    "fat_g": 24,
+    "carbs_g": 10,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆腐含大豆过敏原，过敏人群请替换为鸡蛋豆腐以外的食材。",
+    "猪肉末须炒至完全熟透、无粉色。"
+  ],
+  "origin_note": "熊掌豆腐是川菜里的家常名菜，豆腐切成长方块煎至两面金黄，形似熊掌而得名。再与肉末、豆瓣酱同烧，勾薄芡收汁，外皮微韧、内里软嫩，一勺汤汁就能拌下半碗饭。",
+  "tags": [
+    "四川",
+    "家常",
+    "豆腐",
+    "下饭菜"
+  ],
+  "related_ids": [
+    "mapo-doufu",
+    "jiachang-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

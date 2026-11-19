@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hiyayakko",
+  "name": {
+    "zh": "日式凉拌豆腐",
+    "en": "Chilled Tofu"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 0,
+    "total_min": 10
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "嫩豆腐切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 10,
+          "unit": "g",
+          "note": "最后撒",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切细",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "磨成姜泥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "刀",
+    "小碟",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐 400g 从盒中取出，用厨房纸包住轻轻按压 5 分钟吸走多余水分。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "轻压别用力，豆腐容易碎。",
+      "visual_cue": "豆腐表面干爽、形状完整"
+    },
+    {
+      "n": 2,
+      "text": "把豆腐切成 3 厘米见方的块，整齐摆入小碟中。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "刀蘸水切，切面才平整。",
+      "visual_cue": "豆腐块方正、边缘光滑"
+    },
+    {
+      "n": 3,
+      "text": "姜 8g 磨成细泥，与 20ml 生抽混合成蘸汁。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "姜泥现磨现用，香气最清。",
+      "visual_cue": "蘸汁浅褐、姜香明显"
+    },
+    {
+      "n": 4,
+      "text": "把姜泥蘸汁均匀淋在豆腐块上，每块都要淋到。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "沿碟边淋，豆腐不易被冲散。",
+      "visual_cue": "豆腐浸在浅汁中、表面有光泽"
+    },
+    {
+      "n": 5,
+      "text": "撒上 10g 木鱼花与 10g 葱花，最后淋 5ml 香油即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "木鱼花遇热会卷动，最能说明新鲜。",
+      "visual_cue": "木鱼花轻卷、葱绿点缀"
+    }
+  ],
+  "tips": [
+    "豆腐提前压水，拌好才不会出一碟汤。",
+    "姜泥现磨现用，放久了辛辣味会变冲。",
+    "木鱼花最后撒，才能看到它轻轻卷曲。"
+  ],
+  "common_mistakes": [
+    "豆腐不压水直接淋汁，拌完变一碟汤水。",
+    "用力按压豆腐，端上桌已经碎成渣。",
+    "提前淋汁久放，豆腐出水味道变淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐",
+      "substitute": "内酯豆腐",
+      "ratio": "400g 对 400g",
+      "note": "口感更滑嫩，压水时间减半。"
+    },
+    {
+      "original": "木鱼花",
+      "substitute": "海苔丝",
+      "ratio": "10g 对 5g",
+      "note": "素食友好，海味略淡。"
+    }
+  ],
+  "variations": [
+    "加 10g 榨菜末，咸鲜更有层次。",
+    "换成 10ml 柚子醋，清爽解腻。"
+  ],
+  "serving_suggestion": "作为定食冷菜或下酒小菜，冰镇后风味更清爽。",
+  "storage": "现做现吃，豆腐不宜隔夜，酱汁可提前调好冷藏。",
+  "nutrition_estimate": {
+    "basis": "每份（约 110g）",
+    "calories_kcal": 90,
+    "protein_g": 8,
+    "fat_g": 5,
+    "carbs_g": 3,
+    "sodium_mg": 420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆腐为大豆制品，过敏人群请避开。",
+    "木鱼花含鱼类成分，素食者可用海苔替代。"
+  ],
+  "origin_note": "冷奴是日本夏天的家常小菜，做法简单到只需一块嫩豆腐、一勺酱油。讲究的是豆腐本身的豆香与冰凉口感，配上姜泥、葱花和木鱼花，几样东西叠在一起就是清爽的一餐开端。",
+  "tags": [
+    "日本",
+    "凉菜",
+    "豆腐",
+    "快手"
+  ],
+  "related_ids": [
+    "goma-ae-spinach",
+    "tako-misoni"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "congshao-tijin",
+  "name": {
+    "zh": "葱烧蹄筋",
+    "en": "Braised Tendon with Scallions"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 60,
+    "cook_min": 90,
+    "total_min": 150
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蹄筋",
+          "name_en": "beef tendon",
+          "amount": 600,
+          "unit": "g",
+          "note": "水发后使用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切 5 厘米段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 500,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煸葱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "锅铲",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "水发蹄筋 600g 冷水下锅，加姜片与 15ml 料酒，小火煮 40 分钟至软糯。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "蹄筋要煮到能用筷子轻松扎透。",
+      "visual_cue": "蹄筋半透明、按压有弹性"
+    },
+    {
+      "n": 2,
+      "text": "捞出蹄筋过凉，切成 5 厘米长的段，粗的从中间剖开。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "切得粗细一致，烧制时才同步入味。",
+      "visual_cue": "蹄筋段整齐、断面透亮"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒 60ml 植物油，下 150g 葱段小火煎 8 分钟至焦黄。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "葱要煎出葱油，这一步决定香气。",
+      "visual_cue": "葱段金黄、油色泛绿"
+    },
+    {
+      "n": 4,
+      "text": "取出葱段留油，下 30ml 生抽、8ml 老抽与 8g 白糖炒出酱香。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "酱油先炒一下，酱香才出得来。",
+      "visual_cue": "油面泛起酱色泡沫"
+    },
+    {
+      "n": 5,
+      "text": "倒入蹄筋段翻炒上色，淋 15ml 料酒，加 500ml 高汤烧开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "高汤要没过蹄筋，烧时才不干锅。",
+      "visual_cue": "蹄筋通体酱红、汤汁微沸"
+    },
+    {
+      "n": 6,
+      "text": "转小火盖盖焖 40 分钟，中途翻动两次让蹄筋均匀吸汁。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "小火慢烧，蹄筋才糯而不烂。",
+      "visual_cue": "蹄筋软糯、汤汁剩三分之一"
+    },
+    {
+      "n": 7,
+      "text": "放回煎好的葱段，加 4g 盐调味，中火收汁 5 分钟至浓稠挂身。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "葱段最后回锅，香气才不散。",
+      "visual_cue": "酱汁红亮、裹住蹄筋与葱段"
+    }
+  ],
+  "tips": [
+    "蹄筋务必煮到筷子能轻松扎透再烧。",
+    "葱段先煎出葱油，是鲁菜葱烧的灵魂。",
+    "葱段与蹄筋一起久烧，会烂成泥失去香气。"
+  ],
+  "common_mistakes": [
+    "蹄筋没煮透就烧，嚼起来像橡皮。",
+    "葱段和蹄筋一起焖，全烂在锅里。",
+    "收汁过头，蹄筋黏成一坨还带焦黑。"
+  ],
+  "substitutions": [
+    {
+      "original": "蹄筋",
+      "substitute": "牛筋",
+      "ratio": "600g 对 600g",
+      "note": "煮制时间延长 20 分钟。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "500ml 对 500ml",
+      "note": "鲜味稍薄，可加 10ml 蚝油。"
+    }
+  ],
+  "variations": [
+    "加 50g 香菇同烧，菌香更浓。",
+    "起锅淋 5ml 葱油，香气更足。"
+  ],
+  "serving_suggestion": "连汁装盘，配米饭或作为宴席大菜上桌。",
+  "storage": "冷藏可存 2 天，复热时加少量高汤小火回烧。",
+  "nutrition_estimate": {
+    "basis": "每份（约 170g）",
+    "calories_kcal": 360,
+    "protein_g": 30,
+    "fat_g": 20,
+    "carbs_g": 8,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蹄筋须煮至完全软烂熟透再食用。",
+    "含大豆过敏原，过敏人群请避开。"
+  ],
+  "origin_note": "葱烧是鲁菜的招牌技法，葱烧蹄筋更是宴席上的硬菜。大葱段先用油慢慢煎出葱油，再用这锅葱油烧蹄筋，最后把葱段回锅。蹄筋软糯挂汁，葱香浓而不冲，是考验火候与耐心的传统做法。",
+  "tags": [
+    "山东",
+    "鲁菜",
+    "蹄筋",
+    "宴席"
+  ],
+  "related_ids": [
+    "congshao-haishen",
+    "jiuzhuan-dachang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

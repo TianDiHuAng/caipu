@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huotui-donggua-tang",
+  "name": {
+    "zh": "火腿冬瓜汤",
+    "en": "Ham and Winter Melon Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 25,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "冬瓜",
+          "name_en": "winter melon",
+          "amount": 400,
+          "unit": "g",
+          "note": "去皮切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 60,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "最后撒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅前淋",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "汤勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "冬瓜 400g 去皮去瓤，切成 0.5 厘米厚的片；火腿 60g 切薄片，姜 10g 切片。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "冬瓜片厚度一致，熟的时间才同步。",
+      "visual_cue": "冬瓜片半透明、火腿片薄而匀"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒入 800ml 高汤，放姜片后中火煮开。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "高汤要煮到微微冒泡再下料。",
+      "visual_cue": "汤面翻滚、姜香浮起"
+    },
+    {
+      "n": 3,
+      "text": "下火腿片转小火煮 10 分钟，让咸鲜味慢慢融进汤里。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "火腿煮久了会发柴，十分钟刚好。",
+      "visual_cue": "汤色转浅金、火腿边缘卷起"
+    },
+    {
+      "n": 4,
+      "text": "放入冬瓜片小火煮 8 分钟，至冬瓜片变成半透明。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "冬瓜别煮过头，半透明就够了。",
+      "visual_cue": "冬瓜片透亮、筷子能轻松插入"
+    },
+    {
+      "n": 5,
+      "text": "加 2g 盐调味，淋 5ml 香油，撒上 10g 葱花即可出锅。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "火腿自带咸味，盐要先尝汤再放。",
+      "visual_cue": "汤清味鲜、葱花翠绿"
+    }
+  ],
+  "tips": [
+    "火腿本身很咸，盐一定要在最后尝过再加。",
+    "冬瓜切厚一点更耐煮，薄片容易煮烂成泥。",
+    "高汤换成清水也可以，但要补 2g 盐提味。"
+  ],
+  "common_mistakes": [
+    "火腿和冬瓜一起下锅，冬瓜煮烂火腿还发硬。",
+    "大火滚煮半小时，冬瓜全化成水。",
+    "一开始就放盐，汤越煮越咸没法喝。"
+  ],
+  "substitutions": [
+    {
+      "original": "火腿",
+      "substitute": "咸肉",
+      "ratio": "60g 对 70g",
+      "note": "咸度更强，盐可以完全不放。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "800ml 对 800ml",
+      "note": "鲜味变淡，可加 5g 味精。"
+    }
+  ],
+  "variations": [
+    "加 50g 笋干同煮，汤里多一层山野鲜味。",
+    "撒 5g 白胡椒粉，喝起来更暖身。"
+  ],
+  "serving_suggestion": "趁热盛入汤碗，配一碗白饭，夏天喝清爽解腻。",
+  "storage": "冷藏可存 2 天，复热时加少量清水，避免越煮越咸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 96,
+    "protein_g": 7,
+    "fat_g": 5,
+    "carbs_g": 6,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "火腿为腌腊制品，钠含量较高，高血压人群适量食用。"
+  ],
+  "origin_note": "火腿冬瓜汤是浙江家常夏令汤，金华火腿切薄片吊出咸鲜，再下冬瓜煮到透明。汤色清亮不油，火腿的醇香托着冬瓜的清甜，一口下去暑气就散了。",
+  "tags": [
+    "浙江",
+    "汤",
+    "冬瓜",
+    "火腿"
+  ],
+  "related_ids": [
+    "songsao-yugen",
+    "longjing-xiaren"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huainan-niurou-tang",
+  "name": {
+    "zh": "淮南牛肉汤",
+    "en": "Huainan Beef Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 180,
+    "total_min": 200
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腱",
+          "name_en": "beef shank",
+          "amount": 800,
+          "unit": "g",
+          "note": "整块",
+          "optional": false
+        },
+        {
+          "name": "牛骨",
+          "name_en": "beef bone",
+          "amount": 600,
+          "unit": "g",
+          "note": "敲断出髓",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 40,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 100,
+          "unit": "g",
+          "note": "提前泡软",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调汤",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 6,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "焯水",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "出锅加",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大汤锅",
+    "高压锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛骨与牛腱子冷水浸泡 1 小时去血水，中途换两次水，捞出冲净。",
+      "time_min": 65,
+      "heat": "无火",
+      "tip": "泡足血水汤才清不腥。",
+      "visual_cue": "肉色转浅、水基本清澈"
+    },
+    {
+      "n": 2,
+      "text": "牛骨与牛腱冷水下锅，加 40ml 料酒与姜片焯 10 分钟，撇净浮沫捞出洗净。",
+      "time_min": 14,
+      "heat": "大火",
+      "tip": "浮沫要撇干净，这是汤清的关键。",
+      "visual_cue": "无血沫上浮、骨头表面干净"
+    },
+    {
+      "n": 3,
+      "text": "牛骨放入大汤锅，加 3000ml 清水、八角与桂皮，大火烧开转小火炖 90 分钟。",
+      "time_min": 95,
+      "heat": "小火",
+      "tip": "水量一次加足，中途加水汤会变浑。",
+      "visual_cue": "汤色转乳白、骨缝油亮"
+    },
+    {
+      "n": 4,
+      "text": "放入整块牛腱子与葱段，小火续炖 60 分钟至筷子能插入。",
+      "time_min": 65,
+      "heat": "小火",
+      "tip": "腱子整块炖，切片才不散。",
+      "visual_cue": "筷子轻松插入肉块中心"
+    },
+    {
+      "n": 5,
+      "text": "捞出牛腱稍凉后逆纹切成 2mm 薄片，汤过滤后加 8g 盐与 6g 白胡椒调味。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "逆着纹理切，口感才嫩。",
+      "visual_cue": "肉片透光薄、纹理清晰"
+    },
+    {
+      "n": 6,
+      "text": "泡软的粉丝入沸汤氽 1 分钟捞入碗中，铺牛腱子片，浇入滚汤淋 30ml 辣椒油，撒 20g 香菜段。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "汤一定要滚烫浇下，香气才冲。",
+      "visual_cue": "碗面浮起油花、粉丝透明"
+    }
+  ],
+  "tips": [
+    "牛骨先泡后焯，汤色才能奶白清亮。",
+    "炖汤全程小火保持微沸，大火会把汤煮浑。",
+    "辣椒油最后淋，香味比煮进去更足。"
+  ],
+  "common_mistakes": [
+    "中途加冷水，牛骨汤瞬间变浑且发腥。",
+    "牛肉切片顺纹，咬起来一丝一丝嚼不动。",
+    "牛腱子顺着纹理切，嚼起来一丝一丝根本咬不动"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腱子",
+      "substitute": "牛腩",
+      "ratio": "800g 对 800g",
+      "note": "脂肪更多汤更香，炖制时间缩短 20 分钟。"
+    },
+    {
+      "original": "粉丝",
+      "substitute": "千张丝",
+      "ratio": "100g 对 120g",
+      "note": "淮南本地吃法，豆香更浓。"
+    }
+  ],
+  "variations": [
+    "清汤版：不加辣椒油，突出牛骨本味。",
+    "配饼版：配一张安徽烧饼掰碎泡汤，是当地早餐吃法。"
+  ],
+  "serving_suggestion": "趁热一大碗，配烧饼或油条，是淮南人的早餐标配。",
+  "storage": "汤冷藏 3 天，可冷冻 1 个月；肉片与汤分开保存。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 锅）",
+    "calories_kcal": 420,
+    "protein_g": 38,
+    "fat_g": 22,
+    "carbs_g": 18,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉需炖至完全熟透，切开无血色。",
+    "汤品含盐偏高，高血压与肾病人群应减量。",
+    "剩汤复热必须彻底烧开，凉汤易滋生细菌。"
+  ],
+  "origin_note": "淮南牛肉汤是安徽淮南的招牌早点，以牛骨与牛腱长时间吊汤，汤色乳白、肉片薄透，配粉丝与辣椒油，一碗下肚整个人都暖了。",
+  "tags": [
+    "徽菜",
+    "汤品",
+    "牛肉",
+    "早餐"
+  ],
+  "related_ids": [
+    "shanxian-yangrou-tang",
+    "huizhou-huotui-tang",
+    "wenzheng-shansun-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

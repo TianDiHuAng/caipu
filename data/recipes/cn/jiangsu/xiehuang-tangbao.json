@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xiehuang-tangbao",
+  "name": {
+    "zh": "蟹黄汤包",
+    "en": "Crab Roe Soup Dumplings"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 150,
+    "cook_min": 20,
+    "total_min": 170
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "高筋面粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 250,
+          "unit": "g",
+          "note": "肥瘦四六",
+          "optional": false
+        },
+        {
+          "name": "蟹黄",
+          "name_en": "crab roe",
+          "amount": 60,
+          "unit": "g",
+          "note": "拆好的蟹黄",
+          "optional": false
+        },
+        {
+          "name": "猪皮",
+          "name_en": "pork skin",
+          "amount": 200,
+          "unit": "g",
+          "note": "熬皮冻",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "锁汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "蒸笼",
+    "擀面杖",
+    "细筛"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪皮 200g 焯水后刮净肥油，加 600ml 清水小火熬 90 分钟至汤汁浓稠。",
+      "time_min": 100,
+      "heat": "小火",
+      "tip": "肥油刮干净，皮冻才清亮不腥。",
+      "visual_cue": "汤汁挂勺、猪皮软烂"
+    },
+    {
+      "n": 2,
+      "text": "熬好的猪皮汤过滤后冷藏 1 小时，凝成有弹性的皮冻再切碎。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "皮冻切得越碎，包时越好拌。",
+      "visual_cue": "皮冻乳白、切面整齐"
+    },
+    {
+      "n": 3,
+      "text": "面粉 300g 加 140ml 清水揉成硬面团，盖湿布静置醒 30 分钟。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "面团要和硬一些，擀薄才不破。",
+      "visual_cue": "面团紧实、表面光滑"
+    },
+    {
+      "n": 4,
+      "text": "猪肉末 250g 加姜末 15g、葱末 30g、20ml 料酒、15ml 生抽与 5g 盐搅上劲。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "顺一个方向搅，肉馅才抱团。",
+      "visual_cue": "肉馅黏稠、有拉丝感"
+    },
+    {
+      "n": 5,
+      "text": "拌入蟹黄 60g、碎皮冻与 2g 白胡椒粉、10ml 香油，冷藏 20 分钟定型。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "馅料冷藏后更硬，包起来好收口。",
+      "visual_cue": "馅料紧实、蟹黄分布均匀"
+    },
+    {
+      "n": 6,
+      "text": "面团分成 20 个剂子擀成薄圆皮，包入馅料捏出 18 个以上褶子。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "皮要薄到透光，褶子才立得住。",
+      "visual_cue": "汤包饱满、褶花细密"
+    },
+    {
+      "n": 7,
+      "text": "蒸笼垫布摆入汤包，上汽后大火蒸 8 分钟即可出笼。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "蒸久了皮会破，汤汁全流走。",
+      "visual_cue": "皮薄透亮、能看见汤汁晃动"
+    }
+  ],
+  "tips": [
+    "皮冻一定要凝透再切，否则馅料出水包不住。",
+    "面团和硬一点，擀得薄也不容易破。",
+    "蒸的时间别超八分钟，多一分钟就漏汤。"
+  ],
+  "common_mistakes": [
+    "皮冻没凝就拌馅，包的时候全是汤水。",
+    "面团和得太软，蒸好汤包塌成饼。",
+    "蒸的时间过长，出笼时个个开口漏汁。"
+  ],
+  "substitutions": [
+    {
+      "original": "蟹黄",
+      "substitute": "蟹肉",
+      "ratio": "60g 对 80g",
+      "note": "鲜味稍弱，可加 2g 盐补味。"
+    },
+    {
+      "original": "猪皮",
+      "substitute": "猪蹄",
+      "ratio": "200g 对 250g",
+      "note": "胶质更足，熬制时间缩短 20 分钟。"
+    }
+  ],
+  "variations": [
+    "加 20g 蟹肉同拌，口感更丰富。",
+    "蘸 10ml 香醋配姜丝，解腻提鲜。"
+  ],
+  "serving_suggestion": "先咬一小口吸汤汁，再蘸香醋姜丝吃，配一碗蛋皮汤。",
+  "storage": "生坯可冷冻 7 天，蒸时不用解冻直接上笼，多蒸 2 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 480,
+    "protein_g": 20,
+    "fat_g": 26,
+    "carbs_g": 42,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末与蟹黄须蒸至完全熟透，中心温度足够。",
+    "螃蟹为甲壳类过敏原，过敏人群请避开。"
+  ],
+  "origin_note": "蟹黄汤包是江苏靖江、南京一带的招牌点心，皮薄如纸、汤多如泉。猪皮熬成皮冻拌进蟹黄肉馅，蒸化后就是满口汤汁，讲究「轻轻提、慢慢移、先开窗、后喝汤」。",
+  "tags": [
+    "江苏",
+    "点心",
+    "蟹黄",
+    "汤包"
+  ],
+  "related_ids": [
+    "congyou-su-shaobing",
+    "suanni-bairou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

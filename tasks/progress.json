@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:37:09.652Z",
+  "generatedAt": "2026-11-19T20:48:16.083Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 493,
     "target": 3274,
-    "actual": 399,
-    "coverage": 0.12186927306047649
+    "actual": 439,
+    "coverage": 0.1340867440439829
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 42,
         "cells": [
           {
             "category": "main-meat",
@@ -54,28 +54,31 @@
             "category": "main-tofu",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "jiachang-doufu",
-              "mapo-doufu"
+              "mapo-doufu",
+              "xiongzhang-doufu"
             ]
           },
           {
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "fuqi-feipian",
-              "liangban-fuzhu"
+              "liangban-fuzhu",
+              "suanni-bairou"
             ]
           },
           {
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "guaiwei-jiang",
               "sichuan-hongyou-lazi",
               "yuxiang-jiang"
             ]
@@ -192,7 +195,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 20,
+        "actual": 24,
         "cells": [
           {
             "category": "main-seafood",
@@ -222,28 +225,32 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "cu-jiao-yutang",
-              "jiyu-doufu-tang"
+              "jiyu-doufu-tang",
+              "shanxian-yangrou-tang"
             ]
           },
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "shandong-dabobo",
-              "shandong-jianbing"
+              "shandong-jianbao",
+              "shandong-jianbing",
+              "zhouchun-shaobing"
             ]
           },
           {
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "congshao-tijin",
               "sixi-wanzi",
               "zhaoliu-yupian"
             ]
@@ -322,7 +329,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 28,
+        "actual": 29,
         "cells": [
           {
             "category": "main-seafood",
@@ -375,10 +382,11 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "baozaifan",
-              "claypot-rice"
+              "claypot-rice",
+              "shengchao-nuomifan"
             ]
           },
           {
@@ -454,7 +462,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 21,
+        "actual": 27,
         "cells": [
           {
             "category": "main-seafood",
@@ -471,8 +479,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "qingdun-shizitou",
               "shizitou",
               "wuxi-paigu"
             ]
@@ -481,9 +490,11 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "chuncai-yinyu-geng",
               "dazhu-gansi",
+              "wensi-doufu-geng",
               "wensi-doufu"
             ]
           },
@@ -491,8 +502,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "nanjing-yanshui-ya",
               "shuijing-yaorou",
               "zao-maodou"
             ]
@@ -501,9 +513,11 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "congyou-su-shaobing",
               "shengjian-bao",
+              "xiehuang-tangbao",
               "yaxue-fensi-tang"
             ]
           },
@@ -588,14 +602,15 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 15,
+        "actual": 20,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "congyou-xia",
               "longjing-xiaren",
               "xihu-cuyu"
             ]
@@ -604,18 +619,20 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "dongpo-rou",
-              "meigancai-kourou"
+              "meigancai-kourou",
+              "mizhi-huofang"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "huotui-donggua-tang",
               "songsao-yugen",
               "xihu-niurougeng"
             ]
@@ -624,9 +641,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "jiaxing-zongzi",
+              "wenzhou-nuomifan",
               "xianrou-caifan"
             ]
           },
@@ -634,8 +652,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "dingsheng-gao",
               "guihua-nuomiyu",
               "ningbo-tangyuan"
             ]
@@ -706,7 +725,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 11,
+        "actual": 15,
         "cells": [
           {
             "category": "soup",
@@ -723,9 +742,11 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "baizhuo-xiaoguan",
+              "jiangyoushui-luyu",
+              "minnan-jian-xie",
               "suanxiang-chao-huage"
             ]
           },
@@ -743,8 +764,9 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "fuzhou-rouyan",
               "fuzhou-yuwan",
               "haili-bing"
             ]
@@ -753,9 +775,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "fujian-congyou-zhi",
+              "fujian-suanrong-jiang",
               "shacha-jiang"
             ]
           },
@@ -795,7 +818,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 21,
+        "actual": 24,
         "cells": [
           {
             "category": "main-meat",
@@ -815,10 +838,12 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "dong-an-ji",
-              "dongan-ziji"
+              "dongan-ziji",
+              "xiang-pijiu-ya",
+              "xiangxi-tufei-ya"
             ]
           },
           {
@@ -838,10 +863,11 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "hunan-suan-luobo",
-              "lei-lajiao-pidan"
+              "lei-lajiao-pidan",
+              "liangban-maodou"
             ]
           },
           {
@@ -918,7 +944,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
@@ -944,8 +970,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "huainan-niurou-tang",
               "huizhou-huotui-tang",
               "wenzheng-shansun-tang"
             ]
@@ -1973,15 +2000,16 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 17,
+        "actual": 20,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "miso-salmon",
+              "tako-misoni",
               "tempura"
             ]
           },
@@ -2011,9 +2039,11 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "chawanmushi",
+              "goma-ae-spinach",
+              "hiyayakko",
               "karaage"
             ]
           },
@@ -2092,7 +2122,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 22,
+        "actual": 23,
         "cells": [
           {
             "category": "main-meat",
@@ -2132,10 +2162,11 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "gochujang",
-              "kimchi"
+              "kimchi",
+              "kkakdugi"
             ]
           },
           {
@@ -2339,7 +2370,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 16,
+        "actual": 20,
         "cells": [
           {
             "category": "staple-bread",
@@ -2356,9 +2387,11 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "chicken-cacciatore",
+              "pollo-al-limone",
+              "pollo-alla-cacciatora",
               "pollo-arrosto"
             ]
           },
@@ -2366,8 +2399,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "biscotti",
+              "cannoli-siciliani",
               "panna-cotta",
               "tiramisu"
             ]
@@ -2450,15 +2485,16 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 15,
+        "actual": 18,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "boeuf-bourguignon",
+              "magret-de-canard",
               "quiche-lorraine"
             ]
           },
@@ -2476,9 +2512,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "sauce-bechamel",
+              "sauce-bordelaise",
               "sauce-hollandaise"
             ]
           },
@@ -2486,10 +2523,11 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "bouillabaisse",
-              "french-onion-soup"
+              "french-onion-soup",
+              "veloute-potiron"
             ]
           },
           {
@@ -2983,14 +3021,15 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 15,
+        "actual": 17,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "aloo-gobi",
               "aloo-palak",
               "chana-masala"
             ]
@@ -3020,9 +3059,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "dal-tomato-soup",
+              "indian-chicken-shorba",
               "tomato-shorba"
             ]
           },

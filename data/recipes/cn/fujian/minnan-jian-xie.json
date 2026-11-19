@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "minnan-jian-xie",
+  "name": {
+    "zh": "闽南煎红蟳",
+    "en": "Minnan Pan-fried Crab"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蟹",
+          "name_en": "crab",
+          "amount": 900,
+          "unit": "g",
+          "note": "2 只约 450g",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 40,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 50,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "收尾",
+          "optional": false
+        },
+        {
+          "name": "淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "切面封口",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅盖",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "青蟹用刷子刷净蟹壳与蟹脚缝隙，掀开蟹盖去鳃与胃囊，斩成四块保留蟹黄。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "蟹鳃与胃囊必须去净，腥味主要来自这里。",
+      "visual_cue": "蟹块断面露出白肉与橙黄蟹膏"
+    },
+    {
+      "n": 2,
+      "text": "蟹块切面蘸一层薄淀粉封口，避免煎的时候蟹汁流失。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "只蘸切面，蟹壳不用蘸。",
+      "visual_cue": "切面均匀挂上一层白粉"
+    },
+    {
+      "n": 3,
+      "text": "炒锅烧热下 80ml 植物油，姜片铺底，蟹块切面朝下中火煎 4 分钟至金黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "切面朝下先煎，蟹黄才锁在肉里。",
+      "visual_cue": "切面结壳金黄、姜片微焦"
+    },
+    {
+      "n": 4,
+      "text": "淋 40ml 料酒，加 20ml 生抽、4g 盐与 8g 白糖，倒入 100ml 清水，盖盖焖 8 分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "水量刚没过蟹块一半即可，太多会寡淡。",
+      "visual_cue": "汤汁收至一半、蟹壳转红"
+    },
+    {
+      "n": 5,
+      "text": "开盖淋入打散的蛋液，转小火晃锅让蛋液铺满锅底，凝固后撒葱段。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "蛋液要沿锅边淋，才能铺成蛋饼。",
+      "visual_cue": "蛋液凝固成金黄蛋饼、边缘微焦"
+    },
+    {
+      "n": 6,
+      "text": "关火淋 10ml 香油，撒香菜段，连锅端上桌趁热拌开食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "蛋饼拌着蟹汁吃才是精华。",
+      "visual_cue": "蛋饼吸满红亮蟹汁"
+    }
+  ],
+  "tips": [
+    "蟹要选活的，死蟹肉质松散且有安全风险。",
+    "煎蟹时不要频繁翻动，等切面结壳再动。",
+    "蛋液最后淋，能吸尽锅底蟹汁不浪费。"
+  ],
+  "common_mistakes": [
+    "蟹块切面没蘸淀粉，下锅蟹汁全流进油里。",
+    "水加太多煮成汤，蟹肉失去紧实口感。",
+    "火候过猛不盖盖，蟹壳焦黑里面还生。"
+  ],
+  "substitutions": [
+    {
+      "original": "青蟹",
+      "substitute": "梭子蟹",
+      "ratio": "900g 对 900g",
+      "note": "壳薄肉甜，煎制时间缩短 2 分钟。"
+    },
+    {
+      "original": "料酒",
+      "substitute": "米酒",
+      "ratio": "40ml 对 45ml",
+      "note": "酒味更柔，适合不爱重酒味者。"
+    }
+  ],
+  "variations": [
+    "粉丝版：锅底铺 100g 泡软粉丝同焖，粉丝吸汁极鲜。",
+    "黑椒版：起锅前撒 3g 现磨黑胡椒，风味更西式。"
+  ],
+  "serving_suggestion": "原锅上桌，配一碗白米饭与一碟福建蒜蓉酱。",
+  "storage": "建议现做现吃，冷藏不超过 1 天，复热需加少量水焖透。",
+  "nutrition_estimate": {
+    "basis": "每份（半只蟹）",
+    "calories_kcal": 320,
+    "protein_g": 34,
+    "fat_g": 18,
+    "carbs_g": 6,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蟹必须选用活蟹并彻底加热至蟹壳全红、蟹肉全白。",
+    "螃蟹属高致敏食材，过敏体质者慎食。",
+    "死亡时间不明的螃蟹不得食用，避免组胺中毒。"
+  ],
+  "origin_note": "煎红蟳是闽南沿海的待客大菜，红蟳即膏满的雌性青蟹，切块煎香后加姜葱焖透，最后淋蛋液收汁，是厦门、泉州一带宴席上的硬菜。",
+  "tags": [
+    "闽菜",
+    "海鲜",
+    "螃蟹",
+    "宴客"
+  ],
+  "related_ids": [
+    "jiangcong-chaohuaxie",
+    "jiangyoushui-luyu",
+    "suanxiang-chao-huage"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

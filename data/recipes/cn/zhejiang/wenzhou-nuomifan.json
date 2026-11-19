@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "wenzhou-nuomifan",
+  "name": {
+    "zh": "温州糯米饭",
+    "en": "Wenzhou Glutinous Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 80,
+    "cook_min": 25,
+    "total_min": 105
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "糯米",
+          "name_en": "glutinous rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "提前泡发",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 120,
+          "unit": "g",
+          "note": "肥瘦相间",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "榨菜",
+          "name_en": "zhacai pickled mustard",
+          "amount": 50,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "油条",
+          "name_en": "fried dough stick",
+          "amount": 60,
+          "unit": "g",
+          "note": "掰小段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "最后撒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒浇头",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "蒸布",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "糯米 300g 淘洗两遍后加清水浸泡 60 分钟，捞出沥干摊在蒸布上。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "米粒要泡到指捏即碎，蒸出来才软糯。",
+      "visual_cue": "米粒吸饱水、颜色发白发亮"
+    },
+    {
+      "n": 2,
+      "text": "香菇 50g 切薄片，榨菜 50g 切碎，油条 60g 掰成小段备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香菇切得越薄，越容易炒出香味。",
+      "visual_cue": "配料大小均匀、装盘待用"
+    },
+    {
+      "n": 3,
+      "text": "蒸锅上汽后放入糯米，大火蒸 25 分钟至米粒透明软糯。",
+      "time_min": 25,
+      "heat": "大火",
+      "tip": "中途不要开盖，蒸汽跑掉米粒会夹生。",
+      "visual_cue": "米粒透明油亮、筷子一夹就断"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒 20ml 植物油，中火下猪肉末 120g 炒散至全部变色，淋 10ml 料酒去腥。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉末要炒到粒粒分开，不能结块。",
+      "visual_cue": "肉末散开、颜色由粉转白"
+    },
+    {
+      "n": 5,
+      "text": "下香菇片与榨菜碎翻炒 2 分钟，加 20ml 生抽、5g 白糖与 3g 盐炒匀成浇头。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "榨菜本身有咸味，盐要尝过再放。",
+      "visual_cue": "浇头油亮、香味浓"
+    },
+    {
+      "n": 6,
+      "text": "蒸好的糯米盛入碗中，铺上浇头与油条段，撒 20g 葱花即可食用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "油条最后放，才能保住脆感。",
+      "visual_cue": "糯米雪白、浇头红亮、油条金黄"
+    }
+  ],
+  "tips": [
+    "糯米必须泡足一小时，省掉这步蒸出来夹生。",
+    "浇头要带点汤汁，拌进糯米才不会发干。",
+    "油条临上桌再放，久放会吸潮变软。"
+  ],
+  "common_mistakes": [
+    "糯米没泡直接蒸，米心发硬嚼不动。",
+    "浇头炒得太干，拌饭后整碗发噎。",
+    "油条提前拌进去，吃到嘴里全是软的。"
+  ],
+  "substitutions": [
+    {
+      "original": "糯米",
+      "substitute": "大米",
+      "ratio": "300g 对 300g",
+      "note": "口感偏硬，需多蒸 8 分钟。"
+    },
+    {
+      "original": "榨菜",
+      "substitute": "酸菜",
+      "ratio": "50g 对 60g",
+      "note": "咸度低一些，盐可加到 4g。"
+    }
+  ],
+  "variations": [
+    "加 50g 熟花生碎同拌，口感更丰富。",
+    "用 60g 腊肠丁代替一半猪肉末，风味更浓。"
+  ],
+  "serving_suggestion": "盛在敞口碗里，配一碗紫菜汤就是温州人的标准早餐。",
+  "storage": "浇头可冷藏 3 天，糯米现蒸现吃，冷藏后复蒸 8 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 560,
+    "protein_g": 17,
+    "fat_g": 16,
+    "carbs_g": 86,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "香菇须彻底加热熟透后再食用，菌菇过敏人群请避开。",
+    "猪肉末须炒至完全变色、无粉色生肉。"
+  ],
+  "origin_note": "温州糯米饭是温州街头早餐的主角，蒸透的糯米铺上肉末香菇浇头，再撒一把脆油条，咸香软糯一起入口。当地人多配一碗紫菜汤或豆浆，三五分钟就能吃完上路。",
+  "tags": [
+    "浙江",
+    "主食",
+    "糯米",
+    "早餐"
+  ],
+  "related_ids": [
+    "jiaxing-zongzi",
+    "xianrou-caifan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sauce-bordelaise",
+  "name": {
+    "zh": "法式波尔多红酒酱",
+    "en": "Sauce Bordelaise"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "红酒",
+          "name_en": "red wine",
+          "amount": 300,
+          "unit": "ml",
+          "note": "干型红酒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 3,
+          "unit": "g",
+          "note": "新鲜或干品",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "note": "牛骨或鸡骨高汤",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "分两次用",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅",
+    "木铲",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小锅倒 300ml 红葡萄酒，加洋葱末 80g、3g 百里香与 1g 香叶。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "红酒选干型，甜酒会让酱发黏。",
+      "visual_cue": "洋葱浸在酒中、香料浮面"
+    },
+    {
+      "n": 2,
+      "text": "中火煮 12 分钟收至约 100ml，酒液变浓、洋葱软烂。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "收得越浓，酱的红酒味越集中。",
+      "visual_cue": "液面下降三分之二、呈深红色"
+    },
+    {
+      "n": 3,
+      "text": "另取小锅融化 15g 黄油，加 20g 面粉小火炒 3 分钟成浅褐色油面。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "炒到浅褐色，酱才有坚果香。",
+      "visual_cue": "面糊顺滑、颜色浅褐"
+    },
+    {
+      "n": 4,
+      "text": "分三次倒入 400ml 高汤，每次都用打蛋器搅匀再加下一次。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "分次加汤才不起疙瘩。",
+      "visual_cue": "酱体顺滑、无颗粒"
+    },
+    {
+      "n": 5,
+      "text": "把收浓的红酒液过滤后倒入酱中，小火煮 10 分钟至挂勺。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "过滤掉洋葱渣，口感才细腻。",
+      "visual_cue": "酱汁挂勺、颜色深红"
+    },
+    {
+      "n": 6,
+      "text": "加 3g 盐与 2g 黑胡椒调味，关火后拌入剩余 15g 黄油增亮。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "关火再加黄油，酱面才亮不发油。",
+      "visual_cue": "酱面光亮、流动性适中"
+    }
+  ],
+  "tips": [
+    "红酒必须收浓，否则酱汁稀薄无味。",
+    "加高汤要分次，一次倒完容易结块。",
+    "最后加冷黄油是法式酱汁发亮的关键。"
+  ],
+  "common_mistakes": [
+    "用了甜型红酒，酱汁黏腻发甜还挂不住勺。",
+    "面粉没炒透就加汤，酱里全是生粉味。",
+    "大火久煮不搅拌，锅底糊掉带焦苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "红葡萄酒",
+      "substitute": "无酒精红酒",
+      "ratio": "300ml 对 300ml",
+      "note": "收汁时间减 3 分钟。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水加 5g 牛肉粉",
+      "ratio": "400ml 对 400ml",
+      "note": "鲜味略薄。"
+    }
+  ],
+  "variations": [
+    "加 20g 红葱头末同收，甜香更浓。",
+    "最后撒 5g 欧芹碎，颜色更亮。"
+  ],
+  "serving_suggestion": "浇在煎牛排、烤牛肉或炖肉上，趁热使用。",
+  "storage": "冷藏可存 3 天，复热时加少量高汤调稀。",
+  "nutrition_estimate": {
+    "basis": "每份（约 80g）",
+    "calories_kcal": 130,
+    "protein_g": 3,
+    "fat_g": 9,
+    "carbs_g": 6,
+    "sodium_mg": 320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含小麦与乳制品过敏原，过敏人群请避开。",
+    "含酒精，烹煮后仍有微量酒精残留。"
+  ],
+  "origin_note": "波尔多红酒酱是法式经典母酱之一，源自波尔多地区。用干型红酒与红葱头收浓，再兑入牛骨高汤和油面酱，最后用冷黄油点亮。深红的酱汁带酒香与单宁的微涩，是牛排最经典的搭档。",
+  "tags": [
+    "法国",
+    "酱汁",
+    "红酒",
+    "经典"
+  ],
+  "related_ids": [
+    "sauce-bechamel",
+    "boeuf-bourguignon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
