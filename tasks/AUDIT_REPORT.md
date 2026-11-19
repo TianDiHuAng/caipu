@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T23:18:12.642Z
+- 生成时间：2026-11-19T23:41:42.509Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：40 个，抽样 46 道，平均分 97
+- 覆盖菜系：40 个，抽样 47 道，平均分 97
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -23,12 +23,12 @@
 | anhui | xianggu-pa-caixin | 93 | A | 准确性 18/25 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
-| cantonese | baozaifan | 93 | A | 准确性 18/25 |
+| cantonese | caigan-zhugu-tang | 93 | A | 准确性 18/25 |
 | cantonese | guangshi-hongdou-sha | 93 | A | 准确性 18/25 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | creme-brulee | 100 | A | 无 |
-| fujian | fuzhou-guangbing | 100 | A | 无 |
+| fujian | fujian-suanrong-jiang | 100 | A | 无 |
 | fujian | wuxiang-paigu | 100 | A | 无 |
 | german | apple-strudel | 93 | A | 准确性 18/25 |
 | greek | greek-roast-vegetable-salad | 100 | A | 无 |
@@ -40,8 +40,8 @@
 | indian | aloo-paratha | 93 | A | 准确性 18/25 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | matcha-pudding | 100 | A | 无 |
+| jiangsu | xiehuang-tangbao | 93 | A | 准确性 18/25 |
 | jiangsu | yaxue-fensi-tang | 93 | A | 准确性 18/25 |
-| jiangsu | yangchun-mian | 100 | A | 无 |
 | korean | budae-jjigae | 100 | A | 无 |
 | mexican | quesadilla | 100 | A | 无 |
 | middle-eastern | hummus | 100 | A | 无 |
@@ -49,11 +49,11 @@
 | nordic | nordic-fish-soup | 100 | A | 无 |
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | borscht | 100 | A | 无 |
-| shandong | jiaodong-bayu-jiaozi | 93 | A | 准确性 18/25 |
 | shandong | cu-jiao-yutang | 100 | A | 无 |
+| shandong | jiuzhuan-dachang | 100 | A | 无 |
 | shanghai | youbao-xia | 100 | A | 无 |
-| sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
 | sichuan | gongbao-jiding | 100 | A | 无 |
+| sichuan | jiachang-doufu | 100 | A | 无 |
 | spanish | flan | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
 | thai | pad-thai | 100 | A | 无 |
@@ -64,8 +64,9 @@
 | xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
 | yunguai | guilin-mifen | 93 | A | 准确性 18/25 |
 | zhejiang | dongpo-rou | 93 | A | 准确性 18/25 |
+| zhejiang | sun-shao-rou | 100 | A | 无 |
 
 ## 结论
 
-- 本批 46 道全部达到 B 级及以上，无需重写。
+- 本批 47 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。

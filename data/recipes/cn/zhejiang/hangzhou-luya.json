@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hangzhou-luya",
+  "name": {
+    "zh": "杭州卤鸭",
+    "en": "Hangzhou Braised Duck"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 70,
+    "total_min": 85
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸭腿",
+          "name_en": "duck leg",
+          "amount": 700,
+          "unit": "g",
+          "note": "带皮整只",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "挽结",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "两颗",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "咸味来源",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "突出甜味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "少许",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "卤制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "汤勺",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸭腿洗净擦干，用盐把鸭腿皮面抹一遍，静置十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "皮面抹盐，卤好之后皮更紧实。",
+      "visual_cue": "鸭腿皮干爽、盐粒融化不见"
+    },
+    {
+      "n": 2,
+      "text": "砂锅加清水、生抽、老抽、白糖、料酒、生姜片、小葱结与八角烧开。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "卤汁先烧开再下鸭腿，腥味才不锁住。",
+      "visual_cue": "卤汁翻滚、香气浮起"
+    },
+    {
+      "n": 3,
+      "text": "放入鸭腿，转小火加盖卤四十分钟，中途翻面两次。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "小火慢卤，鸭腿肉才酥而不烂。",
+      "visual_cue": "鸭腿皮呈枣红、筷子能插入"
+    },
+    {
+      "n": 4,
+      "text": "开盖转中火收浓卤汁，边收边把卤汁浇在鸭腿上。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "反复浇汁，颜色才均匀油亮。",
+      "visual_cue": "卤汁挂勺、鸭腿皮油光发亮"
+    },
+    {
+      "n": 5,
+      "text": "取出鸭腿放凉，斩成厚片摆盘，淋上锅里的卤汁。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "放凉再斩，切面才整齐不散。",
+      "visual_cue": "切片完整、卤汁红亮裹面"
+    }
+  ],
+  "tips": [
+    "鸭腿选皮厚的，卤出来胶质足，切片更整齐。",
+    "卤汁不要倒掉，可以冷冻起来当老卤用。",
+    "想更甜可以加五克冰糖，杭州口味偏甜。"
+  ],
+  "common_mistakes": [
+    "全程大火卤制，鸭腿皮破肉散不成形。",
+    "中途加冷水，鸭腿肉骤缩发紧嚼不动。",
+    "热的时候斩件，切面毛糙不成形。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸭腿",
+      "substitute": "整鸡",
+      "ratio": "700g 对 900g",
+      "note": "更易熟，卤制时间减十五分钟。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "冰糖",
+      "ratio": "30g 对 35g",
+      "note": "色泽更亮，需多收两分钟。"
+    }
+  ],
+  "variations": [
+    "加一小块陈皮同卤，香气更清雅。",
+    "把鸭腿换成鸭翅同卤，啃着吃更有味。"
+  ],
+  "serving_suggestion": "切片冷吃当凉菜，也可以配热米饭淋卤汁。",
+  "storage": "冷藏可放三天，卤汁浇面复热更香。",
+  "nutrition_estimate": {
+    "basis": "每份（约 170g）",
+    "calories_kcal": 380,
+    "protein_g": 26,
+    "fat_g": 24,
+    "carbs_g": 12,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸭腿须卤至完全熟透，肉最厚处不见血水。",
+    "卤汁反复使用须每次煮沸并冷藏保存。",
+    "收汁时糖分高易溅，翻动鸭腿时防止烫伤。"
+  ],
+  "origin_note": "杭州卤鸭是浙江人夏天的家常卤味，酱油与糖熬出枣红的卤汁，鸭腿肉酥而不散，晾凉后切片又是一道体面的冷菜。",
+  "tags": [
+    "浙菜",
+    "卤味",
+    "家常",
+    "冷菜"
+  ],
+  "related_ids": [
+    "dongpo-rou",
+    "laoya-bao",
+    "meigancai-kourou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
