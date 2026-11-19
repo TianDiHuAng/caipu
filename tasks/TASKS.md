@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-18T16:51:20.762Z
+> 生成时间：2026-11-19T04:17:05.791Z
 
-**总览**：工程任务 49/53；菜谱内容 168/3274（5.1%），共 458 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 172/3274（5.3%），共 458 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,9 +83,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（140/1339）
+### 中国菜系（144/1339）
 
-<details><summary><b>川菜 sichuan</b> — A 级，24/107</summary>
+<details><summary><b>川菜 sichuan</b> — A 级，26/107</summary>
 
 - [ ] `P4-sichuan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 4
 - [ ] `P4-sichuan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 3
@@ -94,9 +94,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-sichuan/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 1
 - [ ] `P4-sichuan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 2
 - [ ] `P4-sichuan/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
-- [ ] `P4-sichuan/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 1
+- [ ] `P4-sichuan/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 2
 - [ ] `P4-sichuan/staple-rice` 主食·饭（Rice Dish）目标 8，已完成 0
-- [x] `P4-sichuan/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2
+- [x] `P4-sichuan/cold-dish` 凉菜（Cold Dish）目标 0，已完成 3
 - [x] `P4-sichuan/snack` 小吃（Street Food）目标 0，已完成 2
 - [x] `P4-sichuan/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 2
 - [x] `P4-sichuan/soup` 汤羹（Soup）目标 0，已完成 2
@@ -121,11 +121,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>粤菜 cantonese</b> — A 级，16/122</summary>
+<details><summary><b>粤菜 cantonese</b> — A 级，18/122</summary>
 
-- [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 3
+- [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 4
 - [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
-- [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 3
+- [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 4
 - [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
 - [ ] `P4-cantonese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 1
 - [ ] `P4-cantonese/dessert` 甜点（Dessert）目标 15，已完成 1

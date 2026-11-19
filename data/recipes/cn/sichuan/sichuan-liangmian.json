@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-liangmian",
+  "name": {
+    "zh": "四川凉面",
+    "en": "Sichuan Cold Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "staple-noodle",
+    "cold-dish"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 10,
+    "total_min": 30
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "sour",
+    "salty",
+    "numbing"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "碱水面更筋道",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "掐去根须",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "熟花生",
+          "name_en": "roasted peanut",
+          "amount": 40,
+          "unit": "g",
+          "note": "压碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 70.0,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 65.0,
+          "unit": "g",
+          "note": "捣成蒜水",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "amount": 50,
+          "unit": "g",
+          "note": "按步骤用量取用",
+          "name_en": "bean sprouts",
+          "optional": false
+        },
+        {
+          "name": "挂面",
+          "amount": 50,
+          "unit": "g",
+          "note": "按步骤用量取用",
+          "name_en": "dried noodles",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "amount": 50,
+          "unit": "g",
+          "note": "按步骤用量取用",
+          "name_en": "peanut",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "定咸鲜",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "分两次放",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "带辣椒面",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "拌面防粘",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨麻香足",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "煮面用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "大盆",
+    "风扇",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面条抖散备用；绿豆芽入沸水氽 40 秒捞出过凉，沥干铺在碗底。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "豆芽断生即可，久煮会软塌。",
+      "visual_cue": "豆芽透亮挺立、无豆腥味"
+    },
+    {
+      "n": 2,
+      "text": "锅中加 2000ml 水与 4g 盐，大火烧开后下面条，用筷子拨散煮 2 分钟。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "水要宽，面才不粘连。",
+      "visual_cue": "面条浮起、中心留一点白芯"
+    },
+    {
+      "n": 3,
+      "text": "面条捞出后立即摊在大盆里，淋 15ml 香油用筷子挑散，对着风扇吹 3 分钟至微凉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "边吹边挑，面条才有弹牙的筋道感。",
+      "visual_cue": "面条根根分明、表面油亮不粘"
+    },
+    {
+      "n": 4,
+      "text": "大蒜 15g 加 20ml 凉开水泡成蒜水；生抽、香醋、白糖与花椒粉调成味汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蒜水比蒜末更均匀，辣味也更柔和。",
+      "visual_cue": "味汁呈深褐色、无糖粒沉淀"
+    },
+    {
+      "n": 5,
+      "text": "凉面铺在豆芽上，浇味汁与蒜水，淋 40ml 辣椒油，撒熟花生碎与小葱花。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "辣椒油连辣椒面一起舀，香气才足。",
+      "visual_cue": "面条裹上红亮油光、花生碎铺满"
+    },
+    {
+      "n": 6,
+      "text": "上桌前沿碗边补 10ml 香醋，吃前从底部翻拌均匀即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "尾醋最后加，酸香更清爽。",
+      "visual_cue": "拌开后红油挂面、气味冲鼻"
+    }
+  ],
+  "tips": [
+    "面条煮好吹凉是凉面弹牙的关键，不能过冷水。",
+    "花椒粉要现磨，瓶装的麻香几乎散尽。",
+    "辣椒油与香醋分两次放，层次更分明。"
+  ],
+  "common_mistakes": [
+    "面条煮好直接过冷水，表面淀粉被冲掉，拌不开还发硬。",
+    "一次把醋全倒进去，久放后面条发酸发涩。",
+    "豆芽煮过头，出水让碗底积汤冲淡味道。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "荞麦面",
+      "ratio": "400g 对 380g",
+      "note": "升糖更低，煮的时间多 1 分钟。"
+    },
+    {
+      "original": "绿豆芽",
+      "substitute": "黄瓜",
+      "ratio": "150g 对 1 根",
+      "note": "切丝铺底，口感更清脆。"
+    }
+  ],
+  "variations": [
+    "甜水面版：改用粗面条，味汁加 10g 红糖。",
+    "鸡丝版：加 150g 手撕鸡胸肉，蛋白质更足。"
+  ],
+  "serving_suggestion": "盛碗后立刻拌开吃，配一碗冰镇绿豆汤最解辣。",
+  "storage": "冷藏不超过 12 小时，面条与味汁分开存放。",
+  "nutrition_estimate": {
+    "basis": "每份（约 1/4 量）",
+    "calories_kcal": 520,
+    "protein_g": 14,
+    "fat_g": 22,
+    "carbs_g": 62,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆芽需彻底加热断生，不要生食以免细菌污染。",
+    "含花生，坚果过敏者请去掉熟花生碎。",
+    "凉面属冷食，室温放置超过 2 小时不建议再食用。"
+  ],
+  "origin_note": "四川凉面是街头巷尾的夏日主食，碱水面煮后趁热挑散吹凉，再以辣椒油、蒜水与香醋调味，麻辣酸甜交织，一口下去格外醒神。",
+  "tags": [
+    "川菜",
+    "凉面",
+    "主食",
+    "麻辣"
+  ],
+  "related_ids": [
+    "dandan-mian",
+    "gongbao-jiding",
+    "sichuan-hongyou-lazi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
