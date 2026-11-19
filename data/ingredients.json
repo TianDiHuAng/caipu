@@ -1,6 +1,4 @@
 {
-  "schemaVersion": "1.0",
-  "note": "食材词典：食材名的唯一权威。新增食材必须先在此登记。aliases 用于步骤文本匹配与搜索，包含常见口语说法。allergens 只标确定性项。",
   "items": [
     {
       "key": "agar",
@@ -1081,7 +1079,6 @@
       "en": "crab",
       "aliases": [
         "大闸蟹",
-        "花蟹",
         "蟹肉",
         "梭子蟹"
       ],
@@ -4149,8 +4146,7 @@
       "zh": "白葡萄酒",
       "en": "dry white wine",
       "aliases": [
-        "干白",
-        "白葡萄酒"
+        "干白"
       ],
       "allergens": [
         "sulfite"
@@ -4295,6 +4291,73 @@
       ],
       "allergens": [],
       "category": "vegetable"
+    },
+    {
+      "key": "yanpi",
+      "zh": "燕皮",
+      "en": "yanpi (meat wrapper)",
+      "aliases": [
+        "肉燕皮"
+      ],
+      "allergens": [],
+      "category": "staple"
+    },
+    {
+      "key": "haili",
+      "zh": "海蛎",
+      "en": "small oysters",
+      "aliases": [
+        "海蛎子",
+        "小生蚝"
+      ],
+      "allergens": [
+        "mollusk"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "shansun",
+      "zh": "山笋",
+      "en": "mountain bamboo shoots",
+      "aliases": [
+        "野山笋"
+      ],
+      "allergens": [],
+      "category": "vegetable"
+    },
+    {
+      "key": "huaxie",
+      "zh": "花蟹",
+      "en": "flower crab",
+      "aliases": [
+        "蓝花蟹"
+      ],
+      "allergens": [
+        "crustacean"
+      ],
+      "category": "seafood"
+    },
+    {
+      "key": "quail-egg",
+      "zh": "鹌鹑蛋",
+      "en": "quail eggs",
+      "aliases": [],
+      "allergens": [
+        "egg"
+      ],
+      "category": "egg"
+    },
+    {
+      "key": "soybean-flour",
+      "zh": "黄豆粉",
+      "en": "roasted soybean flour",
+      "aliases": [
+        "黄豆面"
+      ],
+      "allergens": [
+        "soy"
+      ],
+      "category": "staple"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:59:15.665Z",
+  "generatedAt": "2026-11-19T12:28:38.803Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 493,
     "target": 3274,
-    "actual": 351,
-    "coverage": 0.10720830788026879
+    "actual": 357,
+    "coverage": 0.10904092852779475
   },
   "regions": {
     "cn": [
@@ -322,16 +322,17 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 25,
+        "actual": 26,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "baizhuo-xia",
               "jiangcong-chaohuaxie",
+              "jiaoyan-xianyou",
               "qingzheng-luyu",
               "xia-ren-huadan"
             ]
@@ -703,14 +704,15 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 7,
+        "actual": 9,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "taipingyan-tang",
               "xianggu-rougeng",
               "zicai-sharen-tang"
             ]
@@ -738,9 +740,10 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "fuzhou-yuwan"
+              "fuzhou-yuwan",
+              "haili-bing"
             ]
           },
           {
@@ -909,7 +912,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
@@ -924,17 +927,19 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "huotui-shao-sun"
+              "huotui-shao-sun",
+              "xianggu-shao-shansun"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "huizhou-huotui-tang",
               "wenzheng-shansun-tang"
             ]
           },
@@ -2948,14 +2953,15 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "aloo-palak",
               "chana-masala"
             ]
           },

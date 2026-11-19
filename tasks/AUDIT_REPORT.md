@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T11:59:03.079Z
+- 生成时间：2026-11-19T12:30:57.471Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 42 道，平均分 97
 - 需重写（C/D）：0 道
@@ -20,11 +20,11 @@
 | --- | --- | --- | --- | --- |
 | american | buffalo-wings | 100 | A | 无 |
 | american-south | southern-fried-chicken | 100 | A | 无 |
-| anhui | wenzheng-shansun-tang | 100 | A | 无 |
+| anhui | xianggu-shao-shansun | 100 | A | 无 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
-| cantonese | baizhuo-xia | 87 | B | 准确性 18/25；安全性 14/20 |
-| cantonese | donggua-yimi-paigu-tang | 100 | A | 无 |
+| cantonese | baozaifan | 93 | A | 准确性 18/25 |
+| cantonese | dongguo-paigu-tang | 93 | A | 准确性 18/25 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | bouillabaisse | 100 | A | 无 |
@@ -35,7 +35,7 @@
 | halal-cn | shuipen-yangrou | 93 | A | 准确性 18/25 |
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | ganguo-huacai | 100 | A | 无 |
-| indian | gajar-halwa | 100 | A | 无 |
+| indian | chana-masala | 100 | A | 无 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | karaage | 100 | A | 无 |
 | jiangsu | yaxue-fensi-tang | 93 | A | 准确性 18/25 |
