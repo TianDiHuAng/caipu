@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "banh-mi",
+  "name": {
+    "zh": "越南法棍三明治",
+    "en": "Banh Mi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "vietnamese"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 2,
+  "flavor": [
+    "sour",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 200,
+          "unit": "g",
+          "note": "两根，外皮酥脆",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 200,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 60,
+          "unit": "g",
+          "note": "切长条",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "连梗切段",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌萝卜用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "腌萝卜用",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "腌萝卜用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌肉用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎肉用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "小碗",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "胡萝卜与白萝卜切细丝，加白糖、白醋与鱼露抓匀腌十五分钟出水。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "腌到萝卜丝变软微透明最好。",
+      "visual_cue": "萝卜丝变软、碗底有汁"
+    },
+    {
+      "n": 2,
+      "text": "猪里脊逆纹切薄片，加生抽、蒜末与少许植物油抓匀腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "逆纹切，咬起来才不塞牙。",
+      "visual_cue": "肉片薄而均匀、裹上酱色"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒植物油中火烧热，肉片摊平煎至两面焦香、边缘微卷。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "别急着翻，定型后再动。",
+      "visual_cue": "肉片焦香、边缘卷起"
+    },
+    {
+      "n": 4,
+      "text": "法棍横向剖开不切断，放进烤箱或干锅小火烘到外皮发脆。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "烘过的面包才不吸汁塌软。",
+      "visual_cue": "外皮酥脆、内里仍软"
+    },
+    {
+      "n": 5,
+      "text": "面包内壁抹少许生抽，依次塞入肉片、腌萝卜丝、黄瓜与香菜。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "配料塞紧实，咬下去才有层次。",
+      "visual_cue": "馅料饱满、面包合拢"
+    },
+    {
+      "n": 6,
+      "text": "最后撒小米椒圈，合上法棍稍压紧，对半切开即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "辣度按口味增减小米椒。",
+      "visual_cue": "切口整齐、馅料不外溢"
+    }
+  ],
+  "tips": [
+    "萝卜丝提前腌出水，酸脆的口感是三明治的灵魂。",
+    "法棍一定要烘脆，否则馅料汁水一泡就塌。",
+    "肉片逆纹切薄，煎后依然柔嫩不柴。"
+  ],
+  "common_mistakes": [
+    "法棍不烘直接夹，吃到一半整只塌软流汁。",
+    "肉片顺纹切厚片，咬起来又韧又塞牙。",
+    "萝卜丝现切现夹，出水后把面包泡软。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡腿肉",
+      "ratio": "200g 对 200g",
+      "note": "更油润，煎制时间加 2 分钟。"
+    },
+    {
+      "original": "法棍",
+      "substitute": "短棍面包",
+      "ratio": "200g 对 200g",
+      "note": "外皮更硬，须多烘两分钟。"
+    }
+  ],
+  "variations": [
+    "烤肉版：肉片改用炭火烤，刷一层蜂蜜生抽。",
+    "素食版：肉换成 150g 煎老豆腐与 50g 香菇。"
+  ],
+  "serving_suggestion": "对半切开装盘，配一杯越南冰咖啡。",
+  "storage": "现做现吃，冷藏后面包会返潮，不建议存放。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 560,
+    "protein_g": 30,
+    "fat_g": 16,
+    "carbs_g": 72,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉须煎至中心完全变白、无粉红色。",
+    "鱼露与生抽的咸度都不低，高血压人群请减量使用。",
+    "生食的香菜与黄瓜须充分洗净沥干，避免生食污染。"
+  ],
+  "origin_note": "越南法棍三明治是殖民时期留下的混血食物，法国长棍配上本地的鱼露腌萝卜、香菜与辣椒，一口咬下外脆内软，酸、咸、辣同时在嘴里炸开。",
+  "tags": [
+    "越南菜",
+    "三明治",
+    "小吃",
+    "法棍"
+  ],
+  "related_ids": [
+    "pho-bo",
+    "meatloaf",
+    "caesar-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

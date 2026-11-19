@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "creme-brulee",
+  "name": {
+    "zh": "法式焦糖布丁",
+    "en": "Creme Brulee"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 400,
+          "unit": "ml",
+          "note": "脂肪含量约 35%",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "只用蛋黄，约五个",
+          "optional": false
+        },
+        {
+          "name": "蛋黄",
+          "name_en": "egg yolk",
+          "amount": 100,
+          "unit": "g",
+          "note": "约五个",
+          "optional": false
+        },
+        {
+          "name": "香草荚",
+          "name_en": "vanilla pod",
+          "amount": 4,
+          "unit": "g",
+          "note": "剖开刮籽",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "红糖",
+          "name_en": "brown sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "表面焦糖用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "水浴用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤碗",
+    "烤箱",
+    "打蛋器",
+    "喷枪"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "淡奶油倒进小锅，剖开香草荚刮出籽一起放进去，小火加热到边缘冒小泡。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "不要煮沸，边缘冒泡就离火。",
+      "visual_cue": "奶油微沸、香气散出"
+    },
+    {
+      "n": 2,
+      "text": "蛋黄加白糖轻轻搅匀，不要打出泡沫，否则成品表面会有气孔。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "只搅不抽打，泡沫是敌人。",
+      "visual_cue": "蛋液顺滑无粗泡、呈哑光"
+    },
+    {
+      "n": 3,
+      "text": "热奶油分三次慢慢倒进蛋液，边倒边搅，避免蛋液被烫成蛋花。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "一点点倒，温度差太大就结块。",
+      "visual_cue": "混合液顺滑、无颗粒"
+    },
+    {
+      "n": 4,
+      "text": "混合液过筛两遍，撇去表面浮沫，倒进烤碗，装七分满即可。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "过筛两遍口感才细腻。",
+      "visual_cue": "液面平整、表面无浮沫"
+    },
+    {
+      "n": 5,
+      "text": "烤盘倒入滚烫的清水至烤碗一半高，150℃ 水浴烤三十分钟。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "中心微晃就可出炉，余温会继续凝固。",
+      "visual_cue": "中心轻晃、边缘已定"
+    },
+    {
+      "n": 6,
+      "text": "冷藏两小时后表面撒一层红糖，用喷枪烧到融化起焦壳即可。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "红糖铺薄薄一层，太厚会发苦。",
+      "visual_cue": "表面焦糖化、呈琥珀色"
+    }
+  ],
+  "tips": [
+    "蛋液只搅拌不打发，打进空气会让表面布满气孔。",
+    "水浴是成败关键，水温和缓才能烤出细腻如膏的质地。",
+    "焦糖要现烧现吃，糖壳放久会返潮变软。"
+  ],
+  "common_mistakes": [
+    "热奶油一次性倒进蛋液，蛋液结成一团蛋花。",
+    "烤箱温度偏高又没水浴，布丁表面结皮内部蜂窝。",
+    "喷枪离得太近，糖面瞬间烧黑发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "香草荚",
+      "substitute": "香草精",
+      "ratio": "4g 对 5ml",
+      "note": "香气略淡，需在离火后加入。"
+    },
+    {
+      "original": "淡奶油",
+      "substitute": "牛奶",
+      "ratio": "400ml 对 400ml",
+      "note": "质地更轻盈，烤制时间缩短 5 分钟。"
+    }
+  ],
+  "variations": [
+    "柑橘版：布丁液里加 5g 橙皮屑。",
+    "咖啡版：奶油中加 8g 速溶咖啡粉一起加热。"
+  ],
+  "serving_suggestion": "配几颗覆盆子或一小块酥饼，用勺子敲破糖壳再吃。",
+  "storage": "冷藏可存 2 天，焦糖壳须食用前再烧。",
+  "nutrition_estimate": {
+    "basis": "每份（约 140g）",
+    "calories_kcal": 430,
+    "protein_g": 6,
+    "fat_g": 36,
+    "carbs_g": 24,
+    "sodium_mg": 60,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蛋黄液须彻底加热至中心温度 82℃ 以上，避免沙门氏菌风险。",
+    "含乳制品与蛋类，相关过敏人群不宜食用。",
+    "喷枪明火使用须远离纸巾窗帘，烧糖时不要俯身正对碗口。"
+  ],
+  "origin_note": "焦糖布丁是法国宫廷菜谱里流传最广的一道甜点，名字直译是「烧焦的奶油」。表面那层现烧的糖壳脆得能敲响，下面是冰凉细腻的蛋奶糊，一冷一热构成法式甜点的经典对比。",
+  "tags": [
+    "法国菜",
+    "甜点",
+    "焦糖",
+    "蛋奶"
+  ],
+  "related_ids": [
+    "boeuf-bourguignon",
+    "french-onion-soup",
+    "ratatouille"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

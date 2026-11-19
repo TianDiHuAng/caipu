@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "bouillabaisse",
+  "name": {
+    "zh": "马赛鱼汤",
+    "en": "Bouillabaisse"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "soup",
+    "main-seafood"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 40,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲈鱼",
+          "name_en": "sea bass",
+          "amount": 500,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 200,
+          "unit": "g",
+          "note": "去壳留尾",
+          "optional": false
+        },
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 300,
+          "unit": "g",
+          "note": "吐净沙",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 80,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 3,
+          "unit": "g",
+          "note": "新鲜",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒底用",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 100,
+          "unit": "ml",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 0.5,
+          "unit": "g",
+          "note": "温水泡开",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "滤网",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蛤蜊提前用淡盐水泡两小时吐沙，中途换两次水，捞出冲净外壳。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "泡到水清，汤才不牙碜。",
+      "visual_cue": "蛤蜊开壳、水底无沙"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒橄榄油，中火炒洋葱、芹菜与胡萝卜八分钟至蔬菜变软出香。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "蔬菜炒透，汤底才有厚度。",
+      "visual_cue": "蔬菜软化、洋葱透明"
+    },
+    {
+      "n": 3,
+      "text": "加蒜片与番茄炒到起沙出汁，倒入白葡萄酒煮到酒气挥发。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "酒气挥发完再加水，不然汤发酸。",
+      "visual_cue": "番茄起沙、酒气散尽"
+    },
+    {
+      "n": 4,
+      "text": "倒入清水、香叶与百里香煮开转小火炖二十分钟，让蔬菜味融进汤里。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "保持微沸，汤色才清亮。",
+      "visual_cue": "汤色橙红、香气浓郁"
+    },
+    {
+      "n": 5,
+      "text": "放入鲈鱼块与蛤蜊小火煮八分钟，蛤蜊开口后加虾再煮两分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "海鲜分次下锅，避免煮老。",
+      "visual_cue": "蛤蜊全开、虾身卷曲"
+    },
+    {
+      "n": 6,
+      "text": "加盐与黑胡椒调味，淋入泡开的藏红花水，撒百里香叶即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "藏红花最后加，香气才不挥发。",
+      "visual_cue": "汤色金黄、香气层次分明"
+    }
+  ],
+  "tips": [
+    "蛤蜊必须提前泡沙，否则整锅汤都带碴。",
+    "海鲜按耐煮程度分次下锅，虾最后两分钟放。",
+    "藏红花要用温水泡开再淋，直接撒会浮在汤面。"
+  ],
+  "common_mistakes": [
+    "所有海鲜一起下锅，鱼散了虾已老。",
+    "白葡萄酒没煮到酒气挥发，汤带生酒味。",
+    "蛤蜊没吐沙就下锅，汤底一口沙。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲈鱼",
+      "substitute": "鳕鱼",
+      "ratio": "500g 对 500g",
+      "note": "肉质更紧实，多煮两分钟。"
+    },
+    {
+      "original": "藏红花",
+      "substitute": "姜黄",
+      "ratio": "0.5g 对 1g",
+      "note": "颜色接近，香气不同。"
+    }
+  ],
+  "variations": [
+    "巴黎版：加 200g 淡菜与 100g 鱿鱼。",
+    "浓汤版：把一半蔬菜打成泥回锅增稠。"
+  ],
+  "serving_suggestion": "配烤脆的法棍片与蒜香蛋黄酱，汤与料分盘上桌。",
+  "storage": "冷藏可存 1 天，海鲜复热须彻底煮沸，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "每份（约 450g）",
+    "calories_kcal": 360,
+    "protein_g": 42,
+    "fat_g": 12,
+    "carbs_g": 14,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "crustacean",
+    "fish",
+    "mollusk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蛤蜊须选活体，开口不闭合或有异味的丢弃，煮至全部开口。",
+    "鱼类含细刺，老人儿童食用前须挑刺。",
+    "贝类为常见过敏原，过敏人群避免食用；汤须彻底加热至沸腾。"
+  ],
+  "origin_note": "马赛鱼汤是法国南部港口的渔民菜，最初用卖不掉的杂鱼煮成一锅，后来固定为番茄、洋葱与藏红花的组合，配蒜香面包和蛋黄酱一起吃，现在是马赛的招牌。",
+  "tags": [
+    "法国菜",
+    "汤品",
+    "海鲜",
+    "藏红花"
+  ],
+  "related_ids": [
+    "ratatouille",
+    "boeuf-bourguignon",
+    "french-onion-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

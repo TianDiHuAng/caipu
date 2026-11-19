@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "buffalo-wings",
+  "name": {
+    "zh": "水牛城辣鸡翅",
+    "en": "Buffalo Wings"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-poultry",
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "sour",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡翅",
+          "name_en": "chicken wings",
+          "amount": 800,
+          "unit": "g",
+          "note": "翅中与翅根各半",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 20,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 80,
+          "unit": "g",
+          "note": "酸辣型",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "融化",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌翅用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "烤前刷",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤架",
+    "刷子",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡翅洗净擦干，用盐与黑胡椒抓匀腌十分钟，表面刷一层植物油。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "擦干刷油，皮才脆。",
+      "visual_cue": "鸡翅干爽、裹上薄油"
+    },
+    {
+      "n": 2,
+      "text": "烤架架在烤盘上，鸡翅单层摆放，200℃ 烤十五分钟后翻面。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "烤架让油脂滴落，皮不泡。",
+      "visual_cue": "表面微黄、油脂滴落"
+    },
+    {
+      "n": 3,
+      "text": "继续烤十五分钟至表皮金黄酥脆，取出静置三分钟。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "静置让肉汁回流。",
+      "visual_cue": "表皮金黄、轻压回弹"
+    },
+    {
+      "n": 4,
+      "text": "小锅小火融化黄油，加蒜末、辣椒酱与柠檬汁搅匀成酱汁。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "黄油融化就关火，别煮滚。",
+      "visual_cue": "酱汁浓稠发亮、裹满鸡翅"
+    },
+    {
+      "n": 5,
+      "text": "鸡翅倒进大碗，淋酱汁快速翻匀，配芹菜条上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "拌完立刻吃，皮才不返软。",
+      "visual_cue": "表面裹满红亮酱汁"
+    }
+  ],
+  "tips": [
+    "鸡翅务必擦干再烤，水分是脆皮最大的敌人。",
+    "酱汁里的黄油要小火融化后离火，煮滚会油水分离。",
+    "拌酱要快，裹匀就上桌，久放鸡皮会回软。"
+  ],
+  "common_mistakes": [
+    "鸡翅湿着进烤箱，烤出一盘水汽、皮韧不脆。",
+    "酱汁煮到滚沸，黄油分离浮在表面。",
+    "烤好放进保温箱等开饭，皮全软掉了。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡翅",
+      "substitute": "鸡腿肉",
+      "ratio": "800g 对 700g",
+      "note": "切成块状，烤制时间减 5 分钟。"
+    },
+    {
+      "original": "辣椒酱",
+      "substitute": "番茄酱加辣椒粉",
+      "ratio": "80g 对 70g 加 10g",
+      "note": "酸辣度接近。"
+    }
+  ],
+  "variations": [
+    "空气炸锅版：200℃ 炸十八分钟，中途翻面一次。",
+    "重辣版：辣椒酱里加 10g 辣椒粉与 5g 蜂蜜。"
+  ],
+  "serving_suggestion": "配芹菜条与蓝纹奶酪酱，再来一瓶冰啤酒。",
+  "storage": "冷藏可存 2 天，复热 200℃ 烤 6 分钟恢复脆皮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 260g）",
+    "calories_kcal": 620,
+    "protein_g": 40,
+    "fat_g": 46,
+    "carbs_g": 6,
+    "sodium_mg": 1240,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡翅须烤至中心完全熟透、无血水，中心温度 74℃ 以上。",
+    "辣椒酱接触眼睛会刺痛，拌酱后须洗手。",
+    "含乳制品，乳糖不耐者适量食用。"
+  ],
+  "origin_note": "水牛城辣鸡翅诞生于 1964 年纽约州水牛城的一家小酒馆，老板娘临时用辣椒酱和黄油把鸡翅炸了给客人当宵夜，酸辣裹着黄油香，从此成了美国酒吧的标准配菜。",
+  "tags": [
+    "美国菜",
+    "鸡翅",
+    "辣味",
+    "烤箱"
+  ],
+  "related_ids": [
+    "hamburger",
+    "meatloaf",
+    "apple-pie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

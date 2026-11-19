@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "brownie",
+  "name": {
+    "zh": "美式布朗尼",
+    "en": "Fudgy Brownie"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "dessert",
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 32,
+    "total_min": 47
+  },
+  "servings": 5,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黑巧克力",
+          "name_en": "dark chocolate",
+          "amount": 180,
+          "unit": "g",
+          "note": "可可含量 70%",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "约三个，室温",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 140,
+          "unit": "g",
+          "note": "细砂糖",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 80,
+          "unit": "g",
+          "note": "低筋",
+          "optional": false
+        },
+        {
+          "name": "核桃",
+          "name_en": "walnut",
+          "amount": 60,
+          "unit": "g",
+          "note": "掰碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "可可粉",
+          "name_en": "cocoa powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "无糖",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "方形烤盘",
+    "打蛋器",
+    "隔水盆",
+    "刮刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黑巧克力与黄油隔水小火融化，搅到顺滑无颗粒后离火晾到温热。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "水温别太高，巧克力会结块。",
+      "visual_cue": "液体顺滑、有光泽"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋加白糖打发到颜色发白、提起打蛋头能画出纹路。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打发决定表面那层薄壳。",
+      "visual_cue": "蛋糊发白、纹路停留"
+    },
+    {
+      "n": 3,
+      "text": "巧克力液分两次拌进蛋糊，翻拌均匀后筛入面粉、可可粉与盐。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "翻拌别画圈，避免消泡。",
+      "visual_cue": "面糊浓稠、无干粉"
+    },
+    {
+      "n": 4,
+      "text": "拌入一半核桃碎，倒进铺纸的烤盘抹平，表面撒剩余核桃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "面糊厚薄一致才烤得均匀。",
+      "visual_cue": "表面平整、核桃分布均匀"
+    },
+    {
+      "n": 5,
+      "text": "175℃ 烤三十二分钟，牙签插入带少许湿润屑即可出炉放凉切块。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "带点湿屑才是软心布朗尼。",
+      "visual_cue": "表面薄壳、中心微湿"
+    }
+  ],
+  "tips": [
+    "巧克力与黄油隔水融化时水温别超过 60℃，否则会油水分离。",
+    "蛋糊要打发到发白，表面那层薄壳就靠它。",
+    "烤到牙签带湿润屑就出炉，烤透就成蛋糕了。"
+  ],
+  "common_mistakes": [
+    "面糊过度搅拌，烤出来又硬又韧。",
+    "烤到牙签全干才出炉，口感变成干蛋糕。",
+    "热切布朗尼，切面全塌、形状全毁。"
+  ],
+  "substitutions": [
+    {
+      "original": "黑巧克力",
+      "substitute": "牛奶巧克力",
+      "ratio": "180g 对 180g",
+      "note": "白糖减到 100g。"
+    },
+    {
+      "original": "核桃",
+      "substitute": "腰果",
+      "ratio": "60g 对 60g",
+      "note": "先烤香再拌。"
+    }
+  ],
+  "variations": [
+    "海盐版：出炉撒 2g 片状海盐。",
+    "流心版：中心夹 60g 巧克力块，烤制时间减 3 分钟。"
+  ],
+  "serving_suggestion": "切块配香草冰淇淋或一杯黑咖啡。",
+  "storage": "密封常温可存 3 天，冷藏 1 周，复热 150℃ 烤 4 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 130g）",
+    "calories_kcal": 440,
+    "protein_g": 6,
+    "fat_g": 26,
+    "carbs_g": 46,
+    "sodium_mg": 110,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk",
+    "soy",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须选新鲜蛋，面糊须烤至中心温度 74℃ 以上，避免沙门氏菌风险。",
+    "含麸质、蛋类、乳制品与坚果，相关过敏人群不宜食用。",
+    "烤盘出炉温度高，须放凉后再取。"
+  ],
+  "origin_note": "布朗尼起源于十九世纪末的美国芝加哥，据说是厨师忘了把面粉打发就直接烤巧克力面糊，结果切出来湿润浓稠，反而成了招牌。判断标准很简单：表面有薄壳，切开是黏软的心。",
+  "tags": [
+    "美国菜",
+    "甜点",
+    "巧克力",
+    "烘焙"
+  ],
+  "related_ids": [
+    "hamburger",
+    "meatloaf",
+    "apple-pie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

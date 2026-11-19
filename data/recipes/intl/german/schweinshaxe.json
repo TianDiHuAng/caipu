@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "schweinshaxe",
+  "name": {
+    "zh": "德式烤猪肘",
+    "en": "Schweinshaxe"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 48,
+    "cook_min": 150,
+    "total_min": 198
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "rich",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪蹄膀",
+          "name_en": "pork hock",
+          "amount": 1600,
+          "unit": "g",
+          "note": "前肘，表皮完整",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "拍破",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "note": "牛或鸡高汤",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "烤盘垫液",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 20,
+          "unit": "g",
+          "note": "腌皮用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 5,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "孜然粒",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "刷皮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "锡纸",
+    "厨房纸",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肘用厨房纸彻底擦干，皮面用刀划出方格纹，深至皮下脂肪但不切断肉。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "划到脂肪层，烤后才起脆皮。",
+      "visual_cue": "皮面方格均匀、露出白脂"
+    },
+    {
+      "n": 2,
+      "text": "皮面抹盐与孜然粒，肉面撒黑胡椒，静置半小时让味道渗进去。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "盐多抹在皮上，脆皮靠它脱水。",
+      "visual_cue": "表皮干爽、调料贴附"
+    },
+    {
+      "n": 3,
+      "text": "烤盘铺洋葱、大蒜与香叶，倒入清水与高汤各半，放上猪蹄膀肉面朝下。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "液体不要没过皮，蒸汽焖肉。",
+      "visual_cue": "液体到位、蔬菜铺底"
+    },
+    {
+      "n": 4,
+      "text": "盖锡纸 180℃ 烤一百分钟，让肉质在蒸汽里慢慢酥软。",
+      "time_min": 100,
+      "heat": "无火",
+      "tip": "盖紧锡纸，水分不跑才不柴。",
+      "visual_cue": "肉质变软、筷子可插入"
+    },
+    {
+      "n": 5,
+      "text": "揭掉锡纸翻面让皮朝上，刷一层植物油，220℃ 再烤四十分钟至皮起泡。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "最后阶段只烤皮，注意别焦。",
+      "visual_cue": "表皮金黄、起密集小泡"
+    },
+    {
+      "n": 6,
+      "text": "取出静置十分钟再切块，配盘底的洋葱与肉汁一起上桌。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置让肉汁回流，切开会流汁。",
+      "visual_cue": "切面湿润、皮脆有声"
+    }
+  ],
+  "tips": [
+    "表皮必须提前擦干并划到脂肪层，脆壳就是靠这一步。",
+    "先蒸汽焖再高温烤皮，肉才软而皮才脆。",
+    "最后静置十分钟再切，肉汁不流失。"
+  ],
+  "common_mistakes": [
+    "皮没擦干就进烤箱，烤出来是韧皮不是脆皮。",
+    "全程高温烤，皮焦了里面还咬不动。",
+    "出锅立刻切开，肉汁全流在盘底，肉也变得发干。"
+  ],
+  "substitutions": [
+    {
+      "original": "黑啤",
+      "substitute": "黄啤",
+      "ratio": "400ml 对 400ml",
+      "note": "苦味轻，麦芽香更淡。"
+    },
+    {
+      "original": "猪肘",
+      "substitute": "五花肉",
+      "ratio": "1600g 对 1200g",
+      "note": "烤制时间缩短到 90 分钟。"
+    }
+  ],
+  "variations": [
+    "巴伐利亚版：配酸菜与芥末酱同食。",
+    "慢炖版：先炖两小时再烤三十分钟上脆皮。"
+  ],
+  "serving_suggestion": "切大块装盘，配德式酸菜、土豆丸子与一杯黑啤。",
+  "storage": "冷藏可存 3 天，脆皮复热需 200℃ 烤 10 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 400g）",
+    "calories_kcal": 860,
+    "protein_g": 52,
+    "fat_g": 62,
+    "carbs_g": 8,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肘须烤至中心熟透、筷子可轻松插入，中心温度 71℃ 以上。",
+    "烤箱与烤盘温度极高，取盘务必戴隔热手套。",
+    "烤制时油脂滴落易冒烟，烤盘底部保持有液体。"
+  ],
+  "origin_note": "烤猪蹄膀是德国巴伐利亚啤酒馆的招牌，整只前肘先蒸后烤，表皮烤成琥珀色的脆壳，敲起来有响声。传统吃法是配酸菜与土豆丸子，一大杯黑啤压阵。",
+  "tags": [
+    "德国菜",
+    "猪肉",
+    "烤箱",
+    "脆皮"
+  ],
+  "related_ids": [
+    "wiener-schnitzel",
+    "meatloaf",
+    "caesar-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

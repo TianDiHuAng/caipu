@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "pretzel",
+  "name": {
+    "zh": "德国碱水结",
+    "en": "Pretzel"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 25,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "高筋面粉",
+          "name_en": "bread flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "蛋白质含量高",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 230,
+          "unit": "ml",
+          "note": "约 30℃",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 6,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "小苏打",
+          "name_en": "baking soda",
+          "amount": 30,
+          "unit": "g",
+          "note": "碱水用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "碱水用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "面团用",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 25,
+          "unit": "g",
+          "note": "软化",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "表面撒用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "烤箱",
+    "烤盘",
+    "刷子",
+    "深盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "高筋面粉、酵母与盐混匀，加温水与软化黄油揉成光滑面团，盖布发酵一小时。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "盐别直接接触酵母，会抑制发酵。",
+      "visual_cue": "面团光滑、体积两倍大"
+    },
+    {
+      "n": 2,
+      "text": "面团分成四份滚圆，搓成中间粗两头细的长条，静置十分钟放松面筋。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "松弛够才搓得长不断。",
+      "visual_cue": "面棍粗细均匀、不回缩"
+    },
+    {
+      "n": 3,
+      "text": "长条打成结，两端翻折压在底部，整形成经典的心形结状。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "接口压紧，煮时不易散。",
+      "visual_cue": "结形饱满、接口贴紧"
+    },
+    {
+      "n": 4,
+      "text": "小苏打加清水调成碱水，面结每面浸十秒捞出，沥干后摆上烤盘。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "戴手套操作，碱水伤皮肤。",
+      "visual_cue": "表面微黄发亮、沥干水分"
+    },
+    {
+      "n": 5,
+      "text": "表面撒粗盐并划一道深口，200℃ 烤二十五分钟至深棕红色。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "划口要深，烤后才裂得漂亮。",
+      "visual_cue": "表皮深棕红、裂口张开"
+    }
+  ],
+  "tips": [
+    "高筋面粉的蛋白质高，碱水浸泡后才撑得起那股嚼劲。",
+    "整形时接口一定压紧，泡碱水时散开就白做了。",
+    "划口要划得深，烤的时候才裂得开、露出内部组织。"
+  ],
+  "common_mistakes": [
+    "面团没发酵到位就整形，烤出来硬得像石头。",
+    "碱水浓度太高又泡太久，表皮发苦。",
+    "划口太浅，烤后裂不开，成品圆钝无型。"
+  ],
+  "substitutions": [
+    {
+      "original": "小苏打",
+      "substitute": "食用碱",
+      "ratio": "30g 对 20g",
+      "note": "碱性更强，浸泡时间减到 5 秒。"
+    },
+    {
+      "original": "粗盐",
+      "substitute": "海盐",
+      "ratio": "5g 对 5g",
+      "note": "颗粒感接近。"
+    }
+  ],
+  "variations": [
+    "芝士版：出炉前撒 40g 奶酪丝。",
+    "甜味版：表面不撒盐，改刷黄油撒肉桂糖。"
+  ],
+  "serving_suggestion": "趁热配黄油与啤酒，或横切夹火腿与奶酪。",
+  "storage": "常温密封可存 2 天，冷冻 1 个月，复热 180℃ 烤 5 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 165g）",
+    "calories_kcal": 390,
+    "protein_g": 11,
+    "fat_g": 8,
+    "carbs_g": 68,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "碱水具腐蚀性，操作须戴手套并避免溅到眼睛。",
+    "含麸质与乳制品，相关过敏人群不宜食用。",
+    "烤箱温度高且碱水面团易溅，取盘须戴隔热手套。"
+  ],
+  "origin_note": "碱水结是德国巴伐利亚的标志性面包，传说起源于修道院，形状像祈祷时交叉的双臂。面团在碱水里短浸，烤出深棕色的外壳和独特的碱香，是啤酒馆里的必备品。",
+  "tags": [
+    "德国菜",
+    "面包",
+    "碱水",
+    "烘焙"
+  ],
+  "related_ids": [
+    "wiener-schnitzel",
+    "schweinshaxe"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

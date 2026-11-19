@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "apple-pie",
+  "name": {
+    "zh": "美式苹果派",
+    "en": "Apple Pie"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "dessert",
+    "bakery"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 60,
+    "cook_min": 70,
+    "total_min": 130
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 800,
+          "unit": "g",
+          "note": "去皮切月牙片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 180,
+          "unit": "g",
+          "note": "冷藏切丁",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "馅料用",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁防氧化",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "刷面用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 70,
+          "unit": "ml",
+          "note": "冰水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "面团与馅各半",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "派盘",
+    "擀面杖",
+    "烤箱",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "冷黄油丁与面粉、一半盐搓成粗砂状，清水分次淋入轻轻团成面团不要多揉。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "黄油要冷，颗粒感才酥。",
+      "visual_cue": "面团成团、仍见黄油颗粒"
+    },
+    {
+      "n": 2,
+      "text": "面团分成两份压扁包保鲜膜，冷藏松弛三十分钟让面筋放松。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "松弛到位才擀得开不缩。",
+      "visual_cue": "面团变硬、按压不回弹"
+    },
+    {
+      "n": 3,
+      "text": "苹果去皮去核切月牙片，加白糖、桂皮粉与柠檬汁拌匀静置十分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "柠檬汁防氧化也让酸甜更平衡。",
+      "visual_cue": "苹果片裹糖、微微出水"
+    },
+    {
+      "n": 4,
+      "text": "取一份面团擀成圆片铺进派盘，边缘留一厘米，用叉子在底部扎孔。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "扎孔排气，底部才不鼓包。",
+      "visual_cue": "面皮贴合派盘、孔洞均匀"
+    },
+    {
+      "n": 5,
+      "text": "苹果片堆进派盘，淋上碗里的糖汁，另一份面团擀开盖在表面捏合边缘。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "苹果堆成小山，烤后塌陷才刚好。",
+      "visual_cue": "边缘捏紧、表面平整"
+    },
+    {
+      "n": 6,
+      "text": "表面刷蛋液并划几道口子排气，烤箱 190℃ 烤五十分钟至金黄起泡。",
+      "time_min": 50,
+      "heat": "无火",
+      "tip": "划口子让蒸汽跑出，不然会破皮。",
+      "visual_cue": "表面金黄、边缘冒泡"
+    }
+  ],
+  "tips": [
+    "黄油与冰水都要冷，面团才烤得层层起酥。",
+    "苹果堆高一点，烤后会塌陷，正好与派皮齐平。",
+    "表面一定要划口子排气，否则蒸汽会把派皮顶破。"
+  ],
+  "common_mistakes": [
+    "面团反复揉搓，烤出的派皮又硬又韧像饼干。",
+    "苹果馅不沥汁直接倒进去，底部派皮被泡成糊。",
+    "烤箱温度偏低又烤得不够，切开中间还是生面糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "苹果",
+      "substitute": "梨",
+      "ratio": "800g 对 800g",
+      "note": "甜度更高，白糖减到 70g。"
+    },
+    {
+      "original": "桂皮",
+      "substitute": "肉豆蔻",
+      "ratio": "3g 对 2g",
+      "note": "香气更暖，用量要克制。"
+    }
+  ],
+  "variations": [
+    "格子派皮版：把上层派皮切成条编成格子。",
+    "焦糖版：苹果先用黄油与糖炒到微焦再包。"
+  ],
+  "serving_suggestion": "温热时切块，配一球香草冰淇淋或打发的淡奶油。",
+  "storage": "冷藏可存 3 天，复热用 160℃ 烤箱烤 10 分钟恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 520,
+    "protein_g": 6,
+    "fat_g": 26,
+    "carbs_g": 68,
+    "sodium_mg": 320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "派皮含面筋与乳制品，相关过敏人群不宜食用。",
+    "刷面鸡蛋液须彻底加热至完全凝固，避免沙门氏菌风险。",
+    "派盘出炉温度极高，取出时须戴隔热手套，馅料滚烫注意烫口。"
+  ],
+  "origin_note": "苹果派在美国的地位近乎一种符号，早期移民把欧洲的派皮手艺带过来，用本地苹果填馅。一句「像苹果派一样美国」，把这道家常甜点写进了文化记忆里。",
+  "tags": [
+    "美国菜",
+    "甜点",
+    "苹果",
+    "烤箱"
+  ],
+  "related_ids": [
+    "caesar-salad",
+    "meatloaf",
+    "new-york-cheesecake"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

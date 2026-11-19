@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T06:56:40.255Z
+- 生成时间：2026-11-19T07:28:20.158Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：33 个，抽样 35 道，平均分 96
 - 需重写（C/D）：0 道
@@ -18,7 +18,7 @@
 
 | 菜系 | 菜谱 id | 得分 | 等级 | 扣分项 |
 | --- | --- | --- | --- | --- |
-| american | meatloaf | 100 | A | 无 |
+| american | buffalo-wings | 100 | A | 无 |
 | american-south | bbq-pork-ribs | 93 | A | 准确性 18/25 |
 | anhui | wenzheng-shansun-tang | 100 | A | 无 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
@@ -28,14 +28,14 @@
 | dongbei | guobao-rou | 100 | A | 无 |
 | french | boeuf-bourguignon | 100 | A | 无 |
 | fujian | fuzhou-yuwan | 93 | A | 准确性 18/25 |
-| german | wiener-schnitzel | 100 | A | 无 |
+| german | apple-strudel | 93 | A | 准确性 18/25 |
 | hakka | yanju-ji | 93 | A | 准确性 18/25 |
 | halal-cn | shuipen-yangrou | 93 | A | 准确性 18/25 |
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | shousi-baocai | 100 | A | 无 |
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
 | italian | chicken-cacciatore | 93 | A | 准确性 18/25 |
-| japanese | miso-salmon | 93 | A | 准确性 18/25 |
+| japanese | karaage | 100 | A | 无 |
 | jiangsu | yangzhou-chaofan | 100 | A | 无 |
 | korean | dolsot-bibimbap | 93 | A | 准确性 18/25 |
 | mexican | tortilla-soup | 94 | A | 安全性 14/20 |
@@ -48,7 +48,7 @@
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
 | thai | tom-yum-goong | 94 | A | 安全性 14/20 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
-| vietnamese | pho-bo | 100 | A | 无 |
+| vietnamese | banh-mi | 94 | A | 安全性 14/20 |
 | xibei | shaanxi-saozi-mian | 93 | A | 准确性 18/25 |
 | xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
 | yunguai | xiaoguo-mixian | 100 | A | 无 |

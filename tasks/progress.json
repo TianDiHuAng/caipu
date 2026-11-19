@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:56:39.593Z",
+  "generatedAt": "2026-11-19T07:28:26.520Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 472,
+    "cells": 479,
     "target": 3274,
-    "actual": 246,
-    "coverage": 0.07513744654856444
+    "actual": 273,
+    "coverage": 0.08338423946243127
   },
   "regions": {
     "cn": [
@@ -1924,7 +1924,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 10,
         "cells": [
           {
             "category": "main-seafood",
@@ -1959,9 +1959,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "chawanmushi"
+              "chawanmushi",
+              "karaage"
             ]
           },
           {
@@ -2005,8 +2006,9 @@
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "karaage",
               "teriyaki-chicken"
             ]
           }
@@ -2018,7 +2020,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
@@ -2062,8 +2064,9 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "haemul-pajeon",
               "hotteok",
               "korean-fried-chicken"
             ]
@@ -2107,6 +2110,15 @@
             ]
           },
           {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "haemul-pajeon"
+            ]
+          },
+          {
             "category": "staple-bread",
             "kind": "extra",
             "target": 0,
@@ -2132,14 +2144,15 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 5,
+        "actual": 7,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "thai-cashew-chicken",
               "thai-green-curry-chicken"
             ]
           },
@@ -2147,8 +2160,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "tom-kha-gai",
               "tom-yum-goong"
             ]
           },
@@ -2215,7 +2229,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "staple-bread",
@@ -2292,6 +2306,15 @@
               "bolognese",
               "pomodoro-pasta"
             ]
+          },
+          {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "mushroom-risotto"
+            ]
           }
         ]
       },
@@ -2301,7 +2324,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 3,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -2316,8 +2339,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "creme-brulee"
+            ]
           },
           {
             "category": "sauce",
@@ -2330,8 +2355,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "bouillabaisse",
               "french-onion-soup"
             ]
           },
@@ -2371,6 +2397,25 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "bouillabaisse",
+              "garlic-butter-shrimp"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "garlic-butter-shrimp"
+            ]
           }
         ]
       },
@@ -2466,15 +2511,16 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "pho-bo"
+              "pho-bo",
+              "vietnamese-sour-soup"
             ]
           },
           {
@@ -2520,6 +2566,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "banh-mi"
+            ]
           }
         ]
       },
@@ -2765,14 +2820,16 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "chana-masala"
+            ]
           },
           {
             "category": "main-poultry",
@@ -3216,14 +3273,15 @@
         "en": "German",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 5,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "schweinshaxe",
               "wiener-schnitzel"
             ]
           },
@@ -3231,8 +3289,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "apple-strudel",
+              "pretzel"
+            ]
           },
           {
             "category": "fermented",
@@ -3252,8 +3313,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "apple-strudel"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -3558,14 +3621,15 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "hamburger",
               "meatloaf"
             ]
           },
@@ -3573,15 +3637,20 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "apple-pie",
+              "brownie"
+            ]
           },
           {
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 3,
             "ids": [
+              "apple-pie",
+              "brownie",
               "new-york-cheesecake"
             ]
           },
@@ -3630,6 +3699,25 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "buffalo-wings",
+              "hamburger"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "buffalo-wings"
+            ]
           }
         ]
       },

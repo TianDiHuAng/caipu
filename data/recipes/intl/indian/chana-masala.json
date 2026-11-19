@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chana-masala",
+  "name": {
+    "zh": "印度咖喱鹰嘴豆",
+    "en": "Chana Masala"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "sour",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鹰嘴豆",
+          "name_en": "chickpea",
+          "amount": 400,
+          "unit": "g",
+          "note": "煮熟沥干",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 12,
+          "unit": "g",
+          "note": "印度风味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "孜然粒",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 25,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "木勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鹰嘴豆提前泡一夜后煮到软烂，用手一捏就碎，捞出沥干留少许煮豆水。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "煮到一捏就碎，口感才绵。",
+      "visual_cue": "豆子软烂、外皮微裂"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，下孜然粒小火爆香，再加洋葱末炒到金黄。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱炒到金黄油亮，甜味才出。",
+      "visual_cue": "孜然跳动、洋葱金黄"
+    },
+    {
+      "n": 3,
+      "text": "加姜末、蒜末、小米椒与番茄丁，中火炒到番茄完全塌软出汁。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄炒成酱状，是咖喱的底。",
+      "visual_cue": "番茄成酱、锅底见红油"
+    },
+    {
+      "n": 4,
+      "text": "下咖喱粉、姜黄与辣椒粉炒三十秒出香，倒入鹰嘴豆与清水。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "香料遇油才出香，别直接下水。",
+      "visual_cue": "香料融合、酱汁橙红"
+    },
+    {
+      "n": 5,
+      "text": "小火煮十二分钟至酱汁浓稠裹住豆子，加盐与柠檬汁，撒香菜。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "收汁到勺子划开能留痕。",
+      "visual_cue": "酱汁浓稠、豆子挂汁"
+    }
+  ],
+  "tips": [
+    "香料一定要在油里炒过再加水，干撒进去只有粉味没有香。",
+    "鹰嘴豆煮到一捏即碎，咖喱的绵密口感全靠它。",
+    "柠檬汁最后加，酸味才明亮，久煮会发苦。"
+  ],
+  "common_mistakes": [
+    "香料直接倒进汤里煮，香气完全出不来。",
+    "鹰嘴豆煮得不够烂，吃起来颗粒发硬。",
+    "酱汁不收浓就关火，整盘水汪汪像豆汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "鹰嘴豆",
+      "substitute": "白芸豆",
+      "ratio": "400g 对 400g",
+      "note": "口感更粉，煮制时间减 3 分钟。"
+    },
+    {
+      "original": "咖喱粉",
+      "substitute": "咖喱块",
+      "ratio": "12g 对 25g",
+      "note": "含盐，盐量减半。"
+    }
+  ],
+  "variations": [
+    "菠菜版：最后加 150g 菠菜煮软。",
+    "酸奶版：关火后拌入 80g 酸奶增稠。"
+  ],
+  "serving_suggestion": "配印度面饼或白米饭，旁边放几片生洋葱与柠檬角。",
+  "storage": "冷藏可存 3 天，冷冻 1 个月，复热需加水稀释。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 380,
+    "protein_g": 16,
+    "fat_g": 14,
+    "carbs_g": 48,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鹰嘴豆须充分泡发并煮至完全软烂，未熟的豆类会引起肠胃不适。",
+    "咖喱粉与辣椒粉易呛咳，下锅时火关小。",
+    "含豆类与香料，肠胃敏感人群请适量食用。"
+  ],
+  "origin_note": "鹰嘴豆咖喱是印度北方的家常素菜，也是街头早餐的常客。洋葱番茄炒成酱底，香料在油里爆出香气，最后用柠檬汁提亮，配面饼或米饭都能吃得干干净净。",
+  "tags": [
+    "印度菜",
+    "素食",
+    "豆类",
+    "咖喱"
+  ],
+  "related_ids": [
+    "butter-chicken",
+    "naan",
+    "samosa"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

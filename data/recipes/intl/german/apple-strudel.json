@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "apple-strudel",
+  "name": {
+    "zh": "德式苹果卷",
+    "en": "Apfelstrudel"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "bakery",
+    "dessert"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 45,
+    "total_min": 80
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "高筋",
+          "optional": false
+        },
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 700,
+          "unit": "g",
+          "note": "去皮切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 100,
+          "unit": "g",
+          "note": "融化，刷面用",
+          "optional": false
+        },
+        {
+          "name": "核桃",
+          "name_en": "walnut",
+          "amount": 60,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 80,
+          "unit": "g",
+          "note": "馅料用",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 130,
+          "unit": "ml",
+          "note": "和面用",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 50,
+          "unit": "g",
+          "note": "吸汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "和面用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "擀面杖",
+    "烤盘",
+    "烤箱",
+    "干净餐布",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加盐与清水揉成光滑软面团，表面刷融化黄油，盖布醒三十分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "面团偏软才擀得薄。",
+      "visual_cue": "面团光滑、按压回弹"
+    },
+    {
+      "n": 2,
+      "text": "苹果切薄片，加白糖、桂皮粉与柠檬汁拌匀，静置十分钟出水。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "苹果片要薄，卷起来才服帖。",
+      "visual_cue": "苹果片裹糖、微微出水"
+    },
+    {
+      "n": 3,
+      "text": "面包糠用少许黄油小火炒到金黄，拌入核桃碎做吸汁底层。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "炒过的糠才吸得住果汁。",
+      "visual_cue": "面包糠金黄、粒粒分明"
+    },
+    {
+      "n": 4,
+      "text": "面团放在撒粉的餐布上擀成薄片，刷黄油后铺面包糠与苹果，卷紧收口。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "卷的时候借餐布推，皮不易破。",
+      "visual_cue": "卷体紧实、接缝朝下"
+    },
+    {
+      "n": 5,
+      "text": "表面刷黄油，190℃ 烤四十五分钟至表皮金黄起层，中途再刷一次。",
+      "time_min": 45,
+      "heat": "无火",
+      "tip": "中途刷油，层次才酥。",
+      "visual_cue": "表皮金黄、轻敲有空响"
+    }
+  ],
+  "tips": [
+    "面团要揉到光滑再醒，擀薄时才不回缩。",
+    "面包糠必须先炒过，它负责吸住苹果出的汁。",
+    "卷的时候借餐布推着卷，比用手直接卷更紧更不易破。"
+  ],
+  "common_mistakes": [
+    "苹果切太厚，卷的时候把面皮戳破。",
+    "面包糠省掉，底部被果汁泡成糊。",
+    "烤好立刻切，馅料全流出来，须放凉十分钟。"
+  ],
+  "substitutions": [
+    {
+      "original": "苹果",
+      "substitute": "梨",
+      "ratio": "700g 对 700g",
+      "note": "白糖减到 60g。"
+    },
+    {
+      "original": "核桃",
+      "substitute": "杏仁",
+      "ratio": "60g 对 60g",
+      "note": "切片后口感更轻。"
+    }
+  ],
+  "variations": [
+    "葡萄版：加 50g 泡软的葡萄干。",
+    "奶酪版：馅里加 80g 奶油奶酪。"
+  ],
+  "serving_suggestion": "温热切段，撒糖粉，配一球香草冰淇淋。",
+  "storage": "常温可存 1 天，冷藏 3 天，复热 160℃ 烤 10 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 420,
+    "protein_g": 7,
+    "fat_g": 20,
+    "carbs_g": 54,
+    "sodium_mg": 220,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质与乳制品、坚果，相关过敏人群不宜食用。",
+    "烤盘与卷体出炉温度高，取出须戴隔热手套。",
+    "核桃需确认无霉变，坚果霉变会产生毒素。"
+  ],
+  "origin_note": "苹果卷是奥地利的国民甜点，后来在德国南部的咖啡馆里也成了标配。面皮要擀到能透出桌布的纹路，裹上苹果、桂皮与炒过的面包糠，烤出一层薄如纸的酥壳。",
+  "tags": [
+    "德国菜",
+    "甜点",
+    "苹果",
+    "烤箱"
+  ],
+  "related_ids": [
+    "wiener-schnitzel",
+    "schweinshaxe"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

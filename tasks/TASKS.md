@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-19T06:56:39.654Z
+> 生成时间：2026-11-19T07:28:26.583Z
 
-**总览**：工程任务 49/53；菜谱内容 246/3274（7.5%），共 472 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 273/3274（8.3%），共 479 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -388,44 +388,45 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（57/1935）
+### 外国菜系（84/1935）
 
-<details><summary><b>日本料理 japanese</b> — A 级，8/107</summary>
+<details><summary><b>日本料理 japanese</b> — A 级，10/107</summary>
 
 - [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
 - [ ] `P4-japanese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 1
 - [ ] `P4-japanese/soup` 汤羹（Soup）目标 15，已完成 2
-- [ ] `P4-japanese/appetizer` 前菜（Appetizer）目标 15，已完成 1
+- [ ] `P4-japanese/appetizer` 前菜（Appetizer）目标 15，已完成 2
 - [ ] `P4-japanese/dessert` 甜点（Dessert）目标 15，已完成 1
 - [ ] `P4-japanese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-japanese/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-japanese/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-japanese/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
-- [x] `P4-japanese/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
+- [x] `P4-japanese/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 2
 
 </details>
 
-<details><summary><b>韩国料理 korean</b> — A 级，12/107</summary>
+<details><summary><b>韩国料理 korean</b> — A 级，14/107</summary>
 
 - [ ] `P4-korean/main-meat` 主菜·肉（Meat Main）目标 15，已完成 1
 - [ ] `P4-korean/soup` 汤羹（Soup）目标 15，已完成 1
 - [ ] `P4-korean/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 3
 - [ ] `P4-korean/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 1
-- [ ] `P4-korean/snack` 小吃（Street Food）目标 15，已完成 2
+- [ ] `P4-korean/snack` 小吃（Street Food）目标 15，已完成 3
 - [ ] `P4-korean/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-korean/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-korean/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-korean/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
 - [x] `P4-korean/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 2
+- [x] `P4-korean/appetizer` 前菜（Appetizer）目标 0，已完成 1
 - [x] `P4-korean/staple-bread` 主食·饼（Bread Staple）目标 0，已完成 1
 - [x] `P4-korean/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>泰国菜 thai</b> — A 级，5/107</summary>
+<details><summary><b>泰国菜 thai</b> — A 级，7/107</summary>
 
-- [ ] `P4-thai/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
-- [ ] `P4-thai/soup` 汤羹（Soup）目标 15，已完成 1
+- [ ] `P4-thai/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 2
+- [ ] `P4-thai/soup` 汤羹（Soup）目标 15，已完成 2
 - [ ] `P4-thai/salad` 沙拉（Salad）目标 15，已完成 1
 - [ ] `P4-thai/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 1
 - [ ] `P4-thai/dessert` 甜点（Dessert）目标 15，已完成 0
@@ -436,7 +437,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>意大利菜 italian</b> — A 级，7/107</summary>
+<details><summary><b>意大利菜 italian</b> — A 级，8/107</summary>
 
 - [ ] `P4-italian/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 1
 - [ ] `P4-italian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
@@ -447,20 +448,23 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-italian/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-italian/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-italian/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 2
+- [x] `P4-italian/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>法国菜 french</b> — A 级，3/107</summary>
+<details><summary><b>法国菜 french</b> — A 级，8/107</summary>
 
 - [ ] `P4-french/main-meat` 主菜·肉（Meat Main）目标 15，已完成 1
-- [ ] `P4-french/dessert` 甜点（Dessert）目标 15，已完成 0
+- [ ] `P4-french/dessert` 甜点（Dessert）目标 15，已完成 1
 - [ ] `P4-french/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 0
-- [ ] `P4-french/soup` 汤羹（Soup）目标 15，已完成 1
+- [ ] `P4-french/soup` 汤羹（Soup）目标 15，已完成 2
 - [ ] `P4-french/bakery` 烘焙面包（Bakery）目标 15，已完成 0
 - [ ] `P4-french/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 1
 - [ ] `P4-french/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-french/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-french/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
+- [x] `P4-french/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 2
+- [x] `P4-french/appetizer` 前菜（Appetizer）目标 0，已完成 1
 
 </details>
 
@@ -479,15 +483,16 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>越南菜 vietnamese</b> — B 级，2/38</summary>
+<details><summary><b>越南菜 vietnamese</b> — B 级，4/38</summary>
 
-- [ ] `P4-vietnamese/soup` 汤羹（Soup）目标 6，已完成 1
+- [ ] `P4-vietnamese/soup` 汤羹（Soup）目标 6，已完成 2
 - [ ] `P4-vietnamese/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 1
 - [ ] `P4-vietnamese/salad` 沙拉（Salad）目标 6，已完成 0
 - [ ] `P4-vietnamese/main-meat` 主菜·肉（Meat Main）目标 6，已完成 0
 - [ ] `P4-vietnamese/drink` 饮品（Drink）目标 6，已完成 0
 - [ ] `P4-vietnamese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-vietnamese/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [x] `P4-vietnamese/snack` 小吃（Street Food）目标 0，已完成 1
 
 </details>
 
@@ -539,9 +544,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>印度菜 indian</b> — A 级，5/107</summary>
+<details><summary><b>印度菜 indian</b> — A 级，6/107</summary>
 
-- [ ] `P4-indian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 0
+- [ ] `P4-indian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 1
 - [ ] `P4-indian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
 - [ ] `P4-indian/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 1
 - [ ] `P4-indian/soup` 汤羹（Soup）目标 15，已完成 1
@@ -627,13 +632,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>德国菜 german</b> — B 级，1/38</summary>
+<details><summary><b>德国菜 german</b> — B 级，5/38</summary>
 
-- [ ] `P4-german/main-meat` 主菜·肉（Meat Main）目标 6，已完成 1
-- [ ] `P4-german/bakery` 烘焙面包（Bakery）目标 6，已完成 0
+- [ ] `P4-german/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
+- [ ] `P4-german/bakery` 烘焙面包（Bakery）目标 6，已完成 2
 - [ ] `P4-german/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 0
 - [ ] `P4-german/salad` 沙拉（Salad）目标 6，已完成 0
-- [ ] `P4-german/dessert` 甜点（Dessert）目标 6，已完成 0
+- [ ] `P4-german/dessert` 甜点（Dessert）目标 6，已完成 1
 - [ ] `P4-german/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-german/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 
@@ -697,17 +702,19 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>美式菜 american</b> — A 级，4/107</summary>
+<details><summary><b>美式菜 american</b> — A 级，12/107</summary>
 
-- [ ] `P4-american/main-meat` 主菜·肉（Meat Main）目标 15，已完成 1
-- [ ] `P4-american/bakery` 烘焙面包（Bakery）目标 15，已完成 0
-- [ ] `P4-american/dessert` 甜点（Dessert）目标 15，已完成 1
+- [ ] `P4-american/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
+- [ ] `P4-american/bakery` 烘焙面包（Bakery）目标 15，已完成 2
+- [ ] `P4-american/dessert` 甜点（Dessert）目标 15，已完成 3
 - [ ] `P4-american/breakfast` 早餐（Breakfast）目标 15，已完成 1
 - [ ] `P4-american/salad` 沙拉（Salad）目标 15，已完成 1
 - [ ] `P4-american/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-american/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-american/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-american/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
+- [x] `P4-american/snack` 小吃（Street Food）目标 0，已完成 2
+- [x] `P4-american/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 
 </details>
 

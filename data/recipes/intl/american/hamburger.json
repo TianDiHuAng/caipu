@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hamburger",
+  "name": {
+    "zh": "美式牛肉汉堡",
+    "en": "Classic Hamburger"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-meat",
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "total_min": 32
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 300,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 160,
+          "unit": "g",
+          "note": "两个圆面包",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 40,
+          "unit": "g",
+          "note": "洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 80,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "酸黄瓜",
+          "name_en": "pickled cucumber",
+          "amount": 40,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 40,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 15,
+          "unit": "g",
+          "note": "煎面包用",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 20,
+          "unit": "g",
+          "note": "抹面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "铸铁锅",
+    "锅铲",
+    "厨房纸",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉末分成两份轻轻团成球，中间按出一个浅窝，不要反复揉压。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "轻团不压实，口感才松。",
+      "visual_cue": "肉饼成型、中间微凹"
+    },
+    {
+      "n": 2,
+      "text": "肉饼两面撒盐与黑胡椒，静置五分钟让调味渗进表层。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盐别提前太久撒，会出水。",
+      "visual_cue": "表面调料覆盖均匀、肉饼略回温"
+    },
+    {
+      "n": 3,
+      "text": "铸铁锅烧到冒烟，肉饼下锅不要压，中大火煎三分钟形成焦壳。",
+      "time_min": 4,
+      "heat": "中大火",
+      "tip": "别用铲子压，肉汁会全流失。",
+      "visual_cue": "底面焦褐、边缘出油"
+    },
+    {
+      "n": 4,
+      "text": "翻面再煎两分钟，铺上芝士片转小火盖盖焖一分钟至融化。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "盖盖让芝士借蒸汽融化。",
+      "visual_cue": "芝士融化、肉饼回弹"
+    },
+    {
+      "n": 5,
+      "text": "面包切面对着干锅烘香，取出抹黄油与番茄酱各一层。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "面包烘过才不吸肉汁。",
+      "visual_cue": "切面金黄、抹酱均匀"
+    },
+    {
+      "n": 6,
+      "text": "面包底依次放生菜、肉饼、番茄片、洋葱圈与酸黄瓜，盖顶压紧。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "生菜垫底隔开肉汁，面包不塌。",
+      "visual_cue": "层次分明、轻压不散"
+    }
+  ],
+  "tips": [
+    "肉饼下锅后千万别用铲子压，压一次汁水就跑一半。",
+    "面包切面先烘再抹酱，能挡住肉汁不塌软。",
+    "牛肉末选肥瘦相间的部位，太瘦的肉饼煎后干得像鞋底。"
+  ],
+  "common_mistakes": [
+    "肉饼反复揉压上劲，煎完又硬又紧。",
+    "大火煎太久又没有盖盖，芝士没化肉已发柴。",
+    "生菜直接贴面包放，肉汁一浸整只面包塌陷。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "猪肉末",
+      "ratio": "300g 对 300g",
+      "note": "需多煎一分钟，中心要全熟。"
+    },
+    {
+      "original": "芝士片",
+      "substitute": "马苏里拉",
+      "ratio": "40g 对 50g",
+      "note": "拉丝更明显。"
+    }
+  ],
+  "variations": [
+    "双层版：肉饼加厚到 200g，煎制时间加两分钟。",
+    "蘑菇版：用 100g 炒香的蘑菇片替换一半生菜。"
+  ],
+  "serving_suggestion": "配炸薯条与冰可乐，用烘焙纸包住下半部方便拿取。",
+  "storage": "肉饼冷藏可存 1 天，面包与蔬菜须分开存放，复热用平底锅。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 720,
+    "protein_g": 38,
+    "fat_g": 40,
+    "carbs_g": 46,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉末须煎至中心不再泛红、达到 71℃ 以上，肉末比整块肉风险更高。",
+    "生菜与番茄须洗净沥干，避免生食污染。",
+    "煎制时油脂飞溅，肉饼下锅前擦干表面水分。"
+  ],
+  "origin_note": "美式汉堡起源于十九世纪末的美国街头餐车，一块牛肉饼夹进圆面包，后来加了奶酪、生菜与酸黄瓜，成了全世界最通行的快餐组合，家里用铸铁锅也能煎出像样的焦壳。",
+  "tags": [
+    "美国菜",
+    "汉堡",
+    "牛肉",
+    "快餐"
+  ],
+  "related_ids": [
+    "caesar-salad",
+    "meatloaf",
+    "new-york-cheesecake"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

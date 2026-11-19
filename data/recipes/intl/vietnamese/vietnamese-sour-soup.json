@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "vietnamese-sour-soup",
+  "name": {
+    "zh": "越南酸汤鱼",
+    "en": "Canh Chua Ca"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "vietnamese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲈鱼",
+          "name_en": "sea bass",
+          "amount": 400,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "菠萝",
+          "name_en": "pineapple",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 40,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 25,
+          "unit": "g",
+          "note": "酸汤基底",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸番茄",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "滤网",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "罗望子用温水泡软后抓洗出酸汁，滤掉果核只留浓稠的酸汤。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "先泡再抓，酸味才出得干净。",
+      "visual_cue": "汤汁浓稠、果核分离"
+    },
+    {
+      "n": 2,
+      "text": "鲈鱼切片后用一半鱼露抓匀腌八分钟，鱼片表面微微发亮。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "鱼露腌鱼，咸鲜更贴。",
+      "visual_cue": "鱼片发亮、无血水"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒植物油，下蒜末小火炒香，再放番茄块炒到出汁变软。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "番茄炒出红油，汤色才漂亮。",
+      "visual_cue": "番茄起沙、锅底见红汁"
+    },
+    {
+      "n": 4,
+      "text": "倒入清水与罗望子酸汁煮开，加白糖与剩余鱼露调出酸甜平衡。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "酸味要先尝汤再定糖量。",
+      "visual_cue": "汤色橙红、酸甜适口"
+    },
+    {
+      "n": 5,
+      "text": "下菠萝煮三分钟，再轻轻滑入鱼片小火煮五分钟至完全变白。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "鱼片别搅动，容易碎。",
+      "visual_cue": "鱼片洁白、菠萝变软"
+    },
+    {
+      "n": 6,
+      "text": "关火后加豆芽、小米椒与香菜，挤入青柠汁即可上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "豆芽靠余温烫熟，保持脆。",
+      "visual_cue": "豆芽脆生、汤面飘香菜"
+    }
+  ],
+  "tips": [
+    "罗望子汁决定酸味的骨架，青柠汁只在关火后加。",
+    "鱼片入锅后不要用勺子搅，靠汤的余温把它焖熟。",
+    "豆芽最后放，靠汤温烫脆，久煮就发软。"
+  ],
+  "common_mistakes": [
+    "罗望子没滤净果核，喝汤时咬到硬块。",
+    "大火滚煮鱼片，鱼肉散成碎渣，汤也浑了。",
+    "青柠汁早下锅，酸味发闷还带苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲈鱼",
+      "substitute": "虾",
+      "ratio": "400g 对 350g",
+      "note": "煮制时间缩短到 3 分钟。"
+    },
+    {
+      "original": "罗望子",
+      "substitute": "白醋",
+      "ratio": "25g 对 40ml",
+      "note": "酸味更直，糖量略增。"
+    }
+  ],
+  "variations": [
+    "湄公河版：加 100g 秋葵与 50g 芋头梗。",
+    "辣味版：小米椒加倍，另加 10g 辣椒酱。"
+  ],
+  "serving_suggestion": "盛进汤碗配白米饭，越南人习惯用汤泡饭。",
+  "storage": "冷藏可存 1 天，鱼片复热后口感变差，建议只复热汤底。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350g）",
+    "calories_kcal": 280,
+    "protein_g": 32,
+    "fat_g": 8,
+    "carbs_g": 20,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鲈鱼须煮至肉质完全变白、中心 63℃ 以上，鱼刺需仔细检查。",
+    "鱼露含鱼类成分，过敏人群改用盐调味。",
+    "汤品含鱼与豆芽，隔夜复热须彻底煮沸。"
+  ],
+  "origin_note": "越南酸汤鱼是湄公河三角洲的家常汤，罗望子提供主酸，菠萝与番茄给出果甜，鱼露负责咸鲜。越南人喝汤讲究酸、甜、鲜三层同时出现，缺一层就不算地道。",
+  "tags": [
+    "越南菜",
+    "汤品",
+    "鱼",
+    "酸甜"
+  ],
+  "related_ids": [
+    "pho-bo",
+    "banh-mi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

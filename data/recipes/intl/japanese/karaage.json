@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "karaage",
+  "name": {
+    "zh": "日式炸鸡块",
+    "en": "Karaage"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "appetizer",
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "带皮切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "切角",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 60,
+          "unit": "g",
+          "note": "垫盘",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "腌料",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "腌料",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 80,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 270,
+          "unit": "ml",
+          "note": "炸制用，可分两批",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "漏勺",
+    "厨房纸",
+    "温度计"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉带皮切成五厘米大块，用生抽、料酒、蒜泥与姜泥抓匀腌二十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "带皮炸才香，皮朝下先入锅。",
+      "visual_cue": "鸡块裹上腌料、色泽均匀"
+    },
+    {
+      "n": 2,
+      "text": "淀粉与面粉混匀，鸡块逐块裹粉后静置五分钟让粉返潮贴紧。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "返潮后炸衣不脱。",
+      "visual_cue": "表面干粉转湿、粉层贴紧"
+    },
+    {
+      "n": 3,
+      "text": "植物油倒入深锅烧到 165℃，鸡块分两批下锅炸四分钟至浅金色，捞出静置三分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "第一次只炸熟，别求色。",
+      "visual_cue": "外壳浅金、鸡肉定型"
+    },
+    {
+      "n": 4,
+      "text": "植物油升温到 185℃ 复炸一分半，外壳金黄酥脆后立刻捞出沥油。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "复炸逼油，外壳才脆得响。",
+      "visual_cue": "外壳深金、敲击有声"
+    },
+    {
+      "n": 5,
+      "text": "生菜垫盘摆上鸡块，撒盐与柠檬角，趁热上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "撒盐在出锅后，外壳不返软。",
+      "visual_cue": "盘面干爽、柠檬点缀"
+    }
+  ],
+  "tips": [
+    "裹粉后等五分钟让粉返潮，炸的时候才不会脱落。",
+    "油量不多时分批炸，锅温才不会一下子掉下去。",
+    "出锅后撒盐而不是腌时多放盐，外壳才不会出水返软。"
+  ],
+  "common_mistakes": [
+    "鸡块湿着裹粉就下锅，炸衣整片脱落。",
+    "只用一次高温炸，外皮焦黑里面还是生的。",
+    "炸好堆在一起闷着，底部全是水汽，脆皮变软。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600g 对 600g",
+      "note": "腌时多加 10ml 料酒，避免发柴。"
+    },
+    {
+      "original": "淀粉",
+      "substitute": "玉米淀粉",
+      "ratio": "80g 对 80g",
+      "note": "脆度接近。"
+    }
+  ],
+  "variations": [
+    "南蛮版：炸好淋塔塔酱与甜醋汁。",
+    "辣味版：裹粉里加 5g 辣椒粉。"
+  ],
+  "serving_suggestion": "配生菜丝、柠檬角与日式蛋黄酱，趁热吃。",
+  "storage": "冷藏可存 1 天，复热用 190℃ 烤箱烤 5 分钟恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 520,
+    "protein_g": 36,
+    "fat_g": 32,
+    "carbs_g": 18,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡块须炸至中心完全熟透、无血水，中心温度 74℃ 以上。",
+    "油炸时鸡块含水会爆油，沿锅边轻放并保持距离。",
+    "炸油使用不超过 3 次，颜色变深即废弃。"
+  ],
+  "origin_note": "炸鸡块是日本家庭与居酒屋最普遍的一道菜，酱油、蒜与姜腌过，裹上薄薄一层粉再炸两遍。日式炸物讲究外壳轻薄酥脆，咬开还有汁水，不靠厚重的面糊。",
+  "tags": [
+    "日本菜",
+    "鸡肉",
+    "油炸",
+    "居酒屋"
+  ],
+  "related_ids": [
+    "teriyaki-chicken",
+    "tempura",
+    "oyakodon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
