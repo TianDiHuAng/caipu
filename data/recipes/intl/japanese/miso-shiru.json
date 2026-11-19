@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "miso-shiru",
+  "name": {
+    "zh": "味噌汤",
+    "en": "Miso Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 12,
+    "total_min": 22
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "味噌",
+          "name_en": "miso",
+          "amount": 60,
+          "unit": "g",
+          "note": "白味噌",
+          "optional": false
+        },
+        {
+          "name": "板豆腐",
+          "name_en": "firm tofu",
+          "amount": 150,
+          "unit": "g",
+          "note": "切 1.5cm 方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 10,
+          "unit": "g",
+          "note": "干海带一段",
+          "optional": false
+        },
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 15,
+          "unit": "g",
+          "note": "熬高汤",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "微调",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "滤网",
+    "小碗",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "海带用湿布擦净表面，放入 800ml 冷水中浸泡 20 分钟，小火加热至快沸前捞出。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "海带不能煮沸，否则汤会发黏发腥。",
+      "visual_cue": "汤色微黄、海带边缘卷起"
+    },
+    {
+      "n": 2,
+      "text": "汤中放入木鱼花，关火静置 3 分钟让其自然沉底，用滤网滤出清澈高汤。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "木鱼花遇沸水会苦，关火后放入。",
+      "visual_cue": "高汤清亮、气味鲜甜"
+    },
+    {
+      "n": 3,
+      "text": "高汤回锅小火加热至微沸，放入板豆腐块煮 2 分钟。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "豆腐轻放，别搅以免碎。",
+      "visual_cue": "豆腐浮起、边缘微颤"
+    },
+    {
+      "n": 4,
+      "text": "取小碗用少量热汤把味噌化开，再倒回锅中，保持小火不煮沸。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "味噌化开再下锅，避免结块。",
+      "visual_cue": "汤色乳褐、无颗粒感"
+    },
+    {
+      "n": 5,
+      "text": "尝味用 1g 盐微调，撒小葱花开火即关，盛入木碗。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "味噌汤煮沸香气会跑掉。",
+      "visual_cue": "汤面微动、葱花浮于表面"
+    }
+  ],
+  "tips": [
+    "海带与木鱼花熬的高汤是基础，不要省略。",
+    "味噌化开再下锅，不会结块。，会影响最终的口感层次与卖相。",
+    "全程小火，味噌一煮沸香气就散了。"
+  ],
+  "common_mistakes": [
+    "海带与汤一起大滚，汤色发绿带腥。",
+    "味噌直接丢进锅里搅，结成一团。",
+    "反复煮沸，鲜味全部挥发。，成品口感会明显变差。"
+  ],
+  "substitutions": [
+    {
+      "original": "白味噌",
+      "substitute": "赤味噌",
+      "ratio": "60g 对 50g",
+      "note": "咸味更重，盐可省略。"
+    },
+    {
+      "original": "木鱼花",
+      "substitute": "昆布柴鱼高汤粉",
+      "ratio": "15g 对 8g",
+      "note": "更省事，但鲜味略单薄。"
+    }
+  ],
+  "variations": [
+    "蛤蜊版：加 150g 蛤蜊同煮，鲜味更浓。",
+    "南瓜版：加 100g 南瓜块，汤更绵甜。"
+  ],
+  "serving_suggestion": "配白米饭与腌菜，就是最标准的日式早餐。",
+  "storage": "冷藏 1 天，复热小火加热不可煮沸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250ml）",
+    "calories_kcal": 90,
+    "protein_g": 8,
+    "fat_g": 4,
+    "carbs_g": 7,
+    "sodium_mg": 950,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "味噌含盐较高，高血压人群应适量。",
+    "大豆制品为常见致敏原，过敏者禁食。",
+    "汤品不宜反复加热，建议一次吃完。"
+  ],
+  "origin_note": "味噌汤是日本家庭餐桌的日常汤品，用昆布与木鱼花熬出高汤，化入味噌，加豆腐与葱花，一碗清淡却极考高汤功夫。",
+  "tags": [
+    "日本菜",
+    "汤",
+    "味噌",
+    "早餐"
+  ],
+  "related_ids": [
+    "miso-soup",
+    "teriyaki-chicken",
+    "chawanmushi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
