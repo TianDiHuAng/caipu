@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shuizhu-yu",
+  "name": {
+    "zh": "水煮鱼",
+    "en": "Sichuan Boiled Fish in Chili Oil"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 800,
+          "unit": "g",
+          "note": "取肉片成薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 200,
+          "unit": "g",
+          "note": "焯水垫底",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 25,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 12,
+          "unit": "g",
+          "note": "分两次用",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 40,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "上浆",
+          "optional": false
+        },
+        {
+          "name": "蛋清",
+          "name_en": "egg white",
+          "amount": 1,
+          "unit": "piece",
+          "note": "上浆增嫩",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "腌鱼",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 150,
+          "unit": "ml",
+          "note": "泼油与炒料",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "大漏勺",
+    "片刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去骨取净肉，斜刀片成 0.3cm 厚的薄片，鱼骨斩段备用。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "逆着鱼纹斜片，口感才滑嫩。",
+      "visual_cue": "鱼片透光、厚薄均匀"
+    },
+    {
+      "n": 2,
+      "text": "鱼片加 4g 盐、白胡椒、料酒与蛋清抓至发黏，再拌入 25g 淀粉腌 10 分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "上浆抓好才锁得住水，煮后不柴。",
+      "visual_cue": "鱼片挂糊均匀、不粘连"
+    },
+    {
+      "n": 3,
+      "text": "豆芽下开水焯 1 分钟，捞出铺在大盆底部。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "豆芽垫底能吸油，也防止鱼片粘盆。",
+      "visual_cue": "豆芽断生、颜色透明"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒 60ml 植物油，下豆瓣酱与姜片小火炒 2 分钟出红油，加 800ml 水烧开。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "红油炒足，汤底才够香够红。",
+      "visual_cue": "汤色红亮、表面浮油"
+    },
+    {
+      "n": 5,
+      "text": "先下鱼骨煮 3 分钟，再逐片放入鱼片，改小火烫 90 秒至变白立即关火。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "鱼片下锅别搅动，一搅就碎。",
+      "visual_cue": "鱼片蜷曲发白、肉质弹嫩"
+    },
+    {
+      "n": 6,
+      "text": "连汤倒入铺豆芽的盆中，表面撒干辣椒段、花椒与蒜末。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "辣椒蒜末铺在最上层，泼油才能激香。",
+      "visual_cue": "表层铺满辣椒花椒、层次分明"
+    },
+    {
+      "n": 7,
+      "text": "另起锅烧 90ml 植物油至冒青烟，分三次泼在辣椒蒜末上，撒小葱花即可。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "油要烧到冒烟，激不出香就白做。",
+      "visual_cue": "滋啦作响、红油翻滚香气冲鼻"
+    }
+  ],
+  "tips": [
+    "鱼片逆纹斜片，厚度控制在 0.3cm 最好。",
+    "上浆加蛋清，煮出来滑得像豆腐。",
+    "泼油的温度必须足够高，香气全靠这一下。"
+  ],
+  "common_mistakes": [
+    "鱼片顺纹切片，煮后卷缩发硬。，成品口感会明显变差。",
+    "鱼片下锅后用力搅拌，全部碎成小块。",
+    "油温不够就泼，辣椒生涩、香味出不来。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "黑鱼",
+      "ratio": "800g 对 700g",
+      "note": "肉更紧实，烫的时间加 30 秒。"
+    },
+    {
+      "original": "豆瓣酱",
+      "substitute": "水煮鱼调料包",
+      "ratio": "40g 对 1 包",
+      "note": "咸度较高，盐减 3g。"
+    }
+  ],
+  "variations": [
+    "番茄版：去掉豆瓣酱用番茄炒底，做不辣版本。",
+    "藤椒版：泼油时加 10g 鲜藤椒，麻香更清亮。"
+  ],
+  "serving_suggestion": "趁热上桌，鱼片蘸汤吃，配米饭绝佳。",
+  "storage": "冷藏 1 天，复热需小火加热不可久煮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g 鱼片）",
+    "calories_kcal": 460,
+    "protein_g": 34,
+    "fat_g": 30,
+    "carbs_g": 10,
+    "sodium_mg": 1100,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "淡水鱼刺较多，给儿童食用前需仔细挑净细刺。",
+    "泼热油时油温极高，操作时远离面部并保持锅具稳定。",
+    "鱼片必须烫至完全变白熟透，不可生食。"
+  ],
+  "origin_note": "水煮鱼源自重庆江边渔家，把鱼片在豆瓣红汤中烫熟再泼上滚油辣椒，麻辣鲜香直冲鼻腔，是川菜里最具视觉冲击的一道鱼菜。",
+  "tags": [
+    "川菜",
+    "鱼",
+    "麻辣",
+    "水煮"
+  ],
+  "related_ids": [
+    "dandan-mian",
+    "mapo-doufu",
+    "suancai-yu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

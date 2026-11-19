@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "suancai-bairou",
+  "name": {
+    "zh": "酸菜白肉",
+    "en": "Pork Belly with Pickled Cabbage"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "soup",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 60,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "整块带皮",
+          "optional": false
+        },
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 400,
+          "unit": "g",
+          "note": "切细丝泡洗",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "1 颗",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "2 个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "出锅前点",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "快刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块冷水下锅，加姜片、葱段、八角和料酒，大火烧开撇沫后小火煮 45 分钟。",
+      "time_min": 50,
+      "heat": "小火",
+      "tip": "整块煮再切，肉片才不会卷缩。",
+      "visual_cue": "筷子能穿透肉皮、肉心不发红"
+    },
+    {
+      "n": 2,
+      "text": "酸菜丝用清水泡洗两遍，挤干水分，尝一片确认酸咸适中。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洗掉多余盐分，汤才不齁。",
+      "visual_cue": "酸菜丝不滴水、酸味清爽"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下 15ml 底油，放酸菜丝与干辣椒中火炒 5 分钟至酸香四溢。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "酸菜先炒再煮，酸香才被逼出来。",
+      "visual_cue": "酸菜丝干爽、酸味浓郁"
+    },
+    {
+      "n": 4,
+      "text": "煮好的五花肉捞出晾 5 分钟，切成 0.3cm 的薄片。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉晾凉爽手再切，片才薄而整齐。",
+      "visual_cue": "肉片透光、肥瘦相连不散"
+    },
+    {
+      "n": 5,
+      "text": "把炒好的酸菜与肉片放入原汤中，加盐与白胡椒小火炖 20 分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "小火慢炖，肉片才软而不烂。",
+      "visual_cue": "汤色乳白、酸香扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "出锅前淋 8ml 香油，连汤带肉盛入大碗即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香油别早放，出锅点香最明显。",
+      "visual_cue": "汤面浮油薄亮、肉片层层码放"
+    }
+  ],
+  "tips": [
+    "五花肉整块煮再切，片薄且不卷。",
+    "酸菜先炒后炖，酸香比直接下锅浓一倍。",
+    "煮肉的汤不要倒，是这道菜的底汤。"
+  ],
+  "common_mistakes": [
+    "生肉直接切片下锅，肉片又厚又硬。",
+    "酸菜不泡洗直接煮，整锅汤咸到发苦。",
+    "大火滚炖，肉片散开、汤变浑。，成品口感会明显变差。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "500g 对 500g",
+      "note": "脂肪少些，炖的时间减 5 分钟。"
+    },
+    {
+      "original": "酸菜",
+      "substitute": "酸白菜",
+      "ratio": "400g 对 400g",
+      "note": "酸度柔和，泡洗一次即可。"
+    }
+  ],
+  "variations": [
+    "血肠版：加 200g 血肠同炖，是东北杀猪菜做法。",
+    "粉丝版：加 100g 泡软粉丝，最后 5 分钟下锅。"
+  ],
+  "serving_suggestion": "配上蒜泥蘸碟，肉片蘸着吃最地道。",
+  "storage": "冷藏 2 天，冷冻 1 周；复热加少量水小火炖开。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 42,
+    "carbs_g": 10,
+    "sodium_mg": 1300,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉脂肪含量高，血脂异常人群应少量食用。",
+    "酸菜属腌制食品，含盐较高，汤不宜多喝。",
+    "肉片需彻底煮透，中心不得带血色。"
+  ],
+  "origin_note": "酸菜白肉是东北杀猪菜的核心，酸菜吸走了五花肉的油腻，肉片又给酸菜添了油香，一锅炖出酸香醇厚，是冬天最暖的家常味。",
+  "tags": [
+    "东北菜",
+    "炖菜",
+    "酸菜",
+    "五花肉"
+  ],
+  "related_ids": [
+    "xiaoji-dun-mogu",
+    "guobao-rou",
+    "dongbei-dalapi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

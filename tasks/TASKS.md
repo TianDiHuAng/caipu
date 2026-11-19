@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-19T04:25:32.026Z
+> 生成时间：2026-11-19T04:31:16.052Z
 
-**总览**：工程任务 49/53；菜谱内容 186/3274（5.7%），共 461 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 194/3274（5.9%），共 461 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,16 +83,16 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（158/1339）
+### 中国菜系（164/1339）
 
-<details><summary><b>川菜 sichuan</b> — A 级，29/107</summary>
+<details><summary><b>川菜 sichuan</b> — A 级，31/107</summary>
 
 - [ ] `P4-sichuan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 4
 - [ ] `P4-sichuan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 3
 - [ ] `P4-sichuan/main-tofu` 主菜·豆制品（Tofu Main）目标 15，已完成 2
 - [ ] `P4-sichuan/appetizer` 前菜（Appetizer）目标 15，已完成 3
 - [ ] `P4-sichuan/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 1
-- [ ] `P4-sichuan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 2
+- [ ] `P4-sichuan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 4
 - [ ] `P4-sichuan/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 1
 - [ ] `P4-sichuan/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 2
 - [ ] `P4-sichuan/staple-rice` 主食·饭（Rice Dish）目标 8，已完成 0
@@ -104,7 +104,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>鲁菜 shandong</b> — A 级，11/107</summary>
+<details><summary><b>鲁菜 shandong</b> — A 级，12/107</summary>
 
 - [ ] `P4-shandong/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 4
 - [ ] `P4-shandong/main-meat` 主菜·肉（Meat Main）目标 15，已完成 1
@@ -115,8 +115,8 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-shandong/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-shandong/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-shandong/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
+- [x] `P4-shandong/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 2
 - [x] `P4-shandong/snack` 小吃（Street Food）目标 0，已完成 2
-- [x] `P4-shandong/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 - [x] `P4-shandong/appetizer` 前菜（Appetizer）目标 0，已完成 1
 
 </details>
@@ -184,11 +184,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>湘菜 hunan</b> — A 级，14/107</summary>
+<details><summary><b>湘菜 hunan</b> — A 级，15/107</summary>
 
 - [ ] `P4-hunan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 7
 - [ ] `P4-hunan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
-- [ ] `P4-hunan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 3
+- [ ] `P4-hunan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 4
 - [ ] `P4-hunan/appetizer` 前菜（Appetizer）目标 15，已完成 1
 - [ ] `P4-hunan/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 0
 - [ ] `P4-hunan/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
@@ -243,18 +243,18 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>东北菜 dongbei</b> — B 级，8/38</summary>
+<details><summary><b>东北菜 dongbei</b> — B 级，10/38</summary>
 
 - [ ] `P4-dongbei/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 0
-- [ ] `P4-dongbei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 3
+- [ ] `P4-dongbei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 4
 - [ ] `P4-dongbei/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 0
 - [ ] `P4-dongbei/cold-dish` 凉菜（Cold Dish）目标 6，已完成 2
 - [ ] `P4-dongbei/banquet` 宴客菜（Banquet）目标 6，已完成 0
 - [ ] `P4-dongbei/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [ ] `P4-dongbei/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
+- [x] `P4-dongbei/soup` 汤羹（Soup）目标 0，已完成 2
 - [x] `P4-dongbei/appetizer` 前菜（Appetizer）目标 0，已完成 1
 - [x] `P4-dongbei/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
-- [x] `P4-dongbei/soup` 汤羹（Soup）目标 0，已完成 1
 
 </details>
 
@@ -382,7 +382,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（28/1935）
+### 外国菜系（30/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，5/107</summary>
 
@@ -414,12 +414,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>泰国菜 thai</b> — A 级，4/107</summary>
+<details><summary><b>泰国菜 thai</b> — A 级，6/107</summary>
 
 - [ ] `P4-thai/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
-- [ ] `P4-thai/soup` 汤羹（Soup）目标 15，已完成 1
+- [ ] `P4-thai/soup` 汤羹（Soup）目标 15，已完成 2
 - [ ] `P4-thai/salad` 沙拉（Salad）目标 15，已完成 1
-- [ ] `P4-thai/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 1
+- [ ] `P4-thai/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
 - [ ] `P4-thai/dessert` 甜点（Dessert）目标 15，已完成 0
 - [ ] `P4-thai/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
 - [ ] `P4-thai/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0

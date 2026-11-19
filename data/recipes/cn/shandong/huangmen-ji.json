@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huangmen-ji",
+  "name": {
+    "zh": "黄焖鸡",
+    "en": "Braised Chicken with Mushroom"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "带骨斩 4cm 块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "泡软切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "回甜上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "底味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿斩成 4cm 见方的块，冷水浸泡 10 分钟去血水后沥干。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡过血水的鸡块，炖出来汤才清。",
+      "visual_cue": "鸡块发白、表面不见血丝"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒 35ml 植物油，下冰糖小火炒 2 分钟至融化冒小泡、呈焦糖色。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "糖色炒到枣红就停，过了会苦。",
+      "visual_cue": "糖液深琥珀色、气泡细密"
+    },
+    {
+      "n": 3,
+      "text": "倒入鸡块大火翻炒 3 分钟，让每块均匀裹上糖色。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "鸡块要沥干再下锅，否则糖色溅油。",
+      "visual_cue": "鸡块表面焦红、锅底泛亮"
+    },
+    {
+      "n": 4,
+      "text": "下姜片、蒜与干辣椒炒香，加生抽、老抽、蚝油与料酒炒匀。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "酱料先炒香再加水，味道才厚。",
+      "visual_cue": "鸡块酱色均匀、香味浓郁"
+    },
+    {
+      "n": 5,
+      "text": "加 600ml 开水与香菇片，大火烧开转小火焖 20 分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "一定加开水，冷水会让鸡肉收紧发柴。",
+      "visual_cue": "汤汁收至一半、鸡肉脱骨"
+    },
+    {
+      "n": 6,
+      "text": "放青椒块与 3g 盐，转大火收汁 3 分钟至汤汁浓稠裹鸡块即可。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "青椒后放，保持脆绿不出水。",
+      "visual_cue": "汤汁浓稠挂勺、青椒翠绿"
+    }
+  ],
+  "tips": [
+    "炒糖色是黄焖鸡上色的关键，别炒糊。",
+    "加开水而不是冷水，鸡肉才嫩。，会影响最终的口感层次与卖相。",
+    "香菇用干香菇泡发，香味比鲜香菇浓。"
+  ],
+  "common_mistakes": [
+    "糖色炒过头，整锅发苦发黑。，成品口感会明显变差。",
+    "中途加冷水，鸡块紧缩变硬。，成品口感会明显变差。",
+    "收汁不彻底，端上桌汤汁稀如水。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿",
+      "substitute": "鸡翅根",
+      "ratio": "700g 对 700g",
+      "note": "更易入味，焖的时间加 5 分钟。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "杏鲍菇",
+      "ratio": "150g 对 180g",
+      "note": "口感更脆，香气稍淡。"
+    }
+  ],
+  "variations": [
+    "土豆版：加 200g 土豆块同焖，汤汁更绵。",
+    "加辣版：干辣椒加到 15g，做成香辣口味。"
+  ],
+  "serving_suggestion": "连汁浇在米饭上，就是经典的黄焖鸡米饭。",
+  "storage": "冷藏 2 天，冷冻 1 周；复热加少量水小火焖热。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 420,
+    "protein_g": 32,
+    "fat_g": 24,
+    "carbs_g": 14,
+    "sodium_mg": 1150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡块需焖至彻底熟透，骨缝不见血水。",
+    "炒糖色时糖浆温度极高，加水会剧烈飞溅，需沿锅边缓慢倒入。",
+    "生熟砧板与刀具需分开使用，避免交叉污染。"
+  ],
+  "origin_note": "黄焖鸡源自山东济南的传统做法，用糖色与酱油把鸡块焖得红亮，配香菇吸汁，一锅端上桌连汤带肉，是黄焖鸡米饭的本源。",
+  "tags": [
+    "鲁菜",
+    "鸡",
+    "焖菜",
+    "下饭"
+  ],
+  "related_ids": [
+    "shandong-jianbing",
+    "jiuzhuan-dachang",
+    "cu-jiao-yutang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
