@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-potato-salad",
+  "name": {
+    "zh": "美式土豆沙拉",
+    "en": "American Potato Salad"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "sour",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 700,
+          "unit": "g",
+          "note": "切块煮熟",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "酸黄瓜",
+          "name_en": "pickled cucumber",
+          "amount": 60,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "煮熟切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 120,
+          "unit": "g",
+          "note": "拌制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "大碗",
+    "压泥器",
+    "切菜板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆 700g 去皮切成 2 厘米块，冷水下锅加 3g 盐，煮开后转中火煮 15 分钟。",
+      "time_min": 18,
+      "heat": "中火",
+      "tip": "冷水下锅，土豆内外熟得均匀。",
+      "visual_cue": "筷子能轻松插入土豆块"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋 2 个冷水下锅，水开后煮 9 分钟，捞出过冷水后剥壳切碎。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "煮 9 分钟蛋黄刚凝固，不会发绿。",
+      "visual_cue": "蛋黄橙黄、蛋白完全凝固"
+    },
+    {
+      "n": 3,
+      "text": "土豆捞出沥干，趁热用压泥器压碎一半，保留一半块状，放凉 10 分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "半泥半块，口感才有层次。",
+      "visual_cue": "土豆一半成泥、一半保留块状"
+    },
+    {
+      "n": 4,
+      "text": "芹菜 80g、洋葱 60g 与酸黄瓜 60g 分别切成小丁，用厨房纸吸去多余水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蔬菜丁吸干水，沙拉才不会稀。",
+      "visual_cue": "蔬菜丁干爽、大小均匀"
+    },
+    {
+      "n": 5,
+      "text": "大碗中放土豆、蔬菜丁与鸡蛋碎，加 120g 蛋黄酱、剩余 2g 盐与 2g 黑胡椒。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋黄酱分两次拌，裹得更匀。",
+      "visual_cue": "所有材料均匀裹上酱"
+    },
+    {
+      "n": 6,
+      "text": "翻拌均匀后盖保鲜膜冷藏 30 分钟，让味道融合后再食用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冷藏半小时，味道明显更融合。",
+      "visual_cue": "沙拉紧实、冷藏后更浓稠"
+    }
+  ],
+  "tips": [
+    "土豆半压成泥、半留块状，口感最讨喜。",
+    "蔬菜丁一定吸干水分，否则沙拉会出水变稀。",
+    "冷藏半小时再吃，味道融合得更好。"
+  ],
+  "common_mistakes": [
+    "土豆煮过头全成糊，沙拉变成一摊泥。",
+    "蔬菜没吸干水，第二天沙拉就出水。",
+    "鸡蛋煮得太久，蛋黄发绿并带明显硫味。"
+  ],
+  "substitutions": [
+    {
+      "original": "蛋黄酱",
+      "substitute": "酸奶",
+      "ratio": "120g 对 130g",
+      "note": "热量更低，酸味更明显。"
+    },
+    {
+      "original": "酸黄瓜",
+      "substitute": "酸豆角",
+      "ratio": "60g 对 60g",
+      "note": "需切得更细，咸味略重。"
+    }
+  ],
+  "variations": [
+    "培根版：加 60g 煎脆培根碎。",
+    "芥末版：蛋黄酱中拌入 8g 黄芥末。"
+  ],
+  "serving_suggestion": "冷藏后盛盘，配烤鸡或汉堡一起上桌。",
+  "storage": "冷藏 2 天，食用前翻拌均匀。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 380,
+    "protein_g": 9,
+    "fat_g": 24,
+    "carbs_g": 34,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "egg",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须煮至蛋黄完全凝固，避免半熟蛋在沙拉中久置。",
+    "含蛋黄酱的沙拉须冷藏保存，常温放置不超过 2 小时。"
+  ],
+  "origin_note": "美式土豆沙拉是后院烧烤和野餐桌上的常客。土豆煮软后一半压成泥、一半留块，拌上蛋黄酱、芹菜丁、洋葱和酸黄瓜，再加两颗水煮蛋碎。冷藏半小时后味道融合，冰凉绵密又带一点酸脆。",
+  "tags": [
+    "美式",
+    "沙拉",
+    "土豆",
+    "凉菜"
+  ],
+  "related_ids": [
+    "champinones-al-ajillo",
+    "caesar-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

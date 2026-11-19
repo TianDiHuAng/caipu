@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "ropa-vieja",
+  "name": {
+    "zh": "墨西哥牛肉丝",
+    "en": "Ropa Vieja"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 100,
+    "total_min": 120
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "sour",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 800,
+          "unit": "g",
+          "note": "整块炖后撕丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 5,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 50,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "炒锅",
+    "两把叉子",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩 800g 整块冷水下锅，煮开后撇去浮沫，加 3g 盐转小火炖 80 分钟。",
+      "time_min": 85,
+      "heat": "小火",
+      "tip": "整块炖再撕丝，纤维才完整。",
+      "visual_cue": "牛腩用叉子一戳就散开"
+    },
+    {
+      "n": 2,
+      "text": "捞出牛腩稍放凉，用两把叉子顺着纹理撕成粗丝，炖肉汤留 200ml 备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "顺纹撕，口感才不塞牙。",
+      "visual_cue": "牛腩成均匀粗丝、略带汤汁"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒 30ml 橄榄油，中火下洋葱丝与青椒丝炒 5 分钟至变软。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "炒到洋葱透明，甜味才出来。",
+      "visual_cue": "洋葱透明、青椒微软"
+    },
+    {
+      "n": 4,
+      "text": "加蒜末、4g 孜然与 5g 红椒粉小火炒香，倒入番茄块炒到软烂出汁。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "香料小火炒，火大立刻发苦。",
+      "visual_cue": "番茄化开、油色发红"
+    },
+    {
+      "n": 5,
+      "text": "放牛腩丝丝与 50g 番茄酱翻炒均匀，倒入 200ml 炖肉汤小火焖 15 分钟。",
+      "time_min": 17,
+      "heat": "小火",
+      "tip": "用炖肉汤焖，肉味才不散。",
+      "visual_cue": "牛腩丝吸饱汤汁、颜色深红"
+    },
+    {
+      "n": 6,
+      "text": "加剩余 3g 盐调味，中火收汁 4 分钟，撒香菜碎出锅。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "收到汤汁挂在肉丝上即可。",
+      "visual_cue": "肉丝油亮、汤汁浓稠"
+    }
+  ],
+  "tips": [
+    "牛腩整块炖再撕丝，纤维完整不散。",
+    "用炖肉汤回锅焖，肉香一点不浪费。",
+    "收汁别收太干，留一点汤汁拌饭最好。"
+  ],
+  "common_mistakes": [
+    "牛肉切块炖完再切，纤维全断口感发柴。",
+    "香料用大火爆炒，整锅酱汁带明显焦苦味。",
+    "收汁收到发干，肉丝变得又咸又硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "800g 对 800g",
+      "note": "炖制时间加 20 分钟。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "彩椒",
+      "ratio": "150g 对 150g",
+      "note": "辣度更低，颜色更艳。"
+    }
+  ],
+  "variations": [
+    "橄榄版：加 60g 绿橄榄同焖。",
+    "辣味版：加 10g 辣椒酱同炒。"
+  ],
+  "serving_suggestion": "配白饭、黑豆与炸香蕉片，或夹进玉米饼。",
+  "storage": "冷藏 3 天，冷冻 1 个月，复热时加少量水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 260g）",
+    "calories_kcal": 450,
+    "protein_g": 36,
+    "fat_g": 28,
+    "carbs_g": 12,
+    "sodium_mg": 800,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炖至纤维可轻松撕开，中心完全熟透。",
+    "长时间炖煮注意看火，避免汤汁烧干糊锅。"
+  ],
+  "origin_note": "这道菜的名字直译是旧衣服，因为撕成条的牛肉配着红绿椒丝，看着像一堆碎布。牛腩整块炖到软烂再顺纹撕开，与洋葱、青椒、番茄和孜然一起回锅焖，酸香浓郁，配白饭或者夹玉米饼都合适。",
+  "tags": [
+    "墨西哥",
+    "炖菜",
+    "牛肉",
+    "家常"
+  ],
+  "related_ids": [
+    "chili-con-carne",
+    "carnitas",
+    "tacos-de-carne"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

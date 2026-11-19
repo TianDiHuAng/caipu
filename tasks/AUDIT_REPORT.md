@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T12:57:39.868Z
+- 生成时间：2026-11-19T13:36:46.779Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 42 道，平均分 97
 - 需重写（C/D）：0 道
@@ -18,9 +18,9 @@
 
 | 菜系 | 菜谱 id | 得分 | 等级 | 扣分项 |
 | --- | --- | --- | --- | --- |
-| american | buffalo-wings | 100 | A | 无 |
+| american | brownie | 93 | A | 准确性 18/25 |
 | american-south | southern-fried-chicken | 100 | A | 无 |
-| anhui | xianggu-shao-shansun | 100 | A | 无 |
+| anhui | wenzheng-shansun-tang | 100 | A | 无 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | baozaifan | 93 | A | 准确性 18/25 |
@@ -28,14 +28,14 @@
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | bouillabaisse | 100 | A | 无 |
-| fujian | haili-bing | 100 | A | 无 |
+| fujian | fuzhou-yuwan | 93 | A | 准确性 18/25 |
 | german | wiener-schnitzel | 100 | A | 无 |
 | greek | greek-roast-vegetable-salad | 100 | A | 无 |
 | hakka | kejia-chao-mifen | 93 | A | 准确性 18/25 |
 | halal-cn | shuipen-yangrou | 93 | A | 准确性 18/25 |
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | ganguo-huacai | 100 | A | 无 |
-| indian | chana-masala | 100 | A | 无 |
+| indian | dal-tomato-soup | 93 | A | 准确性 18/25 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | karaage | 100 | A | 无 |
 | jiangsu | yaxue-fensi-tang | 93 | A | 准确性 18/25 |
@@ -50,7 +50,7 @@
 | shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
 | sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
 | sichuan | gongbao-jiding | 100 | A | 无 |
-| spanish | gazpacho | 100 | A | 无 |
+| spanish | gambas-al-ajillo | 94 | A | 安全性 14/20 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
 | thai | pad-thai | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |

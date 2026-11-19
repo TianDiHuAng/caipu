@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huizhou-hongshaorou",
+  "name": {
+    "zh": "徽式红烧肉",
+    "en": "Huizhou Braised Pork Belly"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 75,
+    "total_min": 90
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "sweet",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "切 3 厘米方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 35,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "漏勺",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉 800g 切成 3 厘米方块，冷水下锅加 15ml 料酒，煮开后撇去浮沫再煮 3 分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "冷水下锅焯，血水才出得干净。",
+      "visual_cue": "肉块表面转白、浮沫撇净"
+    },
+    {
+      "n": 2,
+      "text": "捞出肉块用温水冲净沥干，姜切片，小葱打成一个葱结备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用温水冲，冷水会让肉紧缩。",
+      "visual_cue": "肉块干净无浮沫、颜色洁白"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒 20ml 植物油，放 35g 冰糖小火炒至溶化并转枣红色。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "糖色一冒大泡就下肉，别等发黑。",
+      "visual_cue": "糖液枣红、细密小泡"
+    },
+    {
+      "n": 4,
+      "text": "倒入五花肉块快速翻炒，让每块都裹上糖色，加姜片与八角炒香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "动作要快，糖色焦了会发苦。",
+      "visual_cue": "肉块红亮、油光明显"
+    },
+    {
+      "n": 5,
+      "text": "淋剩余 15ml 料酒、30ml 生抽与 8ml 老抽翻匀，加热水至刚没过肉块，放葱结。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "必须加热水，冷水会让肉发柴。",
+      "visual_cue": "汤汁深红、肉块全浸"
+    },
+    {
+      "n": 6,
+      "text": "转入砂锅小火焖 55 分钟，中途翻动两次，至肉皮用筷子能轻松插透。",
+      "time_min": 55,
+      "heat": "小火",
+      "tip": "小火慢焖，肉才酥而不散。",
+      "visual_cue": "筷子可轻松插入肉皮"
+    },
+    {
+      "n": 7,
+      "text": "开盖挑出葱结与姜片，加 3g 盐调味，中大火收汁 5 分钟至油亮。",
+      "time_min": 6,
+      "heat": "中大火",
+      "tip": "收汁时勤翻，避免粘锅发苦。",
+      "visual_cue": "汤汁浓稠裹肉、表面油亮"
+    }
+  ],
+  "tips": [
+    "焯水后用温水冲洗，肉块不会骤然收紧。",
+    "炒糖色全程小火，枣红色一出现就下肉。",
+    "焖煮必须加热水，冷水会让肉质变柴。"
+  ],
+  "common_mistakes": [
+    "糖色炒到发黑才下肉，整锅带焦苦味。",
+    "加冷水焖煮，五花肉紧硬嚼不动。",
+    "大火收汁不收手，汤汁烧干粘锅。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "800g 对 800g",
+      "note": "肥肉少，焖煮时间加 10 分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "35g 对 30g",
+      "note": "糖色上色略浅。"
+    }
+  ],
+  "variations": [
+    "笋干版：加 100g 泡发笋干同焖。",
+    "梅干菜版：锅底铺 100g 梅干菜同焖吸油。"
+  ],
+  "serving_suggestion": "配白米饭，淋一勺浓汁，旁边放一碟清炒青菜。",
+  "storage": "冷藏 3 天，复热时加少量水小火焖 8 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 640,
+    "protein_g": 22,
+    "fat_g": 52,
+    "carbs_g": 14,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉须焖至中心熟透、能轻松插透，避免半生。",
+    "炒糖色温度极高，下肉时注意防油溅烫伤。"
+  ],
+  "origin_note": "徽州人做红烧肉讲究糖色要亮、肉要酥而不散。五花肉焯水后裹上冰糖炒出的枣红糖色，加生抽老抽与八角，用砂锅小火焖上一个钟头，出锅时肉皮颤巍巍、汤汁浓得能挂住勺子，配一碗白饭最实在。",
+  "tags": [
+    "徽菜",
+    "红烧",
+    "五花肉",
+    "家常"
+  ],
+  "related_ids": [
+    "fuliji-shaoji",
+    "yipin-guo",
+    "huizhou-maodoufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:57:46.033Z",
+  "generatedAt": "2026-11-19T13:36:57.764Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 493,
     "target": 3274,
-    "actual": 363,
-    "coverage": 0.1108735491753207
+    "actual": 374,
+    "coverage": 0.11423335369578497
   },
   "regions": {
     "cn": [
@@ -705,7 +705,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "soup",
@@ -752,8 +752,9 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "fujian-congyou-zhi",
               "shacha-jiang"
             ]
           },
@@ -793,7 +794,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 20,
+        "actual": 21,
         "cells": [
           {
             "category": "main-meat",
@@ -846,9 +847,10 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "duo-lajiao",
+              "hunan-mei-doufu",
               "hunan-suan-doujiao"
             ]
           },
@@ -915,14 +917,15 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 10,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "huizhou-hongshaorou",
               "yipin-guo"
             ]
           },
@@ -950,8 +953,9 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "anhui-lajiaohu",
               "huizhou-maodoufu"
             ]
           },
@@ -959,9 +963,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "huizhou-shaobing"
+              "huizhou-shaobing",
+              "huizhou-taguo"
             ]
           },
           {
@@ -2549,7 +2554,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
@@ -2565,9 +2570,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "calamares-fritos",
+              "champinones-al-ajillo",
               "tortilla-espanola"
             ]
           },
@@ -2957,7 +2963,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 15,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2973,27 +2979,30 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "butter-chicken"
+              "butter-chicken",
+              "indian-chicken-curry"
             ]
           },
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "aloo-paratha",
-              "naan"
+              "naan",
+              "puri"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "dal-tomato-soup",
               "tomato-shorba"
             ]
           },
@@ -3824,7 +3833,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "main-meat",
@@ -3872,8 +3881,9 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "american-potato-salad",
               "caesar-salad"
             ]
           },
@@ -4115,7 +4125,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "snack",
@@ -4131,10 +4141,11 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "carnitas",
-              "chili-con-carne"
+              "chili-con-carne",
+              "ropa-vieja"
             ]
           },
           {

@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-chicken-curry",
+  "name": {
+    "zh": "印度咖喱鸡",
+    "en": "Indian Chicken Curry"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 800,
+          "unit": "g",
+          "note": "去骨切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 12,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 100,
+          "unit": "g",
+          "note": "腌肉",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木铲",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿 800g 去骨切成 3 厘米块，用 100g 酸奶、3g 盐与 4g 咖喱粉抓匀腌 20 分钟。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "酸奶腌能让鸡肉更嫩，别省这一步。",
+      "visual_cue": "鸡块裹满酸奶糊、表面湿润"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅倒 40ml 植物油烧热，下洋葱丝中火炒 8 分钟至深金色。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "洋葱炒到金黄，咖喱底味才够厚。",
+      "visual_cue": "洋葱丝深金、锅底微焦"
+    },
+    {
+      "n": 3,
+      "text": "加入蒜末与姜末炒香，再放 8g 咖喱粉与 3g 姜黄粉，小火炒 1 分钟。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "香料小火炒，糊了整锅发苦。",
+      "visual_cue": "油色变红黄、香料香气浓"
+    },
+    {
+      "n": 4,
+      "text": "倒入番茄块炒到软烂出汁，用铲子压成糊状，炒 6 分钟至油分析出。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "炒到油分离，咖喱才香不腥。",
+      "visual_cue": "番茄成糊、表面浮红油"
+    },
+    {
+      "n": 5,
+      "text": "放入腌好的鸡块翻匀，加 200ml 清水，小火加盖炖 20 分钟至鸡肉软嫩。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "小火慢炖，鸡肉才不柴。",
+      "visual_cue": "鸡肉能用筷子轻松分开"
+    },
+    {
+      "n": 6,
+      "text": "开盖加剩余 3g 盐调味，中火收汁 4 分钟，撒香菜碎出锅。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "收到汤汁能挂住鸡块即可。",
+      "visual_cue": "汤汁浓稠、鸡块裹满红亮酱汁"
+    }
+  ],
+  "tips": [
+    "洋葱一定炒到金黄色，这是咖喱香气的底子。",
+    "香料用小火炒，火大几秒钟就发苦。",
+    "酸奶腌鸡至少 20 分钟，肉质明显更嫩。"
+  ],
+  "common_mistakes": [
+    "洋葱只炒到透明就下香料，咖喱味道单薄。",
+    "咖喱粉大火爆炒，整锅带焦苦味。",
+    "炖煮用大火，鸡肉外层散碎里面还硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿",
+      "substitute": "鸡胸肉",
+      "ratio": "800g 对 800g",
+      "note": "炖煮时间缩到 12 分钟。"
+    },
+    {
+      "original": "酸奶",
+      "substitute": "椰浆",
+      "ratio": "100g 对 100ml",
+      "note": "奶香更浓，适合乳糖不耐者少量尝试。"
+    }
+  ],
+  "variations": [
+    "奶油版：起锅前加 50ml 淡奶油。",
+    "菠菜版：加 150g 菠菜泥同炖成深绿咖喱。"
+  ],
+  "serving_suggestion": "配印度香米或馕，旁边放一小碟酸奶。",
+  "storage": "冷藏 3 天，复热时加少量水搅匀。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 420,
+    "protein_g": 34,
+    "fat_g": 24,
+    "carbs_g": 14,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须炖至中心完全变白不渗血水，避免半生。",
+    "含乳制品，乳糖不耐人群请酌情食用。"
+  ],
+  "origin_note": "印度咖喱并没有单一配方，这道洋葱番茄打底的咖喱鸡属于北印度家常做法。洋葱炒到金黄出甜，再与咖喱粉、姜黄、番茄一起熬成浓酱，鸡腿肉吸饱酱汁后软嫩多汁，配香米或馕都很对味。",
+  "tags": [
+    "印度",
+    "咖喱",
+    "鸡肉",
+    "炖菜"
+  ],
+  "related_ids": [
+    "butter-chicken",
+    "naan",
+    "raita"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

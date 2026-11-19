@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dal-tomato-soup",
+  "name": {
+    "zh": "印度番茄扁豆汤",
+    "en": "Tomato Dal Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 35,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扁豆",
+          "name_en": "lentil",
+          "amount": 200,
+          "unit": "g",
+          "note": "洗净浸泡",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "爆香",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "搅拌棒",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "扁豆 200g 用清水淘洗两遍，加 800ml 清水浸泡 20 分钟后连水倒入汤锅。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡过的扁豆更容易煮烂。",
+      "visual_cue": "扁豆吸水膨胀、水略浑浊"
+    },
+    {
+      "n": 2,
+      "text": "汤锅大火煮开后转小火，加盖煮 25 分钟至扁豆完全软烂能压成泥。",
+      "time_min": 26,
+      "heat": "小火",
+      "tip": "煮到用手指一捏就碎才算到位。",
+      "visual_cue": "扁豆开花、汤色发黄"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放 20g 黄油融化，下洋葱丁中火炒 3 分钟至边缘透明。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒透才有甜味，别急着下番茄。",
+      "visual_cue": "洋葱透明、锅底微甜香"
+    },
+    {
+      "n": 4,
+      "text": "加入蒜末、姜末、4g 孜然、3g 姜黄粉与 3g 辣椒粉，小火炒 40 秒出香。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "香料小火炒，火大立刻发苦。",
+      "visual_cue": "香料冒泡、香气浓郁"
+    },
+    {
+      "n": 5,
+      "text": "倒入番茄块炒到软塌出汁，再连汤带豆倒入汤锅，加 6g 盐小火煮 8 分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "番茄炒出红汁，汤色才亮。",
+      "visual_cue": "汤汁橙红、番茄化开"
+    },
+    {
+      "n": 6,
+      "text": "用搅拌棒把汤打成粗泥，回锅煮开，撒香菜碎盛出。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "留一点豆粒口感更好，别打太细。",
+      "visual_cue": "汤体浓稠、能挂住勺背"
+    }
+  ],
+  "tips": [
+    "扁豆一定要煮到软烂，否则口感发硬且不易消化。",
+    "番茄先炒出汁再入汤，酸香更立体。",
+    "打泥时留一点颗粒，口感更有层次。"
+  ],
+  "common_mistakes": [
+    "扁豆没泡直接煮，半小时还是硬的。",
+    "香料用大火爆炒，几秒钟就焦糊发苦。",
+    "盐一次放足又加辣，咸辣盖住豆香。"
+  ],
+  "substitutions": [
+    {
+      "original": "扁豆",
+      "substitute": "鹰嘴豆",
+      "ratio": "200g 对 200g",
+      "note": "需浸泡 6 小时并多煮 10 分钟。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "橄榄油",
+      "ratio": "20g 对 18ml",
+      "note": "素食版更清爽。"
+    }
+  ],
+  "variations": [
+    "椰香版：最后加 100ml 椰浆同煮。",
+    "菠菜版：起锅前放 100g 菠菜烫软。"
+  ],
+  "serving_suggestion": "盛入汤碗，配馕或白饭，挤少许柠檬汁。",
+  "storage": "冷藏 3 天，冷冻 1 个月，复热时加水调稀。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 240,
+    "protein_g": 13,
+    "fat_g": 8,
+    "carbs_g": 30,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆类须彻底煮至软烂熟透，避免半生引起肠胃不适。",
+    "汤品复热须煮至滚沸，避免长时间温放。"
+  ],
+  "origin_note": "这道汤是印度家庭餐桌上的日常主食之一，扁豆煮到开花后与番茄、姜黄、孜然一起熬成一锅浓汤。黄油带来圆润的奶香，番茄提供酸味，最后撒一把香菜碎，配馕或白饭都是一顿踏实的饭。",
+  "tags": [
+    "印度",
+    "汤",
+    "豆类",
+    "素食"
+  ],
+  "related_ids": [
+    "chana-masala",
+    "tomato-shorba",
+    "naan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
