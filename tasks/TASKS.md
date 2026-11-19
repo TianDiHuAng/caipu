@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-19T12:28:38.872Z
+> 生成时间：2026-11-19T12:57:46.094Z
 
-**总览**：工程任务 49/53；菜谱内容 357/3274（10.9%），共 493 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 363/3274（11.1%），共 493 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（211/1339）
+### 中国菜系（214/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，39/107</summary>
 
@@ -123,14 +123,14 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>粤菜 cantonese</b> — A 级，26/122</summary>
+<details><summary><b>粤菜 cantonese</b> — A 级，27/122</summary>
 
 - [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 5
 - [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
 - [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 4
 - [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 3
 - [ ] `P4-cantonese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 2
-- [ ] `P4-cantonese/dessert` 甜点（Dessert）目标 15，已完成 1
+- [ ] `P4-cantonese/dessert` 甜点（Dessert）目标 15，已完成 2
 - [ ] `P4-cantonese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 5
 - [ ] `P4-cantonese/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-cantonese/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
@@ -175,10 +175,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>闽菜 fujian</b> — A 级，9/107</summary>
+<details><summary><b>闽菜 fujian</b> — A 级，10/107</summary>
 
 - [ ] `P4-fujian/soup` 汤羹（Soup）目标 15，已完成 3
-- [ ] `P4-fujian/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 1
+- [ ] `P4-fujian/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
 - [ ] `P4-fujian/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
 - [ ] `P4-fujian/snack` 小吃（Street Food）目标 15，已完成 2
 - [ ] `P4-fujian/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 1
@@ -189,13 +189,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>湘菜 hunan</b> — A 级，19/107</summary>
+<details><summary><b>湘菜 hunan</b> — A 级，20/107</summary>
 
 - [ ] `P4-hunan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 6
 - [ ] `P4-hunan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 2
 - [ ] `P4-hunan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 5
 - [ ] `P4-hunan/appetizer` 前菜（Appetizer）目标 15，已完成 2
-- [ ] `P4-hunan/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 1
+- [ ] `P4-hunan/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 2
 - [ ] `P4-hunan/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-hunan/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-hunan/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
@@ -390,7 +390,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（146/1935）
+### 外国菜系（149/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，15/107</summary>
 
@@ -476,10 +476,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>西班牙菜 spanish</b> — A 级，11/107</summary>
+<details><summary><b>西班牙菜 spanish</b> — A 级，12/107</summary>
 
 - [ ] `P4-spanish/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
-- [ ] `P4-spanish/appetizer` 前菜（Appetizer）目标 15，已完成 1
+- [ ] `P4-spanish/appetizer` 前菜（Appetizer）目标 15，已完成 2
 - [ ] `P4-spanish/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 2
 - [ ] `P4-spanish/dessert` 甜点（Dessert）目标 15，已完成 2
 - [ ] `P4-spanish/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 2
@@ -552,11 +552,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>印度菜 indian</b> — A 级，11/107</summary>
+<details><summary><b>印度菜 indian</b> — A 级，12/107</summary>
 
 - [ ] `P4-indian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 2
 - [ ] `P4-indian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
-- [ ] `P4-indian/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 1
+- [ ] `P4-indian/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 2
 - [ ] `P4-indian/soup` 汤羹（Soup）目标 15，已完成 1
 - [ ] `P4-indian/dessert` 甜点（Dessert）目标 15，已完成 2
 - [ ] `P4-indian/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
@@ -767,10 +767,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>墨西哥菜 mexican</b> — A 级，11/107</summary>
+<details><summary><b>墨西哥菜 mexican</b> — A 级，12/107</summary>
 
 - [ ] `P4-mexican/snack` 小吃（Street Food）目标 15，已完成 2
-- [ ] `P4-mexican/main-meat` 主菜·肉（Meat Main）目标 15，已完成 1
+- [ ] `P4-mexican/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
 - [ ] `P4-mexican/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 2
 - [ ] `P4-mexican/soup` 汤羹（Soup）目标 15，已完成 2
 - [ ] `P4-mexican/drink` 饮品（Drink）目标 15，已完成 2

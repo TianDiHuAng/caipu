@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chili-con-carne",
+  "name": {
+    "zh": "墨西哥辣肉酱",
+    "en": "Chili con Carne"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 75,
+    "total_min": 90
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 600,
+          "unit": "g",
+          "note": "切 2 厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 8,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木铲",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成 2 厘米见方的块，用厨房纸吸干表面血水，撒 2g 盐抓匀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "块别切太小，久炖会缩成碎渣。",
+      "visual_cue": "肉块大小一致、表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅倒 30ml 橄榄油烧热，牛腩块分批下锅煎至四面焦褐，盛出备用。",
+      "time_min": 10,
+      "heat": "中大火",
+      "tip": "分批煎，锅里挤满就变成煮肉了。",
+      "visual_cue": "肉块表面焦褐、锅底留褐色结块"
+    },
+    {
+      "n": 3,
+      "text": "原锅下洋葱丁与青椒丁炒到边缘透明，再放蒜末、5g 孜然与 8g 红椒粉炒香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "香料最后放，早放容易炒糊发苦。",
+      "visual_cue": "洋葱透明、香味扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "倒入番茄块与 60g 番茄酱，压碎炒匀后放回牛腩，加水至刚没过食材。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "水刚没过就好，太多收不浓。",
+      "visual_cue": "汤汁红亮、牛腩半浸在汤中"
+    },
+    {
+      "n": 5,
+      "text": "盖盖转小火炖 50 分钟，中途翻动两次，至牛腩用筷子能轻松插入。",
+      "time_min": 50,
+      "heat": "小火",
+      "tip": "小火慢炖，中途别频繁开盖。",
+      "visual_cue": "筷子能轻松插入肉块"
+    },
+    {
+      "n": 6,
+      "text": "开盖大火收汁 5 分钟，加剩余 4g 盐调味，撒芫荽碎出锅。",
+      "time_min": 6,
+      "heat": "中大火",
+      "tip": "收到汤汁挂在勺背即可停火。",
+      "visual_cue": "汤汁浓稠挂勺、肉块油亮"
+    }
+  ],
+  "tips": [
+    "牛腩先煎出焦香，肉味会厚一层。",
+    "用番茄块加番茄酱双管齐下，颜色和浓度都更稳。",
+    "隔夜再吃味道更融合，第二天更香。"
+  ],
+  "common_mistakes": [
+    "香料跟洋葱一起下锅，炒久了发苦。",
+    "水一次加得太多又没收汁，汤汁寡淡没有肉味。",
+    "一直大火炖煮，牛腩纤维收紧嚼不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "猪肩肉",
+      "ratio": "600g 对 600g",
+      "note": "炖制时间缩短到 35 分钟。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "彩椒",
+      "ratio": "100g 对 100g",
+      "note": "辣度更低，适合小孩。"
+    }
+  ],
+  "variations": [
+    "德式版：加入 200g 熟红豆增稠。",
+    "烟熏版：加 3g 烟熏红椒粉。",
+    "配食版：配玉米饼或白饭一起吃。"
+  ],
+  "serving_suggestion": "盛入深盘，配温热玉米饼、酸奶油与芫荽叶。",
+  "storage": "冷藏可存 3 天，冷冻 1 个月，复热时加少量水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 280g）",
+    "calories_kcal": 430,
+    "protein_g": 32,
+    "fat_g": 26,
+    "carbs_g": 16,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炖至中心完全变色，筷子可穿透，避免半生食用。",
+    "炖煮时锅盖留小缝，避免汤汁沸腾外溢烫伤。"
+  ],
+  "origin_note": "辣肉酱源自墨西哥北部与美国得州的交界地带，最初是牛仔用干辣椒和牛肉慢炖出的便携口粮。番茄、孜然与红椒粉把汤汁染成暗红，牛腩炖到用筷子一戳就散，配玉米饼或白饭都能吃得很满足。",
+  "tags": [
+    "墨西哥",
+    "炖菜",
+    "牛肉",
+    "微辣"
+  ],
+  "related_ids": [
+    "carnitas",
+    "tacos-de-carne",
+    "sopa-de-frijol"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

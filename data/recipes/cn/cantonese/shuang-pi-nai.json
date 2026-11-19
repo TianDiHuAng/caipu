@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shuang-pi-nai",
+  "name": {
+    "zh": "双皮奶",
+    "en": "Double-Skin Milk Pudding"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 800,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蛋清",
+          "name_en": "egg white",
+          "amount": 4,
+          "unit": "piece",
+          "note": "约 130g",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 45,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小奶锅",
+    "蒸锅",
+    "4 只小碗",
+    "滤网",
+    "筷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "800ml 全脂牛奶倒入奶锅，中小火加热到锅边冒小泡即关火，不要煮沸。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "别煮沸，否则表面结不出完整奶皮。",
+      "visual_cue": "奶面微微冒气、边缘起细泡"
+    },
+    {
+      "n": 2,
+      "text": "趁热把牛奶分别倒入 4 只小碗，静置放凉 15 分钟，表面结成一层薄奶皮。",
+      "time_min": 16,
+      "heat": "无火",
+      "tip": "静置时别晃动碗，奶皮才平整。",
+      "visual_cue": "奶面结出完整薄膜、边缘略皱"
+    },
+    {
+      "n": 3,
+      "text": "4 个蛋清加 45g 白糖，用筷子轻搅至糖化开，注意不要打出泡沫。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "只搅不打，起泡会让成品粗糙。",
+      "visual_cue": "糖完全溶解、蛋清清亮无泡"
+    },
+    {
+      "n": 4,
+      "text": "用筷子在奶皮边缘划开小口，把碗里的牛奶缓缓倒回蛋清中，留奶皮在碗底。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "动作要慢，奶皮留在碗里别倒出去。",
+      "visual_cue": "碗底奶皮完整、牛奶倒尽"
+    },
+    {
+      "n": 5,
+      "text": "蛋奶液过筛两遍去掉浮沫，再沿着碗边缓缓倒回碗中，让奶皮重新浮起。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "过筛两次，成品才细腻无孔。",
+      "visual_cue": "液面平整、奶皮浮在表面"
+    },
+    {
+      "n": 6,
+      "text": "碗口盖保鲜膜并用牙签扎 3 个小孔，水开后中小火蒸 12 分钟，关火焖 5 分钟。",
+      "time_min": 18,
+      "heat": "中小火",
+      "tip": "中小火蒸，火大表面会起蜂窝。",
+      "visual_cue": "轻晃碗中心微微颤动、表面光滑"
+    }
+  ],
+  "tips": [
+    "必须用全脂牛奶，脂肪不足结不出厚奶皮。",
+    "蛋清只搅不打，泡沫多成品就不嫩。",
+    "蒸好后焖 5 分钟再开盖，避免塌陷。"
+  ],
+  "common_mistakes": [
+    "牛奶煮到沸腾，蛋白质变性结不出奶皮。",
+    "蒸的时候火太大，表面全是蜂窝孔。",
+    "蛋清搅出大量泡沫，成品口感粗糙。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "水牛奶",
+      "ratio": "800ml 对 800ml",
+      "note": "奶皮更厚，糖可减 5g。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "冰糖",
+      "ratio": "45g 对 50g",
+      "note": "需先碾碎再拌。"
+    }
+  ],
+  "variations": [
+    "红豆版：表面铺 60g 蜜红豆同蒸。",
+    "姜汁版：碗底先放 15ml 姜汁再倒蛋奶液。"
+  ],
+  "serving_suggestion": "温热或冷藏后食用，表面可撒少许蜜红豆。",
+  "storage": "冷藏 2 天内吃完，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "每份（约 240g）",
+    "calories_kcal": 210,
+    "protein_g": 10,
+    "fat_g": 9,
+    "carbs_g": 23,
+    "sodium_mg": 110,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含牛奶与蛋类，过敏人群请避开。",
+    "蛋奶液须蒸至中心凝固，避免生蛋液食用。"
+  ],
+  "origin_note": "双皮奶是广东顺德的传统甜品，靠牛奶两次结皮而得名：先蒸出第一层奶皮，倒出牛奶与蛋清混合后再倒回，蒸好后表面又结一层。成品上层微皱、下层滑嫩，奶香浓而不腻，是广式糖水铺的招牌。",
+  "tags": [
+    "粤菜",
+    "甜品",
+    "牛奶",
+    "顺德"
+  ],
+  "related_ids": [
+    "jiang-zhuang-nai",
+    "xiajiao",
+    "baozaifan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

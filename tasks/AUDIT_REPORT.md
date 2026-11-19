@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T12:30:57.471Z
+- 生成时间：2026-11-19T12:57:39.868Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 42 道，平均分 97
 - 需重写（C/D）：0 道
@@ -28,7 +28,7 @@
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | bouillabaisse | 100 | A | 无 |
-| fujian | fuzhou-yuwan | 93 | A | 准确性 18/25 |
+| fujian | haili-bing | 100 | A | 无 |
 | german | wiener-schnitzel | 100 | A | 无 |
 | greek | greek-roast-vegetable-salad | 100 | A | 无 |
 | hakka | kejia-chao-mifen | 93 | A | 准确性 18/25 |
@@ -50,7 +50,7 @@
 | shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
 | sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
 | sichuan | gongbao-jiding | 100 | A | 无 |
-| spanish | paella-valenciana | 94 | A | 安全性 14/20 |
+| spanish | gazpacho | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
 | thai | pad-thai | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |

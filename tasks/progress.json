@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T12:28:38.803Z",
+  "generatedAt": "2026-11-19T12:57:46.033Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 493,
     "target": 3274,
-    "actual": 357,
-    "coverage": 0.10904092852779475
+    "actual": 363,
+    "coverage": 0.1108735491753207
   },
   "regions": {
     "cn": [
@@ -322,7 +322,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 26,
+        "actual": 27,
         "cells": [
           {
             "category": "main-seafood",
@@ -385,9 +385,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "jiang-zhuang-nai"
+              "jiang-zhuang-nai",
+              "shuang-pi-nai"
             ]
           },
           {
@@ -704,7 +705,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "soup",
@@ -721,9 +722,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "baizhuo-xiaoguan"
+              "baizhuo-xiaoguan",
+              "suanxiang-chao-huage"
             ]
           },
           {
@@ -791,7 +793,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 19,
+        "actual": 20,
         "cells": [
           {
             "category": "main-meat",
@@ -844,9 +846,10 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "duo-lajiao"
+              "duo-lajiao",
+              "hunan-suan-doujiao"
             ]
           },
           {
@@ -2546,7 +2549,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-seafood",
@@ -2562,8 +2565,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "calamares-fritos",
               "tortilla-espanola"
             ]
           },
@@ -2953,7 +2957,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2978,8 +2982,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "aloo-paratha",
               "naan"
             ]
           },
@@ -4110,7 +4115,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "snack",
@@ -4126,9 +4131,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "carnitas"
+              "carnitas",
+              "chili-con-carne"
             ]
           },
           {
