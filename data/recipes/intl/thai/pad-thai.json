@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "pad-thai",
+  "name": {
+    "zh": "泰式炒河粉",
+    "en": "Pad Thai"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 15,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "sour",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "河粉",
+          "name_en": "flat rice noodles",
+          "amount": 240,
+          "unit": "g",
+          "note": "干河粉，宽约 5mm",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去壳留尾，挑净虾线",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "打散成蛋液",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 120,
+          "unit": "g",
+          "note": "掐去根须",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 40,
+          "unit": "g",
+          "note": "烤香",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "切角",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 20,
+          "unit": "g",
+          "note": "取罗望子酱",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "椰糖",
+          "name_en": "palm sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "回甜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "分两次炒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "漏勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干河粉用温水浸泡 20 分钟至软而有韧性，捞出沥干水分备用。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡到能弯折不断就够了，别泡烂。",
+      "visual_cue": "粉条柔软、弯折不断"
+    },
+    {
+      "n": 2,
+      "text": "罗望子用 30ml 温水抓洗取汁，加鱼露与椰糖搅成酸甜酱汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "先尝酱汁，酸甜要平衡。",
+      "visual_cue": "酱汁均匀、无糖粒"
+    },
+    {
+      "n": 3,
+      "text": "大虾挑净虾线，豆芽掐根洗净，香菜切段，青柠切成四角。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "虾线一定挑干净，否则腥味重。",
+      "visual_cue": "虾身完整、配菜齐备"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒 20ml 植物油烧热，中火把大虾炒到变红卷曲后盛出。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "虾先炒后回锅，肉质才不老。",
+      "visual_cue": "虾身通红、微微卷曲"
+    },
+    {
+      "n": 5,
+      "text": "锅中再加 20ml 植物油，倒入蛋液炒散，下河粉大火快速翻炒 2 分钟。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "河粉下锅后少翻多推，不易断。",
+      "visual_cue": "粉条透亮、蛋块散开"
+    },
+    {
+      "n": 6,
+      "text": "淋入酸甜酱汁快速翻匀，回锅大虾与豆芽，撒花生碎与香菜，配青柠角上桌。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "酱汁下锅后动作要快，粉条易糊。",
+      "visual_cue": "粉条均匀上色、豆芽仍脆"
+    }
+  ],
+  "tips": [
+    "河粉泡到软而不烂，炒时才不断条。",
+    "酸甜酱汁先调好尝味，比边炒边调更稳。",
+    "豆芽最后下锅，才能保持脆口不出一盘水。"
+  ],
+  "common_mistakes": [
+    "河粉泡过头，下锅一炒就碎成糊。",
+    "酱汁一次倒太多，粉条变成汤粉。",
+    "虾仁与粉条同炒太久，虾肉发硬变柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "大虾",
+      "substitute": "鸡胸肉",
+      "ratio": "150g 对 150g",
+      "note": "鸡肉切条先炒熟，时间加 1 分钟。"
+    },
+    {
+      "original": "罗望子",
+      "substitute": "青柠汁加红糖",
+      "ratio": "20g 对 30ml 加 15g",
+      "note": "酸味更直白，糖量略减。"
+    }
+  ],
+  "variations": [
+    "素食版：省去大虾与鱼露，用酱油与香菇提鲜。",
+    "加辣版：出锅前加 5g 辣椒粉同炒。"
+  ],
+  "storage": "冷藏 1 天，复热用炒锅大火回炒 1 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 260g）",
+    "calories_kcal": 540,
+    "protein_g": 22,
+    "fat_g": 18,
+    "carbs_g": 72,
+    "sodium_mg": 1060,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "fish",
+    "peanut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "大虾需炒至完全变红熟透，避免半生食用。",
+    "鸡蛋液下锅需炒散炒熟，避免溏心。",
+    "花生碎属常见致敏食物，过敏者可省略。",
+    "鱼露含鱼类成分，鱼类过敏人群需替换。"
+  ],
+  "origin_note": "泰式炒河粉是曼谷街头最有名的国民小吃，用罗望子的酸、椰糖的甜与鱼露的咸调出平衡，再配上花生碎与青柠，一口就是东南亚的夏天。",
+  "tags": [
+    "泰式",
+    "河粉",
+    "街头小吃",
+    "酸甜"
+  ],
+  "related_ids": [
+    "tom-yum-goong",
+    "thai-green-curry-chicken",
+    "pho-bo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19",
+  "serving_suggestion": "上桌后挤上青柠汁拌匀，酸甜味立刻打开。"
+}

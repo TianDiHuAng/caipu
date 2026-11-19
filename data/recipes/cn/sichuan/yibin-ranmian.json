@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yibin-ranmian",
+  "name": {
+    "zh": "宜宾燃面",
+    "en": "Yibin Burning Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 2,
+  "flavor": [
+    "spicy",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "拉面",
+          "name_en": "ramen noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "半干碱水面，抖散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "芽菜",
+          "name_en": "preserved mustard sprout",
+          "amount": 40,
+          "unit": "g",
+          "note": "宜宾碎米芽菜",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒香去皮",
+          "optional": false
+        },
+        {
+          "name": "熟白芝麻",
+          "name_en": "toasted white sesame",
+          "amount": 10,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "拌面与泼油",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "底味",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "粗辣椒面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "拌面用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "面碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "碎米芽菜用清水漂洗 5 分钟，挤干水分后切成细末备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "芽菜偏咸，冲洗能去掉多余盐分。",
+      "visual_cue": "芽菜末松散不结团"
+    },
+    {
+      "n": 2,
+      "text": "炒锅不放油，小火把芽菜末慢慢炒干水分，炒到有干香时盛出。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "不放油干炒，芽菜才有脆香不回潮。",
+      "visual_cue": "芽菜发干、香气明显"
+    },
+    {
+      "n": 3,
+      "text": "锅中另下花生碎与熟白芝麻，小火焙到微微冒香后盛出放凉。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "花生碎极易糊，闻到香就关火。",
+      "visual_cue": "花生碎边缘微黄、芝麻跳动"
+    },
+    {
+      "n": 4,
+      "text": "汤锅水烧开，碱水面抖散下锅煮 2 分钟至刚断生。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "碱水面只煮断生，后面还要拌。",
+      "visual_cue": "碱水面浮起、掐断无白心"
+    },
+    {
+      "n": 5,
+      "text": "碱水面捞出甩干水分，趁热加植物油、生抽与盐拌匀抖散。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "甩干水分是不粘不坨的关键。",
+      "visual_cue": "碱水面根根松散发亮"
+    },
+    {
+      "n": 6,
+      "text": "面上铺芽菜末、辣椒粉、花生碎与芝麻，浇一勺烧到冒烟的热油，撒葱花拌开。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "热油泼辣椒粉时才出红亮油香。",
+      "visual_cue": "红油渗出、香气冲鼻"
+    }
+  ],
+  "tips": [
+    "碱水面煮好必须甩干水分，拌时才不坨。",
+    "芽菜干炒去水分，吃起来才够脆香。",
+    "热油要烧到微微冒烟，辣椒香气才炸得开。"
+  ],
+  "common_mistakes": [
+    "碱水面带水下锅拌，成品黏成一坨。",
+    "芽菜不洗直接下锅，整碗面咸到发苦。",
+    "辣椒粉用温油泼，香味出不来只有生辣。"
+  ],
+  "substitutions": [
+    {
+      "original": "碱水面",
+      "substitute": "细水面",
+      "ratio": "300g 对 300g",
+      "note": "细面易断，煮的时间减 30 秒。"
+    },
+    {
+      "original": "芽菜",
+      "substitute": "榨菜碎",
+      "ratio": "40g 对 40g",
+      "note": "榨菜更咸，需多漂洗一次。"
+    }
+  ],
+  "variations": [
+    "加肉臊版：拌面时加 60g 炒香的肉末，风味更足。",
+    "全素版：省去生抽，用香菇粉提鲜。"
+  ],
+  "storage": "芽菜臊子可冷藏 3 天，碱水面现煮现拌。",
+  "nutrition_estimate": {
+    "basis": "每份（约 240g）",
+    "calories_kcal": 620,
+    "protein_g": 16,
+    "fat_g": 26,
+    "carbs_g": 78,
+    "sodium_mg": 890,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "面条煮制需完全断生，避免半生的碱水面刺激肠胃。",
+    "泼热油时油温极高，碗中不可有水，防止爆溅。",
+    "花生属常见致敏食物，过敏者可换成瓜子仁。"
+  ],
+  "origin_note": "宜宾燃面得名于油重无水、点火即燃，用碎米芽菜、花生碎与红油把一碗干拌面做得香气逼人，是川南早餐摊上的招牌。",
+  "tags": [
+    "川菜",
+    "面食",
+    "干拌",
+    "宜宾"
+  ],
+  "related_ids": [
+    "dandan-mian",
+    "sichuan-liangmian",
+    "yangchun-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19",
+  "serving_suggestion": "拌好后立刻吃，碱水面放久会吸油发干。"
+}

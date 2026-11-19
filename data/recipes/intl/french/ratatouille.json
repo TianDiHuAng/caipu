@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "ratatouille",
+  "name": {
+    "zh": "普罗旺斯炖菜",
+    "en": "Ratatouille"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 75,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "savory",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 400,
+          "unit": "g",
+          "note": "切 1cm 圆片",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 400,
+          "unit": "g",
+          "note": "切 1cm 圆片",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 500,
+          "unit": "g",
+          "note": "一半切块一半切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "红椒",
+          "name_en": "red bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 8,
+          "unit": "g",
+          "note": "新鲜叶片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "分三次使用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "烤盘",
+    "烤箱",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子切成 1cm 圆片，撒少许盐静置 10 分钟后挤去水分，避免烤后出水。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "茄子先杀水，成品才不会稀软。",
+      "visual_cue": "茄片表面见水珠、按压回弹"
+    },
+    {
+      "n": 2,
+      "text": "西葫芦切圆片，番茄一半切块一半切片，彩椒与洋葱切丝，大蒜切末。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "切片厚薄一致，摆盘才整齐好看。",
+      "visual_cue": "切片均匀、约一枚硬币厚"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒 20ml 橄榄油，中火把茄片煎到两面微黄后盛出。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "茄子吸油，煎之前先擦干表面。",
+      "visual_cue": "两面金黄、片身挺括"
+    },
+    {
+      "n": 4,
+      "text": "锅中再倒 20ml 橄榄油，下洋葱与彩椒丝中火炒 5 分钟至软塌出甜味。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒到透明，甜味才出来。",
+      "visual_cue": "洋葱透明、体积缩小"
+    },
+    {
+      "n": 5,
+      "text": "加蒜末与番茄块翻炒，加 3g 盐与白胡椒，小火煮 15 分钟收成浓稠番茄酱。",
+      "time_min": 17,
+      "heat": "小火",
+      "tip": "小火慢煮，番茄酱才浓稠不涩。",
+      "visual_cue": "酱汁浓稠、能挂住勺背"
+    },
+    {
+      "n": 6,
+      "text": "烤盘底部铺一层番茄酱，茄片与西葫芦片交错叠放成螺旋状，淋剩余 20ml 橄榄油。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "叠放要紧密，烤时才不塌陷。",
+      "visual_cue": "螺旋排列整齐、表面见油光"
+    },
+    {
+      "n": 7,
+      "text": "盖上锡纸放入预热 180℃ 烤箱烤 35 分钟，出炉揭开锡纸撒罗勒叶。",
+      "time_min": 37,
+      "heat": "无火",
+      "tip": "先盖锡纸保水，后开盖收干表面。",
+      "visual_cue": "蔬菜软透、罗勒遇热出香"
+    }
+  ],
+  "tips": [
+    "茄子先盐渍杀水，烤完才不出一盘汤。",
+    "番茄底酱要小火熬浓，铺底才有味道。",
+    "最后 10 分钟开盖烤，表面收干更香。"
+  ],
+  "common_mistakes": [
+    "蔬菜切片厚薄不一，烤制时生熟不匀。",
+    "番茄酱熬得太稀，成品出汤变成炖菜。",
+    "全程盖着锡纸烤，蔬菜水汽重、香味出不来。"
+  ],
+  "substitutions": [
+    {
+      "original": "西葫芦",
+      "substitute": "黄瓜",
+      "ratio": "400g 对 400g",
+      "note": "黄瓜水分多，烤制时间减 8 分钟。"
+    },
+    {
+      "original": "罗勒",
+      "substitute": "百里香",
+      "ratio": "8g 对 3g",
+      "note": "干香草味浓，用量减半。"
+    }
+  ],
+  "variations": [
+    "家常版：全部切丁同锅炖 30 分钟，省去摆盘。",
+    "加芝士版：出炉前撒 60g 帕玛森芝士烤 8 分钟。"
+  ],
+  "storage": "冷藏 3 天，复热后风味更融合，冷食也适合。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 205,
+    "protein_g": 4,
+    "fat_g": 15,
+    "carbs_g": 16,
+    "sodium_mg": 630,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "烤箱取放烤盘需戴隔热手套，避免烫伤。",
+    "茄子盐渍后需挤干水分，防止烤盘内积汤。",
+    "剩菜复热需彻底加热至中心滚烫。"
+  ],
+  "origin_note": "普罗旺斯炖菜是法国南部的农家菜，把茄子、西葫芦与番茄用橄榄油慢慢炖透，冷热皆宜，也是电影里那道让食客惊艳的蔬菜料理。",
+  "tags": [
+    "法餐",
+    "蔬菜",
+    "烤箱",
+    "素食"
+  ],
+  "related_ids": [
+    "pomodoro-pasta",
+    "bruschetta",
+    "french-onion-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19",
+  "serving_suggestion": "温热时配法棍面包或作为烤肉的配菜上桌。"
+}
