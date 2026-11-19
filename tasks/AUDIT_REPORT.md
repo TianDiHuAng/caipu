@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T05:36:33.510Z
+- 生成时间：2026-11-19T05:53:42.212Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：32 个，抽样 34 道，平均分 96
 - 需重写（C/D）：0 道
@@ -34,7 +34,7 @@
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | shousi-baocai | 100 | A | 无 |
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
-| italian | chicken-cacciatore | 93 | A | 准确性 18/25 |
+| italian | bruschetta | 93 | A | 准确性 18/25 |
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
 | jiangsu | yangzhou-chaofan | 100 | A | 无 |
 | korean | dolsot-bibimbap | 93 | A | 准确性 18/25 |

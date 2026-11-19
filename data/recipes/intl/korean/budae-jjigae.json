@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "budae-jjigae",
+  "name": {
+    "zh": "部队锅",
+    "en": "Army Stew"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "hotpot-bbq"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "salty",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "午餐肉",
+          "name_en": "luncheon meat",
+          "amount": 200,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "泡菜",
+          "name_en": "kimchi",
+          "amount": 200,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "年糕",
+          "name_en": "rice cake",
+          "amount": 150,
+          "unit": "g",
+          "note": "条状年糕",
+          "optional": false
+        },
+        {
+          "name": "方便面",
+          "name_en": "instant noodles",
+          "amount": 1,
+          "unit": "piece",
+          "note": "只留面饼",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 200,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "掐去根须",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 50,
+          "unit": "g",
+          "note": "切片芝士",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "韩式辣酱",
+          "name_en": "Korean chili paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "调味主体",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "粗辣椒面",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "汤勺",
+    "筷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "午餐肉切 0.5cm 厚片，豆腐切厚片，泡菜切段，年糕冲洗后分开。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "年糕冲洗掉表面黏粉，煮时才不粘连。",
+      "visual_cue": "片状整齐、年糕条分离"
+    },
+    {
+      "n": 2,
+      "text": "方便面去掉调料包只留面饼，豆芽洗净掐去根须备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "面饼最后放，久煮就糊成团。",
+      "visual_cue": "面饼完整、豆芽干净"
+    },
+    {
+      "n": 3,
+      "text": "韩式辣酱、辣椒面与生抽加 100ml 清水调匀成酱汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "先调开酱料，汤底才不结块。",
+      "visual_cue": "酱汁顺滑、不见干料结块"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒剩余清水烧开，下酱汁搅匀后放泡菜与午餐肉。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水开再下酱，辣味更融。",
+      "visual_cue": "汤色红亮、泡菜香出"
+    },
+    {
+      "n": 5,
+      "text": "下豆腐、年糕与豆芽中火煮 8 分钟，再放面饼煮 3 分钟。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "面饼煮 3 分钟就够，久了没口感。",
+      "visual_cue": "年糕软糯、面饼散开"
+    },
+    {
+      "n": 6,
+      "text": "表面铺芝士片，加盖焖 2 分钟至融化，撒蒜末即可开吃。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "芝士融化能柔化辣味，别省。",
+      "visual_cue": "芝士拉丝、汤面微沸"
+    }
+  ],
+  "tips": [
+    "面饼最后下锅，三分钟就够软而不断。",
+    "芝士融化后能减轻辣度，口味更圆润。",
+    "汤底用清水即可，泡菜与辣酱已够味。"
+  ],
+  "common_mistakes": [
+    "面饼一开始就下锅，煮成一锅烂糊。",
+    "辣酱直接丢进汤里，结块化不开。",
+    "芝士放太早，长时间煮后油水分离。"
+  ],
+  "substitutions": [
+    {
+      "original": "午餐肉",
+      "substitute": "火腿肠",
+      "ratio": "200g 对 200g",
+      "note": "火腿肠更咸，生抽减 5ml。"
+    },
+    {
+      "original": "芝士",
+      "substitute": "马苏里拉芝士碎",
+      "ratio": "50g 对 60g",
+      "note": "拉丝效果更好。"
+    }
+  ],
+  "variations": [
+    "海鲜版：加 150g 蛤蜊与 6 只虾，鲜味更足。",
+    "牛肉版：加 150g 肥牛片，涮 30 秒即可。"
+  ],
+  "serving_suggestion": "边煮边吃，先吃面再喝汤，最后用汤汁拌饭。",
+  "storage": "不建议隔夜，年糕与面回热后口感尽失。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 470,
+    "protein_g": 18,
+    "fat_g": 22,
+    "carbs_g": 50,
+    "sodium_mg": 1250,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "milk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "午餐肉与豆腐需煮透，汤底保持沸腾状态。",
+    "蛤蜊或虾等海鲜需完全熟透再食用。",
+    "年糕黏性强，儿童食用需切小块防噎。"
+  ],
+  "origin_note": "部队锅诞生于韩国战后，把美军物资里的午餐肉、香肠配上泡菜与辣酱煮成一锅，如今成了最有烟火气的国民火锅。",
+  "tags": [
+    "韩式",
+    "火锅",
+    "泡菜",
+    "聚餐"
+  ],
+  "related_ids": [
+    "dwaeji-gukbap",
+    "gimbap",
+    "tempura"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:36:32.762Z",
+  "generatedAt": "2026-11-19T05:53:41.228Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 469,
+    "cells": 470,
     "target": 3274,
-    "actual": 214,
-    "coverage": 0.06536346976175932
+    "actual": 220,
+    "coverage": 0.06719609040928527
   },
   "regions": {
     "cn": [
@@ -23,14 +23,15 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 37,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
+              "fenzheng-rou",
               "huiguo-rou",
               "maoxuewang",
               "mapo-doufu",
@@ -303,7 +304,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 23,
+        "actual": 24,
         "cells": [
           {
             "category": "main-seafood",
@@ -373,12 +374,13 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "baizhuo-jielan",
               "haoyou-shengcai",
               "suanrong-caixin",
-              "suanrong-xilanhua"
+              "suanrong-xilanhua",
+              "xianyu-qiezi-bao"
             ]
           },
           {
@@ -430,14 +432,15 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 18,
+        "actual": 19,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "qingchao-xiaren",
               "qingzheng-dazhaxie",
               "songshu-guiyu"
             ]
@@ -968,7 +971,7 @@
         "en": "Beijing",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "main-meat",
@@ -1024,6 +1027,15 @@
             "actual": 1,
             "ids": [
               "culiu-muxu"
+            ]
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "tangsanceng"
             ]
           }
         ]
@@ -1990,7 +2002,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-meat",
@@ -2069,8 +2081,9 @@
             "category": "hotpot-bbq",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "budae-jjigae",
               "kimchi-jjigae"
             ]
           },
@@ -2174,7 +2187,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "staple-bread",
@@ -2242,8 +2255,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "bolognese",
               "pomodoro-pasta"
             ]
           }

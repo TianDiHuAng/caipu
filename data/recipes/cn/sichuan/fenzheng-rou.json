@@ -1,0 +1,239 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fenzheng-rou",
+  "name": {
+    "zh": "粉蒸肉",
+    "en": "Steamed Pork with Rice Flour"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 60,
+    "total_min": 90
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 600,
+          "unit": "g",
+          "note": "带皮，肥瘦相间",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蒸肉米粉",
+          "name_en": "steamed rice flour",
+          "amount": 100,
+          "unit": "g",
+          "note": "粗粒型更松散",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "去皮切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "略压碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "腌肉",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "补底味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸笼",
+    "蒸碗",
+    "炒锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉洗净擦干，切成 0.5cm 厚的宽片，肥瘦相连不要切断。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肉片别切太薄，蒸过之后容易发柴。",
+      "visual_cue": "肉片厚薄均匀、肥瘦相连"
+    },
+    {
+      "n": 2,
+      "text": "肉片加姜末、料酒、生抽、豆瓣酱与盐抓匀，腌 15 分钟入味。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "抓拌到酱汁吸干，味道才进得去。",
+      "visual_cue": "肉片吸匀酱汁、颜色变深"
+    },
+    {
+      "n": 3,
+      "text": "蒸肉米粉与花椒碎拌匀，把腌好的肉片逐片裹上一层干粉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "粉裹薄薄一层，太厚蒸后发干。",
+      "visual_cue": "每片肉挂满干粉、不见湿面"
+    },
+    {
+      "n": 4,
+      "text": "土豆去皮切滚刀块铺在蒸碗底部，肉片一片压一片码在上面。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "土豆垫底吸油，比肉还好吃。",
+      "visual_cue": "肉片整齐码放、土豆垫在碗底"
+    },
+    {
+      "n": 5,
+      "text": "蒸锅水烧开，大火蒸 45 分钟至肉片软糯，关火再焖 5 分钟，出锅撒小葱。",
+      "time_min": 50,
+      "heat": "大火",
+      "tip": "中途不揭盖，蒸汽足了肉才糯。",
+      "visual_cue": "肉片透亮、筷子能轻松插入"
+    }
+  ],
+  "tips": [
+    "肉片切到 0.5cm 厚，蒸后软糯不柴。",
+    "米粉裹薄薄一层就够，厚了口感发干。",
+    "出锅前撒一把小葱，香气更清爽解腻。"
+  ],
+  "common_mistakes": [
+    "肉片切得太薄，蒸完缩成硬邦邦一片。",
+    "米粉裹得过厚，成品发干没有油润感。",
+    "冷水上锅慢蒸，肉片久蒸不烂还出水。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "排骨",
+      "ratio": "600g 对 700g",
+      "note": "排骨需多蒸 15 分钟。"
+    },
+    {
+      "original": "蒸肉米粉",
+      "substitute": "大米炒香磨粉",
+      "ratio": "100g 对 100g",
+      "note": "自磨粉颗粒粗，更松散。"
+    }
+  ],
+  "variations": [
+    "加南瓜版：土豆换南瓜 300g，甜糯解腻。",
+    "麻辣版：另加 5g 辣椒面与米粉同拌。"
+  ],
+  "serving_suggestion": "连碗上桌，配米饭吃，碗底的土豆最受欢迎。",
+  "storage": "冷藏 2 天，复蒸 15 分钟回软，风味几乎不变。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 520,
+    "protein_g": 18,
+    "fat_g": 38,
+    "carbs_g": 26,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉需蒸至完全熟透，中心不见血色。",
+    "蒸制时蒸锅水位要足，避免干烧。",
+    "生肉与熟食砧板分开使用，防止交叉污染。"
+  ],
+  "origin_note": "粉蒸肉是川渝人家待客的常备菜，用炒香的米粉裹住五花肉上笼慢蒸，肉香混着米香，软糯到入口即化。",
+  "tags": [
+    "川菜",
+    "蒸菜",
+    "五花肉",
+    "下饭"
+  ],
+  "related_ids": [
+    "mapo-doufu",
+    "huiguo-rou",
+    "yuxiang-rousi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

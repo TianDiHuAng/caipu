@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "qingchao-xiaren",
+  "name": {
+    "zh": "清炒虾仁",
+    "en": "Stir-fried Shrimp"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 10,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 350,
+          "unit": "g",
+          "note": "鲜虾剥仁，挑净虾线",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "只取蛋清",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 5,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "上浆",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "滑炒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "分两次用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾仁挑净虾线，用清水冲洗两遍后挤干水分，摊在厨房纸上吸干。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "虾仁要彻底吸干，上浆才挂得住。",
+      "visual_cue": "虾仁干爽、无残留虾线"
+    },
+    {
+      "n": 2,
+      "text": "虾仁加料酒、白胡椒、1g 盐与玉米淀粉抓匀，腌 10 分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌到虾仁表面发黏，口感更弹。",
+      "visual_cue": "虾仁表面挂一层薄浆"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋磕开只取蛋清打散，拌入虾仁静置 2 分钟备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蛋清能让虾仁更滑嫩洁白。",
+      "visual_cue": "蛋清均匀包裹虾仁"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒 40ml 植物油烧至四成热，下虾仁中火滑炒 40 秒至变色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "油温四成，虾仁才不会卷成硬团。",
+      "visual_cue": "虾仁泛白微卷、油面清亮"
+    },
+    {
+      "n": 5,
+      "text": "加剩余盐调味，撒小葱段与姜末翻匀后立刻出锅装盘。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "虾仁一变色就起锅，久炒会柴。",
+      "visual_cue": "虾仁油亮、葱段翠绿"
+    }
+  ],
+  "tips": [
+    "虾仁洗净后要吸干水，上浆才牢。",
+    "油温控制在四成热，虾仁才滑嫩不卷。",
+    "起锅动作要快，虾仁炒久了口感发柴。"
+  ],
+  "common_mistakes": [
+    "虾仁没吸干水上浆，下锅脱浆出水。",
+    "油温过高下锅，虾仁瞬间卷成硬球。",
+    "锅裡加水煮虾仁，鲜味全跑到汤里。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "冷冻虾仁",
+      "ratio": "350g 对 350g",
+      "note": "解冻后需彻底吸干水分。"
+    },
+    {
+      "original": "鸡蛋",
+      "substitute": "玉米淀粉加清水",
+      "ratio": "1 个对 15ml",
+      "note": "浆感稍薄，口感略逊。"
+    }
+  ],
+  "variations": [
+    "龙井版：用 50ml 龙井茶水代替料酒，更清雅。",
+    "加豌豆版：加 80g 焯熟豌豆同炒，配色好看。"
+  ],
+  "serving_suggestion": "趁热上桌，配一碗白米饭最能吃出虾仁的清甜。",
+  "storage": "冷藏不超过 1 天，复热用中火快炒 1 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 190,
+    "protein_g": 24,
+    "fat_g": 9,
+    "carbs_g": 4,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁需炒至完全变色熟透，避免半生。",
+    "虾属常见过敏原，过敏人群避免食用。",
+    "生虾接触过的砧板需彻底清洗再切熟食。"
+  ],
+  "origin_note": "清炒虾仁是淮扬菜里最难做的一道，全靠油温与上浆，虾仁要白、要嫩、要弹，不加多余配料，吃的就是一口清鲜。",
+  "tags": [
+    "苏菜",
+    "淮扬",
+    "虾仁",
+    "快手"
+  ],
+  "related_ids": [
+    "dazhu-gansi",
+    "shizitou",
+    "wensi-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
