@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "churros",
+  "name": {
+    "zh": "西班牙吉事果",
+    "en": "Churros"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "中筋粉",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "note": "煮面糊",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "裹面用",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "面糊用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炸制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "奶锅",
+    "裱花袋",
+    "星形花嘴",
+    "深锅",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "奶锅倒 240ml 牛奶，加 30g 黄油与 2g 盐，中火加热至黄油完全融化并微微冒泡。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "牛奶别煮沸，冒泡就要离火。",
+      "visual_cue": "牛奶表面细密气泡、黄油融化"
+    },
+    {
+      "n": 2,
+      "text": "离火倒入 200g 面粉，用木铲快速拌成不粘锅的团，再回小火翻炒 1 分钟。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "炒掉多余水分，面团才够筋道。",
+      "visual_cue": "面团成团、锅底结一层薄膜"
+    },
+    {
+      "n": 3,
+      "text": "面团稍凉后分两次加入打散的鸡蛋，每次都拌到完全吸收。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋液分次加，面糊才不分离。",
+      "visual_cue": "面糊顺滑、能挂住木铲不掉"
+    },
+    {
+      "n": 4,
+      "text": "面糊装入套星形花嘴的裱花袋，深锅倒 250ml 植物油烧到 170 度。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "筷子插入冒小泡即为合适油温。",
+      "visual_cue": "油面微微起烟、花嘴挤出顺滑"
+    },
+    {
+      "n": 5,
+      "text": "挤入约 12 厘米长的面糊段，用剪刀剪断，中小火炸 3 分钟至金黄，翻面再炸 2 分钟。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "下锅别挤太密，留出膨胀空间。",
+      "visual_cue": "表面金黄、棱纹清晰"
+    },
+    {
+      "n": 6,
+      "text": "捞出沥油 1 分钟，趁热在 60g 白糖里滚一圈，装盘即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热裹糖，糖才粘得牢。",
+      "visual_cue": "表面均匀裹糖、外脆内软"
+    }
+  ],
+  "tips": [
+    "面糊要炒到锅底结膜，水分足炸时才不吸油。",
+    "油温保持 170 度左右，过低会塌、过高会焦。",
+    "趁热裹白糖，糖粒才挂得均匀不脱落。"
+  ],
+  "common_mistakes": [
+    "面粉直接倒进热牛奶里久煮，面团结块搅不开。",
+    "油温太低就下锅，吉事果吸满油变软。",
+    "一次挤太多进锅，全部粘成一团。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "240ml 对 240ml",
+      "note": "口感更脆，奶香变淡。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "玉米油",
+      "ratio": "30g 对 25ml",
+      "note": "面糊稍软，可多加 10g 面粉。"
+    }
+  ],
+  "variations": [
+    "巧克力版：配一杯浓巧克力蘸食。",
+    "肉桂版：白糖里拌入 5g 肉桂粉。"
+  ],
+  "serving_suggestion": "趁热装盘，配一杯热巧克力或咖啡蘸食。",
+  "storage": "现炸现吃，放凉后可烤箱 160 度回脆 5 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 130g）",
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。",
+    "calories_kcal": 420,
+    "protein_g": 7,
+    "fat_g": 22,
+    "carbs_g": 50,
+    "sodium_mg": 230
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含面粉、牛奶与鸡蛋过敏原；面糊须炸至内部无生浆，中心熟透。",
+    "油炸时油温高，面糊下锅前擦干手部水分，避免热油飞溅。"
+  ],
+  "origin_note": "吉事果是西班牙街头最经典的早餐甜点，面团在牛奶黄油里烫熟后挤成棱纹长条，下锅炸到金黄，再滚一层白糖。外皮酥脆、内里绵软，蘸一杯浓稠热巧克力，是马德里冬天的标配。",
+  "tags": [
+    "西班牙",
+    "甜品",
+    "油炸",
+    "面点"
+  ],
+  "related_ids": [
+    "flan",
+    "tarta-de-santiago",
+    "tortilla-espanola"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

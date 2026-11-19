@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "salsa-verde",
+  "name": {
+    "zh": "墨西哥青酱",
+    "en": "Salsa Verde"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 10,
+    "total_min": 20
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 300,
+          "unit": "g",
+          "note": "去蒂",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 100,
+          "unit": "g",
+          "note": "小型青番茄",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "带皮",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 25,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增辣",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调稠",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "搅拌机",
+    "密封罐"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "青椒 300g、番茄 100g、洋葱 60g 与带皮大蒜 15g 一起放入干锅，中火烙 8 分钟至表皮起泡发黑。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "表皮烙焦才出烟熏香。",
+      "visual_cue": "表皮焦斑、蔬菜变软"
+    },
+    {
+      "n": 2,
+      "text": "烙好的蔬菜放入碗中盖住焖 5 分钟，趁热撕去焦黑的表皮。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "焖一下更好撕皮。",
+      "visual_cue": "表皮轻松剥离、果肉完整"
+    },
+    {
+      "n": 3,
+      "text": "所有蔬菜与 2 个干辣椒放入搅拌机，加 25g 香菜，点动搅打成带颗粒的酱。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "点动搅打，保留粗颗粒口感。",
+      "visual_cue": "酱体粗颗粒、颜色翠绿"
+    },
+    {
+      "n": 4,
+      "text": "倒入碗中，加 1 个青柠的汁、4g 盐与 10ml 橄榄油拌匀，尝味调整。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "青柠汁最后加，酸味才清爽。",
+      "visual_cue": "酱汁翠绿、酸辣扑鼻"
+    }
+  ],
+  "tips": [
+    "蔬菜烙到表皮发黑，烟熏味才是灵魂。",
+    "用点动方式搅打，保留一些颗粒更好吃。",
+    "青柠汁最后加，久放酸味会变闷。"
+  ],
+  "common_mistakes": [
+    "青椒直接生打，酱汁只有生青味。",
+    "搅打过度变成稀泥，失去颗粒口感。",
+    "盐一次加太多，盖住青柠的清香。"
+  ],
+  "substitutions": [
+    {
+      "original": "青椒",
+      "substitute": "墨西哥青辣椒",
+      "ratio": "300g 对 300g",
+      "note": "辣度更高，干辣椒可减到 1 个。"
+    },
+    {
+      "original": "青柠",
+      "substitute": "白醋",
+      "ratio": "1 个对 15ml",
+      "note": "酸味更直接，香气略弱。"
+    }
+  ],
+  "variations": [
+    "牛油果版：加半个牛油果打成浓稠酱。",
+    "生打版：不烙直接打，风味更清爽。"
+  ],
+  "serving_suggestion": "配玉米片、烤肉或卷饼一起食用，风味最佳。",
+  "storage": "冷藏 5 天，表面淋一层橄榄油隔绝空气。",
+  "nutrition_estimate": {
+    "basis": "每份（约 110g）",
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。",
+    "calories_kcal": 70,
+    "protein_g": 2,
+    "fat_g": 3,
+    "carbs_g": 10,
+    "sodium_mg": 400
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "酱料为生拌制品，须冷藏保存并在 5 天内食用完。",
+    "处理辣椒后请洗手，避免揉眼引起灼痛。"
+  ],
+  "origin_note": "青酱是墨西哥餐桌上的绿色蘸料，青椒、青番茄和洋葱先在干锅里烙出焦斑，再与香菜、大蒜一起打成粗颗粒，最后用青柠汁和盐调味。酸、辣、烟熏三味齐发，配玉米片或烤肉都合适。",
+  "tags": [
+    "墨西哥",
+    "酱汁",
+    "青椒",
+    "蘸料"
+  ],
+  "related_ids": [
+    "guacamole",
+    "pico-de-gallo",
+    "quesadilla"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "miyeok-guk",
+  "name": {
+    "zh": "韩式海带汤",
+    "en": "Seaweed Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 30,
+          "unit": "g",
+          "note": "干海带",
+          "optional": false
+        },
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 300,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "大碗",
+    "漏勺",
+    "厨房剪"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干海带 30g 用清水泡发 15 分钟，中途换水一次，泡软后剪成 5 厘米长段。",
+      "time_min": 17,
+      "heat": "无火",
+      "tip": "泡发后多洗两遍，去掉表面沙粒。",
+      "visual_cue": "海带舒展、颜色转深绿"
+    },
+    {
+      "n": 2,
+      "text": "牛腩 300g 冷水下锅，大火煮开后撇净浮沫，捞出用温水冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才出得干净。",
+      "visual_cue": "牛腩表面无血沫、肉色变浅"
+    },
+    {
+      "n": 3,
+      "text": "汤锅放 15ml 香油，中火下牛腩翻炒 3 分钟至表面微焦，加蒜末炒香。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "牛腩先炒，汤味才厚。",
+      "visual_cue": "牛腩边缘微焦、蒜香散出"
+    },
+    {
+      "n": 4,
+      "text": "放入海带段翻炒 2 分钟，倒入 1.2L 清水与 20ml 生抽，大火煮开转小火炖 25 分钟。",
+      "time_min": 30,
+      "heat": "小火",
+      "tip": "小火慢炖，牛腩才软而不柴。",
+      "visual_cue": "汤色微白、牛腩用筷子能戳透"
+    },
+    {
+      "n": 5,
+      "text": "加 3g 盐调味，再煮 2 分钟后关火盛碗。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "盐最后放，肉质更软。",
+      "visual_cue": "汤面清亮、海带沉底"
+    }
+  ],
+  "tips": [
+    "海带泡发后要多洗两遍，表面沙粒很影响口感。",
+    "牛腩先炒后炖，汤头才会浓厚不寡淡。",
+    "盐必须最后再加，牛腩纤维才容易炖软。"
+  ],
+  "common_mistakes": [
+    "海带泡发时间过长，煮出来软烂没嚼劲。",
+    "牛腩不焯水直接炖，汤里全是血沫。",
+    "全程大火猛煮，牛腩纤维紧缩发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛肉",
+      "ratio": "300g 对 300g",
+      "note": "用牛腱肉更有嚼劲，炖制加 10 分钟。"
+    },
+    {
+      "original": "香油",
+      "substitute": "植物油",
+      "ratio": "15ml 对 15ml",
+      "note": "香气变淡，可加少许蒜末补味。"
+    }
+  ],
+  "variations": [
+    "牡蛎版：起锅前加 100g 牡蛎煮 2 分钟。",
+    "清淡版：牛腩换蛤蜊，炖制时间减到 10 分钟。"
+  ],
+  "serving_suggestion": "配一碗白米饭和小碟泡菜一起食用。",
+  "storage": "冷藏 3 天，复热后海带会变软。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。",
+    "calories_kcal": 260,
+    "protein_g": 22,
+    "fat_g": 16,
+    "carbs_g": 6,
+    "sodium_mg": 880
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至中心完全熟透，避免带血色。",
+    "海带泡发时若水色异常浑浊或有异味，请勿食用。"
+  ],
+  "origin_note": "韩式海带汤是生日和产后必喝的家常汤，干海带泡发后与牛腩同炒，再加水慢炖，汤色微白，海带的鲜和牛肉的香融在一起。韩国人相信海带能补碘又暖身，一碗下肚，很踏实。",
+  "tags": [
+    "韩国",
+    "汤",
+    "海带",
+    "牛腩"
+  ],
+  "related_ids": [
+    "dwaeji-gukbap",
+    "kimchi-jjigae",
+    "budae-jjigae"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

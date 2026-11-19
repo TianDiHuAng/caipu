@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:36:57.764Z",
+  "generatedAt": "2026-11-19T14:34:32.223Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 493,
     "target": 3274,
-    "actual": 374,
-    "coverage": 0.11423335369578497
+    "actual": 387,
+    "coverage": 0.11820403176542456
   },
   "regions": {
     "cn": [
@@ -322,7 +322,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 27,
+        "actual": 28,
         "cells": [
           {
             "category": "main-seafood",
@@ -385,8 +385,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "guangshi-hongdou-sha",
               "jiang-zhuang-nai",
               "shuang-pi-nai"
             ]
@@ -2089,7 +2090,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 19,
+        "actual": 20,
         "cells": [
           {
             "category": "main-meat",
@@ -2105,9 +2106,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "dwaeji-gukbap",
+              "miyeok-guk",
               "sundubu-jjigae"
             ]
           },
@@ -2227,7 +2229,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 13,
+        "actual": 17,
         "cells": [
           {
             "category": "main-poultry",
@@ -2244,9 +2246,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "tom-kha-gai",
+              "tom-kha-hed",
               "tom-yum-goong"
             ]
           },
@@ -2254,18 +2257,20 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "larb-gai",
-              "som-tam"
+              "som-tam",
+              "yum-nua"
             ]
           },
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "pu-pad-pong-curry",
               "thai-steamed-fish",
               "tom-yum-goong"
             ]
@@ -2274,10 +2279,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "mango-sticky-rice",
-              "thai-coconut-sticky-rice"
+              "thai-coconut-sticky-rice",
+              "thai-pumpkin-custard"
             ]
           },
           {
@@ -2554,14 +2560,15 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 13,
+        "actual": 17,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "bacalao-al-pil-pil",
               "gambas-al-ajillo",
               "pulpo-a-la-gallega"
             ]
@@ -2581,8 +2588,9 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "arroz-negro",
               "paella-valenciana",
               "paella-verduras"
             ]
@@ -2591,8 +2599,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "churros",
               "flan",
               "tarta-de-santiago"
             ]
@@ -2601,8 +2610,9 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "alioli",
               "romesco-sauce",
               "romesco"
             ]
@@ -4125,15 +4135,16 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 13,
+        "actual": 16,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "elote",
+              "quesadilla",
               "tacos-de-carne"
             ]
           },
@@ -4152,18 +4163,20 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "guacamole",
-              "pico-de-gallo"
+              "pico-de-gallo",
+              "salsa-verde"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "crema-de-elote",
               "sopa-de-frijol",
               "tortilla-soup"
             ]

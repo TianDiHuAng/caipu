@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "pu-pad-pong-curry",
+  "name": {
+    "zh": "泰式咖喱蟹",
+    "en": "Thai Curry Crab"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "螃蟹",
+          "name_en": "crab",
+          "amount": 900,
+          "unit": "g",
+          "note": "洗净斩块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍粉用",
+          "name_en": "wheat flour",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刷子",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "螃蟹 900g 用刷子刷净壳缝，揭盖去掉鳃和胃袋，斩成带钳的块状。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "鳃和胃袋必须去净，腥味都在这。",
+      "visual_cue": "蟹块干净、切口整齐"
+    },
+    {
+      "n": 2,
+      "text": "蟹块切面拍一层薄薄的面粉，抖掉多余的粉备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "拍粉能锁住蟹肉水分。",
+      "visual_cue": "切面均匀挂粉、不结块"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒 40ml 植物油烧至七成热，蟹块切面朝下煎 2 分钟至定型金黄，盛出。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "切面先煎，蟹肉才不散。",
+      "visual_cue": "切面金黄、蟹壳转红"
+    },
+    {
+      "n": 4,
+      "text": "原锅留底油，下洋葱丝与蒜末炒香，加 10g 咖喱粉小火炒 40 秒。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "咖喱粉小火炒，火大立刻发苦。",
+      "visual_cue": "油色变黄、咖喱香浓"
+    },
+    {
+      "n": 5,
+      "text": "放回蟹块翻炒，加 100ml 清水、20ml 鱼露、8g 白糖与 3g 盐，加盖焖 5 分钟。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "焖到蟹壳全红，蟹肉才熟透。",
+      "visual_cue": "蟹壳通红、汤汁浓稠"
+    },
+    {
+      "n": 6,
+      "text": "转小火淋入打散的鸡蛋液，快速推炒成蛋花裹住蟹块，撒小葱段与香菜出锅。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "蛋液小火推，才成滑嫩蛋花。",
+      "visual_cue": "蛋花滑嫩、均匀挂在蟹壳上"
+    }
+  ],
+  "tips": [
+    "蟹鳃和胃袋必须去净，这是腥味的主要来源。",
+    "鸡蛋液最后小火推炒，蛋花才滑嫩不结块。",
+    "蟹块切面拍粉再煎，蟹肉更紧实多汁。"
+  ],
+  "common_mistakes": [
+    "蟹块不拍粉直接煎，蟹肉流失水分变干。",
+    "咖喱粉大火爆炒，整锅带着焦苦味。",
+    "蛋液大火下锅，瞬间结成硬块，口感发柴难以下咽。"
+  ],
+  "substitutions": [
+    {
+      "original": "螃蟹",
+      "substitute": "花蟹",
+      "ratio": "900g 对 900g",
+      "note": "肉质更甜，焖制时间减 1 分钟。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "生抽",
+      "ratio": "20ml 对 18ml",
+      "note": "鲜味略淡，盐可加 1g。"
+    }
+  ],
+  "variations": [
+    "椰浆版：加 150ml 椰浆同焖，酱汁更浓稠。",
+    "黑胡椒版：起锅前撒 5g 现磨黑胡椒。"
+  ],
+  "serving_suggestion": "配白米饭，用蟹壳里的酱汁拌饭最香。",
+  "storage": "现做现吃，冷藏后再热蟹肉会变柴。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 360,
+    "protein_g": 34,
+    "fat_g": 20,
+    "carbs_g": 10,
+    "sodium_mg": 950,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "mustard",
+    "crustacean",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蟹属甲壳类海鲜，过敏人群请避开；须炒至蟹壳全红、蟹肉完全熟透。",
+    "死蟹不可食用，处理时发现异味须整只丢弃。"
+  ],
+  "origin_note": "泰式咖喱蟹是曼谷海鲜排档的招牌，蟹块拍粉煎定形后与咖喱粉、洋葱同炒，再用鱼露和椰浆调味，最后倒入蛋液推成蛋花裹住蟹壳。酱汁浓稠滑润，拌饭能吃下两碗。",
+  "tags": [
+    "泰国",
+    "海鲜",
+    "螃蟹",
+    "咖喱"
+  ],
+  "related_ids": [
+    "thai-steamed-fish",
+    "tom-yum-goong",
+    "pad-thai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

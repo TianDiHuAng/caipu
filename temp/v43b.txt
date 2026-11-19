@@ -1,0 +1,9 @@
+﻿校验范围: 303 个文件（成功解析 303）
+分类体系: 59 菜系 / 26 品类；食材词典: 391 项
+
+[问题文件] 1 个（schema 失败 1，规则失败 0）：
+
+· data/recipes/cn/cantonese/guangshi-hongdou-sha.json (guangshi-hongdou-sha) [SCHEMA]
+   - $.steps[1].visual_cue: 长度 7 小于下限 8
+
+❌ 未通过：1 类问题，累计 1 条

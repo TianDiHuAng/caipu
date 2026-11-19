@@ -1,0 +1,10 @@
+﻿校验范围: 315 个文件（成功解析 315）
+分类体系: 59 菜系 / 26 品类；食材词典: 392 项
+
+[问题文件] 1 个（schema 失败 1，规则失败 0）：
+
+· data/recipes/intl/spanish/churros.json (churros) [SCHEMA]
+   - $.flavor[1]: 取值 "crispy" 不在枚举 [salty, spicy, numbing, sour, sweet, bitter, umami, smoky, fragrant, light, rich, tangy, savory, herbal] 中
+   - $.tips[2]: 长度 13 小于下限 15
+
+❌ 未通过：1 类问题，累计 2 条
