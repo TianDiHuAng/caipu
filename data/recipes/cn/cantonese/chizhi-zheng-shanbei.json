@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chizhi-zheng-shanbei",
+  "name": {
+    "zh": "豉汁蒸扇贝",
+    "en": "Steamed Scallops with Black Bean Sauce"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 10,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扇贝",
+          "name_en": "scallop",
+          "amount": 500,
+          "unit": "g",
+          "note": "带壳六只",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切成葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "少许",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "最后淋热油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "小刷子",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "扇贝用刷子刷净外壳，撬开取出内脏，只留贝肉与一侧壳，冲洗干净。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "内脏必须去净，否则蒸出来带苦味。",
+      "visual_cue": "贝壳洁白、贝肉完整"
+    },
+    {
+      "n": 2,
+      "text": "豆豉剁碎，大蒜切末，小葱切成葱花，混合后加生抽与白糖拌成豉汁。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "豆豉先剁碎，蒸出来香气才出得来。",
+      "visual_cue": "豉汁呈深褐色、颗粒细碎"
+    },
+    {
+      "n": 3,
+      "text": "扇贝摆盘，每只撒少许盐、淋上料酒与豉汁，腌五分钟入味。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "腌五分钟就够，久了贝肉会出水。",
+      "visual_cue": "贝肉微微收缩、豉汁挂住"
+    },
+    {
+      "n": 4,
+      "text": "蒸锅水开后放入扇贝，大火蒸四分钟，取出撒上葱花。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "水开后再放，蒸老了贝肉发硬。",
+      "visual_cue": "贝肉卷曲变白、豉汁冒泡"
+    },
+    {
+      "n": 5,
+      "text": "烧热植物油淋在葱花上激出香气，趁热上桌。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "油要烧到冒烟，浇上去才够香。",
+      "visual_cue": "葱花吱响、油香扑鼻"
+    }
+  ],
+  "tips": [
+    "扇贝要选活的，壳闭得紧的才新鲜。",
+    "豉汁可以一次多调些，冷藏能放三天。",
+    "蒸盘里垫两根小葱，贝肉不易粘底。"
+  ],
+  "common_mistakes": [
+    "蒸的时间过长，贝肉缩成硬块咬不动。",
+    "豆豉没有剁碎，一颗颗硌牙还发苦。",
+    "冷水上锅蒸，贝肉受热慢出水变老。"
+  ],
+  "substitutions": [
+    {
+      "original": "扇贝",
+      "substitute": "虾",
+      "ratio": "500g 对 400g",
+      "note": "开背同法蒸，时间缩短一分钟。"
+    },
+    {
+      "original": "豆豉",
+      "substitute": "辣椒酱",
+      "ratio": "20g 对 15g",
+      "note": "风味更辣，适合重口味。"
+    }
+  ],
+  "variations": [
+    "粉丝泡软垫在贝肉下面同蒸，吸汁后更好吃。",
+    "蒜末分成两半，一半生一半炸香，蒜味更立体。"
+  ],
+  "serving_suggestion": "趁热上桌最好，蒸出的汤汁用来拌饭很鲜。",
+  "storage": "当天吃完为佳，贝类隔夜易变质不宜再食。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 190,
+    "protein_g": 22,
+    "fat_g": 9,
+    "carbs_g": 6,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "扇贝属贝类致敏食材，过敏体质者禁食。",
+    "贝类须彻底加热至贝肉完全变白卷曲再食用。",
+    "死贝、壳口张开碰不闭合的不要购买食用。",
+    "淋热油时油温很高，避免水滴入锅导致油溅。"
+  ],
+  "origin_note": "豉汁蒸扇贝是粤菜海鲜里的快手菜，豆豉的咸香配蒜末的辛香，只需蒸四分钟就能把贝肉的甜味托出来，酒楼与家常都常见。",
+  "tags": [
+    "粤菜",
+    "清蒸",
+    "海鲜",
+    "快手"
+  ],
+  "related_ids": [
+    "jiaoyan-xianyou",
+    "qingzheng-luyu",
+    "suanxiang-chao-huage"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

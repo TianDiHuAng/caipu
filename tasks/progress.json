@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T22:20:49.954Z",
+  "generatedAt": "2026-11-19T22:46:20.563Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 494,
     "target": 3274,
-    "actual": 457,
-    "coverage": 0.13958460598656078
+    "actual": 463,
+    "coverage": 0.14141722663408673
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 43,
+        "actual": 44,
         "cells": [
           {
             "category": "main-meat",
@@ -66,8 +66,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "chuangwei-hongyou-jisi",
               "fuqi-feipian",
               "liangban-fuzhu",
               "suanni-bairou"
@@ -196,15 +197,16 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 27,
+        "actual": 28,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "congshao-haishen",
+              "fanqie-daxia",
               "jiaodong-bayu-jiaozi",
               "tangcu-liyu",
               "youmen-daxia",
@@ -333,15 +335,16 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 32,
+        "actual": 33,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "baizhuo-xia",
+              "chizhi-zheng-shanbei",
               "jiangcong-chaohuaxie",
               "jiaoyan-xianyou",
               "qingzheng-luyu",
@@ -469,7 +472,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 28,
+        "actual": 29,
         "cells": [
           {
             "category": "main-seafood",
@@ -487,10 +490,11 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "qingdun-shizitou",
               "shizitou",
+              "suzhou-yingtao-rou",
               "wuxi-paigu"
             ]
           },
@@ -610,7 +614,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 21,
+        "actual": 22,
         "cells": [
           {
             "category": "main-seafood",
@@ -627,11 +631,12 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "dongpo-rou",
               "meigancai-kourou",
-              "mizhi-huofang"
+              "mizhi-huofang",
+              "sun-shao-rou"
             ]
           },
           {
@@ -734,7 +739,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 20,
+        "actual": 21,
         "cells": [
           {
             "category": "soup",
@@ -763,10 +768,11 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "lizhi-rou",
               "minnan-fengrou",
+              "wuxiang-paigu",
               "zui-paigu"
             ]
           },
