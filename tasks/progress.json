@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T05:23:27.899Z",
+  "generatedAt": "2026-11-19T05:36:32.762Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 465,
+    "cells": 469,
     "target": 3274,
-    "actual": 205,
-    "coverage": 0.06261453879047037
+    "actual": 214,
+    "coverage": 0.06536346976175932
   },
   "regions": {
     "cn": [
@@ -23,15 +23,16 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 34,
+        "actual": 36,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "huiguo-rou",
+              "maoxuewang",
               "mapo-doufu",
               "shuizhu-niurou",
               "yuxiang-rousi"
@@ -169,6 +170,15 @@
               "gongbao-jiding",
               "kaishui-baicai"
             ]
+          },
+          {
+            "category": "hotpot-bbq",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "maoxuewang"
+            ]
           }
         ]
       },
@@ -178,7 +188,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-seafood",
@@ -196,8 +206,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "baochao-yaohua",
               "bazi-rou",
               "jiuzhuan-dachang"
             ]
@@ -292,7 +303,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 22,
+        "actual": 23,
         "cells": [
           {
             "category": "main-seafood",
@@ -310,8 +321,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "chijiao-niurou",
               "chizhi-paigu",
               "mizhi-chashao"
             ]
@@ -418,7 +430,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 16,
+        "actual": 18,
         "cells": [
           {
             "category": "main-seafood",
@@ -444,9 +456,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "dazhu-gansi"
+              "dazhu-gansi",
+              "wensi-doufu"
             ]
           },
           {
@@ -529,6 +542,15 @@
             "actual": 1,
             "ids": [
               "shengjian-bao"
+            ]
+          },
+          {
+            "category": "banquet",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "wensi-doufu"
             ]
           }
         ]
@@ -1877,15 +1899,16 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "miso-salmon"
+              "miso-salmon",
+              "tempura"
             ]
           },
           {
@@ -2681,7 +2704,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2747,6 +2770,24 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "samosa"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "samosa"
+            ]
           }
         ]
       },

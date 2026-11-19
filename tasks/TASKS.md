@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-19T05:23:27.987Z
+> 生成时间：2026-11-19T05:36:32.826Z
 
-**总览**：工程任务 49/53；菜谱内容 205/3274（6.3%），共 465 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 214/3274（6.5%），共 469 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,11 +83,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（172/1339）
+### 中国菜系（178/1339）
 
-<details><summary><b>川菜 sichuan</b> — A 级，34/107</summary>
+<details><summary><b>川菜 sichuan</b> — A 级，36/107</summary>
 
-- [ ] `P4-sichuan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 4
+- [ ] `P4-sichuan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 5
 - [ ] `P4-sichuan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 3
 - [ ] `P4-sichuan/main-tofu` 主菜·豆制品（Tofu Main）目标 15，已完成 2
 - [ ] `P4-sichuan/appetizer` 前菜（Appetizer）目标 15，已完成 2
@@ -101,13 +101,14 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [x] `P4-sichuan/soup` 汤羹（Soup）目标 0，已完成 3
 - [x] `P4-sichuan/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 2
 - [x] `P4-sichuan/banquet` 宴客菜（Banquet）目标 0，已完成 2
+- [x] `P4-sichuan/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>鲁菜 shandong</b> — A 级，13/107</summary>
+<details><summary><b>鲁菜 shandong</b> — A 级，14/107</summary>
 
 - [ ] `P4-shandong/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 4
-- [ ] `P4-shandong/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
+- [ ] `P4-shandong/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
 - [ ] `P4-shandong/soup` 汤羹（Soup）目标 15，已完成 1
 - [ ] `P4-shandong/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 1
 - [ ] `P4-shandong/banquet` 宴客菜（Banquet）目标 15，已完成 0
@@ -121,10 +122,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>粤菜 cantonese</b> — A 级，22/122</summary>
+<details><summary><b>粤菜 cantonese</b> — A 级，23/122</summary>
 
 - [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 4
-- [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
+- [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 3
 - [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 4
 - [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 3
 - [ ] `P4-cantonese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 1
@@ -138,11 +139,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>苏菜 jiangsu</b> — A 级，16/107</summary>
+<details><summary><b>苏菜 jiangsu</b> — A 级，18/107</summary>
 
 - [ ] `P4-jiangsu/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
 - [ ] `P4-jiangsu/main-meat` 主菜·肉（Meat Main）目标 15，已完成 2
-- [ ] `P4-jiangsu/soup` 汤羹（Soup）目标 15，已完成 1
+- [ ] `P4-jiangsu/soup` 汤羹（Soup）目标 15，已完成 2
 - [ ] `P4-jiangsu/appetizer` 前菜（Appetizer）目标 15，已完成 1
 - [ ] `P4-jiangsu/snack` 小吃（Street Food）目标 15，已完成 2
 - [ ] `P4-jiangsu/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 0
@@ -152,6 +153,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [x] `P4-jiangsu/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2
 - [x] `P4-jiangsu/dessert` 甜点（Dessert）目标 0，已完成 1
 - [x] `P4-jiangsu/breakfast` 早餐（Breakfast）目标 0，已完成 1
+- [x] `P4-jiangsu/banquet` 宴客菜（Banquet）目标 0，已完成 1
 
 </details>
 
@@ -385,11 +387,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（33/1935）
+### 外国菜系（36/1935）
 
-<details><summary><b>日本料理 japanese</b> — A 级，5/107</summary>
+<details><summary><b>日本料理 japanese</b> — A 级，6/107</summary>
 
-- [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 1
+- [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 2
 - [ ] `P4-japanese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 1
 - [ ] `P4-japanese/soup` 汤羹（Soup）目标 15，已完成 1
 - [ ] `P4-japanese/appetizer` 前菜（Appetizer）目标 15，已完成 1
@@ -534,7 +536,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>印度菜 indian</b> — A 级，1/107</summary>
+<details><summary><b>印度菜 indian</b> — A 级，3/107</summary>
 
 - [ ] `P4-indian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 0
 - [ ] `P4-indian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 1
@@ -545,6 +547,8 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-indian/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-indian/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 0
 - [ ] `P4-indian/staple-rice` 主食·饭（Rice Dish）目标 8，已完成 0
+- [x] `P4-indian/snack` 小吃（Street Food）目标 0，已完成 1
+- [x] `P4-indian/appetizer` 前菜（Appetizer）目标 0，已完成 1
 
 </details>
 

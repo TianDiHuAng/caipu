@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "maoxuewang",
+  "name": {
+    "zh": "毛血旺",
+    "en": "Spicy Blood Curd Stew"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat",
+    "hotpot-bbq"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸭血",
+          "name_en": "duck blood curd",
+          "amount": 400,
+          "unit": "g",
+          "note": "切 1cm 厚片",
+          "optional": false
+        },
+        {
+          "name": "牛肚",
+          "name_en": "beef tripe",
+          "amount": 250,
+          "unit": "g",
+          "note": "切条，反复冲洗",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 200,
+          "unit": "g",
+          "note": "掐去根须",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 15,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 8,
+          "unit": "g",
+          "note": "青花椒更香",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "一半炒底一半撒面",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 40,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "炒底与泼油",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "分次补味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "深盘",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸭血切 1cm 厚片，冷水下锅加料酒小火煮 3 分钟，捞出泡在清水里。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "小火汆水，鸭血才不碎不老。",
+      "visual_cue": "血片边缘完整、颜色加深"
+    },
+    {
+      "n": 2,
+      "text": "牛百叶切成宽条，用清水反复抓洗三次，沥干备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "百叶洗净才没有异味。",
+      "visual_cue": "百叶洁白、水色清澈"
+    },
+    {
+      "n": 3,
+      "text": "豆芽掐去根须，沸水焯 1 分钟捞出，铺在深盘底部垫底。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "豆芽垫底能吸收汤汁，别省。",
+      "visual_cue": "豆芽断生、颜色透亮"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒 50ml 植物油，中小火下豆瓣酱、姜末与一半蒜末炒出红油。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "豆瓣酱小火慢炒，红油才亮不苦。",
+      "visual_cue": "油色红亮、酱香散出"
+    },
+    {
+      "n": 5,
+      "text": "加 600ml 清水与生抽、盐烧开，下鸭血小火煮 5 分钟入味。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "鸭血先煮入味，汤汁才不寡。",
+      "visual_cue": "汤汁红亮、血片浮起"
+    },
+    {
+      "n": 6,
+      "text": "下牛百叶烫 40 秒即关火，连汤带料倒入垫好豆芽的深盘。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "百叶久煮会硬，几十秒即可。",
+      "visual_cue": "百叶卷曲、脆弹不老"
+    },
+    {
+      "n": 7,
+      "text": "表面铺干辣椒段、花椒与剩余蒜末，另烧 30ml 植物油至冒烟泼在料上，撒葱段。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "热油泼料才激出麻辣香。",
+      "visual_cue": "油面滋响、辣香冲鼻"
+    }
+  ],
+  "tips": [
+    "鸭血小火汆水，切面才整齐不碎。",
+    "牛百叶最后下锅，烫几十秒就够脆。",
+    "热油泼在辣椒与花椒上，麻辣味才立起来。"
+  ],
+  "common_mistakes": [
+    "鸭血用大火滚煮，容易碎成一锅渣。",
+    "牛百叶煮的时间太久，咬起来像橡胶。",
+    "红油没炒透就加水，汤色发暗不红亮。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸭血",
+      "substitute": "猪血",
+      "ratio": "400g 对 400g",
+      "note": "猪血更嫩，汆水时间减 1 分钟。"
+    },
+    {
+      "original": "牛百叶",
+      "substitute": "毛肚",
+      "ratio": "250g 对 250g",
+      "note": "毛肚更厚，烫制加 20 秒。"
+    }
+  ],
+  "variations": [
+    "加黄喉版：同锅加 150g 黄喉，口感更丰富。",
+    "少辣版：豆瓣酱减半，另加 20g 番茄酱增色。"
+  ],
+  "serving_suggestion": "趁热连汤上桌，配米饭或作为火锅式共食。",
+  "storage": "冷藏 1 天，复热后鸭血口感会变硬，建议现做现吃。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 320,
+    "protein_g": 26,
+    "fat_g": 19,
+    "carbs_g": 10,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸭血与牛百叶均需彻底加热熟透，不要生食。",
+    "动物血制品易变质，购买后冷藏并在 24 小时内使用。",
+    "泼热油时盘中若有水分会爆溅，操作前擦干盘沿。"
+  ],
+  "origin_note": "毛血旺是重庆码头菜，用鸭血、百叶在麻辣红汤里翻滚，讲究麻辣鲜香、汤汁红亮，是川渝人冬天最过瘾的一锅。",
+  "tags": [
+    "川菜",
+    "麻辣",
+    "鸭血",
+    "下饭"
+  ],
+  "related_ids": [
+    "mapo-doufu",
+    "shuizhu-niurou",
+    "huiguo-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

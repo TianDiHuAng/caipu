@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "wensi-doufu",
+  "name": {
+    "zh": "文思豆腐",
+    "en": "Wensi Tofu Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "soup",
+    "banquet"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 20,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "整块，切细丝",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 900,
+          "unit": "ml",
+          "note": "清鸡汤，撇净浮油",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 30,
+          "unit": "g",
+          "note": "切极细丝",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "调薄芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锋利菜刀",
+    "汤锅",
+    "汤碗",
+    "细筛"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "内酯豆腐整块放在砧板上，用平刀片去表层，再竖切成 0.2cm 薄片。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "刀要锋利且蘸水，切时豆腐不粘刀。",
+      "visual_cue": "薄片均匀、能透光"
+    },
+    {
+      "n": 2,
+      "text": "把薄片推倒成排，切成细如发丝的豆腐丝，泡在清水中轻轻抖散。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "切丝时刀不要压，用推拉的轻刀。",
+      "visual_cue": "豆腐丝根根分明、不粘刀"
+    },
+    {
+      "n": 3,
+      "text": "火腿与香菇分别切成同样粗细的细丝，小葱切葱花，姜切片备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "三种丝粗细一致，成菜才漂亮。",
+      "visual_cue": "三种细丝粗细接近一致"
+    },
+    {
+      "n": 4,
+      "text": "清鸡汤入锅加姜片烧开，撇净浮沫后捞出姜片，加盐与白胡椒调味。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "鸡汤先调味，后面不再加盐。",
+      "visual_cue": "汤色清亮、咸鲜适口"
+    },
+    {
+      "n": 5,
+      "text": "下香菇丝与火腿丝小火煮 3 分钟出味，再把豆腐丝连水轻轻滑入汤中。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "豆腐丝要连水滑入，直接倒会断。",
+      "visual_cue": "豆腐丝散开、汤面平静"
+    },
+    {
+      "n": 6,
+      "text": "玉米淀粉加水调匀，绕圈淋入汤中勾薄芡，撒葱花盛入汤碗。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "芡要薄，太稠会变成糊。",
+      "visual_cue": "汤体微稠、豆腐丝悬浮"
+    }
+  ],
+  "tips": [
+    "切豆腐丝时刀要蘸水，切面才光滑不断。",
+    "豆腐丝连水滑入锅中，才不会黏成一团。",
+    "勾芡只到微稠，保持清汤的澄澈口感。"
+  ],
+  "common_mistakes": [
+    "豆腐丝切得粗细不匀，下锅就断成碎末。",
+    "汤大滚时下豆腐丝，丝被冲散成渣。",
+    "芡勾得太厚，成品像豆腐糊不是汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "内酯豆腐",
+      "substitute": "嫩豆腐",
+      "ratio": "400g 对 400g",
+      "note": "嫩豆腐更易碎，切丝要更轻。"
+    },
+    {
+      "original": "火腿",
+      "substitute": "金华火腿片",
+      "ratio": "30g 对 30g",
+      "note": "咸度高，盐减 1g。"
+    }
+  ],
+  "variations": [
+    "加虾版：加 60g 虾仁丁同煮，鲜味更足。",
+    "素版：鸡汤换菌菇高汤，火腿省去。"
+  ],
+  "serving_suggestion": "趁热用汤匙舀食，先喝汤再品豆腐丝。",
+  "storage": "当天食用，冷藏后芡会析水，不建议隔夜。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 130,
+    "protein_g": 12,
+    "fat_g": 5,
+    "carbs_g": 9,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "香菇需彻底加热熟透，不要生食。",
+    "鸡汤需烧开撇净浮沫，禽类汤汁充分熟制。",
+    "切豆腐丝使用生熟分开的砧板，避免交叉污染。"
+  ],
+  "origin_note": "文思豆腐是扬州名菜，把一块嫩豆腐切成数千根细丝，入清汤后丝丝不断，靠的全是刀工，被视作淮扬菜基本功的试金石。",
+  "tags": [
+    "苏菜",
+    "淮扬",
+    "豆腐",
+    "刀工"
+  ],
+  "related_ids": [
+    "dazhu-gansi",
+    "shizitou",
+    "xiefen-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

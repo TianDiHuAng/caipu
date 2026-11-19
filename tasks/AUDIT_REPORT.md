@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T05:23:29.077Z
+- 生成时间：2026-11-19T05:36:33.510Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：32 个，抽样 34 道，平均分 96
 - 需重写（C/D）：0 道
@@ -36,14 +36,14 @@
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
 | italian | chicken-cacciatore | 93 | A | 准确性 18/25 |
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
-| jiangsu | yanshui-ya | 100 | A | 无 |
+| jiangsu | yangzhou-chaofan | 100 | A | 无 |
 | korean | dolsot-bibimbap | 93 | A | 准确性 18/25 |
 | mexican | tacos-de-carne | 100 | A | 无 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |
 | shandong | tangcu-liyu | 100 | A | 无 |
 | shanghai | youbao-xia | 100 | A | 无 |
+| sichuan | sichuan-hongyou-lazi | 93 | A | 准确性 18/25 |
 | sichuan | dandan-mian | 100 | A | 无 |
-| sichuan | sichuan-liangmian | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
 | thai | som-tam | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |

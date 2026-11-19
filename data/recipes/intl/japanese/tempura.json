@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tempura",
+  "name": {
+    "zh": "天妇罗",
+    "en": "Tempura"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 300,
+          "unit": "g",
+          "note": "去壳留尾，挑净虾线",
+          "optional": false
+        },
+        {
+          "name": "南瓜",
+          "name_en": "pumpkin",
+          "amount": 150,
+          "unit": "g",
+          "note": "切 0.5cm 薄片",
+          "optional": false
+        },
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 120,
+          "unit": "g",
+          "note": "切斜片",
+          "optional": false
+        },
+        {
+          "name": "豆角",
+          "name_en": "green beans",
+          "amount": 100,
+          "unit": "g",
+          "note": "掐去两头",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 120,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋黄",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "磨泥配蘸汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炸制用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "蘸汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "蘸汁与撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "厨房温度计",
+    "漏勺",
+    "冰水"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大虾去壳留尾，在腹部横切三刀压直虾身，挑净虾线后擦干水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "腹部切几刀，虾炸后才不卷曲。",
+      "visual_cue": "虾身挺直、表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "南瓜切薄片，茄子切斜片，四季豆掐去两头，全部擦干水分备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蔬菜一定要擦干，挂糊才牢。",
+      "visual_cue": "切片干爽、无水滴"
+    },
+    {
+      "n": 3,
+      "text": "低筋面粉过筛放入盆中，加蛋黄与 180ml 冰水，用筷子轻轻搅到还有干粉的状态。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面糊别搅匀，留小疙瘩才酥。",
+      "visual_cue": "面糊稀薄、可见少量粉粒"
+    },
+    {
+      "n": 4,
+      "text": "深锅倒 250ml 植物油烧至 170℃，用厨房温度计确认温度。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温 170℃ 最稳，过高外焦内生。",
+      "visual_cue": "油面微动、筷子插入冒小泡"
+    },
+    {
+      "n": 5,
+      "text": "大虾裹一层面糊，尾部留出，入锅炸 90 秒至金黄挺直后捞出控油。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "挂糊要薄，太厚会炸不透。",
+      "visual_cue": "外壳浅金、虾身笔直"
+    },
+    {
+      "n": 6,
+      "text": "南瓜、茄子与四季豆依次挂糊下锅炸 60 至 90 秒，捞出沥油。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "蔬菜分批炸，油温才不骤降。",
+      "visual_cue": "外壳酥脆、蔬菜断生"
+    },
+    {
+      "n": 7,
+      "text": "生抽加 60ml 清水与剩余盐烧开，加姜泥调成蘸汁，配天妇罗上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蘸汁略煮过更柔和，不冲咸。",
+      "visual_cue": "蘸汁清亮、姜香微出"
+    }
+  ],
+  "tips": [
+    "面糊用冰水调，炸出来才够轻脆。",
+    "面糊不要搅到无颗粒，留点粉更酥。",
+    "油温守在 170℃，炸两批之间等回升。"
+  ],
+  "common_mistakes": [
+    "面糊搅得太匀，炸壳发硬像面衣。",
+    "食材带水下锅，油花四溅且脱糊。",
+    "油温不足就下锅，成品吸油发腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "大虾",
+      "substitute": "白身鱼片",
+      "ratio": "300g 对 300g",
+      "note": "鱼片更易散，炸制时间减 20 秒。"
+    },
+    {
+      "original": "低筋面粉",
+      "substitute": "中筋面粉加玉米淀粉",
+      "ratio": "120g 对 90g 加 30g",
+      "note": "更酥但易回软，需现炸现吃。"
+    }
+  ],
+  "variations": [
+    "蔬菜版：只用南瓜、茄子和四季豆，做成素天妇罗。",
+    "加紫苏版：用紫苏叶裹糊炸 20 秒，香气突出。"
+  ],
+  "serving_suggestion": "炸好立刻上桌，蘸天妇罗汁或撒盐食用。",
+  "storage": "现炸现吃，冷藏后外壳会回软，可用 180℃ 复烤 4 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 420,
+    "protein_g": 22,
+    "fat_g": 26,
+    "carbs_g": 26,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "四季豆必须彻底加热熟透，未熟透会引起中毒，炸制时间不可缩短。",
+    "油炸时食材需完全沥干，防止热油爆溅。",
+    "炸过的植物油不要反复使用超过两次。",
+    "大虾需炸至通体变红熟透，避免半生。"
+  ],
+  "origin_note": "天妇罗是日本把油炸做到极致的料理，薄薄一层冰水面糊锁住食材水分，外壳轻脆不腻，讲究现炸现吃、油温精准。",
+  "tags": [
+    "日式",
+    "油炸",
+    "大虾",
+    "蔬菜"
+  ],
+  "related_ids": [
+    "chawanmushi",
+    "miso-soup",
+    "oyakodon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
