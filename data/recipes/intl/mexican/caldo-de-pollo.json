@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "caldo-de-pollo",
+  "name": {
+    "zh": "墨西哥鸡肉汤",
+    "en": "Mexican Chicken Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "savory",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "带骨切块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切滚刀",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿 500g 用厨房纸吸干表面水分，冷水下锅煮开撇去浮沫后捞出冲净。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才出得干净。",
+      "visual_cue": "鸡块表面无血沫、肉色发白"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒 20ml 橄榄油，中火下洋葱丁与拍碎的大蒜炒 4 分钟至洋葱透明。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱炒透，汤底更甜。",
+      "visual_cue": "洋葱透明、蒜香散出"
+    },
+    {
+      "n": 3,
+      "text": "放入鸡块翻炒 3 分钟，加 1.5L 清水大火煮开，转小火炖 20 分钟。",
+      "time_min": 26,
+      "heat": "小火",
+      "tip": "小火慢炖，鸡肉才不柴。",
+      "visual_cue": "汤面微滚、鸡肉能用筷子戳动"
+    },
+    {
+      "n": 4,
+      "text": "加入胡萝卜块与土豆块，继续小火煮 12 分钟至蔬菜变软。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "根茎类后放，才不至于煮烂。",
+      "visual_cue": "胡萝卜变软、土豆边缘微粉"
+    },
+    {
+      "n": 5,
+      "text": "加 5g 盐与 2g 黑胡椒调味，尝味后关火，撒 20g 香菜碎。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "盐最后加，鸡肉更嫩。",
+      "visual_cue": "汤色清亮、香气扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "盛入碗中后挤入青柠汁，按口味再加一把香菜碎提香。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "青柠汁现挤，酸香才鲜活。",
+      "visual_cue": "汤面浮着香菜、带柠檬香"
+    }
+  ],
+  "tips": [
+    "鸡腿冷水下锅焯透，汤色才清亮不浑浊。",
+    "根茎蔬菜在鸡肉半熟时下锅，成品质地才均匀。",
+    "青柠汁上桌前现挤，久煮会发苦。"
+  ],
+  "common_mistakes": [
+    "鸡块不焯水直接炖，汤面浮一层血沫。",
+    "全程大火猛煮，鸡肉纤维紧缩发柴。",
+    "土豆切太小又早下锅，最后全化成糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿",
+      "substitute": "鸡胸肉",
+      "ratio": "500g 对 450g",
+      "note": "炖制时间减 10 分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "玉米",
+      "ratio": "200g 对 250g",
+      "note": "口感更清甜，煮制时间加 3 分钟。"
+    }
+  ],
+  "variations": [
+    "辣味版：加 2 个干辣椒与鸡肉同炒。",
+    "米饭版：汤碗底先放一勺米饭再浇汤。"
+  ],
+  "serving_suggestion": "盛入深碗，配玉米饼和青柠角一起上桌。",
+  "storage": "冷藏 3 天，复热后蔬菜会变软。",
+  "nutrition_estimate": {
+    "basis": "每份（约 380g）",
+    "calories_kcal": 340,
+    "protein_g": 28,
+    "fat_g": 16,
+    "carbs_g": 20,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须炖至中心完全熟透、无血色，汤品应趁热食用。",
+    "处理生鸡肉后请彻底洗手并清洁刀板。"
+  ],
+  "origin_note": "墨西哥鸡肉汤是家家会做的一碗暖汤，鸡腿先焯去血沫，再与洋葱大蒜炒香后慢炖，最后放胡萝卜和土豆煮到软透。上桌时挤半个青柠、撒一把香菜，清亮的汤里带着酸香，配玉米饼就是一餐。",
+  "tags": [
+    "墨西哥",
+    "汤",
+    "鸡肉",
+    "家常"
+  ],
+  "related_ids": [
+    "tortilla-soup",
+    "sopa-de-frijol",
+    "crema-de-elote"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

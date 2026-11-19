@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T14:34:20.650Z
+- 生成时间：2026-11-19T15:36:41.954Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 42 道，平均分 97
 - 需重写（C/D）：0 道
@@ -36,11 +36,11 @@
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | ganguo-huacai | 100 | A | 无 |
 | indian | dal-tomato-soup | 93 | A | 准确性 18/25 |
-| italian | pomodoro-pasta | 100 | A | 无 |
-| japanese | karaage | 100 | A | 无 |
+| italian | pollo-arrosto | 93 | A | 准确性 18/25 |
+| japanese | dorayaki | 100 | A | 无 |
 | jiangsu | yaxue-fensi-tang | 93 | A | 准确性 18/25 |
 | korean | gochujang | 93 | A | 准确性 18/25 |
-| mexican | salsa-verde | 93 | A | 准确性 18/25 |
+| mexican | sopa-de-frijol | 93 | A | 准确性 18/25 |
 | middle-eastern | hummus | 100 | A | 无 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |
 | nordic | nordic-fish-soup | 100 | A | 无 |
@@ -52,7 +52,7 @@
 | sichuan | gongbao-jiding | 100 | A | 无 |
 | spanish | churros | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
-| thai | pad-thai | 100 | A | 无 |
+| thai | pu-pad-pong-curry | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | turkish | turkish-kofta | 100 | A | 无 |
 | vietnamese | pho-bo | 100 | A | 无 |

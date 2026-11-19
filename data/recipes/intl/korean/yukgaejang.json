@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yukgaejang",
+  "name": {
+    "zh": "韩式辣牛肉汤",
+    "en": "Spicy Beef Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 500,
+          "unit": "g",
+          "note": "整块",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 200,
+          "unit": "g",
+          "note": "去根",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 4,
+          "unit": "piece",
+          "note": "掰段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "调辣",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩 500g 整块冷水下锅，大火煮开撇净浮沫，转小火炖 45 分钟至能用筷子戳透。",
+      "time_min": 55,
+      "heat": "小火",
+      "tip": "整块炖再撕丝，肉质才不散。",
+      "visual_cue": "牛腩能戳透、汤色清亮"
+    },
+    {
+      "n": 2,
+      "text": "捞出牛腩稍凉，顺着纤维撕成 1 厘米粗的肉丝，炖汤留着备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "顺纤维撕，口感才筋道。",
+      "visual_cue": "肉丝粗细均匀、纹理清晰"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒 15ml 香油，中火下洋葱丝、蒜末与干辣椒段炒 3 分钟至香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香油别烧到冒烟，会发苦。",
+      "visual_cue": "洋葱变软、辣椒香散出"
+    },
+    {
+      "n": 4,
+      "text": "加 15g 辣椒粉小火炒 1 分钟出红油，倒入炖牛腩的汤与 30ml 生抽煮开。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "辣椒粉小火炒，才不出苦味。",
+      "visual_cue": "汤面浮起红油、颜色橙红"
+    },
+    {
+      "n": 5,
+      "text": "放入牛腩丝与香菇片，小火煮 10 分钟，再加豆芽与大葱段煮 3 分钟。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "豆芽最后放，保持爽脆。",
+      "visual_cue": "豆芽断生、汤色红亮"
+    },
+    {
+      "n": 6,
+      "text": "加 4g 盐调味后关火，盛碗时撒一把大葱丝。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "盐少放，生抽已有咸味。",
+      "visual_cue": "汤面红油浮层、香气浓烈"
+    }
+  ],
+  "tips": [
+    "牛腩整块炖透再撕丝，肉质才筋道不散。",
+    "辣椒粉必须小火炒出红油，火大就发苦。",
+    "豆芽最后三分钟下锅，保持爽脆口感。"
+  ],
+  "common_mistakes": [
+    "牛腩切小块直接煮，肉散成渣捞不起来。",
+    "辣椒粉大火干炒，整锅汤带苦焦味。",
+    "豆芽早下锅煮太久，软塌没脆感。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱肉",
+      "ratio": "500g 对 500g",
+      "note": "更筋道，炖制加 15 分钟。"
+    },
+    {
+      "original": "豆芽",
+      "substitute": "菠菜",
+      "ratio": "200g 对 200g",
+      "note": "需先焯水去草酸。"
+    }
+  ],
+  "variations": [
+    "清汤版：辣椒粉减到 5g，汤色更淡。",
+    "蕨菜版：加 100g 泡发的蕨菜同煮。"
+  ],
+  "serving_suggestion": "配一碗白米饭和泡菜，汤面撒葱丝上桌。",
+  "storage": "冷藏 3 天，复热后牛腩更入味。",
+  "nutrition_estimate": {
+    "basis": "每份（约 400g）",
+    "calories_kcal": 380,
+    "protein_g": 30,
+    "fat_g": 24,
+    "carbs_g": 10,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至完全熟透，撕丝后回锅再煮 10 分钟确保热透。",
+    "辣椒粉炒制时注意通风，避免呛咳。"
+  ],
+  "origin_note": "辣牛肉汤是韩国江原道的乡土菜，牛腩整块炖透后撕成粗丝，回锅与洋葱、蒜末、辣椒粉炒出的红油同煮，再加豆芽和香菇。汤色橙红、辣味扎实，配一碗热米饭下肚，整个冬天都扛得住。",
+  "tags": [
+    "韩国",
+    "汤",
+    "牛肉",
+    "辣汤"
+  ],
+  "related_ids": [
+    "miyeok-guk",
+    "dwaeji-gukbap",
+    "kimchi-jjigae"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

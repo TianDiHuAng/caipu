@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "omurice",
+  "name": {
+    "zh": "日式蛋包饭",
+    "en": "Omurice"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "隔夜饭",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 200,
+          "unit": "g",
+          "note": "去骨切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "炒饭与淋面",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎蛋",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "炒锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉 200g 去骨切成 1 厘米丁，洋葱、胡萝卜、香菇分别切成同样大小的丁。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "所有丁切一样大，熟度才一致。",
+      "visual_cue": "丁块大小均匀、颗粒分明"
+    },
+    {
+      "n": 2,
+      "text": "炒锅放 15g 黄油小火融化，下鸡肉丁炒 4 分钟至表面变白。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鸡肉先炒变色，再下蔬菜。",
+      "visual_cue": "鸡肉转白、表面微黄"
+    },
+    {
+      "n": 3,
+      "text": "加入洋葱、胡萝卜与香菇丁炒 3 分钟，再倒入 400g 米饭炒散。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "隔夜饭先用手抓松再下锅。",
+      "visual_cue": "米粒分明、无结块"
+    },
+    {
+      "n": 4,
+      "text": "加 40g 番茄酱、3g 盐与 1g 黑胡椒炒匀，盛出分成两份装盘。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄酱炒一下去酸，更香。",
+      "visual_cue": "米饭均匀上色、颗粒油亮"
+    },
+    {
+      "n": 5,
+      "text": "平底锅倒 10ml 植物油，倒入一半蛋液，小火煎成半凝固蛋皮。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蛋液半凝固就要离火，才嫩。",
+      "visual_cue": "蛋皮边缘凝固、中心微湿"
+    },
+    {
+      "n": 6,
+      "text": "把一份炒饭放在蛋皮一侧，用锅铲翻折包住，滑入盘中，另一份同样操作后淋番茄酱。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "动作要快，蛋皮才不会全熟变硬。",
+      "visual_cue": "蛋包完整、表面金黄湿润"
+    }
+  ],
+  "tips": [
+    "蛋液煎到半凝固就离火，余温会继续加热。",
+    "隔夜饭先抓松再下锅，炒出来才粒粒分明。",
+    "番茄酱先炒一下，酸味会变得柔和。"
+  ],
+  "common_mistakes": [
+    "鸡蛋煎到全熟发硬，包饭时一折就裂。",
+    "米饭太湿下锅，炒出来黏成一团。",
+    "番茄酱没炒直接拌，饭带着生酸味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿",
+      "substitute": "鸡胸肉",
+      "ratio": "200g 对 200g",
+      "note": "更清爽，需多放 5g 黄油防柴。"
+    },
+    {
+      "original": "番茄酱",
+      "substitute": "番茄膏",
+      "ratio": "60g 对 40g",
+      "note": "需加 5g 糖平衡酸味。"
+    }
+  ],
+  "variations": [
+    "咖喱版：炒饭加 15g 咖喱粉。",
+    "和风版：蛋包饭表面淋蘑菇奶油酱代替番茄酱。"
+  ],
+  "serving_suggestion": "蛋包饭上桌后淋一条番茄酱，配一份蔬菜沙拉。",
+  "storage": "现做现吃，冷藏后再热蛋皮会变韧。",
+  "nutrition_estimate": {
+    "basis": "每份（约 380g）",
+    "calories_kcal": 680,
+    "protein_g": 30,
+    "fat_g": 26,
+    "carbs_g": 78,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋与乳制品过敏原，过敏人群请替换配料；蛋皮须煎至边缘凝固、不流生蛋液。",
+    "鸡肉丁须炒至完全变白熟透，无粉色部分。"
+  ],
+  "origin_note": "蛋包饭是日本洋食屋的招牌，鸡肉丁与蔬菜炒香的番茄饭，外面裹一层半凝固的嫩蛋皮，最后挤一条番茄酱。切开蛋皮的瞬间蛋液流出，盖在饭上，酸甜咸香一起入口，是很多人童年的味道。",
+  "tags": [
+    "日本",
+    "主食",
+    "鸡蛋",
+    "米饭"
+  ],
+  "related_ids": [
+    "oyakodon",
+    "chawanmushi",
+    "teriyaki-chicken"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

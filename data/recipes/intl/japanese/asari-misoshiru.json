@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "asari-misoshiru",
+  "name": {
+    "zh": "日式蛤蜊味噌汤",
+    "en": "Clam Miso Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 65,
+    "cook_min": 19,
+    "total_min": 84
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 300,
+          "unit": "g",
+          "note": "吐净沙",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 10,
+          "unit": "g",
+          "note": "干海带",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切大葱碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "味噌",
+          "name_en": "miso",
+          "amount": 40,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清酒",
+          "name_en": "sake",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "滤网",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蛤蜊 300g 用淡盐水泡 1 小时吐沙，中途换水两次，壳面刷净后沥干。",
+      "time_min": 65,
+      "heat": "无火",
+      "tip": "吐沙不彻底，汤里会有沙。",
+      "visual_cue": "蛤蜊壳净、水底无沙"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒 800ml 清水放 10g 干海带，小火加热到将沸未沸时捞出做昆布高汤。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "海带别煮沸，久煮会发黏发腥。",
+      "visual_cue": "汤色微黄、海带舒展"
+    },
+    {
+      "n": 3,
+      "text": "高汤中放入蛤蜊与 15ml 清酒，中火煮 4 分钟至蛤蜊全部张口后撇去浮沫。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "没开口的蛤蜊直接丢掉。",
+      "visual_cue": "蛤蜊张口、汤面浮沫出现"
+    },
+    {
+      "n": 4,
+      "text": "加入豆腐块小火煮 2 分钟至热透，用汤勺轻推避免把豆腐搅碎。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "豆腐轻推，别搅碎。",
+      "visual_cue": "豆腐浮起、汤色清亮"
+    },
+    {
+      "n": 5,
+      "text": "关火后把 40g 味噌放滤网里浸入汤中化开，最后撒上大葱切成的大葱碎。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "味噌关火后加，香气才不跑。",
+      "visual_cue": "汤色浑浊微黄、味噌化匀"
+    }
+  ],
+  "tips": [
+    "味噌必须关火后化开，煮沸会失去香气。",
+    "海带在沸腾前捞出，汤才清鲜不腥。",
+    "蛤蜊没开口的不要勉强吃，直接丢弃。"
+  ],
+  "common_mistakes": [
+    "味噌早下锅一起煮，汤发酸还带涩味。",
+    "海带煮到滚沸，汤色发暗、口感黏滑。",
+    "蛤蜊没吐沙，喝到最后一口全是沙。"
+  ],
+  "substitutions": [
+    {
+      "original": "蛤蜊",
+      "substitute": "蚬子",
+      "ratio": "300g 对 300g",
+      "note": "鲜味更浓，煮制时间减 1 分钟。"
+    },
+    {
+      "original": "豆腐",
+      "substitute": "油豆腐",
+      "ratio": "150g 对 100g",
+      "note": "需先用热水焯去油味。"
+    }
+  ],
+  "variations": [
+    "蟹味版：加 100g 蟹肉棒同煮。",
+    "蘑菇版：加 80g 香菇片增鲜。"
+  ],
+  "serving_suggestion": "盛入木碗，配一碗白米饭和渍物一起食用。",
+  "storage": "现做现吃，冷藏后味噌香气会变淡。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 130,
+    "protein_g": 12,
+    "fat_g": 4,
+    "carbs_g": 10,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蛤蜊须煮至全部开口熟透，未开口的丢弃；贝类过敏人群请避开。",
+    "味噌含大豆过敏原，过敏人群请替换为盐。"
+  ],
+  "origin_note": "蛤蜊味噌汤是日本家庭餐桌上的常备汤品，昆布吊出清汤后下蛤蜊煮到张口，撇去浮沫，加豆腐热透，最后关火化开味噌。汤色微浑、海味清鲜，一碗就能配下一整碗白饭。",
+  "tags": [
+    "日本",
+    "汤",
+    "蛤蜊",
+    "味噌"
+  ],
+  "related_ids": [
+    "tonjiru",
+    "miso-soup",
+    "chawanmushi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

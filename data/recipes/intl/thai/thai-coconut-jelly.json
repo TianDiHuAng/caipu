@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-coconut-jelly",
+  "name": {
+    "zh": "泰式椰奶冻",
+    "en": "Thai Coconut Jelly"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 400,
+          "unit": "ml",
+          "note": "主液",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "稀释",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "椰蓉",
+          "name_en": "desiccated coconut",
+          "amount": 30,
+          "unit": "g",
+          "note": "表面装饰",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "琼脂",
+          "name_en": "agar",
+          "amount": 6,
+          "unit": "g",
+          "note": "凝固剂",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "奶锅",
+    "方形模具",
+    "滤网",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "琼脂 6g 用冷水浸泡 10 分钟至变软，捞出沥干水分备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡软的琼脂才溶得均匀。",
+      "visual_cue": "琼脂柔软透明、无硬芯"
+    },
+    {
+      "n": 2,
+      "text": "奶锅倒 400ml 椰浆与 200ml 牛奶，加 60g 白糖与 1g 盐，小火加热至微沸。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "全程小火，椰浆煮沸会分离。",
+      "visual_cue": "液体微冒热气、糖完全化开"
+    },
+    {
+      "n": 3,
+      "text": "放入泡软的琼脂，小火不断搅拌 5 分钟至完全溶解，液体略变稠。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "搅到看不见琼脂颗粒才停火。",
+      "visual_cue": "液体顺滑、无透明颗粒"
+    },
+    {
+      "n": 4,
+      "text": "过筛倒入容器，撇去表面浮沫，室温放凉后冷藏 4 小时至凝固。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "过筛去浮沫，成品才光洁。",
+      "visual_cue": "表面平整、无气泡"
+    },
+    {
+      "n": 5,
+      "text": "脱模切成 3 厘米方块，滚上一层椰蓉装盘。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "刀蘸温水切，切口才整齐。",
+      "visual_cue": "方块挺立、椰蓉裹匀"
+    }
+  ],
+  "tips": [
+    "琼脂必须完全溶解，否则冷藏后不成型。",
+    "加热时保持小火，椰浆沸腾会油水分离。",
+    "表面浮沫要撇净，脱模后才会光洁好看。"
+  ],
+  "common_mistakes": [
+    "琼脂没泡透就下锅，煮不化导致椰奶冻塌软。",
+    "大火煮沸椰浆，冷却后上层浮一层油。",
+    "没撇浮沫就冷藏，成品表面坑坑洼洼。"
+  ],
+  "substitutions": [
+    {
+      "original": "琼脂",
+      "substitute": "吉利丁",
+      "ratio": "6g 对 15g",
+      "note": "需冷藏 6 小时，口感更软。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "椰浆",
+      "ratio": "200ml 对 200ml",
+      "note": "口感更浓稠，糖可减 10g。"
+    }
+  ],
+  "variations": [
+    "芒果版：凝固前加 100g 芒果丁。",
+    "斑斓版：加 2 滴斑斓精增香调色。"
+  ],
+  "serving_suggestion": "冷藏后切块装小碟，撒椰蓉配薄荷叶上桌。",
+  "storage": "冷藏 3 天，取出后室温放 5 分钟更好脱模。",
+  "nutrition_estimate": {
+    "basis": "每份（约 160g）",
+    "calories_kcal": 290,
+    "protein_g": 4,
+    "fat_g": 22,
+    "carbs_g": 20,
+    "sodium_mg": 80,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含牛奶与椰浆过敏原，乳糖不耐人群请改用椰浆全量。",
+    "甜品须冷藏保存，常温放置超过 2 小时请勿食用。"
+  ],
+  "origin_note": "泰式椰奶冻是泰国甜品摊上常见的消暑小点，椰浆与牛奶按比例调开，用琼脂凝成嫩滑的冻块，切块后裹上一层椰蓉。入口先是椰香，跟着是凉丝丝的甜，夏天午后吃两块特别舒服。",
+  "tags": [
+    "泰国",
+    "甜品",
+    "椰浆",
+    "冷食"
+  ],
+  "related_ids": [
+    "thai-pumpkin-custard",
+    "mango-sticky-rice",
+    "thai-coconut-sticky-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

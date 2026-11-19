@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:34:32.223Z",
+  "generatedAt": "2026-11-19T15:37:09.652Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 493,
     "target": 3274,
-    "actual": 387,
-    "coverage": 0.11820403176542456
+    "actual": 399,
+    "coverage": 0.12186927306047649
   },
   "regions": {
     "cn": [
@@ -1973,7 +1973,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 15,
+        "actual": 17,
         "cells": [
           {
             "category": "main-seafood",
@@ -1989,9 +1989,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "ochazuke",
+              "omurice",
               "oyakodon"
             ]
           },
@@ -1999,8 +2000,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "asari-misoshiru",
               "miso-soup",
               "tonjiru"
             ]
@@ -2090,27 +2092,29 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 20,
+        "actual": 22,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "bulgogi",
-              "dolsot-bibimbap"
+              "dolsot-bibimbap",
+              "jeyuk-bokkeum"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "dwaeji-gukbap",
               "miyeok-guk",
-              "sundubu-jjigae"
+              "sundubu-jjigae",
+              "yukgaejang"
             ]
           },
           {
@@ -2229,7 +2233,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 17,
+        "actual": 19,
         "cells": [
           {
             "category": "main-poultry",
@@ -2268,9 +2272,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "pu-pad-pong-curry",
+              "thai-basil-shrimp",
               "thai-steamed-fish",
               "tom-yum-goong"
             ]
@@ -2279,9 +2284,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "mango-sticky-rice",
+              "thai-coconut-jelly",
               "thai-coconut-sticky-rice",
               "thai-pumpkin-custard"
             ]
@@ -2333,16 +2339,17 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 14,
+        "actual": 16,
         "cells": [
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "ciabatta",
-              "focaccia"
+              "focaccia",
+              "grissini"
             ]
           },
           {
@@ -2379,8 +2386,9 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "aglio-e-olio",
               "pesto-genovese",
               "pesto"
             ]
@@ -2560,16 +2568,17 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 17,
+        "actual": 19,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "bacalao-al-pil-pil",
               "gambas-al-ajillo",
+              "merluza-a-la-vasca",
               "pulpo-a-la-gallega"
             ]
           },
@@ -2610,11 +2619,12 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "alioli",
               "romesco-sauce",
-              "romesco"
+              "romesco",
+              "salmorejo"
             ]
           },
           {
@@ -4135,17 +4145,18 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 16,
+        "actual": 18,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "elote",
               "quesadilla",
-              "tacos-de-carne"
+              "tacos-de-carne",
+              "tostadas"
             ]
           },
           {
@@ -4174,8 +4185,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "caldo-de-pollo",
               "crema-de-elote",
               "sopa-de-frijol",
               "tortilla-soup"

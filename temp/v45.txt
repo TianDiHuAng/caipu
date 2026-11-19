@@ -1,0 +1,30 @@
+﻿校验范围: 327 个文件（成功解析 327）
+分类体系: 59 菜系 / 26 品类；食材词典: 392 项
+
+[问题文件] 5 个（schema 失败 2，规则失败 3）：
+
+· data/recipes/intl/italian/grissini.json (grissini) [SCHEMA]
+   - $.steps[0]: 出现未声明字段 "t"
+   - $.steps[1]: 出现未声明字段 "t"
+   - $.steps[2]: 出现未声明字段 "t"
+   - $.steps[3]: 出现未声明字段 "t"
+   - $.steps[4]: 出现未声明字段 "t"
+   - $.steps[5]: 出现未声明字段 "t"
+
+· data/recipes/intl/japanese/asari-misoshiru.json (asari-misoshiru) [SCHEMA]
+   - $.steps[0]: 出现未声明字段 "t"
+   - $.steps[1]: 出现未声明字段 "t"
+   - $.steps[2]: 出现未声明字段 "t"
+   - $.steps[3]: 出现未声明字段 "t"
+   - $.steps[4]: 出现未声明字段 "t"
+
+· data/recipes/intl/mexican/tostadas.json (tostadas) [RULES]
+   - steps: 文本提到「猪肉末」，但配料表中没有该食材
+
+· data/recipes/intl/spanish/merluza-a-la-vasca.json (merluza-a-la-vasca) [RULES]
+   - time: 步骤时间合计 106 分远超 total 45 分（含并行工序时请下调步骤时长）
+
+· data/recipes/intl/thai/thai-basil-shrimp.json (thai-basil-shrimp) [RULES]
+   - steps: 文本提到「虾」，但配料表中没有该食材
+
+❌ 未通过：5 类问题，累计 14 条
