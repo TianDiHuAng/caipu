@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T10:30:30.535Z
+- 生成时间：2026-11-19T11:21:02.470Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：40 个，抽样 42 道，平均分 98
+- 覆盖菜系：40 个，抽样 42 道，平均分 97
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -24,7 +24,7 @@
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | baizhuo-xia | 87 | B | 准确性 18/25；安全性 14/20 |
-| cantonese | dongguo-paigu-tang | 93 | A | 准确性 18/25 |
+| cantonese | donggua-yimi-paigu-tang | 100 | A | 无 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | bouillabaisse | 100 | A | 无 |
@@ -35,10 +35,10 @@
 | halal-cn | shuipen-yangrou | 93 | A | 准确性 18/25 |
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | ganguo-huacai | 100 | A | 无 |
-| indian | kheer | 100 | A | 无 |
+| indian | gajar-halwa | 100 | A | 无 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | karaage | 100 | A | 无 |
-| jiangsu | yanshui-ya | 100 | A | 无 |
+| jiangsu | yaxue-fensi-tang | 93 | A | 准确性 18/25 |
 | korean | gimbap | 93 | A | 准确性 18/25 |
 | mexican | tacos-de-carne | 100 | A | 无 |
 | middle-eastern | hummus | 100 | A | 无 |
@@ -46,10 +46,10 @@
 | nordic | nordic-fish-soup | 100 | A | 无 |
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | borscht | 100 | A | 无 |
-| shandong | zhaoliu-yupian | 100 | A | 无 |
+| shandong | zha-ouhe | 100 | A | 无 |
 | shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
+| sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
 | sichuan | gongbao-jiding | 100 | A | 无 |
-| sichuan | ganbian-sijidou | 100 | A | 无 |
 | spanish | gazpacho | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
 | thai | pad-thai | 100 | A | 无 |

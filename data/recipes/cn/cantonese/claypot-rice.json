@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "claypot-rice",
+  "name": {
+    "zh": "广式腊味煲仔饭",
+    "en": "Cantonese Claypot Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 32,
+    "total_min": 77
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "丝苗米",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 150,
+          "unit": "g",
+          "note": "斜切厚片",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "可选窝蛋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 380,
+          "unit": "ml",
+          "note": "米水比约一比一点三",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煲仔饭酱油",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "起锅淋",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "调酱汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "刷锅底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "锅盖",
+    "小刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后加 380ml 清水浸泡 20 分钟，让米粒吸足水分。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡过的米更易煮出粒粒分明的口感。",
+      "visual_cue": "米粒发白饱满、水面微浑"
+    },
+    {
+      "n": 2,
+      "text": "砂锅内壁刷一层植物油，倒入米与水，不加盖中火煮开。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "锅底刷油是形成锅巴的关键。",
+      "visual_cue": "水面翻滚、蒸汽大量冒出"
+    },
+    {
+      "n": 3,
+      "text": "水沸后转小火加盖焖 10 分钟，至表面看不到明显水泡。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "火大了米会夹生、锅底先糊。",
+      "visual_cue": "米饭表面出现蜂窝小孔"
+    },
+    {
+      "n": 4,
+      "text": "把腊肠片平铺在米饭上，沿锅边淋一圈植物油，继续小火焖 8 分钟。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "沿锅边淋油，锅巴才整片脆。",
+      "visual_cue": "腊肠出油透亮、锅内滋滋作响"
+    },
+    {
+      "n": 5,
+      "text": "打入鸡蛋并摆上烫熟的青菜，盖盖焖 4 分钟至蛋白凝固。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "鸡蛋最后放，蛋黄才溏心。",
+      "visual_cue": "蛋白转白凝固、青菜翠绿"
+    },
+    {
+      "n": 6,
+      "text": "酱油与白糖调匀，沿锅边淋入，再淋 10ml 香油，焖 1 分钟后起锅拌匀即可。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "沿锅边淋酱，锅巴更香。",
+      "visual_cue": "锅底结出金黄脆片、香气上冲"
+    }
+  ],
+  "tips": [
+    "米水比控制在 1:1.3，饭才不软不硬。",
+    "全程小火焖，锅巴才脆而不焦，火大容易糊底。",
+    "青菜提前焯水，最后再摆避免发黄。"
+  ],
+  "common_mistakes": [
+    "从头到尾大火煮，锅底焦黑饭却夹生。",
+    "腊肠一开始就放，蒸太久油全流失。",
+    "酱汁一次性倒进饭里，盐味不均又糊饭。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肠",
+      "substitute": "腊肉",
+      "ratio": "150g 对 150g",
+      "note": "腊肉更咸，酱汁减 10ml。"
+    },
+    {
+      "original": "大米",
+      "substitute": "香米",
+      "ratio": "300g 对 300g",
+      "note": "香气更浓，水量减 20ml。"
+    }
+  ],
+  "variations": [
+    "腊味双拼版：腊肠与腊肉各 80g 同焖。",
+    "鸡肉版：用 200g 滑鸡块代替腊肠，焖制多 3 分钟。"
+  ],
+  "serving_suggestion": "原锅上桌，拌开后配一碟油菜心与例汤。",
+  "storage": "冷藏 1 天，复热时加一勺清水盖盖小火焖 5 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 620,
+    "protein_g": 22,
+    "fat_g": 22,
+    "carbs_g": 82,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腊肠属腌腊制品，须彻底加热至中心熟透再食用。",
+    "鸡蛋需加热至蛋白完全凝固，孕妇与幼儿建议全熟。"
+  ],
+  "origin_note": "煲仔饭是广东街头的经典主食，用砂锅小火焖出饭焦，腊肠的油香渗进米粒，起锅淋一勺甜酱油，粒粒有味的锅巴最抢手。",
+  "tags": [
+    "粤菜",
+    "主食",
+    "腊味",
+    "砂锅"
+  ],
+  "related_ids": [
+    "baozaifan",
+    "lurou-fan",
+    "mizhi-chashao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

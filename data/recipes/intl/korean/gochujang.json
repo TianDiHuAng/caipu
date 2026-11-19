@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "gochujang",
+  "name": {
+    "zh": "韩式辣椒酱",
+    "en": "Gochujang"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "fermented",
+    "sauce"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 1220,
+    "cook_min": 55,
+    "total_min": 1275
+  },
+  "servings": 10,
+  "flavor": [
+    "spicy",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄豆",
+          "name_en": "soybean",
+          "amount": 500,
+          "unit": "g",
+          "note": "洗净泡发",
+          "optional": false
+        },
+        {
+          "name": "糯米粉",
+          "name_en": "glutinous rice flour",
+          "amount": 100,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 120,
+          "unit": "g",
+          "note": "韩式粗粉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 60,
+          "unit": "g",
+          "note": "防腐提味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "助发酵",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "煮豆用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大锅",
+    "料理机",
+    "陶罐",
+    "纱布"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄豆洗净后加三倍清水浸泡 8 小时，泡至豆粒用手一捏就碎。",
+      "time_min": 485,
+      "heat": "无火",
+      "tip": "夏天放冰箱泡,避免发酸。",
+      "visual_cue": "豆粒膨大、一捏即碎"
+    },
+    {
+      "n": 2,
+      "text": "黄豆连水入锅大火煮开，转中小火煮 40 分钟至豆子软烂。",
+      "time_min": 45,
+      "heat": "中小火",
+      "tip": "煮到能轻松压成泥才算够。",
+      "visual_cue": "豆粒开花、汤汁浑浊"
+    },
+    {
+      "n": 3,
+      "text": "煮好的黄豆沥干，用料理机打成粗泥，保留少许颗粒感。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "打成细泥口感会发死。",
+      "visual_cue": "豆泥粗粝、能挂住勺子"
+    },
+    {
+      "n": 4,
+      "text": "糯米粉 100g 加 200ml 清水调匀，小火煮成半透明糊状，与豆泥拌匀。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "糯米糊是酱体粘稠的关键。",
+      "visual_cue": "糊体半透明、拉起来挂丝"
+    },
+    {
+      "n": 5,
+      "text": "拌入 120g 辣椒粉、60g 盐与 60g 白糖，全程用干净木勺搅匀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "盐量足才不会坏,别随意减。",
+      "visual_cue": "酱呈深红色、质地稠厚"
+    },
+    {
+      "n": 6,
+      "text": "装入消毒陶罐至八分满，表面撒一层盐封口，室温初发酵 12 小时后移入冰箱继续熟成 30 天。",
+      "time_min": 715,
+      "heat": "无火",
+      "tip": "每天开盖放气一次，避免罐内气压过高胀罐。",
+      "visual_cue": "表面析出红油、香气醇厚"
+    }
+  ],
+  "tips": [
+    "所有器具必须无水无油，否则整罐发霉。",
+    "盐量不能减，它是防腐核心，减了很快坏。",
+    "发酵期间每天放气，避免罐内气压过高。"
+  ],
+  "common_mistakes": [
+    "容器带生水，几天就长出白毛，整罐报废。",
+    "豆泥打得太细，成品口感像果泥。",
+    "盐放太少，发酵中途变酸，只能倒掉。"
+  ],
+  "substitutions": [
+    {
+      "original": "糯米粉",
+      "substitute": "大米粉",
+      "ratio": "100g 对 100g",
+      "note": "黏度略低，需多加 20ml 水。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "辣椒碎",
+      "ratio": "120g 对 110g",
+      "note": "颗粒更粗，辣度更冲。"
+    }
+  ],
+  "variations": [
+    "甜辣版：白糖增至 90g，适合做拌饭酱。",
+    "蒜香版：拌入 30g 蒜泥再入罐发酵。"
+  ],
+  "serving_suggestion": "作为拌饭、炒年糕与腌肉的底酱，取用需用干勺。",
+  "storage": "冷藏可存 6 个月，表面淋一层香油隔绝空气。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 190,
+    "protein_g": 9,
+    "fat_g": 5,
+    "carbs_g": 28,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "营养数据为估算值，因食材与用量差异可能变动。"
+  },
+  "allergens": [
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "发酵食品须用消毒容器，出现霉斑或异味立即弃用。",
+    "含盐量高，高血压人群应控制用量。",
+    "黄豆必须彻底煮烂，生豆含胰蛋白酶抑制剂。"
+  ],
+  "origin_note": "韩式辣椒酱是朝鲜半岛流传数百年的发酵酱料，用黄豆泥与糯米糊拌入辣椒粉，装罐慢慢熟成，甜辣厚重，是韩餐调味的底子。",
+  "tags": [
+    "韩国菜",
+    "发酵",
+    "酱料",
+    "辣椒"
+  ],
+  "related_ids": [
+    "kimchi",
+    "kimchi-jjigae",
+    "sundubu-jjigae"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

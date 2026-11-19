@@ -1,0 +1,199 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mango-sticky-rice",
+  "name": {
+    "zh": "泰式芒果糯米饭",
+    "en": "Mango Sticky Rice"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 260,
+    "cook_min": 40,
+    "total_min": 300
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "糯米",
+          "name_en": "glutinous rice",
+          "amount": 200,
+          "unit": "g",
+          "note": "泰国长糯米",
+          "optional": false
+        },
+        {
+          "name": "芒果",
+          "name_en": "mango",
+          "amount": 300,
+          "unit": "g",
+          "note": "熟透的象牙芒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "浓椰浆",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "干锅焙香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸笼",
+    "蒸布",
+    "小锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "糯米淘洗三遍至水变清，加清水浸泡 4 小时至米粒能用指甲掐断。",
+      "time_min": 245,
+      "heat": "无火",
+      "tip": "泡透是软糯的关键,急不得。",
+      "visual_cue": "米粒膨胀发白、一掐就断"
+    },
+    {
+      "n": 2,
+      "text": "糯米沥干铺在蒸布上，中火蒸 25 分钟至完全透明无白芯。",
+      "time_min": 28,
+      "heat": "中火",
+      "tip": "中途洒一次水,避免表层干硬。",
+      "visual_cue": "米粒透明、粒粒分开"
+    },
+    {
+      "n": 3,
+      "text": "小锅放 150ml 椰浆、50g 白糖与 2g 盐，小火加热至糖盐融化不煮沸。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "只加热不煮沸,否则椰浆会油水分离。",
+      "visual_cue": "糖完全融化、液体微冒热气"
+    },
+    {
+      "n": 4,
+      "text": "趁热把糯米饭倒入椰浆中拌匀，盖盖静置 20 分钟让米吸饱椰浆。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "热饭吸浆最快,凉了就吸不进去。",
+      "visual_cue": "米饭油润饱满、粒粒挂浆"
+    },
+    {
+      "n": 5,
+      "text": "芒果去皮切成 1cm 厚片，与糯米饭一同摆盘，淋剩余 50ml 椰浆撒白芝麻。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "芒果切厚片才有肉感。",
+      "visual_cue": "芒果金黄、椰浆沿边缘流淌"
+    }
+  ],
+  "tips": [
+    "糯米必须泡足 4 小时，蒸出来才软糯。",
+    "椰浆加热不要煮沸，否则会分层。",
+    "芒果选熟透的，酸甜平衡才好吃。"
+  ],
+  "common_mistakes": [
+    "糯米没泡透直接蒸，米芯硬得咬不动。",
+    "椰浆煮滚了再拌，油水分离呈絮状。",
+    "糯米饭放凉才拌浆，米粒吸不进味道。"
+  ],
+  "substitutions": [
+    {
+      "original": "芒果",
+      "substitute": "榴莲",
+      "ratio": "300g 对 250g",
+      "note": "风味更重，糖可减 10g。"
+    },
+    {
+      "original": "椰浆",
+      "substitute": "淡奶油",
+      "ratio": "200ml 对 200ml",
+      "note": "少了椰香，需加 3g 香草精。"
+    }
+  ],
+  "variations": [
+    "双色版：糯米饭一半拌入 5g 蝶豆花水染色。",
+    "椰香脆米版：撒 20g 烤椰片增加脆感。"
+  ],
+  "serving_suggestion": "温热或常温食用，配一杯冰镇椰水。",
+  "storage": "冷藏 2 天，复蒸 8 分钟回软后再淋椰浆。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 450,
+    "protein_g": 6,
+    "fat_g": 14,
+    "carbs_g": 78,
+    "sodium_mg": 180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "糯米黏性强，老人与幼儿须小口食用。",
+    "含椰浆，对坚果类过敏者请留意。"
+  ],
+  "origin_note": "芒果糯米饭是泰国最著名的甜点，糯米泡透蒸熟后用椰浆糖水拌润，配熟透的芒果同食，甜糯与果酸交织，是芒果季的限时享受。",
+  "tags": [
+    "泰国菜",
+    "甜点",
+    "芒果",
+    "糯米"
+  ],
+  "related_ids": [
+    "thai-coconut-sticky-rice",
+    "pad-thai",
+    "som-tam"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

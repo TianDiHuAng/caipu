@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:30:36.768Z",
+  "generatedAt": "2026-11-19T11:21:14.323Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 489,
+    "cells": 493,
     "target": 3274,
-    "actual": 322,
-    "coverage": 0.09835064141722663
+    "actual": 340,
+    "coverage": 0.10384850335980451
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 38,
+        "actual": 39,
         "cells": [
           {
             "category": "main-meat",
@@ -116,8 +116,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "larou-chaofan"
+            ]
           },
           {
             "category": "cold-dish",
@@ -190,7 +192,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 16,
+        "actual": 18,
         "cells": [
           {
             "category": "main-seafood",
@@ -229,8 +231,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "shandong-dabobo",
               "shandong-jianbing"
             ]
           },
@@ -292,6 +295,15 @@
             ]
           },
           {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "shandong-dabobo"
+            ]
+          },
+          {
             "category": "appetizer",
             "kind": "extra",
             "target": 0,
@@ -308,7 +320,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 24,
+        "actual": 25,
         "cells": [
           {
             "category": "main-seafood",
@@ -360,9 +372,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "baozaifan"
+              "baozaifan",
+              "claypot-rice"
             ]
           },
           {
@@ -436,7 +449,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 19,
+        "actual": 21,
         "cells": [
           {
             "category": "main-seafood",
@@ -473,9 +486,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "shuijing-yaorou"
+              "shuijing-yaorou",
+              "zao-maodou"
             ]
           },
           {
@@ -527,10 +541,11 @@
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "guihua-tangou",
-              "yanshui-ya"
+              "yanshui-ya",
+              "zao-maodou"
             ]
           },
           {
@@ -1938,7 +1953,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 13,
+        "actual": 15,
         "cells": [
           {
             "category": "main-seafood",
@@ -1954,8 +1969,9 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "ochazuke",
               "oyakodon"
             ]
           },
@@ -2036,6 +2052,15 @@
             "ids": [
               "mitarashi-dango"
             ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "ochazuke"
+            ]
           }
         ]
       },
@@ -2045,7 +2070,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 17,
+        "actual": 19,
         "cells": [
           {
             "category": "main-meat",
@@ -2082,8 +2107,9 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "gochujang",
               "kimchi"
             ]
           },
@@ -2139,6 +2165,15 @@
             ]
           },
           {
+            "category": "sauce",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "gochujang"
+            ]
+          },
+          {
             "category": "appetizer",
             "kind": "extra",
             "target": 0,
@@ -2173,7 +2208,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-poultry",
@@ -2220,8 +2255,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "mango-sticky-rice",
               "thai-coconut-sticky-rice"
             ]
           },
@@ -2272,7 +2308,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "staple-bread",
@@ -2288,9 +2324,10 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "chicken-cacciatore"
+              "chicken-cacciatore",
+              "pollo-arrosto"
             ]
           },
           {
@@ -2498,7 +2535,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-seafood",
@@ -2523,9 +2560,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "paella-valenciana"
+              "paella-valenciana",
+              "paella-verduras"
             ]
           },
           {
@@ -2902,7 +2940,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2944,8 +2982,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "gajar-halwa",
               "kheer"
             ]
           },
@@ -3766,7 +3805,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 12,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
@@ -3792,19 +3831,21 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "apple-pie",
               "brownie",
-              "new-york-cheesecake"
+              "new-york-cheesecake",
+              "pancakes"
             ]
           },
           {
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "pancakes",
               "scrambled-eggs"
             ]
           },
@@ -4055,7 +4096,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 6,
+        "actual": 8,
         "cells": [
           {
             "category": "snack",
@@ -4079,9 +4120,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "guacamole"
+              "guacamole",
+              "pico-de-gallo"
             ]
           },
           {
@@ -4129,6 +4171,15 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "pico-de-gallo"
+            ]
           },
           {
             "category": "staple-bread",

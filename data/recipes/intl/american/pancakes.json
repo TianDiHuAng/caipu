@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "pancakes",
+  "name": {
+    "zh": "美式松饼",
+    "en": "American Pancakes"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "breakfast",
+    "dessert"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 16,
+    "cook_min": 16,
+    "total_min": 32
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "常温",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "膨松",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "融化",
+          "optional": false
+        },
+        {
+          "name": "枫糖浆",
+          "name_en": "maple syrup",
+          "amount": 40,
+          "unit": "ml",
+          "note": "淋面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "打蛋器",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "低筋面粉 200g、白糖 25g、泡打粉 6g 与 2g 盐混合过筛两遍。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "过筛两遍，饼体才细腻无疙瘩。",
+      "visual_cue": "粉料蓬松无结块，堆起来轻飘"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋 2 个打散，加 250ml 牛奶与融化的 30g 黄油搅匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "黄油要放凉再加，太烫会把蛋烫熟。",
+      "visual_cue": "液体均匀、表面浮少量泡沫"
+    },
+    {
+      "n": 3,
+      "text": "把液体倒入粉料中，用打蛋器划十字拌到无干粉即停。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面糊有小结块最好，别过度搅拌。",
+      "visual_cue": "面糊浓稠、略有小疙瘩"
+    },
+    {
+      "n": 4,
+      "text": "面糊静置 10 分钟让泡打粉起效，表面出现细小气泡。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "静置能让饼更松软。",
+      "visual_cue": "面糊表面布满气泡、体积略涨"
+    },
+    {
+      "n": 5,
+      "text": "平底锅小火预热，不放油，舀一勺面糊摊成 10cm 圆饼。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "锅温别太高，否则外焦内生。",
+      "visual_cue": "面糊摊开成规整圆片"
+    },
+    {
+      "n": 6,
+      "text": "煎 2 分钟至表面起泡破孔，翻面再煎 1 分钟，淋 40ml 枫糖浆。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "起泡破孔才翻，翻早了会塌。",
+      "visual_cue": "两面金黄、边缘整齐"
+    }
+  ],
+  "tips": [
+    "面糊不要搅拌过度，起筋就变硬。",
+    "锅温用小火，受热均匀颜色才漂亮。",
+    "饼叠起来上桌，保温又好看，还能互相吸住水汽。"
+  ],
+  "common_mistakes": [
+    "面糊搅到顺滑无颗粒，煎出的饼又韧又硬。",
+    "火太大，表面焦黑里面还是生糊。",
+    "没静置就下锅，饼摊不圆也发不起来。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "酸奶",
+      "ratio": "250ml 对 250g",
+      "note": "更浓稠，需加 30ml 水调稀。"
+    },
+    {
+      "original": "枫糖浆",
+      "substitute": "蜂蜜",
+      "ratio": "40ml 对 40ml",
+      "note": "甜度相近，香气不同。"
+    }
+  ],
+  "variations": [
+    "蓝莓版：面糊里拌入 80g 蓝莓再煎。",
+    "香蕉版：加 1 根压碎的香蕉，糖减 10g。"
+  ],
+  "serving_suggestion": "叠成三层，淋枫糖浆，配黄油与新鲜莓果。",
+  "storage": "冷藏 2 天，复热用平底锅小火干煎 1 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（4 片）",
+    "calories_kcal": 520,
+    "protein_g": 14,
+    "fat_g": 20,
+    "carbs_g": 70,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋必须煎至蛋白完全凝固熟透，老人儿童不建议半熟。",
+    "饼需煎至中心无生糊，按压有弹性。"
+  ],
+  "origin_note": "美式松饼是北美早餐的代表，靠泡打粉膨发，煎出厚实松软的圆饼，叠起来淋上枫糖浆，配培根与咖啡就是标准的一餐。",
+  "tags": [
+    "美国菜",
+    "早餐",
+    "面糊",
+    "煎制"
+  ],
+  "related_ids": [
+    "hamburger",
+    "buffalo-wings",
+    "new-york-cheesecake"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

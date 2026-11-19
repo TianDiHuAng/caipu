@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "paella-verduras",
+  "name": {
+    "zh": "西班牙蔬菜饭",
+    "en": "Paella de Verduras"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 26,
+    "cook_min": 42,
+    "total_min": 68
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "短粒米",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "擦蓉",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "分两次",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 1,
+          "unit": "g",
+          "note": "温水泡开",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "高汤更佳",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底煎锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "藏红花 1g 放入 50ml 温水中浸泡 10 分钟，水色转金黄备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡出颜色再下锅,饭色才均匀。",
+      "visual_cue": "水色金黄透亮，杯底无残渣"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放 40ml 橄榄油，中火炒洋葱碎与蒜末 4 分钟至透明。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "炒软不炒焦,甜味才出来。",
+      "visual_cue": "洋葱透明、香气散出"
+    },
+    {
+      "n": 3,
+      "text": "下番茄蓉与 4g 盐，中火炒 5 分钟至水分收干成红酱。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒透,饭才不酸。",
+      "visual_cue": "酱体浓稠、油色发红"
+    },
+    {
+      "n": 4,
+      "text": "加入大米与青椒条翻炒 2 分钟，倒入 700ml 清水与藏红花水煮开。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "米要炒过才不粘锅。",
+      "visual_cue": "米粒裹上红酱、液面沸腾"
+    },
+    {
+      "n": 5,
+      "text": "转小火不加盖煮 18 分钟，中途不要搅动，让锅底结一层饭焦。",
+      "time_min": 19,
+      "heat": "小火",
+      "tip": "搅拌会破坏米粒结构,饭变糊。",
+      "visual_cue": "汤汁收干、表面出现小气孔"
+    },
+    {
+      "n": 6,
+      "text": "关火盖布静置 5 分钟，淋剩余 20ml 橄榄油即可上桌。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置让米粒内部水分均匀。",
+      "visual_cue": "饭粒松散、锅底结薄脆焦"
+    }
+  ],
+  "tips": [
+    "全程不搅拌，才能形成锅底的焦香饭层。",
+    "藏红花先用温水泡开，颜色才均匀。",
+    "米与水的比例约一比二点三，宁少勿多。"
+  ],
+  "common_mistakes": [
+    "反复翻炒米粒，最后煮成一锅稠粥。",
+    "火太大汤汁收干太快，米芯还硬。",
+    "藏红花整撮直接撒，饭色深浅不一。"
+  ],
+  "substitutions": [
+    {
+      "original": "藏红花",
+      "substitute": "姜黄粉",
+      "ratio": "1g 对 3g",
+      "note": "颜色相近，香气较单一。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "四季豆",
+      "ratio": "100g 对 100g",
+      "note": "需先焯水 2 分钟。"
+    }
+  ],
+  "variations": [
+    "蘑菇版：加 150g 蘑菇片同炒增鲜。",
+    "海鲜版：最后 8 分钟摆入 200g 虾与青口。"
+  ],
+  "serving_suggestion": "连锅上桌，配蒜香蛋黄酱与一杯干白。",
+  "storage": "冷藏 1 天，复热用平底锅小火加热 6 分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 480,
+    "protein_g": 9,
+    "fat_g": 22,
+    "carbs_g": 62,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "平底锅高温加油，注意油花溅出烫伤。",
+    "藏红花孕妇不宜大量食用，本菜用量为调味级别。"
+  ],
+  "origin_note": "西班牙蔬菜饭是瓦伦西亚海鲜饭的素食版本，用番茄洋葱炒出红酱打底，藏红花染出金黄，靠静置与锅底焦层成就层次。",
+  "tags": [
+    "西班牙菜",
+    "主食",
+    "米饭",
+    "蔬菜"
+  ],
+  "related_ids": [
+    "paella-valenciana",
+    "gazpacho",
+    "romesco"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

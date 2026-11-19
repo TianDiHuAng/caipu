@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-dabobo",
+  "name": {
+    "zh": "山东大饽饽",
+    "en": "Shandong Steamed Bun"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "staple-bread",
+    "breakfast"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 170,
+    "cook_min": 42,
+    "total_min": 212
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "约 30℃",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "先化开",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "助发酵",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "增筋",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "蒸锅",
+    "蒸布"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干酵母 5g 与 30g 白糖溶入 250ml 温水，静置 5 分钟至表面起泡。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水温摸着温不烫手最合适。",
+      "visual_cue": "水面浮起细密气泡"
+    },
+    {
+      "n": 2,
+      "text": "面粉加 2g 盐拌匀，倒入酵母水揉成光滑面团，揉到表面没有气孔。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "饽饽要反复揉，才有嚼劲。",
+      "visual_cue": "面团光滑细腻、按压回弹"
+    },
+    {
+      "n": 3,
+      "text": "盖湿布室温发酵 2 小时至两倍大，手指戳洞不回缩即可。",
+      "time_min": 125,
+      "heat": "无火",
+      "tip": "冬天可放温暖处延长半小时。",
+      "visual_cue": "体积两倍大、内部呈蜂窝状"
+    },
+    {
+      "n": 4,
+      "text": "面团排气后分成四份，反复揉圆成高桩馒头形，收口朝下摆放。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "多揉几遍，蒸出的饽饽更白更筋。",
+      "visual_cue": "生坯圆润挺立、表面光滑"
+    },
+    {
+      "n": 5,
+      "text": "生坯放蒸布上二次发酵 30 分钟，冷水上锅大火蒸 35 分钟。",
+      "time_min": 68,
+      "heat": "大火",
+      "tip": "蒸好别立刻开盖，焖 5 分钟防塌。",
+      "visual_cue": "饽饽膨胀裂口、按压迅速回弹"
+    }
+  ],
+  "tips": [
+    "面团要揉到切开无气泡，蒸出来才细腻。",
+    "冷水上锅慢升温，饽饽才发得透。",
+    "关火后焖 5 分钟再揭盖，避免回缩。"
+  ],
+  "common_mistakes": [
+    "面团没揉透就整形，成品表面坑洼发硬。",
+    "发酵不足直接蒸，饽饽又小又实。",
+    "蒸好立刻开盖，热气一冲表面塌陷。"
+  ],
+  "substitutions": [
+    {
+      "original": "面粉",
+      "substitute": "全麦面粉",
+      "ratio": "500g 对 400g 加 100g",
+      "note": "加 20ml 水，口感更粗。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "蜂蜜",
+      "ratio": "30g 对 25g",
+      "note": "甜味更柔，发酵略慢。"
+    }
+  ],
+  "variations": [
+    "枣饽饽版：面团里嵌 12 颗去核红枣。",
+    "花饽饽版：搓长条盘成花纹再蒸。"
+  ],
+  "serving_suggestion": "掰开配大葱蘸酱，或夹红烧肉做成饽饽夹肉。",
+  "storage": "常温布袋存 2 天，冷冻 1 个月，复蒸 10 分钟回软。",
+  "nutrition_estimate": {
+    "basis": "每份（1 个）",
+    "calories_kcal": 470,
+    "protein_g": 14,
+    "fat_g": 2,
+    "carbs_g": 100,
+    "sodium_mg": 210,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蒸锅高温，揭盖取物须防蒸汽烫伤。",
+    "饽饽需蒸至中心熟透，按压回弹再出锅。"
+  ],
+  "origin_note": "大饽饽是胶东人家过年的必备主食，面团反复揉透再大火蒸制，个头饱满裂口开花，寓意日子发旺，配大葱蘸酱就是一餐。",
+  "tags": [
+    "鲁菜",
+    "主食",
+    "面食",
+    "蒸制"
+  ],
+  "related_ids": [
+    "shandong-jianbing",
+    "huizhou-shaobing",
+    "zhajiangmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

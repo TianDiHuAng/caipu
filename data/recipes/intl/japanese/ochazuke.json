@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "ochazuke",
+  "name": {
+    "zh": "日式茶泡饭",
+    "en": "Ochazuke"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice",
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 16,
+    "cook_min": 12,
+    "total_min": 28
+  },
+  "servings": 2,
+  "flavor": [
+    "light",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "三文鱼",
+          "name_en": "salmon",
+          "amount": 120,
+          "unit": "g",
+          "note": "去刺切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "紫菜",
+          "name_en": "nori",
+          "amount": 5,
+          "unit": "g",
+          "note": "剪细丝",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 3,
+          "unit": "g",
+          "note": "焙香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "绿茶",
+          "name_en": "green tea",
+          "amount": 300,
+          "unit": "ml",
+          "note": "80℃ 冲泡",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "给鲑鱼",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小煎锅",
+    "茶壶",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲑鱼切 2cm 小块，撒 1g 盐静置 10 分钟，再用厨房纸吸干表面水分。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "吸干水分，煎的时候才不溅油。",
+      "visual_cue": "鱼块表面干爽、微微出水"
+    },
+    {
+      "n": 2,
+      "text": "小煎锅烧热，鱼皮朝下放入鲑鱼中火煎 3 分钟至金黄。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "鱼皮先煎，脆香又不粘锅。",
+      "visual_cue": "鱼皮金黄起泡、香味散出"
+    },
+    {
+      "n": 3,
+      "text": "翻面再煎 2 分钟至鱼肉全熟，用锅铲拨成粗块备用。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "拨成大块，口感才有存在感。",
+      "visual_cue": "鱼肉变白易散、中心不透明"
+    },
+    {
+      "n": 4,
+      "text": "绿茶 5g 用 80℃ 水冲泡 3 分钟，滤出 300ml 茶汤，加 10ml 酱油调匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "水温高了茶会涩，冲淡饭香。",
+      "visual_cue": "茶汤清亮、香气清雅"
+    },
+    {
+      "n": 5,
+      "text": "热米饭盛碗，铺上鲑鱼块、海苔丝与白芝麻，沿碗边注入茶汤即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "茶汤沿碗边倒，饭才不会冲散。",
+      "visual_cue": "茶汤浸至八分满、香气升起"
+    }
+  ],
+  "tips": [
+    "米饭要温热，冷饭遇茶汤会发硬。",
+    "茶汤 80℃ 冲泡，滚水会涩口。",
+    "海苔最后放，早放会软塌贴在饭上。"
+  ],
+  "common_mistakes": [
+    "用冷饭泡茶，饭粒发硬散开，汤也变浑。",
+    "茶汤倒得太满，端起来容易洒一桌。",
+    "鲑鱼煎过头，鱼肉干柴失去油脂。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲑鱼",
+      "substitute": "梅干",
+      "ratio": "120g 对 2 颗",
+      "note": "简版梅茶泡饭，盐可减半。"
+    },
+    {
+      "original": "绿茶",
+      "substitute": "煎茶",
+      "ratio": "300ml 对 300ml",
+      "note": "香气更清，水温降到 70℃。"
+    }
+  ],
+  "variations": [
+    "鳗鱼版：用 100g 烤鳗鱼代替鲑鱼。",
+    "梅子版：加一颗咸梅干，酸咸更开胃。"
+  ],
+  "serving_suggestion": "作为早餐或酒后收尾的一碗轻食，趁热吃。",
+  "storage": "现做现吃，茶汤与饭分开放置不超过 2 小时。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 380,
+    "protein_g": 22,
+    "fat_g": 9,
+    "carbs_g": 52,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鲑鱼需煎至中心完全变白熟透，避免生食寄生虫风险。",
+    "茶汤含咖啡因，睡前与儿童不宜多饮。"
+  ],
+  "origin_note": "茶泡饭是日本家常的收尾料理，热饭上铺煎鱼或腌梅，浇上热茶一冲即成，清淡解腻，据说源自僧侣的简朴一餐。",
+  "tags": [
+    "日本菜",
+    "主食",
+    "茶泡饭",
+    "清淡"
+  ],
+  "related_ids": [
+    "miso-soup",
+    "teriyaki-chicken",
+    "miso-salmon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}
