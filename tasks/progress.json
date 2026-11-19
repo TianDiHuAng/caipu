@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T04:18:21.902Z",
+  "generatedAt": "2026-11-19T04:21:18.136Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 458,
+    "cells": 460,
     "target": 3274,
-    "actual": 172,
-    "coverage": 0.05253512522907758
+    "actual": 178,
+    "coverage": 0.05436774587660354
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 26,
+        "actual": 28,
         "cells": [
           {
             "category": "main-meat",
@@ -91,8 +91,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "yuxiang-hongdan"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -126,10 +128,11 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "chuanbei-liangfen",
-              "lazi-ji"
+              "lazi-ji",
+              "zhong-shuijiao"
             ]
           },
           {
@@ -279,7 +282,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 18,
+        "actual": 20,
         "cells": [
           {
             "category": "main-seafood",
@@ -337,9 +340,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "jiang-zhuang-nai"
+              "jiang-zhuang-nai",
+              "jiangzhuangnai"
             ]
           },
           {
@@ -384,6 +388,15 @@
             "ids": [
               "baizhuo-xia"
             ]
+          },
+          {
+            "category": "drink",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "jiangzhuangnai"
+            ]
           }
         ]
       },
@@ -393,7 +406,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 11,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
@@ -480,9 +493,19 @@
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
+            "actual": 2,
+            "ids": [
+              "guihua-tangou",
+              "yanshui-ya"
+            ]
+          },
+          {
+            "category": "dessert",
+            "kind": "extra",
+            "target": 0,
             "actual": 1,
             "ids": [
-              "yanshui-ya"
+              "guihua-tangou"
             ]
           }
         ]

@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhong-shuijiao",
+  "name": {
+    "zh": "钟水饺",
+    "en": "Zhong Dumplings in Sweet Soy Sauce"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 10,
+    "total_min": 35
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "sweet",
+    "salty",
+    "numbing"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "饺子皮",
+          "name_en": "dumpling wrapper",
+          "amount": 300,
+          "unit": "g",
+          "note": "约 40 张",
+          "optional": false
+        },
+        {
+          "name": "猪肉馅",
+          "name_en": "minced pork",
+          "amount": 300,
+          "unit": "g",
+          "note": "三肥七瘦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "捣成蒜水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "红糖",
+          "name_en": "brown sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "复制酱油用",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "带辣椒面",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "馅料底味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 12,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "案板",
+    "擀面杖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肉馅加盐、料酒、姜末与 40ml 清水，顺一个方向搅打至起胶，再加香油拌匀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "打水让肉馅嫩，起胶才抱团。",
+      "visual_cue": "肉馅黏稠上劲、能整体挑起"
+    },
+    {
+      "n": 2,
+      "text": "取饺子皮包入约 8g 肉馅，对折捏紧封口，捏成月牙形，摆在撒了干粉的盘里。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "封口要捏实，煮时才不会散。",
+      "visual_cue": "饺子饱满挺立、封口无缝隙"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放生抽与红糖，小火熬 3 分钟至冒细泡、汁液略稠，倒出即复制酱油。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "红糖熬化后才有浓稠挂勺的甜香。",
+      "visual_cue": "汁色深褐发亮、微黏"
+    },
+    {
+      "n": 4,
+      "text": "锅中加 2000ml 水烧开，下饺子用勺背推散，煮至全部浮起后点 2 次冷水。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "推锅用勺背，饺子皮才不破。",
+      "visual_cue": "饺子鼓起浮面、皮透出肉色"
+    },
+    {
+      "n": 5,
+      "text": "捞出沥水装碗，淋复制酱油与蒜水，浇辣椒油撒花椒粉，最后撒小葱花。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "复制酱油多放些，甜咸是灵魂。",
+      "visual_cue": "饺子浸在红褐汁中、油光发亮"
+    }
+  ],
+  "tips": [
+    "肉馅必须打水上劲，煮出来才嫩滑多汁。",
+    "复制酱油是钟水饺的灵魂，红糖不能省。",
+    "饺子不要包太大，一口一个最地道。"
+  ],
+  "common_mistakes": [
+    "肉馅不调味直接包，煮出来寡淡发散。",
+    "饺子皮封口没捏紧，下锅就开口漏馅。",
+    "酱油与糖分开淋，甜咸分离不成味。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉馅",
+      "substitute": "牛肉馅",
+      "ratio": "300g 对 300g",
+      "note": "需多加 20ml 水，口感才不干。"
+    },
+    {
+      "original": "饺子皮",
+      "substitute": "馄饨皮",
+      "ratio": "300g 对 300g",
+      "note": "皮更薄，煮的时间减 1 分钟。"
+    }
+  ],
+  "variations": [
+    "红油版：辣椒油加到 60ml，麻辣更重。",
+    "清汤版：不淋红油，用骨汤配酱油食用。"
+  ],
+  "serving_suggestion": "趁热拌开吃，配一碗原汤或酸辣汤。",
+  "storage": "生饺子冷冻 2 周，熟饺子冷藏 1 天；复热用蒸或煎。",
+  "nutrition_estimate": {
+    "basis": "每份（约 10 个）",
+    "calories_kcal": 460,
+    "protein_g": 20,
+    "fat_g": 22,
+    "carbs_g": 44,
+    "sodium_mg": 890,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉馅必须彻底煮熟，饺子浮起后再煮 1 分钟。",
+    "生熟食材分开处理，避免交叉污染。",
+    "含小麦与大豆，相关过敏人群慎食。"
+  ],
+  "origin_note": "钟水饺是成都老字号小吃，饺子皮薄馅嫩，只用复制酱油、红油与蒜水调味，甜咸麻辣交织，与北方饺子风味完全不同。",
+  "tags": [
+    "川菜",
+    "小吃",
+    "饺子",
+    "红油"
+  ],
+  "related_ids": [
+    "suancai-yu",
+    "sichuan-hongyou-lazi",
+    "douban-yu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-19",
+  "updated_at": "2026-11-19"
+}

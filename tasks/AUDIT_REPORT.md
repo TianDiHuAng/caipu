@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-19T04:18:22.741Z
+- 生成时间：2026-11-19T04:21:18.815Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：32 个，抽样 32 道，平均分 95
+- 覆盖菜系：32 个，抽样 33 道，平均分 95
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -35,23 +35,24 @@
 | indian | butter-chicken | 93 | A | 准确性 18/25 |
 | italian | bruschetta | 93 | A | 准确性 18/25 |
 | japanese | miso-salmon | 93 | A | 准确性 18/25 |
-| jiangsu | shuijing-yaorou | 100 | A | 无 |
+| jiangsu | shizitou | 93 | A | 准确性 18/25 |
 | korean | kimchi-jjigae | 100 | A | 无 |
 | mexican | tacos-de-carne | 100 | A | 无 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |
 | shandong | linyi-chaoji | 100 | A | 无 |
 | shanghai | yandu-xian | 87 | B | 准确性 18/25；安全性 14/20 |
 | sichuan | yuxiang-rousi | 100 | A | 无 |
+| sichuan | dandan-mian | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
-| thai | thai-green-curry-chicken | 100 | A | 无 |
+| thai | tom-yum-goong | 94 | A | 安全性 14/20 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | vietnamese | pho-bo | 100 | A | 无 |
-| xibei | youpo-mian | 100 | A | 无 |
-| xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
+| xibei | yangrou-paomo | 93 | A | 准确性 18/25 |
+| xinjiang | naobao-rou | 100 | A | 无 |
 | yunguai | guoqiao-mixian | 100 | A | 无 |
-| zhejiang | jiaxing-zongzi | 100 | A | 无 |
+| zhejiang | longjing-xiaren | 94 | A | 安全性 14/20 |
 
 ## 结论
 
-- 本批 32 道全部达到 B 级及以上，无需重写。
+- 本批 33 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。
