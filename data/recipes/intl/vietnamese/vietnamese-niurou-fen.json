@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "vietnamese-niurou-fen",
+  "name": {
+    "zh": "越式牛肉粉",
+    "en": "Vietnamese Beef Noodle Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "vietnamese"
+  },
+  "category": [
+    "staple-noodle",
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "light",
+    "fragrant",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腱",
+          "name_en": "beef shank",
+          "amount": 400,
+          "unit": "g",
+          "note": "整块焯水后切片",
+          "optional": false
+        },
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "干米粉，泡软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "一半烤香一半切丝",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "垫碗",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "提鲜主味",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡咸味",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "微调",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "熬汤用水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "平底锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腱冷水下锅焯去血水，捞出冲洗干净，切成两半备用。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "焯水时撇净浮沫，汤才清亮。",
+      "visual_cue": "牛腱表面无血沫、颜色发白"
+    },
+    {
+      "n": 2,
+      "text": "洋葱切半与姜块放平底锅干烙到表面焦黑，取出备用。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "烙出焦香是越式汤底的灵魂。",
+      "visual_cue": "洋葱切面焦褐、姜块带黑斑"
+    },
+    {
+      "n": 3,
+      "text": "汤锅加清水，放入牛腱、烙过的洋葱姜块、八角与桂皮，大火烧开转小火炖四十五分钟。",
+      "time_min": 50,
+      "heat": "小火",
+      "tip": "小火慢炖，汤才清而不浑。",
+      "visual_cue": "牛腱能被筷子轻松穿透"
+    },
+    {
+      "n": 4,
+      "text": "捞出牛腱放凉切薄片；汤过滤后加鱼露、冰糖与盐调味，保持微沸。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "鱼露后放，久煮会发苦。",
+      "visual_cue": "汤色琥珀、咸鲜适口"
+    },
+    {
+      "n": 5,
+      "text": "干米粉用温水泡软，另起锅烧开水烫四十秒，捞出沥干分装进三个碗。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "米粉烫到软而不烂，久煮会断。",
+      "visual_cue": "米粉柔软、不粘成团"
+    },
+    {
+      "n": 6,
+      "text": "碗里铺豆芽与洋葱丝，码上牛腱片，浇上滚烫的汤，撒香菜与小米辣。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "汤要滚烫浇下，牛腱片才焖到熟。",
+      "visual_cue": "汤面冒热气、牛腱片转粉白"
+    }
+  ],
+  "tips": [
+    "牛腱可提前一晚炖好，第二天加热更快。",
+    "鱼露的咸度很高，先少放一点再尝味补足。",
+    "配一碟柠檬角和甜辣酱，风味更接近当地吃法。"
+  ],
+  "common_mistakes": [
+    "洋葱不烙直接煮，汤缺少焦香层次。",
+    "用大火滚煮一小时，汤变浑浊而且肉发柴。",
+    "米粉泡太久又久煮，端上桌就断成一截截。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腱",
+      "substitute": "牛里脊",
+      "ratio": "400g 对 350g",
+      "note": "里脊更嫩，无需久炖，最后汆熟即可。"
+    },
+    {
+      "original": "米粉",
+      "substitute": "河粉",
+      "ratio": "300g 对 300g",
+      "note": "河粉更宽，烫二十秒即熟。"
+    }
+  ],
+  "variations": [
+    "加几片生牛腱薄片，靠热汤烫到半熟。",
+    "放一勺辣椒油与酸菜，做成酸辣口味。"
+  ],
+  "serving_suggestion": "一碗粉配一碟香菜和柠檬角，趁热吃。",
+  "storage": "汤与粉分开冷藏，两天内吃完，复热汤要滚沸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 400g）",
+    "calories_kcal": 480,
+    "protein_g": 30,
+    "fat_g": 12,
+    "carbs_g": 62,
+    "sodium_mg": 1100,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腱必须炖至中心熟透，切片后无血水渗出。",
+    "汤底冷藏保存不超过两天，复热须彻底滚沸。",
+    "豆芽等生食配菜要洗净，可用沸水烫十秒再上桌。"
+  ],
+  "origin_note": "越式牛肉粉是越南的国民早餐，牛骨与牛腱配上烙过的洋葱、姜和八角桂皮，慢炖出一锅清亮汤底，再用鱼露调味。米粉烫软铺碗，浇汤后撒香菜与辣椒，酸、鲜、香一齐上来。",
+  "tags": [
+    "越南菜",
+    "汤粉",
+    "早餐",
+    "清香"
+  ],
+  "related_ids": [
+    "sichuan-lianguo-tang",
+    "korean-dajiang-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
