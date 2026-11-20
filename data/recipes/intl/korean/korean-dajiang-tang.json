@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-dajiang-tang",
+  "name": {
+    "zh": "韩式大酱汤",
+    "en": "Korean Soybean Paste Stew"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 150,
+          "unit": "g",
+          "note": "切半月片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "韩式大酱的替代品",
+          "optional": false
+        },
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 10,
+          "unit": "g",
+          "note": "增辣增色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "微调咸度",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮汤用水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "菜刀",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆去皮切滚刀块，西葫芦切半月片，洋葱切粗丝，豆腐切成三厘米方块。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "土豆切小一点，才能与豆腐同时熟。",
+      "visual_cue": "蔬菜切块均匀、大小相近"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加清水烧开，放入黄豆酱与韩式辣椒酱，用汤勺压散搅匀。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "酱要用勺底压散，不然结块沉底。",
+      "visual_cue": "汤色酱褐、无结块"
+    },
+    {
+      "n": 3,
+      "text": "下土豆块与洋葱丝，中火煮八分钟到土豆边缘变透明。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱先煮，汤的甜味才出来。",
+      "visual_cue": "土豆能被筷子插入"
+    },
+    {
+      "n": 4,
+      "text": "放入西葫芦与豆腐块，再煮五分钟，让豆腐吸足酱汤。",
+      "time_min": 5,
+      "heat": "中小火",
+      "tip": "豆腐下锅后别大力搅，容易碎。",
+      "visual_cue": "豆腐浮起、表面微孔"
+    },
+    {
+      "n": 5,
+      "text": "加蒜末与盐调味，撒葱段关火，连锅上桌配米饭。",
+      "time_min": 2,
+      "heat": "中小火",
+      "tip": "蒜末最后放，辛香才留得住。",
+      "visual_cue": "汤面微微冒泡、葱段翠绿"
+    }
+  ],
+  "tips": [
+    "大酱咸度差别大，先少放再尝味补盐。",
+    "加一把蛤蜊或几片牛肉，汤头更鲜甜。",
+    "用淘米水代替清水，汤更浓稠顺口。"
+  ],
+  "common_mistakes": [
+    "酱直接丢进锅里不搅散，喝到咸块。",
+    "土豆切得太大，汤煮干了土豆还硬。",
+    "一直大火滚煮，豆腐全碎在汤里。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄豆酱",
+      "substitute": "韩式大酱",
+      "ratio": "30g 对 30g",
+      "note": "正宗大酱风味更醇厚。"
+    },
+    {
+      "original": "西葫芦",
+      "substitute": "小白菜",
+      "ratio": "150g 对 150g",
+      "note": "小白菜最后两分钟再下。"
+    }
+  ],
+  "variations": [
+    "加泡菜同煮，做成酸辣口味的泡菜大酱汤。",
+    "放几片五花肉先煸香，汤更浓郁。"
+  ],
+  "serving_suggestion": "配一碗白饭和几样小菜，就是标准韩式家常饭。",
+  "storage": "冷藏两天，复热时加少量清水稀释。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 200,
+    "protein_g": 12,
+    "fat_g": 7,
+    "carbs_g": 22,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆腐与蔬菜须煮至完全熟透，土豆不可生硬。",
+    "大酱含盐高，高血压人群宜减量。",
+    "汤品冷藏保存不超过两天，复热要滚沸。"
+  ],
+  "origin_note": "大酱汤是韩国人餐桌上出现频率最高的一锅汤，用发酵大豆酱打底，随手放豆腐、土豆、西葫芦，再来一勺辣椒酱提味。家里有什么就放什么，一顿饭有一碗大酱汤，配白饭就吃得踏实。",
+  "tags": [
+    "韩式",
+    "汤",
+    "家常",
+    "发酵"
+  ],
+  "related_ids": [
+    "japanese-zhaoshao-jitui",
+    "sichuan-lianguo-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

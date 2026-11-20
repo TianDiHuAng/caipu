@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-lianguo-tang",
+  "name": {
+    "zh": "连锅汤",
+    "en": "Sichuan Sliced Pork and Radish Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "soup",
+    "main-meat"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 70,
+    "total_min": 85
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 400,
+          "unit": "g",
+          "note": "带皮整块，切大片",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 400,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "蘸碟用",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "煮汤用水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "菜刀",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块冷水下锅，加料酒、姜片与花椒，大火烧开后撇沫转小火煮四十分钟至七分熟。",
+      "time_min": 40,
+      "heat": "大火",
+      "tip": "整块煮能让肉片切出来不散。",
+      "visual_cue": "肉块用筷子能插入但有阻力"
+    },
+    {
+      "n": 2,
+      "text": "捞出肉块晾到不烫手，切成两毫米厚的大薄片，原汤留着不要倒。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肉要晾凉再切，热切会碎。",
+      "visual_cue": "肉片薄透、肥瘦相连不散"
+    },
+    {
+      "n": 3,
+      "text": "白萝卜去皮切成同样厚薄的片，葱切段备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "萝卜切薄一点，才好与肉片同熟。",
+      "visual_cue": "萝卜片均匀、不见粗块"
+    },
+    {
+      "n": 4,
+      "text": "原汤过筛倒回锅里烧开，下白萝卜片煮八分钟至半透明。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "原汤是这道菜的魂，别换成清水。",
+      "visual_cue": "萝卜片透亮、汤面微白"
+    },
+    {
+      "n": 5,
+      "text": "下肉片同煮三分钟，加盐调味，撒葱段关火；生抽单独装碟作蘸水。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "肉片后下，久煮会老。",
+      "visual_cue": "肉片卷边、汤清而不浑浊"
+    }
+  ],
+  "tips": [
+    "煮肉的原汤撇净浮油后当汤底，鲜味全靠它。",
+    "蘸碟里加一勺辣椒油和蒜末，川味更足。",
+    "萝卜换成冬瓜或莴笋，口感同样清爽好吃。"
+  ],
+  "common_mistakes": [
+    "肉煮全熟再切片，久煮之后又老又柴。",
+    "把煮肉的原汤倒掉改用清水，汤寡淡无味。",
+    "肉片切成厚方块，煮出来咬不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪后腿肉",
+      "ratio": "400g 对 400g",
+      "note": "腿肉更瘦，煮的时间缩短十分钟。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "冬瓜",
+      "ratio": "400g 对 400g",
+      "note": "冬瓜易熟，下锅煮五分钟即可。"
+    }
+  ],
+  "variations": [
+    "加一把粉丝同煮，连汤带菜更顶饱。",
+    "蘸碟换成蒜泥加酱油，口味更清爽。"
+  ],
+  "serving_suggestion": "连汤带肉盛碗，肉片蘸着生抽吃，汤单喝。",
+  "storage": "汤与肉分开放，冷藏两天，复热时加少量清水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350g）",
+    "calories_kcal": 380,
+    "protein_g": 18,
+    "fat_g": 30,
+    "carbs_g": 8,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉必须煮至中心断生并切片后再煮透。",
+    "原汤冷藏保存不超过两天，复热要彻底滚沸。",
+    "处理生肉与切熟肉的刀板要分开使用。"
+  ],
+  "origin_note": "连锅汤是川西坝子上的家常汤菜，一整块五花肉在锅里煮熟切片，再与原汤、萝卜同煮，蘸着红油碟吃。因为肉和汤都出自同一口锅，所以叫连锅。冬天里围炉喝一碗，汤鲜肉嫩，浑身都暖。",
+  "tags": [
+    "川菜",
+    "汤",
+    "家常",
+    "冬季"
+  ],
+  "related_ids": [
+    "shuizhu-roupian",
+    "xuecai-datang-huangyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

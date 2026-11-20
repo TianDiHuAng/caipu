@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T08:52:26.300Z",
+  "generatedAt": "2026-11-20T08:55:08.316Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 502,
+    "cells": 503,
     "target": 3274,
-    "actual": 556,
-    "coverage": 0.16982284667073916
+    "actual": 563,
+    "coverage": 0.17196090409285278
   },
   "regions": {
     "cn": [
@@ -23,13 +23,13 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 53,
+        "actual": 55,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "fenzheng-rou",
               "guoba-roupian",
@@ -39,6 +39,7 @@
               "mapo-doufu",
               "shuizhu-niurou",
               "shuizhu-roupian",
+              "sichuan-lianguo-tang",
               "tudou-shao-paigu",
               "yuxiang-rousi"
             ]
@@ -134,6 +135,19 @@
             ]
           },
           {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 5,
+            "ids": [
+              "kaishui-baicai",
+              "sichuan-lianguo-tang",
+              "suancai-yu",
+              "suanla-tang",
+              "suanluobo-laoya-tang"
+            ]
+          },
+          {
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
@@ -143,18 +157,6 @@
               "liangban-fuzhu",
               "sichuan-liangmian",
               "suan-ni-bai-rou"
-            ]
-          },
-          {
-            "category": "soup",
-            "kind": "extra",
-            "target": 0,
-            "actual": 4,
-            "ids": [
-              "kaishui-baicai",
-              "suancai-yu",
-              "suanla-tang",
-              "suanluobo-laoya-tang"
             ]
           },
           {
@@ -206,7 +208,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 40,
         "cells": [
           {
             "category": "main-seafood",
@@ -290,8 +292,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shandong-muxu-rou"
+            ]
           },
           {
             "category": "main-tofu",
@@ -357,7 +361,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 53,
+        "actual": 54,
         "cells": [
           {
             "category": "main-seafood",
@@ -475,8 +479,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "cantonese-chiyou-jian-doufu"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -956,7 +962,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 27,
+        "actual": 28,
         "cells": [
           {
             "category": "main-meat",
@@ -1023,8 +1029,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "hunan-xiaomila-chaodan"
+            ]
           },
           {
             "category": "main-tofu",
@@ -2199,7 +2207,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 20,
+        "actual": 21,
         "cells": [
           {
             "category": "main-seafood",
@@ -2296,6 +2304,15 @@
             ]
           },
           {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "japanese-zhaoshao-jitui"
+            ]
+          },
+          {
             "category": "snack",
             "kind": "extra",
             "target": 0,
@@ -2321,7 +2338,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 25,
         "cells": [
           {
             "category": "main-meat",
@@ -2338,9 +2355,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "dwaeji-gukbap",
+              "korean-dajiang-tang",
               "miyeok-guk",
               "sundubu-jjigae",
               "yukgaejang"
