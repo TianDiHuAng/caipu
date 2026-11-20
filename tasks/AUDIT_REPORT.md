@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T09:05:36.556Z
+- 生成时间：2026-11-20T10:12:53.480Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：40 个，抽样 49 道，平均分 97
+- 覆盖菜系：40 个，抽样 51 道，平均分 97
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -24,8 +24,8 @@
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | caigan-zhugu-tang | 93 | A | 准确性 18/25 |
-| cantonese | dongguo-paigu-tang | 93 | A | 准确性 18/25 |
-| cantonese | ganchao-niuhe | 94 | A | 安全性 14/20 |
+| cantonese | dan-chaofan | 100 | A | 无 |
+| cantonese | chizhi-zheng-shanbei | 100 | A | 无 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-luandun | 93 | A | 准确性 18/25 |
 | french | bouillabaisse | 100 | A | 无 |
@@ -40,35 +40,37 @@
 | hunan | duojiao-zheng-yutou | 100 | A | 无 |
 | indian | samosa | 93 | A | 准确性 18/25 |
 | italian | ciabatta | 100 | A | 无 |
-| japanese | oyakodon | 100 | A | 无 |
-| jiangsu | zao-maodou | 100 | A | 无 |
+| japanese | omurice | 100 | A | 无 |
+| japanese | tempura | 100 | A | 无 |
 | jiangsu | congyou-su-shaobing | 100 | A | 无 |
-| korean | kimchi | 94 | A | 安全性 14/20 |
-| mexican | sopa-de-frijol | 93 | A | 准确性 18/25 |
+| jiangsu | wensi-doufu | 100 | A | 无 |
+| korean | korean-perilla-jangajji | 93 | A | 准确性 18/25 |
+| mexican | elote | 100 | A | 无 |
 | middle-eastern | hummus | 100 | A | 无 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |
 | nordic | nordic-fish-soup | 100 | A | 无 |
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | borscht | 100 | A | 无 |
+| shandong | youbao-shuangcui | 93 | A | 准确性 18/25 |
+| shandong | fanqie-daxia | 94 | A | 安全性 14/20 |
 | shandong | jiuzhuan-dachang | 100 | A | 无 |
-| shandong | youmen-daxia | 100 | A | 无 |
 | shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
-| sichuan | hongshao-doufu | 93 | A | 准确性 18/25 |
-| sichuan | shuizhu-yu | 93 | A | 准确性 18/25 |
-| sichuan | larou-chaofan | 100 | A | 无 |
-| spanish | bacalao-al-pil-pil | 93 | A | 准确性 18/25 |
-| taiwan | kezai-jian | 100 | A | 无 |
-| thai | thai-basil-shrimp | 93 | A | 准确性 18/25 |
+| sichuan | sichuan-baicai-doufu-tang | 93 | A | 准确性 18/25 |
+| sichuan | ganbian-doujiao | 100 | A | 无 |
+| sichuan | chuanbei-liangfen | 100 | A | 无 |
+| spanish | flan | 100 | A | 无 |
+| taiwan | yansu-ji | 93 | A | 准确性 18/25 |
+| thai | thai-coconut-jelly | 93 | A | 准确性 18/25 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | turkish | turkish-kofta | 100 | A | 无 |
-| vietnamese | pho-bo | 100 | A | 无 |
-| xibei | shaanxi-saozi-mian | 93 | A | 准确性 18/25 |
+| vietnamese | banh-mi | 94 | A | 安全性 14/20 |
+| xibei | youpo-mian | 100 | A | 无 |
 | xinjiang | naobao-rou | 100 | A | 无 |
-| yunguai | suantang-feiniu | 100 | A | 无 |
-| zhejiang | dingsheng-gao | 100 | A | 无 |
-| zhejiang | ningbo-xiechao-niangao | 100 | A | 无 |
+| yunguai | suan-tang-yu | 100 | A | 无 |
+| zhejiang | youmen-shunsun | 93 | A | 准确性 18/25 |
+| zhejiang | dongpo-rou | 93 | A | 准确性 18/25 |
 
 ## 结论
 
-- 本批 49 道全部达到 B 级及以上，无需重写。
+- 本批 51 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。

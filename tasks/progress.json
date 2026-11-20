@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:58:49.634Z",
+  "generatedAt": "2026-11-20T10:10:43.209Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 505,
     "target": 3274,
-    "actual": 597,
-    "coverage": 0.18234575442883322
+    "actual": 589,
+    "coverage": 0.17990226023213196
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 60,
+        "actual": 59,
         "cells": [
           {
             "category": "main-meat",
@@ -72,12 +72,11 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 3,
             "ids": [
               "chuangwei-hongyou-jisi",
               "fuqi-feipian",
-              "liangban-fuzhu",
-              "suanni-bairou"
+              "liangban-fuzhu"
             ]
           },
           {
@@ -372,13 +371,13 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 62,
+        "actual": 59,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 19,
+            "actual": 18,
             "ids": [
               "baizhuo-xia",
               "cantonese-chijiao-chao-chengzi",
@@ -388,7 +387,6 @@
               "cantonese-huadiao-zheng-huaxie",
               "cantonese-jiaoyan-longliyu",
               "cantonese-qingzheng-shibanyu",
-              "cantonese-suanrong-fensi-zheng-shanbei",
               "cantonese-xiangjian-huangyu",
               "chizhi-zheng-shanbei",
               "jiangcong-chaohuaxie",
@@ -405,11 +403,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 7,
             "ids": [
               "bobo-gulaorou",
               "chijiao-niurou",
-              "chizhi-paigu",
               "chizhi-zheng-paigu",
               "fanqie-niunan",
               "gulu-rou",
@@ -435,12 +432,11 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 4,
             "ids": [
               "baiqie-ji",
               "chiyou-ji",
               "jiangcong-ji",
-              "siyou-ji",
               "xianggu-huaji"
             ]
           },
@@ -540,7 +536,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 38,
         "cells": [
           {
             "category": "main-seafood",
@@ -647,17 +643,6 @@
             ]
           },
           {
-            "category": "cold-dish",
-            "kind": "extra",
-            "target": 0,
-            "actual": 3,
-            "ids": [
-              "guihua-tangou",
-              "yanshui-ya",
-              "zao-maodou"
-            ]
-          },
-          {
             "category": "dessert",
             "kind": "extra",
             "target": 0,
@@ -665,6 +650,16 @@
             "ids": [
               "guihua-tangou",
               "zhima-matuan"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "guihua-tangou",
+              "zao-maodou"
             ]
           },
           {
@@ -693,7 +688,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 34,
         "cells": [
           {
             "category": "main-seafood",
@@ -725,15 +720,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 7,
             "ids": [
               "huotui-donggua-tang",
               "jinzhengu-doufu-tang",
               "laoya-bao",
-              "songsao-yugen",
               "songsao-yugeng",
               "xihu-niurou-geng",
-              "xihu-niurougeng",
               "xuecai-datang-huangyu",
               "zhejiang-chuncai-xiaren-geng"
             ]
@@ -2232,7 +2225,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 25,
+        "actual": 24,
         "cells": [
           {
             "category": "main-seafood",
@@ -2335,10 +2328,9 @@
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 1,
             "ids": [
-              "karaage",
-              "teriyaki-chicken"
+              "karaage"
             ]
           },
           {
