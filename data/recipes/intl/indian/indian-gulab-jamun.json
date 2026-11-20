@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-gulab-jamun",
+  "name": {
+    "zh": "印度糖浆奶球",
+    "en": "Gulab Jamun"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "过筛，做奶球主体",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "全脂，温热",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "融化后揉面",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 250,
+          "unit": "g",
+          "note": "熬糖浆",
+          "optional": false
+        },
+        {
+          "name": "豆蔻",
+          "name_en": "cardamom",
+          "amount": 4,
+          "unit": "piece",
+          "note": "拍裂取香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "挤汁防糖浆结晶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "小苏打",
+          "name_en": "baking soda",
+          "amount": 2,
+          "unit": "g",
+          "note": "让奶球蓬松",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 260,
+          "unit": "ml",
+          "note": "低温炸制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "熬糖浆",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小汤锅",
+    "深炸锅",
+    "漏勺",
+    "温度计"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "低筋面粉与小苏打混匀过筛，加入融化黄油搓成粗砂状。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "黄油要温而不烫，太热会把面粉烫成团。",
+      "visual_cue": "粉粒均匀、握一把能成团"
+    },
+    {
+      "n": 2,
+      "text": "分次倒入温热牛奶，揉成柔软不粘手的面团，盖布静置十分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "面团揉到光滑即可，过度揉搓会起筋发硬。",
+      "visual_cue": "面团细腻有弹性、表面不裂"
+    },
+    {
+      "n": 3,
+      "text": "小汤锅放白糖、清水、豆蔻和桂皮，小火煮到糖完全化开。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "糖化开后不要再搅拌，搅动会引起返砂结晶。",
+      "visual_cue": "糖液透明、闻得到豆蔻香"
+    },
+    {
+      "n": 4,
+      "text": "糖浆微沸时挤入柠檬汁，再小火保持温热备用。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "柠檬汁能防结晶，也能让糖浆更清亮。",
+      "visual_cue": "糖浆略稠、无明显糖粒"
+    },
+    {
+      "n": 5,
+      "text": "面团搓成乒乓球大小的圆球，表面搓到完全没有裂纹。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "球面有裂缝下锅就会炸开，务必搓光滑。",
+      "visual_cue": "小球圆整光滑、大小一致"
+    },
+    {
+      "n": 6,
+      "text": "植物油加热到约一百四十度，奶球下锅小火慢炸至深棕。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "油温必须低，高温会让外皮焦了里面还生。",
+      "visual_cue": "奶球膨大浮起、颜色均匀转棕"
+    },
+    {
+      "n": 7,
+      "text": "炸好的奶球捞出沥油，趁热放入温热糖浆浸泡二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "奶球与糖浆都要温热，冷热相差太大会吸不进糖水。",
+      "visual_cue": "奶球体积涨大、按压柔软回弹"
+    }
+  ],
+  "tips": [
+    "想让奶球更松软，可在面粉里加两大勺奶粉。",
+    "糖浆熬好后滴一滴在冷水中能成软球，就是合适的浓度。",
+    "泡好的奶球冷藏后风味更足，隔夜吃最入味。"
+  ],
+  "common_mistakes": [
+    "奶球表面有裂纹就下锅，炸成一锅碎渣。",
+    "油温过高，外皮焦黑而中心还是干粉。",
+    "糖浆煮得太浓，冷却后结成硬壳咬不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "低筋面粉",
+      "substitute": "杏仁粉",
+      "ratio": "200g 对 160g",
+      "note": "口感更松，需减少二十毫升牛奶。"
+    },
+    {
+      "original": "豆蔻",
+      "substitute": "桂皮",
+      "ratio": "4 粒 对 2 根",
+      "note": "香气更暖，少了豆蔻的清冽。"
+    }
+  ],
+  "variations": [
+    "糖浆里加几滴玫瑰水与藏红花，做成节庆风味的版本。",
+    "奶球中心包入一小块坚果或葡萄干，咬开有惊喜。"
+  ],
+  "serving_suggestion": "温热时盛入小碗，淋两勺糖浆，配一杯无糖奶茶解甜。",
+  "storage": "连糖浆冷藏四天，食用前隔水温热让糖浆回软。",
+  "nutrition_estimate": {
+    "basis": "每份（约 5 球）",
+    "calories_kcal": 560,
+    "protein_g": 9,
+    "fat_g": 18,
+    "carbs_g": 92,
+    "sodium_mg": 120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含牛奶与小麦，乳糖不耐受及麸质过敏者需回避。",
+    "油炸时奶球会膨大溅油，锅要够深且不要装太满。",
+    "糖浆温度极高，浸泡与盛装时避免直接接触皮肤。"
+  ],
+  "origin_note": "Gulab Jamun 源自波斯的油炸面球，随莫卧儿宫廷传入印度后改用当地牛奶制成的奶固体揉面，再泡进带豆蔻香的糖浆里。如今它是印度婚礼与排灯节必备的甜点，街头甜品店常年现炸现泡，热吃软糯，冷吃更甜。",
+  "tags": [
+    "印度",
+    "甜点",
+    "油炸",
+    "糖浆",
+    "节庆"
+  ],
+  "related_ids": [
+    "gajar-halwa",
+    "kheer",
+    "raita"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

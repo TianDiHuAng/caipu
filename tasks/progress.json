@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:27:28.851Z",
+  "generatedAt": "2026-11-20T10:53:25.616Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 505,
     "target": 3274,
-    "actual": 595,
-    "coverage": 0.18173488087965792
+    "actual": 601,
+    "coverage": 0.18356750152718387
   },
   "regions": {
     "cn": [
@@ -2359,17 +2359,18 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 25,
+        "actual": 26,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "bulgogi",
               "dolsot-bibimbap",
-              "jeyuk-bokkeum"
+              "jeyuk-bokkeum",
+              "korean-jang-jorim"
             ]
           },
           {
@@ -2746,7 +2747,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 19,
+        "actual": 20,
         "cells": [
           {
             "category": "main-meat",
@@ -2796,9 +2797,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "baguette",
+              "french-pain-au-chocolat",
               "tarte-tatin"
             ]
           },
@@ -2868,7 +2870,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 19,
+        "actual": 20,
         "cells": [
           {
             "category": "main-seafood",
@@ -2908,10 +2910,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "churros",
               "flan",
+              "spanish-polvorones",
               "tarta-de-santiago"
             ]
           },
@@ -3285,7 +3288,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 19,
+        "actual": 20,
         "cells": [
           {
             "category": "main-vegetable",
@@ -3336,9 +3339,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "gajar-halwa",
+              "indian-gulab-jamun",
               "kheer"
             ]
           },
@@ -4159,14 +4163,15 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 16,
+        "actual": 18,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "american-pot-roast",
               "hamburger",
               "meatloaf"
             ]
@@ -4197,8 +4202,9 @@
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "american-hash-browns",
               "pancakes",
               "scrambled-eggs"
             ]

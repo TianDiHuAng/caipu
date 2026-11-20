@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-pot-roast",
+  "name": {
+    "zh": "美式焖牛肉",
+    "en": "American Pot Roast"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 150,
+    "total_min": 170
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 1000,
+          "unit": "g",
+          "note": "整块，厚约六厘米",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "红酒",
+          "name_en": "red wine",
+          "amount": 200,
+          "unit": "ml",
+          "note": "干型红酒",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "干香叶",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 5,
+          "unit": "g",
+          "note": "新鲜或干品均可",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "裹肉用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎肉用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "分两次",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "焖煮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炖锅",
+    "锅盖",
+    "厨房夹",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩提前半小时从冰箱取出回温，用厨房纸把表面血水彻底吸干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "表面干燥才能煎出漂亮焦壳，湿肉只会出水发灰。",
+      "visual_cue": "肉块表面干燥、纸上几乎没有血水"
+    },
+    {
+      "n": 2,
+      "text": "牛腩六面都抹上盐和黑胡椒，再薄薄裹一层面粉拍掉多余粉粒。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "面粉要薄，太厚会在锅里糊成硬壳。",
+      "visual_cue": "肉块均匀挂薄白粉、不见干粉堆积"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅放植物油烧到微微冒烟，牛腩下锅每面煎三四分钟至深棕。",
+      "time_min": 12,
+      "heat": "中大火",
+      "tip": "一面煎定型再翻动，频繁翻面会撕破焦壳。",
+      "visual_cue": "六面焦棕、锅底留一层褐色锅巴"
+    },
+    {
+      "n": 4,
+      "text": "把牛腩夹出，原锅下洋葱丝炒到变软上色，再放蒜和香叶炒香。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱要把焦香炒出来，这层味道是汤底的骨架。",
+      "visual_cue": "洋葱塌软发黄、锅底焦痕被刮起"
+    },
+    {
+      "n": 5,
+      "text": "倒入红酒煮开刮净锅底，放回牛腩与百里香，加清水到没过三分之二。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "红酒沸腾收掉一半酒精味再加水，成品才不酸。",
+      "visual_cue": "汤汁没过肉块大半、表面浮沫撇净"
+    },
+    {
+      "n": 6,
+      "text": "加盖小火焖一小时后加入土豆和胡萝卜，继续焖四十分钟。",
+      "time_min": 100,
+      "heat": "小火",
+      "tip": "根茎类后放，否则炖到最后全化成泥。",
+      "visual_cue": "筷子能轻松插进牛腩、土豆边缘发圆"
+    },
+    {
+      "n": 7,
+      "text": "尝味补盐，把肉取出切片，蔬菜与汤一起盛出淋在肉上。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切片逆着纹理下刀，入口才不塞牙。",
+      "visual_cue": "肉片纹理清晰、断面湿润不干"
+    }
+  ],
+  "tips": [
+    "焖煮时汤汁保持虾眼泡状态，火太大肉会柴硬。",
+    "想汤汁更浓，可把部分土豆压碎搅入汤中代替勾芡。",
+    "用铸铁锅焖受热更均匀，普通锅应在锅底垫一层洋葱防粘。"
+  ],
+  "common_mistakes": [
+    "牛腩没吸干就下锅，煎不出焦壳还溅一地油。",
+    "水一次加得太满，沸腾后溢出来扑灭炉火。",
+    "土豆和牛腩同时下锅，等肉炖软时土豆早已散成糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "1000g 对 1000g",
+      "note": "牛腱筋膜多，焖煮时间延长二十分钟。"
+    },
+    {
+      "original": "红酒",
+      "substitute": "白酒",
+      "ratio": "200ml 对 160ml",
+      "note": "酸度更高，糖可多加五克平衡。"
+    }
+  ],
+  "variations": [
+    "加入番茄膏与迷迭香，做成更浓郁的地中海风焖牛肉。",
+    "最后半小时放入整颗小洋葱与口蘑，配菜层次更丰富。"
+  ],
+  "serving_suggestion": "切片装深盘，浇上汤汁，配土豆泥或硬壳面包蘸汁。",
+  "storage": "冷藏三天，隔夜更入味；复热时小火加少量清水防止糊底。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350g）",
+    "calories_kcal": 620,
+    "protein_g": 46,
+    "fat_g": 36,
+    "carbs_g": 24,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉块厚，必须焖到中心温度达到七十度以上并熟透。",
+    "含小麦面粉，麸质过敏者请改用米粉裹肉。",
+    "厚底锅焖煮后锅体极烫，开盖时先侧身避开蒸汽。"
+  ],
+  "origin_note": "Pot Roast 是随欧洲移民进入美国的家常炖菜，早期移民用厚底铁锅把便宜的牛肩肉与根茎蔬菜一起慢焖，一锅出菜。二十世纪随炖锅普及成为周日晚餐的主角，做法简单却讲究先煎后焖，靠锅底的焦香带出整锅汤汁的厚度。",
+  "tags": [
+    "美国",
+    "炖菜",
+    "牛肉",
+    "家常",
+    "一锅出"
+  ],
+  "related_ids": [
+    "meatloaf",
+    "american-potato-salad",
+    "hamburger"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

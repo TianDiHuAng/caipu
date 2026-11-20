@@ -1,0 +1,215 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-hash-browns",
+  "name": {
+    "zh": "美式薯饼",
+    "en": "Hash Browns"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 600,
+          "unit": "g",
+          "note": "粉质土豆，去皮刨丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "刨细丝挤干水",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "分两次下锅",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎脆用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分两次撒",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "刨丝器",
+    "干净纱布",
+    "平底不粘锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆去皮刨成粗丝，立刻泡进清水里搓洗掉表面多余的浆液。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洗掉游离浆液，煎出来的薯饼才会脆不粘。",
+      "visual_cue": "水变浑浊、薯丝手感发涩"
+    },
+    {
+      "n": 2,
+      "text": "薯丝与洋葱丝一起用纱布包紧，用力挤到挤不出水为止。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "水分挤得越干越脆，这一步决定成败。",
+      "visual_cue": "纱布拧不出水滴、薯丝松散不结块"
+    },
+    {
+      "n": 3,
+      "text": "薯丝拌入一半盐和黑胡椒，静置两分钟再翻拌一次。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "盐后放，提前腌会再次出水。",
+      "visual_cue": "薯丝干爽、调味均匀"
+    },
+    {
+      "n": 4,
+      "text": "平底锅下植物油与一半黄油，中火烧到黄油起细泡。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "黄油加植物油能提香又不易焦。",
+      "visual_cue": "油面泛细泡、闻到坚果香"
+    },
+    {
+      "n": 5,
+      "text": "薯丝下锅用铲压成两厘米厚的圆饼，中火煎六分钟不动。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "下锅后别急着翻，底部结壳才不散。",
+      "visual_cue": "边缘转金黄、饼身能整体晃动"
+    },
+    {
+      "n": 6,
+      "text": "翻面加剩下的黄油，再煎五分钟至两面深金黄，撒剩余盐出锅。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "翻面用大盘倒扣比铲子更不容易散。",
+      "visual_cue": "两面色泽一致、敲击有脆响"
+    }
+  ],
+  "tips": [
+    "土豆刨好不要久放，接触空气会发红变味。",
+    "想更脆可把薯丝铺得更薄，或用铸铁锅煎出更深的壳。",
+    "一次多做可把煎好的饼冷冻，回炉两百度烤八分钟复原。"
+  ],
+  "common_mistakes": [
+    "薯丝没挤水就下锅，煎成一摊软泥。",
+    "油温不够就下锅，薯饼吸满油又白又软。",
+    "全程大火猛煎，外面焦黑里面还是生土豆味。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "30g 对 25ml",
+      "note": "少了奶香，但更适合素食。"
+    },
+    {
+      "original": "洋葱",
+      "substitute": "小葱",
+      "ratio": "80g 对 30g",
+      "note": "香气更冲，出锅前再拌入。"
+    }
+  ],
+  "variations": [
+    "混入培根碎与切达芝士，做成美式早餐店的豪华版。",
+    "把薯丝压成小圆饼做成一人份，方便夹进三明治。"
+  ],
+  "serving_suggestion": "配煎蛋、培根和番茄酱，组成经典美式早餐拼盘。",
+  "storage": "冷藏两天，复热用平底锅干煎三分钟恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 420,
+    "protein_g": 6,
+    "fat_g": 24,
+    "carbs_g": 48,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "土豆去皮后如出现大面积发绿或发芽，应整颗丢弃不要食用。",
+    "煎制时油温较高，薯饼下锅前擦干手避免水滴入油飞溅。",
+    "内部要煎到熟透，中心带生土豆味说明火候不足。"
+  ],
+  "origin_note": "Hash Browns 的名字来自 hash（剁碎），十九世纪美国的早餐桌上就有把隔夜土豆剁碎回锅煎的习惯。它靠土豆自身的薯粉结壳，挤干水分与热锅足油是两个关键，如今是美式早餐拼盘里和煎蛋并列的固定搭配。",
+  "tags": [
+    "美国",
+    "早餐",
+    "土豆",
+    "煎",
+    "快手"
+  ],
+  "related_ids": [
+    "pancakes",
+    "scrambled-eggs",
+    "american-potato-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

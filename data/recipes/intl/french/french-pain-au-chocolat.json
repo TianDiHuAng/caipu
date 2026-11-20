@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-pain-au-chocolat",
+  "name": {
+    "zh": "法式巧克力面包",
+    "en": "Pain au Chocolat"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 80,
+    "cook_min": 20,
+    "total_min": 100
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "高筋面粉",
+          "name_en": "bread flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "蛋白质含量十二以上",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 200,
+          "unit": "g",
+          "note": "片状黄油，做裹入层",
+          "optional": false
+        },
+        {
+          "name": "黑巧克力",
+          "name_en": "dark chocolate",
+          "amount": 120,
+          "unit": "g",
+          "note": "切成条状",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "冷藏",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "面团用",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 7,
+          "unit": "g",
+          "note": "耐高糖干酵母",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "刷面用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "增强面筋",
+          "optional": false
+        },
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "防粘撒粉",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厨师机",
+    "擀面杖",
+    "保鲜膜",
+    "烤箱",
+    "毛刷"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "高筋面粉、白糖、盐和酵母倒入盆中，先干拌到颜色均匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盐与酵母分开放，直接接触会抑制发酵。",
+      "visual_cue": "粉料均匀、无结块"
+    },
+    {
+      "n": 2,
+      "text": "倒入冷藏牛奶揉成粗糙面团，盖膜冷藏松弛二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "冷藏松弛能让面筋自然形成，后面更好擀。",
+      "visual_cue": "面团成型不粘盆、表面略粗糙"
+    },
+    {
+      "n": 3,
+      "text": "片状黄油夹在两层保鲜膜之间，擀成十五厘米见方的薄片冷藏。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "黄油软硬要和面团一致，太硬会断裂太软会渗出。",
+      "visual_cue": "黄油片厚薄均匀、手指按压留浅坑"
+    },
+    {
+      "n": 4,
+      "text": "面团擀成黄油片两倍大，包住黄油捏紧接缝后擀成长方形。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "包的时候把空气排净，气泡会让层次断开。",
+      "visual_cue": "黄油完全包住、接缝压实"
+    },
+    {
+      "n": 5,
+      "text": "做一次三折，冷藏二十分钟，再重复一次三折后冷藏。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "每次折叠都要充分冷藏，黄油融化就会失去层次；案板随时撒低筋面粉防粘。",
+      "visual_cue": "面团光滑、能隐约看到黄油条纹"
+    },
+    {
+      "n": 6,
+      "text": "把面团擀成三毫米厚长片，切成长方形，中间放黑巧克力条卷起。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "巧克力条排两列，烤完才有浓郁内芯。",
+      "visual_cue": "面卷接口朝下、层次朝上"
+    },
+    {
+      "n": 7,
+      "text": "摆入烤盘在二十六度环境发酵到两倍大，表面刷蛋液。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "发酵温度别超过二十八度，否则黄油会漏。",
+      "visual_cue": "体积明显膨大、轻按缓慢回弹"
+    },
+    {
+      "n": 8,
+      "text": "烤箱两百度烤十八分钟，表面深金黄后出炉晾凉。",
+      "time_min": 18,
+      "heat": "大火",
+      "tip": "中途不要开炉门，冷气一冲层次就塌了。",
+      "visual_cue": "表面金棕发亮、侧看层次分明"
+    }
+  ],
+  "tips": [
+    "所有材料与工具都保持低温，是开酥成功的第一原则。",
+    "面团太软时可冷冻十分钟再擀，比硬擀更容易操作。",
+    "成品冷冻可存一个月，吃前两百度回烤六分钟。"
+  ],
+  "common_mistakes": [
+    "黄油太软就在擀，最后全被面皮吃掉，烤出来像面包。",
+    "折叠次数过多又没冷藏，层次被压死变成硬饼。",
+    "发酵温度过高，黄油从侧面流出，烤盘积一层油。"
+  ],
+  "substitutions": [
+    {
+      "original": "片状黄油",
+      "substitute": "黄油",
+      "ratio": "200g 对 200g",
+      "note": "普通黄油含水量高，需冷冻二十分钟再用。"
+    },
+    {
+      "original": "黑巧克力",
+      "substitute": "黑巧克力",
+      "ratio": "120g 对 120g",
+      "note": "可可含量六成以上风味最佳，甜巧会偏腻。"
+    }
+  ],
+  "variations": [
+    "巧克力换成杏仁酱与杏仁片，做成法式杏仁可颂卷。",
+    "表面撒少量粗糖，烤后带一层脆壳。"
+  ],
+  "serving_suggestion": "出炉温热时配黑咖啡，是法式早餐的经典组合。",
+  "storage": "常温一天，冷冻一个月；复烤前喷少量水更松软。",
+  "nutrition_estimate": {
+    "basis": "每份（1 个约 90g）",
+    "calories_kcal": 380,
+    "protein_g": 8,
+    "fat_g": 22,
+    "carbs_g": 38,
+    "sodium_mg": 260,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "面包含小麦、牛奶与鸡蛋，过敏人群需回避；蛋液刷面后必须烤到中心熟透。",
+    "内馅巧克力出炉时温度极高，稍凉两分钟再咬。",
+    "使用烤箱时注意烤盘位置，热油滴落可能引起冒烟。"
+  ],
+  "origin_note": "Pain au Chocolat 是法国面包房的常备品，源于维也纳的发酵酥皮技术，十九世纪由奥地利面包师带到巴黎后定型。两根巧克力棒夹进折叠多次的黄油面团里，烤后外层酥脆掉渣、内里柔软拉丝，是检验一家面包房手艺的标准款。",
+  "tags": [
+    "法国",
+    "烘焙",
+    "酥皮",
+    "巧克力",
+    "早餐"
+  ],
+  "related_ids": [
+    "baguette",
+    "tarte-tatin",
+    "creme-brulee"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

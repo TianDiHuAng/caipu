@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-jang-jorim",
+  "name": {
+    "zh": "韩式酱炖牛腱",
+    "en": "Jang Jorim (Korean Soy Braised Beef)"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腱",
+          "name_en": "beef shank",
+          "amount": 800,
+          "unit": "g",
+          "note": "整块，切大块后炖",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 100,
+          "unit": "g",
+          "note": "泡软切片，泡水留用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 5,
+          "unit": "clove",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 0.5,
+          "unit": "piece",
+          "note": "磨泥，天然嫩肉",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 100,
+          "unit": "ml",
+          "note": "用浓口生抽",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "平衡咸味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "出锅前淋",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "整粒或现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "炖煮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "滤网",
+    "保鲜盒",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腱切五厘米大块，冷水下锅煮开焯去血沫，捞出冲净表面。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "冷水下锅血沫才出得干净，热水会把杂质封在肉里。",
+      "visual_cue": "水面浮大量灰褐浮沫、肉块变浅"
+    },
+    {
+      "n": 2,
+      "text": "牛腱加梨泥、一半酱油和黑胡椒抓匀，腌十五分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "梨泥里的酶能软化筋膜，牛腱炖完更糯。",
+      "visual_cue": "肉块均匀裹上酱色、渗出少量汁水"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅放清水、剩余酱油、白糖、洋葱、大蒜与姜片煮开。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "先煮出蔬菜甜味，再下肉味道层次更干净。",
+      "visual_cue": "汤色深褐、洋葱边缘变软"
+    },
+    {
+      "n": 4,
+      "text": "放入牛腱与香菇，小火炖六十分钟，中途撇两次浮沫。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "保持微沸状态，滚太猛肉会散成丝。",
+      "visual_cue": "筷子能插入肉块、汤汁略收"
+    },
+    {
+      "n": 5,
+      "text": "开盖中小火收汁，边收边把汤汁淋在肉块表面。",
+      "time_min": 12,
+      "heat": "中小火",
+      "tip": "收汁到原来一半，冷却后才会凝成漂亮的酱冻。",
+      "visual_cue": "汤汁浓稠挂勺、肉块泛油亮"
+    },
+    {
+      "n": 6,
+      "text": "关火淋香油，撒黑胡椒，晾凉后连汁一起装盒冷藏。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冷藏一夜切片更整齐，也更好入味。",
+      "visual_cue": "表面凝出薄薄一层胶质"
+    }
+  ],
+  "tips": [
+    "梨可以换成苹果或猕猴桃，同样有嫩肉作用。",
+    "想更甜润可加两勺味淋或一小块冰糖。",
+    "汤汁别倒掉，滤清后是拌饭和煮面的好底汤。"
+  ],
+  "common_mistakes": [
+    "牛腱没焯水就下锅，整锅汤带腥味和浮沫。",
+    "全程大火滚煮，肉纤维散开切不成片。",
+    "酱油一次放足又久煮，收汁后咸得下不了口。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腱",
+      "substitute": "牛腩",
+      "ratio": "800g 对 800g",
+      "note": "更肥润，炖煮时间可缩短十分钟。"
+    },
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "半个 对 半个",
+      "note": "甜度稍低，糖可多加五克。"
+    }
+  ],
+  "variations": [
+    "加入煮鸡蛋与鹌鹑蛋同炖，做成韩式酱蛋牛腱。",
+    "收汁后撕成细丝，拌入辣椒酱做成拌饭配料。"
+  ],
+  "serving_suggestion": "冷藏后切薄片摆盘，配白饭、泡菜和生菜叶包着吃。",
+  "storage": "连汁冷藏四天，冷冻一个月；复热小火加少量水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 380,
+    "protein_g": 40,
+    "fat_g": 14,
+    "carbs_g": 18,
+    "sodium_mg": 1200,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "香菇必须彻底煮熟，生香菇含少量天然毒素。",
+    "牛腱需炖到中心熟透软糯，筷子能轻松插入再食用。",
+    "酱油用量大，高血压人群应减半并延长炖煮时间补味。"
+  ],
+  "origin_note": "Jang Jorim 是韩国家常的酱炖做法，jang 指酱油类酱料，jorim 指小火收汁的炖菜。传统用牛肉或牛腱，靠梨泥与洋葱的自然甜味平衡酱油的咸。它常在过节或祭祀时提前做好，冷藏后切片当小菜，也是韩国家庭冰箱里的常备菜。",
+  "tags": [
+    "韩国",
+    "炖菜",
+    "牛肉",
+    "酱油",
+    "小菜"
+  ],
+  "related_ids": [
+    "bulgogi",
+    "korean-fried-chicken",
+    "jeyuk-bokkeum"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
