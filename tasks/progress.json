@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:30:26.308Z",
+  "generatedAt": "2026-11-20T13:20:20.352Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 507,
     "target": 3274,
-    "actual": 619,
-    "coverage": 0.18906536346976177
+    "actual": 627,
+    "coverage": 0.19150885766646306
   },
   "regions": {
     "cn": [
@@ -1257,7 +1257,7 @@
         "en": "Beijing",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
@@ -1282,15 +1282,21 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "chaogan",
+              "lvdagun"
+            ]
           },
           {
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "lvdagun",
+              "wandou-huang"
+            ]
           },
           {
             "category": "banquet",
@@ -1303,8 +1309,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shao-er-dong"
+            ]
           },
           {
             "category": "main-egg",
@@ -1332,7 +1340,7 @@
         "en": "Shanghai",
         "tier": "B",
         "target": 38,
-        "actual": 6,
+        "actual": 9,
         "cells": [
           {
             "category": "main-meat",
@@ -1365,15 +1373,20 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "tiaotou-gao",
+              "xieke-huang"
+            ]
           },
           {
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tiaotou-gao"
+            ]
           },
           {
             "category": "main-vegetable",

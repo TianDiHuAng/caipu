@@ -1,0 +1,211 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "lvdagun",
+  "name": {
+    "zh": "驴打滚",
+    "en": "Beijing Glutinous Rice Roll with Bean Paste"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "dessert",
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 35,
+    "total_min": 65
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "糯米粉",
+          "name_en": "glutinous rice flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "水磨糯米粉更细腻",
+          "optional": false
+        },
+        {
+          "name": "红豆沙",
+          "name_en": "red bean paste",
+          "amount": 250,
+          "unit": "g",
+          "note": "油豆沙不易散",
+          "optional": false
+        },
+        {
+          "name": "黄豆粉",
+          "name_en": "roasted soybean flour",
+          "amount": 80,
+          "unit": "g",
+          "note": "小火炒香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "拌粉用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "调粉浆",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "防粘抹盘",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸盘",
+    "擀面杖",
+    "保鲜膜",
+    "炒锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄豆粉倒入干锅，小火不停翻炒到颜色加深、豆香浓郁，盛出晾凉备用。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "炒豆粉火不能大，一旦发黑就带苦味只能倒掉。",
+      "visual_cue": "粉色转深褐、闻到明显炒豆香"
+    },
+    {
+      "n": 2,
+      "text": "糯米粉加白糖与清水搅成无颗粒的稀糊，状态像浓稠米糊能缓缓流动。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "水要分次加，一次加够容易过稀，补粉又会结块。",
+      "visual_cue": "粉浆顺滑无干粉疙瘩、能挂住筷子"
+    },
+    {
+      "n": 3,
+      "text": "蒸盘内壁抹一层植物油，倒入粉浆盖保鲜膜，中火蒸二十五分钟至完全透明。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "保鲜膜扎几个小孔透气，避免水汽滴落成坑。",
+      "visual_cue": "整体呈半透明、按压有弹性不粘手"
+    },
+    {
+      "n": 4,
+      "text": "蒸好的糯米团稍晾到不烫手，移到撒了黄豆粉的案板上擀成半厘米厚的长片。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "趁温热擀，凉透后糯米团发硬一擀就裂。",
+      "visual_cue": "面片厚薄均匀、表面不粘案板"
+    },
+    {
+      "n": 5,
+      "text": "在面片上抹一层红豆沙，从一端卷起成筒，卷时用保鲜膜带住推紧。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "豆沙只抹到三分之二处，卷起来才不会从两头溢出。",
+      "visual_cue": "卷筒紧实无空隙、两端整齐"
+    },
+    {
+      "n": 6,
+      "text": "卷好的糯米卷在黄豆粉里滚一圈，让表面均匀裹粉，切成三厘米长的段。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "刀面蘸黄豆粉再切，切口不会粘黏拉丝。",
+      "visual_cue": "切面层次清晰、外层粉面均匀"
+    }
+  ],
+  "tips": [
+    "炒豆粉要现炒现用，放久会吸潮结块，裹不上糯米卷。",
+    "红豆沙选带油的细腻款，干沙抹开时会拉裂糯米皮。",
+    "切段后静置十分钟再吃，豆沙与糯米的味道会更融合。"
+  ],
+  "common_mistakes": [
+    "粉浆太稀，蒸出的糯米团软塌无法擀开，只能当麻薯吃。",
+    "蒸的时间不足，中心还有白芯，吃起来发硬夹生。",
+    "糯米团完全放凉再擀，一擀就开裂，卷起来断成数截。"
+  ],
+  "substitutions": [
+    {
+      "original": "红豆沙",
+      "substitute": "红豆",
+      "ratio": "250g 豆沙 对 150g 干豆",
+      "note": "需自行煮烂压沙，糖油另计，风味更朴素。"
+    },
+    {
+      "original": "黄豆粉",
+      "substitute": "熟糯米粉",
+      "ratio": "80g 对 80g",
+      "note": "防粘可以，但少了炒豆的焦香。"
+    }
+  ],
+  "variations": [
+    "把豆沙换成黑芝麻馅，外层裹熟芝麻，做成芝麻驴打滚。",
+    "面片里抹一层桂花糖再卷，做成桂花风味，香气更清甜。"
+  ],
+  "serving_suggestion": "切段摆盘，常温吃口感最软，配一杯茉莉花茶解甜。",
+  "storage": "密封常温放一天，冷藏可存两天，冷藏后会变硬需回蒸三分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 120g）",
+    "calories_kcal": 320,
+    "protein_g": 6,
+    "fat_g": 5,
+    "carbs_g": 65,
+    "sodium_mg": 30,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "糯米制品黏性强，老人与幼儿食用时请切成小块防噎。",
+    "蒸制时必须完全透明无白芯，夹生的糯米粉不易消化。",
+    "豆沙馅含糖较高，糖尿病患者请控制份量。"
+  ],
+  "origin_note": "驴打滚是北京传统小吃，原名豆面糕，因做好的糯米卷在黄豆粉里滚动，像驴子在土里打滚而得名。它以糯米皮卷豆沙、外裹炒黄豆粉为基本做法，讲究软糯不粘牙、豆香压甜。老北京的年节和庙会上都少不了它。",
+  "tags": [
+    "北京",
+    "小吃",
+    "糯米",
+    "豆沙",
+    "甜品"
+  ],
+  "related_ids": [
+    "wandou-huang",
+    "dingsheng-gao",
+    "tangsanceng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

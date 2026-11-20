@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chaogan",
+  "name": {
+    "zh": "炒肝",
+    "en": "Beijing Stir-fried Liver and Intestines"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 120,
+    "cook_min": 60,
+    "total_min": 180
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪大肠",
+          "name_en": "pork intestine",
+          "amount": 400,
+          "unit": "g",
+          "note": "选肠头肥厚段，翻洗去油",
+          "optional": false
+        },
+        {
+          "name": "猪肝",
+          "name_en": "pork liver",
+          "amount": 200,
+          "unit": "g",
+          "note": "切成一厘米厚的三角片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "一半捣成蒜泥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切姜片煮肠用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "黄酱化开",
+          "optional": false
+        },
+        {
+          "name": "土豆淀粉",
+          "name_en": "potato starch",
+          "amount": 50,
+          "unit": "g",
+          "note": "加水调成水淀粉",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮肠与勾芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪大肠用土豆淀粉和盐反复搓洗三遍，剪开去除内壁脂肪，冲水到没有异味。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "洗肠时加一勺白醋，去腥效果比单用盐更好。",
+      "visual_cue": "肠壁发白发涩、水冲洗后无油膜"
+    },
+    {
+      "n": 2,
+      "text": "洗净的猪大肠冷水下锅，加料酒与姜片，小火煮一小时至筷子能穿透。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "煮肠全程小火，大火会把肠壁煮得发硬缩成筋。",
+      "visual_cue": "筷子能轻松穿透肠壁、无血水"
+    },
+    {
+      "n": 3,
+      "text": "煮好的猪大肠捞出晾凉，切成半厘米宽的菱形小块，汤水留用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "晾凉再切，热肠软塌切出来厚薄不一。",
+      "visual_cue": "肠块大小均匀、断面平整"
+    },
+    {
+      "n": 4,
+      "text": "猪肝切成三角片，用清水泡十分钟换两遍水，泡出血水后沥干。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡水时别用力抓，肝片易碎，轻轻翻洗即可。",
+      "visual_cue": "肝片颜色转浅、水面无血沫"
+    },
+    {
+      "n": 5,
+      "text": "锅中放留用的肠汤烧开，加黄豆酱与生抽化开，倒入肠块小火煮十分钟。",
+      "time_min": 12,
+      "heat": "中小火",
+      "tip": "酱要先用少量热汤化开再倒回锅，避免结块。",
+      "visual_cue": "汤汁呈浅褐色、酱香散出"
+    },
+    {
+      "n": 6,
+      "text": "下猪肝片煮到边缘变白，再缓缓淋入水淀粉，边淋边搅至汤汁浓稠发亮。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "淀粉要分两次淋，一次倒完容易结块挂不均。",
+      "visual_cue": "汤汁能挂住勺背、肝片刚断生"
+    },
+    {
+      "n": 7,
+      "text": "关火后调入蒜泥与盐，装碗时撒上生蒜末，趁热用小勺连汤带料吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蒜泥关火后才放，久煮蒜香会发闷发苦。",
+      "visual_cue": "碗面蒜香扑鼻、汤汁凝而不流"
+    }
+  ],
+  "tips": [
+    "炒肝其实是煮加勾芡，全程几乎不炒，火候以汤汁挂勺为准。",
+    "蒜要用新蒜捣泥，辛辣清亮，老蒜发苦会盖住酱香。",
+    "勾芡后的炒肝不能久放，凉了凝成块，需重新加热稀开。"
+  ],
+  "common_mistakes": [
+    "猪大肠没洗净，成品带脏器味，怎么加蒜都压不住。",
+    "猪肝一开始就下锅久煮，口感发柴像胶皮。",
+    "淀粉一次倒入且不搅动，汤汁结成透明硬疙瘩。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪大肠",
+      "substitute": "猪肚",
+      "ratio": "400g 对 400g",
+      "note": "猪肚更厚实，煮制时间需延长二十分钟。"
+    },
+    {
+      "original": "黄豆酱",
+      "substitute": "甜面酱",
+      "ratio": "40g 对 45g",
+      "note": "甜面酱偏甜，需减少或不放盐。"
+    }
+  ],
+  "variations": [
+    "加入煮软的猪肺块，做成老北京摊子上更齐全的炒肝配肺。",
+    "把水淀粉换成藕粉勾芡，汤汁更透亮，口感偏清爽。"
+  ],
+  "serving_suggestion": "装小碗带勺子，配两个芝麻烧饼或包子一起吃，就是地道北京早点。",
+  "storage": "冷藏两天，复热时加少量清水小火化开，不要用大火直接煮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 260,
+    "protein_g": 20,
+    "fat_g": 15,
+    "carbs_g": 12,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪大肠与猪肝必须彻底加热，中心温度达到熟透程度、不见血色才可食用。",
+    "内脏含胆固醇与嘌呤较高，高血脂与痛风人群应少量食用。",
+    "勾芡后的汤汁降温快，出锅后请冷藏保存，复热要彻底加热。"
+  ],
+  "origin_note": "炒肝是北京前门一带传出的早点，清末由会仙居创制，用猪肠猪肝加黄酱蒜末勾浓芡，因早年确实下锅炒过而得名。它讲究汁浓、蒜香重、肠烂肝嫩，老北京人习惯端着碗转着圈吸溜，配烧饼当早饭。",
+  "tags": [
+    "北京",
+    "早点",
+    "内脏",
+    "猪肝",
+    "传统"
+  ],
+  "related_ids": [
+    "zhajiangmian",
+    "jingjiang-rousi",
+    "culiu-muxu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
