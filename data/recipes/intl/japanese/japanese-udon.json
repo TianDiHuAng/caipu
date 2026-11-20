@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-udon",
+  "name": {
+    "zh": "日式油豆腐乌冬",
+    "en": "Kitsune Udon"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 2,
+  "flavor": [
+    "umami",
+    "salty",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "乌冬面",
+          "name_en": "udon noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "冷冻或半干乌冬均可",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "油豆腐",
+          "name_en": "fried tofu puff",
+          "amount": 4,
+          "unit": "piece",
+          "note": "日式薄油豆腐皮",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切细葱花",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 15,
+          "unit": "g",
+          "note": "干昆布，擦净不洗",
+          "optional": false
+        },
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 20,
+          "unit": "g",
+          "note": "现刨鲣鱼花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 45,
+          "unit": "ml",
+          "note": "日式淡口酱油更佳",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 30,
+          "unit": "ml",
+          "note": "增甜提亮",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "调汤底",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮出汁用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "煮面锅",
+    "漏勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "海带用湿布擦净表面，放入冷水浸泡二十分钟，小火加热到将沸前捞出海带。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "海带不能煮沸，滚了会释出黏液并发苦。",
+      "visual_cue": "水面浮小泡、汤色淡黄清亮"
+    },
+    {
+      "n": 2,
+      "text": "放入木鱼花静置两分钟，待花瓣沉底后过滤，得到清澈的日式高汤。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "木鱼花不要搅动，久煮或搅压都会带来腥涩味。",
+      "visual_cue": "木鱼花沉底、滤液清亮无渣"
+    },
+    {
+      "n": 3,
+      "text": "高汤回锅，加生抽、味醂与白糖小火加热到微沸，尝起来咸鲜带甜即离火。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "汤底宁淡勿咸，乌冬会吸汤，太咸越吃越咸。",
+      "visual_cue": "汤色琥珀透亮、甜咸平衡"
+    },
+    {
+      "n": 4,
+      "text": "另起一锅水烧开，乌冬面下锅煮三分钟，冷冻乌冬先解冻再下。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "乌冬只需加热透，久煮会失弹，乌冬面断成糊。",
+      "visual_cue": "乌冬面浮起、用筷子挑起有弹性"
+    },
+    {
+      "n": 5,
+      "text": "乌冬捞出过一遍冷水洗去表面淀粉，再回热汤里烫十秒让其吸味。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "过冷水的目的是洗掉黏糊，别在外面泡太久。",
+      "visual_cue": "乌冬面表面滑爽、汤面不浑浊"
+    },
+    {
+      "n": 6,
+      "text": "油豆腐放入汤锅小火浸煮五分钟，让它吸饱汤汁，甜咸味渗进豆皮。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "油豆腐先焯水去浮油，汤底更清不影响颜色。",
+      "visual_cue": "豆皮颜色加深、捏起来沉甸甸"
+    },
+    {
+      "n": 7,
+      "text": "乌冬面装入碗中浇上热汤，摆好油豆腐，撒葱花趁热吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "碗先用热水烫热，成品温度保持更久。",
+      "visual_cue": "汤面清亮、葱花翠绿浮在表面"
+    }
+  ],
+  "tips": [
+    "高汤是这道面的全部，昆布与木鱼花都不能用大火滚。",
+    "冷冻乌冬比干乌冬更接近日本口感，耐嚼且不易断。",
+    "汤底可一次多做，冷藏三天，随取随用。"
+  ],
+  "common_mistakes": [
+    "海带与木鱼花一同冷水下锅煮开，高汤发苦带腥。",
+    "乌冬煮过头再加汤，乌冬面软烂无弹，汤也变糊。",
+    "汤底调得过咸，乌冬吸汤后整碗难以下口。"
+  ],
+  "substitutions": [
+    {
+      "original": "乌冬面",
+      "substitute": "荞麦面",
+      "ratio": "400g 对 300g",
+      "note": "荞麦面煮两分钟即可，风味更素淡。"
+    },
+    {
+      "original": "油豆腐",
+      "substitute": "油炸腐竹",
+      "ratio": "4 片 对 60g",
+      "note": "腐竹需提前泡软，吸汤后口感偏韧。"
+    }
+  ],
+  "variations": [
+    "打入一颗半熟温泉蛋同碗，做成月见乌冬，口感更浓滑。",
+    "加一勺天妇罗碎与姜泥，做成清爽的关西风乌冬。"
+  ],
+  "serving_suggestion": "热汤热面盛入大碗，撒上七味粉与少许山椒粉，即刻享用。",
+  "storage": "面与汤分开放，冷藏一天；复热时汤滚后再下面，避免乌冬面糊烂。",
+  "nutrition_estimate": {
+    "basis": "每份（约 500g）",
+    "calories_kcal": 470,
+    "protein_g": 18,
+    "fat_g": 12,
+    "carbs_g": 72,
+    "sodium_mg": 1350,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "汤底温度接近沸点，端碗时请用托碟，避免溢出烫手。",
+    "海带与木鱼花属水产制品，对鱼类过敏者需避开。",
+    "本菜含麸质（乌冬面），乳糜泻人群不宜食用。"
+  ],
+  "origin_note": "狐乌冬是日本关西常见的热汤乌冬，因油豆腐颜色像狐狸而得名。它用昆布与木鱼花吊出的头道高汤打底，只放淡口酱油与味醂调味，清亮鲜甜。日本人在冬天吃它暖身，简简单单一碗，考验的是出汁功夫。",
+  "tags": [
+    "日本",
+    "面食",
+    "乌冬",
+    "汤面",
+    "家常"
+  ],
+  "related_ids": [
+    "tempura",
+    "miso-soup",
+    "japanese-shogayaki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-parmigiana",
+  "name": {
+    "zh": "意式焗茄子千层",
+    "en": "Melanzane alla Parmigiana"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 50,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 800,
+          "unit": "g",
+          "note": "选长条形紫茄",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 600,
+          "unit": "g",
+          "note": "熟透的罗马番茄",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "马苏里拉",
+          "name_en": "mozzarella",
+          "amount": 250,
+          "unit": "g",
+          "note": "切片沥干",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 60,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 15,
+          "unit": "g",
+          "note": "取叶",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散裹茄片",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "裹粉用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "煎茄与炒酱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "杀水与调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "中和番茄酸",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "平底锅",
+    "厨房纸",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子去蒂切成八毫米厚的长片，撒盐抓匀静置二十分钟杀出水分。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "杀水能去涩味并减少吸油，这步别省。",
+      "visual_cue": "茄片表面渗出水珠、按压变软"
+    },
+    {
+      "n": 2,
+      "text": "用厨房纸把茄片两面压干，先蘸面粉再蘸蛋液，抖掉多余的面糊。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "裹粉层要薄而完整，太厚会盖住茄子的软糯。",
+      "visual_cue": "茄片表面覆一层均匀薄糊"
+    },
+    {
+      "n": 3,
+      "text": "平底锅放橄榄油中火煎茄片，每面两分钟煎到金黄，捞出沥油。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "分批煎、不要叠放，锅温一降就吸油。",
+      "visual_cue": "两面金黄、边缘略焦脆"
+    },
+    {
+      "n": 4,
+      "text": "另起锅放橄榄油与大蒜片小火煸香，倒入切碎的番茄中火熬十五分钟。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "番茄要熬到出沙、油分离，酱才有厚度。",
+      "visual_cue": "酱汁浓稠、表面浮红色油"
+    },
+    {
+      "n": 5,
+      "text": "番茄酱加盐、白糖与黑胡椒调味，关火后拌入一半罗勒叶。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "罗勒最后放，久煮会发黑失香。",
+      "visual_cue": "酱味酸甜平衡、罗勒清香明显"
+    },
+    {
+      "n": 6,
+      "text": "烤盘底铺一层番茄酱，依次叠放茄片、马苏里拉、帕玛森，重复三层。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "每层都要有酱，干叠会烤得发硬难切。",
+      "visual_cue": "层次平整齐边、顶层铺满芝士"
+    },
+    {
+      "n": 7,
+      "text": "烤箱一百八十度预热，烤盘覆锡纸烤二十五分钟，揭纸再烤十分钟上色。",
+      "time_min": 36,
+      "heat": "无火",
+      "tip": "揭纸后烤到芝士起泡微焦，表面才有诱人焦斑。",
+      "visual_cue": "芝士金黄起泡、边缘冒小泡"
+    },
+    {
+      "n": 8,
+      "text": "出炉静置十分钟再切块，撒余下罗勒叶与帕玛森碎上桌。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置让层次定型，趁热切会全部塌散。",
+      "visual_cue": "切面层次分明、芝士拉丝不断"
+    }
+  ],
+  "tips": [
+    "茄子先煎后烤是那波里做法，比直接烤更香更有口感。",
+    "番茄酱要自己熬，罐装番茄膏过甜会压住茄香。",
+    "马苏里拉先沥干水分，否则烤盘底部会积一汪水。"
+  ],
+  "common_mistakes": [
+    "茄子不杀水直接煎，吸油过量，成品油腻发苦。",
+    "番茄酱没熬浓就叠盘，烤后出水，切块散成糊。",
+    "出炉立刻切，芝士未定型，层次全部塌掉。"
+  ],
+  "substitutions": [
+    {
+      "original": "马苏里拉",
+      "substitute": "格鲁耶尔芝士",
+      "ratio": "250g 对 200g",
+      "note": "格鲁耶尔更咸香，拉丝感较弱。"
+    },
+    {
+      "original": "茄子",
+      "substitute": "西葫芦",
+      "ratio": "800g 对 800g",
+      "note": "西葫芦水分多，杀水时间延长到三十分钟。"
+    }
+  ],
+  "variations": [
+    "加入一层煮熟的意面或千层面皮，做成更饱腹的焗面版本。",
+    "以烟熏马苏里拉替代普通马苏里拉，做成烟熏风味版本。"
+  ],
+  "serving_suggestion": "切方块装盘，配一份芝麻菜沙拉与面包，作为意大利主菜。",
+  "storage": "冷藏三天，复热时盖锡纸一百六十度烤十五分钟，避免表面烤干。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 480,
+    "protein_g": 19,
+    "fat_g": 33,
+    "carbs_g": 27,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "烤盘出炉温度很高，取盘请戴隔热手套，避免直接触碰。",
+    "含鸡蛋、乳制品与麸质，成品需冷藏保存并在三天内吃完。",
+    "煎茄片时橄榄油易溅，茄子含水多，下锅请从锅边滑入。"
+  ],
+  "origin_note": "Parmigiana 是意大利南部的经典焗菜，茄子裹粉煎香后与番茄酱、马苏里拉和帕玛森层层相叠，烤到芝士金黄。名字里的帕尔马并非指帕玛森奶酪，而据传源自西西里方言的「层叠」。它常作为主菜或节日冷盘，隔天冷吃同样美味。",
+  "tags": [
+    "意大利",
+    "茄子",
+    "焗",
+    "素食",
+    "芝士"
+  ],
+  "related_ids": [
+    "bolognese",
+    "pomodoro-pasta",
+    "caprese-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
