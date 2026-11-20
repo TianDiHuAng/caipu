@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T01:31:36.508Z
+- 生成时间：2026-11-20T02:06:51.695Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 48 道，平均分 97
 - 需重写（C/D）：0 道
@@ -40,8 +40,8 @@
 | indian | aloo-paratha | 93 | A | 准确性 18/25 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | matcha-pudding | 100 | A | 无 |
-| jiangsu | xiehuang-tangbao | 93 | A | 准确性 18/25 |
-| jiangsu | yaxue-fensi-tang | 93 | A | 准确性 18/25 |
+| jiangsu | xihongshi-jidan-tang | 93 | A | 准确性 18/25 |
+| jiangsu | zao-maodou | 100 | A | 无 |
 | korean | budae-jjigae | 100 | A | 无 |
 | mexican | quesadilla | 100 | A | 无 |
 | middle-eastern | hummus | 100 | A | 无 |
@@ -49,10 +49,10 @@
 | nordic | nordic-fish-soup | 100 | A | 无 |
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | borscht | 100 | A | 无 |
-| shandong | fanqie-daxia | 94 | A | 安全性 14/20 |
-| shandong | jiyu-doufu-tang | 100 | A | 无 |
+| shandong | jiaodong-bayu-jiaozi | 93 | A | 准确性 18/25 |
+| shandong | cu-jiao-yutang | 100 | A | 无 |
 | shanghai | youbao-xia | 100 | A | 无 |
-| sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
+| sichuan | hongshao-doufu | 93 | A | 准确性 18/25 |
 | sichuan | gongbao-jiding | 100 | A | 无 |
 | sichuan | lazi-ji | 100 | A | 无 |
 | spanish | merluza-a-la-vasca | 100 | A | 无 |

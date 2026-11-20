@@ -1,0 +1,319 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "guoba-roupian",
+  "name": {
+    "zh": "锅巴肉片",
+    "en": "Pork Slices with Crispy Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 15,
+    "total_min": 60
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sour",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "压薄晒干做锅巴",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 250,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 15,
+          "unit": "g",
+          "note": "泡发撕小朵",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切菱形片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 20,
+          "unit": "ml",
+          "note": "起酸甜味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌肉去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "上浆与勾芡",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炸锅巴与滑肉",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "汤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "深盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "米饭趁温热压成薄片，提前摊开晾到干硬备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "晾到发硬不粘手，炸出来才脆。",
+      "visual_cue": "米片干硬、掰开有脆响"
+    },
+    {
+      "n": 2,
+      "text": "干米片掰成四厘米见方的小块，抖掉松散米粒备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "大小均匀，炸的时候受热一致。",
+      "visual_cue": "块形齐整、边角少碎屑"
+    },
+    {
+      "n": 3,
+      "text": "猪里脊逆纹切薄片，加盐、料酒与淀粉抓匀上浆腌十五分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "上浆锁水，肉片滑嫩不老。",
+      "visual_cue": "肉片挂薄浆、手感滑润"
+    },
+    {
+      "n": 4,
+      "text": "木耳泡发撕成小朵，胡萝卜切菱形片，大蒜切片、生姜切末。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "配菜切得整齐，成品更好看。",
+      "visual_cue": "配菜大小一致、木耳无硬根"
+    },
+    {
+      "n": 5,
+      "text": "锅中植物油烧到六成热，下锅巴块中火炸到膨起金黄。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "锅巴入锅会炸响，别靠太近。",
+      "visual_cue": "锅巴蓬松金黄、浮在油面"
+    },
+    {
+      "n": 6,
+      "text": "锅巴捞出沥干油分，趁热铺在深盘底部保温。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "锅巴要热，浇汁才有滋啦声。",
+      "visual_cue": "锅巴干爽、盘底不见油"
+    },
+    {
+      "n": 7,
+      "text": "锅留底油炒香豆瓣酱、蒜片与姜末，加清水、生抽、白糖与香醋烧开。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "糖醋比例一比二，酸甜才平衡。",
+      "visual_cue": "汤汁红亮、酸甜香扑鼻"
+    },
+    {
+      "n": 8,
+      "text": "下木耳与胡萝卜片煮两分钟，再逐片下肉片滑散至变色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉片一片片下，才不粘连成团。",
+      "visual_cue": "肉片舒展变白、汤汁微稠"
+    },
+    {
+      "n": 9,
+      "text": "淀粉兑水勾薄芡，撒葱段推匀，滚烫浇在锅巴上即可。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "浇汁要快，锅巴才能吸汁不软。",
+      "visual_cue": "滋啦作响、锅巴挂汁"
+    }
+  ],
+  "tips": [
+    "锅巴可买现成的干锅巴，省时又脆。",
+    "肉片冷冻半小时再切，薄片更好成型。",
+    "浇汁要滚烫，锅巴遇热才够脆响。"
+  ],
+  "common_mistakes": [
+    "米饭太湿就压片，晾两天都干不透。",
+    "锅巴炸好放着不保温，浇汁后软塌塌。",
+    "醋和糖比例失衡，不是太酸就是死甜。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "牛里脊",
+      "ratio": "250g 对 250g",
+      "note": "滑制时间稍短，变色即可。"
+    },
+    {
+      "original": "胡萝卜",
+      "substitute": "青椒",
+      "ratio": "60g 对 60g",
+      "note": "最后下锅，保持爽脆。"
+    }
+  ],
+  "variations": [
+    "汤汁里加几颗泡椒，酸辣味更川味。",
+    "把肉片换成鲜虾仁，鲜味会更清甜一些。"
+  ],
+  "serving_suggestion": "上桌后立刻浇汁，听着响声吃最有意思。",
+  "storage": "锅巴与汤汁分开存放，复热后再组合。",
+  "nutrition_estimate": {
+    "basis": "每份（约 240g）",
+    "calories_kcal": 560,
+    "protein_g": 26,
+    "fat_g": 28,
+    "carbs_g": 48,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉片须彻底滑熟至完全变白，不带血色。",
+    "木耳属高风险食材，须充分泡发并彻底加热至熟透，久泡易滋生细菌，泡发不宜超过四小时。",
+    "炸锅巴时米粒可能爆开溅油，操作须保持距离防烫。"
+  ],
+  "origin_note": "锅巴肉片是川菜里带声响的一道，干锅巴炸得蓬松，滚烫的糖醋肉片浇上去滋啦作响，脆的软的酸的甜的全在一口里。",
+  "tags": [
+    "川菜",
+    "酸甜",
+    "宴客",
+    "特色"
+  ],
+  "related_ids": [
+    "shuizhu-roupian",
+    "yuxiang-rousi",
+    "hongshao-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

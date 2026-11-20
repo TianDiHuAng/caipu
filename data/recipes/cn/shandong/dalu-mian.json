@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dalu-mian",
+  "name": {
+    "zh": "山东打卤面",
+    "en": "Shandong Gravy Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "手擀面最佳",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "肥瘦相间",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两个，打散",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "加深卤色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "卤汁与煮面",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "勾芡成卤",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒卤",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "卤汁底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "木耳用温水泡发二十分钟，洗净后切成细丝备用。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡发到位才软糯，硬梗要摘掉。",
+      "visual_cue": "木耳舒展柔软、无硬根"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加料酒与少许盐抓匀，静置十分钟让它入味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肉末先腌，卤汁才不腥。",
+      "visual_cue": "肉末松散、带淡淡酒香"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油烧热，下猪肉末中火煸炒到变色出油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "炒到肉末粒粒分明再加料。",
+      "visual_cue": "肉末散开、锅底见油"
+    },
+    {
+      "n": 4,
+      "text": "下生姜末与木耳丝一起翻炒两分钟，炒出香味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "木耳遇热会爆响，注意别被溅到。",
+      "visual_cue": "木耳丝变软、香气散出"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽、白糖与盐，倒入清水烧开成卤汤。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "生抽调味老抽提色，比例别弄反。",
+      "visual_cue": "汤色红褐、咸香扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "转中火煮三分钟，玉米淀粉兑水淋入搅成浓稠卤汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "边淋边搅，卤才不会结块。",
+      "visual_cue": "卤汁浓稠、勺背挂满浆"
+    },
+    {
+      "n": 7,
+      "text": "蛋液细线状淋入卤中推成蛋花，撒白胡椒与葱花离火。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "卤汁要保持微沸，蛋花才成片。",
+      "visual_cue": "蛋花成絮、卤面光亮"
+    },
+    {
+      "n": 8,
+      "text": "汤锅烧开清水加盐，面条下锅煮三分钟至熟。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "水里加盐，面条更有底味。",
+      "visual_cue": "面条浮起、咬开无白芯"
+    },
+    {
+      "n": 9,
+      "text": "面条捞出沥干装碗，浇上滚烫的卤汁即可上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "卤要浇得满过面条，拌开才香。",
+      "visual_cue": "卤汁覆盖面条、葱花点缀"
+    }
+  ],
+  "tips": [
+    "卤汁勾得稍稠些，浇在面上才挂得住。",
+    "面条选手擀的粗面，拌卤不易断。",
+    "加几朵金针菇同卤，口感更丰富一些。"
+  ],
+  "common_mistakes": [
+    "卤汁勾得太稀，浇上去全流到碗底。",
+    "蛋液在滚沸的卤里猛搅，蛋花碎成蛋渣。",
+    "面条煮好过凉水，表面糊化层掉了不吃味。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "150g 对 150g",
+      "note": "需加一勺清水，口感更嫩。"
+    },
+    {
+      "original": "木耳",
+      "substitute": "香菇",
+      "ratio": "20g 对 80g",
+      "note": "切丝后卤制，鲜味更浓。"
+    }
+  ],
+  "variations": [
+    "加一把黄花菜同卤，是最传统的山东做法。",
+    "卤汁里加一小勺虾皮，鲜味层次更足。"
+  ],
+  "serving_suggestion": "卤汁要浇得厚，趁热拌开吃才最香。",
+  "storage": "卤汁冷藏可放两天，面条须当天煮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350g）",
+    "calories_kcal": 560,
+    "protein_g": 24,
+    "fat_g": 20,
+    "carbs_g": 70,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含面粉与鸡蛋，麸质或蛋类过敏者禁食；鸡蛋液须彻底加热至完全凝固。",
+    "猪肉末须炒至完全熟透，中心不见粉色。",
+    "木耳须充分泡发并彻底煮熟后食用，泡发时间不宜超过四小时。"
+  ],
+  "origin_note": "打卤面是山东人家的待客面，一锅卤里肉末木耳打底，勾浓芡再甩蛋花，浇在手擀面上，卤香厚重，吃完还要把卤汁喝干净。",
+  "tags": [
+    "鲁菜",
+    "面食",
+    "家常",
+    "宴客"
+  ],
+  "related_ids": [
+    "fuzhou-banmian",
+    "guotie",
+    "congyou-bing"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

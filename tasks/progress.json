@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:32:09.608Z",
+  "generatedAt": "2026-11-20T02:06:59.740Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 498,
     "target": 3274,
-    "actual": 498,
-    "coverage": 0.15210751374465487
+    "actual": 504,
+    "coverage": 0.15394013439218082
   },
   "regions": {
     "cn": [
@@ -23,15 +23,16 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 50,
+        "actual": 51,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "fenzheng-rou",
+              "guoba-roupian",
               "huiguo-rou",
               "maoxuewang",
               "mapo-doufu",
@@ -203,7 +204,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 34,
+        "actual": 36,
         "cells": [
           {
             "category": "main-seafood",
@@ -298,8 +299,21 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "dalu-mian"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 3,
+            "ids": [
+              "congyou-bing",
+              "jiaodong-bayu-jiaozi",
+              "zha-ouhe"
+            ]
           },
           {
             "category": "main-poultry",
@@ -309,16 +323,6 @@
             "ids": [
               "huangmen-ji",
               "linyi-chaoji"
-            ]
-          },
-          {
-            "category": "snack",
-            "kind": "extra",
-            "target": 0,
-            "actual": 2,
-            "ids": [
-              "jiaodong-bayu-jiaozi",
-              "zha-ouhe"
             ]
           },
           {
@@ -348,7 +352,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 38,
+        "actual": 40,
         "cells": [
           {
             "category": "main-seafood",
@@ -444,8 +448,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "huadan-niurou"
+            ]
           },
           {
             "category": "main-tofu",
@@ -477,8 +483,9 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "guangshi-chunjuan",
               "xiajiao"
             ]
           }
@@ -490,7 +497,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 35,
+        "actual": 36,
         "cells": [
           {
             "category": "main-seafood",
@@ -608,9 +615,10 @@
             "category": "dessert",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "guihua-tangou"
+              "guihua-tangou",
+              "zhima-matuan"
             ]
           },
           {
