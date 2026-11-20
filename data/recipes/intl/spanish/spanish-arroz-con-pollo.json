@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-arroz-con-pollo",
+  "name": {
+    "zh": "西班牙鸡肉饭",
+    "en": "Arroz con Pollo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 40,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 320,
+          "unit": "g",
+          "note": "短粒米，洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "带骨切块更香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "毛豆",
+          "name_en": "edamame",
+          "amount": 100,
+          "unit": "g",
+          "note": "冷冻或新鲜",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "擦成泥",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎，出锅撒",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切角配食",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 5,
+          "unit": "g",
+          "note": "西班牙烟熏红椒粉",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "干型",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎鸡用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分两次",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "约为米量的两倍",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底平底锅",
+    "木铲",
+    "厨房夹",
+    "铝箔"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉用厨房纸吸干，两面撒一半盐和黑胡椒静置十分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "表面干才煎得出金黄脆皮，湿的只会出水。",
+      "visual_cue": "鸡皮干燥、盐粒均匀附着"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅放橄榄油，中火把鸡皮朝下煎到金黄，翻面再煎两分钟盛出。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "鸡皮煎到能自然离锅再翻，硬翻会撕破鸡皮。",
+      "visual_cue": "鸡皮金脆、锅底留一层焦香物"
+    },
+    {
+      "n": 3,
+      "text": "原锅下洋葱与甜椒炒软，加入大蒜与红椒粉炒二十秒出香。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "红椒粉极易焦苦，下锅后数到二十就要加液体。",
+      "visual_cue": "蔬菜软塌、油色转红"
+    },
+    {
+      "n": 4,
+      "text": "倒入番茄泥炒到颜色变深、水分收干，淋白葡萄酒煮到酒气散尽。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "这一步叫做索夫里托，是西班牙菜的味道底座。",
+      "visual_cue": "酱体浓稠发暗红、酒味不再刺鼻"
+    },
+    {
+      "n": 5,
+      "text": "下大米翻炒一分钟裹上酱汁，加清水与剩余盐，鸡块铺回锅中。",
+      "time_min": 6,
+      "heat": "中大火",
+      "tip": "米要先炒再加水，煮出来颗粒分明不黏糊。",
+      "visual_cue": "米粒油亮、液面高出米约一指"
+    },
+    {
+      "n": 6,
+      "text": "煮开后转小火盖铝箔焖十八分钟，撒青豆再焖三分钟，关火静置五分钟。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "焖好后静置别急着开盖，让水分均匀回吸。",
+      "visual_cue": "米粒饱满无白芯、锅底微结薄壳"
+    },
+    {
+      "n": 7,
+      "text": "开盖撒欧芹碎，配柠檬角上桌，吃前挤汁提香。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "柠檬汁能压住油腻，也让红椒粉的香气更亮。",
+      "visual_cue": "米饭松散、鸡皮颜色油亮"
+    }
+  ],
+  "tips": [
+    "米量与水量的比例约一比二点二，短粒米吸水量大。",
+    "喜欢锅巴可在最后两分钟开大火十秒，听到轻响即可关火。",
+    "用焯鸡腿肉的汤代替清水，鲜味会明显提升一个档次。"
+  ],
+  "common_mistakes": [
+    "米下锅后频繁翻搅，煮出来成了一锅粥。",
+    "红椒粉与蒜同炒过久，整锅发苦。",
+    "水量不足中途加水，米粒夹生且外层糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "整鸡",
+      "ratio": "500g 对 半只",
+      "note": "需剁成小块并延长焖煮五分钟。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "米酒",
+      "ratio": "50ml 对 50ml",
+      "note": "甜度较高，需减少五克盐。"
+    }
+  ],
+  "variations": [
+    "甜椒与青豆加量、番茄减半，做成更清爽的蔬菜版本。",
+    "红椒粉加量并把鸡腿肉煎得更焦，烟熏香气更突出。"
+  ],
+  "serving_suggestion": "连锅上桌，配柠檬角与沙拉，作为家庭聚餐的主食。",
+  "storage": "冷藏两天，冷冻两周；复热加少量清水盖盖小火焖透。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350g）",
+    "calories_kcal": 560,
+    "protein_g": 32,
+    "fat_g": 18,
+    "carbs_g": 64,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉必须煮到中心完全变白、无血水，中心温度达七十四度。",
+    "生鸡肉接触的砧板与刀具需清洗后再处理熟食。",
+    "含米饭的菜品不要室温放置超过两小时，避免蜡样芽孢杆菌。"
+  ],
+  "origin_note": "Arroz con Pollo 在西班牙语世界广泛存在，西班牙版本以洋葱、甜椒与番茄熬出的索夫里托打底，加短粒米与鸡肉同焖。它与瓦伦西亚海鲜饭同宗，只是把海鲜换成鸡肉，成为家常版的一锅饭。锅底那层微焦的锅巴是行家最爱的部分。",
+  "tags": [
+    "西班牙",
+    "米饭",
+    "鸡肉",
+    "一锅菜"
+  ],
+  "related_ids": [
+    "paella-valenciana",
+    "gazpacho",
+    "tortilla-espanola"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

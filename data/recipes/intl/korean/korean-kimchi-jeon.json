@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-kimchi-jeon",
+  "name": {
+    "zh": "韩式泡菜煎饼",
+    "en": "Kimchi Jeon"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "sour",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "泡菜",
+          "name_en": "kimchi",
+          "amount": 200,
+          "unit": "g",
+          "note": "发酵较酸的，切碎",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 120,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "分两次煎",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "泡菜本身咸，少放",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "调面糊",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "打蛋器",
+    "锅铲",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "泡菜切碎，泡菜汁一并留在碗中，不要挤干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡菜汁是调味主力，挤干后饼就没味道了。",
+      "visual_cue": "泡菜碎大小均匀、碗底留着红色汁水"
+    },
+    {
+      "n": 2,
+      "text": "面粉过筛加入碗中，打入鸡蛋，加清水、白糖和盐搅成稠面糊。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "面糊稠度像浓稠的米糊，太稀摊开会散。",
+      "visual_cue": "面糊挂在打蛋器上缓慢滴落"
+    },
+    {
+      "n": 3,
+      "text": "面糊中拌入小葱段，静置五分钟让面粉吸水。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "静置能让面粉充分吸水，煎的时候不易散开。",
+      "visual_cue": "面糊变稠、小葱均匀分布"
+    },
+    {
+      "n": 4,
+      "text": "平底锅放一半植物油中火烧热，倒入面糊摊成两厘米厚的圆饼。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "摊得厚一点才有外脆内软的口感，别摊太薄。",
+      "visual_cue": "面糊边缘开始凝固、锅底滋滋响"
+    },
+    {
+      "n": 5,
+      "text": "底面金黄后沿锅边淋剩余植物油，翻面再煎四分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "淋油在锅边让饼底更脆，翻面前先晃锅确认能滑动。",
+      "visual_cue": "两面金黄、按压有弹性"
+    },
+    {
+      "n": 6,
+      "text": "出锅后稍晾一分钟，切成四厘米见方的小块，趁热食用口感最脆。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "刚出锅太烫切不齐，晾一分钟再切。",
+      "visual_cue": "切面平整、饼边焦脆"
+    }
+  ],
+  "tips": [
+    "泡菜越酸做出来的饼越香，新泡菜可加少许米醋补酸。",
+    "想更脆可把面糊摊得更薄，并延长煎制十秒。",
+    "配现成的蘸汁食用即可，酸甜口更解腻。"
+  ],
+  "common_mistakes": [
+    "泡菜挤得太干，饼失去酸甜味只剩面味。",
+    "火太大导致表面还没熟底部已经发黑，只能铲掉重来。",
+    "面糊太稀摊开后流散，煎出来像薄脆。"
+  ],
+  "substitutions": [
+    {
+      "original": "面粉",
+      "substitute": "低筋面粉",
+      "ratio": "120g 对 120g",
+      "note": "口感更松软，脆度略减。"
+    },
+    {
+      "original": "泡菜",
+      "substitute": "辣白菜",
+      "ratio": "200g 对 200g",
+      "note": "风味接近，注意咸度差异。"
+    }
+  ],
+  "variations": [
+    "面糊中加入更多小葱段，做成葱香更足的版本。",
+    "泡菜加倍、面糊减半，做成料多面少的厚实版本。"
+  ],
+  "serving_suggestion": "切块装盘，配米酒或当便当配菜，也可作为下酒小食。",
+  "storage": "冷藏两天，复热用平底锅干煎两分钟恢复脆感，不建议微波。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 420,
+    "protein_g": 11,
+    "fat_g": 22,
+    "carbs_g": 46,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋需完全煎熟，面糊中心不应有流动液体。",
+    "煎饼时油温较高，面糊下锅前擦干碗边，避免水滴溅油。",
+    "泡菜开封后需冷藏，取用时用干净筷子避免污染。"
+  ],
+  "origin_note": "김치전（Kimchi Jeon）是韩国家庭雨天的固定菜单，也常在酒桌上当下酒菜。做法把发酵酸透的泡菜与面糊拌匀，用足油煎到两面金黄，酸味与焦香在高温下结合出特别的鲜。韩国人讲究泡菜要「熟透」才好煎，配一碗马格利米酒最对味。",
+  "tags": [
+    "韩国",
+    "小吃",
+    "泡菜",
+    "煎饼",
+    "下酒"
+  ],
+  "related_ids": [
+    "kimchi-jjigae",
+    "haemul-pajeon",
+    "gimbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

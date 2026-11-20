@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-yum-woon-sen",
+  "name": {
+    "zh": "泰式粉丝沙拉",
+    "en": "Yum Woon Sen"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 2,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 150,
+          "unit": "g",
+          "note": "干粉丝，温水泡软",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 150,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝泡冰水",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 80,
+          "unit": "g",
+          "note": "斜切薄片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 30,
+          "unit": "g",
+          "note": "烤香压碎",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 2,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "切圈，按耐辣调整",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "提供咸鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡酸辣",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "焯水与泡粉丝用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "大拌碗",
+    "漏勺",
+    "捣钵"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干粉丝用温水泡十分钟到能弯折不断，捞出剪成两段。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "别用热水泡，粉丝外层糊了里面还是硬的。",
+      "visual_cue": "粉丝透明柔软、用手能轻松掐断"
+    },
+    {
+      "n": 2,
+      "text": "清水烧开，下五花肉片汆到变色卷起，捞出过凉水沥干。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉片切得越薄越嫩，汆的时间控制在四十秒内。",
+      "visual_cue": "肉片变白卷边、无粉红色"
+    },
+    {
+      "n": 3,
+      "text": "同一锅水汆烫粉丝三十秒，捞出立刻过冰水，彻底沥干。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "过冰水能让粉丝弹牙不粘连，沥干是关键。",
+      "visual_cue": "粉丝根根分明、抓一把不滴水"
+    },
+    {
+      "n": 4,
+      "text": "大蒜与小米辣在捣钵里捣成粗末，加鱼露、白糖和柠檬汁搅到糖化。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "先尝一口酱汁，酸辣咸要同时到位才够泰式。",
+      "visual_cue": "酱汁清澈、尝起来先酸后辣带回甘"
+    },
+    {
+      "n": 5,
+      "text": "大碗里放粉丝、五花肉、洋葱丝、芹菜、小葱和香菜，倒入酱汁拌匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "用手抓拌比用筷子匀，粉丝能均匀吸味。",
+      "visual_cue": "粉丝均匀上色、蔬菜分布均匀"
+    },
+    {
+      "n": 6,
+      "text": "装盘后撒上烤香压碎的花生，挤少许柠檬汁即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "花生最后撒，久放会吸水变软失去脆感。",
+      "visual_cue": "花生碎金黄、粉丝湿润不汪汁"
+    }
+  ],
+  "tips": [
+    "粉丝沥干后可用剪刀剪短，拌和吃起来更方便。",
+    "想更清爽可加大洋葱与芹菜的比例，同时减少粉丝用量。",
+    "鱼露品牌咸度差异大，先少放后补味。"
+  ],
+  "common_mistakes": [
+    "粉丝泡太久又焯水，拌完变成一坨糊。",
+    "酱汁只有酸没有糖，吃起来尖锐寡淡。",
+    "五花肉汆过头变柴，咬着像橡皮。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "鸡腿肉",
+      "ratio": "150g 对 150g",
+      "note": "需切丝并缩短汆水时间。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "生抽",
+      "ratio": "30ml 对 30ml",
+      "note": "咸鲜更直接，缺少发酵香。"
+    }
+  ],
+  "variations": [
+    "把五花肉减半、洋葱与芹菜加倍，做成更爽脆的轻食版本。",
+    "小米辣与香菜加量，做成依善风味的重辣版本。"
+  ],
+  "serving_suggestion": "凉拌上桌配烤肉同食，作为泰式套餐的清爽前菜。",
+  "storage": "冷藏一夜，酱汁与粉丝分开保存可避免过软；食用前再拌。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 340,
+    "protein_g": 16,
+    "fat_g": 14,
+    "carbs_g": 38,
+    "sodium_mg": 1100,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "fish",
+    "peanut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉必须汆到完全变色熟透，不要留下粉红色部分。",
+    "凉拌菜在室温不要超过一小时，天热请冷藏后尽快食用。",
+    "花生需确认无霉变，霉花生可能含黄曲霉素，务必丢弃。"
+  ],
+  "origin_note": "Yum Woon Sen 是泰国最常见的凉拌粉丝，woon sen 就是粉丝的音译。街头摊把粉丝焯软后与肉末、洋葱、芹菜拌上鱼露柠檬汁，再撒一把烤花生，酸辣开胃。它属于泰国东北部依善风味的延伸，强调酸、辣、咸的平衡，常与烤肉和糯米饭同食。",
+  "tags": [
+    "泰国",
+    "沙拉",
+    "粉丝",
+    "凉拌",
+    "酸辣"
+  ],
+  "related_ids": [
+    "larb-gai",
+    "yum-nua",
+    "som-tam"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
