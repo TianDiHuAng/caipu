@@ -158,7 +158,7 @@ test('GET /api/v1/ingredients 支持关键词搜索', async () => {
 });
 
 test('GET /api/v1/ingredients/:key/recipes 返回该食材的菜谱', async () => {
-  const body = (await api('/api/v1/ingredients/chicken-thigh/recipes')).json();
+  const body = (await api('/api/v1/ingredients/chicken-thigh/recipes?pageSize=100')).json();
   assert.ok(body.total >= 1);
   assert.ok(body.items.some((x) => x.id === 'gongbao-jiding'));
 });

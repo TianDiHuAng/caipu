@@ -1,0 +1,331 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "songsao-yugeng",
+  "name": {
+    "zh": "宋嫂鱼羹",
+    "en": "Song Sister Fish Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "sour",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳜鱼",
+          "name_en": "mandarin fish",
+          "amount": 500,
+          "unit": "g",
+          "note": "一条，取净肉约三百克",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "取蛋清打散",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 25,
+          "unit": "ml",
+          "note": "起酸提味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥提味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "出锅提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒配料",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "蒸锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鳜鱼去鳞去内脏洗净，鱼身划两刀放姜丝与料酒。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "鱼腹黑膜要刮净，去腥关键。",
+      "visual_cue": "鱼身洁净、刀口整齐"
+    },
+    {
+      "n": 2,
+      "text": "蒸锅上汽后放入鳜鱼，大火蒸八分钟至鱼肉变白，取出放凉。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "蒸到鱼眼突出即熟。",
+      "visual_cue": "鱼肉转白、鱼眼凸起"
+    },
+    {
+      "n": 3,
+      "text": "用手把鱼肉拆下，仔细挑净细刺后撕成细丝。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "鳜鱼刺少，但仍要逐块检查。",
+      "visual_cue": "鱼肉成丝、不见鱼刺"
+    },
+    {
+      "n": 4,
+      "text": "香菇、冬笋切细丝，金华火腿切末，小葱切花备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "丝切得越细，口感越顺。",
+      "visual_cue": "配料丝细匀、长短一致"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒植物油烧热，下姜丝与火腿末小火炒出香味。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "火腿末炒香能提汤的鲜。",
+      "visual_cue": "火腿末酥香、油色微红"
+    },
+    {
+      "n": 6,
+      "text": "下香菇丝与冬笋丝翻炒一分钟，加清水烧开。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "笋丝先炒去涩味。",
+      "visual_cue": "汤面微滚、配料软化"
+    },
+    {
+      "n": 7,
+      "text": "放入鱼肉丝，加生抽、盐与白胡椒小火煮三分钟。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "鱼肉已熟，久煮会散。",
+      "visual_cue": "鱼丝舒展、汤色微白"
+    },
+    {
+      "n": 8,
+      "text": "玉米淀粉加清水调开，缓缓淋入汤中推匀勾薄芡。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "边淋边推，芡才不结块。",
+      "visual_cue": "汤汁浓稠挂勺、无疙瘩"
+    },
+    {
+      "n": 9,
+      "text": "关小火沿锅边淋入蛋清，静置五秒后轻推成蛋花。",
+      "time_min": 2,
+      "heat": "微火",
+      "tip": "淋完别马上搅，蛋花才成片。",
+      "visual_cue": "蛋花成薄片漂浮在汤面"
+    },
+    {
+      "n": 10,
+      "text": "淋入香醋与香油，撒葱花搅匀后立刻离火装碗。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "醋最后放，酸香才不挥发。",
+      "visual_cue": "汤面浮香油、酸香扑鼻"
+    }
+  ],
+  "tips": [
+    "用蒸鱼的原汁代替部分清水，鲜味更足。",
+    "勾芡要薄一些，汤汁能缓缓流动才顺口。",
+    "香醋选镇江香醋，酸味柔和且带米香。"
+  ],
+  "common_mistakes": [
+    "鱼肉没挑净刺，喝汤时容易扎口。",
+    "芡勾得太厚，汤凉了就结成糊块。",
+    "蛋清倒入后立刻搅动，蛋花碎成渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳜鱼",
+      "substitute": "鲈鱼",
+      "ratio": "500g 对 500g",
+      "note": "肉质相近，蒸制时间延长两分钟。"
+    },
+    {
+      "original": "冬笋",
+      "substitute": "茭白",
+      "ratio": "60g 对 60g",
+      "note": "口感更嫩，无需提前去涩。"
+    }
+  ],
+  "variations": [
+    "加少许蟹肉同煮，就是更奢华的蟹粉鱼羹。",
+    "喜欢更酸可把香醋加到四十毫升。"
+  ],
+  "serving_suggestion": "盛入小盅趁热喝，酸甜鲜香、鱼丝细嫩。",
+  "storage": "当天喝完，隔夜芡会变稀且带腥味。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 220,
+    "protein_g": 22,
+    "fat_g": 8,
+    "carbs_g": 14,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鳜鱼刺少但仍带细刺，给儿童食用须彻底挑净。",
+    "鱼肉须彻底蒸熟，中心不见透明血色。",
+    "含鸡蛋清，蛋类过敏者须谨慎；汤羹烫口，食用前稍放凉。",
+    "香菇须彻底加热熟透后食用，不可生食；鸡蛋清须完全烫熟，蛋类过敏者禁食。"
+  ],
+  "origin_note": "宋嫂鱼羹源于南宋临安的民间名菜，相传由宋五嫂创制，以鳜鱼蒸熟拆丝，配香菇笋丝勾薄芡，淋醋与蛋清，酸鲜爽口、赛似蟹羹。",
+  "tags": [
+    "浙菜",
+    "汤羹",
+    "宴客",
+    "传统"
+  ],
+  "related_ids": [
+    "xihu-cuyu",
+    "dongpo-rou",
+    "suanla-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

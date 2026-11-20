@@ -67,16 +67,9 @@ npm run progress
 
 ## 最近一次更新（本轮结束）
 
-- 菜谱库：139 道，validate 全绿；测试 29/29（Node 24）；内容进度 168/3274（5.1%）。
-- 第 21 批（6 道）：山东醋椒鱼汤｜嘉兴鲜肉粽｜福州七星鱼丸｜湖南剁辣椒｜韩式猪肉汤饭｜泰式绿咖喱鸡。
-- 抽检：`npm run audit` 覆盖 32 菜系，均分 95，无 C/D 级。
-- 食材词典补 5 项（粽叶/红辣椒/绿咖喱酱/白酒/小鱼干/辣椒酱，共 325 条）。
-- 待办：阶段 4 继续按批推进；下批建议 cantonese/soup、sichuan/staple-noodle、jiangsu/main-seafood。
-- 历史批次（第 13-14 批，共 12 道）：
-  - cantonese：蚝油生菜、虾仁滑蛋
-  - hunan：酸辣藕丁｜anhui：火腿烧笋｜yunguai：汽锅鸡｜sichuan：凉拌腐竹
-  - jiangsu：阳春面｜chaoshan：潮汕牛肉丸｜xinjiang：新疆炒米粉｜dongbei：拍黄瓜
-  - 第 13 批另含：蒜蓉炒菜心（cantonese）、剁椒蒸芋头（hunan）
-- 已确认菜系 slug：潮汕为 `chaoshan`（不是 chaozhou）。
-- 待办：阶段 4 内容生产（119/3274，3.6%）。下批建议 sichuan/soup、cantonese/soup、hunan/main-meat、shandong/main-seafood，再接 beijing、taiwan、hongkong 薄弱菜系。
+- 菜谱库：449 道，validate 全绿；测试 29/29（Node 24）；内容进度 521/3274（15.9%）。
+- 第 62 批：溜肉段、麻辣香锅、西湖牛肉羹等 6 道（commit 1736029）。
+- 第 63 批：地三鲜、椒盐虾、蒜香排骨、韭黄炒蛋、白灼菜心、香菇滑鸡（commit e7ad32f）。
+- 第 64 批（6 道）：鲁菜糖醋鲤鱼｜湘菜农家小炒肉｜川菜水煮肉片｜粤菜姜葱炒蟹｜京菜京酱肉丝｜川菜干煸四季豆（commit befb52f）。
+- 待办：阶段 4 继续按批推进；下批建议 jiangsu/main-seafood、zhejiang/main-meat、taiwan/core、hongkong/core。
 - 每 10 批后执行 `npm run audit`，C/D 级按报告明细重写。

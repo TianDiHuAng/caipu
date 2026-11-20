@@ -1,0 +1,329 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chizhi-zheng-paigu",
+  "name": {
+    "zh": "豉汁蒸排骨",
+    "en": "Steamed Spare Ribs with Black Bean Sauce"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 15,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 500,
+          "unit": "g",
+          "note": "剁成三厘米小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 15,
+          "unit": "g",
+          "note": "略剁碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁成蒜末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "抓拌锁汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "拌腌与淋面",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "出锅提香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "蒸锅用水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "深盘",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨剁成三厘米长的小块，放入清水浸泡半小时去血水。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "中途换两次水，血水去得更干净。",
+      "visual_cue": "排骨发白、水色由红转清"
+    },
+    {
+      "n": 2,
+      "text": "排骨捞出沥干，用厨房纸反复按压吸去表面水分。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "排骨表面干爽，腌料才挂得住。",
+      "visual_cue": "排骨表面干爽、不见水光"
+    },
+    {
+      "n": 3,
+      "text": "豆豉剁碎，大蒜与生姜切末，小米辣切成薄圈备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "豆豉剁碎更易出味。",
+      "visual_cue": "豆豉成粗粒、蒜末均匀"
+    },
+    {
+      "n": 4,
+      "text": "排骨加生抽、蚝油、料酒、白糖、盐与白胡椒抓匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "用手抓拌比筷子更入味。",
+      "visual_cue": "排骨裹匀酱色、碗底见汁"
+    },
+    {
+      "n": 5,
+      "text": "加入豆豉碎、蒜末、姜末与植物油继续抓拌到发黏。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "最后加油能封住肉汁。",
+      "visual_cue": "排骨表面油亮、手感黏滑"
+    },
+    {
+      "n": 6,
+      "text": "撒入玉米淀粉抓匀，静置腌制二十分钟入味。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "淀粉要最后放，才形成薄浆。",
+      "visual_cue": "排骨裹上薄浆、不结干粉"
+    },
+    {
+      "n": 7,
+      "text": "排骨平铺在深盘中，尽量不要叠得太厚，撒上小米辣圈。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "平铺受热均匀，熟得更快。",
+      "visual_cue": "排骨铺满盘底、单层摆放"
+    },
+    {
+      "n": 8,
+      "text": "蒸锅加清水大火烧开上汽，放入排骨盘盖严锅盖。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "一定要上汽后再放盘。",
+      "visual_cue": "锅边冒出足量蒸汽"
+    },
+    {
+      "n": 9,
+      "text": "保持大火蒸十二分钟，用筷子戳排骨最厚处看是否熟透。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "蒸到骨肉易分离才算熟。",
+      "visual_cue": "排骨颜色转浅、盘底出清汁"
+    },
+    {
+      "n": 10,
+      "text": "取出后淋上香油，撒少许葱花，趁热端上桌食用。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "趁热吃，凉了肉质会发紧。",
+      "visual_cue": "排骨油亮、香气扑鼻"
+    }
+  ],
+  "tips": [
+    "排骨选肋排中段，肉厚骨小最好吃。",
+    "豆豉本身有咸味，生抽要相应减量。",
+    "蒸盘盖一层保鲜膜再蒸，水汽不会滴进去。"
+  ],
+  "common_mistakes": [
+    "排骨没泡去血水就腌，蒸出来腥味重。",
+    "淀粉放太早，蒸后盘底结成厚糊。",
+    "排骨堆得太厚，中间那层还夹生。"
+  ],
+  "substitutions": [
+    {
+      "original": "排骨",
+      "substitute": "猪软骨",
+      "ratio": "500g 对 500g",
+      "note": "口感更脆，蒸制时间延长三分钟。"
+    },
+    {
+      "original": "豆豉",
+      "substitute": "豆豉酱",
+      "ratio": "15g 对 20g",
+      "note": "咸度更高，盐可省去。"
+    }
+  ],
+  "variations": [
+    "加一勺柱候酱同蒸，酱香会更加浓郁。",
+    "把排骨换成凤爪同法蒸制，就是茶楼豉汁凤爪。"
+  ],
+  "serving_suggestion": "连盘带汁上桌，汁水拌饭很下饭。",
+  "storage": "冷藏可放两天，复热需重新蒸五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 420,
+    "protein_g": 26,
+    "fat_g": 32,
+    "carbs_g": 8,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "排骨须蒸至中心完全熟透，骨头断面不见血水。",
+    "生肉处理后的刀具与案板须彻底清洗，避免交叉污染。",
+    "蒸锅加水要足量，中途干锅易烫伤。"
+  ],
+  "origin_note": "豉汁蒸排骨是粤式茶楼的常客，排骨泡去血水后以豆豉蒜末腌制，大火蒸到骨酥肉嫩，豉香浓郁、汁水清甜，一小碟就能配两碗饭。",
+  "tags": [
+    "粤菜",
+    "蒸菜",
+    "家常",
+    "茶楼点心"
+  ],
+  "related_ids": [
+    "fenzheng-rou",
+    "liu-roudan",
+    "baiqie-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

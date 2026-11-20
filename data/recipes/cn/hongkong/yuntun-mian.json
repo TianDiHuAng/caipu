@@ -1,0 +1,338 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yuntun-mian",
+  "name": {
+    "zh": "云吞面",
+    "en": "Wonton Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 20,
+    "total_min": 50
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "拉面",
+          "name_en": "ramen noodles",
+          "amount": 200,
+          "unit": "g",
+          "note": "细面，约两饼",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "剁成粗粒",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "三分肥七分瘦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "云吞皮",
+          "name_en": "wonton wrapper",
+          "amount": 100,
+          "unit": "g",
+          "note": "约二十张",
+          "optional": false
+        },
+        {
+          "name": "韭黄",
+          "name_en": "yellow chives",
+          "amount": 30,
+          "unit": "g",
+          "note": "切三厘米段",
+          "optional": false
+        },
+        {
+          "name": "小青菜",
+          "name_en": "baby greens",
+          "amount": 100,
+          "unit": "g",
+          "note": "洗净撕小棵",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "猪筒骨",
+          "name_en": "pork marrow bone",
+          "amount": 300,
+          "unit": "g",
+          "note": "熬汤底",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "g",
+          "note": "馅料提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "馅料与汤底提香",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥提味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "馅料黏合",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "熬汤与煮面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "面碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪骨冷水下锅焯五分钟，撇净血沫后捞出用温水冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅焯，血沫才出得净。",
+      "visual_cue": "骨面灰白、水面浮沫撇净"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加清水放猪骨与姜丝，小火熬四十分钟成汤底。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "汤底可提前熬好冷藏备用。",
+      "visual_cue": "汤色微白、浮起少量油花"
+    },
+    {
+      "n": 3,
+      "text": "虾仁剁成粗粒，与猪肉末、蚝油、料酒、盐、白胡椒拌匀。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "虾仁别剁太细，才有弹牙感。",
+      "visual_cue": "馅料黏连、虾仁粒清晰可见"
+    },
+    {
+      "n": 4,
+      "text": "馅料加玉米淀粉与香油顺一个方向搅打上劲。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "同向搅打，馅才紧实不散。",
+      "visual_cue": "馅料抱团、表面泛油光"
+    },
+    {
+      "n": 5,
+      "text": "云吞皮中间放一小勺馅，四角对折捏紧，逐个包好。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "馅别放太多，皮才不破。",
+      "visual_cue": "云吞饱满、收口紧实"
+    },
+    {
+      "n": 6,
+      "text": "汤底加生抽、白糖与盐调味，撒白胡椒与香油保温。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "汤底要略咸，配面才够味。",
+      "visual_cue": "汤色清亮、咸鲜适口"
+    },
+    {
+      "n": 7,
+      "text": "另起锅烧清水，水滚后下云吞煮三分钟至浮起。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "云吞浮起再煮半分钟才熟透。",
+      "visual_cue": "云吞鼓起浮面、皮透亮"
+    },
+    {
+      "n": 8,
+      "text": "同一锅水下碱水面煮九十秒，同时焯小青菜。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "碱水面煮久会发软失弹。",
+      "visual_cue": "碱水面松散、青菜翠绿"
+    },
+    {
+      "n": 9,
+      "text": "碱水面捞入碗中，依次摆上云吞、小青菜与韭黄段。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "韭黄最后放，靠汤温略微烫熟。",
+      "visual_cue": "碗中面云吞菜码齐整"
+    },
+    {
+      "n": 10,
+      "text": "浇上滚热的汤底，趁热把碱水面与云吞拌匀后食用。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "汤要滚烫浇下去才够香。",
+      "visual_cue": "汤面浮油、热气腾腾"
+    }
+  ],
+  "tips": [
+    "碱水面先过一遍滚水，碱味会淡一些。",
+    "馅料打上劲后冷藏十分钟更好包。",
+    "汤底可加少许大地鱼粉提鲜，港式味更足。"
+  ],
+  "common_mistakes": [
+    "云吞皮太薄又放太多馅，一煮就破。",
+    "面与云吞同锅久煮，碱水面糊成一团。",
+    "汤底调味过淡，配上碱水面几乎没有味道。"
+  ],
+  "substitutions": [
+    {
+      "original": "碱水面",
+      "substitute": "细鸡蛋面",
+      "ratio": "200g 对 200g",
+      "note": "碱味更淡，煮制时间缩短二十秒。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "干贝",
+      "ratio": "150g 对 100g",
+      "note": "需提前泡发半小时。"
+    }
+  ],
+  "variations": [
+    "加一勺牛腩汁就是港式牛腩云吞面。",
+    "云吞改成油炸，做成炸云吞配汤面。"
+  ],
+  "serving_suggestion": "汤、面、云吞一起上桌，先喝汤再拌面最地道。",
+  "storage": "云吞可冷冻保存一个月，汤底冷藏三天。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350g）",
+    "calories_kcal": 560,
+    "protein_g": 34,
+    "fat_g": 18,
+    "carbs_g": 62,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁属甲壳类致敏食材，过敏体质者禁食。",
+    "云吞须煮至中心完全熟透，猪肉馅不带粉色。",
+    "生肉馅与成品分开处理，包制后须尽快下锅。"
+  ],
+  "origin_note": "云吞面是港澳街头最经典的粉面，碱水面爽弹，云吞皮薄馅足带整颗虾仁，汤底用猪骨慢熬清亮鲜美，一碗下肚最是熨帖。",
+  "tags": [
+    "港澳菜",
+    "面食",
+    "家常",
+    "街头小吃"
+  ],
+  "related_ids": [
+    "congyou-banmian",
+    "tingzai-zhou",
+    "xiajiao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

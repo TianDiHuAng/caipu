@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:40:10.317Z",
+  "generatedAt": "2026-11-20T06:51:11.187Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 498,
+    "cells": 499,
     "target": 3274,
-    "actual": 521,
-    "coverage": 0.15913255956017106
+    "actual": 530,
+    "coverage": 0.16188149053145998
   },
   "regions": {
     "cn": [
@@ -355,7 +355,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 50,
+        "actual": 51,
         "cells": [
           {
             "category": "main-seafood",
@@ -379,11 +379,12 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "bobo-gulaorou",
               "chijiao-niurou",
               "chizhi-paigu",
+              "chizhi-zheng-paigu",
               "fanqie-niunan",
               "gulu-rou",
               "mizhi-chashao",
@@ -660,7 +661,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 29,
+        "actual": 30,
         "cells": [
           {
             "category": "main-seafood",
@@ -689,12 +690,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "huotui-donggua-tang",
               "jinzhengu-doufu-tang",
               "laoya-bao",
               "songsao-yugen",
+              "songsao-yugeng",
               "xihu-niurou-geng",
               "xihu-niurougeng"
             ]
@@ -1609,15 +1611,16 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "kejia-chao-mifen"
+              "kejia-chao-mifen",
+              "meicai-kourou"
             ]
           },
           {
@@ -1647,8 +1650,10 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "meicai-kourou"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -1762,21 +1767,26 @@
         "en": "Taiwanese",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 6,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "kezai-jian",
+              "yansu-ji"
+            ]
           },
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "yansu-ji"
+            ]
           },
           {
             "category": "main-seafood",
@@ -1812,8 +1822,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "kezai-jian"
+            ]
           },
           {
             "category": "main-meat",
@@ -1832,7 +1844,7 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "main-seafood",
@@ -1884,6 +1896,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "yuntun-mian"
+            ]
           }
         ]
       },

@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "kezai-jian",
+  "name": {
+    "zh": "蚵仔煎",
+    "en": "Oyster Omelette"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "snack",
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 10,
+    "total_min": 30
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牡蛎",
+          "name_en": "oyster",
+          "amount": 200,
+          "unit": "g",
+          "note": "小粒鲜蚵，洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "茼蒿",
+          "name_en": "crown daisy",
+          "amount": 100,
+          "unit": "g",
+          "note": "取嫩叶切段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "红薯淀粉",
+          "name_en": "sweet potato starch",
+          "amount": 50,
+          "unit": "g",
+          "note": "调粉浆",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 30,
+          "unit": "g",
+          "note": "调酱汁",
+          "optional": false
+        },
+        {
+          "name": "甜面酱",
+          "name_en": "sweet bean sauce",
+          "amount": 20,
+          "unit": "g",
+          "note": "调酱汁",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "调酱汁",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "煎制用油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调粉浆",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "锅铲",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牡蛎放淡盐水中轻搅洗去泥沙，挑净碎壳后沥干。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "别用力搓，牡蛎肉嫩易破。",
+      "visual_cue": "牡蛎饱满发亮、不见泥沙"
+    },
+    {
+      "n": 2,
+      "text": "红薯淀粉加清水调成能流动的粉浆，静置五分钟。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "粉浆要稀一些，摊开才薄。",
+      "visual_cue": "粉浆顺滑、勺背挂薄层"
+    },
+    {
+      "n": 3,
+      "text": "番茄酱、甜面酱、白糖与生抽加少许清水调成酱汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酱汁可提前调好备用。",
+      "visual_cue": "酱汁红亮、浓稠可流动"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋打散加盐与白胡椒搅匀，茼蒿切段小葱切花。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛋液打散到不见蛋筋。",
+      "visual_cue": "蛋液均匀、表面有细泡"
+    },
+    {
+      "n": 5,
+      "text": "平底锅倒植物油烧热，下牡蛎中火煎三十秒出香。",
+      "time_min": 1,
+      "heat": "中火",
+      "tip": "牡蛎先煎一下去腥。",
+      "visual_cue": "牡蛎边缘卷起、汁水微收"
+    },
+    {
+      "n": 6,
+      "text": "倒入红薯淀粉浆摊平，中火煎到粉浆边缘凝固。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "粉浆摊薄一点，中间才不夹生。",
+      "visual_cue": "粉浆半透明、边缘翘起"
+    },
+    {
+      "n": 7,
+      "text": "淋上打散的蛋液铺满表面，撒上茼蒿段与葱花。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蛋液要淋匀，成品才好看。",
+      "visual_cue": "蛋液覆盖表面、茼蒿段分布均匀"
+    },
+    {
+      "n": 8,
+      "text": "待蛋液底部凝固后翻面，再煎一分半至两面微焦。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "翻面要果断，用大盘扣锅更稳。",
+      "visual_cue": "两面金黄、蛋皮完整不破"
+    },
+    {
+      "n": 9,
+      "text": "盛出装盘，淋上调好的酱汁，趁热食用最香。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "酱汁最后淋，颜色才好看。",
+      "visual_cue": "酱汁裹满蛋皮、蛋皮油亮"
+    }
+  ],
+  "tips": [
+    "红薯淀粉是灵魂，换成玉米淀粉口感会差。",
+    "牡蛎选小粒的，鲜甜且更容易煎熟。",
+    "喜欢更软糯的口感可把粉浆调稠一些。"
+  ],
+  "common_mistakes": [
+    "粉浆太稠摊不开，中间夹生发硬。",
+    "火太大，蛋液已经焦了而牡蛎还没熟。",
+    "牡蛎没沥干就下锅，出水把粉浆冲散。"
+  ],
+  "substitutions": [
+    {
+      "original": "牡蛎",
+      "substitute": "虾仁",
+      "ratio": "200g 对 180g",
+      "note": "更易熟，煎制时间缩短半分钟。"
+    },
+    {
+      "original": "茼蒿",
+      "substitute": "菠菜",
+      "ratio": "100g 对 100g",
+      "note": "口感更清爽。"
+    }
+  ],
+  "variations": [
+    "加一把绿豆芽同煎，口感更丰富清爽。",
+    "酱汁换成蒜蓉辣椒酱，风味会更冲一些。"
+  ],
+  "serving_suggestion": "刚出锅趁热吃，蛋皮酥、内里软糯最妙。",
+  "storage": "现做现吃，冷藏后口感会明显变差。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 380,
+    "protein_g": 18,
+    "fat_g": 20,
+    "carbs_g": 32,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牡蛎属贝类致敏食材，过敏体质者禁食。",
+    "贝类须彻底加热至完全熟透，避免生食引起肠胃不适。",
+    "含鸡蛋，蛋类过敏者须谨慎；牡蛎洗净泥沙与碎壳后食用。"
+  ],
+  "origin_note": "蚵仔煎是台湾夜市的头号小吃，小粒鲜蚵与红薯粉浆同煎，打上鸡蛋铺满茼蒿段，淋上甜咸酱汁，外层微焦、内里软糯，鲜味十足。",
+  "tags": [
+    "台湾菜",
+    "小吃",
+    "夜市",
+    "煎"
+  ],
+  "related_ids": [
+    "yansu-ji",
+    "xiajiao",
+    "shengjian-bao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
