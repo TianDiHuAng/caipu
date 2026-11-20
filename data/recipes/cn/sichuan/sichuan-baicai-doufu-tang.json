@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-baicai-doufu-tang",
+  "name": {
+    "zh": "白菜豆腐汤",
+    "en": "Napa Cabbage and Tofu Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 15,
+    "total_min": 27
+  },
+  "servings": 2,
+  "flavor": [
+    "light",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 300,
+          "unit": "g",
+          "note": "取叶和嫩帮",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 300,
+          "unit": "g",
+          "note": "老豆腐切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "微辣提香",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 10,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 3,
+          "unit": "ml",
+          "note": "起锅点香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "白菜洗净，叶撕成大片，菜帮斜刀片成薄片分开放。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "帮叶分开下锅，熟度才一致。",
+      "visual_cue": "菜帮薄透、菜叶完整"
+    },
+    {
+      "n": 2,
+      "text": "豆腐切成三厘米见方的块，放入淡盐水中泡五分钟去豆腥。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡盐水能让豆腐更紧实，煮时不易碎。",
+      "visual_cue": "豆腐块挺立、表面光滑"
+    },
+    {
+      "n": 3,
+      "text": "汤锅放猪油化开，下姜丝小火煸到边缘微卷出香。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "猪油起香是川式素汤的灵魂，别省。",
+      "visual_cue": "姜丝飘香、油面微亮"
+    },
+    {
+      "n": 4,
+      "text": "先下白菜帮翻炒一分钟，炒到边缘变透明微微出水。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "菜帮先炒能去掉生青味，汤更甜。",
+      "visual_cue": "菜帮转透明、略出水"
+    },
+    {
+      "n": 5,
+      "text": "倒入清水大火烧开，放入豆腐块，转中火煮八分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "水开后下豆腐，久搅会碎。",
+      "visual_cue": "汤面小滚、豆腐浮沉"
+    },
+    {
+      "n": 6,
+      "text": "放入白菜叶再煮三分钟，煮到叶子完全软塌入味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "菜叶最后放，久煮会发黄发烂。",
+      "visual_cue": "菜叶软塌、汤色转乳白"
+    },
+    {
+      "n": 7,
+      "text": "加盐和白胡椒粉调味，搅匀后舀一勺尝尝咸淡。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "白胡椒是川式汤的提香关键，别用黑胡椒替代。",
+      "visual_cue": "汤味清鲜、胡椒香上浮"
+    },
+    {
+      "n": 8,
+      "text": "关火淋上香油，撒葱花盛入汤碗，趁热端上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "香油最后淋，香气才留得住。",
+      "visual_cue": "汤面浮油花、葱花翠绿"
+    }
+  ],
+  "tips": [
+    "豆腐用老豆腐更耐煮，嫩豆腐易碎但更滑。",
+    "加一把虾皮或干贝同煮，鲜味明显提升。",
+    "冬天加几片腊肉同煮，汤味更厚。"
+  ],
+  "common_mistakes": [
+    "菜帮菜叶一起下锅，叶子煮烂帮子还生。",
+    "豆腐下锅后频繁翻动，碎成豆花状。",
+    "盐放太早，白菜出水太多汤变寡淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐",
+      "substitute": "冻豆腐",
+      "ratio": "300g 对 300g",
+      "note": "冻豆腐吸汤更足，口感更蓬松。"
+    },
+    {
+      "original": "猪油",
+      "substitute": "植物油",
+      "ratio": "10g 对 10g",
+      "note": "香气稍弱，可加少许蒜末补味。"
+    }
+  ],
+  "variations": [
+    "加粉丝同煮，做成白菜豆腐粉丝汤。",
+    "加两勺豆瓣酱炒香再煮，做成家常辣味版。"
+  ],
+  "serving_suggestion": "配米饭和一道辣菜，是川渝家庭的日常收尾汤。",
+  "storage": "冷藏一天，复热需煮开；豆腐久放会发酸。",
+  "nutrition_estimate": {
+    "basis": "每份（约 450g）",
+    "calories_kcal": 190,
+    "protein_g": 14,
+    "fat_g": 11,
+    "carbs_g": 9,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "汤必须彻底煮沸后再食用，豆腐中心也要热透。",
+    "白菜叶洗净时逐片冲洗，叶褶里易藏泥沙。",
+    "剩余汤冷藏不超过一天，复热要整体滚开。"
+  ],
+  "origin_note": "白菜豆腐汤是四川人家冬天灶上最常见的一道，讲究用猪油起锅、姜丝打底，先炒菜帮后下菜叶，豆腐用老豆腐切块久煮不散。汤色乳白、味道清甜，撒一把白胡椒，喝完从胃里暖到指尖。",
+  "tags": [
+    "川菜",
+    "汤",
+    "家常",
+    "素菜"
+  ],
+  "related_ids": [
+    "sichuan-wandoujian-rouwan-tang",
+    "sichuan-suruo-donggua-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

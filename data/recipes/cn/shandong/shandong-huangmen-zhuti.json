@@ -1,0 +1,301 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-huangmen-zhuti",
+  "name": {
+    "zh": "黄焖猪蹄",
+    "en": "Braised Pork Trotters in Soy Sauce"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 80,
+    "total_min": 100
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪蹄",
+          "name_en": "pork trotter",
+          "amount": 700,
+          "unit": "g",
+          "note": "斩成小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒糖色",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "漏勺",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪蹄用清水浸泡半小时，中途换两次水泡出血水。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "泡够时间，焯水时的浮沫会少很多。",
+      "visual_cue": "猪蹄发白、水色微粉"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，加料酒和姜片，大火煮开撇净浮沫。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "必须冷水下锅，血水才逼得出来。",
+      "visual_cue": "浮沫成块浮起、汤面转清"
+    },
+    {
+      "n": 3,
+      "text": "捞出猪蹄用温水冲洗，逐块刮净表皮残毛和焦痕。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "用温水冲，冷水一激肉质会紧硬。",
+      "visual_cue": "表皮干净、无残毛"
+    },
+    {
+      "n": 4,
+      "text": "锅中放植物油和冰糖，小火炒到糖化开呈枣红色。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "糖色到枣红就下料，炒过头会发苦。",
+      "visual_cue": "糖液枣红、泡沫细密"
+    },
+    {
+      "n": 5,
+      "text": "倒入猪蹄快速翻炒，让每块都均匀裹上糖色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "裹色要快，糖色凉了会结成硬壳。",
+      "visual_cue": "猪蹄油亮红润、颜色均匀"
+    },
+    {
+      "n": 6,
+      "text": "加葱段、姜片、八角、桂皮、香叶炒出香味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料炒香再加水，风味才进得去。",
+      "visual_cue": "香料飘香、锅气上扬"
+    },
+    {
+      "n": 7,
+      "text": "烹入料酒、生抽、老抽，加清水没过猪蹄，大火烧开。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "水一次加足，中途加水会冲淡味道。",
+      "visual_cue": "汤面翻滚、酱色均匀"
+    },
+    {
+      "n": 8,
+      "text": "转小火加盖焖六十分钟，中途翻动两次防止粘底。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "保持汤面微沸，火大肉烂皮会破。",
+      "visual_cue": "筷子能轻松插入皮肉"
+    },
+    {
+      "n": 9,
+      "text": "开盖加盐调味，转中大火收汁到汤汁浓稠挂勺。",
+      "time_min": 8,
+      "heat": "中大火",
+      "tip": "收汁要不停翻动，糖分多易糊底。",
+      "visual_cue": "汤汁浓亮、裹满猪蹄"
+    },
+    {
+      "n": 10,
+      "text": "关火后静置五分钟再装盘，撒上葱段点缀即可上桌。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "静置后胶质回凝，口感更糯更弹。",
+      "visual_cue": "皮亮肉糯、盘底少汁"
+    }
+  ],
+  "tips": [
+    "选前蹄筋多肉厚，比后蹄更适合焖。",
+    "用砂锅焖比铁锅更保温，胶质出得更足。",
+    "想更快软烂可用高压锅压二十分钟再收汁。"
+  ],
+  "common_mistakes": [
+    "糖色炒到发黑才下猪蹄，整锅带焦苦味。",
+    "中途加冷水，猪蹄骤然收缩、久焖不烂。",
+    "大火收汁时离开灶台，糖分糊底发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪蹄",
+      "substitute": "猪肘",
+      "ratio": "700g 对 700g",
+      "note": "肘子肉多，焖的时间缩短十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "20g 对 18g",
+      "note": "白糖上色更快，需更小心火候。"
+    }
+  ],
+  "variations": [
+    "加黄豆同焖，豆香吸进胶质里更下饭。",
+    "加干辣椒和花椒，做成微辣的川式口味。"
+  ],
+  "serving_suggestion": "配米饭或馒头，浇一勺浓汁最香。",
+  "storage": "冷藏三天，冷冻一个月；复热加少许水小火焖透。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g 含骨）",
+    "calories_kcal": 420,
+    "protein_g": 26,
+    "fat_g": 30,
+    "carbs_g": 8,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪蹄必须焖至中心熟透、筷子可轻松穿透皮肉。",
+    "焯水后的浮沫要彻底撇净，减少腥味与杂质。",
+    "成品冷藏不超过三天，复热需整体煮沸。"
+  ],
+  "origin_note": "黄焖是鲁菜的传统技法，以糖色打底、酱油调味、小火慢焖，成菜色泽黄亮、汤汁浓稠。山东人做猪蹄讲究先泡后焯、糖色裹匀，再下八角桂皮香叶小火焖一小时，出锅皮糯筋弹、胶质挂勺，是逢年过节的家常硬菜。",
+  "tags": [
+    "鲁菜",
+    "焖",
+    "猪肉",
+    "宴客"
+  ],
+  "related_ids": [
+    "shandong-bingtang-zhouzi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

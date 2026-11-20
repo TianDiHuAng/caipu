@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-xiangsu-xia",
+  "name": {
+    "zh": "香酥虾",
+    "en": "Crispy Fried Prawns (Shandong Style)"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "total_min": 32
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 500,
+          "unit": "g",
+          "note": "大只明虾，去壳留尾",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋液裹糊",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 60,
+          "unit": "g",
+          "note": "干淀粉拍粉",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "调糊",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "腌味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 270,
+          "unit": "ml",
+          "note": "炸虾，实耗约 80ml",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大虾去壳留尾，从背部片开挑去沙线，用厨房纸吸干水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "开背后炸时会卷成漂亮球状，也更容易熟透。",
+      "visual_cue": "虾肉开背舒展、表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "虾肉加盐、料酒、白胡椒粉和姜末抓匀，腌十分钟入味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌时间别超十五分钟，久了虾肉会出水发柴。",
+      "visual_cue": "虾肉表面微湿、无积水"
+    },
+    {
+      "n": 3,
+      "text": "淀粉和面粉混合，虾肉逐个滚上干粉，抖掉多余的粉。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "干粉裹薄一层就够，太厚炸后发硬。",
+      "visual_cue": "虾肉覆薄粉、不粘连"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋取蛋液打散，把裹好粉的虾肉在蛋液里快速蘸一遍。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蘸蛋液后要立刻下锅，久放会脱糊。",
+      "visual_cue": "虾肉湿润、粉层贴合"
+    },
+    {
+      "n": 5,
+      "text": "锅中倒植物油烧到六成热，虾肉逐个下锅炸一分钟定型。",
+      "time_min": 3,
+      "heat": "中大火",
+      "tip": "油温六成最合适，低了脱糊、高了外焦内生。",
+      "visual_cue": "外壳鼓起、颜色转浅黄"
+    },
+    {
+      "n": 6,
+      "text": "捞出虾肉，把油温升到八成热，回锅复炸二十秒逼出油分。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "复炸是酥脆的关键，时间短才不干。",
+      "visual_cue": "外壳金黄酥脆、形体饱满"
+    },
+    {
+      "n": 7,
+      "text": "捞起沥干油分装盘，撒上葱花趁热食用最香脆。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热吃外壳最酥，凉了会回软。",
+      "visual_cue": "外壳干爽不渗油、葱花翠绿"
+    }
+  ],
+  "tips": [
+    "虾仁选大只的，开背后炸出的形状更好看。",
+    "没有复炸也可以，但外壳会软得快一些。",
+    "想更香可撒一撮椒盐，配啤酒最下饭。"
+  ],
+  "common_mistakes": [
+    "虾肉没吸干水就裹粉，下锅油花四溅还脱糊。",
+    "油温偏低下锅，外壳吸满油、发软不脆。",
+    "炸好后堆在盘里，底部被蒸汽焖软。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾",
+      "substitute": "鱼肉",
+      "ratio": "500g 对 400g",
+      "note": "鱼肉更嫩，炸的时间缩短二十秒。"
+    },
+    {
+      "original": "淀粉",
+      "substitute": "红薯淀粉",
+      "ratio": "60g 对 60g",
+      "note": "炸后更酥脆，颜色略深。"
+    }
+  ],
+  "variations": [
+    "加椒盐和蒜末同炒，做成椒盐香酥虾。",
+    "裹一层白芝麻同炸，咬开香气更浓郁。"
+  ],
+  "serving_suggestion": "整盘上桌，配啤酒或作为宴席冷盘热吃。",
+  "storage": "冷藏一天，复热用空气炸锅一百八十度烤三分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 320,
+    "protein_g": 28,
+    "fat_g": 18,
+    "carbs_g": 12,
+    "sodium_mg": 600,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾肉必须彻底加热至肉色不透明、卷曲成球，中心熟透。",
+    "甲壳类属高致敏食材，过敏体质者慎食。",
+    "炸油温度高，下锅前务必擦干虾肉表面水分，避免热油飞溅。"
+  ],
+  "origin_note": "香酥虾是鲁菜宴席上常见的炸制菜，讲究挂糊薄、火候准、外壳酥。虾仁开背去线腌味，干粉加蛋液裹匀，六成油温炸定型再复炸一次，成菜金黄挺括，咬开还是嫩弹的虾肉。山东人待客常用它做头道热菜。",
+  "tags": [
+    "鲁菜",
+    "炸",
+    "海鲜",
+    "宴客"
+  ],
+  "related_ids": [
+    "baochao-yaohua",
+    "youmen-daxia"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

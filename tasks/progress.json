@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:43:00.684Z",
+  "generatedAt": "2026-11-20T09:58:49.634Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 505,
     "target": 3274,
-    "actual": 594,
-    "coverage": 0.18142944410507025
+    "actual": 597,
+    "coverage": 0.18234575442883322
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 59,
+        "actual": 60,
         "cells": [
           {
             "category": "main-meat",
@@ -138,9 +138,10 @@
             "category": "soup",
             "kind": "extra",
             "target": 0,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "kaishui-baicai",
+              "sichuan-baicai-doufu-tang",
               "sichuan-fanqie-jiandan-tang",
               "sichuan-lianguo-tang",
               "sichuan-suruo-donggua-tang",
@@ -212,7 +213,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 45,
+        "actual": 46,
         "cells": [
           {
             "category": "main-seafood",
@@ -224,7 +225,7 @@
               "fanqie-daxia",
               "jiaodong-bayu-jiaozi",
               "shandong-ganjian-daiyu",
-              "shandong-tangcu-liyu",
+              "shandong-xiangsu-xia",
               "suanrong-shenghao",
               "tangcu-liyu",
               "youmen-daxia",
@@ -235,7 +236,7 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "baochao-yaohua",
               "bazi-rou",
@@ -243,6 +244,7 @@
               "jiuzhuan-dachang",
               "shandong-bingtang-zhouzi",
               "shandong-boshan-zharou",
+              "shandong-huangmen-zhuti",
               "shandong-jingjiang-rousi",
               "shandong-sixi-wanzi",
               "shandong-surou",
@@ -2230,7 +2232,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 25,
         "cells": [
           {
             "category": "main-seafood",
@@ -2320,8 +2322,9 @@
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "japanese-butashabu",
               "japanese-hanbaagu",
               "japanese-shogayaki",
               "japanese-tonkatsu",
@@ -2526,9 +2529,8 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 3,
             "ids": [
-              "thai-tom-kha-gai",
               "tom-kha-gai",
               "tom-kha-hed",
               "tom-yum-goong"
@@ -2600,21 +2602,22 @@
             ]
           },
           {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "thai-gaeng-phed-moo",
+              "thai-kor-moo-yang"
+            ]
+          },
+          {
             "category": "staple-rice",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "thai-coconut-sticky-rice"
-            ]
-          },
-          {
-            "category": "main-meat",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "thai-kor-moo-yang"
             ]
           },
           {

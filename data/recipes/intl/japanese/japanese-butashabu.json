@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-butashabu",
+  "name": {
+    "zh": "日式猪肉涮涮锅",
+    "en": "Japanese Pork Shabu-Shabu"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 400,
+          "unit": "g",
+          "note": "切薄片，越薄越好",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 250,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 100,
+          "unit": "g",
+          "note": "去蒂刻十字",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "斜切段",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 10,
+          "unit": "g",
+          "note": "煮高汤",
+          "optional": false
+        },
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 15,
+          "unit": "g",
+          "note": "煮高汤",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "涮锅汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调蘸汁",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调蘸汁",
+          "optional": false
+        },
+        {
+          "name": "芝麻酱",
+          "name_en": "sesame paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "蘸料",
+          "optional": false
+        },
+        {
+          "name": "柚子",
+          "name_en": "pomelo",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取皮屑增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "涮锅",
+    "汤勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "清水加昆布泡二十分钟，小火加热到将沸前捞出昆布。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "昆布不能煮沸，沸腾后汤会发黏带腥。",
+      "visual_cue": "汤色清亮、昆布舒展"
+    },
+    {
+      "n": 2,
+      "text": "放入木鱼花，静置两分钟后过滤，得到清澈的日式高汤。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "木鱼花久煮会发苦，静置即取味。",
+      "visual_cue": "高汤琥珀清亮、无浑浊"
+    },
+    {
+      "n": 3,
+      "text": "猪里脊逆纹切成两毫米薄片，铺在盘中冷藏备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "半冷冻状态最好切薄片，整齐不碎。",
+      "visual_cue": "肉片薄透、边缘整齐"
+    },
+    {
+      "n": 4,
+      "text": "白菜切五厘米段，豆腐切四块，香菇去蒂刻上十字花。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香菇刻花不为好看，是为了更快吸汤入味。",
+      "visual_cue": "配菜大小均匀、摆放整齐"
+    },
+    {
+      "n": 5,
+      "text": "高汤回锅加盐烧至微沸，转小火保持汤面小滚。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "全程小火，汤一滚肉片就老。",
+      "visual_cue": "汤面细密气泡、不翻腾"
+    },
+    {
+      "n": 6,
+      "text": "先下白菜、豆腐、香菇和大葱，煮五分钟煮出甜味。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "先煮蔬菜，汤底才有回甘。",
+      "visual_cue": "白菜变软、香菇入味"
+    },
+    {
+      "n": 7,
+      "text": "用筷子夹起肉片在汤里涮十秒，变色卷起立刻捞出。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "一次别下太多，肉片降温后汤就不沸了。",
+      "visual_cue": "肉片转白浮起、边缘微卷"
+    },
+    {
+      "n": 8,
+      "text": "生抽、味淋、芝麻酱调成蘸汁，撒少许柚子皮屑增香。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "柚子皮只取黄色部分，白色瓤发苦。",
+      "visual_cue": "蘸汁浓稠、果香清爽"
+    }
+  ],
+  "tips": [
+    "肉片越薄越好，家里切不薄可先冷冻二十分钟。",
+    "汤底最后可加乌冬面收尾，吸满汤汁最香。",
+    "没有木鱼花可用昆布加少许柴鱼粉替代。"
+  ],
+  "common_mistakes": [
+    "昆布和水一起煮沸，汤发黏带腥涩味。",
+    "肉片一次全下锅，汤温骤降、肉发柴。",
+    "蘸汁里加太多生抽，盖掉了猪肉本身的清甜。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "牛里脊",
+      "ratio": "400g 对 400g",
+      "note": "牛肉涮八秒即可，更嫩。"
+    },
+    {
+      "original": "木鱼花",
+      "substitute": "柴鱼粉",
+      "ratio": "15g 对 5g",
+      "note": "直接用粉更省事，香气稍薄。"
+    }
+  ],
+  "variations": [
+    "汤底加豆浆，做成豆乳涮涮锅，口感更醇厚。",
+    "蘸汁换成柚子醋加萝卜泥，清爽解腻。"
+  ],
+  "serving_suggestion": "配白米饭或最后下乌冬面，蔬菜与肉交替涮食。",
+  "storage": "汤底冷藏一天，肉片当天用完不建议冷冻复涮。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 380,
+    "protein_g": 30,
+    "fat_g": 18,
+    "carbs_g": 22,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉片必须涮至完全变白、中心熟透，不可半生入口。",
+    "生熟肉夹要分开使用，避免交叉污染。",
+    "涮锅汤底久煮后嘌呤升高，痛风人群不宜多喝。"
+  ],
+  "origin_note": "しゃぶしゃぶ 源自大阪的烧肉店，把薄切牛肉在昆布高汤里快速涮熟而得名，onoma 拟声即涮动的声音。日本家庭多用猪肉版本，配白菜、豆腐、香菇和大葱，最后下一把乌冬面收尾，是冬天围炉的家常吃法。",
+  "tags": [
+    "日式",
+    "锅物",
+    "猪肉",
+    "冬季"
+  ],
+  "related_ids": [
+    "japanese-hanbaagu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
