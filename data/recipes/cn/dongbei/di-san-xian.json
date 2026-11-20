@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "di-san-xian",
+  "name": {
+    "zh": "地三鲜",
+    "en": "Di San Xian"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 250,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 120,
+          "unit": "g",
+          "note": "掰成小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 4,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "勾芡与拍粉",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 90,
+          "unit": "ml",
+          "note": "煎制用油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "笊篱",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆去皮切成滚刀块，用清水冲去表面淀粉后沥干。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "冲掉淀粉，煎时不易粘锅。",
+      "visual_cue": "土豆块干爽、切面发白"
+    },
+    {
+      "n": 2,
+      "text": "茄子切成与土豆同样大小的滚刀块，撒盐静置十分钟杀水。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "茄子杀水后少吃油也更软。",
+      "visual_cue": "茄块塌软出水、体积变小"
+    },
+    {
+      "n": 3,
+      "text": "青椒去籽掰成小块，大蒜拍碎切末，小葱切葱花备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "青椒掰比切更易挂汁。",
+      "visual_cue": "青椒块大小均匀、蒜末细碎"
+    },
+    {
+      "n": 4,
+      "text": "茄块挤干水分后撒上玉米淀粉，抓匀裹一层薄粉。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "薄粉能挡住一部分油。",
+      "visual_cue": "茄块干爽、表面见白粉"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒植物油烧到五成热，土豆块下锅煎到表面金黄。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "土豆耐煎，先煎到半熟再盛出。",
+      "visual_cue": "土豆边缘金黄、筷子能插入"
+    },
+    {
+      "n": 6,
+      "text": "用余油把茄块煎到软塌上色，盛出与土豆放在一起。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "茄子要煎到软才好吃。",
+      "visual_cue": "茄块软塌、表皮微焦"
+    },
+    {
+      "n": 7,
+      "text": "锅里留底油爆香蒜末，倒入生抽、老抽、蚝油、白糖与清水。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蒜末爆香是这道菜的灵魂。",
+      "visual_cue": "蒜香散出、汁水微沸"
+    },
+    {
+      "n": 8,
+      "text": "把土豆与茄块倒回锅中，下青椒块翻炒两分钟裹匀酱汁。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "青椒最后下，保持翠绿脆感。",
+      "visual_cue": "三样食材油亮挂汁、青椒翠绿"
+    },
+    {
+      "n": 9,
+      "text": "淋淀粉水勾薄芡，撒盐调好咸淡后撒葱花出锅装盘。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "芡薄薄一层，多余汁水才不泡菜。",
+      "visual_cue": "芡汁透明包裹、盘底干爽"
+    }
+  ],
+  "tips": [
+    "土豆和茄子切同样大小，成熟时间才一致。",
+    "茄子先杀水再拍粉，用油量能省一半。",
+    "喜欢重口可在爆蒜时加一勺黄豆酱。"
+  ],
+  "common_mistakes": [
+    "三样一起下锅炒，土豆没熟茄子已成泥。",
+    "茄子不拍粉直接煎，一锅油全被吸光。",
+    "酱汁里加太多水，成品就变成炖菜，失去干香。"
+  ],
+  "substitutions": [
+    {
+      "original": "土豆",
+      "substitute": "红薯",
+      "ratio": "250g 对 250g",
+      "note": "甜度高，需减少白糖用量。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "彩椒",
+      "ratio": "120g 对 120g",
+      "note": "不辣，适合怕辣的人。"
+    }
+  ],
+  "variations": [
+    "加一把泡软的粉条同炒，东北味更足。",
+    "出锅前淋少许香油，香气更立体。"
+  ],
+  "serving_suggestion": "浇在米饭上吃最下饭，三样食材各取一块刚刚好。",
+  "storage": "冷藏可放两天，复热时加少许水回锅。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 300,
+    "protein_g": 6,
+    "fat_g": 18,
+    "carbs_g": 30,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "土豆发芽或表皮发青时含龙葵素，须整颗弃用不可削后食用。",
+    "煎制时油量较多，操作时避免水滴入锅引发溅油。",
+    "茄子与土豆须煎至完全熟透，土豆夹生会引起肠胃不适。"
+  ],
+  "origin_note": "地三鲜是东北菜的素菜代表，土豆、茄子、青椒三样过油再烧，酱汁一裹油亮喷香，素菜吃出肉味，配米饭能吃两大碗。",
+  "tags": [
+    "东北菜",
+    "素菜",
+    "家常",
+    "下饭"
+  ],
+  "related_ids": [
+    "shao-qiezi",
+    "liu-roudan",
+    "ganguo-huacai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

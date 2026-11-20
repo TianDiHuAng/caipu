@@ -1,0 +1,297 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xianggu-huaji",
+  "name": {
+    "zh": "香菇滑鸡",
+    "en": "Steamed Chicken with Shiitake"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 18,
+    "total_min": 43
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "去骨切块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 120,
+          "unit": "g",
+          "note": "鲜香菇切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 12,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "上浆锁汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "拌入锁水",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "出锅提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "深盘",
+    "保鲜盒"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉去骨切成三厘米块，用清水抓洗两遍去血水。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "抓洗到水变清，蒸出来才不腥。",
+      "visual_cue": "鸡块发白、水色清透"
+    },
+    {
+      "n": 2,
+      "text": "鸡块沥干后用厨房纸吸干水分，放入保鲜盒中。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "水分吸干，腌料才挂得住。",
+      "visual_cue": "鸡块干爽、不见水光"
+    },
+    {
+      "n": 3,
+      "text": "鸡块加生抽、蚝油、料酒、白糖、白胡椒与盐抓匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "抓揉到酱汁被完全吸收。",
+      "visual_cue": "鸡块红褐油亮、盒底无汁"
+    },
+    {
+      "n": 4,
+      "text": "加姜丝与蒜片继续抓匀，冷藏腌二十分钟让味道进透。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "姜蒜同腌，能压住鸡肉腥味。",
+      "visual_cue": "鸡块带姜蒜香、肉质紧实"
+    },
+    {
+      "n": 5,
+      "text": "香菇切厚片加入盒中抓匀，撒玉米淀粉拌到看不见干粉。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "淀粉裹匀，蒸后肉汁才不流失。",
+      "visual_cue": "鸡块与菇片均匀挂浆"
+    },
+    {
+      "n": 6,
+      "text": "最后淋植物油拌匀，把料平铺在深盘中不要堆太厚。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "铺平受热均匀，蒸得更透。",
+      "visual_cue": "料面平整、盘中不见积水"
+    },
+    {
+      "n": 7,
+      "text": "蒸锅水烧开，上锅大火蒸十二分钟至鸡肉熟透。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "上汽后计时，别提前揭盖。",
+      "visual_cue": "鸡肉转白、盘中见清亮汤汁"
+    },
+    {
+      "n": 8,
+      "text": "取出后撒上葱花，淋香油提香，趁热端上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "趁热吃最滑嫩，凉了肉质发紧。",
+      "visual_cue": "鸡汤清亮、葱花翠绿"
+    }
+  ],
+  "tips": [
+    "用去骨鸡腿肉最滑嫩，鸡胸容易蒸老。",
+    "腌好后加淀粉和油，是滑鸡的关键两步。",
+    "盘底可垫两片姜，去腥还能防粘。"
+  ],
+  "common_mistakes": [
+    "鸡块没吸干水分就腌，蒸出半盘水。",
+    "料堆得太厚，外层熟了里面还带血。",
+    "蒸过头，鸡肉缩水发柴失去滑嫩感。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "猪排骨",
+      "ratio": "500g 对 500g",
+      "note": "蒸制时间延长到十八分钟。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "木耳",
+      "ratio": "120g 对 20g",
+      "note": "干木耳需提前泡发撕朵。"
+    }
+  ],
+  "variations": [
+    "加几片腊肠同蒸，油脂渗入更香。",
+    "换成豆豉蒸，就是豉汁滑鸡风味。"
+  ],
+  "serving_suggestion": "连汤汁一起浇在白饭上，滑嫩鲜香最下饭。",
+  "storage": "冷藏可放两天，复热需蒸五分钟回嫩。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 330,
+    "protein_g": 30,
+    "fat_g": 18,
+    "carbs_g": 10,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须蒸至中心完全变白熟透，骨缝处不带血色。",
+    "生鸡肉处理后的刀具与案板须彻底清洗，避免沙门氏菌污染。",
+    "蒸盘取出时温度高且带汤汁，端取须用隔热手套。"
+  ],
+  "origin_note": "香菇滑鸡是粤式茶楼的家常蒸菜，鸡腿肉腌透上浆，与香菇一起大火蒸十二分钟，鸡肉滑嫩菇香浓郁，汤汁拌饭一绝。",
+  "tags": [
+    "粤菜",
+    "蒸菜",
+    "家常",
+    "下饭"
+  ],
+  "related_ids": [
+    "baiqie-ji",
+    "baizhuo-caixin",
+    "suanrong-fensi-shanbei"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

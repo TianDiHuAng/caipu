@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-20T04:33:18.081Z
+> 生成时间：2026-11-20T05:07:28.366Z
 
-**总览**：工程任务 49/53；菜谱内容 514/3274（15.7%），共 498 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 520/3274（15.9%），共 498 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（320/1339）
+### 中国菜系（326/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，53/107</summary>
 
@@ -123,16 +123,16 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>粤菜 cantonese</b> — A 级，44/122</summary>
+<details><summary><b>粤菜 cantonese</b> — A 级，49/122</summary>
 
-- [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 8
-- [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 6
+- [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 9
+- [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 7
 - [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 5
-- [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 4
+- [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 5
 - [ ] `P4-cantonese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 6
 - [ ] `P4-cantonese/dessert` 甜点（Dessert）目标 15，已完成 4
-- [ ] `P4-cantonese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 5
-- [ ] `P4-cantonese/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 1
+- [ ] `P4-cantonese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 6
+- [ ] `P4-cantonese/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 2
 - [ ] `P4-cantonese/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-cantonese/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 1
 - [x] `P4-cantonese/appetizer` 前菜（Appetizer）目标 0，已完成 2
@@ -256,9 +256,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>东北菜 dongbei</b> — B 级，11/38</summary>
+<details><summary><b>东北菜 dongbei</b> — B 级，12/38</summary>
 
-- [ ] `P4-dongbei/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 1
+- [ ] `P4-dongbei/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 2
 - [ ] `P4-dongbei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 4
 - [ ] `P4-dongbei/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 0
 - [ ] `P4-dongbei/cold-dish` 凉菜（Cold Dish）目标 6，已完成 2
