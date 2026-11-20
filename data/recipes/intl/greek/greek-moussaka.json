@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "greek-moussaka",
+  "name": {
+    "zh": "希腊穆萨卡",
+    "en": "Moussaka",
+    "original": "Μουσακάς"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "greek"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 45,
+    "total_min": 75
+  },
+  "servings": 6,
+  "flavor": [
+    "rich",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 600,
+          "unit": "g",
+          "note": "切一厘米厚片",
+          "optional": false
+        },
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 400,
+          "unit": "g",
+          "note": "带一点脂肪更香",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切碎粒",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "note": "做白酱用",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "化开做白酱",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "低筋或中筋",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 40,
+          "unit": "g",
+          "note": "擦成细丝",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎茄片用",
+          "optional": false
+        },
+        {
+          "name": "肉豆蔻",
+          "name_en": "nutmeg",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨入白酱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "平底锅",
+    "汤锅",
+    "打蛋器",
+    "厨师刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子切一厘米厚片，平铺撒少量盐静置十分钟逼出水分，用厨房纸按干。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "逼水能让茄子少吸油，成菜不会油汪汪地渗汤。",
+      "visual_cue": "茄片表面渗出细密水珠，按干后颜色发暗"
+    },
+    {
+      "n": 2,
+      "text": "土豆切薄片下锅煮五分钟捞出，橄榄油烧热把茄子片两面煎至软塌盛出。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "土豆先煮半熟再铺层，烘烤时才不会夹生发硬。",
+      "visual_cue": "土豆片边缘半透明，茄子片软塌出油光"
+    },
+    {
+      "n": 3,
+      "text": "锅中留底油炒洋葱碎到透明，下牛肉末炒散出香，加番茄块炒到出沙。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "牛肉末要炒到颗粒分明不结团，肉汁收干才香。",
+      "visual_cue": "肉末呈松散褐色小粒，番茄化成红汁"
+    },
+    {
+      "n": 4,
+      "text": "加盐和黑胡椒调味，小火焖十分钟收成浓稠肉酱，离火放一旁备用。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "肉酱不能太稀，否则切块时汁水会冲散分层。",
+      "visual_cue": "肉酱抱团粘稠，锅底不积汤水"
+    },
+    {
+      "n": 5,
+      "text": "黄油化开炒面粉一分半，慢慢倒牛奶搅到顺滑，加肉豆蔻和盐煮成白酱。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "牛奶要分三次倒入，每次搅匀再续，才不起粉块。",
+      "visual_cue": "白酱顺滑挂勺，滴落时呈带纹路的缎带状"
+    },
+    {
+      "n": 6,
+      "text": "烤盘依次铺土豆、茄子、肉酱，再铺茄子盖满白酱，撒帕玛森芝士烤四十分钟。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "温度约一百八十度，表面金黄起泡即熟，出炉静置十分钟再切。",
+      "visual_cue": "表层芝士金黄起泡，刀切入不流散"
+    }
+  ],
+  "tips": [
+    "茄子先煎再铺层，口感软糯且能隔绝肉酱水分，切块更整齐。",
+    "白酱要熬得比平时稠，烘烤后芝士融化才会凝成平整表面。",
+    "出炉静置十分钟再切，层次分明不塌陷。"
+  ],
+  "common_mistakes": [
+    "肉酱水分没收到位就叠层，切块时汤汁横流层次散开。",
+    "白酱倒牛奶时一次全加，面粉结块搅不散。",
+    "出炉立刻切分，馅料未定型导致整盘塌成一团。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "羊肉末",
+      "ratio": "1:1",
+      "note": "用羊肉更接近希腊传统做法，可加半克桂皮去膻。"
+    },
+    {
+      "original": "帕玛森芝士",
+      "substitute": "马苏里拉",
+      "ratio": "1:1",
+      "note": "马苏里拉拉丝明显，但咸度更低需略补盐。"
+    }
+  ],
+  "variations": [
+    "把肉酱换成炒软的蘑菇与扁豆，可做无肉版的蔬菜穆萨卡。"
+  ],
+  "serving_suggestion": "切方块配希腊沙拉与烤面包，佐一杯红酒。",
+  "storage": "冷藏三天，冷冻可存一个月；复热用一百六十度烤二十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 470,
+    "protein_g": 24,
+    "fat_g": 30,
+    "carbs_g": 26,
+    "sodium_mg": 690,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉末必须炒散并彻底加热至中心温度七十度以上，避免未熟肉馅带来的风险。"
+  ],
+  "origin_note": "穆萨卡源自奥斯曼宫廷的炖菜传统，经巴尔干传播至希腊后发展出层层叠放、顶覆白酱烘烤的现代版本。二十世纪初由希腊厨师尼科拉奥斯·策莱门德斯整理定型，如今被视为希腊国民级焗菜。",
+  "tags": [
+    "希腊",
+    "焗菜",
+    "牛肉",
+    "宴客"
+  ],
+  "related_ids": [
+    "greek-roast-vegetable-salad",
+    "italian-parmigiana"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

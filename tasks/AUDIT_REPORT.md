@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T15:49:10.557Z
+- 生成时间：2026-11-20T17:50:35.980Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 57 道，平均分 97
 - 需重写（C/D）：0 道
@@ -68,7 +68,7 @@
 | thai | mango-sticky-rice | 93 | A | 准确性 18/25 |
 | thai | thai-khai-jiao | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
-| turkish | turkish-kofta | 100 | A | 无 |
+| turkish | turkish-imam-bayildi | 100 | A | 无 |
 | vietnamese | pho-bo | 100 | A | 无 |
 | xibei | shaanxi-saozi-mian | 93 | A | 准确性 18/25 |
 | xinjiang | naobao-rou | 100 | A | 无 |

@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "nordic-swedish-meatballs",
+  "name": {
+    "zh": "瑞典肉丸",
+    "en": "Swedish Meatballs",
+    "original": "Köttbullar"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "nordic"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 300,
+          "unit": "g",
+          "note": "带两成脂肪",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 200,
+          "unit": "g",
+          "note": "增加多汁感",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切极细碎",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 50,
+          "unit": "g",
+          "note": "用牛奶泡软",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 100,
+          "unit": "ml",
+          "note": "泡面包糠",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "帮助黏合",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "煎丸用",
+          "optional": false
+        },
+        {
+          "name": "奶油",
+          "name_en": "cream",
+          "amount": 150,
+          "unit": "ml",
+          "note": "做酱汁",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 15,
+          "unit": "g",
+          "note": "勾芡增稠",
+          "optional": false
+        },
+        {
+          "name": "肉豆蔻",
+          "name_en": "nutmeg",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "碗",
+    "砧板",
+    "厨师刀",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面包糠倒牛奶泡软五分钟，洋葱切极细的碎末，用少量黄油炒到透明放凉。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱要炒到没有辛辣生味，放凉后再拌肉馅不出汤。",
+      "visual_cue": "面包糠吸饱牛奶发胀，洋葱碎呈半透明"
+    },
+    {
+      "n": 2,
+      "text": "牛肉末与猪肉末混合，加鸡蛋、盐、黑胡椒和肉豆蔻，顺一个方向搅到起胶。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "搅打到肉馅发黏能整团拉起，丸子煎时才不散。",
+      "visual_cue": "肉馅紧实有黏性，颜色均匀发亮"
+    },
+    {
+      "n": 3,
+      "text": "拌入泡好的面包糠与洋葱碎，冷藏十分钟后搓成乒乓球大小的圆丸。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "手沾凉水再搓，肉馅不粘手，丸子表面更光滑。",
+      "visual_cue": "丸子圆整光滑，大小均匀如乒乓球"
+    },
+    {
+      "n": 4,
+      "text": "平底锅化开黄油，中小火把肉丸滚动煎到四周金黄，倒入少许水盖盖焖五分钟。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "不断摇晃锅子让丸子滚圆定型，受热均匀不焦底。",
+      "visual_cue": "丸子通体金褐，按压有弹性"
+    },
+    {
+      "n": 5,
+      "text": "盛出丸子，锅里撒面粉炒香，倒奶油煮到浓稠，加盐调味后浇回肉丸上。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "奶油不要滚沸，微沸状态搅动才不会结皮分层。",
+      "visual_cue": "酱汁乳白稠滑，能裹住丸身如薄纱"
+    }
+  ],
+  "tips": [
+    "牛猪肉各半最香，全用瘦肉会干柴，全用肥肉又腻口。",
+    "肉馅搅打起胶是关键，黏性足丸子才不散不裂。",
+    "奶油酱要现做现浇，放凉后表面容易结出一层皮。"
+  ],
+  "common_mistakes": [
+    "肉馅没搅打上劲就搓丸，下锅一煎就散成碎肉。",
+    "洋葱没炒透直接拌入，煎后出水让丸子发软散形。",
+    "奶油酱煮沸时间过长，乳脂分离出现颗粒与浮油。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶油",
+      "substitute": "牛奶",
+      "ratio": "1:1",
+      "note": "用牛奶更清爽，需多加五克面粉增稠。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "吐司",
+      "ratio": "50 克:2 片",
+      "note": "吐司撕碎泡软代替，口感更松。"
+    }
+  ],
+  "variations": [
+    "丸子搓好后冷冻定型再煎，可一次多做当作便当常备菜。"
+  ],
+  "serving_suggestion": "配越橘酱、盐渍黄瓜与土豆泥，是瑞典家庭的传统组合。",
+  "storage": "冷藏三天，冷冻一个月；复热连酱汁小火加热，不要用微波炉干烤。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 克",
+    "calories_kcal": 480,
+    "protein_g": 27,
+    "fat_g": 36,
+    "carbs_g": 12,
+    "sodium_mg": 630,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "混合肉末与鸡蛋必须彻底加热至中心温度七十度以上，丸子内部不要留粉红色生馅。"
+  ],
+  "origin_note": "瑞典肉丸的雏形可追溯到十八世纪瑞典国王查理十二世从奥斯曼帝国带回的食谱，后经家庭烹饪手册普及。以牛猪肉混合、肉豆蔻调味，配奶油酱与越橘酱同食，成为瑞典餐桌的经典符号。",
+  "tags": [
+    "北欧",
+    "肉丸",
+    "奶油",
+    "家常"
+  ],
+  "related_ids": [
+    "nordic-fish-soup",
+    "meatloaf"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "middle-eastern-falafel",
+  "name": {
+    "zh": "中东炸鹰嘴豆饼",
+    "en": "Falafel",
+    "original": "فلافل"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "middle-eastern"
+  },
+  "category": [
+    "appetizer",
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 500,
+    "cook_min": 15,
+    "total_min": 515
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "herbal",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鹰嘴豆",
+          "name_en": "chickpea",
+          "amount": 300,
+          "unit": "g",
+          "note": "干豆，泡发后约六百克",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 30,
+          "unit": "g",
+          "note": "连梗打碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "连梗打碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "去皮",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 6,
+          "unit": "g",
+          "note": "炒香磨粉",
+          "optional": false
+        },
+        {
+          "name": "芫荽籽",
+          "name_en": "coriander seed",
+          "amount": 5,
+          "unit": "g",
+          "note": "炒香磨粉",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "帮助成形",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "炸前拌匀",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "实际耗油约五十毫升",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "料理机",
+    "碗",
+    "漏勺",
+    "深锅",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干鹰嘴豆加足量冷水浸泡一夜，泡到豆子捏开能轻松分成两半后沥干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "必须用干豆提前泡发一整夜，用熟豆或罐头豆打不成团，一炸就散。",
+      "visual_cue": "豆粒饱满胀大，截面平整无硬芯"
+    },
+    {
+      "n": 2,
+      "text": "鹰嘴豆与洋葱、大蒜、欧芹、香菜一起放进料理机打成粗颗粒豆泥。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打到颗粒感明显的粗砂状就停，打成细浆会失去蓬松口感。",
+      "visual_cue": "豆泥呈粗砂状，能看到细小绿色碎屑"
+    },
+    {
+      "n": 3,
+      "text": "豆泥加孜然、芫荽籽、盐和面粉拌匀，冷藏静置半小时让粉料吸水。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "面粉用量看状态增减，抓一把能捏成团不散即可。",
+      "visual_cue": "豆泥抱团不粘手，按压留下指痕"
+    },
+    {
+      "n": 4,
+      "text": "加泡打粉拌匀，取一勺豆泥搓成乒乓球大小的球，再轻轻压成小圆饼。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "饼身别压太薄，太薄下锅容易裂开漏油。",
+      "visual_cue": "圆饼边缘光整，表面有细密颗粒感"
+    },
+    {
+      "n": 5,
+      "text": "植物油烧到插入筷子冒细泡，下圆饼中火炸三四分钟到深金褐色捞出沥油。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "油温保持中火约一百七十度，太低会吸油发腻。",
+      "visual_cue": "外壳深金褐酥硬，掰开内里浅绿松软"
+    }
+  ],
+  "tips": [
+    "泡发好的豆子务必沥干水分，带水下锅炸会剧烈爆油。",
+    "豆泥冷藏半小时再炸，粉料吸水后成形更稳不易散。",
+    "一次多做可炸半熟冷冻，吃前复炸两分钟恢复酥壳。"
+  ],
+  "common_mistakes": [
+    "用煮熟的鹰嘴豆打泥，淀粉已糊化，下锅立刻散成豆渣。",
+    "豆泥打得过细，炸后外壳硬实像石头上没有蜂窝孔洞。",
+    "油温过低就下锅，饼体吸饱油脂变得又硬又腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "鹰嘴豆",
+      "substitute": "蚕豆",
+      "ratio": "1:1",
+      "note": "埃及式做法用蚕豆，风味更浓但炸后颜色偏暗。"
+    },
+    {
+      "original": "欧芹",
+      "substitute": "香菜",
+      "ratio": "1:1",
+      "note": "香菜味更冲，可减量与欧芹各半。"
+    }
+  ],
+  "variations": [
+    "豆泥里包入一小块印度奶酪，炸成夹馅版本，咬开有拉丝口感。"
+  ],
+  "serving_suggestion": "塞进皮塔饼，配生菜、番茄丁与芝麻酱淋汁一起吃。",
+  "storage": "生豆泥冷藏一天内用完；炸好的饼冷藏两天，复炸后恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "每份三枚约 120 克",
+    "calories_kcal": 300,
+    "protein_g": 12,
+    "fat_g": 15,
+    "carbs_g": 28,
+    "sodium_mg": 420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "炸制时油温需控制在一百七十度左右，下锅前确保豆饼表面无游离水分，避免热油飞溅。",
+    "炸好的豆饼须彻底熟透，中心不要留有生豆腥味。"
+  ],
+  "origin_note": "法拉费的具体起源在中东多国间存在争议，埃及、黎巴嫩与以色列都各有传统版本。它以干鹰嘴豆或蚕豆打成粗泥，混入香草与香料后油炸，是地中海东部街头最常见的小食之一。",
+  "tags": [
+    "中东",
+    "素食",
+    "油炸",
+    "街头小吃"
+  ],
+  "related_ids": [
+    "hummus",
+    "tzatziki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

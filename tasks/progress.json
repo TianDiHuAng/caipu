@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:45:33.239Z",
+  "generatedAt": "2026-11-20T17:50:04.758Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 507,
+    "cells": 509,
     "target": 3274,
-    "actual": 651,
-    "coverage": 0.19883934025656688
+    "actual": 659,
+    "coverage": 0.20128283445326817
   },
   "regions": {
     "cn": [
@@ -3545,15 +3545,16 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "hummus"
+              "hummus",
+              "middle-eastern-falafel"
             ]
           },
           {
@@ -3606,6 +3607,15 @@
             "ids": [
               "hummus"
             ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "middle-eastern-falafel"
+            ]
           }
         ]
       },
@@ -3615,7 +3625,7 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "main-meat",
@@ -3658,8 +3668,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "turkish-imam-bayildi"
+            ]
           },
           {
             "category": "main-egg",
@@ -3735,7 +3747,7 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "appetizer",
@@ -3750,8 +3762,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "greek-moussaka"
+            ]
           },
           {
             "category": "salad",
@@ -3807,7 +3821,7 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "main-seafood",
@@ -3822,8 +3836,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "portuguese-pastel-de-nata"
+            ]
           },
           {
             "category": "main-meat",
@@ -3843,8 +3859,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "portuguese-pastel-de-nata"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -4041,7 +4059,7 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-seafood",
@@ -4101,6 +4119,15 @@
             "actual": 1,
             "ids": [
               "nordic-fish-soup"
+            ]
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "nordic-swedish-meatballs"
             ]
           }
         ]
@@ -4170,7 +4197,7 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "soup",
@@ -4185,8 +4212,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "russian-beef-stroganoff"
+            ]
           },
           {
             "category": "salad",
