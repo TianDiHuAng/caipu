@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:05:31.754Z",
+  "generatedAt": "2026-11-20T01:32:09.608Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 498,
     "target": 3274,
-    "actual": 493,
-    "coverage": 0.15058032987171655
+    "actual": 498,
+    "coverage": 0.15210751374465487
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 49,
+        "actual": 50,
         "cells": [
           {
             "category": "main-meat",
@@ -57,8 +57,9 @@
             "category": "main-tofu",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "hongshao-doufu",
               "jiachang-doufu",
               "mapo-doufu",
               "xiongzhang-doufu"
@@ -202,17 +203,18 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 33,
+        "actual": 34,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "congshao-haishen",
               "fanqie-daxia",
               "jiaodong-bayu-jiaozi",
+              "suanrong-shenghao",
               "tangcu-liyu",
               "youmen-daxia",
               "zhaoliu-yupian"
@@ -488,7 +490,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 34,
+        "actual": 35,
         "cells": [
           {
             "category": "main-seafood",
@@ -544,9 +546,10 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "congyou-su-shaobing",
+              "guotie",
               "shengjian-bao",
               "xiehuang-tangbao",
               "yaxue-fensi-tang"
@@ -636,7 +639,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 27,
+        "actual": 28,
         "cells": [
           {
             "category": "main-seafood",
@@ -665,9 +668,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "huotui-donggua-tang",
+              "jinzhengu-doufu-tang",
               "laoya-bao",
               "songsao-yugen",
               "xihu-niurougeng"
@@ -782,7 +786,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 26,
+        "actual": 27,
         "cells": [
           {
             "category": "soup",
@@ -872,8 +876,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "fuzhou-banmian"
+            ]
           },
           {
             "category": "dessert",

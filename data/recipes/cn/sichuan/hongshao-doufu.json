@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongshao-doufu",
+  "name": {
+    "zh": "红烧豆腐",
+    "en": "Braised Tofu"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 15,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切两厘米方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 40,
+          "unit": "g",
+          "note": "斜切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 12,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 18,
+          "unit": "ml",
+          "note": "咸鲜上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 4,
+          "unit": "ml",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "和味提亮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎豆腐",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "烧制汤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "平盘",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐切成两厘米见方的块，放进淡盐水里泡五分钟去豆腥。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "淡盐水泡过，豆腐不易碎也不腥。",
+      "visual_cue": "豆腐块方整、表面紧实"
+    },
+    {
+      "n": 2,
+      "text": "豆腐捞出沥干水，用厨房纸把表面水分逐一吸干备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "豆腐带水入锅会溅油还会粘锅。",
+      "visual_cue": "豆腐表面干爽、不见水光"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油烧热，豆腐块平铺下锅中火煎四分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "先别翻动，等底面结皮再翻。",
+      "visual_cue": "底面金黄结皮、边缘微焦"
+    },
+    {
+      "n": 4,
+      "text": "翻面继续煎三分钟，煎到两面金黄后盛出沥干油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "煎到两面结皮，烧时才不散。",
+      "visual_cue": "六面金黄、晃动不散"
+    },
+    {
+      "n": 5,
+      "text": "锅留底油，下豆瓣酱、大蒜片与生姜末小火炒出红油。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "豆瓣酱炒出红油才有香味。",
+      "visual_cue": "油色红亮、酱香散出"
+    },
+    {
+      "n": 6,
+      "text": "倒入清水，加生抽、老抽、白糖与盐烧开，下豆腐转中小火烧八分钟。",
+      "time_min": 10,
+      "heat": "中小火",
+      "tip": "汤汁只到豆腐一半高，中途轻推。",
+      "visual_cue": "汤汁红亮、豆腐吸足颜色"
+    },
+    {
+      "n": 7,
+      "text": "玉米淀粉兑水淋入勾薄芡，下蒜苗段翻匀收汁出锅。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "芡汁一开就关火，蒜苗才翠绿。",
+      "visual_cue": "汤汁浓稠挂勺、蒜苗翠绿"
+    }
+  ],
+  "tips": [
+    "北豆腐质地硬实，烧的时候不容易散开。",
+    "煎豆腐前把表面水分吸干，油才不炸得乱溅。",
+    "加一勺蚝油同烧，鲜味会更足一些。"
+  ],
+  "common_mistakes": [
+    "用嫩豆腐来烧，一翻动就碎成豆腐脑。",
+    "豆腐沥水不干净就下锅，热油溅得到处都是。",
+    "勾芡一次倒太多，汤汁糊成一坨黏在豆腐上。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "千页豆腐",
+      "ratio": "400g 对 350g",
+      "note": "口感更弹，煎制时间减一分钟。"
+    },
+    {
+      "original": "蒜苗",
+      "substitute": "小葱",
+      "ratio": "40g 对 30g",
+      "note": "香气稍弱，最后下锅即可。"
+    }
+  ],
+  "variations": [
+    "加几片五花肉同烧，油脂让豆腐更香润。",
+    "把豆瓣酱换成黄豆酱，辣味变淡更家常。"
+  ],
+  "serving_suggestion": "趁热配白米饭，汤汁拌饭最下饭。",
+  "storage": "冷藏可放两天，复热时补少量清水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 280,
+    "protein_g": 15,
+    "fat_g": 20,
+    "carbs_g": 9,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆腐含大豆成分，大豆过敏者不宜食用。",
+    "煎豆腐时油温较高且带水易溅，操作时注意防烫。",
+    "菜品用豆瓣酱调味，钠含量偏高，高血压人群适量。"
+  ],
+  "origin_note": "红烧豆腐是川渝人家餐桌上的常客，豆腐先煎出金黄的硬皮再红烧，酱汁挂得牢，外韧内嫩，一勺汤汁就能干掉半碗饭。",
+  "tags": [
+    "川菜",
+    "家常",
+    "下饭",
+    "素菜"
+  ],
+  "related_ids": [
+    "pidan-doufu",
+    "shuizhu-roupian",
+    "ganbian-doujiao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

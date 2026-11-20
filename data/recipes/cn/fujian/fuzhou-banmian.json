@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fuzhou-banmian",
+  "name": {
+    "zh": "福州拌面",
+    "en": "Fuzhou Peanut Sauce Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 8,
+    "total_min": 18
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细扁面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生酱",
+          "name_en": "peanut butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "拌面主味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 6,
+          "unit": "ml",
+          "note": "解腻",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "煮面与调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 60,
+          "unit": "ml",
+          "note": "澥花生酱",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "拌面碗",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小碗放花生酱，分三次加清水搅开，调成能流动的稀糊。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "水分次加，酱才顺滑不结块。",
+      "visual_cue": "花生酱顺滑、能挂勺流淌"
+    },
+    {
+      "n": 2,
+      "text": "往花生酱里加生抽、香醋、白糖、盐与大蒜末搅匀成拌面酱。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蒜末先加，静置一会儿更出味。",
+      "visual_cue": "酱料均匀、色泽浅褐"
+    },
+    {
+      "n": 3,
+      "text": "汤锅加足量清水大火烧开，加一勺盐让面条更筋道。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "水里加盐，面不易糊也不粘。",
+      "visual_cue": "水面翻滚、盐完全化开"
+    },
+    {
+      "n": 4,
+      "text": "面条下入沸水锅煮三分钟，用筷子轻轻推散防止粘连。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "细扁面熟得快，别煮过头。",
+      "visual_cue": "面条浮起、挑起有弹性"
+    },
+    {
+      "n": 5,
+      "text": "面条捞出沥干，趁热淋香油拌匀，抖散防止结块。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热拌油，面条才根根分明。",
+      "visual_cue": "面条油亮、互不粘连"
+    },
+    {
+      "n": 6,
+      "text": "把拌面酱浇在面上，用筷子从下往上翻拌到每根都裹上酱。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "从下往上挑着拌，面条不易断。",
+      "visual_cue": "面条裹满酱色、碗底无积水"
+    },
+    {
+      "n": 7,
+      "text": "最后撒上一把葱花，吃之前再拌匀一次即可上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "葱花最后撒，香气最清新。",
+      "visual_cue": "葱花翠绿、酱香扑鼻"
+    }
+  ],
+  "tips": [
+    "面条选细扁的碱面，最容易挂酱。",
+    "花生酱用带颗粒的，口感更有层次。",
+    "拌好后趁热吃，凉了面条会坨成一团。"
+  ],
+  "common_mistakes": [
+    "花生酱一次性加足水，怎么搅都有小疙瘩。",
+    "面条捞出过凉水，表面糊化层被冲掉挂不住酱。",
+    "面条煮好放着不拌油，两分钟就粘成块。"
+  ],
+  "substitutions": [
+    {
+      "original": "花生酱",
+      "substitute": "芝麻酱",
+      "ratio": "40g 对 40g",
+      "note": "香气更醇，白糖可略增。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "300g 对 300g",
+      "note": "煮制时间减一分钟，口感更弹。"
+    }
+  ],
+  "variations": [
+    "加一勺猪油同拌，是福州老店的经典味。",
+    "拌好之后再卧半个溏心蛋，饱腹感会更强。"
+  ],
+  "serving_suggestion": "趁热拌开就吃，配一碗清汤最地道。",
+  "storage": "当天吃完最好，隔夜的面条会硬结成块。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 480,
+    "protein_g": 14,
+    "fat_g": 20,
+    "carbs_g": 60,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含花生酱与小麦面条，花生或麸质过敏者禁食。",
+    "煮面水温度高，捞面与倒水时注意防烫。",
+    "花生制品开封后须冷藏保存，避免受潮霉变。"
+  ],
+  "origin_note": "福州拌面是闽都街头的经典早点，一勺花生酱加点酱油调开，与热面条拌到发亮，配扁肉汤就是福州人最踏实的早餐。",
+  "tags": [
+    "闽菜",
+    "面食",
+    "早餐",
+    "快手"
+  ],
+  "related_ids": [
+    "minnan-xianfan",
+    "guotie",
+    "zicai-danhua-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

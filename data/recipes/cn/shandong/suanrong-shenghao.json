@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "suanrong-shenghao",
+  "name": {
+    "zh": "蒜蓉生蚝",
+    "en": "Garlic Steamed Oysters"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 10,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "fragrant",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牡蛎",
+          "name_en": "oyster",
+          "amount": 400,
+          "unit": "g",
+          "note": "去壳取肉洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "一半炸金蒜一半生蒜",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "g",
+          "note": "增鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "少许",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炸蒜蓉与泼油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牡蛎肉用淡盐水轻轻抓洗两遍，挑净碎壳与泥沙后沥干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "轻抓别揉，蚝肉破了就老。",
+      "visual_cue": "蚝肉完整、无碎壳残留"
+    },
+    {
+      "n": 2,
+      "text": "牡蛎肉加料酒与生姜末抓匀，静置腌十分钟去掉腥味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "料酒腌过，腥味去掉大半。",
+      "visual_cue": "蚝肉带酒香、表面微湿"
+    },
+    {
+      "n": 3,
+      "text": "大蒜剁成蓉，一半用温油小火炸到微黄，与另一半生蒜混匀。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "半生半熟蒜蓉，香而不冲。",
+      "visual_cue": "金蒜酥脆、生蒜洁白"
+    },
+    {
+      "n": 4,
+      "text": "蒜蓉里加生抽、蚝油、白糖与盐搅匀，调成蒜蓉酱。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酱要偏稀，才好淋在蚝肉上。",
+      "visual_cue": "酱色浅褐、蒜粒分布均匀"
+    },
+    {
+      "n": 5,
+      "text": "牡蛎肉摆入盘中，把蒜蓉酱均匀铺在每只蚝肉上。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蒜蓉铺满，蒸汽才不会冲淡味。",
+      "visual_cue": "蚝肉被蒜蓉覆盖、盘中不见水"
+    },
+    {
+      "n": 6,
+      "text": "蒸锅水开后放入盘，大火蒸六分钟至蚝肉边缘收缩。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "蒸过六分钟蚝肉就老了、缩成一小团。",
+      "visual_cue": "蚝肉收紧、蒜蓉冒小泡"
+    },
+    {
+      "n": 7,
+      "text": "出锅撒小米辣与葱花，植物油烧热浇上激香即可。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "热油要浇在蒜蓉上，香气才炸开。",
+      "visual_cue": "滋啦一声、蒜香与辣香齐出"
+    }
+  ],
+  "tips": [
+    "牡蛎选壳厚肉厚的，蒸出来更饱满。",
+    "蒜末一半生一半炸，香味层次最丰富。",
+    "蒸制时间宁短勿长，蚝肉老了嚼不动。"
+  ],
+  "common_mistakes": [
+    "蚝肉反复搓洗，鲜味全被洗掉还发柴。",
+    "蒜蓉全用生蒜，辛辣压过蚝的鲜甜。",
+    "冷水上锅蒸，蚝肉受热慢变得又老又硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "牡蛎",
+      "substitute": "扇贝",
+      "ratio": "400g 对 400g",
+      "note": "蒸制时间加两分钟。"
+    },
+    {
+      "original": "小米辣",
+      "substitute": "干辣椒",
+      "ratio": "8g 对 5g",
+      "note": "先泡软再切圈，辣味更柔。"
+    }
+  ],
+  "variations": [
+    "蒜蓉里加一勺蒸鱼豉油，鲜味更集中。",
+    "铺一层泡软的粉丝垫底，吸汁更好吃。"
+  ],
+  "serving_suggestion": "趁热上桌，配啤酒或白粥都很搭。",
+  "storage": "当天吃完最好，贝类隔夜存放容易变质。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 220,
+    "protein_g": 18,
+    "fat_g": 13,
+    "carbs_g": 7,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牡蛎属贝类致敏食材，过敏体质者禁食。",
+    "贝类须彻底加热至蚝肉完全收缩、中心熟透，避免寄生虫与细菌风险。",
+    "蒸锅开盖时蒸汽极烫，掀盖要侧身并保持距离。"
+  ],
+  "origin_note": "蒜蓉生蚝是鲁菜沿海一带的宴客菜，蚝肉上铺满金银蒜蓉大火蒸透，起锅再泼一勺滚油，鲜香混着蒜香直冲鼻子。",
+  "tags": [
+    "鲁菜",
+    "海鲜",
+    "蒸菜",
+    "宴客"
+  ],
+  "related_ids": [
+    "min-jiaoyan-xia",
+    "xiangla-xie",
+    "minnan-xianfan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T01:05:25.639Z
+- 生成时间：2026-11-20T01:31:36.508Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：40 个，抽样 47 道，平均分 97
+- 覆盖菜系：40 个，抽样 48 道，平均分 97
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -28,8 +28,8 @@
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | creme-brulee | 100 | A | 无 |
-| fujian | fuzhou-guangbing | 100 | A | 无 |
-| fujian | wuxiang-paigu | 100 | A | 无 |
+| fujian | fuzhou-banmian | 93 | A | 准确性 18/25 |
+| fujian | taipingyan-tang | 100 | A | 无 |
 | german | apple-strudel | 93 | A | 准确性 18/25 |
 | greek | greek-roast-vegetable-salad | 100 | A | 无 |
 | hakka | yanju-ji | 93 | A | 准确性 18/25 |
@@ -40,7 +40,7 @@
 | indian | aloo-paratha | 93 | A | 准确性 18/25 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | matcha-pudding | 100 | A | 无 |
-| jiangsu | xihongshi-jidan-tang | 93 | A | 准确性 18/25 |
+| jiangsu | xiehuang-tangbao | 93 | A | 准确性 18/25 |
 | jiangsu | yaxue-fensi-tang | 93 | A | 准确性 18/25 |
 | korean | budae-jjigae | 100 | A | 无 |
 | mexican | quesadilla | 100 | A | 无 |
@@ -50,23 +50,24 @@
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | borscht | 100 | A | 无 |
 | shandong | fanqie-daxia | 94 | A | 安全性 14/20 |
-| shandong | jiuzhuan-dachang | 100 | A | 无 |
+| shandong | jiyu-doufu-tang | 100 | A | 无 |
 | shanghai | youbao-xia | 100 | A | 无 |
 | sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
 | sichuan | gongbao-jiding | 100 | A | 无 |
-| spanish | flan | 100 | A | 无 |
+| sichuan | lazi-ji | 100 | A | 无 |
+| spanish | merluza-a-la-vasca | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
-| thai | pad-thai | 100 | A | 无 |
+| thai | larb-gai | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | turkish | turkish-kofta | 100 | A | 无 |
-| vietnamese | vietnamese-sour-soup | 100 | A | 无 |
-| xibei | yangrou-paomo | 93 | A | 准确性 18/25 |
-| xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
+| vietnamese | pho-bo | 100 | A | 无 |
+| xibei | shaanxi-saozi-mian | 93 | A | 准确性 18/25 |
+| xinjiang | naobao-rou | 100 | A | 无 |
 | yunguai | guilin-mifen | 93 | A | 准确性 18/25 |
-| zhejiang | dongpo-rou | 93 | A | 准确性 18/25 |
-| zhejiang | sun-shao-rou | 100 | A | 无 |
+| zhejiang | songsao-yugen | 100 | A | 无 |
+| zhejiang | congyou-xia | 100 | A | 无 |
 
 ## 结论
 
-- 本批 47 道全部达到 B 级及以上，无需重写。
+- 本批 48 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。
