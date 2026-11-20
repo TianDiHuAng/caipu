@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shao-qiezi",
+  "name": {
+    "zh": "烧茄子",
+    "en": "Braised Eggplant"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 500,
+          "unit": "g",
+          "note": "选长茄切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 60,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "和味提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "腌茄子与调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "拍粉防吸油",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 70,
+          "unit": "ml",
+          "note": "煎制用油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "烧制汤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "笊篱",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子洗净去蒂，切成三厘米左右的滚刀块放入盆中。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "滚刀块受热面多，烧出来更入味。",
+      "visual_cue": "块形不规则、大小接近"
+    },
+    {
+      "n": 2,
+      "text": "茄子块撒上盐抓匀，静置十分钟逼出内部水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "杀水后茄子不易吸油也更软。",
+      "visual_cue": "茄块出水塌软、体积缩小"
+    },
+    {
+      "n": 3,
+      "text": "把茄块捞出挤干水分，撒上玉米淀粉抓匀裹一层薄粉。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "薄粉是少吸油的关键一步。",
+      "visual_cue": "茄块干爽、表面泛白粉层"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧到五成热，茄块下锅中火煎到表面发软。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "别急着翻，底面定型再动。",
+      "visual_cue": "茄块金黄、筷子能轻松戳透"
+    },
+    {
+      "n": 5,
+      "text": "把煎好的茄块拨到锅边，用余油煸香蒜片与青椒块。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蒜片煸出香味再下调味料。",
+      "visual_cue": "蒜片微黄、青椒断生"
+    },
+    {
+      "n": 6,
+      "text": "加生抽、老抽、白糖与清水烧开，翻匀让茄块上色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "糖只要一点，用来提鲜不显甜。",
+      "visual_cue": "汤汁红褐、茄块吸色均匀"
+    },
+    {
+      "n": 7,
+      "text": "转中小火烧三分钟收汁，汤汁浓稠时撒葱花出锅。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "收汁到挂勺就停，久烧茄子要烂。",
+      "visual_cue": "汤汁浓稠挂块、茄块完整不散"
+    }
+  ],
+  "tips": [
+    "长茄子皮薄肉嫩，比圆茄子更适合烧。",
+    "茄子先用盐杀水，能省一半的油。",
+    "出锅前淋几滴香油，整盘菜的香味会更浓一些。"
+  ],
+  "common_mistakes": [
+    "茄子不杀水直接下锅，一锅油全被吸干。",
+    "一直大火猛烧，茄子散成泥糊在锅底。",
+    "盐和生抽一起放太多，成品咸得发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "茄子",
+      "substitute": "豆角",
+      "ratio": "500g 对 350g",
+      "note": "需先焯水两分钟再烧。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "彩椒",
+      "ratio": "60g 对 60g",
+      "note": "甜度更高，辣味更淡。"
+    }
+  ],
+  "variations": [
+    "加一勺黄豆酱同烧，酱香更浓更下饭。",
+    "最后撒一把蒜末，蒜香冲鼻更开胃。"
+  ],
+  "serving_suggestion": "浇在热米饭上吃最香，茄子软糯吸汁最下饭。",
+  "storage": "冷藏可放两天，复热后加一点水防干锅。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 260,
+    "protein_g": 4,
+    "fat_g": 18,
+    "carbs_g": 20,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "煎茄子时含油较多，油温高易溅，操作时保持距离。",
+    "茄子须烧至完全软熟透心，生茄子口感发涩。",
+    "食用油不可反复多次高温使用，用后及时换新油。"
+  ],
+  "origin_note": "烧茄子是东北人家的家常味，茄子先杀水再拍粉煎香，最后用生抽老抽一烧，软糯油亮，配一碗高粱米饭最实在。",
+  "tags": [
+    "东北菜",
+    "素菜",
+    "家常",
+    "下饭"
+  ],
+  "related_ids": [
+    "xianyu-qiezi-bao",
+    "hupi-qingjiao",
+    "majiang-huanggua"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

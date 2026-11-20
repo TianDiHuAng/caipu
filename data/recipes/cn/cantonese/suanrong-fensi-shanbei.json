@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "suanrong-fensi-shanbei",
+  "name": {
+    "zh": "蒜蓉粉丝蒸扇贝",
+    "en": "Steamed Scallops with Garlic and Vermicelli"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 10,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扇贝",
+          "name_en": "scallop",
+          "amount": 500,
+          "unit": "g",
+          "note": "带壳六个",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡软剪段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "剁成蒜蓉",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切圈点缀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蒸鱼豉油",
+          "name_en": "seasoned soy sauce for seafood",
+          "amount": 20,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒蒜蓉与泼油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "小锅",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "扇贝用刷子把外壳刷洗干净，再撬开取出贝肉。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "壳要刷净，泥沙会毁掉整盘。",
+      "visual_cue": "贝壳洁白、贝肉完整"
+    },
+    {
+      "n": 2,
+      "text": "贝肉去掉黑色内脏部分，用清水冲洗两遍后沥干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "内脏不除会带腥苦味。",
+      "visual_cue": "贝肉干净无杂质、边缘整齐"
+    },
+    {
+      "n": 3,
+      "text": "贝肉加料酒与少许盐抓匀，腌五分钟充分去掉腥味。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "腌制时间别长，鲜味会流走。",
+      "visual_cue": "贝肉微微收紧、带酒香"
+    },
+    {
+      "n": 4,
+      "text": "粉丝用温水泡十分钟至柔软，剪成十厘米长的段。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡软就好，泡过头会糊成一团。",
+      "visual_cue": "粉丝能轻松弯折不断"
+    },
+    {
+      "n": 5,
+      "text": "小锅下植物油，放三分之二蒜蓉小火炒到微黄盛出。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "蒜蓉只炒香不炒焦，焦了会发苦。",
+      "visual_cue": "蒜蓉金黄、香气浓郁"
+    },
+    {
+      "n": 6,
+      "text": "炒好的蒜蓉与生蒜蓉混合，加生抽、白糖调成金银蒜。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "一半熟一半生，蒜香才有层次。",
+      "visual_cue": "蒜料黏稠、咸香适口"
+    },
+    {
+      "n": 7,
+      "text": "贝壳上垫一小卷粉丝与贝肉，铺满蒜蓉和小米辣。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "粉丝垫底，能吸足蒜汁和贝汁。",
+      "visual_cue": "每只贝壳料齐、蒜蓉盖住贝肉"
+    },
+    {
+      "n": 8,
+      "text": "蒸锅水烧开，扇贝上锅用大火足汽蒸六分钟后取出。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "水开后计时，蒸久了贝肉发老。",
+      "visual_cue": "贝肉转白不透明、粉丝透明"
+    },
+    {
+      "n": 9,
+      "text": "淋上蒸鱼豉油，撒葱花后浇一勺滚油激香即可上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "热油泼葱花，豉香与葱香一起冒。",
+      "visual_cue": "葱绿油亮、蒜香扑鼻"
+    }
+  ],
+  "tips": [
+    "扇贝选活的，壳闭合紧实的才新鲜。",
+    "粉丝用量别多，一小卷刚好吸汁。",
+    "没有蒸鱼豉油可用生抽加少许糖代替。"
+  ],
+  "common_mistakes": [
+    "蒸的时间太长，贝肉缩成硬橡皮。",
+    "蒜蓉炒焦还硬浇上去，整盘发苦。",
+    "贝壳外沿没刷洗干净，吃起来满口都是细沙。"
+  ],
+  "substitutions": [
+    {
+      "original": "扇贝",
+      "substitute": "生蚝",
+      "ratio": "500g 对 500g",
+      "note": "蒸制时间增加两分钟。"
+    },
+    {
+      "original": "粉丝",
+      "substitute": "金针菇",
+      "ratio": "60g 对 150g",
+      "note": "无需泡发，直接铺底即可。"
+    }
+  ],
+  "variations": [
+    "蒜蓉里加一勺沙茶酱，风味更浓郁。",
+    "最后撒一把香菜碎，香气更清爽。"
+  ],
+  "serving_suggestion": "趁热连汁带粉丝一起吃，最后把壳里的汤也喝掉。",
+  "storage": "当天吃完最好，隔夜贝肉会失水变硬。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 240,
+    "protein_g": 22,
+    "fat_g": 12,
+    "carbs_g": 14,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "扇贝属贝类致敏食材，须彻底蒸熟至壳张开、贝肉不透明，不可半生食用。",
+    "蒸后壳不张开的扇贝可能已死，须弃去不食。",
+    "贝类易携带致病菌，处理生贝后须洗手并清洗刀具砧板。"
+  ],
+  "origin_note": "蒜蓉粉丝蒸扇贝是粤式茶楼的招牌海鲜，金银蒜铺满贝肉，粉丝垫底吸尽蒜汁，蒸六分钟上桌，鲜香到连壳都想舔干净。",
+  "tags": [
+    "粤菜",
+    "海鲜",
+    "蒸菜",
+    "宴客"
+  ],
+  "related_ids": [
+    "suanrong-shenghao",
+    "xiangjian-xueyu",
+    "chizhi-zheng-shanbei"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

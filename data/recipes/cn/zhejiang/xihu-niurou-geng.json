@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xihu-niurou-geng",
+  "name": {
+    "zh": "西湖牛肉羹",
+    "en": "West Lake Beef Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "total_min": 32
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 200,
+          "unit": "g",
+          "note": "剁成细末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两个，只取蛋清",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 30,
+          "unit": "g",
+          "note": "勾芡成羹",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "出锅增香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "汤勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉逆纹切小块后剁成细末，越细越好方便入口。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "剁得细，羹的口感才顺滑。",
+      "visual_cue": "牛肉碎细匀、无筋膜"
+    },
+    {
+      "n": 2,
+      "text": "牛肉碎加料酒、生抽与少许盐抓匀，腌十分钟入味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "先腌后氽，牛肉碎才不老。",
+      "visual_cue": "牛肉碎松散、带酱香"
+    },
+    {
+      "n": 3,
+      "text": "香菇去蒂切细丁，香菜与生姜分别切成细末备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香菇丁要与牛肉碎同样细才好融。",
+      "visual_cue": "各料切丁均匀、大小一致"
+    },
+    {
+      "n": 4,
+      "text": "汤锅加清水烧开，放入香菇丁与姜末煮三分钟。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "香菇先煮，鲜味才能溶进汤里。",
+      "visual_cue": "汤色微黄、菇香冒头"
+    },
+    {
+      "n": 5,
+      "text": "转小火，把牛肉碎用筷子拨散着下锅，边下边搅。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "拨散下锅，牛肉碎才不结成团。",
+      "visual_cue": "牛肉碎粒粒分明浮在汤中"
+    },
+    {
+      "n": 6,
+      "text": "撇去表面浮沫，加盐与白胡椒调出清鲜汤底。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "浮沫撇净，羹色才清亮。",
+      "visual_cue": "汤面干净无沫、咸鲜适口"
+    },
+    {
+      "n": 7,
+      "text": "玉米淀粉兑水调匀，缓慢淋入汤中并持续搅动成薄芡。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "边淋边搅，芡才没有疙瘩。",
+      "visual_cue": "汤体微稠、勺背挂薄浆"
+    },
+    {
+      "n": 8,
+      "text": "蛋清打散后细线状淋入，静置五秒再轻推成蛋花。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "淋后先别搅，蛋花才成薄片。",
+      "visual_cue": "蛋花薄白如絮、汤面光亮"
+    },
+    {
+      "n": 9,
+      "text": "关火淋香油，撒香菜末搅匀后盛入汤碗即可上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "香油最后放，香气才不挥发。",
+      "visual_cue": "羹面浮油点、香菜翠绿"
+    }
+  ],
+  "tips": [
+    "牛肉改用牛里脊，剁末后更嫩不柴。",
+    "芡要勾得薄一些，羹才清爽不发糊。",
+    "喜酸可撒少许陈醋，风味更开胃。"
+  ],
+  "common_mistakes": [
+    "牛肉碎大团下锅，煮出来结成硬块。",
+    "淀粉一次倒完，汤里全是白疙瘩。",
+    "蛋清在滚沸的汤里猛搅，蛋花全散成碎末。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "猪里脊",
+      "ratio": "200g 对 200g",
+      "note": "味道更清，可减料酒用量。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "口蘑",
+      "ratio": "60g 对 70g",
+      "note": "鲜味稍淡，可加少许蚝油。"
+    }
+  ],
+  "variations": [
+    "加少许嫩豆腐丁同煮，口感更滑顺。",
+    "出锅撒一把松仁碎，香气更丰富。"
+  ],
+  "serving_suggestion": "饭前一碗最开胃，配小笼或烧卖都合适。",
+  "storage": "当天喝完，冷藏后羹会变稠需加水调开。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 180,
+    "protein_g": 20,
+    "fat_g": 7,
+    "carbs_g": 9,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋，蛋类过敏者禁食；蛋清须在热汤中完全凝固。",
+    "牛肉碎须彻底煮至变色熟透，不带血色。",
+    "勾芡后的羹体温度保持时间长，入口前先小口试温防烫。"
+  ],
+  "origin_note": "西湖牛肉羹是杭州馆子的汤品代表，牛肉剁末与香菇同煮，薄芡一勾再淋蛋清，羹体清亮、鲜味干净，配一屉小笼最舒服。",
+  "tags": [
+    "浙菜",
+    "汤羹",
+    "清淡",
+    "宴客"
+  ],
+  "related_ids": [
+    "cu-jiao-yutang",
+    "jiyu-doufu-tang",
+    "dalu-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mala-xiangguo",
+  "name": {
+    "zh": "麻辣香锅",
+    "en": "Mala Xiangguo"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 15,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 200,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去虾线洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "花菜",
+          "name_en": "cauliflower",
+          "amount": 150,
+          "unit": "g",
+          "note": "掰小朵",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 15,
+          "unit": "g",
+          "note": "泡发撕小朵",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段点缀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 25,
+          "unit": "g",
+          "note": "剁细炒红油",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 12,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "增麻",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒料用油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "木耳提前泡发撕成小朵，花菜掰成小朵用清水冲净。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "花菜缝隙藏泥，要多冲几遍。",
+      "visual_cue": "花菜成朵、木耳无硬根"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切两毫米薄片，虾仁挑去背上的黑线后用料酒抓匀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉片薄，炒出来才不腻。",
+      "visual_cue": "肉片薄匀透光、虾仁干净"
+    },
+    {
+      "n": 3,
+      "text": "汤锅烧开水，花菜与木耳分别焯水两分钟后沥干。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "先焯水，后面炒制才不会出水。",
+      "visual_cue": "花菜半透明、木耳更黑亮"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下植物油，冷油放花椒、八角与桂皮小火炸出香味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "冷油下香料，香气才慢慢释放。",
+      "visual_cue": "香料变色、油面飘香"
+    },
+    {
+      "n": 5,
+      "text": "下五花肉片中火爆到微焦出油，再下虾仁炒到变色。",
+      "time_min": 4,
+      "heat": "中大火",
+      "tip": "五花肉煸出油，香味才够厚。",
+      "visual_cue": "肉片卷曲微焦、虾仁转红"
+    },
+    {
+      "n": 6,
+      "text": "加豆瓣酱与干辣椒段小火炒出红油，再下大葱段与姜蒜爆香。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "豆瓣酱必须小火炒透才不苦。",
+      "visual_cue": "锅中红油渗出、香气冲鼻"
+    },
+    {
+      "n": 7,
+      "text": "转大火下花菜、香菇与木耳翻炒两分钟裹匀底味。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "大火快炒，蔬菜才脆不出水。",
+      "visual_cue": "蔬菜油亮、表面挂满红油"
+    },
+    {
+      "n": 8,
+      "text": "加生抽、白糖与盐快速翻匀，试味后撒香菜段出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "豆瓣酱本身很咸，盐要少放。",
+      "visual_cue": "锅底干爽无汤、香菜香气散出"
+    }
+  ],
+  "tips": [
+    "配菜按耐炒程度分批下，口感层次更好。",
+    "香料炸香后可以捞出，避免吃到颗粒。",
+    "喜欢更麻可在出锅前一分钟再撒花椒粉。"
+  ],
+  "common_mistakes": [
+    "配菜没焯水直接炒，锅里出水变成炖菜。",
+    "豆瓣酱大火快炒，一瞬间就糊出苦味。",
+    "盐没有相应减量，豆瓣酱已经足够咸了。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "牛肉",
+      "ratio": "200g 对 200g",
+      "note": "逆纹切薄片，炒制时间要短。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "鸭血",
+      "ratio": "150g 对 200g",
+      "note": "需焯透，口感更滑嫩。"
+    }
+  ],
+  "variations": [
+    "喜欢重口可加一勺火锅底料同炒。",
+    "加一把藕片和土豆片，更像川渝夜市风味。"
+  ],
+  "serving_suggestion": "配一碗白饭直接浇着吃，辣到冒汗才过瘾。",
+  "storage": "冷藏可放两天，复热时加少许水炒开。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 520,
+    "protein_g": 26,
+    "fat_g": 38,
+    "carbs_g": 18,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁属海鲜类致敏食材，过敏体质者禁食，且须炒至完全变红熟透。",
+    "木耳须彻底加热煮熟后食用，泡发时间不宜超过四小时。",
+    "炒干辣椒与香料时油烟刺激，需开启抽油烟机并注意通风。"
+  ],
+  "origin_note": "麻辣香锅是川渝夜市的混搭王者，五花肉煸香打底，配菜随喜好往锅里扔，最后用豆瓣酱和干辣椒一炒，麻辣干香、越吃越上头。",
+  "tags": [
+    "川菜",
+    "麻辣",
+    "下饭",
+    "夜宵"
+  ],
+  "related_ids": [
+    "shuizhu-roupian",
+    "ganbian-sijidou",
+    "douban-yu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

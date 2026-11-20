@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:41:12.067Z",
+  "generatedAt": "2026-11-20T04:33:18.003Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 498,
     "target": 3274,
-    "actual": 509,
-    "coverage": 0.15546731826511911
+    "actual": 514,
+    "coverage": 0.15699450213805743
   },
   "regions": {
     "cn": [
@@ -23,17 +23,18 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 52,
+        "actual": 53,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "fenzheng-rou",
               "guoba-roupian",
               "huiguo-rou",
+              "mala-xiangguo",
               "maoxuewang",
               "mapo-doufu",
               "shuizhu-niurou",
@@ -354,19 +355,20 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 43,
+        "actual": 44,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "baizhuo-xia",
               "chizhi-zheng-shanbei",
               "jiangcong-chaohuaxie",
               "jiaoyan-xianyou",
               "qingzheng-luyu",
+              "suanrong-fensi-shanbei",
               "xia-ren-huadan",
               "xiangjian-xueyu"
             ]
@@ -652,7 +654,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 28,
+        "actual": 29,
         "cells": [
           {
             "category": "main-seafood",
@@ -681,12 +683,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "huotui-donggua-tang",
               "jinzhengu-doufu-tang",
               "laoya-bao",
               "songsao-yugen",
+              "xihu-niurou-geng",
               "xihu-niurougeng"
             ]
           },
@@ -1340,23 +1343,26 @@
         "en": "Northeastern",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 11,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shao-qiezi"
+            ]
           },
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "dongbei-luandun",
               "guobao-rou",
+              "liu-roudan",
               "suancai-bairou"
             ]
           },

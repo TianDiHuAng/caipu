@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T02:41:01.316Z
+- 生成时间：2026-11-20T04:33:04.672Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 49 道，平均分 96
 - 需重写（C/D）：0 道
@@ -25,7 +25,7 @@
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | caigan-zhugu-tang | 93 | A | 准确性 18/25 |
 | cantonese | guangshi-chunjuan | 93 | A | 准确性 18/25 |
-| cantonese | fanqie-niunan | 93 | A | 准确性 18/25 |
+| cantonese | ganchao-niuhe | 94 | A | 安全性 14/20 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-luandun | 93 | A | 准确性 18/25 |
 | french | bouillabaisse | 100 | A | 无 |
@@ -55,7 +55,7 @@
 | shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
 | sichuan | hongshao-doufu | 93 | A | 准确性 18/25 |
 | sichuan | shuizhu-yu | 93 | A | 准确性 18/25 |
-| sichuan | koushui-ji | 100 | A | 无 |
+| sichuan | larou-chaofan | 100 | A | 无 |
 | spanish | bacalao-al-pil-pil | 93 | A | 准确性 18/25 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
 | thai | thai-basil-shrimp | 93 | A | 准确性 18/25 |
@@ -66,7 +66,7 @@
 | xinjiang | naobao-rou | 100 | A | 无 |
 | yunguai | suantang-feiniu | 100 | A | 无 |
 | zhejiang | congyou-xia | 100 | A | 无 |
-| zhejiang | meigancai-kourou | 100 | A | 无 |
+| zhejiang | mizhi-huofang | 100 | A | 无 |
 
 ## 结论
 
