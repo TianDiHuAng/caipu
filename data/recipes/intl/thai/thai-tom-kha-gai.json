@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-tom-kha-gai",
+  "name": {
+    "zh": "泰式椰奶鸡汤",
+    "en": "Thai Coconut Chicken Soup (Tom Kha Gai)"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 350,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "对半切开",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "浓稠型",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "鸡骨汤或清水",
+          "optional": false
+        },
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 20,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 2,
+          "unit": "piece",
+          "note": "拍扁切段",
+          "optional": false
+        },
+        {
+          "name": "柠檬叶",
+          "name_en": "kaffir lime leaf",
+          "amount": 5,
+          "unit": "piece",
+          "note": "撕开去梗",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "咸鲜主味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "椰糖",
+          "name_en": "palm sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "平衡酸辣",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 3,
+          "unit": "piece",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "出锅点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成三厘米见方的块，用清水冲去表面血水后沥干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "带皮鸡腿肉油脂香，汤更醇厚，别去皮。",
+      "visual_cue": "鸡块干净、无血水渗出"
+    },
+    {
+      "n": 2,
+      "text": "南姜切薄片，香茅拍扁后切成五厘米段，柠檬叶撕开去掉硬梗。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "三样香料都要拍裂撕开，香气才出得来。",
+      "visual_cue": "香料拍裂、香气扑鼻"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒高汤，放南姜、香茅和柠檬叶，中火煮五分钟出香。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "香料先煮出味，是这道汤的底子。",
+      "visual_cue": "汤色微黄、香气浓郁"
+    },
+    {
+      "n": 4,
+      "text": "下鸡块煮八分钟至肉色变白、基本熟透，撇去浮沫。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "浮沫要撇净，汤才清亮不腥。",
+      "visual_cue": "汤面清亮、鸡块转白"
+    },
+    {
+      "n": 5,
+      "text": "放入蘑菇煮三分钟至微软，蘑菇吸汤后会鼓起。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蘑菇后放，久煮会缩成小块失了口感。",
+      "visual_cue": "蘑菇微软、体积饱满"
+    },
+    {
+      "n": 6,
+      "text": "倒入椰浆和棕榈糖，转小火煮三分钟，别让汤大滚。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "椰浆大滚会油水分离，汤色发灰发涩。",
+      "visual_cue": "汤色奶白、表面无油花分离"
+    },
+    {
+      "n": 7,
+      "text": "关火后加鱼露和青柠汁调味，撒小米辣与香菜即可上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "青柠汁离火再放，酸香才清亮不发苦。",
+      "visual_cue": "汤色奶白、香菜翠绿浮面"
+    }
+  ],
+  "tips": [
+    "椰浆选浓稠型，摇匀再用，稀的汤会寡淡。",
+    "青柠先挤半个尝味，酸度按口味再加。",
+    "南姜不可用普通生姜代替，风味完全不同。"
+  ],
+  "common_mistakes": [
+    "香料没拍裂就下锅，汤只有甜味没有香气。",
+    "椰浆下锅后大火滚煮，油水分离、汤面浮渣。",
+    "青柠汁早放久煮，酸味发苦、清香尽失。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "350g 对 350g",
+      "note": "鸡胸易柴，煮的时间减三分钟。"
+    },
+    {
+      "original": "棕榈糖",
+      "substitute": "白糖",
+      "ratio": "8g 对 6g",
+      "note": "甜味更直接，鱼露可略增。"
+    }
+  ],
+  "variations": [
+    "加几只虾仁同煮，做成海鲜版椰奶汤。",
+    "加一把米线同煮，直接变成一人份汤面。"
+  ],
+  "serving_suggestion": "配泰国香米饭，汤菜同锅，酸辣开胃。",
+  "storage": "冷藏两天，复热时加少许椰浆稀释再小火煮开。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300ml）",
+    "calories_kcal": 340,
+    "protein_g": 22,
+    "fat_g": 24,
+    "carbs_g": 10,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉必须彻底加热至中心熟透，切开不见粉红色汁水。",
+    "椰浆开封后需冷藏并在两天内用完，发酸即丢弃。",
+    "含鱼类鱼露致敏原，过敏体质者慎食；成品冷藏不超过两天。"
+  ],
+  "origin_note": "Tom Kha Gai 是泰国中部的经典汤品，Tom 指煮，Kha 指南姜，Gai 是鸡。与冬阴功不同，它靠椰浆打底，酸来自青柠、辣来自小米辣，喝起来奶香柔和不刺喉。泰国人常把它当主菜汤，配米饭就是一餐。",
+  "tags": [
+    "泰式",
+    "汤",
+    "椰香",
+    "开胃"
+  ],
+  "related_ids": [
+    "larb-gai",
+    "mango-sticky-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

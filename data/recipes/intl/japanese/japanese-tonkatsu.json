@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-tonkatsu",
+  "name": {
+    "zh": "日式炸猪排",
+    "en": "Japanese Pork Cutlet (Tonkatsu)"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "total_min": 32
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 300,
+          "unit": "g",
+          "note": "切成两片厚两厘米的猪排",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散成蛋液",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "拍干粉",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 80,
+          "unit": "g",
+          "note": "裹外层",
+          "optional": false
+        },
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝配菜",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "打底味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 160,
+          "unit": "ml",
+          "note": "半煎炸，油没过猪排一半",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 20,
+          "unit": "ml",
+          "note": "蘸汁",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "蘸汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "肉锤",
+    "三只浅盘",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊横切成两片两厘米厚的猪排，用刀背在两面轻敲断筋。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "敲断筋膜炸时才不会卷边收缩。",
+      "visual_cue": "猪排厚度均匀、边缘略松"
+    },
+    {
+      "n": 2,
+      "text": "猪排两面撒盐和黑胡椒，静置十分钟让底味渗进去。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "提前撒盐比炸后撒更入味，也不会掉粉。",
+      "visual_cue": "表面均匀覆细盐与黑胡椒"
+    },
+    {
+      "n": 3,
+      "text": "准备好面粉、蛋液、面包糠三个浅盘，按顺序排好。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "三盘按序摆放，裹粉时手不会乱。",
+      "visual_cue": "三盘齐备、面包糠蓬松"
+    },
+    {
+      "n": 4,
+      "text": "猪排先拍一层面粉抖掉多余粉，再裹蛋液，最后压满面包糠。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面包糠用手压实，炸时不易脱落。",
+      "visual_cue": "外壳厚实蓬松、不见裸肉"
+    },
+    {
+      "n": 5,
+      "text": "平底锅倒植物油至没过猪排一半，烧到六成热后下猪排，中火炸四分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "油温六七成最稳，太低吸油、太高外焦内生。",
+      "visual_cue": "外壳金黄、油泡细密"
+    },
+    {
+      "n": 6,
+      "text": "翻面再炸三分钟，捞出放在网架上沥油两分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "用网架不用厨房纸，底部才不会焖软。",
+      "visual_cue": "两面金黄酥脆、外皮干爽"
+    },
+    {
+      "n": 7,
+      "text": "卷心菜切极细丝泡冰水五分钟，沥干后堆在盘边。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冰水泡过的菜丝更脆，也能压住油腻。",
+      "visual_cue": "菜丝挺脆、水分沥干"
+    },
+    {
+      "n": 8,
+      "text": "番茄酱加生抽调成蘸汁，猪排切条配菜丝一同上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "猪排横切条，看得见肉汁才漂亮。",
+      "visual_cue": "切面肉色粉白、外壳不散"
+    }
+  ],
+  "tips": [
+    "猪排厚两厘米最合适，太薄容易炸柴。",
+    "面包糠选粗粒的，炸出来更酥更立体。",
+    "不想多油可改半煎炸，油量盖过猪排一半即可。"
+  ],
+  "common_mistakes": [
+    "没敲断筋膜就下锅，猪排卷成碗状。",
+    "裹粉后放太久，面包糠受潮脱落。",
+    "炸好直接放盘子里，底部被蒸汽焖软。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "猪梅肉",
+      "ratio": "300g 对 300g",
+      "note": "带些脂肪更嫩，炸的时间加一分钟。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "玉米片碎",
+      "ratio": "80g 对 80g",
+      "note": "压碎后裹上，口感更硬脆。"
+    }
+  ],
+  "variations": [
+    "上面淋咖喱，做成日式咖喱猪排饭。",
+    "加一片奶酪同炸，做成芝士猪排。"
+  ],
+  "serving_suggestion": "配白饭、味噌汤和卷心菜丝，是日本定食的经典组合。",
+  "storage": "冷藏一天，复热用烤箱一百八十度烤五分钟恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "每份（约 240g）",
+    "calories_kcal": 560,
+    "protein_g": 36,
+    "fat_g": 32,
+    "carbs_g": 30,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪排必须彻底加热至中心熟透，中心温度达到七十五度以上，切开不见粉红色汁水。",
+    "油炸时避免水滴入锅，防止热油飞溅。",
+    "裹蛋液的面包糠易致敏，含蛋与小麦成分，过敏者慎食。",
+    "蛋液要现打现用，打蛋后洗手并清洗接触过生蛋的器具，避免沙门氏菌污染。"
+  ],
+  "origin_note": "とんかつ是日本洋食的代表，明治时期东京的洋食店把西式炸肉排改成厚切猪排，配卷心菜丝和酱汁。日语「かつ」与「勝つ」同音，因此也是考试、比赛前常吃的吉利菜。讲究断筋、三盘裹粉与六成油温。",
+  "tags": [
+    "日式",
+    "炸",
+    "洋食",
+    "定食"
+  ],
+  "related_ids": [
+    "asari-misoshiru",
+    "chawanmushi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

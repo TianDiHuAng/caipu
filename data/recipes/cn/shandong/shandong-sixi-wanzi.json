@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-sixi-wanzi",
+  "name": {
+    "zh": "四喜丸子",
+    "en": "Braised Pork Meatballs (Four Joy Meatballs)"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 45,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 500,
+          "unit": "g",
+          "note": "肥瘦三七分，手剁更好",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打入肉馅",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 30,
+          "unit": "g",
+          "note": "增加黏性",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "围边配菜",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "炖丸子",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "肉馅底味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 270,
+          "unit": "ml",
+          "note": "炸丸子，实耗约 90ml",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "大碗",
+    "砂锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肉末放盆里，加盐、料酒、葱姜末、鸡蛋和淀粉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "肥瘦三七分最合适，全瘦肉丸子发柴。",
+      "visual_cue": "肉馅落盆、配料齐备"
+    },
+    {
+      "n": 2,
+      "text": "顺着一个方向用力搅打五分钟，直到肉馅上劲发黏。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "上劲是丸子不散的关键，搅到能拉出细丝。",
+      "visual_cue": "肉馅发黏、能拉出细丝"
+    },
+    {
+      "n": 3,
+      "text": "分次打入两勺清水，继续同向搅拌到水分全被吸收。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "分次打水，丸子才嫩而有汁，一次倒会澥。",
+      "visual_cue": "肉馅光亮、按压回弹"
+    },
+    {
+      "n": 4,
+      "text": "双手沾水，把肉馅摔打成四个大丸子，每个约一百二十克。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "摔打十几下排出空气，丸子紧实不裂。",
+      "visual_cue": "丸子浑圆、表面光洁"
+    },
+    {
+      "n": 5,
+      "text": "锅中倒植物油烧到六成热，放入丸子中火炸到表面金黄定型。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温稳住再下丸子，低了散、高了外焦内生。",
+      "visual_cue": "丸子金黄定型、外壳略硬"
+    },
+    {
+      "n": 6,
+      "text": "砂锅放清水，加生抽、老抽、白糖和八角烧开，放入丸子。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "水要没过丸子大半，炖时才不会露头变硬。",
+      "visual_cue": "汤面翻滚、丸子半沉"
+    },
+    {
+      "n": 7,
+      "text": "转小火盖盖炖三十五分钟，中途翻动一次让四面入味。",
+      "time_min": 35,
+      "heat": "小火",
+      "tip": "小火慢炖，丸子内部才熟透又不散。",
+      "visual_cue": "丸子饱满、汤汁转浓"
+    },
+    {
+      "n": 8,
+      "text": "油菜焯水后摆在盘边，丸子盛中间，汤汁勾薄芡浇上。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "芡汁要薄，能挂住丸身即可，太厚糊嘴。",
+      "visual_cue": "酱汁红亮、青菜翠绿"
+    }
+  ],
+  "tips": [
+    "肉末手剁的比机器打的更有颗粒感。",
+    "没有砂锅可用厚底锅小火焖，时间加五分钟。",
+    "丸子一次可多做，冷冻保存随吃随炖。"
+  ],
+  "common_mistakes": [
+    "肉馅没上劲就团丸子，下锅一炖就散成肉末。",
+    "炸丸子油温不够，外壳不成形还吸满油。",
+    "炖煮火太大，丸子外表散开内部却没熟透。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "500g 对 500g",
+      "note": "牛肉瘦，需多加一勺淀粉与清水。"
+    },
+    {
+      "original": "油菜",
+      "substitute": "上海青",
+      "ratio": "150g 对 150g",
+      "note": "口感相近，焯水时间略短。"
+    }
+  ],
+  "variations": [
+    "丸子中间包一颗鹌鹑蛋，做成藏心四喜丸子。",
+    "加香菇末同拌，鲜味更足也更松软。"
+  ],
+  "serving_suggestion": "四个丸子整盘上桌，浇汁配青菜，是鲁菜宴席的压轴大菜。",
+  "storage": "冷藏三天，冷冻一个月；复热连汁小火炖十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 520,
+    "protein_g": 30,
+    "fat_g": 36,
+    "carbs_g": 16,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉丸子必须彻底加热至中心熟透，切开不见粉红色。",
+    "拌生肉馅的筷子与盛熟菜的餐具要分开使用。",
+    "冷藏不超过三天，复热需连汤煮开后再食用。"
+  ],
+  "origin_note": "四喜丸子是鲁菜宴席上的传统大件，一说源于唐代张九龄以四圆寓「福禄寿喜」，一说由淮扬狮子头演变而来。肉馅上劲、炸定形、再小火慢炖，成菜四个大丸子浑圆饱满，象征人生四喜，逢年过节必上。",
+  "tags": [
+    "鲁菜",
+    "炖",
+    "宴客",
+    "年菜"
+  ],
+  "related_ids": [
+    "baochao-yaohua",
+    "bazi-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
