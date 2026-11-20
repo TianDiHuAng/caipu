@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-palak-chicken",
+  "name": {
+    "zh": "印度菠菜鸡肉咖喱",
+    "en": "Palak Chicken"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "fragrant",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 400,
+          "unit": "g",
+          "note": "去骨切三厘米块",
+          "optional": false
+        },
+        {
+          "name": "菠菜",
+          "name_en": "spinach",
+          "amount": 400,
+          "unit": "g",
+          "note": "洗净去粗梗",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 60,
+          "unit": "ml",
+          "note": "最后调味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "整粒",
+          "optional": false
+        },
+        {
+          "name": "芫荽籽",
+          "name_en": "coriander seed",
+          "amount": 5,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "按辣度增减",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒香料",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煎鸡肉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "料理机",
+    "深锅",
+    "平底锅",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "菠菜放沸水焯三十秒，捞出立刻过冷水，挤干水分后切碎。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "过冷水能锁住翠绿，直接放凉会发黄发暗。",
+      "visual_cue": "菠菜颜色鲜绿、挤干后成团"
+    },
+    {
+      "n": 2,
+      "text": "焯好的菠菜放料理机打成带颗粒的粗泥，不要打得太细。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "留一点纤维口感更好，打成浆会失去质地。",
+      "visual_cue": "泥状带细小碎叶、能缓慢流动"
+    },
+    {
+      "n": 3,
+      "text": "平底锅放植物油中火煎鸡腿肉到表面变白定型，盛出备用。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "只煎到表面定型，后面炖煮才会嫩不柴。",
+      "visual_cue": "鸡肉四面变白、略微上色"
+    },
+    {
+      "n": 4,
+      "text": "深锅放黄油化开，下孜然炒香，加洋葱丁炒到微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "孜然下锅听到爆响就对了，香气出来再放洋葱。",
+      "visual_cue": "孜然微微爆开、洋葱边缘金黄"
+    },
+    {
+      "n": 5,
+      "text": "加生姜、大蒜、香菜籽、姜黄和辣椒粉炒三十秒，再下番茄炒成糊。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "香料遇油才释香，火太大会瞬间发苦。",
+      "visual_cue": "油色泛红、番茄完全塌陷"
+    },
+    {
+      "n": 6,
+      "text": "放入鸡肉与菠菜泥，加盐和一百毫升清水，盖盖小火炖十分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "小火慢炖让鸡肉吸味，大火会让菠菜发暗。",
+      "visual_cue": "鸡肉中心变白、酱体浓稠"
+    },
+    {
+      "n": 7,
+      "text": "淋入淡奶油拌匀，小火煮一分钟即关火，尝味补盐。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "淡奶油不能煮沸，一滚就分离出油花。",
+      "visual_cue": "酱体顺滑呈深绿色、表面有光泽"
+    }
+  ],
+  "tips": [
+    "菠菜焯水后一定要挤干，水分多会把咖喱冲淡。",
+    "香料粉提前在小碗混好，下锅时一次倒入不易炒焦。",
+    "配烤饼或印度香米饭，酱汁量刚好够蘸。"
+  ],
+  "common_mistakes": [
+    "菠菜焯完不过冷水，成品颜色发黄发暗。",
+    "香料炒过头变黑，整锅带焦苦味。",
+    "淡奶油大火煮沸，酱汁出现白色颗粒与出油。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鹰嘴豆",
+      "ratio": "400g 对 300g 熟豆",
+      "note": "做成素食版，炖制时间缩短三分钟。"
+    },
+    {
+      "original": "淡奶油",
+      "substitute": "酸奶",
+      "ratio": "60ml 对 60g",
+      "note": "需关火后再加，否则容易结块。"
+    }
+  ],
+  "variations": [
+    "把鸡肉换成印度奶酪块，做成菠菜奶酪咖喱的经典搭配。",
+    "加入腰果泥增加浓稠度，做成更浓郁醇厚的版本。"
+  ],
+  "serving_suggestion": "装碗配烤饼或米饭食用，表面可再淋一圈淡奶油。",
+  "storage": "冷藏两天，冷冻一个月；复热用小火加少量清水慢煮，不要微波。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 440,
+    "protein_g": 32,
+    "fat_g": 26,
+    "carbs_g": 16,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉必须炖至中心完全变白，中心温度达七十四度以上。",
+    "菠菜含草酸，肾结石人群不宜大量食用，焯水可减少一部分。",
+    "含乳制品与坚果类香料的厨房需注意过敏人群交叉接触。"
+  ],
+  "origin_note": "Palak chicken 是北印度旁遮普一带的家常咖喱，palak 在印地语里就是菠菜。做法是把菠菜焯水打成泥，与洋葱番茄炒成的马萨拉底酱同煮，最后加鸡肉与奶油。它讲究颜色翠绿、香料层次分明、酱体浓稠能裹住肉块，配烤饼最合适。",
+  "tags": [
+    "印度",
+    "咖喱",
+    "鸡肉",
+    "菠菜",
+    "香料"
+  ],
+  "related_ids": [
+    "butter-chicken",
+    "indian-tandoori-chicken",
+    "aloo-palak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

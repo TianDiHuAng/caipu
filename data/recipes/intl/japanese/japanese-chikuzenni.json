@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-chikuzenni",
+  "name": {
+    "zh": "日式筑前煮",
+    "en": "Chikuzenni"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 300,
+          "unit": "g",
+          "note": "带皮切四厘米块",
+          "optional": false
+        },
+        {
+          "name": "莲藕",
+          "name_en": "lotus root",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块泡水",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 20,
+          "unit": "g",
+          "note": "温水泡发留汁",
+          "optional": false
+        },
+        {
+          "name": "豆角",
+          "name_en": "green beans",
+          "amount": 100,
+          "unit": "g",
+          "note": "去筋切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 40,
+          "unit": "ml",
+          "note": "主咸味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 30,
+          "unit": "ml",
+          "note": "增甜上光",
+          "optional": false
+        },
+        {
+          "name": "清酒",
+          "name_en": "sake",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "平衡咸味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸鸡肉",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "含香菇泡汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炖锅",
+    "锅盖",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干香菇用温水泡发二十分钟，捞出挤干切块，泡香菇的水留用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "泡香菇的水是鲜味来源，静置后取上层清液，底部沉淀不要。",
+      "visual_cue": "香菇完全回软、留出三百毫升浅褐色水"
+    },
+    {
+      "n": 2,
+      "text": "莲藕去皮切滚刀块泡在清水里，胡萝卜切同样大小的块。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "莲藕泡水能防氧化发黑，切块大小一致才受热均匀。",
+      "visual_cue": "藕块洁白、大小与胡萝卜接近"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅放植物油中火烧热，鸡腿肉皮朝下煸到金黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "先煎皮逼出油脂，后面炖出的汤才不腻。",
+      "visual_cue": "鸡皮金黄收缩、锅底有油"
+    },
+    {
+      "n": 4,
+      "text": "下莲藕与胡萝卜翻炒两分钟，倒入清酒炒到酒气散尽。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "清酒沿锅边淋入，遇热挥发带走腥味更快。",
+      "visual_cue": "酒气明显变淡、蔬菜表面挂油"
+    },
+    {
+      "n": 5,
+      "text": "加入香菇与香菇水、清水、浓口酱油、味淋和白糖，大火烧开撇去浮沫。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "浮沫要撇干净，汤色才清亮不腥。",
+      "visual_cue": "汤面干净、颜色呈浅褐"
+    },
+    {
+      "n": 6,
+      "text": "转小火盖盖炖十五分钟，中途把四季豆放入同煮五分钟。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "四季豆后下才能保持翠绿，久炖会发黄变软。",
+      "visual_cue": "莲藕能轻松插入、四季豆翠绿"
+    },
+    {
+      "n": 7,
+      "text": "开盖转中火收汁到汤汁剩三分之一，晃动锅让汁裹匀食材。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "收汁时别用勺翻，晃锅才不会把莲藕弄碎。",
+      "visual_cue": "食材表面油亮、锅底汁液浓稠"
+    }
+  ],
+  "tips": [
+    "香菇水静置后只用上层，底部泥沙会影响整锅味道。",
+    "莲藕选七孔粉藕，炖后绵软吸汁，比脆藕更适合。",
+    "收汁后关火焖五分钟，味道会更深地渗进根茎里。"
+  ],
+  "common_mistakes": [
+    "莲藕切好不泡水，炖出来发黑卖相差。",
+    "香菇水连沉淀一起倒入，整锅带土腥味。",
+    "大火收汁过头发干，食材表面发柴失去光泽。"
+  ],
+  "substitutions": [
+    {
+      "original": "莲藕",
+      "substitute": "土豆",
+      "ratio": "200g 对 200g",
+      "note": "土豆易糊，炖制时间需缩短五分钟。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "五花肉",
+      "ratio": "300g 对 300g",
+      "note": "油脂更多，需多撇一次浮沫。"
+    }
+  ],
+  "variations": [
+    "加入魔芋结与牛蒡，做成更接近日本家庭原版的筑前煮。",
+    "把鸡腿肉换成煎香的豆腐，做成素食版本，炖制时间不变。"
+  ],
+  "serving_suggestion": "装深盘带少量汤汁上桌，配白米饭作为主菜。",
+  "storage": "冷藏三天，复热用小火加少量清水慢炖，风味比微波更好。",
+  "nutrition_estimate": {
+    "basis": "每份（约 280g）",
+    "calories_kcal": 320,
+    "protein_g": 22,
+    "fat_g": 14,
+    "carbs_g": 26,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉必须炖到中心完全变白无粉红，中心温度达七十四度。",
+    "干香菇需充分泡发并清洗，避免夹带沙土杂质。",
+    "炖菜含盐较高，高血压人群请减少酱油用量。"
+  ],
+  "origin_note": "筑前煮是日本九州福冈一带的乡土料理，筑前是当地的旧国名。它把鸡肉与根茎类蔬菜用酱油、味淋、清酒同锅慢炖，讲究食材切成大小相近的滚刀块、汤汁收到挂在表面。日本正月与祭典时常做这道菜，凉了反而更入味。",
+  "tags": [
+    "日本",
+    "炖菜",
+    "鸡肉",
+    "莲藕",
+    "家常"
+  ],
+  "related_ids": [
+    "japanese-shogayaki",
+    "japanese-tamagoyaki",
+    "tonjiru"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

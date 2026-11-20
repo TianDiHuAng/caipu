@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-mac-and-cheese",
+  "name": {
+    "zh": "美式芝士通心粉",
+    "en": "Mac and Cheese"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "通心粉",
+          "name_en": "penne",
+          "amount": 300,
+          "unit": "g",
+          "note": "弯管形",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 400,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "马苏里拉",
+          "name_en": "mozzarella",
+          "amount": 150,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 50,
+          "unit": "g",
+          "note": "刨细丝",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 30,
+          "unit": "g",
+          "note": "表面脆层",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "炒面糊",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "做白酱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "煮面与调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "拌面包糠",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "厚底锅",
+    "打蛋器",
+    "烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "深锅烧开加盐的水，下通心粉煮到比包装时间少两分钟，捞出沥干。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "面芯留一点硬，烤完才不至于软烂。",
+      "visual_cue": "通心粉弯折有弹性、中心略硬"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅小火融化黄油，倒入面粉用打蛋器搅到顺滑没有颗粒。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "面糊要炒到锅底起细泡但不变色，说明糊已熟透、腥味散尽。",
+      "visual_cue": "糊体顺滑无颗粒、锅底起细泡"
+    },
+    {
+      "n": 3,
+      "text": "分三次倒入牛奶，每次都搅到完全融合再加下一次。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "一次倒完必有疙瘩，分次加才顺滑。",
+      "visual_cue": "白酱稠滑挂勺、无结块"
+    },
+    {
+      "n": 4,
+      "text": "关火后加入马苏里拉与帕玛森芝士搅到融化，用盐与黑胡椒调味。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "离火加芝士不易分离出油，酱体更细腻。",
+      "visual_cue": "酱体拉丝顺滑、颜色乳黄"
+    },
+    {
+      "n": 5,
+      "text": "把煮好的通心粉拌入芝士酱，让每根弯管都裹上酱，再倒入烤盘抹平。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "拌的时候留一点酱，烤后表面不会发干。",
+      "visual_cue": "通心粉均匀裹酱、表面平整"
+    },
+    {
+      "n": 6,
+      "text": "面包糠拌植物油撒在表面，二百一十度烤十五分钟至金黄起泡。",
+      "time_min": 6,
+      "heat": "中大火",
+      "tip": "面包糠拌一点油才烤得脆，不拌容易烤出一层又白又干的壳。",
+      "visual_cue": "表面金黄酥脆、边缘冒泡"
+    }
+  ],
+  "tips": [
+    "芝士选两种搭配，马苏里拉负责拉丝、帕玛森负责咸香。",
+    "白酱要稠一点再拌面，烤制过程中水分会继续蒸发。",
+    "想更浓郁可在表面再撒一层芝士，烤到焦斑更香。"
+  ],
+  "common_mistakes": [
+    "白酱一次倒入全部牛奶，成品全是疙瘩。",
+    "芝士在高温下加热过久，酱体出油分离成颗粒。",
+    "通心粉煮到全熟再烤，出炉后整盘糊成一团。"
+  ],
+  "substitutions": [
+    {
+      "original": "马苏里拉芝士",
+      "substitute": "帕玛森芝士",
+      "ratio": "150g 对 100g",
+      "note": "咸味更重，需减少盐的用量。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "400ml 对 250ml 加 150ml 水",
+      "note": "更浓厚，热量明显提高。"
+    }
+  ],
+  "variations": [
+    "表面撒烟熏培根碎与辣椒粉，做成风味更重的版本。",
+    "加入炒香的洋葱与西兰花，做成蔬菜更多的家庭版。"
+  ],
+  "serving_suggestion": "趁热分装到温过的盘中，配一份清爽沙拉平衡油腻。",
+  "storage": "冷藏三天，复热时淋少许牛奶，盖锡纸一百八十度烤十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 280g）",
+    "calories_kcal": 620,
+    "protein_g": 24,
+    "fat_g": 32,
+    "carbs_g": 58,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含牛奶与小麦，乳糖不耐或麸质过敏者请替换食材。",
+    "烤盘出炉温度极高，取盘需用厚手套避免烫伤。",
+    "芝士酱在室温放置不超过两小时，剩余需冷藏并彻底复热。"
+  ],
+  "origin_note": "Mac and cheese 源自英国的奶酪通心粉做法，随移民传入美国后成为国民家常菜，据传杰斐逊在白宫宴客时曾供应。美式版本以黄油面粉炒成的白酱为基底，加入大量切达类芝士烘烤，讲究表面脆、内里拉丝。它也是感恩节餐桌上的固定配菜。",
+  "tags": [
+    "美国",
+    "面食",
+    "芝士",
+    "烘烤",
+    "家常"
+  ],
+  "related_ids": [
+    "hamburger",
+    "pancakes",
+    "american-pot-roast"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

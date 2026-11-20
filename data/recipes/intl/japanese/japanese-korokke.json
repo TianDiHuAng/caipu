@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-korokke",
+  "name": {
+    "zh": "日式可乐饼",
+    "en": "Korokke"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 20,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "带皮煮软",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 200,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "裹粉用蛋液",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "裹粉层",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 100,
+          "unit": "g",
+          "note": "细颗粒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分两次",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 150,
+          "unit": "ml",
+          "note": "半煎用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "平底锅",
+    "压泥器",
+    "三个浅盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆带皮放冷水锅煮二十分钟，筷子能轻松插透后捞出趁热去皮。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "带皮煮不易吸水，压出的泥更干爽好成型。",
+      "visual_cue": "筷子插进去无阻力、皮一撕就掉"
+    },
+    {
+      "n": 2,
+      "text": "土豆趁热压成泥，撒一半盐拌匀后摊开放凉到不烫手。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "泥要放凉再拌肉馅，热的时候拌会出水分。",
+      "visual_cue": "泥细腻无大块、温度接近手温"
+    },
+    {
+      "n": 3,
+      "text": "平底锅放少许油炒洋葱丁到透明，下猪肉末炒散至变色。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "把肉末的水分炒干，馅才不湿不散。",
+      "visual_cue": "洋葱透明、肉末颗粒分明无汁"
+    },
+    {
+      "n": 4,
+      "text": "把炒好的肉馅与剩余盐、黑胡椒拌入土豆泥，搅到能成团。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "搅到略微起黏性，炸时才不会散开。",
+      "visual_cue": "馅料能捏成球不散、表面略发亮"
+    },
+    {
+      "n": 5,
+      "text": "馅料分成八份，捏成三厘米厚椭圆饼，中间略压凹。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "中间压凹受热更均匀，边缘不要有裂缝。",
+      "visual_cue": "饼形整齐、厚度一致"
+    },
+    {
+      "n": 6,
+      "text": "依次沾面粉、蛋液、面包糠，按压让面包糠牢牢粘住。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蛋液要裹匀才粘得住糠，压一压糠不易脱落。",
+      "visual_cue": "表面均匀覆盖、无裸露白面"
+    },
+    {
+      "n": 7,
+      "text": "平底锅放剩余植物油中火烧热，下饼每面煎三分钟到金黄酥脆。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温约一百七十度，丢一粒面包糠会立刻起泡。",
+      "visual_cue": "两面金黄、外壳硬挺有脆声"
+    }
+  ],
+  "tips": [
+    "压好的土豆泥要放凉再拌馅，否则煎时容易爆开。",
+    "做好的生坯可冷冻，吃前不用解冻直接半煎。",
+    "配卷心菜丝与猪排酱，风味最接近日本家庭的做法。"
+  ],
+  "common_mistakes": [
+    "土豆泥太湿没放凉就裹粉，下锅即散成糊。",
+    "油温太低就下锅，外壳吸满油发软发腻。",
+    "饼做得太厚，外面焦了里面还是凉的。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "200g 对 200g",
+      "note": "风味更浓，需多炒一分钟把水分炒干。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "面粉",
+      "ratio": "100g 对 60g",
+      "note": "外壳更薄硬，脆度略降。"
+    }
+  ],
+  "variations": [
+    "馅料中加入咖喱粉与玉米粒，做成咖喱风味可乐饼。",
+    "把猪肉末换成炒香的香菇与胡萝卜丁，做成素食版。"
+  ],
+  "serving_suggestion": "装盘配卷心菜丝与酱汁，作为下午茶或便当配菜。",
+  "storage": "冷藏两天，冷冻一个月；复热用烤箱一百八十度烤八分钟恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "每份（约 2 个）",
+    "calories_kcal": 430,
+    "protein_g": 14,
+    "fat_g": 22,
+    "carbs_g": 44,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末必须炒至完全变色无粉色，中心温度达七十一度。",
+    "煎制时油温高，下饼前擦干手部水分避免热油飞溅。",
+    "鸡蛋需全程冷藏保存，裹粉过程接触生蛋后要洗手。"
+  ],
+  "origin_note": "可乐饼的名字来自法语 croquette，明治时期传入日本后改用土豆与肉末做成。它是日本家庭与便当里的常见配菜，讲究外壳酥脆、内里绵软带肉香。关西把它当配菜，关东则常做成可乐饼面包。",
+  "tags": [
+    "日本",
+    "小吃",
+    "土豆",
+    "猪肉",
+    "便当"
+  ],
+  "related_ids": [
+    "japanese-tonkatsu",
+    "karaage",
+    "japanese-hanbaagu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
