@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-qiehe",
+  "name": {
+    "zh": "山东茄盒",
+    "en": "Eggplant Sandwiches with Pork Filling"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 400,
+          "unit": "g",
+          "note": "长茄两根",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 200,
+          "unit": "g",
+          "note": "肥瘦三七开",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两个，调糊",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 80,
+          "unit": "g",
+          "note": "调糊",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 40,
+          "unit": "g",
+          "note": "增脆",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调馅",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调馅与调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炸制用油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调糊",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "深碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子洗净去蒂，切成两片相连的夹刀片，厚度约一厘米。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "两片之间不切断，才能夹住肉馅。",
+      "visual_cue": "夹刀片成对相连、厚薄一致"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加葱花、生姜末、生抽、料酒、盐与白胡椒顺时针搅打上劲。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "一直朝一个方向搅，肉馅才抱团。",
+      "visual_cue": "肉馅黏稠上劲、能粘住筷子"
+    },
+    {
+      "n": 3,
+      "text": "把肉馅填进夹刀片中间，抹平表面，逐个做好摆在盘里。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "馅料不要填太满，炸时容易溢出。",
+      "visual_cue": "茄盒饱满、边缘平整"
+    },
+    {
+      "n": 4,
+      "text": "面粉、玉米淀粉与鸡蛋液加清水调成浓稠的糊，静置五分钟。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "糊静置一会儿，粉粒才能化开。",
+      "visual_cue": "糊体细滑、能挂住筷子"
+    },
+    {
+      "n": 5,
+      "text": "茄盒逐个裹上调好的面糊，提起时抖掉多余的面糊。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "裹糊要匀，露出茄子会炸干。",
+      "visual_cue": "茄盒被糊包裹、不见裸面"
+    },
+    {
+      "n": 6,
+      "text": "炒锅倒植物油烧到六成热，茄盒下锅中火炸四分钟至金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "下锅后先别翻动，等糊定型再翻。",
+      "visual_cue": "外壳金黄、茄盒浮起"
+    },
+    {
+      "n": 7,
+      "text": "捞出沥油，植物油升温后再复炸四十秒，出锅撒盐即可。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "复炸让外壳更酥，内馅更紧实。",
+      "visual_cue": "外壳酥脆有声、内馅熟透"
+    }
+  ],
+  "tips": [
+    "茄子选长条形嫩茄，籽少更绵软。",
+    "肉馅里加一勺清水，炸出来更多汁。",
+    "嫌油腻可以改用平底锅少油慢煎至两面金黄。"
+  ],
+  "common_mistakes": [
+    "茄盒切得太厚，外壳焦了内馅还没熟。",
+    "肉馅填得过满，下锅就胀破流汁。",
+    "面糊调得太稀，炸出来挂不住皮还容易掉渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "虾仁",
+      "ratio": "200g 对 200g",
+      "note": "剁碎后更鲜，需补少许盐。"
+    },
+    {
+      "original": "茄子",
+      "substitute": "西葫芦",
+      "ratio": "400g 对 400g",
+      "note": "水分大，需先撒盐挤水。"
+    }
+  ],
+  "variations": [
+    "把炸好的茄盒下锅红烧，汁水更足。",
+    "肉馅里加一点香菇末，鲜味更浓。"
+  ],
+  "serving_suggestion": "趁热吃外壳最脆，配椒盐或甜辣酱都行。",
+  "storage": "冷藏可放两天，复炸或烤箱加热回脆。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 460,
+    "protein_g": 17,
+    "fat_g": 30,
+    "carbs_g": 30,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "茄盒须炸至中心熟透，猪肉馅切开不见粉色。",
+    "含鸡蛋与面粉，蛋类或麸质过敏者慎食。",
+    "油炸时茄盒含水易爆溅，下锅时轻放防烫。"
+  ],
+  "origin_note": "山东茄盒是鲁中家里来客必炸的一道菜，茄子夹上肉馅裹糊炸透，外壳酥、内里软，孩子抢着吃，凉了还能红烧。",
+  "tags": [
+    "鲁菜",
+    "炸物",
+    "家常",
+    "宴客"
+  ],
+  "related_ids": [
+    "shandong-surou",
+    "gulu-rou",
+    "min-sun-menrou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

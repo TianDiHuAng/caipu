@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T00:10:06.603Z
+- 生成时间：2026-11-20T00:37:52.635Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 47 道，平均分 97
 - 需重写（C/D）：0 道
@@ -24,11 +24,11 @@
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | caigan-zhugu-tang | 93 | A | 准确性 18/25 |
-| cantonese | guangshi-hongdou-sha | 93 | A | 准确性 18/25 |
+| cantonese | gulu-rou | 93 | A | 准确性 18/25 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-dalapi | 100 | A | 无 |
 | french | creme-brulee | 100 | A | 无 |
-| fujian | fujian-suanrong-jiang | 100 | A | 无 |
+| fujian | fuzhou-guangbing | 100 | A | 无 |
 | fujian | wuxiang-paigu | 100 | A | 无 |
 | german | apple-strudel | 93 | A | 准确性 18/25 |
 | greek | greek-roast-vegetable-salad | 100 | A | 无 |
@@ -52,8 +52,8 @@
 | shandong | cu-jiao-yutang | 100 | A | 无 |
 | shandong | jiuzhuan-dachang | 100 | A | 无 |
 | shanghai | youbao-xia | 100 | A | 无 |
-| sichuan | guaiwei-jiang | 100 | A | 无 |
-| sichuan | jiachang-doufu | 100 | A | 无 |
+| sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
+| sichuan | gongbao-jiding | 100 | A | 无 |
 | spanish | flan | 100 | A | 无 |
 | taiwan | lurou-fan | 93 | A | 准确性 18/25 |
 | thai | pad-thai | 100 | A | 无 |
@@ -64,7 +64,7 @@
 | xinjiang | xinjiang-chao-mifen | 93 | A | 准确性 18/25 |
 | yunguai | guilin-mifen | 93 | A | 准确性 18/25 |
 | zhejiang | dongpo-rou | 93 | A | 准确性 18/25 |
-| zhejiang | songsao-yugen | 100 | A | 无 |
+| zhejiang | sun-shao-rou | 100 | A | 无 |
 
 ## 结论
 
