@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T17:50:35.980Z
+- 生成时间：2026-11-20T18:34:09.971Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 57 道，平均分 97
 - 需重写（C/D）：0 道
@@ -18,7 +18,7 @@
 
 | 菜系 | 菜谱 id | 得分 | 等级 | 扣分项 |
 | --- | --- | --- | --- | --- |
-| american | american-pancakes | 100 | A | 无 |
+| american | american-mac-and-cheese | 100 | A | 无 |
 | american-south | southern-fried-chicken | 100 | A | 无 |
 | anhui | wenzheng-shansun-tang | 100 | A | 无 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
@@ -28,7 +28,7 @@
 | cantonese | chizhi-zheng-shanbei | 100 | A | 无 |
 | chaoshan | chaoshan-haolao | 100 | A | 无 |
 | dongbei | dongbei-luandun | 93 | A | 准确性 18/25 |
-| french | creme-brulee | 100 | A | 无 |
+| french | french-clafoutis | 93 | A | 准确性 18/25 |
 | fujian | baizhuo-xiaoguan | 93 | A | 准确性 18/25 |
 | fujian | wuxiang-paigu | 100 | A | 无 |
 | german | pretzel | 93 | A | 准确性 18/25 |
@@ -38,8 +38,8 @@
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | suanmiao-chao-larou | 93 | A | 准确性 18/25 |
 | hunan | duojiao-zheng-yutou | 100 | A | 无 |
-| indian | indian-chicken-curry | 87 | B | 准确性 18/25；安全性 14/20 |
 | indian | samosa | 93 | A | 准确性 18/25 |
+| indian | indian-chicken-shorba | 100 | A | 无 |
 | italian | pesto-genovese | 100 | A | 无 |
 | italian | pomodoro-pasta | 100 | A | 无 |
 | japanese | chawanmushi | 93 | A | 准确性 18/25 |

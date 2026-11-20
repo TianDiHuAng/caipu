@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-kakitama-jiru",
+  "name": {
+    "zh": "日式蛋花汤",
+    "en": "Kakitama Jiru",
+    "original": "かき玉汁"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 12,
+    "total_min": 22
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "室温回温",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 600,
+          "unit": "ml",
+          "note": "昆布木鱼花基础汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 8,
+          "unit": "g",
+          "note": "出锅前增香",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 10,
+          "unit": "g",
+          "note": "提前浸泡",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味用",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 10,
+          "unit": "ml",
+          "note": "增甜去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "兑水调匀",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "泡昆布与调淀粉",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "打蛋器",
+    "细筛",
+    "汤勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "昆布用清水浸泡二十分钟，连水一起小火加热到锅边冒小泡就捞出昆布。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "昆布不能煮沸，水滚后会析出黏滑腥味，汤色发浑。",
+      "visual_cue": "汤面浮起细小气泡，水色淡黄清亮"
+    },
+    {
+      "n": 2,
+      "text": "放入木鱼花静置两分钟，等它沉底后用细筛滤出，得到清澈的日式高汤。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "木鱼花久煮会发苦，静置两分钟马上过滤最稳。",
+      "visual_cue": "木鱼花全部沉底，汤色琥珀透亮"
+    },
+    {
+      "n": 3,
+      "text": "高汤回锅加生抽、味醂和盐调味，玉米淀粉兑清水搅匀后淋入勾薄芡。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "芡要薄，汤略稠即可，太厚会把蛋花裹成一团。",
+      "visual_cue": "汤体微稠，勺背挂一层薄薄的膜"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋打散过筛，汤保持微沸时用筷子在锅里搅出旋涡，缓缓淋入蛋液。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "淋蛋液时不要搅动，静置五秒再轻轻推散，蛋花才成絮。",
+      "visual_cue": "蛋花细如云絮，层层悬浮在汤中"
+    },
+    {
+      "n": 5,
+      "text": "关火后撒葱花，静置一分钟让香气散开，再盛入预热过的汤碗。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "碗先用热水烫过，蛋花汤上桌时温度才够。",
+      "visual_cue": "汤面飘着翠绿葱花与金黄蛋絮"
+    }
+  ],
+  "tips": [
+    "蛋液过筛一次能滤掉系带，蛋花口感更细腻顺滑。",
+    "勾芡要关小火再淋，滚沸时下淀粉容易结团。",
+    "汤底用昆布加木鱼花的组合最省事，鲜味层次比鸡精干净。"
+  ],
+  "common_mistakes": [
+    "昆布和冷水一起煮到沸腾，汤会发黏并带出腥涩味。",
+    "蛋液一次倒入锅中又不搅动，凝成一整块蛋饼而非蛋花。",
+    "芡勾得过厚，蛋液下锅被裹住沉底，汤分层。"
+  ],
+  "substitutions": [
+    {
+      "original": "木鱼花",
+      "substitute": "干贝素",
+      "ratio": "8 克:2 克",
+      "note": "素食版可用干香菇与海带提鲜代替。"
+    },
+    {
+      "original": "味醂",
+      "substitute": "米酒",
+      "ratio": "1:1",
+      "note": "另加两克白糖补足甜味。"
+    }
+  ],
+  "variations": [
+    "在汤里加几片嫩豆腐或蟹味菇，可做成料更足的版本。"
+  ],
+  "serving_suggestion": "趁热配白饭与渍物，作为日式定食的清汤。",
+  "storage": "现做现喝，冷藏不超过一天，复热时不要滚沸以免蛋花散碎。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 毫升",
+    "calories_kcal": 80,
+    "protein_g": 7,
+    "fat_g": 5,
+    "carbs_g": 3,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须彻底加热至中心温度七十度以上、蛋花完全凝固，不要生食或食用半熟蛋花汤。",
+    "汤品含蛋，常温放置不要超过两小时，隔夜需冷藏并彻底复热。"
+  ],
+  "origin_note": "蛋花汤是日本家庭料理中的基础汤品，以昆布与木鱼花熬出的高汤为底，勾薄芡后淋入蛋液。名字取自鸡蛋在汤中散开如碎玉的样子，常作为定食里的清口配角。",
+  "tags": [
+    "日式",
+    "汤品",
+    "快手",
+    "清淡"
+  ],
+  "related_ids": [
+    "miso-soup",
+    "tonjiru"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

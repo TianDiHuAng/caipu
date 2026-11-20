@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-cornbread",
+  "name": {
+    "zh": "美式玉米面包",
+    "en": "Cornbread",
+    "original": "Cornbread"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米面",
+          "name_en": "cornmeal",
+          "amount": 200,
+          "unit": "g",
+          "note": "细磨黄玉米面",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 120,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 240,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "室温打散",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 80,
+          "unit": "g",
+          "note": "融化后使用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "南部做法可减半",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "帮助膨发",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "平衡甜味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "打蛋器",
+    "碗",
+    "刮刀",
+    "牙签"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "烤箱预热到二百一十度，把黄油放进烤盘送入烤箱融化，取出后晃动铺满盘底。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "烤盘先烤热再倒面糊，边缘能烤出焦脆的酥壳。",
+      "visual_cue": "黄油完全化开，盘底反光并冒细泡"
+    },
+    {
+      "n": 2,
+      "text": "玉米面、面粉、白糖、泡打粉和盐放进大碗，用打蛋器拌匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "粉类先混匀再进液体，泡打粉分布不均会膨发不齐。",
+      "visual_cue": "粉料颜色一致，看不到结块"
+    },
+    {
+      "n": 3,
+      "text": "牛奶、鸡蛋和剩下的融化黄油搅匀，倒进粉料里翻拌到刚好看不见干粉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "拌到无干粉就停，过度搅拌会让组织紧实发硬。",
+      "visual_cue": "面糊粗糙但无干粉颗粒，能缓慢流动"
+    },
+    {
+      "n": 4,
+      "text": "面糊倒进热烤盘抹平，送入烤箱烤约二十到二十五分钟至表面金黄。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "盘底有黄油会让边缘滋滋作响，这是正常现象。",
+      "visual_cue": "表面呈金褐色，中心轻按回弹"
+    },
+    {
+      "n": 5,
+      "text": "取出用牙签插入中心，拔出无湿面糊即可，放凉十分钟再切块。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "热切容易散碎，晾到温热再切块边缘完整。",
+      "visual_cue": "切面呈细密蜂窝，黄白相间"
+    }
+  ],
+  "tips": [
+    "玉米面与面粉比例约为二比一，质地介于蛋糕与馒头之间。",
+    "烤盘预热是形成酥脆边缘的关键，冷盘烤出的面包边缘发软。",
+    "南方传统做法几乎不放糖，按口味可把白糖减到二十克。"
+  ],
+  "common_mistakes": [
+    "面糊搅拌过度起筋，成品口感紧实像发糕。",
+    "玉米面粗糙未过筛，烤好后有明显硬粒硌牙。",
+    "烤盘没预热就倒面糊，边缘不酥且脱模易粘。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "酸奶",
+      "ratio": "1:1",
+      "note": "酸味与泡打粉反应更好，组织更松软。"
+    },
+    {
+      "original": "玉米面",
+      "substitute": "细玉米糁",
+      "ratio": "1:1",
+      "note": "需提前泡十分钟再拌，口感更粗。"
+    }
+  ],
+  "variations": [
+    "面糊里加入切碎的培根与切达奶酪，可做咸味版本配汤吃。"
+  ],
+  "serving_suggestion": "切块趁热抹黄油，或蘸辣豆子炖菜一起吃。",
+  "storage": "密封常温一天，冷冻两周；复热用一百六十度烤八分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 170 克",
+    "calories_kcal": 480,
+    "protein_g": 12,
+    "fat_g": 21,
+    "carbs_g": 60,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋与牛奶的面糊须彻底加热至中心温度八十度以上、完全凝固，牙签拔出无湿面糊方可食用。",
+    "玉米面包冷藏保存不超过三天，复热需彻底加热后再食用。"
+  ],
+  "origin_note": "美式玉米面包源自北美洲原住民的玉米粉烘烤做法，后被南方移民吸收并加入面粉、鸡蛋与牛奶。它在南部餐桌上常与炖豆、烤肋排同食，糖的多少至今仍因地区而异。",
+  "tags": [
+    "美式",
+    "烘焙",
+    "玉米面",
+    "佐餐"
+  ],
+  "related_ids": [
+    "american-buttermilk-biscuits",
+    "meatloaf"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
