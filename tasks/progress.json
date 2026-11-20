@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:17:23.756Z",
+  "generatedAt": "2026-11-20T09:25:42.524Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 503,
+    "cells": 505,
     "target": 3274,
-    "actual": 576,
-    "coverage": 0.17593158216249236
+    "actual": 582,
+    "coverage": 0.1777642028100183
   },
   "regions": {
     "cn": [
@@ -210,7 +210,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 40,
+        "actual": 42,
         "cells": [
           {
             "category": "main-seafood",
@@ -232,12 +232,14 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 8,
             "ids": [
               "baochao-yaohua",
               "bazi-rou",
               "congbao-yangrou",
               "jiuzhuan-dachang",
+              "shandong-bingtang-zhouzi",
+              "shandong-boshan-zharou",
               "shandong-surou",
               "tangcu-liji"
             ]
@@ -363,17 +365,18 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 58,
+        "actual": 59,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 15,
+            "actual": 16,
             "ids": [
               "baizhuo-xia",
               "cantonese-chijiao-chao-chengzi",
               "cantonese-ganjian-damingxia",
+              "cantonese-huadiao-zheng-huaxie",
               "cantonese-jiaoyan-longliyu",
               "cantonese-qingzheng-shibanyu",
               "cantonese-suanrong-fensi-zheng-shanbei",
@@ -2219,7 +2222,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 21,
+        "actual": 22,
         "cells": [
           {
             "category": "main-seafood",
@@ -2306,6 +2309,16 @@
             "ids": []
           },
           {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "japanese-shogayaki",
+              "japanese-zhaoshao-jitui"
+            ]
+          },
+          {
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
@@ -2313,15 +2326,6 @@
             "ids": [
               "karaage",
               "teriyaki-chicken"
-            ]
-          },
-          {
-            "category": "main-meat",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "japanese-zhaoshao-jitui"
             ]
           },
           {
@@ -2494,7 +2498,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 19,
+        "actual": 21,
         "cells": [
           {
             "category": "main-poultry",
@@ -2590,6 +2594,24 @@
             "actual": 1,
             "ids": [
               "thai-coconut-sticky-rice"
+            ]
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "thai-kor-moo-yang"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "thai-tod-mun-pla"
             ]
           }
         ]
