@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-rasam",
+  "name": {
+    "zh": "印度酸辣胡椒汤",
+    "en": "Rasam"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 30,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扁豆",
+          "name_en": "lentil",
+          "amount": 120,
+          "unit": "g",
+          "note": "黄扁豆，提前洗净",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "熟透，切小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 30,
+          "unit": "g",
+          "note": "取果肉泡水取汁",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "干锅焙香后磨粉",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 5,
+          "unit": "g",
+          "note": "现磨粗粒",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "姜黄粉",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "按辣度增减",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎，最后撒",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒香料用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "分两次使用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "最后调",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "小炒锅",
+    "细筛",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小扁豆用清水反复淘洗到水变清，沥干备用；罗望子果肉用一百毫升温水泡软后捏出汁水过滤。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "扁豆不洗净会带土腥，罗望子汁要滤掉纤维与核。",
+      "visual_cue": "淘洗水变清、罗望子汁呈琥珀色"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加水放小扁豆煮开，撇去浮沫后转小火煮到豆子完全开花软烂，用勺底压成泥。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "扁豆要煮到一压即散，汤体才有自然的稠感。",
+      "visual_cue": "豆粒开花碎散、汤色转浓"
+    },
+    {
+      "n": 3,
+      "text": "小炒锅烧热植物油，下孜然、黑胡椒、姜黄与辣椒粉小火焙出香气，再放蒜末炒香。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "香料粉极易焦，油温不要高，闻香立刻下番茄。",
+      "visual_cue": "香料起泡冒香、蒜末浅金不焦"
+    },
+    {
+      "n": 4,
+      "text": "倒入番茄块炒到软烂出汁，加入罗望子汁与剩余清水，煮开后转小火熬五分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄炒到出沙再加水，酸味才圆润不发涩。",
+      "visual_cue": "番茄化开、汤色橙红透亮"
+    },
+    {
+      "n": 5,
+      "text": "把香料番茄汤倒入扁豆锅搅匀，加盐调味，小火煮到表面浮起细沫，撒香菜离火。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "最后一次加热只到微沸，久煮会让酸香挥发。",
+      "visual_cue": "汤面细沫聚集、香气酸辣扑鼻"
+    }
+  ],
+  "tips": [
+    "罗望子与番茄双重提酸，酸度比单纯用柠檬更立体。",
+    "黑胡椒现磨才够冲，粉状久放的胡椒几乎没有辛香。",
+    "传统吃法配白米饭或直接当汤饮，餐前暖胃。"
+  ],
+  "common_mistakes": [
+    "香料粉大火干炒，几秒就焦黑，整锅汤带明显苦味。",
+    "扁豆煮不透就打泥，汤里留下硬粒，口感粗糙。",
+    "罗望子放太多且未调盐，酸得刺喉，只能靠加糖补救。"
+  ],
+  "substitutions": [
+    {
+      "original": "罗望子",
+      "substitute": "青柠汁",
+      "ratio": "30g 对 40ml",
+      "note": "青柠汁最后加，加热过久会发苦。"
+    },
+    {
+      "original": "小扁豆",
+      "substitute": "鹰嘴豆",
+      "ratio": "120g 对 120g",
+      "note": "鹰嘴豆需提前泡八小时并延长煮制时间。"
+    }
+  ],
+  "variations": [
+    "加一勺酥油与咖喱叶爆香，做成南印度风味的浓香版本。",
+    "换成鸡肉清汤打底并加姜末，做成印度南部的胡椒鸡汤。"
+  ],
+  "serving_suggestion": "趁热盛入小碗，撒香菜碎，配白米饭或单独作为开胃汤饮用。",
+  "storage": "冷藏三天，冷冻一个月；复热时加少量清水，酸度会随存放略增。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 160,
+    "protein_g": 8,
+    "fat_g": 6,
+    "carbs_g": 20,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "汤品含豆类，需彻底煮透至豆粒软烂，半生豆类易引起腹胀不适。",
+    "香料汤冷却后需尽快冷藏，室温放置超过两小时不建议再食用。"
+  ],
+  "origin_note": "Rasam 是南印度每餐必备的酸辣清汤，用罗望子取酸、黑胡椒与孜然取辛、番茄与扁豆增厚，喝起来清冽却有力。当地人相信它能开胃助消化，感冒时也会喝一碗热汤发汗。",
+  "tags": [
+    "印度",
+    "汤品"
+  ],
+  "related_ids": [
+    "dal-tomato-soup",
+    "chana-masala",
+    "indian-chicken-shorba"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

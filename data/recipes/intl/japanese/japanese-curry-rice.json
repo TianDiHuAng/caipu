@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-curry-rice",
+  "name": {
+    "zh": "日式咖喱饭",
+    "en": "Japanese Curry Rice"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "新煮或隔夜饭均可",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 250,
+          "unit": "g",
+          "note": "去骨切三厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块，泡水去淀粉",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "日式或印度咖喱粉均可",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 15,
+          "unit": "g",
+          "note": "炒面糊用",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "分两次使用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "热水更易乳化",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒料用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木铲",
+    "平底锅",
+    "米饭碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成三厘米见方的块，洋葱切粗丝，胡萝卜与土豆切成大小相近的滚刀块，切好后浸入清水备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "土豆浸水能洗掉表面淀粉，煮出的咖喱酱不会发黏发糊。",
+      "visual_cue": "土豆块表面白浆洗去、水变清"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅烧热植物油，鸡腿肉皮朝下铺开，煎到边缘金黄且不再渗血水后盛出备用。",
+      "time_min": 5,
+      "heat": "中大火",
+      "tip": "鸡肉先煎出油脂再炖，汤头更香且不易起腥。",
+      "visual_cue": "鸡皮卷起泛金、锅底留浅褐痕迹"
+    },
+    {
+      "n": 3,
+      "text": "原锅下洋葱丝用中小火翻炒到变软微黄，再放胡萝卜与土豆块翻炒均匀，让蔬菜表面都沾上油脂。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "洋葱炒到出甜味是咖喱厚味的关键，别急着加水。",
+      "visual_cue": "洋葱塌软透明、边缘带焦糖色"
+    },
+    {
+      "n": 4,
+      "text": "转小火放入黄油融化，撒入面粉不断翻炒成浅褐色油糊，再加咖喱粉炒出香气。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "面粉与黄油要炒到没有生粉味，否则咖喱会有浆糊气。",
+      "visual_cue": "油糊顺滑呈花生酱色、香气上扬"
+    },
+    {
+      "n": 5,
+      "text": "分三次冲入热水并搅匀，倒回鸡肉，小火加盖炖到胡萝卜与土豆能用筷子轻松穿透。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "水要分次加，一次冲完容易结块，酱汁也不易顺滑。",
+      "visual_cue": "酱汁挂勺、土豆边缘微微化开"
+    },
+    {
+      "n": 6,
+      "text": "开盖略收汁，尝味补少量盐，盛在热米饭旁边，让酱汁自然覆盖半边饭。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "收汁到能缓缓流动即可，过稠放凉后会更干硬。",
+      "visual_cue": "酱汁缓慢流下、米饭粒粒分明"
+    }
+  ],
+  "tips": [
+    "日式咖喱偏甜偏稠，白糖与面粉的用量决定挂勺程度。",
+    "鸡肉先煎后炖，油脂香气能撑起整锅咖喱。",
+    "隔夜咖喱更入味，复热时加少量清水调开。"
+  ],
+  "common_mistakes": [
+    "面粉直接撒进汤里，咖喱结成一团团硬疙瘩，口感全毁。",
+    "土豆煮到散成粉糊才关火，酱汁浑浊黏嘴没有层次。",
+    "咖喱粉下锅后大火久炒，香料焦糊带明显苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "猪梅花肉",
+      "ratio": "250g 对 250g",
+      "note": "猪肉需多炖五分钟至熟透。"
+    },
+    {
+      "original": "咖喱粉",
+      "substitute": "黄咖喱酱",
+      "ratio": "15g 对 40g",
+      "note": "咖喱酱含盐，需减少配方用盐。"
+    }
+  ],
+  "variations": [
+    "加一块黑巧克力同炖，咖喱更圆润厚重，接近日式老铺风味。",
+    "换成海鲜与南瓜，做成清爽的北海道风咖喱饭。"
+  ],
+  "serving_suggestion": "酱汁浇在热米饭半边，配一片腌萝卜或福神渍解腻。",
+  "storage": "咖喱酱冷藏可放三天，冷冻两周；米饭现做现吃，复热需蒸透。",
+  "nutrition_estimate": {
+    "basis": "每份（约 550g）",
+    "calories_kcal": 720,
+    "protein_g": 32,
+    "fat_g": 22,
+    "carbs_g": 96,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡腿肉必须彻底加热至中心温度七十五度以上，切面无粉红血水才可食用。",
+    "咖喱酱冷却时表面易结膜，复热需搅匀并煮到滚开。"
+  ],
+  "origin_note": "日式咖喱饭是明治时期由英国海军咖喱传入日本后本土化的产物，用黄油面粉炒出油糊，把香料做成温和浓稠的酱汁，浇在白米饭上。它甜中带辛、几乎不辣，成了学校与家庭的国民午餐。",
+  "tags": [
+    "日本",
+    "米饭"
+  ],
+  "related_ids": [
+    "japanese-tonkatsu",
+    "japanese-udon",
+    "japanese-tamagoyaki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
