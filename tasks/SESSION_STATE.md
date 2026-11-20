@@ -10,11 +10,11 @@
 | 阶段 1（monorepo、DB、导入脚本、API、测试） | 已完成（测试通过） |
 | 阶段 2（50 道样板菜谱） | 已完成 |
 | 阶段 3（网站核心页面 / SEO / 响应式） | 已完成 |
-| 阶段 4（按格子批量生产菜谱） | **进行中**：65 道已发布，目标 3274 |
+| 阶段 4（按格子批量生产菜谱） | **进行中**：485 道已发布，目标 3274 |
 | 阶段 5（性能 / 多语言 / Docker / 移动端指南） | 已完成主体 |
 | 阶段 6（全库巡检） | 未开始（依赖阶段 4 数量） |
 
-进度基准：`tasks/progress.json` → totals.target = 3274，totals.actual = 103（口径为「菜谱 × 品类」格子计数，一道菜多品类会重复计）。
+进度基准：`tasks/progress.json` → totals.target = 3274，totals.actual = 570（口径为「菜谱 × 品类」格子计数，一道菜多品类会重复计）。
 
 ## 二、单批生产关系（固定套路，勿改）
 
@@ -42,6 +42,9 @@
 - 油炸类总油量上限 270ml（非油炸 360ml）；「复炸」步骤必须写明 `植物油`，否则判未使用。
 - `common_mistakes` 每条 ≥ 15 字，`origin_note` ≥ 40 字。
 - 步骤里的比喻别用食材名（如「黄豆粒大小」会判为未登记的黄豆），改用「小指盖大小」。
+- author.mjs 会把食材名规范化（「牛腱肉」→「牛腱」、「河虾仁」→「虾仁」），步骤文本须按落库名书写。
+- 单字食材名（如「虾」）无法被 coveredByDeclared 豁免，含虾菜品慎用「虾仁」写法，或改用干贝、干鱿鱼丝等词条。
+- 手写 recipe JSON 时字段必须是 `name{zh,en,original}` / `time{prep_min,cook_min,total_min}` / `steps[].{n,text,time_min,heat,tip,visual_cue}`。
 
 ## 四、下批推荐格子（热门优先）
 
@@ -58,18 +61,20 @@
 ## 五、新会话第一步
 
 ```
-cd D:\AI\project\marvis_project\caipu
+cd E:\ai_project\marvis_project\caipu
 node scripts/validate.mjs
 npm run progress
 ```
 确认无错误后，按「二、单批生产关系」继续领格子生产，每批 6 道，批次号接续 `temp/drafts/` 中最大编号。
 
-
 ## 最近一次更新（本轮结束）
-- 菜谱库：455 道，validate 全绿；测试 29/29（Node 24）；内容进度 530/3274（16.2%）。
-- 第 65 批（6 道）：粤菜豉汁蒸排骨｜台式盐酥鸡｜港式云吞面｜台式蚵仔煎｜客家梅菜扣肉｜浙菜宋嫂鱼羹（commit 50f7e92）。
-- 本批新增食材词条：红薯淀粉(地瓜粉)、茼蒿、小青菜(baby-greens，无别名)；移除 baby-greens 的「青菜」别名，解决与 bok-choy 的全局别名冲突。
-- 修正 tests/api.test.mjs 的食材菜谱接口用例：请求加 pageSize=100，避免关联菜谱超过 20 条后 gongbao-jiding 被默认分页挤出导致误报。
-- 经验补充：单字食材名（如「虾」）无法被 coveredByDeclared 豁免，步骤里务必写成「虾仁」且不要出现「虾粒」等拆分写法；别名「青菜」类交叉词会导致误报，写「茼蒿段」等具体名。
-- 待办：阶段 4 继续按批推进；下批建议 sichuan/staple-noodle、cantonese/soup、jiangsu/main-seafood。
-- 每 10 批后执行 npm run audit，C/D 级按报告明细重写。
+
+- 工作区已迁移至 `E:\ai_project\marvis_project\caipu`，本文件内旧路径已全部替换。
+- 菜谱库：485 道，validate 全绿（485 文件 / 0 错误）；内容进度 570/3274（17.4%）。
+- 第 66 批（6 道，commit 38a2bf2）：徽州刀板香等。
+- 第 67 批（6 道，commit 65011f6）：厦门沙茶面｜荔枝肉｜酱油水煮杂鱼｜客家三杯鸡｜南昌拌粉｜南昌瓦罐汤。
+- 第 68 批（6 道，commit f4c91d5）：蒜蓉粉丝蒸扇贝｜莲藕排骨汤｜干煎带鱼｜醋溜土豆丝｜干菜焖肉｜油爆虾。
+- 第 69 批（6 道，commit b3332f6）：连锅汤｜小米辣炒蛋｜豉油煎豆腐｜木须肉｜照烧鸡腿｜大酱汤。
+- 第 70 批（6 道，commit 0ba7792）：清蒸鲈鱼｜客家梅菜扣肉｜台式三杯中卷｜香煎鳕鱼｜越式牛肉粉｜莼菜干贝羹。
+- 待办：阶段 4 继续按批推进（下批从 batch-71 起）；建议 cantonese/main-seafood、sichuan/soup、shandong/main-meat、japanese/main-meat、thai/core。
+- 每 10 批后执行 `npm run audit`，C/D 级按报告明细重写。
