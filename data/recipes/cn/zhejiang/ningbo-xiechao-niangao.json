@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "ningbo-xiechao-niangao",
+  "name": {
+    "zh": "宁波蟹炒年糕",
+    "en": "Ningbo Crab with Rice Cakes"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-rice",
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蟹",
+          "name_en": "crab",
+          "amount": 400,
+          "unit": "g",
+          "note": "两只，鲜活为佳",
+          "optional": false
+        },
+        {
+          "name": "年糕",
+          "name_en": "rice cake",
+          "amount": 250,
+          "unit": "g",
+          "note": "水磨年糕切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "葱白葱绿分开",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "沾蟹块刀口",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "酌量",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "出锅撒",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎蟹用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "菜刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "梭子蟹刷洗干净，掀开蟹壳去掉蟹鳃与胃囊，斩成四块。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "鳃和胃囊最腥，务必去净。",
+      "visual_cue": "蟹块干净、断面色白"
+    },
+    {
+      "n": 2,
+      "text": "年糕片放入温水中浸泡五分钟，捞出沥干防粘。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡软的年糕炒时不易断裂。",
+      "visual_cue": "年糕片柔软、手指能按出浅窝"
+    },
+    {
+      "n": 3,
+      "text": "蟹块刀口处拍上一层玉米淀粉，静置两分钟让粉回潮。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "封住刀口，蟹黄才不会流散。",
+      "visual_cue": "断面裹上薄粉、不见湿浆"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热倒植物油，蟹块断面朝下入锅，中火煎至金黄定型。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "先煎断面锁住蟹汁，再翻动。",
+      "visual_cue": "断面金黄结壳、蟹壳转红"
+    },
+    {
+      "n": 5,
+      "text": "下姜丝、蒜末与葱白煸香，沿锅边淋入料酒去腥。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "料酒沿锅边淋，香气挥发更足。",
+      "visual_cue": "锅中腾起酒香白汽"
+    },
+    {
+      "n": 6,
+      "text": "放入年糕片，加生抽、白糖、盐与清水，盖盖中小火焖五分钟。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "年糕吸汁很快，水别放太多。",
+      "visual_cue": "汤汁收至半干、年糕变软"
+    },
+    {
+      "n": 7,
+      "text": "开盖转大火翻炒收汁，撒白胡椒与葱绿段出锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "收汁要快，年糕久炒会糊底。",
+      "visual_cue": "汤汁裹匀年糕、锅底见油不见水"
+    }
+  ],
+  "tips": [
+    "梭子蟹选壳硬、掂着压手的，肉才饱满。",
+    "年糕用宁波水磨年糕，久煮不烂有嚼劲。",
+    "喜欢汤汁多一点，清水可加到二百五十毫升。"
+  ],
+  "common_mistakes": [
+    "蟹块不拍粉直接下锅，蟹黄全流进油里。",
+    "年糕泡太久变软烂，一炒就断成碎块。",
+    "全程小火慢炒，年糕吸油发腻不挂汁。"
+  ],
+  "substitutions": [
+    {
+      "original": "梭子蟹",
+      "substitute": "青蟹",
+      "ratio": "400g 对 450g",
+      "note": "青蟹肉更厚，焖煮时间加两分钟。"
+    },
+    {
+      "original": "年糕",
+      "substitute": "宁波年糕条",
+      "ratio": "250g 对 250g",
+      "note": "条状更耐炒，需先煮三分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺豆瓣酱同炒，咸鲜里多一层辣香。",
+    "换成毛蟹两只，膏黄更足，风味更浓。"
+  ],
+  "serving_suggestion": "连锅端上桌，年糕吸饱蟹汁，比蟹肉还抢手。",
+  "storage": "冷藏一天内吃完，复热加一勺水回锅翻炒。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 390,
+    "protein_g": 20,
+    "fat_g": 12,
+    "carbs_g": 50,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "梭子蟹务必彻底加热至蟹壳通红、蟹肉完全凝固。",
+    "死蟹不要食用，蟹鳃与胃囊清理干净再下锅。",
+    "蟹属高致敏食材，过敏体质者谨慎尝试。"
+  ],
+  "origin_note": "宁波靠海吃海，梭子蟹与年糕同炒是渔家的家常搭配。蟹块断面拍粉煎香，蟹汁被年糕片一点点吸进去，年糕软糯带韧，蟹肉鲜甜带汁，一盘端上桌，饭都可以省了。这也是浙东人家待客最实在的一道主食菜。",
+  "tags": [
+    "浙菜",
+    "海鲜",
+    "主食",
+    "宁波"
+  ],
+  "related_ids": [
+    "xuecai-datang-huangyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

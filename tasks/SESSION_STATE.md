@@ -66,10 +66,10 @@ npm run progress
 
 
 ## 最近一次更新（本轮结束）
-
-- 菜谱库：449 道，validate 全绿；测试 29/29（Node 24）；内容进度 521/3274（15.9%）。
-- 第 62 批：溜肉段、麻辣香锅、西湖牛肉羹等 6 道（commit 1736029）。
-- 第 63 批：地三鲜、椒盐虾、蒜香排骨、韭黄炒蛋、白灼菜心、香菇滑鸡（commit e7ad32f）。
-- 第 64 批（6 道）：鲁菜糖醋鲤鱼｜湘菜农家小炒肉｜川菜水煮肉片｜粤菜姜葱炒蟹｜京菜京酱肉丝｜川菜干煸四季豆（commit befb52f）。
-- 待办：阶段 4 继续按批推进；下批建议 jiangsu/main-seafood、zhejiang/main-meat、taiwan/core、hongkong/core。
-- 每 10 批后执行 `npm run audit`，C/D 级按报告明细重写。
+- 菜谱库：455 道，validate 全绿；测试 29/29（Node 24）；内容进度 530/3274（16.2%）。
+- 第 65 批（6 道）：粤菜豉汁蒸排骨｜台式盐酥鸡｜港式云吞面｜台式蚵仔煎｜客家梅菜扣肉｜浙菜宋嫂鱼羹（commit 50f7e92）。
+- 本批新增食材词条：红薯淀粉(地瓜粉)、茼蒿、小青菜(baby-greens，无别名)；移除 baby-greens 的「青菜」别名，解决与 bok-choy 的全局别名冲突。
+- 修正 tests/api.test.mjs 的食材菜谱接口用例：请求加 pageSize=100，避免关联菜谱超过 20 条后 gongbao-jiding 被默认分页挤出导致误报。
+- 经验补充：单字食材名（如「虾」）无法被 coveredByDeclared 豁免，步骤里务必写成「虾仁」且不要出现「虾粒」等拆分写法；别名「青菜」类交叉词会导致误报，写「茼蒿段」等具体名。
+- 待办：阶段 4 继续按批推进；下批建议 sichuan/staple-noodle、cantonese/soup、jiangsu/main-seafood。
+- 每 10 批后执行 npm run audit，C/D 级按报告明细重写。

@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xuecai-datang-huangyu",
+  "name": {
+    "zh": "雪菜大汤黄鱼",
+    "en": "Yellow Croaker Soup with Pickled Mustard Greens"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-seafood",
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄鱼",
+          "name_en": "yellow croaker",
+          "amount": 600,
+          "unit": "g",
+          "note": "一条，去鳞去内脏",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "雪菜",
+          "name_en": "pickled mustard greens",
+          "amount": 80,
+          "unit": "g",
+          "note": "挤干水分切碎",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "雪菜有咸味，酌减",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "出锅撒",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎鱼用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "一定要用开水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄鱼刮去鱼鳞掏净内脏，撕掉腹内黑膜，鱼身两面各划三刀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "黑膜最腥，一定要撕干净。",
+      "visual_cue": "鱼身干净、刀口整齐外翻"
+    },
+    {
+      "n": 2,
+      "text": "鱼身抹上料酒与少许盐，塞入姜片腌十分钟去腥。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌的时间别太久，鱼肉会散。",
+      "visual_cue": "鱼皮微微收紧、表面见酒光"
+    },
+    {
+      "n": 3,
+      "text": "雪菜挤干水分切碎，冬笋切细丝，葱切段备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "雪菜挤得越干，汤越清不浑。",
+      "visual_cue": "雪菜松散成粒、不见水汪"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热倒植物油，鱼身擦干后下锅，中小火煎到两面微黄定型。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "鱼皮擦干再下锅才不破皮。",
+      "visual_cue": "鱼皮金黄完整、锅底不粘"
+    },
+    {
+      "n": 5,
+      "text": "把鱼拨到一边，下姜片、葱段、雪菜与冬笋丝煸出香味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "雪菜先炒过，酸香才出得来。",
+      "visual_cue": "雪菜转深绿、锅中有咸香"
+    },
+    {
+      "n": 6,
+      "text": "冲入开水没过鱼身，大火滚十五分钟，中途不要搅动鱼身。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "必须用开水，汤色才会浓白。",
+      "visual_cue": "汤色转乳白、鱼眼凸出"
+    },
+    {
+      "n": 7,
+      "text": "尝味后补盐，撒上白胡椒与葱段，连汤一起盛出。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "雪菜本身咸，盐要最后尝过再加。",
+      "visual_cue": "汤面浮油清亮、咸鲜扑鼻"
+    }
+  ],
+  "tips": [
+    "黄鱼要选眼睛清亮、鱼鳃鲜红的当日鲜货。",
+    "煎鱼前把锅烧到冒烟再下油，鱼皮不易粘。",
+    "雪菜选带梗的整棵，比切碎的袋装货香得多。"
+  ],
+  "common_mistakes": [
+    "用冷水煮鱼，汤色始终发灰不清。",
+    "煎鱼时不停翻动，鱼身碎成几段。",
+    "雪菜下锅前不挤水，整锅汤又咸又涩。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄鱼",
+      "substitute": "鲈鱼",
+      "ratio": "600g 对 600g",
+      "note": "鲈鱼肉更紧实，煮制时间延长三分钟。"
+    },
+    {
+      "original": "雪菜",
+      "substitute": "酸菜",
+      "ratio": "80g 对 80g",
+      "note": "酸味更重，盐可再减一克。"
+    }
+  ],
+  "variations": [
+    "加一把年糕片同煮，就是宁波人的雪菜黄鱼年糕汤。",
+    "换成小黄鱼五六条同煮，鲜味更集中。"
+  ],
+  "serving_suggestion": "大碗盛汤，鱼肉蘸一点米醋吃更鲜。",
+  "storage": "当天吃完最好，冷藏后再加热汤会略腥。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 320,
+    "protein_g": 34,
+    "fat_g": 17,
+    "carbs_g": 6,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "mustard",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "黄鱼须煮至鱼肉完全变白、能轻松脱骨，避免生食。",
+    "处理活鱼时小心鱼鳍划伤，刀具用后立即清洗。",
+    "贝类与鱼类过敏者慎食，剩汤冷藏不超过一天。"
+  ],
+  "origin_note": "雪菜大汤黄鱼是宁波人待客的体面菜，讲究一锅奶白汤。东海黄鱼煎香后冲入滚水，加本地的腌雪里蕻与冬笋丝同滚，汤色白得像牛奶，鱼肉嫩得用筷子一拨就散，咸鲜里透着一点雪菜的酸，喝一口浑身发暖。",
+  "tags": [
+    "浙菜",
+    "汤菜",
+    "海鲜",
+    "宁波"
+  ],
+  "related_ids": [
+    "ningbo-xiechao-niangao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
