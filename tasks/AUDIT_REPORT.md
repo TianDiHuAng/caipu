@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T05:07:21.761Z
+- 生成时间：2026-11-20T05:39:43.372Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：40 个，抽样 49 道，平均分 96
 - 需重写（C/D）：0 道
@@ -24,7 +24,7 @@
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | bobo-gulaorou | 93 | A | 准确性 18/25 |
-| cantonese | guangshi-hongdou-sha | 93 | A | 准确性 18/25 |
+| cantonese | gulu-rou | 93 | A | 准确性 18/25 |
 | cantonese | guangshi-chunjuan | 93 | A | 准确性 18/25 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-luandun | 93 | A | 准确性 18/25 |
