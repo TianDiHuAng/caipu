@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "min-sun-menrou",
+  "name": {
+    "zh": "闽笋焖肉",
+    "en": "Braised Pork with Bamboo Shoots"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 450,
+          "unit": "g",
+          "note": "切三厘米方块",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 300,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍破",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "一颗",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "焖煮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切方块，冷水下锅加料酒与生姜片汆五分钟，捞出冲净。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "冷水下锅汆，血沫才出得干净。",
+      "visual_cue": "肉块收紧、水面浮起褐色浮沫"
+    },
+    {
+      "n": 2,
+      "text": "竹笋切滚刀块，下沸水焯三分钟，去掉涩味再捞出。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "鲜笋必须焯水，否则发涩发麻。",
+      "visual_cue": "笋块微透、水色泛黄"
+    },
+    {
+      "n": 3,
+      "text": "炒锅不放油，五花肉块下锅中火煸到出油、表面微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "把肥油煸出来，吃着才不腻。",
+      "visual_cue": "肉块边缘金黄、锅底积油"
+    },
+    {
+      "n": 4,
+      "text": "下白糖炒到融化变褐，让肉块均匀裹上糖色。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "糖色变褐就要下肉，再炒会发苦。",
+      "visual_cue": "肉块呈枣红色、油面光亮"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽、料酒、八角、生姜片与大蒜炒匀，倒入清水烧开。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "水一次加足，中途加水肉会柴。",
+      "visual_cue": "汤汁翻滚、香气上浮"
+    },
+    {
+      "n": 6,
+      "text": "转入砂锅放入竹笋块，小火加盖焖四十分钟至肉酥笋香。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "笋后放才不会焖得过烂。",
+      "visual_cue": "肉块颤而不散、笋块深黄"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味，转中火收汁至浓稠，汤汁挂住肉块即可。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "收汁时轻推锅底，糖分易糊。",
+      "visual_cue": "汤汁油亮浓稠、肉块红润"
+    }
+  ],
+  "tips": [
+    "五花肉选三层分明的，焖后不柴不腻。",
+    "笋先焯水去涩，吃起来才清甜不麻。",
+    "焖好后关火焖十分钟再收汁，味道更透。"
+  ],
+  "common_mistakes": [
+    "五花肉没煸油直接焖，成品一层浮油。",
+    "笋与肉一同下锅久焖，笋烂成渣。",
+    "糖色炒过头，整锅肉都带上焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "竹笋",
+      "substitute": "芋头",
+      "ratio": "300g 对 300g",
+      "note": "更绵密，焖制时间减十分钟。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "猪蹄膀",
+      "ratio": "450g 对 500g",
+      "note": "胶质更足，焖制时间加二十分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺豆瓣酱同焖，味道更下饭。",
+    "把竹笋换成笋干，需提前泡发一晚。"
+  ],
+  "serving_suggestion": "配一碗白米饭，浇上一勺汤汁最下饭。",
+  "storage": "冷藏可放三天，复热后味道更融合。",
+  "nutrition_estimate": {
+    "basis": "每份（约 190g）",
+    "calories_kcal": 480,
+    "protein_g": 18,
+    "fat_g": 38,
+    "carbs_g": 12,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉须焖至完全熟透，中心不见血水。",
+    "鲜竹笋含草酸，务必焯水后再烹饪。",
+    "焖煮时砂锅温度高，揭盖时侧身避蒸汽。"
+  ],
+  "origin_note": "闽笋焖肉是闽北山区的家常硬菜，春笋与五花肉同焖，笋吸了肉油变得清甜，肉沾了笋香不显腻，一锅端上桌很下饭。",
+  "tags": [
+    "闽菜",
+    "家常",
+    "焖菜",
+    "下饭"
+  ],
+  "related_ids": [
+    "meigancai-kourou",
+    "dongpo-rou",
+    "sun-shao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T23:41:48.817Z",
+  "generatedAt": "2026-11-20T00:10:13.249Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 496,
+    "cells": 497,
     "target": 3274,
-    "actual": 475,
-    "coverage": 0.14508246792913868
+    "actual": 481,
+    "coverage": 0.14691508857666463
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 46,
+        "actual": 47,
         "cells": [
           {
             "category": "main-meat",
@@ -140,6 +140,18 @@
             ]
           },
           {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 4,
+            "ids": [
+              "kaishui-baicai",
+              "suancai-yu",
+              "suanla-tang",
+              "suanluobo-laoya-tang"
+            ]
+          },
+          {
             "category": "snack",
             "kind": "extra",
             "target": 0,
@@ -159,17 +171,6 @@
               "douban-yu",
               "suancai-yu",
               "xiangla-xie"
-            ]
-          },
-          {
-            "category": "soup",
-            "kind": "extra",
-            "target": 0,
-            "actual": 3,
-            "ids": [
-              "kaishui-baicai",
-              "suancai-yu",
-              "suanluobo-laoya-tang"
             ]
           },
           {
@@ -199,7 +200,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 30,
+        "actual": 31,
         "cells": [
           {
             "category": "main-seafood",
@@ -219,12 +220,13 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "baochao-yaohua",
               "bazi-rou",
               "congbao-yangrou",
-              "jiuzhuan-dachang"
+              "jiuzhuan-dachang",
+              "shandong-surou"
             ]
           },
           {
@@ -339,7 +341,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 35,
+        "actual": 36,
         "cells": [
           {
             "category": "main-seafood",
@@ -359,10 +361,11 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "chijiao-niurou",
               "chizhi-paigu",
+              "gulu-rou",
               "mizhi-chashao"
             ]
           },
@@ -478,7 +481,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 31,
+        "actual": 32,
         "cells": [
           {
             "category": "main-seafood",
@@ -545,8 +548,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shangtang-wawacai"
+            ]
           },
           {
             "category": "main-tofu",
@@ -622,7 +627,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 25,
         "cells": [
           {
             "category": "main-seafood",
@@ -741,6 +746,15 @@
             ]
           },
           {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "liangban-muer"
+            ]
+          },
+          {
             "category": "banquet",
             "kind": "extra",
             "target": 0,
@@ -757,7 +771,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 23,
+        "actual": 24,
         "cells": [
           {
             "category": "soup",
@@ -787,9 +801,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "lizhi-rou",
+              "min-sun-menrou",
               "minnan-fengrou",
               "wuxiang-paigu",
               "zui-paigu"

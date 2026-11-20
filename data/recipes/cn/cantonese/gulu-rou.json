@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "gulu-rou",
+  "name": {
+    "zh": "咕噜肉",
+    "en": "Sweet and Sour Pork"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "sour",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 500,
+          "unit": "g",
+          "note": "切两厘米见方",
+          "optional": false
+        },
+        {
+          "name": "荸荠",
+          "name_en": "water chestnut",
+          "amount": 100,
+          "unit": "g",
+          "note": "去皮切厚片",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 60,
+          "unit": "g",
+          "note": "切菱形块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "一个，取蛋液挂糊",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "酸甜主味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "调甜",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "腌肉与调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 80,
+          "unit": "g",
+          "note": "挂糊与勾芡",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "混入淀粉增脆",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 270,
+          "unit": "ml",
+          "note": "炸肉用油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "调糖醋汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "深碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊切成两厘米见方的块，加盐与生抽抓匀腌十五分钟。",
+      "time_min": 16,
+      "heat": "无火",
+      "tip": "肉块大小一致，炸出来才同步成熟。",
+      "visual_cue": "肉块方整、表面微微发黏"
+    },
+    {
+      "n": 2,
+      "text": "玉米淀粉与面粉混合，加鸡蛋液和少量清水调成能流动的稠糊。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "糊要稠一些，才挂得住肉块。",
+      "visual_cue": "糊提起呈缓慢下流的长条"
+    },
+    {
+      "n": 3,
+      "text": "肉块倒入糊中裹匀，静置五分钟让糊吃进肉里。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置一会儿，炸时糊不易脱。",
+      "visual_cue": "每块肉都裹上厚糊、不见裸肉"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧到六成热，肉块分散下锅炸四分钟捞出。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉块不要一次下太多，油温会掉。",
+      "visual_cue": "外壳浅黄、肉块浮起"
+    },
+    {
+      "n": 5,
+      "text": "植物油升温到八成热，肉块与荸荠下锅复炸一分钟捞出沥油。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "复炸让外壳酥脆，凉了也不回软。",
+      "visual_cue": "外壳深金、敲击有脆声"
+    },
+    {
+      "n": 6,
+      "text": "锅内留底油炒香大蒜末，下番茄酱、白糖、香醋与清水熬到起泡。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "糖醋汁熬到起大泡才够浓。",
+      "visual_cue": "汁色红亮、泡密而大"
+    },
+    {
+      "n": 7,
+      "text": "下青椒块与炸好的肉块、荸荠，大火快速翻匀裹上糖醋汁出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "翻匀立刻出锅，久炒外壳就软了。",
+      "visual_cue": "汁水裹满肉块、青椒翠绿"
+    }
+  ],
+  "tips": [
+    "用猪里脊肉更嫩，喜欢肥香可换梅花肉。",
+    "荸荠最后下锅，能保住清脆的口感。",
+    "糖醋汁先调好备用，下锅时动作才从容。"
+  ],
+  "common_mistakes": [
+    "肉块裹糊后立刻下锅，糊浆脱落只剩光肉。",
+    "油温过低就下肉，外壳吸满油发腻。",
+    "糖醋汁在锅里久煮，甜酸味变寡淡还发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "五花肉",
+      "ratio": "500g 对 450g",
+      "note": "更香但油腻，需多沥油。"
+    },
+    {
+      "original": "荸荠",
+      "substitute": "菠萝",
+      "ratio": "100g 对 150g",
+      "note": "果香更浓，酸甜味更清爽。"
+    }
+  ],
+  "variations": [
+    "把青椒换成彩椒与洋葱，颜色更热闹。",
+    "糖醋汁里加一勺话梅汁，酸味更有层次。"
+  ],
+  "serving_suggestion": "现炸现淋汁，趁热上桌外壳最脆。",
+  "storage": "冷藏可放一天，复热需用烤箱而非微波。",
+  "nutrition_estimate": {
+    "basis": "每份（约 190g）",
+    "calories_kcal": 480,
+    "protein_g": 24,
+    "fat_g": 26,
+    "carbs_g": 36,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "炸肉油温高，肉块下锅前抖掉多余糊浆防溅油。",
+    "猪肉须炸至中心完全变白，不带血水。",
+    "含鸡蛋与面粉，蛋类或麸质过敏者慎食；鸡蛋须彻底加热至完全凝固熟透。"
+  ],
+  "origin_note": "咕噜肉是广东茶楼的老牌菜，肉块炸得酥脆再裹上酸甜汁，据说因酸甜味让人咕噜吞口水而得名，配白饭最合适。",
+  "tags": [
+    "粤菜",
+    "酸甜",
+    "家常",
+    "宴客"
+  ],
+  "related_ids": [
+    "suanla-tang",
+    "shandong-surou",
+    "wuxiang-paigu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

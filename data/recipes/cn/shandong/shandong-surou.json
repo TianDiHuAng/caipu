@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-surou",
+  "name": {
+    "zh": "山东酥肉",
+    "en": "Shandong Crispy Fried Pork"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 500,
+          "unit": "g",
+          "note": "切长条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两个，调糊",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "调糊",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 60,
+          "unit": "g",
+          "note": "增脆",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌肉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌肉与调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 270,
+          "unit": "ml",
+          "note": "炸制用油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调糊",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "深碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊切成手指粗的长条，加料酒、生抽、盐、白胡椒与生姜末抓匀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "长条粗细一致，炸制时间才好掌握。",
+      "visual_cue": "肉条顺直、调料裹匀"
+    },
+    {
+      "n": 2,
+      "text": "肉条腌二十分钟，中间翻动一次让味道吃透。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "腌足时间，肉条中心才有味道。",
+      "visual_cue": "肉条表面发亮、不见多余汁水"
+    },
+    {
+      "n": 3,
+      "text": "面粉、玉米淀粉与鸡蛋液加清水调成厚重的糊，搅到无颗粒。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "糊能挂在筷上三秒不落最好。",
+      "visual_cue": "糊体细滑、挑起成线"
+    },
+    {
+      "n": 4,
+      "text": "肉条倒入糊中拌匀，让每一根都裹上一层厚糊。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "糊裹厚些，炸出来才有酥壳。",
+      "visual_cue": "肉条被糊完全包住"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒植物油烧到六成热，肉条逐根下锅炸三分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "一根根下，粘连就成坨了。",
+      "visual_cue": "糊壳浅黄、肉条浮起"
+    },
+    {
+      "n": 6,
+      "text": "捞出后植物油升温到八成热，肉条回锅复炸一分钟。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "复炸一次，外壳才酥得掉渣。",
+      "visual_cue": "外壳金黄、有脆响"
+    },
+    {
+      "n": 7,
+      "text": "沥干油后趁热撒上葱花与少许盐，装盘即可上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热撒盐，咸味才挂得住。",
+      "visual_cue": "外壳油亮、葱花散落均匀"
+    }
+  ],
+  "tips": [
+    "糊里兑玉米淀粉，酥壳更脆更久。",
+    "肉条下锅前把糊抹匀，避免一头厚一头薄。",
+    "喜欢重口味可以另配一碟椒盐蘸着吃。"
+  ],
+  "common_mistakes": [
+    "肉条没腌就下锅，炸出来只有面糊味。",
+    "糊调得太稀，下锅就脱浆变成炸肉片。",
+    "油温不够就下锅，酥肉含油发腻不脆。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡胸肉",
+      "ratio": "500g 对 500g",
+      "note": "更嫩不腻，炸制时间减半分钟。"
+    },
+    {
+      "original": "面粉",
+      "substitute": "红薯淀粉",
+      "ratio": "60g 对 60g",
+      "note": "外壳更酥脆，颜色偏深。"
+    }
+  ],
+  "variations": [
+    "把酥肉放进汤里煮成酥肉汤，是山东冬天的吃法。",
+    "糊里加少许五香粉，香气更像老式炸肉。"
+  ],
+  "serving_suggestion": "刚出锅趁热吃，也可以配椒盐或甜辣酱。",
+  "storage": "冷藏可放两天，复炸两分钟回脆。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 520,
+    "protein_g": 26,
+    "fat_g": 28,
+    "carbs_g": 40,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "肉条须炸至中心熟透，切开不见粉色血水。",
+    "油炸时糊浆带水易爆溅，下锅动作要轻。",
+    "含鸡蛋与面粉，蛋类或麸质过敏者慎食。"
+  ],
+  "origin_note": "山东酥肉是鲁中人家过年必炸的一盆肉，挂厚糊炸到外壳起酥，直接吃干香，下锅煮汤又软糯，一炸两吃最省事。",
+  "tags": [
+    "鲁菜",
+    "炸物",
+    "家常",
+    "下酒"
+  ],
+  "related_ids": [
+    "gulu-rou",
+    "min-sun-menrou",
+    "wuxiang-paigu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

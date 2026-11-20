@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "suanla-tang",
+  "name": {
+    "zh": "酸辣汤",
+    "en": "Hot and Sour Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 250,
+          "unit": "g",
+          "note": "切细条",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两个，打散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "出锅前放",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "辣味来源",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 3,
+          "unit": "ml",
+          "note": "调深汤色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸香菇",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "打蛋器",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "嫩豆腐先片成薄片再切细条，泡在清水里备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切豆腐刀蘸水，切面才光整。",
+      "visual_cue": "豆腐条粗细均匀、不断裂"
+    },
+    {
+      "n": 2,
+      "text": "香菇切细丝，生姜切末，鸡蛋打散成蛋液备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香菇丝与豆腐条同粗细，口感才齐。",
+      "visual_cue": "丝料均匀、蛋液无结块"
+    },
+    {
+      "n": 3,
+      "text": "汤锅下植物油烧热，放生姜末与香菇丝煸炒出香味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇煸过才出鲜味，别直接下汤。",
+      "visual_cue": "香菇变软、锅里有菌香"
+    },
+    {
+      "n": 4,
+      "text": "倒入清水烧开，加生抽、老抽、盐与白糖调味。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "先调味再勾芡，咸淡才均匀。",
+      "visual_cue": "汤面微沸、颜色浅褐"
+    },
+    {
+      "n": 5,
+      "text": "下豆腐条煮两分钟，玉米淀粉调水慢慢淋入勾芡至微稠。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "边淋边搅，芡才不结疙瘩。",
+      "visual_cue": "汤体挂勺、豆腐条完整"
+    },
+    {
+      "n": 6,
+      "text": "转小火，蛋液细线状淋入汤中，静置五秒再轻轻推开成蛋花。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "淋完别急着搅，蛋花才成片。",
+      "visual_cue": "蛋花薄如云絮、汤面浮起"
+    },
+    {
+      "n": 7,
+      "text": "关火后加香醋与白胡椒搅匀，撒葱花盛碗即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "醋一定最后放，煮过就不酸了。",
+      "visual_cue": "酸香扑鼻、汤色清亮微稠"
+    }
+  ],
+  "tips": [
+    "陈醋的酸味比白醋柔和，用香醋效果最佳。",
+    "勾芡后要试一次咸淡，芡会带淡味道。",
+    "白胡椒建议现磨，香气比粉状强得多。"
+  ],
+  "common_mistakes": [
+    "把醋一开始就倒进锅里，煮到最后只剩涩味。",
+    "蛋液大火下锅猛搅，蛋花碎成蛋渣。",
+    "芡汁太厚，凉一会儿就凝成糊块。"
+  ],
+  "substitutions": [
+    {
+      "original": "香菇",
+      "substitute": "木耳",
+      "ratio": "60g 对 60g",
+      "note": "口感更脆，需提前泡发。"
+    },
+    {
+      "original": "嫩豆腐",
+      "substitute": "北豆腐",
+      "ratio": "250g 对 250g",
+      "note": "不易碎，但口感偏硬。"
+    }
+  ],
+  "variations": [
+    "加一点猪肉末先炒散，汤更醇厚。",
+    "喜欢辣可加一勺辣椒油，颜色更红亮。"
+  ],
+  "serving_suggestion": "趁热喝最舒服，配油条或煎饼都很搭。",
+  "storage": "当天喝完最好，隔夜芡汁会返稀变淡。",
+  "nutrition_estimate": {
+    "basis": "每份（约 330g）",
+    "calories_kcal": 150,
+    "protein_g": 10,
+    "fat_g": 8,
+    "carbs_g": 10,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "汤中含鸡蛋，蛋类过敏者不宜食用；蛋花须彻底加热至凝固熟透。",
+    "鸡蛋须在沸汤中彻底凝固成蛋花，不生不溏。",
+    "勾芡汤品温度高且不易散热，饮用时小口防烫。",
+    "香菇须充分加热熟透后再食用，避免肠胃不适。"
+  ],
+  "origin_note": "酸辣汤源自川菜馆的小碗汤，靠香醋与白胡椒撑起酸辣，勾芡后汤汁裹舌，冬天喝一碗从喉咙暖到胃里。",
+  "tags": [
+    "川菜",
+    "汤品",
+    "开胃",
+    "家常"
+  ],
+  "related_ids": [
+    "yuxiang-rousi",
+    "mapo-doufu",
+    "haili-doufu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
