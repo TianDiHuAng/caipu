@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-jingjiang-rousi",
+  "name": {
+    "zh": "京酱肉丝",
+    "en": "Shredded Pork with Sweet Bean Sauce"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 8,
+    "total_min": 33
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 300,
+          "unit": "g",
+          "note": "切五厘米长细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 100,
+          "unit": "g",
+          "note": "取葱白切细丝",
+          "optional": false
+        },
+        {
+          "name": "豆腐皮",
+          "name_en": "tofu skin",
+          "amount": 100,
+          "unit": "g",
+          "note": "切方块",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清上浆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "甜面酱",
+          "name_en": "sweet bean sauce",
+          "amount": 40,
+          "unit": "g",
+          "note": "主味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "上浆",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "调和酱咸",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "滑炒用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊顺着纹理切薄片再切成五厘米长的细丝，粗细尽量一致。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉丝顺纹切不易断，炒时保持条条分明。",
+      "visual_cue": "肉丝粗细均匀、长条完整"
+    },
+    {
+      "n": 2,
+      "text": "肉丝加蛋清、料酒、淀粉抓匀上浆，静置十五分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "上浆后冷藏十分钟，滑炒时更嫩更滑。",
+      "visual_cue": "肉丝表面挂薄浆、不黏手"
+    },
+    {
+      "n": 3,
+      "text": "葱白切成长细丝，泡在清水里两分钟捞出，摆盘时更挺拔。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "泡水的葱丝去掉辛辣，摆盘也更好看。",
+      "visual_cue": "葱丝挺立、色泽翠白"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热倒植物油，四成油温下肉丝快速划散，变色即捞出。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "油温别太高，肉丝才不会结块发硬。",
+      "visual_cue": "肉丝条条分明、颜色转白"
+    },
+    {
+      "n": 5,
+      "text": "锅留底油下甜面酱小火炒散，加白糖、生抽炒到酱汁冒泡发亮。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "甜面酱一定要小火炒透，生酱味很冲。",
+      "visual_cue": "酱汁红亮冒泡、香气浓"
+    },
+    {
+      "n": 6,
+      "text": "倒回肉丝大火翻匀，让每根肉丝都裹上酱汁后立刻出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "翻匀就起锅，久炒酱汁收干发苦。",
+      "visual_cue": "肉丝油亮红润、酱汁紧裹"
+    },
+    {
+      "n": 7,
+      "text": "盘底铺葱丝，肉丝堆在上面，配豆腐皮卷食。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "葱丝垫底遇热散香，卷皮吃层次更足。",
+      "visual_cue": "葱丝铺满盘底、肉丝居中"
+    }
+  ],
+  "tips": [
+    "甜面酱容易发苦，炒之前先用少许清水澥开更稳妥。",
+    "里脊换成通脊肉也可以，肥瘦相间更香。",
+    "豆腐皮用开水烫十秒去豆腥味，卷起来更好吃。"
+  ],
+  "common_mistakes": [
+    "肉丝切得太粗，炒完外老内生，嚼起来发柴。",
+    "上浆没给足时间就下锅，肉丝散而发柴。",
+    "甜面酱大火干炒，酱色发黑带焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡胸肉",
+      "ratio": "300g 对 300g",
+      "note": "鸡胸上浆要多加淀粉，避免炒干。"
+    },
+    {
+      "original": "甜面酱",
+      "substitute": "黄豆酱",
+      "ratio": "40g 对 35g",
+      "note": "黄豆酱更咸，白糖可略增。"
+    }
+  ],
+  "variations": [
+    "加少许番茄酱调成酸甜酱香，孩子更爱吃。",
+    "配黄瓜条与葱丝一起卷食，口感更清爽解腻。"
+  ],
+  "serving_suggestion": "配豆腐皮、荷叶饼或薄饼卷食，配葱丝与甜面酱。",
+  "storage": "冷藏一天，复热用平底锅小火，微波易使肉丝变硬。",
+  "nutrition_estimate": {
+    "basis": "每份（约 190g）",
+    "calories_kcal": 390,
+    "protein_g": 28,
+    "fat_g": 24,
+    "carbs_g": 14,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉丝必须彻底加热至中心熟透，断面不见粉红色。",
+    "处理生肉的刀和案板要与葱丝、豆腐皮分开使用。",
+    "剩菜冷藏不超过一天，复热需整体炒透再食用。"
+  ],
+  "origin_note": "京酱肉丝是鲁菜传入京城后定型的一道名菜，早年在济南叫酱爆肉丝。甜面酱小火炒透裹住滑嫩的里脊丝，盘底垫葱白，用豆腐皮卷着吃。咸甜交织、酱香浓郁，是北方饭桌上最经典的卷饼菜。",
+  "tags": [
+    "鲁菜",
+    "炒",
+    "家常",
+    "卷饼"
+  ],
+  "related_ids": [
+    "baochao-yaohua",
+    "bazi-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

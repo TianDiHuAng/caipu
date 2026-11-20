@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-hanbaagu",
+  "name": {
+    "zh": "日式汉堡排",
+    "en": "Japanese Hamburger Steak (Hanbaagu)"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "rich",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 250,
+          "unit": "g",
+          "note": "肥瘦三七分",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "增加柔润",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "全蛋液",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 30,
+          "unit": "g",
+          "note": "吸收水分",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 40,
+          "unit": "ml",
+          "note": "泡软面包糠",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "打底味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 15,
+          "unit": "ml",
+          "note": "酱汁",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 15,
+          "unit": "ml",
+          "note": "酱汁",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 30,
+          "unit": "ml",
+          "note": "酱汁",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 10,
+          "unit": "g",
+          "note": "增润",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煎饼用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "大碗",
+    "铲子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱切细末，用微波炉中高火加热两分钟至半熟，摊开晾凉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "洋葱先弄熟再拌进肉里，成品不会出水散形。",
+      "visual_cue": "洋葱末半透明、晾后不烫手"
+    },
+    {
+      "n": 2,
+      "text": "面包糠加牛奶拌匀，泡到完全吸湿后静置五分钟。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡软的面包糠能锁住肉汁，别省这一步。",
+      "visual_cue": "面包糠吸透奶液、手指一捏成团"
+    },
+    {
+      "n": 3,
+      "text": "牛肉末与猪肉末放入大碗，加盐和黑胡椒揉到肉泥产生黏性。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "先加盐打黏再加其他料，肉饼才紧实不散。",
+      "visual_cue": "肉泥发黏、能拉出细丝"
+    },
+    {
+      "n": 4,
+      "text": "加入洋葱末、泡好的面包糠和蛋液，顺着一个方向搅到均匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "搅到肉泥出胶就够了，过度搅拌会发硬。",
+      "visual_cue": "混合物均匀、表面泛油光"
+    },
+    {
+      "n": 5,
+      "text": "把肉泥分成两份，双手来回甩打排出空气，整成椭圆厚饼。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "甩打十几下排出空气，煎时不会裂开。",
+      "visual_cue": "饼形椭圆、表面平整无裂"
+    },
+    {
+      "n": 6,
+      "text": "平底锅放植物油中火煎四分钟至底面焦褐，翻面盖盖焖五分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "中间按一个小凹坑，煎时不容易鼓成球。",
+      "visual_cue": "两面焦褐、按压有弹性"
+    },
+    {
+      "n": 7,
+      "text": "浓口酱油、味醂、番茄酱入锅小火煮到浓稠，加黄油搅匀淋在肉饼上。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "酱汁收到能挂勺背即可，太稠会盖住肉味。",
+      "visual_cue": "酱汁红亮浓稠、黄油完全融化"
+    }
+  ],
+  "tips": [
+    "肉末比例三七分最合适，全用牛肉末会干涩。",
+    "没有面包糠可用撕碎的白吐司，泡奶后同样好用。",
+    "煎好的肉饼静置两分钟再切，肉汁不外流。"
+  ],
+  "common_mistakes": [
+    "洋葱没先炒熟就拌进去，肉饼煎后塌陷出水。",
+    "肉泥搅拌不足，翻面时肉饼散成碎块。",
+    "全程大火煎，外层焦黑而内部还没熟。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "牛里脊",
+      "ratio": "250g 对 250g",
+      "note": "自己剁成粗末，口感更有层次。"
+    },
+    {
+      "original": "味醂",
+      "substitute": "米酒加糖",
+      "ratio": "15ml 对 15ml 加 5g",
+      "note": "甜味稍薄，可加少许蜂蜜。"
+    }
+  ],
+  "variations": [
+    "上面盖一片奶酪，做成奶酪汉堡排。",
+    "加一枚煎蛋和番茄酱，做成日式便当主菜。"
+  ],
+  "serving_suggestion": "配白饭、味噌汤和一小堆卷心菜丝，是经典日式洋食套餐。",
+  "storage": "冷藏两天，冷冻一个月；复热用平底锅加一勺水盖盖焖五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 260g）",
+    "calories_kcal": 520,
+    "protein_g": 32,
+    "fat_g": 34,
+    "carbs_g": 16,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛猪肉混合肉饼务必彻底加热至中心熟透，中心温度超过七十五度。",
+    "生肉末接触过的器具要彻底清洗，避免与生食蔬菜交叉污染。",
+    "冷藏保存不超过两天，复热要整体煎透不可只热表面。"
+  ],
+  "origin_note": "汉堡排是日本洋食的代表之一，日语ハンバーグ，战后从美军伙食演变而来，被日本家庭改良成配米饭和味噌汤的主菜。讲究肉末比例、洋葱炒熟与甩打排气，成品切开会流汁，配一勺酸甜酱汁最下饭。",
+  "tags": [
+    "日式",
+    "洋食",
+    "煎",
+    "便当"
+  ],
+  "related_ids": [
+    "asari-misoshiru",
+    "chawanmushi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
