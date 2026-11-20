@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "minnan-xianfan",
+  "name": {
+    "zh": "闽南咸饭",
+    "en": "Fujian Savory Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "隔夜冷饭",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "泡发切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 30,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "咸鲜上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒料用油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成小丁，香菇泡发后挤干切丁，胡萝卜切同样大小的丁。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "三种料切同样大，口感才协调。",
+      "visual_cue": "各料丁块均匀、大小一致"
+    },
+    {
+      "n": 2,
+      "text": "虾米用温水泡五分钟，捞出沥干，泡虾米的水留着备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "泡虾米的水带鲜味，别倒掉。",
+      "visual_cue": "虾米变软、水呈浅琥珀色"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油，五花肉丁中小火煸炒到出油、边缘微黄。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "把猪油煸出来，饭才够香。",
+      "visual_cue": "肉丁收缩出油、色泽金黄"
+    },
+    {
+      "n": 4,
+      "text": "下香菇丁、虾米与胡萝卜丁翻炒两分钟，炒出菌菇香气。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇炒过才出鲜味，别直接下饭。",
+      "visual_cue": "香菇变软、锅里有明显鲜香"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、盐、白糖与白胡椒炒匀，倒入米饭转中火翻炒。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "米饭提前搓散，炒时才好上色。",
+      "visual_cue": "米粒均匀染上酱色"
+    },
+    {
+      "n": 6,
+      "text": "淋入两勺泡虾米的水，加盖小火焖三分钟让米粒吸味。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "少量水焖一下，饭更润更入味。",
+      "visual_cue": "锅内水汽收干、饭粒饱满"
+    },
+    {
+      "n": 7,
+      "text": "开盖转大火翻炒收干，撒葱花拌匀即可出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "最后大火炒干，饭粒才不粘。",
+      "visual_cue": "饭粒干爽跳动、葱香扑鼻"
+    }
+  ],
+  "tips": [
+    "五花肉选肥瘦相间的，煸出的油最香。",
+    "香菇用干香菇，泡发后鲜味比鲜菇浓。",
+    "加一勺红葱酥，是最地道的闽南味。"
+  ],
+  "common_mistakes": [
+    "米饭太湿就下锅，炒成糊状一团。",
+    "五花肉直接下锅不煸，饭油腻不清爽。",
+    "泡虾米的水全倒进去，饭变成粥。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "腊肠",
+      "ratio": "150g 对 120g",
+      "note": "更香但偏咸，盐需减。"
+    },
+    {
+      "original": "虾米",
+      "substitute": "干贝",
+      "ratio": "30g 对 25g",
+      "note": "鲜味更高级，需提前泡发撕丝。"
+    }
+  ],
+  "variations": [
+    "加一把青豆与玉米，颜色更鲜艳。",
+    "把米饭换成生米同焖，就是传统咸饭做法。"
+  ],
+  "serving_suggestion": "一碗咸饭配一碗清汤，是闽南人的日常。",
+  "storage": "冷藏可放两天，复热时加一勺水蒸透。",
+  "nutrition_estimate": {
+    "basis": "每份（约 250g）",
+    "calories_kcal": 560,
+    "protein_g": 16,
+    "fat_g": 26,
+    "carbs_g": 62,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉须炒至完全变色熟透，不带粉色。",
+    "香菇与虾米为干货，泡发后须彻底加热。",
+    "虾米属甲壳类制品，海鲜过敏者慎食。"
+  ],
+  "origin_note": "闽南咸饭是福建人家的家常主食，五花肉煸出油，配香菇虾米和米饭一锅炒，咸香入味，配碗汤就是一餐。",
+  "tags": [
+    "闽菜",
+    "主食",
+    "家常",
+    "一人食"
+  ],
+  "related_ids": [
+    "dan-chaofan",
+    "min-sun-menrou",
+    "min-jiaoyan-xia"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

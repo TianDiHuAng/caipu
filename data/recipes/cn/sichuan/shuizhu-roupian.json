@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shuizhu-roupian",
+  "name": {
+    "zh": "水煮肉片",
+    "en": "Sichuan Boiled Pork Slices"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 400,
+          "unit": "g",
+          "note": "逆纹切薄片",
+          "optional": false
+        },
+        {
+          "name": "黄豆芽",
+          "name_en": "soybean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "去根洗净",
+          "optional": false
+        },
+        {
+          "name": "莴苣",
+          "name_en": "celtuce",
+          "amount": 150,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 30,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "一部分炝油",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "最后泼油",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌肉去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌肉与汤底",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "上浆",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒料与泼油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "深碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊逆着纹路切成两毫米厚的大薄片，用清水抓洗两遍挤干。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "逆纹切才不塞牙，洗去血水肉片更白。",
+      "visual_cue": "肉片透光均匀、手指能推薄"
+    },
+    {
+      "n": 2,
+      "text": "肉片加盐、料酒、生抽抓匀，再拌入玉米淀粉上浆腌十五分钟。",
+      "time_min": 16,
+      "heat": "无火",
+      "tip": "淀粉裹住肉片，煮时才不老。",
+      "visual_cue": "每片肉都挂上薄浆、不粘手"
+    },
+    {
+      "n": 3,
+      "text": "黄豆芽与莴苣片下沸水焯两分钟，捞出铺在深碗底部。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "蔬菜垫底吸收汤汁，比直接煮更香。",
+      "visual_cue": "黄豆芽断生、莴苣片透亮"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下植物油，中小火炒香豆瓣酱与生姜末，炒到出红油。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "豆瓣酱必须炒出红油才够香。",
+      "visual_cue": "油色深红、豆瓣酥香"
+    },
+    {
+      "n": 5,
+      "text": "倒入清水烧开，加生抽与白糖调味，转小火保持微沸。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "汤要保持微沸，滚太猛肉片会散。",
+      "visual_cue": "汤面细泡不断、颜色红亮"
+    },
+    {
+      "n": 6,
+      "text": "肉片逐片抖散下锅，煮到变色立刻关火，连汤倒在蔬菜上。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "肉片一变色就停，多煮十秒就柴。",
+      "visual_cue": "肉片舒展变白、边缘微卷"
+    },
+    {
+      "n": 7,
+      "text": "表面撒辣椒粉、花椒、干辣椒段与大蒜末，植物油烧到冒烟浇上激香。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "油要够热，泼下去才有滋啦声。",
+      "visual_cue": "红油浮起、蒜香辣香冲鼻"
+    }
+  ],
+  "tips": [
+    "肉片冷冻半小时再切，薄片更容易成型。",
+    "垫底的黄豆芽换成油麦菜也很搭。",
+    "花椒先用小火焙香再碾碎，麻味更足。"
+  ],
+  "common_mistakes": [
+    "肉片顺纹切，煮出来韧得嚼不动。",
+    "肉片没有上浆就直接下锅，煮出来又老又柴。",
+    "辣椒粉直接下锅炒，一下就糊发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "牛里脊",
+      "ratio": "400g 对 400g",
+      "note": "煮制时间缩短，变色即可。"
+    },
+    {
+      "original": "莴苣",
+      "substitute": "油麦菜",
+      "ratio": "150g 对 150g",
+      "note": "更易熟，焯水时间减半。"
+    }
+  ],
+  "variations": [
+    "加一把红薯宽粉垫底，吸汁更好吃。",
+    "把清水换成熬好的骨汤，汤底会更醇厚顺口。"
+  ],
+  "serving_suggestion": "配一大碗白米饭，汤汁拌饭最香。",
+  "storage": "冷藏可放一天，复热时补少量清水。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 400,
+    "protein_g": 30,
+    "fat_g": 26,
+    "carbs_g": 12,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉片须彻底加热至完全变白熟透，不带血丝。",
+    "泼热油时油温接近冒烟，操作时保持距离防溅烫。",
+    "菜品偏辣偏咸，肠胃敏感者与儿童适量食用。"
+  ],
+  "origin_note": "水煮肉片是川菜水煮系列的代表，肉片上浆后滑熟，铺在蔬菜上浇一勺滚油，麻辣味全被激出来，是四川人家的待客硬菜。",
+  "tags": [
+    "川菜",
+    "麻辣",
+    "下饭",
+    "宴客"
+  ],
+  "related_ids": [
+    "ganbian-doujiao",
+    "suanla-tang",
+    "yuxiang-rousi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

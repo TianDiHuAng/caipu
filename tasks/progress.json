@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:37:58.941Z",
+  "generatedAt": "2026-11-20T01:05:31.754Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 497,
+    "cells": 498,
     "target": 3274,
-    "actual": 487,
-    "coverage": 0.1487477092241906
+    "actual": 493,
+    "coverage": 0.15058032987171655
   },
   "regions": {
     "cn": [
@@ -23,19 +23,20 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 48,
+        "actual": 49,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "fenzheng-rou",
               "huiguo-rou",
               "maoxuewang",
               "mapo-doufu",
               "shuizhu-niurou",
+              "shuizhu-roupian",
               "tudou-shao-paigu",
               "yuxiang-rousi"
             ]
@@ -201,7 +202,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 32,
+        "actual": 33,
         "cells": [
           {
             "category": "main-seafood",
@@ -319,21 +320,22 @@
             ]
           },
           {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "majiang-huanggua",
+              "zha-ouhe"
+            ]
+          },
+          {
             "category": "breakfast",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "shandong-dabobo"
-            ]
-          },
-          {
-            "category": "appetizer",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "zha-ouhe"
             ]
           }
         ]
@@ -344,7 +346,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 37,
+        "actual": 38,
         "cells": [
           {
             "category": "main-seafood",
@@ -401,10 +403,11 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "baozaifan",
               "claypot-rice",
+              "dan-chaofan",
               "shengchao-nuomifan",
               "shenggun-yupian-zhou",
               "tingzai-zhou"
@@ -485,7 +488,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 33,
+        "actual": 34,
         "cells": [
           {
             "category": "main-seafood",
@@ -517,12 +520,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "chuncai-yinyu-geng",
               "dazhu-gansi",
               "wensi-doufu-geng",
-              "wensi-doufu"
+              "wensi-doufu",
+              "xihongshi-jidan-tang"
             ]
           },
           {
@@ -632,7 +636,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 26,
+        "actual": 27,
         "cells": [
           {
             "category": "main-seafood",
@@ -734,21 +738,22 @@
             ]
           },
           {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "hangzhou-luya",
+              "sanbei-ji"
+            ]
+          },
+          {
             "category": "breakfast",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "congbaogui"
-            ]
-          },
-          {
-            "category": "main-poultry",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "hangzhou-luya"
             ]
           },
           {
@@ -777,7 +782,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 25,
+        "actual": 26,
         "cells": [
           {
             "category": "soup",
@@ -886,6 +891,15 @@
             "actual": 1,
             "ids": [
               "fuzhou-guangbing"
+            ]
+          },
+          {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "minnan-xianfan"
             ]
           }
         ]
