@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-20T06:50:43.441Z
+- 生成时间：2026-11-20T09:05:36.556Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：40 个，抽样 49 道，平均分 96
+- 覆盖菜系：40 个，抽样 49 道，平均分 97
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -20,20 +20,20 @@
 | --- | --- | --- | --- | --- |
 | american | brownie | 93 | A | 准确性 18/25 |
 | american-south | southern-fried-chicken | 100 | A | 无 |
-| anhui | xianggu-pa-caixin | 93 | A | 准确性 18/25 |
+| anhui | wenzheng-shansun-tang | 100 | A | 无 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
 | british | british-roast-beef | 100 | A | 无 |
 | cantonese | caigan-zhugu-tang | 93 | A | 准确性 18/25 |
-| cantonese | guangshi-hongdou-sha | 93 | A | 准确性 18/25 |
+| cantonese | dongguo-paigu-tang | 93 | A | 准确性 18/25 |
 | cantonese | ganchao-niuhe | 94 | A | 安全性 14/20 |
 | chaoshan | chaoshan-niurou-wan | 93 | A | 准确性 18/25 |
 | dongbei | dongbei-luandun | 93 | A | 准确性 18/25 |
 | french | bouillabaisse | 100 | A | 无 |
 | fujian | baizhuo-xiaoguan | 93 | A | 准确性 18/25 |
-| fujian | taipingyan-tang | 100 | A | 无 |
+| fujian | wuxiang-paigu | 100 | A | 无 |
 | german | pretzel | 93 | A | 准确性 18/25 |
 | greek | tzatziki | 100 | A | 无 |
-| hakka | kejia-chao-mifen | 93 | A | 准确性 18/25 |
+| hakka | hakka-meicai-kourou | 93 | A | 准确性 18/25 |
 | halal-cn | shuipen-yangrou | 93 | A | 准确性 18/25 |
 | hongkong | bifengtang-chaoxie | 100 | A | 无 |
 | hunan | suanmiao-chao-larou | 93 | A | 准确性 18/25 |
@@ -50,7 +50,7 @@
 | nordic | nordic-fish-soup | 100 | A | 无 |
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | borscht | 100 | A | 无 |
-| shandong | jiaodong-bayu-jiaozi | 93 | A | 准确性 18/25 |
+| shandong | jiuzhuan-dachang | 100 | A | 无 |
 | shandong | youmen-daxia | 100 | A | 无 |
 | shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
 | sichuan | hongshao-doufu | 93 | A | 准确性 18/25 |
@@ -61,12 +61,12 @@
 | thai | thai-basil-shrimp | 93 | A | 准确性 18/25 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | turkish | turkish-kofta | 100 | A | 无 |
-| vietnamese | banh-mi | 94 | A | 安全性 14/20 |
+| vietnamese | pho-bo | 100 | A | 无 |
 | xibei | shaanxi-saozi-mian | 93 | A | 准确性 18/25 |
 | xinjiang | naobao-rou | 100 | A | 无 |
 | yunguai | suantang-feiniu | 100 | A | 无 |
-| zhejiang | congyou-xia | 100 | A | 无 |
-| zhejiang | mizhi-huofang | 100 | A | 无 |
+| zhejiang | dingsheng-gao | 100 | A | 无 |
+| zhejiang | ningbo-xiechao-niangao | 100 | A | 无 |
 
 ## 结论
 

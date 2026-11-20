@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-suruo-donggua-tang",
+  "name": {
+    "zh": "酥肉冬瓜汤",
+    "en": "Winter Melon Soup with Crispy Pork"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 300,
+          "unit": "g",
+          "note": "切小指粗的条",
+          "optional": false
+        },
+        {
+          "name": "冬瓜",
+          "name_en": "winter melon",
+          "amount": 300,
+          "unit": "g",
+          "note": "去皮去瓤切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打入腌好的肉中",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 50,
+          "unit": "g",
+          "note": "挂薄糊",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "拍碎腌肉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌肉与调味各半",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "出锅前撒",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炸用，实耗约 30ml",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊切小指粗的条，加料酒、一半的盐和拍碎的花椒抓匀腌十五分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "花椒先用刀背拍碎，麻香才能渗进肉条里。",
+      "visual_cue": "肉条表面发黏、有花椒香"
+    },
+    {
+      "n": 2,
+      "text": "打入鸡蛋，加入淀粉抓成薄糊，让每根肉条都均匀挂上一层糊。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "糊要能挂住不往下滴，太稀可以再补一点淀粉。",
+      "visual_cue": "肉条挂糊均匀、不滴浆"
+    },
+    {
+      "n": 3,
+      "text": "植物油烧到六成热，肉条逐根下锅炸四分钟至金黄，捞出沥油。",
+      "time_min": 4,
+      "heat": "中大火",
+      "tip": "逐根下锅不容易粘连，炸出来条形才完整。",
+      "visual_cue": "外壳金黄、筷子敲有脆响"
+    },
+    {
+      "n": 4,
+      "text": "冬瓜去皮去瓤，切成半厘米厚的片，姜切片、葱切段备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "冬瓜片不要切太薄，久煮容易化成一摊水。",
+      "visual_cue": "冬瓜片厚薄一致、边缘平整"
+    },
+    {
+      "n": 5,
+      "text": "锅中留少许底油炒香姜葱，加清水烧开，下炸好的酥肉煮八分钟。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "酥肉先煮一会儿，汤里才有足够的肉香。",
+      "visual_cue": "汤色微白、酥肉回软"
+    },
+    {
+      "n": 6,
+      "text": "下冬瓜片煮五分钟至半透明，加剩下的盐和白胡椒粉，撒葱花出锅。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "冬瓜变透明就该关火，再煮就散架了。",
+      "visual_cue": "冬瓜呈半透明、边缘完整"
+    }
+  ],
+  "tips": [
+    "酥肉可以一次多炸一些冷冻起来，随吃随取非常方便。",
+    "冬瓜皮不要削太深，靠近皮的那层最清甜。",
+    "想要汤色更白，下酥肉前先用猪油把姜葱炒香再加水。"
+  ],
+  "common_mistakes": [
+    "挂糊太稀，炸的时候糊浆脱落，酥肉变成干炸肉条。",
+    "冬瓜和酥肉同时下锅，冬瓜煮烂而酥肉还硬。",
+    "汤里加酱油调色，清汤变浑，川式酥肉汤讲究汤白。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "五花肉",
+      "ratio": "300g 对 300g",
+      "note": "肥一点更香，但要多炸一分钟逼出油脂。"
+    },
+    {
+      "original": "花椒",
+      "substitute": "花椒粉",
+      "ratio": "3g 对 1.5g",
+      "note": "直接拌进腌料里，省去拍碎这一步。"
+    }
+  ],
+  "variations": [
+    "加一把豌豆尖同煮，汤更清香解腻。",
+    "把冬瓜换成白萝卜，做成萝卜酥肉汤。"
+  ],
+  "serving_suggestion": "大碗盛出，撒葱花与少许白胡椒，配米饭。",
+  "storage": "冷藏可存两天，酥肉与汤分开保存，复热后口感较好。",
+  "nutrition_estimate": {
+    "basis": "每份（约 350g）",
+    "calories_kcal": 380,
+    "protein_g": 25,
+    "fat_g": 24,
+    "carbs_g": 15,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "炸酥肉时油温控制在六成，肉条下锅前擦干水分防溅油。",
+    "里脊必须炸透再下锅煮，中心不带粉色才算熟。",
+    "冬瓜性凉，脾胃虚寒的人不宜一次吃太多。",
+    "鸡蛋要新鲜且打散均匀，酥肉须彻底加热至中心熟透，剩余蛋液要冷藏保存。"
+  ],
+  "origin_note": "川渝人家过年必炸酥肉，一次炸一大盆，吃不完的第二天就拿来和冬瓜一起煮汤。冬瓜吸了酥肉的油脂，酥肉被汤泡得外软内香，一荤一素炖进一锅，是川西冬天最实在的一碗热汤。",
+  "tags": [
+    "川菜",
+    "汤",
+    "炸",
+    "家常"
+  ],
+  "related_ids": [
+    "sichuan-lianguo-tang",
+    "suanla-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

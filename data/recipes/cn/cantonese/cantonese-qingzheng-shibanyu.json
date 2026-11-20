@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-qingzheng-shibanyu",
+  "name": {
+    "zh": "清蒸石斑鱼",
+    "en": "Steamed Grouper"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "石斑鱼",
+          "name_en": "grouper",
+          "amount": 600,
+          "unit": "g",
+          "note": "一条，宰杀洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半切片一半切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "一半垫底一半切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蒸鱼豉油",
+          "name_en": "seasoned soy sauce for seafood",
+          "amount": 30,
+          "unit": "ml",
+          "note": "蒸后沿盘边淋入",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌鱼去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "抹鱼身",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "浇葱丝用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "鱼盘",
+    "炒勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "石斑鱼去鳞去鳃去内脏，用流动水冲净腹内血水，鱼身两面各斜划两刀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "划刀只破皮不切透，蒸的时候鱼肉才不易散。",
+      "visual_cue": "鱼身干爽、不见血水"
+    },
+    {
+      "n": 2,
+      "text": "用料酒和盐把鱼身内外抹匀，静置十分钟去腥，再用厨房纸吸干表面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "表面水分一定擦干，否则蒸出来腥水特别多。",
+      "visual_cue": "鱼皮干爽、不见挂水"
+    },
+    {
+      "n": 3,
+      "text": "鱼盘上铺姜片与葱段，把石斑鱼架在上面，鱼腹内再塞两片姜。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "鱼身垫高离开盘底，蒸汽才能从下面绕过去。",
+      "visual_cue": "鱼身平稳、不贴盘底"
+    },
+    {
+      "n": 4,
+      "text": "蒸锅加足水烧到大滚冒大汽，放入鱼盘加盖，大火足汽蒸八分钟。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "一定要水开后再放鱼，冷水上锅鱼肉会发柴。",
+      "visual_cue": "锅盖边缘蒸汽直冲"
+    },
+    {
+      "n": 5,
+      "text": "关火后不开盖虚蒸两分钟，取出鱼盘，倒掉盘里的腥水并拣去姜葱。",
+      "time_min": 2,
+      "heat": "微火",
+      "tip": "虚蒸这两分钟让鱼肉从里到外熟得均匀。",
+      "visual_cue": "鱼眼凸白、鱼身微微鼓起"
+    },
+    {
+      "n": 6,
+      "text": "重新铺上葱丝姜丝，烧热植物油浇在葱丝上，沿盘边淋入蒸鱼豉油即可。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "油要烧到轻微冒烟，浇下去要有明显的响声。",
+      "visual_cue": "葱丝卷起、盘底酱汁清亮"
+    }
+  ],
+  "tips": [
+    "一斤左右的石斑鱼蒸八分钟最合适，每加重二两就多蒸一分钟。",
+    "蒸鱼豉油沿盘边淋，不要直接浇在鱼身上，鱼皮才完整好看。",
+    "石斑鱼皮厚胶质足，出锅别急着翻动，静置一分钟再夹取。"
+  ],
+  "common_mistakes": [
+    "冷水上锅蒸，鱼肉外层变老而鱼骨还带血丝。",
+    "蒸完不倒掉盘里腥水，直接浇豉油，整道菜发腥。",
+    "划刀过深刻透鱼身，蒸后鱼肉散开夹不起来。"
+  ],
+  "substitutions": [
+    {
+      "original": "石斑鱼",
+      "substitute": "鲈鱼",
+      "ratio": "600g 对 600g",
+      "note": "鲈鱼肉薄，蒸七分钟即可，同样要去净腹内血水。"
+    },
+    {
+      "original": "蒸鱼豉油",
+      "substitute": "生抽加白糖",
+      "ratio": "30ml 对 25ml 加 3g",
+      "note": "兑少量清水稀释，咸度更接近蒸鱼豉油。"
+    }
+  ],
+  "variations": [
+    "鱼身下垫两片五花肉同蒸，鱼油渗入鱼肉更甘香。",
+    "出锅前撒少许陈皮丝，去腥提香、层次更足。"
+  ],
+  "serving_suggestion": "整条上桌，配白饭与一碟清炒时蔬。",
+  "storage": "现蒸现吃最鲜，冷藏后鱼肉返生发柴，不建议隔夜。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 245,
+    "protein_g": 33,
+    "fat_g": 11,
+    "carbs_g": 2,
+    "sodium_mg": 690,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "石斑鱼要蒸到鱼肉雪白、骨肉轻推分离，中心不见血丝才可食用。",
+    "处理活鱼时当心背鳍硬刺扎手，刀具和案板用完立即清洗。",
+    "海鱼易腐败，冷藏不超过一天，冷冻不超过一个月。"
+  ],
+  "origin_note": "清蒸石斑鱼是粤菜酒楼的头牌蒸鱼，讲究鱼要生猛、火要够猛、时间要准。石斑鱼皮厚胶质足、肉呈蒜瓣状，粤厨只肯配姜葱和豉油，多一分调料都嫌抢味，吃的就是那口清甜本味。",
+  "tags": [
+    "粤菜",
+    "蒸",
+    "鲜",
+    "宴客"
+  ],
+  "related_ids": [
+    "qingzheng-luyu",
+    "cantonese-suanrong-fensi-zheng-shanbei"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
