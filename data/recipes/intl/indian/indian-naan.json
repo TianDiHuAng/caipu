@@ -1,0 +1,213 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-naan",
+  "name": {
+    "zh": "印度馕",
+    "en": "Naan Bread"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 130,
+    "cook_min": 20,
+    "total_min": 150
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        },
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 120,
+          "unit": "g",
+          "note": "无糖原味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "刷面用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "约三十五度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底平底锅",
+    "擀面杖",
+    "和面盆",
+    "湿布"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温水加白糖与酵母搅匀，静置十分钟到表面浮起一层细密泡沫，确认酵母已经活化再进入和面。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水温过高会把酵母烫死，手背试温只觉温热即可。",
+      "visual_cue": "液面浮起一层米色泡沫，闻起来有淡淡酒香"
+    },
+    {
+      "n": 2,
+      "text": "面粉与盐混匀后倒入酵母水和酸奶，用筷子搅成絮状，再揉成光滑面团，表面抹一层橄榄油盖布发酵。",
+      "time_min": 90,
+      "heat": "无火",
+      "tip": "盐不要直接接触酵母液，否则会抑制发酵速度。",
+      "visual_cue": "面团表面光洁不粘手，按下去能缓慢回弹"
+    },
+    {
+      "n": 3,
+      "text": "面团涨到两倍大后取出排气，均分成四份滚圆，盖上湿布松弛十五分钟，让面筋舒展开再擀开。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "松弛到位才擀得开，面团回缩说明筋还太紧。",
+      "visual_cue": "面团体积膨胀到原来的两倍，内部呈蜂窝状"
+    },
+    {
+      "n": 4,
+      "text": "取一份面团擀成半厘米厚的椭圆形，表面刷少量水，用手掌快速贴进烧热的厚底平底锅，中火烙到表面鼓起气泡。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "饼坯贴锅后先不要翻动，等底面定型再翻。",
+      "visual_cue": "饼面鼓起大小不一的气泡，底面出现焦褐斑点"
+    },
+    {
+      "n": 5,
+      "text": "翻面再烙两分钟，出锅趁热刷融化黄油，用干净毛巾盖住保温，重复烙完剩余面团。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "出锅后捂一下能让饼皮回软，口感更像烤炉版。",
+      "visual_cue": "饼皮柔软可折叠，表面泛黄油光泽"
+    }
+  ],
+  "tips": [
+    "面团含水量偏高，揉面时手上抹油比撒干粉更好操作。",
+    "锅一定要充分预热，温度不足饼不会鼓泡，口感偏硬。"
+  ],
+  "common_mistakes": [
+    "酵母直接倒进热水里活化，酵母被烫失活导致面团发不起来。",
+    "擀得太薄，入锅后立刻烤干变脆，失去馕的柔软嚼劲。"
+  ],
+  "substitutions": [
+    {
+      "original": "酸奶",
+      "substitute": "牛奶",
+      "ratio": "120g 对 120ml",
+      "note": "需加一小勺柠檬汁静置十分钟。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "酥油",
+      "ratio": "30g 对 30g",
+      "note": "奶香更浓，烟点更高。"
+    }
+  ],
+  "variations": [
+    "面团里拌入切碎的大蒜与香菜，做成蒜香馕。",
+    "表面撒黑芝麻或孜然粒，增加香气层次。"
+  ],
+  "serving_suggestion": "搭配咖喱、豆泥或烤肉一起食用，趁热撕开蘸汤汁最佳。",
+  "storage": "冷却后密封冷冻可存两周，复热时喷水后平底锅烙一分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（1 张，约 140g）",
+    "calories_kcal": 330,
+    "protein_g": 10,
+    "fat_g": 9,
+    "carbs_g": 52,
+    "sodium_mg": 420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "平底锅干烙温度高，贴饼时手部靠近锅面，注意用长柄工具或厚手套避免烫伤；饼坯含水较多，入锅后会溅油，面部不要正对锅口。"
+  ],
+  "origin_note": "馕是南亚与中亚地区的主食面饼，传统做法贴在土窑坦杜尔的内壁上烤制，家庭版改用厚底平底锅模拟窑壁高温，同样能得到焦斑与鼓泡。",
+  "tags": [
+    "印度",
+    "主食",
+    "面食"
+  ],
+  "related_ids": [
+    "indian-chicken-curry",
+    "indian-palak-chicken"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

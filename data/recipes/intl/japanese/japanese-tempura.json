@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-tempura",
+  "name": {
+    "zh": "日式天妇罗",
+    "en": "Tempura"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 400,
+          "unit": "g",
+          "note": "基围虾，去壳留尾",
+          "optional": false
+        },
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 150,
+          "unit": "g",
+          "note": "裹糊用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 180,
+          "unit": "ml",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 120,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "南瓜",
+          "name_en": "pumpkin",
+          "amount": 120,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 300,
+          "unit": "ml",
+          "note": "浅炸用，锅底约两厘米深",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 30,
+          "unit": "ml",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 60,
+          "unit": "ml",
+          "note": "蘸汁用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 100,
+          "unit": "g",
+          "note": "擦泥佐食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "油温计",
+    "长筷",
+    "沥油网架"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾去壳保留尾节，在腹部横切三四刀并轻压拉直，防止炸制时卷曲，用厨房纸吸干表面水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "腹部断筋是虾保持笔直的关键，切口浅一些不要切断。",
+      "visual_cue": "虾身笔直挺立，表面干爽不黏"
+    },
+    {
+      "n": 2,
+      "text": "茄子斜切成扇形薄片，南瓜切成三毫米厚的片，青椒去籽切条，所有蔬菜摊在盘中晾干表面水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蔬菜表面带水会让面衣脱落，也会让油剧烈起泡。",
+      "visual_cue": "蔬菜片厚薄一致，切面没有水珠"
+    },
+    {
+      "n": 3,
+      "text": "清水与鸡蛋轻轻搅匀成蛋液，倒入低筋面粉后用筷子划几下，保留粉粒与结块，面糊呈稀薄流动状。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "面糊切忌搅顺滑，起筋后炸出的面衣会发硬发油。",
+      "visual_cue": "面糊稀薄，里面能看见细小粉疙瘩"
+    },
+    {
+      "n": 4,
+      "text": "植物油倒入深锅烧到一百七十度，虾先拍少量干粉再裹面糊，尾部捏住垂直下锅，分两批炸约九十秒到面衣浅金且硬挺。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "油温可用面糊滴入测试，沉底后立刻浮起即合适。",
+      "visual_cue": "面衣迅速膨起，油面气泡均匀密集"
+    },
+    {
+      "n": 5,
+      "text": "蔬菜依次裹糊下锅，茄子与青椒炸约一分钟，南瓜炸约一分半，捞出立在网架上沥油，不要叠压。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "立着沥油能让多余油滴落，平铺会积油变软。",
+      "visual_cue": "面衣轻盈蓬松，敲击有清脆声响"
+    },
+    {
+      "n": 6,
+      "text": "高汤、生抽与味醂小火煮开，加盐调味做成蘸汁，白萝卜擦成泥稍挤水分放入汁中，天妇罗出锅即食。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蘸汁不要久煮，沸腾过久咸味会变重。",
+      "visual_cue": "蘸汁呈清澈的琥珀色，表面无浮沫"
+    }
+  ],
+  "tips": [
+    "面糊要现调现炸，放置十分钟以上会出面筋，面衣不再轻盈。",
+    "每炸完一批要捞出油中碎屑，否则会烧焦发苦。"
+  ],
+  "common_mistakes": [
+    "面糊搅拌过度至顺滑，成品面衣厚重发硬且吸油。",
+    "一次下太多食材导致油温骤降，面衣吸油呈软塌状态。"
+  ],
+  "substitutions": [
+    {
+      "original": "低筋面粉",
+      "substitute": "天妇罗专用粉",
+      "ratio": "150g 对 150g",
+      "note": "专用粉蓬松度更好，面衣更轻。"
+    },
+    {
+      "original": "基围虾",
+      "substitute": "白虾",
+      "ratio": "400g 对 400g",
+      "note": "白虾个头小，炸制时间缩短至一分钟。"
+    }
+  ],
+  "variations": [
+    "加入紫苏叶或香菇做成素天妇罗拼盘。",
+    "蘸汁里加少量姜泥，风味更清爽。"
+  ],
+  "serving_suggestion": "作为主菜配米饭与味噌汤，或作为面食的浇头。",
+  "storage": "炸物最好现炸现吃，冷藏后复热需用烤箱两百度烤五分钟恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "每份（约 220g）",
+    "calories_kcal": 390,
+    "protein_g": 24,
+    "fat_g": 23,
+    "carbs_g": 20,
+    "sodium_mg": 480,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "油炸时油温高且含虾与蔬菜水分，下锅瞬间易起大量泡沫与溅油，须用长筷并保持手臂距离；虾类须彻底加热至肉质全白不透明，避免生食风险。"
+  ],
+  "origin_note": "天妇罗源自十六世纪葡萄牙传教士带入南蛮料理的炸物技法，日语 tempura 即由 tempero（调味、烹调）演化而来，江户时代在街头摊贩中普及，形成以芝麻油炸虾与蔬菜、蘸萝卜泥汁的江户前天妇罗流派。",
+  "tags": [
+    "日式",
+    "油炸",
+    "海鲜"
+  ],
+  "related_ids": [
+    "japanese-udon",
+    "japanese-korokke"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

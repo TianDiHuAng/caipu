@@ -115,3 +115,18 @@ npm run progress
 - 第 84 批新增食材登记：`hibiscus`（洛神花，dried-fruit），词典 429 项。
 - 当前库：558 道，validate 全绿（558 文件 / 0 错误）；progress 内容进度 645/3274（19.7%）。
 - 待办：阶段 4 继续（下批从 batch-85 起），优先补 intl 菜系 core 品类与 cn 中低覆盖格子。
+
+## 第 85 批（6 道，intl 补齐）
+
+- italian-bruschetta 意式番茄烤面包（italian / appetizer）
+- indian-naan 印度馕（indian / staple-bread）
+- french-ratatouille 普罗旺斯炖蔬菜（french / main-vegetable）
+- spanish-gazpacho 西班牙冷汤（spanish / soup）
+- american-pancakes 美式松饼（american / breakfast）
+- japanese-tempura 日式天妇罗（japanese / main-seafood）
+
+## 数据对齐复核（第 85 批同期完成）
+
+- data/db/caipu.sqlite 中 recipes 表 564 条，与 data/recipes 下 JSON 文件 564 个、id 一一对应，无残留旧记录、无重复。
+- progress.json 的 actual 口径为「各菜系×品类格子实际数之和」，同一道菜有多个 category 时会分别计入多个格子：564 道中 87 道为多品类，564 + 87 = 651，与 progress 显示完全吻合。
+- 结论：619（当时 534 道）→ 651（现 564 道）的差额全部来自多品类重复计入，不是数据库残留或重复数据，无需清理重导。validate 0 错误、npm test 29/29 通过。

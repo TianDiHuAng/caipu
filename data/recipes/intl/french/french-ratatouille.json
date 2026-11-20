@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-ratatouille",
+  "name": {
+    "zh": "普罗旺斯炖蔬菜",
+    "en": "Ratatouille"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 45,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "sour",
+    "fragrant",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 300,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 300,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 500,
+          "unit": "g",
+          "note": "熟透的",
+          "optional": false
+        },
+        {
+          "name": "红椒",
+          "name_en": "red bell pepper",
+          "amount": 200,
+          "unit": "g",
+          "note": "红黄各半",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 3,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "piece",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "按配方用量",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 8,
+          "unit": "g",
+          "note": "新鲜叶片，装饰用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木铲",
+    "厨房纸",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子切成两厘米方块，撒少量盐抓匀静置十五分钟，挤出渗出的水分，这样下锅不会吸走大量油脂。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "茄子挤水后要用厨房纸吸干表面，带水下锅会溅油。",
+      "visual_cue": "茄子块体积略缩，表面由亮转哑"
+    },
+    {
+      "n": 2,
+      "text": "西葫芦与彩椒切成与茄子相近的块，番茄划十字用开水烫后去皮切丁，洋葱与大蒜分别切碎备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "所有食材切成同样大小，成菜口感才一致。",
+      "visual_cue": "各色蔬菜块大小相仿，番茄丁带汁"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅放一半橄榄油，中火把茄子块单独煎到表面金黄，盛出；再下西葫芦与彩椒分别煎到边缘微焦后盛出。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "分批煎而非一锅烩，蔬菜各自定型不出水，味道更清晰。",
+      "visual_cue": "蔬菜表面出现金黄焦边，质地仍挺括"
+    },
+    {
+      "n": 4,
+      "text": "锅里补剩余橄榄油，下洋葱碎与大蒜碎小火炒出香味，加番茄丁、百里香与香叶，小火煮成浓稠的番茄底酱。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "番茄底酱要熬到没有生酸味，颜色转深红再回锅蔬菜。",
+      "visual_cue": "酱汁浓稠挂勺，表面泛出红色油光"
+    },
+    {
+      "n": 5,
+      "text": "把煎好的茄子、西葫芦与彩椒倒回锅中轻轻翻匀，加盐与黑胡椒调味，小火加盖焖十五分钟让味道融合。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "翻动用铲子托底轻推，避免把蔬菜块搅碎。",
+      "visual_cue": "蔬菜吸饱酱汁呈半透明，锅底几乎无游离汤汁"
+    },
+    {
+      "n": 6,
+      "text": "关火挑出香叶，室温放凉十分钟再盛盘，撒几片新鲜罗勒叶，配热米饭一起食用。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "放凉后风味更融合，隔夜再吃滋味更足。",
+      "visual_cue": "表面油亮，蔬菜块轮廓完整"
+    }
+  ],
+  "tips": [
+    "每种蔬菜分开煎是这道菜的核心，混炒会变成蔬菜汤。",
+    "番茄要用熟透的，酸度低、甜度高，成菜更平衡。"
+  ],
+  "common_mistakes": [
+    "所有蔬菜一起下锅长时间炖，最后全部糊软成泥，失去层次。",
+    "茄子不预处理直接下锅，吸油过多整道菜油腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "百里香",
+      "substitute": "迷迭香",
+      "ratio": "3g 对 2g",
+      "note": "迷迭香味道更冲，用量需减。"
+    },
+    {
+      "original": "茄子",
+      "substitute": "西葫芦",
+      "ratio": "300g 对 300g",
+      "note": "西葫芦出水更多，需缩短焖制时间。"
+    }
+  ],
+  "variations": [
+    "把蔬菜切成薄片码盘后烤制，做成摆盘精致的层叠版本。",
+    "加一勺浓缩番茄酱，颜色更红亮、滋味更浓。"
+  ],
+  "serving_suggestion": "温热时作为主菜配面包，冷食也可作为前菜，撒橄榄油与盐调味。",
+  "storage": "冷藏可存三天，第二天风味更佳；冷冻会使西葫芦出水，不建议。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 200,
+    "protein_g": 4,
+    "fat_g": 13,
+    "carbs_g": 18,
+    "sodium_mg": 380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "分批煎蔬菜时油温较高，蔬菜表面带水容易溅油，下锅前务必吸干水分并侧身操作；含茄子与番茄的炖菜在室温放置不宜超过两小时，冷藏后需彻底加热再食用。"
+  ],
+  "origin_note": "Ratatouille 出自法国南部的尼斯一带，十八世纪由当地农家把夏季过剩的茄子、西葫芦、番茄与彩椒一锅炖成，名称来自法语动词 touiller（搅拌）。传统做法强调各蔬菜分开炒后再合并，以保留各自的形状与香气。",
+  "tags": [
+    "法式",
+    "素食",
+    "炖菜",
+    "健康"
+  ],
+  "related_ids": [
+    "french-potato-soup",
+    "french-omelette"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
