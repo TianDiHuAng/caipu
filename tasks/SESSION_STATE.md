@@ -67,7 +67,7 @@ npm run progress
 ```
 确认无错误后，按「二、单批生产关系」继续领格子生产，每批 6 道，批次号接续 `temp/drafts/` 中最大编号。
 
-## 最近一次更新（本轮结束）
+## 较早更新（batch-66~75 阶段）
 
 - 工作区已迁移至 `E:\ai_project\marvis_project\caipu`，本文件内旧路径已全部替换。
 - 菜谱库：485 道，validate 全绿（485 文件 / 0 错误）；内容进度 597/3274（18.2%）。
@@ -85,3 +85,25 @@ npm run progress
 - 待办：阶段 4 继续按批推进（下批从 batch-76 起）；建议 cantonese/main-seafood、sichuan/soup、shandong/main-meat、japanese/main-meat、thai 的汤/咖喱格。
 - 已知遗留重复（同菜异 id，共 8 组）：蒜蓉粉丝蒸扇贝、豉油鸡、豉汁蒸排骨、南京盐水鸭、蒜泥白肉、宋嫂鱼羹、西湖牛肉羹、照烧鸡腿各 2 份，需在阶段 6 全库巡检时统一去重。
 - 每 10 批后执行 npm run audit，C/D 级按报告明细重写。
+
+## 最近一次更新（本轮结束）
+
+- 菜谱库：534 道，validate 全绿（534 文件 / 0 错误）；`npm test` 29/29 通过；progress 内容进度 619/3274（18.9%）。
+- 阶段 6 去重已完成（commit c015502）：8 组同菜异 id 重复各保留质量更优一份，`related_ids` 全量重映射，删除冗余文件 8 个：
+  - cantonese-suanrong-fensi-zheng-shanbei.json（保留 suanrong-fensi-shanbei）
+  - cantonese-siyou-ji.json（保留 chiyou-ji）
+  - cantonese-chizhi-paigu.json（保留 chizhi-zheng-paigu）
+  - jiangsu-yanshui-ya.json（保留 nanjing-yanshui-ya）
+  - sichuan-suanni-bairou.json（保留 suan-ni-bai-rou）
+  - zhejiang-songsao-yugen.json（保留 songsao-yugeng）
+  - zhejiang-xihu-niurougeng.json（保留 xihu-niurou-geng）
+  - japanese-teriyaki-chicken.json（保留 japanese-zhaoshao-jitui）
+- 同批修复 `basil` / `thai-basil` 别名指向冲突（同一别名不得指向两个食材），去重后无悬挂引用。
+- 第 76 批（6 道，commit 1ad6ccd）：美式考伯沙拉｜法式樱桃克拉芙缇｜印度坦都里烤鸡｜意式炸饭团｜墨西哥香普拉多｜泰式猪骨清汤。
+- 第 77 批（6 道，commit db707d4）：美式薯饼｜美式焖烤牛肉｜法式巧克力面包｜印度玫瑰蜜炸球｜韩式酱土豆烧鸡｜西班牙杏仁酥饼。
+- 第 78 批（6 道，commit a3bc78a）：意式蔬菜汤｜意式番茄面包沙拉｜日式玉子烧｜墨西哥酸柑烤猪｜墨西哥炒豆泥｜泰式炒河粉。
+- 第 79 批（6 道，commit 623aabd）：美式白脱牛奶饼干｜韩式泡菜煎饼｜墨西哥红莎莎酱｜西班牙白酒煮蛤蜊｜西班牙鸡肉饭｜泰式酸辣粉丝沙拉。
+- 第 80 批（6 道，commit ca61fc4）：日式筑前煮｜日式可乐饼｜意式茄子面（诺尔玛）｜印度菠菜鸡肉咖喱｜美式芝士通心粉｜墨西哥青柠烤鸡腿。
+- 第 80 批 audit（满 10 批节点）：平均 97 分，抽样 55 道，需重写 0 道。
+- 遗留观察：库内仍有 6 组「跨菜系同名」菜（京酱肉丝 京/鲁、清蒸鲈鱼 粤/苏、香煎鳕鱼 粤/港、紫菜蛋花汤 粤/川、三杯鸡 客家/浙、油爆虾 苏/沪），属不同菜系独立版本，暂不合并，待阶段 6 全库巡检统一决策。
+- 待办：阶段 4 继续（下批从 batch-81 起），优先补 intl 菜系 core 品类与 cn 中低覆盖格子。
