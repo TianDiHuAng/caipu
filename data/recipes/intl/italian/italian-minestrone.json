@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-minestrone",
+  "name": {
+    "zh": "意式蔬菜豆汤",
+    "en": "Minestrone"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扁豆",
+          "name_en": "lentil",
+          "amount": 150,
+          "unit": "g",
+          "note": "干扁豆，提前泡软",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        },
+        {
+          "name": "意大利面",
+          "name_en": "spaghetti",
+          "amount": 150,
+          "unit": "g",
+          "note": "短管面或小通心粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小条",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 40,
+          "unit": "g",
+          "note": "现磨，出锅撒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒底用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分两次",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底汤锅",
+    "木勺",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "扁豆提前泡四小时，洋葱、胡萝卜、芹菜都切成小指甲盖大小的细丁。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "三样蔬菜切得一样大，煮完口感才协调。",
+      "visual_cue": "蔬菜丁大小均匀、扁豆胀大变软"
+    },
+    {
+      "n": 2,
+      "text": "厚底汤锅放橄榄油，下培根小火煸到出油、边缘微卷。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "培根先煸出油脂，汤的底味就从这里开始。",
+      "visual_cue": "培根缩紧出油、锅底有琥珀色油层"
+    },
+    {
+      "n": 3,
+      "text": "加入洋葱、胡萝卜、芹菜丁，中火炒八分钟到蔬菜变软发甜。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "这一步叫炒底，耐心炒软比后面多煮十分钟更有效。",
+      "visual_cue": "蔬菜丁塌软、洋葱透明不发黄"
+    },
+    {
+      "n": 4,
+      "text": "下大蒜与番茄炒到番茄出汁，加清水与扁豆煮开，撇净浮沫。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "番茄要炒到碎开，汤色才红亮不寡淡。",
+      "visual_cue": "汤色转红、番茄皮浮起"
+    },
+    {
+      "n": 5,
+      "text": "转小火加盖煮二十五分钟，煮到扁豆软糯、汤体略稠。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "扁豆先煮软再放面，否则面烂豆还硬。",
+      "visual_cue": "扁豆一压就散、汤面泛红色油光"
+    },
+    {
+      "n": 6,
+      "text": "下意大利面煮到八分钟，加盐调味，关火撒帕玛森芝士与黑胡椒。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "面在小火汤里泡着会吸汤，上桌越早越好。",
+      "visual_cue": "意大利面微软留白芯、汤浓稠能挂勺"
+    }
+  ],
+  "tips": [
+    "隔夜再吃更浓，因为面会吸汤，可加清水调稀。",
+    "加一块帕玛森芝士的硬皮同煮，鲜味会明显提升。",
+    "夏季可加西葫芦与豆角，蔬菜越杂越好。"
+  ],
+  "common_mistakes": [
+    "蔬菜没炒软直接加水，汤味生涩发水。",
+    "面与豆同时下锅，面糊了豆还硬。",
+    "一次加足盐又长时间收汁，最后咸得发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "五花肉",
+      "ratio": "80g 对 80g",
+      "note": "需先切细条煸出油，风味接近。"
+    },
+    {
+      "original": "扁豆",
+      "substitute": "红豆",
+      "ratio": "150g 对 150g",
+      "note": "更绵密，煮的时间需延长十分钟。"
+    }
+  ],
+  "variations": [
+    "加入卷心菜与土豆块，做成更接近北方乡村的浓汤版。",
+    "全素版省去培根，用干香菇与番茄膏补鲜。"
+  ],
+  "serving_suggestion": "盛深碗，淋一圈橄榄油撒帕玛森芝士，配硬壳面包蘸汤。",
+  "storage": "冷藏三天，冷冻一个月；复热需加水稀释并重新调味。",
+  "nutrition_estimate": {
+    "basis": "每份（约 400g）",
+    "calories_kcal": 360,
+    "protein_g": 16,
+    "fat_g": 12,
+    "carbs_g": 46,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "汤里有面与豆，室温放置不要超过两小时，避免细菌繁殖。",
+    "培根需煸到熟透再加水，避免半熟肉在汤里久煮发柴。",
+    "复热时务必煮到滚沸，不要只加热到温热。"
+  ],
+  "origin_note": "Minestrone 的字根来自意大利语的 minestra（汤菜），是意大利农家用当季蔬菜、豆子和剩意面煮成的一锅汤。没有固定配方，各地按收成随手加减，罗马式爱加朝鲜蓟，米兰式偏浓稠。它体现的是意大利家常菜的思路：手边有什么就往锅里放什么。",
+  "tags": [
+    "意大利",
+    "汤",
+    "豆类",
+    "蔬菜",
+    "家常"
+  ],
+  "related_ids": [
+    "pomodoro-pasta",
+    "bruschetta",
+    "caprese-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

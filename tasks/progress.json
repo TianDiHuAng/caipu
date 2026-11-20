@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:53:25.616Z",
+  "generatedAt": "2026-11-20T11:07:38.897Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 505,
+    "cells": 506,
     "target": 3274,
-    "actual": 601,
-    "coverage": 0.18356750152718387
+    "actual": 607,
+    "coverage": 0.18540012217470983
   },
   "regions": {
     "cn": [
@@ -2225,7 +2225,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 25,
         "cells": [
           {
             "category": "main-seafood",
@@ -2294,8 +2294,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "japanese-tamagoyaki"
+            ]
           },
           {
             "category": "main-tofu",
@@ -2504,7 +2506,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 25,
         "cells": [
           {
             "category": "main-poultry",
@@ -2590,9 +2592,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "pad-thai"
+              "pad-thai",
+              "thai-pad-see-ew"
             ]
           },
           {
@@ -2631,7 +2634,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 21,
+        "actual": 23,
         "cells": [
           {
             "category": "staple-bread",
@@ -2725,9 +2728,19 @@
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
+            "actual": 2,
+            "ids": [
+              "caprese-salad",
+              "italian-panzanella"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
             "actual": 1,
             "ids": [
-              "caprese-salad"
+              "italian-minestrone"
             ]
           },
           {
@@ -4458,7 +4471,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 19,
+        "actual": 21,
         "cells": [
           {
             "category": "snack",
@@ -4476,10 +4489,11 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "carnitas",
               "chili-con-carne",
+              "mexican-cochinita-pibil",
               "ropa-vieja"
             ]
           },
@@ -4521,8 +4535,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mexican-frijoles-refritos"
+            ]
           },
           {
             "category": "main-egg",
