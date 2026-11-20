@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-arancini",
+  "name": {
+    "zh": "意式炸饭团",
+    "en": "Arancini (Sicilian Fried Rice Balls)"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 18,
+    "total_min": 48
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 450,
+          "unit": "g",
+          "note": "隔夜冷饭，偏干爽",
+          "optional": false
+        },
+        {
+          "name": "马苏里拉",
+          "name_en": "mozzarella",
+          "amount": 120,
+          "unit": "g",
+          "note": "切成小方丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "一个拌饭，一个裹液",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 90,
+          "unit": "g",
+          "note": "细颗粒",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 40,
+          "unit": "g",
+          "note": "磨碎",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "拌饭增香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "裹粉用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 320,
+          "unit": "ml",
+          "note": "分两次炸，油量刚好没过饭球一半",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "厨房纸",
+    "食品夹"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱切成细末，用黄油小火炒到透明发甜，撒盐和黑胡椒后晾凉。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱末炒到半透明就够，上色太深会抢味。",
+      "visual_cue": "洋葱变软透亮、没有焦边"
+    },
+    {
+      "n": 2,
+      "text": "冷饭加一个鸡蛋、帕玛森芝士和炒好的洋葱，撒盐和黑胡椒拌到粒粒分明。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "饭要压散再拌，用饭勺切拌比搅更松散。",
+      "visual_cue": "米饭松散抱团、不见结块"
+    },
+    {
+      "n": 3,
+      "text": "手心沾水，取一勺米饭压成窝状，放入马苏里拉丁收口捏成球。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "手心沾水防粘，收口处务必捏紧避免炸开。",
+      "visual_cue": "饭球圆整、表面光滑无裂缝"
+    },
+    {
+      "n": 4,
+      "text": "饭球先滚一层面粉，再裹上打散的蛋液，最后压实面包糠。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "三段裹法顺序不能乱，面包糠要轻压才粘牢。",
+      "visual_cue": "外层覆满面包糠、轻碰不掉渣"
+    },
+    {
+      "n": 5,
+      "text": "锅中倒植物油烧到约一百七十度，饭球逐个下锅炸至浅金。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温用面包糠试一下，入锅立刻起泡就对了。",
+      "visual_cue": "外壳鼓起、颜色转浅金黄"
+    },
+    {
+      "n": 6,
+      "text": "捞出饭球沥油，静置一分钟后再复炸二十秒让外壳酥脆。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "复炸能让外层干爽，内里芝士刚好流心。",
+      "visual_cue": "外壳硬挺、晃动有沙沙声"
+    }
+  ],
+  "tips": [
+    "饭一定要用冷饭，新煮的饭水分太多会散。",
+    "马苏里拉换成切达或莫扎里拉混合，拉丝效果更明显。",
+    "一次可以多做些生坯冷冻，想吃时无需解冻直接下锅。"
+  ],
+  "common_mistakes": [
+    "用刚煮好的热饭捏团，下锅直接炸散开花。",
+    "收口没捏紧，油一热芝士就漏出来炸成黑点。",
+    "油温过低就下锅，外层吸满油、咬开一嘴油腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "马苏里拉",
+      "substitute": "帕玛森芝士",
+      "ratio": "120g 对 80g",
+      "note": "风味更咸香，但没有流心效果。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "玉米面",
+      "ratio": "90g 对 80g",
+      "note": "外皮更粗脆，油温要再低十度防焦。"
+    }
+  ],
+  "variations": [
+    "饭里拌入肉酱和豌豆，做成西西里经典的 Ragù 版本。",
+    "包入一小块黄油和火腿，做成北意的 Supplì 风格。"
+  ],
+  "serving_suggestion": "趁热装盘，配一小碟番茄酱或柠檬角解腻。",
+  "storage": "炸好的当天吃完，生坯可冷冻一个月，直接冷油炸制。",
+  "nutrition_estimate": {
+    "basis": "每份（3 个约 210g）",
+    "calories_kcal": 520,
+    "protein_g": 19,
+    "fat_g": 26,
+    "carbs_g": 52,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "饭球中心必须彻底热透，芝士完全融化才说明内部熟透。",
+    "含鸡蛋、牛奶与小麦，过敏体质者需注意。",
+    "油炸时饭球不要装太满，油面留出足够空间避免溢锅起火。"
+  ],
+  "origin_note": "Arancini 出自西西里岛，名字取自形似的小橙子。传统做法是把前一天的藏红花饭捏团，包入肉酱或芝士后裹糠油炸，外脆内软还会拉丝。它是街头小吃也是节庆冷盘，凉了也好吃，因此成了意大利家庭处理剩饭的经典方案。",
+  "tags": [
+    "意大利",
+    "西西里",
+    "油炸",
+    "米饭",
+    "开胃菜"
+  ],
+  "related_ids": [
+    "mushroom-risotto",
+    "bruschetta",
+    "pesto"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

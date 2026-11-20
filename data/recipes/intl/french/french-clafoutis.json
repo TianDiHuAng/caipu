@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-clafoutis",
+  "name": {
+    "zh": "法式苹果克拉芙缇",
+    "en": "Apple Clafoutis"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 3,
+          "unit": "piece",
+          "note": "脆甜品种，去皮切月牙片",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "常温回温",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 80,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 80,
+          "unit": "g",
+          "note": "分次加入",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 25,
+          "unit": "g",
+          "note": "融化刷模",
+          "optional": false
+        },
+        {
+          "name": "香草荚",
+          "name_en": "vanilla pod",
+          "amount": 1,
+          "unit": "stalk",
+          "note": "刮籽取香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "一撮平衡甜味",
+          "optional": false
+        },
+        {
+          "name": "糖粉",
+          "name_en": "powdered sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "出炉装饰",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "打蛋器",
+    "圆形烤盘",
+    "面粉筛"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "烤箱预热到一百八十度，烤盘内壁刷一层融化的黄油并撒薄粉。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "刷油撒粉是脱模的关键，边角位置都别漏。",
+      "visual_cue": "盘壁均匀挂一层薄粉"
+    },
+    {
+      "n": 2,
+      "text": "苹果去皮去核，切成半厘米厚的月牙片，泡淡盐水防氧化。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切得厚薄一致，烤的时候才一起熟透。",
+      "visual_cue": "果片边缘齐整、颜色乳白"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋加白糖和一小撮盐，用打蛋器搅到糖完全化开。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "不用打发，搅到糖粒消失、蛋液顺滑就够。",
+      "visual_cue": "蛋液颜色变浅、看不到糖粒"
+    },
+    {
+      "n": 4,
+      "text": "筛入低筋面粉轻轻拌匀，再分两次倒入牛奶搅成稀面糊。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "面粉别过度搅，拌到无干粉即可避免起筋。",
+      "visual_cue": "面糊能顺滑流动、无颗粒"
+    },
+    {
+      "n": 5,
+      "text": "刮入香草籽与一半融化黄油拌匀，静置十分钟消掉大气泡。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置这一步能让烤出的表面平整细腻。",
+      "visual_cue": "面糊表面气泡明显减少"
+    },
+    {
+      "n": 6,
+      "text": "苹果片铺入烤盘，倒入面糊至八分满，入炉烤三十五分钟。",
+      "time_min": 35,
+      "heat": "中火",
+      "tip": "面糊只倒八分满，膨胀后不会溢到盘外。",
+      "visual_cue": "表面金黄、中心轻晃不流动"
+    },
+    {
+      "n": 7,
+      "text": "出炉晾十分钟，筛上糖粉，温吃或冷藏后切块。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "刚出炉太软，晾一会再切才成型。",
+      "visual_cue": "边缘离模、切面细腻无湿心"
+    }
+  ],
+  "tips": [
+    "苹果选脆甜的红富士或嘎啦，烤完仍带一点咬劲。",
+    "面糊过筛一次口感更细腻，尤其是面粉容易结小粒。",
+    "模具换成小烤盅做成一人份，烘烤时间缩短十分钟。"
+  ],
+  "common_mistakes": [
+    "面糊搅得太用力太久，烤完口感发硬像发糕。",
+    "苹果片切太薄，烤完烂成泥看不出形状。",
+    "没刷油就倒面糊，脱模时整块粘在盘底。"
+  ],
+  "substitutions": [
+    {
+      "original": "苹果",
+      "substitute": "梨",
+      "ratio": "3 个 对 3 个",
+      "note": "梨水分更多，面粉加十克吸收。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "250ml 对 200ml",
+      "note": "口感更厚重，热量明显上升。"
+    }
+  ],
+  "variations": [
+    "苹果换成樱桃或蓝莓，做成经典的法式水果克拉芙缇。",
+    "面糊里加一勺朗姆酒与柠檬皮屑，香气更有层次。"
+  ],
+  "serving_suggestion": "温热时切块，配一勺香草冰淇淋或撒糖粉直接吃。",
+  "storage": "冷藏三天，食用前用烤箱一百六十度回温五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 130g）",
+    "calories_kcal": 230,
+    "protein_g": 6,
+    "fat_g": 8,
+    "carbs_g": 34,
+    "sodium_mg": 80,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "面糊中心必须烤到熟透、轻晃不再流动，未凝固的蛋液有沙门氏菌风险。",
+    "含鸡蛋、牛奶与小麦，过敏人群需回避。",
+    "烤盘出炉后温度很高，静置时请放在隔热垫上。"
+  ],
+  "origin_note": "Clafoutis 源自法国中部的利穆赞地区，原本只用黑樱桃制作，民间说法是樱桃核在烘烤中会释放淡淡杏仁香。到了苹果盛产的季节，人们改用苹果片，面糊薄薄裹住果肉，介于布丁与蛋糕之间，是法国家常甜品里最省事的一种。",
+  "tags": [
+    "法国",
+    "甜品",
+    "苹果",
+    "烤箱",
+    "家常"
+  ],
+  "related_ids": [
+    "tarte-tatin",
+    "creme-brulee",
+    "panna-cotta"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

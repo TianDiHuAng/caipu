@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-cobb-salad",
+  "name": {
+    "zh": "美式科布沙拉",
+    "en": "Cobb Salad"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "total_min": 32
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 200,
+          "unit": "g",
+          "note": "罗马生菜或球生菜，撕小片",
+          "optional": false
+        },
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 200,
+          "unit": "g",
+          "note": "煎熟切条",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 60,
+          "unit": "g",
+          "note": "煎脆切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "水煮八分钟切角",
+          "optional": false
+        },
+        {
+          "name": "牛油果",
+          "name_en": "avocado",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "樱桃番茄",
+          "name_en": "cherry tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "对半切",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 30,
+          "unit": "g",
+          "note": "刨碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "第戎芥末",
+          "name_en": "Dijon mustard",
+          "amount": 10,
+          "unit": "g",
+          "note": "调汁基底",
+          "optional": false
+        },
+        {
+          "name": "红酒醋",
+          "name_en": "red wine vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提供酸度",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "分次乳化",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "沙拉碗",
+    "小密封罐",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡胸肉撒盐和黑胡椒，平底锅中火两面各煎四分钟至全熟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "拍松后再煎受热更均匀，中心不会发柴。",
+      "visual_cue": "表面金黄、按压回弹不渗血水"
+    },
+    {
+      "n": 2,
+      "text": "煎好的鸡胸静置五分钟再切成手指粗的条状。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "静置能让肉汁收住，切的时候不流失。",
+      "visual_cue": "切面湿润有光泽、肉质紧实"
+    },
+    {
+      "n": 3,
+      "text": "培根用小火煎到出油变脆，捞出用厨房纸吸走多余油脂。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "小火慢煎才能脆而不糊，锅里不用另外放油。",
+      "visual_cue": "培根卷曲变深、敲击有脆响"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋冷水下锅煮八分钟，过冷水后剥壳切成四角。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "煮好立刻过冷水，蛋黄边缘才不会发灰。",
+      "visual_cue": "蛋白凝固、蛋黄中心微润"
+    },
+    {
+      "n": 5,
+      "text": "第戎芥末、红酒醋、盐和黑胡椒装罐摇匀，再分次加橄榄油乳化。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "油要一点点加，摇到汁液变稠才挂得住菜叶。",
+      "visual_cue": "沙拉汁浓稠发亮、不分层"
+    },
+    {
+      "n": 6,
+      "text": "生菜铺底，把鸡肉、培根、鸡蛋、牛油果和樱桃番茄按颜色分区摆放。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "分区摆盘是科布沙拉的规矩，吃前再淋汁拌开。",
+      "visual_cue": "各色食材排成整齐条带、菜叶清爽"
+    },
+    {
+      "n": 7,
+      "text": "淋上沙拉汁，撒帕玛森芝士，上桌前轻轻拌开即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汁最后淋，提前拌会让生菜出水塌下来。",
+      "visual_cue": "菜叶裹薄汁、芝士碎均匀分布"
+    }
+  ],
+  "tips": [
+    "牛油果切开后拌一点柠檬汁，颜色不会发黑。",
+    "鸡肉换成烤虾或烤三文鱼，就是常见的海鲜版本。",
+    "沙拉汁可以提前一晚调好冷藏，第二天省事很多。"
+  ],
+  "common_mistakes": [
+    "生菜洗完没甩干，盘底积一层水把沙拉汁冲淡。",
+    "培根用大火煎，外面焦了里面还软。",
+    "所有食材提前拌在一起，上桌时菜叶已经软塌出水。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "鸡腿肉",
+      "ratio": "200g 对 220g",
+      "note": "鸡腿更嫩，煎的时间各延长一分钟。"
+    },
+    {
+      "original": "红酒醋",
+      "substitute": "柠檬汁",
+      "ratio": "15ml 对 12ml",
+      "note": "酸味更清爽，适合配海鲜版本。"
+    }
+  ],
+  "variations": [
+    "加入玉米粒与黑豆，做成更饱腹的加州风版本。",
+    "把所有食材切成小块拌成卷饼馅，做成科布沙拉卷。"
+  ],
+  "serving_suggestion": "用宽口浅盘分区摆盘，配烤面包片当正餐沙拉。",
+  "storage": "食材分开冷藏，沙拉汁单独存放，两天内吃完。",
+  "nutrition_estimate": {
+    "basis": "每份（约 320g）",
+    "calories_kcal": 480,
+    "protein_g": 34,
+    "fat_g": 34,
+    "carbs_g": 12,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk",
+    "mustard",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋必须煮到蛋黄完全凝固，中心温度达到七十五度以上才算熟透。",
+    "鸡胸肉必须完全煎熟，中心不留粉色。",
+    "生食蔬菜请用流水逐片冲洗，牛油果切开后尽快食用。"
+  ],
+  "origin_note": "科布沙拉诞生于上世纪三十年代的洛杉矶，布朗德比餐厅的老板科布用厨房现成的培根、鸡肉、鸡蛋和牛油果拼成一盘，淋上法式油醋汁。它的特点是食材按条带分区摆放而不是拌成一团，客人可以自由搭配，这种摆法后来成了美式沙拉的经典样式。",
+  "tags": [
+    "美国",
+    "沙拉",
+    "鸡肉",
+    "培根",
+    "轻食"
+  ],
+  "related_ids": [
+    "caesar-salad",
+    "american-potato-salad",
+    "buffalo-wings"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
