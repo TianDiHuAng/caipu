@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T13:20:20.352Z",
+  "generatedAt": "2026-11-20T13:40:57.971Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 507,
     "target": 3274,
-    "actual": 627,
-    "coverage": 0.19150885766646306
+    "actual": 633,
+    "coverage": 0.193341478313989
   },
   "regions": {
     "cn": [
@@ -1603,14 +1603,16 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 12,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "xiaomila-kugua"
+            ]
           },
           {
             "category": "soup",
@@ -1636,15 +1638,19 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "yangyu-ba"
+            ]
           },
           {
             "category": "fermented",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "guizhou-zaolajiao"
+            ]
           },
           {
             "category": "main-egg",
@@ -1697,7 +1703,7 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
@@ -1724,15 +1730,19 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "kejia-xiancai-zhudu-tang"
+            ]
           },
           {
             "category": "fermented",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "kejia-suan-luobo"
+            ]
           },
           {
             "category": "banquet",
@@ -1783,14 +1793,16 @@
         "en": "Chaoshan",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "chaoshan-haolao"
+            ]
           },
           {
             "category": "soup",

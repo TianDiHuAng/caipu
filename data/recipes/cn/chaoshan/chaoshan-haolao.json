@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chaoshan-haolao",
+  "name": {
+    "zh": "潮汕蚝烙",
+    "en": "Chaoshan Oyster Omelette"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "chaoshan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "total_min": 32
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "海蛎",
+          "name_en": "small oysters",
+          "amount": 300,
+          "unit": "g",
+          "note": "选小粒珍珠蚝，洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "红薯淀粉",
+          "name_en": "sweet potato starch",
+          "amount": 100,
+          "unit": "g",
+          "note": "潮汕地瓜粉，颗粒状更佳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "打散备用",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "潮汕蘸料与调味",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 40,
+          "unit": "g",
+          "note": "煎烙关键",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调粉浆",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "调粉浆",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "大碗",
+    "锅铲",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "海蛎放入淡盐水中轻轻淘洗，挑去碎壳，用漏勺沥干水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洗海蛎要轻手，搅破蚝肚会流失鲜汁，成品发干。",
+      "visual_cue": "蚝粒完整饱满、无碎壳杂质"
+    },
+    {
+      "n": 2,
+      "text": "红薯淀粉加清水与盐搅成稀糊，静置十分钟后搅匀，粉糊像米汤般能流动。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "粉糊要偏稀，太稠煎出的烙饼发硬不透。",
+      "visual_cue": "粉糊顺滑无颗粒、舀起能直线流下"
+    },
+    {
+      "n": 3,
+      "text": "平底锅烧热放猪油化开，倒入粉糊摊成薄饼，中小火煎到边缘定型。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "猪油要够量，油少了蚝烙贴锅撕不下来。",
+      "visual_cue": "粉糊凝成半透明薄片、边缘微翘"
+    },
+    {
+      "n": 4,
+      "text": "把海蛎与葱花均匀撒在饼面上，轻压让蚝粒嵌入粉层。",
+      "time_min": 2,
+      "heat": "中小火",
+      "tip": "海蛎后放，久煎会缩水变硬，鲜味跑掉。",
+      "visual_cue": "蚝粒均匀分布、葱花铺满表面"
+    },
+    {
+      "n": 5,
+      "text": "沿锅边淋入蛋液，转中火煎到蛋液凝固，用锅铲整片翻面。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "翻面时用两个铲子托住，整片翻转才不会散。",
+      "visual_cue": "蛋液凝结成金黄外壳、饼身能整体移动"
+    },
+    {
+      "n": 6,
+      "text": "另一面再煎两分钟至焦脆，淋鱼露提味后滑入盘中。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "出锅前把火调大十秒，边缘会更脆。",
+      "visual_cue": "两面金黄焦脆、蚝粒仍饱满"
+    },
+    {
+      "n": 7,
+      "text": "鱼露加少许胡椒粉调成蘸碟，趁热蘸食，配一小碟香菜更地道。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "蘸碟只需鱼露与胡椒，别加酱油压住蚝的鲜。",
+      "visual_cue": "蘸汁清亮微褐、胡椒香气明显"
+    }
+  ],
+  "tips": [
+    "红薯淀粉是蚝烙的灵魂，用玉米淀粉替代会失去弹糯口感。",
+    "全程中小火，火大蛋壳焦而内部粉层还是生的。",
+    "海蛎选珠蚝，颗粒小易熟，蚝味集中不腥。"
+  ],
+  "common_mistakes": [
+    "粉糊太稠，煎出的饼厚实发硬，海蛎被埋在生粉里。",
+    "海蛎一开始就与粉糊混在一起久煎，蚝粒缩成硬丁。",
+    "油不够就下锅，蚝烙粘底碎裂，翻面时全散。"
+  ],
+  "substitutions": [
+    {
+      "original": "海蛎",
+      "substitute": "虾仁",
+      "ratio": "300g 对 250g",
+      "note": "虾仁需切半并提前用盐抓洗，口感更爽。"
+    },
+    {
+      "original": "猪油",
+      "substitute": "植物油",
+      "ratio": "40g 对 45ml",
+      "note": "植物油香度低，脆度相近但少了脂香。"
+    }
+  ],
+  "variations": [
+    "加入豆芽同煎，做成潮汕街头常见的豆芽蚝烙，口感更爽脆。",
+    "淋上少许沙茶酱再撒香菜，做成沙茶风味的改良版本。"
+  ],
+  "serving_suggestion": "整片滑入盘中趁热吃，配鱼露胡椒蘸碟与一碗白粥。",
+  "storage": "现煎现吃最佳，冷藏后复热需用平底锅干煎恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 390,
+    "protein_g": 15,
+    "fat_g": 22,
+    "carbs_g": 33,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "mollusk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "海蛎属滤食性贝类，必须彻底加热到蛋液与粉层熟透，不要生食。",
+    "贝类易携带致病菌，购买时选鲜活、气味清新的，冷藏不超过一天。",
+    "煎烙时油温高，翻面动作易溅油，请用长柄铲并保持距离。"
+  ],
+  "origin_note": "蚝烙是潮汕街头的招牌小吃，用当地小粒珠蚝拌红薯粉浆，下猪油煎成薄片再淋蛋液翻面，成品外焦里糯、蚝鲜混着蛋香。潮汕人吃蚝烙必配一碟鱼露胡椒粉，讲究现煎现吃，凉了就失了那份焦脆。",
+  "tags": [
+    "潮汕",
+    "海鲜",
+    "蚝",
+    "煎",
+    "小吃"
+  ],
+  "related_ids": [
+    "chaoshan-niurou-wan",
+    "minnan-jian-xie",
+    "congyou-xia"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

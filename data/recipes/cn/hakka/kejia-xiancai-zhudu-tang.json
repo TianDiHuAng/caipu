@@ -1,0 +1,224 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "kejia-xiancai-zhudu-tang",
+  "name": {
+    "zh": "客家咸菜猪肚汤",
+    "en": "Hakka Pork Tripe Soup with Pickled Mustard"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 120,
+    "total_min": 160
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "savory",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肚",
+          "name_en": "pork tripe",
+          "amount": 600,
+          "unit": "g",
+          "note": "整只猪肚，翻面洗净",
+          "optional": false
+        },
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 300,
+          "unit": "g",
+          "note": "客家咸酸菜，切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 6,
+          "unit": "g",
+          "note": "拍碎更出味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "焯水去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "起锅前调",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "炖汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "高压锅可选",
+    "漏勺",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肚翻出内壁，用粗盐与白醋反复搓洗三遍，剪去油脂与厚膜，冲水到无异味。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "洗猪肚关键是去黏液，盐搓后用温水冲，冷水冲不净。",
+      "visual_cue": "肚壁发白不滑手、闻起来无腥臊"
+    },
+    {
+      "n": 2,
+      "text": "猪肚冷水下锅，加料酒与一半姜片，水开后煮五分钟，撇净浮沫捞出冲凉。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "焯水必须冷水下锅，热水下锅会把腥味锁在里面。",
+      "visual_cue": "肚身收缩发硬、水面浮沫撇净"
+    },
+    {
+      "n": 3,
+      "text": "焯好的猪肚切成两厘米宽的长条，酸菜用清水泡五分钟挤干，去掉过重的咸酸。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "酸菜咸度差别大，泡水后先尝一口再决定用量。",
+      "visual_cue": "肚条断面紧实、酸菜叶片柔软"
+    },
+    {
+      "n": 4,
+      "text": "砂锅中放清水、肚条、余下姜片与拍碎的白胡椒，大火烧开转小火炖一小时。",
+      "time_min": 65,
+      "heat": "小火",
+      "tip": "白胡椒要拍碎才出香，整粒放进去味道闷在壳里。",
+      "visual_cue": "汤色微白、肚条能用筷子插透"
+    },
+    {
+      "n": 5,
+      "text": "加入酸菜段继续小火炖二十分钟，让酸味渗进汤里。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "酸菜后放，早放会使猪肚不易炖软。",
+      "visual_cue": "汤色转浅黄、酸香飘出"
+    },
+    {
+      "n": 6,
+      "text": "起锅前尝味补盐，撒少许白胡椒粉，连汤带料盛入汤碗。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酸菜本身带咸，盐要在最后关头按实际咸度加。",
+      "visual_cue": "汤面浮少量油星、酸香扑鼻"
+    }
+  ],
+  "tips": [
+    "猪肚想更省时可先用高压锅压十五分钟，再转砂锅与酸菜同炖。",
+    "白胡椒与酸菜是客家猪肚汤的两大主味，缺一不可。",
+    "汤要小火慢炖，大火滚煮会让汤浑、肚条缩硬。"
+  ],
+  "common_mistakes": [
+    "猪肚只用清水冲，黏液没去净，汤始终带腥臊味。",
+    "酸菜与猪肚同时下锅，酸味抑制胶原软化，肚条嚼不烂。",
+    "中途加冷水，汤温骤降，肚条收缩变硬汤味变淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "酸菜",
+      "substitute": "雪菜",
+      "ratio": "300g 对 300g",
+      "note": "雪菜咸度较低，盐量可按口味略增。"
+    },
+    {
+      "original": "猪肚",
+      "substitute": "猪骨",
+      "ratio": "600g 对 800g",
+      "note": "换成猪骨汤更清，但缺少猪肚的胶质与嚼感。"
+    }
+  ],
+  "variations": [
+    "加入一把泡发的白胡椒粒与腐竹同炖，做成客家胡椒猪肚汤。",
+    "最后打入两个鸡蛋成蛋花，做成更家常的浓汤版本。"
+  ],
+  "serving_suggestion": "盛入大汤碗趁热喝，配白米饭或客家酿豆腐一起吃。",
+  "storage": "冷藏两天，复热时小火慢滚，不要反复加热多次。",
+  "nutrition_estimate": {
+    "basis": "每份（约 400g）",
+    "calories_kcal": 230,
+    "protein_g": 26,
+    "fat_g": 10,
+    "carbs_g": 8,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肚必须彻底加热炖至软烂，中心熟透才可食用，避免肠胃不适。",
+    "内脏制品不耐存放，剩余汤请冷藏并在两天内吃完。",
+    "腌菜含盐较高，高血压人群不宜多喝汤底。"
+  ],
+  "origin_note": "客家咸菜猪肚汤是粤东与闽西客家人的家常汤水，用自家腌的咸酸菜配整只猪肚慢炖，白胡椒提辣去腥。客家人相信这道汤暖胃驱寒，产妇与身体虚弱者常喝，也是过年桌上必有的一锅。",
+  "tags": [
+    "客家",
+    "汤",
+    "猪肚",
+    "酸菜",
+    "炖"
+  ],
+  "related_ids": [
+    "hakka-meicai-kourou",
+    "kejia-chao-mifen",
+    "yanju-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

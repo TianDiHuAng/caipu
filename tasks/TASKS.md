@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-20T13:20:20.439Z
+> 生成时间：2026-11-20T13:40:58.052Z
 
-**总览**：工程任务 49/53；菜谱内容 627/3274（19.2%），共 507 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 633/3274（19.3%），共 507 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（392/1339）
+### 中国菜系（398/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，59/107</summary>
 
@@ -286,13 +286,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>云贵菜 yunguai</b> — B 级，9/38</summary>
+<details><summary><b>云贵菜 yunguai</b> — B 级，12/38</summary>
 
-- [ ] `P4-yunguai/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 0
+- [ ] `P4-yunguai/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 1
 - [ ] `P4-yunguai/soup` 汤羹（Soup）目标 6，已完成 2
 - [ ] `P4-yunguai/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
-- [ ] `P4-yunguai/snack` 小吃（Street Food）目标 6，已完成 0
-- [ ] `P4-yunguai/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 0
+- [ ] `P4-yunguai/snack` 小吃（Street Food）目标 6，已完成 1
+- [ ] `P4-yunguai/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 1
 - [ ] `P4-yunguai/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [ ] `P4-yunguai/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
 - [x] `P4-yunguai/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 3
@@ -301,12 +301,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>客家菜 hakka</b> — B 级，8/38</summary>
+<details><summary><b>客家菜 hakka</b> — B 级，10/38</summary>
 
 - [ ] `P4-hakka/main-meat` 主菜·肉（Meat Main）目标 6，已完成 4
 - [ ] `P4-hakka/main-tofu` 主菜·豆制品（Tofu Main）目标 6，已完成 1
-- [ ] `P4-hakka/soup` 汤羹（Soup）目标 6，已完成 0
-- [ ] `P4-hakka/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 0
+- [ ] `P4-hakka/soup` 汤羹（Soup）目标 6，已完成 1
+- [ ] `P4-hakka/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 1
 - [ ] `P4-hakka/banquet` 宴客菜（Banquet）目标 6，已完成 1
 - [ ] `P4-hakka/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-hakka/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
@@ -315,9 +315,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>潮汕菜 chaoshan</b> — B 级，3/38</summary>
+<details><summary><b>潮汕菜 chaoshan</b> — B 级，4/38</summary>
 
-- [ ] `P4-chaoshan/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 0
+- [ ] `P4-chaoshan/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 1
 - [ ] `P4-chaoshan/soup` 汤羹（Soup）目标 6，已完成 0
 - [ ] `P4-chaoshan/snack` 小吃（Street Food）目标 6，已完成 1
 - [ ] `P4-chaoshan/sauce` 酱汁与基础调味（Sauce）目标 6，已完成 0
