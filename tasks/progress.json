@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:06:59.740Z",
+  "generatedAt": "2026-11-20T02:41:12.067Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 498,
     "target": 3274,
-    "actual": 504,
-    "coverage": 0.15394013439218082
+    "actual": 509,
+    "coverage": 0.15546731826511911
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 51,
+        "actual": 52,
         "cells": [
           {
             "category": "main-meat",
@@ -93,10 +93,11 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "ganbian-doujiao",
               "ganbian-sijidou",
+              "hupi-qingjiao",
               "shuizhu-yu",
               "suanla-tudousi",
               "yuxiang-qiezi"
@@ -204,7 +205,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 37,
         "cells": [
           {
             "category": "main-seafood",
@@ -225,13 +226,14 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "baochao-yaohua",
               "bazi-rou",
               "congbao-yangrou",
               "jiuzhuan-dachang",
-              "shandong-surou"
+              "shandong-surou",
+              "tangcu-liji"
             ]
           },
           {
@@ -352,30 +354,33 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 40,
+        "actual": 43,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "baizhuo-xia",
               "chizhi-zheng-shanbei",
               "jiangcong-chaohuaxie",
               "jiaoyan-xianyou",
               "qingzheng-luyu",
-              "xia-ren-huadan"
+              "xia-ren-huadan",
+              "xiangjian-xueyu"
             ]
           },
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 6,
             "ids": [
+              "bobo-gulaorou",
               "chijiao-niurou",
               "chizhi-paigu",
+              "fanqie-niunan",
               "gulu-rou",
               "mizhi-chashao"
             ]

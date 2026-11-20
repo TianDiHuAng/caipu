@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fanqie-niunan",
+  "name": {
+    "zh": "番茄牛腩",
+    "en": "Beef Brisket with Tomato"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 80,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 600,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "三个，两个炒汁一个留块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 30,
+          "unit": "g",
+          "note": "加深汤色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提亮和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "炖煮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "炖锅",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成三厘米见方的块，用清水浸泡二十分钟去血水。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡出血水，汤才清亮不腥。",
+      "visual_cue": "肉块发白、水色变浅"
+    },
+    {
+      "n": 2,
+      "text": "牛腩冷水下锅，加料酒与两片生姜大火煮开撇去浮沫。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才逼得干净。",
+      "visual_cue": "浮沫浮起、汤色由浊转清"
+    },
+    {
+      "n": 3,
+      "text": "牛腩捞出用温水冲净表面浮沫，沥干水分待用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用温水冲，冷水一激肉会紧。",
+      "visual_cue": "肉块干净、表面无沫"
+    },
+    {
+      "n": 4,
+      "text": "番茄顶部划十字，用开水烫一分钟后撕去外皮切块。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "去皮后汤汁才细腻不带渣。",
+      "visual_cue": "番茄皮整片揭下、果肉分块"
+    },
+    {
+      "n": 5,
+      "text": "炒锅下植物油，爆香洋葱、蒜与姜片炒到洋葱半透明。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒软才能释放甜味。",
+      "visual_cue": "洋葱透明、香气浓郁"
+    },
+    {
+      "n": 6,
+      "text": "下三分之二番茄块中火翻炒到出沙、化成浓稠糊状。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "炒出沙是汤浓的关键，别急着加水。",
+      "visual_cue": "番茄塌软、锅底见红色沙汁"
+    },
+    {
+      "n": 7,
+      "text": "加番茄酱炒匀，倒入牛腩块翻炒上色后转进炖锅。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄酱要炒透，生味才散掉。",
+      "visual_cue": "牛腩裹满红色酱汁"
+    },
+    {
+      "n": 8,
+      "text": "加清水、生抽与冰糖，大火烧开后转小火炖六十分钟。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "小火慢炖，牛腩才软而不散。",
+      "visual_cue": "汤汁微沸、牛腩能用筷子插入"
+    },
+    {
+      "n": 9,
+      "text": "下剩余番茄块再炖十分钟，加盐与黑胡椒调味。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "后放的番茄保留果肉口感。",
+      "visual_cue": "番茄成块不烂、汤色红亮"
+    },
+    {
+      "n": 10,
+      "text": "盛出撒上葱花即可上桌，汤汁拿来拌白饭最香。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "盐要最后放，早放肉不易烂。",
+      "visual_cue": "汤面浮油、牛腩软糯挂汁"
+    }
+  ],
+  "tips": [
+    "牛腩选带筋膜的坑腩，炖出来才软糯多汁。",
+    "番茄分两次下，一次出汁一次留口感。",
+    "炖好后静置一夜再热，味道更融合。"
+  ],
+  "common_mistakes": [
+    "牛腩热水下锅焯，血沫锁在肉里汤发腥。",
+    "全程大火猛炖，牛腩外层散烂内里还硬。",
+    "番茄没炒出沙就添水，汤色淡味也寡。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "600g 对 600g",
+      "note": "炖制时间需延长二十分钟。"
+    },
+    {
+      "original": "番茄酱",
+      "substitute": "番茄膏",
+      "ratio": "30g 对 20g",
+      "note": "味道更集中，需减冰糖。"
+    }
+  ],
+  "variations": [
+    "加两个土豆同炖，汤汁更绵密饱腹。",
+    "收汁前加一勺沙茶酱，风味更浓。"
+  ],
+  "serving_suggestion": "连汤带肉浇在白饭上，酸甜开胃最下饭。",
+  "storage": "冷藏可放三天，炖菜隔夜回热更好吃。",
+  "nutrition_estimate": {
+    "basis": "每份（约 300g）",
+    "calories_kcal": 420,
+    "protein_g": 30,
+    "fat_g": 26,
+    "carbs_g": 16,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至中心完全熟透软烂，不带血水。",
+    "焯水后汤汁表面浮油温度极高，盛装时防烫伤。",
+    "番茄与生肉接触的砧板须分开使用并彻底清洗。"
+  ],
+  "origin_note": "番茄牛腩是粤港家庭的常备炖菜，番茄炒出沙再与牛腩同炖，汤色红亮、酸香微甜，一碗汤汁能拌下一整碗饭。",
+  "tags": [
+    "粤菜",
+    "炖菜",
+    "家常",
+    "下饭"
+  ],
+  "related_ids": [
+    "huizhou-hongshaorou",
+    "dalu-mian",
+    "yuxiang-rousi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
