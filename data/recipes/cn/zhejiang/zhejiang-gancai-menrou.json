@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-gancai-menrou",
+  "name": {
+    "zh": "干菜焖肉",
+    "en": "Braised Pork with Dried Mustard Greens"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 85,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "带皮，切三厘米方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "梅干菜",
+          "name_en": "preserved mustard",
+          "amount": 80,
+          "unit": "g",
+          "note": "绍兴干菜，泡洗去沙",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味主体",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "干菜本身咸，少量补味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "焖煮用水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "梅干菜用温水泡二十分钟，反复抓洗三遍去掉泥沙，挤干水分后切碎。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "干菜藏的沙很多，要抓到水清为止。",
+      "visual_cue": "水底无沙粒、干菜松散"
+    },
+    {
+      "n": 2,
+      "text": "五花肉带皮切成三厘米见方的块，冷水下锅焯去血沫，捞出冲净沥干。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才出得干净。",
+      "visual_cue": "肉块紧实、表面无浮沫"
+    },
+    {
+      "n": 3,
+      "text": "炒锅不放油，下五花肉块小火慢煸，把肥油逼出来煸到表面微黄。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "肉块先煸出油，成菜才不腻。",
+      "visual_cue": "肉块边缘金黄、锅底见油"
+    },
+    {
+      "n": 4,
+      "text": "加冰糖炒到融化起小泡，淋料酒、生抽与老抽翻匀，让每块肉都裹上酱色。",
+      "time_min": 5,
+      "heat": "中小火",
+      "tip": "糖色炒到枣红就行，发黑会苦。",
+      "visual_cue": "肉块红亮、糖香不焦"
+    },
+    {
+      "n": 5,
+      "text": "下梅干菜同炒两分钟吸足油汁，加清水没过肉块，放姜片与葱结大火烧开。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "干菜先炒再焖，香气才进得去。",
+      "visual_cue": "干菜油润、汤汁漫过肉面"
+    },
+    {
+      "n": 6,
+      "text": "倒入砂锅转小火焖八十分钟，肉酥菜软后加盐调味，收汁浓稠即可。",
+      "time_min": 80,
+      "heat": "小火",
+      "tip": "砂锅焖得慢但更入味，别用大火。",
+      "visual_cue": "筷子能戳透肉皮、汤汁浓稠"
+    }
+  ],
+  "tips": [
+    "干菜咸度差别大，泡洗后先尝一口再决定放盐多少。",
+    "用砂锅焖比铁锅更稳，肉不易糊底。",
+    "隔夜再蒸一次风味更足，干菜更软糯。"
+  ],
+  "common_mistakes": [
+    "干菜没泡透直接下锅，吃起来夹沙硌牙。",
+    "全程大火收汤，肉块外层老内部还硬。",
+    "糖色炒过头变黑发苦，整锅肉都带上焦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "梅干菜",
+      "substitute": "干豆角",
+      "ratio": "80g 对 80g",
+      "note": "干豆角需泡三小时再焖。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "500g 对 500g",
+      "note": "腿肉偏瘦，煸油时间缩短。"
+    }
+  ],
+  "variations": [
+    "加几块油豆腐同焖，吸汁后比肉还抢手。",
+    "换成霉干菜扣碗蒸两小时，做成扣肉版本。"
+  ],
+  "serving_suggestion": "连汁浇在米饭上，一人两块肉配一大勺干菜。",
+  "storage": "冷藏三天，复蒸十分钟风味更融合。",
+  "nutrition_estimate": {
+    "basis": "每份（约 180g）",
+    "calories_kcal": 520,
+    "protein_g": 20,
+    "fat_g": 42,
+    "carbs_g": 12,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉必须焖至中心熟透，切面不见粉色。",
+    "梅干菜要反复清洗，去除泥沙与多余盐分。",
+    "砂锅离火后余温高，端锅时垫布防烫。"
+  ],
+  "origin_note": "干菜焖肉是绍兴人餐桌上的老底子菜。梅干菜是当地把芥菜腌晒而成的干菜，乌黑油亮，与五花肉同焖，肉香被干菜吸走一半，干菜又把咸鲜还给肉。老一辈说这菜隔夜回锅最入味，一碗饭浇上两勺汤汁，就是最踏实的家常。",
+  "tags": [
+    "浙菜",
+    "绍兴",
+    "焖菜",
+    "家常"
+  ],
+  "related_ids": [
+    "xuecai-datang-huangyu",
+    "hakka-sanbeiji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

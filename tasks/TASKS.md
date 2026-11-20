@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-20T08:47:08.030Z
+> 生成时间：2026-11-20T08:52:26.362Z
 
-**总览**：工程任务 49/53；菜谱内容 550/3274（16.8%），共 502 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 556/3274（17.0%），共 502 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（356/1339）
+### 中国菜系（362/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，53/107</summary>
 
@@ -105,14 +105,14 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>鲁菜 shandong</b> — A 级，37/107</summary>
+<details><summary><b>鲁菜 shandong</b> — A 级，39/107</summary>
 
-- [ ] `P4-shandong/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 7
+- [ ] `P4-shandong/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 8
 - [ ] `P4-shandong/main-meat` 主菜·肉（Meat Main）目标 15，已完成 6
 - [ ] `P4-shandong/soup` 汤羹（Soup）目标 15，已完成 4
 - [ ] `P4-shandong/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 5
 - [ ] `P4-shandong/banquet` 宴客菜（Banquet）目标 15，已完成 5
-- [ ] `P4-shandong/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 1
+- [ ] `P4-shandong/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 2
 - [ ] `P4-shandong/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 0
 - [ ] `P4-shandong/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
 - [ ] `P4-shandong/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 1
@@ -123,11 +123,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>粤菜 cantonese</b> — A 级，51/122</summary>
+<details><summary><b>粤菜 cantonese</b> — A 级，53/122</summary>
 
-- [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 10
+- [ ] `P4-cantonese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 11
 - [ ] `P4-cantonese/main-meat` 主菜·肉（Meat Main）目标 15，已完成 8
-- [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 5
+- [ ] `P4-cantonese/soup` 汤羹（Soup）目标 15，已完成 6
 - [ ] `P4-cantonese/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 5
 - [ ] `P4-cantonese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 6
 - [ ] `P4-cantonese/dessert` 甜点（Dessert）目标 15，已完成 4
@@ -140,9 +140,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>苏菜 jiangsu</b> — A 级，37/107</summary>
+<details><summary><b>苏菜 jiangsu</b> — A 级，38/107</summary>
 
-- [ ] `P4-jiangsu/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 6
+- [ ] `P4-jiangsu/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 7
 - [ ] `P4-jiangsu/main-meat` 主菜·肉（Meat Main）目标 15，已完成 5
 - [ ] `P4-jiangsu/soup` 汤羹（Soup）目标 15，已完成 5
 - [ ] `P4-jiangsu/appetizer` 前菜（Appetizer）目标 15，已完成 3
@@ -158,10 +158,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>浙菜 zhejiang</b> — A 级，34/107</summary>
+<details><summary><b>浙菜 zhejiang</b> — A 级，35/107</summary>
 
 - [ ] `P4-zhejiang/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 5
-- [ ] `P4-zhejiang/main-meat` 主菜·肉（Meat Main）目标 15，已完成 4
+- [ ] `P4-zhejiang/main-meat` 主菜·肉（Meat Main）目标 15，已完成 5
 - [ ] `P4-zhejiang/soup` 汤羹（Soup）目标 15，已完成 8
 - [ ] `P4-zhejiang/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 4
 - [ ] `P4-zhejiang/dessert` 甜点（Dessert）目标 15，已完成 4
