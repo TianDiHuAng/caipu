@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:51:11.187Z",
+  "generatedAt": "2026-11-20T08:47:07.963Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 499,
+    "cells": 502,
     "target": 3274,
-    "actual": 530,
-    "coverage": 0.16188149053145998
+    "actual": 550,
+    "coverage": 0.1679902260232132
   },
   "regions": {
     "cn": [
@@ -511,7 +511,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 37,
         "cells": [
           {
             "category": "main-seafood",
@@ -531,12 +531,13 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "qingdun-shizitou",
               "shizitou",
               "suzhou-yingtao-rou",
-              "wuxi-paigu"
+              "wuxi-paigu",
+              "wuxi-youmianjin-sairou"
             ]
           },
           {
@@ -661,17 +662,19 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 30,
+        "actual": 34,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "congyou-xia",
               "longjing-xiaren",
-              "xihu-cuyu"
+              "ningbo-xiechao-niangao",
+              "xihu-cuyu",
+              "xuecai-datang-huangyu"
             ]
           },
           {
@@ -690,7 +693,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "huotui-donggua-tang",
               "jinzhengu-doufu-tang",
@@ -698,16 +701,18 @@
               "songsao-yugen",
               "songsao-yugeng",
               "xihu-niurou-geng",
-              "xihu-niurougeng"
+              "xihu-niurougeng",
+              "xuecai-datang-huangyu"
             ]
           },
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "jiaxing-zongzi",
+              "ningbo-xiechao-niangao",
               "wenzhou-nuomifan",
               "xianrou-caifan"
             ]
@@ -810,7 +815,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 27,
+        "actual": 32,
         "cells": [
           {
             "category": "soup",
@@ -841,12 +846,15 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 8,
             "ids": [
               "lizhi-rou",
               "min-sun-menrou",
               "minnan-fengrou",
+              "minnan-jiangmuya",
+              "minnan-zhacurou",
               "wuxiang-paigu",
+              "xiamen-shachamian",
               "zui-paigu"
             ]
           },
@@ -854,13 +862,14 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "dingbian-hu",
               "fuzhou-rouyan",
               "fuzhou-yuni",
               "fuzhou-yuwan",
-              "haili-bing"
+              "haili-bing",
+              "minnan-zhacurou"
             ]
           },
           {
@@ -900,9 +909,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "fuzhou-banmian"
+              "fuzhou-banmian",
+              "xiamen-shachamian"
             ]
           },
           {
@@ -940,7 +950,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 27,
         "cells": [
           {
             "category": "main-meat",
@@ -1021,8 +1031,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "nanchang-banfen"
+            ]
           },
           {
             "category": "staple-rice",
@@ -1057,6 +1069,24 @@
             "ids": [
               "hunan-duolajiao"
             ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "nanchang-banfen"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "nanchang-waguantang"
+            ]
           }
         ]
       },
@@ -1066,14 +1096,15 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 16,
+        "actual": 22,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "huizhou-daobanxiang",
               "huizhou-hongshaorou",
               "yipin-guo"
             ]
@@ -1105,9 +1136,10 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "anhui-lajiaohu",
+              "huizhou-laba-doufu",
               "huizhou-maodoufu"
             ]
           },
@@ -1115,8 +1147,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "huizhou-baofu-jiao",
               "huizhou-shaobing",
               "huizhou-taguo"
             ]
@@ -1132,8 +1165,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "huizhou-laba-doufu"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -1148,6 +1183,16 @@
             "target": 8,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "huizhou-baofu-jiao",
+              "huizhou-shaobing"
+            ]
           },
           {
             "category": "main-seafood",
@@ -1168,12 +1213,12 @@
             ]
           },
           {
-            "category": "snack",
+            "category": "appetizer",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "huizhou-shaobing"
+              "huizhou-daobanxiang"
             ]
           }
         ]
@@ -1611,14 +1656,15 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "hakka-sanbeiji",
               "kejia-chao-mifen",
               "meicai-kourou"
             ]

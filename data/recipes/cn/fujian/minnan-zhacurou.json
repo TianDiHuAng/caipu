@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "minnan-zhacurou",
+  "name": {
+    "zh": "闽南炸醋肉",
+    "en": "Minnan Fried Vinegar Pork"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-meat",
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 400,
+          "unit": "g",
+          "note": "切条，一指粗细",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎取蒜汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 80,
+          "unit": "g",
+          "note": "裹粉用",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "酸味主体",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "中和酸味",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "闽南风味关键",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "底味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炸制用油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "菜刀",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊逆纹切成一指粗的条，用刀背轻拍几下让肉质松软。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "逆纹切条，炸好才不塞牙。",
+      "visual_cue": "肉条粗细均匀、按下去有弹性"
+    },
+    {
+      "n": 2,
+      "text": "肉条加米醋、生抽、白糖、五香粉、料酒、盐与蒜汁抓匀，腌二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "醋要一次放足，腌透才够味。",
+      "visual_cue": "肉条吸干汁水、闻着酸香"
+    },
+    {
+      "n": 3,
+      "text": "腌好的肉条分次撒入玉米淀粉，翻拌到每条都裹上干爽的薄粉。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "撒粉别一次倒完，边拌边看干湿。",
+      "visual_cue": "肉条表面干爽、互不粘连"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒入植物油烧至六成热，肉条逐条下锅炸到浅黄定型后捞出。",
+      "time_min": 5,
+      "heat": "中大火",
+      "tip": "一条条下锅，避免黏成团。",
+      "visual_cue": "肉条挺立、外壳浅黄"
+    },
+    {
+      "n": 5,
+      "text": "锅里植物油再加热到八成热，肉条回锅复炸三十秒逼出油分。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "复炸时间别长，否则肉里发干。",
+      "visual_cue": "外壳金黄酥脆、有脆响"
+    },
+    {
+      "n": 6,
+      "text": "捞出沥油，趁热撒少许五香粉颠匀，装盘配上甜辣酱。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "出锅趁热吃，凉了外壳就回软。",
+      "visual_cue": "外壳干爽不泛油光"
+    }
+  ],
+  "tips": [
+    "醋肉用米醋最对味，陈醋颜色太重会发黑。",
+    "裹粉要薄，粉太厚炸出来像面壳。",
+    "炸好的醋肉可撒椒盐或蘸甜辣酱，两种风味都常见。"
+  ],
+  "common_mistakes": [
+    "肉条不腌直接炸，只有酸味没有底味。",
+    "粉裹得太厚太湿，下锅结成一团。",
+    "油温不够就下锅，炸出来含油发腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "五花肉",
+      "ratio": "400g 对 400g",
+      "note": "五花更香，复炸时间多十秒。"
+    },
+    {
+      "original": "玉米淀粉",
+      "substitute": "地瓜粉",
+      "ratio": "80g 对 80g",
+      "note": "地瓜粉更粗，炸后外壳更酥。"
+    }
+  ],
+  "variations": [
+    "加一勺南乳汁同腌，颜色红艳带腐乳香。",
+    "改成空气炸锅版，表面刷薄油两百度烤十五分钟。"
+  ],
+  "serving_suggestion": "热吃当菜，凉了当零嘴，配茶或啤酒都合适。",
+  "storage": "冷藏两天，复热用烤箱一百八十度烤五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份（约 150g）",
+    "calories_kcal": 430,
+    "protein_g": 24,
+    "fat_g": 24,
+    "carbs_g": 28,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "肉条必须炸至中心完全变色，切开不见粉色。",
+    "油炸时肉条沥干水分再下锅，防止热油飞溅。",
+    "炸过的油过滤冷藏，重复使用不超过两次。"
+  ],
+  "origin_note": "炸醋肉是闽南人家逢年过节必炸的一味，里脊切条用醋、蒜与五香粉腌透，裹一层薄粉下锅，出锅金黄，咬开酸香扑鼻。泉州人把它当菜也当零嘴，拜拜的供桌上、孩子的便当里都常见它的影子。",
+  "tags": [
+    "闽菜",
+    "泉州",
+    "炸物",
+    "小吃"
+  ],
+  "related_ids": [
+    "xiamen-shachamian",
+    "minnan-jiangmuya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

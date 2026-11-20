@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "nanchang-banfen",
+  "name": {
+    "zh": "南昌拌粉",
+    "en": "Nanchang Mixed Rice Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-noodle",
+    "snack"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 18,
+    "total_min": 43
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "江西干米粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 50,
+          "unit": "g",
+          "note": "炸香去皮",
+          "optional": false
+        },
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 50,
+          "unit": "g",
+          "note": "切碎挤干",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "泼油用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "拌汁主体",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "酌量",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "泼辣椒与炸花生",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "拌碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干米粉放入温水中浸泡二十分钟，泡到能用指甲掐断。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡到芯里没硬点，煮时才不夹生。",
+      "visual_cue": "米粉发软、可轻微弯折"
+    },
+    {
+      "n": 2,
+      "text": "花生米冷油下锅，小火慢炸到噼啪声变密，捞出摊凉去皮。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "冷油下锅花生才酥透不焦心。",
+      "visual_cue": "花生红衣转深、锅中有脆响"
+    },
+    {
+      "n": 3,
+      "text": "大蒜切末、小米辣切圈与辣椒粉放碗中，浇上烧至冒烟的植物油激香。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "油要分两次浇，香味才冲。",
+      "visual_cue": "碗中红油翻滚、辣香扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "在辣椒油碗里加生抽、老抽、香醋、白糖与盐，搅匀调成拌汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "尝一口再调整咸酸比例。",
+      "visual_cue": "拌汁呈深红褐色、咸酸平衡"
+    },
+    {
+      "n": 5,
+      "text": "汤锅烧开水，下米粉煮三分钟至断生，捞出沥干水分。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "煮好后不要过水，拌汁才挂得住。",
+      "visual_cue": "米粉柔韧、挑起不断"
+    },
+    {
+      "n": 6,
+      "text": "米粉放入拌碗，加酸菜、花生米与拌汁，撒葱花彻底拌匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热拌，米粉吸味更均匀。",
+      "visual_cue": "每根米粉都染上酱色"
+    }
+  ],
+  "tips": [
+    "江西米粉耐煮，泡软后再煮不易断。",
+    "酸菜要挤干水分，否则拌出来出汤。",
+    "喜欢重口可以额外加一勺剁椒或辣椒酱，味道更冲。"
+  ],
+  "common_mistakes": [
+    "米粉不泡直接煮，外面烂了里面还硬。",
+    "辣椒粉用温油泼，香气完全激不出来。",
+    "拌汁一次倒太多，米粉泡得发胀。"
+  ],
+  "substitutions": [
+    {
+      "original": "米粉",
+      "substitute": "米线",
+      "ratio": "300g 对 300g",
+      "note": "米线更细，泡十分钟即可。"
+    },
+    {
+      "original": "酸菜",
+      "substitute": "雪菜",
+      "ratio": "50g 对 50g",
+      "note": "雪菜更咸，盐可省去一半。"
+    }
+  ],
+  "variations": [
+    "加一勺肉末酱同拌，就是南昌的肉饼拌粉。",
+    "做成汤粉，加滚烫骨头汤就是另一番吃法。"
+  ],
+  "serving_suggestion": "一碗拌粉配一盅瓦罐汤，是南昌人标准的早餐组合。",
+  "storage": "现拌现吃，冷藏后米粉会发硬，不建议隔夜。",
+  "nutrition_estimate": {
+    "basis": "每份（约 200g）",
+    "calories_kcal": 420,
+    "protein_g": 9,
+    "fat_g": 16,
+    "carbs_g": 60,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "米粉须煮至完全断生，避免半生米芯引起肠胃不适。",
+    "泼油时油温高，操作要远离面部与手部。",
+    "花生过敏者请去掉花生米，拌汁同样美味。"
+  ],
+  "origin_note": "南昌人的早晨从一碗拌粉开始。粗米粉泡软煮熟，浇上酱油、辣椒油与香醋，撒一把酸菜和炸花生，筷子一拌，红油裹满每根粉。街边小店往往只卖拌粉和瓦罐汤两样，几十年不变，却是南昌人心里最踏实的味道。",
+  "tags": [
+    "赣菜",
+    "小吃",
+    "早餐",
+    "米粉"
+  ],
+  "related_ids": [
+    "hakka-sanbeiji",
+    "nanchang-waguantang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}

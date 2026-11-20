@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xiamen-shachamian",
+  "name": {
+    "zh": "厦门沙茶面",
+    "en": "Xiamen Shacha Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-noodle",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "拉面",
+          "name_en": "ramen noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "厦门水面的那种细面",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 120,
+          "unit": "g",
+          "note": "逆纹切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "空心菜",
+          "name_en": "water spinach",
+          "amount": 100,
+          "unit": "g",
+          "note": "取嫩茎叶",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "剪成小段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "干贝",
+          "name_en": "dried scallop",
+          "amount": 10,
+          "unit": "g",
+          "note": "温水泡软撕丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "沙茶酱",
+          "name_en": "shacha sauce",
+          "amount": 40,
+          "unit": "g",
+          "note": "汤底灵魂",
+          "optional": false
+        },
+        {
+          "name": "花生酱",
+          "name_en": "peanut butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "让汤更稠滑",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "酌量",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "腌肉片",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒酱用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "熬汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊逆着纹理切成薄片，加生抽、少许盐与玉米淀粉抓匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "逆纹切才嫩，顺纹切会塞牙。",
+      "visual_cue": "肉片薄透、表面裹上薄浆"
+    },
+    {
+      "n": 2,
+      "text": "沙茶酱与花生酱放碗中，分次加温水慢慢调开成顺滑酱汁。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "花生酱结块时要一点点加水化开。",
+      "visual_cue": "酱汁顺滑无颗粒、能挂住勺背"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧热，下蒜末、姜末、干辣椒段与干贝丝小火爆香。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "蒜末一变色就下酱，别炒糊。",
+      "visual_cue": "锅中飘出蒜香与海味"
+    },
+    {
+      "n": 4,
+      "text": "倒入调好的酱汁小火慢炒出红油，再加清水与白糖、盐煮开成汤底。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "酱要炒透，沙茶的香味才出得来。",
+      "visual_cue": "汤面浮起红油、香气浓烈"
+    },
+    {
+      "n": 5,
+      "text": "另起汤锅烧开水，碱水面下锅煮两分钟，捞出过一遍凉水沥干。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "碱水面煮过凉水更弹牙。",
+      "visual_cue": "碱水面断生、根根分明不粘连"
+    },
+    {
+      "n": 6,
+      "text": "同一锅水烫熟空心菜与腌好的肉片，肉片变色即捞出。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "肉片一变色就捞，久煮发柴。",
+      "visual_cue": "肉片全部转白、菜叶翠绿"
+    },
+    {
+      "n": 7,
+      "text": "碱水面装碗，铺上空心菜与肉片，浇两勺滚烫汤底，撒葱花即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "汤一定要滚，浇下去才激香。",
+      "visual_cue": "碗中汤色红亮、配菜铺满"
+    }
+  ],
+  "tips": [
+    "沙茶酱选厦门口味的，本身带咸味，盐要少放。",
+    "汤底可提前熬好，吃前加热更省时间。",
+    "喜欢海鲜可加几只虾仁或鱿鱼圈同烫。"
+  ],
+  "common_mistakes": [
+    "沙茶酱不炒直接用开水冲，汤寡淡像刷锅水。",
+    "碱水面煮好不过凉水，装碗后粘成一坨。",
+    "肉片切得太厚，烫不熟也嚼不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "碱水面",
+      "substitute": "拉面",
+      "ratio": "300g 对 300g",
+      "note": "拉面更软，煮制时间缩短半分钟。"
+    },
+    {
+      "original": "猪里脊",
+      "substitute": "虾仁",
+      "ratio": "120g 对 120g",
+      "note": "虾仁烫十秒即熟，鲜味更足。"
+    }
+  ],
+  "variations": [
+    "在碗底先放一小勺猪油，冲入热汤后香气会更浓一层。",
+    "换成沙茶拌面，酱汁收浓直接拌，不加汤。"
+  ],
+  "serving_suggestion": "大碗装面，汤多面少，配一碟腌萝卜解辣。",
+  "storage": "汤底冷藏可存两天，面条现煮现吃。",
+  "nutrition_estimate": {
+    "basis": "每份（约 380g）",
+    "calories_kcal": 520,
+    "protein_g": 24,
+    "fat_g": 20,
+    "carbs_g": 62,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish",
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "沙茶酱含花生与海鲜成分，过敏人群请留意配料表。",
+    "猪肉片务必烫至完全变白无血色，避免半生入口。",
+    "汤底放凉后须冷藏，室温放置不要超过两小时。"
+  ],
+  "origin_note": "沙茶面是厦门的市井早餐，沙茶酱源自南洋沙嗲，落地闽南后改用花生、虾干与香料熬制，汤色红亮带辣。小贩一大锅汤底滚着，客人点面、肉、鱿鱼，烫熟浇汤，一碗下肚，海风里都能吃出汗来。",
+  "tags": [
+    "闽菜",
+    "面食",
+    "厦门",
+    "小吃"
+  ],
+  "related_ids": [
+    "minnan-jiangmuya",
+    "nanchang-banfen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-20",
+  "updated_at": "2026-11-20"
+}
