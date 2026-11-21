@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:50:33.091Z",
+  "generatedAt": "2026-11-21T11:58:41.032Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 571,
+    "cells": 573,
     "target": 3274,
-    "actual": 1017,
-    "coverage": 0.31062919975565056
+    "actual": 1027,
+    "coverage": 0.3136835675015272
   },
   "regions": {
     "cn": [
@@ -3566,7 +3566,7 @@
         "en": "Singaporean",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 13,
         "cells": [
           {
             "category": "staple-rice",
@@ -3601,9 +3601,10 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "singaporean-fried-carrot-cake"
+              "singaporean-fried-carrot-cake",
+              "singaporean-roti-prata"
             ]
           },
           {
@@ -3655,6 +3656,15 @@
             "actual": 1,
             "ids": [
               "singaporean-hainanese-chicken-rice"
+            ]
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "singaporean-roti-prata"
             ]
           }
         ]
@@ -4054,7 +4064,7 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
@@ -4078,9 +4088,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "turkish-ezme"
+              "turkish-ezme",
+              "turkish-zucchini-fritters"
             ]
           },
           {
@@ -4123,9 +4134,10 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "turkish-lahmacun"
+              "turkish-lahmacun",
+              "turkish-zucchini-fritters"
             ]
           },
           {
@@ -4327,7 +4339,7 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-seafood",
@@ -4344,8 +4356,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "portuguese-arroz-doce",
               "portuguese-pastel-de-nata"
             ]
           },
@@ -4816,7 +4829,7 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 11,
         "cells": [
           {
             "category": "soup",
@@ -4883,9 +4896,10 @@
             "category": "dessert",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "russian-apple-kompot"
+              "russian-apple-kompot",
+              "russian-syrniki"
             ]
           },
           {
@@ -4895,6 +4909,15 @@
             "actual": 1,
             "ids": [
               "russian-pelmeni"
+            ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "russian-syrniki"
             ]
           }
         ]
@@ -5391,7 +5414,7 @@
         "en": "Peruvian",
         "tier": "C",
         "target": 25,
-        "actual": 11,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
@@ -5417,8 +5440,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "peruvian-causa-limena",
               "peruvian-ceviche",
               "peruvian-salsa-criolla"
             ]
@@ -5444,8 +5468,9 @@
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "peruvian-causa-limena",
               "peruvian-ceviche"
             ]
           },
@@ -5943,7 +5968,7 @@
         "en": "South African",
         "tier": "C",
         "target": 25,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -5970,9 +5995,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "south-african-malva-pudding"
+              "south-african-malva-pudding",
+              "south-african-milk-tart"
             ]
           },
           {
