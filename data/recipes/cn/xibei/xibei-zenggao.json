@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xibei-zenggao",
+  "name": {
+    "zh": "西北甑糕",
+    "en": "Northwest Sticky Rice Cake",
+    "original": "甑糕"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 250,
+    "cook_min": 240,
+    "total_min": 490
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "糯米",
+          "name_en": "glutinous rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "提前泡发",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "红枣",
+          "name_en": "red date",
+          "amount": 200,
+          "unit": "g",
+          "note": "去核",
+          "optional": false
+        },
+        {
+          "name": "红豆",
+          "name_en": "adzuki bean",
+          "amount": 120,
+          "unit": "g",
+          "note": "提前泡发",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "蒸制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "蒸笼",
+    "深碗",
+    "铲子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "糯米淘洗后加清水浸泡四小时，泡到米粒一捏就碎。",
+      "time_min": 240,
+      "heat": "无火",
+      "tip": "泡够时间，蒸出来才软糯。",
+      "visual_cue": "米粒饱满，一捏即碎"
+    },
+    {
+      "n": 2,
+      "text": "红豆另泡两小时，泡到豆子表皮发亮、体积明显变大。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "红豆要泡透才容易蒸软。",
+      "visual_cue": "豆粒鼓胀，豆子表皮发亮"
+    },
+    {
+      "n": 3,
+      "text": "红枣洗净去核，撕成两半，留着铺层提甜味。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "去核后口感更顺，也防咯牙。",
+      "visual_cue": "枣肉完整，无硬核残留"
+    },
+    {
+      "n": 4,
+      "text": "深碗或蒸笼底部先铺一层红枣，枣皮朝下整齐摆满。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "枣皮朝下，蒸好倒扣才漂亮。",
+      "visual_cue": "碗底被枣肉铺满无缝隙"
+    },
+    {
+      "n": 5,
+      "text": "撒一层沥干的糯米铺平，再撒一层红豆压实。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "每层压紧，蒸好才不散。",
+      "visual_cue": "层次分明，表面平整"
+    },
+    {
+      "n": 6,
+      "text": "重复铺一层糯米与红豆，最上面再盖一层糯米收顶。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "顶层用糯米封住，受热更匀。",
+      "visual_cue": "顶面平整，米粒紧实"
+    },
+    {
+      "n": 7,
+      "text": "撒上白糖，沿碗边缓缓注入清水到刚好没过米面。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "水没过米面，蒸后才软糯。",
+      "visual_cue": "水面刚好没过米面一层"
+    },
+    {
+      "n": 8,
+      "text": "蒸锅水开后放入，盖盖大火蒸四十分钟再转中小火。",
+      "time_min": 40,
+      "heat": "大火",
+      "tip": "中途补一次热水，避免干锅。",
+      "visual_cue": "锅内蒸汽充足，枣香散出"
+    },
+    {
+      "n": 9,
+      "text": "中小火继续蒸四十分钟，蒸到米粒完全软糯黏连。",
+      "time_min": 40,
+      "heat": "中火",
+      "tip": "蒸够时间，口感才绵密。",
+      "visual_cue": "米粒黏连成糕，枣色渗入"
+    },
+    {
+      "n": 10,
+      "text": "关火焖十分钟，趁热用铲子挖出，枣面朝上装盘。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "趁热挖，糕体才不粘铲。",
+      "visual_cue": "糕体软糯，枣层红亮"
+    }
+  ],
+  "tips": [
+    "糯米至少泡四小时，蒸出来才软糯不夹生。",
+    "每层都要压紧，蒸好后切块才不散。",
+    "中途补一次热水，避免蒸锅烧干。"
+  ],
+  "common_mistakes": [
+    "糯米只泡一小时，蒸很久中心还是硬的。",
+    "水放得太少，蒸到一半干锅糊底。",
+    "层与层之间不压实，挖出来全散。"
+  ],
+  "substitutions": [
+    {
+      "original": "红枣",
+      "substitute": "蜜枣",
+      "ratio": "200 克:180 克",
+      "note": "甜度更高，白糖可减二十克。"
+    },
+    {
+      "original": "红豆",
+      "substitute": "芸豆",
+      "ratio": "120 克:120 克",
+      "note": "口感更面，需多蒸十分钟。"
+    }
+  ],
+  "variations": [
+    "加一层葡萄干进去，酸甜味更明显。",
+    "撒少许桂皮粉上去，香气更暖一些。"
+  ],
+  "serving_suggestion": "趁热挖一碗当早点，配一杯淡茶解甜。",
+  "storage": "冷藏两天之内吃完，复蒸十五分钟回软。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 520,
+    "protein_g": 9,
+    "fat_g": 1,
+    "carbs_g": 118,
+    "sodium_mg": 15,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含红枣等核果类，去核务必彻底，避免儿童误食；糯米黏性大，老人与幼儿进食需细嚼。"
+  ],
+  "origin_note": "西北集市清晨最常见的早点，糯米与红枣红豆一层层铺进甑里蒸透。铲起来一团软糯，枣香混着米香，热乎乎吃最香。",
+  "tags": [
+    "西北",
+    "小吃",
+    "糯米",
+    "蒸制"
+  ],
+  "related_ids": [
+    "xibei-roujiamo",
+    "xibei-liangpi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

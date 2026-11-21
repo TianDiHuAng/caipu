@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "taiwan-beef-noodle",
+  "name": {
+    "zh": "台湾红烧牛肉面",
+    "en": "Taiwanese Beef Noodle Soup",
+    "original": "红烧牛肉面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "staple-noodle",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 100,
+    "total_min": 120
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 600,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 500,
+          "unit": "g",
+          "note": "宽面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2200,
+          "unit": "ml",
+          "note": "炖汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成四厘米见方的大块，冷水浸泡二十分钟去血水。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡出血水，汤才不发浑。",
+      "visual_cue": "水色转红，肉块发白"
+    },
+    {
+      "n": 2,
+      "text": "牛腩冷水下锅焯到浮沫涌出，捞出用温水冲洗干净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "撇净浮沫再捞，腥味更少。",
+      "visual_cue": "表面无沫，肉块紧实"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下少许油，放洋葱丝与姜片小火炒到洋葱透明。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "炒出甜味，汤底才够厚。",
+      "visual_cue": "洋葱透明，锅底有焦糖色"
+    },
+    {
+      "n": 4,
+      "text": "加入番茄块炒到出汁变软，汤汁呈浓稠的红色。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒出红油，汤色才漂亮。",
+      "visual_cue": "番茄化成糊状，汁水浓红"
+    },
+    {
+      "n": 5,
+      "text": "放入牛腩块翻炒上色，加八角一起炒出香味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉块表面收紧，炖后不散。",
+      "visual_cue": "牛腩表面微焦，香气浓"
+    },
+    {
+      "n": 6,
+      "text": "全部倒进汤锅，加清水大火烧开后转小火炖一小时。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "小火慢炖，肉才酥而不散。",
+      "visual_cue": "汤色红亮，肉块浮沉"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味后继续炖十分钟，让咸味渗进肉里。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "盐后放，肉更容易炖软。",
+      "visual_cue": "汤味咸鲜，肉质软糯"
+    },
+    {
+      "n": 8,
+      "text": "另起锅烧开水，面条下锅用筷子拨散煮三分钟。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "面汤分开，汤底才不糊。",
+      "visual_cue": "面条散开，浮在水面"
+    },
+    {
+      "n": 9,
+      "text": "面条捞进碗里，浇上牛腩与红汤，撒香菜碎上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "先浇汤再放肉，面更入味。",
+      "visual_cue": "碗中红汤清亮，肉块整齐"
+    }
+  ],
+  "tips": [
+    "牛腩先泡血水，炖出的汤才清亮。",
+    "番茄一定炒出汁，汤底才够红够甜。",
+    "面条一定要另起锅煮，汤底才不浑浊。"
+  ],
+  "common_mistakes": [
+    "牛腩没焯水直接炖，汤里有股腥味。",
+    "全程大火滚，肉块散碎汤也发浑。",
+    "面条直接在汤锅里煮，整锅汤会变糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "600 克:600 克",
+      "note": "筋膜多，口感更弹，需多炖二十分钟。"
+    },
+    {
+      "original": "面条",
+      "substitute": "拉面",
+      "ratio": "500 克:500 克",
+      "note": "更挂汤，煮制时间缩短半分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺豆瓣酱同炒，汤底更厚重。",
+    "加半根白萝卜一起炖，清甜又解腻。"
+  ],
+  "serving_suggestion": "大碗面配一勺辣油，午餐吃到出汗最爽。",
+  "storage": "汤冷藏两天、冷冻一个月，面条现煮现吃。",
+  "nutrition_estimate": {
+    "basis": "每份约 500 克",
+    "calories_kcal": 650,
+    "protein_g": 36,
+    "fat_g": 20,
+    "carbs_g": 76,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质，麸质过敏者不宜食用；牛肉须炖至完全酥烂熟透；热汤温度高，入口前稍放凉。"
+  ],
+  "origin_note": "台湾街头最经典的一碗面，番茄与洋葱炒出甜底，牛腩小火炖到入口即化。红汤浮油，面条挂汁，一碗下去浑身都热了。",
+  "tags": [
+    "台湾",
+    "主食",
+    "牛肉",
+    "汤面"
+  ],
+  "related_ids": [
+    "lurou-fan",
+    "taiwan-sanbei-chicken"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

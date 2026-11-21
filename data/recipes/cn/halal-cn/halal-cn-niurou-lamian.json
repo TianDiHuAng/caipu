@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-niurou-lamian",
+  "name": {
+    "zh": "清真牛肉拉面",
+    "en": "Halal Beef Lamian",
+    "original": "牛肉拉面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "staple-noodle",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 90,
+    "total_min": 115
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "拉面",
+          "name_en": "ramen noodles",
+          "amount": 500,
+          "unit": "g",
+          "note": "细拉面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 250,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "note": "熬汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切成三厘米见方的块，冷水下锅焯到表面变色。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才出得干净。",
+      "visual_cue": "水面浮起灰白沫，捞净备用"
+    },
+    {
+      "n": 2,
+      "text": "焯好的牛肉用温水冲净浮沫，放进汤锅加足清水。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用温水冲，肉质不发紧。",
+      "visual_cue": "肉块干净，汤水清亮"
+    },
+    {
+      "n": 3,
+      "text": "加入姜、八角与花椒，大火烧开后转小火慢炖一小时。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "小火慢炖，汤才清而味厚。",
+      "visual_cue": "肉块软烂，汤色转深"
+    },
+    {
+      "n": 4,
+      "text": "白萝卜去皮切成半厘米厚的片，泡在清水里去涩味。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "泡一下去涩，口感更清甜。",
+      "visual_cue": "萝卜片洁白，水微浑"
+    },
+    {
+      "n": 5,
+      "text": "萝卜片下汤锅与牛肉同炖十五分钟，煮到萝卜透软。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "萝卜透而不断，才是好火候。",
+      "visual_cue": "筷子能轻松插入萝卜片"
+    },
+    {
+      "n": 6,
+      "text": "汤里加盐调到合适的咸淡，撒少许花椒粉再煮两分钟。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "盐最后放，肉不易发柴。",
+      "visual_cue": "汤味咸鲜，香气扑鼻"
+    },
+    {
+      "n": 7,
+      "text": "另起一锅清水烧开，拉面下锅用筷子轻轻拨散。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "水要多，面才不会粘连。",
+      "visual_cue": "拉面完全散开，浮在水面"
+    },
+    {
+      "n": 8,
+      "text": "煮两三分钟到拉面断生，用漏勺捞起沥干水分。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "断生即可，煮久就软塌没劲。",
+      "visual_cue": "拉面透亮，咬开有小白芯"
+    },
+    {
+      "n": 9,
+      "text": "拉面盛进碗里，浇上滚烫的牛肉汤与萝卜片。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汤要滚烫，浇上去面才够热。",
+      "visual_cue": "碗中汤面清亮，拉面舒展"
+    },
+    {
+      "n": 10,
+      "text": "铺几块牛肉，撒香菜碎与少量花椒粉后上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜最后放，香气才鲜活。",
+      "visual_cue": "汤面浮着翠绿香菜"
+    }
+  ],
+  "tips": [
+    "牛肉冷水下锅焯一遍，汤才不腥不发浑。",
+    "拉面另起一锅煮，面汤分开才不会糊汤。",
+    "盐一定要最后调，牛肉炖出来才不发柴。"
+  ],
+  "common_mistakes": [
+    "牛腩一直大火滚，肉块缩水又发硬。",
+    "拉面直接下在汤锅里，汤很快发糊。",
+    "面条煮太久，捞起来软塌没有嚼劲。"
+  ],
+  "substitutions": [
+    {
+      "original": "拉面",
+      "substitute": "面条",
+      "ratio": "500 克:500 克",
+      "note": "口感略软，煮制时间缩短半分钟。"
+    },
+    {
+      "original": "牛肉",
+      "substitute": "牛腩",
+      "ratio": "400 克:450 克",
+      "note": "肥瘦相间，汤更浓，需多炖十五分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺辣椒油进去，汤味更带劲。",
+    "加几片青萝卜同炖，甜味更明显。"
+  ],
+  "serving_suggestion": "一大碗面配一勺汤，冬天吃最暖。",
+  "storage": "汤与面分开冷藏一天，复热后组合食用。",
+  "nutrition_estimate": {
+    "basis": "每份约 450 克",
+    "calories_kcal": 580,
+    "protein_g": 32,
+    "fat_g": 14,
+    "carbs_g": 72,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质，麸质过敏者不宜食用；牛肉须炖至完全熟透；热汤温度高，上桌后稍凉再入口。"
+  ],
+  "origin_note": "清真面馆的老味道，牛腩小火慢炖出一锅清汤，浇在刚出锅的拉面上。面韧汤鲜，撒一把香菜就是一餐。",
+  "tags": [
+    "清真",
+    "主食",
+    "牛肉",
+    "汤面"
+  ],
+  "related_ids": [
+    "halal-cn-niurou-wanzi-tang",
+    "halal-cn-hongshao-niurou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

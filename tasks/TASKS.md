@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-21T09:59:50.727Z
+> 生成时间：2026-11-21T10:36:58.500Z
 
-**总览**：工程任务 49/53；菜谱内容 968/3274（29.6%），共 566 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 976/3274（29.8%），共 568 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（440/1339）
+### 中国菜系（448/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，60/107</summary>
 
@@ -274,13 +274,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>西北菜 xibei</b> — B 级，8/38</summary>
+<details><summary><b>西北菜 xibei</b> — B 级，9/38</summary>
 
 - [ ] `P4-xibei/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 2
 - [ ] `P4-xibei/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 2
 - [ ] `P4-xibei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 1
 - [ ] `P4-xibei/soup` 汤羹（Soup）目标 6，已完成 2
-- [ ] `P4-xibei/snack` 小吃（Street Food）目标 6，已完成 0
+- [ ] `P4-xibei/snack` 小吃（Street Food）目标 6，已完成 1
 - [ ] `P4-xibei/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-xibei/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [x] `P4-xibei/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
@@ -329,7 +329,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>台湾菜 taiwan</b> — B 级，10/38</summary>
+<details><summary><b>台湾菜 taiwan</b> — B 级，12/38</summary>
 
 - [ ] `P4-taiwan/snack` 小吃（Street Food）目标 6，已完成 3
 - [ ] `P4-taiwan/main-poultry` 主菜·禽（Poultry Main）目标 6，已完成 2
@@ -338,17 +338,18 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-taiwan/dessert` 甜点（Dessert）目标 6，已完成 1
 - [ ] `P4-taiwan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-taiwan/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
-- [x] `P4-taiwan/main-meat` 主菜·肉（Meat Main）目标 0，已完成 1
+- [x] `P4-taiwan/main-meat` 主菜·肉（Meat Main）目标 0，已完成 2
+- [x] `P4-taiwan/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>港澳菜 hongkong</b> — B 级，8/38</summary>
+<details><summary><b>港澳菜 hongkong</b> — B 级，9/38</summary>
 
 - [ ] `P4-hongkong/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 2
 - [ ] `P4-hongkong/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
 - [ ] `P4-hongkong/bakery` 烘焙面包（Bakery）目标 6，已完成 1
 - [ ] `P4-hongkong/dessert` 甜点（Dessert）目标 6，已完成 1
-- [ ] `P4-hongkong/drink` 饮品（Drink）目标 6，已完成 0
+- [ ] `P4-hongkong/drink` 饮品（Drink）目标 6，已完成 1
 - [ ] `P4-hongkong/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-hongkong/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
 - [x] `P4-hongkong/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
@@ -370,10 +371,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>清真菜 halal-cn</b> — B 级，8/38</summary>
+<details><summary><b>清真菜 halal-cn</b> — B 级，10/38</summary>
 
-- [ ] `P4-halal-cn/main-meat` 主菜·肉（Meat Main）目标 6，已完成 3
-- [ ] `P4-halal-cn/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 0
+- [ ] `P4-halal-cn/main-meat` 主菜·肉（Meat Main）目标 6，已完成 4
+- [ ] `P4-halal-cn/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 1
 - [ ] `P4-halal-cn/soup` 汤羹（Soup）目标 6，已完成 2
 - [ ] `P4-halal-cn/snack` 小吃（Street Food）目标 6，已完成 2
 - [ ] `P4-halal-cn/banquet` 宴客菜（Banquet）目标 6，已完成 0
@@ -383,21 +384,22 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>藏餐 tibetan</b> — C 级，9/25</summary>
+<details><summary><b>藏餐 tibetan</b> — C 级，10/25</summary>
 
 - [ ] `P4-tibetan/main-meat` 主菜·肉（Meat Main）目标 5，已完成 1
 - [ ] `P4-tibetan/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 3
 - [ ] `P4-tibetan/soup` 汤羹（Soup）目标 5，已完成 2
 - [ ] `P4-tibetan/drink` 饮品（Drink）目标 5，已完成 1
 - [ ] `P4-tibetan/staple-noodle` 主食·面（Noodle Dish）目标 5，已完成 2
+- [x] `P4-tibetan/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>内蒙菜 mongolian</b> — C 级，10/25</summary>
+<details><summary><b>内蒙菜 mongolian</b> — C 级，11/25</summary>
 
 - [x] `P4-mongolian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 5
 - [ ] `P4-mongolian/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 2
-- [ ] `P4-mongolian/drink` 饮品（Drink）目标 5，已完成 0
+- [ ] `P4-mongolian/drink` 饮品（Drink）目标 5，已完成 1
 - [ ] `P4-mongolian/soup` 汤羹（Soup）目标 5，已完成 1
 - [ ] `P4-mongolian/dessert` 甜点（Dessert）目标 5，已完成 1
 - [x] `P4-mongolian/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 1
