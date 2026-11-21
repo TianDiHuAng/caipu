@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "vietnamese-banh-mi",
+  "name": {
+    "zh": "越南法棍三明治",
+    "en": "Vietnamese Baguette Sandwich",
+    "original": "Bánh mì"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "vietnamese"
+  },
+  "category": [
+    "staple-bread",
+    "snack"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 10,
+    "total_min": 35
+  },
+  "servings": 2,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 2,
+          "unit": "piece",
+          "note": "短法棍,剖开",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 120,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚煎蛋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细条",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "腌菜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "腌菜",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "连茎切段",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 40,
+          "unit": "g",
+          "note": "抹面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎蛋",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小刀",
+    "砧板",
+    "平底锅",
+    "小碗",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "胡萝卜丝加白醋、白糖与少许盐抓匀，静置十五分钟做成酸甜腌菜。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "腌到出水的胡萝卜丝才脆爽，汁水别倒掉。",
+      "visual_cue": "胡萝卜丝变软，碗底有粉色汁水"
+    },
+    {
+      "n": 2,
+      "text": "法棍横向剖开但不切断，放入烤箱一百六十度烤三分钟至外壳酥脆。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "烤一下外壳才不韧，咬下去有脆响。",
+      "visual_cue": "面包外壳干爽，内里仍柔软"
+    },
+    {
+      "n": 3,
+      "text": "平底锅下植物油，把鸡蛋煎成蛋黄半凝的荷包蛋。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "蛋黄留一点流动最好吃，全熟也可以。",
+      "visual_cue": "蛋白定型，蛋黄表面微亮"
+    },
+    {
+      "n": 4,
+      "text": "面包内侧抹一层蛋黄酱与少量鱼露，让调味渗进面包组织。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "鱼露少放即可，多了会压住其他味道。",
+      "visual_cue": "内面湿润，闻得到淡淡酱香"
+    },
+    {
+      "n": 5,
+      "text": "依次铺火腿片、煎蛋、黄瓜条与腌好的胡萝卜丝。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "食材分层摆放，咬下去口感才丰富。",
+      "visual_cue": "馅料饱满，颜色分层清楚"
+    },
+    {
+      "n": 6,
+      "text": "撒香菜段与小米椒圈，合上面包轻压定型后切半。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "合上后压一下让馅料贴合，切时不散。",
+      "visual_cue": "切面层次分明，不流汁"
+    }
+  ],
+  "tips": [
+    "面包选外壳脆、内里软的短法棍，长棍会太韧。",
+    "腌菜可提前做好冷藏，风味更足也更省时。",
+    "不爱香菜可以换成薄荷叶，香气同样清亮。"
+  ],
+  "common_mistakes": [
+    "面包没烤直接夹，外壳韧得咬不断。",
+    "腌菜时间不足，胡萝卜丝生硬且没酸甜味。",
+    "馅料塞得太满，一咬就全掉出来。"
+  ],
+  "substitutions": [
+    {
+      "original": "火腿",
+      "substitute": "烤猪肉",
+      "ratio": "120 克:120 克",
+      "note": "切薄片，香气更浓更接近街头版。"
+    },
+    {
+      "original": "蛋黄酱",
+      "substitute": "黄油",
+      "ratio": "40 克:30 克",
+      "note": "奶香更足，但少了酸味层次。"
+    }
+  ],
+  "variations": [
+    "把火腿换成煎牛肉片，做成牛肉法棍。",
+    "加一片猪肝酱，是西贡老派的做法。"
+  ],
+  "serving_suggestion": "切半后用油纸包住下半段，配一杯冰咖啡。",
+  "storage": "现做现吃最佳；冷藏一天后面包会回软，建议复烤三分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 24,
+    "carbs_g": 52,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须煎至蛋白完全凝固，蛋黄半凝也须趁热食用；火腿为即食熟制品，开封后两小时内冷藏；成品含蛋与熟肉，建议两小时内食用完毕。"
+  ],
+  "origin_note": "越南法棍来自法国殖民时期留下的面包传统，本地人把法棍剖开，塞进火腿、煎蛋、腌萝卜和香菜，再淋上鱼露调味。酥脆、酸甜、咸鲜在嘴里一起爆开，如今是越南街头最有名的早餐。",
+  "tags": [
+    "越南",
+    "三明治",
+    "法棍",
+    "街头小吃"
+  ],
+  "related_ids": [
+    "banh-mi",
+    "pho-bo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-sauerbraten",
+  "name": {
+    "zh": "德式酸焖牛肉",
+    "en": "German Sour Roast Beef",
+    "original": "Sauerbraten"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 120,
+    "total_min": 160
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "rich",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 900,
+          "unit": "g",
+          "note": "整块煎后切片",
+          "optional": false
+        },
+        {
+          "name": "红酒",
+          "name_en": "red wine",
+          "amount": 400,
+          "unit": "ml",
+          "note": "腌汁",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 150,
+          "unit": "ml",
+          "note": "腌汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 3,
+          "unit": "piece",
+          "note": "腌汁",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 5,
+          "unit": "g",
+          "note": "粒状",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "调酱",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "密封盒",
+    "厚底炖锅",
+    "煎锅",
+    "筛网",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "把红酒、香醋、洋葱丝、胡萝卜片、芹菜段与香叶、黑胡椒粒混合成腌汁。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌汁要完全淹没牛腩，中途翻面才入味均匀。",
+      "visual_cue": "液体深红，香料散在蔬菜之间"
+    },
+    {
+      "n": 2,
+      "text": "牛腩整块放入密封盒倒入腌汁，冷藏腌制一夜，每隔几小时翻一次面。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "腌足二十四小时酸味才透到肉心，时间不足会显单薄。",
+      "visual_cue": "肉块通体转成暗红，香气浓郁"
+    },
+    {
+      "n": 3,
+      "text": "牛腩取出用厨房纸吸干，腌汁用筛网过滤留用，蔬菜也留下。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "吸干表面才能煎出焦壳，否则只会溅油。",
+      "visual_cue": "肉块干爽，腌汁过滤后清亮"
+    },
+    {
+      "n": 4,
+      "text": "厚底锅下黄油把牛腩整块煎到六面深褐，取出备用。",
+      "time_min": 10,
+      "heat": "中大火",
+      "tip": "每面都要煎到，焦壳是酱汁香气的来源。",
+      "visual_cue": "肉块表面深褐，锅底有焦渣"
+    },
+    {
+      "n": 5,
+      "text": "原锅下过滤出的蔬菜炒两分钟，撒面粉炒匀后倒入腌汁与高汤。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "面粉要在液体之前炒过，才不会结块。",
+      "visual_cue": "蔬菜裹上薄粉，液体浓稠"
+    },
+    {
+      "n": 6,
+      "text": "放回牛腩，加盖小火焖煮两小时，中途翻面一次。",
+      "time_min": 120,
+      "heat": "小火",
+      "tip": "保持微沸，滚太猛肉质发柴。",
+      "visual_cue": "肉块变软，筷子能插入一半"
+    },
+    {
+      "n": 7,
+      "text": "取出牛腩盖好保温，酱汁加白糖与盐小火收浓并撇去浮油。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "白糖能压住醋酸，边加边尝。",
+      "visual_cue": "酱汁浓亮，酸中带甜"
+    },
+    {
+      "n": 8,
+      "text": "牛腩逆纹切厚片，淋上酱汁撒欧芹碎即可装盘上桌。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "逆纹切片口感才嫩，顺着纹切会塞牙。",
+      "visual_cue": "切片断面湿润，酱汁裹满"
+    }
+  ],
+  "tips": [
+    "腌汁里放几片姜也能去腥，但别省掉冷藏腌制的时间。",
+    "酱汁颜色太浅可以加一勺番茄酱提色。"
+  ],
+  "common_mistakes": [
+    "腌制时间不够，只剩表面酸味，肉心依旧寡淡。",
+    "牛腩没吸干就下锅煎，溅油且煎不出焦壳。",
+    "酱汁收得太干，切片时肉块发干难以下咽。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱子",
+      "ratio": "900 克:900 克",
+      "note": "切片更整齐，焖制时间延长二十分钟。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "苹果醋",
+      "ratio": "150 毫升:130 毫升",
+      "note": "酸度稍缓，用量略减以免过酸。"
+    }
+  ],
+  "variations": [
+    "加一小把葡萄干同焖，酸甜更接近莱茵地区风味。",
+    "用啤酒替代部分红酒，苦味会让酱汁更有层次。"
+  ],
+  "serving_suggestion": "切厚片摆盘淋酱，配一份炖红甘蓝同食。",
+  "storage": "冷藏三天、冷冻两个月；复热小火连酱汁一同加热，勿用微波。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 640,
+    "protein_g": 46,
+    "fat_g": 34,
+    "carbs_g": 22,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须焖至中心完全熟透、无血水，中心温度七十度以上；腌汁含酒精须充分煮沸挥发；剩菜两小时内冷藏，复热须滚沸。"
+  ],
+  "origin_note": "德国人保存肉类的老办法，是用红酒和醋把牛腩泡上几天，酸味让粗韧的部位变得松软。莱茵地区的厨师会在酱汁里加一点糖和葡萄干，把尖锐的酸味收成柔和的酸甜，切片后冷食或热食皆宜。",
+  "tags": [
+    "德国",
+    "牛肉",
+    "腌制",
+    "慢炖"
+  ],
+  "related_ids": [
+    "apple-strudel",
+    "austrian-wiener-schnitzel"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
