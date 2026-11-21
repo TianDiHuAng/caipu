@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-palak-paneer",
+  "name": {
+    "zh": "印度菠菜奶酪",
+    "en": "Indian Spinach with Cheese",
+    "original": "Palak Paneer"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-vegetable",
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "rich",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "菠菜",
+          "name_en": "spinach",
+          "amount": 500,
+          "unit": "g",
+          "note": "去老梗洗净",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 250,
+          "unit": "g",
+          "note": "切方块,印度奶酪最佳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "粒状",
+          "optional": false
+        },
+        {
+          "name": "奶油",
+          "name_en": "cream",
+          "amount": 40,
+          "unit": "ml",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "搅拌机",
+    "炒锅",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "菠菜放入沸水焯一分钟，捞出立刻过凉水挤干，去掉草涩味。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "过凉水能锁住绿色，成品不发黄。",
+      "visual_cue": "菠菜翠绿，挤干后成团"
+    },
+    {
+      "n": 2,
+      "text": "焯好的菠菜加少量水打成细腻的绿色泥备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "打泥时水别太多，太稀会挂不住奶酪。",
+      "visual_cue": "绿色浓稠，能挂勺"
+    },
+    {
+      "n": 3,
+      "text": "奶酪切方块，用温热盐水浸泡五分钟使其软化。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡盐水能让奶酪更柔韧，不易碎。",
+      "visual_cue": "奶酪块微弹，边缘圆润"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下植物油，孜然粒炸香后下洋葱末、蒜末与姜末炒到微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒到透明微黄，甜味才出来。",
+      "visual_cue": "洋葱软塌，锅中有孜然香"
+    },
+    {
+      "n": 5,
+      "text": "加番茄块与咖喱粉炒三分钟，炒到番茄出沙变软。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄炒出沙状，酱底才浓稠。",
+      "visual_cue": "锅底番茄化开成酱"
+    },
+    {
+      "n": 6,
+      "text": "倒入菠菜泥与奶油，小火煮五分钟，加盐调味。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "保持小火，滚沸会让绿色变暗。",
+      "visual_cue": "酱体浓绿，表面微微冒泡"
+    },
+    {
+      "n": 7,
+      "text": "轻轻放入奶酪块，小火再煮三分钟让奶酪吸味，别用力搅动。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "翻动要用推的，奶酪块才完整。",
+      "visual_cue": "奶酪块裹上绿酱，形状完好"
+    }
+  ],
+  "tips": [
+    "菠菜焯水后要挤干，多余水分会稀释酱体。",
+    "没有印度奶酪可用质地紧实的白奶酪代替。",
+    "咖喱粉现炒一下香气更足，别直接撒进菠菜泥。"
+  ],
+  "common_mistakes": [
+    "菠菜没焯水直接打泥，成品带涩味且发黑。",
+    "大火滚煮菠菜泥，绿色几秒就变暗褐。",
+    "用力搅拌导致奶酪块全碎，卖相与口感双失。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶酪",
+      "substitute": "北豆腐",
+      "ratio": "250 克:300 克",
+      "note": "切块煎至微黄，口感更接近但不含奶香。"
+    },
+    {
+      "original": "奶油",
+      "substitute": "牛奶",
+      "ratio": "40 毫升:50 毫升",
+      "note": "酱体更稀，需多煮两分钟收浓。"
+    }
+  ],
+  "variations": [
+    "加一勺原味酸奶同煮，酸香更开胃也更顺滑。",
+    "把奶酪换成土豆块，做成菠菜土豆咖喱。"
+  ],
+  "serving_suggestion": "配印度烤饼或香米饭同食，淋一圈奶油装饰。",
+  "storage": "冷藏两天；复热小火慢煮，避免奶酪碎散。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 420,
+    "protein_g": 22,
+    "fat_g": 30,
+    "carbs_g": 18,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "奶酪为软质奶制品，须加热至中心烫热后食用；菠菜焯水需沸水足量以去除草酸；成品含乳制品，两小时内冷藏。"
+  ],
+  "origin_note": "印度北部的素食厨房里，菠菜被打成浓绿的泥，拌进洋葱、番茄和香料，最后放入方块奶酪同煮。菠菜的清苦被奶油和香料压住，奶酪吸饱绿酱，配烤饼吃是最常见的家常组合。",
+  "tags": [
+    "印度",
+    "菠菜",
+    "奶酪",
+    "素食"
+  ],
+  "related_ids": [
+    "aloo-gobi",
+    "aloo-palak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

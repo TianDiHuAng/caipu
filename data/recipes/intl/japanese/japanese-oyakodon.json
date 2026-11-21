@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-oyakodon",
+  "name": {
+    "zh": "日式亲子丼",
+    "en": "Japanese Chicken and Egg Rice Bowl",
+    "original": "親子丼"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 2,
+  "flavor": [
+    "sweet",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 250,
+          "unit": "g",
+          "note": "去骨切块",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三枚,轻打散",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "温热",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清酒",
+          "name_en": "sake",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 150,
+          "unit": "ml",
+          "note": "煮汁",
+          "optional": false
+        },
+        {
+          "name": "紫菜",
+          "name_en": "nori",
+          "amount": 3,
+          "unit": "g",
+          "note": "剪细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小煎锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切三厘米块，洋葱顺纹切细丝，小葱切末备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洋葱顺纹切，煮后不易散且口感好。",
+      "visual_cue": "鸡块大小均匀，洋葱丝细长"
+    },
+    {
+      "n": 2,
+      "text": "小锅放高汤、生抽、味醂、清酒与白糖，中火煮开调成煮汁。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "煮汁先尝一口，甜咸要平衡。",
+      "visual_cue": "液体微沸，香气甜中带咸"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱丝煮两分钟，煮到洋葱变软呈半透明状。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱先煮出甜味，再下鸡肉。",
+      "visual_cue": "洋葱软塌，半透明"
+    },
+    {
+      "n": 4,
+      "text": "放入鸡腿肉块，摊平后加盖小火煮六分钟至肉变白。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "鸡肉要摊平受热，堆叠会外熟内生。",
+      "visual_cue": "鸡肉通体变白，煮汁冒小泡"
+    },
+    {
+      "n": 5,
+      "text": "鸡蛋轻轻打散，保留部分蛋清不搅匀，分两次淋在鸡肉上。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "别打太匀，蛋白蛋黄分明才有层次。",
+      "visual_cue": "蛋液带明显白色纹路"
+    },
+    {
+      "n": 6,
+      "text": "第一次蛋液半凝固后淋第二次，盖盖焖一分钟关火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "关火用余温把蛋焖到半熟，嫩滑才到位。",
+      "visual_cue": "蛋液表面半凝，中心仍湿润"
+    },
+    {
+      "n": 7,
+      "text": "连汁滑到热米饭上，撒海苔丝与小葱末趁热吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "动作要快，蛋在半熟状态最好吃。",
+      "visual_cue": "蛋层颤巍巍，米饭不塌"
+    }
+  ],
+  "tips": [
+    "用鸡腿肉比鸡胸嫩，久煮也不柴。",
+    "蛋液分两次淋是关西做法，口感层次更明显。",
+    "米饭要热，冷饭会把蛋液温度拉低。"
+  ],
+  "common_mistakes": [
+    "蛋液一次性倒完，全部凝固成蛋饼，失去滑嫩感。",
+    "鸡肉堆在一起煮，外面老了里面还带粉。",
+    "煮汁收得太干，滑到饭上时没有汁水。"
+  ],
+  "substitutions": [
+    {
+      "original": "味醂",
+      "substitute": "白糖加清酒",
+      "ratio": "30 毫升:10 克糖加20毫升清酒",
+      "note": "甜味直白些，需减少生抽五毫升。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "250 克:250 克",
+      "note": "切薄片并缩短煮制两分钟。"
+    }
+  ],
+  "variations": [
+    "加一把三叶芹或鸭儿芹，香气更清新。",
+    "把鸡肉换成炸猪排，就是猪排丼的雏形。"
+  ],
+  "serving_suggestion": "盛在热米饭上，配一碗味噌汤与渍物同食。",
+  "storage": "现做现吃最佳；冷藏一天后复热须小火加少许高汤，避免蛋变硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 420 克",
+    "calories_kcal": 640,
+    "protein_g": 34,
+    "fat_g": 18,
+    "carbs_g": 82,
+    "sodium_mg": 1150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须煮至完全变白无粉红、中心温度七十五度以上；鸡蛋为半熟状态，须使用新鲜蛋并趁热食用，孕妇与幼儿建议全熟；成品两小时内冷藏。"
+  ],
+  "origin_note": "亲子丼的名字来自鸡肉与鸡蛋这对亲子，明治时期在东京的鸡肉料理店出现。小锅里煮开酱汁，下洋葱和鸡肉，再淋两次蛋液，半熟状态连汁滑到热饭上，撒一把海苔与小葱，是日本最日常的一碗饭。",
+  "tags": [
+    "日本",
+    "鸡肉",
+    "鸡蛋",
+    "盖饭"
+  ],
+  "related_ids": [
+    "asari-misoshiru",
+    "chawanmushi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

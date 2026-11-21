@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-pad-thai",
+  "name": {
+    "zh": "泰式炒米粉",
+    "en": "Thai Stir-fried Rice Noodles",
+    "original": "Pad Thai"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 12,
+    "total_min": 37
+  },
+  "servings": 2,
+  "flavor": [
+    "sour",
+    "sweet",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 200,
+          "unit": "g",
+          "note": "干米粉,提前泡软",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去壳去虾线",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "留少量生的最后撒",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 40,
+          "unit": "g",
+          "note": "烤香碾碎",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 30,
+          "unit": "g",
+          "note": "取罗望子肉调汁",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "切角上桌挤汁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "分两次用",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "小碗",
+    "打蛋器",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "装盘后摆上柠檬角，吃之前挤上柠檬汁拌匀再吃。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡到微软即可，泡太透炒时容易断。",
+      "visual_cue": "米粉弯折不断，手感有弹"
+    },
+    {
+      "n": 2,
+      "text": "罗望子肉用温水泡开揉散，滤出汁水，加鱼露、白糖调成酸甜酱汁。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "酱汁先尝一口，酸、甜、咸要平衡。",
+      "visual_cue": "酱汁棕红透亮，闻着带酸"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油烧热，蒜末与小米辣圈小火爆香。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蒜末别炒焦，一变黄就下虾仁。",
+      "visual_cue": "蒜末金黄，油面泛香"
+    },
+    {
+      "n": 4,
+      "text": "下虾仁转中大火炒到转红，拨到锅边，中间倒入打散的鸡蛋炒成碎块。",
+      "time_min": 4,
+      "heat": "中大火",
+      "tip": "虾仁变红即可，久炒会老。",
+      "visual_cue": "虾仁卷曲发红，蛋碎蓬松"
+    },
+    {
+      "n": 5,
+      "text": "下沥干的米粉，淋入调好的罗望子酱汁，快速翻炒让每根米粉上色。",
+      "time_min": 4,
+      "heat": "中大火",
+      "tip": "用筷子辅助翻拌，米粉不易断。",
+      "visual_cue": "米粉均匀上色，不粘成一团"
+    },
+    {
+      "n": 6,
+      "text": "加入豆芽翻炒半分钟至断生，关火后撒花生碎与香菜段。",
+      "time_min": 2,
+      "heat": "中大火",
+      "tip": "豆芽保持脆感，炒久了出水。",
+      "visual_cue": "豆芽挺立，锅气足"
+    },
+    {
+      "n": 7,
+      "text": "装盘后摆上柠檬角，吃之前挤上柠檬汁拌匀再吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "柠檬汁最后挤，酸味才鲜活。",
+      "visual_cue": "盘边柠檬翠绿，米粉干爽"
+    }
+  ],
+  "tips": [
+    "米粉泡好后要彻底沥干，带水下锅会粘成一团。",
+    "罗望子汁是灵魂，买不到可用白醋加红糖替代但风味不同。",
+    "全程大火快炒，超过十分钟米粉就会发糊。"
+  ],
+  "common_mistakes": [
+    "米粉泡得过软，下锅一炒就断成碎渣。",
+    "酱汁一次倒太多，米粉吸汁后变得黏糊。",
+    "虾仁与鸡蛋同时下锅，结果鸡蛋老、虾仁不熟。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鸡腿肉",
+      "ratio": "150 克:150 克",
+      "note": "切薄片先腌十分钟，口感稍逊但同样好吃。"
+    },
+    {
+      "original": "罗望子",
+      "substitute": "白醋",
+      "ratio": "30 克:25 毫升",
+      "note": "酸味单一，需多加五克白糖平衡。"
+    }
+  ],
+  "variations": [
+    "加几块炸豆干同炒，口感更有层次也更顶饱。",
+    "加几块炸豆干同炒，口感更有层次也更顶饱。"
+  ],
+  "serving_suggestion": "装盘撒花生碎，配柠檬角与生豆芽一起上桌。",
+  "storage": "现炒现吃；冷藏一天后米粉会回硬，复热需加一勺水小火翻拌。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 560,
+    "protein_g": 24,
+    "fat_g": 20,
+    "carbs_g": 70,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "fish",
+    "peanut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁须炒至通体变红、肉质不透明，中心温度七十度以上；鸡蛋须炒至完全凝固；含海鲜的成品两小时内冷藏，复热须彻底加热。"
+  ],
+  "origin_note": "炒米粉本是潮汕移民带到曼谷的街头吃食，泰国人把罗望子的酸、棕榈糖的甜和鱼露的咸调成一碗酱汁，配虾仁、豆芽和花生碎快炒。二战时期大米短缺，政府推广米粉，这道小吃就此成了泰国的国民面食。",
+  "tags": [
+    "泰国",
+    "米粉",
+    "快炒",
+    "街头小吃"
+  ],
+  "related_ids": [
+    "larb-gai",
+    "mango-sticky-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

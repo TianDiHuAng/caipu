@@ -1,0 +1,299 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-osso-buco",
+  "name": {
+    "zh": "意式炖牛腱",
+    "en": "Italian Braised Veal Shanks",
+    "original": "Osso Buco"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 110,
+    "total_min": 135
+  },
+  "servings": 3,
+  "flavor": [
+    "rich",
+    "savory",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腱",
+          "name_en": "beef shank",
+          "amount": 900,
+          "unit": "g",
+          "note": "横切厚段,绑棉线定型",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 150,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 500,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "裹肉",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 40,
+          "unit": "g",
+          "note": "取皮屑",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炖锅",
+    "棉线",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腱横切厚段，用棉线沿外围绑一圈固定形状。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "绑线能防止久炖后肉块散开。",
+      "visual_cue": "肉块紧实，棉线勒住外圈"
+    },
+    {
+      "n": 2,
+      "text": "肉段两面撒盐与黑胡椒，薄薄裹一层面粉抖掉多余。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "面粉只裹薄薄一层，太厚会让酱汁发糊。",
+      "visual_cue": "表面哑光，不见干粉堆积"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅下橄榄油与黄油，中大火把肉段两面煎至深褐后取出。",
+      "time_min": 10,
+      "heat": "中大火",
+      "tip": "焦褐层是酱汁的香味来源，别急着翻面。",
+      "visual_cue": "肉面深褐，锅底留焦渣"
+    },
+    {
+      "n": 4,
+      "text": "原锅下洋葱、胡萝卜与芹菜末，小火炒十分钟至软甜。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "蔬菜切得越细越容易化进酱汁。",
+      "visual_cue": "蔬菜软塌，锅底焦渣被刮起"
+    },
+    {
+      "n": 5,
+      "text": "倒白葡萄酒煮到酒气散尽，加番茄块与高汤煮开。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "酒气必须煮散，否则酱汁发酸。",
+      "visual_cue": "液体微沸，酒味转成甜香"
+    },
+    {
+      "n": 6,
+      "text": "放回肉段，液面到肉块三分之二高，加盖小火焖一小时四十分钟。",
+      "time_min": 100,
+      "heat": "小火",
+      "tip": "中途翻面一次，保持微沸别大滚。",
+      "visual_cue": "肉块变软，筷子能轻松穿透"
+    },
+    {
+      "n": 7,
+      "text": "取出肉段拆掉棉线保温，酱汁大火收浓并调盐。",
+      "time_min": 10,
+      "heat": "中大火",
+      "tip": "收汁时要不停搅拌防糊底。",
+      "visual_cue": "酱汁浓稠，能挂住勺背"
+    },
+    {
+      "n": 8,
+      "text": "柠檬皮屑、欧芹碎与蒜末拌成 gremolata，撒在肉上趁热上桌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "拌料现做现撒，柠檬香才不散。",
+      "visual_cue": "表面点点翠绿，柠檬香清亮"
+    }
+  ],
+  "tips": [
+    "牛腱要横切带骨或带筋部位，久炖才胶质丰厚。",
+    "gremolata 是这道菜的点睛，别省略柠檬皮。",
+    "炖好后静置一夜再复热，味道更融合。"
+  ],
+  "common_mistakes": [
+    "煎肉时火不够大，肉面上不了色，酱汁寡淡。",
+    "炖煮时大滚，肉纤维紧缩变得又干又柴。",
+    "收汁时忘了搅拌，锅底焦糊带苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腱",
+      "substitute": "牛腩",
+      "ratio": "900 克:900 克",
+      "note": "切大块绑线，炖制时间不变。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "苹果醋加水",
+      "ratio": "150 毫升:60 毫升醋加水至150毫升",
+      "note": "酸味更尖，需多加五克白糖平衡。"
+    }
+  ],
+  "variations": [
+    "加一把去核橄榄同炖，咸香更足。",
+    "把 gremolata 换成橙皮屑，果香更明亮。"
+  ],
+  "serving_suggestion": "肉段连酱汁装盘，撒 gremolata，配意式玉米糊或土豆泥。",
+  "storage": "冷藏三天、冷冻两个月；复热连酱汁小火加热，撒新鲜 gremolata。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 620,
+    "protein_g": 48,
+    "fat_g": 36,
+    "carbs_g": 18,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腱须炖至中心完全熟透、纤维可轻松分离，中心温度七十五度以上；炖汁含酒精须充分煮沸；剩菜两小时内冷藏，复热须滚沸。"
+  ],
+  "origin_note": "米兰的传统菜，把带髓的牛腱横切厚段，煎香后与洋葱、胡萝卜、芹菜同炖，靠白葡萄酒和高汤把肉炖到能用叉子分开。上桌前撒一把柠檬皮、蒜末和欧芹拌成的 gremolata，酸香把厚重的胶质切开。",
+  "tags": [
+    "意大利",
+    "牛肉",
+    "慢炖",
+    "米兰"
+  ],
+  "related_ids": [
+    "aglio-e-olio",
+    "biscotti"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
