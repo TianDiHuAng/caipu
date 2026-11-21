@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-bak-kut-teh",
+  "name": {
+    "zh": "新加坡胡椒肉骨茶",
+    "en": "Singaporean Peppery Pork Rib Soup",
+    "original": "Bak Kut Teh"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "soup",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 80,
+    "total_min": 95
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 1000,
+          "unit": "g",
+          "note": "斩五厘米段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 60,
+          "unit": "g",
+          "note": "整头不去皮",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "枸杞",
+          "name_en": "goji berry",
+          "amount": 10,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "蘸食或调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪排骨冷水浸泡二十分钟去血水，中途换一次水后沥干。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "浸泡比焯水更能保住肉香，汤也更清。",
+      "visual_cue": "排骨颜色转浅，水中带血丝"
+    },
+    {
+      "n": 2,
+      "text": "排骨冷水下锅小火加热，浮沫浮起后撇净并捞出冲净。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "小火起锅，血沫才慢慢渗出不会散在汤里。",
+      "visual_cue": "水面浮沫被撇净，排骨干净"
+    },
+    {
+      "n": 3,
+      "text": "白胡椒用刀背拍碎，大蒜整头洗净留皮，姜切片备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "白胡椒拍碎才出味，整头蒜带皮煮更香不散。",
+      "visual_cue": "胡椒裂开，蒜头完整"
+    },
+    {
+      "n": 4,
+      "text": "汤锅加水和排骨，放姜片、整头大蒜与白胡椒，大火煮开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "胡椒是这道汤的灵魂，量要大方。",
+      "visual_cue": "汤面滚沸，胡椒辛香窜出"
+    },
+    {
+      "n": 5,
+      "text": "转小火加盖炖七十分钟，中途撇去一次浮油。",
+      "time_min": 72,
+      "heat": "小火",
+      "tip": "全程小火，汤才清亮不浑。",
+      "visual_cue": "排骨肉缩离骨，汤色浅褐"
+    },
+    {
+      "n": 6,
+      "text": "加枸杞再煮五分钟，放盐调味，尝味要辛香回甘。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "枸杞后放，久煮会散烂发酸。",
+      "visual_cue": "汤清但辛辣，枸杞浮面"
+    },
+    {
+      "n": 7,
+      "text": "盛碗撒香菜段，配一小碟生抽与白胡椒同食。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "蘸碟里的胡椒再添一层辛，才够星洲风味。",
+      "visual_cue": "汤色清亮，碗边浮油细密"
+    }
+  ],
+  "tips": [
+    "白胡椒一定现拍，粉状的香气损失很快。",
+    "炖的时候别频繁搅，排骨才不会碎在汤里。",
+    "汤可以续水再炖一次，第二锅更清甜。"
+  ],
+  "common_mistakes": [
+    "用黑胡椒代替白胡椒，汤色发暗味道也偏冲。",
+    "大蒜去皮久煮，蒜肉化在汤里发浑。",
+    "大火猛炖，汤变浑且排骨外层柴硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪排骨",
+      "substitute": "猪颈骨",
+      "ratio": "1000 克:1000 克",
+      "note": "骨髓更多，汤更浓但肉少。"
+    },
+    {
+      "original": "白胡椒",
+      "substitute": "黑胡椒",
+      "ratio": "15 克:12 克",
+      "note": "辛香更冲，汤色会偏深。"
+    }
+  ],
+  "variations": [
+    "加当归党参等药材，就是马来西亚的药材肉骨茶。",
+    "把排骨换成猪肚，煮成胡椒猪肚汤。"
+  ],
+  "serving_suggestion": "配一碗白米饭或油条，把汤浇在饭上，蘸生抽吃肉。",
+  "storage": "冷藏三天、冷冻一个月；复热须煮沸，胡椒香气会略减，可补少许现拍胡椒。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 480,
+    "protein_g": 36,
+    "fat_g": 34,
+    "carbs_g": 8,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "排骨须炖至肉能轻松脱骨，中心温度七十五度以上；汤须滚沸后食用；剩汤两小时内冷藏，复热须彻底煮沸。"
+  ],
+  "origin_note": "新加坡的早餐汤，大清早一碗白胡椒汤下肚，整个人都醒了。排骨炖到脱骨，汤清却辛辣，蘸一碟黑酱油吃，配油条或白饭。老店门口常常排到街角，一锅汤从凌晨炖到中午。",
+  "tags": [
+    "新加坡",
+    "排骨",
+    "胡椒",
+    "汤"
+  ],
+  "related_ids": [
+    "singaporean-hainanese-chicken-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

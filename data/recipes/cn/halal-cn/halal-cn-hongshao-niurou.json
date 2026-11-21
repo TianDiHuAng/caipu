@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-hongshao-niurou",
+  "name": {
+    "zh": "清真红烧牛腩",
+    "en": "Halal Braised Beef Brisket",
+    "original": "红烧牛腩"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 800,
+          "unit": "g",
+          "note": "切四厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "两枚",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 4,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 12,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "炒锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切四厘米见方的块，冷水下锅加料酒焯透，撇净浮沫后捞出冲净。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血水逼干净，肉质也更紧实。",
+      "visual_cue": "浮沫灰白，肉块表面收紧"
+    },
+    {
+      "n": 2,
+      "text": "炒锅下植物油与冰糖，小火慢慢化开炒到出现枣红色糖色。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "糖色一到枣红立刻下料，再炒就发苦了。",
+      "visual_cue": "糖浆呈枣红色，冒细密小泡"
+    },
+    {
+      "n": 3,
+      "text": "倒入牛腩块翻炒上色，加姜片、大葱段与大蒜炒出香味。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "牛腩要裹匀糖色，成菜才有亮红的光泽。",
+      "visual_cue": "肉块通体棕红，锅中有葱姜香"
+    },
+    {
+      "n": 4,
+      "text": "淋生抽、老抽与料酒炒匀，加八角和桂皮、香叶同炒半分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香料用热油一激，香气才进得去。",
+      "visual_cue": "锅中酱香浓，颜色加深"
+    },
+    {
+      "n": 5,
+      "text": "倒水没过牛腩两指，大火煮开后转小火加盖炖七十分钟。",
+      "time_min": 72,
+      "heat": "小火",
+      "tip": "小火慢炖才让筋膜化开，大火只会把肉煮柴。",
+      "visual_cue": "肉块能用筷子插入，汤色红亮"
+    },
+    {
+      "n": 6,
+      "text": "加盐调味，开大火收汁到汤汁浓稠挂住肉块。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "盐最后放，早放会让牛腩纤维收缩变硬。",
+      "visual_cue": "汤汁浓稠裹肉，油亮不浑"
+    },
+    {
+      "n": 7,
+      "text": "挑出香料渣，撒大葱丝盛盘，连汤带肉一起上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "盛盘前挑净香料，入口才不会咬到八角。",
+      "visual_cue": "肉块红亮，盘底酱汁浓稠"
+    }
+  ],
+  "tips": [
+    "牛腩选带筋膜的肋条部位，炖后胶质浓稠。",
+    "糖色宁浅勿深，发黑会带明显苦味。",
+    "炖好别急着收汁，静置半小时再收更入味。"
+  ],
+  "common_mistakes": [
+    "糖色炒过头发苦，整锅都带焦味。",
+    "中途加冷水，牛腩骤冷收紧久炖不烂。",
+    "盐放太早，牛腩炖两小时仍然发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱子",
+      "ratio": "800 克:800 克",
+      "note": "筋膜更多，炖制时间延长二十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "25 克:20 克",
+      "note": "糖色上色略浅，焦糖香稍弱。"
+    }
+  ],
+  "variations": [
+    "加一把胡萝卜块同炖，汤汁更甜。",
+    "把牛腩换成羊排，做成红烧羊排，风味更浓。"
+  ],
+  "serving_suggestion": "连汤带肉浇在米饭或面条上，配一碟凉拌黄瓜解腻。",
+  "storage": "冷藏三天、冷冻一个月；复热加少许水小火慢煨，避免肉块碎散。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 560,
+    "protein_g": 38,
+    "fat_g": 38,
+    "carbs_g": 14,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至完全酥烂、中心温度七十五度以上；焯水后的浮沫须撇净；剩菜两小时内冷藏，复热须彻底煮沸。"
+  ],
+  "origin_note": "清真馆子里的看家菜，牛腩先焯再炒糖色，加八角桂皮小火炆上一个半小时。肉烂而形不散，汤汁红亮，浇在米饭上能连吃两碗。回民家里逢年过节必有一锅，炖得越久越香。",
+  "tags": [
+    "清真",
+    "牛腩",
+    "红烧",
+    "炖菜"
+  ],
+  "related_ids": [
+    "shuipen-yangrou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

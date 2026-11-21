@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:41:04.242Z",
+  "generatedAt": "2026-11-21T05:45:46.746Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 540,
+    "cells": 544,
     "target": 3274,
-    "actual": 782,
-    "coverage": 0.2388515577275504
+    "actual": 791,
+    "coverage": 0.24160048869883935
   },
   "regions": {
     "cn": [
@@ -2092,14 +2092,15 @@
         "en": "Chinese Halal",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "halal-cn-hongshao-niurou",
               "shuipen-yangrou"
             ]
           },
@@ -3370,7 +3371,7 @@
         "en": "Singaporean",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "staple-rice",
@@ -3392,8 +3393,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "singaporean-bak-kut-teh"
+            ]
           },
           {
             "category": "snack",
@@ -3422,6 +3425,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "singaporean-bak-kut-teh"
+            ]
           },
           {
             "category": "main-poultry",
@@ -3888,14 +3900,16 @@
         "en": "Mediterranean",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mediterranean-greek-salad"
+            ]
           },
           {
             "category": "main-seafood",
@@ -3940,6 +3954,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "mediterranean-greek-salad"
+            ]
           },
           {
             "category": "breakfast",
@@ -4806,14 +4829,16 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "cajun-blackened-fish"
+            ]
           },
           {
             "category": "staple-rice",
@@ -5055,7 +5080,7 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 1,
+        "actual": 2,
         "cells": [
           {
             "category": "main-meat",
@@ -5093,6 +5118,15 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "brazilian-moqueca"
+            ]
           }
         ]
       },
@@ -5225,14 +5259,16 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "north-african-harira"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -5275,6 +5311,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "special-diet",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "north-african-harira"
+            ]
           },
           {
             "category": "main-meat",
