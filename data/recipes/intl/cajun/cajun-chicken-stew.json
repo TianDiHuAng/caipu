@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cajun-chicken-stew",
+  "name": {
+    "zh": "卡真鸡肉炖锅",
+    "en": "Cajun Chicken Stew",
+    "original": "Cajun Chicken Stew"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "cajun"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "spicy",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "去骨切大块",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "卡真调味",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 15,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎鸡用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "木勺",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切大块，用盐、黑胡椒与一半辣椒粉抓匀腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌过再煎，肉里才有底味。",
+      "visual_cue": "鸡块表面均匀挂上红色粉末"
+    },
+    {
+      "n": 2,
+      "text": "炖锅倒植物油，中大火把鸡块煎到两面金黄。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "先别急着翻，让底面煎出焦壳再动。",
+      "visual_cue": "两面金黄，锅底留下焦香物"
+    },
+    {
+      "n": 3,
+      "text": "鸡块盛出，用锅里剩的油炒洋葱、青椒与芹菜。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "用煎鸡的油炒菜，风味才连成一体。",
+      "visual_cue": "蔬菜变软，锅底焦香物被刮起"
+    },
+    {
+      "n": 4,
+      "text": "加入蒜末与剩下的辣椒粉，小火炒一分钟出香。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "辣椒粉小火炒，焦了会发苦。",
+      "visual_cue": "锅内泛红，香气浓郁"
+    },
+    {
+      "n": 5,
+      "text": "撒入面粉翻炒一分钟，让蔬菜均匀裹上一层。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "面粉炒过，汤汁才不会带干粉气。",
+      "visual_cue": "蔬菜挂上一层薄粉"
+    },
+    {
+      "n": 6,
+      "text": "加番茄与三百毫升清水搅匀，再把鸡块放回锅中。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "水刚没过食材，炖出来才浓稠。",
+      "visual_cue": "汤汁微稠，食材浸没一半"
+    },
+    {
+      "n": 7,
+      "text": "小火盖盖炖二十五分钟，中途翻动两次防粘底。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "小火慢炖，鸡腿肉才不会散。",
+      "visual_cue": "汤汁变浓，鸡块轻压即散"
+    },
+    {
+      "n": 8,
+      "text": "尝味补盐，盛碗后撒上香菜碎即可趁热上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香草最后撒，香气才留得住。",
+      "visual_cue": "汤面油亮，点缀翠绿"
+    }
+  ],
+  "tips": [
+    "鸡块煎出焦壳再炖，汤汁才够香浓。",
+    "面糊炒过再加水，汤汁浓而不糊。",
+    "辣椒粉分两次放，一次腌一次炒，层次更足。"
+  ],
+  "common_mistakes": [
+    "鸡块没煎就直接下水，汤味寡淡没层次。",
+    "面粉没炒就加水，汤里全是小疙瘩。",
+    "大火收干，鸡腿肉变得又老又柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅",
+      "ratio": "600 克:600 克",
+      "note": "炖制时间延长五分钟更入味。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "红椒粉",
+      "ratio": "8 克:10 克",
+      "note": "辣度低很多，适合不吃辣的人。"
+    }
+  ],
+  "variations": [
+    "加一根切片的玉米同炖，甜味更足。",
+    "出锅前淋一勺辣椒油，辣香更冲。"
+  ],
+  "serving_suggestion": "配一大碗白米饭，把汤汁浇在饭上最香。",
+  "storage": "冷藏三天、冷冻一个月，复热小火加少量清水。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 410,
+    "protein_g": 35,
+    "fat_g": 24,
+    "carbs_g": 13,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须炖至完全熟透，中心温度达到七十四度以上；炖锅出锅前先关火，避免盛装时烫伤。"
+  ],
+  "origin_note": "路易斯安那的乡野炖锅，鸡块先煎出焦香，再和洋葱芹菜青椒一起小火炖到浓稠。一勺汤汁浇在白饭上，就是一顿完整的饭。",
+  "tags": [
+    "卡真",
+    "炖菜",
+    "鸡肉",
+    "辣"
+  ],
+  "related_ids": [
+    "cajun-jambalaya",
+    "cajun-blackened-fish"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

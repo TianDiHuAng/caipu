@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:33:15.303Z",
+  "generatedAt": "2026-11-21T07:44:07.016Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 560,
     "target": 3274,
-    "actual": 881,
-    "coverage": 0.26908979841172875
+    "actual": 887,
+    "coverage": 0.27092241905925474
   },
   "regions": {
     "cn": [
@@ -4845,7 +4845,7 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 7,
         "cells": [
           {
             "category": "main-poultry",
@@ -4860,8 +4860,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "american-south-green-beans"
+            ]
           },
           {
             "category": "bakery",
@@ -4876,8 +4878,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "american-south-banana-pudding"
+            ]
           },
           {
             "category": "breakfast",
@@ -4993,7 +4997,7 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-seafood",
@@ -5009,8 +5013,9 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "cajun-dirty-rice",
               "cajun-jambalaya",
               "cajun-shrimp-etouffee"
             ]
@@ -5019,8 +5024,10 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "cajun-chicken-stew"
+            ]
           },
           {
             "category": "main-poultry",
@@ -5387,7 +5394,7 @@
         "en": "Caribbean",
         "tier": "C",
         "target": 25,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-poultry",
@@ -5403,8 +5410,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "caribbean-coconut-shrimp-curry"
+            ]
           },
           {
             "category": "staple-rice",
@@ -5426,8 +5435,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "caribbean-coconut-drops"
+            ]
           },
           {
             "category": "hotpot-bbq",

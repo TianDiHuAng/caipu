@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cajun-dirty-rice",
+  "name": {
+    "zh": "卡真脏米饭",
+    "en": "Dirty Rice",
+    "original": "Dirty Rice"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "cajun"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "spicy",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "泰国香米",
+          "name_en": "jasmine rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "淘洗后沥干",
+          "optional": false
+        },
+        {
+          "name": "猪肩肉",
+          "name_en": "pork shoulder",
+          "amount": 250,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "卡真风味核心",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒料用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "电饭煲",
+    "锅铲",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "香米淘洗两遍后沥干水分，摊开晾十分钟备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "米要沥干，炒的时候才不会粘成团。",
+      "visual_cue": "米粒干爽，抓一把不粘手"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，中火把猪肩肉丁煸到边缘微焦。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉丁煸出油，整锅的底味就有了。",
+      "visual_cue": "肉丁出油，表面金黄微焦"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱、芹菜与青椒丁，中火炒五分钟炒软。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "这三样是卡真的香味三件套，必须炒软。",
+      "visual_cue": "蔬菜变软，锅底微微焦褐"
+    },
+    {
+      "n": 4,
+      "text": "加入蒜末与辣椒粉，小火炒一分钟炒出红油。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "辣椒粉容易焦，火一定要小。",
+      "visual_cue": "锅内泛红，香气冲鼻"
+    },
+    {
+      "n": 5,
+      "text": "倒入沥干的香米，中火翻炒三分钟让米粒裹上油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "米粒炒到半透明，煮出来才粒粒分明。",
+      "visual_cue": "米粒油亮，部分变透明"
+    },
+    {
+      "n": 6,
+      "text": "加盐与黑胡椒，倒四百毫升清水，大火煮开。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "水比平时煮饭略少，成品才松散。",
+      "visual_cue": "水面翻滚，米粒翻动"
+    },
+    {
+      "n": 7,
+      "text": "转小火盖盖焖十八分钟，中途千万不要开盖。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "开盖会跑气，米饭容易夹生。",
+      "visual_cue": "水基本收干，表面出现小孔"
+    },
+    {
+      "n": 8,
+      "text": "关火焖五分钟，再用锅铲从底往上翻松即可。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "翻松让水汽散掉，饭才不结块。",
+      "visual_cue": "米粒松散分明，色泽深褐"
+    }
+  ],
+  "tips": [
+    "米一定要沥干再炒，湿米下锅会糊成一团。",
+    "辣椒粉一定要小火炒，焦了整锅发苦。",
+    "水量比平时少一成，成品才松散不黏。"
+  ],
+  "common_mistakes": [
+    "米饭没沥干就下锅，炒成一坨黏糊。",
+    "辣椒粉用大火炒，整锅都带上焦苦味。",
+    "焖的时候开盖看，米饭夹生还带硬芯。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肩肉",
+      "substitute": "鸡腿肉",
+      "ratio": "250 克:250 克",
+      "note": "切小丁同炒，口感更清爽。"
+    },
+    {
+      "original": "泰国香米",
+      "substitute": "大米",
+      "ratio": "300 克:300 克",
+      "note": "香气稍弱，需多加五克辣椒粉提味。"
+    }
+  ],
+  "variations": [
+    "加一把虾仁同炒，海味让米饭更鲜。",
+    "最后撒一把小葱碎，颜色和香气都提上来。"
+  ],
+  "serving_suggestion": "直接当主食盛盘，配一勺辣酱和冰啤酒。",
+  "storage": "冷藏两天，复热时加一勺清水盖盖焖热。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 470,
+    "protein_g": 19,
+    "fat_g": 14,
+    "carbs_g": 66,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉丁须彻底炒熟，中心温度达到七十一度以上；炒辣椒粉时油温不可过高，避免溅油与呛咳。"
+  ],
+  "origin_note": "路易斯安那的家常饭，肉丁和蔬菜把白米染成深褐色，看着不起眼，香气却冲得很。名字里的脏，说的就是这颜色。",
+  "tags": [
+    "卡真",
+    "米饭",
+    "猪肉",
+    "辣"
+  ],
+  "related_ids": [
+    "cajun-jambalaya",
+    "cajun-shrimp-etouffee"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

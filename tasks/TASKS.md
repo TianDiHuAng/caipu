@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-21T07:33:15.382Z
+> 生成时间：2026-11-21T07:44:07.091Z
 
-**总览**：工程任务 49/53；菜谱内容 881/3274（26.9%），共 560 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 887/3274（27.1%），共 560 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -403,7 +403,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（453/1935）
+### 外国菜系（459/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，37/107</summary>
 
@@ -779,12 +779,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>美国南方菜 american-south</b> — B 级，5/38</summary>
+<details><summary><b>美国南方菜 american-south</b> — B 级，7/38</summary>
 
 - [ ] `P4-american-south/main-poultry` 主菜·禽（Poultry Main）目标 6，已完成 1
-- [ ] `P4-american-south/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 0
+- [ ] `P4-american-south/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 1
 - [ ] `P4-american-south/bakery` 烘焙面包（Bakery）目标 6，已完成 1
-- [ ] `P4-american-south/dessert` 甜点（Dessert）目标 6，已完成 0
+- [ ] `P4-american-south/dessert` 甜点（Dessert）目标 6，已完成 1
 - [ ] `P4-american-south/breakfast` 早餐（Breakfast）目标 6，已完成 1
 - [ ] `P4-american-south/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [ ] `P4-american-south/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
@@ -805,11 +805,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>卡真菜 cajun</b> — C 级，4/25</summary>
+<details><summary><b>卡真菜 cajun</b> — C 级，6/25</summary>
 
 - [ ] `P4-cajun/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 2
-- [ ] `P4-cajun/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 2
-- [ ] `P4-cajun/soup` 汤羹（Soup）目标 5，已完成 0
+- [ ] `P4-cajun/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 3
+- [ ] `P4-cajun/soup` 汤羹（Soup）目标 5，已完成 1
 - [ ] `P4-cajun/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 0
 - [ ] `P4-cajun/sauce` 酱汁与基础调味（Sauce）目标 5，已完成 0
 
@@ -868,13 +868,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>加勒比菜 caribbean</b> — C 级，4/25</summary>
+<details><summary><b>加勒比菜 caribbean</b> — C 级，6/25</summary>
 
 - [ ] `P4-caribbean/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 2
-- [ ] `P4-caribbean/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 0
+- [ ] `P4-caribbean/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 1
 - [ ] `P4-caribbean/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 1
 - [ ] `P4-caribbean/drink` 饮品（Drink）目标 5，已完成 0
-- [ ] `P4-caribbean/dessert` 甜点（Dessert）目标 5，已完成 0
+- [ ] `P4-caribbean/dessert` 甜点（Dessert）目标 5，已完成 1
 - [x] `P4-caribbean/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
 
 </details>
