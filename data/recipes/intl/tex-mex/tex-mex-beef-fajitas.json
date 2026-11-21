@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tex-mex-beef-fajitas",
+  "name": {
+    "zh": "铁板牛肉卷饼",
+    "en": "Beef Fajitas",
+    "original": "Fajitas de Res"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "tex-mex"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 15,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛里脊",
+          "name_en": "beef tenderloin",
+          "amount": 500,
+          "unit": "g",
+          "note": "切一厘米宽的长条",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 8,
+          "unit": "piece",
+          "note": "现成薄饼",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌肉用",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "腌肉用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分两次",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎制用",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切角挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "铸铁锅",
+    "砧板",
+    "刀",
+    "夹子",
+    "烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛里脊顺着纹路切成一厘米厚片，再切成手指宽的长条。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "逆纹切口感嫩，顺纹切更有嚼头。",
+      "visual_cue": "肉条长短粗细一致"
+    },
+    {
+      "n": 2,
+      "text": "肉条加孜然粉、辣椒粉、盐、黑胡椒与一半油抓匀，腌二十五分钟。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "腌够时间，香料才吃得进肉里。",
+      "visual_cue": "肉条表面挂满香料"
+    },
+    {
+      "n": 3,
+      "text": "青椒去籽切成条，洋葱切成同样粗细的长粗丝。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "粗细一致，下锅才同步熟。",
+      "visual_cue": "菜条均匀，不带籽"
+    },
+    {
+      "n": 4,
+      "text": "铸铁锅大火烧到微微冒烟，倒余下的植物油晃匀。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "锅不够热，肉下去就出水变老。",
+      "visual_cue": "油面起细纹，微微冒烟"
+    },
+    {
+      "n": 5,
+      "text": "肉条铺开下锅，先别翻动，煎足两分钟再翻面。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "留出焦面时间，肉才香。",
+      "visual_cue": "底部焦褐，边缘卷起"
+    },
+    {
+      "n": 6,
+      "text": "肉条盛出，原锅下青椒与洋葱大火快炒两分钟。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "蔬菜要脆，别炒到出水。",
+      "visual_cue": "菜边微焦，仍带脆感"
+    },
+    {
+      "n": 7,
+      "text": "倒回肉条，加蒜末与盐翻炒一分钟，挤青柠汁。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "青柠最后挤，酸香才清亮。",
+      "visual_cue": "汁水收干，锅气扑鼻"
+    },
+    {
+      "n": 8,
+      "text": "玉米饼烤箱一百八十度烤三分钟，卷上肉与菜即可。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "饼烤热才软，冷饼一折就裂。",
+      "visual_cue": "饼面鼓起小泡，柔软"
+    }
+  ],
+  "tips": [
+    "锅一定要烧够热，分批下肉别挤成一堆。",
+    "肉腌好擦去表面多余汁水，煎时更容易上色。",
+    "玉米饼用干锅烙十几秒也行，比烤箱更快。"
+  ],
+  "common_mistakes": [
+    "锅温不够就把肉下锅，肉出水变成炖肉。",
+    "肉和菜一起下锅，蔬菜出汤把肉泡软。",
+    "玉米饼没加热就卷，一折就裂成两半。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛里脊",
+      "substitute": "鸡腿肉",
+      "ratio": "500 克:500 克",
+      "note": "切条后腌二十分钟，煎制时间略短。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "彩椒",
+      "ratio": "150 克:150 克",
+      "note": "辣味变淡，甜味更明显。"
+    }
+  ],
+  "variations": [
+    "加一勺烟熏辣椒粉，带出炭火气息。",
+    "配一碟酸奶油和酪梨酱，卷着吃更润。"
+  ],
+  "serving_suggestion": "连铸铁锅端上桌，配青柠角、玉米饼和莎莎酱自己卷。",
+  "storage": "肉与菜单独冷藏两天；玉米饼密封冷冻，复热后口感接近现做。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 520,
+    "protein_g": 36,
+    "fat_g": 22,
+    "carbs_g": 42,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须煎至中心熟透无血水，中心温度达到七十度；铸铁锅高温，端取须戴隔热手套。"
+  ],
+  "origin_note": "德州与墨西哥边境的牧场菜，牛仔把牛腩边角料架上炭火烤，再和洋葱青椒一起卷进薄饼。铁板端上桌还在滋滋响，这就是它的招牌。",
+  "tags": [
+    "德州墨西哥",
+    "牛肉",
+    "卷饼",
+    "铁板"
+  ],
+  "related_ids": [
+    "tex-mex-queso",
+    "tex-mex-huevos-rancheros"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

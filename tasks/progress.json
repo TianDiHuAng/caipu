@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:58:09.321Z",
+  "generatedAt": "2026-11-21T07:03:32.450Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 558,
     "target": 3274,
-    "actual": 857,
-    "coverage": 0.2617593158216249
+    "actual": 863,
+    "coverage": 0.2635919364691509
   },
   "regions": {
     "cn": [
@@ -3751,7 +3751,7 @@
         "en": "South Asian",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 3,
         "cells": [
           {
             "category": "staple-rice",
@@ -3764,15 +3764,19 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-asian-aloo-gobi"
+            ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-asian-dal-tadka"
+            ]
           },
           {
             "category": "snack",
@@ -3785,8 +3789,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-asian-kheer"
+            ]
           },
           {
             "category": "main-egg",
@@ -4894,14 +4900,16 @@
         "en": "Tex-Mex",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tex-mex-beef-fajitas"
+            ]
           },
           {
             "category": "snack",
@@ -4914,15 +4922,19 @@
             "category": "sauce",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tex-mex-queso"
+            ]
           },
           {
             "category": "breakfast",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tex-mex-huevos-rancheros"
+            ]
           },
           {
             "category": "main-vegetable",

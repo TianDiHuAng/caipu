@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tex-mex-huevos-rancheros",
+  "name": {
+    "zh": "牧场式煎蛋",
+    "en": "Huevos Rancheros",
+    "original": "Huevos Rancheros"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "tex-mex"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "室温，煎溏心",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 4,
+          "unit": "piece",
+          "note": "现成薄饼",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "红豆",
+          "name_en": "adzuki bean",
+          "amount": 150,
+          "unit": "g",
+          "note": "煮熟沥干",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "上色增辣",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎蛋与炒酱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分两次",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 60,
+          "unit": "g",
+          "note": "刨丝撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "汤锅",
+    "锅铲",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "汤锅倒植物油，中火下洋葱碎炒三分钟到颜色变透明。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒透，酱汁才有甜底。",
+      "visual_cue": "洋葱透明，边缘微黄"
+    },
+    {
+      "n": 2,
+      "text": "加蒜末、辣椒粉与孜然粉炒香，再下番茄丁与青椒丁翻炒。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料先炒，红油才出得来。",
+      "visual_cue": "油色橙红，香气浓郁"
+    },
+    {
+      "n": 3,
+      "text": "加番茄膏、红豆与盐，小火煮十分钟成浓酱。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "煮到能用勺划出痕迹就够稠。",
+      "visual_cue": "酱体浓稠，勺划留痕"
+    },
+    {
+      "n": 4,
+      "text": "平底锅烧热倒少许油，玉米饼两面各烙二十秒。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "烙过的饼更香，也不易吸水变软。",
+      "visual_cue": "饼面鼓起小泡，边缘微焦"
+    },
+    {
+      "n": 5,
+      "text": "同一锅补油，打入鸡蛋，小火煎到蛋白凝固。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "盖盖十秒能让蛋白熟而蛋黄流。",
+      "visual_cue": "蛋白凝固，蛋黄还晃"
+    },
+    {
+      "n": 6,
+      "text": "玉米饼铺在盘中，舀一勺热酱均匀盖在饼面上。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酱要趁热浇，香气才能被饼吸进去。",
+      "visual_cue": "饼面被热酱完全覆盖"
+    },
+    {
+      "n": 7,
+      "text": "放上煎蛋，撒奶酪丝、香菜碎与少许辣椒粉。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "奶酪靠余温融化，不用再加热。",
+      "visual_cue": "奶酪微融，颜色分明"
+    }
+  ],
+  "tips": [
+    "酱汁提前做好，早上只要煎蛋和烙饼。",
+    "鸡蛋要室温的，冷蛋下锅蛋白容易散。",
+    "饼烙过之后再浇酱，才不会糊成一团。"
+  ],
+  "common_mistakes": [
+    "酱汁煮得太稀，浇上去把饼泡烂。",
+    "鸡蛋大火煎，蛋白焦了蛋黄还是生的。",
+    "玉米饼不加热直接用，一折就碎。"
+  ],
+  "substitutions": [
+    {
+      "original": "红豆",
+      "substitute": "黄豆",
+      "ratio": "150 克:150 克",
+      "note": "需提前泡发煮软，口感更粉。"
+    },
+    {
+      "original": "奶酪",
+      "substitute": "酸奶",
+      "ratio": "60 克:80 克",
+      "note": "更清爽，酸味能解辣。"
+    }
+  ],
+  "variations": [
+    "加一勺酸奶油，辣味会变得更柔和。",
+    "把蛋换成炒蛋，做成卷饼更好带。"
+  ],
+  "serving_suggestion": "一盘放两张饼两个蛋，配一杯黑咖啡或鲜榨橙汁。",
+  "storage": "酱汁冷藏三天，饼与蛋现做现吃，不建议久放。",
+  "nutrition_estimate": {
+    "basis": "每份约 330 克",
+    "calories_kcal": 460,
+    "protein_g": 21,
+    "fat_g": 20,
+    "carbs_g": 46,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须彻底加热至蛋白完全凝固，避免生食。",
+    "红豆须提前泡发并煮至完全软烂后再使用。"
+  ],
+  "origin_note": "墨西哥农场的早餐，一早起来把昨天的豆子和番茄煮成酱，烙两张玉米饼，煎几个蛋盖上去，一顿能顶到中午。",
+  "tags": [
+    "德州墨西哥",
+    "早餐",
+    "鸡蛋",
+    "玉米饼"
+  ],
+  "related_ids": [
+    "tex-mex-beef-fajitas",
+    "tex-mex-queso"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
