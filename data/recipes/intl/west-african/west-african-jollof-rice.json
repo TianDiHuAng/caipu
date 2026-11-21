@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "west-african-jollof-rice",
+  "name": {
+    "zh": "西非番茄炒饭",
+    "en": "West African Jollof Rice",
+    "original": "Jollof rice"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "west-african"
+  },
+  "category": [
+    "staple-rice",
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 45,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "长粒米，洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块，可用鸡翅",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块打泥",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 200,
+          "unit": "g",
+          "note": "去籽切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "辣度自定",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "去皮",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "西非风味关键",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 4,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "整片",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "炒底与焖饭",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "或清水",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "分次调",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "料理机",
+    "木勺",
+    "刀",
+    "砧板",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄、甜椒、洋葱、大蒜、姜与辣椒酱一起打成细腻的红酱，约一升。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "红酱要打得细，粗颗粒焖饭时不易融合。",
+      "visual_cue": "酱体均匀浓稠，呈鲜红色"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅下植物油，倒入红酱小火慢炒二十分钟，炒到水分收干、油浮到表面。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "这步叫炒底，炒到油酱分离，饭才有那种深红油亮的颜色。",
+      "visual_cue": "酱体变深红，锅边渗出红油"
+    },
+    {
+      "n": 3,
+      "text": "加咖喱粉、百里香、月桂叶、番茄酱和盐，翻炒两分钟让香料融合。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "香料在油里炒过才香，直接倒进汤里会发涩。",
+      "visual_cue": "酱料油亮，香气浓烈"
+    },
+    {
+      "n": 4,
+      "text": "鸡腿肉块用盐和黑胡椒抓匀，另起锅煎到两面金黄，移入酱料中拌匀。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "鸡肉先煎上色再焖，肉香更足、口感不柴。",
+      "visual_cue": "鸡皮金黄，酱料裹住每块鸡肉"
+    },
+    {
+      "n": 5,
+      "text": "倒入洗净的米和七百毫升高汤，搅匀后煮开，转最小的火加盖焖二十五分钟。",
+      "time_min": 28,
+      "heat": "小火",
+      "tip": "水一开就转最小火，火大必定糊底。",
+      "visual_cue": "米粒吸饱红色汤汁，表面冒细孔"
+    },
+    {
+      "n": 6,
+      "text": "关火后不要开盖，焖十分钟让余温收干水汽，翻松米粒再上桌。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "关火焖这十分钟能让米粒分明不粘。",
+      "visual_cue": "米粒松散分明，锅底没有焦黑层"
+    }
+  ],
+  "tips": [
+    "炒底越耐心颜色越漂亮，赶时间会得到一锅浅橙色的饭。",
+    "想做出锅巴效果，最后五分钟把火略开大让底部微微焦香。",
+    "没有高汤可用清水加一小块黄油替代。"
+  ],
+  "common_mistakes": [
+    "红酱没炒透就下米，饭带生番茄的酸涩味。",
+    "水量过多，煮成番茄粥而不是炒饭。",
+    "中途频繁开盖搅拌，米粒被搅断、饭变黏糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "虾仁",
+      "ratio": "500 克:400 克",
+      "note": "虾仁最后五分钟铺在饭上焖熟。"
+    },
+    {
+      "original": "米",
+      "substitute": "藜麦",
+      "ratio": "400 克:350 克",
+      "note": "吸水量低，高汤减到五百五十毫升。"
+    }
+  ],
+  "variations": [
+    "加青豆与胡萝卜丁同焖，可做更家常的蔬菜版本。"
+  ],
+  "serving_suggestion": "配炸香蕉、凉拌卷心菜与烤鸡一起上桌。",
+  "storage": "冷藏两天，复热加两勺水小火焖热；冷冻可存一个月。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 620,
+    "protein_g": 30,
+    "fat_g": 22,
+    "carbs_g": 76,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须焖至完全熟透、中心无粉红，带骨部位应达七十五度；米饭焖好后两小时内冷藏，室温久放易滋生蜡样芽孢杆菌。"
+  ],
+  "origin_note": "番茄炒饭是西非多国的共同招牌，尼日利亚与加纳还常为谁做得更好吃争论不休。红酱炒到底、香料足、米粒分明带锅巴，是这道饭的三个判准，节庆餐桌上必有它。",
+  "tags": [
+    "西非",
+    "米饭",
+    "番茄",
+    "鸡肉"
+  ],
+  "related_ids": [
+    "indonesian-nasi-goreng",
+    "cajun-jambalaya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

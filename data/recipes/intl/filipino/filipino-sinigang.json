@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "filipino-sinigang",
+  "name": {
+    "zh": "菲律宾酸汤",
+    "en": "Filipino Sour Pork Soup",
+    "original": "Sinigang"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "filipino"
+  },
+  "category": [
+    "soup",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 600,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 300,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 60,
+          "unit": "g",
+          "note": "取果肉泡水，或罗望子酱两大勺",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切瓣",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍扁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "芥蓝",
+          "name_en": "Chinese broccoli",
+          "amount": 200,
+          "unit": "g",
+          "note": "切段，可用空心菜",
+          "optional": false
+        },
+        {
+          "name": "豆角",
+          "name_en": "green beans",
+          "amount": 150,
+          "unit": "g",
+          "note": "掐段",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "咸鲜调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "少量，鱼露已咸",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "罗望子果肉用两百毫升温水泡十分钟，揉搓后滤出浓酸汁，去籽留汤。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "罗望子要泡软再揉，滤出的汁越浓酸味越正。",
+      "visual_cue": "滤汁呈深褐色，尝起来明显发酸"
+    },
+    {
+      "n": 2,
+      "text": "五花肉冷水下锅煮开，撇净浮沫后加姜块和洋葱瓣，小火炖二十分钟。",
+      "time_min": 24,
+      "heat": "中火",
+      "tip": "先焯水去腥，汤色才清亮不浑。",
+      "visual_cue": "汤色清亮，肉块表面收紧"
+    },
+    {
+      "n": 3,
+      "text": "下番茄块与白萝卜块，继续小火煮十分钟至萝卜半透明，用筷子能插入。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "萝卜要炖到半软再放其他菜，否则各种蔬菜熟度参差。",
+      "visual_cue": "萝卜边缘透亮，汤带番茄的红"
+    },
+    {
+      "n": 4,
+      "text": "加豆角与青椒段煮五分钟，倒入罗望子汁，尝尝酸度是否够。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "酸汁最后放，久煮酸味会变寡淡，配白饭一起吃最下饭。",
+      "visual_cue": "汤色加深，豆角转深绿"
+    },
+    {
+      "n": 5,
+      "text": "下芥蓝段煮三分钟，用鱼露和盐调味，撒黑胡椒关火。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "芥蓝烫软即可，煮久了发黄带苦。",
+      "visual_cue": "芥蓝叶翠绿塌软，汤面浮油花"
+    }
+  ],
+  "tips": [
+    "罗望子酸度差异大，先放一半尝味再决定是否加足。",
+    "用猪排骨代替五花肉更清爽，炖制时间需延长十分钟。",
+    "配一碗白饭，汤要浇在饭上吃才是菲律宾家常吃法。"
+  ],
+  "common_mistakes": [
+    "罗望子没泡开就直接下锅，汤只有涩没有酸。",
+    "所有蔬菜一起下锅，芥蓝烂成泥而萝卜还硬。",
+    "早放鱼露久煮，鲜味挥发、只剩死咸。"
+  ],
+  "substitutions": [
+    {
+      "original": "罗望子",
+      "substitute": "青柠",
+      "ratio": "60 克:4 个",
+      "note": "取汁在关火后加入，酸香更清爽。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "虾仁",
+      "ratio": "600 克:400 克",
+      "note": "虾仁最后三分钟下，做成海鲜版酸汤。"
+    }
+  ],
+  "variations": [
+    "换成整条鱼或虾，可做菲律宾常见的海鲜酸汤。"
+  ],
+  "serving_suggestion": "盛入深碗配一碗热白饭，汤与料一起舀着吃。",
+  "storage": "冷藏两天，酸汤隔夜更入味；复热小火加热勿滚沸太久。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 420,
+    "protein_g": 22,
+    "fat_g": 28,
+    "carbs_g": 20,
+    "sodium_mg": 950,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉须炖至完全熟透、无粉红血水；豆角含皂苷，必须彻底煮透变色，未熟豆角易引起肠胃不适；汤品冷藏不超过两天并彻底复热。"
+  ],
+  "origin_note": "Sinigang 是菲律宾最具代表性的酸汤，酸味来自罗望子，配猪肉、虾或鱼皆可。菲律宾人把它视为国民 comfort food，酸鲜的汤配白饭是雨季最常见的家常一餐。",
+  "tags": [
+    "菲律宾",
+    "汤",
+    "酸",
+    "猪肉"
+  ],
+  "related_ids": [
+    "vietnamese-sour-soup",
+    "filipino-chicken-adobo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

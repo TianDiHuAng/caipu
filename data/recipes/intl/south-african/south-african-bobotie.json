@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "south-african-bobotie",
+  "name": {
+    "zh": "南非香料肉饼",
+    "en": "South African Bobotie",
+    "original": "Bobotie"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "south-african"
+  },
+  "category": [
+    "main-meat",
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 45,
+    "total_min": 70
+  },
+  "servings": 5,
+  "flavor": [
+    "savory",
+    "sweet",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 700,
+          "unit": "g",
+          "note": "绞成粗粒，可用牛羊混合",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三枚，两枚入肉馅一枚做奶液",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "南非风味核心",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 2,
+          "unit": "g",
+          "note": "粉状，少量",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "铺面",
+          "optional": false
+        },
+        {
+          "name": "葡萄干",
+          "name_en": "raisin",
+          "amount": 60,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 100,
+          "unit": "g",
+          "note": "去边泡牛奶",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "一半泡面包一半做奶液",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "平衡酸辣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "炒锅",
+    "打蛋器",
+    "刀",
+    "砧板",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面包去边撕碎，用一百二十毫升牛奶泡软；葡萄干用温水泡十分钟后沥干。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "面包是黏合剂，泡软后能让肉糜烤完不散。",
+      "visual_cue": "面包吸饱牛奶，捏起来成糊"
+    },
+    {
+      "n": 2,
+      "text": "炒锅下植物油炒洋葱丁与蒜末八分钟至金黄，加咖喱粉和肉桂炒一分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "香料要在洋葱炒软后再下，香味才铺得开。",
+      "visual_cue": "洋葱金黄，锅里香料油色发亮"
+    },
+    {
+      "n": 3,
+      "text": "下牛肉粒炒到变色，加白醋、白糖、盐、黑胡椒和葡萄干翻匀。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "肉炒到刚变色即可，后面还要进烤箱，久炒会老。",
+      "visual_cue": "肉色由红转褐，颗粒分明"
+    },
+    {
+      "n": 4,
+      "text": "关火拌入泡好的面包糊与两个鸡蛋，把肉糜压进烤盘抹平，铺月桂叶。",
+      "time_min": 6,
+      "heat": "微火",
+      "tip": "肉糜要压实，烤后切片才不松散。",
+      "visual_cue": "馅面平整，月桂叶嵌在表面"
+    },
+    {
+      "n": 5,
+      "text": "剩余牛奶与一个鸡蛋打匀，加少许盐，慢慢浇在肉糜表面。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "奶液要沿盘边缓慢浇，否则会把肉糜冲出坑。",
+      "visual_cue": "表面覆一层浅黄奶液"
+    },
+    {
+      "n": 6,
+      "text": "烤箱一百八十度烤三十五分钟至表面凝固呈金黄，取出静置十分钟再切块。",
+      "time_min": 45,
+      "heat": "中火",
+      "tip": "奶液完全凝固、轻晃不流动才算烤透，切开配米饭最对味。",
+      "visual_cue": "表面金黄有细密气孔，刀刃切下不散"
+    }
+  ],
+  "tips": [
+    "咖喱粉品质决定风味，选香气浓的 Madras 类更接近原味。",
+    "配米饭与香蕉片、椰丝烤甜椒是标准摆盘。",
+    "隔夜再热更入味，切片也更整齐。"
+  ],
+  "common_mistakes": [
+    "肉糜没压实，切块时散成一盘碎肉。",
+    "奶液浇得太急，把表面冲出坑洞。",
+    "烤温过高，表面焦褐而中心还是湿的。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "700 克:700 克",
+      "note": "羊肉风味更浓，肉桂可略减。"
+    },
+    {
+      "original": "葡萄干",
+      "substitute": "红枣",
+      "ratio": "60 克:60 克",
+      "note": "切碎后使用，甜味更柔和。"
+    }
+  ],
+  "variations": [
+    "把肉糜换成扁豆与蘑菇，可做素食版本，需增加面包糊用量。"
+  ],
+  "serving_suggestion": "切块配米饭、香蕉片与烤甜椒一起上桌。",
+  "storage": "冷藏三天，冷冻一个月；复热用烤箱一百六十度十五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 520,
+    "protein_g": 32,
+    "fat_g": 30,
+    "carbs_g": 26,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炒至完全变色并在烤箱中彻底烤熟，中心温度达七十度以上；含蛋奶成分，成品须冷藏保存，复热要热透。"
+  ],
+  "origin_note": "香料肉饼是南非的开普马来菜代表，源自十七世纪马来裔移民带来的香料技法，后与荷兰移民的烤盘菜结合。咖喱、姜黄与葡萄干的甜辣组合，配上表面那层蛋奶，是南非国宴级家常菜。",
+  "tags": [
+    "南非",
+    "烤菜",
+    "牛肉",
+    "咖喱"
+  ],
+  "related_ids": [
+    "indian-chicken-curry",
+    "british-roast-beef"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

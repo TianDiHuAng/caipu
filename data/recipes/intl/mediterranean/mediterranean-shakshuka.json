@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mediterranean-shakshuka",
+  "name": {
+    "zh": "地中海番茄烩蛋",
+    "en": "Shakshuka",
+    "original": "Shakshuka"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mediterranean"
+  },
+  "category": [
+    "breakfast",
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "tangy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 700,
+          "unit": "g",
+          "note": "熟透的，切小块",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三枚",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "微辣上色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "香气关键",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒底",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "中和番茄酸",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎撒面",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 200,
+          "unit": "g",
+          "note": "配食，切开烘烤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底平底锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "厚底锅下橄榄油小火炒洋葱丝与甜椒丁八分钟，炒到软塌出甜味。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "洋葱要炒透不能急，甜味是整锅汤底的基础。",
+      "visual_cue": "洋葱透明软塌，锅底带浅褐色"
+    },
+    {
+      "n": 2,
+      "text": "加蒜片、辣椒粉、孜然粉和牛至，小火炒三十秒让香料出油。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "香料只炒半分钟，久了会发苦。",
+      "visual_cue": "油色变红，香料香气冲上来"
+    },
+    {
+      "n": 3,
+      "text": "倒入番茄块，加盐、白糖和黑胡椒，中火煮十五分钟至番茄完全化开。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "番茄要煮到没有块状，酱汁浓稠才托得住鸡蛋。",
+      "visual_cue": "酱汁浓稠，铲子划过能留痕"
+    },
+    {
+      "n": 4,
+      "text": "用勺背在酱汁里压出三个浅坑，把鸡蛋逐个磕进坑里，撒少许盐。",
+      "time_min": 3,
+      "heat": "微火",
+      "tip": "坑要压深一点，蛋白才不会摊成一片。",
+      "visual_cue": "三个蛋黄完整分开，蛋白围着蛋黄"
+    },
+    {
+      "n": 5,
+      "text": "盖盖小火焖七分钟，蛋白凝固而蛋黄仍流动时关火，撒香菜。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "焖的时间决定蛋黄状态，喜欢全熟可延长三分钟，配硬面包蘸食最佳。",
+      "visual_cue": "蛋白全白凝固，蛋黄表面半透明"
+    }
+  ],
+  "tips": [
+    "番茄品质决定成败，不够熟可加一勺番茄酱补色补味。",
+    "配硬面包或口袋饼，蘸着吃才是正确打开方式。",
+    "香料可按口味加辣，北非版本常用哈里萨辣酱。"
+  ],
+  "common_mistakes": [
+    "番茄没煮透就磕蛋，酱汁太稀、蛋白漂成蛋花。",
+    "火太大焖蛋，底部糊了蛋黄还是生的。",
+    "香料一开头就下锅久炒，整锅带焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡蛋",
+      "substitute": "豆腐",
+      "ratio": "150 克:250 克",
+      "note": "切厚片煎黄后放入酱汁，做成素食版本。"
+    },
+    {
+      "original": "甜椒",
+      "substitute": "西葫芦",
+      "ratio": "150 克:200 克",
+      "note": "切丁后炒制时间略长两分钟。"
+    }
+  ],
+  "variations": [
+    "加入羊奶酪块或香肠片，做成更丰盛的一锅早餐。"
+  ],
+  "serving_suggestion": "连锅端上桌，配烤面包片直接蘸食。",
+  "storage": "冷藏两天，复热用小火加盖焖热，勿微波以免蛋黄爆开。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 330,
+    "protein_g": 14,
+    "fat_g": 20,
+    "carbs_g": 24,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须彻底加热至蛋白完全凝固；若做流心蛋黄，应选用可生食鸡蛋，孕妇与儿童宜全熟食用；成品冷藏不超过两天。"
+  ],
+  "origin_note": "这道番茄烩蛋在北非、中东与地中海东岸都很常见，名字源自阿拉伯语里的混合。洋葱甜椒炒软后加番茄熬成浓酱，磕入鸡蛋焖熟，是当地人周末早午餐的固定主角。",
+  "tags": [
+    "地中海",
+    "早餐",
+    "鸡蛋",
+    "番茄"
+  ],
+  "related_ids": [
+    "middle-eastern-falafel",
+    "spanish-tortilla-espanola"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

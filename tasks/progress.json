@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:31:56.830Z",
+  "generatedAt": "2026-11-21T04:37:21.465Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 519,
+    "cells": 522,
     "target": 3274,
-    "actual": 708,
-    "coverage": 0.21624923640806354
+    "actual": 717,
+    "coverage": 0.2189981673793525
   },
   "regions": {
     "cn": [
@@ -3334,21 +3334,25 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "filipino-sinigang"
+            ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "filipino-sinigang"
+            ]
           },
           {
             "category": "staple-rice",
@@ -3749,7 +3753,7 @@
         "en": "Mediterranean",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "salad",
@@ -3790,8 +3794,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mediterranean-shakshuka"
+            ]
           },
           {
             "category": "main-tofu",
@@ -3799,6 +3805,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "mediterranean-shakshuka"
+            ]
           }
         ]
       },
@@ -3883,7 +3898,7 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-seafood",
@@ -3914,8 +3929,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "portuguese-caldo-verde"
+            ]
           },
           {
             "category": "bakery",
@@ -5072,14 +5089,16 @@
         "en": "West African",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "west-african-jollof-rice"
+            ]
           },
           {
             "category": "soup",
@@ -5108,6 +5127,15 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "west-african-jollof-rice"
+            ]
           }
         ]
       },
@@ -5162,14 +5190,16 @@
         "en": "South African",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-african-bobotie"
+            ]
           },
           {
             "category": "staple-bread",
@@ -5198,6 +5228,15 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "bakery",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "south-african-bobotie"
+            ]
           }
         ]
       },
