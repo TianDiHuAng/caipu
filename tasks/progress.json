@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:47:35.270Z",
+  "generatedAt": "2026-11-21T09:59:50.659Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 565,
+    "cells": 566,
     "target": 3274,
-    "actual": 960,
-    "coverage": 0.29321930360415394
+    "actual": 968,
+    "coverage": 0.29566279780085525
   },
   "regions": {
     "cn": [
@@ -1805,7 +1805,7 @@
         "en": "Chaoshan",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-seafood",
@@ -1822,8 +1822,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "chaoshan-donggua-shrimp-soup"
+            ]
           },
           {
             "category": "snack",
@@ -3987,7 +3989,7 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -4018,8 +4020,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "turkish-sutlac"
+            ]
           },
           {
             "category": "soup",
@@ -5035,7 +5039,7 @@
         "en": "Tex-Mex",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -5051,8 +5055,11 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "tex-mex-elote",
+              "tex-mex-nachos"
+            ]
           },
           {
             "category": "sauce",
@@ -5076,8 +5083,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tex-mex-elote"
+            ]
           },
           {
             "category": "main-egg",
@@ -5587,7 +5596,7 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 7,
+        "actual": 9,
         "cells": [
           {
             "category": "soup",
@@ -5630,8 +5639,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "north-african-orange-cinnamon"
+            ]
           },
           {
             "category": "main-egg",
@@ -5664,6 +5675,15 @@
             "ids": [
               "north-african-lamb-tagine"
             ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "north-african-orange-cinnamon"
+            ]
           }
         ]
       },
@@ -5673,7 +5693,7 @@
         "en": "West African",
         "tier": "C",
         "target": 25,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "staple-rice",
@@ -5718,8 +5738,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "west-african-pepper-sauce"
+            ]
           },
           {
             "category": "main-poultry",

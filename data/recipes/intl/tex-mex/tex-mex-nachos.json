@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tex-mex-nachos",
+  "name": {
+    "zh": "德州墨西哥玉米脆片",
+    "en": "Tex-Mex Nachos",
+    "original": "Nachos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "tex-mex"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 30,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米面",
+          "name_en": "cornmeal",
+          "amount": 200,
+          "unit": "g",
+          "note": "细玉米面",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 100,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "刷面与煎制",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 120,
+          "unit": "g",
+          "note": "擦成丝",
+          "optional": false
+        },
+        {
+          "name": "红豆",
+          "name_en": "adzuki bean",
+          "amount": 150,
+          "unit": "g",
+          "note": "煮软压碎",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 40,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "烤箱",
+    "擀面杖",
+    "烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米面与面粉加盐混匀，分次倒入清水搅成粗糙的颗粒。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "水慢慢加，面团才不粘手。",
+      "visual_cue": "面粉吸水抱团，无干粉"
+    },
+    {
+      "n": 2,
+      "text": "揉成柔软但不粘手的面团，盖上湿布静置二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "静置让玉米面充分吸水。",
+      "visual_cue": "面团柔软，按下去有浅坑"
+    },
+    {
+      "n": 3,
+      "text": "面团分成八小份，每份擀成两毫米厚的薄圆片。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "擀得越薄，烤出来越脆。",
+      "visual_cue": "薄片透光，厚薄均匀"
+    },
+    {
+      "n": 4,
+      "text": "薄片切成三角小块，表面薄薄刷一层植物油。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "刷薄油，烤后更酥更香。",
+      "visual_cue": "每片都挂一层薄油"
+    },
+    {
+      "n": 5,
+      "text": "烤箱预热一百八十度，脆片铺在烤盘上烤十二分钟。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "中途翻面一次，受热更均匀。",
+      "visual_cue": "脆片边缘微黄起泡"
+    },
+    {
+      "n": 6,
+      "text": "红豆提前煮软，用勺背压成带颗粒的豆泥备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "留点颗粒，口感更有层次。",
+      "visual_cue": "豆泥浓稠，仍有小颗粒"
+    },
+    {
+      "n": 7,
+      "text": "番茄切成小丁，挤入青柠汁与少许盐拌成鲜番茄粒。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "青柠汁能提鲜也能防出水。",
+      "visual_cue": "番茄粒清亮，汁水微红"
+    },
+    {
+      "n": 8,
+      "text": "脆片铺回烤盘，撒上奶酪丝与豆泥，再烤五分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "奶酪化开就够，别烤过头。",
+      "visual_cue": "奶酪完全融化，微微起泡"
+    },
+    {
+      "n": 9,
+      "text": "出炉后铺上番茄粒，趁热蘸着吃或直接上手。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "番茄最后铺，保持清爽。",
+      "visual_cue": "脆片金黄，奶酪拉丝"
+    }
+  ],
+  "tips": [
+    "面片擀得越薄，烤出来的脆片越脆。",
+    "烤脆片中途翻一次面，受热更均匀。",
+    "番茄粒最后再铺，避免把脆片泡软。"
+  ],
+  "common_mistakes": [
+    "面片擀得太厚，中间发软嚼不动。",
+    "奶酪烤到发深褐，整盘带着焦苦味。",
+    "番茄提前铺上去，脆片很快回软。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶酪",
+      "substitute": "马苏里拉奶酪",
+      "ratio": "120 克:120 克",
+      "note": "拉丝效果更好，奶味更淡。"
+    },
+    {
+      "original": "红豆",
+      "substitute": "黑豆",
+      "ratio": "150 克:150 克",
+      "note": "更接近原版风味。"
+    }
+  ],
+  "variations": [
+    "加一勺辣椒粉进面团，脆片自带辣味。",
+    "出锅撒一把香菜碎，清香气更突出。"
+  ],
+  "serving_suggestion": "趁热当派对小吃，配冰饮最合适。",
+  "storage": "脆片密封室温放两天，回炉五分钟恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "每份约 180 克",
+    "calories_kcal": 430,
+    "protein_g": 14,
+    "fat_g": 18,
+    "carbs_g": 54,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含奶酪等乳制品，乳糖不耐者少量食用；含麸质，相关过敏者不宜食用；烤盘与烤箱门温度高，取放需用隔热手套。"
+  ],
+  "origin_note": "美墨边境酒吧里随手拼出来的一盘小吃，玉米脆片铺上奶酪和豆泥烤到融化。脆、咸、酸一起入口，越吃越停不下来。",
+  "tags": [
+    "德州墨西哥",
+    "小吃",
+    "玉米",
+    "烤箱"
+  ],
+  "related_ids": [
+    "tex-mex-queso",
+    "tex-mex-beef-fajitas"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
