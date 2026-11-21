@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "malaysian-laksa",
+  "name": {
+    "zh": "马来叻沙",
+    "en": "Malaysian Curry Laksa",
+    "original": "Laksa"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "malaysian"
+  },
+  "category": [
+    "staple-noodle",
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 35,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "粗米粉，温水泡软",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 200,
+          "unit": "g",
+          "note": "去肠线",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 400,
+          "unit": "ml",
+          "note": "浓椰浆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 300,
+          "unit": "g",
+          "note": "去骨切条",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "掐去根须",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 20,
+          "unit": "g",
+          "note": "马来咖喱粉",
+          "optional": false
+        },
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "炒底料用",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 30,
+          "unit": "g",
+          "note": "取白段拍扁",
+          "optional": false
+        },
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "椰糖",
+          "name_en": "palm sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡咸辣",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "鸡骨汤",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒酱料",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "挤汁上桌",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "木勺",
+    "刀",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "香茅取白段拍扁切段，南姜切片，与蒜末、洋葱丁和咖喱粉一起放进研钵或料理机打成粗酱。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "打粗一点保留纤维，煮出来的汤底香气更立体。",
+      "visual_cue": "酱料呈橙黄色粗泥，能闻到香茅与南姜的辛香"
+    },
+    {
+      "n": 2,
+      "text": "炒锅放植物油，小火炒香料酱与辣椒酱八分钟，炒到油色转红、香味浓郁。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "这一步叫爆香，火大就会炒焦发苦，必须耐心推炒。",
+      "visual_cue": "锅内红油析出，酱料变深且不再生涩"
+    },
+    {
+      "n": 3,
+      "text": "倒入高汤煮开，放入鸡腿条小火煮十二分钟，撇去表面浮沫。",
+      "time_min": 14,
+      "heat": "中火",
+      "tip": "撇净浮沫汤才清亮，成品不会带腥。",
+      "visual_cue": "汤色橙红，鸡肉条由粉转白"
+    },
+    {
+      "n": 4,
+      "text": "加入椰浆、鱼露和椰糖搅匀，小火保持微沸五分钟，注意不要滚沸。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "椰浆一旦大火滚沸就会油水分离，汤面浮起颗粒。",
+      "visual_cue": "汤体乳白带橙，质地顺滑无颗粒"
+    },
+    {
+      "n": 5,
+      "text": "另起锅烧水，米粉烫三十秒捞出，豆芽与虾仁分别烫熟备用。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "配料分开烫，汤底才不会被生豆芽的水味冲淡。",
+      "visual_cue": "米粉柔软不断，虾仁卷曲变粉红"
+    },
+    {
+      "n": 6,
+      "text": "碗里放米粉，浇上滚烫汤底，摆鸡腿条、虾仁与豆芽，撒香菜，补盐调味后挤青柠汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "汤要滚烫地浇下去，米粉才能吸味而不发坨。",
+      "visual_cue": "汤面浮着红油，配料分层码放整齐"
+    }
+  ],
+  "tips": [
+    "椰浆选浓稠无糖的烹饪用椰浆，摇匀后再倒，避免油水分离。",
+    "汤底可提前一天做好，冷藏后撇去凝固的油层更清爽。",
+    "喜欢更浓的口感可加一勺虾米辣椒酱一起爆香。"
+  ],
+  "common_mistakes": [
+    "香料酱炒不到位，汤里带着生咖喱的粉味。",
+    "椰浆大火滚沸，汤面结出颗粒状油花。",
+    "米粉泡太久再烫，入汤即断成碎段。"
+  ],
+  "substitutions": [
+    {
+      "original": "米粉",
+      "substitute": "面条",
+      "ratio": "400 克:350 克",
+      "note": "小麦面条口感更弹，煮制时间按包装调整。"
+    },
+    {
+      "original": "鸡腿",
+      "substitute": "油豆腐",
+      "ratio": "300 克:200 克",
+      "note": "素食版本，需把鱼露换生抽。"
+    }
+  ],
+  "variations": [
+    "加入血蛤或鱼丸，可做新加坡加东叻沙的丰盛版本。"
+  ],
+  "serving_suggestion": "滚烫上桌，配青柠角与一碟辣椒酱。",
+  "storage": "汤底冷藏三天，冷冻一个月；米粉与配料现煮现吃，不要一起存放。",
+  "nutrition_estimate": {
+    "basis": "每份约 480 克",
+    "calories_kcal": 720,
+    "protein_g": 28,
+    "fat_g": 38,
+    "carbs_g": 68,
+    "sodium_mg": 1200,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含虾、鱼露等水产过敏原，过敏者须替换；椰浆汤底含油脂高，须热透食用，剩汤冷藏不超过三天并彻底煮沸后再吃。"
+  ],
+  "origin_note": "叻沙是东南亚土生华人社群的家常面食，马来半岛与新加坡各有版本。咖喱椰浆汤底配上米粉、虾与豆芽，香辣浓郁，是槟城与吉隆坡街头最受欢迎的粉面之一。",
+  "tags": [
+    "马来",
+    "面食",
+    "椰浆",
+    "咖喱"
+  ],
+  "related_ids": [
+    "thai-green-curry-chicken",
+    "vietnamese-sour-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cajun-jambalaya",
+  "name": {
+    "zh": "卡真什锦饭",
+    "en": "Cajun Jambalaya",
+    "original": "Jambalaya"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "cajun"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "生米，长粒香米",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "去骨切两厘米块",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 200,
+          "unit": "g",
+          "note": "斜切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "鸡骨汤，热的",
+          "optional": false
+        },
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "替代卡真辣酱",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "烟熏风味更佳",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 3,
+          "unit": "g",
+          "note": "干品揉碎",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "整片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎鸡与香肠",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切葱花点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "量杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切两厘米块，用三克盐和一半辣椒粉抓匀腌十分钟。香肠斜切一厘米厚片。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "鸡肉先腌过再煎，内部才有底味。",
+      "visual_cue": "鸡块表面均匀裹上红色调料"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅放植物油，香肠片下锅中火煎到边缘微焦出油，盛出备用。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "香肠煎出油后，用这层油煎鸡块味道最足。",
+      "visual_cue": "香肠边缘卷曲焦黄，锅底留红色油"
+    },
+    {
+      "n": 3,
+      "text": "鸡块下锅煎到表面金黄，推到一边，下洋葱、芹菜和大蒜炒软。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "蔬菜要炒到出水变软，这是卡真菜的基础底味。",
+      "visual_cue": "洋葱透明，芹菜丁颜色转深"
+    },
+    {
+      "n": 4,
+      "text": "加番茄块、辣椒酱、余下辣椒粉、百里香和月桂叶翻炒三分钟，倒入生抽。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄要炒到化成泥状，饭粒才会裹上均匀的红。",
+      "visual_cue": "锅内食材呈现浓稠红酱状"
+    },
+    {
+      "n": 5,
+      "text": "倒入生米翻拌一分钟，加滚热高汤与余下盐，煮开后转小火盖盖焖二十五分钟。",
+      "time_min": 27,
+      "heat": "小火",
+      "tip": "加汤后不要频繁开盖，蒸汽跑了饭就夹生。",
+      "visual_cue": "液面被米饭吸干，饭面出现小孔"
+    },
+    {
+      "n": 6,
+      "text": "开盖挑出月桂叶，拌入香肠片，盖盖焖五分钟，撒葱花上桌。",
+      "time_min": 6,
+      "heat": "微火",
+      "tip": "关火焖五分钟能让米粒水分分布更均匀。",
+      "visual_cue": "米饭粒粒松散，颜色红亮，香肠分布均匀"
+    }
+  ],
+  "tips": [
+    "长粒米比短粒更耐煮，做什锦饭不易糊成粥。",
+    "高汤必须是热的，冷汤下锅会让米粒外层瞬间收缩、口感发硬。",
+    "卡真调味讲究辣、香、烟三重，辣椒粉与百里香都不可省。"
+  ],
+  "common_mistakes": [
+    "用冷汤直接倒进热锅，米饭煮出来外硬内夹生。",
+    "焖煮时频繁开盖翻动，米粒被搅成糊。",
+    "香肠和鸡块同时下锅，香肠焦了鸡肉还没上色。"
+  ],
+  "substitutions": [
+    {
+      "original": "香肠",
+      "substitute": "培根",
+      "ratio": "200 克:150 克",
+      "note": "咸度高，盐减两克。"
+    },
+    {
+      "original": "鸡腿",
+      "substitute": "虾仁",
+      "ratio": "500 克:400 克",
+      "note": "虾仁最后十分钟放入，避免煮老。"
+    }
+  ],
+  "variations": [
+    "加入秋葵或西葫芦块，可做成路易斯安那乡间常见的蔬菜版本。"
+  ],
+  "serving_suggestion": "配辣酱汁与冰啤酒，撒葱花上桌。",
+  "storage": "冷藏三天，冷冻一个月，复热时加两勺高汤拌松。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 640,
+    "protein_g": 34,
+    "fat_g": 24,
+    "carbs_g": 68,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须完全熟透、中心无血色；含猪肉制品需彻底加热；米饭类剩菜易滋生细菌，须尽快冷藏并在两天内吃完。"
+  ],
+  "origin_note": "什锦饭是路易斯安那法裔移民把西班牙海鲜饭与本地食材结合的产物，名字据说来自法语 jambon（火腿）。一锅煮进肉、菜与米，是当地节庆与家庭聚会的主力菜。",
+  "tags": [
+    "卡真",
+    "米饭",
+    "香肠",
+    "辣"
+  ],
+  "related_ids": [
+    "mexican-pollo-asado",
+    "american-cornbread"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

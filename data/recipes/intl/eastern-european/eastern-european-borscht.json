@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "eastern-european-borscht",
+  "name": {
+    "zh": "东欧红菜汤",
+    "en": "Borscht",
+    "original": "Borsch"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "eastern-european"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 60,
+    "total_min": 85
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "savory",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "甜菜",
+          "name_en": "beet",
+          "amount": 500,
+          "unit": "g",
+          "note": "去皮刨粗丝",
+          "optional": false
+        },
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块，可用牛肉",
+          "optional": false
+        },
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 300,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切一厘米丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 40,
+          "unit": "g",
+          "note": "增色增酸",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 25,
+          "unit": "ml",
+          "note": "保色提酸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "牛骨汤或清水",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒蔬菜",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "整片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 100,
+          "unit": "g",
+          "note": "上桌配用",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刨丝器",
+    "木勺",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩冷水下锅煮开，撇净浮沫后转小火炖四十分钟，捞出牛腩切块，高汤留用。",
+      "time_min": 45,
+      "heat": "小火",
+      "tip": "冷水下锅才能把血水慢慢逼出来，汤色才清。",
+      "visual_cue": "汤面浮沫撇清，汤体浅褐色"
+    },
+    {
+      "n": 2,
+      "text": "甜菜刨粗丝后立刻拌入一半白醋，静置五分钟保持鲜艳的紫红色。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "甜菜遇酸才不掉色，这一步决定成品颜色是否漂亮。",
+      "visual_cue": "甜菜丝呈明亮的紫红，渗出红色汁水"
+    },
+    {
+      "n": 3,
+      "text": "炒锅化开黄油，下洋葱丁和胡萝卜丝炒软，加番茄酱炒出红油。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄酱要炒到颜色变深，生番茄酱味会盖住甜菜香。",
+      "visual_cue": "锅内呈深红色酱状，油脂泛红"
+    },
+    {
+      "n": 4,
+      "text": "把炒好的蔬菜与甜菜丝倒进炖牛腩的高汤，加土豆丁、月桂叶和余下白醋煮开。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "甜菜后放能保留颜色，久煮会褪成暗褐色。",
+      "visual_cue": "汤汁转为鲜艳的紫红色"
+    },
+    {
+      "n": 5,
+      "text": "转小火炖二十分钟后加卷心菜丝和牛腩块，再煮十分钟至卷心菜变软。",
+      "time_min": 32,
+      "heat": "小火",
+      "tip": "卷心菜最后放，久煮会发黄且失去清甜。",
+      "visual_cue": "卷心菜丝软而不烂，汤色红亮"
+    },
+    {
+      "n": 6,
+      "text": "加白糖、盐、黑胡椒和蒜末调味，关火焖十分钟，盛碗后舀一勺酸奶油撒欧芹。",
+      "time_min": 12,
+      "heat": "微火",
+      "tip": "关火焖十分钟让味道融合，酸奶油上桌再加。",
+      "visual_cue": "汤面浮着白色酸奶油，紫红汤色衬得鲜亮"
+    }
+  ],
+  "tips": [
+    "甜菜与醋的组合是保色关键，两者要尽早相遇。",
+    "用牛骨汤比清水更醇厚，素食可用蘑菇汤替代。",
+    "红菜汤隔夜更好喝，冷藏后汤色更深、酸甜更平衡。"
+  ],
+  "common_mistakes": [
+    "甜菜久煮且不加醋，成品端上桌是暗褐色。",
+    "卷心菜与甜菜同锅久炖，菜叶发黄汤味发闷。",
+    "酸奶油早早搅进汤里，一煮就结块分层。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "蘑菇",
+      "ratio": "400 克:350 克",
+      "note": "素食版本，需加一勺生抽补鲜。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "酸奶",
+      "ratio": "100 克:100 克",
+      "note": "需选浓稠原味酸奶，酸味略淡。"
+    }
+  ],
+  "variations": [
+    "加入切成条的薄饼或小饺子，可做成乌克兰式的丰盛版本。"
+  ],
+  "serving_suggestion": "热汤盛碗，配黑麦面包与一瓣生蒜。",
+  "storage": "冷藏四天，冷冻一个月；酸奶油须单独存放现加。",
+  "nutrition_estimate": {
+    "basis": "每份约 450 克",
+    "calories_kcal": 390,
+    "protein_g": 26,
+    "fat_g": 18,
+    "carbs_g": 32,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至完全熟透、无血水；含乳制品，乳糖不耐者可将酸奶油换成椰浆；汤品隔夜复热须彻底煮沸。"
+  ],
+  "origin_note": "红菜汤在东欧各国都有版本，乌克兰与俄罗斯都视其为传统菜。甜菜带来标志性的紫红色，酸味来自发酵的格瓦斯或醋，一勺酸奶油是必不可少的收尾。",
+  "tags": [
+    "东欧",
+    "汤",
+    "甜菜",
+    "牛肉"
+  ],
+  "related_ids": [
+    "russian-beef-stroganoff",
+    "french-onion-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

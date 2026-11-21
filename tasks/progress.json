@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:18:09.158Z",
+  "generatedAt": "2026-11-21T04:21:48.502Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 513,
+    "cells": 514,
     "target": 3274,
-    "actual": 683,
-    "coverage": 0.20861331704337202
+    "actual": 691,
+    "coverage": 0.2110568112400733
   },
   "regions": {
     "cn": [
@@ -3139,14 +3139,16 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "indonesian-nasi-goreng"
+            ]
           },
           {
             "category": "main-poultry",
@@ -3198,14 +3200,16 @@
         "en": "Malaysian",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "malaysian-laksa"
+            ]
           },
           {
             "category": "main-seafood",
@@ -3218,8 +3222,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "malaysian-laksa"
+            ]
           },
           {
             "category": "snack",
@@ -3316,7 +3322,7 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-meat",
@@ -3366,6 +3372,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "filipino-chicken-adobo"
+            ]
           }
         ]
       },
@@ -4052,14 +4067,16 @@
         "en": "Irish",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "irish-beef-stew"
+            ]
           },
           {
             "category": "staple-bread",
@@ -4072,8 +4089,10 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "irish-beef-stew"
+            ]
           },
           {
             "category": "breakfast",
@@ -4176,14 +4195,16 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "eastern-european-borscht"
+            ]
           },
           {
             "category": "main-meat",
@@ -4554,7 +4575,7 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-seafood",
@@ -4567,8 +4588,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "cajun-jambalaya"
+            ]
           },
           {
             "category": "soup",
