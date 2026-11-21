@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-brioche",
+  "name": {
+    "zh": "法式布里欧修",
+    "en": "Brioche",
+    "original": "Brioche"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 150,
+    "cook_min": 30,
+    "total_min": 180
+  },
+  "servings": 6,
+  "flavor": [
+    "rich",
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "高筋面粉蛋白质含量更高",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 200,
+          "unit": "g",
+          "note": "室温软化",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "室温回温打散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "温热到三十度",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "note": "帮助发酵",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 6,
+          "unit": "g",
+          "note": "耐高糖干酵母",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "后加避免杀死酵母",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "厨师机",
+    "法式带盖模具",
+    "保鲜膜",
+    "毛刷"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温牛奶化开酵母静置五分钟，与面粉、白糖、鸡蛋一起用厨师机低速揉成粗糙面团。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "牛奶别超过四十度，太烫会把酵母直接烫死。",
+      "visual_cue": "面团粗糙成团，盆壁基本干净"
+    },
+    {
+      "n": 2,
+      "text": "加入盐转中速揉八分钟，揉到面团能拉出较厚的膜再开始分次加软化黄油。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "黄油一次加太多会让面团打滑，分四到五次最稳。",
+      "visual_cue": "面团表面光滑，能拉出半透明厚膜"
+    },
+    {
+      "n": 3,
+      "text": "黄油全部吸收后继续揉到完全扩展，面团能撑出薄而不易破的膜。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "面温控制在二十六度以内，摸着发烫就冷藏歇十分钟。",
+      "visual_cue": "面团柔软有光泽，拉膜透光不见破洞"
+    },
+    {
+      "n": 4,
+      "text": "面团滚圆盖保鲜膜室温发酵到两倍大，手指沾粉戳洞不回缩即可。",
+      "time_min": 70,
+      "heat": "无火",
+      "tip": "含黄油多的面团发酵偏慢，冷天可放进关灯的烤箱并放杯热水。",
+      "visual_cue": "体积明显膨大，戳洞边缘不塌陷"
+    },
+    {
+      "n": 5,
+      "text": "排气后分割滚圆，松弛十五分钟再整形成三股辫放入模具，二次发酵到八分满。",
+      "time_min": 50,
+      "heat": "无火",
+      "tip": "辫子别编太紧，面团还要继续膨发，太紧会撑断。",
+      "visual_cue": "面团高出模具约两厘米"
+    },
+    {
+      "n": 6,
+      "text": "表面刷蛋液，一百八十度烤十分钟后降到一百七十度再烤二十分钟，出炉震模脱模。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "烤到十五分钟上色过深就盖锡纸，避免外焦内生。",
+      "visual_cue": "表皮深金黄有光泽，敲击有空响"
+    }
+  ],
+  "tips": [
+    "黄油含量高，面团冷藏静置能让组织更细腻，隔夜冷藏发酵风味更足。",
+    "揉面全程留意面温，超过二十八度黄油会析出，面团打滑难成膜。",
+    "出炉后侧放晾凉，正放会让底部凝出水汽变软。"
+  ],
+  "common_mistakes": [
+    "黄油软化过头成液体，加入后无法被面团吸收，烤后油腻分层。",
+    "发酵时间不足就入炉，成品紧实如馒头，没有蓬松拉丝的组织。",
+    "烘烤温度过高，外皮焦黑而中心仍是生面糊状。"
+  ],
+  "substitutions": [
+    {
+      "original": "高筋面粉",
+      "substitute": "中筋面粉",
+      "ratio": "1:1",
+      "note": "筋度偏低，拉丝感会弱一些。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "1:0.9",
+      "note": "香气略淡，可多加十克黄油补足。"
+    }
+  ],
+  "variations": [
+    "面团里包入巧克力豆或橙皮丁，可做风味更足的节日版本。"
+  ],
+  "serving_suggestion": "切片后轻烤，抹果酱或配咸味肉酱都合适。",
+  "storage": "密封常温两天，冷冻一个月，吃前回烤五分钟恢复酥软。",
+  "nutrition_estimate": {
+    "basis": "每份约 150 克",
+    "calories_kcal": 560,
+    "protein_g": 13,
+    "fat_g": 27,
+    "carbs_g": 64,
+    "sodium_mg": 380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含生鸡蛋与黄油的面团须彻底烤熟，中心温度达到九十度以上再出炉食用。",
+    "发酵面团不要放在超过三十五度的环境，避免杂菌繁殖。"
+  ],
+  "origin_note": "布里欧修是法国传统 enriched 面包代表，以高比例黄油和鸡蛋著称，早在十七世纪的诺曼底就有记载。它既有面包的骨架又有蛋糕的松软，常被做成辫子形状或小圆球，配鹅肝或果酱都合宜。",
+  "tags": [
+    "法式",
+    "烘焙",
+    "面包",
+    "黄油"
+  ],
+  "related_ids": [
+    "baguette",
+    "french-pain-au-chocolat"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

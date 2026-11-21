@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-coq-au-vin",
+  "name": {
+    "zh": "法式红酒炖鸡",
+    "en": "Coq au Vin",
+    "original": "Coq au vin"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 75,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 900,
+          "unit": "g",
+          "note": "带骨琵琶腿四只",
+          "optional": false
+        },
+        {
+          "name": "红酒",
+          "name_en": "red wine",
+          "amount": 500,
+          "unit": "ml",
+          "note": "干型，能没过鸡肉一半",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 200,
+          "unit": "g",
+          "note": "白蘑菇切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 80,
+          "unit": "g",
+          "note": "切条煸出油",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "裹鸡块帮助收汁",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 25,
+          "unit": "g",
+          "note": "煎蘑菇用",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "鸡骨汤",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "腌鸡去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炖锅",
+    "炒锅",
+    "木勺",
+    "厨房纸",
+    "细筛"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿用料酒、盐和黑胡椒抓匀腌二十分钟，取出后用厨房纸把表面水分吸干。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "下锅前必须擦干，带水下锅只会把鸡肉煮白而不上色。",
+      "visual_cue": "鸡皮干爽微紧，表面无可见水光"
+    },
+    {
+      "n": 2,
+      "text": "厚底炖锅里煸培根到出油变脆，捞出备用，用锅里的油把鸡腿皮朝下煎到金黄。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "鸡皮要煎到深金色再翻面，这层焦香是整锅味道的底。",
+      "visual_cue": "鸡皮金黄焦脆，锅底留褐色焦化物"
+    },
+    {
+      "n": 3,
+      "text": "鸡块盛出，下洋葱丝和胡萝卜块炒软，撒面粉翻匀炒到看不见干粉。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "面粉要炒到微微发黄，生面粉味会拖累整锅酱汁。",
+      "visual_cue": "蔬菜裹上一层薄粉，锅底干爽不结块"
+    },
+    {
+      "n": 4,
+      "text": "倒红酒煮开刮起锅底焦香，放回鸡块与培根，加高汤小火盖盖炖五十分钟。",
+      "time_min": 50,
+      "heat": "小火",
+      "tip": "液面保持微微冒泡，滚沸会让鸡肉散碎发柴。",
+      "visual_cue": "汤汁深红透亮，鸡肉用筷子轻戳即透"
+    },
+    {
+      "n": 5,
+      "text": "黄油下平底锅煎蘑菇片到两面焦黄，倒入炖锅再煮十分钟收浓汤汁。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "蘑菇单独煎香再加，直接炖会出大量水把酱汁冲淡。",
+      "visual_cue": "酱汁能挂住勺背，蘑菇呈浅褐色"
+    },
+    {
+      "n": 6,
+      "text": "尝味补盐，把鸡块摆盘淋上酱汁，撒黑胡椒后趁热上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "收汁到最后五分钟再调盐，早放盐会让酱汁过咸。",
+      "visual_cue": "酱汁浓稠油亮，均匀裹在鸡皮上"
+    }
+  ],
+  "tips": [
+    "红酒选自己愿意喝的干型酒，酒质直接决定酱汁的风味深浅。",
+    "炖好后放凉冷藏一夜再复热，味道会更融合，是餐厅常用做法。",
+    "鸡腿比鸡胸更耐炖，皮厚油多的部位炖出来更润。"
+  ],
+  "common_mistakes": [
+    "鸡皮没擦干就下锅，煎不出焦色还大量出水。",
+    "全程大火滚炖，鸡肉散架且酱汁浑浊发苦。",
+    "面粉在汤里直接撒，结成一团团疙瘩难化开。"
+  ],
+  "substitutions": [
+    {
+      "original": "红酒",
+      "substitute": "白葡萄酒",
+      "ratio": "1:1",
+      "note": "做成白酒炖鸡，酱汁颜色更浅。"
+    },
+    {
+      "original": "培根",
+      "substitute": "五花肉",
+      "ratio": "80 克:100 克",
+      "note": "煸出的油脂更香，需撇去多余油。"
+    }
+  ],
+  "variations": [
+    "收汁时加一小勺巧克力或一勺果酱，可让酱汁更有厚度，这是勃艮第乡间做法。"
+  ],
+  "serving_suggestion": "配煮土豆或乡村面包，蘸酱汁一起吃。",
+  "storage": "冷藏三天，冷冻一个月，复热时加少量高汤调稀。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 560,
+    "protein_g": 38,
+    "fat_g": 32,
+    "carbs_g": 14,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须炖至中心温度七十五度以上、肉汁清亮无血水；炖锅含酒，酒精过敏者与儿童食用需延长炖煮时间让酒精挥发。"
+  ],
+  "origin_note": "红酒炖鸡是法国勃艮第地区的农家菜，旧时用年老公鸡加当地红酒长时间焖煮，让粗韧的肉质变软。二十世纪经名厨推广进入餐厅菜单，如今被视为法式乡野菜的代表。",
+  "tags": [
+    "法式",
+    "炖菜",
+    "红酒",
+    "鸡肉"
+  ],
+  "related_ids": [
+    "boeuf-bourguignon",
+    "magret-de-canard"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
