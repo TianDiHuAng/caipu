@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-curry-puff",
+  "name": {
+    "zh": "新加坡咖喱角",
+    "en": "Singapore Curry Puff",
+    "original": "Karipap"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 55,
+    "cook_min": 45,
+    "total_min": 100
+  },
+  "servings": 6,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "做酥皮",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "炒馅",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒馅",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 90,
+          "unit": "g",
+          "note": "起酥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 130,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 520,
+          "unit": "ml",
+          "note": "油炸",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "擀面杖",
+    "炒锅",
+    "漏勺",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加盐和白糖拌匀，把软化黄油切小块搓进面粉里成粗砂状。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "黄油要冰凉，搓出来的酥层才分明。",
+      "visual_cue": "面粉呈粗砂状，抓起会散"
+    },
+    {
+      "n": 2,
+      "text": "分次加清水揉成光滑面团，盖好静置二十分钟。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "面团不要揉过头，起筋就不酥了。",
+      "visual_cue": "面团光滑，按下去有弹性"
+    },
+    {
+      "n": 3,
+      "text": "土豆切一厘米小丁，鸡腿肉和洋葱也切成同样大小。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "馅料切成一样大小，熟度才会一致。",
+      "visual_cue": "丁块大小一致，切面平整"
+    },
+    {
+      "n": 4,
+      "text": "平底锅下洋葱碎炒香，加咖喱粉炒出油亮颜色。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "咖喱粉一定要在油里炒过才够香。",
+      "visual_cue": "锅里浮出黄色亮油"
+    },
+    {
+      "n": 5,
+      "text": "下鸡腿肉丁炒到变色，加土豆丁、盐、白胡椒和椰浆翻匀。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "椰浆下锅后要不停翻，免得糊底。",
+      "visual_cue": "馅料裹上浓稠咖喱汁"
+    },
+    {
+      "n": 6,
+      "text": "转小火煮八分钟到土豆变软，盛出摊凉备用。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "馅必须彻底放凉，不然会戳破酥皮。",
+      "visual_cue": "土豆软糯，馅料干爽"
+    },
+    {
+      "n": 7,
+      "text": "面团分成小份擀成圆片，包入一勺馅对折，捏出花边封口。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "边缘一定要捏紧，炸时才不会漏馅。",
+      "visual_cue": "月牙形饱满，花边均匀"
+    },
+    {
+      "n": 8,
+      "text": "炒锅倒植物油烧到六成热，下咖喱角中小火炸到金黄。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "用中小火慢慢炸，酥皮才会酥透。",
+      "visual_cue": "表面金黄起酥，浮在油面"
+    }
+  ],
+  "tips": [
+    "黄油要冰凉再搓进面粉，酥层才明显。",
+    "馅料必须摊凉再包，热馅会戳破酥皮。",
+    "油温保持六成热，中小火慢炸才酥透。"
+  ],
+  "common_mistakes": [
+    "面团反复揉压起筋，炸出来又硬又韧。",
+    "馅料带汁水就包，下锅立刻爆开漏馅。",
+    "油温过高，外皮焦了里面土豆还是硬的。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "虾仁",
+      "ratio": "150 克:150 克",
+      "note": "做成海鲜版，炒制时间缩短两分钟。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "90 克:80 毫升",
+      "note": "层次稍差，口感偏脆。"
+    }
+  ],
+  "variations": [
+    "馅里加半个水煮蛋块，口感更丰富。",
+    "加一小勺参巴辣酱，辣味会更鲜明。"
+  ],
+  "serving_suggestion": "趁热配一杯拉茶或黑咖啡，是新加坡早市和下午茶最常见的现炸点心。",
+  "storage": "炸好常温放一天，冷藏两天；复热用烤箱一百八十度烤八分钟恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "每份约 160 克",
+    "calories_kcal": 380,
+    "protein_g": 10,
+    "fat_g": 22,
+    "carbs_g": 36,
+    "sodium_mg": 420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "油炸时油温不宜过高，避免溅油烫伤；含鸡肉与蛋类替代项须彻底炸透，剩品冷藏两天内复热食用。"
+  ],
+  "origin_note": "新加坡与马来西亚街头的经典点心，酥皮包着咖喱土豆鸡肉馅，炸到金黄起层，一口咬下又烫又香。",
+  "tags": [
+    "新加坡",
+    "点心",
+    "咖喱",
+    "油炸"
+  ],
+  "related_ids": [
+    "singaporean-roti-prata",
+    "singaporean-fried-carrot-cake",
+    "singaporean-laksa"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

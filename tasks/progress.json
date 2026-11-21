@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:01:24.353Z",
+  "generatedAt": "2026-11-21T14:11:49.844Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1143,
-    "coverage": 0.3491142333536958
+    "actual": 1149,
+    "coverage": 0.3509468540012217
   },
   "regions": {
     "cn": [
@@ -3611,7 +3611,7 @@
         "en": "Singaporean",
         "tier": "B",
         "target": 38,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "staple-rice",
@@ -3646,8 +3646,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "singaporean-curry-puff",
               "singaporean-fried-carrot-cake",
               "singaporean-roti-prata"
             ]
@@ -3955,7 +3956,7 @@
         "en": "South Asian",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "staple-rice",
@@ -3983,9 +3984,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "south-asian-dal-tadka"
+              "south-asian-dal-tadka",
+              "south-asian-rasam"
             ]
           },
           {
@@ -4131,7 +4133,7 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
@@ -4175,9 +4177,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "turkish-lentil-soup"
+              "turkish-lentil-soup",
+              "turkish-yogurt-soup"
             ]
           },
           {
@@ -4329,7 +4332,7 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 15,
+        "actual": 16,
         "cells": [
           {
             "category": "appetizer",
@@ -4375,9 +4378,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "greek-honey-cake",
+              "greek-koulouri",
               "greek-spanakopita"
             ]
           },
@@ -5274,7 +5278,7 @@
         "en": "Tex-Mex",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
@@ -5301,8 +5305,9 @@
             "category": "sauce",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "tex-mex-guacamole",
               "tex-mex-queso"
             ]
           },
@@ -6154,7 +6159,7 @@
         "en": "South African",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
@@ -6202,9 +6207,10 @@
             "category": "salad",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "south-african-chakalaka"
+              "south-african-chakalaka",
+              "south-african-potato-salad"
             ]
           },
           {
