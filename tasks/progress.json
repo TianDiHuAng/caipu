@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:11:42.595Z",
+  "generatedAt": "2026-11-21T07:19:57.102Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 560,
     "target": 3274,
-    "actual": 869,
-    "coverage": 0.26542455711667684
+    "actual": 875,
+    "coverage": 0.2672571777642028
   },
   "regions": {
     "cn": [
@@ -5243,15 +5243,16 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 3,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "brazilian-feijoada"
+              "brazilian-feijoada",
+              "brazilian-picanha-grill"
             ]
           },
           {
@@ -5272,15 +5273,19 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "brazilian-brigadeiro"
+            ]
           },
           {
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "brazilian-limonada"
+            ]
           },
           {
             "category": "main-seafood",
@@ -5735,21 +5740,24 @@
         "en": "Australian-NZ",
         "tier": "C",
         "target": 25,
-        "actual": 5,
+        "actual": 8,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "australian-grilled-cod"
+            ]
           },
           {
             "category": "bakery",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "australian-anzac-biscuit",
               "australian-meat-pie",
               "australian-pavlova"
             ]
@@ -5758,8 +5766,10 @@
             "category": "breakfast",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "australian-avocado-toast"
+            ]
           },
           {
             "category": "dessert",

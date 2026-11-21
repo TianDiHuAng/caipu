@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "brazilian-limonada",
+  "name": {
+    "zh": "巴西青柠饮",
+    "en": "Brazilian Limeade",
+    "original": "Limonada Suíça"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "brazilian"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 0,
+    "total_min": 10
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "sweet",
+    "tangy",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 320,
+          "unit": "g",
+          "note": "约四个，洗净切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 70,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "炼乳",
+          "name_en": "condensed milk",
+          "amount": 60,
+          "unit": "g",
+          "note": "增加顺滑",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "冰镇更佳",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "榨汁机",
+    "滤网",
+    "大壶",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "青柠用盐搓洗表皮，冲净后切去两端再切成八瓣。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "表皮要洗净，白色筋络别留太多。",
+      "visual_cue": "表皮洁净，切块均匀"
+    },
+    {
+      "n": 2,
+      "text": "青柠块连皮放入榨汁机，加三百毫升清水一起打十秒。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "只打十秒，打久了皮油发苦。",
+      "visual_cue": "液体翠绿，果肉打散"
+    },
+    {
+      "n": 3,
+      "text": "用细网滤网过滤到壶中，用勺背压出剩余汁水。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "压的时候别太用力，白瓤会带苦味。",
+      "visual_cue": "滤液清澈，渣滓留在网上"
+    },
+    {
+      "n": 4,
+      "text": "加白糖与炼乳搅到完全化开，尝一口调整甜度。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "先少放糖，青柠酸度差异很大。",
+      "visual_cue": "甜酸平衡，颜色奶绿"
+    },
+    {
+      "n": 5,
+      "text": "倒入余下的清水搅拌均匀，冷藏至冰凉后风味更好。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "有时间冷藏半小时更融合，急用可加冰镇清水。",
+      "visual_cue": "液体顺滑，凉透壶壁"
+    },
+    {
+      "n": 6,
+      "text": "壶身冰镇好后倒入玻璃杯，放一片青柠片装饰即可。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "杯子也提前冷藏，喝起来更清爽。",
+      "visual_cue": "杯壁挂霜，颜色清新"
+    }
+  ],
+  "tips": [
+    "青柠连皮打会带一点苦香，这是它的特色。",
+    "炼乳能让酸味更圆润，别省这一步。",
+    "打好尽快喝，放久会分层并带出皮油苦味。"
+  ],
+  "common_mistakes": [
+    "榨汁机打太久，皮油析出整杯发苦。",
+    "糖一次性放太多，酸甜完全失衡只剩甜味。",
+    "滤网孔太粗，喝起来满口果渣影响口感。"
+  ],
+  "substitutions": [
+    {
+      "original": "炼乳",
+      "substitute": "淡奶油",
+      "ratio": "60 克:50 毫升",
+      "note": "口感更清爽，甜度需加十克糖。"
+    },
+    {
+      "original": "青柠",
+      "substitute": "柠檬",
+      "ratio": "320 克:300 克",
+      "note": "酸味较缓和，糖量可减十克。"
+    }
+  ],
+  "variations": [
+    "加几片薄荷叶同打，清凉感更强。",
+    "做成冰沙版，加一杯冰块一起打碎。"
+  ],
+  "serving_suggestion": "冰镇后倒入高杯，配烤肉和甜点都合适。",
+  "storage": "冷藏当天喝完，久放会分层发苦。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 160,
+    "protein_g": 2,
+    "fat_g": 3,
+    "carbs_g": 33,
+    "sodium_mg": 35,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "饮用前须确保青柠表皮洗净，避免农残；冰块与清水须为可饮用水。"
+  ],
+  "origin_note": "巴西海滩边随处可见的饮料，青柠连皮打碎再加炼乳，酸甜里带着一丝皮香。配烤肉喝，一杯下去暑气全消。",
+  "tags": [
+    "巴西",
+    "饮品",
+    "青柠",
+    "解暑"
+  ],
+  "related_ids": [
+    "brazilian-brigadeiro",
+    "brazilian-picanha-grill"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
