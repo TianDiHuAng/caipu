@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-21T06:08:53.895Z
+> 生成时间：2026-11-21T06:28:18.483Z
 
-**总览**：工程任务 49/53；菜谱内容 818/3274（25.0%），共 550 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 828/3274（25.3%），共 555 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -399,7 +399,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（410/1935）
+### 外国菜系（420/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，37/107</summary>
 
@@ -539,29 +539,31 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>马来菜 malaysian</b> — B 级，3/38</summary>
+<details><summary><b>马来菜 malaysian</b> — B 级，5/38</summary>
 
 - [ ] `P4-malaysian/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 1
 - [ ] `P4-malaysian/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 0
 - [ ] `P4-malaysian/soup` 汤羹（Soup）目标 6，已完成 1
-- [ ] `P4-malaysian/snack` 小吃（Street Food）目标 6，已完成 0
+- [ ] `P4-malaysian/snack` 小吃（Street Food）目标 6，已完成 1
 - [ ] `P4-malaysian/dessert` 甜点（Dessert）目标 6，已完成 0
 - [ ] `P4-malaysian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-malaysian/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [x] `P4-malaysian/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1
+- [x] `P4-malaysian/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>新加坡菜 singaporean</b> — B 级，4/38</summary>
+<details><summary><b>新加坡菜 singaporean</b> — B 级，6/38</summary>
 
 - [ ] `P4-singaporean/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
-- [ ] `P4-singaporean/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 0
+- [ ] `P4-singaporean/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 1
 - [ ] `P4-singaporean/soup` 汤羹（Soup）目标 6，已完成 1
 - [ ] `P4-singaporean/snack` 小吃（Street Food）目标 6，已完成 0
 - [ ] `P4-singaporean/drink` 饮品（Drink）目标 6，已完成 0
 - [ ] `P4-singaporean/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-singaporean/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [x] `P4-singaporean/main-meat` 主菜·肉（Meat Main）目标 0，已完成 1
+- [x] `P4-singaporean/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 1
 - [x] `P4-singaporean/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 
 </details>
@@ -743,15 +745,16 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>俄式菜 russian</b> — B 级，2/38</summary>
+<details><summary><b>俄式菜 russian</b> — B 级，4/38</summary>
 
 - [ ] `P4-russian/soup` 汤羹（Soup）目标 6，已完成 1
-- [ ] `P4-russian/main-meat` 主菜·肉（Meat Main）目标 6，已完成 1
+- [ ] `P4-russian/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
 - [ ] `P4-russian/salad` 沙拉（Salad）目标 6，已完成 0
 - [ ] `P4-russian/bakery` 烘焙面包（Bakery）目标 6，已完成 0
 - [ ] `P4-russian/drink` 饮品（Drink）目标 6，已完成 0
 - [ ] `P4-russian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-russian/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [x] `P4-russian/staple-bread` 主食·饼（Bread Staple）目标 0，已完成 1
 
 </details>
 
@@ -837,14 +840,14 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>巴西菜 brazilian</b> — C 级，2/25</summary>
+<details><summary><b>巴西菜 brazilian</b> — C 级，3/25</summary>
 
 - [ ] `P4-brazilian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 1
 - [ ] `P4-brazilian/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 0
 - [ ] `P4-brazilian/snack` 小吃（Street Food）目标 5，已完成 0
 - [ ] `P4-brazilian/dessert` 甜点（Dessert）目标 5，已完成 0
 - [ ] `P4-brazilian/drink` 饮品（Drink）目标 5，已完成 0
-- [x] `P4-brazilian/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 1
+- [x] `P4-brazilian/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 2
 
 </details>
 
@@ -860,9 +863,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>加勒比菜 caribbean</b> — C 级，3/25</summary>
+<details><summary><b>加勒比菜 caribbean</b> — C 级，4/25</summary>
 
-- [ ] `P4-caribbean/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 1
+- [ ] `P4-caribbean/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 2
 - [ ] `P4-caribbean/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 0
 - [ ] `P4-caribbean/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 1
 - [ ] `P4-caribbean/drink` 饮品（Drink）目标 5，已完成 0
@@ -896,13 +899,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>东非菜 east-african</b> — C 级，4/25</summary>
+<details><summary><b>东非菜 east-african</b> — C 级，6/25</summary>
 
 - [ ] `P4-east-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 1
 - [ ] `P4-east-african/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 0
 - [ ] `P4-east-african/soup` 汤羹（Soup）目标 5，已完成 0
 - [ ] `P4-east-african/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 5，已完成 1
 - [ ] `P4-east-african/drink` 饮品（Drink）目标 5，已完成 0
+- [x] `P4-east-african/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
+- [x] `P4-east-african/appetizer` 前菜（Appetizer）目标 0，已完成 1
 - [x] `P4-east-african/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
 - [x] `P4-east-african/staple-congee` 主食·粥（Congee）目标 0，已完成 1
 

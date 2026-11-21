@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:08:53.824Z",
+  "generatedAt": "2026-11-21T06:28:18.409Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 550,
+    "cells": 555,
     "target": 3274,
-    "actual": 818,
-    "coverage": 0.24984728161270617
+    "actual": 828,
+    "coverage": 0.2529016493585828
   },
   "regions": {
     "cn": [
@@ -3327,7 +3327,7 @@
         "en": "Malaysian",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 5,
         "cells": [
           {
             "category": "staple-noodle",
@@ -3358,8 +3358,10 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "malaysian-satay-chicken"
+            ]
           },
           {
             "category": "dessert",
@@ -3390,6 +3392,15 @@
             "ids": [
               "malaysian-nasi-lemak"
             ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "malaysian-satay-chicken"
+            ]
           }
         ]
       },
@@ -3399,7 +3410,7 @@
         "en": "Singaporean",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "staple-rice",
@@ -3414,8 +3425,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "singaporean-char-kway-teow"
+            ]
           },
           {
             "category": "soup",
@@ -3461,6 +3474,15 @@
             "actual": 1,
             "ids": [
               "singaporean-bak-kut-teh"
+            ]
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "singaporean-char-kway-teow"
             ]
           },
           {
@@ -4550,7 +4572,7 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "soup",
@@ -4565,9 +4587,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "russian-beef-stroganoff"
+              "russian-beef-stroganoff",
+              "russian-pelmeni"
             ]
           },
           {
@@ -4604,6 +4627,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "russian-pelmeni"
+            ]
           }
         ]
       },
@@ -5132,7 +5164,7 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
@@ -5175,9 +5207,10 @@
             "category": "main-seafood",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "brazilian-moqueca"
+              "brazilian-moqueca",
+              "brazilian-vatapa"
             ]
           }
         ]
@@ -5253,14 +5286,15 @@
         "en": "Caribbean",
         "tier": "C",
         "target": 25,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "caribbean-curry-chicken",
               "caribbean-jerk-chicken"
             ]
           },
@@ -5450,7 +5484,7 @@
         "en": "East African",
         "tier": "C",
         "target": 25,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
@@ -5490,6 +5524,24 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "east-african-kachumbari"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "east-african-kachumbari"
+            ]
           },
           {
             "category": "hotpot-bbq",

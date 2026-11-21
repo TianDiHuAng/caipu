@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "brazilian-vatapa",
+  "name": {
+    "zh": "巴西虾仁椰奶炖",
+    "en": "Vatapá",
+    "original": "Vatapá"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "brazilian"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 500,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 400,
+          "unit": "ml",
+          "note": "浓椰奶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 120,
+          "unit": "g",
+          "note": "烤熟去皮",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "微辣",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "料理机",
+    "木勺",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "花生用干锅小火炒三分钟至香，放凉后搓去外皮。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "花生炒香但别炒黑，苦味会毁掉整锅。",
+      "visual_cue": "花生微焦，香气浓郁"
+    },
+    {
+      "n": 2,
+      "text": "花生与一半椰奶放进料理机，打成顺滑细腻的糊状。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "打久一点，颗粒感越少汤汁越顺。",
+      "visual_cue": "糊体顺滑，能缓慢流动"
+    },
+    {
+      "n": 3,
+      "text": "锅里下植物油炒香洋葱末、蒜末与姜末至透明。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "三样一起炒，香气层次才够。",
+      "visual_cue": "洋葱透明，锅中香气浓"
+    },
+    {
+      "n": 4,
+      "text": "下番茄块与辣椒粉翻炒三分钟，边炒边压碎成酱。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄压碎后汤色才红亮。",
+      "visual_cue": "番茄化成糊，油色发红"
+    },
+    {
+      "n": 5,
+      "text": "倒入花生糊与剩余椰奶，小火煮十分钟并不停搅动。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "这步最容易糊底，木勺要刮到锅底。",
+      "visual_cue": "汤汁浓稠，表面冒小泡"
+    },
+    {
+      "n": 6,
+      "text": "虾仁下锅煮五分钟至卷曲变红，加盐调定味道。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "虾仁最后放，久煮会变硬发柴。",
+      "visual_cue": "虾仁卷曲，颜色橙红"
+    },
+    {
+      "n": 7,
+      "text": "关火后撒香菜碎，连锅端上桌，配一碗米饭一起食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜最后加，颜色与香气都留着。",
+      "visual_cue": "表面翠绿点缀，汤汁厚实"
+    }
+  ],
+  "tips": [
+    "花生一定要烤过再打，生花生的涩味很明显。",
+    "椰奶分两次用，一半打糊一半煮汤，香味更立体。",
+    "喜欢更浓稠可以多打二十克花生。"
+  ],
+  "common_mistakes": [
+    "花生糊下锅后没搅，锅底焦一层，整锅带糊味。",
+    "虾仁放得太早，久煮缩成硬粒，口感发柴。",
+    "辣椒粉下太多，辣味盖住椰奶和花生。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鸡胸肉",
+      "ratio": "500 克:500 克",
+      "note": "切块先煎至变色，再入锅炖五分钟。"
+    },
+    {
+      "original": "花生",
+      "substitute": "腰果",
+      "ratio": "120 克:120 克",
+      "note": "更清甜，打糊时间缩短一分钟。"
+    }
+  ],
+  "variations": [
+    "加干虾米同煮，海味更浓，是巴伊亚风格。",
+    "用面包块代替部分花生，做成更绵密的版本。"
+  ],
+  "serving_suggestion": "浇在白饭上，配一勺辣椒酱和青柠角。",
+  "storage": "冷藏三天、冷冻一个月；复热时加少量椰奶小火搅开，避免糊底。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 720,
+    "protein_g": 34,
+    "fat_g": 46,
+    "carbs_g": 46,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "peanut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁须煮至完全不透明、质地变紧，中心温度七十四度以上；花生为常见过敏原须明确告知；含椰奶的汤汁两小时内冷藏。"
+  ],
+  "origin_note": "巴西巴伊亚州的非裔传统菜，花生与椰奶打成浓糊，和虾仁、番茄一起慢炖。汤汁厚得能立住勺子，浇在白饭上，甜、咸、辣混在一起，是当地节庆餐桌上的主角之一。",
+  "tags": [
+    "巴西",
+    "虾仁",
+    "椰奶",
+    "花生"
+  ],
+  "related_ids": [
+    "brazilian-moqueca",
+    "brazilian-feijoada"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

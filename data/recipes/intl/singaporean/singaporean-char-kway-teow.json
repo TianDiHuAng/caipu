@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-char-kway-teow",
+  "name": {
+    "zh": "新加坡炒粿条",
+    "en": "Char Kway Teow",
+    "original": "炒粿條"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "staple-noodle",
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "smoky",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "河粉",
+          "name_en": "flat rice noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "宽粿条",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 180,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 120,
+          "unit": "g",
+          "note": "掐尾",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "分次下锅",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "河粉用手轻轻抖散，成条不结块，豆芽洗净沥干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "河粉别用刀切，抖散才不会断成一截截。",
+      "visual_cue": "河粉根根分明，无粘连"
+    },
+    {
+      "n": 2,
+      "text": "生抽、鱼露、白糖与白胡椒放小碗调匀备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酱汁提前调好，下锅时手不会乱。",
+      "visual_cue": "酱汁棕亮，糖已化开"
+    },
+    {
+      "n": 3,
+      "text": "炒锅烧到冒烟，下二十毫升植物油，倒入虾仁爆炒到卷曲变色。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "锅必须够热，这是锅气的全部来源。",
+      "visual_cue": "虾仁卷曲，边缘泛红"
+    },
+    {
+      "n": 4,
+      "text": "把虾仁推到一边，下蒜末与小米辣炒二十秒出香。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "蒜末别久炒，焦了整锅带苦。",
+      "visual_cue": "蒜末微黄，香气冲鼻"
+    },
+    {
+      "n": 5,
+      "text": "打入鸡蛋略凝后划散，与豆芽一起翻炒三十秒。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "鸡蛋半凝固时下河粉，最容易裹住。",
+      "visual_cue": "蛋花松软，豆芽挺立"
+    },
+    {
+      "n": 6,
+      "text": "倒入河粉与调好的酱汁，用锅铲快速翻推四十秒。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "河粉别翻炒过头，推几下就够，否则会断。",
+      "visual_cue": "河粉均匀上色，油亮"
+    },
+    {
+      "n": 7,
+      "text": "撒入剩余植物油沿锅边淋一圈，再快速颠锅十秒逼出焦香。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "最后那一勺油是焦香的关键，别省。",
+      "visual_cue": "锅边起烟，粉条边缘微焦"
+    },
+    {
+      "n": 8,
+      "text": "关火立刻装盘，趁热上桌，放久了粉条会出水发软。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "炒粿条上桌要冒热气，凉了就失了性格。",
+      "visual_cue": "盘中油亮，香气扑鼻"
+    }
+  ],
+  "tips": [
+    "河粉前一晚买好放冰箱，稍干爽更好炒不粘。",
+    "火力全程最大，分次炒比一次堆满锅更好。",
+    "没有血蛤可用虾仁替代，鲜味稍淡但更省事。"
+  ],
+  "common_mistakes": [
+    "河粉没抖散直接下锅，粘成一大团。",
+    "锅里堆太多一次炒，全部出水变成煮河粉。",
+    "酱汁下太少，粉条发白没有颜色。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鸡胸肉丝",
+      "ratio": "180 克:180 克",
+      "note": "不吃海鲜时替换，需先滑炒至变色。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "生抽",
+      "ratio": "10 毫升:12 毫升",
+      "note": "咸度接近，少了发酵鲜味。"
+    }
+  ],
+  "variations": [
+    "加血蛤与腊肠，是新加坡老摊的经典组合。",
+    "用米粉代替河粉，做成炒米粉口感更细。"
+  ],
+  "serving_suggestion": "装盘后配一碟辣椒酱和青柠角，加一杯冰镇甘蔗汁。",
+  "storage": "现炒现吃风味最佳；冷藏一夜后须用大火快炒回热，别微波。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 620,
+    "protein_g": 28,
+    "fat_g": 26,
+    "carbs_g": 72,
+    "sodium_mg": 1360,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁须炒至完全不透明、质地变紧，中心温度七十四度以上；贝类过敏者须替换；鸡蛋须炒至完全凝固。"
+  ],
+  "origin_note": "新加坡小贩中心的招牌，锅烧到冒烟才下粉，虾仁、鸡蛋、豆芽和河粉在旺火里几十秒就出锅。好的粿条带着一股焦香，油亮不腻，配上辣椒与青柠，站在摊前几分钟就吃完一盘。",
+  "tags": [
+    "新加坡",
+    "河粉",
+    "虾仁",
+    "炒"
+  ],
+  "related_ids": [
+    "singaporean-hainanese-chicken-rice",
+    "malaysian-laksa"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

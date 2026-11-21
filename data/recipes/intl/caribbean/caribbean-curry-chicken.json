@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "caribbean-curry-chicken",
+  "name": {
+    "zh": "加勒比咖喱鸡",
+    "en": "Caribbean Curry Chicken",
+    "original": "Curry Chicken"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "caribbean"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 900,
+          "unit": "g",
+          "note": "带骨切块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 25,
+          "unit": "g",
+          "note": "牙买加风格",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "浓椰奶",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉用盐与黑胡椒抓匀，静置十分钟入味。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "带骨鸡块要提前调味，肉厚处才不寡淡。",
+      "visual_cue": "鸡块表面均匀挂盐"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅下植物油，中火炒香洋葱丁、蒜末与姜末。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒到透明，甜味才能托住咖喱的辛。",
+      "visual_cue": "洋葱软塌，香气甜润"
+    },
+    {
+      "n": 3,
+      "text": "加入咖喱粉与辣椒粉，小火炒一分钟至香气散出。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "咖喱粉必须炒过才香，但火大就发苦。",
+      "visual_cue": "锅中咖喱色深，香味冲鼻"
+    },
+    {
+      "n": 4,
+      "text": "下鸡块翻炒五分钟，让每一块都均匀裹上咖喱。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "鸡皮朝下先煎，逼出的油能让酱更香。",
+      "visual_cue": "鸡块表面封住，颜色橙黄"
+    },
+    {
+      "n": 5,
+      "text": "倒入高汤大火煮开，再转小火加盖炖二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "保持微沸，滚太猛鸡肉会散。",
+      "visual_cue": "汤面小泡，鸡肉开始变软"
+    },
+    {
+      "n": 6,
+      "text": "加土豆块与椰奶，再炖十五分钟至土豆软糯。",
+      "time_min": 17,
+      "heat": "小火",
+      "tip": "椰奶下锅后别大火滚，容易分层。",
+      "visual_cue": "土豆能被筷子穿透，汤汁浓"
+    },
+    {
+      "n": 7,
+      "text": "加盐调定味道，撒香菜碎，关火静置三分钟，配热米饭食用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "静置让油与汤汁融合，味道更圆。",
+      "visual_cue": "表面浮红油，香气醇厚"
+    }
+  ],
+  "tips": [
+    "牙买加咖喱粉本身带姜黄与多香果，别用日式咖喱块替代。",
+    "土豆切大块些，久炖才不化成泥。",
+    "隔夜再吃更入味，是加勒比家庭的常见做法。"
+  ],
+  "common_mistakes": [
+    "咖喱粉没炒直接下汤，味道发闷没有香气。",
+    "全程大火炖，椰奶分层出油，汤汁变渣。",
+    "土豆切小块又早下锅，最后全化在汤里。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "900 克:900 克",
+      "note": "炖制时间缩短十分钟，避免变柴。"
+    },
+    {
+      "original": "椰奶",
+      "substitute": "牛奶加黄油",
+      "ratio": "250 毫升:200 毫升加 20 克",
+      "note": "奶香较淡，浓厚度接近。"
+    }
+  ],
+  "variations": [
+    "加鹰嘴豆与南瓜，做成更家常的一锅炖。",
+    "用羊肉替代鸡肉，炖制时间延长三十分钟。"
+  ],
+  "serving_suggestion": "浇在白饭上，配一份加勒比米饭豆子和炸芭蕉片。",
+  "storage": "冷藏三天、冷冻一个月；复热加少量高汤小火加热，土豆会略碎属正常。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 680,
+    "protein_g": 44,
+    "fat_g": 40,
+    "carbs_g": 34,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "带骨鸡块须炖至中心完全不透明、骨周无血水，中心温度七十四度以上；含椰奶的汤汁两小时内冷藏并彻底复热。"
+  ],
+  "origin_note": "加勒比群岛的家常主食，咖喱粉先在油里炒香，再和带骨鸡块、土豆、椰奶一起慢炖。汤汁浓得能挂住饭粒，辣味不冲但后劲足，是周日家庭餐桌上必有的一锅。",
+  "tags": [
+    "加勒比",
+    "鸡腿肉",
+    "咖喱",
+    "炖"
+  ],
+  "related_ids": [
+    "caribbean-jerk-chicken",
+    "caribbean-rice-and-peas"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

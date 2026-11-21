@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "russian-pelmeni",
+  "name": {
+    "zh": "俄式小饺子",
+    "en": "Pelmeni",
+    "original": "Пельмени"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "russian"
+  },
+  "category": [
+    "staple-bread",
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 60,
+    "cook_min": 15,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 400,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 250,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "一半入馅一半炒",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 220,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 150,
+          "unit": "g",
+          "note": "佐食",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "拌食",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮饺子",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "擀面杖",
+    "汤锅",
+    "刀",
+    "平底锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加鸡蛋、水与五克盐揉成光滑面团，盖布醒三十分钟。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "面团要揉到表面发亮，擀皮才不破。",
+      "visual_cue": "面团光滑细腻，按压回弹"
+    },
+    {
+      "n": 2,
+      "text": "牛肉切小块，与猪肉末和半个洋葱一起剁成细腻肉糜。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "肉糜要剁到黏手，馅才不会散。",
+      "visual_cue": "肉糜黏稠，颜色均匀"
+    },
+    {
+      "n": 3,
+      "text": "肉馅加剩余盐、黑胡椒与两勺清水，顺一个方向搅到上劲。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水要分次加，一次倒多肉馅会分离。",
+      "visual_cue": "肉馅抱团，挑起不散"
+    },
+    {
+      "n": 4,
+      "text": "面团分成四份，逐份擀成两毫米厚的薄片，用杯口压出圆皮。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "边角料可以重新揉合擀开，别浪费。",
+      "visual_cue": "圆皮薄透，大小一致"
+    },
+    {
+      "n": 5,
+      "text": "每张皮放一小勺肉馅，对折成半月形，两角捏合。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "边缘要捏紧不留缝，否则煮时进水变糊。",
+      "visual_cue": "饺子饱满，封口紧实"
+    },
+    {
+      "n": 6,
+      "text": "汤锅烧开高汤，下饺子煮到浮起后再煮三分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "浮起不代表熟，再多煮三分钟馅才透。",
+      "visual_cue": "饺子鼓起，浮在水面打转"
+    },
+    {
+      "n": 7,
+      "text": "另起平底锅化开黄油，把剩余洋葱切丝炒到金黄。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒到甜味出来，配饺子才不腻。",
+      "visual_cue": "洋葱丝炒到金黄、质地软塌"
+    },
+    {
+      "n": 8,
+      "text": "饺子捞出沥水，淋洋葱黄油，配一大勺酸奶油上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酸奶油别省，它把酸与油润同时补上。",
+      "visual_cue": "饺子油亮，酸奶油雪白"
+    }
+  ],
+  "tips": [
+    "和面加鸡蛋，皮更韧，煮时不易破。",
+    "一次多包些，撒面粉后冷冻，随吃随煮。",
+    "牛肉配猪肉是经典组合，全牛肉会偏干。"
+  ],
+  "common_mistakes": [
+    "面团和得太软，皮根本擀不开，一碰就破洞。",
+    "封口没捏紧，下锅后馅漏成一锅肉汤。",
+    "饺子浮起立刻捞出，里面还是生肉。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉",
+      "ratio": "250 克:250 克",
+      "note": "需多加油脂与清水，避免馅干柴。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "原味酸奶",
+      "ratio": "150 克:150 克",
+      "note": "更清爽，酸度略高。"
+    }
+  ],
+  "variations": [
+    "用蘑菇与卷心菜做素馅，加炒洋葱提香。",
+    "把煮好的饺子再煎至底部焦黄，做成煎饺。"
+  ],
+  "serving_suggestion": "煮好淋黄油洋葱，配酸奶油与黑胡椒，再来一杯冰镇格瓦斯。",
+  "storage": "生饺子撒面粉冷冻一个月；熟饺子冷藏两天，复热用平底锅煎或高汤回煮。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 720,
+    "protein_g": 34,
+    "fat_g": 32,
+    "carbs_g": 72,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉与猪肉馅须煮至中心完全熟透、无粉色，中心温度七十一度以上；生肉糜与熟食分开处理；剩饺子两小时内冷藏并彻底复热。"
+  ],
+  "origin_note": "西伯利亚冬天的主食，一家人围桌包上几百个，冻在窗外当存粮。皮薄馅足，煮好淋一勺黄油洋葱，再挖一大勺酸奶油，热气混着酸香，一口一个停不下来。",
+  "tags": [
+    "俄罗斯",
+    "牛肉",
+    "猪肉末",
+    "饺子"
+  ],
+  "related_ids": [
+    "russian-beef-stroganoff"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
