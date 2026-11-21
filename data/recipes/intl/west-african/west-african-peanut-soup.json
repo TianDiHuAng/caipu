@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "west-african-peanut-soup",
+  "name": {
+    "zh": "西非花生炖鸡汤",
+    "en": "West African Peanut Soup",
+    "original": "Groundnut Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "west-african"
+  },
+  "category": [
+    "soup",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 45,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 200,
+          "unit": "g",
+          "note": "烤熟去皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 500,
+          "unit": "g",
+          "note": "配食",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "料理机",
+    "木勺",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "花生用干锅小火炒五分钟，放凉后搓去红皮。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "花生炒香但别炒黑，苦味会毁掉整锅汤。",
+      "visual_cue": "花生微焦，皮一搓就掉"
+    },
+    {
+      "n": 2,
+      "text": "花生与两百毫升高汤放进料理机，打成顺滑花生糊。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "打久一点，颗粒越少汤越顺。",
+      "visual_cue": "糊体浓稠，能缓慢流动"
+    },
+    {
+      "n": 3,
+      "text": "汤锅下植物油，中火把鸡腿块煎到两面微黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "先煎封住肉汁，炖出来才不柴。",
+      "visual_cue": "鸡块表面金黄，锅底带焦香"
+    },
+    {
+      "n": 4,
+      "text": "加入洋葱、姜与蒜末，炒三分钟至软塌出香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒透，汤的甜味才够。",
+      "visual_cue": "洋葱透明，香气浓"
+    },
+    {
+      "n": 5,
+      "text": "下番茄块与辣椒粉炒五分钟，边炒边压碎成酱。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒到出红油，汤色才饱满。",
+      "visual_cue": "番茄化开，油色发红"
+    },
+    {
+      "n": 6,
+      "text": "倒入剩余高汤与花生糊，煮开后小火炖三十分钟。",
+      "time_min": 32,
+      "heat": "小火",
+      "tip": "花生糊容易沉底，木勺要刮到锅底。",
+      "visual_cue": "汤体浓稠，表面冒小泡"
+    },
+    {
+      "n": 7,
+      "text": "加盐调定味道，撒香菜碎，配米饭一起上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "咸淡要偏足，花生会吸盐。",
+      "visual_cue": "汤面油亮，香菜点缀"
+    }
+  ],
+  "tips": [
+    "花生必须烤过再打，生花生带涩。",
+    "想更浓可多放五十克花生，少放两百毫升高汤。",
+    "西非本地会加干鱼或辣椒酱，风味更冲。"
+  ],
+  "common_mistakes": [
+    "花生糊下锅后没搅动，锅底焦糊整锅发苦。",
+    "鸡汤炖过头，肉散成丝没有口感。",
+    "盐放得太少，花生汤喝起来发闷没有层次。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "牛肉",
+      "ratio": "600 克:600 克",
+      "note": "炖制时间延长二十分钟至肉软。"
+    },
+    {
+      "original": "花生",
+      "substitute": "花生酱",
+      "ratio": "200 克:150 克",
+      "note": "省去打糊步骤，直接调水化开。"
+    }
+  ],
+  "variations": [
+    "加六根秋葵同炖，汤汁更黏稠，口感更滑。",
+    "用南瓜替代一半番茄，做成甜口版本。"
+  ],
+  "serving_suggestion": "浇在米饭上，配炸香蕉或木薯块一起吃。",
+  "storage": "冷藏三天、冷冻一个月；复热加少量高汤小火搅开。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 680,
+    "protein_g": 38,
+    "fat_g": 40,
+    "carbs_g": 42,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "peanut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须炖至中心完全不透明、中心温度七十四度以上；花生为常见过敏原须明确告知；含花生糊的汤两小时内冷藏。"
+  ],
+  "origin_note": "西非从加纳到塞内加尔的国民汤，花生烤香打成糊，与番茄、辣椒和鸡块一起慢炖。汤浓得能挂住勺子，甜、辣、坚果香混在一起，浇在米饭上，一家人围着一锅就能吃完。",
+  "tags": [
+    "西非",
+    "鸡腿肉",
+    "花生",
+    "汤"
+  ],
+  "related_ids": [
+    "west-african-jollof-rice",
+    "west-african-suya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

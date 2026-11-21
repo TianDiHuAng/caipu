@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-south-cornbread",
+  "name": {
+    "zh": "美南玉米面包",
+    "en": "Southern Cornbread",
+    "original": "Cornbread"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american-south"
+  },
+  "category": [
+    "bakery",
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米面",
+          "name_en": "cornmeal",
+          "amount": 200,
+          "unit": "g",
+          "note": "粗磨",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 80,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "融化",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "微甜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "膨发",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "铸铁平底锅",
+    "大碗",
+    "打蛋器",
+    "刮刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "铸铁平底锅放进烤箱，与烤箱一起预热到二百度。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "锅必须先热，倒面糊时才会响。",
+      "visual_cue": "锅体发黑，手靠近有热浪"
+    },
+    {
+      "n": 2,
+      "text": "大碗里混合玉米面、面粉、泡打粉与盐，用打蛋器搅匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "粉类先混匀，泡打粉才不会结块。",
+      "visual_cue": "粉料颜色一致，无颗粒"
+    },
+    {
+      "n": 3,
+      "text": "另一只碗打散鸡蛋，加牛奶与白糖搅到糖化开。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "鸡蛋别打发，只要混匀就好。",
+      "visual_cue": "蛋液橙黄，糖完全溶解"
+    },
+    {
+      "n": 4,
+      "text": "把蛋奶液倒进粉料，用刮刀翻拌到无干粉就停。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "拌过头会出筋，口感发硬。",
+      "visual_cue": "面糊粗糙，略带粉粒"
+    },
+    {
+      "n": 5,
+      "text": "倒入融化黄油，轻轻拌两下让油脂裹住面糊。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "黄油温度别太高，否则会把蛋液烫熟。",
+      "visual_cue": "面糊油亮，缓缓流动"
+    },
+    {
+      "n": 6,
+      "text": "取出热锅，放一小块黄油在锅底刷开，倒入面糊。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "面糊入锅应该立刻发出滋滋声。",
+      "visual_cue": "锅底滋响，面糊自然摊平"
+    },
+    {
+      "n": 7,
+      "text": "放回烤箱烤二十二分钟，至表面金黄、牙签插入无粘连。",
+      "time_min": 23,
+      "heat": "中火",
+      "tip": "烤到一半别开门，温度掉下会塌陷。",
+      "visual_cue": "表面金黄，边缘微焦"
+    },
+    {
+      "n": 8,
+      "text": "出炉后静置五分钟再切块，配黄油一起食用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "刚出炉就切会散，静置后组织才稳。",
+      "visual_cue": "切面细腻，气孔均匀"
+    }
+  ],
+  "tips": [
+    "粗磨玉米面口感更好，细粉容易发黏。",
+    "糖只放二十克，南方玉米面包本来就偏咸香。",
+    "铸铁锅预热是灵魂，出的边角焦脆层最受欢迎。"
+  ],
+  "common_mistakes": [
+    "面糊拌匀时间过久，烤出来硬得像砖头。",
+    "锅没预热直接倒面糊，底部不脆。",
+    "黄油全倒进面糊，锅底没有油，脱模粘锅。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "酸奶",
+      "ratio": "300 毫升:280 毫升",
+      "note": "酸度帮助膨发，口感更松。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "60 克:55 毫升",
+      "note": "少了奶香，但更轻盈。"
+    }
+  ],
+  "variations": [
+    "加五十克切碎的青椒，做成咸口版本。",
+    "面糊里拌入玉米粒，口感更有层次。"
+  ],
+  "serving_suggestion": "切块趁热抹黄油，或配一碗豆子汤蘸着吃。",
+  "storage": "密封室温两天、冷冻一个月；复热用烤箱一百八十度五分钟，微波会变韧。",
+  "nutrition_estimate": {
+    "basis": "每份约 180 克",
+    "calories_kcal": 400,
+    "protein_g": 11,
+    "fat_g": 18,
+    "carbs_g": 50,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须完全烤熟，牙签插入无湿糊；含牛奶与麸质，过敏人群须替换；冷藏保存不超过两天。"
+  ],
+  "origin_note": "美国南方的餐桌常客，用粗磨玉米面加牛奶和鸡蛋调成面糊，倒进烧得滚烫的铸铁锅里烤。外层焦脆、内里松软，趁热抹上黄油，配烤肋排和豆子汤，一顿家常饭就有了底。",
+  "tags": [
+    "美国南部",
+    "玉米面",
+    "烘烤",
+    "面包"
+  ],
+  "related_ids": [
+    "bbq-pork-ribs",
+    "southern-fried-chicken"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
