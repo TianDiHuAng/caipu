@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:36:19.334Z",
+  "generatedAt": "2026-11-21T12:40:23.037Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1077,
-    "coverage": 0.3289554062309102
+    "actual": 1083,
+    "coverage": 0.33078802687843617
   },
   "regions": {
     "cn": [
@@ -3496,7 +3496,7 @@
         "en": "Malaysian",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "staple-noodle",
@@ -3541,9 +3541,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "malaysian-kuih-lapis"
+              "malaysian-kuih-lapis",
+              "malaysian-serimuka"
             ]
           },
           {
@@ -4660,14 +4661,15 @@
         "en": "Irish",
         "tier": "C",
         "target": 25,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "irish-bacon-and-cabbage",
               "irish-beef-stew"
             ]
           },
@@ -4824,15 +4826,16 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "eastern-european-borscht"
+              "eastern-european-borscht",
+              "eastern-european-sauerkraut-soup"
             ]
           },
           {
@@ -5590,7 +5593,7 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -5613,8 +5616,10 @@
             "category": "snack",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "brazilian-coxinha"
+            ]
           },
           {
             "category": "dessert",
@@ -5653,7 +5658,7 @@
         "en": "Argentinian",
         "tier": "C",
         "target": 25,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
@@ -5687,9 +5692,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "argentinian-alfajor"
+              "argentinian-alfajor",
+              "argentinian-flan"
             ]
           },
           {
@@ -5735,7 +5741,7 @@
         "en": "Caribbean",
         "tier": "C",
         "target": 25,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-poultry",
@@ -5778,9 +5784,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "caribbean-coconut-drops"
+              "caribbean-coconut-drops",
+              "caribbean-sweet-potato-pudding"
             ]
           },
           {
