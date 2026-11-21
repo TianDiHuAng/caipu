@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cajun-chicken-sausage-gumbo",
+  "name": {
+    "zh": "卡真鸡肉香肠浓汤",
+    "en": "Cajun Chicken and Sausage Gumbo",
+    "original": "Gumbo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "cajun"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 70,
+    "total_min": 90
+  },
+  "servings": 6,
+  "flavor": [
+    "spicy",
+    "smoky",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 300,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "炒面糊",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒面糊",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "卡真风味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "熬汤",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底汤锅",
+    "木勺",
+    "刀",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "厚底锅放植物油和面粉，小火不停搅拌炒二十分钟成深棕色面糊。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "面糊要一直搅，停手就会结块炒焦。",
+      "visual_cue": "面糊深棕，闻起来像坚果"
+    },
+    {
+      "n": 2,
+      "text": "下入洋葱、芹菜和青椒丁，中火炒五分钟到蔬菜变软。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "蔬菜直接下到热面糊里，香气才出得来。",
+      "visual_cue": "蔬菜变软，裹满面糊"
+    },
+    {
+      "n": 3,
+      "text": "加入大蒜末、辣椒粉和白胡椒炒一分钟，把香料的香气炒出来。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "香料最后才下，炒久了会带苦味。",
+      "visual_cue": "香气冲鼻，颜色红亮"
+    },
+    {
+      "n": 4,
+      "text": "鸡腿肉块和香肠片下锅翻炒，炒到鸡肉表面完全变白。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鸡肉先炒定型，后面久炖才不会散。",
+      "visual_cue": "鸡肉发白，香肠出油"
+    },
+    {
+      "n": 5,
+      "text": "分三次倒入清水，边倒边搅，再把锅底刮干净。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "清水要分次加，汤才不会结成疙瘩。",
+      "visual_cue": "汤体顺滑，无面疙瘩"
+    },
+    {
+      "n": 6,
+      "text": "大火烧开后转小火慢炖四十分钟，最后加盐调味。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "小火慢炖足够久，汤才浓稠能挂勺。",
+      "visual_cue": "汤色棕红，浓稠挂勺"
+    },
+    {
+      "n": 7,
+      "text": "盛进碗里后撒上香菜碎末，配一碗白饭同吃。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "要趁热吃，凉了面糊会让汤变得更稠。",
+      "visual_cue": "表面油亮，香气扑鼻"
+    }
+  ],
+  "tips": [
+    "面糊要一直搅拌，停手就会结块。",
+    "面糊炒到深棕色，汤才有那股烘烤般的香。",
+    "水要分次加，一次全倒容易结疙瘩。"
+  ],
+  "common_mistakes": [
+    "面糊炒糊了还继续用，整锅汤带焦苦味。",
+    "水一次倒完不搅拌，汤里全是面疙瘩。",
+    "鸡肉久煮成渣，口感发柴没有嚼头。"
+  ],
+  "substitutions": [
+    {
+      "original": "香肠",
+      "substitute": "熏火腿",
+      "ratio": "300 克:280 克",
+      "note": "咸度高，盐要减半。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸭腿肉",
+      "ratio": "600 克:600 克",
+      "note": "风味更浓，炖的时间延长十分钟。"
+    }
+  ],
+  "variations": [
+    "加几只鲜虾和蛤蜊，做成海鲜版本。",
+    "最后加一勺秋葵片，汤体会更黏稠。"
+  ],
+  "serving_suggestion": "浇在白饭上，撒一点辣酱，是路易斯安那周末家庭聚餐的主角。",
+  "storage": "冷藏三天，冷冻一个月；复热小火加少量清水，边加热边搅拌。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 430,
+    "protein_g": 28,
+    "fat_g": 26,
+    "carbs_g": 22,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须炖至中心完全熟透；含小麦与香肠制品，麸质过敏者须换无麸面粉；剩汤冷藏三天内彻底滚开后食用。"
+  ],
+  "origin_note": "路易斯安那的招牌炖汤，灵魂是炒到深棕色的面糊，再加鸡肉和烟熏香肠，慢炖出浓郁的南方风味。",
+  "tags": [
+    "卡真",
+    "浓汤",
+    "鸡肉",
+    "香肠"
+  ],
+  "related_ids": [
+    "cajun-jambalaya",
+    "cajun-chicken-stew",
+    "cajun-dirty-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

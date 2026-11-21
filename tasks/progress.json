@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:30:27.517Z",
+  "generatedAt": "2026-11-21T13:38:52.674Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1125,
-    "coverage": 0.3436163714111179
+    "actual": 1131,
+    "coverage": 0.3454489920586439
   },
   "regions": {
     "cn": [
@@ -3420,7 +3420,7 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "staple-rice",
@@ -3435,8 +3435,9 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "indonesian-ayam-bakar-kecap",
               "indonesian-ayam-penyet",
               "indonesian-sate-ayam"
             ]
@@ -4213,7 +4214,7 @@
         "en": "Mediterranean",
         "tier": "B",
         "target": 38,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "salad",
@@ -4229,8 +4230,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mediterranean-shrimp-saganaki"
+            ]
           },
           {
             "category": "appetizer",
@@ -5166,7 +5169,7 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-poultry",
@@ -5182,9 +5185,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "american-south-green-beans"
+              "american-south-green-beans",
+              "american-south-succotash"
             ]
           },
           {
@@ -5339,7 +5343,7 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
@@ -5368,9 +5372,10 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "cajun-chicken-and-rice-soup",
+              "cajun-chicken-sausage-gumbo",
               "cajun-chicken-stew"
             ]
           },
@@ -5697,7 +5702,7 @@
         "en": "Argentinian",
         "tier": "C",
         "target": 25,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
@@ -5714,9 +5719,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "argentinian-chimichurri-sauce"
+              "argentinian-chimichurri-sauce",
+              "argentinian-dulce-de-leche"
             ]
           },
           {
@@ -5850,7 +5856,7 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "soup",
@@ -5866,8 +5872,9 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "north-african-taktouka",
               "north-african-zaalouk"
             ]
           },
