@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "turkish-lahmacun",
+  "name": {
+    "zh": "土耳其薄脆肉饼",
+    "en": "Turkish Lahmacun",
+    "original": "Lahmacun"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "turkish"
+  },
+  "category": [
+    "staple-bread",
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 60,
+    "cook_min": 12,
+    "total_min": 72
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 300,
+          "unit": "g",
+          "note": "带一点肥，剁成细末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 220,
+          "unit": "ml",
+          "note": "约四十度",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "助发酵",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "和面与调味",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "一半入馅一半配盘",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "去皮切碎",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "去籽切块",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 40,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "微辣上色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "香气关键",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 2,
+          "unit": "piece",
+          "note": "上桌挤汁",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "卷饼配用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "面盆",
+    "擀面杖",
+    "平底锅或烤箱",
+    "料理机",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "酵母与白糖用温水化开，倒入面粉和五克盐揉成柔软面团，盖布发酵一小时。",
+      "time_min": 70,
+      "heat": "无火",
+      "tip": "面团要揉到比饺子面软，擀得薄才不破。",
+      "visual_cue": "面团体积膨胀一倍，手指按坑缓慢回弹"
+    },
+    {
+      "n": 2,
+      "text": "羊肉碎与洋葱碎、番茄碎、甜椒块、欧芹、蒜末一起用料理机打成细腻肉泥。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "馅要打成泥状才能薄薄抹开，颗粒太粗擀不薄。",
+      "visual_cue": "羊肉糜呈红褐色膏状，能抹开成薄层"
+    },
+    {
+      "n": 3,
+      "text": "羊肉糜拌入辣椒粉、孜然粉、三克盐和橄榄油，顺一个方向搅到起黏。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "孜然与辣椒粉先拌进油里更易均匀。",
+      "visual_cue": "馅料油润发亮，能粘住勺子"
+    },
+    {
+      "n": 4,
+      "text": "面团分成八份，擀成直径约二十五厘米的薄圆片，越薄越好。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "擀的时候撒干粉防粘，擀到能透光最佳。",
+      "visual_cue": "面片薄可透光，边缘略厚"
+    },
+    {
+      "n": 5,
+      "text": "把羊肉糜薄薄抹满面片，边缘留一厘米，平底锅大火烙四分钟至边缘焦脆。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "馅只抹一层，太厚会把饼压塌、中心不熟。",
+      "visual_cue": "饼边鼓起小泡，底面出现焦斑"
+    },
+    {
+      "n": 6,
+      "text": "出锅后铺香菜与洋葱丝，挤柠檬汁，卷起来趁热吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "卷之前挤柠檬是灵魂，酸味能压住羊肉的膻香。",
+      "visual_cue": "饼皮柔软可卷，馅料香气扑鼻"
+    }
+  ],
+  "tips": [
+    "面团发酵到位，饼皮才柔软可卷而不裂。",
+    "想要更脆的口感，可把平底锅烧更热、烙制时间缩短。",
+    "馅料可提前拌好冷藏，现擀现烙。"
+  ],
+  "common_mistakes": [
+    "面片擀太厚，烙出来像饼不像薄脆。",
+    "羊肉糜水分太多，抹上去饼底湿软，烙的时候粘锅破皮。",
+    "火太小烙，饼皮发白发硬、没有焦香。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "300 克:300 克",
+      "note": "牛肉需带一点肥膘，否则口感发干。"
+    },
+    {
+      "original": "酵母",
+      "substitute": "泡打粉",
+      "ratio": "5 克:6 克",
+      "note": "免发酵版本，面团需醒二十分钟再擀。"
+    }
+  ],
+  "variations": [
+    "把馅料换成奶酪与菠菜，可做土耳其常见的素食薄饼。"
+  ],
+  "serving_suggestion": "卷上欧芹、洋葱丝与柠檬汁，配酸奶饮料一起食用。",
+  "storage": "饼皮可冷冻生坯一个月；熟饼冷藏一天，复热用干锅烙热。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 520,
+    "protein_g": 24,
+    "fat_g": 18,
+    "carbs_g": 64,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉碎必须烙至完全熟透、无粉红，中心温度达七十五度；生羊肉糜接触过的器具须彻底清洗，生坯冷藏不超过一天。"
+  ],
+  "origin_note": "Lahmacun 在土耳其语里意为带肉的饼，源自黎凡特地区的肉馅薄饼。面团擀得极薄，抹一层羊肉番茄馅，在高温石炉里几十秒就出炉，卷上香草挤柠檬汁站着吃是街头常态。",
+  "tags": [
+    "土耳其",
+    "面食",
+    "羊肉",
+    "街头小吃"
+  ],
+  "related_ids": [
+    "turkish-kofta",
+    "greek-souvlaki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

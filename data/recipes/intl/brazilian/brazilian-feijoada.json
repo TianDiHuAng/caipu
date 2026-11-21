@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "brazilian-feijoada",
+  "name": {
+    "zh": "巴西黑豆炖肉",
+    "en": "Brazilian Black Bean Stew",
+    "original": "Feijoada"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "brazilian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 120,
+    "total_min": 150
+  },
+  "servings": 6,
+  "flavor": [
+    "savory",
+    "smoky",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黑豆",
+          "name_en": "black bean",
+          "amount": 500,
+          "unit": "g",
+          "note": "提前泡一夜",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 300,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 200,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块，增瘦肉口感",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "整片",
+          "optional": false
+        },
+        {
+          "name": "橙子",
+          "name_en": "orange",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取皮与汁提香",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒底",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "或清水",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "分次调",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 25,
+          "unit": "g",
+          "note": "切碎撒面",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炖锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黑豆用清水泡一夜，沥干后重新加清水煮开后倒掉水，去涩味。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "倒掉第一遍豆水，煮出的炖菜汤色才黑亮不发灰。",
+      "visual_cue": "豆子表皮起皱，水色深褐"
+    },
+    {
+      "n": 2,
+      "text": "五花肉冷水下锅煮五分钟去血沫，捞出冲净，切大块备用。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "先焯再切，肉块形状完整不易散。",
+      "visual_cue": "肉块表面收紧，浮沫撇净"
+    },
+    {
+      "n": 3,
+      "text": "炖锅下橄榄油炒洋葱丁与蒜末至透明，加入腊肠片煸出红油。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "腊肠先煸出油，整锅炖菜的香气基础就在这里。",
+      "visual_cue": "锅内油脂泛橙红，洋葱透明"
+    },
+    {
+      "n": 4,
+      "text": "下五花肉与猪里脊块同炒三分钟，倒入黑豆、月桂叶和高汤，煮开后转小火。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "高汤量以刚没过豆子为准，中途水少可补热水。",
+      "visual_cue": "豆与肉全部浸在汤汁中"
+    },
+    {
+      "n": 5,
+      "text": "盖盖小火炖九十分钟，期间每二十分钟搅一次底，防豆子粘锅。",
+      "time_min": 92,
+      "heat": "小火",
+      "tip": "豆子富含粉质，最容易糊底，勤搅是唯一办法。",
+      "visual_cue": "豆子软烂出沙，汤汁浓稠挂勺"
+    },
+    {
+      "n": 6,
+      "text": "加橙皮丝和橙汁煮五分钟，加盐与黑胡椒调味，盛盘配米饭撒香菜。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "橙子能平衡油脂感，这是巴西家常的收尾小技巧。",
+      "visual_cue": "汤汁乌黑发亮，表面浮一层红油"
+    }
+  ],
+  "tips": [
+    "黑豆必须泡透，泡不够久炖两小时也不易软。",
+    "隔夜再热更好吃，豆子与肉味完全融合。",
+    "配橙子片和炒羽衣甘蓝是里约的标准套餐。"
+  ],
+  "common_mistakes": [
+    "豆子没换水直接炖，汤色发灰带土腥味。",
+    "全程大火猛滚，豆皮破光、汤汁成糊。",
+    "盐一开始就放足，豆子表面变硬再也炖不烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪里脊",
+      "ratio": "300 克:300 克",
+      "note": "油脂减少，可加十毫升橄榄油补香。"
+    },
+    {
+      "original": "腊肠",
+      "substitute": "香肠",
+      "ratio": "200 克:200 克",
+      "note": "烟熏味略淡，可加两克辣椒粉提味。"
+    }
+  ],
+  "variations": [
+    "加入猪蹄或牛腩同炖，可做更丰盛的节日版本。"
+  ],
+  "serving_suggestion": "配白米饭、橙子片、炒羽衣甘蓝与木薯粉炒香料。",
+  "storage": "冷藏三天，冷冻一个月；复热加少量水小火慢炖。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 620,
+    "protein_g": 36,
+    "fat_g": 30,
+    "carbs_g": 48,
+    "sodium_mg": 1100,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉各部位须炖至完全熟透，中心无粉红；豆类须彻底煮软，未煮透的黑豆含凝集素易致肠胃不适；剩菜冷藏不超过三天并彻底复热。"
+  ],
+  "origin_note": "黑豆炖肉是巴西国民菜，名字源自葡萄牙语的豆子。里约的版本汇集多种猪肉部位与烟熏腊肠，小火慢炖到豆沙与肉香交融，周末配米饭、橙子和一杯 caipirinha 是标配。",
+  "tags": [
+    "巴西",
+    "炖菜",
+    "黑豆",
+    "猪肉"
+  ],
+  "related_ids": [
+    "sopa-de-frijol",
+    "chili-con-carne"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

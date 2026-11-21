@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:26:23.963Z",
+  "generatedAt": "2026-11-21T04:31:56.830Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 517,
+    "cells": 519,
     "target": 3274,
-    "actual": 698,
-    "coverage": 0.21319486866218693
+    "actual": 708,
+    "coverage": 0.21624923640806354
   },
   "regions": {
     "cn": [
@@ -3675,7 +3675,7 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
@@ -3690,8 +3690,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "turkish-lahmacun"
+            ]
           },
           {
             "category": "appetizer",
@@ -3729,6 +3731,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "turkish-lahmacun"
+            ]
           }
         ]
       },
@@ -4655,7 +4666,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 26,
         "cells": [
           {
             "category": "snack",
@@ -4721,8 +4732,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "mexican-chiles-rellenos",
               "mexican-frijoles-refritos"
             ]
           },
@@ -4730,8 +4742,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mexican-chiles-rellenos"
+            ]
           },
           {
             "category": "main-tofu",
@@ -4840,14 +4854,16 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "brazilian-feijoada"
+            ]
           },
           {
             "category": "staple-rice",
@@ -4885,14 +4901,16 @@
         "en": "Argentinian",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 1,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "argentinian-chimichurri-steak"
+            ]
           },
           {
             "category": "sauce",
@@ -4930,14 +4948,16 @@
         "en": "Caribbean",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "caribbean-jerk-chicken"
+            ]
           },
           {
             "category": "main-seafood",
@@ -4966,6 +4986,15 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "hotpot-bbq",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "caribbean-jerk-chicken"
+            ]
           }
         ]
       },
@@ -5178,7 +5207,7 @@
         "en": "Australian-NZ",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-seafood",
@@ -5191,8 +5220,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "australian-pavlova"
+            ]
           },
           {
             "category": "breakfast",
@@ -5205,8 +5236,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "australian-pavlova"
+            ]
           },
           {
             "category": "salad",

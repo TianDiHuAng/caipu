@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-chiles-rellenos",
+  "name": {
+    "zh": "墨西哥酿青椒",
+    "en": "Chiles Rellenos",
+    "original": "Chiles rellenos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-vegetable",
+    "main-egg"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 20,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 600,
+          "unit": "g",
+          "note": "四个大个厚肉青椒",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 250,
+          "unit": "g",
+          "note": "切条，可用半硬质奶酪",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 200,
+          "unit": "g",
+          "note": "四枚，蛋白蛋黄分开",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "裹粉用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "浅炸",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "煮酱",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "微辣",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "煎锅",
+    "打蛋器",
+    "刀",
+    "砧板",
+    "厨房纸",
+    "牙签"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "青椒在明火或热锅上烤到表皮起黑泡，装进保鲜袋焖十分钟后撕去薄皮。",
+      "time_min": 20,
+      "heat": "大火",
+      "tip": "烤到表皮全黑才好撕，皮去不净口感发涩。",
+      "visual_cue": "青椒表皮大面积焦黑起泡"
+    },
+    {
+      "n": 2,
+      "text": "在青椒侧面竖划一道口，掏出籽与筋络，塞入奶酪条，用牙签固定封口。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "开口要小，塞满后口子才合得上，炸时奶酪不外流。",
+      "visual_cue": "青椒饱满鼓起，牙签固定住裂口"
+    },
+    {
+      "n": 3,
+      "text": "番茄切块与洋葱丝、蒜末同炒，加辣椒粉、牛至、盐和黑胡椒煮十分钟打成顺滑酱汁。",
+      "time_min": 14,
+      "heat": "中火",
+      "tip": "酱汁要煮到能挂勺，太稀会泡软炸好的外壳。",
+      "visual_cue": "酱汁浓稠呈深红色，表面冒小泡"
+    },
+    {
+      "n": 4,
+      "text": "蛋白单独打到硬性发泡，蛋黄轻轻拌入，再撒入面粉翻拌成浓稠蛋糊。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蛋黄要最后轻轻拌，拌太狠会把蛋白气泡压掉。",
+      "visual_cue": "蛋糊蓬松，能缓慢流动"
+    },
+    {
+      "n": 5,
+      "text": "青椒先拍一层薄面粉，再裹蛋糊，植物油烧到一百七十度下锅，两面浅炸各三分钟。",
+      "time_min": 8,
+      "heat": "中大火",
+      "tip": "下锅时用勺子把热油浇在蛋糊上，外衣才鼓起来。",
+      "visual_cue": "外衣金黄蓬松，捞出沥油不塌"
+    },
+    {
+      "n": 6,
+      "text": "炸好的青椒摆在酱汁里，小火焖五分钟，撒香菜趁热上桌。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "焖几分钟让外衣吸一点酱汁，口味更融合。",
+      "visual_cue": "蛋衣边缘被酱汁染红，奶酪略微流出"
+    }
+  ],
+  "tips": [
+    "去皮的青椒要擦干水分，湿的裹不上蛋糊。",
+    "奶酪选能融但不流太快的半硬质品种，效果最稳。",
+    "不想油炸可改用厚底锅少油煎，外衣略扁但更清爽。"
+  ],
+  "common_mistakes": [
+    "青椒皮烤得不够，撕皮时把肉一起带下来。",
+    "蛋糊拌得太稀，下锅就散成蛋花汤。",
+    "油温不够就下锅，外衣吸满油，咬一口全是油腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶酪",
+      "substitute": "牛肉末",
+      "ratio": "250 克:300 克",
+      "note": "肉末炒熟调味后填馅，需完全熟透。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "甜椒",
+      "ratio": "600 克:600 克",
+      "note": "辣度更低，适合不吃辣的人。"
+    }
+  ],
+  "variations": [
+    "馅料换成炒香的玉米与豆子，可做素食版本。"
+  ],
+  "serving_suggestion": "配墨西哥米饭与温热的玉米饼一起上桌。",
+  "storage": "冷藏两天，复热用平底锅小火加少量酱汁焖热。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 480,
+    "protein_g": 22,
+    "fat_g": 34,
+    "carbs_g": 22,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋与乳制品；油炸时控制油温避免外焦内生，青椒内馅须热透；奶酪馅冷却后易滋生细菌，成品冷藏保存并在两天内食用完毕。"
+  ],
+  "origin_note": "酿青椒是墨西哥家庭餐桌的经典菜，普埃布拉地区尤负盛名。传统用 poblano 辣椒，去籽塞满奶酪，裹上蓬松蛋糊浅炸，最后浇番茄洋葱酱汁同焖。",
+  "tags": [
+    "墨西哥",
+    "辣椒",
+    "奶酪",
+    "油炸"
+  ],
+  "related_ids": [
+    "mexican-salsa-roja",
+    "quesadilla"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
