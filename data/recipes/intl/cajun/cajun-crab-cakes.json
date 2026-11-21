@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cajun-crab-cakes",
+  "name": {
+    "zh": "卡真蟹肉饼",
+    "en": "Cajun Crab Cakes",
+    "original": "Crab Cakes"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "cajun"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 30,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蟹",
+          "name_en": "crab",
+          "amount": 400,
+          "unit": "g",
+          "note": "拆肉沥干",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "裹面用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打散粘合",
+          "optional": false
+        },
+        {
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 60,
+          "unit": "g",
+          "note": "粘合增润",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切极碎",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 50,
+          "unit": "g",
+          "note": "切极碎",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "卡真风味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎饼",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "拌菜盆",
+    "锅铲",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蟹肉拆出后用手轻挑掉碎壳，摊在厨房纸上吸干水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水分越少，饼才越容易成型。",
+      "visual_cue": "蟹肉蓬松干爽，无碎壳"
+    },
+    {
+      "n": 2,
+      "text": "洋葱与芹菜切成极细的碎末，颗粒越小越好粘合。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "切太粗会把饼撑散。",
+      "visual_cue": "碎末细匀，不出水"
+    },
+    {
+      "n": 3,
+      "text": "蟹肉放大碗，加蛋液、蛋黄酱、洋葱芹菜碎拌匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用手轻拌别压，保留蟹肉的块状。",
+      "visual_cue": "混合物湿润成团，仍有块"
+    },
+    {
+      "n": 4,
+      "text": "加辣椒粉、孜然、盐与小葱，挤入柠檬汁轻轻翻匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "柠檬汁提鲜并能压住腥味。",
+      "visual_cue": "调味均匀，颜色微红"
+    },
+    {
+      "n": 5,
+      "text": "撒入面粉翻拌到能捏成团，太湿可再补一勺面粉。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "能捏成团不散就够了，别加太多。",
+      "visual_cue": "捏一把能成形，不粘手"
+    },
+    {
+      "n": 6,
+      "text": "分成八份压成两厘米厚的圆饼，盖膜冷藏二十分钟定型。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "冷藏定型，煎的时候才不散。",
+      "visual_cue": "饼形完整，边缘不塌"
+    },
+    {
+      "n": 7,
+      "text": "平底锅倒植物油中火烧热，下蟹饼煎三分钟不动。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "下锅别急着翻，等底面定型。",
+      "visual_cue": "底面金黄，边缘有脆壳"
+    },
+    {
+      "n": 8,
+      "text": "翻面再煎三分钟，两面金黄且中心热透后盛出。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "厚饼可盖盖焖一分钟确保热透。",
+      "visual_cue": "两面金黄，按压有弹性"
+    },
+    {
+      "n": 9,
+      "text": "吸掉多余油，配柠檬角与辣味蛋黄酱一起上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热吃，凉了外皮会回软。",
+      "visual_cue": "外壳酥脆，内里湿润"
+    }
+  ],
+  "tips": [
+    "蟹肉要吸干水分，饼才成型不散。",
+    "拌料时轻手翻拌，保留蟹肉块状口感。",
+    "冷藏定型二十分钟，煎的时候不散开。"
+  ],
+  "common_mistakes": [
+    "蟹肉带水直接拌，饼下锅就散成碎。",
+    "面粉加太多，吃起来全是面糊味。",
+    "不停翻面，饼被翻碎还吸满了油。"
+  ],
+  "substitutions": [
+    {
+      "original": "蟹",
+      "substitute": "虾仁",
+      "ratio": "400 克:400 克",
+      "note": "需切粗粒，口感更弹。"
+    },
+    {
+      "original": "蛋黄酱",
+      "substitute": "酸奶",
+      "ratio": "60 克:60 克",
+      "note": "热量更低，酸味更清爽。"
+    }
+  ],
+  "variations": [
+    "加一勺卡真调味粉，辣味更地道。",
+    "表面裹一层面包糠，外皮更酥脆。"
+  ],
+  "serving_suggestion": "配柠檬角和蔬菜沙拉，作为主菜或前菜。",
+  "storage": "冷藏两天，复热用平底锅小火两面各煎两分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 180 克",
+    "calories_kcal": 320,
+    "protein_g": 24,
+    "fat_g": 20,
+    "carbs_g": 12,
+    "sodium_mg": 740,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "crustacean",
+    "egg",
+    "gluten",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蟹肉须彻底加热至中心温度达到七十四度以上，海鲜过敏者不宜食用；蟹肉易变质，须全程冷藏保存。"
+  ],
+  "origin_note": "路易斯安那的卡真风味蟹饼，蟹肉只轻轻拌合，靠蛋黄酱和蛋液粘住。两面煎出脆壳，里面还是湿润的蟹肉块。",
+  "tags": [
+    "卡真",
+    "海鲜",
+    "蟹肉",
+    "煎制"
+  ],
+  "related_ids": [
+    "cajun-blackened-fish",
+    "cajun-shrimp-etouffee"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
