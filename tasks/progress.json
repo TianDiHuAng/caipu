@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:39:16.437Z",
+  "generatedAt": "2026-11-21T06:51:10.961Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 555,
+    "cells": 556,
     "target": 3274,
-    "actual": 839,
-    "coverage": 0.25626145387904703
+    "actual": 848,
+    "coverage": 0.259010384850336
   },
   "regions": {
     "cn": [
@@ -1794,15 +1794,16 @@
         "en": "Chaoshan",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 7,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "chaoshan-haolao"
+              "chaoshan-haolao",
+              "chaoshan-yusheng"
             ]
           },
           {
@@ -1825,8 +1826,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "chaoshan-lushui-ya"
+            ]
           },
           {
             "category": "staple-congee",
@@ -1855,8 +1858,9 @@
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "chaoshan-lushui-ya",
               "chaoshan-niurou-wan"
             ]
           }
@@ -5234,14 +5238,15 @@
         "en": "Argentinian",
         "tier": "C",
         "target": 25,
-        "actual": 3,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "argentinian-asado",
               "argentinian-chimichurri-steak"
             ]
           },
@@ -5277,9 +5282,10 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "argentinian-empanada"
+              "argentinian-empanada",
+              "argentinian-provoleta"
             ]
           },
           {
@@ -5289,6 +5295,15 @@
             "actual": 1,
             "ids": [
               "argentinian-empanada"
+            ]
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "argentinian-provoleta"
             ]
           }
         ]
@@ -5586,15 +5601,16 @@
         "en": "South African",
         "tier": "C",
         "target": 25,
-        "actual": 4,
+        "actual": 7,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "south-african-bobotie"
+              "south-african-bobotie",
+              "south-african-potjiekos"
             ]
           },
           {
@@ -5617,15 +5633,19 @@
             "category": "snack",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-african-chakalaka"
+            ]
           },
           {
             "category": "salad",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-african-chakalaka"
+            ]
           },
           {
             "category": "bakery",

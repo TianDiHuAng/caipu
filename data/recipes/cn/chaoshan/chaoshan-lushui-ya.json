@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chaoshan-lushui-ya",
+  "name": {
+    "zh": "潮汕卤水鸭",
+    "en": "Chaoshan Braised Duck",
+    "original": "潮汕卤鸭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "chaoshan"
+  },
+  "category": [
+    "main-meat",
+    "sauce"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸭",
+          "name_en": "duck",
+          "amount": 1200,
+          "unit": "g",
+          "note": "半只，选肉质紧的光鸭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 120,
+          "unit": "ml",
+          "note": "提咸鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "炒糖色用",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 4,
+          "unit": "g",
+          "note": "三颗",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 40,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "整瓣",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调底味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "漏勺",
+    "棉绳",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸭洗净擦干，用料酒和盐里外抹匀，腌十五分钟去腥。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "皮下水分擦干，卤出来皮才紧。",
+      "visual_cue": "鸭皮干爽，酒香明显"
+    },
+    {
+      "n": 2,
+      "text": "深锅加清水烧开，鸭身下锅焯两分钟，捞出冲净浮沫。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "焯水后冲冷水，鸭皮收紧不破。",
+      "visual_cue": "表皮收紧，无血沫"
+    },
+    {
+      "n": 3,
+      "text": "另起锅放少量油与冰糖，小火炒到糖化呈枣红色。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "糖色一冒小泡就加水，过了会苦。",
+      "visual_cue": "糖浆枣红，冒细泡"
+    },
+    {
+      "n": 4,
+      "text": "冲入清水，加生抽、老抽、八角、桂皮、香叶、姜、蒜与盐煮开。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "卤水先煮十分钟再下鸭，香料才出味。",
+      "visual_cue": "汤色深褐，香气浓"
+    },
+    {
+      "n": 5,
+      "text": "鸭放入卤水，皮朝上，小火加盖卤三十五分钟。",
+      "time_min": 35,
+      "heat": "小火",
+      "tip": "汤面只冒小泡，滚大了鸭皮会破。",
+      "visual_cue": "鸭皮上色，汤面微沸"
+    },
+    {
+      "n": 6,
+      "text": "中途翻面一次，用漏勺舀起卤水浇淋鸭背上。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "浇淋让上色均匀，不用按压。",
+      "visual_cue": "色泽深浅一致，无花斑"
+    },
+    {
+      "n": 7,
+      "text": "关火浸在卤水里焖十分钟，取出稍凉后斩件。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "离火浸泡让咸味进到肉里。",
+      "visual_cue": "肉汁清亮，切面无血"
+    },
+    {
+      "n": 8,
+      "text": "卤水滤净收浓，淋在鸭块上，配蒜泥醋碟上桌。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "卤水可留作老卤，越用越香。",
+      "visual_cue": "酱汁挂勺，油亮微稠"
+    }
+  ],
+  "tips": [
+    "鸭选光鸭，肉薄易入味，老鸭适合煲汤不适合卤。",
+    "卤水用后滤渣冷藏，可反复使用。",
+    "斩件要趁温热，凉透再斩容易碎。"
+  ],
+  "common_mistakes": [
+    "大火滚卤，鸭皮破裂，成品外形难看。",
+    "糖色炒过头，整锅卤水都会发苦变黑。",
+    "卤完立刻捞出，咸味还没进肉里。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸭",
+      "substitute": "鸡",
+      "ratio": "1200 克:1200 克",
+      "note": "卤制时间缩短到二十五分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "40 克:35 克",
+      "note": "上色稍浅，甜味更直接。"
+    }
+  ],
+  "variations": [
+    "卤水里加两片陈皮，回甘更明显。",
+    "卤好后风干半小时再斩，皮更爽脆。"
+  ],
+  "serving_suggestion": "斩件摆盘，淋热卤水，配蒜泥醋碟与白粥。",
+  "storage": "冷藏三天，冷冻两周；复热用卤水小火浸十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 480,
+    "protein_g": 30,
+    "fat_g": 33,
+    "carbs_g": 12,
+    "sodium_mg": 1350,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "禽类须卤至中心温度七十四度以上、切面无血水；卤水重复使用前须彻底煮沸。"
+  ],
+  "origin_note": "潮汕卤味铺的主角，一锅老卤传几代人。鸭在半沸的卤水里慢慢浸熟，皮色油亮，切开肉纹清晰，蘸一点蒜泥醋，咸甜里带着香料底子。",
+  "tags": [
+    "潮汕",
+    "卤水",
+    "鸭",
+    "老卤"
+  ],
+  "related_ids": [
+    "chaoshan-haolao",
+    "chaoshan-niurou-wan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "argentinian-asado",
+  "name": {
+    "zh": "阿根廷烤牛肉",
+    "en": "Argentinian Asado Grill",
+    "original": "Asado"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "argentinian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 35,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "smoky",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 900,
+          "unit": "g",
+          "note": "选裙边肉或肋眼，厚约三厘米",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切厚片垫烤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 12,
+          "unit": "g",
+          "note": "粗粒海盐",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨粗粒",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎做酱",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "刷肉与调酱",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 20,
+          "unit": "ml",
+          "note": "红酒醋更佳",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤架",
+    "铸铁夹",
+    "厨房刷",
+    "砧板",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉从冷藏取出，用厨房纸吸干表面水分，在室温静置三十分钟回温。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "回温到位，中心才不至于夹生。",
+      "visual_cue": "肉表面干爽，手压有弹性"
+    },
+    {
+      "n": 2,
+      "text": "牛肉两面均匀撒盐与黑胡椒，轻轻按压让调料贴住表面。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "提前撒盐十五分钟足够，太久会出水。",
+      "visual_cue": "表面均匀裹一层调料，手摸有颗粒"
+    },
+    {
+      "n": 3,
+      "text": "烤架烧到手掌悬空三秒发烫，洋葱厚片铺在铁网上垫底。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "洋葱垫底能接住滴落的油，减少明火。",
+      "visual_cue": "铁网泛白，洋葱边缘起泡"
+    },
+    {
+      "n": 4,
+      "text": "牛肉放上洋葱片，大火每面烤四分钟，形成深褐色焦壳。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "一次别翻太多次，焦壳才扎实。",
+      "visual_cue": "两面焦褐，油脂外渗"
+    },
+    {
+      "n": 5,
+      "text": "刷一层橄榄油，移到中火区继续烤十分钟，中途翻面一次。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "中火慢烤让热量传到中心。",
+      "visual_cue": "肉汁清亮，按压回弹"
+    },
+    {
+      "n": 6,
+      "text": "牛肉离火盖锡纸静置八分钟，让肉汁重新分布。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "静置时间与烤制时间成正比。",
+      "visual_cue": "锡纸内无大量血水"
+    },
+    {
+      "n": 7,
+      "text": "大蒜欧芹切碎，与橄榄油、米醋和少许盐拌成酱汁，牛肉逆纹切厚片上桌。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "酱汁现拌现用，香气最冲。",
+      "visual_cue": "切面呈粉红色，酱汁翠绿"
+    }
+  ],
+  "tips": [
+    "裙边肉筋膜多，吃的时候逆纹切才不塞牙。",
+    "没有烤架可用厚底铸铁锅大火煎，效果接近。",
+    "盐只用粗粒海盐，细盐会让表面过早出水。"
+  ],
+  "common_mistakes": [
+    "肉一上架就频繁翻动，焦壳始终结不起来。",
+    "烤完立刻切开，肉汁全部流到砧板上。",
+    "用叉子扎肉翻面，肉汁从孔里跑光。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "牛肋条",
+      "ratio": "900 克:900 克",
+      "note": "脂肪更多，烤制时间延长五分钟。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "红酒醋",
+      "ratio": "20 毫升:20 毫升",
+      "note": "酸味更圆润，果香明显。"
+    }
+  ],
+  "variations": [
+    "配一碟青酱，就是阿根廷餐馆常见的双酱吃法。",
+    "用炭火替代燃气，烟熏味更厚重。"
+  ],
+  "serving_suggestion": "切片后淋酱汁，配烤洋葱与烤面包一起吃。",
+  "storage": "熟肉冷藏两天，复热前切厚片用平底锅两面各煎三十秒。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 590,
+    "protein_g": 46,
+    "fat_g": 42,
+    "carbs_g": 6,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉中心温度须达到六十三度以上，绞肉制品才要求七十一度；生熟夹子分开使用。"
+  ],
+  "origin_note": "阿根廷潘帕斯草原上的烧烤，是当地人周末的全部仪式。铁架斜插在火堆旁，肉块靠着余温慢慢烤，桌上只放一碟青酱，谁想多吃就自己切。",
+  "tags": [
+    "阿根廷",
+    "烤牛肉",
+    "青酱",
+    "炭火"
+  ],
+  "related_ids": [
+    "argentinian-chimichurri-steak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
