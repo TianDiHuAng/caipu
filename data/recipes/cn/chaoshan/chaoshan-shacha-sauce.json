@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chaoshan-shacha-sauce",
+  "name": {
+    "zh": "潮汕沙茶酱",
+    "en": "Chaoshan Shacha Sauce",
+    "original": "沙茶酱"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "chaoshan"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 120,
+          "unit": "g",
+          "note": "烤香去皮",
+          "optional": false
+        },
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡软沥干",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 150,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 12,
+          "unit": "g",
+          "note": "按辣度调整",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调稠",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "料理机",
+    "密封罐",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "花生用干锅小火炒八分钟到表皮起斑，晾凉后搓掉外皮。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "炒到表皮开裂就好，炒过头会发苦。",
+      "visual_cue": "花生表皮起褐色斑点"
+    },
+    {
+      "n": 2,
+      "text": "虾米用温水泡十分钟，捞出挤干水分，切成粗粒备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "虾米要挤干水，否则下锅会溅油。",
+      "visual_cue": "虾米变软，挤出咸水"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油，中小火下洋葱末和大蒜末炒五分钟到微黄出香。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "火别大，蒜末一焦整锅酱都带苦味。",
+      "visual_cue": "葱蒜变浅黄，香气浮起"
+    },
+    {
+      "n": 4,
+      "text": "下虾米粒炒两分钟，再倒入辣椒粉小火炒出红油。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "辣椒粉后下小火慢炒，火大立刻发黑。",
+      "visual_cue": "油色转红，香味刺鼻"
+    },
+    {
+      "n": 5,
+      "text": "把炒香的花生和锅中油料一起倒进料理机，加清水打成粗泥。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "打两三次短脉冲，留一点颗粒更有口感。",
+      "visual_cue": "酱体粗稠，颗粒可见"
+    },
+    {
+      "n": 6,
+      "text": "酱倒回锅中，加白糖和盐小火熬十分钟，边熬边搅防糊底。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "全程小火不停搅，糖一沉底就焦。",
+      "visual_cue": "酱色红亮，能挂住勺背"
+    },
+    {
+      "n": 7,
+      "text": "关火前撒入炒香的芝麻拌匀，晾凉后装密封罐冷藏。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "芝麻要在关火前才放，早放会失去脆香。",
+      "visual_cue": "表面油亮，芝麻均匀"
+    }
+  ],
+  "tips": [
+    "花生炒香后一定去外皮，否则酱会带涩味。",
+    "辣椒粉小火炒出红油，火大立刻发苦。",
+    "熬酱全程小火勤搅，糖沉底就糊锅。"
+  ],
+  "common_mistakes": [
+    "蒜末炒焦了，整锅酱带明显苦味。",
+    "酱熬得太干，凉了以后结成硬块。",
+    "花生没烤香，做出来的酱发闷不香。"
+  ],
+  "substitutions": [
+    {
+      "original": "花生",
+      "substitute": "腰果",
+      "ratio": "120 克:120 克",
+      "note": "更甜润，坚果过敏者替换需谨慎。"
+    },
+    {
+      "original": "虾米",
+      "substitute": "干贝",
+      "ratio": "40 克:40 克",
+      "note": "更鲜甜，泡发时间需延长。"
+    }
+  ],
+  "variations": [
+    "加一小勺五香粉，香气更接近潮汕街头版本。",
+    "用牛肉末同炒，做成可直接拌面的肉酱。"
+  ],
+  "serving_suggestion": "拌粿条、蘸牛肉丸或抹在烤吐司上，潮汕人吃火锅也拿它当蘸料。",
+  "storage": "密封冷藏两周，表面每次用干净勺取，避免生水带入。",
+  "nutrition_estimate": {
+    "basis": "每份约 40 克",
+    "calories_kcal": 230,
+    "protein_g": 5,
+    "fat_g": 20,
+    "carbs_g": 8,
+    "sodium_mg": 330,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "peanut",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含花生、虾类与芝麻，坚果和甲壳类过敏者禁用；自制酱无防腐剂，须冷藏并两周内用完。"
+  ],
+  "origin_note": "潮汕人把南洋沙嗲酱改成了本地口味，花生和虾米打底，辣度温和。当地粿条店、牛肉火锅店都备一罐，蘸什么都香。",
+  "tags": [
+    "潮汕",
+    "酱料",
+    "沙茶",
+    "花生"
+  ],
+  "related_ids": [
+    "chaoshan-caiguo",
+    "chaoshan-niurou-wan",
+    "chaoshan-shaguozhou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

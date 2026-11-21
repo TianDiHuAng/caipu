@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "taiwan-chicken-rice",
+  "name": {
+    "zh": "台湾鸡肉饭",
+    "en": "Taiwanese Chicken Rice",
+    "original": "嘉義雞肉飯"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 55,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "带皮整块",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "洗净沥干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝炸酥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "红糖",
+          "name_en": "brown sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炸葱酥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮鸡与焖饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "电饭锅",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉抹盐腌十分钟，冷水下锅加五百毫升清水，小火煮二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "全程小火浸煮，鸡肉才嫩而不发柴。",
+      "visual_cue": "筷子插腿肉无血水"
+    },
+    {
+      "n": 2,
+      "text": "捞出鸡腿肉放凉，煮鸡的汤撇去浮油留着当高汤。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "汤千万别倒，焖饭和调浇汁都用得上。",
+      "visual_cue": "汤色清亮，浮油撇净"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油，中小火把洋葱丝炸到金黄酥脆，捞出沥油。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "洋葱丝要炸到金黄，浅黄时还不脆。",
+      "visual_cue": "洋葱丝金黄，勺子碰有脆响"
+    },
+    {
+      "n": 4,
+      "text": "用锅中剩的葱油炒香五香粉，倒入生抽、红糖和六十毫升高汤煮开成浇汁。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "浇汁小火收两分钟，太稠淋不开。",
+      "visual_cue": "浇汁油亮，能流动"
+    },
+    {
+      "n": 5,
+      "text": "大米放进电饭锅，加四百毫升高汤和剩余清水，按正常程序焖熟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "用高汤代替清水，饭粒才带鸡香。",
+      "visual_cue": "米饭粒粒分明有弹性"
+    },
+    {
+      "n": 6,
+      "text": "鸡腿肉去皮后顺纹理撕成细丝，鸡皮单独切条备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "顺着纹理撕，口感比用刀切更松软。",
+      "visual_cue": "鸡丝细长完整不碎"
+    },
+    {
+      "n": 7,
+      "text": "米饭盛碗，铺上鸡丝和鸡皮，淋两勺浇汁，撒炸好的葱酥。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "浇汁沿边缘淋，饭粒吸汁更均匀。",
+      "visual_cue": "鸡丝铺满，葱酥点缀"
+    }
+  ],
+  "tips": [
+    "鸡腿肉小火浸煮，肉汁才不会流失。",
+    "洋葱丝炸到金黄，葱酥才够脆够香。",
+    "焖饭用煮鸡汤代替清水，饭更有底味。"
+  ],
+  "common_mistakes": [
+    "鸡腿肉大火滚煮，肉纤维全变柴。",
+    "葱酥炸得不够，吃起来软塌不脆。",
+    "浇汁收得太干，淋在饭上凝成块。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "500 克:450 克",
+      "note": "更清爽，煮的时间缩短五分钟。"
+    },
+    {
+      "original": "红糖",
+      "substitute": "冰糖",
+      "ratio": "15 克:15 克",
+      "note": "颜色更浅，甜味更干净。"
+    }
+  ],
+  "variations": [
+    "加一颗卤蛋同吃，就是嘉义常见的全套组合。",
+    "撒少许白胡椒粉，辛香气味更明显。"
+  ],
+  "serving_suggestion": "盛在浅碗里连汁带饭一起吃，配一碗味噌汤和烫青菜，是台湾南部最日常的一餐。",
+  "storage": "冷藏两天，鸡肉与米饭分开保存，复热时浇汁单独加热。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 560,
+    "protein_g": 32,
+    "fat_g": 18,
+    "carbs_g": 66,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须煮至中心无血水、完全熟透；含酱油制品钠含量较高，高血压人群需减量；剩饭冷藏不超过两天并彻底复热。"
+  ],
+  "origin_note": "台湾嘉义的招牌小吃，据说是把宴席剩下的白斩鸡撕成丝铺在饭上，淋鸡油酱油汁。如今已是当地人从早到晚都吃的一碗饭。",
+  "tags": [
+    "台湾",
+    "主食",
+    "鸡肉",
+    "米饭"
+  ],
+  "related_ids": [
+    "lurou-fan",
+    "taiwan-sanbei-chicken",
+    "yansu-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

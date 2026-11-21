@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:40:23.037Z",
+  "generatedAt": "2026-11-21T12:46:29.383Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1083,
-    "coverage": 0.33078802687843617
+    "actual": 1089,
+    "coverage": 0.3326206475259621
   },
   "regions": {
     "cn": [
@@ -1366,7 +1366,7 @@
         "en": "Shanghai",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
@@ -1410,8 +1410,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "shanghai-hongdou-sugao",
               "tiaotou-gao"
             ]
           },
@@ -1834,7 +1835,7 @@
         "en": "Chaoshan",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-seafood",
@@ -1870,9 +1871,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "chaoshan-lushui-ya"
+              "chaoshan-lushui-ya",
+              "chaoshan-shacha-sauce"
             ]
           },
           {
@@ -1918,7 +1920,7 @@
         "en": "Taiwanese",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "snack",
@@ -1935,8 +1937,9 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "taiwan-chicken-rice",
               "taiwan-sanbei-chicken",
               "yansu-ji"
             ]
@@ -2012,7 +2015,7 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-seafood",
@@ -2038,9 +2041,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "hongkong-bolo-bao"
+              "hongkong-bolo-bao",
+              "hongkong-egg-tart"
             ]
           },
           {
@@ -2111,7 +2115,7 @@
         "en": "Xinjiang",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
@@ -2145,8 +2149,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "xinjiang-kaobaozi",
               "ziran-yangrouchuan"
             ]
           },
@@ -5807,7 +5812,7 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "soup",
@@ -5832,9 +5837,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "north-african-khobz"
+              "north-african-khobz",
+              "north-african-msemen"
             ]
           },
           {
