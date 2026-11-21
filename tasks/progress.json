@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:51:13.261Z",
+  "generatedAt": "2026-11-21T12:57:52.765Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1095,
-    "coverage": 0.3344532681734881
+    "actual": 1101,
+    "coverage": 0.33628588882101407
   },
   "regions": {
     "cn": [
@@ -4588,7 +4588,7 @@
         "en": "British",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -4615,9 +4615,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "british-bread-butter-pudding",
+              "british-sticky-toffee-pudding",
               "british-strawberry-trifle"
             ]
           },
@@ -4635,8 +4636,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "british-potato-and-onion-soup"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -5918,7 +5921,7 @@
         "en": "West African",
         "tier": "C",
         "target": 25,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "staple-rice",
@@ -5964,9 +5967,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "west-african-pepper-sauce"
+              "west-african-pepper-sauce",
+              "west-african-shito-sauce"
             ]
           },
           {
@@ -5995,7 +5999,7 @@
         "en": "East African",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
@@ -6040,8 +6044,10 @@
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "east-african-spiced-milk-tea"
+            ]
           },
           {
             "category": "breakfast",
@@ -6097,7 +6103,7 @@
         "en": "South African",
         "tier": "C",
         "target": 25,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
@@ -6134,9 +6140,10 @@
             "category": "snack",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "south-african-chakalaka",
+              "south-african-samoosa",
               "south-african-vetkoek"
             ]
           },
@@ -6175,14 +6182,15 @@
         "en": "Australian-NZ",
         "tier": "C",
         "target": 25,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "australian-garlic-prawns",
               "australian-grilled-cod"
             ]
           },

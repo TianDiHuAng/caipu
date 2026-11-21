@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "east-african-spiced-milk-tea",
+  "name": {
+    "zh": "东非香料奶茶",
+    "en": "East African Spiced Milk Tea",
+    "original": "Chai"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "east-african"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 5,
+    "cook_min": 25,
+    "total_min": 30
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 800,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "防止糊底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "小豆蔻",
+          "name_en": "cardamom",
+          "amount": 4,
+          "unit": "piece",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅",
+    "滤网",
+    "马克杯",
+    "量杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小锅倒入清水，放姜片、肉桂和小豆蔻，小火煮五分钟出香。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "香料先用水煮，香气才释放得干净。",
+      "visual_cue": "水色转浅褐，香气上浮"
+    },
+    {
+      "n": 2,
+      "text": "倒入牛奶，中小火加热到锅边冒小泡，不要烧开。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "牛奶千万不要煮滚，一沸就起膜并且发腥。",
+      "visual_cue": "锅边冒细泡，表面微颤"
+    },
+    {
+      "n": 3,
+      "text": "加入白糖和盐，搅到完全融化，尝味调整甜度。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "加一小点盐，可以让奶香更立体饱满。",
+      "visual_cue": "甜味圆润，奶香明显"
+    },
+    {
+      "n": 4,
+      "text": "保持最小火焖煮十分钟，让香料味充分融进牛奶。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "保持小火慢慢焖煮，火大奶液容易糊底。",
+      "visual_cue": "液面微微冒气，颜色浅褐"
+    },
+    {
+      "n": 5,
+      "text": "关火后用滤网滤掉香料渣，倒进杯子里趁热喝。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "滤渣要滤干净，喝到香料碎会呛。",
+      "visual_cue": "茶汤顺滑，无颗粒"
+    }
+  ],
+  "tips": [
+    "香料先用清水煮出味，再加牛奶才不糊底。",
+    "牛奶不要煮沸，起膜后奶香会变腥。",
+    "加一小撮盐，甜味和奶香都更立体。"
+  ],
+  "common_mistakes": [
+    "牛奶大火煮沸，表面结出厚膜还带腥味。",
+    "香料直接下牛奶煮，锅底容易糊。",
+    "白糖放得太早又久煮，甜味发腻不干净。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "椰浆",
+      "ratio": "800 毫升:700 毫升",
+      "note": "更浓稠，需多加一百毫升清水。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "蜂蜜",
+      "ratio": "40 克:45 克",
+      "note": "关火后再加，保留花香。"
+    }
+  ],
+  "variations": [
+    "加一小块黑巧克力，风味更浓郁。",
+    "用豆奶替代部分牛奶，做成植物奶版本。"
+  ],
+  "serving_suggestion": "倒进厚瓷杯里趁热喝，配炸面团或烤饼，是东非早晨和下午茶的标准饮品。",
+  "storage": "冷藏一天，复热时小火加热并搅匀，不要重复煮沸。",
+  "nutrition_estimate": {
+    "basis": "每杯约 250 毫升",
+    "calories_kcal": 180,
+    "protein_g": 8,
+    "fat_g": 8,
+    "carbs_g": 20,
+    "sodium_mg": 120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含牛奶，乳糖不耐人群须替换为植物奶；饮品须加热至微沸前并趁热饮用，久置常温易变质。"
+  ],
+  "origin_note": "东非街头茶馆的日常饮品，牛奶加姜、肉桂和小豆蔻慢煮。肯尼亚、坦桑尼亚的早晨几乎人手一杯。",
+  "tags": [
+    "东非",
+    "饮品",
+    "奶茶",
+    "香料"
+  ],
+  "related_ids": [
+    "east-african-mandazi",
+    "east-african-chapati",
+    "east-african-ugali-sukuma-wiki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
