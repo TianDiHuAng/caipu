@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:46:29.383Z",
+  "generatedAt": "2026-11-21T12:51:13.261Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1089,
-    "coverage": 0.3326206475259621
+    "actual": 1095,
+    "coverage": 0.3344532681734881
   },
   "regions": {
     "cn": [
@@ -2204,15 +2204,16 @@
         "en": "Chinese Halal",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "halal-cn-hongshao-niurou",
+              "halal-cn-hongshao-yangrou",
               "halal-cn-lamb-skewers",
               "halal-cn-niurou-dun-tudou",
               "halal-cn-niurou-lamian",
@@ -2287,7 +2288,7 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
@@ -2335,9 +2336,10 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "tibetan-guthuk",
+              "tibetan-thenthuk",
               "tibetan-thukpa"
             ]
           },
@@ -2358,16 +2360,17 @@
         "en": "Inner Mongolian",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "mongolian-buuz",
               "mongolian-huushuur",
+              "mongolian-khorkhog",
               "mongolian-lamb-potato-stew",
               "mongolian-lamb-soup",
               "mongolian-tsuivan",
@@ -5139,7 +5142,7 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-poultry",
@@ -5183,10 +5186,11 @@
             "category": "breakfast",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "american-south-biscuits-and-gravy",
-              "american-south-cornbread"
+              "american-south-cornbread",
+              "american-south-grits"
             ]
           },
           {
@@ -5310,7 +5314,7 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-seafood",
@@ -5358,8 +5362,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "cajun-remoulade"
+            ]
           },
           {
             "category": "main-meat",
@@ -5663,7 +5669,7 @@
         "en": "Argentinian",
         "tier": "C",
         "target": 25,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -5680,8 +5686,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "argentinian-chimichurri-sauce"
+            ]
           },
           {
             "category": "bakery",

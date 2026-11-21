@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mongolian-khorkhog",
+  "name": {
+    "zh": "蒙古石头烤肉",
+    "en": "Mongolian Stone Roast Lamb",
+    "original": "Хорхог"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "mongolian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 110,
+    "total_min": 145
+  },
+  "servings": 6,
+  "flavor": [
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊排",
+          "name_en": "lamb chops",
+          "amount": 1200,
+          "unit": "g",
+          "note": "带骨切块",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 600,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 12,
+          "unit": "g",
+          "note": "分层撒",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 8,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "锅底防干",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "石块",
+    "刀",
+    "盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鹅卵石洗净后放锅里干烧二十分钟，烧到石头通红发烫。",
+      "time_min": 22,
+      "heat": "大火",
+      "tip": "石头必须烧到通红，全靠它的蓄热把肉焖熟。",
+      "visual_cue": "石头通红，滴水立刻汽化"
+    },
+    {
+      "n": 2,
+      "text": "羊排和羊腿肉切成拳头大的块，用盐、孜然和黑胡椒抓匀腌二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "肉块要切得大小一致，熟的时间才整齐。",
+      "visual_cue": "肉块均匀，表面裹满调料"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅底铺一层烧热的石块，码上羊肉块，撒一层盐。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "石头一层肉一层码放，别压得太实。",
+      "visual_cue": "石块铺满锅底，肉块平铺"
+    },
+    {
+      "n": 4,
+      "text": "羊肉上铺土豆、洋葱和胡萝卜，再压上一层烧热的石块。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "上层的石头也要烧热，上下夹着焖熟。",
+      "visual_cue": "食材铺平，石块盖满"
+    },
+    {
+      "n": 5,
+      "text": "沿锅边淋入二百毫升清水，盖严锅盖，中小火焖六十分钟。",
+      "time_min": 62,
+      "heat": "中小火",
+      "tip": "水只淋锅边，别浇在石头上以免炸裂。",
+      "visual_cue": "锅边冒白气，无焦味"
+    },
+    {
+      "n": 6,
+      "text": "开盖检查羊肉是否脱骨，再盖盖焖二十分钟收干汤汁。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "中途尽量不开盖，跑气就焖不烂。",
+      "visual_cue": "羊肉一戳就离骨脱骨"
+    },
+    {
+      "n": 7,
+      "text": "拣出石块，把肉和蔬菜盛盘，浇上锅底肉汁即可。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "石头温度很高，用夹子取千万别用手。",
+      "visual_cue": "肉色褐亮，肉汁浓稠"
+    }
+  ],
+  "tips": [
+    "石头要先烧透再下锅，靠蓄热把肉焖烂。",
+    "肉块大小要一致，否则小的烂了大的还生。",
+    "全程尽量不开盖，蒸汽跑掉肉就柴了。"
+  ],
+  "common_mistakes": [
+    "石头没烧热就下锅，肉焖了两小时还是硬。",
+    "锅边不加水，锅底干烧出焦糊味。",
+    "中途反复开盖，热气跑光肉一直不烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊排",
+      "substitute": "羊腿肉",
+      "ratio": "1200 克:1200 克",
+      "note": "更瘦，焖的时间缩短十分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "南瓜",
+      "ratio": "500 克:500 克",
+      "note": "更甜，容易焖成泥。"
+    }
+  ],
+  "variations": [
+    "锅底垫一层羊尾油，烤出来的肉香更浓。",
+    "加一把干辣椒，辛香气味更明显。"
+  ],
+  "serving_suggestion": "连肉带土豆盛在大盘里，配一碗蒙古奶茶和手抓饼，是草原上的待客大菜。",
+  "storage": "冷藏两天，复热加少量清水小火焖十分钟，肉质回软。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 620,
+    "protein_g": 42,
+    "fat_g": 42,
+    "carbs_g": 20,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须焖至中心完全熟透、能轻松离骨；烧热的石块温度极高，取放须用夹子并远离儿童；锅具须耐高温厚底，避免石块炸裂。"
+  ],
+  "origin_note": "蒙古国和内蒙古牧区的传统做法，用烧红的石头把羊肉和土豆焖熟。石头蓄热均匀，肉香不散，是节庆和招待客人时的重头菜。",
+  "tags": [
+    "蒙古",
+    "羊肉",
+    "焖",
+    "石头烤肉"
+  ],
+  "related_ids": [
+    "mongolian-boortsog",
+    "mongolian-huushuur",
+    "mongolian-lamb-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

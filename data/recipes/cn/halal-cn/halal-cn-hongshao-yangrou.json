@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-hongshao-yangrou",
+  "name": {
+    "zh": "清真红烧羊肉",
+    "en": "Halal Braised Lamb",
+    "original": "红烧羊肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 80,
+    "total_min": 100
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 800,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "两颗",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去膻",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "刀",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊腿肉切成四厘米见方的块，冷水下锅加料酒焯五分钟。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才能慢慢逼出来。",
+      "visual_cue": "水面浮起灰白浮沫"
+    },
+    {
+      "n": 2,
+      "text": "捞出羊肉用温水冲洗干净浮沫，沥干水分备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "用温水冲洗，冷水一激肉质会紧缩。",
+      "visual_cue": "肉块干净，表面无沫"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油，中火下白糖炒到融化变枣红色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "糖色一到枣红立刻下肉，再炒就苦了。",
+      "visual_cue": "糖液枣红，起小泡"
+    },
+    {
+      "n": 4,
+      "text": "倒入羊肉块翻炒上色，加姜片、大葱段、八角和桂皮炒香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "每块肉都裹上糖色，成品才红亮。",
+      "visual_cue": "肉块均匀裹上枣红色"
+    },
+    {
+      "n": 5,
+      "text": "淋入生抽和老抽炒匀，倒入一千二百毫升清水大火烧开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水要一次加足，中途加水汤会稀。",
+      "visual_cue": "汤色红亮，浮沫撇净"
+    },
+    {
+      "n": 6,
+      "text": "转入砂锅小火炖五十分钟，炖到羊肉能用筷子插入。",
+      "time_min": 52,
+      "heat": "小火",
+      "tip": "保持小火慢炖，肉才酥烂而不散。",
+      "visual_cue": "筷子能轻松插入肉块"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味后大火收汁十分钟，汤汁浓稠挂勺即可。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "收汁时勤翻动，糖分多容易糊底。",
+      "visual_cue": "汤汁浓稠，肉块油亮"
+    }
+  ],
+  "tips": [
+    "羊肉冷水下锅焯水，浮沫才逼得干净。",
+    "糖色炒到枣红就要下肉，颜色深了发苦。",
+    "小火慢炖比大火快煮更能保住肉汁。"
+  ],
+  "common_mistakes": [
+    "焯水用了热水，血沫全锁在肉里出不来。",
+    "糖色炒过头，整锅肉带明显的苦味。",
+    "中途加冷水，肉质立刻变紧发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊腿肉",
+      "substitute": "羊排",
+      "ratio": "800 克:800 克",
+      "note": "带骨更香，炖的时间延长十分钟。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "冰糖",
+      "ratio": "15 克:15 克",
+      "note": "色泽更亮，甜味更柔和。"
+    }
+  ],
+  "variations": [
+    "收汁前撒一把香菜，香气更足更清爽。",
+    "加几块白萝卜同炖，汤更清甜解腻。"
+  ],
+  "serving_suggestion": "连汁盛盘，配手抓饭或者拌面吃，是清真馆子里最经典的一道硬菜。",
+  "storage": "冷藏三天，复热加少量清水小火慢炖，肉质回软不柴。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 克",
+    "calories_kcal": 520,
+    "protein_g": 38,
+    "fat_g": 36,
+    "carbs_g": 8,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须炖至完全熟透、中心不见血色；清真做法全程不使用猪肉及其制品，器具须专用；含酱油制品钠含量较高，高血压人群需减量。"
+  ],
+  "origin_note": "清真菜里的家常红烧羊肉，糖色上色、小火慢炖，讲究肉酥汁浓。西北清真馆多用羊腿肉，出锅红亮不膻。",
+  "tags": [
+    "清真",
+    "羊肉",
+    "红烧",
+    "炖菜"
+  ],
+  "related_ids": [
+    "shuipen-yangrou",
+    "halal-cn-niurou-dun-tudou",
+    "halal-cn-hongshao-niurou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
