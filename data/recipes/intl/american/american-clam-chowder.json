@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-clam-chowder",
+  "name": {
+    "zh": "美式蛤蜊浓汤",
+    "en": "New England Clam Chowder",
+    "original": "Clam chowder"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 800,
+          "unit": "g",
+          "note": "吐净沙，或蛤蜊肉两百克",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切一厘米丁",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 200,
+          "unit": "ml",
+          "note": "动物性",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 25,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒蔬菜",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "piece",
+          "note": "整片",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底汤锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蛤蜊泡淡盐水两小时吐沙，刷净外壳，冷水下锅煮到开口，取肉留汤并过滤。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "煮蛤蜊的汤澄清后就是这锅汤的鲜味底子，务必留下。",
+      "visual_cue": "蛤壳张开，汤色清亮带一点乳白"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅下培根片小火煸到出油变脆，捞出培根，留油炒洋葱丁、芹菜丁至变软。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "培根油是这锅汤的香气基础，别用其他油替代。",
+      "visual_cue": "洋葱透明，芹菜丁边缘发亮"
+    },
+    {
+      "n": 3,
+      "text": "加黄油融化后撒面粉，小火不停搅拌炒两分钟，形成浅金色的油面糊。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "面糊要炒到没有生面粉味，否则汤会有粉涩感。",
+      "visual_cue": "锅底出现浅金色糊状物，冒细泡"
+    },
+    {
+      "n": 4,
+      "text": "分三次倒入蛤蜊汤和牛奶，每次搅匀再加下一次，放月桂叶与百里香煮开。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "液体分次加入才不会结块，一次倒完面糊就成疙瘩。",
+      "visual_cue": "汤体顺滑无颗粒，颜色乳白"
+    },
+    {
+      "n": 5,
+      "text": "加土豆丁小火煮十五分钟至软糯，倒入蛤蜊肉与淡奶油再煮五分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "蛤蜊肉和淡奶油都要后放，久煮会让蛤肉发硬、奶油分层。",
+      "visual_cue": "土豆边缘化开，汤变浓稠"
+    },
+    {
+      "n": 6,
+      "text": "挑出月桂叶，加盐和黑胡椒调味，盛碗撒培根碎与欧芹。",
+      "time_min": 3,
+      "heat": "微火",
+      "tip": "培根已有咸味，盐要最后尝过再加。",
+      "visual_cue": "汤面浮着奶白光泽，撒料分布均匀"
+    }
+  ],
+  "tips": [
+    "蛤蜊汤务必过滤沉淀，否则汤里带沙，整锅报废。",
+    "淡奶油关火前加，滚沸会让它油水分离。",
+    "隔夜后汤会更稠，复热时加牛奶调稀。"
+  ],
+  "common_mistakes": [
+    "蛤蜊没吐净沙，汤喝起来满口牙碜，只能整锅倒掉。",
+    "面粉一次性倒入热油，结成硬疙瘩化不开。",
+    "淡奶油与蛤蜊同锅久煮，蛤肉缩成橡皮、汤面浮油。"
+  ],
+  "substitutions": [
+    {
+      "original": "蛤蜊",
+      "substitute": "虾仁",
+      "ratio": "800 克:400 克",
+      "note": "虾仁最后三分钟下，汤底改用高汤。"
+    },
+    {
+      "original": "淡奶油",
+      "substitute": "牛奶",
+      "ratio": "200 毫升:200 毫升",
+      "note": "更清爽，需多加五克面粉增稠。"
+    }
+  ],
+  "variations": [
+    "加入玉米粒与胡萝卜丁，可做更家常的乡村浓汤版本。"
+  ],
+  "serving_suggestion": "盛进碗里配苏打饼干或硬面包，撒欧芹。",
+  "storage": "冷藏两天，冷冻会影响奶油质地不建议；复热须小火慢加热并不断搅拌。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 460,
+    "protein_g": 22,
+    "fat_g": 28,
+    "carbs_g": 30,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "milk",
+    "mollusk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "贝类过敏者禁食；蛤蜊须选壳紧闭的活贝，煮后不开壳的个体应丢弃；含奶制品，乳糖不耐者可换无乳糖牛奶，汤品须彻底加热后食用。"
+  ],
+  "origin_note": "新英格兰蛤蜊浓汤是美国东北海岸的招牌汤品，十九世纪渔港人家用蛤蜊、土豆和咸肉煮成一锅浓汤。加奶油的白汤版本与加番茄的红汤版本至今各有拥趸。",
+  "tags": [
+    "美国",
+    "汤",
+    "蛤蜊",
+    "奶香"
+  ],
+  "related_ids": [
+    "french-onion-soup",
+    "nordic-fish-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

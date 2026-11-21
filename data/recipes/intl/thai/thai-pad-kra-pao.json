@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-pad-kra-pao",
+  "name": {
+    "zh": "泰式打抛猪肉",
+    "en": "Thai Basil Stir-fried Pork",
+    "original": "Pad kra pao"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 8,
+    "total_min": 23
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 500,
+          "unit": "g",
+          "note": "带一点肥膘更香",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 40,
+          "unit": "g",
+          "note": "九层塔，取叶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "或用小米椒四根",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "咸鲜主来源",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "补色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上深色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "平衡咸辣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "需够热",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 200,
+          "unit": "g",
+          "note": "约四枚，做煎蛋",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "热白饭配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "研钵"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大蒜拍碎略剁，辣椒酱与蒜末一起在研钵里舂成粗酱，罗勒叶摘下备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蒜和辣椒舂过比切碎更出香，这是泰式炒菜的习惯。",
+      "visual_cue": "粗酱带明显蒜粒与辣椒籽"
+    },
+    {
+      "n": 2,
+      "text": "炒锅大火烧到微微冒烟，倒植物油下蒜辣酱，快速炒十秒出香。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "锅必须烧透，温锅下料只会把蒜焖出苦味。",
+      "visual_cue": "油面起细纹，蒜香立刻上冲"
+    },
+    {
+      "n": 3,
+      "text": "下猪肉末，用锅铲压散并摊平，煎三十秒再翻炒，让肉末带焦边。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "先摊平煎再翻，肉末才有焦香而不是水煮味。",
+      "visual_cue": "肉末由粉转褐，锅底出现焦褐点"
+    },
+    {
+      "n": 4,
+      "text": "沿锅边淋鱼露、生抽和老抽，撒白糖，大火翻炒二十秒至汁水几乎收干。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "调料沿锅边淋入，遇热焦化后香气明显更足。",
+      "visual_cue": "肉末油亮深褐，锅底无流动汁水"
+    },
+    {
+      "n": 5,
+      "text": "关火倒入罗勒叶，用余温快速翻两下，让叶子刚塌下去就出锅。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "罗勒遇热极快失香，关火拌入最好。",
+      "visual_cue": "罗勒叶塌软仍保持翠绿"
+    },
+    {
+      "n": 6,
+      "text": "另起锅煎四个边缘焦脆的荷包蛋，与热白饭一起配肉末上桌。",
+      "time_min": 3,
+      "heat": "中大火",
+      "tip": "蛋边要煎到起泡发脆，蛋黄保持流动。",
+      "visual_cue": "蛋白边缘焦脆，蛋黄表面半凝固"
+    }
+  ],
+  "tips": [
+    "全程大火是这道菜的灵魂，火小就只能炒出湿肉末。",
+    "鱼露本身很咸，生抽要少放，出锅前先尝再补盐。",
+    "罗勒可用普通九层塔或打抛叶，香气略有差别但都合适。"
+  ],
+  "common_mistakes": [
+    "肉末下锅就猛翻，水汽散不掉，炒出一锅肉汤。",
+    "罗勒与蒜一起下锅，叶子炒黑发苦。",
+    "火候不足，肉末颜色灰白、没有焦香。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "鸡腿",
+      "ratio": "500 克:500 克",
+      "note": "鸡腿切小丁，炒制时间略延长一分钟。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "生抽",
+      "ratio": "25 毫升:20 毫升",
+      "note": "素食可用酱油替代，鲜味稍弱。"
+    }
+  ],
+  "variations": [
+    "加四季豆或青椒同炒，可做成更家常的蔬菜版本。"
+  ],
+  "serving_suggestion": "盖在热白饭上，配流心煎蛋与几片黄瓜。",
+  "storage": "冷藏两天，复热用炒锅大火快翻，勿加水。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 560,
+    "protein_g": 28,
+    "fat_g": 26,
+    "carbs_g": 56,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末须炒至完全变色、无粉红生肉，中心熟透；煎蛋若做流心须用可生食蛋，普通蛋应煎至蛋黄凝固。"
+  ],
+  "origin_note": "打抛猪肉是泰国最常见的街头快餐，名字来自打抛叶（holy basil）。一锅大火炒肉末加辣椒蒜、鱼露调味，盖在饭上配一个煎蛋，几乎每个路边摊都能吃到。",
+  "tags": [
+    "泰国",
+    "快手",
+    "猪肉",
+    "辣"
+  ],
+  "related_ids": [
+    "singaporean-hainanese-chicken-rice",
+    "indonesian-nasi-goreng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

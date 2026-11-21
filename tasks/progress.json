@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:21:48.502Z",
+  "generatedAt": "2026-11-21T04:26:23.963Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 514,
+    "cells": 517,
     "target": 3274,
-    "actual": 691,
-    "coverage": 0.2110568112400733
+    "actual": 698,
+    "coverage": 0.21319486866218693
   },
   "regions": {
     "cn": [
@@ -2544,7 +2544,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 27,
+        "actual": 28,
         "cells": [
           {
             "category": "main-poultry",
@@ -2643,10 +2643,11 @@
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "thai-gaeng-phed-moo",
-              "thai-kor-moo-yang"
+              "thai-kor-moo-yang",
+              "thai-pad-kra-pao"
             ]
           },
           {
@@ -3263,14 +3264,16 @@
         "en": "Singaporean",
         "tier": "B",
         "target": 38,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "singaporean-hainanese-chicken-rice"
+            ]
           },
           {
             "category": "main-seafood",
@@ -3313,6 +3316,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "singaporean-hainanese-chicken-rice"
+            ]
           }
         ]
       },
@@ -3785,7 +3797,7 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "appetizer",
@@ -3800,9 +3812,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "greek-moussaka"
+              "greek-moussaka",
+              "greek-souvlaki"
             ]
           },
           {
@@ -4195,7 +4208,7 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "soup",
@@ -4238,8 +4251,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "eastern-european-pierogi"
+            ]
           },
           {
             "category": "main-egg",
@@ -4247,6 +4262,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "eastern-european-pierogi"
+            ]
           }
         ]
       },
@@ -4319,7 +4343,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 23,
+        "actual": 24,
         "cells": [
           {
             "category": "main-meat",
@@ -4418,6 +4442,15 @@
             "ids": [
               "buffalo-wings",
               "hamburger"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "american-clam-chowder"
             ]
           },
           {

@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "eastern-european-pierogi",
+  "name": {
+    "zh": "东欧土豆奶酪饺",
+    "en": "Potato and Cheese Pierogi",
+    "original": "Pierogi ruskie"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "eastern-european"
+  },
+  "category": [
+    "snack",
+    "main-vegetable"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 20,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 600,
+          "unit": "g",
+          "note": "去皮切块煮软",
+          "optional": false
+        },
+        {
+          "name": "奶油奶酪",
+          "name_en": "cream cheese",
+          "amount": 150,
+          "unit": "g",
+          "note": "原味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "约一枚，和面用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 160,
+          "unit": "ml",
+          "note": "约四十度",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "炒馅与淋面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎饺子",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 100,
+          "unit": "g",
+          "note": "上桌配用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "和面与调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "面盆",
+    "擀面杖",
+    "汤锅",
+    "煎锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加三克盐拌匀，中间挖坑放入鸡蛋与温水，揉成光滑面团后盖布醒三十分钟。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "面团要比饺子面稍软，擀皮才不会回缩开裂。",
+      "visual_cue": "面团光滑不粘手，按压后缓慢回弹"
+    },
+    {
+      "n": 2,
+      "text": "土豆块冷水下锅煮十五分钟至筷子能轻松穿透，沥干水汽后趁热压成细泥。",
+      "time_min": 18,
+      "heat": "中火",
+      "tip": "土豆要沥得很干，馅料太湿会浸破饺子皮。",
+      "visual_cue": "土豆泥干爽无颗粒"
+    },
+    {
+      "n": 3,
+      "text": "黄油化开，下一半洋葱丁小火炒到金黄，与奶油奶酪一起拌入土豆泥，加盐和黑胡椒调味。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "馅料尝起来要比平时的土豆泥略咸一点，煮后味道会变淡。",
+      "visual_cue": "馅料顺滑能成团，带炒洋葱的甜香"
+    },
+    {
+      "n": 4,
+      "text": "面团擀成两毫米薄片，用直径八厘米的杯口压出圆皮，包入一勺馅料对折捏紧封口。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "封口处必须捏实无缝隙，否则下锅就漏馅。",
+      "visual_cue": "每只饺子半月形饱满，边缘捏出密实褶纹"
+    },
+    {
+      "n": 5,
+      "text": "汤锅加水和剩余盐煮开，饺子分批下锅，浮起后再煮两分钟捞出。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "一次不要下太多，水面挤满会把皮碰破。",
+      "visual_cue": "饺子全部浮起，皮呈半透明"
+    },
+    {
+      "n": 6,
+      "text": "煎锅放植物油，把煮好的饺子两面各煎两分钟至微焦，铺上剩余洋葱丁，淋酸奶油撒小葱。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "先煮后煎的版本外壳香脆，内里仍保持软糯。",
+      "visual_cue": "饺子表面金黄起脆斑，酸奶油微微融化"
+    }
+  ],
+  "tips": [
+    "馅料要放凉再包，热馅会让面皮变软发黏。",
+    "多包的饺子可以生冻，冷冻后直接下锅，不用解冻。",
+    "洋葱一定要炒过，生洋葱的辣味会盖住奶酪的香气。"
+  ],
+  "common_mistakes": [
+    "土豆泥水汽没控干，馅料湿软，包的时候皮就破。",
+    "封口只捏一下，煮的时候裂开漏馅成一锅糊。",
+    "水滚太猛下饺子，饺子皮互相碰撞被撕破。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶油奶酪",
+      "substitute": "酸奶油",
+      "ratio": "150 克:120 克",
+      "note": "馅料更酸，需多加两克盐。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "60 克:50 毫升",
+      "note": "奶香减弱，可补一勺淡奶油。"
+    }
+  ],
+  "variations": [
+    "馅料换成酸菜与蘑菇，可做东欧常见的斋戒日版本。"
+  ],
+  "serving_suggestion": "热腾腾装盘，配酸奶油与炒洋葱丁。",
+  "storage": "生饺子冷冻一个月，熟饺子冷藏两天，复热用煎锅加少量水焖热。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 610,
+    "protein_g": 17,
+    "fat_g": 26,
+    "carbs_g": 76,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋、奶、麸质等过敏原；土豆泥馅含水分高，煮后须尽快食用，熟饺子冷藏不超过两天并彻底复热。"
+  ],
+  "origin_note": "这种土豆奶酪馅的饺子在东欧多国都被视为家常主食，波兰人称 pierogi ruskie，乌克兰与斯洛伐克也有相近做法。包好后先煮再煎，配酸奶油是标准吃法。",
+  "tags": [
+    "东欧",
+    "面食",
+    "土豆",
+    "奶酪"
+  ],
+  "related_ids": [
+    "eastern-european-borscht",
+    "russian-beef-stroganoff"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
