@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "eastern-european-chicken-paprikash",
+  "name": {
+    "zh": "东欧红椒奶油炖鸡",
+    "en": "Chicken Paprikash",
+    "original": "Paprikás Csirke"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "eastern-european"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 50,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "带皮带骨切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 12,
+          "unit": "g",
+          "note": "匈牙利红椒粉",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 15,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 150,
+          "unit": "g",
+          "note": "关火前加",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎鸡",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成五厘米见方的块，用厨房纸吸干表面的水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "表面干爽，下锅才能煎出金黄。",
+      "visual_cue": "鸡块干爽，大小均匀"
+    },
+    {
+      "n": 2,
+      "text": "鸡块两面撒盐与黑胡椒，抓匀后静置十分钟入味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "提前调味，肉里才有底味。",
+      "visual_cue": "鸡块表面略有光泽"
+    },
+    {
+      "n": 3,
+      "text": "炖锅倒植物油，中火把鸡块带皮一面朝下煎四分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "带皮先煎，油脂逼出来更香。",
+      "visual_cue": "鸡皮金黄，锅底有焦褐色"
+    },
+    {
+      "n": 4,
+      "text": "翻面再煎三分钟，把鸡块盛出，锅里留一层底油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "不用煎熟，后面还要炖。",
+      "visual_cue": "两面金黄，锅里有鸡油"
+    },
+    {
+      "n": 5,
+      "text": "用底油小火炒洋葱丝六分钟，炒到软塌呈琥珀色。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱炒透，甜味是酱汁的基础。",
+      "visual_cue": "洋葱透明软塌，颜色偏黄"
+    },
+    {
+      "n": 6,
+      "text": "锅离火，撒入甜椒粉快速拌匀，避免高温烧焦。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "甜椒粉遇高温会发苦，务必离火再加。",
+      "visual_cue": "油色红亮，香气散出"
+    },
+    {
+      "n": 7,
+      "text": "放回鸡块与蒜末翻匀，加番茄块与两百毫升热水。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "水别太多，最后要收成浓酱。",
+      "visual_cue": "汤汁没过鸡块一半"
+    },
+    {
+      "n": 8,
+      "text": "盖盖小火炖二十五分钟，炖到鸡腿肉能用筷子扎透。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "保持微滚，鸡肉才嫩不柴。",
+      "visual_cue": "鸡肉扎透无血水，汤汁减半"
+    },
+    {
+      "n": 9,
+      "text": "面粉加两勺汤汁调开，倒回锅里搅匀收浓至挂勺。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "面粉先调开，直接撒会结块。",
+      "visual_cue": "酱汁浓稠挂勺，无颗粒"
+    },
+    {
+      "n": 10,
+      "text": "关火后拌入酸奶油，撒香菜碎，配面疙瘩或米饭上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "关火再加酸奶油，才不会结絮。",
+      "visual_cue": "酱色橘红柔滑，表面油亮"
+    }
+  ],
+  "tips": [
+    "甜椒粉一定要离火下锅，否则会发苦。",
+    "洋葱要炒到琥珀色，甜味才够浓郁。",
+    "洋葱一定要炒到琥珀色，甜味才足够浓郁。"
+  ],
+  "common_mistakes": [
+    "甜椒粉直接下热油，整锅带焦苦味。",
+    "酸奶油在沸腾时加入，酱汁结成一粒粒絮。",
+    "水加得太多，炖完变成一锅稀清汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "酸奶油",
+      "substitute": "酸奶",
+      "ratio": "150 克:150 克",
+      "note": "酸味更清爽，需用全脂不易分离。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅",
+      "ratio": "700 克:800 克",
+      "note": "炖制时间延长五分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺辣椒粉，做成微辣的版本。",
+    "放几片蘑菇一起炖，香气更浓郁。"
+  ],
+  "serving_suggestion": "配面疙瘩、煮土豆或白米饭，浇上酱汁一起吃。",
+  "storage": "冷藏三天，复热小火加热勿煮沸，避免酸奶油分离。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 460,
+    "protein_g": 36,
+    "fat_g": 28,
+    "carbs_g": 14,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底炖熟，中心温度达到七十四度以上；酸奶油含乳制品，冷藏保存并在复热时避免剧烈沸腾。"
+  ],
+  "origin_note": "匈牙利家常炖鸡，洋葱炒到琥珀色后离火拌入甜椒粉，鸡块在红酱里慢炖。最后用酸奶油收尾，酱汁橘红柔滑，配面疙瘩最好。",
+  "tags": [
+    "东欧",
+    "炖菜",
+    "鸡肉",
+    "奶油"
+  ],
+  "related_ids": [
+    "eastern-european-borscht",
+    "eastern-european-pierogi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

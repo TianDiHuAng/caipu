@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indonesian-ayam-penyet",
+  "name": {
+    "zh": "印尼辣酱压鸡",
+    "en": "Ayam Penyet",
+    "original": "Ayam Penyet"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indonesian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 50,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "fragrant",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 800,
+          "unit": "g",
+          "note": "带皮整块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "一半腌一半做酱",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 4,
+          "unit": "g",
+          "note": "腌料增色",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "做酱",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 30,
+          "unit": "g",
+          "note": "做酱，按辣度调整",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "做酱",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "平衡辣味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 350,
+          "unit": "ml",
+          "note": "油炸用",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 120,
+          "unit": "g",
+          "note": "切片配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炸锅",
+    "研钵",
+    "漏勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉用刀背轻拍几下，让厚薄均匀更容易炸透。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "拍松后肉质更嫩，也更好入味。",
+      "visual_cue": "鸡腿厚薄一致，面积变大"
+    },
+    {
+      "n": 2,
+      "text": "蒜末、姜黄、盐与少量水调成腌料，抹遍鸡腿。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "姜黄上色，炸出来才金黄。",
+      "visual_cue": "鸡皮呈均匀的金黄色"
+    },
+    {
+      "n": 3,
+      "text": "盖保鲜膜冷藏腌三十分钟，让香料渗进肉里。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "腌够时间，味道才不只停在表面。",
+      "visual_cue": "鸡腿颜色加深，香气明显"
+    },
+    {
+      "n": 4,
+      "text": "小米辣、蒜、番茄与香菜放研钵里捣成粗酱。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "捣比打泥更好，颗粒感是灵魂。",
+      "visual_cue": "酱体粗糙带颗粒，颜色红绿"
+    },
+    {
+      "n": 5,
+      "text": "酱里加白糖、盐与青柠汁调匀，尝味后备用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "咸甜酸辣要平衡，太辣可加糖。",
+      "visual_cue": "酱体湿润，味道酸辣"
+    },
+    {
+      "n": 6,
+      "text": "炸锅倒植物油，中火烧到插入筷子冒密集小泡。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "油温不够鸡皮不脆，太高会焦。",
+      "visual_cue": "筷子周围冒密集小泡"
+    },
+    {
+      "n": 7,
+      "text": "鸡腿带皮朝下入锅，中火炸八分钟至表皮金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "别急着翻，等鸡皮定型再动。",
+      "visual_cue": "鸡皮金黄酥脆，浮起油面"
+    },
+    {
+      "n": 8,
+      "text": "翻面再炸五分钟，炸到中心熟透、按压有弹性。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "厚处可多炸两分钟防止夹生。",
+      "visual_cue": "两面金黄，肉汁清亮"
+    },
+    {
+      "n": 9,
+      "text": "捞出沥掉油静置三分钟，让肉汁回流后再压。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "静置后再压，肉汁才不会流失。",
+      "visual_cue": "表面干爽，按压回弹"
+    },
+    {
+      "n": 10,
+      "text": "把鸡腿放研钵里用杵轻压几下，压裂但不压碎。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "压裂让酱汁渗进去，别压成肉泥。",
+      "visual_cue": "鸡腿出现裂纹，仍完整"
+    },
+    {
+      "n": 11,
+      "text": "鸡腿抹上辣椒酱，配米饭与黄瓜片一起上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酱要抹厚一点，配饭才够味。",
+      "visual_cue": "鸡皮金黄油亮，酱色鲜红"
+    }
+  ],
+  "tips": [
+    "鸡腿先拍松再腌，入味和受热都更均匀。",
+    "辣椒酱用研钵捣，颗粒感比机器打的更好。",
+    "炸好静置三分钟再压，肉汁不会流失。"
+  ],
+  "common_mistakes": [
+    "鸡腿不拍松就炸，厚处夹生薄处发干。",
+    "辣椒酱用料理机打成糊，完全没有颗粒感。",
+    "油温不够就下锅，鸡皮软塌不脆。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅",
+      "ratio": "800 克:900 克",
+      "note": "炸制时间各减两分钟。"
+    },
+    {
+      "original": "小米辣",
+      "substitute": "辣椒粉",
+      "ratio": "30 克:12 克",
+      "note": "辣味更平，香气略薄。"
+    }
+  ],
+  "variations": [
+    "配一勺甜酱油，咸甜对比更明显。",
+    "加几块炸豆腐同盘，口感更丰富。"
+  ],
+  "serving_suggestion": "配白米饭、黄瓜片和炸豆腐，酱料另放一碟。",
+  "storage": "冷藏两天，复热用烤箱两百度烤八分钟恢复脆皮。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 520,
+    "protein_g": 40,
+    "fat_g": 34,
+    "carbs_g": 10,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡腿须彻底炸熟，中心温度达到七十四度以上；油炸时鸡皮含水易溅油，下锅沿锅壁轻放并保持距离，研钵捣辣酱后须洗手避免辣手。"
+  ],
+  "origin_note": "印尼东爪哇的做法，炸好的鸡腿用研钵压裂，再抹上现捣的辣椒酱。外皮酥脆，辣酱鲜辣带番茄的酸，配白饭一绝。",
+  "tags": [
+    "印尼",
+    "炸鸡",
+    "辣酱",
+    "下饭"
+  ],
+  "related_ids": [
+    "indonesian-nasi-goreng",
+    "indonesian-soto-ayam"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

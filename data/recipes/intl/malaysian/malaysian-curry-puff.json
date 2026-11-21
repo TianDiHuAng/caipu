@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "malaysian-curry-puff",
+  "name": {
+    "zh": "马来咖喱角",
+    "en": "Curry Puff",
+    "original": "Karipap"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "malaysian"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 50,
+    "cook_min": 55,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 80,
+          "unit": "g",
+          "note": "冷切小块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 200,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 350,
+          "unit": "ml",
+          "note": "油炸用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "和面用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "擀面杖",
+    "炸锅",
+    "叉子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加盐拌匀，放入冷黄油块，用手指搓成粗砂状。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "黄油要冷，搓出来才酥。",
+      "visual_cue": "混合物呈均匀粗砂颗粒"
+    },
+    {
+      "n": 2,
+      "text": "分次加清水揉成光滑面团，盖湿布醒三十分钟。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "揉到不粘手即可，别过度揉出筋。",
+      "visual_cue": "面团光滑有弹性，按坑回弹"
+    },
+    {
+      "n": 3,
+      "text": "土豆丁蒸十分钟至能用筷子扎透，取出放凉。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "蒸比煮好，水分少不糊馅。",
+      "visual_cue": "土豆丁软透，边缘不散"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒少量油，中火炒洋葱碎三分钟至透明。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒甜，馅才不寡淡。",
+      "visual_cue": "洋葱透明，香气散出"
+    },
+    {
+      "n": 5,
+      "text": "下鸡胸肉丁炒四分钟至变白，加咖喱粉与辣椒粉炒匀。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "咖喱粉遇油才出香，多炒半分钟。",
+      "visual_cue": "鸡丁金黄，香料裹匀"
+    },
+    {
+      "n": 6,
+      "text": "倒入土豆丁与少量水，小火炒五分钟收干成馅。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "馅要干爽，湿了会弄破饼皮。",
+      "visual_cue": "馅料松散不粘，水分收干"
+    },
+    {
+      "n": 7,
+      "text": "馅料加盐调味后盛出彻底放凉，凉透才好包。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "热馅会软化饼皮，包的时候容易破。",
+      "visual_cue": "馅料室温，粒粒分明"
+    },
+    {
+      "n": 8,
+      "text": "面团擀成三毫米薄片，用碗口压出直径十厘米的圆片。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "薄一点更酥，太厚炸不透。",
+      "visual_cue": "圆片厚薄均匀，边缘整齐"
+    },
+    {
+      "n": 9,
+      "text": "圆片中间放一勺馅，对折压紧边缘，用叉子压出纹路。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "边缘压紧，炸的时候馅才不会漏。",
+      "visual_cue": "半月形饱满，边缘齿纹清晰"
+    },
+    {
+      "n": 10,
+      "text": "炸锅倒植物油烧至中温，下咖喱角炸四分钟至金黄。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "一次炸五个，油温稳才不会含油。",
+      "visual_cue": "表面金黄起酥，浮起油面"
+    },
+    {
+      "n": 11,
+      "text": "翻面再炸三分钟，捞出沥油后趁热食用最酥。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "趁热吃才酥，凉了皮会回软。",
+      "visual_cue": "两面金黄酥脆，轻敲有脆响"
+    }
+  ],
+  "tips": [
+    "黄油保持冷的状态搓面，酥皮层次才明显。",
+    "馅料一定要炒干凉透，包的时候才不破皮。",
+    "油温保持中等，皮才酥而且不含油。"
+  ],
+  "common_mistakes": [
+    "黄油融化后和面，炸出来皮是硬的。",
+    "馅料还热就包，饼皮被水分泡软烂。",
+    "油温太低就下锅，炸出来含油又软塌。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄油",
+      "substitute": "猪油",
+      "ratio": "80 克:70 克",
+      "note": "起酥效果更好，风味更中式。"
+    },
+    {
+      "original": "鸡胸肉",
+      "substitute": "猪肉末",
+      "ratio": "200 克:200 克",
+      "note": "炒制时间减到三分钟。"
+    }
+  ],
+  "variations": [
+    "馅里加一小块水煮蛋，口感更丰富。",
+    "做成咖喱卜切小个，适合当茶点。"
+  ],
+  "serving_suggestion": "趁热当茶点或下午小吃，配一杯拉茶最搭。",
+  "storage": "冷藏三天，复热用烤箱两百度烤八分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 480,
+    "protein_g": 14,
+    "fat_g": 28,
+    "carbs_g": 44,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "馅料含鸡肉，须彻底炒熟；油炸时饼皮有水分会溅油，下锅沿锅壁轻放，出锅沥油后再食用。"
+  ],
+  "origin_note": "马来西亚的国民小吃，酥皮包着咖喱土豆鸡肉馅，捏成半月形下锅炸。表皮一层层起酥，咬开满是咖喱香。",
+  "tags": [
+    "马来西亚",
+    "小吃",
+    "咖喱",
+    "油炸"
+  ],
+  "related_ids": [
+    "malaysian-laksa",
+    "malaysian-nasi-lemak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
