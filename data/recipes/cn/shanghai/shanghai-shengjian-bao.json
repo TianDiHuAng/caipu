@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shanghai-shengjian-bao",
+  "name": {
+    "zh": "上海生煎包",
+    "en": "Shanghai Pan-fried Pork Buns",
+    "original": "生煎馒头"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 55,
+    "cook_min": 30,
+    "total_min": 85
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 250,
+          "unit": "g",
+          "note": "剁成肉料",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "发面",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 180,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 10,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "盆",
+    "擀面杖",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加酵母和一百八十毫升清水揉成光滑面团，盖布发酵到两倍大。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "面要偏软一点，生煎皮才薄而不硬。",
+      "visual_cue": "面团胀到两倍，戳洞回弹慢"
+    },
+    {
+      "n": 2,
+      "text": "五花肉剁成细肉料，加生抽、白糖和姜末，顺一个方向搅到起胶上劲。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肉料要搅上劲，煎完才有汤汁不散。",
+      "visual_cue": "肉料粘稠拉丝，颜色发亮"
+    },
+    {
+      "n": 3,
+      "text": "面团取出排气，搓条切成二十克一个的剂子，擀成中间厚边缘薄的圆皮。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "皮别擀得太薄，包上肉料后煎容易破。",
+      "visual_cue": "皮子圆整，边缘半透明"
+    },
+    {
+      "n": 4,
+      "text": "包入肉料捏出褶子收口，收口朝下摆进刷了植物油的平底锅，二次醒十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "收口一定捏紧朝下，否则汤汁全流出去。",
+      "visual_cue": "褶子均匀，包子挺立"
+    },
+    {
+      "n": 5,
+      "text": "中火煎到底部微黄，顺锅边淋入半碗清水，加盖焖八分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "水沿锅边淋，别直接浇在包子上冲掉褶。",
+      "visual_cue": "底部焦黄，锅内水汽腾腾"
+    },
+    {
+      "n": 6,
+      "text": "水收干后开盖撒芝麻和小葱，再煎两分钟到底部酥脆起锅。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "撒料后别马上翻动，等底部定型再起锅。",
+      "visual_cue": "底壳金黄酥脆，葱芝麻附着"
+    }
+  ],
+  "tips": [
+    "面团要偏软，皮才薄而韧，煎完不发硬。",
+    "肉料顺一个方向搅上劲，汤汁才锁在里面。",
+    "水沿锅边淋入，避免冲散包子的褶子。"
+  ],
+  "common_mistakes": [
+    "面发过头，包子煎完塌陷没有形。",
+    "肉料没搅上劲，煎完汤汁全漏掉。",
+    "火太大水烧干太快，底焦了上面还没熟。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "牛肉馅",
+      "ratio": "250 克:250 克",
+      "note": "要补两勺清水打馅，否则发柴。"
+    },
+    {
+      "original": "小葱",
+      "substitute": "大葱",
+      "ratio": "20 克:20 克",
+      "note": "辛味更重，切得越碎越好。"
+    }
+  ],
+  "variations": [
+    "加一勺虾皮进肉料，鲜味更突出。",
+    "底部再撒一层黑芝麻，香气更浓郁。"
+  ],
+  "serving_suggestion": "出锅连锅端上桌，配一碗蛋皮汤或豆浆，趁热咬开先吸汤汁。",
+  "storage": "冷藏一天，复热用平底锅加少量水加盖焖三分钟，恢复底部酥脆。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 520,
+    "protein_g": 20,
+    "fat_g": 24,
+    "carbs_g": 56,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉馅必须完全煎熟，中心不见粉色；汤汁滚烫，咬开前先吹凉避免烫伤口腔。"
+  ],
+  "origin_note": "上海的街头早点，平底锅先煎后焖，底部煎出金黄硬壳，上面还是软面皮。老上海讲究一咬满口汤，配一碗蛋皮汤就是标准配置。",
+  "tags": [
+    "上海",
+    "小吃",
+    "包子",
+    "煎"
+  ],
+  "related_ids": [
+    "xieke-huang",
+    "youbao-xia",
+    "shanghai-jiang-ya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

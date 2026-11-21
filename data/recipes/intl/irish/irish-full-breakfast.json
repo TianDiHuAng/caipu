@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "irish-full-breakfast",
+  "name": {
+    "zh": "爱尔兰式早餐",
+    "en": "Irish Full Breakfast",
+    "original": "Irish Fry"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "irish"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 150,
+          "unit": "g",
+          "note": "厚切",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 200,
+          "unit": "g",
+          "note": "约四枚",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "刨丝做薯饼",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "对半切",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "煎薯饼",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎蛋",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "烤箱",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆去皮刨成细丝，用手抓拧挤干水分，加盐和白胡椒拌匀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "土豆丝一定挤干水，不然薯饼只有软没有脆。",
+      "visual_cue": "土豆丝干爽不粘连"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放黄油化开，把土豆丝压成两张薄饼，中小火每面煎四分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "压薄一点才熟得透，厚了外焦里生。",
+      "visual_cue": "薯饼两面金黄发脆"
+    },
+    {
+      "n": 3,
+      "text": "口蘑切片放进锅里空出的位置，中火煎到出水上色盛出。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "口蘑别挤在一起，铺开才煎得上色。",
+      "visual_cue": "蘑菇边缘焦褐，水汽收干"
+    },
+    {
+      "n": 4,
+      "text": "番茄对半切开，切面朝下放锅里煎两分钟到边缘微微发焦。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄只煎切面，翻来翻去会散成泥。",
+      "visual_cue": "切面焦痕明显，形状完整"
+    },
+    {
+      "n": 5,
+      "text": "培根平铺下锅，中火煎到两面微焦、边缘卷曲，盛出沥油。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "培根本身带油，锅里不用另外再加油。",
+      "visual_cue": "培根边缘卷起，油脂逼出"
+    },
+    {
+      "n": 6,
+      "text": "倒植物油烧热，打入鸡蛋煎成溏心蛋，蛋白凝固、蛋黄还软。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蛋黄要软但不能生，蛋白必须全凝固。",
+      "visual_cue": "蛋白洁白凝固，蛋黄鼓起"
+    },
+    {
+      "n": 7,
+      "text": "把所有食材依次摆进大盘，薯饼垫底，撒少许白胡椒趁热上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热吃才是爱尔兰早餐的样子，凉了油腻。",
+      "visual_cue": "盘面排满，颜色金黄红润"
+    }
+  ],
+  "tips": [
+    "土豆丝一定挤干水分，薯饼才脆不塌。",
+    "鸡蛋煎到蛋白全凝固，蛋黄留软心最好吃。",
+    "培根先煎出油，锅里的油正好煎蘑菇和番茄。"
+  ],
+  "common_mistakes": [
+    "土豆丝没挤水，薯饼软塌不成形。",
+    "鸡蛋煎到蛋黄全硬，口感发干发粉。",
+    "所有食材一起下锅，锅凉了全出水。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "火腿片",
+      "ratio": "150 克:150 克",
+      "note": "咸味更轻，煎的时间缩短一分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "红薯",
+      "ratio": "300 克:300 克",
+      "note": "甜味更足，煎时容易焦要盯火。"
+    }
+  ],
+  "variations": [
+    "加一片黑布丁同煎，更接近爱尔兰本地版本。",
+    "配两片苏打面包，把蛋黄蘸着吃。"
+  ],
+  "serving_suggestion": "装进大号平盘，薯饼放底部，其余食材围一圈，配一杯浓红茶一起吃。",
+  "storage": "现做现吃最佳，薯饼冷藏一天复热用平底锅干煎恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "每份约 450 克",
+    "calories_kcal": 620,
+    "protein_g": 28,
+    "fat_g": 40,
+    "carbs_g": 36,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋必须煎到蛋白完全凝固、蛋黄熟透或至少温热，儿童与孕妇建议食用全熟蛋；培根需煎熟无粉色生肉，成品冷藏不超过两天。"
+  ],
+  "origin_note": "爱尔兰家庭周末的固定早餐，当地叫 Irish Fry。培根、鸡蛋、蘑菇、番茄和土豆薯饼一锅煎齐，配浓茶下肚，是农忙年代撑住一上午的吃法。",
+  "tags": [
+    "爱尔兰",
+    "早餐",
+    "培根",
+    "鸡蛋"
+  ],
+  "related_ids": [
+    "irish-soda-bread",
+    "irish-colcannon",
+    "irish-boxty"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:28:41.876Z",
+  "generatedAt": "2026-11-21T12:31:57.841Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1065,
-    "coverage": 0.3252901649358583
+    "actual": 1071,
+    "coverage": 0.32712278558338426
   },
   "regions": {
     "cn": [
@@ -1366,7 +1366,7 @@
         "en": "Shanghai",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
@@ -1399,8 +1399,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "shanghai-shengjian-bao",
               "tiaotou-gao",
               "xieke-huang"
             ]
@@ -1561,7 +1562,7 @@
         "en": "Northwestern",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "staple-noodle",
@@ -1577,8 +1578,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "xibei-guokui",
               "xibei-roujiamo",
               "yangrou-paomo"
             ]
@@ -1916,7 +1918,7 @@
         "en": "Taiwanese",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "snack",
@@ -1961,9 +1963,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "taiwan-douhua"
+              "taiwan-douhua",
+              "taiwan-mochi"
             ]
           },
           {
@@ -3404,7 +3407,7 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "staple-rice",
@@ -3429,8 +3432,9 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "indonesian-sayur-lodeh",
               "indonesian-soto-ayam"
             ]
           },
@@ -4653,7 +4657,7 @@
         "en": "Irish",
         "tier": "C",
         "target": 25,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
@@ -4688,8 +4692,9 @@
             "category": "breakfast",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "irish-full-breakfast",
               "irish-porridge",
               "irish-soda-bread"
             ]
@@ -4815,7 +4820,7 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "soup",
@@ -4857,8 +4862,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "eastern-european-syrniki"
+            ]
           },
           {
             "category": "main-vegetable",
