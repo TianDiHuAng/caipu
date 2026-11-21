@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "australian-chicken-parma",
+  "name": {
+    "zh": "澳式帕尔玛鸡排",
+    "en": "Chicken Parma",
+    "original": "Chicken Parmigiana"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "australian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "rich",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 500,
+          "unit": "g",
+          "note": "片成两片拍薄",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 120,
+          "unit": "g",
+          "note": "粗粒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 80,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚,打散",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 120,
+          "unit": "g",
+          "note": "铺面",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 150,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 6,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "肉锤",
+    "平底锅",
+    "烤盘",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡胸肉横刀片成两片，用肉锤拍成一厘米厚的薄片。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "拍薄能让受热均匀，也更容易熟透。",
+      "visual_cue": "肉片厚薄一致，表面平整"
+    },
+    {
+      "n": 2,
+      "text": "肉片两面撒盐与黑胡椒，先裹面粉再蘸蛋液，最后压上面包糠。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "三步裹法要压实面包糠，煎时才不掉。",
+      "visual_cue": "表面均匀覆糠，无裸露肉面"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒橄榄油烧热，鸡排下锅中火煎三分钟至底面金黄。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "油量到肉片三分之一高，煎出的糠壳才酥。",
+      "visual_cue": "底面金黄，边缘起泡"
+    },
+    {
+      "n": 4,
+      "text": "翻面再煎两分钟，煎好后放在厨房纸上吸去多余油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "鸡排只要煎到两面定型，后面还靠烤箱完成。",
+      "visual_cue": "两面金黄，按压有弹性"
+    },
+    {
+      "n": 5,
+      "text": "烤盘上摆鸡排，每片抹一层番茄酱，撒上奶酪丝与罗勒碎。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "番茄酱别抹太厚，否则奶酪不易融化贴住。",
+      "visual_cue": "酱层薄匀，奶酪铺满表面"
+    },
+    {
+      "n": 6,
+      "text": "二百度烤十分钟至奶酪融化冒泡、边缘微焦。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "烤到奶酪起泡微焦才够香，时间别超过十二分钟。",
+      "visual_cue": "奶酪融化拉丝，边缘焦黄"
+    },
+    {
+      "n": 7,
+      "text": "出炉静置两分钟再切，配薯条和沙拉一起上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "静置让肉汁回稳，切开不会流一盘子汤。",
+      "visual_cue": "切面多汁，奶酪完整覆在表面"
+    }
+  ],
+  "tips": [
+    "鸡胸肉拍薄比选厚肉更重要，厚了容易外焦内生。",
+    "粗粒面包糠口感更好，细糠容易糊。",
+    "奶酪用能拉丝的马苏里拉或混合奶酪。"
+  ],
+  "common_mistakes": [
+    "鸡胸肉没拍薄，烤完中间发柴咬不动。",
+    "番茄酱抹太厚，下面包糠被泡软塌陷。",
+    "面包糠没压实，煎的时候掉一锅，糠壳残缺。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "鸡腿肉",
+      "ratio": "500 克:500 克",
+      "note": "更嫩多汁，煎制时间各加一分钟。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "玉米片碎",
+      "ratio": "120 克:120 克",
+      "note": "更脆，但上色更快需降低火力。"
+    }
+  ],
+  "variations": [
+    "加一片火腿夹在鸡排和奶酪之间，是澳洲酒吧的做法。",
+    "把番茄酱换成意式红酱，风味更浓。"
+  ],
+  "serving_suggestion": "配炸薯条和一份生菜沙拉，再来一杯冰啤酒。",
+  "storage": "冷藏两天；复热用烤箱一百八十度八分钟，微波会让糠壳变软。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 820,
+    "protein_g": 62,
+    "fat_g": 44,
+    "carbs_g": 44,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须煎烤至中心完全不透明，中心温度七十四度以上；裹粉接触生肉后须洗手，生熟器具分开；剩菜两小时内冷藏并彻底复热。"
+  ],
+  "origin_note": "澳洲酒吧的招牌菜，谁都叫它 parma。鸡胸肉拍薄裹上糠壳煎到金黄，铺番茄酱和奶酪进烤箱，端上桌时奶酪还在冒泡。配一大盘薯条和沙拉，一顿管饱。",
+  "tags": [
+    "澳大利亚",
+    "鸡肉",
+    "奶酪",
+    "烤"
+  ],
+  "related_ids": [
+    "australian-pavlova",
+    "australian-meat-pie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

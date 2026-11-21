@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-21T05:45:46.835Z
+> 生成时间：2026-11-21T05:51:17.659Z
 
-**总览**：工程任务 49/53；菜谱内容 791/3274（24.2%），共 544 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 802/3274（24.5%），共 547 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（404/1339）
+### 中国菜系（408/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，60/107</summary>
 
@@ -379,27 +379,27 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>藏餐 tibetan</b> — C 级，3/25</summary>
+<details><summary><b>藏餐 tibetan</b> — C 级，5/25</summary>
 
-- [ ] `P4-tibetan/main-meat` 主菜·肉（Meat Main）目标 5，已完成 0
-- [ ] `P4-tibetan/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 0
+- [ ] `P4-tibetan/main-meat` 主菜·肉（Meat Main）目标 5，已完成 1
+- [ ] `P4-tibetan/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 1
 - [ ] `P4-tibetan/soup` 汤羹（Soup）目标 5，已完成 1
 - [ ] `P4-tibetan/drink` 饮品（Drink）目标 5，已完成 1
 - [ ] `P4-tibetan/staple-noodle` 主食·面（Noodle Dish）目标 5，已完成 1
 
 </details>
 
-<details><summary><b>内蒙菜 mongolian</b> — C 级，3/25</summary>
+<details><summary><b>内蒙菜 mongolian</b> — C 级，5/25</summary>
 
-- [ ] `P4-mongolian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 2
-- [ ] `P4-mongolian/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 1
+- [ ] `P4-mongolian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 3
+- [ ] `P4-mongolian/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 2
 - [ ] `P4-mongolian/drink` 饮品（Drink）目标 5，已完成 0
 - [ ] `P4-mongolian/soup` 汤羹（Soup）目标 5，已完成 0
 - [ ] `P4-mongolian/dessert` 甜点（Dessert）目标 5，已完成 0
 
 </details>
 
-### 外国菜系（387/1935）
+### 外国菜系（394/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，37/107</summary>
 
@@ -882,46 +882,49 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>西非菜 west-african</b> — C 级，2/25</summary>
+<details><summary><b>西非菜 west-african</b> — C 级，4/25</summary>
 
 - [ ] `P4-west-african/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 1
 - [ ] `P4-west-african/soup` 汤羹（Soup）目标 5，已完成 0
-- [ ] `P4-west-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 0
-- [ ] `P4-west-african/snack` 小吃（Street Food）目标 5，已完成 0
+- [ ] `P4-west-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 1
+- [ ] `P4-west-african/snack` 小吃（Street Food）目标 5，已完成 1
 - [ ] `P4-west-african/sauce` 酱汁与基础调味（Sauce）目标 5，已完成 0
 - [x] `P4-west-african/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>东非菜 east-african</b> — C 级，2/25</summary>
+<details><summary><b>东非菜 east-african</b> — C 级，4/25</summary>
 
-- [ ] `P4-east-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 0
+- [ ] `P4-east-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 1
 - [ ] `P4-east-african/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 0
 - [ ] `P4-east-african/soup` 汤羹（Soup）目标 5，已完成 0
 - [ ] `P4-east-african/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 5，已完成 1
 - [ ] `P4-east-african/drink` 饮品（Drink）目标 5，已完成 0
+- [x] `P4-east-african/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
 - [x] `P4-east-african/staple-congee` 主食·粥（Congee）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>南非菜 south-african</b> — C 级，2/25</summary>
+<details><summary><b>南非菜 south-african</b> — C 级，4/25</summary>
 
 - [ ] `P4-south-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 1
-- [ ] `P4-south-african/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 0
+- [ ] `P4-south-african/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 1
 - [ ] `P4-south-african/dessert` 甜点（Dessert）目标 5，已完成 0
 - [ ] `P4-south-african/snack` 小吃（Street Food）目标 5，已完成 0
 - [ ] `P4-south-african/salad` 沙拉（Salad）目标 5，已完成 0
 - [x] `P4-south-african/bakery` 烘焙面包（Bakery）目标 0，已完成 1
+- [x] `P4-south-african/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>澳新菜 australian</b> — C 级，4/25</summary>
+<details><summary><b>澳新菜 australian</b> — C 级，5/25</summary>
 
 - [ ] `P4-australian/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 0
 - [ ] `P4-australian/bakery` 烘焙面包（Bakery）目标 5，已完成 2
 - [ ] `P4-australian/breakfast` 早餐（Breakfast）目标 5，已完成 0
 - [ ] `P4-australian/dessert` 甜点（Dessert）目标 5，已完成 1
 - [ ] `P4-australian/salad` 沙拉（Salad）目标 5，已完成 0
+- [x] `P4-australian/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 - [x] `P4-australian/snack` 小吃（Street Food）目标 0，已完成 1
 
 </details>

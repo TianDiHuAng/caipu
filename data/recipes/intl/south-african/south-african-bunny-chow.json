@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "south-african-bunny-chow",
+  "name": {
+    "zh": "南非咖喱面包盅",
+    "en": "Bunny Chow",
+    "original": "Bunny Chow"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "south-african"
+  },
+  "category": [
+    "main-poultry",
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 600,
+          "unit": "g",
+          "note": "整条方形白面包",
+          "optional": false
+        },
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 180,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "中辣",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "调色",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱切末，番茄切丁，大蒜与姜分别切末备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "三种辛香料切得越细，咖喱底味越均匀。",
+      "visual_cue": "配料切好分装，颗粒细小"
+    },
+    {
+      "n": 2,
+      "text": "炖锅下植物油烧热，炒香洋葱末直到透明微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒到微微发黄，甜味才完全释放。",
+      "visual_cue": "洋葱软塌金黄，锅中香气浓"
+    },
+    {
+      "n": 3,
+      "text": "加蒜末、姜末、咖喱粉与姜黄炒一分钟，让香料出油。",
+      "time_min": 2,
+      "heat": "中小火",
+      "tip": "香料遇油才出色，粉状料别炒过头会发苦。",
+      "visual_cue": "锅中橙黄色油亮，辛香扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "下鸡胸肉块翻炒，直到每一块表面都变白收紧。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鸡肉表面封住再炖，才不会流失汁水。",
+      "visual_cue": "肉块表面转白，无粉色"
+    },
+    {
+      "n": 5,
+      "text": "加番茄丁与高汤煮开后，转小火炖二十五分钟至汤汁浓稠。",
+      "time_min": 27,
+      "heat": "小火",
+      "tip": "炖到汤汁能挂在肉上最好，太稀会泡烂面包。",
+      "visual_cue": "汤汁浓稠挂勺，番茄化开"
+    },
+    {
+      "n": 6,
+      "text": "加盐调定味道后撒上香菜碎，关火稍微放凉。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "咖喱稍放凉再装面包，面包才不会被泡透。",
+      "visual_cue": "咖喱浓稠，香菜翠绿"
+    },
+    {
+      "n": 7,
+      "text": "方形面包从中间剖开挖出部分面包心，填入咖喱鸡肉，盖上撕下的面包片。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "挖空时留两厘米壁厚，太薄会漏汤。",
+      "visual_cue": "面包壁完整，咖喱刚好填满"
+    }
+  ],
+  "tips": [
+    "用整条未切片的方形白面包，挖空才成型。",
+    "咖喱一定要炖到浓稠，汤汁稀了面包立刻塌软。",
+    "挖出的面包心别扔，蘸咖喱吃正好。"
+  ],
+  "common_mistakes": [
+    "咖喱汤汁太多，装进面包后立刻漏一桌。",
+    "面包挖太空只留薄皮，一拿就散。",
+    "咖喱粉没炒出香就加水，味道生涩发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "羊肉",
+      "ratio": "500 克:500 克",
+      "note": "炖制时间延长十五分钟，风味更浓。"
+    },
+    {
+      "original": "面包",
+      "substitute": "面包卷",
+      "ratio": "600 克:600 克",
+      "note": "单个分量更小，适合一人份。"
+    }
+  ],
+  "variations": [
+    "用豆类代替鸡肉，做成素食咖喱面包盅。",
+    "咖喱里加一颗土豆切丁，口感更饱足。"
+  ],
+  "serving_suggestion": "直接端着面包吃，配一杯冰可乐或南非本地汽水。",
+  "storage": "咖喱冷藏三天、冷冻一个月；面包现挖现吃，不建议冷藏，复热咖喱后再装。",
+  "nutrition_estimate": {
+    "basis": "每份约 420 克",
+    "calories_kcal": 720,
+    "protein_g": 42,
+    "fat_g": 18,
+    "carbs_g": 92,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须炖至中心完全不透明，中心温度七十四度以上；咖喱须放至微温再装面包，成品两小时内食用；剩咖喱须冷藏并彻底复热。"
+  ],
+  "origin_note": "南非德班的印度移民创造吃法，把一条方形白面包挖空，填进咖喱鸡肉，盖子盖回去用手捧着吃。咖喱汁被面包吸住，最后连碗一起吃下去，是最不浪费的一餐。",
+  "tags": [
+    "南非",
+    "咖喱",
+    "鸡肉",
+    "面包"
+  ],
+  "related_ids": [
+    "south-african-bobotie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
