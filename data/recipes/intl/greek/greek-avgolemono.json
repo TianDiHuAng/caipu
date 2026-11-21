@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "greek-avgolemono",
+  "name": {
+    "zh": "希腊柠檬蛋花汤",
+    "en": "Greek Lemon Egg Soup (Avgolemono)",
+    "original": "Αυγολέμονο"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "greek"
+  },
+  "category": [
+    "soup",
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 50,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 300,
+          "unit": "g",
+          "note": "去皮",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 120,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 120,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切半",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "打蛋器",
+    "小碗",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉去皮洗净，洋葱切成两半不用切碎。翻动要轻别弄碎。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "洋葱切半就够，煮完要捞出来。这一步别省。",
+      "visual_cue": "鸡肉干净无血水，洋葱切面平整"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加清水，放鸡肉与洋葱，大火烧开撇净浮沫。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "浮沫要撇干净，汤才清不腥。顺序别颠倒。",
+      "visual_cue": "汤面干净，泡沫全部撇掉"
+    },
+    {
+      "n": 3,
+      "text": "转小火煮二十分钟，捞出鸡肉放凉后撕成细丝。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "煮到筷子能扎透就够，别煮老。火候要盯住。",
+      "visual_cue": "鸡肉一撕就散，汤色清亮"
+    },
+    {
+      "n": 4,
+      "text": "捞出洋葱丢掉，把洗净的大米倒进汤里煮十五分钟。",
+      "time_min": 16,
+      "heat": "小火",
+      "tip": "米要煮到开花，汤才有稠度。多练两次就熟。",
+      "visual_cue": "米粒开花，汤开始变浑变稠"
+    },
+    {
+      "n": 5,
+      "text": "鸡蛋打入碗中，加柠檬汁用打蛋器搅到完全混合。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋液和柠檬汁要先拌匀，才不会结块。",
+      "visual_cue": "蛋液浅黄浓稠，闻着发酸"
+    },
+    {
+      "n": 6,
+      "text": "舀两勺热汤慢慢淋进蛋液，边淋边快速搅匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "这叫回温，蛋液才不会被烫成蛋花。",
+      "visual_cue": "蛋液变温热，质地顺滑无颗粒"
+    },
+    {
+      "n": 7,
+      "text": "把回温的蛋液慢慢倒回汤锅，边倒边轻轻搅动。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "锅别烧开，一开蛋花就成絮。细节决定成败。",
+      "visual_cue": "汤体微稠，蛋液均匀融入"
+    },
+    {
+      "n": 8,
+      "text": "小火加热三分钟，汤变稠就关火，别让它沸腾。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "看到汤挂勺马上关火，再热就分层。",
+      "visual_cue": "汤稠得能挂勺，表面细滑"
+    },
+    {
+      "n": 9,
+      "text": "加入鸡肉丝、盐与黑胡椒，淋橄榄油拌匀。手上别停以免粘锅。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "鸡肉最后放，才不散不老。这一步别省。",
+      "visual_cue": "鸡肉丝分布均匀，汤色奶黄"
+    },
+    {
+      "n": 10,
+      "text": "盛碗后再挤几滴柠檬汁，趁热上桌。过程中注意火候变化。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "上桌现挤，酸香才鲜活。顺序别颠倒。",
+      "visual_cue": "汤面浮着油花，酸香扑鼻"
+    }
+  ],
+  "tips": [
+    "蛋液回温这一步不能省，直接倒进热汤会结块。",
+    "汤千万不能煮沸，一沸蛋花就散成絮。",
+    "柠檬汁现挤现用，香气才不流失。",
+    "大米煮到开花，汤自然就稠了。火候要盯住。"
+  ],
+  "common_mistakes": [
+    "蛋液没回温直接倒锅，整锅变成蛋花汤。",
+    "汤烧开了才关火，蛋奶层分离出水。",
+    "柠檬汁加太多，酸得盖住鸡汤味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "300 克:300 克",
+      "note": "更瘦，煮的时间要缩短。"
+    },
+    {
+      "original": "大米",
+      "substitute": "意面米粒面",
+      "ratio": "120 克:100 克",
+      "note": "口感更弹，煮八分钟即可。"
+    }
+  ],
+  "variations": [
+    "加一小把菠菜同煮，颜色更绿。多练两次就熟。",
+    "用鱼汤代替鸡汤，鲜味更清。细节决定成败。"
+  ],
+  "serving_suggestion": "盛在温过的碗里，撒黑胡椒，配一块面包和几颗橄榄，是希腊复活节的传统吃法。",
+  "storage": "冷藏一天，复热时小火加热并不断搅拌，别煮沸。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 320,
+    "protein_g": 22,
+    "fat_g": 12,
+    "carbs_g": 32,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋，须加热至蛋液完全熟化但不要沸腾；汤品冷藏不超过一天，复热须滚透后稍晾。"
+  ],
+  "origin_note": "希腊家家会做的柠檬蛋汤，鸡汤煮米后把柠檬蛋液回温再倒回锅里，火候一过就分层，做好时浓稠微酸，暖胃又醒神。",
+  "tags": [
+    "希腊",
+    "汤",
+    "鸡蛋",
+    "柠檬"
+  ],
+  "related_ids": [
+    "greek-loukoumades",
+    "greek-souvlaki",
+    "greek-moussaka"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

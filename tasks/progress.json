@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:04:44.832Z",
+  "generatedAt": "2026-11-21T12:10:07.728Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 576,
+    "cells": 581,
     "target": 3274,
-    "actual": 1039,
-    "coverage": 0.3173488087965791
+    "actual": 1049,
+    "coverage": 0.3204031765424557
   },
   "regions": {
     "cn": [
@@ -3685,7 +3685,7 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
@@ -3720,8 +3720,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "filipino-leche-flan"
+            ]
           },
           {
             "category": "snack",
@@ -4277,7 +4279,7 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 13,
         "cells": [
           {
             "category": "appetizer",
@@ -4342,6 +4344,24 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "greek-avgolemono"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "greek-avgolemono"
+            ]
           },
           {
             "category": "snack",
@@ -4542,7 +4562,7 @@
         "en": "British",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
@@ -4569,9 +4589,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "british-bread-butter-pudding"
+              "british-bread-butter-pudding",
+              "british-strawberry-trifle"
             ]
           },
           {
@@ -5258,7 +5279,7 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 7,
+        "actual": 9,
         "cells": [
           {
             "category": "main-seafood",
@@ -5275,10 +5296,11 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "cajun-dirty-rice",
               "cajun-jambalaya",
+              "cajun-red-beans-and-rice",
               "cajun-shrimp-etouffee"
             ]
           },
@@ -5304,6 +5326,15 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "cajun-red-beans-and-rice"
+            ]
           }
         ]
       },
@@ -5915,7 +5946,7 @@
         "en": "East African",
         "tier": "C",
         "target": 25,
-        "actual": 9,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
@@ -5931,8 +5962,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "east-african-chapati"
+            ]
           },
           {
             "category": "soup",
@@ -5959,6 +5992,15 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "east-african-chapati"
+            ]
           },
           {
             "category": "cold-dish",
@@ -6082,7 +6124,7 @@
         "en": "Australian-NZ",
         "tier": "C",
         "target": 25,
-        "actual": 10,
+        "actual": 12,
         "cells": [
           {
             "category": "main-seafood",
@@ -6109,9 +6151,10 @@
             "category": "breakfast",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "australian-avocado-toast"
+              "australian-avocado-toast",
+              "australian-pumpkin-soup"
             ]
           },
           {
@@ -6147,6 +6190,15 @@
             "actual": 1,
             "ids": [
               "australian-meat-pie"
+            ]
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "australian-pumpkin-soup"
             ]
           }
         ]

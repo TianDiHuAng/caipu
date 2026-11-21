@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cajun-red-beans-and-rice",
+  "name": {
+    "zh": "卡真红豆饭",
+    "en": "Cajun Red Beans and Rice",
+    "original": "Red Beans and Rice"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "cajun"
+  },
+  "category": [
+    "staple-rice",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 85,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "红豆",
+          "name_en": "adzuki bean",
+          "amount": 300,
+          "unit": "g",
+          "note": "提前泡发",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮豆",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "汤锅",
+    "木勺",
+    "滤篮"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "红豆提前用清水泡八小时，泡到捏一下能压扁。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "泡够时间，煮的时候才省火又粉。",
+      "visual_cue": "豆子胀大，表皮微微起皱"
+    },
+    {
+      "n": 2,
+      "text": "泡好的红豆沥干，挑掉浮在水面的坏豆。动作要快别拖延。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "坏豆会带苦味，挑干净更保险。这一步别省。",
+      "visual_cue": "豆子干净整齐，水面无浮豆"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅中火下橄榄油，放培根丁煸到出油微焦。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "培根煸出油，整锅的底味就有了。",
+      "visual_cue": "培根卷曲金黄，锅底一层油"
+    },
+    {
+      "n": 4,
+      "text": "加入洋葱丁炒五分钟到透明，再下蒜末炒香。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒透，汤的甜味才厚。顺序别颠倒。",
+      "visual_cue": "洋葱透明发软，蒜香扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "放番茄块与辣椒粉，翻炒三分钟炒出红油。随时观察锅里的状态。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "炒出红油，颜色和辣味才够。火候要盯住。",
+      "visual_cue": "番茄化成糊，锅里泛红"
+    },
+    {
+      "n": 6,
+      "text": "倒入红豆与清水，大火烧开后转小火盖盖煮四十分钟。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "水要没过豆子两指，中途别开盖。",
+      "visual_cue": "豆汤翻滚，豆子开始变软"
+    },
+    {
+      "n": 7,
+      "text": "开盖用木勺背压一部分豆子，让汤变得浓稠。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "压一部分豆，汤汁才有自然的浓度。",
+      "visual_cue": "汤变浓稠，豆子一半成泥"
+    },
+    {
+      "n": 8,
+      "text": "加盐与黑胡椒调味，小火再煮十分钟收浓。翻动要轻别弄碎。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "盐最后加，豆子才容易煮软。多练两次就熟。",
+      "visual_cue": "汤汁挂勺，豆香浓郁"
+    },
+    {
+      "n": 9,
+      "text": "另起锅把大米煮成干爽的米饭，盛出装碗。手上别停以免粘锅。",
+      "time_min": 18,
+      "heat": "中火",
+      "tip": "饭要粒粒分明，配浓豆汤才不糊。",
+      "visual_cue": "米饭松散，颗粒分明"
+    },
+    {
+      "n": 10,
+      "text": "把红豆连汤浇在米饭上，撒少许辣椒粉即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "浇满一圈，让饭吸到豆汤。细节决定成败。",
+      "visual_cue": "红汤漫过饭面，颜色分明"
+    }
+  ],
+  "tips": [
+    "红豆提前泡一夜，煮四十分钟就能软。",
+    "培根先煸出油，底味才香得扎实。",
+    "压一部分豆子，汤汁自然变浓不用勾芡。",
+    "盐最后加，豆皮才容易煮开。这一步别省。"
+  ],
+  "common_mistakes": [
+    "豆子没泡直接煮，煮一小时还硬。",
+    "盐水一起下锅，豆皮缩紧煮不烂。",
+    "汤收得太干，浇在饭上就成干豆饭了。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "熏肉",
+      "ratio": "120 克:120 克",
+      "note": "咸味更重，盐要减量。"
+    },
+    {
+      "original": "红豆",
+      "substitute": "芸豆",
+      "ratio": "300 克:300 克",
+      "note": "口感更绵，煮的时间相近。"
+    }
+  ],
+  "variations": [
+    "加一根熏肠同煮，风味更足。顺序别颠倒。",
+    "出锅前撒一把葱末，颜色更清爽。"
+  ],
+  "serving_suggestion": "大碗装米饭，浇上滚烫的红豆汤，旁边配一片玉米面包，是新奥尔良周一的固定午餐。",
+  "storage": "冷藏三天，冷冻可放两个月，复热时加少量清水。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 560,
+    "protein_g": 22,
+    "fat_g": 14,
+    "carbs_g": 86,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "红豆须彻底煮至软烂熟透，未煮熟的豆类不宜食用；剩菜冷藏不超过三天并须彻底复热。"
+  ],
+  "origin_note": "新奥尔良的周一传统菜，周日剩下的培根和豆子加水慢慢炖，炖到汤汁浓厚浇在白饭上，便宜管饱，如今成了卡真菜的招牌。",
+  "tags": [
+    "卡真",
+    "主食",
+    "红豆",
+    "米饭"
+  ],
+  "related_ids": [
+    "cajun-jambalaya",
+    "cajun-dirty-rice",
+    "cajun-chicken-stew"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
