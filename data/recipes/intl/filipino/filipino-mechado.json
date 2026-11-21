@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "filipino-mechado",
+  "name": {
+    "zh": "菲律宾牛肉末土豆",
+    "en": "Mechado-Style Beef Hash",
+    "original": "Mechado"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "filipino"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 600,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "上色调味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煎土豆用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆切成三厘米滚刀块，用清水冲掉表面的粉质。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冲掉粉质，煎的时候不容易粘锅。",
+      "visual_cue": "土豆块表面清爽，水变清"
+    },
+    {
+      "n": 2,
+      "text": "炖锅倒植物油，中火把土豆块煎到四面金黄后盛出。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "土豆先煎定型，后面炖才不会散。",
+      "visual_cue": "土豆边缘金黄，筷子能扎透"
+    },
+    {
+      "n": 3,
+      "text": "用锅里剩的油炒洋葱丁与蒜末，中火炒出香味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒到透明，甜味才出来。",
+      "visual_cue": "洋葱变软透明，香气散开"
+    },
+    {
+      "n": 4,
+      "text": "下牛肉末大火翻炒，用锅铲压散炒到颗粒分明。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "牛肉末要炒散，结块口感差。",
+      "visual_cue": "肉末松散出油，颜色转深"
+    },
+    {
+      "n": 5,
+      "text": "倒入生抽炒匀，让肉末均匀上色并带出酱香。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "生抽沿锅边淋，焦香更明显。",
+      "visual_cue": "肉末呈深棕色，锅里有酱香"
+    },
+    {
+      "n": 6,
+      "text": "加番茄块炒五分钟，炒到番茄塌软释放出汁水。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄炒透，汤汁才有自然酸甜。",
+      "visual_cue": "番茄软烂，锅里出现红色汤汁"
+    },
+    {
+      "n": 7,
+      "text": "放回土豆块，加一百五十毫升热水，盖盖小火炖二十分钟。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "水别多，成品要收成半干的酱汁。",
+      "visual_cue": "土豆吸饱汤汁，边角变钝"
+    },
+    {
+      "n": 8,
+      "text": "加盐与黑胡椒调味，挤入青柠汁翻匀后关火。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "青柠汁关火前加，酸香才不挥发。",
+      "visual_cue": "酱汁浓稠挂勺，酸香扑鼻"
+    },
+    {
+      "n": 9,
+      "text": "盛盘后配上米饭一起上桌，趁热食用风味最好。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "配米饭最能吃出酸咸的层次。",
+      "visual_cue": "肉末油亮，土豆块完整"
+    }
+  ],
+  "tips": [
+    "土豆先煎后炖，口感外糯内实不散块。",
+    "牛肉末要大火炒散，颗粒分明才好吃。",
+    "青柠汁最后加，酸味清爽不发闷。"
+  ],
+  "common_mistakes": [
+    "牛肉末小火慢炒，炒出来一坨一坨的。",
+    "水加得太多，最后炖成一锅稀汤水。",
+    "不放青柠汁，整道菜只有咸味没有层次。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "猪肉末",
+      "ratio": "600 克:600 克",
+      "note": "脂肪更多，油量可减一半。"
+    },
+    {
+      "original": "青柠",
+      "substitute": "白醋",
+      "ratio": "30 克:15 毫升",
+      "note": "酸味更直，用量减半。"
+    }
+  ],
+  "variations": [
+    "加一勺番茄膏，颜色和酸甜味都更浓。",
+    "喜欢辣味的可以加两根干辣椒同炖。"
+  ],
+  "serving_suggestion": "配米饭一起上桌，旁边放一小碟醋汁蘸食。",
+  "storage": "冷藏三天、冷冻一个月，复热加少量热水。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 480,
+    "protein_g": 31,
+    "fat_g": 28,
+    "carbs_g": 26,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉末须彻底加热炒熟，中心温度达到七十一度以上；热油煎土豆时避免水分溅油烫伤。"
+  ],
+  "origin_note": "菲律宾家常炖菜，原版用整块牛肉，家常做法改成肉末更快入味。土豆和番茄吸饱酱汁，酸咸下饭，配米饭一盘不够。",
+  "tags": [
+    "菲律宾",
+    "家常",
+    "牛肉",
+    "土豆"
+  ],
+  "related_ids": [
+    "filipino-chicken-adobo",
+    "filipino-kare-kare"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

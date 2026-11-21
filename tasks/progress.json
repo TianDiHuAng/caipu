@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:52:47.323Z",
+  "generatedAt": "2026-11-21T08:05:24.764Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 560,
     "target": 3274,
-    "actual": 893,
-    "coverage": 0.2727550397067807
+    "actual": 899,
+    "coverage": 0.27458766035430665
   },
   "regions": {
     "cn": [
@@ -3303,7 +3303,7 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "staple-rice",
@@ -3327,8 +3327,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "indonesian-soto-ayam"
+            ]
           },
           {
             "category": "snack",
@@ -3384,7 +3386,7 @@
         "en": "Malaysian",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "staple-noodle",
@@ -3399,8 +3401,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "malaysian-sambal-udang"
+            ]
           },
           {
             "category": "soup",
@@ -3559,15 +3563,16 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "filipino-kare-kare",
+              "filipino-mechado",
               "filipino-sinigang"
             ]
           },
@@ -4936,15 +4941,16 @@
         "en": "Tex-Mex",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "tex-mex-beef-fajitas"
+              "tex-mex-beef-fajitas",
+              "tex-mex-chicken-enchiladas"
             ]
           },
           {
@@ -5463,7 +5469,7 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "soup",
@@ -5479,8 +5485,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "north-african-zaalouk"
+            ]
           },
           {
             "category": "staple-bread",
@@ -5543,7 +5551,7 @@
         "en": "West African",
         "tier": "C",
         "target": 25,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "staple-rice",
@@ -5577,8 +5585,9 @@
             "category": "snack",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "west-african-kelewele",
               "west-african-suya"
             ]
           },

@@ -1,0 +1,313 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indonesian-soto-ayam",
+  "name": {
+    "zh": "印尼鸡汤",
+    "en": "Soto Ayam",
+    "original": "Soto Ayam"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indonesian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 50,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "fragrant",
+    "savory",
+    "light",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "带骨整块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 150,
+          "unit": "ml",
+          "note": "最后加入",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片拍松",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍扁切段",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "烫熟配菜",
+          "optional": false
+        },
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 150,
+          "unit": "g",
+          "note": "泡软",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "煮熟切半",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒香料",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉洗净放入汤锅，加一千二百毫升清水大火煮开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才会慢慢浮出。",
+      "visual_cue": "水面浮起灰白浮沫"
+    },
+    {
+      "n": 2,
+      "text": "撇掉浮沫后转小火，加姜片煮二十五分钟至肉熟。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "小火保持微滚，汤才清不浑。",
+      "visual_cue": "鸡肉能用筷子轻松扎透"
+    },
+    {
+      "n": 3,
+      "text": "捞出鸡腿放凉，撕成粗丝，鸡汤过滤后留用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "撕比切更容易挂住汤汁。",
+      "visual_cue": "鸡丝粗细均匀，汤色清亮"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油，中火炒洋葱丝、蒜末与姜黄一分钟。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "姜黄容易焦，火别大。",
+      "visual_cue": "洋葱变软，油色转金黄"
+    },
+    {
+      "n": 5,
+      "text": "把炒好的香料连同南姜、香茅一起倒回鸡汤锅里。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "香料装纱袋更好捞，省得喝汤费劲。",
+      "visual_cue": "汤面浮一层金色油花"
+    },
+    {
+      "n": 6,
+      "text": "中火煮十分钟让香料味融进汤里，再补盐调味即可。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "煮到香气冲鼻就够了，久煮会发苦。",
+      "visual_cue": "汤色金黄，香气浓郁"
+    },
+    {
+      "n": 7,
+      "text": "倒入椰奶搅匀，小火加热到微微冒泡即可关火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "椰奶别大火滚，会油水分离。",
+      "visual_cue": "汤色乳黄，表面细滑"
+    },
+    {
+      "n": 8,
+      "text": "米粉用热水泡软，豆芽焯十秒，鸡蛋煮熟切半。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "豆芽只烫十秒，脆感才留住。",
+      "visual_cue": "米粉变软可绕指，豆芽翠白"
+    },
+    {
+      "n": 9,
+      "text": "碗里放米粉、豆芽与鸡丝，浇上滚烫的金汤。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汤要够烫，浇下去才把香气逼出来。",
+      "visual_cue": "碗里层次分明，汤面冒热气"
+    },
+    {
+      "n": 10,
+      "text": "摆上半个鸡蛋，撒香菜，挤青柠汁后趁热食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "青柠汁最后挤，酸香最鲜活。",
+      "visual_cue": "汤色金黄，配菜齐全"
+    }
+  ],
+  "tips": [
+    "鸡腿冷水下锅，撇净浮沫汤才清亮。",
+    "椰奶最后小火加热，滚沸会分离出水。",
+    "香料煮十分钟足够，久煮会带苦味。"
+  ],
+  "common_mistakes": [
+    "鸡肉大火猛煮，撕出来又干又柴。",
+    "椰奶大火煮开，表面浮起一层油花。",
+    "香料煮太久，汤里带一股药苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600 克:550 克",
+      "note": "煮制时间减到十八分钟。"
+    },
+    {
+      "original": "米粉",
+      "substitute": "挂面",
+      "ratio": "150 克:150 克",
+      "note": "煮三分钟即可，别泡太久。"
+    }
+  ],
+  "variations": [
+    "喜欢辣的加一勺辣椒酱，汤更冲。",
+    "用鸡汤配米饭，就是印尼常见的汤饭。"
+  ],
+  "serving_suggestion": "单碗汤粉配米饭，旁边放辣酱和青柠角。",
+  "storage": "汤与粉分开冷藏两天，复热汤再浇粉。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 470,
+    "protein_g": 34,
+    "fat_g": 22,
+    "carbs_g": 34,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底煮熟，中心温度达到七十四度以上；鸡蛋须煮至全熟，汤品冷藏后复热须煮至滚开。"
+  ],
+  "origin_note": "印尼街头最普通的汤，姜黄和香茅熬出金黄的汤底，最后用椰奶收一下。浇在米粉和豆芽上，配半个鸡蛋，早餐到宵夜都能吃到。",
+  "tags": [
+    "印尼",
+    "汤",
+    "鸡汤",
+    "椰奶"
+  ],
+  "related_ids": [
+    "indonesian-nasi-goreng",
+    "indonesian-sate-ayam"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

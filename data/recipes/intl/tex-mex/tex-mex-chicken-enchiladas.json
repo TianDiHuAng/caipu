@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tex-mex-chicken-enchiladas",
+  "name": {
+    "zh": "德州墨西哥辣酱鸡肉卷饼",
+    "en": "Chicken Enchiladas",
+    "original": "Enchiladas"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "tex-mex"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 50,
+    "total_min": 90
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "煮熟撕丝",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 8,
+          "unit": "piece",
+          "note": "直径十五厘米",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "做酱用",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "去籽泡软",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "增辣增色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 150,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 100,
+          "unit": "g",
+          "note": "上桌配食",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒酱与刷盘",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "平底锅",
+    "锅铲",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉冷水下锅，加盐煮二十分钟到能用筷子扎透。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "煮鸡肉的汤留着，调酱时可以兑一点。",
+      "visual_cue": "鸡肉扎透无血水，汤色清"
+    },
+    {
+      "n": 2,
+      "text": "捞出鸡肉稍放凉，用手撕成粗细均匀的鸡丝备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "撕的比切的更容易吸酱。",
+      "visual_cue": "鸡丝蓬松，粗细一致"
+    },
+    {
+      "n": 3,
+      "text": "干辣椒泡软去籽，与番茄、大蒜一起打成红色酱汁。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "打得细一点，酱汁才顺滑。",
+      "visual_cue": "酱汁深红浓稠，无大颗粒"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒植物油，中火炒洋葱丁三分半到透明。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒甜，酱汁才不会只有辣。",
+      "visual_cue": "洋葱透明发软，香气散出"
+    },
+    {
+      "n": 5,
+      "text": "倒入红色酱汁与辣椒粉、孜然，小火煮八分钟收浓。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "小火慢煮，辣味才融合不发冲。",
+      "visual_cue": "酱汁浓稠挂勺，颜色深红"
+    },
+    {
+      "n": 6,
+      "text": "盛出三分之一酱汁拌入鸡丝，加少量盐拌匀成馅。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "馅要有酱才不干，别拌太湿。",
+      "visual_cue": "鸡丝均匀裹上红酱"
+    },
+    {
+      "n": 7,
+      "text": "玉米饼两面在干锅上各烙十秒，烙软后更好卷。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "不烙一下直接卷会裂开。",
+      "visual_cue": "饼皮变软，边缘微焦"
+    },
+    {
+      "n": 8,
+      "text": "烤盘底铺一层酱汁，每张饼放鸡丝馅卷起，接口朝下排好。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "接口朝下压住，烤时不会散开。",
+      "visual_cue": "八个卷饼排列整齐"
+    },
+    {
+      "n": 9,
+      "text": "烤盘底部先铺一层酱汁，每张饼放馅卷起，接口朝下排好。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "奶酪要盖满，烤后才有拉丝。",
+      "visual_cue": "表面被奶酪完全覆盖"
+    },
+    {
+      "n": 10,
+      "text": "烤箱一百八十度烤二十分钟，揭锡纸再烤五分钟上色。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "最后五分钟让奶酪起泡上色。",
+      "visual_cue": "奶酪融化微焦，酱汁冒泡"
+    },
+    {
+      "n": 11,
+      "text": "出炉后撒上香菜碎，配一勺酸奶一起上桌食用。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "酸奶能压辣，也让口感更清爽。",
+      "visual_cue": "表面金黄，切开层次分明"
+    }
+  ],
+  "tips": [
+    "玉米饼先烙软，卷的时候才不会裂。",
+    "酱汁收浓一点，烤出来不会水汪汪。",
+    "奶酪分两层撒，中间和表面各一层更拉丝。"
+  ],
+  "common_mistakes": [
+    "玉米饼不先烙就卷，一折就裂成两半。",
+    "酱汁收得太稀，烤完盘底积一汪水。",
+    "烤太久不盖锡纸，奶酪焦成黑壳。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600 克:550 克",
+      "note": "煮制时间减到十五分钟。"
+    },
+    {
+      "original": "玉米饼",
+      "substitute": "面粉薄饼",
+      "ratio": "8 张:8 张",
+      "note": "更柔软，不易裂但少了玉米香。"
+    }
+  ],
+  "variations": [
+    "馅里加一把玉米粒，口感更甜也更饱满。",
+    "淋一勺辣酱再烤，辣度更上一层。"
+  ],
+  "serving_suggestion": "配酸奶、香菜和一份简单的蔬菜沙拉。",
+  "storage": "冷藏三天、冷冻一个月，复热盖锡纸烤十五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 330 克",
+    "calories_kcal": 520,
+    "protein_g": 40,
+    "fat_g": 26,
+    "carbs_g": 32,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底煮熟，中心温度达到七十四度以上；烤箱与烤盘高温，取放必须戴隔热手套。"
+  ],
+  "origin_note": "德州墨西哥餐馆的招牌，红酱用干辣椒和番茄熬成，鸡丝裹在里面进烤箱。表面一层融化奶酪，切开拉丝，配一勺酸奶压辣。",
+  "tags": [
+    "德州墨西哥",
+    "烤制",
+    "鸡肉",
+    "奶酪"
+  ],
+  "related_ids": [
+    "tex-mex-beef-fajitas",
+    "tex-mex-queso"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
