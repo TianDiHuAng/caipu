@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-bbq-ribs",
+  "name": {
+    "zh": "美式烤肋排",
+    "en": "American Barbecue Pork Ribs",
+    "original": "BBQ Ribs"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 120,
+    "total_min": 145
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sweet",
+    "tangy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 1200,
+          "unit": "g",
+          "note": "整排",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 120,
+          "unit": "ml",
+          "note": "刷面",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 40,
+          "unit": "g",
+          "note": "增亮",
+          "optional": false
+        },
+        {
+          "name": "黄芥末",
+          "name_en": "yellow mustard",
+          "amount": 30,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 5,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "腌渍",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "锡纸",
+    "刷子",
+    "烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "肋排冲洗后擦干，撕去背面的白色筋膜，切去多余油脂。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "那层筋膜不撕，烤好咬着发韧。",
+      "visual_cue": "排骨背面泛白，摸上去干爽"
+    },
+    {
+      "n": 2,
+      "text": "肋排两面均匀抹盐与黑胡椒，按摩两分钟入味。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盐要提前抹，肉里才有底味。",
+      "visual_cue": "表面泛着细盐粒，微微发亮"
+    },
+    {
+      "n": 3,
+      "text": "用锡纸把肋排整个包严，接缝朝上防止漏汁。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "包严才不会烤干，肉汁全锁在里面。",
+      "visual_cue": "锡纸包成扁平一包，无破口"
+    },
+    {
+      "n": 4,
+      "text": "烤箱预热到一百六十度，肋排放中层烤九十分钟。",
+      "time_min": 90,
+      "heat": "中小火",
+      "tip": "低温慢烤，肉才软而不散。",
+      "visual_cue": "锡纸鼓起，烤箱里飘出肉香"
+    },
+    {
+      "n": 5,
+      "text": "拆开锡纸，倒出烤盘里的肉汁，留两勺备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "肉汁别倒光，调酱用得上。",
+      "visual_cue": "锡纸里积着浅褐色清汤"
+    },
+    {
+      "n": 6,
+      "text": "番茄酱、蜂蜜、黄芥末、蒜末与辣椒粉调成刷酱。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱先调匀，刷出来颜色才一致。",
+      "visual_cue": "酱体浓稠，呈深红褐色"
+    },
+    {
+      "n": 7,
+      "text": "把留出的肉汁倒进刷酱里搅匀，尝味后按需补盐。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "肉汁带胶质，酱挂得住排骨。",
+      "visual_cue": "酱汁发亮，闻着甜香带酸"
+    },
+    {
+      "n": 8,
+      "text": "肋排刷满一层酱，回烤箱二百二十度烤八分钟。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "高温上色，糖分容易焦，要盯着。",
+      "visual_cue": "酱层起泡，边缘微焦"
+    },
+    {
+      "n": 9,
+      "text": "取出再刷一层酱，翻面烤五分钟，重复一次。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "分次刷酱，层次才厚，不会一次糊掉。",
+      "visual_cue": "表面红亮油润，焦香明显"
+    },
+    {
+      "n": 10,
+      "text": "出炉后静置十分钟再切分，沿着骨缝切成单根排骨。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置让肉汁回渗，切开不流汤。",
+      "visual_cue": "切面肉汁清亮，骨头易分离"
+    }
+  ],
+  "tips": [
+    "先包锡纸低温烤，再开纸高温刷酱，肉嫩皮亮两不误。",
+    "背面筋膜必须撕掉，否则烤好咬着像橡皮。",
+    "刷酱每次薄薄一层，分三次刷，颜色才红亮不焦。"
+  ],
+  "common_mistakes": [
+    "直接裸烤全程高温，外焦里生，肉还发干。",
+    "酱刷一次刷太厚，糖分烧成黑壳，发苦。",
+    "烤完立刻切，肉汁全流光，吃着柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "辣椒粉",
+      "substitute": "甜椒粉",
+      "ratio": "8 克:10 克",
+      "note": "辣度更低，颜色更红亮。"
+    },
+    {
+      "original": "肋排",
+      "substitute": "排骨",
+      "ratio": "1200 克:1200 克",
+      "note": "块小熟得快，烤制时间减二十分钟。"
+    }
+  ],
+  "variations": [
+    "腌渍时加一勺红糖与苹果醋，酸甜更明显。",
+    "最后撒一把烤香的芝麻，香气更足。"
+  ],
+  "serving_suggestion": "配烤玉米与凉拌卷心菜，就是标准的美国南部烧烤套餐。",
+  "storage": "冷藏三天，复热时包锡纸一百六十度烤十五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 720,
+    "protein_g": 38,
+    "fat_g": 52,
+    "carbs_g": 18,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "肋排须烤至骨缝处不见血水；烤箱高温段取放烤盘需戴隔热手套。"
+  ],
+  "origin_note": "美国南部的烧烤摊把肋排当招牌，低温慢烤让胶原化开，再刷上甜中带酸的番茄酱汁，红亮油润，用手抓着啃，配冰啤酒最痛快。",
+  "tags": [
+    "美式",
+    "烧烤",
+    "肋排",
+    "烤箱"
+  ],
+  "related_ids": [
+    "american-pot-roast",
+    "buffalo-wings",
+    "hamburger"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

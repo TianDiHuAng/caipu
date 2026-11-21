@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huizhou-yao-tang",
+  "name": {
+    "zh": "徽州老鸭汤",
+    "en": "Huizhou Old Duck Soup with Bamboo Shoots",
+    "original": "老鸭笋汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 150,
+    "total_min": 170
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "light",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸭",
+          "name_en": "duck",
+          "amount": 1200,
+          "unit": "g",
+          "note": "剁块",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 60,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "note": "炖汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "漏勺",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸭剁成四厘米见方的块，去掉尾部与多余脂肪，冲洗干净。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "尾部油脂腺不除，汤会有腥臊味。",
+      "visual_cue": "鸭块皮色白净，无血水渗出"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，鸭块加料酒与一半姜片，大火煮开焯六分钟。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅，血水才能慢慢逼出来。",
+      "visual_cue": "水面浮起厚厚一层灰褐色泡沫"
+    },
+    {
+      "n": 3,
+      "text": "捞出鸭块用温水冲净浮沫，逐块检查残留的细毛。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "温水冲洗，鸭皮不会骤然收缩发柴。",
+      "visual_cue": "鸭块表面清爽，锅水不再浑浊"
+    },
+    {
+      "n": 4,
+      "text": "笋剥壳切去老根，切成滚刀块，放清水里泡十分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "笋先泡过，涩味和土气能去掉大半。",
+      "visual_cue": "笋块断面泛白，泡水微浑"
+    },
+    {
+      "n": 5,
+      "text": "砂锅注入清水，放入鸭块、火腿片与姜片，大火烧开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水量一次加足，中途加水汤味会变薄。",
+      "visual_cue": "汤面翻滚，浮沫重新聚集"
+    },
+    {
+      "n": 6,
+      "text": "撇净表面的浮沫后转小火，加盖慢炖一个小时。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "小火保持微沸，汤才清而浓。",
+      "visual_cue": "汤面偶有细泡，香气渐出"
+    },
+    {
+      "n": 7,
+      "text": "下入笋块，继续小火炖四十分钟至鸭肉软烂。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "笋后放，久炖会散掉形状与清香。",
+      "visual_cue": "笋块由白转半透明，鸭肉用筷可戳穿"
+    },
+    {
+      "n": 8,
+      "text": "加盐调好咸淡，再炖五分钟让咸味彻底融进汤里。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "盐最后放，鸭肉才不紧不柴。",
+      "visual_cue": "汤色清亮微黄，浮着一层薄油"
+    },
+    {
+      "n": 9,
+      "text": "关火撇去表面浮油，盛出前撒少许姜丝增香。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "撇掉浮油，喝着才不腻口。",
+      "visual_cue": "汤面油花稀少，汤体澄澈"
+    },
+    {
+      "n": 10,
+      "text": "盛进汤碗，先喝汤再吃肉，配一小碟酱油蘸鸭块。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "鸭肉本身味淡，蘸着吃更有层次。",
+      "visual_cue": "汤清味鲜，鸭块骨肉易分离"
+    }
+  ],
+  "tips": [
+    "鸭块务必冷水下锅焯透，血沫逼干净汤才清亮不腥。",
+    "笋要后放，炖久了会散形，清香也会跑掉。",
+    "盐最后放，过早下盐鸭肉发紧，炖再久也不烂。"
+  ],
+  "common_mistakes": [
+    "鸭块焯水后直接用冷水冲，鸭皮收缩，炖出来又老又柴。",
+    "全程大火滚炖，汤色发白发浑，鸭肉外烂内硬。",
+    "火腿下手太早且放太多，汤咸得压住了鸭子的鲜。"
+  ],
+  "substitutions": [
+    {
+      "original": "火腿",
+      "substitute": "腊肉",
+      "ratio": "60 克:70 克",
+      "note": "烟熏味更重，盐要相应减少。"
+    },
+    {
+      "original": "笋",
+      "substitute": "笋片",
+      "ratio": "200 克:180 克",
+      "note": "干笋片需提前泡发四小时。"
+    }
+  ],
+  "variations": [
+    "加几片咸肉同炖，汤色更浓，鲜味更沉。",
+    "放一把泡软的笋衣，汤里多一层山野清香。"
+  ],
+  "serving_suggestion": "热汤配米饭，鸭块蘸酱油吃，秋冬最养人。",
+  "storage": "冷藏三天，复热时撇去浮油，汤味更醇。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 380,
+    "protein_g": 32,
+    "fat_g": 24,
+    "carbs_g": 6,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸭肉须炖至完全熟透，骨腔无血水；汤面浮油较多，血脂偏高者适量饮用。"
+  ],
+  "origin_note": "徽州人炖老鸭，讲究一鸭一笋一火腿。砂锅小火慢慢煨上两个钟头，汤清得能照见碗底，鲜味却厚，山里人用它补身子，也用它待远客。",
+  "tags": [
+    "徽菜",
+    "汤品",
+    "老鸭",
+    "砂锅"
+  ],
+  "related_ids": [
+    "huizhou-huotui-tang",
+    "wenzheng-shansun-tang",
+    "huotui-shao-sun"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

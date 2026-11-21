@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:58:18.039Z",
+  "generatedAt": "2026-11-21T11:15:27.079Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 569,
     "target": 3274,
-    "actual": 986,
-    "coverage": 0.3011606597434331
+    "actual": 994,
+    "coverage": 0.3036041539401344
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 61,
+        "actual": 65,
         "cells": [
           {
             "category": "main-meat",
@@ -48,11 +48,12 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "gongbao-jiding",
               "koushui-ji",
               "lazi-ji",
+              "sichuan-xuehua-jinao",
               "xiaojian-ji"
             ]
           },
@@ -60,11 +61,12 @@
             "category": "main-tofu",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "hongshao-doufu",
               "jiachang-doufu",
               "mapo-doufu",
+              "sichuan-douhua",
               "xiongzhang-doufu"
             ]
           },
@@ -72,12 +74,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "chuangwei-hongyou-jisi",
               "fuqi-feipian",
               "liangban-fuzhu",
-              "sichuan-mala-niurougan"
+              "sichuan-mala-niurougan",
+              "sichuan-paojiao-fengzhua"
             ]
           },
           {
@@ -157,11 +160,12 @@
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "chuanbei-liangfen",
               "liangban-fuzhu",
               "sichuan-liangmian",
+              "sichuan-paojiao-fengzhua",
               "suan-ni-bai-rou"
             ]
           },
@@ -1132,7 +1136,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 25,
+        "actual": 28,
         "cells": [
           {
             "category": "main-meat",
@@ -1162,10 +1166,11 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "huainan-niurou-tang",
               "huizhou-huotui-tang",
+              "huizhou-yao-tang",
               "wenzheng-shansun-tang"
             ]
           },
@@ -1173,11 +1178,12 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "anhui-lajiaohu",
               "huizhou-laba-doufu",
-              "huizhou-maodoufu"
+              "huizhou-maodoufu",
+              "huizhou-xuelihong"
             ]
           },
           {
@@ -1233,6 +1239,16 @@
             ]
           },
           {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "huizhou-daobanxiang",
+              "huizhou-xuelihong"
+            ]
+          },
+          {
             "category": "main-seafood",
             "kind": "extra",
             "target": 0,
@@ -1257,15 +1273,6 @@
             "actual": 1,
             "ids": [
               "huizhou-baolu-guo"
-            ]
-          },
-          {
-            "category": "appetizer",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "huizhou-daobanxiang"
             ]
           }
         ]
@@ -4870,14 +4877,15 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 24,
+        "actual": 25,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "american-bbq-ribs",
               "american-pot-roast",
               "hamburger",
               "meatloaf"
