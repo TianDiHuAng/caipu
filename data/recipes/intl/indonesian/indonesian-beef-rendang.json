@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indonesian-beef-rendang",
+  "name": {
+    "zh": "印尼仁当牛肉",
+    "en": "Beef Rendang",
+    "original": "Rendang"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indonesian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 120,
+    "total_min": 150
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 900,
+          "unit": "g",
+          "note": "牛腩切四厘米块",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 600,
+          "unit": "ml",
+          "note": "浓椰奶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "去皮",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 5,
+          "unit": "g",
+          "note": "磨成粉",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 30,
+          "unit": "g",
+          "note": "取白色根部",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "磨成粉",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "烘香磨粉",
+          "optional": false
+        },
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 20,
+          "unit": "g",
+          "note": "取果肉化水",
+          "optional": false
+        },
+        {
+          "name": "椰蓉",
+          "name_en": "desiccated coconut",
+          "amount": 60,
+          "unit": "g",
+          "note": "干锅炒至深褐",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炖锅",
+    "料理机",
+    "刀",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干辣椒温水泡软，洋葱、大蒜、姜与香茅白色根部切小块。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "香茅只用白色根部，绿色部分纤维太粗。",
+      "visual_cue": "辣椒软化，配料切块均匀"
+    },
+    {
+      "n": 2,
+      "text": "所有香料配料连同姜黄、孜然与香菜籽粉放进料理机，加少量水打成细腻酱糊。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "酱糊要打到看不见颗粒，煮时才不会糊底。",
+      "visual_cue": "酱体橙黄细腻，无明显颗粒"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅下植物油，小火炒香料糊八分钟至出油、颜色加深。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "炒香料糊必须小火慢炒，火大会立刻发苦。",
+      "visual_cue": "油分析出，酱色转深橙红"
+    },
+    {
+      "n": 4,
+      "text": "放入牛肉块翻炒到表面变色，每一块都裹满香料糊。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "牛肉先裹香料再下椰奶，味道才进得去。",
+      "visual_cue": "肉块表面不再泛红"
+    },
+    {
+      "n": 5,
+      "text": "倒入椰奶与罗望子水，煮开后转最小火慢炖一小时。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "全程保持微沸冒小泡，滚太猛椰奶会分层。",
+      "visual_cue": "液面微沸，油花浮起"
+    },
+    {
+      "n": 6,
+      "text": "干锅把椰蓉炒到深褐色出香，倒进锅里继续炖四十分钟。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "椰蓉炒到深褐是仁当颜色和干香的关键。",
+      "visual_cue": "椰蓉焦褐，汤汁变稠"
+    },
+    {
+      "n": 7,
+      "text": "不断翻动收汁，直到椰奶完全收干、香料裹在肉上呈黑褐色。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "收汁阶段要勤翻，糖分多极易糊底。",
+      "visual_cue": "肉块深褐油亮，锅底干爽"
+    },
+    {
+      "n": 8,
+      "text": "加盐调定味道后关火，静置十分钟再盛盘上桌。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "静置让香料油回落，风味更沉稳。",
+      "visual_cue": "表面油亮，香气浓郁辛甜"
+    }
+  ],
+  "tips": [
+    "全程小火慢炖，火大椰奶会分离出渣。",
+    "椰蓉炒到深褐再下锅，颜色才够地道。",
+    "仁当收汁越干越耐放，可当佐饭小菜。"
+  ],
+  "common_mistakes": [
+    "用大火猛煮，椰奶油水分离，酱汁变成絮状。",
+    "香料糊没炒出油就下椰奶，味道生涩发苦。",
+    "收汁时走开不管，锅底焦糊整锅都带糊味。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "鸡腿肉",
+      "ratio": "900 克:900 克",
+      "note": "炖制时间缩短至四十分钟，更易入味。"
+    },
+    {
+      "original": "椰奶",
+      "substitute": "椰浆",
+      "ratio": "600 毫升:400 毫升",
+      "note": "需加两百毫升水稀释，否则过浓。"
+    }
+  ],
+  "variations": [
+    "加一把土豆块同炖，吸满酱汁后格外香。",
+    "收汁更干做成仁当干咖喱，可冷藏当佐餐小菜。"
+  ],
+  "serving_suggestion": "配白饭或椰浆饭，再来一碟腌黄瓜解辣。",
+  "storage": "冷藏四天、冷冻一个月；复热加两大勺椰奶小火化开，避免干烧。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 720,
+    "protein_g": 40,
+    "fat_g": 54,
+    "carbs_g": 18,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炖至中心完全熟透、能轻松插入叉子，中心温度七十五度以上；炖煮中须保持微沸避免椰奶分层；剩菜两小时内冷藏并彻底复热。"
+  ],
+  "origin_note": "苏门答腊的宴席菜，椰奶和十几种香料慢炖到几乎收干，牛肉被黑褐色的酱料紧紧裹住。传说要炖到汁全干才算好，能放上好几天不坏，是最耐存的一道咖喱。",
+  "tags": [
+    "印尼",
+    "牛肉",
+    "椰奶",
+    "慢炖"
+  ],
+  "related_ids": [
+    "indonesian-nasi-goreng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

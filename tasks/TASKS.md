@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-21T05:51:17.659Z
+> 生成时间：2026-11-21T06:01:04.839Z
 
-**总览**：工程任务 49/53；菜谱内容 802/3274（24.5%），共 547 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 809/3274（24.7%），共 549 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -399,7 +399,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（394/1935）
+### 外国菜系（401/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，37/107</summary>
 
@@ -524,7 +524,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>印尼菜 indonesian</b> — B 级，3/38</summary>
+<details><summary><b>印尼菜 indonesian</b> — B 级，4/38</summary>
 
 - [ ] `P4-indonesian/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
 - [ ] `P4-indonesian/main-poultry` 主菜·禽（Poultry Main）目标 6，已完成 1
@@ -533,6 +533,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-indonesian/dessert` 甜点（Dessert）目标 6，已完成 0
 - [ ] `P4-indonesian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-indonesian/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [x] `P4-indonesian/main-meat` 主菜·肉（Meat Main）目标 0，已完成 1
 - [x] `P4-indonesian/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
 
 </details>
@@ -663,15 +664,16 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>葡萄牙菜 portuguese</b> — B 级，5/38</summary>
+<details><summary><b>葡萄牙菜 portuguese</b> — B 级，7/38</summary>
 
 - [ ] `P4-portuguese/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 2
 - [ ] `P4-portuguese/dessert` 甜点（Dessert）目标 6，已完成 1
-- [ ] `P4-portuguese/main-meat` 主菜·肉（Meat Main）目标 6，已完成 0
+- [ ] `P4-portuguese/main-meat` 主菜·肉（Meat Main）目标 6，已完成 1
 - [ ] `P4-portuguese/soup` 汤羹（Soup）目标 6，已完成 1
 - [ ] `P4-portuguese/bakery` 烘焙面包（Bakery）目标 6，已完成 1
 - [ ] `P4-portuguese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-portuguese/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [x] `P4-portuguese/staple-bread` 主食·饼（Bread Staple）目标 0，已完成 1
 
 </details>
 
@@ -701,19 +703,19 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>爱尔兰菜 irish</b> — C 级，4/25</summary>
+<details><summary><b>爱尔兰菜 irish</b> — C 级，6/25</summary>
 
 - [ ] `P4-irish/main-meat` 主菜·肉（Meat Main）目标 5，已完成 1
-- [ ] `P4-irish/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 0
+- [ ] `P4-irish/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 1
 - [ ] `P4-irish/soup` 汤羹（Soup）目标 5，已完成 1
-- [ ] `P4-irish/breakfast` 早餐（Breakfast）目标 5，已完成 0
+- [ ] `P4-irish/breakfast` 早餐（Breakfast）目标 5，已完成 1
 - [ ] `P4-irish/drink` 饮品（Drink）目标 5，已完成 0
 - [x] `P4-irish/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 0，已完成 1
 - [x] `P4-irish/special-diet` 特殊饮食（Special Diet）目标 0，已完成 1
 
 </details>
 
-<details><summary><b>北欧菜 nordic</b> — B 级，3/38</summary>
+<details><summary><b>北欧菜 nordic</b> — B 级，4/38</summary>
 
 - [ ] `P4-nordic/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 1
 - [ ] `P4-nordic/bakery` 烘焙面包（Bakery）目标 6，已完成 0
@@ -722,8 +724,8 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-nordic/breakfast` 早餐（Breakfast）目标 6，已完成 0
 - [ ] `P4-nordic/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-nordic/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [x] `P4-nordic/main-meat` 主菜·肉（Meat Main）目标 0，已完成 2
 - [x] `P4-nordic/soup` 汤羹（Soup）目标 0，已完成 1
-- [x] `P4-nordic/main-meat` 主菜·肉（Meat Main）目标 0，已完成 1
 
 </details>
 
@@ -822,10 +824,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>秘鲁菜 peruvian</b> — C 级，5/25</summary>
+<details><summary><b>秘鲁菜 peruvian</b> — C 级，6/25</summary>
 
 - [ ] `P4-peruvian/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 1
-- [ ] `P4-peruvian/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 0
+- [ ] `P4-peruvian/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 1
 - [ ] `P4-peruvian/appetizer` 前菜（Appetizer）目标 5，已完成 1
 - [ ] `P4-peruvian/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 1
 - [ ] `P4-peruvian/drink` 饮品（Drink）目标 5，已完成 0

@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "nordic-frikadeller",
+  "name": {
+    "zh": "北欧煎肉丸",
+    "en": "Frikadeller",
+    "original": "Frikadeller"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "nordic"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 500,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "擦细末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "肉豆蔻",
+          "name_en": "nutmeg",
+          "amount": 2,
+          "unit": "g",
+          "note": "磨成粉",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "煮或压泥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "平底锅",
+    "打蛋器",
+    "勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱擦成细末，与猪肉末、鸡蛋、盐、黑胡椒和肉豆蔻放大碗里。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洋葱擦末而非切丁，肉丸才细腻不散。",
+      "visual_cue": "肉馅湿润，洋葱碎细"
+    },
+    {
+      "n": 2,
+      "text": "倒入牛奶与面粉，用打蛋器顺一个方向搅到起胶发黏。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "搅到肉馅能拉丝，煎时才不会散开。",
+      "visual_cue": "肉馅黏稠，挑起能挂住"
+    },
+    {
+      "n": 3,
+      "text": "盖上保鲜膜冷藏二十分钟，让面粉吸水定型。",
+      "time_min": 21,
+      "heat": "无火",
+      "tip": "冷藏后肉馅更好塑形，也不易粘勺。",
+      "visual_cue": "肉馅紧实，表面光滑"
+    },
+    {
+      "n": 4,
+      "text": "平底锅放黄油小火融化，用勺舀一勺肉馅滑入锅中压扁。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "黄油别烧焦，微起白沫就下肉丸。",
+      "visual_cue": "肉丸边缘成型，底面微黄"
+    },
+    {
+      "n": 5,
+      "text": "每面煎四分钟至深金黄，轻压让中心也熟透。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "用勺背轻压能排出血水，也保证中心熟。",
+      "visual_cue": "两面深金黄，按压回弹"
+    },
+    {
+      "n": 6,
+      "text": "煎好后放在厨房纸上吸去余油，静置三分钟。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "静置让肉汁回流，切开才不干。",
+      "visual_cue": "外表干爽，切面湿润"
+    },
+    {
+      "n": 7,
+      "text": "配煮土豆或土豆泥，浇一勺锅中黄油汁上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "锅里的黄油肉汁别浪费，浇在土豆上最香。",
+      "visual_cue": "盘中有汁，颜色金黄"
+    }
+  ],
+  "tips": [
+    "肉馅肥瘦三七最合适，全瘦会柴。",
+    "搅拌要同一方向，肉馅才起胶抱团。",
+    "肉丸别压得太扁，中间留出厚度才够嫩。"
+  ],
+  "common_mistakes": [
+    "肉馅没搅起胶就下锅，煎的时候散成肉末。",
+    "火太大黄油烧焦，肉丸外黑内生。",
+    "肉丸压得太扁，煎完干得像肉饼。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "鸡腿肉末",
+      "ratio": "500 克:500 克",
+      "note": "加十克黄油补脂肪，更清爽。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "40 克:35 毫升",
+      "note": "少了奶香，但更适合高温煎。"
+    }
+  ],
+  "variations": [
+    "加一把切碎的欧芹，颜色和香气都更清新。",
+    "肉丸煮进清汤里，做成北欧式肉丸汤。"
+  ],
+  "serving_suggestion": "配煮土豆、酸黄瓜和一勺棕色肉汁，丹麦人还会配黑麦面包。",
+  "storage": "冷藏三天、冷冻两个月；复热用平底锅小火加一勺水加盖焖五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 640,
+    "protein_g": 34,
+    "fat_g": 42,
+    "carbs_g": 30,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末须煎至中心完全熟透、无粉色，中心温度七十一度以上；肉馅含生鸡蛋，接触后须洗手并清洁器具；剩肉丸两小时内冷藏并彻底复热。"
+  ],
+  "origin_note": "丹麦人餐桌上的常客，比瑞典肉丸更大更扁，用勺舀进平底锅压成椭圆。煎到两面深金黄，配煮土豆和一勺黄油肉汁，是最普通的家常晚餐。",
+  "tags": [
+    "北欧",
+    "猪肉末",
+    "肉丸",
+    "煎"
+  ],
+  "related_ids": [
+    "nordic-swedish-meatballs",
+    "irish-colcannon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

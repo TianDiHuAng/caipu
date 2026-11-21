@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:51:17.582Z",
+  "generatedAt": "2026-11-21T06:01:04.762Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 547,
+    "cells": 549,
     "target": 3274,
-    "actual": 802,
-    "coverage": 0.2449602932193036
+    "actual": 809,
+    "coverage": 0.24709835064141722
   },
   "regions": {
     "cn": [
@@ -3233,7 +3233,7 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "staple-rice",
@@ -3287,6 +3287,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "indonesian-beef-rendang"
+            ]
           },
           {
             "category": "hotpot-bbq",
@@ -4062,7 +4071,7 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 7,
         "cells": [
           {
             "category": "main-seafood",
@@ -4087,8 +4096,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "portuguese-francesinha"
+            ]
           },
           {
             "category": "soup",
@@ -4121,6 +4132,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "portuguese-francesinha"
+            ]
           }
         ]
       },
@@ -4285,7 +4305,7 @@
         "en": "Irish",
         "tier": "C",
         "target": 25,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
@@ -4300,8 +4320,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "irish-soda-bread"
+            ]
           },
           {
             "category": "soup",
@@ -4316,8 +4338,10 @@
             "category": "breakfast",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "irish-soda-bread"
+            ]
           },
           {
             "category": "drink",
@@ -4352,7 +4376,7 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-seafood",
@@ -4406,21 +4430,22 @@
             "ids": []
           },
           {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "nordic-frikadeller",
+              "nordic-swedish-meatballs"
+            ]
+          },
+          {
             "category": "soup",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "nordic-fish-soup"
-            ]
-          },
-          {
-            "category": "main-meat",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "nordic-swedish-meatballs"
             ]
           }
         ]
@@ -5017,7 +5042,7 @@
         "en": "Peruvian",
         "tier": "C",
         "target": 25,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "main-seafood",
@@ -5032,8 +5057,10 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "peruvian-aji-de-gallina"
+            ]
           },
           {
             "category": "appetizer",

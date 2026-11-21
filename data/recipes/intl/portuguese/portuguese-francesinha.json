@@ -1,0 +1,332 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "portuguese-francesinha",
+  "name": {
+    "zh": "葡式辣酱三明治",
+    "en": "Francesinha",
+    "original": "Francesinha"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "portuguese"
+  },
+  "category": [
+    "main-meat",
+    "staple-bread"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 50,
+    "total_min": 75
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 6,
+          "unit": "slice",
+          "note": "厚切白吐司",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 180,
+          "unit": "g",
+          "note": "斜切厚片",
+          "optional": false
+        },
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 300,
+          "unit": "g",
+          "note": "煎熟切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "啤酒",
+          "name_en": "beer",
+          "amount": 200,
+          "unit": "ml",
+          "note": "淡色",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 150,
+          "unit": "g",
+          "note": "打底用",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "增稠用",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒面糊",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 250,
+          "unit": "ml",
+          "note": "煮酱",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚,煎成溏心",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎肉",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切条炸制",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 240,
+          "unit": "ml",
+          "note": "炸薯条",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "烤箱",
+    "炖锅",
+    "打蛋器",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "炒酱：洋葱末与蒜末用一半黄油小火炒到透明。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "黄油别烧焦，微黄就要下洋葱。",
+      "visual_cue": "洋葱透明软塌，香气甜润"
+    },
+    {
+      "n": 2,
+      "text": "撒入面粉不停搅拌炒两分钟，形成浅褐色面糊。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "面糊要炒到不再有干粉的生味，但别炒上色太深。",
+      "visual_cue": "面糊顺滑，无干粉颗粒"
+    },
+    {
+      "n": 3,
+      "text": "分次倒入高汤搅匀，再加啤酒、番茄酱、红椒粉与辣椒粉。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "高汤分批倒，一次倒多会结块。",
+      "visual_cue": "酱体顺滑，颜色橙红"
+    },
+    {
+      "n": 4,
+      "text": "小火煮二十分钟至酱汁能挂勺，加盐调味后关火保温。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "酱汁要浓到能挂住勺子，太稀会泡烂面包。",
+      "visual_cue": "挂勺浓稠，表面泛油光"
+    },
+    {
+      "n": 5,
+      "text": "鸡胸肉切条用橄榄油煎熟，腊肠片小火煎出油脂。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "腊肠煎出油再去皮更香，别煎干。",
+      "visual_cue": "腊肠边缘微卷，鸡肉全白"
+    },
+    {
+      "text": "土豆切成手指粗的条，用植物油一百八十度炸到金黄酥脆。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "薯条炸两遍更脆，第一遍低温定型第二遍高温上色。",
+      "visual_cue": "薯条金黄，表面起小泡",
+      "n": 6
+    },
+    {
+      "n": 7,
+      "text": "面包片入烤箱烤到微脆，每份叠两片面包夹鸡肉与腊肠。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "面包先烤脆，才能扛住辣酱不塌。",
+      "visual_cue": "面包微焦，边缘干脆"
+    },
+    {
+      "n": 8,
+      "text": "整个三明治铺满奶酪片，二百度烤六分钟至奶酪融化。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "奶酪要完全融化盖住表面，像被子一样。",
+      "visual_cue": "奶酪融化起泡，表面金褐"
+    },
+    {
+      "n": 9,
+      "text": "浇上熬好的热辣酱，顶部放一个溏心煎蛋，配薯条上桌。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "酱要趁热浇，冷了会结皮。",
+      "visual_cue": "酱汁漫过奶酪，蛋黄流动"
+    }
+  ],
+  "tips": [
+    "辣酱现做现用，冷藏后会变得更稠。",
+    "面包用厚切白吐司，太软的口感撑不住。",
+    "溏心蛋是标志，煎时只煎底面不用翻。"
+  ],
+  "common_mistakes": [
+    "酱汁煮得太稀，浇上去面包瞬间塌成一坨泥。",
+    "面包没烤就直接夹料，吸水后散架。",
+    "辣酱一次倒太多，辣椒粉苦味盖住所有味道。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "猪里脊",
+      "ratio": "300 克:300 克",
+      "note": "更柔嫩，煎制时间缩短两分钟。"
+    },
+    {
+      "original": "腊肠",
+      "substitute": "培根",
+      "ratio": "180 克:180 克",
+      "note": "油脂更多，酱汁风味更咸香。"
+    }
+  ],
+  "variations": [
+    "加一片火腿或牛排，做成巨型版本。",
+    "把辣酱调稀一点当汤浇，更适合蘸薯条。"
+  ],
+  "serving_suggestion": "配炸薯条和一杯冰啤酒，趁热吃，酱汁会流一盘子。",
+  "storage": "辣酱冷藏三天、冷冻一个月；三明治现做现吃，剩料分开冷藏，复热需重新浇酱。",
+  "nutrition_estimate": {
+    "basis": "每份约 520 克",
+    "calories_kcal": 980,
+    "protein_g": 52,
+    "fat_g": 52,
+    "carbs_g": 74,
+    "sodium_mg": 1620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须煎至中心完全不透明，中心温度七十四度以上；煎蛋须略留溏心时不供孕妇与幼儿；炸薯条油温控制在一百八十度避免溢锅。"
+  ],
+  "origin_note": "波尔图的城市名片，两片烤面包夹鸡肉和腊肠，盖满奶酪烤到融化，再浇上橙红色的辣酱，顶上卧一个溏心蛋。吃的时候配薯条和啤酒，酱汁吃到最后一滴都不剩。",
+  "tags": [
+    "葡萄牙",
+    "三明治",
+    "辣酱",
+    "奶酪"
+  ],
+  "related_ids": [
+    "portuguese-bacalhau-a-bras",
+    "portuguese-grilled-sardines"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
