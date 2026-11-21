@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:31:57.841Z",
+  "generatedAt": "2026-11-21T12:36:19.334Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1071,
-    "coverage": 0.32712278558338426
+    "actual": 1077,
+    "coverage": 0.3289554062309102
   },
   "regions": {
     "cn": [
@@ -3928,7 +3928,7 @@
         "en": "South Asian",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "staple-rice",
@@ -3964,8 +3964,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "south-asian-onion-pakora",
               "south-asian-samosa"
             ]
           },
@@ -4000,16 +4001,17 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "hummus",
-              "middle-eastern-falafel"
+              "middle-eastern-falafel",
+              "middle-eastern-muhammara"
             ]
           },
           {
@@ -4191,7 +4193,7 @@
         "en": "Mediterranean",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "salad",
@@ -4225,9 +4227,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "mediterranean-ratatouille"
+              "mediterranean-ratatouille",
+              "mediterranean-stuffed-eggplant"
             ]
           },
           {
@@ -4732,7 +4735,7 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-seafood",
@@ -4765,8 +4768,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "nordic-apple-cake",
               "nordic-kladdkaka"
             ]
           },
@@ -5127,7 +5131,7 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-poultry",
@@ -5161,9 +5165,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "american-south-banana-pudding"
+              "american-south-banana-pudding",
+              "american-south-pecan-pie"
             ]
           },
           {
@@ -5216,7 +5221,7 @@
         "en": "Tex-Mex",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-meat",
@@ -5232,8 +5237,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "tex-mex-chicken-quesadilla",
               "tex-mex-elote",
               "tex-mex-nachos"
             ]

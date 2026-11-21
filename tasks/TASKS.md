@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-21T12:31:57.947Z
+> 生成时间：2026-11-21T12:36:19.402Z
 
-**总览**：工程任务 49/53；菜谱内容 1071/3274（32.7%），共 581 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1077/3274（32.9%），共 581 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -408,7 +408,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（589/1935）
+### 外国菜系（595/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，37/107</summary>
 
@@ -610,21 +610,21 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>南亚菜 south-asian</b> — B 级，8/38</summary>
+<details><summary><b>南亚菜 south-asian</b> — B 级，9/38</summary>
 
 - [ ] `P4-south-asian/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
 - [ ] `P4-south-asian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 4
 - [ ] `P4-south-asian/soup` 汤羹（Soup）目标 6，已完成 1
-- [ ] `P4-south-asian/snack` 小吃（Street Food）目标 6，已完成 1
+- [ ] `P4-south-asian/snack` 小吃（Street Food）目标 6，已完成 2
 - [ ] `P4-south-asian/dessert` 甜点（Dessert）目标 6，已完成 1
 - [ ] `P4-south-asian/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [ ] `P4-south-asian/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
 
 </details>
 
-<details><summary><b>中东风味 middle-eastern</b> — B 级，10/38</summary>
+<details><summary><b>中东风味 middle-eastern</b> — B 级，11/38</summary>
 
-- [ ] `P4-middle-eastern/appetizer` 前菜（Appetizer）目标 6，已完成 2
+- [ ] `P4-middle-eastern/appetizer` 前菜（Appetizer）目标 6，已完成 3
 - [ ] `P4-middle-eastern/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
 - [ ] `P4-middle-eastern/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 1
 - [ ] `P4-middle-eastern/salad` 沙拉（Salad）目标 6，已完成 0
@@ -651,12 +651,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>地中海菜 mediterranean</b> — B 级，12/38</summary>
+<details><summary><b>地中海菜 mediterranean</b> — B 级，13/38</summary>
 
 - [ ] `P4-mediterranean/salad` 沙拉（Salad）目标 6，已完成 2
 - [ ] `P4-mediterranean/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 0
 - [ ] `P4-mediterranean/appetizer` 前菜（Appetizer）目标 6，已完成 3
-- [ ] `P4-mediterranean/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 1
+- [ ] `P4-mediterranean/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 2
 - [ ] `P4-mediterranean/sauce` 酱汁与基础调味（Sauce）目标 6，已完成 2
 - [ ] `P4-mediterranean/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
 - [ ] `P4-mediterranean/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
@@ -734,12 +734,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>北欧菜 nordic</b> — B 级，9/38</summary>
+<details><summary><b>北欧菜 nordic</b> — B 级，10/38</summary>
 
 - [ ] `P4-nordic/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 2
 - [ ] `P4-nordic/bakery` 烘焙面包（Bakery）目标 6，已完成 2
 - [ ] `P4-nordic/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 0
-- [ ] `P4-nordic/dessert` 甜点（Dessert）目标 6，已完成 1
+- [ ] `P4-nordic/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-nordic/breakfast` 早餐（Breakfast）目标 6，已完成 1
 - [ ] `P4-nordic/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-nordic/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
@@ -793,12 +793,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>美国南方菜 american-south</b> — B 级，9/38</summary>
+<details><summary><b>美国南方菜 american-south</b> — B 级，10/38</summary>
 
 - [ ] `P4-american-south/main-poultry` 主菜·禽（Poultry Main）目标 6，已完成 2
 - [ ] `P4-american-south/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 1
 - [ ] `P4-american-south/bakery` 烘焙面包（Bakery）目标 6，已完成 1
-- [ ] `P4-american-south/dessert` 甜点（Dessert）目标 6，已完成 1
+- [ ] `P4-american-south/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-american-south/breakfast` 早餐（Breakfast）目标 6，已完成 2
 - [ ] `P4-american-south/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [ ] `P4-american-south/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
@@ -807,10 +807,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>德州墨西哥菜 tex-mex</b> — B 级，8/38</summary>
+<details><summary><b>德州墨西哥菜 tex-mex</b> — B 级，9/38</summary>
 
 - [ ] `P4-tex-mex/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
-- [ ] `P4-tex-mex/snack` 小吃（Street Food）目标 6，已完成 2
+- [ ] `P4-tex-mex/snack` 小吃（Street Food）目标 6，已完成 3
 - [ ] `P4-tex-mex/sauce` 酱汁与基础调味（Sauce）目标 6，已完成 1
 - [ ] `P4-tex-mex/breakfast` 早餐（Breakfast）目标 6，已完成 1
 - [ ] `P4-tex-mex/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 1
