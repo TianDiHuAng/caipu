@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "malaysian-mee-goreng",
+  "name": {
+    "zh": "马来炒米粉",
+    "en": "Malaysian Fried Rice Noodles (Mee Goreng)",
+    "original": "Mee Goreng"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "malaysian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "干米粉",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去黑线",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "摘净",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "大碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干米粉放进温水里泡二十分钟，泡到能轻松掐断为止。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡透就好，泡过头下锅一炒就断。",
+      "visual_cue": "米粉柔软透亮，掐之即断"
+    },
+    {
+      "n": 2,
+      "text": "泡好的米粉捞出沥干，剪成二十厘米左右的段备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "剪短一点，炒的时候才好翻身不打架。",
+      "visual_cue": "米粉段长短齐整，水沥干"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋打散成蛋液，虾仁挑净背上的黑线后沥干。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蛋液打匀打透，炒出来才蓬松成片。",
+      "visual_cue": "蛋液匀黄，虾仁干净透亮"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热下植物油，倒入蛋液快速划散盛出。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "先炒蛋，成形即盛出，久了发老。",
+      "visual_cue": "蛋片金黄蓬松，锅里留油"
+    },
+    {
+      "n": 5,
+      "text": "原锅下蒜末爆香，再放虾仁炒到通体变红卷起时盛出。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "虾仁一变红就是熟了，再炒就发柴。",
+      "visual_cue": "虾仁通红卷曲，蒜香扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "下豆芽用大火快炒半分钟，保持脆感不出水。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "豆芽只要断生，炒久了软塌出水。",
+      "visual_cue": "豆芽挺直翠白，锅气足"
+    },
+    {
+      "n": 7,
+      "text": "倒入米粉，用锅铲从底部翻起抖散，别来回碾压。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "翻拌而不下压，米粉才不会结成坨。",
+      "visual_cue": "粉条松散，根根分明"
+    },
+    {
+      "n": 8,
+      "text": "加生抽与盐翻匀，再把炒好的蛋倒回锅里同拌。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "生抽沿着锅边淋下去，香气更足。",
+      "visual_cue": "粉条染上酱色，油亮均匀"
+    },
+    {
+      "n": 9,
+      "text": "大火颠炒三十秒让锅气进粉，立刻出锅装盘。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "最后一颠最关键，锅气足了整盘才香。",
+      "visual_cue": "粉条干爽不粘，冒热气"
+    }
+  ],
+  "tips": [
+    "米粉泡到能掐断就够，泡过头一炒就碎成段。",
+    "全程大火快炒，锅气足，粉才不粘不坨。",
+    "豆芽最后下，脆感保得住，也不出水。"
+  ],
+  "common_mistakes": [
+    "米粉没泡透就下锅，外面糊了里面还硬。",
+    "火小慢慢炒，米粉吸水结成一大坨。",
+    "一直用锅铲压粉，粉条全被压断。"
+  ],
+  "substitutions": [
+    {
+      "original": "米粉",
+      "substitute": "河粉",
+      "ratio": "300 克:350 克",
+      "note": "更宽更滑，炒的时间略短。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "鸡胸肉",
+      "ratio": "150 克:150 克",
+      "note": "切细条，先滑炒至变白。"
+    }
+  ],
+  "variations": [
+    "加一勺辣椒酱同炒，辣味更冲，更接近街头版。",
+    "挤上半个青柠的汁，酸香解腻开胃。"
+  ],
+  "serving_suggestion": "趁热装盘，配一碟辣椒酱和几片黄瓜，就是马来西亚夜市的标配一份。",
+  "storage": "冷藏一天，复热用炒锅大火快翻，别用微波炉会发硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 470,
+    "protein_g": 22,
+    "fat_g": 16,
+    "carbs_g": 60,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须彻底加热至凝固熟透；虾仁须加热至完全变红卷曲、熟透后方可食用，甲壳类过敏人群慎食。"
+  ],
+  "origin_note": "马来半岛夜市的炒米粉，米粉、鸡蛋、虾仁、豆芽一起下锅，大火颠几下就出锅。摊主手腕一抖，锅气直冲，香气半条街都闻得到。",
+  "tags": [
+    "马来西亚",
+    "炒粉",
+    "夜市",
+    "快手"
+  ],
+  "related_ids": [
+    "malaysian-laksa",
+    "malaysian-nasi-lemak",
+    "malaysian-satay-chicken"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
