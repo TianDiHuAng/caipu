@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:43:09.378Z",
+  "generatedAt": "2026-11-21T04:48:26.675Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 526,
+    "cells": 527,
     "target": 3274,
-    "actual": 724,
-    "coverage": 0.2211362248014661
+    "actual": 726,
+    "coverage": 0.2217470983506414
   },
   "regions": {
     "cn": [
@@ -5187,7 +5187,7 @@
         "en": "East African",
         "tier": "C",
         "target": 25,
-        "actual": 0,
+        "actual": 2,
         "cells": [
           {
             "category": "main-meat",
@@ -5214,8 +5214,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "east-african-ugali-sukuma-wiki"
+            ]
           },
           {
             "category": "drink",
@@ -5223,6 +5225,15 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-congee",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "east-african-ugali-sukuma-wiki"
+            ]
           }
         ]
       },
