@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:11:49.844Z",
+  "generatedAt": "2026-11-21T14:23:58.287Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1149,
-    "coverage": 0.3509468540012217
+    "actual": 1155,
+    "coverage": 0.3527794746487477
   },
   "regions": {
     "cn": [
@@ -4622,7 +4622,7 @@
         "en": "British",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
@@ -4649,9 +4649,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "british-bread-butter-pudding",
+              "british-eton-mess",
               "british-sticky-toffee-pudding",
               "british-strawberry-trifle"
             ]
@@ -5361,7 +5362,7 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-seafood",
@@ -5410,8 +5411,9 @@
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "cajun-corn-maque-choux",
               "cajun-remoulade"
             ]
           },
@@ -5808,7 +5810,7 @@
         "en": "Caribbean",
         "tier": "C",
         "target": 25,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-poultry",
@@ -5825,8 +5827,9 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "caribbean-coconut-fish-curry",
               "caribbean-coconut-shrimp-curry"
             ]
           },
@@ -5876,7 +5879,7 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "soup",
@@ -5922,8 +5925,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "north-african-ghriba",
               "north-african-orange-cinnamon"
             ]
           },
@@ -5976,7 +5980,7 @@
         "en": "West African",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "staple-rice",
@@ -6023,10 +6027,11 @@
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "west-african-pepper-sauce",
-              "west-african-shito-sauce"
+              "west-african-shito-sauce",
+              "west-african-tomato-stew"
             ]
           },
           {
@@ -6239,7 +6244,7 @@
         "en": "Australian-NZ",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-seafood",
@@ -6267,9 +6272,10 @@
             "category": "breakfast",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "australian-avocado-toast",
+              "australian-bacon-egg-roll",
               "australian-pumpkin-soup"
             ]
           },
