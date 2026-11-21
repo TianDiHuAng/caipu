@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tex-mex-tortilla-soup",
+  "name": {
+    "zh": "德州墨西哥玉米饼汤",
+    "en": "Tortilla Soup",
+    "original": "Sopa de tortilla"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "tex-mex"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 40,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sour",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "煮熟撕丝",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 4,
+          "unit": "piece",
+          "note": "切条炸脆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "去籽泡软",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "牛油果",
+          "name_en": "avocado",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片配食",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 80,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炸饼条",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "平底锅",
+    "锅铲",
+    "料理机"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉冷水下锅，加盐与半个洋葱煮二十分钟至熟透。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "煮鸡的汤留着做汤底，别倒掉。",
+      "visual_cue": "鸡肉扎透，没有血水渗出"
+    },
+    {
+      "n": 2,
+      "text": "捞出鸡肉稍凉后撕成鸡丝，鸡汤过滤留用约八百毫升。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "撕的鸡丝比切的更容易挂汤。",
+      "visual_cue": "鸡丝蓬松，汤色清亮"
+    },
+    {
+      "n": 3,
+      "text": "玉米饼切成半厘米宽的细条，摊开晾五分钟去掉表面水分。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "晾干一点，炸的时候不粘不溅油。",
+      "visual_cue": "饼条干爽，边缘不粘"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒植物油烧至中温，下饼条炸两分钟到金黄酥脆。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "饼条一变色就捞，很快会焦。",
+      "visual_cue": "饼条金黄，捞出有脆响"
+    },
+    {
+      "n": 5,
+      "text": "干辣椒泡软去籽，与番茄、大蒜一起打成红色酱汁。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "打细一点，汤体才顺滑。",
+      "visual_cue": "酱汁深红，质地浓稠顺滑"
+    },
+    {
+      "n": 6,
+      "text": "汤锅留少量底油，中火炒洋葱丁三分钟到透明发软。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒软，汤底才带甜。",
+      "visual_cue": "洋葱透明发软，甜味出来"
+    },
+    {
+      "n": 7,
+      "text": "倒入红色酱汁与孜然，小火炒三分钟炒出香气和红油。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "小火慢炒，辣椒的苦味才不会出来。",
+      "visual_cue": "油色变红，酱体起沙"
+    },
+    {
+      "n": 8,
+      "text": "倒入鸡汤搅匀，煮开后小火煮十二分钟让味道融合。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "煮到汤色深红，酸辣味才立起来。",
+      "visual_cue": "汤色深红油亮，香气浓"
+    },
+    {
+      "n": 9,
+      "text": "加鸡丝与盐再煮三分钟，尝一下味道后再补盐调味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "鸡丝最后加，久煮会散。",
+      "visual_cue": "鸡丝浮在汤面，汤体略稠"
+    },
+    {
+      "n": 10,
+      "text": "盛碗后放炸饼条，铺上牛油果片，撒奶酪与香菜碎。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "饼条上桌再放，才不会泡软。",
+      "visual_cue": "表面配料丰富，汤冒热气"
+    },
+    {
+      "n": 11,
+      "text": "挤上青柠汁后趁热食用，饼条脆汤头酸辣最刚好。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "青柠汁提酸，让辣味更有层次。",
+      "visual_cue": "汤色红亮，配菜色彩分明"
+    }
+  ],
+  "tips": [
+    "煮鸡的汤不要倒，是汤底的鲜味来源。",
+    "炸好的饼条上桌时才放，这样能一直保持脆感。",
+    "饼条要上桌时才放，才能保持脆感。"
+  ],
+  "common_mistakes": [
+    "饼条提前泡进汤里，端上桌已经全软烂。",
+    "饼条提前泡进汤里，上桌全软烂。",
+    "辣椒酱用大火爆炒，汤里会带一股焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "500 克:450 克",
+      "note": "煮制时间减到十五分钟。"
+    },
+    {
+      "original": "牛油果",
+      "substitute": "酸奶油",
+      "ratio": "150 克:120 克",
+      "note": "口感更清爽，酸味更明显。"
+    }
+  ],
+  "variations": [
+    "再加一把甜玉米粒，口感更甜也更饱满。",
+    "放一把玉米粒，口感更甜更饱满。"
+  ],
+  "serving_suggestion": "热汤配炸饼条与牛油果，作为主餐汤品。",
+  "storage": "汤底冷藏三天，饼条现炸现配不冷藏。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 430,
+    "protein_g": 32,
+    "fat_g": 24,
+    "carbs_g": 22,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底煮熟，中心温度达到七十四度以上；炸饼条时油温较高，饼条含水易溅油，下锅沿锅壁轻放。"
+  ],
+  "origin_note": "墨西哥玉米饼汤的德州版本，干辣椒和番茄熬出深红的汤底，最后放上现炸的饼条。脆的、软的、酸的、辣的全在一碗里。",
+  "tags": [
+    "德州墨西哥",
+    "汤",
+    "鸡肉",
+    "玉米饼"
+  ],
+  "related_ids": [
+    "tex-mex-chicken-enchiladas",
+    "tex-mex-queso"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

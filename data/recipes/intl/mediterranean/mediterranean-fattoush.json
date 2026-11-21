@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mediterranean-fattoush",
+  "name": {
+    "zh": "地中海法图什沙拉",
+    "en": "Fattoush",
+    "original": "Fattoush"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mediterranean"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 8,
+    "total_min": 28
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "light",
+    "fragrant",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 250,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉薄饼",
+          "name_en": "flour tortilla",
+          "amount": 2,
+          "unit": "piece",
+          "note": "撕小块烤脆",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "薄荷",
+          "name_en": "mint",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 50,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "拌菜盆",
+    "平底锅",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉薄饼撕成三厘米的小块，平铺在平底锅上小火烘烤。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "不用放油，干烘才够脆。",
+      "visual_cue": "饼块变干脆，边缘微焦"
+    },
+    {
+      "n": 2,
+      "text": "烘好的饼块盛出放凉备用，凉透之后才会酥脆不返软。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "热的饼块拌进沙拉会吸水变软。",
+      "visual_cue": "饼块凉透，敲起来有脆响"
+    },
+    {
+      "n": 3,
+      "text": "番茄去蒂切成两厘米见方的块，汁水一并留在盆里。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "切块别太小，拌的时候才不出水。",
+      "visual_cue": "番茄块完整，盆底有少量汁"
+    },
+    {
+      "n": 4,
+      "text": "黄瓜纵向剖开后切成一厘米厚的斜片，表面大好挂汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "斜切面积大，更容易挂住沙拉汁。",
+      "visual_cue": "黄瓜片厚薄均匀，边缘翠绿"
+    },
+    {
+      "n": 5,
+      "text": "洋葱切成极细的丝，放进冰水里泡五分钟去掉辛辣。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡过冰水，生洋葱的冲味会淡很多。",
+      "visual_cue": "洋葱丝卷曲，辛辣味变淡"
+    },
+    {
+      "n": 6,
+      "text": "柠檬挤汁，加橄榄油、孜然与盐搅成乳化的沙拉汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "边搅边淋油，汁才会微微乳化。",
+      "visual_cue": "沙拉汁浑浊，油水不分层"
+    },
+    {
+      "n": 7,
+      "text": "番茄、黄瓜与洋葱放大盆，倒入沙拉汁轻轻翻拌均匀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "用翻拌别用力搅，蔬菜才不会碎。",
+      "visual_cue": "蔬菜表面均匀裹上汁"
+    },
+    {
+      "n": 8,
+      "text": "上桌前拌入饼块、香菜与薄荷，立刻装盘趁脆食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "饼块最后拌，才能保持脆感。",
+      "visual_cue": "饼块仍脆，香草翠绿"
+    }
+  ],
+  "tips": [
+    "薄饼干烘不用放油，吃起来脆得更清爽。",
+    "饼块最后拌入，久放会吸水变软。",
+    "饼块一定要最后才拌入，放久了会吸水变软。"
+  ],
+  "common_mistakes": [
+    "饼块用油炸或煎得油重，整盘沙拉变得油腻。",
+    "提前把饼块拌进去，上桌全软成一团。",
+    "沙拉汁一次全倒进去，盆底积起一层水。"
+  ],
+  "substitutions": [
+    {
+      "original": "面粉薄饼",
+      "substitute": "全麦面包",
+      "ratio": "2 张:3 片",
+      "note": "撕块后烤到干脆，口感更粗。"
+    },
+    {
+      "original": "柠檬",
+      "substitute": "白醋",
+      "ratio": "50 克:25 毫升",
+      "note": "酸味更冲，用量减半。"
+    }
+  ],
+  "variations": [
+    "加一把石榴籽，酸甜的颗粒感更突出。",
+    "放几片烤过的茄子，做成更饱腹的一大盘。"
+  ],
+  "serving_suggestion": "切块装盘作为前菜冷食，配烤肉或烤鸡一起吃。",
+  "storage": "现拌现吃，蔬菜与饼块分开冷藏最多一天。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 克",
+    "calories_kcal": 190,
+    "protein_g": 5,
+    "fat_g": 11,
+    "carbs_g": 20,
+    "sodium_mg": 420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "沙拉为生食凉菜，蔬菜须彻底洗净并用饮用水冲洗；拌好后室温放置超过两小时不建议再食用。"
+  ],
+  "origin_note": "地中海东岸的乡村沙拉，最大特点是加了烤脆的薄饼块。蔬菜拌上柠檬和橄榄油，饼块吸一点汁又保留脆感，越吃越清爽。",
+  "tags": [
+    "地中海",
+    "沙拉",
+    "番茄",
+    "薄饼"
+  ],
+  "related_ids": [
+    "mediterranean-greek-salad",
+    "mediterranean-baba-ganoush"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

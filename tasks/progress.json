@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:24:16.575Z",
+  "generatedAt": "2026-11-21T08:39:35.303Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 560,
+    "cells": 561,
     "target": 3274,
-    "actual": 911,
-    "coverage": 0.27825290164935856
+    "actual": 917,
+    "coverage": 0.28008552229688455
   },
   "regions": {
     "cn": [
@@ -3473,7 +3473,7 @@
         "en": "Singaporean",
         "tier": "B",
         "target": 38,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "staple-rice",
@@ -3507,8 +3507,10 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "singaporean-fried-carrot-cake"
+            ]
           },
           {
             "category": "drink",
@@ -3849,7 +3851,7 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "appetizer",
@@ -3888,8 +3890,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "middle-eastern-baklava"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -4029,14 +4033,15 @@
         "en": "Mediterranean",
         "tier": "B",
         "target": 38,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "mediterranean-fattoush",
               "mediterranean-greek-salad"
             ]
           },
@@ -4666,7 +4671,7 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "soup",
@@ -4691,8 +4696,10 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "russian-olivier-salad"
+            ]
           },
           {
             "category": "bakery",
@@ -4955,7 +4962,7 @@
         "en": "Tex-Mex",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "main-meat",
@@ -5012,6 +5019,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "tex-mex-tortilla-soup"
+            ]
           }
         ]
       },
@@ -5720,7 +5736,7 @@
         "en": "South African",
         "tier": "C",
         "target": 25,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -5745,8 +5761,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-african-malva-pudding"
+            ]
           },
           {
             "category": "snack",

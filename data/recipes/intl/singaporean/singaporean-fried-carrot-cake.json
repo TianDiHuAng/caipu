@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-fried-carrot-cake",
+  "name": {
+    "zh": "新加坡炒萝卜糕",
+    "en": "Fried Carrot Cake",
+    "original": "Chai Tow Kway"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 240,
+    "cook_min": 40,
+    "total_min": 280
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 600,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 200,
+          "unit": "g",
+          "note": "泡软磨浆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段点缀",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "磨浆与蒸制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "锅铲",
+    "料理机"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗后泡水三小时，泡到米粒能用指甲掐断。",
+      "time_min": 180,
+      "heat": "无火",
+      "tip": "泡透才磨得细，米浆才顺滑。",
+      "visual_cue": "米粒发白，一掐就断"
+    },
+    {
+      "n": 2,
+      "text": "白萝卜去皮刨成细丝，用纱布包住挤掉大部分的水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "挤干水分，蒸出来的糕才不稀。",
+      "visual_cue": "萝卜丝干爽，挤出半碗水"
+    },
+    {
+      "n": 3,
+      "text": "大米加清水放料理机打成细腻的米浆，静置十分钟。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打久一点，米浆越细越滑。",
+      "visual_cue": "米浆顺滑无颗粒，能挂壁"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下少量油，中火炒蒜末三十秒到香味出来为止。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蒜末别炒黄，否则带苦味。",
+      "visual_cue": "蒜末微微发白，香气散出"
+    },
+    {
+      "n": 5,
+      "text": "下萝卜丝中火炒四分钟，炒到丝变软出水再收干。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "炒软再收干，萝卜的甜味才出来。",
+      "visual_cue": "萝卜丝软塌，锅里没积水"
+    },
+    {
+      "n": 6,
+      "text": "加盐、白胡椒粉与生抽炒匀，关火后稍微降到温热。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "调味略咸一点，蒸好会淡下来。",
+      "visual_cue": "萝卜丝上色均匀透亮"
+    },
+    {
+      "n": 7,
+      "text": "把米浆倒入锅中拌匀，面糊呈浓稠能流动的状态。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "米浆太稠可加两勺水调开。",
+      "visual_cue": "面糊浓稠顺滑，勺背挂薄层"
+    },
+    {
+      "n": 8,
+      "text": "面糊倒入抹过油的容器，放进蒸锅大火蒸四十分钟。",
+      "time_min": 40,
+      "heat": "大火",
+      "tip": "中途别开盖，蒸汽跑了糕会不熟。",
+      "visual_cue": "表面凝固，按压有弹性"
+    },
+    {
+      "n": 9,
+      "text": "蒸好的萝卜糕取出彻底放凉，再切两厘米厚的方块。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "凉透再切，热切会粘刀散块。",
+      "visual_cue": "糕体紧实，切面平整"
+    },
+    {
+      "n": 10,
+      "text": "炒锅倒植物油，中火把萝卜糕块煎到两面金黄微脆。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "铺开煎别重叠，两面才金黄。",
+      "visual_cue": "两面金黄，边缘微脆"
+    },
+    {
+      "n": 11,
+      "text": "淋入蛋液炒散，加生抽、蒜末与小葱段翻匀后出锅。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蛋液半熟时翻，蛋花才嫩。",
+      "visual_cue": "蛋花嫩黄，糕块裹酱"
+    }
+  ],
+  "tips": [
+    "大米要泡足三个小时，打出来的米浆才够细腻。",
+    "萝卜丝一定要挤干水，否则糕会发软。",
+    "蒸好的糕彻底放凉再切，切面才平整。"
+  ],
+  "common_mistakes": [
+    "米没泡透就打浆，蒸出来的糕夹生粉味。",
+    "萝卜丝不挤干水，糕体稀软一切就散。",
+    "糕还热的时候就切，块全粘刀散成碎渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "白萝卜",
+      "substitute": "胡萝卜",
+      "ratio": "600 克:600 克",
+      "note": "甜味更足，颜色偏橙。"
+    },
+    {
+      "original": "大米",
+      "substitute": "粘米粉",
+      "ratio": "200 克:200 克",
+      "note": "省去泡米，直接加水调浆。"
+    }
+  ],
+  "variations": [
+    "炒的时候加一勺辣椒酱，做成辣味的版本。",
+    "放一点虾米同炒，海味的鲜香更浓郁。"
+  ],
+  "serving_suggestion": "热食当早餐或小吃，配一小碟辣椒酱同吃。",
+  "storage": "糕体冷藏三天，切块后现炒，勿反复冷冻。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 340,
+    "protein_g": 8,
+    "fat_g": 14,
+    "carbs_g": 46,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须炒至完全凝固、蛋黄与蛋白全熟后食用，避免沙门氏菌风险；萝卜糕蒸制须蒸透至中心无白色湿浆，未食用部分须冷藏保存。"
+  ],
+  "origin_note": "新加坡小贩中心的经典小吃，白萝卜和大米蒸成糕，再切块下锅煎香。加蛋炒成白色或加酱炒成黑色，两种都有人爱。",
+  "tags": [
+    "新加坡",
+    "小吃",
+    "萝卜糕",
+    "煎制"
+  ],
+  "related_ids": [
+    "singaporean-char-kway-teow",
+    "singaporean-hainanese-chicken-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
