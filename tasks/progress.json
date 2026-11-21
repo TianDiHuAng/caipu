@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:57:52.765Z",
+  "generatedAt": "2026-11-21T13:03:16.243Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1101,
-    "coverage": 0.33628588882101407
+    "actual": 1107,
+    "coverage": 0.33811850946854
   },
   "regions": {
     "cn": [
@@ -2015,16 +2015,17 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "bifengtang-chaoxie",
               "hongkong-garlic-shrimp",
+              "hongkong-salt-pepper-squid",
               "hongkong-xiangjian-xueyu"
             ]
           },
@@ -2115,15 +2116,16 @@
         "en": "Xinjiang",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "naobao-rou",
+              "xinjiang-qingdun-yangrou",
               "xinjiang-zhuafan"
             ]
           },
@@ -4202,7 +4204,7 @@
         "en": "Mediterranean",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "salad",
@@ -4246,9 +4248,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "mediterranean-hummus",
+              "mediterranean-toum",
               "mediterranean-tzatziki"
             ]
           },
@@ -5607,7 +5610,7 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-meat",
@@ -5623,8 +5626,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "brazilian-baiao-de-dois"
+            ]
           },
           {
             "category": "snack",
@@ -5757,7 +5762,7 @@
         "en": "Caribbean",
         "tier": "C",
         "target": 25,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-poultry",
@@ -5793,8 +5798,10 @@
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "caribbean-pina-colada"
+            ]
           },
           {
             "category": "dessert",
@@ -5823,7 +5830,7 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "soup",
@@ -5858,9 +5865,10 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "north-african-carrot-salad"
+              "north-african-carrot-salad",
+              "north-african-mechouia"
             ]
           },
           {
