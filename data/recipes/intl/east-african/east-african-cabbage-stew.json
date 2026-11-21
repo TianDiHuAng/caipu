@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "east-african-cabbage-stew",
+  "name": {
+    "zh": "东非卷心菜炖土豆",
+    "en": "Cabbage and Potato Stew",
+    "original": "Atkilt Wot"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "east-african"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 600,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切斜片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 4,
+          "unit": "g",
+          "note": "上色增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "卷心菜切粗丝后用清水冲洗，沥干水分放一旁备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "切粗丝口感更好，久炖也不烂。",
+      "visual_cue": "菜丝松散，无积水"
+    },
+    {
+      "n": 2,
+      "text": "土豆去皮切成三厘米见方的块，泡水去掉表面淀粉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡水防止氧化变黑。",
+      "visual_cue": "土豆块洁白，水略浑浊"
+    },
+    {
+      "n": 3,
+      "text": "炖锅倒植物油，中火炒洋葱丁三分钟到变软透明。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒软，底味才甜。",
+      "visual_cue": "洋葱透明，锅中有香气"
+    },
+    {
+      "n": 4,
+      "text": "下蒜末、姜末与姜黄粉炒三十秒，炒出黄色香气。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "姜黄易糊，火别太大。",
+      "visual_cue": "油色变黄，香味明显"
+    },
+    {
+      "n": 5,
+      "text": "加番茄块炒三分钟，炒到番茄出汁软烂成糊。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄炒出汁，汤汁才有层次。",
+      "visual_cue": "番茄软烂，锅底有红汁"
+    },
+    {
+      "n": 6,
+      "text": "倒入土豆块与胡萝卜片翻炒两分钟裹上底味。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "先炒一下，土豆更入味。",
+      "visual_cue": "蔬菜裹上红色酱汁"
+    },
+    {
+      "n": 7,
+      "text": "加清水与盐，大火煮开后转小火炖十五分钟。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "土豆要炖到能用筷子扎透。",
+      "visual_cue": "土豆边缘变圆，汤略收"
+    },
+    {
+      "n": 8,
+      "text": "放入卷心菜丝翻匀，盖上锅盖小火再炖八分钟。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "卷心菜后放，保留一点脆感。",
+      "visual_cue": "菜丝变软，颜色变深"
+    },
+    {
+      "n": 9,
+      "text": "尝味补盐后装盘，配英吉拉或米饭一起食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汤汁别收太干，拌饭才好吃。",
+      "visual_cue": "蔬菜软烂，汤汁微稠"
+    }
+  ],
+  "tips": [
+    "卷心菜切粗丝并后放，久炖也留一点口感。",
+    "姜黄粉要小火炒，糊了整锅发苦。",
+    "土豆炖到边缘变圆，口感才绵软。"
+  ],
+  "common_mistakes": [
+    "卷心菜一开始就下锅，炖到最后全烂成泥。",
+    "姜黄粉用大火炒，整锅都会带焦苦味。",
+    "水加得太少，炖的过程中容易糊锅底。"
+  ],
+  "substitutions": [
+    {
+      "original": "卷心菜",
+      "substitute": "西兰花",
+      "ratio": "600 克:500 克",
+      "note": "炖的时间缩短到四分钟。"
+    },
+    {
+      "original": "姜黄",
+      "substitute": "咖喱粉",
+      "ratio": "4 克:6 克",
+      "note": "风味更复合，香气更浓。"
+    }
+  ],
+  "variations": [
+    "加一把青豆，颜色和口感更丰富。",
+    "放一勺辣椒粉同炖，吃起来更开胃。"
+  ],
+  "serving_suggestion": "配英吉拉或白米饭，作为日常主菜。",
+  "storage": "冷藏三天，复热加少量水小火煮开。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 230,
+    "protein_g": 6,
+    "fat_g": 8,
+    "carbs_g": 34,
+    "sodium_mg": 480,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "炖煮时锅盖掀开有大量蒸汽，注意面部避开；蔬菜须炖透，剩余部分冷藏保存并彻底复热。"
+  ],
+  "origin_note": "东非斋期最常吃的一道素炖菜，卷心菜、土豆和胡萝卜用姜黄番茄底炖软。颜色金黄，味道清淡，配英吉拉吃最地道。",
+  "tags": [
+    "东非",
+    "素食",
+    "卷心菜",
+    "炖菜"
+  ],
+  "related_ids": [
+    "east-african-ugali-sukuma-wiki",
+    "east-african-lentil-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

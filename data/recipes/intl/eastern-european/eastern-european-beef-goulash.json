@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "eastern-european-beef-goulash",
+  "name": {
+    "zh": "东欧牛肉炖锅",
+    "en": "Beef Goulash",
+    "original": "Gulyás"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "eastern-european"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 100,
+    "total_min": 130
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 800,
+          "unit": "g",
+          "note": "牛肉切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 350,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "匈牙利红椒粉",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 40,
+          "unit": "g",
+          "note": "增稠上色",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "裹肉",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎肉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切成四厘米见方的块，用厨房纸吸干表面水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "表面干爽，煎的时候才上色。",
+      "visual_cue": "肉块干爽，颜色深红"
+    },
+    {
+      "n": 2,
+      "text": "肉块撒盐与黑胡椒，薄薄裹一层面粉抓匀备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "裹粉能让汤汁自然变稠。",
+      "visual_cue": "肉块表面薄薄一层面粉"
+    },
+    {
+      "n": 3,
+      "text": "炖锅倒植物油烧热，分批下牛肉块煎到各面焦黄。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "分批煎，锅温不掉才出焦香。",
+      "visual_cue": "肉块表面深褐，锅底有焦物"
+    },
+    {
+      "n": 4,
+      "text": "盛出牛肉，原锅下洋葱丝小火炒十分钟到软塌发甜。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "洋葱炒够时间，甜味是这道菜的底。",
+      "visual_cue": "洋葱软塌，颜色金黄"
+    },
+    {
+      "n": 5,
+      "text": "关小火加辣椒粉与蒜末炒三十秒，炒出红油不要炒焦。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "辣椒粉遇高温易苦，务必小火。",
+      "visual_cue": "油色变红，香气冲鼻"
+    },
+    {
+      "n": 6,
+      "text": "倒回牛肉，加番茄酱翻炒两分钟让肉块裹上红色。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "番茄酱炒过才没生酸味。",
+      "visual_cue": "肉块裹满面酱色，锅底红亮"
+    },
+    {
+      "n": 7,
+      "text": "倒入清水大火煮开，撇去浮沫后转小火慢炖一小时。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "小火慢炖，牛肉才软烂入味。",
+      "visual_cue": "汤面微沸，浮沫撇净"
+    },
+    {
+      "n": 8,
+      "text": "加土豆块与胡萝卜，继续小火炖二十五分钟。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "土豆后放，才不会炖成糊。",
+      "visual_cue": "土豆软透，边缘略化"
+    },
+    {
+      "n": 9,
+      "text": "尝一下味道补盐，等汤汁浓稠挂在肉块上即可。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "汤汁略稠最好，拌面拌饭都行。",
+      "visual_cue": "汤汁红亮，勺背挂汁"
+    },
+    {
+      "n": 10,
+      "text": "盛入深盘，撒上少量黑胡椒后配烤土豆一起食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "配硬烤土豆蘸汤最地道。",
+      "visual_cue": "汤汁浓稠，肉块完整"
+    }
+  ],
+  "tips": [
+    "牛肉分批煎上色，焦香是味道的关键。",
+    "辣椒粉务必小火炒，糊了整锅发苦。",
+    "土豆后放并小火炖，才不会炖成泥。"
+  ],
+  "common_mistakes": [
+    "牛肉一次全下锅，温度掉太快煎不出焦色。",
+    "辣椒粉大火炒，汤里带一股焦苦。",
+    "全程大火猛煮，肉越来越柴汤也煮干。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "800 克:800 克",
+      "note": "风味更浓，炖制时间减十分钟。"
+    },
+    {
+      "original": "番茄酱",
+      "substitute": "番茄",
+      "ratio": "40 克:200 克",
+      "note": "需多炒五分钟出汁。"
+    }
+  ],
+  "variations": [
+    "加一勺酸奶油，汤汁更顺滑也更浓。",
+    "放一把小面疙瘩同煮，直接当主食吃。"
+  ],
+  "serving_suggestion": "配烤土豆或米饭，撒黑胡椒趁热吃。",
+  "storage": "冷藏三天、冷冻一个月，复热小火加少量水。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 540,
+    "protein_g": 40,
+    "fat_g": 30,
+    "carbs_g": 24,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炖至软烂熟透，中心温度达到七十四度以上；炖锅汤汁滚烫，盛取时避免溅出烫伤。"
+  ],
+  "origin_note": "匈牙利国菜，本是牧羊人用铁锅炖的牛肉汤。洋葱炒到发甜，红椒粉炒出红油，再加土豆胡萝卜慢炖到肉一夹就烂。",
+  "tags": [
+    "东欧",
+    "牛肉",
+    "炖菜",
+    "红椒粉"
+  ],
+  "related_ids": [
+    "eastern-european-borscht",
+    "eastern-european-chicken-paprikash"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "filipino-lumpiang-shanghai",
+  "name": {
+    "zh": "菲律宾春卷",
+    "en": "Lumpiang Shanghai",
+    "original": "Lumpiang Shanghai"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "filipino"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 25,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "春卷皮",
+          "name_en": "spring roll wrapper",
+          "amount": 20,
+          "unit": "piece",
+          "note": "方形薄皮",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 400,
+          "unit": "g",
+          "note": "带少量肥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切极碎",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切极碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "粘合",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 350,
+          "unit": "ml",
+          "note": "油炸",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 40,
+          "unit": "g",
+          "note": "蘸食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炸锅",
+    "拌菜盆",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肉末放盆中，加生抽、白糖、盐与黑胡椒顺一个方向搅拌。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "顺一个方向搅，肉馅才上劲。",
+      "visual_cue": "肉馅粘手起胶，颜色变浅"
+    },
+    {
+      "n": 2,
+      "text": "胡萝卜与洋葱切成极碎的末，挤掉多余水分后加入肉馅。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "水分挤干，春卷才不破皮。",
+      "visual_cue": "蔬菜碎干爽，与肉馅混匀"
+    },
+    {
+      "n": 3,
+      "text": "加蒜末与半个蛋液拌匀，剩下半个蛋液留作封口用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛋液太多馅会稀，别全倒。",
+      "visual_cue": "肉馅湿润抱团，不流散"
+    },
+    {
+      "n": 4,
+      "text": "春卷皮盖湿布防干，取一张放平，边缘抹一层蛋液。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "皮干了一卷就裂，要一直盖着。",
+      "visual_cue": "皮柔软，边缘有蛋液"
+    },
+    {
+      "n": 5,
+      "text": "在皮的一侧放一勺肉馅，整形成十厘米的长条。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "馅别放太多，否则炸的时候爆开。",
+      "visual_cue": "馅条紧实，粗细一致"
+    },
+    {
+      "n": 6,
+      "text": "先卷一圈压紧，再把两侧向内折，最后卷成圆柱封口。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "卷紧并排出空气，炸时才不漏。",
+      "visual_cue": "春卷紧实，封口贴合"
+    },
+    {
+      "n": 7,
+      "text": "全部卷好后盖布静置十分钟，让封口粘牢定型。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置让蛋液把封口粘住。",
+      "visual_cue": "封口牢固，轻拿不散"
+    },
+    {
+      "n": 8,
+      "text": "炸锅倒植物油烧到中温，下春卷炸六分钟至金黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温中等，里面熟透外面不焦。",
+      "visual_cue": "表面金黄，浮起冒小泡"
+    },
+    {
+      "n": 9,
+      "text": "捞出沥干油分，稍凉后从中间斜切成均匀两段。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "稍凉再切，馅才不掉出来。",
+      "visual_cue": "切面平整，肉馅熟透"
+    },
+    {
+      "n": 10,
+      "text": "配番茄酱或甜辣酱蘸食，趁热吃外皮最酥脆。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热吃，凉了皮会回软。",
+      "visual_cue": "外皮酥脆，咬开有汁"
+    }
+  ],
+  "tips": [
+    "肉馅顺一个方向搅上劲，口感才弹。",
+    "春卷皮要盖湿布，干了卷起来就裂。",
+    "卷紧并排出空气，炸的时候才不会爆开。"
+  ],
+  "common_mistakes": [
+    "蔬菜不挤水，炸的时候春卷爆皮。",
+    "馅放得太多，卷不紧还容易撑破皮。",
+    "油温太高，外皮焦了但里面还是生的。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "鸡肉末",
+      "ratio": "400 克:400 克",
+      "note": "需多加一勺油，口感才不柴。"
+    },
+    {
+      "original": "春卷皮",
+      "substitute": "馄饨皮",
+      "ratio": "20 张:20 张",
+      "note": "皮更薄，需双层叠卷。"
+    }
+  ],
+  "variations": [
+    "馅里加一把奶酪丝，咬开香气更浓。",
+    "做成甜口可包香蕉，炸后撒糖粉。"
+  ],
+  "serving_suggestion": "配甜辣酱当小吃，也可配米饭做主菜。",
+  "storage": "生坯冷冻一个月，炸好的冷藏两天回烤复酥。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 430,
+    "protein_g": 20,
+    "fat_g": 26,
+    "carbs_g": 28,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含猪肉与鸡蛋，肉馅须炸至中心完全熟透、无粉色；油炸时春卷内馅含水分易溅油，沿锅边轻放并保持距离。"
+  ],
+  "origin_note": "菲律宾逢年过节必做的炸春卷，馅是猪肉末拌胡萝卜洋葱，卷得细长紧实。炸到金黄酥脆，蘸甜辣酱一口一根。",
+  "tags": [
+    "菲律宾",
+    "小吃",
+    "春卷",
+    "油炸"
+  ],
+  "related_ids": [
+    "filipino-mechado",
+    "filipino-chicken-adobo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

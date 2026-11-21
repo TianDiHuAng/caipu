@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xinjiang-laghman",
+  "name": {
+    "zh": "新疆拉条子",
+    "en": "Xinjiang Laghman",
+    "original": "拉条子"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xinjiang"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 70,
+    "cook_min": 30,
+    "total_min": 100
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "高筋面粉",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 350,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "整粒略压",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒菜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "和面与调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 260,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "大锅",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加盐拌匀，分次加清水揉成光滑面团，盖布醒二十分钟。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "面要揉到光滑，拉的时候才不断。",
+      "visual_cue": "面团光滑，按下去有弹性"
+    },
+    {
+      "n": 2,
+      "text": "面团搓成长条抹油，盘成螺旋状再醒四十分钟备用。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "抹油封住水分，面才柔软好拉。",
+      "visual_cue": "拉条柔软有光泽，不回缩"
+    },
+    {
+      "n": 3,
+      "text": "牛肉切薄片，加生抽与少量植物油抓匀腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "薄片易熟，口感才嫩。",
+      "visual_cue": "肉片均匀上色，粘手"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧热，下牛肉片大火快炒两分钟盛出。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "大火快炒，肉汁才锁在里面。",
+      "visual_cue": "肉片变色，边缘微焦"
+    },
+    {
+      "n": 5,
+      "text": "原锅下洋葱丝炒三分钟，炒到洋葱边缘发软透明。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒透，甜味才出来。",
+      "visual_cue": "洋葱透明发软，香气出来"
+    },
+    {
+      "n": 6,
+      "text": "加番茄块炒三分钟出汁，再放青椒块炒一分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄炒出汁，拌面才不干。",
+      "visual_cue": "番茄软烂，锅内有红汁"
+    },
+    {
+      "n": 7,
+      "text": "倒回牛肉，加孜然、辣椒粉、蒜末与盐炒匀成浇头。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "孜然最后放，香气才不挥发。",
+      "visual_cue": "浇头油亮，孜然颗粒可见"
+    },
+    {
+      "n": 8,
+      "text": "另起大锅烧水，水开后把拉条拉开下锅煮三分钟。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "水要多，拉条才不粘一起。",
+      "visual_cue": "拉条浮起，颜色透亮"
+    },
+    {
+      "n": 9,
+      "text": "捞出拉条过一遍热水沥干，装碗后浇上牛肉浇头。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "过热水冲掉表面淀粉，口感更筋道。",
+      "visual_cue": "拉条根根分明，浇头铺满"
+    },
+    {
+      "n": 10,
+      "text": "拌匀后趁热食用，喜欢辣可以再撒一勺辣椒粉。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热拌，拉条才吸得住汁。",
+      "visual_cue": "拉条裹满酱色，油光明显"
+    }
+  ],
+  "tips": [
+    "面团要揉透并醒足时间，拉条才不易断。",
+    "拉面时双手匀力，边拉边抖更好成型。",
+    "浇头的汤汁要略多一些，拌面才不干。"
+  ],
+  "common_mistakes": [
+    "面团醒不够就拉，一拉就断成短截。",
+    "牛肉炒的时间太久，口感变干发柴。",
+    "浇头炒得太干，拌面的时候拌不开。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "350 克:350 克",
+      "note": "更地道，孜然可多加一克。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "彩椒",
+      "ratio": "100 克:100 克",
+      "note": "辣度更低，颜色更亮。"
+    }
+  ],
+  "variations": [
+    "加一把豆角同炒，口感更丰富有嚼头。",
+    "浇头里放一勺番茄酱，酸味更足。"
+  ],
+  "serving_suggestion": "浇头盖在拉条上拌匀，配一碟大蒜与面汤同吃。",
+  "storage": "拉条与浇头分开冷藏两天，复热后拌食。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 610,
+    "protein_g": 28,
+    "fat_g": 20,
+    "carbs_g": 80,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须彻底炒熟至中心温度七十四度以上；拉面用沸水煮透，未食用部分冷藏保存。"
+  ],
+  "origin_note": "新疆人最日常的一碗拉条，手工拉出的拉条筋道爽滑，浇上番茄洋葱炒的牛肉浇头。孜然味一冒出来，整碗面就活了。",
+  "tags": [
+    "新疆",
+    "拉条",
+    "牛肉",
+    "手工拉面"
+  ],
+  "related_ids": [
+    "xinjiang-dapanji",
+    "naobao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

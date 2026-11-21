@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chaoshan-frozen-crab",
+  "name": {
+    "zh": "潮汕冻蟹",
+    "en": "Chaoshan Chilled Crab",
+    "original": "冻蟹"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "chaoshan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 150,
+    "total_min": 170
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蟹",
+          "name_en": "crab",
+          "amount": 900,
+          "unit": "g",
+          "note": "鲜活，刷洗干净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 40,
+          "unit": "g",
+          "note": "一半蒸一半蘸",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "打结垫底",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "蘸汁",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "蘸汁",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "蘸汁调鲜",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切圈蘸汁",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "冰箱",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "青蟹用刷子刷净蟹壳与蟹脚缝隙，冲洗后沥干水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "缝隙里泥沙多，要多刷两遍。",
+      "visual_cue": "蟹壳干净，无泥沙残留"
+    },
+    {
+      "n": 2,
+      "text": "蒸锅加水放姜片与葱结，大火烧到蒸汽充足上汽。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "水先烧开再放蟹，肉才紧实。",
+      "visual_cue": "锅盖边缘冒大量白汽"
+    },
+    {
+      "n": 3,
+      "text": "蟹腹朝上摆进蒸锅，淋上米酒，盖盖大火蒸十二分钟。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "蟹腹朝上，切面才不会流失。",
+      "visual_cue": "蟹壳转红，蟹脚收紧"
+    },
+    {
+      "n": 4,
+      "text": "关火后焖三分钟再开盖，让蟹肉内部温度均匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "焖一下，蟹肉中心才完全熟透。",
+      "visual_cue": "蟹壳鲜红，蒸汽带蟹香"
+    },
+    {
+      "n": 5,
+      "text": "蒸好的蟹盛出摊开放凉，不要立刻冷藏免得回腥。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "先放凉再冰，肉质才紧不腥。",
+      "visual_cue": "蟹身不烫手，表面干爽"
+    },
+    {
+      "n": 6,
+      "text": "放凉后装盘盖保鲜膜，冷藏两小时让肉质收紧。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "冷藏后蟹肉更弹，风味更清。",
+      "visual_cue": "蟹身冰凉，肉质紧实"
+    },
+    {
+      "n": 7,
+      "text": "姜末、生抽、香醋、白糖与干辣椒圈调成蘸汁静置。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蘸汁提前调，姜味才渗出来。",
+      "visual_cue": "蘸汁红褐，浮着姜末"
+    },
+    {
+      "n": 8,
+      "text": "取出冻蟹斩成两半，摆盘后撒上香菜碎点缀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "刀要快，切面才整齐不散。",
+      "visual_cue": "蟹肉雪白，切面透亮"
+    }
+  ],
+  "tips": [
+    "蟹一定要鲜活，死蟹不适合蒸食。",
+    "蒸好先放凉再冷藏，肉质才紧实不腥。",
+    "冷藏两小时风味最佳，时间过长肉会发干。"
+  ],
+  "common_mistakes": [
+    "蟹没有刷洗干净，吃起来会带沙。",
+    "蒸好直接进冰箱，蟹肉回腥发软。",
+    "冷藏超过一夜，蟹肉失水变得发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "青蟹",
+      "substitute": "青蟹",
+      "ratio": "900 克:900 克",
+      "note": "肉质更厚，蒸制时间加三分钟。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "浙醋",
+      "ratio": "15 毫升:15 毫升",
+      "note": "酸味更柔和，甜感更明显。"
+    }
+  ],
+  "variations": [
+    "蘸汁里加一勺蒜末，辛香的味道更足。",
+    "喜欢重口味可以在蘸汁里多放干辣椒。"
+  ],
+  "serving_suggestion": "冰镇后斩块摆盘，配姜醋汁当冷盘。",
+  "storage": "冷藏不超过一天，隔夜须彻底加热后再食。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 克",
+    "calories_kcal": 180,
+    "protein_g": 32,
+    "fat_g": 4,
+    "carbs_g": 2,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蟹须鲜活并在蒸制前彻底刷洗，蒸至蟹壳全红、中心熟透；死蟹与未熟蟹易致食物中毒，冷藏后隔夜须彻底加热再食。"
+  ],
+  "origin_note": "潮汕人吃蟹讲究原味，活蟹蒸熟放凉再冰镇，蟹肉收紧后更弹牙。蘸一点姜醋，鲜甜直接被提出来。",
+  "tags": [
+    "潮汕",
+    "海鲜",
+    "冻蟹",
+    "冷盘"
+  ],
+  "related_ids": [
+    "chaoshan-haolao",
+    "chaoshan-yusheng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
