@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-21T04:48:20.552Z
+- 生成时间：2026-11-21T04:59:38.345Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：57 个，抽样 75 道，平均分 97
+- 覆盖菜系：57 个，抽样 75 道，平均分 96
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -47,7 +47,7 @@
 | hongkong | yuntun-mian | 93 | A | 准确性 18/25 |
 | hunan | hunan-suan-doujiao | 93 | A | 准确性 18/25 |
 | hunan | xiangxi-tufei-ya | 100 | A | 无 |
-| indian | indian-chicken-shorba | 100 | A | 无 |
+| indian | indian-chicken-curry | 87 | B | 准确性 18/25；安全性 14/20 |
 | indian | chana-masala | 100 | A | 无 |
 | indonesian | indonesian-nasi-goreng | 100 | A | 无 |
 | irish | irish-beef-stew | 93 | A | 准确性 18/25 |
@@ -57,8 +57,8 @@
 | japanese | japanese-korokke | 100 | A | 无 |
 | jiangsu | guihua-tangou | 93 | A | 准确性 18/25 |
 | jiangsu | suzhou-yingtao-rou | 100 | A | 无 |
-| korean | jeyuk-bokkeum | 93 | A | 准确性 18/25 |
 | korean | budae-jjigae | 100 | A | 无 |
+| korean | kimchi-jjigae | 100 | A | 无 |
 | malaysian | malaysian-nasi-lemak | 93 | A | 准确性 18/25 |
 | mediterranean | mediterranean-shakshuka | 100 | A | 无 |
 | mexican | guacamole | 100 | A | 无 |

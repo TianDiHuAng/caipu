@@ -1,0 +1,301 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-japchae",
+  "name": {
+    "zh": "韩式杂菜粉丝",
+    "en": "Korean Stir-fried Glass Noodles",
+    "original": "잡채"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "staple-noodle",
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 200,
+          "unit": "g",
+          "note": "干品，泡软",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 200,
+          "unit": "g",
+          "note": "牛里脊切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "菠菜",
+          "name_en": "spinach",
+          "amount": 200,
+          "unit": "g",
+          "note": "焯水挤干切段",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 100,
+          "unit": "g",
+          "note": "泡软切细丝",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两枚，摊蛋皮切丝",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 50,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "收尾增香",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 10,
+          "unit": "g",
+          "note": "炒香撒面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "腌牛肉",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "大碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "红薯粉丝用温水泡二十分钟至变软，剪成二十厘米长段备用。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡软即可，不要泡到发白发涨。",
+      "visual_cue": "粉丝柔软有弹性，能弯成圈"
+    },
+    {
+      "n": 2,
+      "text": "牛肉丝用生抽、白糖、黑胡椒与蒜末抓匀腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "牛肉逆纹切丝，腌后才嫩。",
+      "visual_cue": "肉丝裹上酱色，表面微黏"
+    },
+    {
+      "n": 3,
+      "text": "菠菜入沸水焯三十秒捞出过凉水，挤干水分切段，用盐与芝麻油拌一下。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "焯完立刻过凉水，颜色才翠绿。",
+      "visual_cue": "菠菜深绿不塌，水分挤干"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋打散摊成薄蛋皮，晾凉后切成细丝，胡萝卜、洋葱、香菇与黑木耳分别切丝。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "蛋皮要摊薄，切出的丝才漂亮。",
+      "visual_cue": "蛋皮金黄平整，丝条均匀"
+    },
+    {
+      "n": 5,
+      "text": "炒锅下植物油，先把牛肉丝大火炒到变色盛出，再依次炒胡萝卜、洋葱、香菇与黑木耳丝。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "每样分开炒，蔬菜出水少、颜色分明。",
+      "visual_cue": "蔬菜断生仍带脆感，锅底干爽"
+    },
+    {
+      "n": 6,
+      "text": "粉丝入沸水烫两分钟捞出沥干，趁热加生抽、白糖与一半芝麻油拌匀上色。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "粉丝趁热拌酱才吸味，凉了就只是挂着酱。",
+      "visual_cue": "粉丝呈浅褐色，根根分开"
+    },
+    {
+      "n": 7,
+      "text": "把所有配料倒进粉丝里，加剩余芝麻油与盐抓拌均匀，撒白芝麻。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用手抓拌比筷子更均匀，粉丝不易断。",
+      "visual_cue": "粉丝与配菜颜色交错，油亮不粘"
+    }
+  ],
+  "tips": [
+    "配一碗白饭或单吃都合适，冷藏后当小菜更入味。",
+    "粉丝拌好后放凉再吃，甜咸味会更平衡。",
+    "想更丰富可加青椒丝、鱼饼丝与少量辣酱同拌。"
+  ],
+  "common_mistakes": [
+    "粉丝泡过头，一炒就断成一截一截。",
+    "所有蔬菜一起下锅炒，出水多、颜色发暗。",
+    "酱料一次全倒，粉丝吸不均、局部过咸。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "猪里脊",
+      "ratio": "200 克:200 克",
+      "note": "炒制时间略短，避免发柴。"
+    },
+    {
+      "original": "红薯粉丝",
+      "substitute": "绿豆粉丝",
+      "ratio": "200 克:200 克",
+      "note": "更耐煮，泡的时间减到十五分钟。"
+    }
+  ],
+  "variations": [
+    "加入辣酱与芝麻叶，可做全州式的辣味杂菜。"
+  ],
+  "serving_suggestion": "温热或放凉后食用，配白饭与泡菜。",
+  "storage": "冷藏两天，风味更融合；复热用平底锅小火干炒，不要微波加热以免粉丝发硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 420,
+    "protein_g": 18,
+    "fat_g": 16,
+    "carbs_g": 52,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炒至完全变色熟透；蛋皮须煎至凝固无流心；粉丝制品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "杂菜是韩国宴席与节庆常见的粉丝菜，红薯粉丝配五色蔬菜与牛肉丝，甜咸交织。过去只在婚礼与寿宴上出现，如今已成日常小菜。",
+  "tags": [
+    "韩国",
+    "粉丝",
+    "牛肉",
+    "小菜"
+  ],
+  "related_ids": [
+    "korean-tteokbokki",
+    "dolsot-bibimbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
