@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-21T13:49:54.409Z
+> 生成时间：2026-11-21T14:01:24.412Z
 
-**总览**：工程任务 49/53；菜谱内容 1137/3274（34.7%），共 581 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1143/3274（34.9%），共 581 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -408,7 +408,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（636/1935）
+### 外国菜系（642/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，37/107</summary>
 
@@ -548,12 +548,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>马来菜 malaysian</b> — B 级，12/38</summary>
+<details><summary><b>马来菜 malaysian</b> — B 级，13/38</summary>
 
 - [ ] `P4-malaysian/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 2
 - [ ] `P4-malaysian/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 2
 - [ ] `P4-malaysian/soup` 汤羹（Soup）目标 6，已完成 1
-- [ ] `P4-malaysian/snack` 小吃（Street Food）目标 6，已完成 3
+- [ ] `P4-malaysian/snack` 小吃（Street Food）目标 6，已完成 4
 - [ ] `P4-malaysian/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-malaysian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-malaysian/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
@@ -578,9 +578,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>菲律宾菜 filipino</b> — B 级，12/38</summary>
+<details><summary><b>菲律宾菜 filipino</b> — B 级，13/38</summary>
 
-- [ ] `P4-filipino/main-meat` 主菜·肉（Meat Main）目标 6，已完成 3
+- [ ] `P4-filipino/main-meat` 主菜·肉（Meat Main）目标 6，已完成 4
 - [ ] `P4-filipino/soup` 汤羹（Soup）目标 6，已完成 2
 - [ ] `P4-filipino/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
 - [ ] `P4-filipino/dessert` 甜点（Dessert）目标 6，已完成 1
@@ -622,12 +622,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>中东风味 middle-eastern</b> — B 级，12/38</summary>
+<details><summary><b>中东风味 middle-eastern</b> — B 级，13/38</summary>
 
 - [ ] `P4-middle-eastern/appetizer` 前菜（Appetizer）目标 6，已完成 3
 - [ ] `P4-middle-eastern/main-meat` 主菜·肉（Meat Main）目标 6，已完成 3
 - [ ] `P4-middle-eastern/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 1
-- [ ] `P4-middle-eastern/salad` 沙拉（Salad）目标 6，已完成 0
+- [ ] `P4-middle-eastern/salad` 沙拉（Salad）目标 6，已完成 1
 - [ ] `P4-middle-eastern/dessert` 甜点（Dessert）目标 6，已完成 1
 - [ ] `P4-middle-eastern/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 1
 - [ ] `P4-middle-eastern/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
@@ -682,11 +682,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>葡萄牙菜 portuguese</b> — B 级，13/38</summary>
+<details><summary><b>葡萄牙菜 portuguese</b> — B 级，14/38</summary>
 
 - [ ] `P4-portuguese/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 3
 - [ ] `P4-portuguese/dessert` 甜点（Dessert）目标 6，已完成 3
-- [ ] `P4-portuguese/main-meat` 主菜·肉（Meat Main）目标 6，已完成 1
+- [ ] `P4-portuguese/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
 - [ ] `P4-portuguese/soup` 汤羹（Soup）目标 6，已完成 1
 - [ ] `P4-portuguese/bakery` 烘焙面包（Bakery）目标 6，已完成 2
 - [ ] `P4-portuguese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
@@ -761,9 +761,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>俄式菜 russian</b> — B 级，12/38</summary>
+<details><summary><b>俄式菜 russian</b> — B 级，13/38</summary>
 
-- [ ] `P4-russian/soup` 汤羹（Soup）目标 6，已完成 1
+- [ ] `P4-russian/soup` 汤羹（Soup）目标 6，已完成 2
 - [ ] `P4-russian/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
 - [ ] `P4-russian/salad` 沙拉（Salad）目标 6，已完成 2
 - [ ] `P4-russian/bakery` 烘焙面包（Bakery）目标 6，已完成 2
@@ -848,13 +848,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>秘鲁菜 peruvian</b> — C 级，14/25</summary>
+<details><summary><b>秘鲁菜 peruvian</b> — C 级，15/25</summary>
 
 - [ ] `P4-peruvian/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 1
 - [ ] `P4-peruvian/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 3
 - [ ] `P4-peruvian/appetizer` 前菜（Appetizer）目标 5，已完成 4
 - [ ] `P4-peruvian/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 2
-- [ ] `P4-peruvian/drink` 饮品（Drink）目标 5，已完成 0
+- [ ] `P4-peruvian/drink` 饮品（Drink）目标 5，已完成 1
 - [x] `P4-peruvian/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2
 - [x] `P4-peruvian/main-meat` 主菜·肉（Meat Main）目标 0，已完成 1
 - [x] `P4-peruvian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 0，已完成 1

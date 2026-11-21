@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "middle-eastern-fattoush",
+  "name": {
+    "zh": "中东皮塔面包沙拉",
+    "en": "Fattoush",
+    "original": "Fattoush"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "middle-eastern"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 15,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "tangy",
+    "light",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 200,
+          "unit": "g",
+          "note": "手撕",
+          "optional": false
+        },
+        {
+          "name": "皮塔饼",
+          "name_en": "pita",
+          "amount": 2,
+          "unit": "piece",
+          "note": "撕块烤脆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "薄荷",
+          "name_en": "mint",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 2,
+          "unit": "piece",
+          "note": "取汁",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "烤饼用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "沙拉碗",
+    "平底锅",
+    "刀",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "皮塔饼撕成小块，淋少许橄榄油撒上孜然，拌匀铺在烤盘上。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "用手撕比用刀切更容易吸附酱汁。",
+      "visual_cue": "饼块大小不均，裹上油"
+    },
+    {
+      "n": 2,
+      "text": "平底锅小火把皮塔饼块烘到两面酥脆，盛出放凉。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "用小火慢慢烘，饼块才能里外都脆。",
+      "visual_cue": "饼块金黄，掰开有脆响"
+    },
+    {
+      "n": 3,
+      "text": "生菜用手撕成入口大小，洗净后彻底沥干水分。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "生菜一定要沥干，不然酱汁会被冲淡。",
+      "visual_cue": "菜叶干爽，没有积水"
+    },
+    {
+      "n": 4,
+      "text": "番茄切块，黄瓜切滚刀块，洋葱切成细丝泡冷水五分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "洋葱泡冷水能去掉辛辣，口感更清甜。",
+      "visual_cue": "洋葱丝透亮，辛辣减弱"
+    },
+    {
+      "n": 5,
+      "text": "柠檬汁、橄榄油、白醋、盐和白胡椒在小碗里搅匀成酱汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱汁要搅到油水乳化，挂菜才均匀。",
+      "visual_cue": "酱汁乳白，微微浓稠"
+    },
+    {
+      "n": 6,
+      "text": "所有蔬菜放沙拉碗里，淋上酱汁轻轻翻拌均匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用手轻拌比用勺翻更不容易压伤菜叶。",
+      "visual_cue": "菜叶裹汁，颜色鲜亮"
+    },
+    {
+      "n": 7,
+      "text": "最后撒上薄荷碎、香菜碎和烤脆的皮塔饼块即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "饼块最后放，才能保持酥脆不软塌。",
+      "visual_cue": "饼块浮在表面，香气清新"
+    }
+  ],
+  "tips": [
+    "生菜必须沥干水分，酱汁才不会被冲淡。",
+    "皮塔饼用小火烘，里外都脆才好吃。",
+    "饼块最后拌入，上桌前保持酥脆。"
+  ],
+  "common_mistakes": [
+    "生菜带水下酱汁，拌完出一碗汤。",
+    "饼块提前拌入，吸汁后软成面糊。",
+    "洋葱不泡水，辛辣味盖过其他蔬菜。"
+  ],
+  "substitutions": [
+    {
+      "original": "皮塔饼",
+      "substitute": "全麦面包",
+      "ratio": "2 个:3 片",
+      "note": "烘烤时间缩短两分钟。"
+    },
+    {
+      "original": "白醋",
+      "substitute": "石榴糖浆",
+      "ratio": "15 毫升:10 毫升",
+      "note": "风味更地道，酸中带甜。"
+    }
+  ],
+  "variations": [
+    "加一把石榴籽，酸甜和口感都更丰富。",
+    "撒一勺漆树粉，酸香更具中东特色。"
+  ],
+  "serving_suggestion": "配烤肉串和鹰嘴豆泥同吃，是黎凡特地区餐桌上必备的一道清爽配菜。",
+  "storage": "现拌现吃，蔬菜部分冷藏不超过一天；饼块须单独密封保存。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 克",
+    "calories_kcal": 210,
+    "protein_g": 5,
+    "fat_g": 13,
+    "carbs_g": 20,
+    "sodium_mg": 380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "生食蔬菜须彻底洗净并沥干，建议用流动水冲洗；拌好后两小时内食用，剩菜冷藏不超过一天。"
+  ],
+  "origin_note": "黎凡特地区的乡村沙拉，把放硬的皮塔饼烤脆拌进时蔬，用柠檬和橄榄油调汁，酸香清爽又管饱。",
+  "tags": [
+    "中东",
+    "沙拉",
+    "皮塔饼",
+    "清爽"
+  ],
+  "related_ids": [
+    "middle-eastern-pita",
+    "hummus",
+    "middle-eastern-muhammara"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

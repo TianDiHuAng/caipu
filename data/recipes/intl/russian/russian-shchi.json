@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "russian-shchi",
+  "name": {
+    "zh": "俄式酸白菜汤",
+    "en": "Shchi",
+    "original": "Щи"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "russian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 78,
+    "total_min": 103
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "tangy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 400,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "莳萝",
+          "name_en": "dill",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 80,
+          "unit": "g",
+          "note": "佐食",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切三厘米见方的块，放入清水锅中煮开撇净浮沫。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血沫慢慢逼出来。",
+      "visual_cue": "汤面浮沫撇净，汤色清"
+    },
+    {
+      "n": 2,
+      "text": "加香叶转小火炖四十分钟，直到牛腩用筷子能轻松戳透。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "用小火慢慢炖，牛腩才会软烂又不散开。",
+      "visual_cue": "筷子能轻松戳透牛腩"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油，下洋葱丁和胡萝卜丝中火炒到变软出香。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱要炒到透明，胡萝卜炒软甜味才出来。",
+      "visual_cue": "洋葱透明，胡萝卜变软"
+    },
+    {
+      "n": 4,
+      "text": "加番茄膏继续翻炒两分钟，把红油和颜色彻底炒出来。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄膏要炒出红油，汤色才漂亮。",
+      "visual_cue": "红油析出，颜色深红"
+    },
+    {
+      "n": 5,
+      "text": "把炒好的料倒进汤锅，加土豆块和盐，中火再煮十五分钟。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "土豆后放，煮到边角变圆就可以关火了。",
+      "visual_cue": "土豆边角变圆润，汤色橙红"
+    },
+    {
+      "n": 6,
+      "text": "下卷心菜丝再煮十分钟，煮到菜叶变软但还带点脆。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "卷心菜别煮太久，留点脆口感更好。",
+      "visual_cue": "菜叶变软，汤色橙红"
+    },
+    {
+      "n": 7,
+      "text": "加大蒜末、白胡椒和莳萝碎，尝味补盐后立刻离火。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "大蒜末最后再放，香气才不会被闷散。",
+      "visual_cue": "汤面浮着绿色莳萝碎"
+    },
+    {
+      "n": 8,
+      "text": "盛碗后各放一勺酸奶油，趁热拌匀后趁热食用最香。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酸奶油要最后加，奶香才不会煮散。",
+      "visual_cue": "酸奶油微微化开，汤色奶白"
+    }
+  ],
+  "tips": [
+    "牛腩冷水下锅焯水，汤才不会浑浊。",
+    "番茄膏必须炒出红油，汤色才橙红诱人。",
+    "莳萝和蒜末最后放，香气层次更清楚。"
+  ],
+  "common_mistakes": [
+    "牛腩直接下热水，血沫凝在肉里汤会发浑。",
+    "卷心菜煮过头，整锅汤寡淡发黄。",
+    "酸奶油一开始就下锅，煮开会结块分层。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛里脊",
+      "ratio": "400 克:400 克",
+      "note": "炖煮时间缩短到二十五分钟。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "原味酸奶",
+      "ratio": "80 克:80 克",
+      "note": "酸度更高，须离火后再加。"
+    }
+  ],
+  "variations": [
+    "加一小把干蘑菇同炖，鲜味更浓。",
+    "加一个切块土豆换成米饭，做成更浓稠的版本。"
+  ],
+  "serving_suggestion": "配黑麦面包和一小碟腌黄瓜，是俄罗斯冬天最经典的一顿热汤。",
+  "storage": "冷藏三天，冷冻两周；复热时加少量清水稀释，酸奶油另备。",
+  "nutrition_estimate": {
+    "basis": "每碗约 420 克",
+    "calories_kcal": 290,
+    "protein_g": 24,
+    "fat_g": 16,
+    "carbs_g": 14,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至中心完全熟透，剩汤冷藏三天内彻底煮沸后再食用；酸奶油须冷藏保存，离火后再加避免变质。"
+  ],
+  "origin_note": "俄罗斯最古老的家常汤，用牛腩和卷心菜慢炖，靠番茄膏和酸香蔬菜提味，盛碗必配一勺酸奶油。",
+  "tags": [
+    "俄罗斯",
+    "汤",
+    "卷心菜",
+    "牛腩"
+  ],
+  "related_ids": [
+    "borscht",
+    "russian-beef-stroganoff",
+    "russian-pelmeni"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

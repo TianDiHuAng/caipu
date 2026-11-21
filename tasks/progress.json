@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:49:54.342Z",
+  "generatedAt": "2026-11-21T14:01:24.353Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1137,
-    "coverage": 0.3472816127061698
+    "actual": 1143,
+    "coverage": 0.3491142333536958
   },
   "regions": {
     "cn": [
@@ -3518,7 +3518,7 @@
         "en": "Malaysian",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "staple-noodle",
@@ -3553,9 +3553,10 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "malaysian-curry-puff",
+              "malaysian-kuih-keria",
               "malaysian-kuih-lapis",
               "malaysian-satay-chicken"
             ]
@@ -3720,14 +3721,15 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "filipino-bistek",
               "filipino-kare-kare",
               "filipino-mechado",
               "filipino-sinigang"
@@ -4027,7 +4029,7 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "appetizer",
@@ -4064,8 +4066,10 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "middle-eastern-fattoush"
+            ]
           },
           {
             "category": "dessert",
@@ -4437,7 +4441,7 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-seafood",
@@ -4465,8 +4469,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "portuguese-bife-grelhado",
               "portuguese-francesinha"
             ]
           },
@@ -4948,15 +4953,16 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "borscht"
+              "borscht",
+              "russian-shchi"
             ]
           },
           {
@@ -5555,7 +5561,7 @@
         "en": "Peruvian",
         "tier": "C",
         "target": 25,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "main-seafood",
@@ -5603,8 +5609,10 @@
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "peruvian-limonada"
+            ]
           },
           {
             "category": "cold-dish",
