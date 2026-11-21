@@ -1,0 +1,191 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "irish-porridge",
+  "name": {
+    "zh": "爱尔兰燕麦粥",
+    "en": "Irish Porridge",
+    "original": "Porridge"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "irish"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 5,
+    "cook_min": 15,
+    "total_min": 20
+  },
+  "servings": 2,
+  "flavor": [
+    "sweet",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "燕麦",
+          "name_en": "oats",
+          "amount": 120,
+          "unit": "g",
+          "note": "传统燕麦片",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "note": "全脂更顺滑",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 30,
+          "unit": "g",
+          "note": "上桌淋面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 15,
+          "unit": "g",
+          "note": "出锅拌入",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小汤锅",
+    "木勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小汤锅倒入牛奶与燕麦，先静置五分钟让燕麦吸饱水。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "先泡再煮，粥体更绵密也不出疙瘩。",
+      "visual_cue": "燕麦吸饱奶，颗粒明显变软"
+    },
+    {
+      "n": 2,
+      "text": "开小火慢慢加热，用木勺不停搅动防止糊底。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "勺子要刮到锅底，那里最容易糊。",
+      "visual_cue": "液体变稠，开始冒起小泡"
+    },
+    {
+      "n": 3,
+      "text": "加一小撮盐，继续小火煮十分钟直到燕麦软烂。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "盐能让燕麦本身的甜味更明显。",
+      "visual_cue": "粥体浓稠，勺子划过留痕"
+    },
+    {
+      "n": 4,
+      "text": "关火后拌入黄油，搅到完全化开让粥更顺滑。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "黄油最后加，香气才不会被煮散。",
+      "visual_cue": "表面泛出柔亮的光泽"
+    },
+    {
+      "n": 5,
+      "text": "盛入碗中，淋上一圈蜂蜜即可上桌趁热食用。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "蜂蜜离火后再淋，香气才能留住。",
+      "visual_cue": "粥面金黄透亮，蜜线清晰"
+    }
+  ],
+  "tips": [
+    "牛奶煮粥容易糊底，全程小火勤搅。",
+    "想更稠可以多煮三分钟，凉了还会继续变稠。",
+    "燕麦片颗粒越粗，煮出来的口感越有嚼劲。"
+  ],
+  "common_mistakes": [
+    "大火煮牛奶，锅底瞬间糊了一层。",
+    "中途不搅动直接煮，结块又粘锅底。",
+    "煮好后放凉太久，粥会稠得像糊糊一样。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "500 毫升:500 毫升",
+      "note": "口感清淡，可多加十克蜂蜜。"
+    },
+    {
+      "original": "蜂蜜",
+      "substitute": "白糖",
+      "ratio": "30 克:25 克",
+      "note": "甜度接近，但缺少花香。"
+    }
+  ],
+  "variations": [
+    "撒一把葡萄干或坚果碎，口感更丰富。",
+    "加半根香蕉压碎同煮，天然甜味更足。"
+  ],
+  "serving_suggestion": "热腾腾一碗配一片抹黄油的苏打面包。",
+  "storage": "冷藏两天，复热时加少量牛奶搅匀。",
+  "nutrition_estimate": {
+    "basis": "每份约 340 克",
+    "calories_kcal": 420,
+    "protein_g": 14,
+    "fat_g": 14,
+    "carbs_g": 58,
+    "sodium_mg": 260,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛奶加热至微沸即可，避免长时间沸腾溢出烫伤；成品含牛奶，乳糖不耐者需替换。"
+  ],
+  "origin_note": "爱尔兰人冬天的早餐，燕麦用牛奶小火慢煮，出锅拌黄油淋蜂蜜。简单三样东西，喝完一上午都暖和。",
+  "tags": [
+    "爱尔兰",
+    "早餐",
+    "燕麦",
+    "牛奶"
+  ],
+  "related_ids": [
+    "irish-soda-bread",
+    "irish-boxty"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

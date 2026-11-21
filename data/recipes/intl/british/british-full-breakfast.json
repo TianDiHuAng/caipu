@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "british-full-breakfast",
+  "name": {
+    "zh": "英式全套早餐",
+    "en": "Full English Breakfast",
+    "original": "Full English Breakfast"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "british"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 20,
+    "total_min": 30
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "煎蛋用",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 120,
+          "unit": "g",
+          "note": "厚切四条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "对半切开",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 120,
+          "unit": "g",
+          "note": "厚切两片",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "抹面包",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煎蛋用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "烤面包机",
+    "锅铲",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "平底锅小火慢慢加热，放入培根慢慢煎出金黄油脂。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "冷锅下培根，油才慢慢逼出来。",
+      "visual_cue": "培根卷边，油脂渗出"
+    },
+    {
+      "n": 2,
+      "text": "把培根推到锅边，用锅里逼出的油煎番茄的切面。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "切面朝下先煎，焦香更足。",
+      "visual_cue": "切面焦褐，番茄变软"
+    },
+    {
+      "n": 3,
+      "text": "腾出位置倒少量植物油，打入鸡蛋煎三分钟。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蛋黄别戳破，蛋白凝固就好。",
+      "visual_cue": "蛋白凝固，蛋黄微颤"
+    },
+    {
+      "n": 4,
+      "text": "面包片放入烤面包机中，烤到两面金黄、边缘酥脆。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "烤脆一点，用来蘸蛋黄最好。",
+      "visual_cue": "表面金黄，边缘酥硬"
+    },
+    {
+      "n": 5,
+      "text": "烤好的面包趁热抹上一层黄油，让它自然化开。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "热面包抹黄油才化得开。",
+      "visual_cue": "黄油融化，表面油亮"
+    },
+    {
+      "n": 6,
+      "text": "所有食材加盐与黑胡椒调味，装盘按顺序摆好。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "先摆面包再放蛋，底盘不会湿。",
+      "visual_cue": "食材铺满盘子，排列整齐不拥挤"
+    }
+  ],
+  "tips": [
+    "全程小火慢煎，培根才不会焦硬。",
+    "用煎培根的油煎番茄，香气更统一。",
+    "鸡蛋最后煎，上桌时蛋黄还是流心的。"
+  ],
+  "common_mistakes": [
+    "大火煎培根，外面焦黑里面还软。",
+    "鸡蛋煎得太久，蛋黄完全变成粉状发干。",
+    "面包没烤直接抹黄油，软塌塌没口感。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "羊肉",
+      "ratio": "120 克:150 克",
+      "note": "切薄片煎香，风味接近但更瘦。"
+    },
+    {
+      "original": "面包",
+      "substitute": "玉米饼",
+      "ratio": "120 克:3 片",
+      "note": "烙热后替代，口感更脆。"
+    }
+  ],
+  "variations": [
+    "加一份黄油煎口蘑，鲜味更足更有满足感。",
+    "配一勺茄汁焗豆，酸甜味道正好解腻开胃。"
+  ],
+  "serving_suggestion": "整盘上桌，配一杯红茶或黑咖啡。",
+  "storage": "现做现吃，煎蛋回热后蛋黄会变硬，不建议保存。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 610,
+    "protein_g": 32,
+    "fat_g": 42,
+    "carbs_g": 28,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须彻底加热，蛋白完全凝固，老人小孩建议煎至蛋黄全熟；煎制时热油易溅，下蛋动作轻缓避免烫伤。"
+  ],
+  "origin_note": "英国旅馆早餐的招牌，一盘里煎蛋、培根、番茄和烤面包齐全。热量高得离谱，但配上一杯浓茶，一上午都不饿。",
+  "tags": [
+    "英国",
+    "早餐",
+    "鸡蛋",
+    "培根"
+  ],
+  "related_ids": [
+    "british-fish-and-chips",
+    "british-yorkshire-pudding"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
