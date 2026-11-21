@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:15:12.044Z",
+  "generatedAt": "2026-11-21T05:19:47.042Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 528,
+    "cells": 529,
     "target": 3274,
-    "actual": 736,
-    "coverage": 0.22480146609651802
+    "actual": 744,
+    "coverage": 0.2272449602932193
   },
   "regions": {
     "cn": [
@@ -2251,7 +2251,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 32,
+        "actual": 34,
         "cells": [
           {
             "category": "main-seafood",
@@ -2317,8 +2317,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "japanese-okonomiyaki"
+            ]
           },
           {
             "category": "main-egg",
@@ -2359,6 +2361,17 @@
             ]
           },
           {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 3,
+            "ids": [
+              "japanese-korokke",
+              "japanese-okonomiyaki",
+              "mitarashi-dango"
+            ]
+          },
+          {
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
@@ -2366,16 +2379,6 @@
             "ids": [
               "japanese-chikuzenni",
               "karaage"
-            ]
-          },
-          {
-            "category": "snack",
-            "kind": "extra",
-            "target": 0,
-            "actual": 2,
-            "ids": [
-              "japanese-korokke",
-              "mitarashi-dango"
             ]
           },
           {
@@ -2548,7 +2551,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 28,
+        "actual": 29,
         "cells": [
           {
             "category": "main-poultry",
@@ -2566,9 +2569,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "thai-kaeng-jued-moo",
+              "thai-tom-yum-goong",
               "tom-kha-gai",
               "tom-kha-hed",
               "tom-yum-goong"
@@ -2680,7 +2684,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 29,
+        "actual": 30,
         "cells": [
           {
             "category": "staple-bread",
@@ -2788,21 +2792,22 @@
             ]
           },
           {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "italian-risotto-milanese",
+              "mushroom-risotto"
+            ]
+          },
+          {
             "category": "soup",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "italian-minestrone"
-            ]
-          },
-          {
-            "category": "staple-rice",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "mushroom-risotto"
             ]
           }
         ]
@@ -2944,18 +2949,19 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 25,
+        "actual": 27,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "bacalao-al-pil-pil",
               "gambas-al-ajillo",
               "merluza-a-la-vasca",
-              "pulpo-a-la-gallega"
+              "pulpo-a-la-gallega",
+              "spanish-paella"
             ]
           },
           {
@@ -2974,12 +2980,13 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "arroz-negro",
               "paella-valenciana",
               "paella-verduras",
-              "spanish-arroz-con-pollo"
+              "spanish-arroz-con-pollo",
+              "spanish-paella"
             ]
           },
           {
@@ -3430,7 +3437,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 25,
+        "actual": 26,
         "cells": [
           {
             "category": "main-vegetable",
@@ -3448,11 +3455,12 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "butter-chicken",
               "indian-butter-chicken",
               "indian-chicken-curry",
+              "indian-chicken-tikka-masala",
               "indian-palak-chicken",
               "indian-tandoori-chicken"
             ]
@@ -4092,7 +4100,7 @@
         "en": "British",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
@@ -4148,6 +4156,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "british-fish-and-chips"
+            ]
           }
         ]
       },

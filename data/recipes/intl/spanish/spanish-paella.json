@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-paella",
+  "name": {
+    "zh": "西班牙海鲜什锦饭",
+    "en": "Spanish Seafood Paella",
+    "original": "Paella de Marisco"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice",
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 45,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "短粒米,不淘洗",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 250,
+          "unit": "g",
+          "note": "去壳留尾",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 200,
+          "unit": "g",
+          "note": "切两厘米丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "擦成泥",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "红椒",
+          "name_en": "red bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "毛豆",
+          "name_en": "edamame",
+          "amount": 100,
+          "unit": "g",
+          "note": "冷冻",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 1,
+          "unit": "g",
+          "note": "用温汤泡开",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 100,
+          "unit": "ml",
+          "note": "干型",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "铺锅底",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切角",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "海鲜饭平底锅",
+    "刀",
+    "砧板",
+    "木铲",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾仁用盐与黑胡椒抓匀，静置十分钟入底味备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "虾仁腌太久会出水变硬，十分钟足够。",
+      "visual_cue": "虾仁表面发亮略带黏性"
+    },
+    {
+      "n": 2,
+      "text": "平底饭锅下橄榄油，把鸡腿肉丁中火煎到四面金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "肉丁擦干再下锅，锅够热才煎得上色。",
+      "visual_cue": "肉丁边缘焦黄，锅底留香"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱末与大蒜末炒到透明，再加彩椒丁翻炒两分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱要炒软出甜，别只炒到断生。",
+      "visual_cue": "洋葱透明发亮，彩椒变软"
+    },
+    {
+      "n": 4,
+      "text": "倒入番茄泥中火炒到颜色转深、水分收干成浓稠底酱。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "这一步是西班牙饭的底味，番茄要炒到发暗红。",
+      "visual_cue": "锅底呈深红色酱状"
+    },
+    {
+      "n": 5,
+      "text": "把大米倒入锅中翻炒两分钟，让每粒米都裹上油脂。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "米不要淘洗，表面的粉质正是汤汁变浓的关键。",
+      "visual_cue": "米粒泛油光，边缘微透明"
+    },
+    {
+      "n": 6,
+      "text": "淋入白葡萄酒煮到酒气散尽，加入藏红花汤与热鸡汤铺平米粒。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "加汤后不要搅动，米粒沉底的那层才是焦香锅巴。",
+      "visual_cue": "液体没过米面一厘米"
+    },
+    {
+      "n": 7,
+      "text": "转小火煮十八分钟，期间只转锅不搅拌，让米粒均匀吸汁。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "锅太小可以中途转一次锅，搅动会破坏锅巴。",
+      "visual_cue": "汤面冒小泡，米粒半露"
+    },
+    {
+      "n": 8,
+      "text": "摆上虾仁与青豆，加盖再煮六分钟至虾仁变粉红、汤汁将干。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "虾仁最后放，久煮会缩成硬球失去甜味。",
+      "visual_cue": "虾仁卷曲变粉，锅边汤已收"
+    },
+    {
+      "n": 9,
+      "text": "关火盖上干净布巾静置五分钟，撒欧芹配柠檬角上桌。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "静置让余温把米芯焖透，也锁住锅底的香气。",
+      "visual_cue": "米粒分明不烂，锅底有薄脆锅巴"
+    }
+  ],
+  "tips": [
+    "大米不要淘洗，保留表面粉质汤汁才浓稠。",
+    "加汤后坚持不搅拌，是形成锅巴的关键。",
+    "藏红花用温汤泡开再下锅，颜色和香气才完全释放。"
+  ],
+  "common_mistakes": [
+    "中途不停搅拌，米粒破碎变成一锅糊粥。",
+    "汤一次全倒满，米粒浮起受热不均。",
+    "虾仁一开始就下锅，端上桌已经老得咬不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鱿鱼圈",
+      "ratio": "250 克:250 克",
+      "note": "鱿鱼须最后三分钟再下，避免过老。"
+    },
+    {
+      "original": "藏红花",
+      "substitute": "姜黄粉",
+      "ratio": "1 克:2 克",
+      "note": "颜色接近但少了花香，用量减半以免发苦。"
+    }
+  ],
+  "variations": [
+    "只用海鲜不加鸡肉，可做纯海鲜版本。",
+    "最后加几个青口贝同煮，海味会更足，也更有海边风味。"
+  ],
+  "serving_suggestion": "连锅端上桌，配柠檬角与一杯冰镇白葡萄酒。",
+  "storage": "冷藏两天；复热加少量鸡汤小火加盖焖五分钟，锅巴会变软。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 620,
+    "protein_g": 32,
+    "fat_g": 20,
+    "carbs_g": 76,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "soy",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁与鸡肉须彻底加热至中心不透明、无粉红色，海产不建议半生食用；鸡汤与海鲜同锅煮制须保持滚沸；剩饭两小时内冷藏，复热须彻底加热。"
+  ],
+  "origin_note": "Paella 出自西班牙瓦伦西亚的稻田边，农人用双耳平锅把米、鸡兔肉和豆子一锅煮熟，后来海边版本改用虾与贝类，藏红花把整锅饭染成金黄。锅底那层微焦的锅巴被当地人视为最珍贵的部分。",
+  "tags": [
+    "西班牙",
+    "海鲜",
+    "米饭",
+    "一锅"
+  ],
+  "related_ids": [
+    "alioli",
+    "arroz-negro"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

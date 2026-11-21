@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-okonomiyaki",
+  "name": {
+    "zh": "日式大阪烧",
+    "en": "Japanese Savory Cabbage Pancake",
+    "original": "お好み焼き"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "snack",
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 400,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 150,
+          "unit": "g",
+          "note": "低筋",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三枚",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "山药",
+          "name_en": "Chinese yam",
+          "amount": 100,
+          "unit": "g",
+          "note": "擦泥",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 150,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 20,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        },
+        {
+          "name": "紫菜",
+          "name_en": "nori",
+          "amount": 10,
+          "unit": "g",
+          "note": "剪细丝",
+          "optional": false
+        },
+        {
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 60,
+          "unit": "g",
+          "note": "挤面",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调酱",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "调酱",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "平底不粘锅",
+    "锅铲",
+    "刨丝器",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "卷心菜切极细的丝，山药擦成泥，五花肉切成薄片备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "菜丝切细才能快速熟透，太粗会出水塌饼。",
+      "visual_cue": "菜丝松散不结块，山药泥黏稠"
+    },
+    {
+      "n": 2,
+      "text": "大碗中放面粉、山药泥、鸡蛋、生抽、白糖与盐，搅成顺滑面糊。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "面糊搅到没有粉粒就停，过度搅拌会出筋发硬。",
+      "visual_cue": "面糊能缓缓流下成带状"
+    },
+    {
+      "n": 3,
+      "text": "把卷心菜丝倒入面糊，用刮刀翻拌到每根菜丝都挂上糊。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "翻拌而不是搅拌，菜丝保持完整饼才蓬松。",
+      "visual_cue": "菜丝均匀裹糊，体积不塌"
+    },
+    {
+      "n": 4,
+      "text": "平底锅下植物油中火，把菜糊分成四份摊成两厘米厚的圆饼，铺上五花肉片。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "饼不要摊太薄，厚一点才有松软内芯。",
+      "visual_cue": "饼边定型，肉片贴住表面"
+    },
+    {
+      "n": 5,
+      "text": "加盖煎六分钟，翻面后再煎五分钟至两面金黄、中心熟透。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "翻面用两个铲子托住，饼才不会散。",
+      "visual_cue": "两面焦黄，按压回弹"
+    },
+    {
+      "n": 6,
+      "text": "刷上生抽与白糖调成的酱汁，挤上蛋黄酱划出纹路。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "酱汁最后刷，早刷容易在锅里烧焦。",
+      "visual_cue": "表面酱光发亮，纹路清晰"
+    },
+    {
+      "n": 7,
+      "text": "在饼面撒上木鱼花与海苔丝，趁热切成四块装盘。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "木鱼花的余温会让薄片卷动，是最有生命感的一刻。",
+      "visual_cue": "薄片轻轻卷曲，香气上升"
+    }
+  ],
+  "tips": [
+    "山药泥是蓬松的秘诀，没有可用等量土豆泥代替。",
+    "翻面时用两个铲子托住饼底，动作要快。",
+    "盖上锅盖煎能让中心熟透又不焦底。"
+  ],
+  "common_mistakes": [
+    "卷心菜切得太粗，饼一煎就塌成湿软一团。",
+    "火太大，外面焦黑中心还是生面糊。",
+    "翻面太早，饼散在锅里变成炒菜。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "培根",
+      "ratio": "150 克:120 克",
+      "note": "咸度高，面糊里的盐减一克。"
+    },
+    {
+      "original": "山药",
+      "substitute": "土豆",
+      "ratio": "100 克:100 克",
+      "note": "改用土豆泥，蓬松度略差于山药。"
+    }
+  ],
+  "variations": [
+    "加一把虾仁或鱿鱼丁，做成海鲜大阪烧。",
+    "用炒面夹在饼里，是广岛的吃法。"
+  ],
+  "serving_suggestion": "切十字分成四块，趁热用铲子直接吃。",
+  "storage": "冷藏两天；复热用平底锅干煎三分钟恢复脆边。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 440,
+    "protein_g": 18,
+    "fat_g": 26,
+    "carbs_g": 34,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "mustard",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "面糊含鸡蛋与猪肉，须煎至中心完全凝固、猪肉无粉红色，中心温度七十度以上；生面糊不宜久放，成品两小时内冷藏。"
+  ],
+  "origin_note": "大阪烧在战后的大阪街头流行起来，主妇把卷心菜丝拌进便宜的面糊，在铁板上摊成饼，刷酱撒木鱼花。铁板的滋啦声和木鱼花在热气里轻轻摇摆，成了大阪最具烟火气的画面。",
+  "tags": [
+    "日本",
+    "大阪",
+    "铁板",
+    "小吃"
+  ],
+  "related_ids": [
+    "asari-misoshiru",
+    "chawanmushi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

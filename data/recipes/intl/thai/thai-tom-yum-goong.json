@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-tom-yum-goong",
+  "name": {
+    "zh": "泰式冬阴功汤",
+    "en": "Thai Hot and Sour Shrimp Soup",
+    "original": "ต้มยำกุ้ง"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 300,
+          "unit": "g",
+          "note": "去壳留尾",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 200,
+          "unit": "g",
+          "note": "草菇或口蘑对半切",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "打底",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 2,
+          "unit": "piece",
+          "note": "拍裂切段",
+          "optional": false
+        },
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "柠檬叶",
+          "name_en": "kaffir lime leaf",
+          "amount": 4,
+          "unit": "piece",
+          "note": "撕开",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "增浓",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "香茅拍裂切段，南姜切片，柠檬叶撕开去梗备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "香料拍裂撕开才能释放精油，整块下锅只有形没有味。",
+      "visual_cue": "香料气味扑鼻，叶面可见裂口"
+    },
+    {
+      "n": 2,
+      "text": "鸡汤煮开，下香茅、南姜与柠檬叶，中小火煮五分钟出香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "先煮香料再放其他料，汤底才有层次。",
+      "visual_cue": "汤面香气浓郁，清水转淡黄"
+    },
+    {
+      "n": 3,
+      "text": "下蘑菇煮三分钟至变软，再放小米椒煮出辣味。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "辣椒拍裂再下，辣味才溶进汤里。",
+      "visual_cue": "蘑菇变软吸汁，汤色微浑"
+    },
+    {
+      "n": 4,
+      "text": "放入虾仁煮两分钟，见虾仁卷曲、通体变红后立刻转小火。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "虾仁一变色就够，久煮会缩成硬球。",
+      "visual_cue": "虾仁卷成弯月，通体粉红"
+    },
+    {
+      "n": 5,
+      "text": "倒入椰奶搅匀，加鱼露与白糖调味后保持微沸。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "椰奶下锅后不要大滚，否则会析出油花。",
+      "visual_cue": "汤色转成奶白微橘"
+    },
+    {
+      "n": 6,
+      "text": "关火后挤入青柠汁，撒上香菜碎，盛进深碗里趁热上桌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "青柠汁离火再加，酸味才清亮不涩。",
+      "visual_cue": "汤面清香扑鼻，酸辣平衡"
+    }
+  ],
+  "tips": [
+    "香料只取其味，盛汤时可以不盛进碗里。",
+    "青柠汁务必关火后再加，高温会让酸味变苦。",
+    "想更浓郁可以加一小勺辣椒膏提色。"
+  ],
+  "common_mistakes": [
+    "青柠汁下锅煮开，整锅汤发苦失去清香。",
+    "虾仁在汤里煮得太久，肉质收紧失去弹性，嚼起来发硬。",
+    "椰奶大火滚沸，汤面浮起一层油。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鸡腿肉",
+      "ratio": "300 克:300 克",
+      "note": "鸡肉切薄片，煮制时间延长两分钟。"
+    },
+    {
+      "original": "椰奶",
+      "substitute": "淡奶",
+      "ratio": "200 毫升:180 毫升",
+      "note": "奶香更清，汤体略稀。"
+    }
+  ],
+  "variations": [
+    "换成鱼片做冬阴功鱼汤，鲜味更集中。",
+    "加几片草菇和番茄，汤体更酸更开胃。"
+  ],
+  "serving_suggestion": "盛在深碗中，配一碗泰国香米饭同食。",
+  "storage": "冷藏两天；复热时补一点青柠汁恢复酸香，不要久煮。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 260,
+    "protein_g": 20,
+    "fat_g": 14,
+    "carbs_g": 12,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁须彻底加热至通体不透明、中心无生水，贝甲类海产不建议半生食用；汤含椰奶，两小时内冷藏，复热须滚沸。"
+  ],
+  "origin_note": "冬阴功的名字里，冬阴是酸辣汤，功指虾。泰国人用香茅、南姜、柠檬叶三样香料打底，加青柠汁与鱼露调出酸辣鲜三重味，一碗下去满头是汗，是最典型的泰国街头味道。",
+  "tags": [
+    "泰国",
+    "汤",
+    "虾",
+    "酸辣"
+  ],
+  "related_ids": [
+    "larb-gai",
+    "mango-sticky-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
