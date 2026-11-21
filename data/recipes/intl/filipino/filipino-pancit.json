@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "filipino-pancit",
+  "name": {
+    "zh": "菲律宾炒米粉",
+    "en": "Filipino Stir-fried Rice Noodles (Pancit)",
+    "original": "Pancit Bihon"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "filipino"
+  },
+  "category": [
+    "staple-noodle",
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 28,
+    "total_min": 58
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "干米粉",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 250,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "大碗",
+    "锅铲",
+    "滤篮"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干米粉放进大碗，用温水浸泡十分钟到能弯折。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡到软而不烂，炒时才不断。顺序别颠倒。",
+      "visual_cue": "米粉柔软有弹性，盆里水发浑"
+    },
+    {
+      "n": 2,
+      "text": "米粉捞出沥干，用剪刀剪成两段方便翻炒。随时观察锅里的状态。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "剪短一点，翻炒时不打结。火候要盯住。",
+      "visual_cue": "米粉长度适中，沥得干爽"
+    },
+    {
+      "n": 3,
+      "text": "鸡腿肉切成细丝，用十毫升生抽抓匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "先腌一下，鸡肉才入味不老。多练两次就熟。",
+      "visual_cue": "肉丝顺滑上色，手上发黏"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热下植物油，放洋葱丝与大蒜末小火爆香。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "蒜末别炒焦，焦了整锅发苦。细节决定成败。",
+      "visual_cue": "蒜香扑鼻，洋葱边缘透明"
+    },
+    {
+      "n": 5,
+      "text": "转中火下鸡肉丝，快速翻炒到表面完全变白。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鸡肉炒散不结团，才熟得均匀。别怕麻烦。",
+      "visual_cue": "肉丝雪白分散，锅底无血水"
+    },
+    {
+      "n": 6,
+      "text": "加入胡萝卜丝与卷心菜丝，翻炒两分钟至微软。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "菜别炒久，留点脆口才好吃。这一步别省。",
+      "visual_cue": "蔬菜断生，颜色鲜亮"
+    },
+    {
+      "n": 7,
+      "text": "倒入剩余生抽与五十毫升清水，煮开成汤汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "加点水才有汁，米粉才不干。顺序别颠倒。",
+      "visual_cue": "锅底汤汁翻滚，香气上冲"
+    },
+    {
+      "n": 8,
+      "text": "下米粉用筷子抖散，快速翻拌到吸干汤汁。手上别停以免粘锅。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "用筷子拌，米粉才不粘成团。火候要盯住。",
+      "visual_cue": "米粉根根分明，颜色匀亮"
+    },
+    {
+      "n": 9,
+      "text": "关火挤入柠檬汁拌匀，尝咸淡后盛盘。翻动要轻别弄碎。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "柠檬最后加，酸香才不挥发。多练两次就熟。",
+      "visual_cue": "酸香冲鼻，米粉油润有光"
+    },
+    {
+      "n": 10,
+      "text": "装盘后再配一角柠檬，吃前挤在面上更开胃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "上桌现挤，酸味才鲜活。细节决定成败。",
+      "visual_cue": "盘边柠檬翠绿，米粉油亮"
+    }
+  ],
+  "tips": [
+    "米粉泡到能弯折就捞，泡久了炒就断。",
+    "用筷子抖散翻炒，米粉才根根分明。",
+    "柠檬汁关火后加，酸香才留得住。"
+  ],
+  "common_mistakes": [
+    "米粉泡太久，下锅一炒就糊成一坨。",
+    "汤汁一次加太多，炒完湿塌塌不成形。",
+    "鸡肉没炒散就下米粉，结成一块块。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "虾仁",
+      "ratio": "250 克:250 克",
+      "note": "鲜味更足，炒到变色即可。"
+    },
+    {
+      "original": "卷心菜",
+      "substitute": "豆芽",
+      "ratio": "200 克:200 克",
+      "note": "更脆，最后下锅快炒。"
+    }
+  ],
+  "variations": [
+    "加几片广式腊肠同炒，甜香更浓。",
+    "出锅前撒一把炸蒜片，口感更香脆。"
+  ],
+  "serving_suggestion": "大盘盛出，盘边配柠檬角和几片生洋葱，菲律宾人吃时还要挤一圈酸橘汁。",
+  "storage": "冷藏一天，复热用炒锅加一勺水快炒，别用微波。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 430,
+    "protein_g": 20,
+    "fat_g": 14,
+    "carbs_g": 56,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底炒至中心熟透、不见粉色；米粉泡发后不宜长时间室温放置。"
+  ],
+  "origin_note": "菲律宾生日和聚会必做的一道面，米粉泡软后与鸡肉、卷心菜同炒，最后挤上酸橘或柠檬，寓意长长久久。",
+  "tags": [
+    "菲律宾",
+    "主食",
+    "米粉",
+    "炒面"
+  ],
+  "related_ids": [
+    "filipino-chicken-adobo",
+    "filipino-lumpiang-shanghai",
+    "singaporean-char-kway-teow"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

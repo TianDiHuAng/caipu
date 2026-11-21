@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "australian-lamington",
+  "name": {
+    "zh": "澳洲椰蓉方蛋糕",
+    "en": "Australian Lamington",
+    "original": "Lamington"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "australian"
+  },
+  "category": [
+    "dessert",
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 60,
+    "total_min": 95
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "低筋",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 120,
+          "unit": "g",
+          "note": "融化",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调糊",
+          "optional": false
+        },
+        {
+          "name": "椰蓉",
+          "name_en": "desiccated coconut",
+          "amount": 120,
+          "unit": "g",
+          "note": "裹面",
+          "optional": false
+        },
+        {
+          "name": "可可粉",
+          "name_en": "cocoa powder",
+          "amount": 30,
+          "unit": "g",
+          "note": "裹酱",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "打蛋器",
+    "大碗",
+    "烤架"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋加白糖，用打蛋器高速打发到体积膨大颜色发白。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "打到能画出纹路不消失才算够。这一步别省。",
+      "visual_cue": "蛋糊浓稠发白，纹路停留三秒"
+    },
+    {
+      "n": 2,
+      "text": "筛入低筋面粉，用刮刀从底部翻拌到看不见干粉。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "翻拌不画圈，消泡了蛋糕就塌。顺序别颠倒。",
+      "visual_cue": "面糊细腻，盆壁无干粉"
+    },
+    {
+      "n": 3,
+      "text": "融化黄油与牛奶混合，取一勺面糊先拌匀再倒回盆里。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "先兑一部分，油奶才不沉底。火候要盯住。",
+      "visual_cue": "面糊顺滑流动，颜色均匀"
+    },
+    {
+      "n": 4,
+      "text": "倒进铺纸的方形烤盘，抹平表面轻震两下震出气泡。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "震两下，蛋糕组织才细密无孔。多练两次就熟。",
+      "visual_cue": "表面平整，烤盘边缘刮干净"
+    },
+    {
+      "n": 5,
+      "text": "烤箱预热一百八十度，中层烤二十五分钟至表面金黄。",
+      "time_min": 26,
+      "heat": "中火",
+      "tip": "中途别开烤箱门，一开就回缩。细节决定成败。",
+      "visual_cue": "蛋糕鼓起，表面金黄有弹性"
+    },
+    {
+      "n": 6,
+      "text": "出炉连盘晾五分钟再倒扣脱模，放到完全放凉。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "趁热脱模会散，凉了才完整。别怕麻烦。",
+      "visual_cue": "蛋糕脱模完整，底面平整"
+    },
+    {
+      "n": 7,
+      "text": "蛋糕切成四厘米见方的小块，边角修齐备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "刀口要利，切面才平整不掉渣。这一步别省。",
+      "visual_cue": "方块大小一致，切面干净"
+    },
+    {
+      "n": 8,
+      "text": "可可粉与剩余白糖加牛奶小火煮成浓稠的巧克力酱。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "酱要浓到挂勺，太稀裹不住。顺序别颠倒。",
+      "visual_cue": "酱体乌亮浓稠，勺背挂一层"
+    },
+    {
+      "n": 9,
+      "text": "用叉子叉起蛋糕块，在巧克力酱里滚一圈裹匀。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "一次只滚一块，每一面都要裹到。",
+      "visual_cue": "蛋糕表面裹满酱，不见白面"
+    },
+    {
+      "n": 10,
+      "text": "裹好后立刻放进椰蓉里滚一圈，摆在烤架上晾干。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "椰蓉要马上滚，酱干了就粘不上。",
+      "visual_cue": "表面均匀粘满椰蓉，不滴水"
+    }
+  ],
+  "tips": [
+    "全蛋要打到能画出纹路，蛋糕才够蓬松。",
+    "巧克力酱要浓到挂勺，裹面才均匀。",
+    "椰蓉趁酱湿时滚，才粘得牢不掉。"
+  ],
+  "common_mistakes": [
+    "翻拌时画圈搅拌，蛋糕糊消泡烤不涨。",
+    "蛋糕没凉透就切，切面全是碎渣。",
+    "巧克力酱太稀，裹完流一身，椰蓉粘不上。"
+  ],
+  "substitutions": [
+    {
+      "original": "椰蓉",
+      "substitute": "糖粉",
+      "ratio": "120 克:100 克",
+      "note": "少了椰香，口感更甜。"
+    },
+    {
+      "original": "可可粉",
+      "substitute": "可可粉加淡奶油",
+      "ratio": "30 克:30 克加 80 毫升",
+      "note": "酱体更滑，奶香更浓。"
+    }
+  ],
+  "variations": [
+    "中间夹一层淡奶油和草莓，就是奶油蛋糕版。",
+    "巧克力酱里加一小勺黄油，裹面更亮。"
+  ],
+  "serving_suggestion": "晾干后装盘，配一杯红茶，冷吃热吃都合适，也是澳洲义卖的常客。",
+  "storage": "密封常温一天，冷藏三天，冷藏后回温再吃到最佳口感。",
+  "nutrition_estimate": {
+    "basis": "每份约 100 克",
+    "calories_kcal": 330,
+    "protein_g": 6,
+    "fat_g": 16,
+    "carbs_g": 42,
+    "sodium_mg": 90,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋与牛奶，须烤至中心熟透、牙签插入不带湿糊。"
+  ],
+  "origin_note": "澳洲国民甜点，据说是昆士兰总督家厨的临场做法，蛋糕块裹上巧克力酱再滚一层椰蓉，简单却成了义卖和下午茶的标配。",
+  "tags": [
+    "澳洲",
+    "甜点",
+    "蛋糕",
+    "椰蓉"
+  ],
+  "related_ids": [
+    "australian-pavlova",
+    "australian-anzac-biscuit",
+    "australian-meat-pie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xinjiang-zhuafan",
+  "name": {
+    "zh": "新疆羊肉抓饭",
+    "en": "Xinjiang Mutton Pilaf",
+    "original": "抓饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xinjiang"
+  },
+  "category": [
+    "staple-rice",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 95,
+    "total_min": 130
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "圆粒米",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 500,
+          "unit": "g",
+          "note": "带肥瘦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 300,
+          "unit": "g",
+          "note": "切粗条",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "葡萄干",
+          "name_en": "raisin",
+          "amount": 60,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "电饭锅",
+    "炒锅",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后用清水浸泡三十分钟，捞出沥干。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "米泡透再焖，颗粒才不夹生。这一步别省。",
+      "visual_cue": "米粒吸足水，盆底无积水"
+    },
+    {
+      "n": 2,
+      "text": "羊肉切成三厘米见方的块，肥瘦分开摆放备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肥瘦分开，煸油时才好控制火候。",
+      "visual_cue": "肉块大小一致，肥膘雪白"
+    },
+    {
+      "n": 3,
+      "text": "胡萝卜切成粗条，洋葱切成均匀的细丝备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "粗条耐焖，出锅才不烂成泥。顺序别颠倒。",
+      "visual_cue": "胡萝卜橙亮，洋葱丝细白"
+    },
+    {
+      "n": 4,
+      "text": "厚底锅下植物油，先放肥肉块中小火煸出油脂。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "先煸肥膘，油香出来饭才够味。火候要盯住。",
+      "visual_cue": "肥肉缩紧，锅里汪着清油"
+    },
+    {
+      "n": 5,
+      "text": "放入羊肉块翻炒到表面变色，撒盐与孜然炒匀。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "炒到边缘微焦，羊肉才没有膻味。",
+      "visual_cue": "羊肉表面焦香，锅里油色发亮"
+    },
+    {
+      "n": 6,
+      "text": "倒入洋葱丝炒到透明，再加入胡萝卜条翻炒两分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒透出甜味，是抓饭的底味。",
+      "visual_cue": "洋葱透明，胡萝卜油润发亮"
+    },
+    {
+      "n": 7,
+      "text": "把泡好的大米铺在菜上摊平，倒入清水没过米面半指。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "水位高半指正好，多了饭会发黏。",
+      "visual_cue": "米层平整，水面刚好盖过米"
+    },
+    {
+      "n": 8,
+      "text": "撒上葡萄干，盖严锅盖转最小火焖三十五分钟。",
+      "time_min": 37,
+      "heat": "小火",
+      "tip": "中途千万别揭盖，蒸汽跑了就夹生。",
+      "visual_cue": "锅盖边缘冒细气，饭香透出"
+    },
+    {
+      "n": 9,
+      "text": "关火后再焖十分钟，用木铲把饭和羊肉从底翻匀。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "焖足再翻，米粒才不粘成团。多练两次就熟。",
+      "visual_cue": "米粒油亮分明，羊肉酥软"
+    },
+    {
+      "n": 10,
+      "text": "装盘时羊肉摆在饭上，撒少许孜然即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "上桌再撒孜然，香气才冲得出来。",
+      "visual_cue": "饭粒金黄，羊肉油光发亮"
+    }
+  ],
+  "tips": [
+    "大米提前泡三十分钟，焖出的饭粒才饱满不夹生。",
+    "肥膘先煸出油，整锅饭的油香才足。",
+    "焖饭阶段全程最小火，中途别揭盖。"
+  ],
+  "common_mistakes": [
+    "水加太多，饭焖出来黏成一坨发糊。",
+    "火太大不转小火，锅底焦了上面还生。",
+    "胡萝卜切太细，焖完化在饭里找不着。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "500 克:500 克",
+      "note": "膻味更淡，需多加孜然。"
+    },
+    {
+      "original": "葡萄干",
+      "substitute": "红枣",
+      "ratio": "60 克:60 克",
+      "note": "甜味更厚，需去核切条。"
+    }
+  ],
+  "variations": [
+    "加一把鹰嘴豆同焖，口感更粉糯。",
+    "出锅前拌入少许酸奶，酸香解腻。"
+  ],
+  "serving_suggestion": "用大盘盛出，羊肉块摆在金黄色饭粒上，配一碗酸奶和几片洋葱生吃最地道。",
+  "storage": "冷藏两天，复热时加一勺清水盖盖小火焖五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 640,
+    "protein_g": 26,
+    "fat_g": 26,
+    "carbs_g": 72,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须彻底加热至中心熟透、不见血色；剩饭冷藏不超过两天，复热须滚透。"
+  ],
+  "origin_note": "新疆宴客的主食，羊肉与胡萝卜在锅里煸出油香，铺上泡透的米焖到粒粒分明，抓一把葡萄干撒进去，油亮咸香。",
+  "tags": [
+    "新疆",
+    "主食",
+    "羊肉",
+    "焖饭"
+  ],
+  "related_ids": [
+    "xinjiang-dapanji",
+    "xinjiang-laghman",
+    "ziran-yangrouchuan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
