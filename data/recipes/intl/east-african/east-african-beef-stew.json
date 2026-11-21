@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "east-african-beef-stew",
+  "name": {
+    "zh": "东非香料炖牛腩",
+    "en": "East African Beef Stew",
+    "original": "Nyama Stew"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "east-african"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 85,
+    "total_min": 100
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 700,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "香料底",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成三厘米见方的块，用清水浸泡十分钟去掉血水。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "泡出血水，汤色才不会发暗。",
+      "visual_cue": "牛腩颜色变浅，水微微泛红"
+    },
+    {
+      "n": 2,
+      "text": "炖锅倒植物油，中大火分批把牛腩块煎到四面焦褐。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "分批煎，锅里才不会出汤。",
+      "visual_cue": "牛腩表面焦褐，锅底留焦香"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱、姜末与蒜末，中火炒到洋葱透明出香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "用煎肉的油炒料，香味更厚。",
+      "visual_cue": "洋葱变软透明，香气明显"
+    },
+    {
+      "n": 4,
+      "text": "加入咖喱粉与孜然，小火翻炒一分钟炒出香气。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "香料必须用油炒过，干粉气才散。",
+      "visual_cue": "锅内香气冲鼻，粉末裹住洋葱"
+    },
+    {
+      "n": 5,
+      "text": "放番茄块中火炒五分钟，炒到番茄塌软出汁。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄炒出汁，汤汁才有自然的酸甜。",
+      "visual_cue": "番茄塌软，锅里有红色汁水"
+    },
+    {
+      "n": 6,
+      "text": "倒六百毫升热水没过牛腩，大火煮开后转小火。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "一定要加热水，冷水会让肉收紧。",
+      "visual_cue": "水面微滚，牛腩完全浸没"
+    },
+    {
+      "n": 7,
+      "text": "盖盖小火炖四十分钟，中途翻动两次防止粘底。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "小火慢炖，牛腩才软而不散。",
+      "visual_cue": "筷子能插入牛腩一半深度"
+    },
+    {
+      "n": 8,
+      "text": "放胡萝卜与土豆，再炖二十分钟到蔬菜变软。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "蔬菜后放，久炖会烂成泥。",
+      "visual_cue": "土豆边缘变钝，一压就碎"
+    },
+    {
+      "n": 9,
+      "text": "加盐与黑胡椒调味，盛碗后撒香菜碎即可上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "盐最后加，肉更容易炖软。",
+      "visual_cue": "汤汁浓稠油亮，蔬菜完整"
+    }
+  ],
+  "tips": [
+    "牛腩先煎出焦壳再炖，汤味才厚实。",
+    "香料用油小火炒过，咖喱的香气才出得来。",
+    "土豆和胡萝卜要后放，久炖会烂成糊。"
+  ],
+  "common_mistakes": [
+    "牛腩没煎直接下水，炖出来汤寡淡无味。",
+    "一次性加冷水，牛腩缩紧又柴又硬。",
+    "香料和番茄一起下锅，炒出一股干粉味。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "羊肉",
+      "ratio": "700 克:700 克",
+      "note": "炖制时间可缩短十分钟。"
+    },
+    {
+      "original": "咖喱粉",
+      "substitute": "姜黄粉",
+      "ratio": "10 克:6 克",
+      "note": "香气更单纯，需补三克孜然。"
+    }
+  ],
+  "variations": [
+    "加一把扁豆同炖，汤汁会变得更浓稠。",
+    "最后淋一勺酸奶，酸香味道更解腻。"
+  ],
+  "serving_suggestion": "配乌咖喱玉米糊或白米饭，浇上汤汁一起食用。",
+  "storage": "冷藏三天、冷冻一个月，复热小火加少量热水。",
+  "nutrition_estimate": {
+    "basis": "每份约 330 克",
+    "calories_kcal": 520,
+    "protein_g": 38,
+    "fat_g": 30,
+    "carbs_g": 22,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须彻底加热炖至熟透，中心温度达到七十一度以上；炖锅离火后再盛装，避免热汤烫伤。"
+  ],
+  "origin_note": "东非高原的家常炖锅，牛腩先用香料煎香，再和番茄土豆一起小火慢炖。街边小馆的版本汤汁更浓，用来蘸玉米糊最合适。",
+  "tags": [
+    "东非",
+    "炖菜",
+    "牛腩",
+    "香料"
+  ],
+  "related_ids": [
+    "east-african-nyama-choma",
+    "east-african-ugali-sukuma-wiki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

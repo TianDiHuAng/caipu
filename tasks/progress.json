@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:44:07.016Z",
+  "generatedAt": "2026-11-21T07:52:47.323Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 560,
     "target": 3274,
-    "actual": 887,
-    "coverage": 0.27092241905925474
+    "actual": 893,
+    "coverage": 0.2727550397067807
   },
   "regions": {
     "cn": [
@@ -4489,7 +4489,7 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-seafood",
@@ -4504,8 +4504,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "nordic-cardamom-buns"
+            ]
           },
           {
             "category": "fermented",
@@ -4525,8 +4527,10 @@
             "category": "breakfast",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "nordic-oat-porridge"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -5185,7 +5189,7 @@
         "en": "Peruvian",
         "tier": "C",
         "target": 25,
-        "actual": 6,
+        "actual": 8,
         "cells": [
           {
             "category": "main-seafood",
@@ -5200,18 +5204,20 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "peruvian-aji-de-gallina"
+              "peruvian-aji-de-gallina",
+              "peruvian-arroz-con-pollo"
             ]
           },
           {
             "category": "appetizer",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "peruvian-ceviche"
+              "peruvian-ceviche",
+              "peruvian-salsa-criolla"
             ]
           },
           {
@@ -5600,14 +5606,15 @@
         "en": "East African",
         "tier": "C",
         "target": 25,
-        "actual": 6,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "east-african-beef-stew",
               "east-african-nyama-choma"
             ]
           },
@@ -5622,8 +5629,10 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "east-african-lentil-soup"
+            ]
           },
           {
             "category": "main-vegetable",

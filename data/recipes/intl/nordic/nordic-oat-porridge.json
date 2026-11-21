@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "nordic-oat-porridge",
+  "name": {
+    "zh": "北欧燕麦粥",
+    "en": "Nordic Oat Porridge",
+    "original": "Havregrød"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "nordic"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 5,
+    "cook_min": 15,
+    "total_min": 20
+  },
+  "servings": 2,
+  "flavor": [
+    "light",
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "燕麦",
+          "name_en": "oats",
+          "amount": 150,
+          "unit": "g",
+          "note": "传统压片燕麦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "note": "全脂牛奶",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "一小撮提味",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 2,
+          "unit": "g",
+          "note": "表面撒粉",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 20,
+          "unit": "g",
+          "note": "调甜",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 10,
+          "unit": "g",
+          "note": "出锅拌入",
+          "optional": false
+        },
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 60,
+          "unit": "g",
+          "note": "冷热对比",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅",
+    "木勺",
+    "量杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小锅倒牛奶，中小火加热到锅边冒出细小气泡。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "牛奶别煮沸，起皮会影响口感。",
+      "visual_cue": "锅边冒小泡，表面有热气"
+    },
+    {
+      "n": 2,
+      "text": "倒入燕麦片与一小撮盐，用木勺搅拌均匀防止结块。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "边倒边搅，燕麦才散得开。",
+      "visual_cue": "燕麦均匀散开，没有干团"
+    },
+    {
+      "n": 3,
+      "text": "保持小火煮十分钟，其间每两分钟搅动一次锅底。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "勤搅锅底，粥才不会糊。",
+      "visual_cue": "粥体变稠，勺背挂上一层"
+    },
+    {
+      "n": 4,
+      "text": "关火拌入黄油，搅到完全化开，让粥体更顺滑。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "黄油最后加，奶香才留得住。",
+      "visual_cue": "粥面泛光，质地顺滑"
+    },
+    {
+      "n": 5,
+      "text": "盛碗，淋上蜂蜜，撒肉桂粉，旁边配一勺酸奶。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "酸奶要冷的，冷热对比才是北欧吃法。",
+      "visual_cue": "表面金黄撒粉，酸奶雪白"
+    }
+  ],
+  "tips": [
+    "燕麦片选厚的压片，煮出来才有嚼头。",
+    "全程小火勤搅，锅底不会糊一层。",
+    "酸奶最后放，温差是这道粥的灵魂。"
+  ],
+  "common_mistakes": [
+    "大火煮牛奶，锅底糊一层带焦味。",
+    "全程不搅动，燕麦会结成一整块硬团。",
+    "煮好放太久不盛出，粥会稠成硬硬一团。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "豆浆",
+      "ratio": "500 毫升:500 毫升",
+      "note": "口感更清爽，需多加五克蜂蜜。"
+    },
+    {
+      "original": "燕麦片",
+      "substitute": "小米",
+      "ratio": "150 克:140 克",
+      "note": "煮制时间延长五分钟。"
+    }
+  ],
+  "variations": [
+    "撒一把烤过的南瓜子，增加脆感。",
+    "加几颗葡萄干同煮，甜味更自然。"
+  ],
+  "serving_suggestion": "热粥配冷酸奶，旁边放一片黑面包。",
+  "storage": "现煮现吃最好，冷藏一天，复热加牛奶调稀。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 430,
+    "protein_g": 17,
+    "fat_g": 16,
+    "carbs_g": 56,
+    "sodium_mg": 180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛奶加热时须全程看火，避免沸溢烫伤；粥品放凉后须及时冷藏，复热须彻底加热至滚开。"
+  ],
+  "origin_note": "北欧人冬天的早餐，燕麦和牛奶小火慢慢熬到浓稠，最后拌黄油、撒肉桂。旁边一勺冷酸奶，是这道粥最地道的搭配。",
+  "tags": [
+    "北欧",
+    "早餐",
+    "燕麦",
+    "牛奶"
+  ],
+  "related_ids": [
+    "nordic-cardamom-buns",
+    "nordic-fish-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
