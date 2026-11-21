@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-pork-chop-rice",
+  "name": {
+    "zh": "港式焗猪扒饭",
+    "en": "Hong Kong Baked Pork Chop Rice",
+    "original": "焗豬扒飯"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "staple-rice",
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "rich",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "隔夜饭，粒粒分明",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 500,
+          "unit": "g",
+          "note": "切一厘米厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打散裹饭",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "拍猪扒用",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "增稠提色",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 100,
+          "unit": "g",
+          "note": "刨丝铺面",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "腌肉调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分两次放",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎炒用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "焗盘",
+    "平底锅",
+    "刀",
+    "砧板",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊切成一厘米厚片，用刀背轻拍松，加生抽、盐与黑胡椒腌二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "拍松能断筋，煎后不卷边。",
+      "visual_cue": "肉片变薄，边缘平整"
+    },
+    {
+      "n": 2,
+      "text": "隔夜米饭加蛋液抓匀，让每粒米都裹上薄薄一层。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蛋液裹饭，炒出来才金黄不粘。",
+      "visual_cue": "米粒松散，颜色微黄"
+    },
+    {
+      "n": 3,
+      "text": "平底锅烧热倒植物油，米饭下锅中大火炒到松散跳动。",
+      "time_min": 5,
+      "heat": "中大火",
+      "tip": "锅要够热，饭才不粘底。",
+      "visual_cue": "米粒跳动，颗颗分明"
+    },
+    {
+      "n": 4,
+      "text": "炒好的饭盛进焗盘，用勺背轻轻压平作为底层。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "压平但别压实，留点空隙吸汁。",
+      "visual_cue": "饭层平整，厚度一致"
+    },
+    {
+      "n": 5,
+      "text": "猪扒两面拍薄面粉，平底锅少油中火每面煎三分钟。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "拍粉锁汁，煎出来外脆内嫩。",
+      "visual_cue": "两面金黄，肉汁微渗"
+    },
+    {
+      "n": 6,
+      "text": "煎好的猪扒切条，铺在饭面上，余油爆香洋葱丝。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒软出甜，是酱汁的底。",
+      "visual_cue": "洋葱透明，香气上扬"
+    },
+    {
+      "n": 7,
+      "text": "下番茄块与番茄膏炒三分钟，加白糖、盐与少量清水煮成酱。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄膏先炒过，酸味才不刺。",
+      "visual_cue": "酱汁浓稠，颜色红亮"
+    },
+    {
+      "n": 8,
+      "text": "酱汁浇在猪扒上，铺奶酪丝，二百二十度焗十分钟。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "奶酪铺满边缘，焗到起泡才香。",
+      "visual_cue": "奶酪融化，表面微焦"
+    }
+  ],
+  "tips": [
+    "隔夜饭水分少，焗完不会糊成一坨。",
+    "猪扒别煎太久，后面还要焗，容易柴。",
+    "酱汁要比平时稍咸，因为米饭会吸味。"
+  ],
+  "common_mistakes": [
+    "用新煮的饭来做，焗完又湿又软粘牙。",
+    "酱汁熬得太稀，把底下的饭泡成粥。",
+    "奶酪铺太少，焗完露着猪扒发干。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "猪排骨",
+      "ratio": "500 克:600 克",
+      "note": "带骨更香，需先煎至八分熟。"
+    },
+    {
+      "original": "番茄膏",
+      "substitute": "番茄酱",
+      "ratio": "30 克:40 克",
+      "note": "甜味更足，白糖减至五克。"
+    }
+  ],
+  "variations": [
+    "酱汁里加一勺蚝油，鲜味更厚更港式。",
+    "换成鸡肉做焗鸡扒饭，做法一致。"
+  ],
+  "serving_suggestion": "连焗盘端上桌，配一杯冻柠茶解腻。",
+  "storage": "冷藏两天，复热盖锡纸烤一百八十度十分钟，避免表面焦干。",
+  "nutrition_estimate": {
+    "basis": "每份约 450 克",
+    "calories_kcal": 780,
+    "protein_g": 42,
+    "fat_g": 30,
+    "carbs_g": 78,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪里脊须煎焗至中心完全变白无粉色。",
+    "鸡蛋液裹饭后须彻底加热炒至凝固，打蛋后须洗净双手与器具。",
+    "含蛋与麸质，过敏人群须谨慎食用。"
+  ],
+  "origin_note": "香港茶餐厅午市的常客，猪扒煎香切条铺在蛋炒饭上，浇一勺番茄酱汁再铺奶酪焗到起泡，一勺下去有饭有肉有汁。",
+  "tags": [
+    "香港",
+    "焗饭",
+    "猪扒",
+    "茶餐厅"
+  ],
+  "related_ids": [
+    "bifengtang-chaoxie",
+    "hongkong-bolo-bao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

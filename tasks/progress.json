@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:51:10.961Z",
+  "generatedAt": "2026-11-21T06:58:09.321Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 556,
+    "cells": 558,
     "target": 3274,
-    "actual": 848,
-    "coverage": 0.259010384850336
+    "actual": 857,
+    "coverage": 0.2617593158216249
   },
   "regions": {
     "cn": [
@@ -1951,7 +1951,7 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 6,
         "cells": [
           {
             "category": "main-seafood",
@@ -1967,15 +1967,19 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "hongkong-pork-chop-rice"
+            ]
           },
           {
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "hongkong-bolo-bao"
+            ]
           },
           {
             "category": "dessert",
@@ -2004,6 +2008,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "hongkong-pork-chop-rice"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -2163,7 +2176,7 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 5,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
@@ -2178,17 +2191,19 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "tibetan-sha-phaley"
+              "tibetan-sha-phaley",
+              "tibetan-tsampa"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "tibetan-guthuk",
               "tibetan-thukpa"
             ]
           },
@@ -2205,8 +2220,9 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "tibetan-guthuk",
               "tibetan-thukpa"
             ]
           }
@@ -2218,16 +2234,17 @@
         "en": "Inner Mongolian",
         "tier": "C",
         "target": 25,
-        "actual": 5,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "mongolian-buuz",
               "mongolian-huushuur",
+              "mongolian-tsuivan",
               "shouba-rou"
             ]
           },
@@ -2259,8 +2276,19 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mongolian-boortsog"
+            ]
+          },
+          {
+            "category": "staple-noodle",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "mongolian-tsuivan"
+            ]
           }
         ]
       }

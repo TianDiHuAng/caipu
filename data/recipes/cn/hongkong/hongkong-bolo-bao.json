@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-bolo-bao",
+  "name": {
+    "zh": "港式菠萝包",
+    "en": "Hong Kong Pineapple Bun",
+    "original": "菠蘿包"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 120,
+    "cook_min": 18,
+    "total_min": 138
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "面包体用高筋，另留少量手粉",
+          "optional": false
+        },
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 110,
+          "unit": "g",
+          "note": "做表面酥皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 100,
+          "unit": "g",
+          "note": "软化，分两次用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 70,
+          "unit": "g",
+          "note": "分两份",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "一只入面，一只刷面",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 150,
+          "unit": "ml",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "温水化开",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "烤箱",
+    "擀面杖",
+    "刷子",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "酵母用温热牛奶化开，静置五分钟到表面起一层细泡。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "牛奶摸着温不烫手最合适。",
+      "visual_cue": "表面浮起细密气泡"
+    },
+    {
+      "n": 2,
+      "text": "面粉、盐与一半白糖混合，加蛋液和酵母牛奶揉成光滑面团。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "揉到能拉出薄膜，成品才松软不硬。",
+      "visual_cue": "面团光滑，按压不粘手"
+    },
+    {
+      "n": 3,
+      "text": "加三十克软化黄油继续揉匀，盖布发酵一小时。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "黄油后加，面团更容易出筋。",
+      "visual_cue": "体积膨胀到接近两倍"
+    },
+    {
+      "n": 4,
+      "text": "软化的七十克黄油加低筋面粉、余下白糖，搓成酥皮面团。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "搓到能捏成团就停，搓过头会出油。",
+      "visual_cue": "酥皮成团，按压有纹"
+    },
+    {
+      "n": 5,
+      "text": "酥皮分成六份，逐份压成薄圆片，盖好冷藏备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冷藏后更好压，不易粘手。",
+      "visual_cue": "圆片薄而均匀一致"
+    },
+    {
+      "n": 6,
+      "text": "发酵好的面团排气，分成六份滚圆，静置十五分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "中间醒面，整形时才不回缩。",
+      "visual_cue": "面团松软，按压缓慢回弹"
+    },
+    {
+      "n": 7,
+      "text": "酥皮圆片盖在面团上，用刀背压出交叉格子纹。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "纹路压深一点，烤后才明显。",
+      "visual_cue": "格纹均匀，酥皮贴合"
+    },
+    {
+      "n": 8,
+      "text": "表面刷一层薄蛋液，烤箱预热二百度烤十五分钟。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "中途观察上色，深了加盖锡纸。",
+      "visual_cue": "表面金黄，格纹裂开"
+    }
+  ],
+  "tips": [
+    "酥皮不要揉过度，否则烤完塌成一片。",
+    "面团发酵到位，成品才松软不硬。",
+    "出炉放五分钟再吃，酥皮不回软。"
+  ],
+  "common_mistakes": [
+    "酥皮揉出油，烤完流到面包边上。",
+    "发酵不足就烤，面包硬得像石头。",
+    "蛋液刷太厚，表面焦黑里面没熟。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "150 毫升:140 毫升",
+      "note": "奶香变淡，黄油可多加十克。"
+    },
+    {
+      "original": "低筋面粉",
+      "substitute": "玉米淀粉",
+      "ratio": "110 克:80 克",
+      "note": "酥皮更酥但易碎，压纹要轻。"
+    }
+  ],
+  "variations": [
+    "中间夹一片冰黄油，就是茶餐厅的菠萝油。",
+    "酥皮里加少许椰蓉，烤出来香气更浓。"
+  ],
+  "serving_suggestion": "趁热切开夹一片冷藏黄油，配一杯港式奶茶。",
+  "storage": "常温密封两天，冷冻两周；复烤一百八十度五分钟恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "每个约 90 克",
+    "calories_kcal": 330,
+    "protein_g": 8,
+    "fat_g": 15,
+    "carbs_g": 41,
+    "sodium_mg": 240,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "烤箱与烤盘高温，取放须戴隔热手套。",
+    "鸡蛋须彻底加热至完全凝固，刷面蛋液不可重复使用生蛋余液，打蛋后须洗净双手与器具。",
+    "含蛋奶与麸质，过敏人群须谨慎食用。"
+  ],
+  "origin_note": "香港茶餐厅的招牌面包，表面那层酥皮裂开的样子像菠萝纹，因此得名。刚出炉时酥皮脆得一碰就掉，夹一片冰黄油就是菠萝油。",
+  "tags": [
+    "香港",
+    "菠萝包",
+    "酥皮",
+    "茶餐厅"
+  ],
+  "related_ids": [
+    "yuntun-mian",
+    "hongkong-xiangjian-xueyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
