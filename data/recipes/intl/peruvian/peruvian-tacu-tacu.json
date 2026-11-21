@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "peruvian-tacu-tacu",
+  "name": {
+    "zh": "秘鲁豆饭煎饼",
+    "en": "Peruvian Tacu Tacu",
+    "original": "Tacu Tacu"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "peruvian"
+  },
+  "category": [
+    "staple-rice",
+    "main-vegetable"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 500,
+          "unit": "g",
+          "note": "隔夜冷饭",
+          "optional": false
+        },
+        {
+          "name": "黑豆",
+          "name_en": "black bean",
+          "amount": 220,
+          "unit": "g",
+          "note": "煮熟沥干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "煎制配菜",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香上色",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "压泥器",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "隔夜冷饭用手抓散，确保没有结块的大团米粒。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "用冷饭才松散，热饭会黏成一坨。",
+      "visual_cue": "米粒颗颗分开，不成团"
+    },
+    {
+      "n": 2,
+      "text": "熟黑豆用压泥器压成粗泥，保留一部分完整豆粒。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "留点整豆，成品才有口感层次。",
+      "visual_cue": "豆泥粗糙，还能看到整豆"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒少量植物油，中火下洋葱丁炒到透明。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒软，甜味才出来。",
+      "visual_cue": "洋葱透明，边缘微黄"
+    },
+    {
+      "n": 4,
+      "text": "加蒜末与辣椒粉炒三十秒，炒出红亮的香气。",
+      "time_min": 1,
+      "heat": "中火",
+      "tip": "辣椒粉易糊，火要小一点。",
+      "visual_cue": "油色发红，蒜香明显"
+    },
+    {
+      "n": 5,
+      "text": "倒入豆泥翻炒两分钟，把豆香和洋葱味炒匀。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "豆泥先炒香，成品才不寡。",
+      "visual_cue": "豆泥变干，香味浓郁"
+    },
+    {
+      "n": 6,
+      "text": "加入米饭与盐，用锅铲翻压让米粒和豆泥混匀。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "边压边翻，饭豆才抱得住。",
+      "visual_cue": "混合物粘成团，颜色均匀"
+    },
+    {
+      "n": 7,
+      "text": "把混合物在锅中压成两厘米厚的大圆饼，小火煎。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "压实一点，翻面才不散。",
+      "visual_cue": "饼身紧实，边缘定型"
+    },
+    {
+      "n": 8,
+      "text": "底面煎到金黄结壳后，借助盘子翻面再煎五分钟。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "用盘子扣住翻面，饼不会破。",
+      "visual_cue": "两面金黄，外壳酥脆"
+    },
+    {
+      "n": 9,
+      "text": "另起锅煎两个鸡蛋，单面煎到蛋白凝固蛋黄半流。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蛋黄留半熟，拌饭最香。",
+      "visual_cue": "蛋白凝固，蛋黄微晃"
+    },
+    {
+      "n": 10,
+      "text": "饭饼切块装盘，放上煎蛋与少量辣椒粉点缀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热吃，外壳最酥。",
+      "visual_cue": "饼块成型，蛋液微流"
+    }
+  ],
+  "tips": [
+    "用隔夜冷饭，米粒松散才压得住。",
+    "豆泥留一部分整豆，口感才有层次。",
+    "小火慢煎让外壳结壳，饼才不会散。"
+  ],
+  "common_mistakes": [
+    "用刚煮好的热饭，越压越黏成糊。",
+    "火开得太大，外壳焦了里面还是凉的。",
+    "翻面翻得太早，饼当场散成一锅豆饭。"
+  ],
+  "substitutions": [
+    {
+      "original": "黑豆",
+      "substitute": "红豆",
+      "ratio": "220 克:220 克",
+      "note": "口感更甜，盐可略减。"
+    },
+    {
+      "original": "鸡蛋",
+      "substitute": "牛油果",
+      "ratio": "2 个:1 个",
+      "note": "切片配食，更清爽。"
+    }
+  ],
+  "variations": [
+    "饼里加一勺辣椒酱，辣味会更冲。",
+    "上面盖一层番茄洋葱沙拉，口感更清爽。"
+  ],
+  "serving_suggestion": "切块配煎蛋与辣椒酱，当一顿饱饭。",
+  "storage": "冷藏两天，复热用平底锅回煎两面。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 420,
+    "protein_g": 16,
+    "fat_g": 12,
+    "carbs_g": 62,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须煎至蛋白完全凝固、蛋黄半熟，降低沙门氏菌风险；老人与孕妇建议煎至全熟。",
+    "黑豆须提前煮透至软烂再入菜，隔夜米饭复热须彻底加热。"
+  ],
+  "origin_note": "秘鲁家常的剩饭料理，米饭配煮豆压成饼再煎到两面结壳。看着朴素，配一只半熟煎蛋就是最踏实的早饭。",
+  "tags": [
+    "秘鲁",
+    "主食",
+    "豆类",
+    "煎制"
+  ],
+  "related_ids": [
+    "peruvian-arroz-con-pollo",
+    "peruvian-lomo-saltado"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

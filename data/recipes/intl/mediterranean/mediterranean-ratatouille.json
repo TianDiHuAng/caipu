@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mediterranean-ratatouille",
+  "name": {
+    "zh": "地中海炖杂菜",
+    "en": "Mediterranean Ratatouille",
+    "original": "Ratatouille"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mediterranean"
+  },
+  "category": [
+    "main-vegetable",
+    "hotpot-bbq"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子切成三厘米左右的方块，撒少量盐抓匀静置十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "盐腌出水，茄子才不吸油。",
+      "visual_cue": "茄子表面湿润，略微变软"
+    },
+    {
+      "n": 2,
+      "text": "西葫芦切成同样的方块，番茄切丁，洋葱切小丁备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "块头一致，熟成时间才同步。",
+      "visual_cue": "三种蔬菜块大小接近"
+    },
+    {
+      "n": 3,
+      "text": "深锅倒一半橄榄油，中火下洋葱丁炒到透明发甜。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒透，底味才够甜。",
+      "visual_cue": "洋葱变软透明，边缘微黄"
+    },
+    {
+      "n": 4,
+      "text": "加入蒜片炒三十秒，闻到蒜香就立刻下茄子块。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蒜易焦，炒出香就马上下菜。",
+      "visual_cue": "蒜片微黄，香气明显"
+    },
+    {
+      "n": 5,
+      "text": "茄子块煎炒五分钟，到表面挂油变软后推到锅边。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "茄子先煎透，口感才绵。",
+      "visual_cue": "茄子变软，表面油亮"
+    },
+    {
+      "n": 6,
+      "text": "倒入西葫芦块翻炒三分钟，让它也裹上一层油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "西葫芦别炒久，后面还要炖。",
+      "visual_cue": "西葫芦表面油亮，略变软"
+    },
+    {
+      "n": 7,
+      "text": "加入番茄丁与牛至，翻匀后转小火盖盖炖二十分钟。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "番茄出汁后小火慢炖，味道才融。",
+      "visual_cue": "番茄化成汁，蔬菜泡在汤里"
+    },
+    {
+      "n": 8,
+      "text": "开盖加盐与黑胡椒调味，再小火收汁五分钟。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "收汁到浓稠，味道才不寡。",
+      "visual_cue": "汤汁浓稠，蔬菜块完整"
+    },
+    {
+      "n": 9,
+      "text": "关火淋剩下的橄榄油，静置五分钟让味道融合再盛盘。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "最后一勺生油，香气更足。",
+      "visual_cue": "表面泛油光，蔬菜软而不烂"
+    }
+  ],
+  "tips": [
+    "茄子先用盐腌出水，煎的时候才不狂吸油。",
+    "番茄要炖到化成汁，味道才融得进去。",
+    "最后淋一勺生橄榄油，香气立刻提起来。"
+  ],
+  "common_mistakes": [
+    "茄子直接下锅，油被吸光还不软。",
+    "全程大火，番茄没出汁菜就干了。",
+    "盐放得太早，蔬菜出水变成一锅汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "西葫芦",
+      "substitute": "甜椒",
+      "ratio": "300 克:300 克",
+      "note": "甜味更明显，炖制时间减五分钟。"
+    },
+    {
+      "original": "牛至",
+      "substitute": "罗勒",
+      "ratio": "3 克:3 克",
+      "note": "香气更清新，适合最后放。"
+    }
+  ],
+  "variations": [
+    "加一把黑橄榄同炖，风味更地中海。",
+    "表面打一个水波蛋，直接当作一餐。"
+  ],
+  "serving_suggestion": "温热时配烤饼或硬欧包，冷吃也入味。",
+  "storage": "冷藏可以放三天，复热之后风味更融合。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 190,
+    "protein_g": 4,
+    "fat_g": 12,
+    "carbs_g": 18,
+    "sodium_mg": 480,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "茄子须炖至软透；热油下蔬菜时注意溅油，翻炒避免烫伤。"
+  ],
+  "origin_note": "地中海沿岸的家常炖菜，茄子西葫芦番茄一锅炖透，只用橄榄油和香草调味。凉了更好吃，隔夜风味最足。",
+  "tags": [
+    "地中海",
+    "蔬菜",
+    "炖菜",
+    "橄榄油"
+  ],
+  "related_ids": [
+    "mediterranean-greek-salad",
+    "mediterranean-hummus"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
