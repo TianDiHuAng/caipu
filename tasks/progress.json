@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T11:15:27.079Z",
+  "generatedAt": "2026-11-21T11:36:53.688Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 569,
     "target": 3274,
-    "actual": 994,
-    "coverage": 0.3036041539401344
+    "actual": 1001,
+    "coverage": 0.305742211362248
   },
   "regions": {
     "cn": [
@@ -1832,7 +1832,7 @@
         "en": "Chaoshan",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-seafood",
@@ -1892,8 +1892,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "chaoshan-xianxia-zhengdan"
+            ]
           },
           {
             "category": "main-meat",
@@ -2006,15 +2008,16 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "bifengtang-chaoxie",
+              "hongkong-garlic-shrimp",
               "hongkong-xiangjian-xueyu"
             ]
           },
@@ -2180,16 +2183,17 @@
         "en": "Chinese Halal",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "halal-cn-hongshao-niurou",
               "halal-cn-lamb-skewers",
+              "halal-cn-niurou-dun-tudou",
               "halal-cn-niurou-lamian",
               "shuipen-yangrou"
             ]
@@ -2261,14 +2265,15 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 10,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "tibetan-momo",
               "tibetan-sha-phaley"
             ]
           },
@@ -2276,8 +2281,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "tibetan-momo",
               "tibetan-sha-phaley",
               "tibetan-tingmo",
               "tibetan-tsampa"
@@ -2329,16 +2335,17 @@
         "en": "Inner Mongolian",
         "tier": "C",
         "target": 25,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "mongolian-buuz",
               "mongolian-huushuur",
+              "mongolian-lamb-potato-stew",
               "mongolian-lamb-soup",
               "mongolian-tsuivan",
               "shouba-rou"
@@ -5005,14 +5012,15 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "american-south-bbq-chicken",
               "southern-fried-chicken"
             ]
           },

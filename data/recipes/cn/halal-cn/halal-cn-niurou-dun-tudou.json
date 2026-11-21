@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-niurou-dun-tudou",
+  "name": {
+    "zh": "清真牛腩炖土豆",
+    "en": "Halal Beef and Potato Stew",
+    "original": "牛腩炖土豆"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 800,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "汤勺",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成三厘米见方的块，用清水泡二十分钟逼出血水。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡出血水，炖出来的汤才不浑不腥。",
+      "visual_cue": "牛腩块颜色由红转浅，水泛红"
+    },
+    {
+      "n": 2,
+      "text": "牛腩冷水下锅，加姜片大火煮开，焯五分钟撇净浮沫。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才能一点点逼出来。",
+      "visual_cue": "水面浮起厚沫，撇净后汤色变清"
+    },
+    {
+      "n": 3,
+      "text": "捞出牛腩用温水冲净浮沫，逐块检查并撕去厚油膜。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "用温水冲，肉纤维不骤然收紧。",
+      "visual_cue": "牛腩块表面清爽，无浮沫附着"
+    },
+    {
+      "n": 4,
+      "text": "土豆与胡萝卜去皮，切成与牛腩相近的滚刀块。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "块头相近，炖的时候才一起软。",
+      "visual_cue": "块状大小均匀，切口平整"
+    },
+    {
+      "n": 5,
+      "text": "砂锅下少许油，把洋葱块与姜片小火炒出香味。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "洋葱炒软出甜味，是这锅汤的底。",
+      "visual_cue": "洋葱透明发软，屋里飘甜香"
+    },
+    {
+      "n": 6,
+      "text": "倒入牛腩块翻炒两分钟，淋入生抽炒到上色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "炒一下再炖，肉香更浓不寡淡。",
+      "visual_cue": "牛腩块裹上酱色，锅底泛焦香"
+    },
+    {
+      "n": 7,
+      "text": "注入清水没过牛腩三指，大火烧开后转小火炖一小时。",
+      "time_min": 65,
+      "heat": "小火",
+      "tip": "水量一次加足，中途添水汤味变薄。",
+      "visual_cue": "汤面微沸，牛腩香气浓厚"
+    },
+    {
+      "n": 8,
+      "text": "下土豆与胡萝卜，继续小火炖二十五分钟至软糯。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "土豆后放，久炖会化在汤里成糊。",
+      "visual_cue": "土豆边角圆润，筷子能轻松插透"
+    },
+    {
+      "n": 9,
+      "text": "加盐调好咸淡，再炖五分钟让咸味渗进肉里。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "盐最后放，肉才不会炖得发柴。",
+      "visual_cue": "汤汁浓稠挂勺，表面浮薄油"
+    },
+    {
+      "n": 10,
+      "text": "关火后再焖五分钟，撒上切碎的洋葱末盛出。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "焖一会让汤汁回吸，切块不散。",
+      "visual_cue": "汤汁红亮，牛腩块完整有光"
+    }
+  ],
+  "tips": [
+    "牛腩先泡再焯，血水去净，汤清味正不腥膻。",
+    "土豆后放，早了会炖化，汤成糊糊失了清爽。",
+    "盐在最后放，牛腩炖得烂而不柴。"
+  ],
+  "common_mistakes": [
+    "牛腩直接下锅炖，血沫混在汤里，汤浑味腥。",
+    "土豆与牛腩同时下，土豆炖成泥，汤变黏糊。",
+    "中途加冷水，牛腩纤维骤缩，炖再久也发硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "羊排",
+      "ratio": "800 克:800 克",
+      "note": "换羊排更香，炖制时间加十分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "芋头",
+      "ratio": "400 克:400 克",
+      "note": "口感更粉，汤汁会更稠。"
+    }
+  ],
+  "variations": [
+    "加两个番茄同炖，汤汁带酸，开胃解腻。",
+    "放一把粉丝收尾，吸饱汤汁最下饭。"
+  ],
+  "serving_suggestion": "盛一大碗连汤带肉，配米饭或掰着馍吃都合适。",
+  "storage": "冷藏三天，复热时添少许清水，小火慢炖十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 520,
+    "protein_g": 36,
+    "fat_g": 28,
+    "carbs_g": 26,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至完全熟透、中心不见血色；炖煮过程注意砂锅防干烧。"
+  ],
+  "origin_note": "清真馆子的牛腩炖土豆，讲究牛腩酥而不散、土豆整而不烂。一锅下去满屋肉香，配馍配饭都实在，是北方清真家庭最家常的一锅。",
+  "tags": [
+    "清真",
+    "炖菜",
+    "牛腩",
+    "家常"
+  ],
+  "related_ids": [
+    "halal-cn-hongshao-niurou",
+    "halal-cn-niurou-wanzi-tang",
+    "shuipen-yangrou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
