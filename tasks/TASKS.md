@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-21T07:03:32.568Z
+> 生成时间：2026-11-21T07:11:42.667Z
 
-**总览**：工程任务 49/53；菜谱内容 863/3274（26.4%），共 558 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 869/3274（26.5%），共 560 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（422/1339）
+### 中国菜系（428/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，60/107</summary>
 
@@ -274,15 +274,16 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>西北菜 xibei</b> — B 级，5/38</summary>
+<details><summary><b>西北菜 xibei</b> — B 级，8/38</summary>
 
 - [ ] `P4-xibei/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 2
-- [ ] `P4-xibei/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 1
+- [ ] `P4-xibei/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 2
 - [ ] `P4-xibei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 1
-- [ ] `P4-xibei/soup` 汤羹（Soup）目标 6，已完成 1
+- [ ] `P4-xibei/soup` 汤羹（Soup）目标 6，已完成 2
 - [ ] `P4-xibei/snack` 小吃（Street Food）目标 6，已完成 0
 - [ ] `P4-xibei/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-xibei/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [x] `P4-xibei/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
 
 </details>
 
@@ -368,15 +369,16 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>清真菜 halal-cn</b> — B 级，5/38</summary>
+<details><summary><b>清真菜 halal-cn</b> — B 级，8/38</summary>
 
 - [ ] `P4-halal-cn/main-meat` 主菜·肉（Meat Main）目标 6，已完成 3
 - [ ] `P4-halal-cn/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 0
-- [ ] `P4-halal-cn/soup` 汤羹（Soup）目标 6，已完成 1
-- [ ] `P4-halal-cn/snack` 小吃（Street Food）目标 6，已完成 1
+- [ ] `P4-halal-cn/soup` 汤羹（Soup）目标 6，已完成 2
+- [ ] `P4-halal-cn/snack` 小吃（Street Food）目标 6，已完成 2
 - [ ] `P4-halal-cn/banquet` 宴客菜（Banquet）目标 6，已完成 0
 - [ ] `P4-halal-cn/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-halal-cn/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [x] `P4-halal-cn/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 
 </details>
 

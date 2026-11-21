@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-huangmen-jirou",
+  "name": {
+    "zh": "黄焖鸡",
+    "en": "Braised Chicken in Brown Sauce",
+    "original": "黄焖鸡"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "带骨斩成四厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "泡软切厚片",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切菱形片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍松",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "剪段去籽",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 40,
+          "unit": "ml",
+          "note": "上色调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "按口味补",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "砧板",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉斩成四厘米见方的块，用清水泡十分钟洗去血水。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "泡出血水，焖出来汤才清亮不腥。",
+      "visual_cue": "水色泛红，肉块发白"
+    },
+    {
+      "n": 2,
+      "text": "鸡块冷水下锅，加姜片与料酒，大火烧开焯两分钟。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血沫逼出来。",
+      "visual_cue": "水面浮起灰褐色血沫"
+    },
+    {
+      "n": 3,
+      "text": "捞出鸡块用温水冲净表面浮沫，沥干水分备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "用温水冲，冷水一激肉会变紧。",
+      "visual_cue": "肉块表面干净无沫"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油，下白糖小火炒到糖化成琥珀色。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "糖色一变深就发苦，动作要快。",
+      "visual_cue": "糖浆枣红，泛起细泡"
+    },
+    {
+      "n": 5,
+      "text": "倒入鸡块翻炒裹上糖色，加姜片、大蒜、八角与干辣椒炒香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "炒到鸡皮微焦，香气才进得去。",
+      "visual_cue": "鸡块表面红亮，香气扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "加浓口酱油与盐翻匀，倒入没过鸡块的热水。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "一定加热水，冷水会让肉质发柴。",
+      "visual_cue": "汤色深褐，鸡块没入"
+    },
+    {
+      "n": 7,
+      "text": "转入砂锅加香菇与土豆，烧开后转小火焖二十五分钟。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "小火慢焖，肉才脱骨不散。",
+      "visual_cue": "汤汁收半，肉一戳就透"
+    },
+    {
+      "n": 8,
+      "text": "开盖下青椒片煮两分钟，撒上小葱段端上桌开吃。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "青椒最后放，保持脆生和翠绿。",
+      "visual_cue": "青椒翠绿，汤汁浓稠"
+    }
+  ],
+  "tips": [
+    "鸡块先焯水再炒糖色，汤清不腥。",
+    "焖的时候水一次加够，中途加水会冲淡味道。",
+    "砂锅保温好，关火后余温还能再焖五分钟。"
+  ],
+  "common_mistakes": [
+    "糖色炒过了头，整锅带着一股焦苦味。",
+    "焯水用热水下锅，血沫锁在肉里腥味重。",
+    "青椒早放久煮，颜色发黄口感发绵。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "整鸡",
+      "ratio": "700 克:1000 克",
+      "note": "斩块后同法焖制，时间延长五分钟。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "木耳",
+      "ratio": "80 克:60 克",
+      "note": "提前泡发洗净，口感更脆。"
+    }
+  ],
+  "variations": [
+    "加一把粉丝同焖，吸足汤汁更下饭。",
+    "喜欢辣味可多放两个干辣椒，出锅前淋辣椒油。"
+  ],
+  "serving_suggestion": "连砂锅端上桌，配一碗白米饭，浇汤汁拌着吃。",
+  "storage": "冷藏两天，复热时加少量清水小火焖透，味道更融合。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 480,
+    "protein_g": 34,
+    "fat_g": 26,
+    "carbs_g": 24,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底加热至骨内无血水，中心温度达到七十五度以上；砂锅离火后端取须用隔热垫。"
+  ],
+  "origin_note": "西北清真馆子的招牌焖菜，鸡块炒糖色后加香料和香菇慢焖，汤汁浓到能挂在肉上，一锅配饭能吃两大碗。",
+  "tags": [
+    "清真",
+    "焖菜",
+    "鸡肉",
+    "家常"
+  ],
+  "related_ids": [
+    "halal-cn-niurou-wanzi-tang",
+    "halal-cn-youxiang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

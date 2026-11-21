@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xibei-yangza-tang",
+  "name": {
+    "zh": "羊杂汤",
+    "en": "Lamb Offal Soup",
+    "original": "羊杂汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 500,
+          "unit": "g",
+          "note": "带筋部位切薄片",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 60,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "青花椒",
+          "name_en": "green Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "去膻提香",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 4,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分两次",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去膻提味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸锅用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "砧板",
+    "刀",
+    "漏勺",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉用清水泡二十分钟，中途换两次水去掉血水。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "多换几次水，膻味能去掉大半。",
+      "visual_cue": "肉质发白，水色变清"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，加姜片、大葱与料酒焯水，撇沫后捞出冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才能慢慢逼出。",
+      "visual_cue": "浮沫撇净，肉片干净"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒植物油，下姜片与青花椒小火煸出香味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "花椒煸香再加水，汤底才有回甘。",
+      "visual_cue": "油面泛香，花椒变色"
+    },
+    {
+      "n": 4,
+      "text": "加足量清水与羊肉，大火烧开后转小火炖五十分钟。",
+      "time_min": 55,
+      "heat": "小火",
+      "tip": "小火慢炖，汤色才乳白不浑。",
+      "visual_cue": "汤色转白，肉香四溢"
+    },
+    {
+      "n": 5,
+      "text": "下入干辣椒与泡软的粉丝，中火煮三分钟至断生。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "粉丝久煮会糊，断生即可。",
+      "visual_cue": "粉丝透明，柔软不断"
+    },
+    {
+      "n": 6,
+      "text": "加盐与白醋调味，尝一口后按口味再补少许。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "一点白醋能把膻味压下去。",
+      "visual_cue": "汤味鲜咸，带着微酸"
+    },
+    {
+      "n": 7,
+      "text": "盛入大碗中，撒上香菜碎与小葱花即可开吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜葱花最后撒，香气不散。",
+      "visual_cue": "汤面浮着翠绿葱花"
+    }
+  ],
+  "tips": [
+    "羊肉泡水要耐心，换水三遍膻味明显减轻。",
+    "炖汤全程小火，大火会把汤煮浑。",
+    "配一小碟椒盐蘸肉吃，味道更足。"
+  ],
+  "common_mistakes": [
+    "没焯水直接炖，汤膻得下不去口。",
+    "一直用中大火滚煮，汤色浑浊不清亮。",
+    "盐放得太早，肉质发紧久炖也不烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "羊排",
+      "ratio": "500 克:600 克",
+      "note": "带骨炖汤更香，时间延长十分钟。"
+    },
+    {
+      "original": "粉丝",
+      "substitute": "通心粉",
+      "ratio": "60 克:70 克",
+      "note": "煮制时间延长至八分钟。"
+    }
+  ],
+  "variations": [
+    "加几片白萝卜同炖，汤更清甜解膻。",
+    "喜欢重口可淋一勺辣椒油，撒点白胡椒。"
+  ],
+  "serving_suggestion": "一大碗汤配两个肉夹馍，冬天喝完全身发热。",
+  "storage": "冷藏两天，撇去上层浮油再复热；不建议反复加热。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 340,
+    "protein_g": 32,
+    "fat_g": 18,
+    "carbs_g": 12,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须炖至完全熟透无血色；汤品滚烫，盛装和端取时避免烫伤。"
+  ],
+  "origin_note": "西北冬天的街边汤摊，一大锅羊肉配花椒小火炖到汤色乳白，下粉丝撒香菜，配两个馍就是最实在的一顿早饭。",
+  "tags": [
+    "西北",
+    "汤",
+    "羊肉",
+    "冬季"
+  ],
+  "related_ids": [
+    "xibei-liangpi",
+    "xibei-roujiamo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

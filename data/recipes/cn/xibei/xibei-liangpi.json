@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xibei-liangpi",
+  "name": {
+    "zh": "凉皮",
+    "en": "Cold Skin Noodles",
+    "original": "凉皮"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "cold-dish"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 240,
+    "cook_min": 25,
+    "total_min": 265
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "高筋面粉洗面用",
+          "optional": false
+        },
+        {
+          "name": "土豆淀粉",
+          "name_en": "potato starch",
+          "amount": 40,
+          "unit": "g",
+          "note": "调浆增韧",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "掐尾焯熟",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "捣成蒜泥",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调咸鲜",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "带辣椒面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 8,
+          "unit": "g",
+          "note": "炒香撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "蒸锅",
+    "平盘",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加水和成偏硬的面团，盖布醒半小时后再揉至光滑。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "面要硬，洗出来的面筋才筋道。",
+      "visual_cue": "面团光滑，按下去偏硬"
+    },
+    {
+      "n": 2,
+      "text": "盆中加清水没过面团，反复揉洗直到水变成浓白面浆。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "轻揉慢洗，别把面筋揉散。",
+      "visual_cue": "面浆浓白，面团渐小"
+    },
+    {
+      "n": 3,
+      "text": "把面浆倒入大盆静置四小时，中途不要搅动。",
+      "time_min": 240,
+      "heat": "无火",
+      "tip": "沉淀越久，凉皮越筋道透亮。",
+      "visual_cue": "淀粉沉底，上层水清"
+    },
+    {
+      "n": 4,
+      "text": "轻轻倒掉上层清水，留下的淀粉浆加土豆淀粉搅匀过滤。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "浆太稠蒸出来会开裂，稀稠像米汤刚好。",
+      "visual_cue": "浆液顺滑，没有颗粒感"
+    },
+    {
+      "n": 5,
+      "text": "平盘刷薄油，舀一勺面浆晃匀，上蒸锅大火蒸三分钟。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "每盘只倒薄薄一层，厚了中间夹生。",
+      "visual_cue": "面皮鼓起大泡，通体透明"
+    },
+    {
+      "n": 6,
+      "text": "取出平盘放冷水上降温，掲下整张凉皮刷油叠放。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "每张之间刷油，叠起来才不会粘。",
+      "visual_cue": "凉皮完整，揭下不破"
+    },
+    {
+      "n": 7,
+      "text": "凉皮卷起切成两厘米宽的条，装碗加黄瓜丝与豆芽。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "刀蘸点水切，切口更利落。",
+      "visual_cue": "条宽均匀，边缘齐整"
+    },
+    {
+      "n": 8,
+      "text": "蒜泥加香醋、浓口酱油与盐调成汁浇上，淋辣椒油撒芝麻和香菜。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "吃前拌匀，让每根都裹上红油。",
+      "visual_cue": "色泽红亮，汁水浸底"
+    }
+  ],
+  "tips": [
+    "面浆必须充分沉淀，四小时是底线，隔夜更好。",
+    "蒸盘要刷油，不然凉皮揭不下来。",
+    "蒸到面皮起大泡才算熟，别急着揭。"
+  ],
+  "common_mistakes": [
+    "面浆没沉淀够就上锅，凉皮软塌不成型。",
+    "蒸盘油刷太少，揭的时候整张撕烂。",
+    "一次倒浆太厚，蒸出来中间黏牙。"
+  ],
+  "substitutions": [
+    {
+      "original": "土豆淀粉",
+      "substitute": "玉米淀粉",
+      "ratio": "40 克:40 克",
+      "note": "韧性略低，需缩短蒸制十秒。"
+    },
+    {
+      "original": "黄瓜",
+      "substitute": "豆芽",
+      "ratio": "100 克:120 克",
+      "note": "焯熟后拌入，口感更爽脆。"
+    }
+  ],
+  "variations": [
+    "喜欢麻酱味可加一勺芝麻酱，香浓不辣。",
+    "面浆里加一撮盐，凉皮更筋道有底味。"
+  ],
+  "serving_suggestion": "现拌现吃，配一碗羊肉汤或酸梅汤最解腻。",
+  "storage": "凉皮刷油密封冷藏两天，吃前蒸三十秒回软再拌。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 410,
+    "protein_g": 11,
+    "fat_g": 13,
+    "carbs_g": 62,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "凉皮须蒸至完全透明熟透，未熟的面浆含生面粉不可食用。",
+    "蒸锅开盖时蒸汽温度很高，注意避免烫伤。"
+  ],
+  "origin_note": "西北街头的解暑主食，面团洗出面筋和淀粉浆，浆水沉淀后上锅一张张蒸成凉皮，切条拌上蒜汁和红油，夏天一盘下去浑身通透。",
+  "tags": [
+    "西北",
+    "凉皮",
+    "凉拌",
+    "小麦"
+  ],
+  "related_ids": [
+    "xibei-roujiamo",
+    "xibei-yangza-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
