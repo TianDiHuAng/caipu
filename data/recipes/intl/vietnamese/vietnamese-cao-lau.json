@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "vietnamese-cao-lau",
+  "name": {
+    "zh": "会安猪肉拌面",
+    "en": "Cao Lau",
+    "original": "Cao lầu"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "vietnamese"
+  },
+  "category": [
+    "staple-noodle",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 60,
+    "total_min": 85
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "粗米粉",
+          "optional": false
+        },
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 600,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "焯水",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 60,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "汤锅",
+    "刀",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切三厘米块，冷水下锅焯五分钟去血水后洗净。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "焯水后要用温水冲，冷水冲会让肉紧缩。",
+      "visual_cue": "肉块表面干净，汤水清"
+    },
+    {
+      "n": 2,
+      "text": "锅里下植物油炒香洋葱末与蒜末，加白糖炒到融化变褐。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "糖色炒到琥珀色就下肉，再深就发苦。",
+      "visual_cue": "糖色琥珀，锅中起泡"
+    },
+    {
+      "n": 3,
+      "text": "放入牛腩块中火翻炒到表面均匀上色，再淋生抽炒匀。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "上色均匀后再加汤，颜色才漂亮。",
+      "visual_cue": "肉块均匀裹上酱色"
+    },
+    {
+      "n": 4,
+      "text": "倒入高汤煮开，转小火加盖炖五十分钟至牛腩软嫩。",
+      "time_min": 52,
+      "heat": "小火",
+      "tip": "保持微沸，汤面只冒小泡最合适。",
+      "visual_cue": "牛腩能被筷子轻松插入"
+    },
+    {
+      "n": 5,
+      "text": "另起锅烧水，粗米粉下锅烫一分半钟至软化，捞出过冷水。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "米粉只要烫软就捞，过冷水才弹牙。",
+      "visual_cue": "米粉柔韧，拉扯有弹性"
+    },
+    {
+      "n": 6,
+      "text": "豆芽用同一锅沸水焯二十秒，捞出后摊开彻底沥干。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "豆芽焯久会失去脆感，二十秒足够。",
+      "visual_cue": "豆芽挺立，颜色透亮"
+    },
+    {
+      "n": 7,
+      "text": "碗底铺生菜丝与豆芽，放上米粉，浇两大勺牛腩与汤汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "汤只浇两大勺，多了会泡软米粉。",
+      "visual_cue": "碗中层次分明，汤色棕亮"
+    },
+    {
+      "n": 8,
+      "text": "鱼露加青柠汁和小米辣调成蘸汁，撒香菜碎，拌开吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "拌之前先淋两勺蘸汁，酸香才立起来。",
+      "visual_cue": "汁水清亮，香气复杂"
+    }
+  ],
+  "tips": [
+    "牛腩炖到能用筷子插透就停，久炖会散。",
+    "米粉选粗圆型，细米粉挂不住汤汁。",
+    "正宗会安版本会用当地井水，家里做不必强求。"
+  ],
+  "common_mistakes": [
+    "米粉烫太久，拌开全断成一截截。",
+    "糖色炒过头变黑，整锅带明显苦味。",
+    "汤浇太多，米粉吸满水失去弹性。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "猪五花",
+      "ratio": "600 克:600 克",
+      "note": "更油润，炖制时间缩短十五分钟。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "生抽加柠檬汁",
+      "ratio": "15 毫升:20 毫升加 5 毫升柠檬汁",
+      "note": "酸咸接近，鲜味稍弱。"
+    }
+  ],
+  "variations": [
+    "加炸猪皮脆片，是当地常见的加料吃法。",
+    "把牛腩换成叉烧，做成更清爽的版本。"
+  ],
+  "serving_suggestion": "拌开后配一碟青柠辣椒汁，再点一杯越南冰咖啡。",
+  "storage": "牛腩与汤冷藏三天、冷冻一个月；米粉现煮现吃，冷藏后会变硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 420 克",
+    "calories_kcal": 620,
+    "protein_g": 36,
+    "fat_g": 22,
+    "carbs_g": 66,
+    "sodium_mg": 1320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛腩须炖至中心完全熟透、能轻松插入筷子；生菜与豆芽须洗净，豆芽须焯至断生；剩汤两小时内冷藏并彻底煮沸。"
+  ],
+  "origin_note": "越南会安的独家面食，据说只有用当地井水做的米粉才有那股韧劲。牛腩用糖色和生抽炖到棕亮，铺在粗米粉上，只浇两勺汤，拌开时酸、咸、鲜一起涌上来。",
+  "tags": [
+    "越南",
+    "牛腩",
+    "米粉",
+    "拌面"
+  ],
+  "related_ids": [
+    "vietnamese-banh-xeo",
+    "vietnamese-goi-cuon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

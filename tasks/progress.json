@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:01:04.762Z",
+  "generatedAt": "2026-11-21T06:08:53.824Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 549,
+    "cells": 550,
     "target": 3274,
-    "actual": 809,
-    "coverage": 0.24709835064141722
+    "actual": 818,
+    "coverage": 0.24984728161270617
   },
   "regions": {
     "cn": [
@@ -2415,7 +2415,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 34,
+        "actual": 35,
         "cells": [
           {
             "category": "main-meat",
@@ -2511,9 +2511,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "korean-japchae"
+              "korean-japchae",
+              "korean-jjajangmyeon"
             ]
           },
           {
@@ -3126,7 +3127,7 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 16,
         "cells": [
           {
             "category": "soup",
@@ -3143,9 +3144,10 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "pho-bo",
+              "vietnamese-cao-lau",
               "vietnamese-niurou-fen"
             ]
           },
@@ -3162,8 +3164,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "vietnamese-cao-lau",
               "vietnamese-thit-kho"
             ]
           },
@@ -3192,10 +3195,11 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "banh-mi",
-              "vietnamese-banh-mi"
+              "vietnamese-banh-mi",
+              "vietnamese-banh-xeo"
             ]
           },
           {
@@ -3205,6 +3209,15 @@
             "actual": 1,
             "ids": [
               "vietnamese-banh-mi"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "vietnamese-banh-xeo"
             ]
           },
           {
@@ -3467,14 +3480,15 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "filipino-kare-kare",
               "filipino-sinigang"
             ]
           },
@@ -3996,7 +4010,7 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 7,
         "cells": [
           {
             "category": "appetizer",
@@ -4037,15 +4051,19 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "greek-spanakopita"
+            ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "greek-spanakopita"
+            ]
           },
           {
             "category": "main-egg",
@@ -4909,7 +4927,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 29,
+        "actual": 30,
         "cells": [
           {
             "category": "snack",
@@ -5020,8 +5038,9 @@
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "mexican-chicken-tinga",
               "mexican-pollo-asado"
             ]
           },

@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "vietnamese-banh-xeo",
+  "name": {
+    "zh": "越南脆皮煎饼",
+    "en": "Vietnamese Sizzling Crepe",
+    "original": "Bánh xèo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "vietnamese"
+  },
+  "category": [
+    "snack",
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "tangy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 60,
+          "unit": "g",
+          "note": "增脆",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "浓椰奶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 200,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "掐去尾",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎饼",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 150,
+          "unit": "g",
+          "note": "包食用",
+          "optional": false
+        },
+        {
+          "name": "薄荷",
+          "name_en": "mint",
+          "amount": 15,
+          "unit": "g",
+          "note": "取叶",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 60,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "大碗",
+    "打蛋器",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉、米粉、姜黄与盐放大碗里拌匀，中间挖一个小坑。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "姜黄决定饼皮的金黄色，别省也别多放。",
+      "visual_cue": "粉料均匀，颜色淡黄"
+    },
+    {
+      "n": 2,
+      "text": "倒入椰奶与一百五十毫升清水，搅到面糊顺滑无颗粒。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面糊要像淡米汤，太稠摊不开会厚硬。",
+      "visual_cue": "面糊流动，挂勺即落"
+    },
+    {
+      "n": 3,
+      "text": "面糊盖上布静置二十分钟，让米粉充分吸水膨胀。",
+      "time_min": 21,
+      "heat": "无火",
+      "tip": "静置后饼皮更脆，也不容易破。",
+      "visual_cue": "面糊表面细泡，质地均匀"
+    },
+    {
+      "n": 4,
+      "text": "虾仁用鱼露抓匀腌十分钟，香菇片挤干水分。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "香菇含水多，先挤干否则饼皮会湿软。",
+      "visual_cue": "虾仁微透明，香菇干爽"
+    },
+    {
+      "n": 5,
+      "text": "平底锅刷一层植物油烧热，舀一勺面糊转锅摊成薄圆饼。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "锅要够热，面糊下去能听到响才算到位。",
+      "visual_cue": "面糊边缘立刻起泡定型"
+    },
+    {
+      "n": 6,
+      "text": "趁饼皮未干时铺上虾仁、洋葱、香菇与豆芽，加盖焖三分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "配料铺半边，方便对折成半月形。",
+      "visual_cue": "配料分布均匀，饼边翘起"
+    },
+    {
+      "n": 7,
+      "text": "开盖转大火煎一分钟至边缘金黄酥脆，对折出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "最后一分钟大火才能逼出脆边。",
+      "visual_cue": "边缘焦黄起脆，饼身薄脆"
+    },
+    {
+      "n": 8,
+      "text": "生菜、薄荷与青柠摆盘，把煎饼卷起来蘸鱼露汁吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "一定要用生菜包着吃，清爽解油。",
+      "visual_cue": "菜叶包裹紧实，酱汁清亮"
+    }
+  ],
+  "tips": [
+    "面糊里加米粉是脆皮的关键，全用面粉会韧。",
+    "锅每次煎完都要重新刷油，防粘。",
+    "配料别铺太厚，否则中间煎不脆。"
+  ],
+  "common_mistakes": [
+    "面糊太稠，摊出来的饼厚如煎饼，一点不脆。",
+    "锅不够热就倒面糊，饼皮粘锅撕破。",
+    "配料铺满整张饼还硬要折叠，结果全散了。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鸡胸肉丝",
+      "ratio": "200 克:200 克",
+      "note": "不吃海鲜的版本，需多煎一分钟。"
+    },
+    {
+      "original": "椰奶",
+      "substitute": "牛奶",
+      "ratio": "250 毫升:250 毫升",
+      "note": "椰香减弱，脆度更明显。"
+    }
+  ],
+  "variations": [
+    "加五花肉薄片同煎，是越南南部的经典做法。",
+    "把虾仁换成鱿鱼圈，煎后口感更弹牙。"
+  ],
+  "serving_suggestion": "用生菜包饼，夹薄荷叶，蘸鱼露青柠汁吃。",
+  "storage": "面糊冷藏一天，用前搅匀；煎好的饼现做现吃，冷藏会彻底失脆。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 20,
+    "carbs_g": 62,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁须煎至完全不透明、质地变紧，中心温度七十四度以上；贝类过敏者须替换配料；面糊含椰奶，两小时内冷藏。"
+  ],
+  "origin_note": "越南街头的下午点心，面糊里加了姜黄和椰奶，倒进热锅时发出滋滋声。饼边薄脆得能听见声，包进生菜和薄荷，蘸一口酸甜鱼露汁，一口下去满是清爽。",
+  "tags": [
+    "越南",
+    "煎饼",
+    "虾仁",
+    "椰奶"
+  ],
+  "related_ids": [
+    "vietnamese-goi-cuon",
+    "vietnamese-banh-mi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
