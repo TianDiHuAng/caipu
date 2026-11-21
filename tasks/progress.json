@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:36:58.417Z",
+  "generatedAt": "2026-11-21T10:58:18.039Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 568,
+    "cells": 569,
     "target": 3274,
-    "actual": 976,
-    "coverage": 0.2981062919975565
+    "actual": 986,
+    "coverage": 0.3011606597434331
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 60,
+        "actual": 61,
         "cells": [
           {
             "category": "main-meat",
@@ -84,10 +84,11 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "guaiwei-jiang",
               "sichuan-hongyou-lazi",
+              "sichuan-jiaoma-jiang",
               "yuxiang-jiang"
             ]
           },
@@ -537,7 +538,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 38,
+        "actual": 40,
         "cells": [
           {
             "category": "main-seafood",
@@ -585,8 +586,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "jiangsu-liangban-wosun",
               "nanjing-yanshui-ya",
               "shuijing-yaorou",
               "zao-maodou"
@@ -644,6 +646,17 @@
             ]
           },
           {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 3,
+            "ids": [
+              "guihua-tangou",
+              "jiangsu-liangban-wosun",
+              "zao-maodou"
+            ]
+          },
+          {
             "category": "dessert",
             "kind": "extra",
             "target": 0,
@@ -651,16 +664,6 @@
             "ids": [
               "guihua-tangou",
               "zhima-matuan"
-            ]
-          },
-          {
-            "category": "cold-dish",
-            "kind": "extra",
-            "target": 0,
-            "actual": 2,
-            "ids": [
-              "guihua-tangou",
-              "zao-maodou"
             ]
           },
           {
@@ -977,14 +980,15 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 28,
+        "actual": 32,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
+              "hunan-suanrou",
               "lajiao-chaorou",
               "lawi-hezheng",
               "maoshi-hongshaorou",
@@ -1022,8 +1026,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "hunan-liangban-tonghao",
               "hunan-suan-luobo",
               "lei-lajiao-pidan",
               "liangban-maodou"
@@ -1033,11 +1038,12 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "duo-lajiao",
               "hunan-mei-doufu",
-              "hunan-suan-doujiao"
+              "hunan-suan-doujiao",
+              "hunan-suanrou"
             ]
           },
           {
@@ -1073,6 +1079,16 @@
             "ids": []
           },
           {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "hunan-duolajiao",
+              "hunan-liangban-tonghao"
+            ]
+          },
+          {
             "category": "main-seafood",
             "kind": "extra",
             "target": 0,
@@ -1088,15 +1104,6 @@
             "actual": 1,
             "ids": [
               "ganguo-chashugu"
-            ]
-          },
-          {
-            "category": "cold-dish",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "hunan-duolajiao"
             ]
           },
           {
@@ -1125,15 +1132,16 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 22,
+        "actual": 25,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "huizhou-daobanxiang",
+              "huizhou-hongshao-zhuti",
               "huizhou-hongshaorou",
               "yipin-guo"
             ]
@@ -1176,9 +1184,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "huizhou-baofu-jiao",
+              "huizhou-baolu-guo",
               "huizhou-shaobing",
               "huizhou-taguo"
             ]
@@ -1239,6 +1248,15 @@
             "actual": 1,
             "ids": [
               "fuliji-shaoji"
+            ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "huizhou-baolu-guo"
             ]
           },
           {

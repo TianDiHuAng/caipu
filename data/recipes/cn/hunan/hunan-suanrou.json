@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-suanrou",
+  "name": {
+    "zh": "湘西酸肉",
+    "en": "Xiangxi Fermented Pork",
+    "original": "湘西酸肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "fermented",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 40,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "salty",
+    "spicy",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 120,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 20,
+          "unit": "g",
+          "note": "腌渍",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "陶坛",
+    "炒锅",
+    "蒸锅",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成两指厚的片，皮朝下用刀刮净表面油污。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "皮刮干净，腌出来才不会发黏发臭。",
+      "visual_cue": "肉皮泛白，表面无黏液"
+    },
+    {
+      "n": 2,
+      "text": "肉片摊开在案板上，用盐逐片抹匀，四面都要抹到。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "盐抹不匀，坛里就会局部变质。",
+      "visual_cue": "每片肉表面泛着细盐粒"
+    },
+    {
+      "n": 3,
+      "text": "米粉倒进干锅，小火炒到微黄出香，盛出晾凉。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "米粉炒过才香，也能吸走多余水分。",
+      "visual_cue": "米粉由白转浅黄，闻到米香"
+    },
+    {
+      "n": 4,
+      "text": "炒好的米粉趁热拌入花椒、干辣椒段与姜末。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香料先拌匀，装坛后味道才均匀。",
+      "visual_cue": "粉料红黄相间，香气冲鼻"
+    },
+    {
+      "n": 5,
+      "text": "每片五花肉两面都裹上一层粉料，码进干净陶坛。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "一层层压实，排出空气才不霉变。",
+      "visual_cue": "坛内肉片紧实，粉料填满缝隙"
+    },
+    {
+      "n": 6,
+      "text": "坛口盖严，坛沿注清水封口，放在阴凉处静置七天。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "坛沿水要常补水，干了就漏气。",
+      "visual_cue": "坛沿水面平静，隔天有细小气泡"
+    },
+    {
+      "n": 7,
+      "text": "取出酸肉，轻轻抖掉多余的粉料，再切成小段装盘。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "抖掉浮粉，蒸出来才不糊口。",
+      "visual_cue": "肉片泛着淡淡酸香，粉层薄"
+    },
+    {
+      "n": 8,
+      "text": "上锅大火蒸四十分钟，蒸到肥肉透亮、粉层吸饱油。",
+      "time_min": 40,
+      "heat": "大火",
+      "tip": "蒸足时间，酸味才柔和下来。",
+      "visual_cue": "肥肉呈半透明，粉层油润"
+    },
+    {
+      "n": 9,
+      "text": "出锅后撒上干辣椒段，趁热配一碗米饭食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "辣椒后撒，颜色红亮不发黑。",
+      "visual_cue": "肉片油亮，辣椒点缀其上"
+    }
+  ],
+  "tips": [
+    "陶坛必须无油无水，坛沿常补水，密封是成败关键。",
+    "米粉先炒香再拌，既吸湿又增香，腌出来不腥。",
+    "蒸足四十分钟，酸味才会变得柔和甘香。"
+  ],
+  "common_mistakes": [
+    "肉片带生水进坛，几天就长白霉，只能整坛倒掉。",
+    "盐放太少，肉片发酸发臭，救不回来。",
+    "坛沿水干掉没注意，进了空气，酸香变成馊味。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪蹄",
+      "ratio": "800 克:900 克",
+      "note": "带皮带筋，蒸后更弹，时间加十分钟。"
+    },
+    {
+      "original": "米粉",
+      "substitute": "玉米粉",
+      "ratio": "120 克:120 克",
+      "note": "颗粒略粗，香气更足。"
+    }
+  ],
+  "variations": [
+    "腌好后再用干辣椒与蒜苗爆炒，酸香带焦香。",
+    "和腊肉同蒸，酸香与烟熏味叠在一起。"
+  ],
+  "serving_suggestion": "切薄片蒸热，配一碗白米饭或夹在馍里都香。",
+  "storage": "整坛阴凉处可存两个月，取用时用干净干筷，取出后冷藏一周内吃完。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 42,
+    "carbs_g": 12,
+    "sodium_mg": 1100,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腌渍过程须全程无油无生水；若坛内出现彩色霉斑或异味，整坛弃用不可食用。",
+    "五花肉须蒸至中心完全熟透，腌制品一次不宜多食。"
+  ],
+  "origin_note": "湘西山路远，年猪杀了吃不完，土家人把肉片裹上炒米粉和香料塞进陶坛，坛沿一封，七天就出酸香。开坛蒸一碗，酸里带辣，是山里人待客的硬菜。",
+  "tags": [
+    "湘菜",
+    "腌渍",
+    "五花肉",
+    "土家"
+  ],
+  "related_ids": [
+    "hunan-suan-doujiao",
+    "hunan-mei-doufu",
+    "lawi-hezheng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
