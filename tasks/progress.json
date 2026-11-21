@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:10:07.728Z",
+  "generatedAt": "2026-11-21T12:17:58.942Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1049,
-    "coverage": 0.3204031765424557
+    "actual": 1059,
+    "coverage": 0.3234575442883323
   },
   "regions": {
     "cn": [
@@ -3685,7 +3685,7 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -3702,9 +3702,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "filipino-sinigang"
+              "filipino-sinigang",
+              "filipino-tinola"
             ]
           },
           {
@@ -3752,10 +3753,11 @@
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "filipino-chicken-adobo",
-              "filipino-pancit"
+              "filipino-pancit",
+              "filipino-tinola"
             ]
           },
           {
@@ -4279,14 +4281,15 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 15,
         "cells": [
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "greek-keftedes",
               "tzatziki"
             ]
           },
@@ -4294,8 +4297,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "greek-keftedes",
               "greek-moussaka",
               "greek-souvlaki"
             ]
@@ -5279,7 +5283,7 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 9,
+        "actual": 11,
         "cells": [
           {
             "category": "main-seafood",
@@ -5308,8 +5312,9 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "cajun-chicken-and-rice-soup",
               "cajun-chicken-stew"
             ]
           },
@@ -5317,8 +5322,10 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "cajun-chicken-and-rice-soup"
+            ]
           },
           {
             "category": "sauce",
@@ -5564,7 +5571,7 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "main-meat",
@@ -5594,9 +5601,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "brazilian-brigadeiro"
+              "brazilian-brigadeiro",
+              "brazilian-grilled-pineapple"
             ]
           },
           {
@@ -5708,7 +5716,7 @@
         "en": "Caribbean",
         "tier": "C",
         "target": 25,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "main-poultry",
@@ -5734,8 +5742,9 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "caribbean-coconut-rice",
               "caribbean-rice-and-peas"
             ]
           },
@@ -5946,7 +5955,7 @@
         "en": "East African",
         "tier": "C",
         "target": 25,
-        "actual": 11,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
@@ -5962,9 +5971,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "east-african-chapati"
+              "east-african-chapati",
+              "east-african-mandazi"
             ]
           },
           {
@@ -5997,9 +6007,10 @@
             "category": "breakfast",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "east-african-chapati"
+              "east-african-chapati",
+              "east-african-mandazi"
             ]
           },
           {

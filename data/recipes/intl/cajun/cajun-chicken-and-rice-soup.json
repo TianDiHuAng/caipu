@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cajun-chicken-and-rice-soup",
+  "name": {
+    "zh": "卡真鸡肉米饭汤",
+    "en": "Cajun Chicken and Rice Soup",
+    "original": "Chicken and Rice Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "cajun"
+  },
+  "category": [
+    "soup",
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 62,
+    "total_min": 82
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 150,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成三厘米见方的块，用厨房纸吸干表面水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "吸干水才煎得上色，不然只会出水。",
+      "visual_cue": "肉块表面干爽，大小一致"
+    },
+    {
+      "n": 2,
+      "text": "汤锅大火下橄榄油，鸡皮朝下先煎到金黄。过程中注意火候变化。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "先煎皮面，油脂出来汤才香。这一步别省。",
+      "visual_cue": "鸡皮金黄酥脆，锅里油清亮"
+    },
+    {
+      "n": 3,
+      "text": "翻面煎两分钟，盛出鸡肉备用，留下锅里的油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "先盛出，久煮肉会柴成渣。顺序别颠倒。",
+      "visual_cue": "鸡肉表面全白，锅底留焦香物"
+    },
+    {
+      "n": 4,
+      "text": "下洋葱丁与胡萝卜丁，中火炒五分钟到洋葱透明。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒透，汤的甜味才出得来。火候要盯住。",
+      "visual_cue": "洋葱透明，胡萝卜油亮"
+    },
+    {
+      "n": 5,
+      "text": "加蒜末与辣椒粉炒三十秒，炒出红油香味。动作要快别拖延。",
+      "time_min": 2,
+      "heat": "中小火",
+      "tip": "辣椒粉遇油才出色，别炒久了发苦。",
+      "visual_cue": "锅里泛红，辣香冲鼻"
+    },
+    {
+      "n": 6,
+      "text": "放番茄块炒三分钟，炒到番茄软烂出汁。随时观察锅里的状态。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄炒化，汤的酸味才自然。多练两次就熟。",
+      "visual_cue": "番茄成糊状，汤汁微红"
+    },
+    {
+      "n": 7,
+      "text": "倒回鸡肉，加清水大火烧开后撇净浮沫。翻动要轻别弄碎。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "浮沫撇干净，汤色才清。细节决定成败。",
+      "visual_cue": "汤面干净，肉块浮在汤里"
+    },
+    {
+      "n": 8,
+      "text": "转小火盖盖煮二十分钟，让鸡肉和香料融合。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "保持微沸，滚太猛肉会散。这一步别省。",
+      "visual_cue": "汤色橙红，鸡肉一戳就透"
+    },
+    {
+      "n": 9,
+      "text": "倒入洗净的大米，小火再煮十五分钟至米开花。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "米下锅后勤搅两次，防止糊底。顺序别颠倒。",
+      "visual_cue": "米粒开花，汤变浓稠"
+    },
+    {
+      "n": 10,
+      "text": "加盐与黑胡椒调味，装碗后撒少许辣椒粉点缀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "盐最后放，早放肉会发紧。火候要盯住。",
+      "visual_cue": "汤稠挂勺，红汤里米粒分明"
+    }
+  ],
+  "tips": [
+    "鸡肉先煎再煮，汤里才有烤过的香气。",
+    "辣椒粉要和油一起炒，红色才漂亮。",
+    "大米下锅后勤搅锅底，卡真汤很容易糊。",
+    "盐最后放，鸡肉才不柴不紧。多练两次就熟。"
+  ],
+  "common_mistakes": [
+    "鸡肉直接下锅煮，汤寡淡没有焦香。",
+    "大米煮过头，汤变成一锅糊。这一步别省。",
+    "辣椒粉炒到发黑，整锅发苦。顺序别颠倒。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "400 克:400 克",
+      "note": "更瘦，煮十五分钟就够。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "烟熏辣椒粉",
+      "ratio": "6 克:5 克",
+      "note": "烟熏味重，辣度略低。"
+    }
+  ],
+  "variations": [
+    "加几片培根同煮，烟熏味更浓。细节决定成败。",
+    "出锅前挤几滴柠檬汁，鲜味更亮。"
+  ],
+  "serving_suggestion": "用厚壁碗装盛，配一片玉米面包或法棍，冬天一顿就够暖。",
+  "storage": "冷藏两天，冷冻可放一个月，复热时加清水调稀。",
+  "nutrition_estimate": {
+    "basis": "每份约 450 克",
+    "calories_kcal": 430,
+    "protein_g": 28,
+    "fat_g": 14,
+    "carbs_g": 48,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底煮至中心熟透不见粉色；含米饭的汤品冷藏不超过两天，复热须滚透。"
+  ],
+  "origin_note": "路易斯安那家庭的日常汤锅，鸡肉煎香后和洋葱、胡萝卜、番茄一起炖，最后下米煮到开花，辣中带甜，一碗管饱。",
+  "tags": [
+    "卡真",
+    "汤",
+    "鸡肉",
+    "米饭"
+  ],
+  "related_ids": [
+    "cajun-chicken-stew",
+    "cajun-jambalaya",
+    "cajun-dirty-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
