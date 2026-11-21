@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-prawn-noodle-soup",
+  "name": {
+    "zh": "新加坡虾面汤",
+    "en": "Singapore Prawn Noodle Soup",
+    "original": "Prawn Mee"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "soup",
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 320,
+          "unit": "g",
+          "note": "干米粉",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 400,
+          "unit": "g",
+          "note": "去黑线",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 200,
+          "unit": "g",
+          "note": "摘净",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1300,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾仁挑掉背上的黑线，剥下来的头壳留着一会儿熬汤。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "头壳里的膏是汤鲜的关键，千万别扔掉。",
+      "visual_cue": "虾仁干净，头壳红亮一堆"
+    },
+    {
+      "n": 2,
+      "text": "炒锅下植物油，把头壳与蒜末小火煸到出红油。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "把头壳里的红油充分煸出来，汤色才红亮，味道也鲜浓。",
+      "visual_cue": "锅里泛红油，头壳酥脆"
+    },
+    {
+      "n": 3,
+      "text": "倒进清水煮开后转小火熬十五分钟，滤出汤底。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "小火熬足时间，海味的鲜才彻底进到汤里。",
+      "visual_cue": "汤色橙红，滤后清亮"
+    },
+    {
+      "n": 4,
+      "text": "干米粉用温水泡软，泡到用手能掐断无硬芯。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "先泡软再下锅烫，口感才滑溜不夹生。",
+      "visual_cue": "米粉柔软透亮，折之即断"
+    },
+    {
+      "n": 5,
+      "text": "豆芽掐掉根须，用清水冲洗两遍后沥干水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "根须摘干净，吃起来口感才清爽。",
+      "visual_cue": "豆芽白净，水沥干"
+    },
+    {
+      "n": 6,
+      "text": "滤好的汤底重新烧开，加生抽与盐调好咸淡。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "先把咸淡调准，后面下料味道才不会跑偏。",
+      "visual_cue": "汤面微沸，咸鲜扑鼻"
+    },
+    {
+      "n": 7,
+      "text": "下米粉煮两分钟，用筷子轻轻把粘连处抖散。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "抖散防止粘连，煮的时间也千万别超过两分钟。",
+      "visual_cue": "米粉散开，汤里滑动"
+    },
+    {
+      "n": 8,
+      "text": "最后放虾仁与豆芽，煮到虾仁变红就立刻关火。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "虾仁一红就是熟了，多煮一会儿就发柴。",
+      "visual_cue": "虾仁卷曲通红，豆芽脆挺"
+    },
+    {
+      "n": 9,
+      "text": "盛碗时先捞粉再浇汤，撒上蒜末与少许生抽。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "先放粉后浇汤，卖相清爽，汤也不会浑。",
+      "visual_cue": "碗里红汤清亮，虾仁卧面"
+    }
+  ],
+  "tips": [
+    "头壳一定煸出红油再熬汤，鲜味和颜色都靠它。",
+    "米粉泡软再下锅，煮两分钟就够，久了会烂。",
+    "虾仁最后下，变红即关火，肉才弹。"
+  ],
+  "common_mistakes": [
+    "头壳直接丢进水里煮，汤色寡淡没有鲜味。",
+    "米粉不泡就直接下锅煮，外面烂了里面还是硬的。",
+    "虾仁久煮，缩成一小团，咬着发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "米粉",
+      "substitute": "河粉",
+      "ratio": "320 克:400 克",
+      "note": "更宽更滑，煮的时间减半。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "鱼片",
+      "ratio": "400 克:400 克",
+      "note": "鱼片薄，下锅十秒即熟。"
+    }
+  ],
+  "variations": [
+    "加两片排骨同熬，汤更浓，是新加坡老摊做法。",
+    "配一小碟辣椒酱蘸虾仁，酸辣开胃。"
+  ],
+  "serving_suggestion": "趁热连汤带粉吸溜一大碗，配辣椒酱与青柠角最过瘾。",
+  "storage": "汤与粉分开冷藏，两天内吃完，复热后现煮米粉。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 420,
+    "protein_g": 28,
+    "fat_g": 10,
+    "carbs_g": 56,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁须煮至完全变红卷曲，甲壳类过敏人群慎食；汤底熬好后须滤净头壳碎。"
+  ],
+  "origin_note": "新加坡小贩中心的虾面，头壳煸出红油熬成汤，配米粉、豆芽与虾仁。一碗下肚，汤鲜得让人把碗底都刮干净。",
+  "tags": [
+    "新加坡",
+    "汤面",
+    "虾仁",
+    "小贩中心"
+  ],
+  "related_ids": [
+    "singaporean-char-kway-teow",
+    "singaporean-bak-kut-teh",
+    "singaporean-chilli-crab"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "portuguese-arroz-de-marisco",
+  "name": {
+    "zh": "葡式海鲜饭",
+    "en": "Portuguese Seafood Rice (Arroz de Marisco)",
+    "original": "Arroz de Marisco"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "portuguese"
+  },
+  "category": [
+    "main-seafood",
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "免洗",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 300,
+          "unit": "g",
+          "note": "去黑线",
+          "optional": false
+        },
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 250,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "木铲",
+    "汤勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾仁挤出背上的黑线，用淡盐水轻轻抓洗后沥干。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "黑线不挤干净，整锅汤都会发腥发苦。",
+      "visual_cue": "虾仁透亮，背沟干净"
+    },
+    {
+      "n": 2,
+      "text": "鱿鱼收拾干净，去掉内骨，切成半厘米宽的圈。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切成一样宽，煮的时候受热才一致。",
+      "visual_cue": "鱿鱼圈大小均匀，颜色雪白"
+    },
+    {
+      "n": 3,
+      "text": "深锅下橄榄油，放洋葱丁小火炒到透明发软。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱炒透才出甜味，这锅饭的底子全靠它。",
+      "visual_cue": "洋葱透明，锅里有甜香"
+    },
+    {
+      "n": 4,
+      "text": "加蒜末炒出香味，再下番茄块炒到出汁变沙。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄炒沙才有厚度，别急着倒水。",
+      "visual_cue": "番茄化开，锅里红汤微稠"
+    },
+    {
+      "n": 5,
+      "text": "倒入大米翻炒两分钟，让每粒米都裹上油脂。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "米先炒过，煮出来粒粒分明不粘。",
+      "visual_cue": "米粒油亮，粒粒分开"
+    },
+    {
+      "n": 6,
+      "text": "加清水与盐，大火烧开后转小火煮十二分钟。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "水位高过米两指，煮到八分熟刚好。",
+      "visual_cue": "汤面微微冒泡，米粒膨起"
+    },
+    {
+      "n": 7,
+      "text": "把鱿鱼圈与虾仁铺在米面上，盖盖小火再焖八分钟。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "海鲜铺在米上焖，鲜汁才往下渗。",
+      "visual_cue": "虾仁转红，鱿鱼卷成小圈"
+    },
+    {
+      "n": 8,
+      "text": "关火后再焖五分钟，让米粒把锅底的鲜汤吸干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "关火多焖一会儿，米心才软透而粒粒不烂。",
+      "visual_cue": "表面汤收干，米粒饱满"
+    },
+    {
+      "n": 9,
+      "text": "撒上切碎的洋葱末，再淋少许橄榄油就可以端上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "出锅前淋一点橄榄油，香气立刻再提一层。",
+      "visual_cue": "饭面油亮，海鲜红白相间"
+    }
+  ],
+  "tips": [
+    "大米先炒后煮，粒粒分明不粘锅。",
+    "海鲜最后铺面焖，鲜汁往米里渗，不会煮老。",
+    "水一次加足，中途添水会把饭煮成粥。"
+  ],
+  "common_mistakes": [
+    "米和水一起下锅不炒，成品黏成一坨。",
+    "海鲜一开始就下锅，煮完又小又韧。",
+    "大火滚煮不停搅，米粒全被搅烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "鱿鱼",
+      "substitute": "蛤蜊",
+      "ratio": "250 克:400 克",
+      "note": "需吐沙干净，开口即熟。"
+    },
+    {
+      "original": "大米",
+      "substitute": "泰国香米",
+      "ratio": "300 克:300 克",
+      "note": "香气更足，吸水略少。"
+    }
+  ],
+  "variations": [
+    "加几只带壳大虾同焖，卖相更漂亮。",
+    "撒上一把香菜末，清香解腻，颜色也好看。"
+  ],
+  "serving_suggestion": "连锅端上桌，挤上柠檬汁，配一杯冰镇白葡萄酒最对味。",
+  "storage": "冷藏两天，复热时加两勺清水小火焖五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 330 克",
+    "calories_kcal": 520,
+    "protein_g": 30,
+    "fat_g": 16,
+    "carbs_g": 62,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "mollusk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁与鱿鱼须煮至完全变白卷曲，甲壳类过敏人群慎食；蛤蜊须吐沙并煮至开口。"
+  ],
+  "origin_note": "葡萄牙沿海的渔港饭，米和海鲜一锅煮，汤鲜米糯。渔夫收工回家，一锅热饭配橄榄油，就是最实在的一顿。",
+  "tags": [
+    "葡萄牙",
+    "海鲜",
+    "米饭",
+    "一锅"
+  ],
+  "related_ids": [
+    "portuguese-bacalhau-a-bras",
+    "portuguese-grilled-sardines",
+    "portuguese-caldo-verde"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
