@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "russian-blini",
+  "name": {
+    "zh": "俄式薄煎饼",
+    "en": "Blini",
+    "original": "Blini"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "russian"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 75,
+    "cook_min": 25,
+    "total_min": 100
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "蛋白蛋黄分开",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "融化",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "助发酵提味",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "耐高糖",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 100,
+          "unit": "g",
+          "note": "上桌配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "打蛋器",
+    "拌面盆",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温牛奶加白糖搅匀，撒入干酵母静置五分钟到表面起泡。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "牛奶别超过四十度，否则酵母会被烫死。",
+      "visual_cue": "表面浮起一层细密泡沫"
+    },
+    {
+      "n": 2,
+      "text": "蛋黄蛋白分开，蛋黄打散后拌入牛奶酵母液里。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蛋白先留着，最后翻拌才蓬松。",
+      "visual_cue": "蛋液与牛奶完全混合"
+    },
+    {
+      "n": 3,
+      "text": "筛入面粉与盐，用打蛋器搅成无颗粒的稠面糊。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "搅到顺滑不结块，饼才细腻。",
+      "visual_cue": "面糊顺滑，能拉出带状痕迹"
+    },
+    {
+      "n": 4,
+      "text": "盖湿布放温暖处发酵一小时，发到体积明显变大。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "温度低会拖时间，可放烤箱开灯。",
+      "visual_cue": "面糊鼓起气泡，体积翻倍"
+    },
+    {
+      "n": 5,
+      "text": "蛋白打到硬性发泡，再分两次轻轻翻拌进面糊里。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "切拌别画圈，不然泡沫全消。",
+      "visual_cue": "面糊蓬松轻盈，体积变大"
+    },
+    {
+      "n": 6,
+      "text": "拌入一半融化黄油，剩下的一半留着刷锅备用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "黄油别太烫，否则会把蛋白泡烫塌。",
+      "visual_cue": "面糊泛着柔光，质地均匀"
+    },
+    {
+      "n": 7,
+      "text": "平底锅小火烧热，用厨房纸蘸黄油抹一层薄油。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "油只需薄薄一层，多了饼会发硬。",
+      "visual_cue": "锅面泛油光，没有积油"
+    },
+    {
+      "n": 8,
+      "text": "舀一汤勺面糊倒入锅中，摊成八厘米的小圆饼。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "一次摊三个，锅温才稳得住。",
+      "visual_cue": "饼面出现密集小气泡"
+    },
+    {
+      "n": 9,
+      "text": "表面气泡破开后翻面，再煎四十秒至两面金黄。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "只翻一次，翻多了饼会塌。",
+      "visual_cue": "两面金黄，边缘微脆"
+    },
+    {
+      "n": 10,
+      "text": "煎好的饼叠放保温，配一勺酸奶油趁热食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "叠着放能保温，也不会干硬。",
+      "visual_cue": "饼皮柔软，表面有细密气孔"
+    }
+  ],
+  "tips": [
+    "牛奶温热到三十五度最适合酵母活化。",
+    "蛋白单独打发再翻拌，饼才蓬松柔软。",
+    "锅温保持小火，饼上色才均匀不焦。"
+  ],
+  "common_mistakes": [
+    "牛奶太烫，酵母失活，面糊发不起来。",
+    "蛋白和面糊画圈搅拌，消泡后饼又硬又扁。",
+    "锅温太高，饼外面焦黑里面还是生面糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "豆浆",
+      "ratio": "300 毫升:300 毫升",
+      "note": "豆香更明显，需多加五克糖。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "酸奶",
+      "ratio": "100 克:100 克",
+      "note": "更清爽，酸味略强。"
+    }
+  ],
+  "variations": [
+    "面糊里加一勺蜂蜜，做成甜口版本。",
+    "配烟熏鱼或鱼子酱，是俄式经典吃法。"
+  ],
+  "serving_suggestion": "热饼配酸奶油，也可配果酱或烟熏鱼。",
+  "storage": "冷藏两天，复热用平底锅小火两面各烘三十秒。",
+  "nutrition_estimate": {
+    "basis": "每份约 180 克",
+    "calories_kcal": 320,
+    "protein_g": 11,
+    "fat_g": 14,
+    "carbs_g": 38,
+    "sodium_mg": 280,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "面糊含鸡蛋与生面粉，须彻底煎熟至中心无湿面糊；鸡蛋须新鲜并冷藏保存，接触生蛋液后须洗手，平底锅高温翻面时避免油溅烫伤。"
+  ],
+  "origin_note": "俄式薄煎饼，面糊靠酵母发起，再拌入打发的蛋白，煎出来松软带气孔。抹一勺酸奶油，是俄国人过节和早餐都吃的做法。",
+  "tags": [
+    "俄罗斯",
+    "薄饼",
+    "早餐",
+    "酸奶"
+  ],
+  "related_ids": [
+    "russian-beef-stroganoff",
+    "russian-pelmeni"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

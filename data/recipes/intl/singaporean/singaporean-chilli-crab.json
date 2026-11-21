@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-chilli-crab",
+  "name": {
+    "zh": "新加坡辣椒蟹",
+    "en": "Chilli Crab",
+    "original": "Chilli Crab"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "sweet",
+    "sour",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蟹",
+          "name_en": "crab",
+          "amount": 1000,
+          "unit": "g",
+          "note": "洗净斩件",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "酱汁基底",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 15,
+          "unit": "g",
+          "note": "泡软打泥",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打散勾芡",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "平衡辣味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "加水调芡",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "砧板",
+    "料理机"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蟹刷洗干净，去掉腮和胃囊，斩成带钳的四大块。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腮和胃囊一定要去净，否则有泥味。",
+      "visual_cue": "蟹块切口干净，蟹黄完整"
+    },
+    {
+      "n": 2,
+      "text": "蟹块切口处拍一层薄薄的玉米淀粉，防止下锅流汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "拍粉能让蟹肉锁住汁水。",
+      "visual_cue": "切面覆一层薄粉，不结块"
+    },
+    {
+      "n": 3,
+      "text": "干辣椒泡软去籽，与大蒜、姜一起打成细泥。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "打得越细，酱汁越顺滑。",
+      "visual_cue": "泥体细腻，颜色深红"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧热，中大火把蟹块切口朝下煎两分钟定型。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "切面先煎定型，蟹汁才不流失。",
+      "visual_cue": "切面金黄，蟹壳转红"
+    },
+    {
+      "n": 5,
+      "text": "翻面再煎两分钟，盛出蟹块，锅中留一层底油备用。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "不用煎熟，后面还要回锅焖。",
+      "visual_cue": "蟹壳通体变红，香气散出"
+    },
+    {
+      "n": 6,
+      "text": "用底油小火炒辣椒泥三分钟，炒到出红油散出香气。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "小火慢炒，生辣味才散得开。",
+      "visual_cue": "油色变红，泥体起沙"
+    },
+    {
+      "n": 7,
+      "text": "加番茄酱、白糖、生抽与白醋，搅匀煮一分钟收浓。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "先调好味道再下蟹，咸甜更均匀。",
+      "visual_cue": "酱汁浓稠油亮，颜色橘红"
+    },
+    {
+      "n": 8,
+      "text": "放回蟹块翻匀，加一百毫升热水，盖盖中火焖六分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "焖到蟹壳内肉变白，才算熟透。",
+      "visual_cue": "蟹壳内肉雪白，汁水收一半"
+    },
+    {
+      "n": 9,
+      "text": "玉米淀粉加水调匀，沿锅边淋入，翻匀让酱汁挂住蟹。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "边淋边翻，酱汁才不会结块。",
+      "visual_cue": "酱汁浓稠裹住蟹壳"
+    },
+    {
+      "n": 10,
+      "text": "关火后绕圈淋入蛋液，静置十秒再轻轻推散成蛋花。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "关火再淋蛋，蛋花才细嫩不结团。",
+      "visual_cue": "蛋花细丝状，均匀分布"
+    },
+    {
+      "n": 11,
+      "text": "撒小葱段翻匀，盛盘配炸馒头或米饭一起上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酱汁是精华，一定要配主食蘸。",
+      "visual_cue": "酱色橘红油亮，蟹壳完整"
+    }
+  ],
+  "tips": [
+    "蟹块切口拍淀粉，煎的时候汁水才锁得住。",
+    "辣椒泥小火炒到出红油，香气才够。",
+    "蛋液关火后再淋入，蛋花才细滑不结团。"
+  ],
+  "common_mistakes": [
+    "蟹不拍粉直接煎，锅里全是流出的汁水。",
+    "辣椒泥用大火炒，油溅而且带一股焦苦味。",
+    "蛋液在滚汤里淋，结成一块块蛋坨。"
+  ],
+  "substitutions": [
+    {
+      "original": "蟹",
+      "substitute": "虾",
+      "ratio": "1000 克:800 克",
+      "note": "焖制时间减到三分钟，虾肉易老。"
+    },
+    {
+      "original": "番茄酱",
+      "substitute": "番茄膏",
+      "ratio": "60 克:35 克",
+      "note": "酸味更浓，需多加十克糖。"
+    }
+  ],
+  "variations": [
+    "酱汁里加一勺辣椒酱，辣度更上一层。",
+    "最后淋一点青柠汁，酸香更清爽。"
+  ],
+  "serving_suggestion": "配炸馒头片或白米饭，用酱汁蘸着吃。",
+  "storage": "冷藏一天，复热加两勺水小火焖热，蟹肉不宜久放。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 360,
+    "protein_g": 32,
+    "fat_g": 18,
+    "carbs_g": 16,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蟹必须彻底加热至壳内蟹肉完全变白不透明，中心温度达到七十四度以上；死蟹与未熟蟹不可食用，处理活蟹时注意钳子夹伤。"
+  ],
+  "origin_note": "新加坡的海鲜招牌，辣椒泥和番茄酱炒出橘红的浓酱，蟹块回锅焖熟，最后用蛋液收成细滑的蛋花。酱汁比蟹肉还抢手。",
+  "tags": [
+    "新加坡",
+    "海鲜",
+    "蟹",
+    "辣酱"
+  ],
+  "related_ids": [
+    "singaporean-char-kway-teow",
+    "singaporean-bak-kut-teh"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "south-asian-baingan-bharta",
+  "name": {
+    "zh": "南亚烟熏茄子泥",
+    "en": "Baingan Bharta",
+    "original": "Baingan Bharta"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "south-asian"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 30,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 800,
+          "unit": "g",
+          "note": "整只大圆茄",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "整粒",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 2,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "明火炉",
+    "炒锅",
+    "锅铲",
+    "叉子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子洗净擦干，用叉子在表面扎几排小孔方便透气。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "扎孔能防止烤的时候表皮爆裂。",
+      "visual_cue": "表面布满均匀小孔"
+    },
+    {
+      "n": 2,
+      "text": "明火直接烤茄子，每两分钟转一次，烤到表皮焦黑。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "明火烤才有烟熏味，烤箱替代会差一些。",
+      "visual_cue": "表皮全黑起皱，整体软塌"
+    },
+    {
+      "n": 3,
+      "text": "烤好的茄子放凉八分钟，剥掉焦皮，只留里面的茄肉。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "放凉再剥，手不容易被烫到。",
+      "visual_cue": "焦皮整片脱落，茄肉米白"
+    },
+    {
+      "n": 4,
+      "text": "用叉子把茄肉压成粗泥，带一点纤维口感更好。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "别压太细，留点颗粒更有嚼头。",
+      "visual_cue": "泥体粗松，能挂住叉子"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒植物油，中火下孜然粒炒到微微跳动出香味。",
+      "time_min": 1,
+      "heat": "中火",
+      "tip": "孜然一跳就下料，别等它变黑。",
+      "visual_cue": "孜然粒跳动，香气冲鼻"
+    },
+    {
+      "n": 6,
+      "text": "加洋葱碎炒四分钟，炒到边缘微黄、体积明显变软缩小。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒到微黄，甜味才出来。",
+      "visual_cue": "洋葱边缘金黄，体积缩小"
+    },
+    {
+      "n": 7,
+      "text": "下姜末与蒜末炒一分钟，再加辣椒粉与姜黄炒匀。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "姜黄容易糊，下锅后马上翻炒。",
+      "visual_cue": "油色橙红，香料裹住洋葱"
+    },
+    {
+      "n": 8,
+      "text": "倒入番茄丁炒六分钟，炒到番茄完全塌软出汁。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒出汁，整道菜才不干。",
+      "visual_cue": "番茄软烂，锅里有红油"
+    },
+    {
+      "n": 9,
+      "text": "放入茄泥翻炒五分钟，让茄肉吸足香料和番茄汁。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "勤翻动，茄泥容易粘锅。",
+      "visual_cue": "泥体颜色转橙红，油光明显"
+    },
+    {
+      "n": 10,
+      "text": "加盐调味，撒香菜碎翻匀，关火盛盘趁热食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜关火后加，香气才不被煮散。",
+      "visual_cue": "表面油亮，香菜翠绿"
+    }
+  ],
+  "tips": [
+    "明火烤茄子是这道菜的灵魂，焦皮带来烟熏味。",
+    "孜然整粒下锅炒香，比孜然粉香气更足。",
+    "茄子压泥别太细，留点纤维口感更好。"
+  ],
+  "common_mistakes": [
+    "茄子用蒸的代替明火烤，完全没烟熏味。",
+    "香料下锅后大火炒，姜黄焦成苦味。",
+    "番茄没炒出汁就下茄泥，成品又干又散。"
+  ],
+  "substitutions": [
+    {
+      "original": "茄子",
+      "substitute": "西葫芦",
+      "ratio": "800 克:800 克",
+      "note": "需烤箱烤二十分钟，水分更多。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "小米辣",
+      "ratio": "4 克:2 个",
+      "note": "切碎后炒，辣味更冲。"
+    }
+  ],
+  "variations": [
+    "拌入一勺酸奶，酸味能压住辣度。",
+    "撒一把熟豌豆，口感和颜色都更丰富。"
+  ],
+  "serving_suggestion": "配烤饼或白米饭，配一碟酸奶一起吃。",
+  "storage": "冷藏两天，复热小火加少量水翻炒。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 190,
+    "protein_g": 5,
+    "fat_g": 13,
+    "carbs_g": 15,
+    "sodium_mg": 460,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "明火烤茄子时需用夹子翻动并保持距离，避免火焰灼伤；茄子须彻底烤软熟透后再食用。"
+  ],
+  "origin_note": "南亚家庭的烟熏茄子泥，茄子整只在明火上烤到皮焦肉塌，再和番茄洋葱一起炒。焦香混着孜然味，配烤饼最下饭。",
+  "tags": [
+    "南亚",
+    "素食",
+    "茄子",
+    "烟熏"
+  ],
+  "related_ids": [
+    "south-asian-dal-tadka",
+    "south-asian-aloo-gobi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

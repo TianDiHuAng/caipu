@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:05:24.764Z",
+  "generatedAt": "2026-11-21T08:14:14.692Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 560,
     "target": 3274,
-    "actual": 899,
-    "coverage": 0.27458766035430665
+    "actual": 905,
+    "coverage": 0.27642028100183264
   },
   "regions": {
     "cn": [
@@ -3471,7 +3471,7 @@
         "en": "Singaporean",
         "tier": "B",
         "target": 38,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "staple-rice",
@@ -3486,9 +3486,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "singaporean-char-kway-teow"
+              "singaporean-char-kway-teow",
+              "singaporean-chilli-crab"
             ]
           },
           {
@@ -3778,7 +3779,7 @@
         "en": "South Asian",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 4,
         "cells": [
           {
             "category": "staple-rice",
@@ -3791,9 +3792,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "south-asian-aloo-gobi"
+              "south-asian-aloo-gobi",
+              "south-asian-baingan-bharta"
             ]
           },
           {
@@ -3843,7 +3845,7 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "appetizer",
@@ -3859,8 +3861,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "middle-eastern-chicken-kebab"
+            ]
           },
           {
             "category": "staple-bread",
@@ -4019,7 +4023,7 @@
         "en": "Mediterranean",
         "tier": "B",
         "target": 38,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "salad",
@@ -4041,8 +4045,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "mediterranean-baba-ganoush",
               "mediterranean-hummus"
             ]
           },
@@ -4654,7 +4659,7 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "soup",
@@ -4686,8 +4691,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "russian-blini"
+            ]
           },
           {
             "category": "drink",
@@ -5330,16 +5337,17 @@
         "en": "Argentinian",
         "tier": "C",
         "target": 25,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "argentinian-asado",
-              "argentinian-chimichurri-steak"
+              "argentinian-chimichurri-steak",
+              "argentinian-milanesa"
             ]
           },
           {
