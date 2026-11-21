@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:30:20.296Z",
+  "generatedAt": "2026-11-21T05:35:55.386Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 533,
+    "cells": 535,
     "target": 3274,
-    "actual": 762,
-    "coverage": 0.2327428222357972
+    "actual": 771,
+    "coverage": 0.23549175320708612
   },
   "regions": {
     "cn": [
@@ -2251,7 +2251,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 35,
+        "actual": 37,
         "cells": [
           {
             "category": "main-seafood",
@@ -2294,11 +2294,12 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "chawanmushi",
               "goma-ae-spinach",
               "hiyayakko",
+              "japanese-chawanmushi",
               "karaage"
             ]
           },
@@ -2327,8 +2328,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "japanese-chawanmushi",
               "japanese-tamagoyaki"
             ]
           },
@@ -2399,17 +2401,18 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 33,
+        "actual": 34,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "bulgogi",
               "dolsot-bibimbap",
               "jeyuk-bokkeum",
+              "korean-bulgogi",
               "korean-jang-jorim"
             ]
           },
@@ -3109,7 +3112,7 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 12,
         "cells": [
           {
             "category": "soup",
@@ -3188,6 +3191,24 @@
             "actual": 1,
             "ids": [
               "vietnamese-banh-mi"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "vietnamese-goi-cuon"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "vietnamese-goi-cuon"
             ]
           }
         ]
@@ -3484,7 +3505,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 28,
+        "actual": 29,
         "cells": [
           {
             "category": "main-vegetable",
@@ -3576,8 +3597,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "indian-chicken-biryani"
+            ]
           },
           {
             "category": "sauce",
@@ -4071,15 +4094,16 @@
         "en": "German",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "austrian-wiener-schnitzel",
+              "german-rouladen",
               "german-sauerbraten",
               "schweinshaxe",
               "wiener-schnitzel"
@@ -4804,15 +4828,16 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 27,
+        "actual": 29,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "elote",
+              "mexican-chicken-quesadilla",
               "quesadilla",
               "tacos-de-carne",
               "tostadas"
@@ -4901,6 +4926,16 @@
             "ids": []
           },
           {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "mexican-chicken-quesadilla",
+              "tacos-de-carne"
+            ]
+          },
+          {
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
@@ -4916,15 +4951,6 @@
             "actual": 1,
             "ids": [
               "pico-de-gallo"
-            ]
-          },
-          {
-            "category": "staple-bread",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "tacos-de-carne"
             ]
           }
         ]

@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-chicken-biryani",
+  "name": {
+    "zh": "印度鸡肉焖饭",
+    "en": "Indian Chicken Biryani",
+    "original": "Chicken Biryani"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 40,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "fragrant",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "泰国香米",
+          "name_en": "basmati rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "长粒米,浸泡三十分钟",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 150,
+          "unit": "g",
+          "note": "腌料",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 250,
+          "unit": "g",
+          "note": "一半切丝炸香,一半切末",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "腌料",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "腌料",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 1,
+          "unit": "g",
+          "note": "温水泡开",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "分层",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炸洋葱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 12,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "腰果",
+          "name_en": "cashew",
+          "amount": 40,
+          "unit": "g",
+          "note": "炸香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "汤锅",
+    "碗",
+    "纱布",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切块，加酸奶、咖喱粉、姜黄、蒜末、姜末与盐抓匀腌半小时。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "酸奶能让香料附着并软化肉质，别省。",
+      "visual_cue": "鸡块裹满橙色腌料，盆底有稠汁"
+    },
+    {
+      "n": 2,
+      "text": "泰国香米淘洗后浸泡三十分钟，煮到米粒半熟带硬芯后捞出。",
+      "time_min": 30,
+      "heat": "中火",
+      "tip": "煮到三分之二熟即可，后面还要焖。",
+      "visual_cue": "米粒中间留一点白芯"
+    },
+    {
+      "n": 3,
+      "text": "洋葱一半切丝用植物油炸到深金酥脆，捞起沥油备用。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "小火慢炸才有酥脆感，火大易焦。",
+      "visual_cue": "洋葱丝金黄酥脆，油色变深"
+    },
+    {
+      "n": 4,
+      "text": "厚底锅下少许油炒香洋葱末，倒入腌好的鸡块煎至表面收紧。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "鸡块先煎上色，焖出来才香。",
+      "visual_cue": "鸡块表面微焦，腌料贴附"
+    },
+    {
+      "n": 5,
+      "text": "把半熟米饭铺在鸡块上，撒炸洋葱、香菜、腰果与藏红花水。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "分层堆叠而不是拌匀，这是焖饭的关键。",
+      "visual_cue": "米饭覆盖鸡块，表面点缀金黄"
+    },
+    {
+      "n": 6,
+      "text": "黄油化开淋在米饭上，锅边淋两勺水，盖紧锅盖小火焖二十五分钟。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "盖前用湿布封边，蒸汽不跑才焖得透。",
+      "visual_cue": "锅边冒细汽，飘出香料味"
+    },
+    {
+      "n": 7,
+      "text": "关火静置十分钟再开盖，用长勺从底部轻翻拌匀，配酸奶上桌。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置能让米粒定型，翻拌时别压碎。",
+      "visual_cue": "米粒分明，鸡块酥软"
+    }
+  ],
+  "tips": [
+    "长粒米要泡透，煮到半熟再焖才不会糊成一团。",
+    "藏红花水是颜色和香气的来源，用温水泡十分钟。",
+    "锅盖用湿布封边或压重物，蒸汽跑掉米就夹生。"
+  ],
+  "common_mistakes": [
+    "米煮得太软再焖，成品黏成一坨没有粒感。",
+    "火太大导致锅底焦糊，整锅带着苦味。",
+    "香料没炒开就下鸡块，吃出生粉感与苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "羊肉",
+      "ratio": "600 克:600 克",
+      "note": "炖制时间延长十五分钟。"
+    },
+    {
+      "original": "酸奶",
+      "substitute": "椰奶",
+      "ratio": "150 克:150 毫升",
+      "note": "香气更浓，需减少盐三克。"
+    }
+  ],
+  "variations": [
+    "加土豆块同焖，是印度北部的家常版本。",
+    "把鸡肉换成蔬菜与鹰嘴豆，做成素食焖饭。"
+  ],
+  "serving_suggestion": "盛盘配一小碗酸奶与腌洋葱，趁热吃最香。",
+  "storage": "冷藏两天、冷冻一个月；复热加一勺水小火焖十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 720,
+    "protein_g": 38,
+    "fat_g": 28,
+    "carbs_g": 78,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "mustard",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡腿肉须焖至中心完全熟透、无粉红色，中心温度七十五度以上；焖饭须趁热分装，两小时内冷藏，复热须彻底加热至滚烫。"
+  ],
+  "origin_note": "焖饭源自波斯与中亚，随莫卧儿王朝传入印度。把腌好的鸡块铺在锅底，盖上半熟的长粒米，撒藏红花水和炸洋葱，小火焖到香气封在锅里。开盖那一下，米粒金黄分明，鸡块酥软。",
+  "tags": [
+    "印度",
+    "鸡肉",
+    "米饭",
+    "焖"
+  ],
+  "related_ids": [
+    "aloo-gobi",
+    "aloo-palak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-rouladen",
+  "name": {
+    "zh": "德式牛肉卷",
+    "en": "German Beef Rolls",
+    "original": "Rinderrouladen"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 90,
+    "total_min": 120
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "rich",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 600,
+          "unit": "g",
+          "note": "切大薄片,锤松",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 90,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "第戎芥末",
+          "name_en": "Dijon mustard",
+          "amount": 30,
+          "unit": "g",
+          "note": "抹面",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 25,
+          "unit": "g",
+          "note": "裹肉与勾芡",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "红酒",
+          "name_en": "red wine",
+          "amount": 150,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "肉锤",
+    "牙签或棉线",
+    "厚底炖锅",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切成巴掌大的薄片，用肉锤轻敲到厚薄均匀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "敲松纤维才卷得紧，也不会嚼不动。",
+      "visual_cue": "肉片变薄变大，表面略起绒"
+    },
+    {
+      "n": 2,
+      "text": "肉片两面撒盐与黑胡椒，抹一层第戎芥末，铺培根条与胡萝卜条。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "芥末抹匀但别太厚，酸味会抢味。",
+      "visual_cue": "肉片上料分布均匀"
+    },
+    {
+      "n": 3,
+      "text": "从一端卷起成紧实的肉卷，用牙签或棉线固定两端。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "卷得越紧，炖后切片越好看。",
+      "visual_cue": "肉卷紧实，接口不松散"
+    },
+    {
+      "n": 4,
+      "text": "肉卷表面薄薄裹一层面粉，抖掉多余干粉再煎。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "裹粉能封住肉汁，也让酱汁自然变稠。",
+      "visual_cue": "表面哑光，不见干粉"
+    },
+    {
+      "n": 5,
+      "text": "厚底锅下黄油，中火把肉卷各面煎至微褐后取出。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "接口朝下先煎定型，翻动时别弄散。",
+      "visual_cue": "肉卷表面微褐，形状固定"
+    },
+    {
+      "n": 6,
+      "text": "原锅炒香洋葱丝与芹菜段，倒红酒煮到酒气散尽。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "红酒必须煮散酒气，否则酱汁发酸。",
+      "visual_cue": "锅底焦香溶入酒液，气味转甜"
+    },
+    {
+      "n": 7,
+      "text": "放回肉卷加高汤至没过一半，加盖小火焖一个半小时。",
+      "time_min": 90,
+      "heat": "小火",
+      "tip": "保持微沸，大滚会让肉卷散开。",
+      "visual_cue": "肉卷变软，筷子能轻松插入"
+    },
+    {
+      "n": 8,
+      "text": "取出肉卷拆掉牙签保温，酱汁收浓调盐，浇在肉卷上撒欧芹。",
+      "time_min": 10,
+      "heat": "中大火",
+      "tip": "收汁时不断搅拌，避免糊底。",
+      "visual_cue": "酱汁浓亮，能挂住肉卷"
+    }
+  ],
+  "tips": [
+    "牛肉片要薄到能透光，太厚卷不起来也炖不软。",
+    "没有棉线可以用牙签固定，出锅前记得取出。",
+    "配德式土豆泥或面条，酱汁一点都别浪费。"
+  ],
+  "common_mistakes": [
+    "肉片没敲松就卷，炖好后咬不断还塞牙。",
+    "肉卷没固定就下锅，翻面时散成一锅碎肉。",
+    "红酒没煮散酒气，酱汁带明显酸涩。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "猪里脊",
+      "ratio": "600 克:600 克",
+      "note": "切薄片同样处理，炖制时间缩短二十分钟。"
+    },
+    {
+      "original": "红酒",
+      "substitute": "啤酒",
+      "ratio": "150 毫升:150 毫升",
+      "note": "苦味更明显，需多加五克白糖。"
+    }
+  ],
+  "variations": [
+    "卷里加一条酸黄瓜，酸香更突出。",
+    "把酱汁里的高汤换成牛肉汤，风味更浓。"
+  ],
+  "serving_suggestion": "肉卷切厚片摆盘，浇酱汁撒欧芹，配土豆泥同食。",
+  "storage": "冷藏三天、冷冻两个月；复热连酱汁小火加热，切片后更入味。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 560,
+    "protein_g": 42,
+    "fat_g": 32,
+    "carbs_g": 14,
+    "sodium_mg": 940,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "milk",
+    "mustard",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉卷须炖至中心完全熟透，中心温度七十五度以上；固定用的牙签或棉线出锅前须全部取出；含酒精炖汁须充分煮沸，剩菜两小时内冷藏。"
+  ],
+  "origin_note": "德国北部的周日大菜，把薄牛肉片抹上芥末，卷进培根和胡萝卜，用棉线扎紧后与红酒同炖。炖到能用叉子切开，酱汁浓得挂勺，配土豆泥吃是标准搭配。",
+  "tags": [
+    "德国",
+    "牛肉",
+    "卷",
+    "慢炖"
+  ],
+  "related_ids": [
+    "apple-strudel",
+    "austrian-wiener-schnitzel"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
