@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "british-scones",
+  "name": {
+    "zh": "英式司康",
+    "en": "British Scones",
+    "original": "Scones"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "british"
+  },
+  "category": [
+    "bakery",
+    "breakfast"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "过筛两次",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 70,
+          "unit": "g",
+          "note": "冷藏切小丁",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 140,
+          "unit": "ml",
+          "note": "留两勺刷面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "细砂糖",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 12,
+          "unit": "g",
+          "note": "与面粉同筛",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "葡萄干",
+          "name_en": "raisin",
+          "amount": 50,
+          "unit": "g",
+          "note": "温水泡软擦干",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "大碗",
+    "刮板",
+    "圆模",
+    "毛刷",
+    "擀面杖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "低筋面粉、泡打粉、白糖和盐一起过筛两遍，倒进大碗里拌匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "过筛两遍能让泡打粉分布均匀，成品才发得整齐。",
+      "visual_cue": "粉堆蓬松细腻，无颗粒结块"
+    },
+    {
+      "n": 2,
+      "text": "冷藏黄油切小丁丢进粉里，用指尖快速搓成粗砂状，搓到看不见大块黄油为止。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "手温高时把碗放冰袋上操作，黄油化了司康就发不起来。",
+      "visual_cue": "粉呈淡黄色粗砂粒，捏一把能成团又散开"
+    },
+    {
+      "n": 3,
+      "text": "倒入牛奶和葡萄干，用刮板翻拌到刚成团就停手，不要反复揉压。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面团有干粉残留是正常的，多揉两下就会变硬。",
+      "visual_cue": "面团粗糙粘手，表面还能看到零星干粉"
+    },
+    {
+      "n": 4,
+      "text": "面团放案板轻压成一厘米半厚的片，用圆模垂直压下取出，边角料拢起再压一次。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "模具要垂直压到底再提，转着压会把层次封死。",
+      "visual_cue": "圆坯边缘齐整，厚度均匀一致"
+    },
+    {
+      "n": 5,
+      "text": "表面刷一层牛奶，放入预热两百度烤箱中层烤十二分钟至表面金黄。",
+      "time_min": 13,
+      "heat": "中大火",
+      "tip": "刷牛奶上色比刷糖水更浅，贴近英式下午茶的样子。",
+      "visual_cue": "顶部呈浅金褐色，侧面裂开一道腰线"
+    },
+    {
+      "n": 6,
+      "text": "出炉晾五分钟，趁温热掰开抹果酱与凝脂鲜奶。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "司康要掰不要切，掰开的断面更容易吸住果酱。",
+      "visual_cue": "断面蜂窝细密，手感轻而松"
+    }
+  ],
+  "tips": [
+    "所有材料保持低温是司康起发的关键，牛奶也用冰的更好。",
+    "面团厚度一致才能同时烤熟，太薄会干硬如饼干。",
+    "烤好当天吃完最松软，隔夜需回炉一百六十度烤三分钟。"
+  ],
+  "common_mistakes": [
+    "黄油搓得不够碎，烤出来局部有油洞。",
+    "面团反复揉压，成品硬得像石头。",
+    "模具压完左右转动，司康侧面封口发不起来。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "140 毫升:140 毫升",
+      "note": "更酥润，热量也更高。"
+    },
+    {
+      "original": "葡萄干",
+      "substitute": "蔓越莓干",
+      "ratio": "1:1",
+      "note": "酸味更明显，糖可增至四十五克。"
+    }
+  ],
+  "variations": [
+    "把葡萄干换成切达奶酪碎与黑胡椒，可做咸味版本配汤。"
+  ],
+  "serving_suggestion": "配凝脂奶油与草莓果酱，佐一壶红茶。",
+  "storage": "密封常温一天，冷冻一个月，复热后再食用。",
+  "nutrition_estimate": {
+    "basis": "每份约 150 克",
+    "calories_kcal": 420,
+    "protein_g": 9,
+    "fat_g": 17,
+    "carbs_g": 58,
+    "sodium_mg": 380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质与乳制品，麸质过敏或乳糖不耐者需替换食材；黄油与牛奶全程冷藏保存，面团不宜室温久放。"
+  ],
+  "origin_note": "司康最早出现在苏格兰，最初用燕麦做成扁圆饼直接在铁板上烙。十九世纪面粉普及后改用小麦粉与泡打粉，成为英式下午茶里奶油与果酱的载体，做法至今保持极简。",
+  "tags": [
+    "英式",
+    "烘焙",
+    "下午茶",
+    "司康"
+  ],
+  "related_ids": [
+    "french-brioche",
+    "american-cornbread"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

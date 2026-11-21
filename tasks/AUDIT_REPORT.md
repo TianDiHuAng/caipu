@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-21T04:14:13.721Z
+- 生成时间：2026-11-21T04:18:01.395Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：40 个，抽样 58 道，平均分 97
+- 覆盖菜系：42 个，抽样 60 道，平均分 96
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -22,7 +22,7 @@
 | american-south | southern-fried-chicken | 100 | A | 无 |
 | anhui | wenzheng-shansun-tang | 100 | A | 无 |
 | beijing | zhajiangmian | 93 | A | 准确性 18/25 |
-| british | british-roast-beef | 100 | A | 无 |
+| british | british-scones | 93 | A | 准确性 18/25 |
 | cantonese | caigan-zhugu-tang | 93 | A | 准确性 18/25 |
 | cantonese | dan-chaofan | 100 | A | 无 |
 | cantonese | chizhi-zheng-shanbei | 100 | A | 无 |
@@ -32,7 +32,7 @@
 | french | sauce-bordelaise | 100 | A | 无 |
 | fujian | fuzhou-xiayou | 87 | B | 准确性 18/25；安全性 14/20 |
 | fujian | baizhuo-xiaoguan | 93 | A | 准确性 18/25 |
-| german | wiener-schnitzel | 100 | A | 无 |
+| german | schweinshaxe | 100 | A | 无 |
 | greek | greek-moussaka | 93 | A | 准确性 18/25 |
 | hakka | kejia-chao-mifen | 93 | A | 准确性 18/25 |
 | halal-cn | shuipen-yangrou | 93 | A | 准确性 18/25 |
@@ -47,37 +47,39 @@
 | japanese | ochazuke | 100 | A | 无 |
 | jiangsu | qingzheng-dazhaxie | 93 | A | 准确性 18/25 |
 | jiangsu | yaxue-fensi-tang | 93 | A | 准确性 18/25 |
+| korean | jeyuk-bokkeum | 93 | A | 准确性 18/25 |
 | korean | gimbap | 93 | A | 准确性 18/25 |
-| korean | hotteok | 100 | A | 无 |
 | mexican | crema-de-elote | 93 | A | 准确性 18/25 |
 | mexican | horchata | 93 | A | 准确性 18/25 |
 | middle-eastern | middle-eastern-falafel | 100 | A | 无 |
 | mongolian | shouba-rou | 93 | A | 准确性 18/25 |
 | nordic | nordic-fish-soup | 100 | A | 无 |
+| north-african | north-african-lamb-tagine | 93 | A | 准确性 18/25 |
+| peruvian | peruvian-ceviche | 87 | B | 准确性 18/25；安全性 14/20 |
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
-| russian | russian-beef-stroganoff | 100 | A | 无 |
-| shandong | congyou-bing | 93 | A | 准确性 18/25 |
-| shandong | pa-yuanke-baoyu | 93 | A | 准确性 18/25 |
-| shandong | baochao-yaohua | 100 | A | 无 |
-| shanghai | yandu-xian | 87 | B | 准确性 18/25；安全性 14/20 |
-| sichuan | huiguo-rou | 93 | A | 准确性 18/25 |
-| sichuan | larou-chaofan | 100 | A | 无 |
+| russian | borscht | 100 | A | 无 |
+| shandong | majiang-huanggua | 93 | A | 准确性 18/25 |
+| shandong | naitang-jiyu | 94 | A | 安全性 14/20 |
+| shandong | sixi-wanzi | 100 | A | 无 |
+| shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
 | sichuan | ganbian-doujiao | 100 | A | 无 |
-| spanish | salmorejo | 93 | A | 准确性 18/25 |
-| spanish | calamares-fritos | 100 | A | 无 |
-| taiwan | kezai-jian | 100 | A | 无 |
-| thai | thai-kaeng-jued-moo | 93 | A | 准确性 18/25 |
-| thai | tom-yum-goong | 94 | A | 安全性 14/20 |
+| sichuan | gongbao-jiding | 100 | A | 无 |
+| sichuan | suancai-yu | 100 | A | 无 |
+| spanish | arroz-negro | 93 | A | 准确性 18/25 |
+| spanish | pulpo-a-la-gallega | 100 | A | 无 |
+| taiwan | yansu-ji | 93 | A | 准确性 18/25 |
+| thai | pu-pad-pong-curry | 100 | A | 无 |
+| thai | thai-coconut-sticky-rice | 100 | A | 无 |
 | tibetan | suyou-cha | 93 | A | 准确性 18/25 |
 | turkish | turkish-imam-bayildi | 100 | A | 无 |
-| vietnamese | pho-bo | 100 | A | 无 |
+| vietnamese | banh-mi | 94 | A | 安全性 14/20 |
 | xibei | shaanxi-saozi-mian | 93 | A | 准确性 18/25 |
-| xinjiang | naobao-rou | 100 | A | 无 |
-| yunguai | guoqiao-mixian | 100 | A | 无 |
-| zhejiang | guihua-nuomiyu | 93 | A | 准确性 18/25 |
-| zhejiang | xihu-cuyu | 100 | A | 无 |
+| xinjiang | ziran-yangrouchuan | 91 | A | 准确性 18/25；可操作性 28/30 |
+| yunguai | guizhou-zaolajiao | 100 | A | 无 |
+| zhejiang | huotui-donggua-tang | 100 | A | 无 |
+| zhejiang | dingsheng-gao | 100 | A | 无 |
 
 ## 结论
 
-- 本批 58 道全部达到 B 级及以上，无需重写。
+- 本批 60 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。

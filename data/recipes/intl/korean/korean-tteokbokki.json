@@ -1,0 +1,244 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-tteokbokki",
+  "name": {
+    "zh": "韩式辣炒年糕",
+    "en": "Spicy Rice Cakes",
+    "original": "Tteokbokki"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "snack",
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "total_min": 30
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "年糕",
+          "name_en": "rice cake",
+          "amount": 500,
+          "unit": "g",
+          "note": "条形年糕，冷水泡十分钟",
+          "optional": false
+        },
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 150,
+          "unit": "g",
+          "note": "切宽圈，解冻后擦干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 45,
+          "unit": "g",
+          "note": "两勺",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "中和辣味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "斜切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "煮年糕用",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "出锅前淋入",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "量杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "年糕条冷水浸泡十分钟后沥干，用手指逐根搓开，避免粘成一根粗条。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡过的年糕煮时不易断，也不容易糊锅底。",
+      "visual_cue": "年糕条根根分离，手感柔韧"
+    },
+    {
+      "n": 2,
+      "text": "锅里倒清水，加韩式辣椒酱、白糖和生抽搅匀，开中火煮到冒泡。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "酱料先用水化开再下年糕，否则容易糊底发苦。",
+      "visual_cue": "汤色橙红透亮，表面浮起细密气泡"
+    },
+    {
+      "n": 3,
+      "text": "下年糕条和洋葱丝，中火煮六分钟，其间用木勺推动防止粘底。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "推动要从锅底铲起，年糕沉底粘住就会焦。",
+      "visual_cue": "年糕变软膨胀，汤汁开始变稠"
+    },
+    {
+      "n": 4,
+      "text": "加入鱿鱼圈和蒜末再煮四分钟，让鱿鱼圈吸饱汤汁并释放鲜味。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鱿鱼圈最后放才不会被煮散，冷冻的需先解冻。",
+      "visual_cue": "鱿鱼圈边缘卷起，汤汁挂满表面"
+    },
+    {
+      "n": 5,
+      "text": "放入大葱段翻拌一分钟，尝味补盐，淋香油后关火装盘。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "汤汁收到能挂在年糕上就够了，太干会粘成一坨。",
+      "visual_cue": "酱汁浓稠包裹年糕，表面油亮泛红"
+    }
+  ],
+  "tips": [
+    "年糕选圆柱条形比切片更耐煮，口感也更弹。",
+    "喜欢更浓的辣味可加一勺粗辣椒粉，颜色和香气都会更足。",
+    "剩下的汤汁拌白饭是常见的吃法，别浪费。"
+  ],
+  "common_mistakes": [
+    "年糕没泡直接下锅，外层糊了里面还是硬芯。",
+    "大火快煮，酱汁烧干后粘锅发苦。",
+    "调味只放辣椒酱不放糖，辣得单薄没有回甘。"
+  ],
+  "substitutions": [
+    {
+      "original": "鱼饼",
+      "substitute": "鱼丸",
+      "ratio": "150 克:160 克",
+      "note": "口感更弹，需切半再煮。"
+    },
+    {
+      "original": "韩式辣椒酱",
+      "substitute": "豆瓣酱",
+      "ratio": "45 克:35 克",
+      "note": "咸度更高，需减生抽。"
+    }
+  ],
+  "variations": [
+    "加入拉面饼、煮鸡蛋或芝士片，可做成街头常见的豪华版本。"
+  ],
+  "serving_suggestion": "趁热装盘，撒白芝麻，配腌萝卜解辣。",
+  "storage": "冷藏两天，复热时加两勺水小火翻热。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 430,
+    "protein_g": 13,
+    "fat_g": 7,
+    "carbs_g": 78,
+    "sodium_mg": 940,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鱿鱼属水产过敏原且易老，须煮至完全热透、肉质发白卷曲；年糕黏性强，老人与幼儿食用需切小段以防噎食。"
+  ],
+  "origin_note": "辣炒年糕起源于朝鲜王朝宫廷的酱油炒年糕，二十世纪五十年代后加入了辣椒酱，才变成如今的红色版本。今日它是韩国街头摊最常见的小吃，也是学生放学后的固定点心。",
+  "tags": [
+    "韩式",
+    "小吃",
+    "年糕",
+    "辣"
+  ],
+  "related_ids": [
+    "korean-fried-chicken",
+    "korean-kimchi-fried-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

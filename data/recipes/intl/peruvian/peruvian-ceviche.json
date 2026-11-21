@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "peruvian-ceviche",
+  "name": {
+    "zh": "秘鲁青柠腌鱼",
+    "en": "Peruvian Ceviche",
+    "original": "Ceviche peruano"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "peruvian"
+  },
+  "category": [
+    "appetizer",
+    "cold-dish",
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 0,
+    "total_min": 25
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲈鱼",
+          "name_en": "sea bass",
+          "amount": 500,
+          "unit": "g",
+          "note": "取净肉，切两厘米丁",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 8,
+          "unit": "piece",
+          "note": "现榨约二百毫升汁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切极细的丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "只取叶，切碎",
+          "optional": false
+        },
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 8,
+          "unit": "g",
+          "note": "替代秘鲁黄辣椒酱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "海盐",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "平衡酸度",
+          "optional": false
+        },
+        {
+          "name": "红薯",
+          "name_en": "sweet potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "蒸熟切厚片配盘",
+          "optional": false
+        },
+        {
+          "name": "玉米",
+          "name_en": "sweet corn",
+          "amount": 150,
+          "unit": "g",
+          "note": "煮熟取粒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "玻璃碗",
+    "快刀",
+    "砧板",
+    "榨汁器",
+    "细筛"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "海鲈鱼去皮去刺，逆纹切成两厘米见方的丁，用冰水冲一遍后彻底吸干水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "鱼丁大小一致才能均匀腌熟，冲冰水可去掉表面血水。",
+      "visual_cue": "鱼丁色泽洁白半透明，表面无水光"
+    },
+    {
+      "n": 2,
+      "text": "青柠对半切开榨汁，用细筛过滤两次，取清澈果汁二百毫升。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "滤掉果肉与白膜，酸汁才不苦涩。",
+      "visual_cue": "果汁清亮微绿，无果肉悬浮"
+    },
+    {
+      "n": 3,
+      "text": "鱼丁加盐和白糖拌匀，倒入青柠汁没过鱼丁，冷藏腌十分钟至表面转白。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "腌十分钟口感最嫩，超过二十分钟肉质会变木。",
+      "visual_cue": "鱼丁外层由透明变瓷白，中心仍带一点点透"
+    },
+    {
+      "n": 4,
+      "text": "洋葱丝切极细丝用冰水泡五分钟去辛味，捞出沥干，香菜叶切碎备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "洋葱泡冰水能降刺激，也让口感更脆。",
+      "visual_cue": "洋葱丝卷曲透亮，辛辣味明显减弱"
+    },
+    {
+      "n": 5,
+      "text": "鱼丁连汁倒入碗中，拌入洋葱丝、香菜和韩式辣椒酱，尝味补盐后立即装盘。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "拌好后尽快吃，久放会不断被酸汁腌过头。",
+      "visual_cue": "鱼丁浸在乳白微绿的酸汁里，颜色清爽"
+    },
+    {
+      "n": 6,
+      "text": "盘中配蒸熟的红薯片与玉米粒，把腌鱼连汁舀在旁边即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "红薯的甜能中和酸辣，是秘鲁传统的搭配方式。",
+      "visual_cue": "红色洋葱与翠绿香菜点缀在白鱼之上"
+    }
+  ],
+  "tips": [
+    "鱼必须选当日达到生食标准的海鱼，出水时间越短越好。",
+    "全程用玻璃或陶瓷容器，金属盆会让酸汁带出金属味。",
+    "剩下的酸汁称为 leche de tigre，可加冰当饮品喝。"
+  ],
+  "common_mistakes": [
+    "用冷冻鱼直接腌，肉质松散出水，酸汁被冲淡。",
+    "柠檬汁提前榨好放冰箱，香气损失后只有死酸。",
+    "鱼丁切得大小不一，小的已经腌老，大的还没熟。"
+  ],
+  "substitutions": [
+    {
+      "original": "海鲈鱼",
+      "substitute": "罗非鱼",
+      "ratio": "500 克:500 克",
+      "note": "须选可生食级别的养殖品种。"
+    },
+    {
+      "original": "红薯",
+      "substitute": "南瓜",
+      "ratio": "200 克:200 克",
+      "note": "蒸熟后同样切厚片配盘。"
+    }
+  ],
+  "variations": [
+    "加入牛油果块或炸玉米粒，可做成口感更丰富的版本。"
+  ],
+  "serving_suggestion": "冷藏过的盘子上桌，配冰镇啤酒或皮斯科酸酒。",
+  "storage": "即做即吃，不建议存放，剩菜不可再冷藏后生食。",
+  "nutrition_estimate": {
+    "basis": "每份约 240 克",
+    "calories_kcal": 240,
+    "protein_g": 27,
+    "fat_g": 4,
+    "carbs_g": 25,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "为生食水产菜品，鱼必须为符合生食标准的新鲜海鱼并全程冷链冷藏保存；孕妇、儿童、老人及免疫力低下者建议不要生食，改吃熟制版本；操作台与刀具须生熟分开。"
+  ],
+  "origin_note": "腌鱼是秘鲁沿海的传统吃法，前哥伦布时期用当地水果的酸汁腌鱼，西班牙人带来青柠后改成了如今的版本。二〇〇四年秘鲁政府将其列为国家文化遗产，并设立专门的腌鱼节。",
+  "tags": [
+    "秘鲁",
+    "冷菜",
+    "海鲜",
+    "酸辣"
+  ],
+  "related_ids": [
+    "mexican-salsa-roja",
+    "spanish-gazpacho"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

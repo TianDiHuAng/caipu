@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-kartoffelsalat",
+  "name": {
+    "zh": "德式土豆沙拉",
+    "en": "German Potato Salad",
+    "original": "Kartoffelsalat"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "salad",
+    "cold-dish"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "tangy",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 600,
+          "unit": "g",
+          "note": "选蜡质小土豆，带皮煮",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 100,
+          "unit": "g",
+          "note": "切一厘米宽条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "酸黄瓜",
+          "name_en": "pickled cucumber",
+          "amount": 80,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "分次加入",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 120,
+          "unit": "ml",
+          "note": "热的，帮助入味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "平衡酸度",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "煮土豆与调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "木勺",
+    "大碗",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆带皮洗净冷水下锅，加三克盐煮开后转中火煮十八分钟，筷子能轻松扎透即捞出。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "带皮煮土豆不吸太多水，切开才不会散成糊。",
+      "visual_cue": "土豆皮微微开裂，筷子一插即透"
+    },
+    {
+      "n": 2,
+      "text": "趁热剥皮切成三毫米厚的圆片，放进大碗里立刻淋二十毫升白醋拌匀。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "趁热淋醋才能让土豆片吸味，凉了就只在表面挂着。",
+      "visual_cue": "土豆片表面泛出淡淡酸香，边缘完整"
+    },
+    {
+      "n": 3,
+      "text": "炒锅不放油煸培根条到出油微脆，连油一起浇在土豆片上。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "培根要煸到出足够的油，这层油是整道菜的香味来源。",
+      "visual_cue": "培根边缘卷起呈深红色，锅底留一层清油"
+    },
+    {
+      "n": 4,
+      "text": "热高汤加洋葱末、白糖、余下白醋和盐烧开，趁热浇入大碗，轻拌后静置十五分钟。",
+      "time_min": 17,
+      "heat": "中火",
+      "tip": "高汤必须热，冷汤会让土豆遇冷回硬、吸不进味道。",
+      "visual_cue": "汤汁被土豆吸走大半，碗底浅浅一层"
+    },
+    {
+      "n": 5,
+      "text": "加入酸黄瓜片和黑胡椒翻拌，尝味补盐，撒欧芹碎即可上桌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酸黄瓜最后放才保留脆感，早放会被热汤烫软。",
+      "visual_cue": "沙拉湿润不积水，酸香与肉香交织"
+    }
+  ],
+  "tips": [
+    "南德做法用热高汤与醋，北德偏用蛋黄酱，这道走南德路线更清爽。",
+    "土豆选蜡质品种，切面光滑有光泽，煮后不易碎。",
+    "拌好后温热吃最香，冷藏一夜再吃风味更融合。"
+  ],
+  "common_mistakes": [
+    "土豆煮好放凉才切，切面碎裂成小块。",
+    "醋一次性倒完，酸味压过所有其他味道。",
+    "培根只煎到变色就停，油脂没煸出来导致沙拉发腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "火腿",
+      "ratio": "100 克:110 克",
+      "note": "咸度更高，需减盐一克。"
+    },
+    {
+      "original": "白醋",
+      "substitute": "苹果醋",
+      "ratio": "40 毫升:45 毫升",
+      "note": "果香更柔，酸度略低。"
+    }
+  ],
+  "variations": [
+    "加入切块的煮鸡蛋或一勺蛋黄酱，可做成更厚重的北德风味。"
+  ],
+  "serving_suggestion": "温热时配德式香肠、酸菜与黑麦面包一起上桌。",
+  "storage": "冷藏三天，复热时隔水蒸五分钟，勿用微波直打以免土豆发硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 310,
+    "protein_g": 9,
+    "fat_g": 15,
+    "carbs_g": 35,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含猪肉制品，须煸炒至完全熟透；凉拌菜末用完须冷藏，室温放置不超过两小时。"
+  ],
+  "origin_note": "德式土豆沙拉在德国各地做法迥异，南部巴伐利亚一带用热高汤与醋拌成，北部则偏爱蛋黄酱版本。它是啤酒花园与家庭餐桌上的固定配菜，也是最能体现地域差异的一道凉菜。",
+  "tags": [
+    "德式",
+    "沙拉",
+    "土豆",
+    "培根"
+  ],
+  "related_ids": [
+    "american-waldorf-salad",
+    "spanish-tortilla-espanola"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
