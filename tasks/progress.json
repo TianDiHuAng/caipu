@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:17:58.942Z",
+  "generatedAt": "2026-11-21T12:28:41.876Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1059,
-    "coverage": 0.3234575442883323
+    "actual": 1065,
+    "coverage": 0.3252901649358583
   },
   "regions": {
     "cn": [
@@ -1832,7 +1832,7 @@
         "en": "Chaoshan",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-seafood",
@@ -1858,8 +1858,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "chaoshan-caiguo",
               "chaoshan-niurou-wan"
             ]
           },
@@ -2008,7 +2009,7 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-seafood",
@@ -2043,9 +2044,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "hongkong-mango-pudding"
+              "hongkong-mango-pudding",
+              "hongkong-yangzhi-ganlu"
             ]
           },
           {
@@ -2106,7 +2108,7 @@
         "en": "Xinjiang",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-meat",
@@ -2129,10 +2131,11 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "xinjiang-chao-mifen",
-              "xinjiang-laghman"
+              "xinjiang-laghman",
+              "xinjiang-paomian"
             ]
           },
           {
@@ -2193,7 +2196,7 @@
         "en": "Chinese Halal",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -2212,8 +2215,9 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "halal-cn-niurou-chaomian",
               "halal-cn-niurou-lamian"
             ]
           },
@@ -2275,14 +2279,15 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "tibetan-beef-potato-stew",
               "tibetan-momo",
               "tibetan-sha-phaley"
             ]
@@ -2345,7 +2350,7 @@
         "en": "Inner Mongolian",
         "tier": "C",
         "target": 25,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
@@ -2384,9 +2389,10 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "mongolian-lamb-soup"
+              "mongolian-lamb-soup",
+              "mongolian-mutton-noodle-soup"
             ]
           },
           {

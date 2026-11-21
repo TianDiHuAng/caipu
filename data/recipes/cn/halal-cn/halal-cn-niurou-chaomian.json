@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-niurou-chaomian",
+  "name": {
+    "zh": "清真牛肉炒面",
+    "en": "Halal Beef Chow Mein",
+    "original": "牛肉炒面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 18,
+    "total_min": 36
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "宽面",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 180,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切成三毫米粗的丝，加五毫升生抽抓匀腌八分钟。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "牛肉丝别切太细，下锅一炒就发老。",
+      "visual_cue": "肉丝粗细均匀，表面挂汁"
+    },
+    {
+      "n": 2,
+      "text": "青椒和洋葱洗净切成丝，大蒜切薄片装小碟备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "青椒洋葱切同宽，成熟时间才一致。",
+      "visual_cue": "三样丝宽窄基本接近"
+    },
+    {
+      "n": 3,
+      "text": "汤锅加水烧开，下面条煮到七分熟捞出过凉，拌几滴植物油防粘。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "七分熟就起锅，炒的时候还会继续熟。",
+      "visual_cue": "面条断口有小芯，根根分明"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧到冒烟倒植物油，下牛肉丝大火快炒到变色盛出。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "油要够热，牛肉丝下锅才不粘成块。",
+      "visual_cue": "肉丝散开边缘微卷"
+    },
+    {
+      "n": 5,
+      "text": "锅内下蒜片、洋葱丝炒香，放青椒丝翻炒半分钟。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "蒜片炒到微黄就下料，发焦就苦了。",
+      "visual_cue": "蒜片金黄，洋葱边缘透明"
+    },
+    {
+      "n": 6,
+      "text": "倒回牛肉丝，加生抽、老抽、盐和辣椒粉，翻炒均匀上色。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "老抽只负责上色，多放会发黑发咸。",
+      "visual_cue": "肉丝酱油色均匀发亮"
+    },
+    {
+      "n": 7,
+      "text": "下入面条，用筷子挑散翻炒一分钟，让每根面裹上酱汁。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "用筷子挑比铲子好，面条不容易断。",
+      "visual_cue": "面条根根挂色，锅底无汤"
+    }
+  ],
+  "tips": [
+    "面条煮七分熟过凉拌油，炒时根根分明不粘。",
+    "牛肉分两次下锅，先炒香再回锅，肉嫩不柴。",
+    "老抽只负责上色，放多了整盘发黑发苦。"
+  ],
+  "common_mistakes": [
+    "面条煮全熟再炒，一炒就烂成面团。",
+    "牛肉和配菜一起下锅，肉老菜还生。",
+    "油温不够就下牛肉，粘锅又出一锅水。"
+  ],
+  "substitutions": [
+    {
+      "original": "青椒",
+      "substitute": "芹菜",
+      "ratio": "100 克:100 克",
+      "note": "清香更重，脆感更好。"
+    },
+    {
+      "original": "面条",
+      "substitute": "拉面",
+      "ratio": "300 克:300 克",
+      "note": "更筋道，炒的时间要多半分钟。"
+    }
+  ],
+  "variations": [
+    "加一把豆芽同炒，口感更脆更爽口。",
+    "最后淋一勺辣椒油，辣香味道更足。"
+  ],
+  "serving_suggestion": "趁热盛盘，配一碗清汤和几瓣生蒜，是清真面馆最常见的搭配。",
+  "storage": "冷藏一天，复热用炒锅干炒两分钟，微波会变软塌。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 610,
+    "protein_g": 30,
+    "fat_g": 22,
+    "carbs_g": 72,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉丝需炒到完全变色、无血水，面条要煮透不夹生；剩面冷藏不超过一天，复热需彻底加热。"
+  ],
+  "origin_note": "西北清真面馆的招牌主食，牛肉丝配洋葱青椒大火爆炒，面条最后下锅挑散裹汁。用的是不含酒精的调味，讲究一个锅气和筋道。",
+  "tags": [
+    "清真",
+    "炒面",
+    "牛肉",
+    "西北"
+  ],
+  "related_ids": [
+    "halal-cn-niurou-lamian",
+    "halal-cn-hongshao-niurou",
+    "halal-cn-youxiang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
