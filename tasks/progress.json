@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T04:59:44.572Z",
+  "generatedAt": "2026-11-21T05:15:12.044Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 527,
+    "cells": 528,
     "target": 3274,
-    "actual": 729,
-    "coverage": 0.2226634086744044
+    "actual": 736,
+    "coverage": 0.22480146609651802
   },
   "regions": {
     "cn": [
@@ -3715,7 +3715,7 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
@@ -3769,8 +3769,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "turkish-menemen"
+            ]
           },
           {
             "category": "snack",
@@ -3779,6 +3781,15 @@
             "actual": 1,
             "ids": [
               "turkish-lahmacun"
+            ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "turkish-menemen"
             ]
           }
         ]
@@ -3934,14 +3945,15 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 4,
+        "actual": 5,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "portuguese-bacalhau-a-bras",
               "portuguese-grilled-sardines"
             ]
           },
@@ -4001,14 +4013,15 @@
         "en": "German",
         "tier": "B",
         "target": 38,
-        "actual": 7,
+        "actual": 8,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "austrian-wiener-schnitzel",
               "schweinshaxe",
               "wiener-schnitzel"
             ]
@@ -4272,7 +4285,7 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 3,
+        "actual": 5,
         "cells": [
           {
             "category": "soup",
@@ -4287,15 +4300,19 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "polish-bigos"
+            ]
           },
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "georgian-khachapuri"
+            ]
           },
           {
             "category": "fermented",
@@ -4719,7 +4736,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 26,
+        "actual": 27,
         "cells": [
           {
             "category": "snack",
@@ -4737,11 +4754,12 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "carnitas",
               "chili-con-carne",
               "mexican-cochinita-pibil",
+              "mexican-tacos-al-pastor",
               "ropa-vieja"
             ]
           },
