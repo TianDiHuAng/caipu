@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "beijing-aiwowo",
+  "name": {
+    "zh": "老北京艾窝窝",
+    "en": "Beijing Aiwowo Rice Balls",
+    "original": "艾窝窝"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 250,
+    "cook_min": 60,
+    "total_min": 310
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "糯米",
+          "name_en": "glutinous rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "提前泡透",
+          "optional": false
+        },
+        {
+          "name": "红豆沙",
+          "name_en": "red bean paste",
+          "amount": 200,
+          "unit": "g",
+          "note": "细豆沙",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "糯米粉",
+          "name_en": "glutinous rice flour",
+          "amount": 50,
+          "unit": "g",
+          "note": "防粘手粉",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "拌饭增甜",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "泡米",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "蒸布",
+    "碗",
+    "手粉"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "糯米淘洗干净后用清水浸泡四小时，捞出来沥干水分。",
+      "time_min": 240,
+      "heat": "无火",
+      "tip": "泡到米粒一捏就碎，蒸出来才够糯。",
+      "visual_cue": "米粒发白，一捏即碎"
+    },
+    {
+      "n": 2,
+      "text": "蒸锅铺湿蒸布，把糯米摊平，中火蒸四十分钟至完全软糯。",
+      "time_min": 42,
+      "heat": "中火",
+      "tip": "糯米摊得薄一点，受热均匀也熟得更快。",
+      "visual_cue": "米粒透明，软糯无硬芯"
+    },
+    {
+      "n": 3,
+      "text": "糯米饭趁热拌入白糖，用擀面杖轻轻捣到略带黏性。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "捣几下就够，捣太烂就没有米粒感。",
+      "visual_cue": "饭团抱团，仍有颗粒"
+    },
+    {
+      "n": 4,
+      "text": "糯米粉用小火炒到微黄有香气，盛出来做手粉。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "炒过的糯米粉才不腥，也不容易粘手。",
+      "visual_cue": "粉末微黄，香气散出"
+    },
+    {
+      "n": 5,
+      "text": "手上沾手粉，取一块糯米饭压成圆片，包入豆沙收口搓圆。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "豆沙别放太多，不然收口容易裂。",
+      "visual_cue": "圆球光洁，大小一致"
+    },
+    {
+      "n": 6,
+      "text": "包好的艾窝窝在糯米粉里滚一圈，摆盘即可食用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "现包现吃最软糯，放久了表皮就会变硬。",
+      "visual_cue": "表面干爽，米白圆润"
+    }
+  ],
+  "tips": [
+    "糯米要泡足四小时，一捏就碎才够透。",
+    "蒸的时候摊薄，熟得更均匀也更快。",
+    "糯米粉先炒过，既防粘又去生粉味。"
+  ],
+  "common_mistakes": [
+    "糯米没泡透，蒸出来夹生发硬没法吃。",
+    "豆沙包得太多，收口裂开露了馅。",
+    "糯米饭捣过头，吃起来像一块年糕。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆沙",
+      "substitute": "芝麻馅",
+      "ratio": "200 克:200 克",
+      "note": "香气更浓，甜度略降。"
+    },
+    {
+      "original": "糯米",
+      "substitute": "圆糯米",
+      "ratio": "300 克:300 克",
+      "note": "黏性更强，捣的时间缩短。"
+    }
+  ],
+  "variations": [
+    "豆沙里掺一点桂花糖，香气更清雅。",
+    "外层滚上一层熟白芝麻，口感更香脆。"
+  ],
+  "serving_suggestion": "装在白瓷碟里配一壶茉莉花茶，是老北京早点摊最经典的甜口小吃。",
+  "storage": "冷藏一天，密封防干；复蒸三分钟回软，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "每份约 100 克",
+    "calories_kcal": 240,
+    "protein_g": 5,
+    "fat_g": 2,
+    "carbs_g": 52,
+    "sodium_mg": 20,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "糯米制品黏性大，老人和幼儿食用时须小口慢咽以免噎食；成品冷藏不超过一天，回热须蒸透。"
+  ],
+  "origin_note": "老北京的传统甜小吃，糯米蒸熟包豆沙搓成圆球，滚一层熟米粉。冬天过年时几乎家家都做。",
+  "tags": [
+    "北京",
+    "小吃",
+    "糯米",
+    "豆沙"
+  ],
+  "related_ids": [
+    "lvdagun",
+    "wandou-huang",
+    "tangsanceng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

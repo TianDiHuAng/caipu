@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:38:52.674Z",
+  "generatedAt": "2026-11-21T13:49:54.342Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1131,
-    "coverage": 0.3454489920586439
+    "actual": 1137,
+    "coverage": 0.3472816127061698
   },
   "regions": {
     "cn": [
@@ -1283,7 +1283,7 @@
         "en": "Beijing",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -1309,8 +1309,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "beijing-aiwowo",
               "chaogan",
               "lvdagun"
             ]
@@ -1367,14 +1368,15 @@
         "en": "Shanghai",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "shanghai-hongshao-rou",
               "yandu-xian"
             ]
           },
@@ -1466,7 +1468,7 @@
         "en": "Northeastern",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-vegetable",
@@ -1494,8 +1496,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "dongbei-niandoubao"
+            ]
           },
           {
             "category": "cold-dish",
@@ -1647,7 +1651,7 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-vegetable",
@@ -1662,10 +1666,11 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "qiguo-ji",
-              "suantang-feiniu"
+              "suantang-feiniu",
+              "yunnan-mushroom-soup"
             ]
           },
           {
@@ -1747,7 +1752,7 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -1793,8 +1798,9 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "hakka-pen-cai",
               "meicai-kourou"
             ]
           },
@@ -1923,7 +1929,7 @@
         "en": "Taiwanese",
         "tier": "B",
         "target": 38,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "snack",
@@ -1951,9 +1957,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "taiwan-sanbei-zhongjiao"
+              "taiwan-sanbei-zhongjiao",
+              "taiwan-shrimp-omelet"
             ]
           },
           {

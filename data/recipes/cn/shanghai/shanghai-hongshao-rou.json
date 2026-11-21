@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shanghai-hongshao-rou",
+  "name": {
+    "zh": "上海红烧肉",
+    "en": "Shanghai Braised Pork Belly",
+    "original": "红烧肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 105,
+    "total_min": 125
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "带皮切方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 45,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 40,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "补味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "刀",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成三厘米见方的块，冷水下锅加料酒焯五分钟。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才逼得出来，肉也不腥。",
+      "visual_cue": "水面浮末撇净，肉块收紧"
+    },
+    {
+      "n": 2,
+      "text": "捞出肉块用温水冲净表面浮末，沥干水分备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用温水冲，冷水冲会让肉质紧缩变柴。",
+      "visual_cue": "肉块干净，表面干爽"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油和冰糖小火，慢慢炒到糖化成琥珀色。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "糖色到琥珀色就下肉，再炒会发苦。",
+      "visual_cue": "糖浆起小泡，颜色琥珀"
+    },
+    {
+      "n": 4,
+      "text": "倒入五花肉块中火翻炒，让每块肉都均匀裹上糖色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "要翻炒到边缘微黄，皮才起皱好吃。",
+      "visual_cue": "肉块油亮，皮面起皱"
+    },
+    {
+      "n": 5,
+      "text": "加料酒、生抽、老抽、葱结、姜片和八角炒匀，倒入清水。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "水要没过肉块，中途补水只能加热水。",
+      "visual_cue": "汤汁刚好没过肉面"
+    },
+    {
+      "n": 6,
+      "text": "大火烧开转小火炖八十分钟，炖到筷子能轻松插进肉皮。",
+      "time_min": 82,
+      "heat": "小火",
+      "tip": "保持微沸，火太大会把汤汁烧干。",
+      "visual_cue": "筷子插肉皮一插就透"
+    },
+    {
+      "n": 7,
+      "text": "开中火收汁，加盐补味，收到底油浓稠、肉块红亮。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "最后要不停翻动，糖分多容易粘锅。",
+      "visual_cue": "汤汁浓稠，油亮挂肉"
+    }
+  ],
+  "tips": [
+    "焯水要冷水下锅，血沫才逼得干净。",
+    "糖色炒到琥珀色就下肉，颜色对了甜味也正好。",
+    "最后收汁要勤翻，糖分多容易糊底。"
+  ],
+  "common_mistakes": [
+    "糖色炒过头发黑，整锅肉带着苦味。",
+    "炖的时候火太大，汤干了肉还没酥。",
+    "收汁时不翻动，锅底糊上一层焦糖。"
+  ],
+  "substitutions": [
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "45 克:40 克",
+      "note": "上色稍浅，甜味更直白。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "800 克:800 克",
+      "note": "更瘦，炖的时间缩短十分钟。"
+    }
+  ],
+  "variations": [
+    "加一把百叶结同炖，吸足汤汁更好吃。",
+    "放两颗鸡蛋同煮，做成卤蛋配肉。"
+  ],
+  "serving_suggestion": "配一碗白饭和一碟清炒时蔬，浓油赤酱的汤汁浇在饭上最下饭。",
+  "storage": "冷藏三天，复热加两勺水小火慢炖十分钟；冷冻可存一个月。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 620,
+    "protein_g": 18,
+    "fat_g": 56,
+    "carbs_g": 12,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉须炖至完全熟透，中心不见血水；剩菜冷藏三天内彻底复热，油脂浮层可撇去后食用。"
+  ],
+  "origin_note": "上海本帮菜的招牌，讲究浓油赤酱、甜上口咸收口。五花肉靠糖色和慢炖出胶质，入口即化却形整不散。",
+  "tags": [
+    "上海",
+    "五花肉",
+    "红烧",
+    "本帮"
+  ],
+  "related_ids": [
+    "shanghai-jiang-ya",
+    "sikai-kaofu",
+    "yandu-xian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

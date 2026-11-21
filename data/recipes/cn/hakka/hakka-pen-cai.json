@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hakka-pen-cai",
+  "name": {
+    "zh": "客家盆菜",
+    "en": "Hakka Poon Choi",
+    "original": "盆菜"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 75,
+    "cook_min": 115,
+    "total_min": 190
+  },
+  "servings": 8,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 600,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "斩块",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 200,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 500,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "腐竹",
+          "name_en": "dried tofu stick",
+          "amount": 150,
+          "unit": "g",
+          "note": "泡发切段",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "泡发",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 50,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大砂锅",
+    "炒锅",
+    "刀",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "腐竹和香菇提前用温水泡发，萝卜去皮切成厚片备用。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "腐竹要泡到中间没有硬芯，口感才好。",
+      "visual_cue": "腐竹柔软，香菇饱满"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切厚片，冷水下锅加料酒焯五分钟去腥。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅焯，血沫和腥味才出得干净。",
+      "visual_cue": "浮沫撇净，肉片收紧"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油，下姜片和葱段煸香，倒入五花肉煎到两面微黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "肉片煎出油，后面焖出来才香不腻。",
+      "visual_cue": "肉片金黄，锅里有油"
+    },
+    {
+      "n": 4,
+      "text": "加生抽、老抽、蚝油、冰糖和清水，小火焖四十分钟。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "焖到肉片软烂，汤汁留着后面用。",
+      "visual_cue": "肉片油亮，汤汁浓稠"
+    },
+    {
+      "n": 5,
+      "text": "另起锅把鸡腿肉块煎到表面金黄，加料酒和少许生抽炒匀。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "鸡肉单独煎定型，久焖才不会散。",
+      "visual_cue": "鸡块金黄，表皮紧缩"
+    },
+    {
+      "n": 6,
+      "text": "大砂锅底层铺萝卜片和腐竹，再铺香菇和鸡块。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "萝卜垫底吸汤汁，是盆菜最好吃的一层。",
+      "visual_cue": "层次分明，摆放平整"
+    },
+    {
+      "n": 7,
+      "text": "最上层摆五花肉和虾仁，浇上焖肉的汤汁和清水。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "汤汁要没过七成，中途不能开盖加水。",
+      "visual_cue": "汤汁浸到锅的八分满"
+    },
+    {
+      "n": 8,
+      "text": "大火烧开转小火焖六十分钟，加盐调味后原锅上桌。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "小火慢焖，各层味道互相渗透才够味。",
+      "visual_cue": "汤汁浓稠，香气浓郁"
+    }
+  ],
+  "tips": [
+    "萝卜垫底最会吸汁，是盆菜里最受欢迎的一层。",
+    "五花肉先煎后焖，肥而不腻才立得住味。",
+    "中途不要开盖加水，一次把汤加足。"
+  ],
+  "common_mistakes": [
+    "腐竹没泡透就下锅，焖完还是硬的。",
+    "汤汁太少中途加水，味道被冲淡。",
+    "大火猛煮，各层食材被煮烂糊成一锅。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "烧肉",
+      "ratio": "600 克:550 克",
+      "note": "更香脆，焖的时间缩短十五分钟。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "干贝",
+      "ratio": "200 克:80 克",
+      "note": "鲜味更浓，需提前泡发。"
+    }
+  ],
+  "variations": [
+    "加发菜和鲍汁，做成年节豪华版。",
+    "用南乳腌肉代替传统焖法，风味更浓。"
+  ],
+  "serving_suggestion": "整锅端上桌，从上层吃到下层，越往下越入味，是客家年节和祠堂聚餐的压轴大菜。",
+  "storage": "冷藏两天，复热整锅小火焖二十分钟；汤汁可留作拌饭或下面。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 560,
+    "protein_g": 34,
+    "fat_g": 38,
+    "carbs_g": 18,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含虾类与大豆制品，过敏者须替换；五花肉、鸡块与虾仁须全部焖至熟透，剩菜冷藏两天内彻底复热。"
+  ],
+  "origin_note": "客家人围屋聚餐的象征菜，多层食材一锅焖透，寓意团圆和丰盛。萝卜垫底、肉在上层，是数百年不变的结构。",
+  "tags": [
+    "客家",
+    "盆菜",
+    "年菜",
+    "焖煮"
+  ],
+  "related_ids": [
+    "hakka-meicai-kourou",
+    "niang-doufu",
+    "hakka-sanbeiji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
