@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "portuguese-pudim-flan",
+  "name": {
+    "zh": "葡式焦糖布丁",
+    "en": "Portuguese Caramel Flan",
+    "original": "Pudim Flan"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "portuguese"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 70,
+    "total_min": 85
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "note": "分两份",
+          "optional": false
+        },
+        {
+          "name": "炼乳",
+          "name_en": "condensed milk",
+          "amount": 100,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 60,
+          "unit": "ml",
+          "note": "熬焦糖",
+          "optional": false
+        },
+        {
+          "name": "香草荚",
+          "name_en": "vanilla pod",
+          "amount": 5,
+          "unit": "ml",
+          "note": "去蛋腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "布丁模",
+    "烤箱",
+    "小锅",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "取一半白糖加清水放进小锅，中火熬成琥珀色焦糖。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "糖色到琥珀就离火，再深就发苦。",
+      "visual_cue": "糖液呈明亮的琥珀色"
+    },
+    {
+      "n": 2,
+      "text": "把焦糖趁热倒进布丁模，转动模具让底部铺匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热倒，凉了会立刻凝住倒不开。",
+      "visual_cue": "模底铺满一层焦糖"
+    },
+    {
+      "n": 3,
+      "text": "牛奶加剩下的白糖和炼乳，小火加热到糖化开即离火。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "只要糖化开就行，别把牛奶煮滚。",
+      "visual_cue": "糖完全溶解无颗粒"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋打散但不起泡，慢慢冲入温牛奶边倒边搅。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋液轻搅，起泡会让布丁表面有蜂窝。",
+      "visual_cue": "蛋奶液顺滑没有气泡"
+    },
+    {
+      "n": 5,
+      "text": "加香草精和盐拌匀，过筛两次后倒入布丁模。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "过筛两遍，成品的口感才够细腻。",
+      "visual_cue": "液体细腻没有泡沫"
+    },
+    {
+      "n": 6,
+      "text": "烤盘注温水到模具一半高，一百六十度水浴烤四十五分钟。",
+      "time_min": 47,
+      "heat": "中火",
+      "tip": "水浴让受热均匀，布丁才不会开裂。",
+      "visual_cue": "表面凝固，轻晃微颤"
+    }
+  ],
+  "tips": [
+    "焦糖熬到琥珀色立刻离火，颜色再深就发苦。",
+    "蛋液要轻搅不起泡，否则成品表面全是小孔。",
+    "水浴烤制受热均匀，布丁才会细嫩不开裂。"
+  ],
+  "common_mistakes": [
+    "焦糖熬过头变成深褐色，整份布丁都带苦味。",
+    "蛋液打出大量泡沫，烤完表面全是蜂窝孔。",
+    "不用水浴直接烤，表面开裂内部发老。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "椰奶",
+      "ratio": "500 毫升:500 毫升",
+      "note": "全植物版本，椰香明显。"
+    },
+    {
+      "original": "炼乳",
+      "substitute": "淡奶油",
+      "ratio": "100 克:90 毫升",
+      "note": "奶香更浓，甜度稍低。"
+    }
+  ],
+  "variations": [
+    "加一勺橙皮屑，柑橘香气更清爽。",
+    "用椰奶替代牛奶做成椰香版本，风味更热带。"
+  ],
+  "serving_suggestion": "冷藏后倒扣脱模，焦糖汁自然流下，配一杯浓缩咖啡是葡萄牙餐馆的标配甜点。",
+  "storage": "冷藏三天，脱模前用刀沿边划一圈，倒扣在盘上即可。",
+  "nutrition_estimate": {
+    "basis": "每份约 130 克",
+    "calories_kcal": 260,
+    "protein_g": 7,
+    "fat_g": 9,
+    "carbs_g": 38,
+    "sodium_mg": 110,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋与牛奶，须烤至中心凝固、轻晃只有微颤；蛋奶类甜点须冷藏保存并在三天内吃完，室温放置不超过两小时。"
+  ],
+  "origin_note": "葡萄牙的国民甜点，蛋奶液加焦糖水浴烤成。源自修道院的蛋黄甜点传统，如今每个家庭都有自己的比例。",
+  "tags": [
+    "葡萄牙",
+    "甜点",
+    "布丁",
+    "焦糖"
+  ],
+  "related_ids": [
+    "portuguese-pastel-de-nata",
+    "portuguese-arroz-doce",
+    "portuguese-cornbread"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

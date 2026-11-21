@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:03:16.243Z",
+  "generatedAt": "2026-11-21T13:11:04.963Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1107,
-    "coverage": 0.33811850946854
+    "actual": 1113,
+    "coverage": 0.339951130116066
   },
   "regions": {
     "cn": [
@@ -3506,7 +3506,7 @@
         "en": "Malaysian",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "staple-noodle",
@@ -3522,8 +3522,9 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "malaysian-chilli-crab",
               "malaysian-sambal-udang"
             ]
           },
@@ -4012,7 +4013,7 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "appetizer",
@@ -4029,10 +4030,11 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "middle-eastern-beef-moussaka",
-              "middle-eastern-chicken-kebab"
+              "middle-eastern-chicken-kebab",
+              "middle-eastern-lamb-kebab"
             ]
           },
           {
@@ -4418,7 +4420,7 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
@@ -4435,10 +4437,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "portuguese-arroz-doce",
-              "portuguese-pastel-de-nata"
+              "portuguese-pastel-de-nata",
+              "portuguese-pudim-flan"
             ]
           },
           {
@@ -4675,7 +4678,7 @@
         "en": "Irish",
         "tier": "C",
         "target": 25,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -4701,9 +4704,10 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "irish-beef-stew",
+              "irish-cullen-skink",
               "irish-seafood-chowder"
             ]
           },
@@ -4751,7 +4755,7 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-seafood",
@@ -4777,8 +4781,10 @@
             "category": "fermented",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "nordic-gravlaks"
+            ]
           },
           {
             "category": "dessert",
@@ -5524,7 +5530,7 @@
         "en": "Peruvian",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-seafood",
@@ -5550,10 +5556,11 @@
             "category": "appetizer",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "peruvian-causa-limena",
               "peruvian-ceviche",
+              "peruvian-papa-a-la-huancaina",
               "peruvian-salsa-criolla"
             ]
           },

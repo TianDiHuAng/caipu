@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "malaysian-chilli-crab",
+  "name": {
+    "zh": "马来辣椒蟹",
+    "en": "Malaysian Chilli Crab",
+    "original": "Ketam Masak Cili"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "malaysian"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "sweet",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蟹",
+          "name_en": "crab",
+          "amount": 900,
+          "unit": "g",
+          "note": "洗净切块",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "增色酸甜",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "按辣度调整",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡辣味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "勾薄芡",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 180,
+          "unit": "ml",
+          "note": "煮汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "锅铲",
+    "研钵"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "螃蟹刷洗干净，掀开蟹盖去腮，斩成四块沥干水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "蟹腮和胃囊要去净，否则带腥苦。",
+      "visual_cue": "蟹块干净没有杂质"
+    },
+    {
+      "n": 2,
+      "text": "大蒜、姜和洋葱切碎，辣椒粉和番茄酱量好放在手边。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蒜姜切细一点，炒出来才不留颗粒。",
+      "visual_cue": "碎末切得均匀又细腻"
+    },
+    {
+      "n": 3,
+      "text": "炒锅烧热植物油，下蒜末、姜末和洋葱碎小火炒香。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "全程小火慢炒，蒜末炒焦了整锅都苦。",
+      "visual_cue": "汤汁红亮，质地浓稠"
+    },
+    {
+      "n": 4,
+      "text": "加辣椒粉和番茄酱炒出红油，倒入清水烧开。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "辣椒粉先用油炒过，颜色才红亮。",
+      "visual_cue": "汤汁红亮，质地浓稠"
+    },
+    {
+      "n": 5,
+      "text": "放入蟹块盖盖中火煮八分钟，中途翻动一次让受热均匀。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "蟹壳变红不等于熟透，要煮够时间。",
+      "visual_cue": "蟹壳通红，汤汁收半"
+    },
+    {
+      "n": 6,
+      "text": "加白糖和盐调味，再淋入玉米淀粉水勾一层薄芡。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "芡要勾得薄，能挂住蟹块就够了。",
+      "visual_cue": "汤汁浓稠，紧紧挂壳"
+    },
+    {
+      "n": 7,
+      "text": "转小火淋入打散的鸡蛋液，静置十秒后轻推成蛋花，撒香菜末出锅。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蛋液下锅别马上搅，蛋花才成片。",
+      "visual_cue": "蛋花成片，红汤点缀绿末"
+    }
+  ],
+  "tips": [
+    "蟹块下锅前要沥干，带水下锅油会炸开。",
+    "辣椒粉先用油炒过，红油色泽才漂亮。",
+    "蛋液最后淋入并静置片刻，蛋花才会成片。"
+  ],
+  "common_mistakes": [
+    "蟹腮没去净，整盘带上明显腥苦味。",
+    "蟹块煮的时间不足，蟹肉发黏不成丝。",
+    "芡勾得太厚，汤汁稠成糊裹住蟹壳。"
+  ],
+  "substitutions": [
+    {
+      "original": "螃蟹",
+      "substitute": "花蟹",
+      "ratio": "900 克:900 克",
+      "note": "肉质更甜，煮的时间略短。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "辣椒酱",
+      "ratio": "8 克:30 克",
+      "note": "辣度更柔和，需减糖。"
+    }
+  ],
+  "variations": [
+    "加两勺酸梅酱进去，酸甜味道更突出。",
+    "用蟹钳替代整只蟹，吃起来更加方便。"
+  ],
+  "serving_suggestion": "配白米饭或炸馒头片蘸汁，是马来西亚海鲜餐馆最受欢迎的吃法。",
+  "storage": "冷藏一天，复热时加少量清水小火加热至滚开，避免蟹肉变老。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 290,
+    "protein_g": 26,
+    "fat_g": 14,
+    "carbs_g": 14,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "螃蟹须鲜活下锅并彻底煮至壳红肉熟，死蟹不得食用；含鸡蛋，蛋类过敏者须注意；剩菜须冷藏并在一天内彻底复热。"
+  ],
+  "origin_note": "马来西亚沿海的经典海鲜做法，蟹块用辣椒番茄汁焖煮再勾芡淋蛋。甜辣浓汁拌饭，是当地大排档的招牌。",
+  "tags": [
+    "马来西亚",
+    "海鲜",
+    "螃蟹",
+    "辣味"
+  ],
+  "related_ids": [
+    "malaysian-sambal-udang",
+    "malaysian-laksa",
+    "malaysian-nasi-lemak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
