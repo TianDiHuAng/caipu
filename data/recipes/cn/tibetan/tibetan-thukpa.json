@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tibetan-thukpa",
+  "name": {
+    "zh": "藏式汤面",
+    "en": "Tibetan Noodle Soup",
+    "original": "ཐུག་པ"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "tibetan"
+  },
+  "category": [
+    "staple-noodle",
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "手擀面或宽面",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 300,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "羊肉汤最佳",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "擀面杖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切成两厘米小块，冷水下锅焯去血沫后捞出冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血沫逼出来，汤才清。",
+      "visual_cue": "水面浮起灰褐色沫子"
+    },
+    {
+      "n": 2,
+      "text": "汤锅下植物油，炒香洋葱丝、姜片与蒜末至微微透明。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱炒出甜味，汤底才不寡淡。",
+      "visual_cue": "洋葱软塌，锅中香气浓"
+    },
+    {
+      "n": 3,
+      "text": "下羊肉块煸炒到表面微焦，加生抽炒匀上色。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "羊肉先煸再炖，汤更香也更不腥。",
+      "visual_cue": "肉块表面褐亮，锅底有焦香"
+    },
+    {
+      "n": 4,
+      "text": "倒高汤煮开，加土豆与胡萝卜块，转小火炖二十五分钟。",
+      "time_min": 26,
+      "heat": "小火",
+      "tip": "土豆后放会散，先炖至能用筷子插入。",
+      "visual_cue": "土豆边缘微软，汤色转浓"
+    },
+    {
+      "n": 5,
+      "text": "放入番茄块与小米辣圈再煮五分钟，调盐定味。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄煮出酸味能解羊肉的腻。",
+      "visual_cue": "汤面浮红油，番茄化开"
+    },
+    {
+      "n": 6,
+      "text": "另起锅把面条煮到八分熟，捞进汤中同煮两分钟。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "面条单独煮，汤才不糊不浑。",
+      "visual_cue": "面条柔软带芯，吸饱汤汁"
+    },
+    {
+      "n": 7,
+      "text": "盛入大碗撒上香菜段，趁热连汤带面一起吃掉。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜最后撒，香气才留得住。",
+      "visual_cue": "碗面浮着油花，香菜翠绿"
+    }
+  ],
+  "tips": [
+    "用羊肉汤代替清水，鲜味差别很大。",
+    "面条选宽面或手擀面，耐煮不糊。",
+    "喜欢浓稠口感可把部分土豆压碎化进汤里。"
+  ],
+  "common_mistakes": [
+    "羊肉不焯水直接炖，汤浑浊还带腥味。",
+    "面条和汤一起从生煮到熟，汤变糊成浆。",
+    "土豆炖到完全散开，汤变成一锅土豆泥。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "300 克:300 克",
+      "note": "炖制时间延长十分钟，汤味更浓。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米饭",
+      "ratio": "300 克:300 克",
+      "note": "做成汤泡饭，汤汁要多留一些。"
+    }
+  ],
+  "variations": [
+    "加一勺酥油同煮，是藏北牧区的高热量版本。",
+    "把面换成面片，随手揪进锅里更家常。"
+  ],
+  "serving_suggestion": "盛在大碗里连汤带面，配一碟腌萝卜同食。",
+  "storage": "冷藏两天、冷冻一个月；复热需加少许高汤防止过稠。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 560,
+    "protein_g": 32,
+    "fat_g": 22,
+    "carbs_g": 58,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须炖至完全熟透、无血色，中心温度七十五度以上；汤品须滚沸后食用，剩汤两小时内冷藏，复热须彻底煮沸。"
+  ],
+  "origin_note": "藏区的家常主食，把羊肉、土豆、萝卜和面条一起扔进锅里煮，汤浓面软，一碗下去浑身发热。牧民在高原上煮面，靠的就是一锅羊肉汤和随手可得的根茎蔬菜，简单却顶饱。",
+  "tags": [
+    "西藏",
+    "羊肉",
+    "面条",
+    "汤面"
+  ],
+  "related_ids": [
+    "suyou-cha"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

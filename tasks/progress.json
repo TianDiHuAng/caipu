@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T05:35:55.386Z",
+  "generatedAt": "2026-11-21T05:41:04.242Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 535,
+    "cells": 540,
     "target": 3274,
-    "actual": 771,
-    "coverage": 0.23549175320708612
+    "actual": 782,
+    "coverage": 0.2388515577275504
   },
   "regions": {
     "cn": [
@@ -2155,7 +2155,7 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
@@ -2175,8 +2175,10 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tibetan-thukpa"
+            ]
           },
           {
             "category": "drink",
@@ -2191,8 +2193,10 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tibetan-thukpa"
+            ]
           }
         ]
       },
@@ -2202,14 +2206,15 @@
         "en": "Inner Mongolian",
         "tier": "C",
         "target": 25,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "mongolian-buuz",
               "shouba-rou"
             ]
           },
@@ -2217,8 +2222,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mongolian-buuz"
+            ]
           },
           {
             "category": "drink",
@@ -4249,7 +4256,7 @@
         "en": "Irish",
         "tier": "C",
         "target": 25,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "main-meat",
@@ -4289,6 +4296,24 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-vegetable",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "irish-colcannon"
+            ]
+          },
+          {
+            "category": "special-diet",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "irish-colcannon"
+            ]
           }
         ]
       },
@@ -5077,7 +5102,7 @@
         "en": "Argentinian",
         "tier": "C",
         "target": 25,
-        "actual": 1,
+        "actual": 3,
         "cells": [
           {
             "category": "main-meat",
@@ -5115,6 +5140,24 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "argentinian-empanada"
+            ]
+          },
+          {
+            "category": "staple-bread",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "argentinian-empanada"
+            ]
           }
         ]
       },
@@ -5124,7 +5167,7 @@
         "en": "Caribbean",
         "tier": "C",
         "target": 25,
-        "actual": 2,
+        "actual": 3,
         "cells": [
           {
             "category": "main-poultry",
@@ -5146,8 +5189,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "caribbean-rice-and-peas"
+            ]
           },
           {
             "category": "drink",
@@ -5416,7 +5461,7 @@
         "en": "Australian-NZ",
         "tier": "C",
         "target": 25,
-        "actual": 2,
+        "actual": 4,
         "cells": [
           {
             "category": "main-seafood",
@@ -5429,8 +5474,9 @@
             "category": "bakery",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "australian-meat-pie",
               "australian-pavlova"
             ]
           },
@@ -5456,6 +5502,15 @@
             "target": 5,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "australian-meat-pie"
+            ]
           }
         ]
       }
