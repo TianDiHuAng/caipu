@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "peruvian-lomo-saltado",
+  "name": {
+    "zh": "秘鲁炒牛柳配薯条",
+    "en": "Peruvian Stir-fried Beef with Fries",
+    "original": "Lomo saltado"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "peruvian"
+  },
+  "category": [
+    "main-meat",
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "tangy",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 500,
+          "unit": "g",
+          "note": "里脊部位，切粗条",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "切粗条做薯条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切宽条",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切瓣",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切条，可省",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 20,
+          "unit": "ml",
+          "note": "锅边淋",
+          "optional": false
+        },
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "微辣",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 260,
+          "unit": "ml",
+          "note": "炸薯条与炒肉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 500,
+          "unit": "g",
+          "note": "煮成饭配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "炸锅或深锅",
+    "滤油网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切一指宽粗条，加生抽、黑胡椒和一半蒜末抓匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "腌牛肉只用十分钟，时间长了肉质发紧。",
+      "visual_cue": "肉条表面挂汁，颜色加深"
+    },
+    {
+      "n": 2,
+      "text": "土豆切粗条，用清水冲去表面黏液后彻底擦干。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "土豆条必须擦干，否则下油锅溅得厉害。",
+      "visual_cue": "薯条表面干爽不粘手"
+    },
+    {
+      "n": 3,
+      "text": "植物油烧到一百七十度，薯条分两批炸四分钟至金黄，捞出撒盐。",
+      "time_min": 10,
+      "heat": "中大火",
+      "tip": "分批炸油温才不回软，一次下太多会粘成团。",
+      "visual_cue": "薯条外表金黄坚硬，捞出沥油"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧到冒烟，下少量油快速炒肉条一分钟至变色，盛出备用。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "锅一定要够热，肉条下去快速封住表面才嫩。",
+      "visual_cue": "肉条边缘焦褐，内部仍带粉"
+    },
+    {
+      "n": 5,
+      "text": "原锅下洋葱条与青椒炒四十秒，加番茄瓣与剩余蒜末炒三十秒。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "蔬菜只要断生，保留脆感才对。",
+      "visual_cue": "洋葱半透明仍挺立，番茄略塌"
+    },
+    {
+      "n": 6,
+      "text": "倒回肉条，沿锅边淋白醋与辣椒酱，加盐翻匀，拌入薯条撒香菜。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "醋要沿锅边淋，遇热瞬间挥发的酸香才冲，配白米煮的饭一起上桌。",
+      "visual_cue": "锅内腾起白汽，薯条裹上油亮酱汁"
+    }
+  ],
+  "tips": [
+    "薯条要在临上桌前才拌进去，久放会软塌。",
+    "配白米饭是秘鲁本地吃法，碳水和碳水一起上。",
+    "牛肉换成鸡胸肉同样好吃，炒制时间减半。"
+  ],
+  "common_mistakes": [
+    "肉条在锅里炒过头，口感变得又干又硬像牛肉干。",
+    "薯条炸一次就拌进菜里，很快变得湿软。",
+    "番茄过早下锅炒成糊，失去酸甜的颗粒感。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛里脊",
+      "substitute": "西冷",
+      "ratio": "500 克:500 克",
+      "note": "带油边更香，腌时可少放油。"
+    },
+    {
+      "original": "白醋",
+      "substitute": "红酒醋",
+      "ratio": "20 毫升:20 毫升",
+      "note": "酸味更圆润，果香突出。"
+    }
+  ],
+  "variations": [
+    "加入黄辣椒酱可做秘鲁风味的辣味版本。"
+  ],
+  "serving_suggestion": "连汁带薯条浇在白米饭旁，撒香菜上桌。",
+  "storage": "冷藏一天，复热用大火快炒；薯条建议现炸现吃。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 680,
+    "protein_g": 36,
+    "fat_g": 34,
+    "carbs_g": 58,
+    "sodium_mg": 940,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炒至表面完全变色，内部可按喜好保留嫩度，但免疫力较低者应食用全熟；油炸时控制油温并远离水源，剩油勿重复使用超过两次。"
+  ],
+  "origin_note": "这道炒牛柳是秘鲁中餐融合的产物，源自十九世纪广东移民带来的爆炒技法，配上本地土豆与黄辣椒。大火快炒、锅气足、酸香突出，如今是秘鲁每家小馆的招牌。",
+  "tags": [
+    "秘鲁",
+    "牛肉",
+    "炒菜",
+    "薯条"
+  ],
+  "related_ids": [
+    "peruvian-ceviche",
+    "argentinian-chimichurri-steak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
