@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mongolian-lamb-soup",
+  "name": {
+    "zh": "蒙古羊肉汤",
+    "en": "Mongolian Lamb Soup",
+    "original": "蒙古羊肉汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "mongolian"
+  },
+  "category": [
+    "soup",
+    "main-meat"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 80,
+    "total_min": 100
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 700,
+          "unit": "g",
+          "note": "带骨羊肩切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍松",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1400,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "汤勺",
+    "砧板",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉块用清水浸泡二十分钟，泡出血水后捞出沥干。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡出血水，汤才清不腥。",
+      "visual_cue": "羊肉颜色变浅，水发红"
+    },
+    {
+      "n": 2,
+      "text": "炖锅倒植物油，中火下羊肉块煎到表面变色收紧。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "先煎一下，汤味更浓不腥。",
+      "visual_cue": "羊肉表面发白微黄"
+    },
+    {
+      "n": 3,
+      "text": "加姜片、蒜与洋葱块同炒三分钟，炒出香味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒软，汤底才带甜。",
+      "visual_cue": "洋葱变软，香气明显"
+    },
+    {
+      "n": 4,
+      "text": "倒入清水后大火烧开，用汤勺撇净表面的浮沫。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "浮沫撇干净，汤才透亮。",
+      "visual_cue": "汤面清澈，无灰色浮沫"
+    },
+    {
+      "n": 5,
+      "text": "转小火盖盖炖四十分钟，中途不要频繁开盖。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "小火慢炖，羊肉才软烂不柴。",
+      "visual_cue": "羊肉能用筷子扎透"
+    },
+    {
+      "n": 6,
+      "text": "放入胡萝卜块与土豆块，继续小火炖十五分钟。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "根茎后放，才不会炖成泥。",
+      "visual_cue": "土豆软透，边缘略化"
+    },
+    {
+      "n": 7,
+      "text": "加盐与黑胡椒调味，搅匀后再用小火煮上三分钟入味。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "盐最后放，羊肉才容易炖烂。",
+      "visual_cue": "汤味咸鲜，胡椒香冒出"
+    },
+    {
+      "n": 8,
+      "text": "关火后撒少量黑胡椒，盛入深碗里趁热食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热喝，膻味最淡。",
+      "visual_cue": "汤色清亮，肉块完整"
+    }
+  ],
+  "tips": [
+    "羊肉先泡出血水并煎透，汤才不腥。",
+    "浮沫一定要撇干净，汤色才会清亮。",
+    "盐最后放，羊肉才容易炖得软烂。"
+  ],
+  "common_mistakes": [
+    "羊肉不泡水就直接炖，汤又腥又浑。",
+    "全程开大火，羊肉发柴汤也被煮少。",
+    "一开始就放盐，羊肉久炖也炖不烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "700 克:700 克",
+      "note": "风味更淡，可多放姜片。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "白萝卜",
+      "ratio": "250 克:250 克",
+      "note": "清甜解腻，炖制时间减五分钟。"
+    }
+  ],
+  "variations": [
+    "加一把手擀面片同煮，直接当主食。",
+    "放少量孜然粒，风味更接近草原做法。"
+  ],
+  "serving_suggestion": "配咸奶茶与面饼，冬天喝最暖身。",
+  "storage": "冷藏三天、冷冻一个月，复热后小火煮开。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 420,
+    "protein_g": 34,
+    "fat_g": 26,
+    "carbs_g": 18,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须炖至软烂熟透，中心温度达到七十四度以上；汤锅滚烫，撇沫与盛汤时避免蒸汽烫手。"
+  ],
+  "origin_note": "草原上最朴素的待客汤，羊肉配洋葱胡萝卜慢炖，只放盐和黑胡椒。汤清肉香，喝完一身都暖起来。",
+  "tags": [
+    "蒙古",
+    "汤",
+    "羊肉",
+    "清炖"
+  ],
+  "related_ids": [
+    "shouba-rou",
+    "mongolian-tsuivan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

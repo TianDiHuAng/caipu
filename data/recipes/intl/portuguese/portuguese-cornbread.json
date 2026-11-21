@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "portuguese-cornbread",
+  "name": {
+    "zh": "葡萄牙玉米面包",
+    "en": "Portuguese Corn Bread",
+    "original": "Broa de Milho"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "portuguese"
+  },
+  "category": [
+    "bakery",
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 125,
+    "cook_min": 60,
+    "total_min": 185
+  },
+  "servings": 5,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米面",
+          "name_en": "cornmeal",
+          "amount": 200,
+          "unit": "g",
+          "note": "粗磨",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 150,
+          "unit": "g",
+          "note": "高筋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 7,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "帮助发酵",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "融化",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 80,
+          "unit": "ml",
+          "note": "调节软硬",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "和面盆",
+    "烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米面倒进盆中，冲入温牛奶搅匀，静置二十分钟软化。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "玉米面颗粒粗，先泡软才不硌牙。",
+      "visual_cue": "玉米面吸水变稠，无干粉"
+    },
+    {
+      "n": 2,
+      "text": "加入面粉、白糖、盐与酵母，用筷子搅成絮状。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酵母别直接碰盐，会抑制发酵。",
+      "visual_cue": "面粉成絮，颗粒均匀"
+    },
+    {
+      "n": 3,
+      "text": "倒入鸡蛋与融化黄油，加清水揉成偏软的面团。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "玉米面吸水慢，水要分次加。",
+      "visual_cue": "面团柔软，略带粘手"
+    },
+    {
+      "n": 4,
+      "text": "面团在盆中揉五分钟到表面略光滑，盖上湿布。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "揉到能拉出粗膜，组织才细。",
+      "visual_cue": "面团表面光滑，手感有弹性"
+    },
+    {
+      "n": 5,
+      "text": "放在温暖处发酵一小时，到体积变成原来的两倍。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "温度低就延长时间，别急着烤。",
+      "visual_cue": "面团膨胀两倍，按下去缓慢回弹"
+    },
+    {
+      "n": 6,
+      "text": "取出面团轻拍排气，整形成厚圆饼放在烤盘上。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "轻拍排气，别用力揉回筋。",
+      "visual_cue": "面团成圆形厚饼，表面平整"
+    },
+    {
+      "n": 7,
+      "text": "表面撒一层面粉，用刀划出十字纹，再醒二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "划口让热气散出，不易开裂。",
+      "visual_cue": "表面有十字纹路，面团回弹"
+    },
+    {
+      "n": 8,
+      "text": "烤箱预热到二百度，把烤盘放进中下层烤上四十分钟左右。",
+      "time_min": 40,
+      "heat": "大火",
+      "tip": "高温定型，外壳才脆。",
+      "visual_cue": "表皮深黄，敲起来有空响"
+    },
+    {
+      "n": 9,
+      "text": "出炉后放在网架上自然放凉，凉透之后再切片。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "凉透再切，切面才不掉渣。",
+      "visual_cue": "饼身轻盈，切面气孔均匀"
+    }
+  ],
+  "tips": [
+    "玉米面先用温牛奶泡软，口感才不粗。",
+    "面团偏软一些，烤出来内部才松。",
+    "一定要凉透再切，切面才平整不掉渣。"
+  ],
+  "common_mistakes": [
+    "玉米面没泡直接揉，成品有硬颗粒。",
+    "酵母与盐混在一起，发酵发不起来。",
+    "没放凉就切片，厚饼被压扁还一直掉渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "250 毫升:250 毫升",
+      "note": "风味更朴素，可多放十克黄油。"
+    },
+    {
+      "original": "玉米面",
+      "substitute": "小米面",
+      "ratio": "200 克:200 克",
+      "note": "颜色更浅，口感更细。"
+    }
+  ],
+  "variations": [
+    "面团里加一把玉米粒，口感更甜。",
+    "表面撒一层粗玉米面，外壳更脆也更好看。"
+  ],
+  "serving_suggestion": "切片配汤或抹黄油，做早餐主食。",
+  "storage": "密封室温两天、冷冻一个月，回烤后食用。",
+  "nutrition_estimate": {
+    "basis": "每份约 140 克",
+    "calories_kcal": 300,
+    "protein_g": 9,
+    "fat_g": 8,
+    "carbs_g": 48,
+    "sodium_mg": 320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋、牛奶与面粉，须烤至中心熟透、敲击有空响；含麸质与乳制品，相关过敏者不宜食用。"
+  ],
+  "origin_note": "葡萄牙北部乡村的传统主食，玉米面加面粉发酵后烤成厚圆饼。外壳脆、内部松软，掰开蘸汤是当地吃法。",
+  "tags": [
+    "葡萄牙",
+    "主食",
+    "玉米面",
+    "发酵"
+  ],
+  "related_ids": [
+    "portuguese-caldo-verde",
+    "portuguese-francesinha"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}
