@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "beijing-dalu-mian",
+  "name": {
+    "zh": "北京打卤面",
+    "en": "Beijing Gravy Noodles",
+    "original": "打卤面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 45,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 500,
+          "unit": "g",
+          "note": "手擀面",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 200,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡发切片",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡发撕小朵",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调色调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 35,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "出锅点香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮卤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "刀",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "香菇和木耳用温水泡发，泡好后切片撕成小朵。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡菇水别倒，滤净后可以加进卤里。",
+      "visual_cue": "香菇软透，木耳舒展"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切成薄片，大葱切段，姜切片一起备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉片切薄一点，煸的时候才出油。",
+      "visual_cue": "肉片薄厚均匀一致"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放少许油，下八角、葱段和姜片小火炒出香味。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "香料小火慢炒，香味才释放得干净。",
+      "visual_cue": "香气上浮，葱段微黄"
+    },
+    {
+      "n": 4,
+      "text": "下五花肉片煸到出油微卷，淋入酱油炒上色。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉片要煸出油，卤汁的味道才不寡淡。",
+      "visual_cue": "卤汁浓稠，能挂住勺子"
+    },
+    {
+      "n": 5,
+      "text": "倒入清水和泡好的香菇木耳，大火烧开转小火煮十分钟。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "水一次加够，中途加水卤味会变淡。",
+      "visual_cue": "汤色红亮，香气浓郁"
+    },
+    {
+      "n": 6,
+      "text": "玉米淀粉加水调匀，慢慢淋入锅里搅成浓稠的卤汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "芡要分次淋，边淋边推才不起疙瘩。",
+      "visual_cue": "卤汁浓稠，能挂住勺子"
+    },
+    {
+      "n": 7,
+      "text": "转小火淋入鸡蛋液，静置十秒后轻推成蛋花，加盐和香油。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蛋液别马上搅动，蛋花才成大片。",
+      "visual_cue": "蛋花成片，卤面油亮"
+    },
+    {
+      "n": 8,
+      "text": "面条下沸水煮熟后捞出，浇上卤汁拌匀即可食用。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "面条过一遍凉水，更劲道也不粘。",
+      "visual_cue": "面条爽滑，卤汁挂面"
+    }
+  ],
+  "tips": [
+    "八角和大葱先炒香，卤汁底味才够厚。",
+    "淀粉水分次淋入并不断搅动，卤汁才不会结疙瘩。",
+    "蛋液最后淋入静置片刻，蛋花才会成大片。"
+  ],
+  "common_mistakes": [
+    "直接干淀粉下锅，卤汁结出大量白疙瘩。",
+    "卤汁勾得太稀，浇在面上挂不住。",
+    "面条煮过头发软，拌完就断成小段。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪里脊",
+      "ratio": "200 克:200 克",
+      "note": "更瘦，需多加一勺油煸炒。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "口蘑",
+      "ratio": "60 克:80 克",
+      "note": "香气清淡，需补一点酱油。"
+    }
+  ],
+  "variations": [
+    "加一把黄花菜，更接近老北京的传统做法。",
+    "用羊肉片替代五花肉，做成清真版本。"
+  ],
+  "serving_suggestion": "大碗盛面浇卤，配一碟腊八蒜或醋，是北京人过生日和待客的经典面食。",
+  "storage": "卤汁冷藏两天，复热时加少量清水小火化开；面条现煮现吃，不建议冷藏。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 620,
+    "protein_g": 26,
+    "fat_g": 24,
+    "carbs_g": 74,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋与小麦，蛋类与麸质过敏者须替换；五花肉须炒至完全熟透，卤汁剩菜须冷藏并彻底复热。"
+  ],
+  "origin_note": "北京的经典面食，五花肉、香菇、木耳熬成浓卤浇在手擀面上。老北京过生日吃打卤面，讲究卤要挂得住面。",
+  "tags": [
+    "北京",
+    "面食",
+    "打卤面",
+    "家常"
+  ],
+  "related_ids": [
+    "zhajiangmian",
+    "jingjiang-rousi",
+    "culiu-muxu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-21",
+  "updated_at": "2026-11-21"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:11:04.963Z",
+  "generatedAt": "2026-11-21T13:19:43.193Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1113,
-    "coverage": 0.339951130116066
+    "actual": 1119,
+    "coverage": 0.3417837507635919
   },
   "regions": {
     "cn": [
@@ -1283,7 +1283,7 @@
         "en": "Beijing",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
@@ -1299,8 +1299,9 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "beijing-dalu-mian",
               "zhajiangmian"
             ]
           },
@@ -1745,14 +1746,15 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "hakka-egg-pocket-braise",
               "hakka-meicai-kourou",
               "hakka-sanbeiji",
               "kejia-chao-mifen",
@@ -3417,7 +3419,7 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "staple-rice",
@@ -3452,8 +3454,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "indonesian-perkedel",
               "indonesian-pisang-goreng"
             ]
           },
@@ -4513,7 +4516,7 @@
         "en": "German",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "main-meat",
@@ -4542,8 +4545,10 @@
             "category": "fermented",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "german-sauerkraut"
+            ]
           },
           {
             "category": "salad",
@@ -4846,7 +4851,7 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 9,
+        "actual": 10,
         "cells": [
           {
             "category": "soup",
@@ -4882,8 +4887,10 @@
             "category": "fermented",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "eastern-european-pickled-cucumber"
+            ]
           },
           {
             "category": "dessert",
@@ -4927,7 +4934,7 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "soup",
@@ -4962,9 +4969,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "russian-blini"
+              "russian-blini",
+              "russian-pirozhki"
             ]
           },
           {
