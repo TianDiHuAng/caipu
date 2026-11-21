@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:33:59.859Z",
+  "generatedAt": "2026-11-21T09:47:35.270Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 565,
     "target": 3274,
-    "actual": 952,
-    "coverage": 0.2907758094074527
+    "actual": 960,
+    "coverage": 0.29321930360415394
   },
   "regions": {
     "cn": [
@@ -1884,15 +1884,16 @@
         "en": "Taiwanese",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 10,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "kezai-jian",
+              "taiwan-douhua",
               "yansu-ji"
             ]
           },
@@ -1928,8 +1929,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "taiwan-douhua"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -2059,7 +2062,7 @@
         "en": "Xinjiang",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 6,
         "cells": [
           {
             "category": "main-meat",
@@ -2100,8 +2103,10 @@
             "category": "drink",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "xinjiang-suannai"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -2212,7 +2217,7 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "main-meat",
@@ -2227,9 +2232,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "tibetan-sha-phaley",
+              "tibetan-tingmo",
               "tibetan-tsampa"
             ]
           },
@@ -3497,7 +3503,7 @@
         "en": "Singaporean",
         "tier": "B",
         "target": 38,
-        "actual": 8,
+        "actual": 9,
         "cells": [
           {
             "category": "staple-rice",
@@ -3540,8 +3546,10 @@
             "category": "drink",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "singaporean-barley-water"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -3811,23 +3819,26 @@
         "en": "South Asian",
         "tier": "B",
         "target": 38,
-        "actual": 5,
+        "actual": 7,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-asian-jeera-rice"
+            ]
           },
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "south-asian-aloo-gobi",
-              "south-asian-baingan-bharta"
+              "south-asian-baingan-bharta",
+              "south-asian-jeera-rice"
             ]
           },
           {
@@ -5576,7 +5587,7 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 6,
+        "actual": 7,
         "cells": [
           {
             "category": "soup",
@@ -5601,8 +5612,10 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "north-african-khobz"
+            ]
           },
           {
             "category": "salad",
