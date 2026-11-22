@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-kenchin-jiru",
+  "name": {
+    "zh": "日式建长汁",
+    "en": "Japanese Kenchin Jiru",
+    "original": "建長汁"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 200,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切花片",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "平菇",
+          "name_en": "oyster mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "撕条",
+          "optional": false
+        },
+        {
+          "name": "味噌",
+          "name_en": "miso",
+          "amount": 60,
+          "unit": "g",
+          "note": "调汤",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "把白萝卜切成薄片，胡萝卜切成小花片备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "萝卜切薄一点，煮十分钟就软透了。",
+      "visual_cue": "萝卜片薄，边缘透光"
+    },
+    {
+      "n": 2,
+      "text": "香菇切片，平菇撕成条，北豆腐切成麻将大小的块。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "豆腐切大块些，煮的时候才不散。",
+      "visual_cue": "豆腐块方整，香菇和平菇大小均匀"
+    },
+    {
+      "n": 3,
+      "text": "汤锅放植物油烧热，下白萝卜片和胡萝卜片翻炒。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "先把蔬菜炒一遍，汤的味道会更加厚实。",
+      "visual_cue": "蔬菜表面泛油，边缘微软"
+    },
+    {
+      "n": 4,
+      "text": "加入香菇片和平菇条一起翻炒，炒到出水变软。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇和平菇要先炒出水分，鲜味才会进到汤里。",
+      "visual_cue": "香菇和平菇缩小，锅中有汁"
+    },
+    {
+      "n": 5,
+      "text": "倒入清水大火烧开，再转小火慢慢煮十分钟。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "小火煮到萝卜变透明，自然的甜味才会出来。",
+      "visual_cue": "萝卜透明，汤色清亮"
+    },
+    {
+      "n": 6,
+      "text": "放入北豆腐块，再继续煮三分钟让豆腐吸味。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "豆腐最后放进去，煮久了容易碎成渣。",
+      "visual_cue": "豆腐浮起，棱角完整"
+    },
+    {
+      "n": 7,
+      "text": "味噌用少量汤化开后倒回锅里，加生抽调味撒小葱关火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "味噌化开再下锅，汤才不会结块。",
+      "visual_cue": "汤色乳白微黄，葱花翠绿"
+    }
+  ],
+  "tips": [
+    "味噌先用汤化开再倒回锅，汤才不会结块。",
+    "蔬菜先炒一遍再加水，汤味更厚实。",
+    "豆腐要最后才放进汤里，煮久了容易碎成渣。"
+  ],
+  "common_mistakes": [
+    "味噌直接下锅不化开，汤里全是小疙瘩。",
+    "大火滚煮味噌汤，香气全跑掉了。",
+    "豆腐放得太早，久煮以后碎在锅里。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "油豆腐",
+      "ratio": "300 克:200 克",
+      "note": "吸汤更足，需先焯水去油。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "冬瓜",
+      "ratio": "200 克:200 克",
+      "note": "更易软烂，煮制时间减半。"
+    }
+  ],
+  "variations": [
+    "出锅前点一点生抽，鲜味会更足一些。",
+    "放几片海带一起同煮，汤会更加鲜美。"
+  ],
+  "serving_suggestion": "配一碗白饭和一小碟腌菜，就是日本寺院的精进料理吃法。",
+  "storage": "冷藏两天，复热时小火加热不要煮沸太久；味噌汤不宜冷冻。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 150,
+    "protein_g": 9,
+    "fat_g": 7,
+    "carbs_g": 12,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含大豆制品，大豆过敏者须避免；味噌含盐较高，高血压人群适量；剩汤冷藏两天内彻底加热。"
+  ],
+  "origin_note": "源自日本镰仓建长寺的素菜汤，只用萝卜、胡萝卜、菇类和豆腐，靠味噌提鲜，是精进料理的代表。",
+  "tags": [
+    "日本",
+    "汤",
+    "豆腐",
+    "素食"
+  ],
+  "related_ids": [
+    "miso-soup",
+    "tonjiru",
+    "japanese-chikuzenni"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

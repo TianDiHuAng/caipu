@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-caldo-de-camerones",
+  "name": {
+    "zh": "墨西哥虾汤",
+    "en": "Mexican Shrimp Soup",
+    "original": "Caldo de Camarones"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 400,
+          "unit": "g",
+          "note": "去虾线",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "去籽",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "搅拌机"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾仁挑去背上的黑色沙线后冲洗干净，用厨房纸吸干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "虾仁留几只整只的最后下，口感更好。",
+      "visual_cue": "虾仁干净完整，表面无水"
+    },
+    {
+      "n": 2,
+      "text": "番茄切块，洋葱切丁，大蒜拍碎，干辣椒去籽。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "干辣椒去籽后再用，辣度才温和不呛口。",
+      "visual_cue": "蔬菜切块大小一致"
+    },
+    {
+      "n": 3,
+      "text": "汤锅放植物油烧热，下洋葱丁和蒜炒到透明。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱炒到透明，汤底才带自然甜味。",
+      "visual_cue": "洋葱透明，蒜香散出"
+    },
+    {
+      "n": 4,
+      "text": "加入番茄块和干辣椒，中火炒到番茄出汁变软。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄炒出汁，汤色才红亮有厚度。",
+      "visual_cue": "番茄塌软，锅底有红汁"
+    },
+    {
+      "n": 5,
+      "text": "倒入清水大火烧开，转小火煮十分钟让味道融合。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "小火慢煮十分钟，汤里的酸甜才融得开。",
+      "visual_cue": "汤色橙红，表面微沸"
+    },
+    {
+      "n": 6,
+      "text": "下虾仁煮三分钟，煮到虾仁卷曲、颜色转粉红。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "虾仁下锅只要三分钟，久了就发硬。",
+      "visual_cue": "虾仁卷曲，颜色粉红"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味，挤入青柠汁，撒上香菜碎后关火。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "青柠汁最后加，酸香才不会煮散。",
+      "visual_cue": "汤面浮油，香菜翠绿"
+    }
+  ],
+  "tips": [
+    "虾仁最后才下锅，煮三分钟就够了。",
+    "番茄一定炒到出汁，汤色才红亮。",
+    "青柠汁关火前加，酸香保留得最好。"
+  ],
+  "common_mistakes": [
+    "虾仁和汤一起久煮，肉质变得又硬又柴。",
+    "番茄没炒出汁就加水，汤色寡淡发白。",
+    "干辣椒没去籽，汤辣得盖住了鲜味。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鱼片",
+      "ratio": "400 克:400 克",
+      "note": "煮两分钟即可，肉更嫩。"
+    },
+    {
+      "original": "干辣椒",
+      "substitute": "辣椒粉",
+      "ratio": "8 克:5 克",
+      "note": "辣味更直接，可酌情减少。"
+    }
+  ],
+  "variations": [
+    "加一块玉米一起同煮，汤会更甜一些。",
+    "配几张玉米饼撕碎泡进汤里，就是墨西哥人的吃法。"
+  ],
+  "serving_suggestion": "盛进深碗，配玉米饼和青柠角一起吃，酸辣开胃。",
+  "storage": "冷藏两天，复热时补一点清水；虾仁不宜反复加热。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 190,
+    "protein_g": 23,
+    "fat_g": 8,
+    "carbs_g": 8,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含甲壳类水产，过敏者须避免；虾仁须煮至完全变色熟透；剩汤冷藏两天内彻底煮沸。"
+  ],
+  "origin_note": "墨西哥沿海人家的家常汤，用番茄和干辣椒熬出红汤，最后下虾仁，鲜辣里带着青柠的清香。",
+  "tags": [
+    "墨西哥",
+    "汤",
+    "虾",
+    "酸辣"
+  ],
+  "related_ids": [
+    "caldo-de-pollo",
+    "tortilla-soup",
+    "mexican-salsa-roja"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

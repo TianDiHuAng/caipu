@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:14:30.751Z",
+  "generatedAt": "2026-11-22T05:31:39.391Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1167,
-    "coverage": 0.3564447159437996
+    "actual": 1173,
+    "coverage": 0.3582773365913256
   },
   "regions": {
     "cn": [
@@ -2461,7 +2461,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 37,
+        "actual": 38,
         "cells": [
           {
             "category": "main-seafood",
@@ -2492,10 +2492,11 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "asari-misoshiru",
               "japanese-kakitama-jiru",
+              "japanese-kenchin-jiru",
               "miso-soup",
               "tonjiru"
             ]
@@ -2611,7 +2612,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 35,
+        "actual": 36,
         "cells": [
           {
             "category": "main-meat",
@@ -2657,11 +2658,12 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "gochujang",
               "kimchi",
               "kkakdugi",
+              "korean-oiji",
               "korean-perilla-jangajji"
             ]
           },
@@ -2767,7 +2769,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 30,
+        "actual": 32,
         "cells": [
           {
             "category": "main-poultry",
@@ -2798,10 +2800,11 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "larb-gai",
               "som-tam",
+              "thai-yam-het",
               "thai-yum-woon-sen",
               "yum-nua"
             ]
@@ -2810,10 +2813,11 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "pu-pad-pong-curry",
               "thai-basil-shrimp",
+              "thai-goong-pad-khing",
               "thai-steamed-fish",
               "tom-yum-goong"
             ]
@@ -3198,7 +3202,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 30,
+        "actual": 31,
         "cells": [
           {
             "category": "main-seafood",
@@ -3257,12 +3261,13 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "alioli",
               "romesco-sauce",
               "romesco",
-              "salmorejo"
+              "salmorejo",
+              "spanish-escalivada"
             ]
           },
           {
@@ -5452,7 +5457,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 30,
+        "actual": 31,
         "cells": [
           {
             "category": "snack",
@@ -5496,10 +5501,11 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "caldo-de-pollo",
               "crema-de-elote",
+              "mexican-caldo-de-camerones",
               "sopa-de-frijol",
               "tortilla-soup"
             ]
