@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hakka-stuffed-bitter-melon",
+  "name": {
+    "zh": "客家酿苦瓜",
+    "en": "Hakka Stuffed Bitter Melon",
+    "original": "酿苦瓜"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 55,
+    "total_min": 100
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "bitter",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "苦瓜",
+          "name_en": "bitter melon",
+          "amount": 600,
+          "unit": "g",
+          "note": "切段去瓤",
+          "optional": false
+        },
+        {
+          "name": "猪肉馅",
+          "name_en": "minced pork",
+          "amount": 350,
+          "unit": "g",
+          "note": "三分肥七分瘦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡发切末",
+          "optional": false
+        },
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡软切碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "黏合",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "大碗",
+    "刀",
+    "砧板",
+    "勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "苦瓜洗净切成四厘米长的段，用小勺挖掉中间的瓤和籽。",
+      "time_min": 14,
+      "heat": "无火",
+      "tip": "瓤挖干净一点，苦味才不会太重。",
+      "visual_cue": "苦瓜段空心，内壁干净"
+    },
+    {
+      "n": 2,
+      "text": "挖好的苦瓜段放进淡盐水里泡十分钟，再捞出沥干。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "用淡盐水泡过，能去掉一部分苦涩味。",
+      "visual_cue": "苦瓜段颜色转深绿"
+    },
+    {
+      "n": 3,
+      "text": "香菇和虾米泡软后切成细末，生姜小葱也切成末。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "香菇末切细一点，塞进苦瓜才不硌。",
+      "visual_cue": "香菇末与虾米末细而均匀"
+    },
+    {
+      "n": 4,
+      "text": "猪肉馅加生抽、料酒、盐和淀粉，顺一个方向搅到发黏。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "搅到肉馅抱团，煮时才不会散出来。",
+      "visual_cue": "肉馅黏稠，能抱成团"
+    },
+    {
+      "n": 5,
+      "text": "拌入香菇末、虾米末、生姜末和小葱末，翻匀成馅料。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "配料拌进去后不要再大力搅，避免出水。",
+      "visual_cue": "馅料均匀，翻拌不松散"
+    },
+    {
+      "n": 6,
+      "text": "把馅料一点点塞进苦瓜段，两头轻轻按平压实。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "馅料塞紧实些，蒸完才不会缩成一团。",
+      "visual_cue": "苦瓜段填满不溢出"
+    },
+    {
+      "n": 7,
+      "text": "酿好的苦瓜段竖着码进蒸锅，大火上汽后蒸二十分钟。",
+      "time_min": 23,
+      "heat": "大火",
+      "tip": "竖着码放，馅料的汁水才不会流走。",
+      "visual_cue": "苦瓜转黄，馅料定型"
+    },
+    {
+      "n": 8,
+      "text": "清水加生抽在锅里烧开，勾薄芡淋在苦瓜上即可。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "芡汁勾薄一点，淋上去才亮而不糊。",
+      "visual_cue": "芡汁透明挂在苦瓜上"
+    }
+  ],
+  "tips": [
+    "苦瓜的瓤要挖干净，苦味才不会压过肉香。",
+    "用淡盐水泡十分钟，能去掉部分苦涩。",
+    "馅料塞紧压实，蒸完才不会松散脱落。"
+  ],
+  "common_mistakes": [
+    "苦瓜瓤没挖净，成品苦得没法下口。",
+    "馅料塞得太松，蒸完就散落在盘里。",
+    "蒸过头十分钟，苦瓜软塌失去口感。"
+  ],
+  "substitutions": [
+    {
+      "original": "苦瓜",
+      "substitute": "丝瓜",
+      "ratio": "600 克:600 克",
+      "note": "完全不苦，蒸制时间减五分钟。"
+    },
+    {
+      "original": "虾米",
+      "substitute": "干贝",
+      "ratio": "20 克:20 克",
+      "note": "鲜味更浓，需提前泡发撕丝。"
+    }
+  ],
+  "variations": [
+    "馅料里加一点剁椒，咸鲜里带微辣。",
+    "最后淋一勺热油激香葱花，香气更足。"
+  ],
+  "serving_suggestion": "连汁一起浇在白饭上，是客家人夏天餐桌上的家常做法。",
+  "storage": "冷藏两天，复热隔水蒸十分钟；冷冻一周，解冻后再蒸。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 330,
+    "protein_g": 20,
+    "fat_g": 22,
+    "carbs_g": 12,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含猪肉与虾米，须蒸至中心完全熟透；甲壳类与猪肉过敏者须避免；剩菜冷藏两天内彻底加热。"
+  ],
+  "origin_note": "客家人把肉馅酿进各种蔬果的传统做法之一，苦瓜的清苦配上咸香肉馅，是夏天最下饭的一道家常菜。",
+  "tags": [
+    "客家",
+    "家常菜",
+    "苦瓜",
+    "蒸菜"
+  ],
+  "related_ids": [
+    "niang-doufu",
+    "hakka-pen-cai",
+    "hakka-meicai-kourou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

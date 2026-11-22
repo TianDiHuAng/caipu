@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:23:58.287Z",
+  "generatedAt": "2026-11-22T05:00:30.416Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1155,
-    "coverage": 0.3527794746487477
+    "actual": 1161,
+    "coverage": 0.3546120952962737
   },
   "regions": {
     "cn": [
@@ -1368,7 +1368,7 @@
         "en": "Shanghai",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
@@ -1393,8 +1393,9 @@
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "shanghai-smoked-fish",
               "sikai-kaofu"
             ]
           },
@@ -1651,7 +1652,7 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-vegetable",
@@ -1687,9 +1688,10 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "yangyu-ba"
+              "yangyu-ba",
+              "yunguai-bamboo-tube-rice"
             ]
           },
           {
@@ -1752,17 +1754,18 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 13,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "hakka-egg-pocket-braise",
               "hakka-meicai-kourou",
               "hakka-sanbeiji",
+              "hakka-stuffed-bitter-melon",
               "kejia-chao-mifen",
               "meicai-kourou"
             ]
@@ -3183,7 +3186,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 29,
+        "actual": 30,
         "cells": [
           {
             "category": "main-seafood",
@@ -3203,12 +3206,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "calamares-fritos",
               "champinones-al-ajillo",
               "spanish-almejas-vino-blanco",
               "spanish-gambas-al-ajillo",
+              "spanish-patatas-bravas",
               "tortilla-espanola"
             ]
           },
@@ -4539,7 +4543,7 @@
         "en": "German",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -4577,8 +4581,9 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "german-cucumber-salad",
               "german-kartoffelsalat"
             ]
           },
@@ -4875,7 +4880,7 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 10,
+        "actual": 11,
         "cells": [
           {
             "category": "soup",
@@ -4920,8 +4925,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "eastern-european-honey-cake",
               "eastern-european-syrniki"
             ]
           },
