@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:48:26.954Z",
+  "generatedAt": "2026-11-22T09:07:10.595Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1220,
-    "coverage": 0.37263286499694565
+    "actual": 1226,
+    "coverage": 0.3744654856444716
   },
   "regions": {
     "cn": [
@@ -699,7 +699,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 37,
+        "actual": 38,
         "cells": [
           {
             "category": "main-seafood",
@@ -799,8 +799,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "zhejiang-pianerchuan"
+            ]
           },
           {
             "category": "snack",
@@ -857,7 +859,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 38,
         "cells": [
           {
             "category": "soup",
@@ -941,8 +943,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "fujian-jiucai-chaodan"
+            ]
           },
           {
             "category": "main-tofu",
@@ -967,9 +971,10 @@
             "category": "dessert",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "bayu-ni"
+              "bayu-ni",
+              "fujian-huangsheng-tang"
             ]
           },
           {
@@ -998,7 +1003,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 35,
+        "actual": 36,
         "cells": [
           {
             "category": "main-meat",
@@ -1097,8 +1102,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "hunan-duojiao-chaofan"
+            ]
           },
           {
             "category": "cold-dish",
@@ -1154,7 +1161,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 33,
+        "actual": 35,
         "cells": [
           {
             "category": "main-meat",
@@ -1173,8 +1180,9 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
+              "anhui-jiaobai-chaorou",
               "anhui-yancai-chao-dougan",
               "huotui-shao-sun",
               "qingchao-luhao",
@@ -1254,6 +1262,16 @@
             "ids": []
           },
           {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "anhui-hongshao-jiyu",
+              "chou-guiyu"
+            ]
+          },
+          {
             "category": "snack",
             "kind": "extra",
             "target": 0,
@@ -1271,15 +1289,6 @@
             "ids": [
               "huizhou-daobanxiang",
               "huizhou-xuelihong"
-            ]
-          },
-          {
-            "category": "main-seafood",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "chou-guiyu"
             ]
           },
           {

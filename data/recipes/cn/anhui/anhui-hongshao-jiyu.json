@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-hongshao-jiyu",
+  "name": {
+    "zh": "红烧鲫鱼",
+    "en": "Braised Crucian Carp"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲫鱼",
+          "name_en": "crucian carp",
+          "amount": 700,
+          "unit": "g",
+          "note": "收拾干净打花刀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 3,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 8,
+          "unit": "ml",
+          "note": "去腥提味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 350,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲫鱼去鳞去内脏，刮净腹内黑膜，两面各打三刀方便入味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "黑膜一定要刮净，那是腥味主要来源。",
+      "visual_cue": "鱼身干爽，刀口整齐"
+    },
+    {
+      "n": 2,
+      "text": "鱼身两面抹薄盐和黄酒，放姜片腌十分钟去腥。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌好要用厨房纸吸干水，煎时不易溅油。",
+      "visual_cue": "鱼皮略干，表面不见水"
+    },
+    {
+      "n": 3,
+      "text": "炒锅烧到冒烟倒植物油滑锅，鲫鱼下锅中小火煎到两面金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "下锅后别翻，等鱼皮结硬壳再动。",
+      "visual_cue": "鱼皮完整焦黄，晃动锅会滑动"
+    },
+    {
+      "n": 4,
+      "text": "鱼推到锅边，下姜蒜和干辣椒段炒香，沿锅边烹黄酒。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "黄酒沿锅边淋下，香气才冲得起来不腥。",
+      "visual_cue": "闻到酒香，油面微起沫"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽、白糖、陈醋和清水，大火烧开转中小火焖。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "醋少量能去腥提鲜，别放多以免发酸。",
+      "visual_cue": "汤汁深红，没过鱼身一半"
+    },
+    {
+      "n": 6,
+      "text": "中途用勺舀汤汁浇在鱼身上，不要翻鱼免得破碎。",
+      "time_min": 10,
+      "heat": "中小火",
+      "tip": "浇汁代替翻面，鱼形才完整好看。",
+      "visual_cue": "汤汁收浓，鱼眼凸出变白"
+    },
+    {
+      "n": 7,
+      "text": "尝味补盐，撒葱段，收汁到浓稠即可连锅上桌。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "收汁留一点浇饭最香，别收到锅底发干。",
+      "visual_cue": "汤汁挂勺，鱼身油亮"
+    }
+  ],
+  "tips": [
+    "鱼身擦干再煎，皮才不破也不溅油。",
+    "煎时中小火等结壳再翻，鱼形完整。",
+    "用浇汁代替翻鱼，成菜不散不碎。"
+  ],
+  "common_mistakes": [
+    "鱼皮带水下锅，油花四溅还破皮。",
+    "频繁翻面，鱼身碎成块没法装盘。",
+    "大火一直烧到汤汁全干，锅底发苦发糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲫鱼",
+      "substitute": "鲈鱼",
+      "ratio": "700 克:700 克",
+      "note": "刺少肉厚，烧制时间缩短五分钟。"
+    },
+    {
+      "original": "陈醋",
+      "substitute": "黄酒",
+      "ratio": "8 毫升:15 毫升",
+      "note": "酸味更柔，去腥效果相近。"
+    }
+  ],
+  "variations": [
+    "加几块豆腐同烧，吸味又添份量。",
+    "放一勺豆瓣酱，酱香更浓更下饭。"
+  ],
+  "serving_suggestion": "连汁上桌，鱼肉蘸汤吃最鲜，配米饭一绝。",
+  "storage": "冷藏一天，复热加少量水小火焖热，不要翻动鱼肉。",
+  "nutrition_estimate": {
+    "basis": "每份约 230 克",
+    "calories_kcal": 340,
+    "protein_g": 32,
+    "fat_g": 21,
+    "carbs_g": 5,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鲫鱼细刺多，老人与儿童食用需仔细挑刺；鱼必须烧到肉质全白、中心熟透，剩菜冷藏一天内复热透。"
+  ],
+  "origin_note": "安徽沿江人家最常见的鱼菜，鲫鱼便宜刺多却鲜，做法靠煎定型、酱油糖调味、小火慢焖。讲究鱼皮完整、汤汁红亮，收汁后浇饭最香。",
+  "tags": [
+    "安徽",
+    "鲫鱼",
+    "红烧",
+    "家常"
+  ],
+  "related_ids": [
+    "chou-guiyu",
+    "huizhou-hongshao-zhuti",
+    "jiangsu-jiyu-doufu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

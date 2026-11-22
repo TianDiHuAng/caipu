@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-pianerchuan",
+  "name": {
+    "zh": "片儿川",
+    "en": "Hangzhou Pian'er Chuan Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "潮面或碱水面",
+          "optional": false
+        },
+        {
+          "name": "雪菜",
+          "name_en": "pickled potherb mustard",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒浇头",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "煮面与汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊逆纹切成薄片，加生抽和黄酒抓匀腌十分钟入味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肉片切薄一些，一烫就熟，口感也不会老。",
+      "visual_cue": "肉片薄透挂汁，摊开不叠"
+    },
+    {
+      "n": 2,
+      "text": "雪菜挤干水分切碎，冬笋切薄片，分别装碗备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "雪菜要挤干，否则汤会发酸发浑。",
+      "visual_cue": "雪菜碎干爽，笋片薄而匀"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧热，下肉片大火滑炒到变色盛出。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "肉片先炒后回锅，嫩度更好也不易炒老。",
+      "visual_cue": "肉片断生发白，边缘微卷"
+    },
+    {
+      "n": 4,
+      "text": "原锅下雪菜和笋片煸炒出香，加清水大火烧开成汤底。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "雪菜煸过才出鲜香，直接下水味寡。",
+      "visual_cue": "汤色微黄，闻到腌菜香"
+    },
+    {
+      "n": 5,
+      "text": "汤底转中火略煮，让笋片与雪菜的鲜味融进汤里。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "多煮上两分钟，汤头才够鲜，笋也更入味。",
+      "visual_cue": "汤面微沸，笋片变软"
+    },
+    {
+      "n": 6,
+      "text": "另起锅烧开水下面条，煮到八成熟捞出沥干。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "面只煮八分，还要在汤里回煮一会儿。",
+      "visual_cue": "面条有白芯但已软身"
+    },
+    {
+      "n": 7,
+      "text": "面条下入汤锅，加肉片同煮到面条断生，尝味补盐。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "面在汤里煮，能吸足鲜味，比过水面好吃。",
+      "visual_cue": "面条软滑，汤色清亮"
+    },
+    {
+      "n": 8,
+      "text": "盛入大碗后撒上葱段，连汤带面一起端上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "先盛面再浇汤，面条才不会坨在一起。",
+      "visual_cue": "汤没面条，笋片浮在面上"
+    }
+  ],
+  "tips": [
+    "雪菜要挤干再煸，汤才不酸不浑。",
+    "面条煮到八分熟，留余地在汤里回煮。",
+    "笋片和雪菜要先煸香，汤头才鲜。"
+  ],
+  "common_mistakes": [
+    "雪菜不挤水直接下锅，汤又酸又浑。",
+    "肉片炒得太久，回锅后就老得嚼不动。",
+    "面条一次煮透再回锅，泡在汤里立刻发胀变糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "雪菜",
+      "substitute": "腌芥菜",
+      "ratio": "100 克:100 克",
+      "note": "咸度更高，需减少盐量并多泡一次。"
+    },
+    {
+      "original": "冬笋",
+      "substitute": "茭白",
+      "ratio": "100 克:120 克",
+      "note": "口感更嫩，煮制时间缩短一分钟。"
+    }
+  ],
+  "variations": [
+    "加几只河虾同煮，汤头更鲜更清甜。",
+    "起锅放一勺猪油，香气更地道也更润。"
+  ],
+  "serving_suggestion": "趁热连汤吃，先喝一口汤再挑面。",
+  "storage": "面条不建议隔夜，汤底可冷藏一天，复热烧滚再下面。",
+  "nutrition_estimate": {
+    "basis": "每份约 450 克",
+    "calories_kcal": 560,
+    "protein_g": 26,
+    "fat_g": 20,
+    "carbs_g": 66,
+    "sodium_mg": 1280,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mustard",
+    "soy",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "肉片须煮到完全变白熟透；雪菜属腌制品，含盐较高，高血压人群宜少食。"
+  ],
+  "origin_note": "杭州面馆的招牌，雪菜、笋片、肉片三样合一，一碗清汤面鲜得直咂嘴。老店讲究一碗一烧，浇头现炒、汤现滚、面现下，端上来汤清面滑才算合格。",
+  "tags": [
+    "浙江",
+    "面条",
+    "杭州",
+    "汤面"
+  ],
+  "related_ids": [
+    "xuecai-datang-huangyu",
+    "dongpo-rou",
+    "zhejiang-chuncai-xiaren-geng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}
