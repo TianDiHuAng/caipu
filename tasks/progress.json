@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:07:10.595Z",
+  "generatedAt": "2026-11-22T09:22:41.089Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1226,
-    "coverage": 0.3744654856444716
+    "actual": 1230,
+    "coverage": 0.37568723274282223
   },
   "regions": {
     "cn": [
@@ -699,19 +699,20 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 38,
+        "actual": 39,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "congyou-xia",
               "longjing-xiaren",
               "ningbo-xiechao-niangao",
               "xihu-cuyu",
-              "xuecai-datang-huangyu"
+              "xuecai-datang-huangyu",
+              "zhejiang-youxie-chaonian"
             ]
           },
           {
@@ -859,7 +860,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 38,
+        "actual": 39,
         "cells": [
           {
             "category": "soup",
@@ -878,9 +879,10 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "baizhuo-xiaoguan",
+              "fujian-haoli-jian",
               "jiangyoushui-luyu",
               "min-jiaoyan-xia",
               "minnan-jian-xie",
@@ -1003,7 +1005,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 37,
         "cells": [
           {
             "category": "main-meat",
@@ -1037,12 +1039,13 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "duojiao-zheng-yutou",
               "ganguo-chashugu",
               "ganguo-huacai",
               "hunan-suanla-tudousi",
+              "hunan-xianggan-chaorou",
               "shousi-baocai",
               "suanla-ouding"
             ]
@@ -1161,15 +1164,16 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 35,
+        "actual": 36,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "anhui-fenzheng-rou",
+              "anhui-huangshan-shao-sun",
               "huizhou-daobanxiang",
               "huizhou-hongshao-zhuti",
               "huizhou-hongshaorou",

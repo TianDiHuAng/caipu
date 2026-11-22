@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-huangshan-shao-sun",
+  "name": {
+    "zh": "黄山笋烧肉",
+    "en": "Braised Pork with Huangshan Bamboo Shoots"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 45,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 400,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成三厘米见方的块，冷水下锅焯到表面变白捞出洗净。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "冷水下锅焯，血水才逼得出来，腥味也少。",
+      "visual_cue": "肉块紧实，水面浮灰白沫"
+    },
+    {
+      "n": 2,
+      "text": "笋切滚刀块，冷水下锅煮五分钟去涩，捞出沥干备用。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "鲜笋先焯五分钟，涩味和草酸都去得干净。",
+      "visual_cue": "笋块微透，闻着没有生涩气"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，下冰糖小火炒到化开变琥珀色。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "糖色到枣红就下肉，再炒就发苦。",
+      "visual_cue": "糖液起小泡，色如琥珀"
+    },
+    {
+      "n": 4,
+      "text": "倒入五花肉快速翻炒，让每块肉都裹上糖色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "糖色裹匀再放水，成品颜色才红亮好看。",
+      "visual_cue": "肉块油亮红润，锅底无焦"
+    },
+    {
+      "n": 5,
+      "text": "下姜蒜炒香，烹黄酒，加生抽老抽和清水没过肉块。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "水要一次加够，中途加水汤就浑了。",
+      "visual_cue": "汤汁深褐，浮着一层油"
+    },
+    {
+      "n": 6,
+      "text": "大火烧开撇沫，转小火盖盖焖半小时让肉酥软。",
+      "time_min": 30,
+      "heat": "小火",
+      "tip": "保持小火慢焖，肉才酥软而不散形。",
+      "visual_cue": "汤面微微冒泡，肉块轻颤"
+    },
+    {
+      "n": 7,
+      "text": "放入笋块和葱结，继续小火焖到笋入味、汤汁减半。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "笋块后放，久煮会把汤汁里的咸味全吸光。",
+      "visual_cue": "笋块染上酱色，筷子能扎透"
+    },
+    {
+      "n": 8,
+      "text": "开盖大火收汁，尝味补盐，汤汁浓稠即可装盘。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "收汁时不断翻动，免得锅底糊上一层焦糖。",
+      "visual_cue": "汤汁挂勺，肉笋油亮"
+    }
+  ],
+  "tips": [
+    "五花肉冷水下锅焯，血沫去净才不腥。",
+    "鲜笋先焯五分钟，涩味明显减淡。",
+    "笋块后放，久煮会把咸味全吸光。"
+  ],
+  "common_mistakes": [
+    "糖色炒到发黑才下肉，整锅带焦苦味。",
+    "中途添冷水，肉质立刻紧缩变硬。",
+    "笋和肉一起下锅，最后笋咸得下不了口。"
+  ],
+  "substitutions": [
+    {
+      "original": "笋",
+      "substitute": "干笋",
+      "ratio": "400 克:80 克",
+      "note": "需提前泡发一夜，烧制时间延长十分钟。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "500 克:500 克",
+      "note": "脂肪更少，焖制时间缩短五分钟。"
+    }
+  ],
+  "variations": [
+    "加几朵香菇同烧，山货香气更足。",
+    "放两根干辣椒，回味带一丝辛香。"
+  ],
+  "serving_suggestion": "配白米饭最下饭，汤汁拌饭尤其香。",
+  "storage": "冷藏两天，复热加少量水小火焖热，笋会越热越入味。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 560,
+    "protein_g": 22,
+    "fat_g": 44,
+    "carbs_g": 14,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉须焯透并烧到中心熟软；鲜笋含草酸，焯水后再烧更安全；剩菜冷藏两天内复热透再吃。"
+  ],
+  "origin_note": "皖南山区的时令硬菜，春笋下山时家家都烧。黄山一带的笋质脆味甜，配五花肉同焖，笋吸油、肉去腻，烧到汤汁浓稠才够味。",
+  "tags": [
+    "安徽",
+    "笋",
+    "五花肉",
+    "红烧"
+  ],
+  "related_ids": [
+    "huizhou-hongshao-zhuti",
+    "xianggu-shao-shansun",
+    "anhui-jiaobai-chaorou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}
