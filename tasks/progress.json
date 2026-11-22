@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:28:49.645Z",
+  "generatedAt": "2026-11-22T08:48:26.954Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1214,
-    "coverage": 0.37080024434941966
+    "actual": 1220,
+    "coverage": 0.37263286499694565
   },
   "regions": {
     "cn": [
@@ -699,7 +699,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 37,
         "cells": [
           {
             "category": "main-seafood",
@@ -758,12 +758,13 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "dingsheng-gao",
               "guihua-nuomiyu",
               "jiuniang-yuanzi",
-              "ningbo-tangyuan"
+              "ningbo-tangyuan",
+              "zhejiang-bingtang-nuoou"
             ]
           },
           {
@@ -856,7 +857,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 34,
+        "actual": 36,
         "cells": [
           {
             "category": "soup",
@@ -930,8 +931,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "fujian-sunsi-chaorou",
               "fujian-younmen-sun"
             ]
           },
@@ -946,8 +948,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "fujian-hongshao-doufu"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -994,7 +998,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 34,
+        "actual": 35,
         "cells": [
           {
             "category": "main-meat",
@@ -1015,10 +1019,11 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "dong-an-ji",
               "dongan-ziji",
+              "hunan-lajiao-chao-ji",
               "xiang-pijiu-ya",
               "xiangxi-tufei-ya"
             ]
@@ -1149,14 +1154,15 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 31,
+        "actual": 33,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "anhui-fenzheng-rou",
               "huizhou-daobanxiang",
               "huizhou-hongshao-zhuti",
               "huizhou-hongshaorou",
@@ -1225,8 +1231,9 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "anhui-sunpian-jian-doufu",
               "huizhou-laba-doufu"
             ]
           },

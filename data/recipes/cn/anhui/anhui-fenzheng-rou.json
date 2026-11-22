@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-fenzheng-rou",
+  "name": {
+    "zh": "徽州粉蒸肉",
+    "en": "Huizhou Steamed Pork with Rice Flour"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 70,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "带皮切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 100,
+          "unit": "g",
+          "note": "炒香磨粗粉",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 1,
+          "unit": "g",
+          "note": "炒米用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "拌粉",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "蒸碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗后彻底晾干，下无油锅加八角小火炒到米粒微黄发香。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "米要炒到略黄才香，炒黑了会发苦。",
+      "visual_cue": "米粒泛金，闻到焦香"
+    },
+    {
+      "n": 2,
+      "text": "炒好的大米挑出八角，用擀面杖擀成粗颗粒的米粉，不要磨成细面。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "粗颗粒蒸出来才有松软口感，磨太细会发黏。",
+      "visual_cue": "米粉颗粒均匀，粗细如沙"
+    },
+    {
+      "n": 3,
+      "text": "五花肉连皮切成半厘米厚的大片，皮上毛要刮干净。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "片切得厚一些，蒸久了才不会散成碎渣。",
+      "visual_cue": "肉片厚薄一致，皮面白净"
+    },
+    {
+      "n": 4,
+      "text": "肉片加姜末、生抽、老抽、黄酒、白糖和盐抓匀，腌到入味。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "抓到手感发黏，味道才吃进肉里。",
+      "visual_cue": "肉片挂上酱色，表面发黏"
+    },
+    {
+      "n": 5,
+      "text": "倒入米粉和清水拌匀，让每片肉都均匀裹上一层粉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "水要分次加，粉裹到微湿不干散。",
+      "visual_cue": "肉片裹粉均匀，不见干粉"
+    },
+    {
+      "n": 6,
+      "text": "蒸碗底部垫几片肉皮朝下码好，剩下的肉片一片片叠放整齐。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "皮朝下码放，蒸出来的油汁往下浸才有味。",
+      "visual_cue": "肉片层叠整齐，碗面平整"
+    },
+    {
+      "n": 7,
+      "text": "蒸锅水开后放入蒸碗，盖盖大火上汽转中火慢蒸到肉酥烂。",
+      "time_min": 50,
+      "heat": "中火",
+      "tip": "中途别开盖，蒸汽一跑就蒸不酥。",
+      "visual_cue": "筷子能轻松戳透肉片"
+    },
+    {
+      "n": 8,
+      "text": "取出先滗出碗里的汤汁，倒扣在盘中，撒葱花趁热上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "倒扣前先滗出汤汁，扣出来才不塌。",
+      "visual_cue": "肉片完整脱碗，油光发亮"
+    }
+  ],
+  "tips": [
+    "米粉要擀成粗颗粒，蒸出来松散不粘。",
+    "肉片腌到发黏再裹粉，味道才进得去。",
+    "中火慢蒸不揭盖，肉才酥而不柴。"
+  ],
+  "common_mistakes": [
+    "米粉磨得太细，蒸完糊成一层浆。",
+    "肉片切太薄，久蒸后全散成碎片。",
+    "中途开盖看火，蒸汽跑掉肉质发硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "500 克:500 克",
+      "note": "脂肪少，需加一勺植物油拌匀补润。"
+    },
+    {
+      "original": "大米",
+      "substitute": "糯米",
+      "ratio": "100 克:100 克",
+      "note": "口感更黏糯，需掺一半大米避免过黏。"
+    }
+  ],
+  "variations": [
+    "碗底垫几片南瓜同蒸，吸油又添甜。",
+    "加一勺腐乳汁腌制，徽州风味更浓。"
+  ],
+  "serving_suggestion": "趁热扣出，配一碗白饭和青菜，油腻刚好被米粉吸走。",
+  "storage": "冷藏两天，复蒸十五分钟即可，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 560,
+    "protein_g": 22,
+    "fat_g": 40,
+    "carbs_g": 24,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉必须蒸到中心熟透、筷子能戳透；剩菜冷藏两天内复蒸透再食。"
+  ],
+  "origin_note": "徽州人家逢年过节必做的一道硬菜，自家炒米擀粉，一层肉一层粉码进碗里慢蒸。讲究粉要粗、肉要厚、火要稳，蒸出来的肉酥而不散，米粉吸饱油汁最香。",
+  "tags": [
+    "安徽",
+    "粉蒸肉",
+    "宴客",
+    "徽州"
+  ],
+  "related_ids": [
+    "huizhou-hongshao-zhuti",
+    "huizhou-taguo",
+    "meigancai-kourou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}
