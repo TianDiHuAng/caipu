@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-ganbei-donggua-tang",
+  "name": {
+    "zh": "干贝冬瓜汤",
+    "en": "Dried Scallop and Winter Melon Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 22,
+    "total_min": 42
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "light",
+    "salty",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "冬瓜",
+          "name_en": "winter melon",
+          "amount": 600,
+          "unit": "g",
+          "note": "去皮切厚片",
+          "optional": false
+        },
+        {
+          "name": "干贝",
+          "name_en": "dried scallop",
+          "amount": 40,
+          "unit": "g",
+          "note": "提前泡发",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 8,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干贝用清水冲洗两遍，加黄酒和少量温水泡到捏起来能散开。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "泡发的水别倒，那是鲜味所在，一起下锅。",
+      "visual_cue": "干贝体积变大，纤维能撕成丝"
+    },
+    {
+      "n": 2,
+      "text": "冬瓜削皮去瓤，切成半厘米厚的片，姜切成细丝。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "瓜片别切太薄，煮久了化在汤里。",
+      "visual_cue": "瓜片厚薄均匀，瓜瓤去净"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒入清水和泡干贝的水，下干贝与姜丝大火烧开。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "泡发水有细沙，倒的时候留一点底。",
+      "visual_cue": "汤面滚开，干贝浮起"
+    },
+    {
+      "n": 4,
+      "text": "转中小火煮到干贝完全舒展，汤色略带琥珀色。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "小火吊出干贝的鲜味，别大火猛滚。",
+      "visual_cue": "干贝软烂成丝，汤清带黄"
+    },
+    {
+      "n": 5,
+      "text": "下冬瓜片继续煮到透明，边缘微微发软，瓜香透出。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "冬瓜透亮就熟了，煮过头会散在汤里。",
+      "visual_cue": "瓜片由白变透，筷子能轻松插入"
+    },
+    {
+      "n": 6,
+      "text": "加盐和白胡椒调味，撒葱花关火，盛入汤碗中。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "盐最后放，冬瓜才不会出水塌软。",
+      "visual_cue": "汤清见底，葱花翠绿漂在表面"
+    }
+  ],
+  "tips": [
+    "干贝泡发的水一同入锅，鲜味全在里面。",
+    "冬瓜煮到透明即可，久煮化成汤渣。",
+    "盐最后放，汤味才清爽不浑，冬瓜也不塌。"
+  ],
+  "common_mistakes": [
+    "干贝不泡直接下锅，煮一小时还是硬的。",
+    "把泡干贝的水倒掉，鲜味损失一大半。",
+    "冬瓜切太薄又久煮，全散在汤里。"
+  ],
+  "substitutions": [
+    {
+      "original": "干贝",
+      "substitute": "虾干",
+      "ratio": "40 克:30 克",
+      "note": "鲜味更重，需减少盐量，泡发时间减半。"
+    },
+    {
+      "original": "冬瓜",
+      "substitute": "节瓜",
+      "ratio": "600 克:600 克",
+      "note": "口感更嫩，煮制时间缩短三分钟。"
+    }
+  ],
+  "variations": [
+    "加几片瘦肉同煮，汤头更厚也更有肉香。",
+    "起锅前放几粒枸杞，色泽更好看。"
+  ],
+  "serving_suggestion": "饭前一碗清汤开胃，夏天放凉喝也很舒服。",
+  "storage": "冷藏一天，复热小火加热，冬瓜不要反复煮。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 90,
+    "protein_g": 9,
+    "fat_g": 1,
+    "carbs_g": 10,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "干贝属贝类海产，泡发需冷藏且不超过四小时；汤品冷藏不超过一天，复热要烧开。"
+  ],
+  "origin_note": "闽南沿海人家的清汤，一小把干贝就能把整锅汤吊得鲜甜。夏天配冬瓜最清爽，讲究汤清味浓，不放味精也够鲜。",
+  "tags": [
+    "福建",
+    "干贝",
+    "冬瓜",
+    "汤"
+  ],
+  "related_ids": [
+    "haili-doufu-tang",
+    "zicai-sharen-tang",
+    "fujian-congyou-zhi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

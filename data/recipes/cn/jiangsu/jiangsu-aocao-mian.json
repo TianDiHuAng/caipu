@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-aocao-mian",
+  "name": {
+    "zh": "奥灶面",
+    "en": "Kunshan Aocao Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 50,
+    "total_min": 85
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细碱水面",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 250,
+          "unit": "g",
+          "note": "做焖肉浇头",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪筒骨",
+          "name_en": "pork marrow bone",
+          "amount": 500,
+          "unit": "g",
+          "note": "吊汤",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "焯水配面",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "吊汤与焖肉",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪骨冷水下锅焯去血沫，捞出用温水冲洗干净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才出得干净，汤才不腥。",
+      "visual_cue": "水面浮起灰白沫，骨头干净"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加清水放猪骨、姜块和葱结，大火烧开转小火慢吊。",
+      "time_min": 30,
+      "heat": "小火",
+      "tip": "汤要吊足时间，中途不加水，味才浓。",
+      "visual_cue": "汤色清亮微黄，表面浮油"
+    },
+    {
+      "n": 3,
+      "text": "五花肉整块下冷水焯透，捞出刮净表皮再切成厚片。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "皮要刮干净，成品才不腥不腻，切面也更整齐。",
+      "visual_cue": "肉块表面白净，切面整齐"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下少许油，放姜片、八角和桂皮炒香，加五花肉片翻炒。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香料先炒香再下肉，香味才进得去。",
+      "visual_cue": "肉片边缘微黄，香料味冲"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽、白糖和黄酒，倒清水没过肉片，小火焖。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "小火焖到筷子能戳透，肉才酥而不散。",
+      "visual_cue": "肉片呈酱红，汤汁浓稠"
+    },
+    {
+      "n": 6,
+      "text": "捞出焖好的五花肉片备用，汤汁滤掉香料留作红汤。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "红汤别倒，兑进面汤里才是奥灶味。",
+      "visual_cue": "汤汁清亮深红，无杂质"
+    },
+    {
+      "n": 7,
+      "text": "另起锅烧开水下面条，煮到刚断生，青菜下锅烫熟。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "碱水面易熟，看到浮起就捞，久煮发糊。",
+      "visual_cue": "面条爽滑，青菜翠绿"
+    },
+    {
+      "n": 8,
+      "text": "碗中先放骨汤再兑红汤，加盐调匀，放面条、肉片和青菜。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先汤后面，汤温才够烫面，碗也要提前烫热。",
+      "visual_cue": "汤色红亮，浇头铺在面上"
+    }
+  ],
+  "tips": [
+    "骨汤要小火慢吊，中途加水汤就浑了。",
+    "焖肉用小火，筷子能戳透即可停火。",
+    "红汤与骨汤按口味兑，咸淡自己掌握。"
+  ],
+  "common_mistakes": [
+    "骨头不焯水直接吊，汤腥且发灰。",
+    "焖肉用大火收汁，肉片又柴又硬没了酥感。",
+    "面条煮过头，泡在汤里立刻发胀。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪骨",
+      "substitute": "鸡架",
+      "ratio": "500 克:500 克",
+      "note": "汤更清甜，吊汤时间可缩短十分钟。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "猪蹄膀",
+      "ratio": "250 克:250 克",
+      "note": "胶质更多，焖制时间延长十分钟。"
+    }
+  ],
+  "variations": [
+    "加一块爆鱼做双浇，是昆山本地的经典吃法。",
+    "汤里滴几滴熟猪油，香气更足也更地道。"
+  ],
+  "serving_suggestion": "趁热吃，先喝一口汤再拌面，浇头另配一小碟醋。",
+  "storage": "骨汤与红汤冷藏三天，面条现煮；复热汤要烧开。",
+  "nutrition_estimate": {
+    "basis": "每份约 520 克",
+    "calories_kcal": 720,
+    "protein_g": 32,
+    "fat_g": 38,
+    "carbs_g": 64,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "骨汤需充分熬煮并冷藏保存不超过三天；猪肉要焖到中心熟透，剩汤复热须烧滚。"
+  ],
+  "origin_note": "昆山传统名面，汤头分白汤与红汤两种，讲究一碗面三烫：碗烫、汤烫、面烫。老店凌晨就开始吊骨汤、焖浇头，本地人天没亮就排队等头汤面。",
+  "tags": [
+    "江苏",
+    "面条",
+    "昆山",
+    "汤面"
+  ],
+  "related_ids": [
+    "yangchun-mian",
+    "wuxi-paigu",
+    "suzhou-yingtao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

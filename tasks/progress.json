@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:09:47.501Z",
+  "generatedAt": "2026-11-22T08:28:49.645Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1208,
-    "coverage": 0.36896762370189373
+    "actual": 1214,
+    "coverage": 0.37080024434941966
   },
   "regions": {
     "cn": [
@@ -543,7 +543,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 41,
+        "actual": 42,
         "cells": [
           {
             "category": "main-seafood",
@@ -637,8 +637,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "jiangsu-aocao-mian",
               "yangchun-mian"
             ]
           },
@@ -698,7 +699,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 35,
+        "actual": 36,
         "cells": [
           {
             "category": "main-seafood",
@@ -788,8 +789,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "zhejiang-dongpo-doufu"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -853,14 +856,15 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 33,
+        "actual": 34,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "fujian-ganbei-donggua-tang",
               "haili-doufu-tang",
               "taipingyan-tang",
               "xianggu-rougeng",
@@ -990,7 +994,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 33,
+        "actual": 34,
         "cells": [
           {
             "category": "main-meat",
@@ -1023,11 +1027,12 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "duojiao-zheng-yutou",
               "ganguo-chashugu",
               "ganguo-huacai",
+              "hunan-suanla-tudousi",
               "shousi-baocai",
               "suanla-ouding"
             ]
@@ -1144,7 +1149,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 29,
+        "actual": 31,
         "cells": [
           {
             "category": "main-meat",
@@ -1162,8 +1167,9 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "anhui-yancai-chao-dougan",
               "huotui-shao-sun",
               "qingchao-luhao",
               "xianggu-pa-caixin",
@@ -1228,8 +1234,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "anhui-jiaotou-mian"
+            ]
           },
           {
             "category": "staple-rice",

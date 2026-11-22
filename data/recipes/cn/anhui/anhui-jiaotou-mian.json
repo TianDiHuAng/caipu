@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-jiaotou-mian",
+  "name": {
+    "zh": "徽州浇头面",
+    "en": "Huizhou Noodles with Braised Topping"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细圆挂面",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 200,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "豆腐干",
+          "name_en": "dried tofu",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 30,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒浇头",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "烧浇头",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成小方丁，冬笋和香干也切成同样大小的丁。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "三样切得一样大，口感才整齐，烧制时间也好掌握。",
+      "visual_cue": "三种丁大小相近，颗粒分明"
+    },
+    {
+      "n": 2,
+      "text": "木耳提前泡发洗净切成细丝，青菜择洗干净沥水。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "木耳泡到完全舒展开，硬芯要掐掉。",
+      "visual_cue": "木耳柔软有弹性，青菜无泥沙"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，下五花肉丁中火煸炒到出油、边缘微焦。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉丁煸出油，浇头才香不腻，锅底要见清亮油。",
+      "visual_cue": "肉丁收缩发黄，锅里有清亮油"
+    },
+    {
+      "n": 4,
+      "text": "加姜末和蒜末炒出香味，沿锅边淋黄酒翻匀去腥。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "黄酒沿锅边淋，酒气一挥腥味就散。",
+      "visual_cue": "闻到酒香，肉丁表面油亮"
+    },
+    {
+      "n": 5,
+      "text": "下冬笋丁、香干丁和木耳丝翻炒，加生抽、老抽和清水烧开。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "水要一次加够，中途加水味会淡。",
+      "visual_cue": "汤汁微沸，浇头染上酱色"
+    },
+    {
+      "n": 6,
+      "text": "转小火焖到汤汁剩一半，加盐调味，浇头盛出备用。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "焖到笋丁入味，汤汁略稠最合适。",
+      "visual_cue": "汤汁浓稠挂勺，浇头油亮"
+    },
+    {
+      "n": 7,
+      "text": "汤锅烧开水下面条，煮到八分熟时下青菜同煮。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "面别煮透，捞出后还会继续回软。",
+      "visual_cue": "面条浮起，青菜颜色转深"
+    },
+    {
+      "n": 8,
+      "text": "面条和青菜捞入碗中，浇上浇头与汤汁，趁热拌匀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "浇头连汁一起浇，面条才不干，拌开也更香。",
+      "visual_cue": "面条油润，浇头铺满碗面"
+    }
+  ],
+  "tips": [
+    "浇头要连汤汁一起浇，面条才不干涩。",
+    "五花肉煸出油再烧，浇头香而不腻。",
+    "面条煮八分熟就捞，回软后口感刚好。"
+  ],
+  "common_mistakes": [
+    "面条煮到全熟再捞，泡在汤里就烂了。",
+    "浇头水加太少，拌面时干得拌不开。",
+    "肉丁不煸直接烧，成品油腻发腻口。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪里脊",
+      "ratio": "200 克:200 克",
+      "note": "少油，需补一勺植物油同炒。"
+    },
+    {
+      "original": "冬笋",
+      "substitute": "春笋",
+      "ratio": "100 克:100 克",
+      "note": "需焯水去涩，口感更脆嫩。"
+    }
+  ],
+  "variations": [
+    "加几只河虾同烧，鲜味更足也更像宴席面。",
+    "浇头换成笋干烧肉，更接近徽州老做法。"
+  ],
+  "serving_suggestion": "拌开后趁热吃，配一小碟辣椒酱更开胃。",
+  "storage": "浇头冷藏两天，面条现煮；复热浇头加水少许烧开再浇。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 620,
+    "protein_g": 26,
+    "fat_g": 28,
+    "carbs_g": 66,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "面条与青菜要煮透，木耳泡发不超过四小时并冷藏；剩浇头冷藏两天内复热烧开。"
+  ],
+  "origin_note": "徽州人早饭常吃的一碗面，浇头讲究肉丁、笋丁、香干丁三样齐备，小火焖到浓稠，浇在面上拌匀。街边面馆一早就开卖，一碗下肚才有力气干活。",
+  "tags": [
+    "安徽",
+    "面条",
+    "浇头",
+    "徽州"
+  ],
+  "related_ids": [
+    "huizhou-huotui-tang",
+    "huizhou-shaobing",
+    "anhui-lajiaohu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}
