@@ -1,0 +1,244 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xibei-steamed-egg-custard",
+  "name": {
+    "zh": "西北臊子蒸蛋",
+    "en": "Northwestern Steamed Egg Custard",
+    "original": "蒸鸡蛋羹"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 22,
+    "total_min": 42
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "猪肉馅",
+          "name_en": "minced pork",
+          "amount": 120,
+          "unit": "g",
+          "note": "做臊子",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒臊子",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "调蛋液",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 6,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "滤网",
+    "大碗",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋打散后加入温水和盐，搅拌到完全混合。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "加温水蛋羹才嫩滑，冷水蒸出来会老。",
+      "visual_cue": "蛋液颜色均匀，无泡沫"
+    },
+    {
+      "n": 2,
+      "text": "蛋液过一遍滤网，滤掉泡沫和没散开的蛋筋。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "过筛这一步别省，蒸出来才没有蜂窝。",
+      "visual_cue": "滤后蛋液细腻无泡"
+    },
+    {
+      "n": 3,
+      "text": "把蛋液倒进浅碗里，盖上盘子或者耐热保鲜膜。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "盖上盘子挡住水汽，表面才会光滑。",
+      "visual_cue": "碗口封住，看不见气泡"
+    },
+    {
+      "n": 4,
+      "text": "上锅用中小火蒸十二分钟，关火之后继续焖三分钟。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "中小火慢蒸，蛋羹才不会起蜂窝。",
+      "visual_cue": "蛋羹凝固，轻晃会颤动"
+    },
+    {
+      "n": 5,
+      "text": "炒锅放植物油烧热，下猪肉馅炒散到颜色变白。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉馅要炒散开，别让它结成一块。",
+      "visual_cue": "肉末松散，颜色变白"
+    },
+    {
+      "n": 6,
+      "text": "加入香菇末、生抽和清水烧开，用淀粉勾薄芡成臊子。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "芡要勾得薄，浇在蛋羹上才不糊口。",
+      "visual_cue": "臊子浓稠，能挂住勺"
+    },
+    {
+      "n": 7,
+      "text": "把臊子浇在蒸好的蛋羹上，撒上小葱花开吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热浇上臊子，蛋羹吸味会更足。",
+      "visual_cue": "臊子铺面，葱花点缀"
+    }
+  ],
+  "tips": [
+    "蛋液里加温水，蒸出来的蛋羹才嫩滑。",
+    "过筛并盖住碗口，表面才光滑没有蜂窝。",
+    "中小火慢蒸并关火焖三分钟，蛋羹更细腻。"
+  ],
+  "common_mistakes": [
+    "直接加冷水又大火蒸，蛋羹全是蜂窝。",
+    "没盖住碗口，水汽滴进去表面坑坑洼洼。",
+    "蒸过头，蛋羹变硬出现水蛋分离。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉馅",
+      "substitute": "牛肉馅",
+      "ratio": "120 克:120 克",
+      "note": "风味更浓，需多加一点油。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "木耳",
+      "ratio": "30 克:30 克",
+      "note": "口感更脆，泡发后切末。"
+    }
+  ],
+  "variations": [
+    "臊子里加一点豆瓣酱，咸香更浓。",
+    "撒少许白胡椒粉，暖胃又能去腥。"
+  ],
+  "serving_suggestion": "配一碗白饭或者夹进热馒头里，是西北人家里最常见的早饭。",
+  "storage": "冷藏一天，复热隔水蒸五分钟；臊子可单独冷藏两天。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 220,
+    "protein_g": 15,
+    "fat_g": 16,
+    "carbs_g": 5,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋与猪肉，须蒸至中心完全凝固熟透；鸡蛋过敏者须避免；剩菜冷藏一天内彻底加热。"
+  ],
+  "origin_note": "西北人把炒好的肉末臊子浇在蒸蛋上，蛋羹嫩滑配上咸香的臊子，一勺就能拌下一碗饭，是家里最常见的早饭。",
+  "tags": [
+    "西北",
+    "早餐",
+    "鸡蛋",
+    "蒸菜"
+  ],
+  "related_ids": [
+    "yangrou-paomo",
+    "xibei-liangpi",
+    "shaanxi-saozi-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

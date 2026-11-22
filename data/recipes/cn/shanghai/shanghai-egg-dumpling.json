@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shanghai-egg-dumpling",
+  "name": {
+    "zh": "上海蛋饺",
+    "en": "Shanghai Egg Dumplings",
+    "original": "蛋饺"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 30,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 6,
+          "unit": "piece",
+          "note": "打散做蛋皮",
+          "optional": false
+        },
+        {
+          "name": "猪肉馅",
+          "name_en": "minced pork",
+          "amount": 250,
+          "unit": "g",
+          "note": "肥瘦相间",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "蛋液增韧",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎蛋皮",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调蛋液",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "汤勺",
+    "大碗",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋打散，加入清水、淀粉和一小撮盐，搅到没有蛋筋。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "蛋液里加淀粉，煎出来的蛋皮才不易破。",
+      "visual_cue": "蛋液顺滑，看不到明显结块"
+    },
+    {
+      "n": 2,
+      "text": "猪肉馅加生抽、料酒、盐，顺一个方向搅到发黏上劲。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉馅搅到上劲，包的时候才不会散开。",
+      "visual_cue": "肉馅黏稠，能抱成一团"
+    },
+    {
+      "n": 3,
+      "text": "拌入香菇末和小葱末，再搅匀成蛋饺的馅料。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "配料最后拌，避免肉馅出水变稀。",
+      "visual_cue": "馅料细腻，颜色均匀"
+    },
+    {
+      "n": 4,
+      "text": "平底锅刷一层薄薄的植物油小火加热，舀一勺蛋液摊成小圆饼。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "平底锅一定先烧热再刷油，蛋皮才摊得开。",
+      "visual_cue": "蛋皮薄而完整，边缘微卷"
+    },
+    {
+      "n": 5,
+      "text": "蛋皮半凝固时放一小勺肉馅在一侧，用铲子对折压边。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "半凝固时对折，蛋皮才能粘住封口。",
+      "visual_cue": "对折后呈半月形，封口紧实"
+    },
+    {
+      "n": 6,
+      "text": "做好的蛋饺一只只码进盘里，全部做完大约十二只。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "动作要快，蛋皮凉了就折不起来了。",
+      "visual_cue": "蛋饺排列整齐，色泽金黄"
+    },
+    {
+      "n": 7,
+      "text": "蛋饺上锅大火蒸十分钟，蒸到肉馅完全熟透。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "蒸够时间，肉馅的中心才会完全熟透。",
+      "visual_cue": "蛋饺鼓起，肉馅紧实"
+    },
+    {
+      "n": 8,
+      "text": "另起锅烧一点清水加生抽勾薄芡，浇在蛋饺上即可。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "淋薄芡让蛋饺表面泛亮，味道也更匀。",
+      "visual_cue": "蛋饺表面油亮，芡汁透明"
+    }
+  ],
+  "tips": [
+    "蛋液里加一点淀粉，蛋皮煎的时候才不容易破。",
+    "锅热而油少，蛋皮才能摊得薄又圆。",
+    "蛋皮半凝固时对折，封口才能粘得牢。"
+  ],
+  "common_mistakes": [
+    "蛋液里没加淀粉，蛋皮一折就裂开。",
+    "锅太凉蛋皮粘锅，铲起来全是碎的。",
+    "蛋皮全凝固才放馅，封口根本粘不上。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉馅",
+      "substitute": "鸡肉馅",
+      "ratio": "250 克:250 克",
+      "note": "更清爽，需多加一点油。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "荸荠",
+      "ratio": "40 克:60 克",
+      "note": "口感更脆，甜味更明显。"
+    }
+  ],
+  "variations": [
+    "蛋饺加高汤和白菜一起煮，就是上海人的全家福汤。",
+    "馅里加一点虾仁丁，鲜味会更加突出。"
+  ],
+  "serving_suggestion": "蒸好直接吃，或者放进砂锅和高汤、粉丝一起煮成汤菜。",
+  "storage": "冷藏两天，冷冻两周；冷冻后直接下汤煮，不需解冻。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 320,
+    "protein_g": 22,
+    "fat_g": 23,
+    "carbs_g": 6,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋与猪肉，须蒸至中心完全熟透；鸡蛋与猪肉过敏者须避免；剩菜冷藏两天内彻底加热。"
+  ],
+  "origin_note": "上海人家过年必备的一道年菜，用蛋液摊成小皮包住肉馅，一个个金黄像元宝，寓意招财进宝，冷了还能下汤煮着吃。",
+  "tags": [
+    "上海",
+    "家常菜",
+    "鸡蛋",
+    "肉馅"
+  ],
+  "related_ids": [
+    "sikai-kaofu",
+    "youbao-xia",
+    "shanghai-hongshao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

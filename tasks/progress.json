@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:00:30.416Z",
+  "generatedAt": "2026-11-22T05:14:30.751Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 581,
     "target": 3274,
-    "actual": 1161,
-    "coverage": 0.3546120952962737
+    "actual": 1167,
+    "coverage": 0.3564447159437996
   },
   "regions": {
     "cn": [
@@ -1368,7 +1368,7 @@
         "en": "Shanghai",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
@@ -1431,8 +1431,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "shanghai-egg-dumpling"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -1469,7 +1471,7 @@
         "en": "Northeastern",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-vegetable",
@@ -1523,8 +1525,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "dongbei-chive-egg-pancake"
+            ]
           },
           {
             "category": "main-tofu",
@@ -1569,7 +1573,7 @@
         "en": "Northwestern",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "staple-noodle",
@@ -1632,8 +1636,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "xibei-steamed-egg-custard"
+            ]
           },
           {
             "category": "cold-dish",
@@ -1754,7 +1760,7 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-meat",
@@ -1811,8 +1817,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "hakka-stir-fried-gai-lan"
+            ]
           },
           {
             "category": "main-egg",
@@ -2028,7 +2036,7 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 14,
         "cells": [
           {
             "category": "main-seafood",
@@ -2091,8 +2099,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "hongkong-soy-pan-fried-tofu"
+            ]
           },
           {
             "category": "cold-dish",
@@ -2129,7 +2139,7 @@
         "en": "Xinjiang",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -2183,8 +2193,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "xinjiang-tomato-pepper-salad"
+            ]
           },
           {
             "category": "main-egg",
