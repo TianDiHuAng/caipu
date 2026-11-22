@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "irish-fish-pie",
+  "name": {
+    "zh": "爱尔兰鱼肉派",
+    "en": "Irish Fish Pie",
+    "original": "Fish Pie"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "irish"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 35,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳕鱼",
+          "name_en": "cod",
+          "amount": 500,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 600,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "煮鱼调酱",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "分两次用",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "做白汁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "平底锅",
+    "压泥器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆去皮切块下锅煮十五分钟，煮到筷子能扎透。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "土豆要煮到完全熟透，压出来的泥才够细。",
+      "visual_cue": "筷子轻松扎穿土豆块"
+    },
+    {
+      "n": 2,
+      "text": "鳕鱼切大块，放进牛奶里小火浸煮五分钟捞出。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "牛奶微沸就行，滚开会把鱼煮散。",
+      "visual_cue": "鱼肉变白定型，牛奶染上鱼香"
+    },
+    {
+      "n": 3,
+      "text": "煮鱼的牛奶留着备用，锅里放黄油化开后炒洋葱末。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "洋葱末炒到透明，白汁才不会有生味。",
+      "visual_cue": "洋葱末透明发亮，锅底微湿"
+    },
+    {
+      "n": 4,
+      "text": "撒入面粉小火炒两分钟，再慢慢倒入煮鱼的牛奶。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "牛奶分三次倒，边倒边搅才不会结块。",
+      "visual_cue": "面糊顺滑，舀起能挂糊"
+    },
+    {
+      "n": 5,
+      "text": "加入鱼肉和欧芹末，用盐和黑胡椒调味后关火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "鱼肉轻轻推匀，别用力翻以免碎掉。",
+      "visual_cue": "鱼肉块完整，酱汁浓稠"
+    },
+    {
+      "n": 6,
+      "text": "土豆趁热加剩余黄油压成泥，用盐和黑胡椒调味。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "土豆泥调得稠一些，铺面才不会塌。",
+      "visual_cue": "土豆泥细腻，能立住"
+    },
+    {
+      "n": 7,
+      "text": "把鱼肉混合物倒进烤盘，再把土豆泥均匀铺在表面。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "土豆泥用叉子划出纹路，烤完表面更脆。",
+      "visual_cue": "表面平整，有叉子纹路"
+    },
+    {
+      "n": 8,
+      "text": "烤箱预热两百度，烤二十分钟到表面金黄起泡。",
+      "time_min": 20,
+      "heat": "中大火",
+      "tip": "烤到表面结壳就够，烤久了鱼肉会干。",
+      "visual_cue": "表面金黄，边缘冒泡"
+    }
+  ],
+  "tips": [
+    "煮鱼用牛奶，鱼腥味会变成奶香。",
+    "牛奶分次倒入面糊，白汁才不会结块。",
+    "土豆泥铺面划纹路，烤完表面更酥。"
+  ],
+  "common_mistakes": [
+    "牛奶一次全倒入，白汁结成一坨疙瘩。",
+    "鱼肉用大火滚煮，肉全散成了碎渣。",
+    "土豆泥太稀，烤完表面塌陷出水。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳕鱼",
+      "substitute": "三文鱼",
+      "ratio": "500 克:500 克",
+      "note": "油脂更足，煮制时间减一分钟。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "200 毫升:200 毫升",
+      "note": "更浓郁，热量也更高。"
+    }
+  ],
+  "variations": [
+    "拌入一把煮熟的虾仁，海味会更足。",
+    "表面撒一层芝士丝，烤出焦香脆皮。"
+  ],
+  "serving_suggestion": "配焯过的青豆一起吃，一勺挖下去有鱼肉也有土豆泥。",
+  "storage": "冷藏两天，复热时用烤箱一百八十度烤十五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 430,
+    "protein_g": 30,
+    "fat_g": 20,
+    "carbs_g": 34,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鱼类、乳制品与麸质，过敏者须避免；鱼肉须煮至不透明熟透；剩菜冷藏两天内彻底加热。"
+  ],
+  "origin_note": "爱尔兰沿海人家的家常烤派，用牛奶煮鱼做成白汁，表面盖一层土豆泥烤到金黄，暖胃又管饱。",
+  "tags": [
+    "爱尔兰",
+    "鱼肉",
+    "烤箱",
+    "土豆泥"
+  ],
+  "related_ids": [
+    "irish-seafood-chowder",
+    "irish-beef-stew",
+    "irish-colcannon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}
