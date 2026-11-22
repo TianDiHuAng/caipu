@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-dan-tsat",
+  "name": {
+    "zh": "港式鸡蛋仔",
+    "en": "Hong Kong Egg Waffle"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "低筋面粉",
+          "name_en": "cake flour",
+          "amount": 180,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "约两个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 70,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 100,
+          "unit": "ml",
+          "note": "调糊",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "入糊与刷模",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "膨发",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "增加脆度",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调节稠度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "鸡蛋仔模具",
+    "打蛋盆",
+    "打蛋器",
+    "刷子",
+    "晾架"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋磕进打蛋盆，加白砂糖用打蛋器打到糖化开、蛋液微微发白。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "不用打发，糖化开就够，打太久反而起泡。",
+      "visual_cue": "蛋液均匀，盆底无糖粒"
+    },
+    {
+      "n": 2,
+      "text": "倒入牛奶、清水和一半植物油搅匀，液体要完全融合。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "油和液体要搅到看不见油花，否则烤出来有油斑。",
+      "visual_cue": "液体表面无浮油，颜色均匀"
+    },
+    {
+      "n": 3,
+      "text": "低筋面粉、玉米淀粉和泡打粉一起过筛进去，搅成顺滑无颗粒的面糊。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "用划圈的方式搅，别用力抽打防止起筋。",
+      "visual_cue": "面糊能挂住打蛋器缓慢流下"
+    },
+    {
+      "n": 4,
+      "text": "面糊盖好静置，让粉类充分吸水、气泡消掉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "这一步别省，静置过的糊烤出来更脆。",
+      "visual_cue": "面糊表面有小气泡破裂"
+    },
+    {
+      "n": 5,
+      "text": "鸡蛋仔模具两面刷上剩下的植物油，中火预热到滴水冒烟。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "模具要预热到位，不然第一底就粘。",
+      "visual_cue": "滴一滴水立刻滋响蒸发"
+    },
+    {
+      "n": 6,
+      "text": "面糊倒满模具的下半面，合上模具立刻翻面，中小火烤一分钟定型。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "面糊倒到边缘略溢出，成品才饱满。",
+      "visual_cue": "边缘冒白烟，模具缝隙渗出面糊"
+    },
+    {
+      "n": 7,
+      "text": "反复翻面烘烤，让两面受热均匀，烤到外壳金黄酥脆。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "每三十秒翻一次，别一直烤一面。",
+      "visual_cue": "外壳深金黄，闻到蛋香"
+    },
+    {
+      "n": 8,
+      "text": "开模用筷子挑起鸡蛋仔，放到晾架上散掉水汽。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "刚出炉别马上装袋，闷着会回软。",
+      "visual_cue": "一颗颗圆球饱满，外壳硬脆"
+    }
+  ],
+  "tips": [
+    "面糊静置后再烤，气泡消掉成品更脆。",
+    "模具预热和刷油都不能省，第一底最容易粘。",
+    "全程中小火反复翻面，避免一面焦一面生。"
+  ],
+  "common_mistakes": [
+    "面糊没静置就烤，成品蜂窝孔大小不一。",
+    "火太大，外壳黑了里面还是湿糊。",
+    "出炉立刻装袋，水汽闷回去变得软塌。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "100 毫升:100 毫升",
+      "note": "更清爽，奶香变淡，油可多加十毫升。"
+    },
+    {
+      "original": "白砂糖",
+      "substitute": "红糖粉",
+      "ratio": "70 克:70 克",
+      "note": "颜色更深，带焦糖风味，需过筛防结块。"
+    }
+  ],
+  "variations": [
+    "面糊里拌入巧克力豆，烤出爆浆颗粒。",
+    "加一勺抹茶粉，做成抹茶口味的绿色鸡蛋仔。"
+  ],
+  "serving_suggestion": "趁热掰成小份，配一杯冻奶茶就是最地道的街头下午茶。",
+  "storage": "常温放凉后密封保存一天，吃前用烤箱一百六十度复烤三分钟恢复脆壳。",
+  "nutrition_estimate": {
+    "basis": "每份约 180 克",
+    "calories_kcal": 420,
+    "protein_g": 9,
+    "fat_g": 16,
+    "carbs_g": 58,
+    "sodium_mg": 210,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "模具温度很高，开模和取饼时注意防烫；含蛋奶的成品冷藏不超过两天，复热要烤透。"
+  ],
+  "origin_note": "香港五十年代出现的街头小吃，最初用鸭蛋和面粉调糊，倒进蜂巢状铁模在炭火上烤，成品一颗颗圆球相连，外脆内软，是港式小食的代表之一。",
+  "tags": [
+    "香港",
+    "街头小吃",
+    "烘焙",
+    "蛋"
+  ],
+  "related_ids": [
+    "hongkong-bolo-bao",
+    "hongkong-egg-tart",
+    "hongkong-mango-pudding"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

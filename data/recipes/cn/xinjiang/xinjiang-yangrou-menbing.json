@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xinjiang-yangrou-menbing",
+  "name": {
+    "zh": "新疆羊肉焖饼",
+    "en": "Xinjiang Lamb with Braised Flatbread"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xinjiang"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 60,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "spicy",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 600,
+          "unit": "g",
+          "note": "带少许肥，切块",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "和面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "擀面杖",
+    "刀",
+    "砧板",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "中筋面粉倒进盆里，加一小撮盐拌匀，分次倒入温水，边倒边用筷子搅成絮状。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水别一次倒完，看面粉吸水情况增减。",
+      "visual_cue": "面絮均匀，盆底无干粉"
+    },
+    {
+      "n": 2,
+      "text": "揉成光滑面团，盖上保鲜膜静置，让面筋松弛下来。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "醒不到位擀的时候会缩回去，十五分钟不能少于这个数。",
+      "visual_cue": "面团按压缓慢回弹"
+    },
+    {
+      "n": 3,
+      "text": "羊肉块冷水下锅焯去血沫，捞出用温水冲净表面浮沫。",
+      "time_min": 12,
+      "heat": "中大火",
+      "tip": "焯水后再冲一遍表面浮沫，汤才清不发腥。",
+      "visual_cue": "羊肉表面变白，无血水渗出"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放植物油烧热，下姜片和洋葱丝炒出香味，倒入羊肉块翻炒上色。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "羊肉要炒到边缘微焦，香味才足。",
+      "visual_cue": "羊肉边缘金黄，洋葱变软"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、孜然粉和盐炒匀，放入番茄、土豆和胡萝卜，倒入清水没过食材。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "清水要一次加够，中途加水冲淡味道。",
+      "visual_cue": "汤汁沸腾，番茄开始化开"
+    },
+    {
+      "n": 6,
+      "text": "转小火盖盖炖到羊肉软烂，土豆边缘发粉，汤汁收浓一半。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "保持汤汁微沸，火大容易糊底，中途别大力翻。",
+      "visual_cue": "羊肉能用筷子轻松插入"
+    },
+    {
+      "n": 7,
+      "text": "面团分成三份，擀成和锅口差不多大的薄饼，厚薄要均匀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "饼擀得薄一点更容易吸汤，厚了里面会夹生。",
+      "visual_cue": "饼厚约三毫米，边缘圆整"
+    },
+    {
+      "n": 8,
+      "text": "把薄饼铺在炖好的羊肉上，盖盖用小火焖到饼身鼓起变半透明。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "饼盖上去就别翻动，让蒸汽把它熏熟。",
+      "visual_cue": "饼面鼓起，边缘卷起"
+    },
+    {
+      "n": 9,
+      "text": "揭盖把饼切成菱形块，翻拌进汤汁里，收一收汤水出锅装盘。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "收汁别收干，饼要挂得住汤才好吃，汤汁留两成。",
+      "visual_cue": "汤汁挂勺，饼块吸饱酱色"
+    }
+  ],
+  "tips": [
+    "面团要揉到位并醒足，擀饼才不缩边。",
+    "羊肉先焯水再下锅炒，膻味去得更干净。",
+    "薄饼铺上后全程小火，靠蒸汽焖熟。"
+  ],
+  "common_mistakes": [
+    "面没醒够就擀，饼一入锅就缩成一团。",
+    "大火焖饼，锅底已经糊了饼还夹着生。",
+    "清水加太少，焖到一半就没汤了。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "带骨羊排",
+      "ratio": "600 克:700 克",
+      "note": "带骨更香，炖的时间要延长十分钟。"
+    },
+    {
+      "original": "中筋面粉",
+      "substitute": "全麦面粉",
+      "ratio": "400 克:400 克",
+      "note": "麦香更重，吸水性略强，水要多加一点。"
+    }
+  ],
+  "variations": [
+    "起锅前撒一把青椒块，多一层清辣。",
+    "加几粒花椒同炒，麻香更贴近南疆口味。"
+  ],
+  "serving_suggestion": "连锅端上桌，饼块压在羊肉上，浇一勺汤汁再吃。",
+  "storage": "冷藏一天，回锅加少许清水小火复热，饼块会重新吸汤变软。",
+  "nutrition_estimate": {
+    "basis": "每份约 420 克",
+    "calories_kcal": 560,
+    "protein_g": 32,
+    "fat_g": 22,
+    "carbs_g": 58,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉必须彻底炖熟，中心不再带血水；剩菜冷藏不超过一天，复热要烧滚。"
+  ],
+  "origin_note": "新疆北疆一带的家常吃法，先把羊肉和土豆炖出浓汤，再把擀薄的饼铺在肉上焖熟，饼吸了肉汁比肉还香，一锅就能当饭。",
+  "tags": [
+    "新疆",
+    "羊肉",
+    "焖",
+    "面食"
+  ],
+  "related_ids": [
+    "xinjiang-dapanji",
+    "xinjiang-zhuafan",
+    "xinjiang-laghman"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}
