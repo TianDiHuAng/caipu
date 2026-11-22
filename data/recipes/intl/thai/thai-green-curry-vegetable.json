@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-green-curry-vegetable",
+  "name": {
+    "zh": "泰式绿咖喱蔬菜",
+    "en": "Thai Green Vegetable Curry",
+    "original": "Kaeng Khiao Wan Phak"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 22,
+    "total_min": 42
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "umami",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 350,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "绿咖喱酱",
+          "name_en": "green curry paste",
+          "amount": 50,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 400,
+          "unit": "ml",
+          "note": "分两次用",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切菱形块",
+          "optional": false
+        },
+        {
+          "name": "泰国罗勒",
+          "name_en": "Thai basil",
+          "amount": 20,
+          "unit": "g",
+          "note": "取叶片",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒酱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "泡茄子",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子切成滚刀块，泡在加了盐的清水里防止变黑。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "茄子泡过盐水，下锅才不会吸太多油。",
+      "visual_cue": "茄子块沉在水底，水色微浑"
+    },
+    {
+      "n": 2,
+      "text": "青椒去籽切成菱形块，泰国罗勒摘下叶子洗净。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "罗勒叶一定要最后才放，久煮会发黑发苦。",
+      "visual_cue": "青椒块大小均匀，叶子完整"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油烧热，下绿咖喱酱小火炒出香味。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "咖喱酱要用油炒过，香气才出得来。",
+      "visual_cue": "酱料散开，锅中有浓烈香气"
+    },
+    {
+      "n": 4,
+      "text": "倒入一半椰奶，小火煮到表面浮出红色油花。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "椰奶煮到出油，酱汁才算炒到位。",
+      "visual_cue": "表面浮起一层红色油花"
+    },
+    {
+      "n": 5,
+      "text": "放入沥干的茄子块翻炒三分钟，让它裹上咖喱酱。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "茄子要沥干水分再下锅，带水下锅会溅油。",
+      "visual_cue": "茄子表面均匀裹上绿色酱"
+    },
+    {
+      "n": 6,
+      "text": "倒入剩下的椰奶和清水，小火煮十分钟至茄子变软。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "小火慢煮，茄子才软糯而不烂成泥。",
+      "visual_cue": "茄子软塌，汤汁浓稠"
+    },
+    {
+      "n": 7,
+      "text": "加入青椒块、鱼露和白糖，继续煮上两分钟。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "鱼露已经够咸，盐要少放或不放。",
+      "visual_cue": "青椒转深绿，汤汁微滚"
+    },
+    {
+      "n": 8,
+      "text": "关火后放入泰国罗勒叶，轻轻拌匀即可出锅装盘。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "罗勒关火后再放，香气和颜色都保得住。",
+      "visual_cue": "罗勒叶塌软变深绿，香气扑鼻"
+    }
+  ],
+  "tips": [
+    "咖喱酱先用油炒香，味道才不会寡淡。",
+    "椰奶分两次加，第一次煮出油再补第二次。",
+    "罗勒叶关火后放，香气保留得最完整。"
+  ],
+  "common_mistakes": [
+    "咖喱酱直接兑水煮，香气散尽还有生味。",
+    "茄子没泡盐水，下锅吸油又发黑。",
+    "罗勒久煮，叶子发黑发苦毁掉整锅。"
+  ],
+  "substitutions": [
+    {
+      "original": "绿咖喱酱",
+      "substitute": "红咖喱酱",
+      "ratio": "50 克:50 克",
+      "note": "辣度更高，糖可多加五克。"
+    },
+    {
+      "original": "茄子",
+      "substitute": "西葫芦",
+      "ratio": "350 克:350 克",
+      "note": "更易软烂，煮制时间减三分钟。"
+    }
+  ],
+  "variations": [
+    "加一把四季豆同煮，口感更丰富。",
+    "放几块油豆腐，吸饱咖喱汁很下饭。"
+  ],
+  "serving_suggestion": "配泰式香米饭一起吃，把咖喱汁浇在饭上。",
+  "storage": "冷藏两天，复热时补少量椰奶；咖喱隔夜更入味。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 310,
+    "protein_g": 7,
+    "fat_g": 24,
+    "carbs_g": 18,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鱼类制品，鱼类过敏者须避免；咖喱酱含盐较高，高血压人群适量；剩菜冷藏两天内彻底加热。"
+  ],
+  "origin_note": "泰国中部的家常咖喱，用绿咖喱酱配茄子慢火炖煮，椰奶的甜和咖喱的辣互相平衡，吃素也能很满足。",
+  "tags": [
+    "泰国",
+    "咖喱",
+    "蔬菜",
+    "素食"
+  ],
+  "related_ids": [
+    "thai-green-curry-chicken",
+    "thai-goong-pad-khing",
+    "som-tam"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-acqua-pazza",
+  "name": {
+    "zh": "意式水煮鱼",
+    "en": "Italian Acqua Pazza",
+    "original": "Acqua Pazza"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳕鱼",
+          "name_en": "cod",
+          "amount": 400,
+          "unit": "g",
+          "note": "切四厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 300,
+          "unit": "g",
+          "note": "提前吐沙",
+          "optional": false
+        },
+        {
+          "name": "樱桃番茄",
+          "name_en": "cherry tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "对半切",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 100,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鳕鱼切成四厘米见方的大块，用厨房纸吸干表面水分。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "鱼块别切太小，下锅煮的时候才不容易散。",
+      "visual_cue": "鱼块方整，表面干爽无水分"
+    },
+    {
+      "n": 2,
+      "text": "蛤蜊放进盐水里泡二十分钟，让它把沙子吐干净。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡蛤蜊的水里加一勺盐，吐沙会更快。",
+      "visual_cue": "水底沉着一层细沙"
+    },
+    {
+      "n": 3,
+      "text": "樱桃番茄对半切开，大蒜切成薄片，欧芹切成细末。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "欧芹只用叶子部分，梗太硬会影响口感。",
+      "visual_cue": "番茄切面平整，蒜片薄而均匀"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒入橄榄油烧热，下大蒜片用中火炒出香味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "蒜片一定要小火慢炒，焦了整锅都会发苦。",
+      "visual_cue": "蒜片边缘微黄，香气散出"
+    },
+    {
+      "n": 5,
+      "text": "放入樱桃番茄翻炒两分钟，炒到番茄皮微微起皱。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄炒到起皱，汁水才会渗进汤里。",
+      "visual_cue": "番茄皮起皱，锅底有红色汤汁"
+    },
+    {
+      "n": 6,
+      "text": "倒入白葡萄酒和清水，大火烧开后加盐和黑胡椒。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "白葡萄酒要烧开一会儿，让酒气彻底挥发。",
+      "visual_cue": "汤面大滚，酒气散尽"
+    },
+    {
+      "n": 7,
+      "text": "下鳕鱼块和蛤蜊，盖盖用小火煮八分钟到蛤蜊开口。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "蛤蜊全部开口就是熟了，没开口的要挑出来扔掉。",
+      "visual_cue": "蛤蜊张壳，鱼肉由透明变白"
+    },
+    {
+      "n": 8,
+      "text": "把切好的欧芹末撒在表面，直接连锅端上桌趁热吃。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "欧芹最后撒，颜色和香气才留得住。",
+      "visual_cue": "表面撒满绿色碎末，汤色清亮"
+    }
+  ],
+  "tips": [
+    "鱼块别切太小，下锅后容易散成碎渣。",
+    "白葡萄酒要烧开让酒气挥发，只剩果香。",
+    "没开口的蛤蜊直接挑出，不要硬吃。"
+  ],
+  "common_mistakes": [
+    "鱼块下锅后大火猛煮，肉散汤浑。",
+    "蒜片炒到焦黑，整锅汤带着苦味。",
+    "蛤蜊没提前吐沙，吃起来满口沙粒。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳕鱼",
+      "substitute": "鲈鱼",
+      "ratio": "400 克:400 克",
+      "note": "肉质更紧，煮制时间加两分钟。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "料酒",
+      "ratio": "100 毫升:60 毫升",
+      "note": "酒味更重，可减量使用。"
+    }
+  ],
+  "variations": [
+    "再放几只虾一起煮，汤的鲜味会更加充足。",
+    "喜欢辣可以放两根干辣椒同煮，味道更冲。"
+  ],
+  "serving_suggestion": "连锅上桌，配烤面包片蘸汤吃，汤汁别浪费。",
+  "storage": "冷藏一天，复热时小火加热至沸腾；蛤蜊不宜反复加热。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 230,
+    "protein_g": 30,
+    "fat_g": 11,
+    "carbs_g": 6,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "mollusk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鱼类和贝类，过敏者须避免；蛤蜊须煮至开壳熟透，未开壳的不可食用；剩菜冷藏一天内彻底加热。"
+  ],
+  "origin_note": "意大利那不勒斯渔民的海上做法，只用清水、番茄和白葡萄酒煮鱼，靠蛤蜊提鲜，汤清味浓。",
+  "tags": [
+    "意大利",
+    "海鲜",
+    "鳕鱼",
+    "清汤"
+  ],
+  "related_ids": [
+    "italian-lasagna",
+    "bruschetta",
+    "caprese-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}
