@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "taiwan-danzai-noodle",
+  "name": {
+    "zh": "台南担仔面",
+    "en": "Taiwanese Danzai Noodles",
+    "original": "Danzai Mian"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "staple-noodle",
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 200,
+          "unit": "g",
+          "note": "细面",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "做肉燥",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 100,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "垫底",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "焖肉燥与做汤",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "漏勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "炒锅放植物油，下大蒜末小火炒到边缘微微发黄。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蒜末炒黄就够，焦了整锅会发苦。",
+      "visual_cue": "蒜末金黄，油带蒜香"
+    },
+    {
+      "n": 2,
+      "text": "倒入猪肉末中火煸炒，炒到肉色变白且颗粒散开。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉末要炒散，别让它们结成一团大块。",
+      "visual_cue": "肉末松散，锅里有油光"
+    },
+    {
+      "n": 3,
+      "text": "加生抽、料酒和白糖炒匀，倒入一半清水焖十分钟。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "加水后小火焖，肉燥才入味不干柴。",
+      "visual_cue": "肉燥油亮，汤汁浓稠"
+    },
+    {
+      "n": 4,
+      "text": "另起汤锅烧开水，把面条下锅煮到刚刚断生为止。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "面煮到中间还有一点白芯就捞，泡汤才不烂。",
+      "visual_cue": "面条能夹断，中心略有白点"
+    },
+    {
+      "n": 5,
+      "text": "同一锅水烫熟豆芽和虾仁，各烫一分钟捞出。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "虾仁变红卷曲就捞，久煮会变硬。",
+      "visual_cue": "虾仁卷曲变红，豆芽脆挺"
+    },
+    {
+      "n": 6,
+      "text": "碗底放豆芽，放上面条，浇上肉燥再加盐调味。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "清水烧开再浇，汤面清爽不油腻。",
+      "visual_cue": "汤面有油花，肉燥铺在中央"
+    },
+    {
+      "n": 7,
+      "text": "摆上虾仁，撒大蒜末和香菜，趁热拌匀就可以开吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "上桌前再撒香菜，香气最足也最好看。",
+      "visual_cue": "虾仁红亮，香菜翠绿"
+    }
+  ],
+  "tips": [
+    "肉燥小火焖十分钟，味道才渗进肉里。",
+    "面条煮到略硬就捞，泡汤后口感刚好。",
+    "虾仁烫到卷曲立刻捞出，久煮发硬。"
+  ],
+  "common_mistakes": [
+    "肉末下锅不炒散，最后结成一团大块。",
+    "面煮太软再泡汤，端上桌就烂了。",
+    "汤底全用焖肉燥的浓汁，整碗油腻发腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "鸡肉末",
+      "ratio": "150 克:150 克",
+      "note": "更清爽，需多加五毫升生抽。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "鲜虾",
+      "ratio": "100 克:150 克",
+      "note": "需自行剥壳去虾线。"
+    }
+  ],
+  "variations": [
+    "加一颗卤蛋和几片贡丸，做成更丰盛的版本。",
+    "汤底换成大骨高汤，整体鲜味会更厚一些。"
+  ],
+  "serving_suggestion": "趁热吃，配一碟烫青菜和卤蛋就是台南的一餐。",
+  "storage": "肉燥冷藏三天，面条现煮现吃不宜存放。",
+  "nutrition_estimate": {
+    "basis": "每份约 420 克",
+    "calories_kcal": 560,
+    "protein_g": 32,
+    "fat_g": 18,
+    "carbs_g": 66,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质、甲壳类与大豆，过敏者须避免；肉类与虾仁须彻底加热至熟透；肉燥冷藏三天内彻底复热。"
+  ],
+  "origin_note": "台南街头传承百年的小碗面，肉燥用蒜末慢焖出香，汤底清而鲜，一碗量不大，正好当点心吃。",
+  "tags": [
+    "台湾",
+    "面条",
+    "肉燥",
+    "台南"
+  ],
+  "related_ids": [
+    "lurou-fan",
+    "taiwan-beef-noodle",
+    "taiwan-shrimp-omelet"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

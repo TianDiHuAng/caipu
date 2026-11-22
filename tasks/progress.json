@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:06:42.904Z",
+  "generatedAt": "2026-11-22T06:25:29.851Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1186,
-    "coverage": 0.3622480146609652
+    "actual": 1195,
+    "coverage": 0.3649969456322541
   },
   "regions": {
     "cn": [
@@ -1940,7 +1940,7 @@
         "en": "Taiwanese",
         "tier": "B",
         "target": 38,
-        "actual": 15,
+        "actual": 17,
         "cells": [
           {
             "category": "snack",
@@ -1968,8 +1968,9 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "taiwan-danzai-noodle",
               "taiwan-sanbei-zhongjiao",
               "taiwan-shrimp-omelet"
             ]
@@ -2023,9 +2024,10 @@
             "category": "staple-noodle",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "taiwan-beef-noodle"
+              "taiwan-beef-noodle",
+              "taiwan-danzai-noodle"
             ]
           }
         ]
@@ -2231,19 +2233,20 @@
         "en": "Chinese Halal",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 15,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "halal-cn-hongshao-niurou",
               "halal-cn-hongshao-yangrou",
               "halal-cn-lamb-skewers",
               "halal-cn-niurou-dun-tudou",
               "halal-cn-niurou-lamian",
+              "halal-cn-shouzhua-yangrou",
               "shuipen-yangrou"
             ]
           },
@@ -2281,8 +2284,10 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "halal-cn-shouzhua-yangrou"
+            ]
           },
           {
             "category": "main-vegetable",
@@ -2387,18 +2392,19 @@
         "en": "Inner Mongolian",
         "tier": "C",
         "target": 25,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "mongolian-buuz",
               "mongolian-huushuur",
               "mongolian-khorkhog",
               "mongolian-lamb-potato-stew",
+              "mongolian-lamb-ribs",
               "mongolian-lamb-soup",
               "mongolian-tsuivan",
               "shouba-rou"
@@ -3487,7 +3493,7 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 12,
         "cells": [
           {
             "category": "staple-rice",
@@ -3533,8 +3539,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "indonesian-klepon",
               "indonesian-pisang-goreng"
             ]
           },
@@ -4874,7 +4881,7 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 13,
         "cells": [
           {
             "category": "main-seafood",
@@ -4890,10 +4897,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "nordic-cardamom-buns",
-              "nordic-kladdkaka"
+              "nordic-kladdkaka",
+              "nordic-smorrebrod"
             ]
           },
           {
@@ -4919,9 +4927,10 @@
             "category": "breakfast",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "nordic-oat-porridge"
+              "nordic-oat-porridge",
+              "nordic-smorrebrod"
             ]
           },
           {
@@ -6179,7 +6188,7 @@
         "en": "East African",
         "tier": "C",
         "target": 25,
-        "actual": 14,
+        "actual": 15,
         "cells": [
           {
             "category": "main-meat",
@@ -6214,9 +6223,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "east-african-cabbage-stew",
+              "east-african-githeri",
               "east-african-ugali-sukuma-wiki"
             ]
           },

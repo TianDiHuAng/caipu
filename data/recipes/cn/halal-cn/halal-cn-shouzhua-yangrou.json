@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-shouzhua-yangrou",
+  "name": {
+    "zh": "清真手抓羊肉",
+    "en": "Hand-Grabbed Lamb",
+    "original": "Shouzha Yangrou"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "main-meat",
+    "banquet"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 95,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊排",
+          "name_en": "lamb chops",
+          "amount": 800,
+          "unit": "g",
+          "note": "斩大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 50,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "去膻",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "做蘸汁",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "做蘸汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "刀",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊排斩成大块，用清水浸泡二十分钟逼出血水。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡出血水，煮出来的汤才清亮不腥。",
+      "visual_cue": "水面浮出血沫，羊排发白"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，加料酒和姜片煮开，撇净浮沫后捞出。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "必须冷水下锅，血沫才会随温度慢慢逼出。",
+      "visual_cue": "浮沫撇净，汤面清亮"
+    },
+    {
+      "n": 3,
+      "text": "羊排重新放回汤锅，加入足量清水和小葱结。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "水一次加够，中途加水汤味会变淡。",
+      "visual_cue": "羊排完全浸在水下"
+    },
+    {
+      "n": 4,
+      "text": "放入花椒和八角，大火烧开以后转成小火慢煮。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "香料别放多，压过羊味就失了本味。",
+      "visual_cue": "汤面微滚，香料浮在表面"
+    },
+    {
+      "n": 5,
+      "text": "用小火煮四十分钟，中途撇两次浮油和浮沫。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "火要小到汤面只冒小泡，肉才酥而不散。",
+      "visual_cue": "羊排酥软，汤色乳白"
+    },
+    {
+      "n": 6,
+      "text": "加盐再煮十分钟，让咸味慢慢渗到肉块里面。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "盐要最后再放，肉才更容易酥烂入味。",
+      "visual_cue": "汤有咸味，肉块微缩"
+    },
+    {
+      "n": 7,
+      "text": "大蒜切末加生抽调成蘸汁，羊排捞出趁热上桌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蘸汁不要加醋，会盖掉羊排本身的鲜味。",
+      "visual_cue": "羊排堆盘，配小碗蘸汁"
+    }
+  ],
+  "tips": [
+    "羊排冷水下锅焯水，血沫才逼得干净。",
+    "全程用小火慢煮，肉酥烂又不至于散形。",
+    "盐最后十分钟放，肉质更容易酥软。"
+  ],
+  "common_mistakes": [
+    "热水下锅焯，血沫锁在肉里带腥味。",
+    "全程大火滚煮一小时，肉柴汤还发浑。",
+    "盐一开始就放，肉煮两小时还发硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊排",
+      "substitute": "羊腿肉",
+      "ratio": "800 克:800 克",
+      "note": "更瘦，煮制时间减十分钟。"
+    },
+    {
+      "original": "花椒",
+      "substitute": "白胡椒粒",
+      "ratio": "5 克:5 克",
+      "note": "去膻弱一些，香气更柔和。"
+    }
+  ],
+  "variations": [
+    "煮好撒一层椒盐再干烤十分钟，外焦里嫩。",
+    "汤里加白萝卜同煮，整锅汤会更清甜。"
+  ],
+  "serving_suggestion": "手抓着吃最地道，配一碟蘸汁和一碗羊排汤。",
+  "storage": "冷藏三天，复热时连汤一起小火煮十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 克",
+    "calories_kcal": 520,
+    "protein_g": 38,
+    "fat_g": 38,
+    "carbs_g": 2,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须彻底煮透，中心不见血水；汤锅煮制过程不要加盖焖压过久以免溢锅；剩菜冷藏三天内彻底加热。"
+  ],
+  "origin_note": "西北清真馆子的招牌大菜，只用盐和几味香料清水煮羊排，讲究肉酥汤清，吃的就是羊排本身的鲜。",
+  "tags": [
+    "清真",
+    "羊肉",
+    "清炖",
+    "宴客"
+  ],
+  "related_ids": [
+    "halal-cn-hongshao-yangrou",
+    "shuipen-yangrou",
+    "halal-cn-lamb-skewers"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mongolian-lamb-ribs",
+  "name": {
+    "zh": "蒙古式焖羊排",
+    "en": "Mongolian Lamb Ribs",
+    "original": "Khorkhog Style Ribs"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "mongolian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 65,
+    "total_min": 85
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊排",
+          "name_en": "lamb chops",
+          "amount": 800,
+          "unit": "g",
+          "note": "斩段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "腌肉",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "平底锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊排用盐和黑胡椒抹匀，静置二十分钟入味。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "腌够二十分钟，羊排的膻味会淡很多。",
+      "visual_cue": "羊排表面均匀挂上调料"
+    },
+    {
+      "n": 2,
+      "text": "土豆和胡萝卜切成大块，洋葱切成粗丝备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "块切大一点，焖久了才不会烂成泥。",
+      "visual_cue": "块形完整，边长约三厘米"
+    },
+    {
+      "n": 3,
+      "text": "平底锅放植物油烧热，羊排下锅两面各煎三分钟。",
+      "time_min": 6,
+      "heat": "中大火",
+      "tip": "煎出焦壳再焖，肉香才锁得住不外泄。",
+      "visual_cue": "表面焦褐，锅底有褐色焦痕"
+    },
+    {
+      "n": 4,
+      "text": "把羊排移到炖锅，用锅里余油炒香洋葱和大蒜。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒软出甜味，能中和羊排的膻。",
+      "visual_cue": "洋葱透明，蒜香四溢"
+    },
+    {
+      "n": 5,
+      "text": "加入土豆块和胡萝卜块翻炒两分钟，再撒盐翻匀。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蔬菜先裹油，焖的时候不易糊底。",
+      "visual_cue": "蔬菜表面裹上一层油光"
+    },
+    {
+      "n": 6,
+      "text": "倒入清水没过食材一半，大火烧开后转小火。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "清水别加满，焖好要收成浓汁才对。",
+      "visual_cue": "液面约到食材一半高"
+    },
+    {
+      "n": 7,
+      "text": "盖盖小火焖三十五分钟，中途翻动一次防粘。",
+      "time_min": 35,
+      "heat": "小火",
+      "tip": "中途翻一次，受热均匀也不会糊底。",
+      "visual_cue": "羊排酥软，汤汁减少一半"
+    },
+    {
+      "n": 8,
+      "text": "开盖转中火把汤汁收浓，撒上小葱段即可上桌。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "收汁要勤翻动，让羊排均匀裹上浓汁。",
+      "visual_cue": "汤汁浓稠挂勺，肉面油亮"
+    }
+  ],
+  "tips": [
+    "羊排先煎出焦壳，再焖香气才够足。",
+    "蔬菜块切得大一些，久焖也不会烂碎。",
+    "收汁时勤翻动，让每块羊排都裹上浓汁。"
+  ],
+  "common_mistakes": [
+    "羊排不煎直接下水，肉香淡还带着腥气。",
+    "清水加得太多，最后变成一锅清汤。",
+    "全程大火快焖，羊排发柴蔬菜还糊底。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊排",
+      "substitute": "羊腿肉",
+      "ratio": "800 克:800 克",
+      "note": "更瘦，焖制时间减八分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "山药",
+      "ratio": "300 克:300 克",
+      "note": "口感更粉，焖制时间减五分钟。"
+    }
+  ],
+  "variations": [
+    "加两勺酸奶腌肉，膻味更淡肉质更嫩。",
+    "撒一把孜然粒同焖，草原风味会更浓。"
+  ],
+  "serving_suggestion": "连锅端上桌配手抓饼，用汤汁蘸饼最香。",
+  "storage": "冷藏两天，复热时加少量水小火焖八分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 610,
+    "protein_g": 40,
+    "fat_g": 42,
+    "carbs_g": 18,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊排须焖至中心熟透不见血水；炖锅盖要留缝排气，避免溢锅烫伤；剩菜冷藏两天内彻底加热。"
+  ],
+  "origin_note": "蒙古草原上待客的焖羊排做法，用盐和黑胡椒打底，配土豆胡萝卜一锅焖透，肉酥汁浓最适合配饼吃。",
+  "tags": [
+    "蒙古",
+    "羊排",
+    "焖菜",
+    "草原"
+  ],
+  "related_ids": [
+    "mongolian-khorkhog",
+    "mongolian-lamb-potato-stew",
+    "mongolian-lamb-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-22",
+  "updated_at": "2026-11-22"
+}

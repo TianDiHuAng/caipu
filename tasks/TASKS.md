@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-22T06:06:42.988Z
+> 生成时间：2026-11-22T06:25:29.920Z
 
-**总览**：工程任务 49/53；菜谱内容 1186/3274（36.2%），共 591 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1195/3274（36.5%），共 591 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（510/1339）
+### 中国菜系（515/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，65/107</summary>
 
@@ -330,17 +330,17 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>台湾菜 taiwan</b> — B 级，15/38</summary>
+<details><summary><b>台湾菜 taiwan</b> — B 级，17/38</summary>
 
 - [ ] `P4-taiwan/snack` 小吃（Street Food）目标 6，已完成 3
 - [ ] `P4-taiwan/main-poultry` 主菜·禽（Poultry Main）目标 6，已完成 3
-- [ ] `P4-taiwan/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 2
+- [ ] `P4-taiwan/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 3
 - [ ] `P4-taiwan/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
 - [ ] `P4-taiwan/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-taiwan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-taiwan/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
 - [x] `P4-taiwan/main-meat` 主菜·肉（Meat Main）目标 0，已完成 2
-- [x] `P4-taiwan/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 1
+- [x] `P4-taiwan/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 2
 
 </details>
 
@@ -373,13 +373,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>清真菜 halal-cn</b> — B 级，13/38</summary>
+<details><summary><b>清真菜 halal-cn</b> — B 级，15/38</summary>
 
-- [x] `P4-halal-cn/main-meat` 主菜·肉（Meat Main）目标 6，已完成 6
+- [x] `P4-halal-cn/main-meat` 主菜·肉（Meat Main）目标 6，已完成 7
 - [ ] `P4-halal-cn/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 2
 - [ ] `P4-halal-cn/soup` 汤羹（Soup）目标 6，已完成 2
 - [ ] `P4-halal-cn/snack` 小吃（Street Food）目标 6，已完成 2
-- [ ] `P4-halal-cn/banquet` 宴客菜（Banquet）目标 6，已完成 0
+- [ ] `P4-halal-cn/banquet` 宴客菜（Banquet）目标 6，已完成 1
 - [ ] `P4-halal-cn/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-halal-cn/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [x] `P4-halal-cn/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
@@ -397,9 +397,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>内蒙菜 mongolian</b> — C 级，14/25</summary>
+<details><summary><b>内蒙菜 mongolian</b> — C 级，15/25</summary>
 
-- [x] `P4-mongolian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 7
+- [x] `P4-mongolian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 8
 - [ ] `P4-mongolian/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 2
 - [ ] `P4-mongolian/drink` 饮品（Drink）目标 5，已完成 1
 - [ ] `P4-mongolian/soup` 汤羹（Soup）目标 5，已完成 2
@@ -408,7 +408,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（676/1935）
+### 外国菜系（680/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，39/107</summary>
 
@@ -538,13 +538,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>印尼菜 indonesian</b> — B 级，11/38</summary>
+<details><summary><b>印尼菜 indonesian</b> — B 级，12/38</summary>
 
 - [ ] `P4-indonesian/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
 - [ ] `P4-indonesian/main-poultry` 主菜·禽（Poultry Main）目标 6，已完成 3
 - [ ] `P4-indonesian/soup` 汤羹（Soup）目标 6，已完成 2
 - [ ] `P4-indonesian/snack` 小吃（Street Food）目标 6，已完成 2
-- [ ] `P4-indonesian/dessert` 甜点（Dessert）目标 6，已完成 1
+- [ ] `P4-indonesian/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-indonesian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-indonesian/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [x] `P4-indonesian/main-meat` 主菜·肉（Meat Main）目标 0，已完成 1
@@ -741,13 +741,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>北欧菜 nordic</b> — B 级，11/38</summary>
+<details><summary><b>北欧菜 nordic</b> — B 级，13/38</summary>
 
 - [ ] `P4-nordic/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 2
-- [ ] `P4-nordic/bakery` 烘焙面包（Bakery）目标 6，已完成 2
+- [ ] `P4-nordic/bakery` 烘焙面包（Bakery）目标 6，已完成 3
 - [ ] `P4-nordic/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 1
 - [ ] `P4-nordic/dessert` 甜点（Dessert）目标 6，已完成 2
-- [ ] `P4-nordic/breakfast` 早餐（Breakfast）目标 6，已完成 1
+- [ ] `P4-nordic/breakfast` 早餐（Breakfast）目标 6，已完成 2
 - [ ] `P4-nordic/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-nordic/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [x] `P4-nordic/main-meat` 主菜·肉（Meat Main）目标 0，已完成 2
@@ -933,12 +933,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>东非菜 east-african</b> — C 级，14/25</summary>
+<details><summary><b>东非菜 east-african</b> — C 级，15/25</summary>
 
 - [ ] `P4-east-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 2
 - [ ] `P4-east-african/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 2
 - [ ] `P4-east-african/soup` 汤羹（Soup）目标 5，已完成 1
-- [ ] `P4-east-african/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 5，已完成 2
+- [ ] `P4-east-african/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 5，已完成 3
 - [ ] `P4-east-african/drink` 饮品（Drink）目标 5，已完成 1
 - [x] `P4-east-african/breakfast` 早餐（Breakfast）目标 0，已完成 2
 - [x] `P4-east-african/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
