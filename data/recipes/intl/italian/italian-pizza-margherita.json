@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-pizza-margherita",
+  "name": {
+    "zh": "玛格丽特披萨",
+    "en": "Pizza Margherita",
+    "original": "Pizza Margherita"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 115,
+    "cook_min": 20,
+    "total_min": 135
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "tangy",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "高筋",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "做酱",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "马苏里拉",
+          "name_en": "mozzarella",
+          "amount": 180,
+          "unit": "g",
+          "note": "撕块",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 12,
+          "unit": "g",
+          "note": "鲜叶",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "淋面",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "发酵",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "助发酵",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 190,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "擀面杖",
+    "碗",
+    "烤盘",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉、酵母、白糖和盐混合，加清水揉成面团。，看准状态再往下做。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "盐别直接碰酵母，先混匀面粉再放。，看准状态再往下做。",
+      "visual_cue": "面团光滑，盆壁干净"
+    },
+    {
+      "n": 2,
+      "text": "面团抹一层橄榄油，盖布发酵到两倍大。，看准状态再往下做。",
+      "time_min": 65,
+      "heat": "无火",
+      "tip": "室温低就放温暖处，别省这步。，看准状态再往下做。",
+      "visual_cue": "体积翻倍，按压回弹"
+    },
+    {
+      "n": 3,
+      "text": "番茄去皮切碎，加蒜末和盐小火熬成稠酱。，看准状态再往下做。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "熬到不出水，饼底才不湿。，看准状态再往下做。",
+      "visual_cue": "酱体浓稠，颜色深红"
+    },
+    {
+      "n": 4,
+      "text": "面团轻压排气，分成两份滚圆松弛十分钟。，看准状态再往下做。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "轻压别揉，气泡才留住。，看准状态再往下做。",
+      "visual_cue": "面团圆整，表面光滑"
+    },
+    {
+      "n": 5,
+      "text": "用手从中间往外推开成圆饼，边缘留厚一圈。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "用手推别擀，边缘才鼓得起来。，看准状态再往下做。",
+      "visual_cue": "饼边厚，中心薄，这一点很关键。"
+    },
+    {
+      "n": 6,
+      "text": "饼皮抹一层番茄酱，留出一指宽的边。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酱别抹太厚，否则中间发湿。，看准状态再往下做。",
+      "visual_cue": "酱层均匀，边缘干净"
+    },
+    {
+      "n": 7,
+      "text": "马苏里拉芝士撕块铺上，淋少许橄榄油。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "芝士别铺到边上，烤时会流。，看准状态再往下做。",
+      "visual_cue": "芝士分布，油光点点"
+    },
+    {
+      "n": 8,
+      "text": "烤箱两百五十度预热，烤八分钟到边缘焦斑。，看准状态再往下做。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "温度越高越好，饼底才脆。，看准状态再往下做。",
+      "visual_cue": "边缘鼓起，焦斑点点"
+    },
+    {
+      "n": 9,
+      "text": "出炉放上鲜罗勒叶，趁热切块。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "罗勒出炉再放，香气才不被烤没。，看准状态再往下做。",
+      "visual_cue": "叶色翠绿，芝士融化"
+    }
+  ],
+  "tips": [
+    "面团发酵到两倍大，饼底才蓬松。，这一点很关键。",
+    "番茄酱要熬浓，否则饼底发湿。，这一点很关键。",
+    "烤温尽量高，才有焦香的边缘。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "面团没发起来，饼底像饼干。，这一点很关键。",
+    "酱抹太多，中间一片湿。，这一点很关键。",
+    "温度不够，烤成干硬面饼。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "马苏里拉芝士",
+      "substitute": "奶酪",
+      "ratio": "180 克:180 克",
+      "note": "融化稍差，风味更重。"
+    },
+    {
+      "original": "罗勒",
+      "substitute": "欧芹",
+      "ratio": "12 克:12 克",
+      "note": "香气不同，更清爽。"
+    }
+  ],
+  "variations": [
+    "加几片火腿，咸香更足。，这一点很关键。",
+    "表面撒帕玛森芝士，味道更浓。，这一点很关键。"
+  ],
+  "serving_suggestion": "切块趁热吃，配一杯啤酒。，这一点很关键。",
+  "storage": "冷藏两天，复热烤箱两百度五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 820,
+    "protein_g": 34,
+    "fat_g": 30,
+    "carbs_g": 100,
+    "sodium_mg": 1380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品与小麦，过敏者慎食；饼底须烤至完全熟透、底部不粘；芝士须完全融化；成品冷藏不超过两天。"
+  ],
+  "origin_note": "那不勒斯的招牌披萨，为了纪念玛格丽特王后，用番茄、芝士和罗勒凑出意大利国旗的三色。饼边焦香，中间柔软。",
+  "tags": [
+    "意大利",
+    "披萨",
+    "番茄",
+    "芝士"
+  ],
+  "related_ids": [
+    "focaccia",
+    "italian-piadina-romagnola",
+    "italian-marinara-sauce"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

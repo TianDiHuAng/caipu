@@ -1,0 +1,244 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-pasta-carbonara",
+  "name": {
+    "zh": "培根蛋面",
+    "en": "Pasta alla Carbonara",
+    "original": "Carbonara"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "意大利面",
+          "name_en": "spaghetti",
+          "amount": 300,
+          "unit": "g",
+          "note": "直面",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 180,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "蛋黄为主",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 80,
+          "unit": "g",
+          "note": "磨碎",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 5,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "煮面",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "碗",
+    "打蛋器",
+    "夹子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "汤锅加水烧开，放盐后下意大利面煮八分钟。，看准状态再往下做。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "水要够咸，面才有底味。，看准状态再往下做。",
+      "visual_cue": "水滚面沉，汤色微白"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋只取蛋黄，加帕玛森芝士碎和黑胡椒拌匀。，看准状态再往下做。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "芝士和蛋先拌成糊，才不会结块。，看准状态再往下做。",
+      "visual_cue": "糊体浓稠，颜色淡黄"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒橄榄油，下培根条小火煸出油。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "培根煸到边缘脆，香味才够。，看准状态再往下做。",
+      "visual_cue": "培根卷曲，油色透明"
+    },
+    {
+      "n": 4,
+      "text": "加拍碎的大蒜炒出香，捞出蒜块。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蒜只取香，久炒会苦。，看准状态再往下做。",
+      "visual_cue": "蒜香散出，蒜块金黄"
+    },
+    {
+      "n": 5,
+      "text": "意大利面留一碗面汤，捞出直接放进炒锅。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "面别过冷水，那层白色浆才是酱汁沾得住的关键。，看准状态再往下做。",
+      "visual_cue": "意大利面油亮，带白色浆"
+    },
+    {
+      "n": 6,
+      "text": "锅一定要离火，再倒入蛋芝士糊用夹子快速拌匀，别让蛋结块。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "一定要离火拌，否则蛋会结成块。，看准状态再往下做。",
+      "visual_cue": "酱体顺滑，无蛋花，这一点很关键。"
+    },
+    {
+      "n": 7,
+      "text": "分次加面汤调稀，拌到酱汁裹满意大利面。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "面汤调稠度，酱才不会干巴。，看准状态再往下做。",
+      "visual_cue": "酱汁裹住面，流动缓慢"
+    },
+    {
+      "n": 8,
+      "text": "撒剩余芝士碎和黑胡椒，趁热装盘。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热吃，凉了酱会发硬。，看准状态再往下做。",
+      "visual_cue": "酱面油亮，胡椒点点"
+    }
+  ],
+  "tips": [
+    "离火再拌蛋糊，否则会炒成蛋花。，这一点很关键。",
+    "面汤是调稠的关键，别一次倒完。，这一点很关键。",
+    "芝士要磨碎，才融得进酱里。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "锅还热就倒蛋液，直接变炒蛋。，这一点很关键。",
+    "面过冷水，酱汁挂不住。，这一点很关键。",
+    "培根不煸直接炒，油太多发腻。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "火腿",
+      "ratio": "180 克:180 克",
+      "note": "咸度更低，盐可略增。"
+    },
+    {
+      "original": "帕玛森芝士",
+      "substitute": "奶酪",
+      "ratio": "80 克:90 克",
+      "note": "拉丝更强，风味略淡。"
+    }
+  ],
+  "variations": [
+    "加一点柠檬皮屑，味道更清爽。，这一点很关键。",
+    "用通心粉代替直面，挂酱更厚。，这一点很关键。"
+  ],
+  "serving_suggestion": "现做现吃，配一杯干白葡萄酒。，这一点很关键。",
+  "storage": "不建议隔夜，复热酱会结块。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 620,
+    "protein_g": 28,
+    "fat_g": 30,
+    "carbs_g": 58,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类、乳制品与小麦，过敏者慎食；蛋液须借助面条余温加热至半凝固以上，不要生食；培根为腌制品含盐较高；建议现做现吃。"
+  ],
+  "origin_note": "罗马的经典面食，据说是给矿工补力气的高热量菜。蛋黄和芝士拌成金黄的酱，裹住每一根面，胡椒的暖气从喉咙一直往下走。",
+  "tags": [
+    "意大利",
+    "面食",
+    "培根",
+    "罗马"
+  ],
+  "related_ids": [
+    "italian-cacio-e-pepe",
+    "bolognese",
+    "aglio-e-olio"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
