@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-tamales-verdes",
+  "name": {
+    "zh": "墨西哥绿酱玉米粽",
+    "en": "Green Salsa Tamales",
+    "original": "Tamales Verdes"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 115,
+    "total_min": 150
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sour",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米面",
+          "name_en": "cornmeal",
+          "amount": 300,
+          "unit": "g",
+          "note": "玉米粽专用粉",
+          "optional": false
+        },
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 350,
+          "unit": "g",
+          "note": "撕丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "玉米叶",
+          "name_en": "corn husk",
+          "amount": 12,
+          "unit": "piece",
+          "note": "泡软",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "做绿酱",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "做绿酱",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "大碗",
+    "搅拌盆",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米叶用温水泡二十分钟，洗净后沥干备用。这一步别急着翻动。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "叶子泡软才不裂，包的时候更服帖，火候别过。",
+      "visual_cue": "叶片柔软，表面带一层水光"
+    },
+    {
+      "n": 2,
+      "text": "鸡胸肉冷水下锅煮十五分钟，捞出放凉撕成细丝。这一步别急着翻动。",
+      "time_min": 19,
+      "heat": "中火",
+      "tip": "煮到筷子能穿透就熟，别煮过头，火候别过。",
+      "visual_cue": "肉丝成条，中心无粉色"
+    },
+    {
+      "n": 3,
+      "text": "番茄、青椒和洋葱切块，蒜拍碎一起下锅干炒。这一步别急着翻动。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "干炒出焦边，绿酱才香，火候别过。",
+      "visual_cue": "表皮起黑点，香气散出"
+    },
+    {
+      "n": 4,
+      "text": "加香菜和盐，用搅拌机打成顺滑的绿酱。这一步别急着翻动。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "打到看不见大颗粒，口感才细，火候别过。",
+      "visual_cue": "酱色青绿，质地浓稠，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "鸡丝和一半绿酱拌匀，剩下一半留作浇汁。这一步别急着翻动。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "拌好的馅要湿一点，蒸好才不干，火候别过。",
+      "visual_cue": "丝条挂酱，颜色均匀，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "玉米面加植物油、盐和清水揉成柔软面团。这一步别急着翻动。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "水慢慢加，面团能捏成团不裂就好，火候别过。",
+      "visual_cue": "面团光滑，按下去有弹性"
+    },
+    {
+      "n": 7,
+      "text": "玉米叶摊开，抹一层玉米面糊，中间放鸡丝馅。这一步别急着翻动。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "面团抹薄一点，馅才包得进，火候别过。",
+      "visual_cue": "面层均匀，馅料居中，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "两侧折起，上下卷紧，把封口压在底部。这一步别急着翻动。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "卷紧不留缝，蒸时才不进汽水，火候别过。",
+      "visual_cue": "叶卷紧实，形如小枕，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "玉米粽立着排进蒸锅，大火蒸一小时。这一步别急着翻动。",
+      "time_min": 62,
+      "heat": "大火",
+      "tip": "锅里水要够，中途加热水别开盖太久。",
+      "visual_cue": "叶面油亮，面团鼓胀，状态稳定"
+    },
+    {
+      "n": 10,
+      "text": "拆开玉米叶，浇上剩余绿酱趁热吃。这一步别急着翻动。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蒸好后立着放几分钟，面才更定型，火候别过。",
+      "visual_cue": "面团松软，酱汁淋漓，状态稳定"
+    }
+  ],
+  "tips": [
+    "玉米叶必须泡软，包的时候才不会裂，值得留意。",
+    "面团别太稀，捏成团不粘手最合适，值得留意。",
+    "卷紧封口朝下，蒸时才不漏馅，值得留意。"
+  ],
+  "common_mistakes": [
+    "面团太稀，蒸出来散成一团，值得留意。",
+    "叶子没泡透，一折就破，值得留意。",
+    "蒸锅里水干了没补，底部焦糊，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "猪肩肉",
+      "ratio": "350 克:350 克",
+      "note": "更油润，煮的时间加十分钟。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "墨西哥青辣椒",
+      "ratio": "100 克:80 克",
+      "note": "辣度明显上升。"
+    }
+  ],
+  "variations": [
+    "馅里加一把奶酪丝，蒸好会拉丝，值得留意。",
+    "绿酱换成红酱，做成红酱玉米粽，值得留意。"
+  ],
+  "serving_suggestion": "连叶上桌，拆开浇酱配酸奶油，效果更稳定。",
+  "storage": "冷藏两天，冷冻一个月；复热蒸十五分钟，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每个约 180 克",
+    "calories_kcal": 410,
+    "protein_g": 22,
+    "fat_g": 16,
+    "carbs_g": 44,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须完全煮熟、中心无粉色；玉米制品须彻底蒸透；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "墨西哥节日里家家蒸玉米粽，绿色的酸辣酱拌鸡肉做馅，包进玉米叶里慢慢蒸。拆开时热气扑脸，面团软得能压出指印。",
+  "tags": [
+    "墨西哥",
+    "小吃",
+    "玉米",
+    "蒸制"
+  ],
+  "related_ids": [
+    "quesadilla",
+    "tostadas",
+    "mexican-rajas-con-crema"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

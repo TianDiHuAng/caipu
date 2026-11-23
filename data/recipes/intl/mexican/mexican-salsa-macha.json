@@ -4,7 +4,8 @@
   "id": "mexican-salsa-macha",
   "name": {
     "zh": "墨西哥花生辣酱",
-    "en": "Salsa Macha"
+    "en": "Peanut Chile Salsa",
+    "original": "Salsa Macha"
   },
   "cuisine": {
     "region": "intl",
@@ -15,15 +16,15 @@
   ],
   "difficulty": 1,
   "time": {
-    "prep_min": 12,
-    "cook_min": 23,
-    "total_min": 35
+    "prep_min": 10,
+    "cook_min": 20,
+    "total_min": 30
   },
   "servings": 2,
   "flavor": [
     "spicy",
     "salty",
-    "rich"
+    "savory"
   ],
   "ingredients": [
     {
@@ -34,7 +35,15 @@
           "name_en": "peanut",
           "amount": 150,
           "unit": "g",
-          "note": "去皮生花生",
+          "note": "去皮",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 30,
+          "unit": "g",
+          "note": "剪段",
           "optional": false
         }
       ]
@@ -43,17 +52,17 @@
       "group": "aux",
       "items": [
         {
-          "name": "小米辣",
-          "name_en": "bird's eye chili",
-          "amount": 40,
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 20,
           "unit": "g",
-          "note": "干制切段",
+          "note": "炒香",
           "optional": false
         },
         {
           "name": "大蒜",
           "name_en": "garlic",
-          "amount": 20,
+          "amount": 15,
           "unit": "g",
           "note": "切片",
           "optional": false
@@ -61,7 +70,7 @@
         {
           "name": "植物油",
           "name_en": "vegetable oil",
-          "amount": 150,
+          "amount": 180,
           "unit": "ml",
           "note": "浸炸",
           "optional": false
@@ -77,17 +86,17 @@
         {
           "name": "白糖",
           "name_en": "sugar",
-          "amount": 3,
+          "amount": 4,
           "unit": "g",
-          "note": "平衡",
+          "note": "提鲜",
           "optional": false
         },
         {
-          "name": "芝麻",
-          "name_en": "sesame seeds",
-          "amount": 20,
-          "unit": "g",
-          "note": "增香",
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调酸",
           "optional": false
         }
       ]
@@ -95,106 +104,106 @@
   ],
   "equipment": [
     "炒锅",
-    "锅铲",
-    "料理机",
+    "搅拌机",
+    "碗",
     "刀",
     "砧板"
   ],
   "steps": [
     {
       "n": 1,
-      "text": "花生挑掉坏粒，用干锅小火慢慢烘到表皮出现褐色斑点。",
+      "text": "花生去皮，干锅小火炒到表面泛油光。这一步别急着翻动。",
       "time_min": 8,
       "heat": "小火",
-      "tip": "干锅烘花生要不停翻，稍有焦味整锅都苦。",
-      "visual_cue": "花生浅褐，香气散出，状态稳定"
+      "tip": "不停翻，花生容易局部焦，火候别过。",
+      "visual_cue": "花生微黄，香气浓，状态稳定"
     },
     {
       "n": 2,
-      "text": "烘好的花生倒出摊开晾凉，用手搓掉外层薄皮备用。",
-      "time_min": 5,
+      "text": "干辣椒剪成段，抖掉大部分辣椒籽。这一步别急着翻动。",
+      "time_min": 4,
       "heat": "无火",
-      "tip": "晾凉后搓皮更容易，带皮打酱会发苦。",
-      "visual_cue": "花生仁完整，皮已脱，状态稳定"
+      "tip": "籽留一点提辣，太多会苦，火候别过。",
+      "visual_cue": "辣段均匀，籽粒少，状态稳定"
     },
     {
       "n": 3,
-      "text": "小米辣剪成两厘米小段，抖掉大部分辣椒籽减少苦味。",
-      "time_min": 5,
-      "heat": "无火",
-      "tip": "籽留一点提辣，全留会苦得盖住花生香。",
-      "visual_cue": "辣段均匀，籽已减半，状态稳定"
+      "text": "炒锅倒植物油，冷油下蒜片小火慢炸。这一步别急着翻动。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "冷油下锅，蒜香才慢慢出来，火候别过。",
+      "visual_cue": "蒜片微黄，油面平静，状态稳定"
     },
     {
       "n": 4,
-      "text": "炒锅倒植物油烧到微热，下蒜片小火炸到浅金色捞出。",
-      "time_min": 4,
+      "text": "下辣椒段炸到颜色转深，立刻关火。这一步别急着翻动。",
+      "time_min": 3,
       "heat": "小火",
-      "tip": "蒜片浅金就捞，颜色再深就带焦苦味。",
-      "visual_cue": "蒜片金黄，油香浓，状态稳定"
+      "tip": "辣椒一变深就关火，余温还会继续，火候别过。",
+      "visual_cue": "椒段暗红，油色透红，状态稳定"
     },
     {
       "n": 5,
-      "text": "同一锅油里下辣段小火慢炸两分钟，炸出红油和辣香。",
+      "text": "倒入花生和芝麻，用余温浸两分钟。这一步别急着翻动。",
       "time_min": 3,
-      "heat": "小火",
-      "tip": "油温别太高，辣段一黑整锅酱就毁了。",
-      "visual_cue": "油色深红，辣香扑鼻，状态稳定"
+      "heat": "无火",
+      "tip": "靠余温浸香，别回火再炸，火候别过。",
+      "visual_cue": "花生略深，油香冲鼻，状态稳定"
     },
     {
       "n": 6,
-      "text": "把花生、蒜片、辣段和盐、白糖放进料理机，倒入炸油打粗碎。",
-      "time_min": 4,
+      "text": "连油带料倒进搅拌机，加盐和白糖。这一步别急着翻动。",
+      "time_min": 2,
       "heat": "无火",
-      "tip": "打几下就停，保留粗颗粒口感最好。，注意火候。",
-      "visual_cue": "酱体粗粝，油色红亮，状态稳定"
+      "tip": "留一点颗粒感，别打成泥，火候别过。",
+      "visual_cue": "碎粒粗大，油汁浓，状态稳定"
     },
     {
       "n": 7,
-      "text": "倒出拌入炒香的白芝麻，装瓶静置半小时让味道融合。",
+      "text": "点动搅打成粗粒酱，加白醋拌匀装罐。这一步别急着翻动。",
       "time_min": 3,
       "heat": "无火",
-      "tip": "静置半小时风味融合，第二天更好吃。",
-      "visual_cue": "酱面浮油，芝麻均匀，状态稳定"
+      "tip": "点动几下就停，打过头会变糊，火候别过。",
+      "visual_cue": "酱体颗粒明显，油亮，状态稳定"
     }
   ],
   "tips": [
-    "花生干锅慢烘，香气足又不带油腥。，值得留意。",
-    "辣段小火炸，油温高了立刻发苦。，值得留意。",
-    "打酱只打几下，保留粗颗粒更香。，值得留意。"
+    "辣椒一变深就关火，余温会继续加深，值得留意。",
+    "打几下就停，留颗粒才香，值得留意。",
+    "装罐后油要盖住料，存得更久，值得留意。"
   ],
   "common_mistakes": [
-    "花生烘到深褐，整瓶酱都有焦苦味。，务必避免。",
-    "辣段大火下锅，几秒钟就炸成黑渣。，务必避免。",
-    "打得过细成泥，失去颗粒的嚼劲。，务必避免。"
+    "辣椒炸糊，整罐发苦，值得留意。",
+    "打成细泥，口感全无，值得留意。",
+    "油太少，酱放两天就干硬，值得留意。"
   ],
   "substitutions": [
     {
-      "original": "小米辣",
-      "substitute": "辣椒碎",
-      "ratio": "40 克:25 克",
-      "note": "辣度更集中，盐减一克。"
+      "original": "花生",
+      "substitute": "杏仁",
+      "ratio": "150 克:150 克",
+      "note": "更硬，炒的时间加三分钟。"
     },
     {
-      "original": "花生",
-      "substitute": "葵花籽仁",
-      "ratio": "150 克:160 克",
-      "note": "坚果香更淡，烘制时间减两分钟。"
+      "original": "干辣椒",
+      "substitute": "辣椒碎",
+      "ratio": "30 克:20 克",
+      "note": "辣度更直接，注意别炸糊。"
     }
   ],
   "variations": [
-    "加一勺白芝麻酱，酱体更浓稠。，也很受欢迎。",
-    "放少许桂皮同炸，香气带一点暖甜。，也很受欢迎。"
+    "加一把南瓜籽，坚果香更立体，值得留意。",
+    "放一点巧克力，做成摩尔风味，值得留意。"
   ],
-  "serving_suggestion": "浇在煎蛋、玉米饼或面条上，一勺就够提味。",
-  "storage": "密封冷藏可放一个月，每次取用必须用干勺。",
+  "serving_suggestion": "浇在玉米饼、煎蛋或面条上，效果更稳定。",
+  "storage": "冷藏一个月，取用须用干勺，效果更稳定。",
   "nutrition_estimate": {
-    "basis": "每份约 80 克",
-    "calories_kcal": 250,
-    "protein_g": 7,
-    "fat_g": 22,
-    "carbs_g": 6,
-    "sodium_mg": 300,
+    "basis": "每份约 90 克",
+    "calories_kcal": 280,
+    "protein_g": 6,
+    "fat_g": 26,
+    "carbs_g": 7,
+    "sodium_mg": 320,
     "is_estimate": true,
     "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
@@ -204,19 +213,19 @@
   ],
   "diet_tags": [],
   "food_safety_notes": [
-    "花生与辣段须炸至熟透不过焦；成品须密封冷藏，取用保持干燥避免变质。"
+    "含花生、芝麻，过敏者严禁食用；油炸须控制火候避免焦糊；成品须冷藏并用干净干勺取用。"
   ],
-  "origin_note": "墨西哥韦拉克鲁斯一带的浓辣酱，花生和干辣段在油里慢慢炸香，再打成粗粝的酱。辣、咸、坚果香一层层叠上来，浇什么都好吃。",
+  "origin_note": "墨西哥韦拉克鲁斯州的辣酱，花生辣椒在油里慢炸，打碎后连油一起装罐。浇一勺在玉米饼上，脆香辣一起冲上来。",
   "tags": [
     "墨西哥",
-    "酱汁",
-    "辣",
-    "花生"
+    "酱料",
+    "花生",
+    "辣椒"
   ],
   "related_ids": [
     "mexican-salsa-roja",
     "salsa-verde",
-    "guacamole"
+    "pico-de-gallo"
   ],
   "image_url": null,
   "image_credit": null,

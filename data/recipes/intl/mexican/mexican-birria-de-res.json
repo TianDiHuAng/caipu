@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-birria-de-res",
+  "name": {
+    "zh": "墨西哥红汤炖牛肉",
+    "en": "Beef Birria",
+    "original": "Birria de Res"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 186,
+    "total_min": 211
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "sour",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肩肉",
+          "name_en": "beef shoulder",
+          "amount": 1200,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 30,
+          "unit": "g",
+          "note": "去籽",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 4,
+          "unit": "g",
+          "note": "干燥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 4,
+          "unit": "piece",
+          "note": "配食用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "炒锅",
+    "搅拌机",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肩肉切成拳头大的块，用盐抹匀腌二十分钟。这一步别急着翻动。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "块大一点，久炖才不散，火候别过。",
+      "visual_cue": "肉块紧实，盐粒附着，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "干辣椒去籽，在干锅里小火烘到出香。这一步别急着翻动。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "烘出香味就够，别烘黑，火候别过。",
+      "visual_cue": "辣椒发脆，香气冲鼻，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "辣椒用热水泡十分钟，泡软后沥干。这一步别急着翻动。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡软才好打酱，也去一部分燥辣，火候别过。",
+      "visual_cue": "椒身柔软，水色转红，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油，下洋葱、蒜和番茄炒软。这一步别急着翻动。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "炒到番茄出汁，酱才浓，火候别过。",
+      "visual_cue": "番茄塌软，锅底见汁，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "加泡好的辣椒、孜然、牛至和香叶炒匀。这一步别急着翻动。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香料炒过味才出，别急，火候别过。",
+      "visual_cue": "酱料抱团，香气厚，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "全部倒入搅拌机，加白醋和少量清水打成红酱。这一步别急着翻动。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "打到顺滑，炖出来汤才不渣，火候别过。",
+      "visual_cue": "酱色深红，质地细，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "炖锅里放牛肩肉，倒红酱和剩余清水没过肉。这一步别急着翻动。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "酱要裹匀每块肉，汤才入味，火候别过。",
+      "visual_cue": "汤色暗红，肉块沉底，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "大火烧开后转小火，盖盖炖两小时。这一步别急着翻动。",
+      "time_min": 122,
+      "heat": "小火",
+      "tip": "小火慢炖，肉才酥而不烂，火候别过。",
+      "visual_cue": "肉块变软，汤面微沸，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "开盖再炖二十分钟，让汤汁收浓一点。这一步别急着翻动。",
+      "time_min": 22,
+      "heat": "中火",
+      "tip": "收浓后蘸玉米饼才挂得住，火候别过。",
+      "visual_cue": "汤汁浓稠，油花聚边，状态稳定"
+    },
+    {
+      "n": 10,
+      "text": "盛出肉块，浇上热汤，配洋葱碎和香菜。这一步别急着翻动。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "汤和肉分开装，吃时再浇，火候别过。",
+      "visual_cue": "肉质酥软，汤汁红亮，状态稳定"
+    }
+  ],
+  "tips": [
+    "干辣椒先烘再泡，香气足又不苦，值得留意。",
+    "小火慢炖两小时，肉才酥得开，值得留意。",
+    "汤收浓一点，蘸饼才挂得住，值得留意。"
+  ],
+  "common_mistakes": [
+    "辣椒烘糊，整锅发苦，值得留意。",
+    "大火猛炖，肉块柴硬，值得留意。",
+    "汤太稀，蘸饼像喝汤，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肩肉",
+      "substitute": "羊肩肉",
+      "ratio": "1200 克:1200 克",
+      "note": "更接近传统风味，炖的时间减二十分钟。"
+    },
+    {
+      "original": "白醋",
+      "substitute": "青柠汁",
+      "ratio": "40 毫升:45 毫升",
+      "note": "酸香更清亮。"
+    }
+  ],
+  "variations": [
+    "炖好后把肉撕碎做塔可馅，汤当蘸汁，值得留意。",
+    "加一块巧克力，汤色更深味道更厚，值得留意。"
+  ],
+  "serving_suggestion": "配玉米饼、洋葱碎和香菜，汤当蘸汁，效果更稳定。",
+  "storage": "冷藏三天，冷冻一个月；复热须煮开，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 520,
+    "protein_g": 44,
+    "fat_g": 32,
+    "carbs_g": 12,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炖至完全酥软、中心无血色；辣椒用量大，肠胃敏感者慎食；成品冷藏不超过三天，复热须沸腾。"
+  ],
+  "origin_note": "墨西哥哈利斯科州的炖肉，干辣椒和番茄打成红酱，牛肉在酱里慢慢炖到脱骨。汤红得发亮，掰块玉米饼蘸着吃，一口下去辣得冒汗。",
+  "tags": [
+    "墨西哥",
+    "炖菜",
+    "牛肉",
+    "辣椒"
+  ],
+  "related_ids": [
+    "ropa-vieja",
+    "mexican-cochinita-pibil",
+    "mexican-tacos-al-pastor"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

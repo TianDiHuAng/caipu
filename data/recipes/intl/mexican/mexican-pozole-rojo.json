@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-pozole-rojo",
+  "name": {
+    "zh": "墨西哥红汤玉米猪肉",
+    "en": "Red Pozole",
+    "original": "Pozole Rojo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 115,
+    "total_min": 140
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "salty",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肩肉",
+          "name_en": "pork shoulder",
+          "amount": 900,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "玉米",
+          "name_en": "sweet corn",
+          "amount": 400,
+          "unit": "g",
+          "note": "煮熟的白玉米粒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 25,
+          "unit": "g",
+          "note": "去籽",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 18,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干燥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝配菜",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "搅拌机",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肩肉冷水下锅，煮到浮沫涌起后捞出冲净。这一步别急着翻动。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "先焯一遍，汤才清不腥，火候别过。",
+      "visual_cue": "浮沫灰白，肉块收紧，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "汤锅放肉和清水，大火烧开转小火炖一小时。这一步别急着翻动。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "小火慢炖，肉才软而不散，火候别过。",
+      "visual_cue": "肉块变软，汤面清亮，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "干辣椒去籽，干锅小火烘到出香变脆。这一步别急着翻动。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "烘到发脆就停，别烘焦，火候别过。",
+      "visual_cue": "椒身干脆，香气浓，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "辣椒用热水泡十分钟，连同番茄和蒜打成红酱。这一步别急着翻动。",
+      "time_min": 13,
+      "heat": "无火",
+      "tip": "泡软再打，酱才细滑不渣，火候别过。",
+      "visual_cue": "酱色深红，质地细腻，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒植物油，下洋葱和红酱炒五分钟。这一步别急着翻动。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "炒到酱出红油，颜色才正，火候别过。",
+      "visual_cue": "红油浮面，香气厚实，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "把红酱倒进汤锅，加孜然和牛至搅匀。这一步别急着翻动。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "酱要化开，汤才红得均匀，火候别过。",
+      "visual_cue": "汤色转红，香味融合，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "放玉米粒同煮三十分钟，让玉米吸味。这一步别急着翻动。",
+      "time_min": 32,
+      "heat": "小火",
+      "tip": "玉米后放，才不煮烂成糊，火候别过。",
+      "visual_cue": "玉米饱满，汤色浓红，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "加盐调味，尝一下咸淡和辣度。这一步别急着翻动。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "盐最后放，肉质才不会紧，火候别过。",
+      "visual_cue": "汤味咸辣，层次清楚，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "盛碗，撒生菜丝，挤青柠汁上桌。这一步别急着翻动。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "配菜最后加，脆感才在，火候别过。",
+      "visual_cue": "汤面红亮，菜丝翠绿，状态稳定"
+    }
+  ],
+  "tips": [
+    "辣椒烘出香味再打酱，汤才不苦，值得留意。",
+    "玉米粒后放，煮久了会烂成糊，值得留意。",
+    "上桌前挤青柠，酸味才清爽，值得留意。"
+  ],
+  "common_mistakes": [
+    "辣椒烘糊，整锅汤发苦，值得留意。",
+    "玉米从头煮到尾，全化成糊，值得留意。",
+    "盐放太早，猪肉发紧不烂，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肩肉",
+      "substitute": "鸡腿肉",
+      "ratio": "900 克:800 克",
+      "note": "炖的时间减到四十分钟。"
+    },
+    {
+      "original": "玉米粒",
+      "substitute": "罐头玉米粒",
+      "ratio": "400 克:400 克",
+      "note": "咸味有差别，盐减半。"
+    }
+  ],
+  "variations": [
+    "加一勺南瓜籽泥，汤更浓稠，值得留意。",
+    "放几片卷心菜，口感更丰富，值得留意。"
+  ],
+  "serving_suggestion": "配玉米饼和酸奶油，冬天最暖，效果更稳定。",
+  "storage": "冷藏三天，冷冻一个月；复热须煮开，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 450 克",
+    "calories_kcal": 470,
+    "protein_g": 38,
+    "fat_g": 24,
+    "carbs_g": 28,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉须炖至完全熟透、中心无血色；辣椒用量较大，肠胃敏感者慎食；成品冷藏不超过三天，复热须沸腾。"
+  ],
+  "origin_note": "墨西哥过节才吃的大锅汤，红酱把整锅汤染得发亮，玉米粒一颗颗鼓着。撒把生菜挤青柠，配脆饼吃，一勺下去从喉咙暖到胃。",
+  "tags": [
+    "墨西哥",
+    "汤",
+    "猪肉",
+    "玉米"
+  ],
+  "related_ids": [
+    "sopa-de-frijol",
+    "tortilla-soup",
+    "mexican-caldo-de-camerones"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
