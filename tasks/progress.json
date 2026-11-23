@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:01:56.777Z",
+  "generatedAt": "2026-11-23T15:15:32.437Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 608,
+    "cells": 610,
     "target": 3274,
-    "actual": 1492,
-    "coverage": 0.45571166768478927
+    "actual": 1498,
+    "coverage": 0.4575442883323152
   },
   "regions": {
     "cn": [
@@ -2108,16 +2108,18 @@
         "en": "Taiwanese",
         "tier": "B",
         "target": 38,
-        "actual": 17,
+        "actual": 23,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "kezai-jian",
+              "taiwan-cong-you-bing",
               "taiwan-douhua",
+              "taiwan-guabao",
               "yansu-ji"
             ]
           },
@@ -2147,9 +2149,11 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "lurou-fan"
+              "lurou-fan",
+              "taiwan-pork-chop-rice",
+              "taiwan-zhutong-migao"
             ]
           },
           {
@@ -2196,6 +2200,24 @@
             "ids": [
               "taiwan-beef-noodle",
               "taiwan-danzai-noodle"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "taiwan-lu-wei"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "taiwan-rou-geng"
             ]
           }
         ]

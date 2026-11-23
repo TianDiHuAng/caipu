@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T15:01:56.833Z
+> 生成时间：2026-11-23T15:15:32.499Z
 
-**总览**：工程任务 49/53；菜谱内容 1492/3274（45.6%），共 608 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1498/3274（45.8%），共 610 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（638/1339）
+### 中国菜系（644/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，71/107</summary>
 
@@ -335,17 +335,19 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>台湾菜 taiwan</b> — B 级，17/38</summary>
+<details><summary><b>台湾菜 taiwan</b> — B 级，23/38</summary>
 
-- [ ] `P4-taiwan/snack` 小吃（Street Food）目标 6，已完成 3
+- [ ] `P4-taiwan/snack` 小吃（Street Food）目标 6，已完成 5
 - [ ] `P4-taiwan/main-poultry` 主菜·禽（Poultry Main）目标 6，已完成 3
 - [ ] `P4-taiwan/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 3
-- [ ] `P4-taiwan/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
+- [ ] `P4-taiwan/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 3
 - [ ] `P4-taiwan/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-taiwan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-taiwan/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
 - [x] `P4-taiwan/main-meat` 主菜·肉（Meat Main）目标 0，已完成 2
 - [x] `P4-taiwan/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 2
+- [x] `P4-taiwan/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
+- [x] `P4-taiwan/soup` 汤羹（Soup）目标 0，已完成 1
 
 </details>
 

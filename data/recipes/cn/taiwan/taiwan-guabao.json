@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "taiwan-guabao",
+  "name": {
+    "zh": "刈包",
+    "en": "Taiwanese Gua Bao",
+    "original": "刈包"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 120,
+    "cook_min": 60,
+    "total_min": 180
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 600,
+          "unit": "g",
+          "note": "整块",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "做刈包",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 120,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 50,
+          "unit": "g",
+          "note": "碾碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 50,
+          "unit": "ml",
+          "note": "卤汁",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "发面",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 380,
+          "unit": "ml",
+          "note": "和面卤肉",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒酸菜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "擀面杖",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加酵母、白糖和清水揉成光滑面团，盖布发酵。",
+      "time_min": 52,
+      "heat": "无火",
+      "tip": "面团要揉到光滑，蒸出来才白。，看准状态再往下做。",
+      "visual_cue": "面团膨胀，指压回弹"
+    },
+    {
+      "n": 2,
+      "text": "五花肉整块冷水下锅焯十分钟，捞出洗净。，看准状态再往下做。",
+      "time_min": 13,
+      "heat": "大火",
+      "tip": "整块焯水，肉形才不散。，看准状态再往下做。",
+      "visual_cue": "表面收紧，浮沫撇净"
+    },
+    {
+      "n": 3,
+      "text": "锅里放生抽、老抽、冰糖、八角和五香粉，加清水烧开。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "卤汁要能没过肉块一半。，看准状态再往下做。",
+      "visual_cue": "汤色红亮，香气升起"
+    },
+    {
+      "n": 4,
+      "text": "五花肉下锅小火卤四十分钟，中途翻面一次。，看准状态再往下做。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "小火慢卤，肥肉才糯不腻。，看准状态再往下做。",
+      "visual_cue": "肉皮发亮，筷子可插"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒植物油，下酸菜碎炒干水分。，看准状态再往下做。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "酸菜炒干，口感才脆不酸涩。，看准状态再往下做。",
+      "visual_cue": "酸菜松散，香气下压"
+    },
+    {
+      "n": 6,
+      "text": "面团分成八份，擀成椭圆，对折后压一道印。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "对折后压印，蒸好才能张开。，看准状态再往下做。",
+      "visual_cue": "面皮均匀，印痕清晰"
+    },
+    {
+      "n": 7,
+      "text": "刈包放蒸笼静置十分钟，大火蒸十二分钟。，看准状态再往下做。",
+      "time_min": 23,
+      "heat": "大火",
+      "tip": "二次醒发后蒸，面皮才蓬松。，看准状态再往下做。",
+      "visual_cue": "面皮鼓起，按压回弹"
+    },
+    {
+      "n": 8,
+      "text": "卤肉切厚片，花生碾碎，香菜切段备好。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "肉片切厚一点，夹起来才有口感。，看准状态再往下做。",
+      "visual_cue": "肉片方正，肥瘦相间"
+    },
+    {
+      "n": 9,
+      "text": "刈包摊开，塞卤肉、酸菜、花生碎和香菜。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "料别塞太满，合起来才不会撑破。，看准状态再往下做。",
+      "visual_cue": "包身鼓胀，料不外溢"
+    }
+  ],
+  "tips": [
+    "面团发酵到两倍大再整形，皮才松软。",
+    "卤肉要小火慢卤，肥肉才化口不腻。",
+    "酸菜先炒干水，夹进包里不出汤。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "面团没发酵好，蒸出来像石头。，这一点很关键。",
+    "肉卤得太干，咬下去发柴。，这一点很关键。",
+    "酸菜不炒，包底被汁水泡烂。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪梅花肉",
+      "ratio": "600 克:600 克",
+      "note": "更瘦，卤的时间加十分钟。"
+    },
+    {
+      "original": "花生",
+      "substitute": "花生酱",
+      "ratio": "50 克:40 克",
+      "note": "抹一层即可，更顺滑。"
+    }
+  ],
+  "variations": [
+    "加一勺甜辣酱，甜咸更平衡。，这一点很关键。",
+    "用卤牛肉替换猪肉，做成牛肉刈包。"
+  ],
+  "serving_suggestion": "热着吃，配一碗四神汤。，这一点很关键。",
+  "storage": "刈包冷藏一天，卤肉冷藏三天；复热蒸十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 560,
+    "protein_g": 24,
+    "fat_g": 32,
+    "carbs_g": 46,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含花生、小麦与大豆制品，过敏者慎食；猪肉须卤至完全熟透；花生须碾碎避免幼儿呛噎；成品冷藏不超过两天。"
+  ],
+  "origin_note": "台湾人叫它虎咬猪，白胖的包皮对折，夹进卤得油亮的五花肉。咬一口，皮软肉香，酸菜的酸和花生的甜一起涌上来。",
+  "tags": [
+    "台湾",
+    "小吃",
+    "五花肉",
+    "刈包"
+  ],
+  "related_ids": [
+    "lurou-fan",
+    "taiwan-lu-wei",
+    "taiwan-sanbei-chicken"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

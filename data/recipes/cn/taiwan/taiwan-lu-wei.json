@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "taiwan-lu-wei",
+  "name": {
+    "zh": "台湾卤味拼盘",
+    "en": "Taiwanese Braised Platter",
+    "original": "卤味"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "cold-dish"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 99,
+    "total_min": 119
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "豆腐干",
+          "name_en": "dried tofu",
+          "amount": 300,
+          "unit": "g",
+          "note": "划刀",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 200,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "煮熟",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 80,
+          "unit": "ml",
+          "note": "卤水",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "提亮",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "卤水",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "大盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋冷水下锅煮十分钟，捞出过凉后剥壳。，看准状态再往下做。",
+      "time_min": 13,
+      "heat": "大火",
+      "tip": "冷水下锅计时，蛋壳才不裂。，看准状态再往下做。",
+      "visual_cue": "蛋壳完整，蛋白凝固"
+    },
+    {
+      "n": 2,
+      "text": "豆腐干表面划几道浅刀口，方便入味。，看准状态再往下做。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "划刀别切断，卤的时候才吸味。，看准状态再往下做。",
+      "visual_cue": "刀口均匀，块形完整"
+    },
+    {
+      "n": 3,
+      "text": "海带洗净泥沙，卷起来打成结。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打结后口感更脆，也不易散。，看准状态再往下做。",
+      "visual_cue": "结形紧实，表面干净"
+    },
+    {
+      "n": 4,
+      "text": "汤锅放清水、生抽、老抽和冰糖，大火烧开。，看准状态再往下做。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "先调好味再放料，咸淡才准。，看准状态再往下做。",
+      "visual_cue": "汤色红亮，咸香扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "下八角、桂皮、五香粉、蒜和姜，小火煮十分钟。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "香料先煮出味，卤水才有底香。，看准状态再往下做。",
+      "visual_cue": "香气浓，汤面轻沸，这一点很关键。"
+    },
+    {
+      "n": 6,
+      "text": "先放豆腐干和海带结，小火卤二十分钟。，看准状态再往下做。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "耐煮的先下，吸味也更足。，看准状态再往下做。",
+      "visual_cue": "表面转深，汤色渐浓"
+    },
+    {
+      "n": 7,
+      "text": "加鸡蛋再卤十分钟，关火浸泡半小时。，看准状态再往下做。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "鸡蛋后放，久煮会变硬发韧。，看准状态再往下做。",
+      "visual_cue": "蛋面酱色，光亮，这一点很关键。"
+    },
+    {
+      "n": 8,
+      "text": "捞出放凉，豆腐干切片、海带切段、蛋对半切。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "凉了再切，切口才整齐。，看准状态再往下做。",
+      "visual_cue": "切面光滑，层次分明"
+    },
+    {
+      "n": 9,
+      "text": "拼摆放盘，淋一勺卤汁撒香菜。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "卤汁现淋，味道才够润。，看准状态再往下做。",
+      "visual_cue": "盘面油亮，色彩丰富"
+    }
+  ],
+  "tips": [
+    "卤水先煮香料再下料，香味才透。，这一点很关键。",
+    "鸡蛋后放并浸泡，蛋白才不韧。，这一点很关键。",
+    "放凉再切，切面才平整好看。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "一直大火卤，豆腐干外咸内淡。，这一点很关键。",
+    "鸡蛋煮太久，蛋白变成橡胶。，这一点很关键。",
+    "卤好就切，热切全碎。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐干",
+      "substitute": "豆皮",
+      "ratio": "300 克:250 克",
+      "note": "更薄，卤十五分钟即可。"
+    },
+    {
+      "original": "海带",
+      "substitute": "海带丝",
+      "ratio": "200 克:200 克",
+      "note": "不用打结，卤十分钟。"
+    }
+  ],
+  "variations": [
+    "加一份鸭翅或鸡爪，卤味更丰富。，这一点很关键。",
+    "卤好撒辣椒粉，做成麻辣卤味。，这一点很关键。"
+  ],
+  "serving_suggestion": "切片拼盘当下酒菜，也可配米饭。，这一点很关键。",
+  "storage": "冷藏三天，冷冻两周；复热淋卤汁煮热。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 克",
+    "calories_kcal": 260,
+    "protein_g": 20,
+    "fat_g": 13,
+    "carbs_g": 14,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含大豆、蛋类与小麦制品，过敏者慎食；卤味须卤透，鸡蛋须完全煮熟；卤水重复使用须每次烧开并冷藏；成品冷藏不超过三天。"
+  ],
+  "origin_note": "台湾夜市的卤味摊，一口大锅咕嘟咕嘟煮着豆干、海带和蛋。老板夹起来切片，淋一勺黑亮的卤汁，撒把香菜，配啤酒最对味。",
+  "tags": [
+    "台湾",
+    "卤味",
+    "豆干",
+    "夜市"
+  ],
+  "related_ids": [
+    "taiwan-sanbei-chicken",
+    "lurou-fan",
+    "taiwan-douhua"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
