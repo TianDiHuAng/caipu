@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "guizhou-changwang-mian",
+  "name": {
+    "zh": "肠旺面",
+    "en": "Changwang Noodles",
+    "original": "肠旺面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "yunguai"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 80,
+    "cook_min": 35,
+    "total_min": 115
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细面",
+          "optional": false
+        },
+        {
+          "name": "猪血",
+          "name_en": "pork blood",
+          "amount": 250,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "猪大肠",
+          "name_en": "pork intestine",
+          "amount": 300,
+          "unit": "g",
+          "note": "煮熟",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 150,
+          "unit": "g",
+          "note": "做脆哨",
+          "optional": false
+        },
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 80,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 25,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 4,
+          "unit": "g",
+          "note": "增麻",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 55,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "擀面杖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面条用手轻轻抖散，摊在案板上备用，别让它们粘成一团。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面团要和硬，擀出来才筋道。，看准状态再往下做。",
+      "visual_cue": "条条分散，不结块"
+    },
+    {
+      "n": 2,
+      "text": "另起汤锅烧开清水，准备下面条煮制，水量要足。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "切前多撒干粉，面条才不粘。，看准状态再往下做。",
+      "visual_cue": "水面翻滚，蒸汽腾起"
+    },
+    {
+      "n": 3,
+      "text": "五花肉切小丁，锅里少油小火慢慢煸干。，看准状态再往下做。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "煸到出油发脆，就是脆哨。，看准状态再往下做。",
+      "visual_cue": "肉丁缩成小粒，颜色焦黄"
+    },
+    {
+      "n": 4,
+      "text": "猪大肠切段，加姜片和生抽小火卤二十分钟。，看准状态再往下做。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "大肠先卤入味，再下汤才香。，看准状态再往下做。",
+      "visual_cue": "肠段软糯，酱色均匀"
+    },
+    {
+      "n": 5,
+      "text": "猪血切条，放开水里焯一分钟捞出。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "血制品焯透去腥，也定型。，看准状态再往下做。",
+      "visual_cue": "血条变深，边缘紧实"
+    },
+    {
+      "n": 6,
+      "text": "炒锅倒植物油，下豆瓣酱、干辣椒和花椒炒香。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "豆瓣酱炒出红油，辣味才出。，看准状态再往下做。",
+      "visual_cue": "油色红亮，香气冲鼻"
+    },
+    {
+      "n": 7,
+      "text": "加清水烧开，放生抽和盐调成汤底。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "汤底要够咸，面条才入味。，看准状态再往下做。",
+      "visual_cue": "汤色红亮，咸香扑鼻"
+    },
+    {
+      "n": 8,
+      "text": "面条下锅煮两分钟，捞进碗里备用，别煮过头。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "面刚断生就捞，泡汤后还会软。，看准状态再往下做。",
+      "visual_cue": "面条透明，筋道弹牙"
+    },
+    {
+      "n": 9,
+      "text": "碗里浇汤，铺血条、大肠、脆哨和酸菜。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "配料铺上面，汤才不被泡淡。，看准状态再往下做。",
+      "visual_cue": "碗面丰盛，红油浮起"
+    },
+    {
+      "n": 10,
+      "text": "撒葱花，趁热拌开吃。，看准状态再往下做。，动作要轻，别把食材弄碎。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "拌开再吃，辣味才均匀。，看准状态再往下做。",
+      "visual_cue": "汤面油亮，葱绿点点"
+    }
+  ],
+  "tips": [
+    "面团要和硬，擀出的面条才筋道。，这一点很关键。",
+    "脆哨要小火煸干，才有酥脆口感。，这一点很关键。",
+    "面条刚断生就捞，泡汤后正好。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "面团太软，切出来粘成一团。，这一点很关键。",
+    "猪血不焯水，汤里一股腥味。，这一点很关键。",
+    "面煮太久，进碗就烂成糊。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪大肠",
+      "substitute": "猪肚",
+      "ratio": "300 克:300 克",
+      "note": "卤的时间加十分钟。"
+    },
+    {
+      "original": "猪血",
+      "substitute": "鸭血",
+      "ratio": "250 克:250 克",
+      "note": "更嫩，焯水时间减半。"
+    }
+  ],
+  "variations": [
+    "加一个卤蛋，配料更丰富。，这一点很关键。",
+    "放一勺糟辣椒，酸辣更地道。，这一点很关键。"
+  ],
+  "serving_suggestion": "贵阳人的早餐，一碗下肚管到中午。",
+  "storage": "面条与配料分开冷藏，各不超过一天。",
+  "nutrition_estimate": {
+    "basis": "每份约 420 克",
+    "calories_kcal": 640,
+    "protein_g": 32,
+    "fat_g": 30,
+    "carbs_g": 58,
+    "sodium_mg": 1380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含小麦与大豆制品，过敏者慎食；猪血与猪大肠须彻底煮熟，中心温度达标；内脏制品高胆固醇，适量食用；成品冷藏不超过一天。"
+  ],
+  "origin_note": "贵阳清晨的面摊，一碗红汤面端上来，血旺嫩、大肠糯、脆哨香。辣得额头冒汗，还是忍不住一直吸溜。",
+  "tags": [
+    "贵州",
+    "面食",
+    "肠旺面",
+    "辣"
+  ],
+  "related_ids": [
+    "guilin-mifen",
+    "suantang-feiniu",
+    "guizhou-zaolajiao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

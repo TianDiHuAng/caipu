@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:15:32.437Z",
+  "generatedAt": "2026-11-23T15:29:32.595Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 610,
+    "cells": 611,
     "target": 3274,
-    "actual": 1498,
-    "coverage": 0.4575442883323152
+    "actual": 1504,
+    "coverage": 0.4593769089798412
   },
   "regions": {
     "cn": [
@@ -1803,14 +1803,15 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 14,
+        "actual": 20,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "guizhou-qiang-chaotusi",
               "xiaomila-kugua"
             ]
           },
@@ -1829,18 +1830,20 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "guilin-mifen",
-              "suantang-feiniu"
+              "suantang-feiniu",
+              "yunnan-suancai-chaorou"
             ]
           },
           {
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "guizhou-siwawa",
               "yangyu-ba",
               "yunguai-bamboo-tube-rice"
             ]
@@ -1872,11 +1875,13 @@
             "category": "staple-noodle",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "guilin-mifen",
+              "guizhou-changwang-mian",
               "guoqiao-mixian",
-              "xiaoguo-mixian"
+              "xiaoguo-mixian",
+              "yunnan-douhua-mixian"
             ]
           },
           {
@@ -1895,6 +1900,15 @@
             "actual": 1,
             "ids": [
               "suan-tang-yu"
+            ]
+          },
+          {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "yunnan-ham-potato-rice"
             ]
           }
         ]
