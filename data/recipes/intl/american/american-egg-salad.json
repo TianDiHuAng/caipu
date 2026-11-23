@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-egg-salad",
+  "name": {
+    "zh": "美式鸡蛋沙拉",
+    "en": "American Egg Salad"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 12,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 300,
+          "unit": "g",
+          "note": "约六个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 80,
+          "unit": "g",
+          "note": "拌制",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋放进冷水锅里，水开后转中火煮十分钟关火。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "鸡蛋冷水下锅慢升温，煮的时候才不裂壳。",
+      "visual_cue": "蛋壳完整，一颗不裂"
+    },
+    {
+      "n": 2,
+      "text": "捞出鸡蛋立刻浸入冰水里，凉透后剥壳切成小丁。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "浸冰水能防止蛋黄发灰，剥壳也更容易。",
+      "visual_cue": "蛋黄鲜黄，蛋白光洁"
+    },
+    {
+      "n": 3,
+      "text": "芹菜切成很细的小丁，小葱切成细碎葱花备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "芹菜丁切细些，口感才不抢鸡蛋的软。",
+      "visual_cue": "芹丁细碎，大小均匀"
+    },
+    {
+      "n": 4,
+      "text": "碗里放蛋黄酱、白醋、盐和黑胡椒搅成顺滑酱汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "白醋一点点就够，用来压蛋黄酱的腻。",
+      "visual_cue": "酱汁顺滑，酸香清爽"
+    },
+    {
+      "n": 5,
+      "text": "倒入鸡蛋丁和芹菜丁，用刮刀翻拌到每块都裹上酱。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "轻拌不压，蛋丁保持块状口感才不糊。",
+      "visual_cue": "蛋丁完整，酱色均匀"
+    }
+  ],
+  "tips": [
+    "鸡蛋冷水下锅慢煮，蛋壳不容易煮裂。",
+    "煮好立刻浸冰水，蛋黄才不会发青灰。",
+    "芹菜切细丁，口感清爽不抢主角。"
+  ],
+  "common_mistakes": [
+    "鸡蛋沸水下锅，蛋壳裂开蛋白流一锅。",
+    "煮好不浸冷水，蛋黄边缘发灰发绿。",
+    "用力搅拌成泥，成品糊口没有层次。"
+  ],
+  "substitutions": [
+    {
+      "original": "蛋黄酱",
+      "substitute": "酸奶",
+      "ratio": "80 克:80 克",
+      "note": "更清爽低脂，白醋减至五毫升。"
+    },
+    {
+      "original": "芹菜",
+      "substitute": "黄瓜",
+      "ratio": "60 克:70 克",
+      "note": "需挤掉多余水分再拌。"
+    }
+  ],
+  "variations": [
+    "加一小勺芥末酱同拌，味道更立体。",
+    "撒少许辣椒粉拌匀，做成微辣版本。"
+  ],
+  "serving_suggestion": "夹在两片吐司中间做三明治，或配生菜直接吃。",
+  "storage": "冷藏一天，食用前拌匀，勿常温久放。",
+  "nutrition_estimate": {
+    "basis": "每份约 160 克",
+    "calories_kcal": 280,
+    "protein_g": 14,
+    "fat_g": 23,
+    "carbs_g": 4,
+    "sodium_mg": 480,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "egg",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须煮至全熟、中心凝固，不要生食或半熟；成品须冷藏并在一天内吃完，勿常温久置。"
+  ],
+  "origin_note": "美国人冰箱里的常备沙拉，煮蛋切丁拌上蛋黄酱和芹菜。简单得几乎没有技巧，却是三明治和野餐盒里的经典配菜，冰凉绵密最顺口。",
+  "tags": [
+    "美国",
+    "鸡蛋",
+    "沙拉",
+    "冷菜"
+  ],
+  "related_ids": [
+    "american-deviled-eggs",
+    "american-cobb-salad",
+    "american-potato-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

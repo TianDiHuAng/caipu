@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:16:11.514Z",
+  "generatedAt": "2026-11-23T08:19:10.481Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1258,
-    "coverage": 0.3842394624312767
+    "actual": 1264,
+    "coverage": 0.3860720830788027
   },
   "regions": {
     "cn": [
@@ -5232,7 +5232,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 29,
+        "actual": 32,
         "cells": [
           {
             "category": "main-meat",
@@ -5287,9 +5287,10 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "american-cobb-salad",
+              "american-coleslaw",
               "american-potato-salad",
               "american-waldorf-salad",
               "caesar-salad"
@@ -5308,9 +5309,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "american-deviled-eggs"
+              "american-deviled-eggs",
+              "american-egg-salad"
             ]
           },
           {
@@ -5324,9 +5326,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "american-mac-and-cheese"
+              "american-mac-and-cheese",
+              "american-tuna-noodle-casserole"
             ]
           },
           {
@@ -5639,7 +5642,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 32,
+        "actual": 35,
         "cells": [
           {
             "category": "snack",
@@ -5696,20 +5699,22 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "agua-fresca",
               "horchata",
               "mexican-agua-de-jamaica",
-              "mexican-champurrado"
+              "mexican-champurrado",
+              "mexican-limonada"
             ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "mexican-calabacitas",
               "mexican-chiles-rellenos",
               "mexican-frijoles-refritos"
             ]
@@ -5736,8 +5741,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mexican-fideo-seco"
+            ]
           },
           {
             "category": "staple-bread",
