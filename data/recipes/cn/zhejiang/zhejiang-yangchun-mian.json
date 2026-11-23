@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-yangchun-mian",
+  "name": {
+    "zh": "阳春面",
+    "en": "Yangchun Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 15,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调汤",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "熬葱油",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮面与调汤",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 90,
+          "unit": "g",
+          "note": "烫熟配面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "碗",
+    "漏勺",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小葱洗净切成段，葱白和葱绿分开装碗备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "葱白熬油葱绿最后撒，香气层次才分明。",
+      "visual_cue": "葱段白绿分开，切口整齐"
+    },
+    {
+      "n": 2,
+      "text": "冷锅倒植物油放葱白，小火慢熬八分钟至微焦。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "葱要冷油下锅，慢慢熬才不糊不出苦味。",
+      "visual_cue": "葱白焦黄，油色清亮"
+    },
+    {
+      "n": 3,
+      "text": "碗里放生抽、盐和一点葱油，冲入滚水成汤底。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先调好汤底再煮面，面出锅就能直接入碗。",
+      "visual_cue": "汤色淡褐，浮一层油花"
+    },
+    {
+      "n": 4,
+      "text": "汤锅烧开足量清水，下面条煮三分钟到刚熟。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "水要宽，面下去才不会粘成一坨。",
+      "visual_cue": "面条浮起，中心无白芯"
+    },
+    {
+      "n": 5,
+      "text": "下青菜烫三十秒，与面条一起捞进调好的汤碗。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "青菜最后烫，颜色翠绿不发黄发软。",
+      "visual_cue": "青菜翠绿，面条整齐"
+    },
+    {
+      "n": 6,
+      "text": "淋上一勺热葱油，撒上葱花即可趁热端上桌吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "葱油要热着淋，香气才被彻底激发。",
+      "visual_cue": "葱香扑鼻，汤面油亮"
+    }
+  ],
+  "tips": [
+    "葱油用小火慢熬，急火一糊整锅发苦。",
+    "汤底先在碗里调好，冲滚水化开更匀。",
+    "面条煮好立刻入碗，久放会坨成一块。"
+  ],
+  "common_mistakes": [
+    "葱段大火爆香，几秒焦黑带苦味。",
+    "汤底用温水冲，盐和酱油化不开沉底。",
+    "面条煮过头再捞，入汤一泡就断。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "300 克:280 克",
+      "note": "不用煮，泡软后入汤烫一分钟。"
+    },
+    {
+      "original": "青菜",
+      "substitute": "豆芽",
+      "ratio": "90 克:100 克",
+      "note": "脆感更明显，烫十五秒即捞。"
+    }
+  ],
+  "variations": [
+    "加一勺猪油替部分植物油，香气更厚。",
+    "卧一个荷包蛋，就是加料的阳春面。"
+  ],
+  "serving_suggestion": "趁热连汤带面吃，清早或夜宵都合适。",
+  "storage": "现做现吃最好，汤面不宜隔夜保存。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 380,
+    "protein_g": 11,
+    "fat_g": 12,
+    "carbs_g": 58,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "面条与青菜须煮至熟透；汤底现冲现用，剩余成品冷藏不超过一天并煮滚后食用。"
+  ],
+  "origin_note": "江南最朴素的一碗面，清汤挂面配一勺葱油。没有浇头却讲究汤清面滑、葱香扑鼻，据说名字取自阳春白雪，简单里透着讲究。",
+  "tags": [
+    "浙江",
+    "面条",
+    "汤面",
+    "家常菜"
+  ],
+  "related_ids": [
+    "zhejiang-pianerchuan",
+    "xianrou-caifan",
+    "hangzhou-luya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
