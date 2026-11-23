@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-yakisoba",
+  "name": {
+    "zh": "日式炒面",
+    "en": "Yakisoba"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 24,
+    "total_min": 39
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "熟蒸面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "紫菜",
+          "name_en": "nori",
+          "amount": 5,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面条放进漏勺用热水冲散表面油分，沥干后抖松备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "面先冲一遍热水，炒的时候才不粘成块。",
+      "visual_cue": "面条松散，根根分明"
+    },
+    {
+      "n": 2,
+      "text": "卷心菜切成细丝，胡萝卜和洋葱也切成粗细相近的丝。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "丝切得粗细一致，才能在同样时间炒软。",
+      "visual_cue": "菜丝细匀，堆头蓬松"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒植物油烧热，下洋葱丝中火炒到边缘透明。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱先下锅炒软，甜味才融进整盘面里。",
+      "visual_cue": "洋葱透明，油面泛香"
+    },
+    {
+      "n": 4,
+      "text": "加胡萝卜丝和卷心菜丝，大火快炒到菜丝微微变软。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "大火快炒保持脆感，出水多了面会发黏。",
+      "visual_cue": "菜丝油亮，锅气很足"
+    },
+    {
+      "n": 5,
+      "text": "把菜丝推到一边，放入面条摊开，煎到贴着锅的一面微焦。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "面条摊平煎一会儿，才有那种焦香的边。",
+      "visual_cue": "面底微黄，香气焦香"
+    },
+    {
+      "n": 6,
+      "text": "淋酱油、撒白糖和盐，用筷子抖散翻拌到颜色均匀。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "用筷子抖散比铲子压更好，面条不结团。",
+      "visual_cue": "面条酱色，油光明亮"
+    },
+    {
+      "n": 7,
+      "text": "关火装盘后撒上海苔丝，趁热吃口感才是最好。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "海苔关火再撒，脆香才不被热气闷软。",
+      "visual_cue": "海苔墨绿，面条油润"
+    }
+  ],
+  "tips": [
+    "面条先用热水冲散，炒的时候才不易粘成团。",
+    "菜丝用大火快炒，出水少口感才够脆。",
+    "用筷子抖散翻拌，面条才不会结成块。"
+  ],
+  "common_mistakes": [
+    "面条不冲直接下锅，粘成一个大面饼。",
+    "全程小火慢炒，菜丝出水变成了煮面。",
+    "酱油一次倒太多，面条发黑又发咸。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "乌冬面",
+      "ratio": "300 克:300 克",
+      "note": "口感更粗弹，炒制时间加两分钟。"
+    },
+    {
+      "original": "卷心菜",
+      "substitute": "豆芽",
+      "ratio": "200 克:200 克",
+      "note": "炒制时间减两分钟，保持脆感。"
+    }
+  ],
+  "variations": [
+    "酱汁里多加一勺白糖，甜咸味更浓。",
+    "把酱油减半再加一勺白糖，甜味更突出。"
+  ],
+  "serving_suggestion": "装盘后撒海苔丝，配一碗味噌汤就是标准的日式套餐。",
+  "storage": "冷藏一天，复热时用平底锅小火翻炒两分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 420,
+    "protein_g": 11,
+    "fat_g": 14,
+    "carbs_g": 62,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "面条与蔬菜须炒至完全熟透；成品冷藏不超过一天，复热须彻底加热后食用。"
+  ],
+  "origin_note": "日本祭典摊位上最有人气的一味，铁板上把面和卷心菜一起翻炒，酱香混着焦气。用筷子抖散面身，最后撒上海苔丝，站着吃都很过瘾。",
+  "tags": [
+    "日本",
+    "面条",
+    "主食",
+    "快手"
+  ],
+  "related_ids": [
+    "japanese-okonomiyaki",
+    "japanese-udon",
+    "japanese-tonkatsu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
