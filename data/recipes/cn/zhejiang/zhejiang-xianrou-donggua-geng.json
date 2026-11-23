@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-xianrou-donggua-geng",
+  "name": {
+    "zh": "浙式咸肉冬瓜羹",
+    "en": "Salt Pork and Winter Melon Soup",
+    "original": "咸肉冬瓜羹"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 51,
+    "total_min": 66
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 200,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "冬瓜",
+          "name_en": "winter melon",
+          "amount": 600,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "咸肉用温水洗两遍，切成一毫米薄片。，看准状态再往下走。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洗掉表面盐霜，汤才不齁。，这一点别省。",
+      "visual_cue": "肉片透光，颜色粉红"
+    },
+    {
+      "n": 2,
+      "text": "冬瓜去皮去瓤，切成两厘米见方的块。，看准状态再往下走。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "块大小一致，熟的时间才齐。，这一点别省。",
+      "visual_cue": "瓜块方整，表面湿润"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒清水，下咸肉片和姜片大火烧开。，看准状态再往下走。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "冷水下肉，鲜味才煮得出来。，这一点别省。",
+      "visual_cue": "汤面翻滚，浮沫聚边"
+    },
+    {
+      "n": 4,
+      "text": "撇净浮沫，烹入料酒转小火煮二十分钟。，看准状态再往下走。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "小火慢煮，咸肉的香才化进汤里。，这一点别省。",
+      "visual_cue": "汤色微白，肉片卷曲"
+    },
+    {
+      "n": 5,
+      "text": "下冬瓜块，中火煮十分钟到透明。，看准状态再往下走。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "冬瓜易烂，别煮过头。，这一点别省。",
+      "visual_cue": "瓜块透明，边缘微软"
+    },
+    {
+      "n": 6,
+      "text": "尝一下咸淡，按需加盐和白胡椒粉。，看准状态再往下走。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "咸肉本身有盐，盐要少放。，这一点别省。",
+      "visual_cue": "汤味清鲜，胡椒微辣"
+    },
+    {
+      "n": 7,
+      "text": "淀粉加水调开，淋入勾薄芡搅匀。，看准状态再往下走。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "边淋边搅，芡才均匀不结块。，这一点别省。",
+      "visual_cue": "汤汁微稠，透亮，这一点很关键。"
+    },
+    {
+      "n": 8,
+      "text": "撒葱花关火，盛碗上桌。，看准状态再往下走。，动作轻一点别弄破。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "葱花最后撒，颜色才鲜。，这一点别省。",
+      "visual_cue": "葱末翠绿，汤面油光"
+    }
+  ],
+  "tips": [
+    "咸肉先洗再煮，汤才不齁咸。，这一点很关键。",
+    "冬瓜后放，煮久了会化。，这一点很关键。",
+    "勾芡薄一点，清汤才透亮。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "咸肉没洗，汤咸得下不了口。，这一点很关键。",
+    "冬瓜煮太久，全化成水。，这一点很关键。",
+    "芡粉撒着下，结成一团团。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸肉",
+      "substitute": "金华火腿",
+      "ratio": "200 克:150 克",
+      "note": "鲜味更浓，盐再减半。"
+    },
+    {
+      "original": "冬瓜",
+      "substitute": "节瓜",
+      "ratio": "600 克:600 克",
+      "note": "口感相近，煮的时间加两分钟。"
+    }
+  ],
+  "variations": [
+    "加一把虾皮，鲜味更足。，这一点很关键。",
+    "放几片笋干，汤更有层次。，这一点很关键。"
+  ],
+  "serving_suggestion": "夏天配米饭，清爽不腻。，这一点很关键。",
+  "storage": "冷藏两天，复热须煮开。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 190,
+    "protein_g": 14,
+    "fat_g": 12,
+    "carbs_g": 9,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腌腊肉制品含盐较高，适量食用；猪肉须彻底煮熟；成品冷藏不超过两天，复热须沸腾。"
+  ],
+  "origin_note": "浙江人冬天腌咸肉，夏天配冬瓜煮一锅。汤清味鲜，瓜块透明软糯，咸肉的油花浮在汤面上，喝一碗很下火。",
+  "tags": [
+    "浙江",
+    "汤",
+    "咸肉",
+    "冬瓜"
+  ],
+  "related_ids": [
+    "xianrou-caifan",
+    "huotui-donggua-tang",
+    "zhejiang-gancai-menrou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

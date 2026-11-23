@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-yucao-geng",
+  "name": {
+    "zh": "浙式鱼胶羹",
+    "en": "Fish Maw Soup",
+    "original": "鱼胶羹"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 51,
+    "total_min": 81
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "light",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鱼胶",
+          "name_en": "fish maw",
+          "amount": 150,
+          "unit": "g",
+          "note": "泡发",
+          "optional": false
+        },
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "碗",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鱼胶提前用冷水泡软，泡到按压有弹性。，看准状态再往下走。",
+      "time_min": 28,
+      "heat": "无火",
+      "tip": "泡不透会发硬，煮再久也咬不动。，这一点别省。",
+      "visual_cue": "胶体柔软，能弯折，这一点很关键。"
+    },
+    {
+      "n": 2,
+      "text": "鱼胶切细丝，用姜丝和料酒抓匀去腥。，看准状态再往下走。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "抓过再冲一下，腥味更淡。，这一点别省。",
+      "visual_cue": "丝条均匀，无黏液，这一点很关键。"
+    },
+    {
+      "n": 3,
+      "text": "鸡胸肉切细丝，加少许淀粉抓匀上浆。，看准状态再往下走。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "上浆后煮出来才嫩。，这一点别省。，经验就是这么来的。",
+      "visual_cue": "肉丝滑手，根根分开"
+    },
+    {
+      "n": 4,
+      "text": "汤锅倒清水，放姜丝大火烧开。，看准状态再往下走。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水开再下料，汤才清。，这一点别省。",
+      "visual_cue": "汤面翻滚，姜香出，这一点很关键。"
+    },
+    {
+      "n": 5,
+      "text": "下鱼胶丝煮十五分钟，煮到胶质变软。，看准状态再往下走。",
+      "time_min": 17,
+      "heat": "中小火",
+      "tip": "中小火慢煮，胶质才化开。，这一点别省。",
+      "visual_cue": "丝条透明，汤略稠，这一点很关键。"
+    },
+    {
+      "n": 6,
+      "text": "下鸡肉丝滑散，煮到肉丝变白浮起。，看准状态再往下走。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "肉丝一下锅就滑开，别结团。，这一点别省。",
+      "visual_cue": "肉丝雪白，条条分明"
+    },
+    {
+      "n": 7,
+      "text": "加盐和白胡椒粉调味，撇净浮沫。，看准状态再往下走。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "胡椒最后放，香气才在。，这一点别省。",
+      "visual_cue": "汤清味鲜，浮沫除净"
+    },
+    {
+      "n": 8,
+      "text": "淀粉加水调开，缓缓淋入勾薄芡。，看准状态再往下走。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "边淋边搅，芡才不结块。，这一点别省。",
+      "visual_cue": "汤汁微稠，能挂勺，这一点很关键。"
+    },
+    {
+      "n": 9,
+      "text": "关火淋蛋清，轻轻推成蛋花。，看准状态再往下走。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "余温足够，蛋花才嫩。，这一点别省。",
+      "visual_cue": "蛋花细白，浮在表面"
+    },
+    {
+      "n": 10,
+      "text": "淋香油，撒葱花盛碗。，看准状态再往下走。，动作轻一点别弄破。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香油最后点，香气才清。，这一点别省。",
+      "visual_cue": "表面油光，葱末翠绿"
+    }
+  ],
+  "tips": [
+    "鱼胶必须泡透，否则煮不软。，这一点很关键。",
+    "勾芡要薄，太稠就成糊了。，这一点很关键。",
+    "蛋清关火后淋，蛋花才嫩。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "鱼胶没泡透，咬着像橡皮。，这一点很关键。",
+    "芡粉直接下锅，凝成一坨。，这一点很关键。",
+    "大火煮蛋清，蛋花发硬起泡。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "鱼胶",
+      "substitute": "银耳",
+      "ratio": "150 克:120 克",
+      "note": "胶质相近，煮的时间减五分钟。"
+    },
+    {
+      "original": "鸡胸肉",
+      "substitute": "鸡腿肉",
+      "ratio": "200 克:200 克",
+      "note": "更嫩，煮的时间缩短两分钟。"
+    }
+  ],
+  "variations": [
+    "加几片火腿，鲜味更浓。，这一点很关键。",
+    "放一小把枸杞，颜色更亮。，这一点很关键。"
+  ],
+  "serving_suggestion": "热汤上桌，餐前一碗最舒服。，这一点很关键。",
+  "storage": "冷藏两天，复热须煮开。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 210,
+    "protein_g": 26,
+    "fat_g": 8,
+    "carbs_g": 9,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类，过敏者慎食；鸡肉与鱼胶须彻底煮熟；成品冷藏不超过两天，复热须沸腾。"
+  ],
+  "origin_note": "浙江沿海人家拿鱼鳔晒成鱼胶，泡软切丝煮羹。汤色清亮，入口胶质滑溜，一碗下去胃里暖暖的。，这一点很关键。",
+  "tags": [
+    "浙江",
+    "汤",
+    "鱼胶",
+    "鸡丝"
+  ],
+  "related_ids": [
+    "songsao-yugeng",
+    "xihu-niurou-geng",
+    "jinzhengu-doufu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

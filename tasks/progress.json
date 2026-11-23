@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:21:02.647Z",
+  "generatedAt": "2026-11-23T13:32:23.415Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 602,
     "target": 3274,
-    "actual": 1444,
-    "coverage": 0.44105070250458156
+    "actual": 1450,
+    "coverage": 0.4428833231521075
   },
   "regions": {
     "cn": [
@@ -706,19 +706,20 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 42,
+        "actual": 48,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "congyou-xia",
               "longjing-xiaren",
               "ningbo-xiechao-niangao",
               "xihu-cuyu",
               "xuecai-datang-huangyu",
+              "zhejiang-shaoxing-zui-xia",
               "zhejiang-youxie-chaonian"
             ]
           },
@@ -726,20 +727,21 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "dongpo-rou",
               "meigancai-kourou",
               "mizhi-huofang",
               "sun-shao-rou",
-              "zhejiang-gancai-menrou"
+              "zhejiang-gancai-menrou",
+              "zhejiang-meigan-cai-kourou-wan"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 9,
             "ids": [
               "huotui-donggua-tang",
               "jinzhengu-doufu-tang",
@@ -747,19 +749,22 @@
               "songsao-yugeng",
               "xihu-niurou-geng",
               "xuecai-datang-huangyu",
-              "zhejiang-chuncai-xiaren-geng"
+              "zhejiang-chuncai-xiaren-geng",
+              "zhejiang-xianrou-donggua-geng",
+              "zhejiang-yucao-geng"
             ]
           },
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "jiaxing-zongzi",
               "ningbo-xiechao-niangao",
               "wenzhou-nuomifan",
               "xianrou-caifan",
+              "zhejiang-cai-fan-gao",
               "zhejiang-caifan"
             ]
           },
@@ -767,13 +772,14 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "dingsheng-gao",
               "guihua-nuomiyu",
               "jiuniang-yuanzi",
               "ningbo-tangyuan",
               "zhejiang-bingtang-nuoou",
+              "zhejiang-guihua-gao",
               "zhejiang-qingtuan"
             ]
           },

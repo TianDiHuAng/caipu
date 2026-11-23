@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-cai-fan-gao",
+  "name": {
+    "zh": "浙式菜饭糕",
+    "en": "Pan-fried Vegetable Rice Cake",
+    "original": "菜饭糕"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 82,
+    "total_min": 102
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 250,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 25,
+          "unit": "g",
+          "note": "拌饭",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 330,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "方形模具",
+    "刀",
+    "砧板",
+    "平底锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍，加水泡二十分钟后沥干。，看准状态再往下走。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡过米粒更饱满，煮出来才糯。，这一点别省。",
+      "visual_cue": "米粒发白，手捏易碎"
+    },
+    {
+      "n": 2,
+      "text": "青菜洗净切碎，用少许盐抓一下挤水。，看准状态再往下走。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "挤掉水，饭才不湿塌。，这一点别省。",
+      "visual_cue": "菜末干爽，颜色翠绿"
+    },
+    {
+      "n": 3,
+      "text": "咸肉切小丁，下锅小火煸出油。，看准状态再往下走。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "煸到透明，咸香才出来。，这一点别省。",
+      "visual_cue": "肉丁透亮，油色清，这一点很关键。"
+    },
+    {
+      "n": 4,
+      "text": "大米加清水放进电饭锅，铺上咸肉丁。，看准状态再往下走。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "水比平时少一点，饭要偏硬。，这一点别省。",
+      "visual_cue": "米面平整，水线清晰"
+    },
+    {
+      "n": 5,
+      "text": "按下煮饭键，煮到跳闸后焖十分钟。，看准状态再往下走。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "跳闸别急开盖，焖过才松。，这一点别省。",
+      "visual_cue": "饭粒分明，锅边微焦"
+    },
+    {
+      "n": 6,
+      "text": "趁热拌入猪油和青菜碎，加盐拌匀。，看准状态再往下走。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "热的拌，猪油才化得开。，这一点别省。",
+      "visual_cue": "饭粒油亮，菜末分布匀"
+    },
+    {
+      "n": 7,
+      "text": "趁热把饭压进方形模具，压紧实。，看准状态再往下走。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "压得越紧，切的时候越不散。，这一点别省。",
+      "visual_cue": "饭块紧实，表面平整"
+    },
+    {
+      "n": 8,
+      "text": "放凉后脱模，切成两厘米厚片。，看准状态再往下走。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "凉透再切，切面才整齐。，这一点别省。",
+      "visual_cue": "块形方正，切口平整"
+    },
+    {
+      "n": 9,
+      "text": "平底锅倒植物油，中小火把饭糕两面煎黄。，看准状态再往下走。",
+      "time_min": 7,
+      "heat": "中小火",
+      "tip": "别急着翻，等底面结壳。，这一点别省。",
+      "visual_cue": "两面金黄，边缘焦脆"
+    }
+  ],
+  "tips": [
+    "饭要煮得偏硬一点，压糕才不散。，这一点很关键。",
+    "压模时压紧实，切片才整齐。，这一点很关键。",
+    "放凉再切，切面才不粘刀。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "水放多了，饭软压不成形。，这一点很关键。",
+    "热的时候切，全粘在刀上。，这一点很关键。",
+    "火太大，外面焦了里面还凉。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "青菜",
+      "substitute": "上海青",
+      "ratio": "250 克:250 克",
+      "note": "梗多，切得更碎些。"
+    },
+    {
+      "original": "咸肉",
+      "substitute": "腊肠",
+      "ratio": "80 克:80 克",
+      "note": "甜香不同，盐要减。"
+    }
+  ],
+  "variations": [
+    "加一把虾皮，鲜味更足。，这一点很关键。",
+    "饭里拌一点香菇丁，香气更浓。，这一点很关键。"
+  ],
+  "serving_suggestion": "煎好趁热吃，配一碗汤。，这一点很关键。",
+  "storage": "冷藏两天，冷冻两周；复热平底锅煎三分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 480,
+    "protein_g": 12,
+    "fat_g": 18,
+    "carbs_g": 66,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腌腊肉制品含盐较高，适量食用；米饭须彻底蒸熟；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "浙江人家剩了菜饭不舍得扔，压进模子切成块，第二天煎得两面焦黄。外壳脆响，里面还软糯带着猪油香。",
+  "tags": [
+    "浙江",
+    "主食",
+    "米饭",
+    "煎制"
+  ],
+  "related_ids": [
+    "xianrou-caifan",
+    "zhejiang-caifan",
+    "wenzhou-nuomifan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
