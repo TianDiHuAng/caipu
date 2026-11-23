@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T09:13:28.406Z
+> 生成时间：2026-11-23T09:34:06.244Z
 
-**总览**：工程任务 49/53；菜谱内容 1323/3274（40.4%），共 594 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1329/3274（40.6%），共 595 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -408,7 +408,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（757/1935）
+### 外国菜系（763/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，45/107</summary>
 
@@ -506,12 +506,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>西班牙菜 spanish</b> — A 级，39/107</summary>
+<details><summary><b>西班牙菜 spanish</b> — A 级，41/107</summary>
 
 - [ ] `P4-spanish/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 7
-- [ ] `P4-spanish/appetizer` 前菜（Appetizer）目标 15，已完成 7
+- [ ] `P4-spanish/appetizer` 前菜（Appetizer）目标 15，已完成 8
 - [ ] `P4-spanish/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 5
-- [ ] `P4-spanish/dessert` 甜点（Dessert）目标 15，已完成 6
+- [ ] `P4-spanish/dessert` 甜点（Dessert）目标 15，已完成 7
 - [ ] `P4-spanish/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 5
 - [ ] `P4-spanish/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 2
 - [ ] `P4-spanish/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 1
@@ -523,18 +523,19 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>越南菜 vietnamese</b> — B 级，18/38</summary>
+<details><summary><b>越南菜 vietnamese</b> — B 级，22/38</summary>
 
-- [ ] `P4-vietnamese/soup` 汤羹（Soup）目标 6，已完成 3
-- [ ] `P4-vietnamese/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 3
+- [ ] `P4-vietnamese/soup` 汤羹（Soup）目标 6，已完成 4
+- [ ] `P4-vietnamese/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 4
 - [ ] `P4-vietnamese/salad` 沙拉（Salad）目标 6，已完成 2
 - [ ] `P4-vietnamese/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
 - [ ] `P4-vietnamese/drink` 饮品（Drink）目标 6，已完成 0
 - [ ] `P4-vietnamese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-vietnamese/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
-- [x] `P4-vietnamese/snack` 小吃（Street Food）目标 0，已完成 3
+- [x] `P4-vietnamese/snack` 小吃（Street Food）目标 0，已完成 4
 - [x] `P4-vietnamese/staple-bread` 主食·饼（Bread Staple）目标 0，已完成 1
 - [x] `P4-vietnamese/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 1
+- [x] `P4-vietnamese/main-tofu` 主菜·豆制品（Tofu Main）目标 0，已完成 1
 - [x] `P4-vietnamese/appetizer` 前菜（Appetizer）目标 0，已完成 1
 - [x] `P4-vietnamese/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
 

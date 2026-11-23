@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:13:28.338Z",
+  "generatedAt": "2026-11-23T09:34:06.158Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 594,
+    "cells": 595,
     "target": 3274,
-    "actual": 1323,
-    "coverage": 0.40409285277947465
+    "actual": 1329,
+    "coverage": 0.40592547342700064
   },
   "regions": {
     "cn": [
@@ -3355,7 +3355,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 41,
         "cells": [
           {
             "category": "main-seafood",
@@ -3376,12 +3376,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "calamares-fritos",
               "champinones-al-ajillo",
               "spanish-almejas-vino-blanco",
               "spanish-gambas-al-ajillo",
+              "spanish-huevos-rotos",
               "spanish-pan-con-tomate",
               "spanish-patatas-bravas",
               "tortilla-espanola"
@@ -3404,12 +3405,13 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "churros",
               "flan",
               "spanish-arroz-con-leche",
               "spanish-bizcocho",
+              "spanish-crema-catalana",
               "spanish-polvorones",
               "tarta-de-santiago"
             ]
@@ -3499,15 +3501,16 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 18,
+        "actual": 22,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "pho-bo",
+              "vietnamese-canh-bi",
               "vietnamese-niurou-fen",
               "vietnamese-sour-soup"
             ]
@@ -3516,9 +3519,10 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "pho-bo",
+              "vietnamese-bun-ga",
               "vietnamese-cao-lau",
               "vietnamese-niurou-fen"
             ]
@@ -3570,11 +3574,12 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "banh-mi",
               "vietnamese-banh-mi",
-              "vietnamese-banh-xeo"
+              "vietnamese-banh-xeo",
+              "vietnamese-cha-gio"
             ]
           },
           {
@@ -3593,6 +3598,15 @@
             "actual": 1,
             "ids": [
               "vietnamese-banh-xeo"
+            ]
+          },
+          {
+            "category": "main-tofu",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "vietnamese-dau-hu-sot-ca"
             ]
           },
           {
