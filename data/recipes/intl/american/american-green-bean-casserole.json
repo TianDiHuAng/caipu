@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-green-bean-casserole",
+  "name": {
+    "zh": "美式四季豆焗",
+    "en": "American Green Bean Casserole"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 30,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "豆角",
+          "name_en": "green beans",
+          "amount": 700,
+          "unit": "g",
+          "note": "去筋折段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 25,
+          "unit": "g",
+          "note": "调白汁",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "note": "调白汁",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 40,
+          "unit": "g",
+          "note": "铺面",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 60,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "淋面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "四季豆掐掉两头撕去筋，折成五厘米长的段，洗净沥干。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "筋一定要撕干净，不然吃起来满口粗纤维。",
+      "visual_cue": "豆段整齐，表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "汤锅烧开水，放四季豆焯四分钟，捞出过凉沥干。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "先焯到断生，烤的时候才不会干硬发青。",
+      "visual_cue": "豆段深绿发亮，掐得动"
+    },
+    {
+      "n": 3,
+      "text": "蘑菇切成薄片，洋葱切成细小的碎丁分别装碗备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蘑菇片切薄些，炒出来才容易出香。",
+      "visual_cue": "蘑片均匀，洋葱丁细小"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放黄油化开，下洋葱和蘑菇中火炒到变软出香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "蘑菇先炒出水再炒干，香味才浓郁不水。",
+      "visual_cue": "洋葱透明，蘑菇片收缩"
+    },
+    {
+      "n": 5,
+      "text": "撒入面粉不停翻炒一分钟，倒牛奶搅成浓稠白汁。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "面粉要炒散再倒奶，一次倒进去容易结疙瘩。",
+      "visual_cue": "白汁稠滑，能裹住铲背"
+    },
+    {
+      "n": 6,
+      "text": "加盐和黑胡椒调味，倒入四季豆翻拌到每根都裹上白汁。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "豆段下锅轻拌，别用力压免得拌烂。",
+      "visual_cue": "豆段裹满白汁，稠而不干"
+    },
+    {
+      "n": 7,
+      "text": "装进烤盘撒上奶酪和面包糠，淋植物油后烤十八分钟。",
+      "time_min": 18,
+      "heat": "中火",
+      "tip": "表面撒料要盖满，烤出来才有一层脆壳。",
+      "visual_cue": "表层金黄起泡，香气扑鼻"
+    }
+  ],
+  "tips": [
+    "四季豆先焯断生再烤，口感才嫩不夹生。",
+    "白汁宁稠不稀，烤过之后还会再收干。",
+    "面包糠和奶酪最后撒，厚度均匀才起脆壳。"
+  ],
+  "common_mistakes": [
+    "四季豆不焯直接烤，豆角发硬还带生青味。",
+    "白汁调得太稀，烤完盘底全是汤水。",
+    "奶酪撒得太薄，表面烤不出金黄脆壳。"
+  ],
+  "substitutions": [
+    {
+      "original": "四季豆",
+      "substitute": "青豆",
+      "ratio": "700 克:650 克",
+      "note": "无需焯水，直接入白汁同烤。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "300 毫升:200 毫升",
+      "note": "更浓郁，需另加一百毫升清水稀释。"
+    }
+  ],
+  "variations": [
+    "表面撒一把炸洋葱碎，脆感更足更像美式家常版。",
+    "加少许甜椒粉同炒白汁，颜色更暖。"
+  ],
+  "serving_suggestion": "趁热上桌配烤鸡或牛排，浓稠白汁最配主菜。",
+  "storage": "冷藏两天，复烤十分钟回温即可。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 290,
+    "protein_g": 10,
+    "fat_g": 17,
+    "carbs_g": 24,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "四季豆必须彻底加热至熟透软嫩，生豆含皂苷易致不适；成品冷藏不超过两天，复烤须热透。"
+  ],
+  "origin_note": "美国节日餐桌上的常客，四季豆裹上蘑菇白汁，撒满奶酪和面包糠烤到金黄。做法源自上世纪罐头食谱，如今已是感恩节家庭聚餐的固定配角，浓郁温暖。",
+  "tags": [
+    "美国",
+    "四季豆",
+    "焗烤",
+    "家常菜"
+  ],
+  "related_ids": [
+    "american-cornbread",
+    "meatloaf",
+    "american-potato-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

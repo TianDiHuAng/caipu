@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:05:42.229Z",
+  "generatedAt": "2026-11-23T08:08:48.034Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1240,
-    "coverage": 0.3787416004886988
+    "actual": 1246,
+    "coverage": 0.3805742211362248
   },
   "regions": {
     "cn": [
@@ -3938,7 +3938,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 29,
+        "actual": 31,
         "cells": [
           {
             "category": "main-vegetable",
@@ -4007,8 +4007,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "indian-egg-curry"
+            ]
           },
           {
             "category": "main-tofu",
@@ -4023,8 +4025,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "indian-vermicelli-upma"
+            ]
           },
           {
             "category": "staple-rice",
@@ -5215,7 +5219,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 26,
+        "actual": 29,
         "cells": [
           {
             "category": "main-meat",
@@ -5245,8 +5249,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "american-apple-crisp",
               "apple-pie",
               "brownie",
               "new-york-cheesecake",
@@ -5281,15 +5286,19 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "american-green-bean-casserole"
+            ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "american-deviled-eggs"
+            ]
           },
           {
             "category": "main-tofu",
@@ -5617,7 +5626,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 31,
+        "actual": 32,
         "cells": [
           {
             "category": "snack",
@@ -5705,8 +5714,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "mexican-tofu-tinga"
+            ]
           },
           {
             "category": "staple-noodle",
