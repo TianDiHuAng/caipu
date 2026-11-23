@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-galbi-jjim",
+  "name": {
+    "zh": "韩式炖牛排骨",
+    "en": "Braised Beef Short Ribs",
+    "original": "갈비찜"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 288,
+    "total_min": 318
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛排骨",
+          "name_en": "beef short ribs",
+          "amount": 1200,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 80,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 200,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "剁碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "滤网",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛排骨用冷水泡一小时，中途换两次水去血水。，看状态再决定下一步。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "血水泡净，炖出来汤才不浑。，看状态再决定下一步。",
+      "visual_cue": "肉色变浅，水清不红"
+    },
+    {
+      "n": 2,
+      "text": "排骨冷水下锅，煮开后撇净浮沫，捞出冲洗干净。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "飞水要冷水下，血沫才逼得出来。，看状态再决定下一步。",
+      "visual_cue": "浮沫聚边，肉块紧实"
+    },
+    {
+      "n": 3,
+      "text": "梨和洋葱分别磨成泥，装碗备用。，看状态再决定下一步。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "磨泥比切碎更出汁，让肉更入味。，看状态再决定下一步。",
+      "visual_cue": "泥状细腻，汁水充分析出"
+    },
+    {
+      "n": 4,
+      "text": "梨泥、洋葱泥、生抽、白糖、料酒和蒜末调成腌汁。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "先尝一口，甜咸要平衡。，看状态再决定下一步。",
+      "visual_cue": "汁色深褐，质地浓稠"
+    },
+    {
+      "n": 5,
+      "text": "排骨放进腌汁抓匀，冷藏腌两小时。，看状态再决定下一步。",
+      "time_min": 123,
+      "heat": "无火",
+      "tip": "时间够肉才进味，中途翻一次。，看状态再决定下一步。",
+      "visual_cue": "肉色变深，汁液渗入"
+    },
+    {
+      "n": 6,
+      "text": "汤锅放排骨，倒腌汁和清水，加姜片大火烧开。，看状态再决定下一步。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "水要没过排骨两指。，看状态再决定下一步。",
+      "visual_cue": "汤面翻滚，香气浓郁"
+    },
+    {
+      "n": 7,
+      "text": "转小火炖一小时，炖到排骨能用筷子插入。，看状态再决定下一步。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "小火慢炖，肉才酥而不散。，看状态再决定下一步。",
+      "visual_cue": "肉质松软，骨肉微离"
+    },
+    {
+      "n": 8,
+      "text": "下胡萝卜和香菇，继续炖二十分钟。，看状态再决定下一步。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "蔬菜后放，才不会炖成泥。，看状态再决定下一步。",
+      "visual_cue": "胡萝卜软透，香菇饱满"
+    },
+    {
+      "n": 9,
+      "text": "开大火收汁到浓稠，淋香油撒芝麻。，看状态再决定下一步。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "收汁时勤翻动，别糊底。，看状态再决定下一步。",
+      "visual_cue": "汁亮裹肉，油光发亮"
+    }
+  ],
+  "tips": [
+    "排骨冷水泡够时间，血水去净汤才清。",
+    "梨泥是这道菜的关键，肉才嫩且带回甜。",
+    "收汁阶段要勤翻，糖分容易糊底。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "排骨没飞水，汤浑带腥味。，这一点很关键。",
+    "全程大火猛煮，肉散成丝。，这一点很关键。",
+    "收汁收过头，酱汁发苦粘锅。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛排骨",
+      "substitute": "牛腩",
+      "ratio": "1200 克:1000 克",
+      "note": "更易软烂，炖的时间减二十分钟。"
+    },
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "200 克:200 克",
+      "note": "甜度接近，酸味略少。"
+    }
+  ],
+  "variations": [
+    "加板栗同炖，甜糯更足。，这一点很关键。",
+    "放几颗红枣，汤汁更红亮。，这一点很关键。"
+  ],
+  "serving_suggestion": "连锅上桌，配白米饭和泡菜。，这一点很关键。",
+  "storage": "冷藏三天，冷冻两周；复热加少许清水小火慢煮。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 620,
+    "protein_g": 42,
+    "fat_g": 38,
+    "carbs_g": 24,
+    "sodium_mg": 1280,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炖至完全熟透软烂；成品冷藏不超过三天，复热须彻底加热至沸腾；含大豆制品，过敏者慎食。"
+  ],
+  "origin_note": "首尔大户人家过节才吃的大菜，牛排骨在梨汁里腌透，再小火炖到骨肉微离。端上桌酱色红亮，肉一抿就脱骨。",
+  "tags": [
+    "韩国",
+    "炖菜",
+    "牛排骨",
+    "梨"
+  ],
+  "related_ids": [
+    "bulgogi",
+    "korean-bulgogi",
+    "yukgaejang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

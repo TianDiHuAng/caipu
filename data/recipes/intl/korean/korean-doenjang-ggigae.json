@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-doenjang-ggigae",
+  "name": {
+    "zh": "韩式大酱汤",
+    "en": "Soybean Paste Stew",
+    "original": "된장찌개"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 88,
+    "total_min": 103
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "韩式大酱",
+          "name_en": "Korean soybean paste",
+          "amount": 60,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 200,
+          "unit": "g",
+          "note": "吐沙",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "刀",
+    "砧板",
+    "汤勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蛤蜊放淡盐水里吐沙一小时，刷净外壳。，看状态再决定下一步。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "吐沙不净，一口下去全是沙。，看状态再决定下一步。",
+      "visual_cue": "外壳洁净，水底沉沙"
+    },
+    {
+      "n": 2,
+      "text": "土豆和西葫芦切成一厘米厚的片，洋葱切丝。，看状态再决定下一步。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "厚薄一致，煮的时间才齐。，看状态再决定下一步。",
+      "visual_cue": "切片均匀，边缘整齐"
+    },
+    {
+      "n": 3,
+      "text": "砂锅倒清水，加韩式大酱用汤勺化开。，看状态再决定下一步。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "酱要完全化开，不然结块沉底。，看状态再决定下一步。",
+      "visual_cue": "汤色褐黄，无酱疙瘩"
+    },
+    {
+      "n": 4,
+      "text": "放大蒜和辣椒粉，中火煮到汤开。，看状态再决定下一步。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "辣椒粉后放颜色更红。，看状态再决定下一步。",
+      "visual_cue": "汤面微滚，红油浮起"
+    },
+    {
+      "n": 5,
+      "text": "下土豆片煮五分钟，煮到边缘透明。，看状态再决定下一步。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "土豆先下，耐煮。，看状态再决定下一步。",
+      "visual_cue": "土豆半透，汤略稠，这一点很关键。"
+    },
+    {
+      "n": 6,
+      "text": "放西葫芦、洋葱和蛤蜊，煮到蛤蜊开口。，看状态再决定下一步。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "蛤蜊一开口就熟，久煮肉缩。，看状态再决定下一步。",
+      "visual_cue": "蛤壳张开，汤色发白"
+    },
+    {
+      "n": 7,
+      "text": "加北豆腐块，小火煮三分钟入味。，看状态再决定下一步。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "豆腐后放，煮久会碎。，看状态再决定下一步。",
+      "visual_cue": "豆腐鼓起，边缘泛黄"
+    },
+    {
+      "n": 8,
+      "text": "撒葱段，淋香油关火端上桌。，看状态再决定下一步。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香油关火后淋，香气才透。，看状态再决定下一步。",
+      "visual_cue": "葱段翠绿，汤面油亮"
+    }
+  ],
+  "tips": [
+    "大酱要用汤勺压散，汤才不结块。，这一点很关键。",
+    "蛤蜊提前吐沙，汤才没有土腥味。，这一点很关键。",
+    "豆腐最后放，煮久了会散成渣。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "大酱直接下锅不化开，锅底一层糊。",
+    "蛤蜊没吐沙，整锅汤带沙。，这一点很关键。",
+    "全程大火，汤煮干一半。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "蛤蜊",
+      "substitute": "五花肉",
+      "ratio": "200 克:150 克",
+      "note": "先煸出油，汤更浓。"
+    },
+    {
+      "original": "韩式大酱",
+      "substitute": "东北大酱",
+      "ratio": "60 克:55 克",
+      "note": "咸度更高，盐要减。"
+    }
+  ],
+  "variations": [
+    "加一把泡菜，酸辣更开胃。，这一点很关键。",
+    "放几片牛肉，做成牛肉大酱汤。，这一点很关键。"
+  ],
+  "serving_suggestion": "配白米饭，汤泡饭最好吃。，这一点很关键。",
+  "storage": "冷藏两天，复热须煮开。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 240,
+    "protein_g": 18,
+    "fat_g": 10,
+    "carbs_g": 20,
+    "sodium_mg": 1320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含贝类与大豆制品，过敏者慎食；蛤蜊须煮至开壳，未开壳的不要食用；成品冷藏不超过两天。"
+  ],
+  "origin_note": "韩国家庭最常见的一锅汤，大酱在清水里化开，土豆西葫芦和蛤蜊一起煮。汤色深褐带着豆香，泡米饭能吃两碗。",
+  "tags": [
+    "韩国",
+    "汤",
+    "大酱",
+    "豆腐"
+  ],
+  "related_ids": [
+    "korean-dajiang-tang",
+    "kimchi-jjigae",
+    "sundubu-jjigae"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
