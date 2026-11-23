@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-zha-wu-xiang",
+  "name": {
+    "zh": "闽式炸五香",
+    "en": "Fujian Five-Spice Rolls",
+    "original": "炸五香"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 25,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 400,
+          "unit": "g",
+          "note": "切细条",
+          "optional": false
+        },
+        {
+          "name": "豆腐皮",
+          "name_en": "tofu skin",
+          "amount": 4,
+          "unit": "piece",
+          "note": "包卷",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "荸荠",
+          "name_en": "water chestnut",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 40,
+          "unit": "g",
+          "note": "黏合",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "黏合",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 270,
+          "unit": "ml",
+          "note": "油炸",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成一厘米粗的细条，装碗备用。这一步别着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "条要粗细均匀，炸的时候才同熟。，注意火候。",
+      "visual_cue": "肉条匀整，肥瘦相间，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "荸荠去皮切小丁，小葱切成细葱花。这一步别着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "荸荠丁别太大，卷的时候会破皮。，注意火候。",
+      "visual_cue": "丁粒均匀，葱末细碎，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "肉条加生抽、白糖、盐和五香粉抓匀。这一步别着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "抓到手发黏，味道才进得去。，注意火候。",
+      "visual_cue": "肉条发亮，香料挂匀，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "加荸荠丁、葱花、鸡蛋和淀粉拌成黏稠馅料。这一步别着急。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "淀粉别一次倒完，看黏度加。，注意火候。",
+      "visual_cue": "馅料抱团，能挂住勺子"
+    },
+    {
+      "n": 5,
+      "text": "豆皮摊开，把馅料码成长条，卷紧封口。这一步别着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "卷的时候压紧，炸好切面才实。，注意火候。",
+      "visual_cue": "卷筒紧实，粗细一致，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "卷好的豆皮卷上锅蒸十分钟定型。这一步别着急。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "蒸过再炸，里面才熟透不散。，注意火候。",
+      "visual_cue": "卷身挺实，表面微润，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "晾到不烫手，切成五厘米长的段。这一步别着急。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "晾凉再切，切口才平整。，注意火候。",
+      "visual_cue": "切面平整，馅料不散，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "炒锅倒植物油烧到六成热，下卷段炸三分钟。这一步别着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温别太高，否则外焦内生。，注意火候。",
+      "visual_cue": "外壳金黄，浮起冒泡，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "捞出沥油，趁热配甜辣酱吃。这一步别着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "垫厨房纸吸油，口感才不腻。，注意火候。",
+      "visual_cue": "外壳酥脆，断面多汁，状态稳定"
+    }
+  ],
+  "tips": [
+    "豆皮卷要压紧，炸好切开才不散。，值得留意。",
+    "先蒸后炸，里面熟得透。，值得留意。",
+    "油温六成热下锅，外壳才金黄。，值得留意。"
+  ],
+  "common_mistakes": [
+    "卷得太松，下锅就散开。，值得留意。",
+    "油温过高，外面焦了里面还生。，值得留意。",
+    "淀粉太少，馅料不成团。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪梅花肉",
+      "ratio": "400 克:400 克",
+      "note": "更瘦，口感略紧，油可多放一点。"
+    },
+    {
+      "original": "荸荠",
+      "substitute": "莲藕",
+      "ratio": "80 克:90 克",
+      "note": "更脆，切丁要小些。"
+    }
+  ],
+  "variations": [
+    "馅里加一点虾仁丁，鲜味更足。，值得留意。",
+    "用空气炸锅两百度炸十二分钟，少油版。"
+  ],
+  "serving_suggestion": "切段装盘，配甜辣酱或醋碟。，效果更稳定。",
+  "storage": "冷藏两天，冷冻两周；复热一百八十度烤八分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 220 克",
+    "calories_kcal": 560,
+    "protein_g": 22,
+    "fat_g": 42,
+    "carbs_g": 22,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋与大豆制品，过敏者慎食；油炸须炸至中心熟透、断面无生肉；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "闽南街头最常见的炸物，豆皮卷着肉馅和荸荠，先蒸后炸。切段时外皮咔嚓响，里面还冒着汁，蘸甜辣酱一口一段。",
+  "tags": [
+    "福建",
+    "小吃",
+    "五香",
+    "油炸"
+  ],
+  "related_ids": [
+    "minnan-zhacurou",
+    "fuzhou-yuwan",
+    "wuxiang-paigu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

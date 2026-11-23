@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-cai-pu-zhu-jiao",
+  "name": {
+    "zh": "闽式菜脯猪脚",
+    "en": "Braised Pork Trotters with Preserved Radish",
+    "original": "菜脯猪脚"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 124,
+    "total_min": 144
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪蹄",
+          "name_en": "pork trotter",
+          "amount": 1000,
+          "unit": "g",
+          "note": "斩块",
+          "optional": false
+        },
+        {
+          "name": "萝卜干",
+          "name_en": "dried radish",
+          "amount": 120,
+          "unit": "g",
+          "note": "泡软切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 35,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "萝卜干用清水泡二十分钟，挤干后切小丁。这一步别着急。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡去多余咸味，炖出来才不齁。，注意火候。",
+      "visual_cue": "菜丁软化，咸味变淡，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "猪蹄冷水下锅，加姜片和料酒焯八分钟。这一步别着急。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "焯透去腥，汤才不浑。，注意火候。",
+      "visual_cue": "浮沫厚，蹄块收紧，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "捞出用温水冲净，拔掉残留的毛根。这一步别着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "毛根去净，口感才干净。，注意火候。",
+      "visual_cue": "蹄皮光洁，无杂毛，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油，下蒜末和萝卜干丁炒香。这一步别着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "萝卜干炒过，咸香才出来。，注意火候。",
+      "visual_cue": "菜丁香浓，粒粒分明，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "倒猪蹄翻炒，加生抽、老抽和冰糖炒匀。这一步别着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "翻炒让每块上色。，注意火候。",
+      "visual_cue": "蹄块红褐，酱汁均匀，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "倒清水没过猪蹄，大火烧开。这一步别着急。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "水一次加够，中途不添。，注意火候。",
+      "visual_cue": "汤面翻滚，浮沫聚边，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "撇净浮沫，转小火盖盖焖七十分钟。这一步别着急。",
+      "time_min": 72,
+      "heat": "小火",
+      "tip": "小火慢焖，胶质才化得开。，注意火候。",
+      "visual_cue": "蹄块微软，汤汁微稠，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "加盐调味，开盖中火收汁十分钟。这一步别着急。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "萝卜干吸汁，越收越香。，注意火候。",
+      "visual_cue": "汁浓挂勺，菜丁油亮，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "关火焖五分钟，连汁一起盛出。这一步别着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置一会，胶质更黏稠。，注意火候。",
+      "visual_cue": "蹄皮黏亮，香气扑鼻，状态稳定"
+    }
+  ],
+  "tips": [
+    "萝卜干先泡去咸，咸淡才好控制。，值得留意。",
+    "猪蹄焯透，成品才没有异味。，值得留意。",
+    "收汁时勤翻，糖分容易糊底。，值得留意。"
+  ],
+  "common_mistakes": [
+    "萝卜干没泡，整锅咸得发苦。，值得留意。",
+    "火太大，猪皮破裂胶质流失。，值得留意。",
+    "收汁不管，锅底一层焦黑。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "萝卜干",
+      "substitute": "梅干菜",
+      "ratio": "120 克:100 克",
+      "note": "香气更浓，泡发时间加倍。"
+    },
+    {
+      "original": "猪蹄",
+      "substitute": "五花肉",
+      "ratio": "1000 克:800 克",
+      "note": "油脂更多，焖的时间缩短二十分钟。"
+    }
+  ],
+  "variations": [
+    "加几粒干贝，鲜味更足。，值得留意。",
+    "放两个干辣椒，做成咸辣口。，值得留意。"
+  ],
+  "serving_suggestion": "浇在米饭上，连汁吃最香。，效果更稳定。",
+  "storage": "冷藏三天，冷冻两周；复热蒸十分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 600,
+    "protein_g": 34,
+    "fat_g": 44,
+    "carbs_g": 14,
+    "sodium_mg": 1350,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪蹄须焖至完全熟透、胶质软化；腌渍萝卜干含盐高，注意总量；成品冷藏不超过三天，复热须彻底加热。"
+  ],
+  "origin_note": "闽南人把腌萝卜干叫菜脯，和猪脚一起下锅慢焖。菜脯的咸香钻进胶质里，猪脚糯得抿一下就化，汁拌饭能吃两碗。",
+  "tags": [
+    "福建",
+    "卤味",
+    "猪脚",
+    "菜脯"
+  ],
+  "related_ids": [
+    "fujian-jiang-zhu-ti",
+    "minnan-fengrou",
+    "minnan-zhacurou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

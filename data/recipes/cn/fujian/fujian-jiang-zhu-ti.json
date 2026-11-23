@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-jiang-zhu-ti",
+  "name": {
+    "zh": "闽式酱猪蹄",
+    "en": "Fujian Braised Pork Trotters",
+    "original": "酱猪蹄"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 109,
+    "total_min": 134
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪蹄",
+          "name_en": "pork trotter",
+          "amount": 1000,
+          "unit": "g",
+          "note": "斩块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 50,
+          "unit": "ml",
+          "note": "酱底",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 35,
+          "unit": "g",
+          "note": "提亮",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 4,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "夹子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪蹄冷水下锅，加姜片和料酒焯八分钟。这一步别着急。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "焯透才没有猪腥味。，注意火候。",
+      "visual_cue": "浮沫厚，蹄块收紧，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "捞出用温水冲净，拔掉残毛。这一步别着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "毛根要去净，吃着才不扎嘴。，注意火候。",
+      "visual_cue": "蹄皮光洁，无杂毛，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，下冰糖小火炒到枣红色。这一步别着急。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色一冒烟就下蹄块，别炒黑。，注意火候。",
+      "visual_cue": "糖液起泡，色如琥珀，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "倒猪蹄快速翻炒，让每块都裹上糖色。这一步别着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "翻炒要快，糖色才挂得匀。，注意火候。",
+      "visual_cue": "蹄块红亮，表面泛光，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "下姜片、八角、桂皮和香叶炒出香味。这一步别着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料炒香，卤味才厚。，注意火候。",
+      "visual_cue": "香气浓，锅底略干，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "烹入料酒，加生抽和老抽翻匀。这一步别着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "老抽只上色，多放会发黑。，注意火候。",
+      "visual_cue": "酱色深红，汁水润泽，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "倒清水没过猪蹄，大火烧开后转小火。这一步别着急。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "水要没过，焖的过程会收。，注意火候。",
+      "visual_cue": "汤面翻滚，蹄块浮起，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "盖盖小火焖七十五分钟，中途翻动两次。这一步别着急。",
+      "time_min": 77,
+      "heat": "小火",
+      "tip": "翻动让上下入味均匀。，注意火候。",
+      "visual_cue": "表皮透明，皮肉微软"
+    },
+    {
+      "n": 9,
+      "text": "开盖加盐，中火收汁到浓稠挂勺。这一步别着急。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "边收边淋汁，颜色才亮。，注意火候。",
+      "visual_cue": "汁浓红亮，蹄块油润，状态稳定"
+    },
+    {
+      "n": 10,
+      "text": "关火再焖五分钟，让汤汁更黏稠地挂在蹄块上。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "关火焖一会，胶质更黏。，注意火候。",
+      "visual_cue": "表面挂汁，入口黏唇"
+    }
+  ],
+  "tips": [
+    "焯水一定要焯透，猪腥味才去得干净。，值得留意。",
+    "炒糖色用小火，颜色才亮不发苦。，值得留意。",
+    "收汁到挂勺就停，太干会发硬。，值得留意。"
+  ],
+  "common_mistakes": [
+    "糖色炒过头，整锅发苦。，值得留意。",
+    "焖的时间不够，蹄筋咬不动。，值得留意。",
+    "收汁太干，凉了黏成一坨。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪蹄",
+      "substitute": "猪肘",
+      "ratio": "1000 克:1000 克",
+      "note": "肉多胶质少，焖的时间缩短十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "麦芽糖",
+      "ratio": "35 克:30 克",
+      "note": "色泽更亮，甜味更柔。"
+    }
+  ],
+  "variations": [
+    "加两只干辣椒，做成微辣版。，值得留意。",
+    "放一把花生同焖，吸汁很香。，值得留意。"
+  ],
+  "serving_suggestion": "热吃软糯，凉吃弹牙，配米饭或酒。，效果更稳定。",
+  "storage": "冷藏三天，冷冻两周；复热蒸十分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 620,
+    "protein_g": 36,
+    "fat_g": 46,
+    "carbs_g": 14,
+    "sodium_mg": 1200,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪蹄须焖至完全熟透、胶质软化；含大豆制品，过敏者慎食；成品冷藏不超过三天，复热须彻底加热。"
+  ],
+  "origin_note": "闽南卤摊的老味道，猪蹄先焯再炒糖色，小火焖到皮糯筋软。出锅时油亮黏手，啃完手指都要舔一遍。家常做法并不复杂，关键是火候和耐心。",
+  "tags": [
+    "福建",
+    "卤味",
+    "猪蹄",
+    "酱制"
+  ],
+  "related_ids": [
+    "wuxiang-paigu",
+    "zui-paigu",
+    "minnan-fengrou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

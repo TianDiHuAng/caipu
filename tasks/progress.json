@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T12:48:00.232Z",
+  "generatedAt": "2026-11-23T12:58:41.919Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 602,
     "target": 3274,
-    "actual": 1427,
-    "coverage": 0.4358582773365913
+    "actual": 1433,
+    "coverage": 0.4376908979841173
   },
   "regions": {
     "cn": [
@@ -870,15 +870,17 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 40,
+        "actual": 46,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 8,
             "ids": [
               "fujian-ganbei-donggua-tang",
+              "fujian-honggu-dun-jitui",
+              "fujian-suancai-ya-rou-tang",
               "haili-doufu-tang",
               "minnan-xuecai-jiyu-tang",
               "taipingyan-tang",
@@ -904,8 +906,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
+              "fujian-cai-pu-zhu-jiao",
+              "fujian-jiang-zhu-ti",
               "lizhi-rou",
               "min-sun-menrou",
               "minnan-fengrou",
@@ -920,9 +924,10 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "dingbian-hu",
+              "fujian-zha-wu-xiang",
               "fuzhou-rouyan",
               "fuzhou-yuni",
               "fuzhou-yuwan",
@@ -934,9 +939,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "fujian-congyou-zhi",
+              "fujian-suan-tian-luo-bo",
               "fujian-suanrong-jiang",
               "fuzhou-xiayou",
               "shacha-jiang"
