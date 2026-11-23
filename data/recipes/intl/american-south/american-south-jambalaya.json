@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-south-jambalaya",
+  "name": {
+    "zh": "美国南部什锦饭",
+    "en": "Jambalaya"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american-south"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 48,
+    "total_min": 68
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 320,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去泥线",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿切成三厘米的块，香肠斜切成厚片备用。这一步不要着急。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "块切均匀，熟的时间和口感才一致。，注意火候。",
+      "visual_cue": "肉块大小一致，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "洋葱、芹菜和甜椒都切成小丁，蒜切成细末。这一步不要着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "三样丁切得一样大，炒出来才好看。，注意火候。",
+      "visual_cue": "丁粒均匀，颜色分明，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "深锅倒植物油烧热，下鸡块中火煎到表面变色。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "先煎出焦色，饭的底味才香。，注意火候。",
+      "visual_cue": "鸡块泛黄，锅底焦香，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "加香肠片炒两分钟，逼出油脂和烟熏香。这一步不要着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香肠炒出油，后面的菜才不用另加油。",
+      "visual_cue": "香肠卷边，油光泛红，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "下洋葱、芹菜、甜椒丁炒软，再加蒜末炒香。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "蔬菜炒透，饭才不会夹生带生味。，注意火候。",
+      "visual_cue": "蔬菜变软，香气浓郁，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "撒辣椒粉炒十秒，倒入番茄丁炒到出汁。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "辣椒粉遇油出香，久炒会发苦。，注意火候。",
+      "visual_cue": "油色泛红，番茄软烂，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "倒入大米翻炒两分钟，让每粒米都裹上油和汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "米先炒过，煮出来粒粒分明不结块。，注意火候。",
+      "visual_cue": "米粒油亮，颗颗分散，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "加两倍半清水和盐，烧开后转小火盖盖焖十八分钟。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "水别太多，焖到表面起小孔就对了。，注意火候。",
+      "visual_cue": "液面收干，米饭起孔，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "铺上虾仁盖盖再焖四分钟，撒黑胡椒和欧芹拌匀。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "虾仁最后放，才不会煮老。，注意火候。",
+      "visual_cue": "虾仁变红，米饭松散，状态稳定"
+    }
+  ],
+  "tips": [
+    "大米先炒过再煮，成品粒粒分明。，值得留意。",
+    "水是米的两倍半，多了会成糊。，值得留意。",
+    "虾仁最后焖四分钟，口感才嫩。，值得留意。"
+  ],
+  "common_mistakes": [
+    "水加太多，饭煮成黏糊一团。，值得留意。",
+    "蔬菜没炒软就下米，饭带生青味。，值得留意。",
+    "虾仁一开始就下锅，煮到发硬。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "香肠",
+      "substitute": "培根",
+      "ratio": "150 克:130 克",
+      "note": "切段煎香，咸味更足。"
+    },
+    {
+      "original": "鸡腿",
+      "substitute": "鸡胸肉",
+      "ratio": "300 克:300 克",
+      "note": "口感偏干，煎制时间减两分钟。"
+    }
+  ],
+  "variations": [
+    "加几只青口贝，海味更足。，值得留意。",
+    "放一勺辣酱，辣度更过瘾。，值得留意。"
+  ],
+  "serving_suggestion": "一大锅端上桌，配辣酱和冰啤酒。，效果更稳定。",
+  "storage": "冷藏两天，复热加一勺水小火焖五分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 640,
+    "protein_g": 34,
+    "fat_g": 24,
+    "carbs_g": 68,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "crustacean"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底加热至中心熟透，虾仁须完全变红熟透；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "路易斯安那州的招牌一锅饭，鸡肉、香肠和虾仁跟大米一起焖熟。米粒吸饱番茄和香料的汁，咸香带辣，一锅就够一家人吃。",
+  "tags": [
+    "美国南部",
+    "米饭",
+    "香肠",
+    "一锅"
+  ],
+  "related_ids": [
+    "american-south-grits",
+    "american-south-cornbread",
+    "american-south-succotash"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

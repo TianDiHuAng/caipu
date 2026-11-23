@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "argentinian-carbonada",
+  "name": {
+    "zh": "阿根廷炖肉配南瓜",
+    "en": "Carbonada"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "argentinian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 63,
+    "total_min": 83
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 500,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "南瓜",
+          "name_en": "pumpkin",
+          "amount": 400,
+          "unit": "g",
+          "note": "连皮切块",
+          "optional": false
+        },
+        {
+          "name": "红薯",
+          "name_en": "sweet potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 80,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成两厘米的丁，南瓜、红薯和土豆切成大块。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "块切大一点，久炖才不会全化掉。，注意火候。",
+      "visual_cue": "块状均匀，大小一致，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅倒植物油烧热，下牛腩丁大火煎到表面焦黄。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "大火煎出焦色，汤的味道才厚。，注意火候。",
+      "visual_cue": "肉丁焦黄，锅底有焦香"
+    },
+    {
+      "n": 3,
+      "text": "加洋葱丁和蒜末炒软，再放甜椒丁炒两分钟。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒透，甜味才进到汤里。，注意火候。",
+      "visual_cue": "洋葱透明，甜椒变软，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "放番茄丁炒出汁，加盐和黑胡椒调味。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄炒软出汁，汤色才红。，注意火候。",
+      "visual_cue": "汁水泛红，番茄化开，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "倒清水没过食材，大火烧开转小火炖二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "先炖肉，后下根茎才不会糊。，注意火候。",
+      "visual_cue": "汤面微沸，肉开始变软"
+    },
+    {
+      "n": 6,
+      "text": "放入南瓜、红薯和土豆块，再炖十五分钟。这一步不要着急。",
+      "time_min": 16,
+      "heat": "小火",
+      "tip": "根茎类后放，才保住形状不散。，注意火候。",
+      "visual_cue": "块状完整，边缘微软，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "撒入大米搅匀，盖盖小火煮十分钟到米粒开花。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "米粒吸汤，汤汁才会浓稠起来。，注意火候。",
+      "visual_cue": "米粒开花，汤汁浓稠，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "尝味补盐，撒欧芹碎后盛在深碗里。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "收尾尝一下咸淡，根茎带甜容易淡。，注意火候。",
+      "visual_cue": "汤汁浓稠，香气甜润，状态稳定"
+    }
+  ],
+  "tips": [
+    "根茎类后放，久炖才不会全化掉。，值得留意。",
+    "大米最后下，汤汁才会浓稠。，值得留意。",
+    "块切大一点，成菜才有口感层次。，值得留意。"
+  ],
+  "common_mistakes": [
+    "土豆下太早，炖完找不到块。，值得留意。",
+    "水加太少，米一入锅就糊底。，值得留意。",
+    "全程大火，南瓜散成泥汤。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "南瓜",
+      "substitute": "胡萝卜",
+      "ratio": "400 克:400 克",
+      "note": "甜味稍减，可加少许白糖。"
+    },
+    {
+      "original": "牛腩",
+      "substitute": "羊腿肉",
+      "ratio": "500 克:500 克",
+      "note": "风味更浓，可加少许孜然。"
+    }
+  ],
+  "variations": [
+    "用牛肉汤替代清水，鲜味更厚。，值得留意。",
+    "加几颗李子干，酸甜更有层次。，值得留意。"
+  ],
+  "serving_suggestion": "用深碗盛出，配硬面包或直接当一餐。，效果更稳定。",
+  "storage": "冷藏三天，复热加少量水小火煮开。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 430 克",
+    "calories_kcal": 600,
+    "protein_g": 32,
+    "fat_g": 22,
+    "carbs_g": 62,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炖至中心完全熟透；成品冷藏不超过三天，复热须彻底加热至滚开。"
+  ],
+  "origin_note": "阿根廷的秋冬家常炖菜，牛肉和南瓜红薯土豆一起炖，最后撒一把大米把汤收稠。汤汁甜咸交织，一碗下去从胃里暖到手。",
+  "tags": [
+    "阿根廷",
+    "炖菜",
+    "南瓜",
+    "牛肉"
+  ],
+  "related_ids": [
+    "argentinian-asado",
+    "argentinian-milanesa",
+    "argentinian-chimichurri-sauce"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

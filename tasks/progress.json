@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:54:58.910Z",
+  "generatedAt": "2026-11-23T10:03:23.414Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 598,
+    "cells": 600,
     "target": 3274,
-    "actual": 1344,
-    "coverage": 0.41050702504581554
+    "actual": 1350,
+    "coverage": 0.41233964569334147
   },
   "regions": {
     "cn": [
@@ -5494,7 +5494,7 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 15,
         "cells": [
           {
             "category": "main-poultry",
@@ -5510,8 +5510,9 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "american-south-fried-green-tomato",
               "american-south-green-beans",
               "american-south-succotash"
             ]
@@ -5559,6 +5560,24 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "american-south-jambalaya"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "american-south-pimento-cheese"
+            ]
           },
           {
             "category": "main-meat",
@@ -6062,16 +6081,18 @@
         "en": "Argentinian",
         "tier": "C",
         "target": 25,
-        "actual": 13,
+        "actual": 16,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "argentinian-asado",
+              "argentinian-carbonada",
               "argentinian-chimichurri-steak",
+              "argentinian-locro",
               "argentinian-milanesa"
             ]
           },
@@ -6079,10 +6100,11 @@
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "argentinian-chimichurri-sauce",
-              "argentinian-dulce-de-leche"
+              "argentinian-dulce-de-leche",
+              "argentinian-salsa-golf"
             ]
           },
           {

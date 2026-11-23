@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T09:54:58.984Z
+> 生成时间：2026-11-23T10:03:23.513Z
 
-**总览**：工程任务 49/53；菜谱内容 1344/3274（41.1%），共 598 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1350/3274（41.2%），共 600 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -408,7 +408,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（778/1935）
+### 外国菜系（784/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，45/107</summary>
 
@@ -806,15 +806,17 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>美国南方菜 american-south</b> — B 级，12/38</summary>
+<details><summary><b>美国南方菜 american-south</b> — B 级，15/38</summary>
 
 - [ ] `P4-american-south/main-poultry` 主菜·禽（Poultry Main）目标 6，已完成 2
-- [ ] `P4-american-south/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 2
+- [ ] `P4-american-south/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 3
 - [ ] `P4-american-south/bakery` 烘焙面包（Bakery）目标 6，已完成 1
 - [ ] `P4-american-south/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-american-south/breakfast` 早餐（Breakfast）目标 6，已完成 3
 - [ ] `P4-american-south/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [ ] `P4-american-south/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
+- [x] `P4-american-south/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1
+- [x] `P4-american-south/appetizer` 前菜（Appetizer）目标 0，已完成 1
 - [x] `P4-american-south/main-meat` 主菜·肉（Meat Main）目标 0，已完成 1
 - [x] `P4-american-south/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
 
@@ -887,10 +889,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>阿根廷菜 argentinian</b> — C 级，13/25</summary>
+<details><summary><b>阿根廷菜 argentinian</b> — C 级，16/25</summary>
 
-- [ ] `P4-argentinian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 3
-- [ ] `P4-argentinian/sauce` 酱汁与基础调味（Sauce）目标 5，已完成 2
+- [x] `P4-argentinian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 5
+- [ ] `P4-argentinian/sauce` 酱汁与基础调味（Sauce）目标 5，已完成 3
 - [ ] `P4-argentinian/bakery` 烘焙面包（Bakery）目标 5，已完成 2
 - [ ] `P4-argentinian/dessert` 甜点（Dessert）目标 5，已完成 2
 - [ ] `P4-argentinian/drink` 饮品（Drink）目标 5，已完成 0
