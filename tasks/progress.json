@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:37:41.400Z",
+  "generatedAt": "2026-11-23T08:44:25.192Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1288,
-    "coverage": 0.3934025656689065
+    "actual": 1293,
+    "coverage": 0.39492974954184484
   },
   "regions": {
     "cn": [
@@ -3157,18 +3157,19 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 39,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "boeuf-bourguignon",
               "french-boeuf-bourguignon",
               "french-coq-au-vin",
               "french-pot-au-feu",
+              "french-steak-frites",
               "magret-de-canard",
               "quiche-lorraine"
             ]
@@ -3177,11 +3178,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "creme-brulee",
               "french-clafoutis",
               "french-madeleines",
+              "french-mousse-au-chocolat",
               "french-tarte-au-citron",
               "tarte-tatin"
             ]
@@ -3227,9 +3229,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "french-gratin-dauphinois",
+              "french-haricots-verts-butter",
               "french-ratatouille",
               "ratatouille"
             ]
@@ -3462,7 +3465,7 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 16,
+        "actual": 18,
         "cells": [
           {
             "category": "soup",
@@ -3490,9 +3493,10 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "vietnamese-goi-ga"
+              "vietnamese-goi-ga",
+              "vietnamese-goi-tom"
             ]
           },
           {
@@ -3523,8 +3527,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "vietnamese-trung-chien"
+            ]
           },
           {
             "category": "snack",
