@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indonesian-ayam-goreng",
+  "name": {
+    "zh": "印尼炸鸡",
+    "en": "Ayam Goreng"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indonesian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 48,
+    "total_min": 68
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "带骨",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍扁",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 6,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "连根",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 260,
+          "unit": "ml",
+          "note": "炸制",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿洗净擦干，用刀在肉厚处划两刀便于入味。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "划两刀，香料味才进得去。，注意火候。",
+      "visual_cue": "刀口整齐，肉质完整，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "蒜末、姜片、拍扁的香茅和香菜根放进汤锅。这一步不要着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "香菜根别丢，香气比叶子浓。，注意火候。",
+      "visual_cue": "香料铺底，香气清亮，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "加姜黄粉、盐和清水，放入鸡腿大火煮开。这一步不要着急。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "姜黄粉先化在水里，颜色才匀。，注意火候。",
+      "visual_cue": "汤色金黄，浮沫上浮，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "撇去浮沫，转小火盖锅煮二十分钟到肉熟。这一步不要着急。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "小火煮，鸡肉才嫩不散。，注意火候。",
+      "visual_cue": "鸡肉变白，筷子能插透"
+    },
+    {
+      "n": 5,
+      "text": "捞出鸡腿沥干汤汁，摊开放凉十分钟。这一步不要着急。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "表面干爽，炸的时候才不溅油。，注意火候。",
+      "visual_cue": "表皮干爽，颜色金黄，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "炒锅倒植物油烧到一百七十度，下鸡腿中火炸。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温够高，皮才迅速脆起来。，注意火候。",
+      "visual_cue": "油面翻泡，表皮起皱，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "每面炸两分钟到深金黄，翻动使受热均匀。这一步不要着急。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "边炸边转，颜色才一致。，注意火候。",
+      "visual_cue": "色泽深金，外壳酥脆，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "捞出沥油，挤青柠汁后趁热吃。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "挤点酸汁，解腻又提香。，注意火候。",
+      "visual_cue": "外壳干爽，香气扑鼻，状态稳定"
+    }
+  ],
+  "tips": [
+    "先煮后炸，肉才嫩而皮又脆。，值得留意。",
+    "煮完晾干表面，炸的时候不溅油。，值得留意。",
+    "油温一百七十度最合适，太低会吸油。，值得留意。"
+  ],
+  "common_mistakes": [
+    "没煮熟就炸，里面还是红的。，值得留意。",
+    "表面湿就下锅，油花四溅。，值得留意。",
+    "炸太久，鸡肉干柴发硬。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿",
+      "substitute": "鸡胸肉",
+      "ratio": "600 克:600 克",
+      "note": "更清淡，煮制时间减五分钟。"
+    },
+    {
+      "original": "姜黄粉",
+      "substitute": "咖喱粉",
+      "ratio": "6 克:8 克",
+      "note": "香气更复合，颜色略浅。"
+    }
+  ],
+  "variations": [
+    "煮好后刷甜酱油烤，风味更浓。，值得留意。",
+    "配辣椒酱和黄瓜片，做完整套餐。，值得留意。"
+  ],
+  "serving_suggestion": "配椰香饭、黄瓜片和辣椒酱，是印尼经典组合。",
+  "storage": "冷藏两天，复热用烤箱两百度烤八分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 240 克",
+    "calories_kcal": 560,
+    "protein_g": 34,
+    "fat_g": 40,
+    "carbs_g": 6,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须煮透再炸至中心完全熟透、无粉色血水；油炸时控制油温防止溢出；成品冷藏不超过两天。"
+  ],
+  "origin_note": "印尼每家小馆都有的炸鸡，鸡腿先用姜黄、香茅、蒜姜煮透，再下油锅炸到深金黄。外皮酥香，里面还是嫩的，挤点青柠最解腻。",
+  "tags": [
+    "印尼",
+    "炸鸡",
+    "姜黄",
+    "家常"
+  ],
+  "related_ids": [
+    "indonesian-ayam-bakar-kecap",
+    "indonesian-ayam-penyet",
+    "indonesian-sate-ayam"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
