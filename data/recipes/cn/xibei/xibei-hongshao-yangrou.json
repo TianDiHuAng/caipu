@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xibei-hongshao-yangrou",
+  "name": {
+    "zh": "西北红烧羊肉",
+    "en": "Braised Lamb"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 600,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "两颗",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切三厘米块，冷水下锅焯五分钟去血沫。这一步不要着急。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才逼得出来。，注意火候。",
+      "visual_cue": "浮沫上浮，汤色变清，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "捞出用温水冲净浮沫，沥干水分备用。这一步不要着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用温水冲，肉才不会骤缩发柴。，注意火候。",
+      "visual_cue": "肉块干净，表面干爽，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "厚底锅倒植物油，下姜片、蒜、八角和肉桂炒香。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "香料小火炒，香气才不苦。，注意火候。",
+      "visual_cue": "香气浓烈，油色微黄，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "放羊肉块转中火煸炒到表面收紧上色。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "煸到边缘焦黄，成品才够香。，注意火候。",
+      "visual_cue": "肉块焦边，油脂析出，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "沿锅边淋酱油炒匀，加白糖炒出酱色。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "酱油沿锅边淋，香气才激得出来。，注意火候。",
+      "visual_cue": "颜色红亮，酱香浓，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "加清水没过羊肉，烧开后转小火炖三十分钟。这一步不要着急。",
+      "time_min": 32,
+      "heat": "小火",
+      "tip": "小火慢炖，羊肉才酥而不散。，注意火候。",
+      "visual_cue": "汤面微沸，肉已变软，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "放土豆、胡萝卜和洋葱块，再炖十五分钟。这一步不要着急。",
+      "time_min": 16,
+      "heat": "小火",
+      "tip": "根茎后放，久炖才不会散成泥。，注意火候。",
+      "visual_cue": "块状完整，叉子能插透"
+    },
+    {
+      "n": 8,
+      "text": "加盐调味，撒香菜碎后连汤盛出。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "盐最后加，肉才不会发紧。，注意火候。",
+      "visual_cue": "汤汁浓稠，香气扑鼻，状态稳定"
+    }
+  ],
+  "tips": [
+    "羊肉冷水下锅焯，血沫才逼得干净。，值得留意。",
+    "小火慢炖，肉才酥烂不柴。，值得留意。",
+    "根茎后放，久炖才不化在汤里。，值得留意。"
+  ],
+  "common_mistakes": [
+    "用热水焯肉，血水锁在里面发腥。，值得留意。",
+    "大火炖到底，汤汁糊底发苦。，值得留意。",
+    "盐下太早，羊肉紧缩发柴。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "600 克:600 克",
+      "note": "炖制时间加十五分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "红薯",
+      "ratio": "250 克:250 克",
+      "note": "更甜，炖制时间减五分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺辣椒面，风味更西北。，值得留意。",
+    "放几颗红枣同炖，汤更回甜。，值得留意。"
+  ],
+  "serving_suggestion": "配手抓饭或泡馍，汤汁浇在饭上最香。，效果更稳定。",
+  "storage": "冷藏三天，复热加少量水小火炖十分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 640,
+    "protein_g": 38,
+    "fat_g": 40,
+    "carbs_g": 26,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须炖至中心完全熟透、叉子能插透；成品冷藏不超过三天，复热须彻底加热至滚开。"
+  ],
+  "origin_note": "西北人家冬天常做的一锅，羊肉焯水后和香料一起煸炒再慢炖，后半程加土豆胡萝卜。肉酥汤浓，膻味被香料压得干净，配饭配馍都合适。",
+  "tags": [
+    "西北",
+    "羊肉",
+    "红烧",
+    "炖制"
+  ],
+  "related_ids": [
+    "xibei-hand-grabbed-lamb",
+    "xibei-yangza-tang",
+    "yangrou-paomo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
