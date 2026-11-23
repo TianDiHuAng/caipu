@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:22:16.386Z",
+  "generatedAt": "2026-11-23T11:46:26.963Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 601,
     "target": 3274,
-    "actual": 1392,
-    "coverage": 0.4251679902260232
+    "actual": 1398,
+    "coverage": 0.4270006108735492
   },
   "regions": {
     "cn": [
@@ -5376,17 +5376,19 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 38,
+        "actual": 44,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 7,
             "ids": [
               "american-bbq-ribs",
+              "american-buffalo-wings",
               "american-fried-chicken",
               "american-pot-roast",
+              "american-pulled-pork",
               "hamburger",
               "meatloaf"
             ]
@@ -5395,9 +5397,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "american-banana-bread",
+              "american-blueberry-muffin",
               "american-buttermilk-biscuits",
               "american-cinnamon-rolls",
               "american-cornbread",
@@ -5409,10 +5412,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "american-apple-crisp",
               "american-chocolate-chip-cookies",
+              "american-peach-cobbler",
               "american-pumpkin-pie",
               "apple-pie",
               "brownie",
@@ -5436,12 +5440,14 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 7,
             "ids": [
+              "american-chef-salad",
               "american-cobb-salad",
               "american-coleslaw",
               "american-potato-salad",
               "american-waldorf-salad",
+              "american-wedge-salad",
               "caesar-salad"
             ]
           },

@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-chef-salad",
+  "name": {
+    "zh": "美式主厨沙拉",
+    "en": "Chef Salad",
+    "original": "Chef Salad"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 41,
+    "total_min": 66
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "sour",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 240,
+          "unit": "g",
+          "note": "撕片",
+          "optional": false
+        },
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 200,
+          "unit": "g",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "水煮",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 60,
+          "unit": "g",
+          "note": "煎脆",
+          "optional": false
+        },
+        {
+          "name": "樱桃番茄",
+          "name_en": "cherry tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "对半切",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 80,
+          "unit": "g",
+          "note": "沙拉酱",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "大碗",
+    "刀",
+    "砧板",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋冷水下锅煮九分钟，捞出泡凉水。这一步不要着急。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "九分钟蛋黄刚凝固，切开好看。，注意火候。",
+      "visual_cue": "蛋壳易剥，蛋黄中心微润"
+    },
+    {
+      "n": 2,
+      "text": "鸡胸肉两面抹盐和黑胡椒，静置十分钟。这一步不要着急。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "提前抹盐，肉才嫩。，注意火候。",
+      "visual_cue": "表面均匀挂盐，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒橄榄油，中火煎鸡胸肉每面五分钟。这一步不要着急。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "别频繁翻动，上色才均匀。，注意火候。",
+      "visual_cue": "两面金黄，按压有弹性"
+    },
+    {
+      "n": 4,
+      "text": "取出静置五分钟再切成条。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置让肉汁回收，切了不流汁。，注意火候。",
+      "visual_cue": "切成长条状，肉汁不外渗"
+    },
+    {
+      "n": 5,
+      "text": "培根切段下锅中火煎到出油变脆。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "煎到卷边就够，别煎成炭。，注意火候。",
+      "visual_cue": "边缘卷起，颜色深红，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "生菜撕成小块，冷水泡五分钟沥干。这一步不要着急。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "泡冷水更脆，一定沥干。，注意火候。",
+      "visual_cue": "叶片挺括，无水珠，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "蛋黄酱加白醋和少许盐搅成沙拉酱。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酸能解腻，尝一下再调。，注意火候。",
+      "visual_cue": "酱汁顺滑，能流动，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "生菜垫底，鸡胸肉、鸡蛋、培根、小番茄和黄瓜分格摆好。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "分格摆才像主厨沙拉。，注意火候。",
+      "visual_cue": "颜色分明，五色齐全，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "淋沙拉酱，撒黑胡椒上桌。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "上桌前再淋，菜叶才不发蔫。，注意火候。",
+      "visual_cue": "酱汁挂叶，表面油亮，状态稳定"
+    }
+  ],
+  "tips": [
+    "生菜一定沥干，沙拉才不水。，值得留意。",
+    "鸡胸肉煎完静置再切，肉汁不流失。，值得留意。",
+    "酱汁先尝再调，酸咸要平衡。，值得留意。"
+  ],
+  "common_mistakes": [
+    "菜叶带水下酱，整盘出水。，值得留意。",
+    "鸡胸肉大火猛煎，外面焦里面干。，值得留意。",
+    "培根煎过头，苦味压过所有味道。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "火鸡胸肉",
+      "ratio": "200 克:200 克",
+      "note": "更瘦，煎的时间减少一分钟。"
+    },
+    {
+      "original": "蛋黄酱",
+      "substitute": "酸奶加橄榄油",
+      "ratio": "80 克:80 克加10 毫升",
+      "note": "热量更低，酸味更明显。"
+    }
+  ],
+  "variations": [
+    "加一把火腿丝，风味更咸香。，值得留意。",
+    "换成油醋汁，吃着更清爽。，值得留意。"
+  ],
+  "serving_suggestion": "配一片烤面包就是一顿轻午餐。，效果更稳定。",
+  "storage": "冷藏一天，酱汁另装，吃前再拌。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 480,
+    "protein_g": 38,
+    "fat_g": 32,
+    "carbs_g": 10,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须煮至凝固、鸡肉须完全煎熟；含蛋与乳制品，过敏者慎食；成品冷藏不超过一天。"
+  ],
+  "origin_note": "美式餐厅里用主厨手边材料拼出的沙拉，肉、蛋、奶酪分格摆盘。后来成了菜单上的固定项，一盆就能当一顿饭。",
+  "tags": [
+    "美国",
+    "沙拉",
+    "鸡肉",
+    "鸡蛋"
+  ],
+  "related_ids": [
+    "american-cobb-salad",
+    "caesar-salad",
+    "american-waldorf-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

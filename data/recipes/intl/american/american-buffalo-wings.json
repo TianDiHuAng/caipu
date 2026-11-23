@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-buffalo-wings",
+  "name": {
+    "zh": "水牛城辣鸡翅",
+    "en": "Buffalo Wings",
+    "original": "Buffalo Wings"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 45,
+    "total_min": 60
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "sour",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡翅",
+          "name_en": "chicken wings",
+          "amount": 900,
+          "unit": "g",
+          "note": "翅中翅根",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "辣酱底",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "乳化",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "脆皮",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 80,
+          "unit": "g",
+          "note": "配菜",
+          "optional": false
+        },
+        {
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 60,
+          "unit": "g",
+          "note": "蘸酱",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤架",
+    "小锅",
+    "大碗",
+    "夹子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡翅擦干，用盐、黑胡椒和泡打粉抓匀。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "泡打粉能让皮更脆，别省略。，注意火候。",
+      "visual_cue": "表面干爽，薄薄挂粉，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "烤架架在烤盘上，鸡翅摊开不重叠。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "留空隙让热气循环，皮才脆。，注意火候。",
+      "visual_cue": "鸡翅平铺，互不接触，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "烤箱两百二十度烤二十分钟。这一步不要着急。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "高温逼油，皮才不软。，注意火候。",
+      "visual_cue": "表皮起泡，油光收干，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "翻面再烤十分钟到两面金黄。这一步不要着急。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "翻面用夹子，别戳破表皮。，注意火候。",
+      "visual_cue": "两面焦黄，边缘微脆，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "小锅放辣椒粉、白醋和蒜末小火煮两分钟。这一步不要着急。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "辣椒粉小火煮出红色，别烧焦。，注意火候。",
+      "visual_cue": "酱汁鲜红，酸味散出，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "关火加黄油搅到完全乳化。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "一点点加，酱汁才不分离。，注意火候。",
+      "visual_cue": "酱汁浓稠，挂勺不滴，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "鸡翅趁热倒进大碗，淋酱汁快速翻匀。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热拌，酱才吃得进去。，注意火候。",
+      "visual_cue": "每块鸡翅裹满红酱，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "芹菜切条，蛋黄酱做蘸酱一起上桌。这一步不要着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "芹菜解辣，别省这一步。，注意火候。",
+      "visual_cue": "芹菜翠绿，蘸酱顺滑，状态稳定"
+    }
+  ],
+  "tips": [
+    "鸡翅一定擦干再烤，皮才脆。，值得留意。",
+    "泡打粉薄薄一层就够，多了发涩。，值得留意。",
+    "黄油要关火后加，酱汁才乳化。，值得留意。"
+  ],
+  "common_mistakes": [
+    "鸡翅带水下烤箱，烤出来软塌。，值得留意。",
+    "酱汁大火煮，黄油分离成油花。，值得留意。",
+    "烤好放凉才拌酱，味道进不去。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄油",
+      "substitute": "橄榄油",
+      "ratio": "60 克:50 毫升",
+      "note": "少了奶香，但更清爽。"
+    },
+    {
+      "original": "鸡翅",
+      "substitute": "鸡腿肉",
+      "ratio": "900 克:800 克",
+      "note": "肉更厚，烤的时间加五分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺蜂蜜，甜辣更平衡。，值得留意。",
+    "用空气炸锅两百度烤十八分钟，油更少。"
+  ],
+  "serving_suggestion": "配芹菜条、胡萝卜条和一碟蓝纹奶酪酱，是美式酒吧的标配。",
+  "storage": "冷藏两天，复热用烤箱两百度烤八分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 610,
+    "protein_g": 38,
+    "fat_g": 46,
+    "carbs_g": 6,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "egg",
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡翅须烤至中心完全熟透、无血水；含乳制品，过敏者慎食；成品冷藏不超过两天。"
+  ],
+  "origin_note": "一九六四年纽约水牛城的一家酒吧，为了给夜客垫肚子，把炸鸡翅拌上辣酱和黄油。酸辣带奶香，从此成了全美看球必点。",
+  "tags": [
+    "美国",
+    "鸡翅",
+    "辣",
+    "烤制"
+  ],
+  "related_ids": [
+    "american-coleslaw",
+    "buffalo-wings",
+    "american-deviled-eggs"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
