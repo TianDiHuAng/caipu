@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-banli-shaorou",
+  "name": {
+    "zh": "徽州板栗烧肉",
+    "en": "Braised Pork with Chestnuts",
+    "original": "板栗烧肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 79,
+    "total_min": 104
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 600,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "栗子",
+          "name_en": "chestnut",
+          "amount": 300,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "刀",
+    "砧板",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切三厘米见方的块，冷水下锅焯水。这一步不要着急。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅，血沫才逼得出来。，注意火候。",
+      "visual_cue": "浮沫浮起，肉块收紧，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "捞出用温水冲净浮沫，沥干水分。这一步不要着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "用温水冲，肉才不紧缩。，注意火候。",
+      "visual_cue": "肉块干净，表面微干，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "砂锅倒植物油，下冰糖小火炒到琥珀色。这一步不要着急。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "糖色变琥珀就下肉，深了会苦。，注意火候。",
+      "visual_cue": "糖液冒泡，颜色枣红，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "倒入肉块翻炒上色，每块都裹上糖色。这一步不要着急。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "快翻别停，糖色容易糊。，注意火候。",
+      "visual_cue": "肉块红亮，油光明显，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "加姜片、八角和桂皮炒出香味。这一步不要着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料炒香，腥味才压得住。，注意火候。",
+      "visual_cue": "香气散出，锅底干爽，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "烹入料酒，加生抽、老抽和清水烧开。这一步不要着急。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水要没过肉面，焖的时候不干锅。，注意火候。",
+      "visual_cue": "汤面翻滚，酱色均匀，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "转小火焖四十分钟，肉开始变软。这一步不要着急。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "小火慢焖，肉才酥而不散。，注意火候。",
+      "visual_cue": "汤汁减少，肉质松软，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "放栗子继续焖二十分钟，让栗子吸汁。这一步不要着急。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "栗子后放，才不会焖成糊。，注意火候。",
+      "visual_cue": "栗子鼓胀，表面发亮，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "加盐调味，大火收汁到浓稠挂勺。这一步不要着急。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "收汁时轻推，别把栗子搅碎。，注意火候。",
+      "visual_cue": "汤汁浓亮，栗子完整，状态稳定"
+    }
+  ],
+  "tips": [
+    "冰糖炒到琥珀色就下肉，深了发苦。，值得留意。",
+    "栗子后放二十分钟，才不会焖散。，值得留意。",
+    "小火慢焖，肉才酥而不柴。，值得留意。"
+  ],
+  "common_mistakes": [
+    "糖色炒过头，整锅发苦。，值得留意。",
+    "栗子一开始就下锅，最后全成泥。，值得留意。",
+    "大火久煮，肉块紧缩发硬。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "栗子",
+      "substitute": "红薯",
+      "ratio": "300 克:350 克",
+      "note": "更甜，焖的时间缩短五分钟。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "600 克:600 克",
+      "note": "更瘦，焖的时间加十五分钟。"
+    }
+  ],
+  "variations": [
+    "加几片冬笋同焖，清甜解腻。，值得留意。",
+    "放一小块腐乳，风味更厚。，值得留意。"
+  ],
+  "serving_suggestion": "配白米饭，汤汁拌饭一绝。，效果更稳定。",
+  "storage": "冷藏三天，复热加少量水小火焖十分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 640,
+    "protein_g": 22,
+    "fat_g": 48,
+    "carbs_g": 30,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉须焖至完全熟透、无血水；栗子须煮熟透；成品冷藏不超过三天，复热须彻底加热。"
+  ],
+  "origin_note": "徽州山里秋天板栗满树，捡回来剥壳，和五花肉一起焖。栗子吸了肉汁，粉糯带甜，肉也多了股坚果香。",
+  "tags": [
+    "安徽",
+    "红烧",
+    "五花肉",
+    "栗子"
+  ],
+  "related_ids": [
+    "huizhou-hongshaorou",
+    "anhui-fenzheng-rou",
+    "huizhou-hongshao-zhuti"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
