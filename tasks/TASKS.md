@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T10:12:21.010Z
+> 生成时间：2026-11-23T10:25:47.630Z
 
-**总览**：工程任务 49/53；菜谱内容 1356/3274（41.4%），共 601 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1362/3274（41.6%），共 601 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -408,7 +408,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（790/1935）
+### 外国菜系（796/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，45/107</summary>
 
@@ -760,11 +760,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>东欧菜 eastern-european</b> — B 级，11/38</summary>
+<details><summary><b>东欧菜 eastern-european</b> — B 级，14/38</summary>
 
 - [ ] `P4-eastern-european/soup` 汤羹（Soup）目标 6，已完成 2
-- [ ] `P4-eastern-european/main-meat` 主菜·肉（Meat Main）目标 6，已完成 3
-- [ ] `P4-eastern-european/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 1
+- [ ] `P4-eastern-european/main-meat` 主菜·肉（Meat Main）目标 6，已完成 5
+- [ ] `P4-eastern-european/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 2
 - [ ] `P4-eastern-european/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 1
 - [ ] `P4-eastern-european/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-eastern-european/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 1
@@ -878,12 +878,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>巴西菜 brazilian</b> — C 级，9/25</summary>
+<details><summary><b>巴西菜 brazilian</b> — C 级，12/25</summary>
 
 - [ ] `P4-brazilian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 2
-- [ ] `P4-brazilian/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 1
-- [ ] `P4-brazilian/snack` 小吃（Street Food）目标 5，已完成 1
-- [ ] `P4-brazilian/dessert` 甜点（Dessert）目标 5，已完成 2
+- [ ] `P4-brazilian/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 2
+- [ ] `P4-brazilian/snack` 小吃（Street Food）目标 5，已完成 2
+- [ ] `P4-brazilian/dessert` 甜点（Dessert）目标 5，已完成 3
 - [ ] `P4-brazilian/drink` 饮品（Drink）目标 5，已完成 1
 - [x] `P4-brazilian/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 2
 

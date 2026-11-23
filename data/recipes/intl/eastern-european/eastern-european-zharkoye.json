@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "eastern-european-zharkoye",
+  "name": {
+    "zh": "东欧炖烤肉",
+    "en": "Zharkoye"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "eastern-european"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 550,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "对半切",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成三厘米的块，用厨房纸吸干表面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肉擦干，煎的时候才上色不溅油。，注意火候。",
+      "visual_cue": "肉块干爽，大小一致，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅倒植物油烧到冒烟，下牛腩块大火煎。这一步不要着急。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "大火煎出焦壳，炖出来才香。，注意火候。",
+      "visual_cue": "肉块焦褐，锅底有焦香"
+    },
+    {
+      "n": 3,
+      "text": "翻面再煎两分钟，盛出备用并倒掉多余油。这一步不要着急。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "分批煎，锅里挤太满就变成煮。，注意火候。",
+      "visual_cue": "表面焦色，油脂清亮，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "原锅下洋葱丁炒软，加蒜末和蘑菇炒到出水。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "蘑菇炒出水再收干，香气才浓。，注意火候。",
+      "visual_cue": "蘑菇变软，汁水收干，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "加番茄酱炒一分钟，倒回牛腩和月桂叶翻匀。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄酱炒过才不酸涩。，注意火候。",
+      "visual_cue": "颜色红亮，香气浓郁，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "加清水没过食材，烧开转小火炖三十分钟。这一步不要着急。",
+      "time_min": 32,
+      "heat": "小火",
+      "tip": "小火慢炖，肉才酥而不散。，注意火候。",
+      "visual_cue": "汤面微沸，肉已变软，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "放土豆和胡萝卜块，再炖十二分钟到软。这一步不要着急。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "根茎后放，才不会炖成泥。，注意火候。",
+      "visual_cue": "块状完整，叉子能插透"
+    },
+    {
+      "n": 8,
+      "text": "加盐和黑胡椒调味，撒欧芹碎后盛出。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "盐最后加，汤汁才不越炖越咸。，注意火候。",
+      "visual_cue": "汤汁浓稠，香气扑鼻，状态稳定"
+    }
+  ],
+  "tips": [
+    "牛肉擦干再煎，才能煎出焦壳。，值得留意。",
+    "煎肉分批做，锅里太满就变煮。，值得留意。",
+    "根茎后放，久炖才不会散成泥。，值得留意。"
+  ],
+  "common_mistakes": [
+    "肉没擦干下锅，溅油还煎不上色。，值得留意。",
+    "一直大火炖，汤汁糊底发苦。，值得留意。",
+    "土豆下太早，最后全化在汤里。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "猪五花肉",
+      "ratio": "550 克:550 克",
+      "note": "油脂更足，炖制时间减十分钟。"
+    },
+    {
+      "original": "蘑菇",
+      "substitute": "香菇",
+      "ratio": "150 克:150 克",
+      "note": "香气更浓，用量可减二十克。"
+    }
+  ],
+  "variations": [
+    "加一勺酸奶油，汤汁更柔滑。，值得留意。",
+    "放少许红椒粉，颜色更暖。，值得留意。"
+  ],
+  "serving_suggestion": "装在深盘里配黑面包，汤汁蘸着吃最香。，效果更稳定。",
+  "storage": "冷藏三天，复热加少量水小火煮开。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 580,
+    "protein_g": 34,
+    "fat_g": 28,
+    "carbs_g": 42,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炖至中心完全熟透、叉子能插透；成品冷藏不超过三天，复热须彻底加热至滚开。"
+  ],
+  "origin_note": "俄罗斯和东欧的陶罐炖菜，牛肉先煎出焦色，再和土豆胡萝卜蘑菇一起小火慢炖。汤汁浓稠，肉酥烂带焦香，冬天配黑面包最踏实。",
+  "tags": [
+    "东欧",
+    "炖菜",
+    "牛肉",
+    "土豆"
+  ],
+  "related_ids": [
+    "eastern-european-beef-goulash",
+    "eastern-european-chicken-paprikash",
+    "eastern-european-borscht"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

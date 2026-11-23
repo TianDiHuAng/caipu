@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T10:12:20.925Z",
+  "generatedAt": "2026-11-23T10:25:47.521Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 601,
     "target": 3274,
-    "actual": 1356,
-    "coverage": 0.41417226634086746
+    "actual": 1362,
+    "coverage": 0.4160048869883934
   },
   "regions": {
     "cn": [
@@ -5158,7 +5158,7 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 11,
+        "actual": 14,
         "cells": [
           {
             "category": "soup",
@@ -5174,10 +5174,12 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "eastern-european-beef-goulash",
               "eastern-european-chicken-paprikash",
+              "eastern-european-golubtsy",
+              "eastern-european-zharkoye",
               "polish-bigos"
             ]
           },
@@ -5185,8 +5187,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "eastern-european-blini",
               "georgian-khachapuri"
             ]
           },
@@ -6014,7 +6017,7 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 9,
+        "actual": 12,
         "cells": [
           {
             "category": "main-meat",
@@ -6030,26 +6033,29 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "brazilian-baiao-de-dois"
+              "brazilian-baiao-de-dois",
+              "brazilian-feijao-tropeiro"
             ]
           },
           {
             "category": "snack",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "brazilian-coxinha"
+              "brazilian-coxinha",
+              "brazilian-pastel"
             ]
           },
           {
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "brazilian-bolo-de-cenoura",
               "brazilian-brigadeiro",
               "brazilian-grilled-pineapple"
             ]

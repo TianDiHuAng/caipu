@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "brazilian-feijao-tropeiro",
+  "name": {
+    "zh": "巴西豆子炒饭",
+    "en": "Feijao Tropeiro"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "brazilian"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "煮成饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黑豆",
+          "name_en": "black bean",
+          "amount": 250,
+          "unit": "g",
+          "note": "煮熟",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "木薯粉",
+          "name_en": "cassava flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "撒入",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黑豆提前泡发煮熟，沥干水分备用。这一步不要着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "豆子要煮到软而不烂，炒的时候才不糊。",
+      "visual_cue": "豆粒完整，轻压即碎，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "大米煮成稍硬的饭，摊开晾到不烫手。这一步不要着急。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "饭煮硬一点，炒的时候才不粘。，注意火候。",
+      "visual_cue": "米粒分明，松散不黏，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "培根丁和香肠片下锅，加植物油小火煎到出油微焦。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "先煎出油，后面炒才香不腻。，注意火候。",
+      "visual_cue": "培根卷边，油脂清亮，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "加洋葱丁和蒜末炒到透明，再倒入打散的蛋液。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "蛋液下锅立刻划散，才成小碎块。，注意火候。",
+      "visual_cue": "蛋液凝固，颗粒松散，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "放入黑豆翻炒两分钟，让豆子裹上油脂。这一步不要着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "轻轻翻，别把豆子压成泥。，注意火候。",
+      "visual_cue": "豆子油亮，颗粒完整，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "倒入米饭炒散，加盐和黑胡椒调味。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "饭要压散再炒，结块就不好吃。，注意火候。",
+      "visual_cue": "米粒松散，颜色均匀，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "撒木薯粉快速翻炒一分钟，让粉吸收水分。这一步不要着急。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "粉最后撒，吸掉多余水分又不糊。，注意火候。",
+      "visual_cue": "颗粒干爽，不粘锅，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "关火撒欧芹碎，趁热盛出。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "欧芹关火后加，清香不散。，注意火候。",
+      "visual_cue": "香气浓郁，颗粒松散，状态稳定"
+    }
+  ],
+  "tips": [
+    "米饭煮硬一点，炒的时候才不粘锅。，值得留意。",
+    "木薯粉最后撒，吸掉多余水分。，值得留意。",
+    "黑豆轻翻，压碎就没了口感。，值得留意。"
+  ],
+  "common_mistakes": [
+    "饭煮太软，炒完黏成一坨。，值得留意。",
+    "豆子煮烂，炒的时候全散成泥。，值得留意。",
+    "木薯粉下太多，成品干得噎人。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "香肠",
+      "substitute": "培根",
+      "ratio": "100 克:100 克",
+      "note": "咸味更重，盐可略减。"
+    },
+    {
+      "original": "黑豆",
+      "substitute": "白豆",
+      "ratio": "250 克:250 克",
+      "note": "颜色浅些，风味更清淡。"
+    }
+  ],
+  "variations": [
+    "加一把羽衣甘蓝碎同炒，颜色更绿。，值得留意。",
+    "配一个煎蛋放上面，更饱腹。，值得留意。"
+  ],
+  "serving_suggestion": "配烤肉和蔬菜一起吃，也可以直接当主食。，效果更稳定。",
+  "storage": "冷藏两天，复热加少许水小火炒散。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 640,
+    "protein_g": 26,
+    "fat_g": 24,
+    "carbs_g": 74,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "黑豆须泡透并彻底煮熟；含鸡蛋与培根，须完全炒熟；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "巴西米纳斯州的老菜，黑豆、培根、香肠和米饭一起炒，最后撒木薯粉吸干水分。颗粒干爽松散，咸香带豆味，配烤肉正好。",
+  "tags": [
+    "巴西",
+    "米饭",
+    "豆类",
+    "家常"
+  ],
+  "related_ids": [
+    "brazilian-feijoada",
+    "brazilian-baiao-de-dois",
+    "brazilian-picanha-grill"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
