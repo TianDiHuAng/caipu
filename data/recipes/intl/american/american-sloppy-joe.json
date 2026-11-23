@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-sloppy-joe",
+  "name": {
+    "zh": "美式肉酱面包",
+    "en": "Sloppy Joe",
+    "original": "Sloppy Joe"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 24,
+    "total_min": 39
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "sweet",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 450,
+          "unit": "g",
+          "note": "八成瘦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 80,
+          "unit": "g",
+          "note": "做酱",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 8,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "汉堡胚",
+          "name_en": "hamburger bun",
+          "amount": 3,
+          "unit": "piece",
+          "note": "夹食",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "面包刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "炒锅倒植物油，洋葱丁小火炒到透明。这一步别着急。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "洋葱炒透才甜，别急着下肉。，注意火候。",
+      "visual_cue": "洋葱透明，边缘微黄，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "下牛肉末转中火，用铲子压散炒到变色。这一步别着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "压散成小粒，别结成大团。，注意火候。",
+      "visual_cue": "肉末松散，颜色转褐，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "加青椒丁翻炒两分钟，炒出清香味。这一步别着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "青椒断生就好，太软不好吃。，注意火候。",
+      "visual_cue": "青椒变深绿，仍有脆感"
+    },
+    {
+      "n": 4,
+      "text": "倒番茄丁和番茄酱，翻炒到出红色油。这一步别着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄炒出汁，酱才浓。，注意火候。",
+      "visual_cue": "锅底泛红，汁水明显，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、白糖、白醋、盐和黑胡椒炒匀。这一步别着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "糖和醋平衡酸味，尝了再调。，注意火候。",
+      "visual_cue": "酱色红亮，酸甜平衡，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "倒清水小火焖八分钟，让味道融在一起。这一步别着急。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "焖到汁水收一半，才不流汤。，注意火候。",
+      "visual_cue": "汁水浓稠，肉末挂酱，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "汉堡胚从侧面切开，入烤箱烤三分钟。这一步别着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "烤一下更脆，也不易被汁泡软。，注意火候。",
+      "visual_cue": "切面微黄，边缘干脆，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "肉酱舀进面包，合起来趁热吃。这一步别着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "装七分满，咬的时候才不流。，注意火候。",
+      "visual_cue": "酱汁饱满，面包不塌，状态稳定"
+    }
+  ],
+  "tips": [
+    "牛肉末要压散，颗粒分明才好吃。，值得留意。",
+    "番茄酱炒出红油，酱才够浓。，值得留意。",
+    "面包先烤过，才不被汁泡烂。，值得留意。"
+  ],
+  "common_mistakes": [
+    "肉末结块，口感像大肉丸。，值得留意。",
+    "汁水没收，面包一下就湿透。，值得留意。",
+    "番茄酱没炒，吃着有生酱味。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "鸡腿肉末",
+      "ratio": "450 克:450 克",
+      "note": "更清爽，焖的时间缩短两分钟。"
+    },
+    {
+      "original": "汉堡胚",
+      "substitute": "吐司",
+      "ratio": "3 个:6 片",
+      "note": "夹起来更方便，汁要收得再干些。"
+    }
+  ],
+  "variations": [
+    "加一勺辣椒酱，做出辣味版。，值得留意。",
+    "配一层奶酪片，热着吃会拉丝。，值得留意。"
+  ],
+  "serving_suggestion": "配薯条和凉拌卷心菜，就是美式家庭晚餐。，效果更稳定。",
+  "storage": "冷藏两天，复热下锅加少量水炒热。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 520,
+    "protein_g": 30,
+    "fat_g": 26,
+    "carbs_g": 42,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须炒至完全熟透、无粉红；含麸质，过敏者慎食；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "美国五十年代的家常快餐，肉末和番茄酱炒得湿乎乎的，夹进面包一咬就流汁，所以叫邋遢乔。吃完手上全是酱。",
+  "tags": [
+    "美国",
+    "牛肉",
+    "快餐",
+    "三明治"
+  ],
+  "related_ids": [
+    "hamburger",
+    "meatloaf",
+    "american-salisbury-steak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

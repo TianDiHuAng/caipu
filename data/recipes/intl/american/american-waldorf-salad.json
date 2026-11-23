@@ -17,14 +17,14 @@
   "difficulty": 1,
   "time": {
     "prep_min": 15,
-    "cook_min": 0,
-    "total_min": 15
+    "cook_min": 15,
+    "total_min": 30
   },
-  "servings": 4,
+  "servings": 2,
   "flavor": [
     "sweet",
     "tangy",
-    "fragrant"
+    "light"
   ],
   "ingredients": [
     {
@@ -35,23 +35,15 @@
           "name_en": "apple",
           "amount": 300,
           "unit": "g",
-          "note": "脆甜品种，带皮切条",
+          "note": "切丁",
           "optional": false
         },
         {
           "name": "芹菜",
           "name_en": "celery",
-          "amount": 150,
+          "amount": 120,
           "unit": "g",
-          "note": "削去粗纤维后斜切",
-          "optional": false
-        },
-        {
-          "name": "核桃",
-          "name_en": "walnut",
-          "amount": 80,
-          "unit": "g",
-          "note": "掰小块烘香",
+          "note": "斜切",
           "optional": false
         }
       ]
@@ -60,11 +52,11 @@
       "group": "aux",
       "items": [
         {
-          "name": "生菜",
-          "name_en": "lettuce",
-          "amount": 100,
+          "name": "核桃",
+          "name_en": "walnut",
+          "amount": 60,
           "unit": "g",
-          "note": "垫底用",
+          "note": "烤香",
           "optional": false
         },
         {
@@ -72,31 +64,31 @@
           "name_en": "raisin",
           "amount": 40,
           "unit": "g",
-          "note": "温水泡软",
+          "note": "泡软",
           "optional": false
         },
         {
-          "name": "酸奶",
-          "name_en": "yogurt",
-          "amount": 100,
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 80,
           "unit": "g",
-          "note": "替代部分蛋黄酱",
-          "optional": false
-        },
-        {
-          "name": "白糖",
-          "name_en": "sugar",
-          "amount": 8,
-          "unit": "g",
-          "note": "平衡酸味",
+          "note": "拌酱",
           "optional": false
         },
         {
           "name": "柠檬",
           "name_en": "lemon",
-          "amount": 1,
-          "unit": "piece",
-          "note": "挤汁防苹果变黑",
+          "amount": 10,
+          "unit": "ml",
+          "note": "防氧化",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 100,
+          "unit": "g",
+          "note": "垫底",
           "optional": false
         },
         {
@@ -104,123 +96,150 @@
           "name_en": "salt",
           "amount": 2,
           "unit": "g",
-          "note": "按口味调整",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "研磨",
           "optional": false
         }
       ]
     }
   ],
   "equipment": [
-    "沙拉碗",
+    "大碗",
     "刀",
     "砧板",
-    "打蛋器",
-    "削皮刀"
+    "勺",
+    "平底锅"
   ],
   "steps": [
     {
       "n": 1,
-      "text": "苹果洗净留皮切成筷子粗的条，立刻拌入柠檬汁翻匀防止氧化变褐。",
-      "time_min": 5,
-      "heat": "无火",
-      "tip": "苹果切好就拌汁，放两分钟不动表面就开始发暗。",
-      "visual_cue": "苹果条边缘洁白，带一层薄薄的汁水"
+      "text": "核桃放干锅小火烤三分钟，取出掰成小块。这一步别着急。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "烤过才香，别烤糊。，注意火候。",
+      "visual_cue": "核桃微香，颜色加深，状态稳定"
     },
     {
       "n": 2,
-      "text": "芹菜撕掉背面粗筋斜切成薄片，放冰水里泡五分钟捞出沥干，口感更脆。",
-      "time_min": 5,
+      "text": "葡萄干用温水泡五分钟，沥干备用。这一步别着急。",
+      "time_min": 6,
       "heat": "无火",
-      "tip": "芹菜筋不撕会塞牙，冰水浸泡能让纤维挺起来。",
-      "visual_cue": "芹菜片边缘卷起，颜色翠绿透亮"
+      "tip": "泡软后口感才不干硬。，注意火候。",
+      "visual_cue": "果粒饱满，水色微黄，状态稳定"
     },
     {
       "n": 3,
-      "text": "核桃掰成小块，干锅小火烘到边缘微黄出香，取出摊开晾凉。",
-      "time_min": 4,
-      "heat": "小火",
-      "tip": "核桃烘到有香味就离锅，余温会让它继续加深颜色。",
-      "visual_cue": "核桃表面泛油光，飘出坚果香"
+      "text": "苹果去皮去核，切一厘米见方的丁。这一步别着急。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "切好立刻拌柠檬汁，防止变黑。，注意火候。",
+      "visual_cue": "果丁匀整，颜色洁白，状态稳定"
     },
     {
       "n": 4,
-      "text": "酸奶加白糖和盐搅匀成沙拉酱，尝一下要甜中带微酸。",
-      "time_min": 3,
+      "text": "芹菜撕掉老筋，斜切成薄片。这一步别着急。",
+      "time_min": 4,
       "heat": "无火",
-      "tip": "用浓稠酸奶才不会把沙拉泡软，稀酸奶需提前沥水。",
-      "visual_cue": "酱汁顺滑能挂住勺背"
+      "tip": "去筋才不塞牙。，注意火候。",
+      "visual_cue": "芹片脆嫩，纤维少，状态稳定"
     },
     {
       "n": 5,
-      "text": "生菜铺盘底，苹果、芹菜、葡萄干和核桃放在大碗里淋酱拌匀，再堆到生菜上。",
-      "time_min": 4,
+      "text": "苹果丁、芹菜片和葡萄干放进大碗。这一步别着急。",
+      "time_min": 2,
       "heat": "无火",
-      "tip": "拌的时候用两把勺子从底往上翻，避免把苹果压碎。",
-      "visual_cue": "食材裹上薄薄一层乳白酱汁，颜色分明"
+      "tip": "先拌干的，再加酱。，注意火候。",
+      "visual_cue": "料铺匀，碗底无水，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "加蛋黄酱、盐和黑胡椒，从底往上翻拌。这一步别着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "翻拌不压，果丁才不碎。，注意火候。",
+      "visual_cue": "沙拉抱团，酱色乳白，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "生菜铺盘底，沙拉堆在中间，撒核桃块。这一步别着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "核桃最后撒，保持酥脆。，注意火候。",
+      "visual_cue": "造型立体，坚果点缀，状态稳定"
     }
   ],
   "tips": [
-    "苹果和芹菜都要切得粗细一致，入口才有层次不显杂乱。",
-    "坚果最后拌入能保持酥脆，提前拌会吸潮变软。",
-    "沙拉酱用酸奶替代一半蛋黄酱，热量低且清爽不腻。"
+    "苹果切好马上拌柠檬汁，颜色才白。，值得留意。",
+    "核桃烤过更香，注意别烤糊。，值得留意。",
+    "翻拌代替搅拌，果丁才完整。，值得留意。"
   ],
   "common_mistakes": [
-    "苹果切好不加柠檬汁，上桌时已经发褐。",
-    "芹菜背面的粗筋没有撕干净，嚼起来满口都是纤维渣。",
-    "沙拉提前两小时拌好，出水后盘底积一层稀汤。"
+    "苹果没拌柠檬汁，端上桌就发黑。，值得留意。",
+    "核桃没烤，吃着有生涩味。，值得留意。",
+    "蛋黄酱太多，整盘糊成一片。，值得留意。"
   ],
   "substitutions": [
     {
-      "original": "酸奶",
-      "substitute": "蛋黄酱",
-      "ratio": "100 克:80 克",
-      "note": "传统做法更浓稠，热量也更高。"
+      "original": "苹果",
+      "substitute": "梨",
+      "ratio": "300 克:300 克",
+      "note": "更清甜，水分略多。"
     },
     {
-      "original": "核桃",
-      "substitute": "腰果",
-      "ratio": "1:1",
-      "note": "烘烤时间缩短一分钟，腰果更易糊。"
+      "original": "蛋黄酱",
+      "substitute": "酸奶",
+      "ratio": "80 克:80 克",
+      "note": "更清爽，酸味更明显。"
     }
   ],
   "variations": [
-    "加入煮熟的鸡胸肉丝或熏鸭胸，可做成能当主餐的版本。"
+    "加一点鸡胸肉丝，做成主菜沙拉。，值得留意。",
+    "撒一把蓝纹奶酪，风味更浓。，值得留意。"
   ],
-  "serving_suggestion": "现拌现吃，冷藏十分钟后风味更融合。",
-  "storage": "冷藏不超过一天，酱汁会出水，吃前重新翻拌。",
+  "serving_suggestion": "冷盘上桌，配烤鸡或三明治。，效果更稳定。",
+  "storage": "冷藏一天，吃前撒核桃。，效果更稳定。",
   "nutrition_estimate": {
-    "basis": "每份约 190 克",
-    "calories_kcal": 250,
+    "basis": "每份约 250 克",
+    "calories_kcal": 420,
     "protein_g": 6,
-    "fat_g": 15,
-    "carbs_g": 26,
-    "sodium_mg": 210,
+    "fat_g": 32,
+    "carbs_g": 30,
+    "sodium_mg": 420,
     "is_estimate": true,
     "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
   "allergens": [
     "celery",
-    "milk",
+    "egg",
+    "mustard",
     "tree-nut"
   ],
   "diet_tags": [],
   "food_safety_notes": [
-    "核桃属常见致敏食材，坚果过敏者须替换或去除；生食蔬果需充分清洗，拌好后冷藏保存。"
+    "核桃为坚果类致敏原，过敏者禁食；含蛋与乳制品，过敏者慎食；成品冷藏不超过一天。"
   ],
-  "origin_note": "华尔道夫沙拉诞生于十九世纪末的纽约华尔道夫酒店，最初只有苹果、芹菜与蛋黄酱三样。后来陆续加入核桃与葡萄干，逐渐定型为如今的美式经典配菜，也是酒店菜里流传最广的一道。",
+  "origin_note": "一百多年前纽约华尔道夫酒店推出的沙拉，苹果、芹菜、核桃拌蛋黄酱，甜脆清爽。如今仍是美式冷盘的经典。",
   "tags": [
-    "美式",
+    "美国",
     "沙拉",
     "苹果",
-    "清爽"
+    "冷盘"
   ],
   "related_ids": [
-    "american-cobb-salad",
-    "caesar-salad"
+    "american-tuna-salad",
+    "american-coleslaw",
+    "american-chef-salad"
   ],
   "image_url": null,
   "image_credit": null,
   "status": "published",
-  "created_at": "2026-11-21",
-  "updated_at": "2026-11-21"
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
 }

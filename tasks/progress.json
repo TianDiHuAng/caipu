@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T12:36:12.146Z",
+  "generatedAt": "2026-11-23T12:48:00.232Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 602,
     "target": 3274,
-    "actual": 1422,
-    "coverage": 0.434331093463653
+    "actual": 1427,
+    "coverage": 0.4358582773365913
   },
   "regions": {
     "cn": [
@@ -5395,20 +5395,22 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 50,
+        "actual": 55,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
               "american-bbq-ribs",
               "american-buffalo-wings",
+              "american-chicken-pot-pie",
               "american-fried-chicken",
               "american-pot-roast",
               "american-pulled-pork",
               "american-salisbury-steak",
+              "american-sloppy-joe",
               "hamburger",
               "meatloaf"
             ]
@@ -5417,11 +5419,12 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "american-banana-bread",
               "american-blueberry-muffin",
               "american-buttermilk-biscuits",
+              "american-cinnamon-raisin-bread",
               "american-cinnamon-rolls",
               "american-cornbread",
               "american-dinner-roll",
@@ -5433,9 +5436,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "american-apple-crisp",
+              "american-blueberry-pie",
               "american-chocolate-chip-cookies",
               "american-key-lime-pie",
               "american-peach-cobbler",
@@ -5450,9 +5454,10 @@
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "american-breakfast-hash",
+              "american-eggs-benedict",
               "american-hash-browns",
               "american-pancakes",
               "pancakes",

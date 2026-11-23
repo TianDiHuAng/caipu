@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-eggs-benedict",
+  "name": {
+    "zh": "美式班尼迪克蛋",
+    "en": "Eggs Benedict",
+    "original": "Eggs Benedict"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "rich",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "水波蛋与蛋黄",
+          "optional": false
+        },
+        {
+          "name": "英式松饼",
+          "name_en": "English muffin",
+          "amount": 2,
+          "unit": "piece",
+          "note": "对半切",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 100,
+          "unit": "g",
+          "note": "煎脆",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 100,
+          "unit": "g",
+          "note": "融化",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煮蛋",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅",
+    "平底锅",
+    "打蛋器",
+    "漏勺",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "取两个蛋黄加柠檬汁和少许盐，隔水加热搅打。这一步别着急。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "水别碰到盆底，蛋黄才不会凝。，注意火候。",
+      "visual_cue": "蛋黄发白，体积变稠，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "分次淋入融化黄油，边加边搅成浓稠酱汁。这一步别着急。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "黄油温的再加，冷了一下就结。，注意火候。",
+      "visual_cue": "酱汁顺滑，能挂勺，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "酱汁离火保温，表面盖一层保鲜膜防结皮。这一步别着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "贴着表面盖，才不会起皮。，注意火候。",
+      "visual_cue": "酱面平整，温度微温，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "英式松饼对半切开，入烤箱烤三分钟。这一步别着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "烤到边缘微脆，摆盘才不塌。，注意火候。",
+      "visual_cue": "切面金黄，边缘干脆，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "培根切段下平底锅，中火煎到出油变脆。这一步别着急。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "煎脆一点，咬着才有层次。，注意火候。",
+      "visual_cue": "培根卷曲，油脂析出，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "小锅里加水烧到锅底冒细密小泡，再倒进白醋。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "加醋能让蛋白更快凝固。，注意火候。",
+      "visual_cue": "水面微动，无大滚，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "鸡蛋打在小碗里，轻滑入水中煮三分钟。这一步别着急。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "水别滚，翻滚会把蛋冲散。，注意火候。",
+      "visual_cue": "蛋白包裹，蛋黄软颤，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "捞出蛋放厨房纸上吸干水，修掉散开的蛋白。这一步别着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "修边让成品更干净。，注意火候。",
+      "visual_cue": "蛋形圆整，无水，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "松饼上铺培根，再放水波蛋，淋上酱汁。这一步别着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酱汁温热再淋，别用滚烫的。，注意火候。",
+      "visual_cue": "层次分明，酱汁流淌，状态稳定"
+    },
+    {
+      "n": 10,
+      "text": "撒黑胡椒和小葱末，立刻上桌。这一步别着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "这道菜凉得快，趁热吃。，注意火候。",
+      "visual_cue": "表面点缀，蛋面光润，状态稳定"
+    }
+  ],
+  "tips": [
+    "黄油温着加，酱汁才不结块。，值得留意。",
+    "水波蛋的水不能大滚，蛋白才不散。，值得留意。",
+    "酱汁贴面盖膜，防止结皮。，值得留意。"
+  ],
+  "common_mistakes": [
+    "黄油太冷，酱汁一下结块。，值得留意。",
+    "水滚着下蛋，蛋白全散成絮。，值得留意。",
+    "酱汁加热过头，蛋黄结粒。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "烟熏三文鱼",
+      "ratio": "100 克:100 克",
+      "note": "不必煎，直接铺上即可。"
+    },
+    {
+      "original": "英式松饼",
+      "substitute": "吐司",
+      "ratio": "2 个:4 片",
+      "note": "略薄，酱汁要稠一些。"
+    }
+  ],
+  "variations": [
+    "用菠菜代替培根，做成佛罗伦萨版。，值得留意。",
+    "酱汁加一点辣椒粉，风味更亮。，值得留意。"
+  ],
+  "serving_suggestion": "配一杯橙汁和水果，就是周末早午餐。，效果更稳定。",
+  "storage": "现做现吃，不建议存放；酱汁可冷藏一天。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 620,
+    "protein_g": 24,
+    "fat_g": 52,
+    "carbs_g": 26,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "水波蛋蛋黄为半熟状态，孕妇、儿童与免疫力低者请使用可生食蛋，或延长煮制时间至蛋黄完全凝固。",
+    "荷兰酱含生蛋黄，须用隔水加热方式加热至浓稠，中心温度达到七十度以上。",
+    "含蛋、麸质与乳制品，过敏者禁食；成品须冷藏且不隔夜复用。"
+  ],
+  "origin_note": "据说纽约一家餐厅的常客要求加培根和荷兰酱，厨师照做后成了招牌。松饼、培根、水波蛋、柠檬黄油酱，四层缺一不可。",
+  "tags": [
+    "美国",
+    "早餐",
+    "鸡蛋",
+    "早午餐"
+  ],
+  "related_ids": [
+    "scrambled-eggs",
+    "american-breakfast-hash",
+    "american-pancakes"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
