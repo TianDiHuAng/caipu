@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-dinner-roll",
+  "name": {
+    "zh": "美式餐包",
+    "en": "Dinner Roll",
+    "original": "Dinner Roll"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 122,
+    "total_min": 157
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "高筋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 220,
+          "unit": "ml",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 6,
+          "unit": "g",
+          "note": "活化",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "发酵",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "软化",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "刷面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 10,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "烤盘",
+    "刷子",
+    "保鲜膜",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温牛奶加白糖和干酵母，静置五分钟起泡。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "牛奶别烫手，太热会杀死酵母。，注意火候。",
+      "visual_cue": "表面浮起泡沫，奶香散出"
+    },
+    {
+      "n": 2,
+      "text": "面粉加盐，倒入酵母液搅成絮状。这一步不要着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "盐别直接碰酵母，会影响发酵。，注意火候。",
+      "visual_cue": "面絮均匀，无干粉，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "加入软化的黄油，揉到面团光滑出膜。这一步不要着急。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "揉到能拉出薄膜，餐包才松软。，注意火候。",
+      "visual_cue": "面团光滑，能拉出薄层"
+    },
+    {
+      "n": 4,
+      "text": "盖保鲜膜室温发酵到两倍大。这一步不要着急。",
+      "time_min": 65,
+      "heat": "无火",
+      "tip": "温度低就放温暖处，别急。，注意火候。",
+      "visual_cue": "体积翻倍，手指按压回弹"
+    },
+    {
+      "n": 5,
+      "text": "取出排气，分成九份滚圆。这一步不要着急。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "滚圆让表面张力均匀，烤出来才圆。，注意火候。",
+      "visual_cue": "九个圆球，表面紧绷，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "排进烤盘，盖布二次发酵三十分钟。这一步不要着急。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "二次发酵充分，餐包才蓬。，注意火候。",
+      "visual_cue": "彼此挨近，体积再涨，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "表面刷蛋液，撒上白芝麻，动作轻一点别按塌面团。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛋液刷薄一点，上色才均匀。，注意火候。",
+      "visual_cue": "表层油亮，芝麻均匀，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "烤箱一百八十度烤二十分钟到金黄。这一步不要着急。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "中途看上色，太深就盖锡纸。，注意火候。",
+      "visual_cue": "表面金黄，轻按回弹，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "出炉趁热刷一层融化黄油。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "刷黄油让表皮软而亮。，注意火候。",
+      "visual_cue": "表层油润，香气浓，状态稳定"
+    }
+  ],
+  "tips": [
+    "牛奶温热不烫手，酵母才活。，值得留意。",
+    "揉到出膜，餐包才够松软。，值得留意。",
+    "出炉刷黄油，表皮才不干硬。，值得留意。"
+  ],
+  "common_mistakes": [
+    "牛奶太烫，酵母被烫死发不起来。，值得留意。",
+    "揉面不到位，餐包硬实。，值得留意。",
+    "发酵不足，烤出来像小石头。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "清水加奶粉",
+      "ratio": "220 毫升:210 毫升加20 克",
+      "note": "奶香略减，口感仍柔软。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "50 克:40 毫升",
+      "note": "更清淡，发酵速度略快。"
+    }
+  ],
+  "variations": [
+    "表面刷蒜香黄油，做成蒜香餐包。，值得留意。",
+    "包入一小块奶酪，撕开有拉丝。，值得留意。"
+  ],
+  "serving_suggestion": "配牛排、汤或沙拉，撕开抹黄油吃。，效果更稳定。",
+  "storage": "密封常温两天，冷冻两周；复热一百七十度烤五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 520,
+    "protein_g": 14,
+    "fat_g": 16,
+    "carbs_g": 78,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk",
+    "sesame"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质、蛋与乳制品，过敏者慎食；须烤至中心熟透、无湿面；成品密封常温不超过两天。"
+  ],
+  "origin_note": "美式餐桌上的配角，一篮热腾腾的小圆包，撕开抹黄油。做法简单，靠的是黄油和慢发酵带来的松软。家常做法并不复杂，关键是火候和耐心。",
+  "tags": [
+    "美国",
+    "烘焙",
+    "面包",
+    "餐包"
+  ],
+  "related_ids": [
+    "american-cinnamon-rolls",
+    "american-banana-bread",
+    "american-blueberry-muffin"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

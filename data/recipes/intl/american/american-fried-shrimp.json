@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-fried-shrimp",
+  "name": {
+    "zh": "美式炸虾",
+    "en": "Fried Shrimp",
+    "original": "Fried Shrimp"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 400,
+          "unit": "g",
+          "note": "去壳留尾",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 120,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 100,
+          "unit": "g",
+          "note": "外裹",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "蛋液",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 60,
+          "unit": "ml",
+          "note": "蛋液",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 270,
+          "unit": "ml",
+          "note": "炸制",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "佐食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "深锅",
+    "漏勺",
+    "厨房纸",
+    "温度计"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾仁开背去掉黑色肠线，用盐和黑胡椒腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "开背是为了让虾仁受热卷得更漂亮。",
+      "visual_cue": "虾仁平展，肠线去净"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋加牛奶打散，调成均匀的蛋液。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛋液过筛更顺滑，挂糊更匀。，注意火候。",
+      "visual_cue": "蛋液均匀，无蛋筋，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "面粉加辣椒粉和少许盐拌匀做裹粉。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "裹粉里加辣，外壳才有味。，注意火候。",
+      "visual_cue": "粉料均匀，颜色微红，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "虾仁依次裹面粉、蘸蛋液、滚面包糠。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "三步顺序别乱，壳才挂得住。，注意火候。",
+      "visual_cue": "表面裹满，按压不脱落"
+    },
+    {
+      "n": 5,
+      "text": "深锅倒植物油，烧到一百七十度。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "温度太低会吸油，太高会外焦。，注意火候。",
+      "visual_cue": "油面微动，筷子入锅起泡"
+    },
+    {
+      "n": 6,
+      "text": "分批下虾仁，炸两分钟到金黄浮起。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "一次别下太多，油温才不掉。，注意火候。",
+      "visual_cue": "外壳金黄，虾仁卷曲，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "捞出放厨房纸上吸掉多余油脂。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热吸油，外壳才不软。，注意火候。",
+      "visual_cue": "表面干爽，无油滴，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "装盘配柠檬角，挤汁后食用。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "柠檬汁解腻又提鲜。，注意火候。",
+      "visual_cue": "柠檬翠绿，外壳酥脆，状态稳定"
+    }
+  ],
+  "tips": [
+    "油温一百七十度最合适，太低吸油。，值得留意。",
+    "面包糠要按压紧实，炸时才不掉。，值得留意。",
+    "分批炸，油温才稳。，值得留意。"
+  ],
+  "common_mistakes": [
+    "油温不够，外壳吸满油。，值得留意。",
+    "一次下太多虾，粘连成团。，值得留意。",
+    "炸过头，虾肉发柴。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鱿鱼圈",
+      "ratio": "400 克:400 克",
+      "note": "炸的时间缩短三十秒。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "玉米片碎",
+      "ratio": "100 克:100 克",
+      "note": "更酥脆，颗粒感更明显。"
+    }
+  ],
+  "variations": [
+    "裹粉里加蒜粉，香气更浓。，值得留意。",
+    "配塔塔酱或番茄酱食用。，值得留意。"
+  ],
+  "serving_suggestion": "配凉拌卷心菜和薯条，就是美式海鲜拼盘。，效果更稳定。",
+  "storage": "冷藏一天，复热用烤箱两百度烤六分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 520,
+    "protein_g": 26,
+    "fat_g": 34,
+    "carbs_g": 28,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾为甲壳类，过敏者禁食；须炸至中心完全熟透、肉质不透明；成品冷藏不超过一天，复热须彻底加热。"
+  ],
+  "origin_note": "美国南方沿海的炸虾，裹上蛋液和面包糠下锅，外壳酥得一咬掉渣，虾肉还在弹。配一碟酱，一盘根本不够。",
+  "tags": [
+    "美国",
+    "海鲜",
+    "油炸",
+    "虾"
+  ],
+  "related_ids": [
+    "american-clam-chowder",
+    "hamburger",
+    "american-coleslaw"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

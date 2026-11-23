@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-breakfast-hash",
+  "name": {
+    "zh": "美式早餐土豆煎饼",
+    "en": "Breakfast Hash",
+    "original": "Breakfast Hash"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 30,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "研磨",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 40,
+          "unit": "g",
+          "note": "佐食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "锅铲",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆切一厘米小丁，泡冷水十分钟泡掉表面浮粉。这一步不要着急。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡过再煎，土豆才不粘锅。，注意火候。",
+      "visual_cue": "水微浑，薯丁挺实，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "沥干后用厨房纸吸掉表面水分。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "带水下锅会溅油，也不脆。，注意火候。",
+      "visual_cue": "薯丁干爽，不粘手，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒植物油，薯丁中小火摊平煎。这一步不要着急。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "别急着翻，等底面结壳。，注意火候。",
+      "visual_cue": "底面金黄，边缘定型，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "翻面继续煎六分钟到八成熟。这一步不要着急。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "翻面用铲子整块翻，别搅碎。，注意火候。",
+      "visual_cue": "两面金黄，叉子能戳透"
+    },
+    {
+      "n": 5,
+      "text": "把薯丁推到一边，下香肠片煎出油。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香肠先煎，油能给土豆增香。，注意火候。",
+      "visual_cue": "香肠卷边，油脂析出，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "下洋葱丁和青椒丁炒到变软。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "蔬菜炒软出甜味，才不抢主味。，注意火候。",
+      "visual_cue": "洋葱透明，青椒变深，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "全部翻匀，加盐和黑胡椒调味。这一步不要着急。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "尝一口再补盐，香肠本身有咸味。，注意火候。",
+      "visual_cue": "颜色丰富，油光均匀，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "另起锅煎三个鸡蛋，摆在做好的土豆上。这一步不要着急。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "蛋黄留溏心，拌开更香。，注意火候。",
+      "visual_cue": "蛋白凝固，蛋黄微颤，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "配番茄酱上桌，把蛋黄拌进薯丁里一起吃，趁热最香。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "拌开蛋黄和薯丁一起吃。，注意火候。",
+      "visual_cue": "蛋液流下，颜色诱人，状态稳定"
+    }
+  ],
+  "tips": [
+    "土豆泡水去淀粉，煎出来才脆。，值得留意。",
+    "薯丁摊平别翻炒，才能结壳。，值得留意。",
+    "鸡蛋最后煎，蛋黄留溏心最香。，值得留意。"
+  ],
+  "common_mistakes": [
+    "土豆没沥干，下锅溅油又粘锅。，值得留意。",
+    "一直翻炒，薯丁全碎成泥。，值得留意。",
+    "盐放太早，土豆出水变软。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "香肠",
+      "substitute": "培根",
+      "ratio": "150 克:120 克",
+      "note": "更脆，油要减。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "红薯",
+      "ratio": "500 克:500 克",
+      "note": "更甜，煎的时间缩短两分钟。"
+    }
+  ],
+  "variations": [
+    "加一把玉米粒，颜色更鲜亮。，值得留意。",
+    "撒一把奶酪碎，盖盖焖到融化。，值得留意。"
+  ],
+  "serving_suggestion": "配一杯黑咖啡和一片吐司，就是美式早午餐。",
+  "storage": "冷藏两天，复热用平底锅干煎三分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 450,
+    "protein_g": 20,
+    "fat_g": 26,
+    "carbs_g": 36,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须煎至蛋白凝固、喜欢溏心者请用可生食蛋；香肠须煎熟透；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "美国 diner 早餐盘上的主角，土豆丁煎到外壳焦脆，拌上香肠和洋葱，顶上压一个煎蛋。一勺下去蛋黄流开，什么都能蘸。",
+  "tags": [
+    "美国",
+    "早餐",
+    "土豆",
+    "鸡蛋"
+  ],
+  "related_ids": [
+    "american-hash-browns",
+    "american-pancakes",
+    "scrambled-eggs"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
