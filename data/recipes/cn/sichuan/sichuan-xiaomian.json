@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-xiaomian",
+  "name": {
+    "zh": "重庆小面",
+    "en": "Chongqing Spicy Noodles",
+    "original": "小面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 2,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "拉面",
+          "name_en": "ramen noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "鲜面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 4,
+          "unit": "g",
+          "note": "提麻",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 15,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "芽菜",
+          "name_en": "preserved mustard sprout",
+          "amount": 30,
+          "unit": "g",
+          "note": "碎米芽菜",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "捣泥",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "油麦菜",
+          "name_en": "Indian lettuce",
+          "amount": 100,
+          "unit": "g",
+          "note": "垫底",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "面碗",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大蒜捣成泥，加两勺清水泡成蒜水备用。，看准状态再往下做。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蒜水比蒜末更均匀，不呛口。，看准状态再往下做。",
+      "visual_cue": "蒜水微白，蒜香散出"
+    },
+    {
+      "n": 2,
+      "text": "面碗里放辣椒油、花椒粉、生抽、香醋和猪油。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "调料先入碗，热汤一冲才香。，看准状态再往下做。",
+      "visual_cue": "碗底红油发亮，这一点很关键。"
+    },
+    {
+      "n": 3,
+      "text": "加蒜水、芽菜和一半葱花，调料打底。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "芽菜带咸，后面的盐要少放。，看准状态再往下做。",
+      "visual_cue": "碗中料层分明，这一点很关键。"
+    },
+    {
+      "n": 4,
+      "text": "汤锅烧大开，先舀一勺热汤冲进碗里化开。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "热汤冲料，红油和猪油才融。，看准状态再往下做。",
+      "visual_cue": "汤面浮红油，香气冲出"
+    },
+    {
+      "n": 5,
+      "text": "下碱水面，用筷子轻轻拨散防粘。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "碱水面下锅就拨，粘一起就煮不透。，看准状态再往下做。",
+      "visual_cue": "碱水面根根分明，这一点很关键。"
+    },
+    {
+      "n": 6,
+      "text": "煮两分钟后下油麦菜，一起烫三十秒。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "菜后放，烫软就好。，看准状态再往下做。",
+      "visual_cue": "菜叶翠绿，碱水面转白"
+    },
+    {
+      "n": 7,
+      "text": "碱水面和油麦菜捞进碗里，浇上汤和调料。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "面别沥太干，带点汤才不坨。，看准状态再往下做。",
+      "visual_cue": "碱水面浮面，汤汁红亮"
+    },
+    {
+      "n": 8,
+      "text": "撒剩下的葱花，趁热拌开吃。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "拌之前先喝一口汤，试试咸淡。，看准状态再往下做。",
+      "visual_cue": "红油裹面，葱花点缀"
+    }
+  ],
+  "tips": [
+    "调料先放碗里用热汤冲，香气才出得来。",
+    "碱水面煮两分钟足够，煮久就断。，这一点很关键。",
+    "猪油是灵魂，别用植物油代替。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "调料后放，拌开一股生酱油味。，这一点很关键。",
+    "面煮过头，捞起来一夹就断。，这一点很关键。",
+    "汤太多，变成一碗面汤泡面。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "碱水面",
+      "substitute": "挂面",
+      "ratio": "300 克:250 克",
+      "note": "口感差些，煮的时间按包装。"
+    },
+    {
+      "original": "猪油",
+      "substitute": "香油",
+      "ratio": "15 克:15 毫升",
+      "note": "香气不同，更清爽。"
+    }
+  ],
+  "variations": [
+    "加一勺豌杂，做成豌杂面。，这一点很关键。",
+    "放几片卤牛肉，升级成牛肉面。，这一点很关键。"
+  ],
+  "serving_suggestion": "早餐吃一碗，配一个煎蛋。，这一点很关键。",
+  "storage": "现做现吃，冷藏后口感大减。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 580,
+    "protein_g": 14,
+    "fat_g": 28,
+    "carbs_g": 68,
+    "sodium_mg": 1420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含小麦与大豆制品，过敏者慎食；面条须煮透无硬芯；调料含盐较高，高血压人群适量食用。"
+  ],
+  "origin_note": "重庆人的早点，一碗小面全靠调料打底。红油花椒铺满碗底，热汤一冲香味炸开，面条裹着红亮亮的汁，几口就见底。",
+  "tags": [
+    "四川",
+    "主食",
+    "面条",
+    "麻辣"
+  ],
+  "related_ids": [
+    "dandan-mian",
+    "sichuan-liangmian",
+    "yibin-ranmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
