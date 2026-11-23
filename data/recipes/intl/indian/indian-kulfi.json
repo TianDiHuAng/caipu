@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-kulfi",
+  "name": {
+    "zh": "印度藏红花冰淇淋",
+    "en": "Kulfi",
+    "original": "Kulfi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 286,
+    "total_min": 306
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "熬浓",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 200,
+          "unit": "ml",
+          "note": "增滑",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 90,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 0.5,
+          "unit": "g",
+          "note": "泡开",
+          "optional": false
+        },
+        {
+          "name": "小豆蔻",
+          "name_en": "cardamom",
+          "amount": 3,
+          "unit": "g",
+          "note": "碾碎",
+          "optional": false
+        },
+        {
+          "name": "开心果",
+          "name_en": "pistachio",
+          "amount": 30,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "模具",
+    "冰箱",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛奶倒厚底锅，中火煮开后转小火慢熬。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "厚底锅受热匀，才不容易糊底。，注意火候。",
+      "visual_cue": "奶液翻滚，表面起泡，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "一边熬一边刮锅底，熬二十五分钟到剩三分之二。",
+      "time_min": 26,
+      "heat": "小火",
+      "tip": "刮底是关键，牛奶很容易结焦。，注意火候。",
+      "visual_cue": "奶液变浓，颜色微黄，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "玉米淀粉加两勺凉牛奶调开，倒进锅里搅匀。这一步不要着急。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "淀粉先调开，倒进去才不结块。，注意火候。",
+      "visual_cue": "奶液变稠，无颗粒，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "加白糖搅到完全融化，再煮两分钟。这一步不要着急。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "糖化开就够，久煮颜色会变深。，注意火候。",
+      "visual_cue": "甜味均匀，质地顺滑，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "放藏红花和小豆蔻，搅匀后关火晾到温热。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "藏红花先用一点温牛奶泡开，色才出。",
+      "visual_cue": "奶浆淡黄，香气明显，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "倒入淡奶油拌匀，晾到手摸温热不烫。这一步不要着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "奶油后加，香气才不被熬掉。，注意火候。",
+      "visual_cue": "奶浆浓稠，油润，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "分装进模具，撒开心果碎，盖好盖子。这一步不要着急。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "撒完轻轻按一下，坚果才不浮。，注意火候。",
+      "visual_cue": "表面平整，坚果分布匀"
+    },
+    {
+      "n": 8,
+      "text": "冷冻四小时以上到完全硬实。这一步不要着急。",
+      "time_min": 245,
+      "heat": "无火",
+      "tip": "中途不用搅，这款靠浓稠度成型。，注意火候。",
+      "visual_cue": "整体冻硬，脱模成形，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "取出稍放两分钟，脱模切块食用。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "回温两分钟，口感才绵而不硬。，注意火候。",
+      "visual_cue": "切面细腻，边缘微化，状态稳定"
+    }
+  ],
+  "tips": [
+    "牛奶熬到剩三分之二，奶味才够浓。，值得留意。",
+    "全程刮锅底，牛奶很容易结焦。，值得留意。",
+    "冻硬后回温两分钟，口感更绵。，值得留意。"
+  ],
+  "common_mistakes": [
+    "牛奶熬太急，锅底结一层焦皮。，值得留意。",
+    "淀粉没调开，冰里有硬块。，值得留意。",
+    "糖放太多，冻不硬。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "淡奶油",
+      "substitute": "全脂牛奶",
+      "ratio": "200 毫升:200 毫升",
+      "note": "热量更低，口感略冰。"
+    },
+    {
+      "original": "开心果",
+      "substitute": "杏仁",
+      "ratio": "30 克:30 克",
+      "note": "香气更清，口感更脆。"
+    }
+  ],
+  "variations": [
+    "加一勺芒果泥，做成芒果口味。，值得留意。",
+    "用玫瑰水替藏红花，花香更柔。，值得留意。"
+  ],
+  "serving_suggestion": "切块插上小棍，当作饭后冰品最受欢迎。，效果更稳定。",
+  "storage": "冷冻一周，取出回温两分钟再吃。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 190 克",
+    "calories_kcal": 360,
+    "protein_g": 10,
+    "fat_g": 20,
+    "carbs_g": 34,
+    "sodium_mg": 130,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品与坚果，过敏者慎食；奶浆须煮沸并熬透；成品冷冻不超过一周。"
+  ],
+  "origin_note": "莫卧儿时代传下来的冰品，把牛奶熬到浓稠再冻硬，没有冰淇淋机的年代就靠这一手。加藏红花和豆蔻，香得很有层次。",
+  "tags": [
+    "印度",
+    "甜点",
+    "冰品",
+    "奶制"
+  ],
+  "related_ids": [
+    "indian-rasmalai",
+    "kheer",
+    "indian-shrikhand"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:10:50.389Z",
+  "generatedAt": "2026-11-23T11:22:16.386Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 601,
     "target": 3274,
-    "actual": 1386,
-    "coverage": 0.42333536957849727
+    "actual": 1392,
+    "coverage": 0.4251679902260232
   },
   "regions": {
     "cn": [
@@ -4059,7 +4059,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 40,
+        "actual": 46,
         "cells": [
           {
             "category": "main-vegetable",
@@ -4095,10 +4095,12 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 7,
             "ids": [
               "aloo-paratha",
+              "indian-bhatura",
               "indian-naan",
+              "indian-paratha",
               "indian-roti",
               "naan",
               "puri"
@@ -4108,11 +4110,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "dal-tomato-soup",
               "indian-chicken-shorba",
+              "indian-mulligatawny-soup",
               "indian-rasam",
+              "indian-sambar",
               "tomato-shorba"
             ]
           },
@@ -4120,10 +4124,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "gajar-halwa",
               "indian-gulab-jamun",
+              "indian-kulfi",
+              "indian-rasmalai",
               "indian-shrikhand",
               "kheer"
             ]

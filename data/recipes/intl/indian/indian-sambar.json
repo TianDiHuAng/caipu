@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-sambar",
+  "name": {
+    "zh": "南印木豆蔬菜汤",
+    "en": "Sambar",
+    "original": "Sambar"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 52,
+    "total_min": 77
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "木豆",
+          "name_en": "toor dal",
+          "amount": 180,
+          "unit": "g",
+          "note": "泡发",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 25,
+          "unit": "g",
+          "note": "取汁",
+          "optional": false
+        },
+        {
+          "name": "咖喱叶",
+          "name_en": "curry leaves",
+          "amount": 8,
+          "unit": "g",
+          "note": "一把",
+          "optional": false
+        },
+        {
+          "name": "芥末籽",
+          "name_en": "mustard seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "爆香",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 4,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "香菜籽粉",
+          "name_en": "ground coriander",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "木勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "木豆洗净泡两小时，连水一起下锅煮。这一步不要着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "泡豆的水别倒，煮出来更香。，注意火候。",
+      "visual_cue": "豆身饱满，水略浑，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "大火烧开撇去浮沫，转小火煮三十分钟到软烂。",
+      "time_min": 32,
+      "heat": "小火",
+      "tip": "煮到用勺一压就散，汤才浓。，注意火候。",
+      "visual_cue": "豆子软烂，汤汁稠厚，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "罗望子放半碗温水里抓捏，滤出酸汁备用。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "抓出胶质，酸味才柔和。，注意火候。",
+      "visual_cue": "汁水棕褐，味酸，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油，下芥末籽小火等它爆开。这一步不要着急。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "籽一跳就下料，别等它变黑。，注意火候。",
+      "visual_cue": "籽粒跳动，香气散出，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "放洋葱、咖喱叶和姜黄粉炒到洋葱变软。这一步不要着急。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "咖喱叶揉一下再下锅，香气更足。，注意火候。",
+      "visual_cue": "洋葱透明，油色发黄，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "加番茄块、土豆和胡萝卜炒三分钟。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "蔬菜先炒过，煮出来更有味。，注意火候。",
+      "visual_cue": "蔬菜裹油，番茄出汁，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "把炒好的蔬菜倒进豆汤，加香菜籽粉和辣椒粉。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料入汤后要煮开才出味。，注意火候。",
+      "visual_cue": "汤色橙黄，香气浓，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "倒罗望子汁和盐，小火再煮十分钟。这一步不要着急。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "酸汁后加，久煮会失酸。，注意火候。",
+      "visual_cue": "汤汁浓稠，酸香明显，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "撒香菜碎，配米饭或蒸米糕一起吃。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酸辣要平衡，觉得尖就补一点糖。，注意火候。",
+      "visual_cue": "表面翠绿，汤色油亮，状态稳定"
+    }
+  ],
+  "tips": [
+    "木豆煮到一压就散，汤才够浓。，值得留意。",
+    "芥末籽小火爆开，别炒黑发苦。，值得留意。",
+    "罗望子汁最后加，酸味才清。，值得留意。"
+  ],
+  "common_mistakes": [
+    "豆没煮烂就打汤，口感粗糙。，值得留意。",
+    "芥末籽炒焦，整锅发苦。，值得留意。",
+    "罗望子放太多，酸得发涩。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "木豆",
+      "substitute": "红腰豆",
+      "ratio": "180 克:180 克",
+      "note": "口感更粉，需多煮十分钟。"
+    },
+    {
+      "original": "罗望子",
+      "substitute": "柠檬汁",
+      "ratio": "25 克:30 毫升",
+      "note": "酸味更直接，出锅前再加。"
+    }
+  ],
+  "variations": [
+    "加一把青豆，颜色更鲜。，值得留意。",
+    "放两片咖喱叶增香，风味更南印。，值得留意。"
+  ],
+  "serving_suggestion": "浇在热米饭上，配一份椰香酸辣酱和一碟脆饼就是标准南印套餐。",
+  "storage": "冷藏三天，复热时加少量水小火煮开。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 320,
+    "protein_g": 15,
+    "fat_g": 10,
+    "carbs_g": 44,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆类须彻底煮软熟透，避免生豆引起肠胃不适；成品冷藏不超过三天，复热须滚开。"
+  ],
+  "origin_note": "南印度的日常汤菜，木豆煮烂打底，加罗望子、咖喱叶和蔬菜同煮。酸辣带豆香，浇在米饭上用手抓着吃，是当地人一天的主心骨。",
+  "tags": [
+    "印度",
+    "南印",
+    "汤",
+    "豆类"
+  ],
+  "related_ids": [
+    "indian-rasam",
+    "dal-tomato-soup",
+    "indian-mulligatawny-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

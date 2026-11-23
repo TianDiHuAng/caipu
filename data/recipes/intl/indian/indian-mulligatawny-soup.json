@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-mulligatawny-soup",
+  "name": {
+    "zh": "印度咖喱鸡汤",
+    "en": "Mulligatawny Soup",
+    "original": "Mulligatawny"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 56,
+    "total_min": 76
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "木豆",
+          "name_en": "toor dal",
+          "amount": 100,
+          "unit": "g",
+          "note": "泡发",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 12,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调稠",
+          "optional": false
+        },
+        {
+          "name": "酥油",
+          "name_en": "ghee",
+          "amount": 25,
+          "unit": "g",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "料理棒",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "木豆提前泡两小时，泡到用手能掐开。这一步不要着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "泡透才煮得软，不然汤里有硬粒。，注意火候。",
+      "visual_cue": "豆身饱满，能掐断，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "汤锅化开酥油，下洋葱丁炒到边缘发黄。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒出甜味，汤的底子才厚。，注意火候。",
+      "visual_cue": "洋葱金黄，锅底泛香，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "加蒜末和姜末炒香，再放咖喱粉、孜然粉和姜黄粉。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "粉类小火炒十秒就够，炒久会发苦。，注意火候。",
+      "visual_cue": "香料起泡，香气冲鼻，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "放鸡腿肉块翻炒到表面变色收紧。这一步不要着急。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉块炒到封住表面，煮的时候才不散味。",
+      "visual_cue": "肉色变白，表面收紧，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "倒入番茄块、木豆和清水一千毫升。这一步不要着急。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "水一次加足，中途补水汤会淡。，注意火候。",
+      "visual_cue": "液体没过，豆子沉底，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "烧开转小火盖锅煮三十五分钟到豆子开花。这一步不要着急。",
+      "time_min": 37,
+      "heat": "小火",
+      "tip": "豆子开花汤才浓，别中途大火滚。，注意火候。",
+      "visual_cue": "豆子松软，汤色变浓，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "用料理棒打十秒，把部分豆子和番茄打碎。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "只打几秒，留一半口感更好。，注意火候。",
+      "visual_cue": "汤体半稠，颗粒仍在，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "倒椰奶搅匀，加盐调味后再煮三分钟。这一步不要着急。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "椰奶别大火煮，容易油水分离。，注意火候。",
+      "visual_cue": "汤色奶黄，质地顺滑，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "盛碗撒香菜碎，趁热配米饭上桌。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜最后撒，香气才清。，注意火候。",
+      "visual_cue": "表面翠绿，热气腾腾，状态稳定"
+    }
+  ],
+  "tips": [
+    "木豆一定泡透，煮出来才绵软。，值得留意。",
+    "香料小火炒十秒，香气才不苦。，值得留意。",
+    "椰奶最后加，别大火久煮。，值得留意。"
+  ],
+  "common_mistakes": [
+    "豆子没泡直接煮，汤里有硬粒。，值得留意。",
+    "香料炒焦，整锅发苦。，值得留意。",
+    "椰奶大火滚，油水分离。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鹰嘴豆",
+      "ratio": "400 克:200 克",
+      "note": "素版更清爽，需多煮十分钟。"
+    },
+    {
+      "original": "椰奶",
+      "substitute": "淡奶油",
+      "ratio": "120 毫升:100 毫升",
+      "note": "奶香更浓，热量更高。"
+    }
+  ],
+  "variations": [
+    "加一小把熟米饭同煮，汤更稠。，值得留意。",
+    "出锅挤几滴柠檬汁，酸香更开胃。，值得留意。"
+  ],
+  "serving_suggestion": "配一份印度香米饭，或蘸烤饼吃都很地道。，效果更稳定。",
+  "storage": "冷藏三天，复热加少量清水小火煮开。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 430,
+    "protein_g": 30,
+    "fat_g": 22,
+    "carbs_g": 30,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须煮至中心完全熟透、无血水；含乳制品与坚果替代时注意过敏；成品冷藏不超过三天，复热须彻底加热。"
+  ],
+  "origin_note": "名字来自泰米尔语的“胡椒水”，英国殖民时期在印度南部演变成这道浓汤。豆子和鸡肉煮烂打稠，加咖喱和椰奶，喝一口先是辣，后是甜。",
+  "tags": [
+    "印度",
+    "汤",
+    "咖喱",
+    "鸡肉"
+  ],
+  "related_ids": [
+    "indian-chicken-shorba",
+    "indian-rasam",
+    "dal-tomato-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
