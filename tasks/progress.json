@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:29:32.595Z",
+  "generatedAt": "2026-11-23T15:45:23.488Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 611,
     "target": 3274,
-    "actual": 1504,
-    "coverage": 0.4593769089798412
+    "actual": 1510,
+    "coverage": 0.4612095296273671
   },
   "regions": {
     "cn": [
@@ -3352,19 +3352,22 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 42,
+        "actual": 48,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 10,
             "ids": [
               "boeuf-bourguignon",
               "french-boeuf-bourguignon",
+              "french-brandade-de-morue",
               "french-coq-au-vin",
+              "french-hachis-parmentier",
               "french-pot-au-feu",
               "french-steak-frites",
+              "french-tartiflette",
               "magret-de-canard",
               "quiche-lorraine"
             ]
@@ -3373,14 +3376,16 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 9,
             "ids": [
               "creme-brulee",
               "french-clafoutis",
               "french-crepe",
+              "french-financier",
               "french-madeleines",
               "french-mousse-au-chocolat",
               "french-tarte-au-citron",
+              "french-tarte-aux-pommes",
               "tarte-tatin"
             ]
           },
@@ -3412,10 +3417,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "baguette",
               "french-brioche",
+              "french-croissant",
               "french-pain-au-chocolat",
               "french-quiche-lorraine",
               "tarte-tatin"

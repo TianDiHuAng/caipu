@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-hachis-parmentier",
+  "name": {
+    "zh": "帕芒蒂耶牛肉薯饼",
+    "en": "Hachis Parmentier",
+    "original": "Hachis Parmentier"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 61,
+    "total_min": 86
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 500,
+          "unit": "g",
+          "note": "剁碎",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 800,
+          "unit": "g",
+          "note": "煮泥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "炒制压泥",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调薯泥",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 80,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "汤锅",
+    "炒锅",
+    "压泥器",
+    "烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆去皮切块，放汤锅加水煮二十分钟到软。，看准状态再往下做。",
+      "time_min": 22,
+      "heat": "大火",
+      "tip": "煮到叉子一插就透，压泥才细。，看准状态再往下做。",
+      "visual_cue": "块边碎开，筷子可穿"
+    },
+    {
+      "n": 2,
+      "text": "沥干水分，趁热加黄油和牛奶压成细腻薯泥。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "趁热压泥，薯泥才顺滑无颗粒。，看准状态再往下做。",
+      "visual_cue": "泥质细滑，无结块，这一点很关键。"
+    },
+    {
+      "n": 3,
+      "text": "洋葱切碎，大蒜切末，番茄切小丁备用。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切碎一点，炒的时候才融进肉里。，看准状态再往下做。",
+      "visual_cue": "碎粒均匀，颜色分明"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒橄榄油，下洋葱碎小火炒到透明。，看准状态再往下做。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "小火慢炒，洋葱才甜不焦。，看准状态再往下做。",
+      "visual_cue": "洋葱透明，香气升起"
+    },
+    {
+      "n": 5,
+      "text": "加蒜末炒香，下牛肉粒大火炒散至变色。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "牛肉粒要炒散，别结成大块。，看准状态再往下做。",
+      "visual_cue": "肉粒松散，颜色变褐"
+    },
+    {
+      "n": 6,
+      "text": "加番茄丁、面粉炒匀，加盐和黑胡椒调味。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "面粉裹住肉汁，馅才不水。，看准状态再往下做。",
+      "visual_cue": "馅料湿润，不流汤，这一点很关键。"
+    },
+    {
+      "n": 7,
+      "text": "撒欧芹碎拌匀，把牛肉料铺进烤盘压平。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "压平压实，切的时候才不散。，看准状态再往下做。",
+      "visual_cue": "馅面平整，厚薄一致"
+    },
+    {
+      "n": 8,
+      "text": "薯泥铺在牛肉料上抹平，用叉子划出纹路。，看准状态再往下做。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "划纹路，烤出的表面才酥。，看准状态再往下做。",
+      "visual_cue": "纹路清晰，边缘封住"
+    },
+    {
+      "n": 9,
+      "text": "撒奶酪碎，烤箱两百度烤二十分钟到金黄。，看准状态再往下做。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "烤到表面起泡，香气才出来。，看准状态再往下做。",
+      "visual_cue": "表面金黄，奶酪融化"
+    }
+  ],
+  "tips": [
+    "薯泥要趁热压，冷了会起疙瘩。，这一点很关键。",
+    "牛肉料收干汤汁，铺薯泥才不塌。，这一点很关键。",
+    "表面划纹路，烤出的脆皮更漂亮。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "薯泥太稀，铺上去全陷进肉里。，这一点很关键。",
+    "牛肉料带汤，烤完底部一层水。，这一点很关键。",
+    "奶酪撒太早，烤焦发苦。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "500 克:500 克",
+      "note": "风味更浓，需多加百里香。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "120 毫升:100 毫升",
+      "note": "更浓郁，热量也更高。"
+    }
+  ],
+  "variations": [
+    "加一层蘑菇丁，口感更丰富。，这一点很关键。",
+    "表面撒面包糠，脆感更足。，这一点很关键。"
+  ],
+  "serving_suggestion": "配一份简单的绿叶蔬菜。，这一点很关键。",
+  "storage": "冷藏三天，冷冻两周；复热烤箱一百八十度二十分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 620,
+    "protein_g": 32,
+    "fat_g": 34,
+    "carbs_g": 44,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品与小麦，过敏者慎食；牛肉须炒至完全变色熟透；烤盘取出时注意防烫；成品冷藏不超过三天。"
+  ],
+  "origin_note": "法国食堂的国民菜，名字来自十八世纪的营养学家帕芒蒂耶。肉馅和薯泥层层叠起来烤，一勺挖下去，又绵又香。",
+  "tags": [
+    "法国",
+    "焗烤",
+    "牛肉",
+    "家常菜"
+  ],
+  "related_ids": [
+    "french-gratin-dauphinois",
+    "french-steak-frites",
+    "sauce-bechamel"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-brandade-de-morue",
+  "name": {
+    "zh": "法式鳕鱼泥",
+    "en": "Brandade de Morue",
+    "original": "Brandade de Morue"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 61,
+    "total_min": 91
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳕鱼",
+          "name_en": "cod",
+          "amount": 600,
+          "unit": "g",
+          "note": "咸鳕鱼",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "煮泥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 150,
+          "unit": "ml",
+          "note": "调糊",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "乳化",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 60,
+          "unit": "ml",
+          "note": "增滑",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 60,
+          "unit": "g",
+          "note": "配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "木勺",
+    "烤盘",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "咸鳕鱼提前一天用清水浸泡，中途换三次水。，看准状态再往下做。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡够时间，咸味才降下来。，看准状态再往下做。",
+      "visual_cue": "鱼身回软，水不再浑"
+    },
+    {
+      "n": 2,
+      "text": "鳕鱼放汤锅，加洋葱片和月桂叶，小火煮十分钟。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "小火微沸，鱼肉才不散。，看准状态再往下做。",
+      "visual_cue": "鱼肉分片，颜色洁白"
+    },
+    {
+      "n": 3,
+      "text": "捞出鳕鱼稍微放凉，仔细挑出所有鱼刺。，看准状态再往下做。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "鱼刺要挑干净，吃的时候才安心。，看准状态再往下做。",
+      "visual_cue": "肉片无刺，纤维分明"
+    },
+    {
+      "n": 4,
+      "text": "土豆去皮切块，煮软后压成细腻薯泥。，看准状态再往下做。",
+      "time_min": 20,
+      "heat": "大火",
+      "tip": "土豆煮透，压出来才绵密。，看准状态再往下做。",
+      "visual_cue": "泥质细滑，无颗粒，这一点很关键。"
+    },
+    {
+      "n": 5,
+      "text": "小锅加热牛奶和淡奶油，保持微温备用。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "温热的奶才容易被吸收。，看准状态再往下做。",
+      "visual_cue": "表面冒气，不沸腾，这一点很关键。"
+    },
+    {
+      "n": 6,
+      "text": "炒锅放蒜末和橄榄油，小火炒出香味。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蒜别炒黄，否则会发苦。，看准状态再往下做。",
+      "visual_cue": "蒜末浮起，香气柔和"
+    },
+    {
+      "n": 7,
+      "text": "放入鳕鱼肉，用木勺压散并不断搅拌。，看准状态再往下做。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "一边压一边搅，鱼肉才成丝。，看准状态再往下做。",
+      "visual_cue": "鱼肉散开，无大块，这一点很关键。"
+    },
+    {
+      "n": 8,
+      "text": "分次倒入温奶，边倒边搅到顺滑发亮。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "分次加奶，糊才不分层。，看准状态再往下做。",
+      "visual_cue": "糊体发亮，勺背挂浆"
+    },
+    {
+      "n": 9,
+      "text": "拌入薯泥搅匀，加黑胡椒调味。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "薯泥最后加，口感才轻。，看准状态再往下做。",
+      "visual_cue": "质地浓稠，颜色乳白"
+    },
+    {
+      "n": 10,
+      "text": "装盘撒欧芹碎，配烤面包片一起吃。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "配面包吃，抹着更香。，看准状态再往下做。",
+      "visual_cue": "表面撒绿，面包金黄"
+    }
+  ],
+  "tips": [
+    "咸鳕鱼必须充分泡水，否则整道菜过咸。",
+    "温奶分次加，糊体才顺滑不分离。，这一点很关键。",
+    "全程小火，火大油水会分离。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "鱼没泡够，咸得下不了口。，这一点很关键。",
+    "奶一次倒完，糊体结块。，这一点很关键。",
+    "大火猛搅，油水分离出汤。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳕鱼",
+      "substitute": "新鲜鳕鱼",
+      "ratio": "600 克:600 克",
+      "note": "不用泡，腌时加盐。"
+    },
+    {
+      "original": "橄榄油",
+      "substitute": "黄油",
+      "ratio": "120 毫升:110 克",
+      "note": "更香浓，需全程小火。"
+    }
+  ],
+  "variations": [
+    "表面撒奶酪烤十分钟，做成焗鳕鱼泥。",
+    "加一点柠檬皮屑，味道更清爽。，这一点很关键。"
+  ],
+  "serving_suggestion": "配烤面包片和一杯白葡萄酒。，这一点很关键。",
+  "storage": "冷藏两天，复热小火加少量牛奶搅匀。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 540,
+    "protein_g": 30,
+    "fat_g": 38,
+    "carbs_g": 22,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鱼类、乳制品与小麦，过敏者慎食；鳕鱼须彻底挑刺并煮熟；咸鱼含盐高，高血压人群适量；成品冷藏不超过两天。"
+  ],
+  "origin_note": "法国南部的圣诞前夜菜，咸鳕鱼和橄榄油搅成乳白的糊。抹在烤得脆脆的面包上，一口咸香，配酒正好。",
+  "tags": [
+    "法国",
+    "鳕鱼",
+    "南部菜",
+    "节庆"
+  ],
+  "related_ids": [
+    "french-hachis-parmentier",
+    "bouillabaisse",
+    "french-potato-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
