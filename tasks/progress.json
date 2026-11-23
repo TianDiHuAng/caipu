@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:29:19.241Z",
+  "generatedAt": "2026-11-23T08:33:34.996Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1276,
-    "coverage": 0.3897373243738546
+    "actual": 1282,
+    "coverage": 0.3915699450213806
   },
   "regions": {
     "cn": [
@@ -5247,7 +5247,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 32,
+        "actual": 35,
         "cells": [
           {
             "category": "main-meat",
@@ -5265,8 +5265,9 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "american-banana-bread",
               "american-buttermilk-biscuits",
               "american-cornbread",
               "apple-pie",
@@ -5277,9 +5278,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "american-apple-crisp",
+              "american-chocolate-chip-cookies",
               "apple-pie",
               "brownie",
               "new-york-cheesecake",
@@ -5315,8 +5317,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "american-glazed-carrots",
               "american-green-bean-casserole"
             ]
           },
@@ -5657,7 +5660,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 35,
+        "actual": 38,
         "cells": [
           {
             "category": "snack",
@@ -5689,9 +5692,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "guacamole",
+              "mexican-salsa-macha",
               "mexican-salsa-roja",
               "pico-de-gallo",
               "salsa-verde"
@@ -5727,20 +5731,22 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "mexican-calabacitas",
               "mexican-chiles-rellenos",
-              "mexican-frijoles-refritos"
+              "mexican-frijoles-refritos",
+              "mexican-rajas-con-crema"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "mexican-chiles-rellenos"
+              "mexican-chiles-rellenos",
+              "mexican-huevos-rancheros"
             ]
           },
           {
