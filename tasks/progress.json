@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:55:11.371Z",
+  "generatedAt": "2026-11-23T14:08:01.059Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 603,
     "target": 3274,
-    "actual": 1462,
-    "coverage": 0.44654856444715946
+    "actual": 1468,
+    "coverage": 0.4483811850946854
   },
   "regions": {
     "cn": [
@@ -550,15 +550,17 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 42,
+        "actual": 48,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
+              "jiangsu-baoyu-hongshao",
               "jiangsu-qingzheng-luyu",
+              "jiangsu-tangchao-luosi",
               "jiangsu-youbao-xia",
               "qingchao-xiaren",
               "qingzheng-dazhaxie",
@@ -624,9 +626,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "culiu-baicai",
+              "jiangsu-yexiang-qiezi",
               "shangtang-wawacai"
             ]
           },
@@ -644,9 +647,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "jiangsu-aocao-mian",
+              "jiangsu-xiaohun-tun",
               "yangchun-mian"
             ]
           },
@@ -663,10 +667,11 @@
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "guihua-tangou",
               "jiangsu-liangban-wosun",
+              "jiangsu-songhua-dangao",
               "zao-maodou"
             ]
           },
@@ -674,9 +679,10 @@
             "category": "dessert",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "guihua-tangou",
+              "jiangsu-meigui-gao",
               "zhima-matuan"
             ]
           },

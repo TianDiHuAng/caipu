@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-baoyu-hongshao",
+  "name": {
+    "zh": "苏式红烧鲍鱼",
+    "en": "Braised Abalone Jiangsu Style",
+    "original": "红烧鲍鱼"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 66,
+    "total_min": 91
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲍鱼",
+          "name_en": "abalone",
+          "amount": 500,
+          "unit": "g",
+          "note": "去壳刷净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提亮",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "刷子",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲍鱼用硬毛刷把裙边和表面黑膜刷洗干净。，看准状态再往下做。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "黑膜不刷净，成品发苦还有腥味。，看准状态再往下做。",
+      "visual_cue": "裙边泛白，表面干净"
+    },
+    {
+      "n": 2,
+      "text": "去壳取出鲍肉，在肉面切十字花刀但不要切断。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "花刀浅一点，焖的时候才不会散。，看准状态再往下做。",
+      "visual_cue": "刀纹均匀，鲍肉完整"
+    },
+    {
+      "n": 3,
+      "text": "五花肉切薄片，下砂锅小火煸出油脂。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "煸到透明，猪油的香才出来。，看准状态再往下做。",
+      "visual_cue": "肉片透亮，锅底见油"
+    },
+    {
+      "n": 4,
+      "text": "加姜片和葱结炒香，烹入料酒去腥。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "料酒趁热烹，酒气带走腥味。，看准状态再往下做。",
+      "visual_cue": "酒香散开，葱姜焦香"
+    },
+    {
+      "n": 5,
+      "text": "倒生抽和老抽、冰糖，加清水烧开。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "汤汁要没过鲍鱼，味道才均匀。，看准状态再往下做。",
+      "visual_cue": "汤色红亮，冰糖化开"
+    },
+    {
+      "n": 6,
+      "text": "放入鲍鱼，小火加盖焖四十分钟。，看准状态再往下做。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "小火慢焖，鲍肉才软糯弹牙。，看准状态再往下做。",
+      "visual_cue": "鲍肉卷曲，刀口张开"
+    },
+    {
+      "n": 7,
+      "text": "开大火收汁，边收边把汤汁淋在鲍鱼上。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "收汁要不停淋，表面才油亮。，看准状态再往下做。",
+      "visual_cue": "汁浓挂身，油光发亮"
+    },
+    {
+      "n": 8,
+      "text": "淋香油，撒葱花装盘。，看准状态再往下做。，动作要轻，别把食材弄碎。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香油最后点，香气才清。，看准状态再往下做。",
+      "visual_cue": "表面亮泽，葱花点缀"
+    }
+  ],
+  "tips": [
+    "鲍鱼的黑膜必须刷净，否则发苦带腥。",
+    "花刀只切三分之一深，焖久了才不会散。",
+    "收汁时不断淋汁，鲍鱼表面才有光泽。"
+  ],
+  "common_mistakes": [
+    "鲍鱼没刷黑膜，成品苦涩。，这一点很关键。",
+    "全程大火焖，鲍肉缩成硬块。，这一点很关键。",
+    "收汁收干，锅底焦黑带苦味。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲍鱼",
+      "substitute": "杏鲍菇",
+      "ratio": "500 克:400 克",
+      "note": "切厚片划花刀，焖的时间减二十分钟。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "金华火腿",
+      "ratio": "120 克:80 克",
+      "note": "鲜味更浓，盐要减。"
+    }
+  ],
+  "variations": [
+    "加一小把干贝同焖，鲜味翻倍。，这一点很关键。",
+    "放几片冬笋，口感更清爽。，这一点很关键。"
+  ],
+  "serving_suggestion": "连汁浇在米饭上，趁热吃。，这一点很关键。",
+  "storage": "冷藏两天，冷冻不变；复热小火收汁五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 240 克",
+    "calories_kcal": 320,
+    "protein_g": 32,
+    "fat_g": 16,
+    "carbs_g": 12,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含贝类海鲜，过敏者慎食；鲍鱼须彻底焖熟至肉质变软；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "苏州老菜馆的席面菜，五花肉垫底煸出油，鲍鱼在红汤里慢慢焖透。端上来红亮油润，一片片切着吃，鲜得说不话。",
+  "tags": [
+    "江苏",
+    "红烧",
+    "鲍鱼",
+    "宴席"
+  ],
+  "related_ids": [
+    "jiangsu-youbao-xia",
+    "wuxi-paigu",
+    "sushi-xunyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
