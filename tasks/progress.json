@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:48:23.842Z",
+  "generatedAt": "2026-11-23T08:53:58.122Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1299,
-    "coverage": 0.3967623701893708
+    "actual": 1305,
+    "coverage": 0.39859499083689676
   },
   "regions": {
     "cn": [
@@ -5266,15 +5266,16 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 35,
+        "actual": 38,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "american-bbq-ribs",
+              "american-fried-chicken",
               "american-pot-roast",
               "hamburger",
               "meatloaf"
@@ -5284,10 +5285,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "american-banana-bread",
               "american-buttermilk-biscuits",
+              "american-cinnamon-rolls",
               "american-cornbread",
               "apple-pie",
               "brownie"
@@ -5297,10 +5299,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "american-apple-crisp",
               "american-chocolate-chip-cookies",
+              "american-pumpkin-pie",
               "apple-pie",
               "brownie",
               "new-york-cheesecake",
@@ -5679,7 +5682,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 38,
+        "actual": 41,
         "cells": [
           {
             "category": "snack",
@@ -5698,10 +5701,11 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "carnitas",
               "chili-con-carne",
+              "mexican-carne-asada",
               "mexican-cochinita-pibil",
               "mexican-tacos-al-pastor",
               "ropa-vieja"
@@ -5711,9 +5715,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "guacamole",
+              "mexican-queso-fundido",
               "mexican-salsa-macha",
               "mexican-salsa-roja",
               "pico-de-gallo",
@@ -5737,11 +5742,12 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "agua-fresca",
               "horchata",
               "mexican-agua-de-jamaica",
+              "mexican-atole",
               "mexican-champurrado",
               "mexican-limonada"
             ]

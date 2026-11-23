@@ -1,0 +1,208 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-atole",
+  "name": {
+    "zh": "墨西哥玉米热饮",
+    "en": "Atole"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 20,
+    "total_min": 30
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米面",
+          "name_en": "cornmeal",
+          "amount": 240,
+          "unit": "g",
+          "note": "细玉米粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 600,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "调浆",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 80,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "打蛋器",
+    "碗",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米面倒进碗里，加两百毫升清水搅成没有颗粒的稀糊。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "冷水调浆才不会结块，热水一冲就成疙瘩。",
+      "visual_cue": "浆体顺滑，无干粉，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒入牛奶和剩余清水，加肉桂和盐，小火加热。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "牛奶别煮到大滚，边缘冒小泡就够。，注意火候。",
+      "visual_cue": "锅边起泡，香气散出，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "把玉米糊慢慢淋进锅里，边淋边用打蛋器搅动。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "一边倒一边搅，浆体才顺滑不沉底。，注意火候。",
+      "visual_cue": "浆体均匀，微稠，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "加白糖，保持小火煮十分钟，不停搅拌防糊底。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "这步最容易糊底，木勺要贴着锅底刮。",
+      "visual_cue": "浆体浓稠，勺过留痕，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "尝一下浓稠度和甜度，需要时补少量牛奶调稀。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "太稠会像糊糊，能挂住勺子流动就刚好。",
+      "visual_cue": "浆体流动，质地顺滑，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "关火捞出肉桂，趁热倒进杯子里捧在手上喝。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热喝风味最好，凉了会结一层皮。，注意火候。",
+      "visual_cue": "热气升腾，表面细腻，状态稳定"
+    }
+  ],
+  "tips": [
+    "玉米面先用冷水调浆，煮时才不结块。，值得留意。",
+    "全程小火并贴着锅底搅，防止糊锅。，值得留意。",
+    "浓稠度以能挂勺流动为准，太稠就加牛奶。"
+  ],
+  "common_mistakes": [
+    "玉米面直接倒进热奶，一锅全是疙瘩。，务必避免。",
+    "火太大不搅拌，锅底焦成一层黑。，务必避免。",
+    "煮得太稠，凉了以后像浆糊挖不动。，务必避免。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "椰奶",
+      "ratio": "600 毫升:600 毫升",
+      "note": "椰香更浓，适合不吃乳制品的人。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "红糖",
+      "ratio": "80 克:80 克",
+      "note": "颜色偏褐，焦糖风味更足。"
+    }
+  ],
+  "variations": [
+    "加一小块巧克力同煮，做成浓香版。，也很受欢迎。",
+    "表面撒少许肉桂粉，香气更集中。，也很受欢迎。"
+  ],
+  "serving_suggestion": "趁热用小杯捧着喝，配油条或玉米饼当早餐。",
+  "storage": "冷藏一天，复热须小火加牛奶搅匀。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 310,
+    "protein_g": 8,
+    "fat_g": 8,
+    "carbs_g": 52,
+    "sodium_mg": 120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "饮品须煮至完全沸腾后再小火熬透；成品冷藏不超过一天，复热须彻底加热。"
+  ],
+  "origin_note": "墨西哥街头和家庭早餐里的热饮，细玉米粉用牛奶慢慢熬成浓稠的浆。入口温热绵滑，肉桂的香气在喉咙里停一会儿，天冷时特别舒服。",
+  "tags": [
+    "墨西哥",
+    "饮品",
+    "玉米",
+    "热饮"
+  ],
+  "related_ids": [
+    "mexican-champurrado",
+    "horchata",
+    "mexican-limonada"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
