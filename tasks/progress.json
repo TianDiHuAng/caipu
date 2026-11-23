@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:19:10.481Z",
+  "generatedAt": "2026-11-23T08:23:24.014Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1264,
-    "coverage": 0.3860720830788027
+    "actual": 1270,
+    "coverage": 0.3879047037263286
   },
   "regions": {
     "cn": [
@@ -3306,7 +3306,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 33,
+        "actual": 36,
         "cells": [
           {
             "category": "main-seafood",
@@ -3353,10 +3353,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "churros",
               "flan",
+              "spanish-arroz-con-leche",
               "spanish-polvorones",
               "tarta-de-santiago"
             ]
@@ -3378,8 +3379,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "spanish-pisto",
               "tortilla-espanola"
             ]
           },
@@ -3403,8 +3405,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "spanish-fideua"
+            ]
           },
           {
             "category": "soup",
@@ -3951,7 +3955,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 31,
+        "actual": 34,
         "cells": [
           {
             "category": "main-vegetable",
@@ -4020,8 +4024,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "indian-anda-bhurji",
               "indian-egg-curry"
             ]
           },
@@ -4029,9 +4034,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "indian-palak-paneer"
+              "indian-palak-paneer",
+              "indian-tofu-masala"
             ]
           },
           {
@@ -4047,9 +4053,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "indian-chicken-biryani"
+              "indian-chicken-biryani",
+              "indian-veg-pulao"
             ]
           },
           {

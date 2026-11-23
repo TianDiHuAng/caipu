@@ -1,0 +1,222 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-pisto",
+  "name": {
+    "zh": "西班牙炖蔬菜",
+    "en": "Pisto"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 500,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "西葫芦洗净切成一厘米见方的丁，不用去皮备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "带皮切丁口感更挺，久炖也不容易烂。",
+      "visual_cue": "菜丁软润，酱色红亮"
+    },
+    {
+      "n": 2,
+      "text": "番茄切块，甜椒切小丁，洋葱切丁，蒜切成细末。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "番茄切小块些，炖的时候更容易化成酱。",
+      "visual_cue": "配料切丁均匀，番茄多汁"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒橄榄油烧热，下洋葱丁小火炒到软塌透明。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "小火慢炒洋葱，甜味才慢慢出来不焦。",
+      "visual_cue": "菜丁软润，酱色红亮"
+    },
+    {
+      "n": 4,
+      "text": "加蒜末和甜椒丁炒香，再倒入西葫芦丁翻炒均匀。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "甜椒先炒出甜味，再和西葫芦一起炖。",
+      "visual_cue": "菜丁软润，酱色红亮"
+    },
+    {
+      "n": 5,
+      "text": "加番茄块、白糖和盐炒匀，盖盖小火炖十五分钟。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "白糖只为平衡番茄酸味，别放多抢了原味。",
+      "visual_cue": "菜丁软润，酱色红亮"
+    },
+    {
+      "n": 6,
+      "text": "开盖转中火收掉多余汤汁，尝味补盐后即可装盘。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "收汁到能挂勺就好，太干会失去炖菜的润。",
+      "visual_cue": "菜丁软润，酱色红亮"
+    }
+  ],
+  "tips": [
+    "西葫芦带皮切丁，炖久了也不容易烂。",
+    "洋葱小火慢炒出甜味，整锅味道更厚。",
+    "白糖少放一点，只用来平衡番茄的酸味。"
+  ],
+  "common_mistakes": [
+    "全程大火猛炒，蔬菜外焦里还夹着生。",
+    "番茄炖得太久，菜丁化成一锅红糊。",
+    "盐放太早又太多，蔬菜出水变得很咸。"
+  ],
+  "substitutions": [
+    {
+      "original": "甜椒",
+      "substitute": "青椒",
+      "ratio": "150 克:150 克",
+      "note": "辣味略重，白糖加两克。"
+    },
+    {
+      "original": "西葫芦",
+      "substitute": "茄子",
+      "ratio": "500 克:500 克",
+      "note": "茄子吸油，橄榄油加十五毫升。"
+    }
+  ],
+  "variations": [
+    "打一个鸡蛋进去同炒，做成带蛋版本。",
+    "放凉后冷藏一夜，第二天味道更融合。"
+  ],
+  "serving_suggestion": "配面包、米饭或直接配煎蛋吃，冷热皆宜。",
+  "storage": "冷藏两天，复热小火加少许水焖透。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 190,
+    "protein_g": 4,
+    "fat_g": 13,
+    "carbs_g": 16,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蔬菜须炖至熟透软润；成品冷藏不超过两天，复热须彻底加热后食用。"
+  ],
+  "origin_note": "西班牙家家会做的炖蔬菜，西葫芦、甜椒和番茄在橄榄油里慢慢炖软。颜色红黄相间，味道清甜带酸，配面包或煎蛋就是一顿，凉了更好吃。",
+  "tags": [
+    "西班牙",
+    "蔬菜",
+    "素菜",
+    "家常菜"
+  ],
+  "related_ids": [
+    "spanish-escalivada",
+    "spanish-gazpacho",
+    "tortilla-espanola"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
