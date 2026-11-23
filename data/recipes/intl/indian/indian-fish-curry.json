@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-fish-curry",
+  "name": {
+    "zh": "印度椰香咖喱鱼",
+    "en": "Fish Curry"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 26,
+    "total_min": 44
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "sour",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "三文鱼",
+          "name_en": "salmon",
+          "amount": 650,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 40,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "三文鱼切成三厘米的块，撒一半盐和姜黄粉抓匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "腌一下去腥，也能让鱼肉更紧实不散。",
+      "visual_cue": "鱼块微黄，表面干燥，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油烧热，放孜然小火爆香后下洋葱碎。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "孜然先爆香，咖喱的底味才立得住。，注意火候。",
+      "visual_cue": "孜然跳动，香气升起，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "洋葱炒到透明，加蒜末和姜末炒一分钟出香。这一步不要着急。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "姜蒜后放，久炒会焦苦。，注意火候。",
+      "visual_cue": "洋葱发软，锅中香气浓"
+    },
+    {
+      "n": 4,
+      "text": "加番茄丁和剩余姜黄粉，中火炒五分钟到番茄软烂成糊。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒到没形，汤汁才浓稠挂得住鱼。",
+      "visual_cue": "番茄成糊，锅底泛红，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "倒入椰奶和半碗清水，小火煮三分钟调成咖喱汤汁。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "椰奶别大火滚，容易油水分离。，注意火候。",
+      "visual_cue": "汤汁顺滑，颜色橙黄，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "放入鱼块，保持小火煮六分钟，中途轻推锅底防粘。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "千万别大力翻，鱼肉一碰就碎。，注意火候。",
+      "visual_cue": "鱼块变白，边缘收紧，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "加剩余盐和柠檬汁调味，撒香菜碎后关火。这一步不要着急。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "柠檬最后加，酸香才清爽不闷。，注意火候。",
+      "visual_cue": "汤汁浓稠，香气酸辣，状态稳定"
+    }
+  ],
+  "tips": [
+    "鱼块先腌一下，煮的时候不容易散。，值得留意。",
+    "椰奶小火煮，大火会让它油水分离。，值得留意。",
+    "鱼下锅后只推锅底，别用铲子翻动。，值得留意。"
+  ],
+  "common_mistakes": [
+    "鱼块大火久煮，出锅全碎成渣。，务必避免。",
+    "椰奶滚沸，汤汁分层看着发花。，务必避免。",
+    "柠檬早放，酸味煮久变涩。，务必避免。"
+  ],
+  "substitutions": [
+    {
+      "original": "三文鱼",
+      "substitute": "鳕鱼",
+      "ratio": "650 克:650 克",
+      "note": "肉质更嫩，煮制时间减两分钟。"
+    },
+    {
+      "original": "椰奶",
+      "substitute": "牛奶",
+      "ratio": "200 毫升:200 毫升",
+      "note": "风味更清淡，可加半勺面粉增稠。"
+    }
+  ],
+  "variations": [
+    "加几片咖喱叶同煮，香气更南亚。，也很受欢迎。",
+    "配米饭和一份凉拌黄瓜，酸辣刚好平衡。"
+  ],
+  "serving_suggestion": "浇在热米饭上，配柠檬角和香菜一起上桌。，效果更稳定。",
+  "storage": "冷藏一天，复热须小火加少量水慢慢加热。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 400,
+    "protein_g": 34,
+    "fat_g": 26,
+    "carbs_g": 10,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鱼肉须煮至中心完全变白熟透；成品冷藏不超过一天，复热须彻底加热。"
+  ],
+  "origin_note": "印度西南沿海的家常鱼咖喱，椰奶和番茄熬成橙黄的汤底，鱼块小火慢慢煨熟。汁水酸辣带椰香，浇在米饭上能吃掉一整碗。",
+  "tags": [
+    "印度",
+    "鱼",
+    "咖喱",
+    "椰奶"
+  ],
+  "related_ids": [
+    "indian-rasam",
+    "indian-chicken-curry",
+    "indian-tofu-masala"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

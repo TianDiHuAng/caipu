@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:08:00.327Z",
+  "generatedAt": "2026-11-23T09:13:28.338Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 592,
+    "cells": 594,
     "target": 3274,
-    "actual": 1317,
-    "coverage": 0.40226023213194867
+    "actual": 1323,
+    "coverage": 0.40409285277947465
   },
   "regions": {
     "cn": [
@@ -3177,7 +3177,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 42,
         "cells": [
           {
             "category": "main-meat",
@@ -3198,10 +3198,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "creme-brulee",
               "french-clafoutis",
+              "french-crepe",
               "french-madeleines",
               "french-mousse-au-chocolat",
               "french-tarte-au-citron",
@@ -3291,6 +3292,16 @@
             ]
           },
           {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "french-croque-monsieur",
+              "french-gougeres"
+            ]
+          },
+          {
             "category": "staple-bread",
             "kind": "extra",
             "target": 0,
@@ -3298,15 +3309,6 @@
             "ids": [
               "french-croque-monsieur",
               "quiche-lorraine"
-            ]
-          },
-          {
-            "category": "snack",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "french-croque-monsieur"
             ]
           },
           {
@@ -3325,6 +3327,15 @@
             "actual": 1,
             "ids": [
               "french-quiche-lorraine"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "french-salade-nicoise"
             ]
           },
           {
@@ -3999,17 +4010,18 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 37,
+        "actual": 40,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "aloo-gobi",
               "aloo-palak",
               "chana-masala",
+              "indian-aloo-matar",
               "indian-baingan-bharta",
               "indian-palak-paneer",
               "palak-paneer"
@@ -4107,6 +4119,25 @@
             ]
           },
           {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "indian-onion-pakora",
+              "samosa"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "indian-fish-curry"
+            ]
+          },
+          {
             "category": "sauce",
             "kind": "extra",
             "target": 0,
@@ -4122,15 +4153,6 @@
             "actual": 1,
             "ids": [
               "raita"
-            ]
-          },
-          {
-            "category": "snack",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "samosa"
             ]
           },
           {
