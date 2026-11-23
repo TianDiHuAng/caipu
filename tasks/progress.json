@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:53:58.122Z",
+  "generatedAt": "2026-11-23T08:59:27.286Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1305,
-    "coverage": 0.39859499083689676
+    "actual": 1311,
+    "coverage": 0.40042761148442274
   },
   "regions": {
     "cn": [
@@ -2529,15 +2529,16 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 42,
+        "actual": 45,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "japanese-tempura",
+              "japanese-teriyaki-salmon",
               "miso-salmon",
               "tako-misoni",
               "tempura"
@@ -2547,10 +2548,11 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "japanese-curry-rice",
               "japanese-oyakodon",
+              "japanese-takikomi-gohan",
               "ochazuke",
               "omurice",
               "oyakodon"
@@ -2586,11 +2588,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "dorayaki",
               "japanese-ichigo-daifuku",
               "japanese-oshiruko",
+              "japanese-purin",
               "matcha-pudding",
               "mitarashi-dango"
             ]
@@ -2999,7 +3002,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 37,
+        "actual": 40,
         "cells": [
           {
             "category": "staple-bread",
@@ -3017,9 +3020,10 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "chicken-cacciatore",
+              "italian-pollo-alla-milanese",
               "pollo-al-limone",
               "pollo-alla-cacciatora",
               "pollo-arrosto"
@@ -3067,8 +3071,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "italian-caponata",
               "italian-ciambotta",
               "italian-parmigiana"
             ]
@@ -3093,9 +3098,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "bolognese",
+              "italian-cacio-e-pepe",
               "italian-lasagna",
               "italian-pasta-alla-norma",
               "pomodoro-pasta"

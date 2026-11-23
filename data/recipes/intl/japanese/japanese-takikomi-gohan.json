@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-takikomi-gohan",
+  "name": {
+    "zh": "日式什锦炊饭",
+    "en": "Takikomi Gohan"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 59,
+    "total_min": 79
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 450,
+          "unit": "g",
+          "note": "洗净沥干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 45,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 520,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "拌米",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭煲",
+    "刀",
+    "砧板",
+    "小碗",
+    "饭勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗三遍到水变清，倒进滤网沥干十五分钟。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "米粒沥干再煮，水量才好控制不糊。，注意火候。",
+      "visual_cue": "米粒干爽，水清无浑，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "胡萝卜切成细丝，香菇去蒂切成薄片备用。这一步不要着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切得细薄，和米一起煮才同步软。，注意火候。",
+      "visual_cue": "丝片均匀，厚薄一致，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "酱油、味醂和盐倒进小碗搅匀，调成调味汁。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先调匀再倒入，咸淡才均匀分布。，注意火候。",
+      "visual_cue": "汁液均匀，颜色深，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "大米放进锅胆，倒入调味汁和清水，用饭勺轻轻拌匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "水面高出米面约一指节，煮出来才松软。",
+      "visual_cue": "水面齐平，米粒铺匀，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "铺上胡萝卜丝和香菇片，淋入少许植物油后不要搅动。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "配料铺在表面，煮好翻拌才不烂。，注意火候。",
+      "visual_cue": "配料平铺，层次分明，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "按下煮饭键煮约二十五分钟，跳起后焖十分钟。",
+      "time_min": 35,
+      "heat": "-",
+      "tip": "跳键后焖十分钟，米芯才完全透。，注意火候。",
+      "visual_cue": "蒸汽渐弱，香气散出，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "开盖用饭勺从底往上翻拌，让配料和米饭混合均匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "翻拌要轻，避免把米粒压成团。，注意火候。",
+      "visual_cue": "饭粒分明，配料分布，状态稳定"
+    }
+  ],
+  "tips": [
+    "米淘好要沥干，煮出来的饭才粒粒分明。",
+    "配料铺在表面别搅，煮好再翻拌。，值得留意。",
+    "跳键后焖十分钟，米芯才完全透。，值得留意。"
+  ],
+  "common_mistakes": [
+    "水加太多，煮出来像粥一样黏。，务必避免。",
+    "配料和米一起搅，煮完糊成一团。，务必避免。",
+    "跳键立刻开盖，饭芯还带硬。，务必避免。"
+  ],
+  "substitutions": [
+    {
+      "original": "香菇",
+      "substitute": "口蘑",
+      "ratio": "80 克:80 克",
+      "note": "香气稍淡，可加一勺酱油。"
+    },
+    {
+      "original": "胡萝卜",
+      "substitute": "莲藕",
+      "ratio": "100 克:100 克",
+      "note": "口感更脆，切片要更薄。"
+    }
+  ],
+  "variations": [
+    "加几片薄鸡腿肉，鲜味更足。，也很受欢迎。",
+    "出锅撒少许葱花，颜色更好看。，也很受欢迎。"
+  ],
+  "serving_suggestion": "盛进碗里配一碗味噌汤，就是标准的日式家常套餐。",
+  "storage": "冷藏两天，复热用微波加少量水盖盖加热。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 420,
+    "protein_g": 8,
+    "fat_g": 6,
+    "carbs_g": 82,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "米饭须煮至完全熟透，室温放置不超过两小时；冷藏后复热须彻底加热。"
+  ],
+  "origin_note": "日本秋天的家常炊饭，把当季蔬菜铺在米上一起煮，饭粒吸满酱油和香菇的鲜味。开盖那一刻蒸汽带着香气涌上来，单吃就很有味道。",
+  "tags": [
+    "日本",
+    "米饭",
+    "炊饭",
+    "家常"
+  ],
+  "related_ids": [
+    "japanese-chikuzenni",
+    "ochazuke",
+    "japanese-oyakodon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

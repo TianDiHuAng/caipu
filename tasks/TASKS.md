@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T08:53:58.182Z
+> 生成时间：2026-11-23T08:59:27.359Z
 
-**总览**：工程任务 49/53；菜谱内容 1305/3274（39.9%），共 591 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1311/3274（40.0%），共 591 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -408,15 +408,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（739/1935）
+### 外国菜系（745/1935）
 
-<details><summary><b>日本料理 japanese</b> — A 级，42/107</summary>
+<details><summary><b>日本料理 japanese</b> — A 级，45/107</summary>
 
-- [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 4
-- [ ] `P4-japanese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 5
+- [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 5
+- [ ] `P4-japanese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 6
 - [ ] `P4-japanese/soup` 汤羹（Soup）目标 15，已完成 5
 - [ ] `P4-japanese/appetizer` 前菜（Appetizer）目标 15，已完成 5
-- [ ] `P4-japanese/dessert` 甜点（Dessert）目标 15，已完成 5
+- [ ] `P4-japanese/dessert` 甜点（Dessert）目标 15，已完成 6
 - [ ] `P4-japanese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 1
 - [ ] `P4-japanese/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 2
 - [ ] `P4-japanese/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 1
@@ -465,17 +465,17 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>意大利菜 italian</b> — A 级，37/107</summary>
+<details><summary><b>意大利菜 italian</b> — A 级，40/107</summary>
 
 - [ ] `P4-italian/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 4
-- [ ] `P4-italian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 4
+- [ ] `P4-italian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 5
 - [ ] `P4-italian/dessert` 甜点（Dessert）目标 15，已完成 5
 - [ ] `P4-italian/appetizer` 前菜（Appetizer）目标 15，已完成 4
 - [ ] `P4-italian/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 5
-- [ ] `P4-italian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 2
+- [ ] `P4-italian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 3
 - [ ] `P4-italian/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 1
 - [ ] `P4-italian/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 0
-- [ ] `P4-italian/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 4
+- [ ] `P4-italian/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 5
 - [x] `P4-italian/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2
 - [x] `P4-italian/main-meat` 主菜·肉（Meat Main）目标 0，已完成 2
 - [x] `P4-italian/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 2
