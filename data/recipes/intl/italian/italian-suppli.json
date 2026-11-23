@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-suppli",
+  "name": {
+    "zh": "罗马炸饭团",
+    "en": "Suppli al Telefono",
+    "original": "Supplì"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 40,
+    "total_min": 70
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "隔夜饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 150,
+          "unit": "g",
+          "note": "调饭",
+          "optional": false
+        },
+        {
+          "name": "马苏里拉",
+          "name_en": "mozzarella",
+          "amount": 150,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两只",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 120,
+          "unit": "g",
+          "note": "裹面",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "裹面",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 30,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒饭",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "油炸",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "厨房纸",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "隔夜米饭用叉子拨散，别压成团。这一步不要着急。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "隔夜饭水分少，捏团才不散。，注意火候。",
+      "visual_cue": "米粒分明，颗粒干爽，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒橄榄油，下番茄酱小火炒出香味。这一步不要着急。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "番茄酱炒一下去酸味。，注意火候。",
+      "visual_cue": "酱色变深，油泛红，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "倒入米饭炒匀，加盐和帕玛森芝士拌到黏。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "炒到饭粒挂酱发黏，才捏得住。，注意火候。",
+      "visual_cue": "饭粒黏连，酱色均匀，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "盛出摊在盘里晾凉，完全凉透再捏。这一步不要着急。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "热的捏团会散开，凉透才成团。，注意火候。",
+      "visual_cue": "饭体结实，不烫手，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "手上蘸水，取一把饭摊开，中间放一条马苏里拉芝士。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "芝士条别太粗，否则一炸就漏。，注意火候。",
+      "visual_cue": "饭团包紧，芝士居中，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "收口捏成鸡蛋形，反复压实不留缝。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "缝没捏严，炸的时候芝士会流出来。，注意火候。",
+      "visual_cue": "形状椭圆，表面紧实，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "饭团先滚面粉，再蘸蛋液，最后裹面包糠。这一步不要着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "三道工序缺一不可，外壳才挂得住。，注意火候。",
+      "visual_cue": "外层均匀，无裸露，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "植物油烧到一百七十度，下饭团炸四分钟。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温别太高，外壳焦了里面芝士还没化。",
+      "visual_cue": "外壳金黄，浮起冒泡，状态稳定"
+    },
+    {
+      "n": 9,
+      "text": "捞出沥油，垫厨房纸吸去多余油分。这一步不要着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "趁热吃才能拉出芝士丝。，注意火候。",
+      "visual_cue": "表面干爽，轻压回弹，状态稳定"
+    }
+  ],
+  "tips": [
+    "必须用隔夜饭，水分少才捏得紧。",
+    "马苏里拉芝士条别太粗，否则一炸就漏。",
+    "油温控制在一百七十度，外壳才脆而里面化。"
+  ],
+  "common_mistakes": [
+    "饭太湿，捏团就散。，值得留意。",
+    "封口没压实，炸时马苏里拉芝士流一锅。，值得留意。",
+    "油温过高，外壳焦了里面还是凉的。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "马苏里拉芝士",
+      "substitute": "低脂马苏里拉",
+      "ratio": "150 克:150 克",
+      "note": "拉丝效果差些，热量更低。"
+    },
+    {
+      "original": "番茄酱",
+      "substitute": "番茄膏加水",
+      "ratio": "150 克:60 克加90 毫升",
+      "note": "酸味更集中，需补少许糖。"
+    }
+  ],
+  "variations": [
+    "饭里拌入切碎的萨拉米香肠，咸香更足。",
+    "加一勺肉酱做馅，就是罗马老派做法。，值得留意。"
+  ],
+  "serving_suggestion": "趁热当街边小食吃，配一杯冰啤酒最解腻。，效果更稳定。",
+  "storage": "冷藏两天，复热用烤箱两百度烤八分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 240 克",
+    "calories_kcal": 620,
+    "protein_g": 22,
+    "fat_g": 30,
+    "carbs_g": 66,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鸡蛋、乳制品与麸质，过敏者慎食；油炸须至中心热透、芝士完全融化；成品冷藏不超过两天。"
+  ],
+  "origin_note": "罗马街头的炸饭团，番茄饭里塞一根马苏里拉，裹糠油炸。咬开拉出长长的芝士丝，当地人叫它「电话线」，名字就是这么来的。",
+  "tags": [
+    "意大利",
+    "罗马",
+    "油炸",
+    "小食"
+  ],
+  "related_ids": [
+    "italian-arancini",
+    "italian-parmigiana",
+    "pomodoro-pasta"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
