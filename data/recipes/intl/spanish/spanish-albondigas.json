@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-albondigas",
+  "name": {
+    "zh": "西班牙肉丸",
+    "en": "Albondigas",
+    "original": "Albóndigas"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 44,
+    "total_min": 74
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "tangy",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 500,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "做酱",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡软",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "粘合",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 12,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "裹丸",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 80,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "大碗",
+    "刀",
+    "砧板",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面包撕小块用清水泡软，挤干水分备用。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "面包泡软能吸汁，肉丸才嫩。，看准状态再往下做。",
+      "visual_cue": "面包软烂，一捏成团"
+    },
+    {
+      "n": 2,
+      "text": "牛肉剁细，加面包、鸡蛋、一半洋葱和蒜末。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉料要拌匀上劲，丸子才不散。，看准状态再往下做。",
+      "visual_cue": "肉料黏手，颜色均匀"
+    },
+    {
+      "n": 3,
+      "text": "加欧芹、红椒粉、盐和黑胡椒，顺一个方向搅打。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "顺一个方向搅，肉料才起胶。，看准状态再往下做。",
+      "visual_cue": "肉料抱团，有黏性，这一点很关键。"
+    },
+    {
+      "n": 4,
+      "text": "搓成乒乓球大小的丸子，表面滚一层面粉。，看准状态再往下做。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "裹薄粉，煎时表面才结实。，看准状态再往下做。",
+      "visual_cue": "丸子圆整，粉层薄，这一点很关键。"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒橄榄油，中火把丸子煎到各面上色。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "丸子要滚动着煎，各面才均匀。，看准状态再往下做。",
+      "visual_cue": "表面焦褐，形状完整"
+    },
+    {
+      "n": 6,
+      "text": "盛出丸子，锅里下剩余洋葱碎炒软。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒软，酱汁才不呛。，看准状态再往下做。",
+      "visual_cue": "洋葱透明，油色微黄"
+    },
+    {
+      "n": 7,
+      "text": "加番茄丁炒出汁，倒白葡萄酒煮到酒气散。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "酒气煮掉，酱汁才只留香。，看准状态再往下做。",
+      "visual_cue": "番茄化开，酱色红亮"
+    },
+    {
+      "n": 8,
+      "text": "加清水、盐和红椒粉，放回丸子小火炖二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "小火慢炖，丸子才入味不散。，看准状态再往下做。",
+      "visual_cue": "丸子沉浮，酱汁浓稠"
+    },
+    {
+      "n": 9,
+      "text": "撒欧芹碎，配面包或米饭一起吃。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "配面包蘸酱，一点都不剩。，看准状态再往下做。",
+      "visual_cue": "酱面油亮，绿点散布"
+    }
+  ],
+  "tips": [
+    "面包泡软挤干，肉丸才嫩不散。，这一点很关键。",
+    "肉料顺一个方向搅，才起胶上劲。，这一点很关键。",
+    "丸子先煎后炖，形状和味道都稳。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "肉料不搅打，下锅就散。，这一点很关键。",
+    " tomato酱没收浓，汤汤水水。",
+    "大火炖，丸子煮成碎渣。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "猪里脊",
+      "ratio": "500 克:500 克",
+      "note": "口感更嫩，炖的时间减五分钟。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "白酒",
+      "ratio": "80 毫升:60 毫升",
+      "note": "酒味更冲，要多煮两分钟。"
+    }
+  ],
+  "variations": [
+    "加一把青豆，颜色更清爽。，这一点很关键。",
+    "放一点藏红花，酱汁金黄带香。，这一点很关键。"
+  ],
+  "serving_suggestion": "配土豆泥或面包，把酱汁蘸干净。，这一点很关键。",
+  "storage": "冷藏三天，冷冻两周；复热小火加少量水慢炖。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 460,
+    "protein_g": 30,
+    "fat_g": 26,
+    "carbs_g": 20,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类与小麦，过敏者慎食；牛肉须彻底烹熟，中心不再发红；炖煮时注意防溅；成品冷藏不超过三天。"
+  ],
+  "origin_note": "西班牙家常菜的代表，肉丸在番茄酱里咕嘟咕嘟地炖。配一块硬面包把酱擦干净，是西班牙人最踏实的吃法。",
+  "tags": [
+    "西班牙",
+    "肉丸",
+    "番茄",
+    "家常菜"
+  ],
+  "related_ids": [
+    "spanish-pisto",
+    "spanish-patatas-bravas",
+    "paella-valenciana"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

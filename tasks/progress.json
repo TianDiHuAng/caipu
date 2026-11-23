@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:45:23.488Z",
+  "generatedAt": "2026-11-23T15:59:01.779Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 611,
+    "cells": 612,
     "target": 3274,
-    "actual": 1510,
-    "coverage": 0.4612095296273671
+    "actual": 1516,
+    "coverage": 0.4630421502748931
   },
   "regions": {
     "cn": [
@@ -3536,13 +3536,13 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 43,
+        "actual": 49,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "bacalao-al-pil-pil",
               "gambas-al-ajillo",
@@ -3550,22 +3550,25 @@
               "pulpo-a-la-gallega",
               "spanish-bacalao-al-horno",
               "spanish-gambas-al-ajillo",
-              "spanish-paella"
+              "spanish-paella",
+              "spanish-sepia-plancha"
             ]
           },
           {
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
               "calamares-fritos",
               "champinones-al-ajillo",
               "spanish-almejas-vino-blanco",
+              "spanish-croquetas",
               "spanish-gambas-al-ajillo",
               "spanish-huevos-rotos",
               "spanish-pan-con-tomate",
               "spanish-patatas-bravas",
+              "spanish-pimientos-padron",
               "tortilla-espanola"
             ]
           },
@@ -3586,7 +3589,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "churros",
               "flan",
@@ -3594,6 +3597,7 @@
               "spanish-bizcocho",
               "spanish-crema-catalana",
               "spanish-polvorones",
+              "spanish-torrija",
               "tarta-de-santiago"
             ]
           },
@@ -3614,8 +3618,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "spanish-patatas-rioja",
               "spanish-pisto",
               "tortilla-espanola"
             ]
@@ -3655,6 +3660,15 @@
               "spanish-gazpacho",
               "spanish-salmorejo",
               "spanish-sopa-de-ajo"
+            ]
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "spanish-albondigas"
             ]
           },
           {
