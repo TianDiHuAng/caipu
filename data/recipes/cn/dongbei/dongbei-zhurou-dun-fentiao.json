@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dongbei-zhurou-dun-fentiao",
+  "name": {
+    "zh": "猪肉炖粉丝",
+    "en": "Pork Stewed with Glass Noodles",
+    "original": "猪肉炖粉条"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 200,
+          "unit": "g",
+          "note": "干粉条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "刀",
+    "砧板",
+    "锅铲",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干粉丝用温水泡三十分钟，泡到能弯折不断。，看准状态再往下做。",
+      "time_min": 34,
+      "heat": "无火",
+      "tip": "粉丝提前泡软，炖的时候才不吸干汤。",
+      "visual_cue": "粉丝柔软透明，有弹性"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切成三厘米见方的块，肥瘦分开。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "块别太小，炖久了会缩水散架。，看准状态再往下做。",
+      "visual_cue": "块形方正，肥瘦分明"
+    },
+    {
+      "n": 3,
+      "text": "炖锅倒植物油，先下肥肉块小火煸出油。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "煸出猪油，炖出来才香不腻。，看准状态再往下做。",
+      "visual_cue": "肉块边缘微黄，油析出"
+    },
+    {
+      "n": 4,
+      "text": "下瘦肉块炒到变色，加冰糖炒出糖色。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "糖色炒到枣红就下料，过了发苦。，看准状态再往下做。",
+      "visual_cue": "肉块裹色，油面红亮"
+    },
+    {
+      "n": 5,
+      "text": "加姜片、葱段和八角炒香，淋料酒和生抽老抽。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "料酒沿锅边淋，去腥更彻底。，看准状态再往下做。",
+      "visual_cue": "酱香扑鼻，肉块上色"
+    },
+    {
+      "n": 6,
+      "text": "倒清水没过肉块，大火烧开转小火炖二十分钟。，看准状态再往下做。",
+      "time_min": 24,
+      "heat": "小火",
+      "tip": "水一次加够，中途加水汤就淡了。，看准状态再往下做。",
+      "visual_cue": "汤面微沸，肉块上浮"
+    },
+    {
+      "n": 7,
+      "text": "下泡好的粉丝，小火再炖十五分钟。，看准状态再往下做。",
+      "time_min": 16,
+      "heat": "小火",
+      "tip": "粉丝后放，久炖就烂成糊。，看准状态再往下做。",
+      "visual_cue": "粉丝透明，吸饱汤汁"
+    },
+    {
+      "n": 8,
+      "text": "加盐调味，转中火收浓汤汁。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "粉丝吸盐快，盐要最后补。，看准状态再往下做。",
+      "visual_cue": "汤汁浓稠，挂勺不流"
+    },
+    {
+      "n": 9,
+      "text": "撒葱段，盛出连汤带粉一起上桌。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热吃，粉丝凉了就坨。，看准状态再往下做。",
+      "visual_cue": "汤色酱红，粉丝油亮"
+    }
+  ],
+  "tips": [
+    "粉丝要提前泡软，直接下锅会吸干汤。",
+    "五花肉先煸出油，成品才香不腻。，这一点很关键。",
+    "粉丝后放十五分钟即可，久炖易烂。"
+  ],
+  "common_mistakes": [
+    "粉丝没泡直接炖，汤全被吸干。，这一点很关键。",
+    "糖色炒过头，整锅发苦。，这一点很关键。",
+    "水加太少，中途添水汤味变淡。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "500 克:500 克",
+      "note": "更瘦，煸油时补一勺植物油。"
+    },
+    {
+      "original": "粉条",
+      "substitute": "宽粉",
+      "ratio": "200 克:200 克",
+      "note": "更耐炖，可多炖五分钟。"
+    }
+  ],
+  "variations": [
+    "加半棵酸菜同炖，酸香解腻。，这一点很关键。",
+    "放几个干辣椒，微辣更下饭。，这一点很关键。"
+  ],
+  "serving_suggestion": "盛一大碗，配米饭或贴饼子。，这一点很关键。",
+  "storage": "冷藏两天，冷冻两周；复热加水小火煮开。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 32,
+    "carbs_g": 38,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含小麦制品，过敏者慎食；猪肉须炖至完全熟透；粉条含明矾类添加剂者不宜多食；成品冷藏不超过两天。"
+  ],
+  "origin_note": "东北冬天最实在的一锅，五花肉炖到软烂，粉条吸饱肉汤变得透亮。舀一勺连汤带粉，热腾腾下肚，浑身都暖了。",
+  "tags": [
+    "东北",
+    "炖菜",
+    "五花肉",
+    "粉条"
+  ],
+  "related_ids": [
+    "suancai-bairou",
+    "dongbei-luandun",
+    "xiaoji-dun-mogu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

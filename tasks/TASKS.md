@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T14:49:05.509Z
+> 生成时间：2026-11-23T15:01:56.833Z
 
-**总览**：工程任务 49/53；菜谱内容 1486/3274（45.4%），共 607 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1492/3274（45.6%），共 608 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（632/1339）
+### 中国菜系（638/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，71/107</summary>
 
@@ -262,16 +262,17 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>东北菜 dongbei</b> — B 级，14/38</summary>
+<details><summary><b>东北菜 dongbei</b> — B 级，20/38</summary>
 
-- [ ] `P4-dongbei/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 2
-- [ ] `P4-dongbei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 4
+- [ ] `P4-dongbei/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 6，已完成 3
+- [ ] `P4-dongbei/main-meat` 主菜·肉（Meat Main）目标 6，已完成 5
 - [ ] `P4-dongbei/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 1
-- [ ] `P4-dongbei/cold-dish` 凉菜（Cold Dish）目标 6，已完成 2
+- [ ] `P4-dongbei/cold-dish` 凉菜（Cold Dish）目标 6，已完成 3
 - [ ] `P4-dongbei/banquet` 宴客菜（Banquet）目标 6，已完成 0
 - [ ] `P4-dongbei/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
 - [ ] `P4-dongbei/main-tofu` 主菜·豆制品（Tofu Main）目标 4，已完成 0
-- [x] `P4-dongbei/soup` 汤羹（Soup）目标 0，已完成 2
+- [x] `P4-dongbei/soup` 汤羹（Soup）目标 0，已完成 3
+- [x] `P4-dongbei/snack` 小吃（Street Food）目标 0，已完成 2
 - [x] `P4-dongbei/appetizer` 前菜（Appetizer）目标 0，已完成 1
 - [x] `P4-dongbei/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:49:05.449Z",
+  "generatedAt": "2026-11-23T15:01:56.777Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 607,
+    "cells": 608,
     "target": 3274,
-    "actual": 1486,
-    "coverage": 0.4538790470372633
+    "actual": 1492,
+    "coverage": 0.45571166768478927
   },
   "regions": {
     "cn": [
@@ -1599,15 +1599,16 @@
         "en": "Northeastern",
         "tier": "B",
         "target": 38,
-        "actual": 14,
+        "actual": 20,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "di-san-xian",
+              "dongbei-jiang-gudou",
               "shao-qiezi"
             ]
           },
@@ -1615,9 +1616,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "dongbei-luandun",
+              "dongbei-zhurou-dun-fentiao",
               "guobao-rou",
               "liu-roudan",
               "suancai-bairou"
@@ -1636,9 +1638,10 @@
             "category": "cold-dish",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "dongbei-dalapi",
+              "dongbei-laohu-cai",
               "pai-huanggua"
             ]
           },
@@ -1669,10 +1672,21 @@
             "category": "soup",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "dongbei-gedatang",
               "suancai-bairou",
               "xiaoji-dun-mogu"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "dongbei-basi-digua",
+              "dongbei-jiucai-hezi"
             ]
           },
           {
