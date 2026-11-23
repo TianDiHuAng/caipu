@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huizhou-gancai-fan",
+  "name": {
+    "zh": "徽州干菜焖饭",
+    "en": "Preserved Vegetable Rice",
+    "original": "干菜饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 95,
+    "total_min": 120
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "梅干菜",
+          "name_en": "preserved mustard",
+          "amount": 80,
+          "unit": "g",
+          "note": "泡发",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡发切丁",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 360,
+          "unit": "ml",
+          "note": "焖饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "饭勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍，泡二十分钟后沥干。这一步不要着急。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡过的米焖出来更松。，注意火候。",
+      "visual_cue": "米粒饱满，水清，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "梅干菜泡三十分钟洗净，挤干切碎。这一步不要着急。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "多洗几遍去泥沙，咸味也更柔。，注意火候。",
+      "visual_cue": "菜末黑亮，水不浑，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，五花肉切小丁冷锅小火煸到出油微黄。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "煸出油再炒菜，饭才香。，注意火候。",
+      "visual_cue": "肉丁出油，边缘焦黄，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "下香菇丁炒出香味，再放梅干菜碎翻炒。这一步不要着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "香菇先炒，鲜味才出来。，注意火候。",
+      "visual_cue": "香菇软塌，香气浓，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽和盐炒匀，倒入大米翻拌。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "米粒裹上油和酱油，焖出来才匀。，注意火候。",
+      "visual_cue": "米粒着色，油亮，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "全部转进电饭锅，加清水没过米面一厘米。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "水量比白饭略少，菜里有汁。，注意火候。",
+      "visual_cue": "水面齐平，米粒平整，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "按下煮饭键，跳起后再焖十分钟。这一步不要着急。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "跳起别立刻开盖，焖十分钟更透。，注意火候。",
+      "visual_cue": "锅内无水声，香气溢出"
+    },
+    {
+      "n": 8,
+      "text": "开盖撒小葱末，用饭勺从底翻松。这一步不要着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "翻松让水汽散掉，饭才不粘。，注意火候。",
+      "visual_cue": "米粒分明，油亮松散，状态稳定"
+    }
+  ],
+  "tips": [
+    "米先泡过，焖出来才松软。，值得留意。",
+    "梅干菜多洗几遍，饭才不牙碜。，值得留意。",
+    "水量比白饭少一点，菜会出水。，值得留意。"
+  ],
+  "common_mistakes": [
+    "水放太多，焖成糊状。，值得留意。",
+    "梅干菜没挤干，饭发苦。，值得留意。",
+    "跳起立刻开盖，饭心还硬。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "腊肉",
+      "ratio": "150 克:120 克",
+      "note": "咸香更浓，盐要减。"
+    },
+    {
+      "original": "梅干菜",
+      "substitute": "萝卜干",
+      "ratio": "80 克:100 克",
+      "note": "口感更脆，甜味不同。"
+    }
+  ],
+  "variations": [
+    "加几粒板栗同焖，甜香更足。，值得留意。",
+    "用砂锅小火焖，锅巴更香。，值得留意。"
+  ],
+  "serving_suggestion": "配一碗青菜汤，就是徽州人家的一顿家常饭。",
+  "storage": "冷藏两天，复热加一勺水微波或蒸十分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 560,
+    "protein_g": 16,
+    "fat_g": 22,
+    "carbs_g": 72,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉须炒至完全熟透；腌菜含盐高，注意总量；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "徽州农家的省事饭，梅干菜和肉丁炒香了跟米一起焖。开盖一股咸香，米饭油润，配个青菜汤就是一餐。",
+  "tags": [
+    "安徽",
+    "主食",
+    "焖饭",
+    "梅干菜"
+  ],
+  "related_ids": [
+    "huizhou-meigancai-bing",
+    "anhui-meigancai-kourou",
+    "huizhou-laba-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

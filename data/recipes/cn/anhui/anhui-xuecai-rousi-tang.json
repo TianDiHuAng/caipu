@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-xuecai-rousi-tang",
+  "name": {
+    "zh": "徽州雪菜肉丝汤",
+    "en": "Pork and Pickled Greens Soup",
+    "original": "雪菜肉丝汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 250,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "雪菜",
+          "name_en": "pickled potherb mustard",
+          "amount": 120,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 12,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "上浆",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊切细丝，加料酒、淀粉和少许盐抓匀。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "上浆后肉丝才滑嫩不柴。，注意火候。",
+      "visual_cue": "肉丝挂浆，手感顺滑，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "雪里蕻洗净切碎，挤掉多余水分。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "腌菜挤干，汤才不齁咸。，注意火候。",
+      "visual_cue": "菜末干爽，颜色翠黄，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒清水烧开，转小火备用。这一步不要着急。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "水先烧上，炒好料直接下锅。，注意火候。",
+      "visual_cue": "水面微沸，无大滚，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油，下姜丝小火煸香。这一步不要着急。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "姜丝煸出味，汤才不腥。，注意火候。",
+      "visual_cue": "姜丝微卷，香气散出，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "放雪里蕻碎中火炒两分钟，炒出腌菜香。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "炒过的腌菜比直接煮更香。，注意火候。",
+      "visual_cue": "菜末油亮，酸香明显，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "倒入开水，放豆腐块煮五分钟。这一步不要着急。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "用开水，汤色才清。，注意火候。",
+      "visual_cue": "豆腐浮起，汤色微白，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "把肉丝抖散下锅，煮两分钟到变色。这一步不要着急。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "别一次倒成一团，抖散才不粘。，注意火候。",
+      "visual_cue": "肉丝散开，颜色变白，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "加盐和白胡椒粉调味，撒小葱末出锅。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "胡椒最后放，香气才不跑。，注意火候。",
+      "visual_cue": "表面浮葱，汤清味鲜，状态稳定"
+    }
+  ],
+  "tips": [
+    "肉丝上浆后再煮，口感才滑。，值得留意。",
+    "雪里蕻先炒过，汤才够香。，值得留意。",
+    "用开水冲汤，汤色才清亮。，值得留意。"
+  ],
+  "common_mistakes": [
+    "肉丝没上浆，煮出来发柴。，值得留意。",
+    "腌菜没挤干，汤咸得喝不下。，值得留意。",
+    "冷水下锅，汤色发浑。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡胸肉",
+      "ratio": "250 克:250 克",
+      "note": "更清淡，煮的时间缩短一分钟。"
+    },
+    {
+      "original": "雪里蕻",
+      "substitute": "酸菜",
+      "ratio": "120 克:120 克",
+      "note": "酸味更冲，盐要减半。"
+    }
+  ],
+  "variations": [
+    "下一把细面，就是雪菜肉丝面。，值得留意。",
+    "加几片冬笋，汤更清鲜。，值得留意。"
+  ],
+  "serving_suggestion": "饭前一碗，酸香开胃；也可浇在米饭上做汤饭。",
+  "storage": "冷藏两天，复热小火煮开即可。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 210,
+    "protein_g": 22,
+    "fat_g": 10,
+    "carbs_g": 8,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mustard",
+    "soy",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉须完全煮熟、无粉红；腌菜含盐高，注意用量；成品冷藏不超过两天，复热须滚开。"
+  ],
+  "origin_note": "徽州人腌的雪里蕻酸脆带鲜，切碎了和肉丝同煮，汤清而味厚。冬天喝一碗，胃里立刻暖起来。家常做法并不复杂，关键是火候和耐心。",
+  "tags": [
+    "安徽",
+    "汤",
+    "雪菜",
+    "肉丝"
+  ],
+  "related_ids": [
+    "huizhou-xuelihong",
+    "huizhou-huotui-tang",
+    "anhui-doufu-geng-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

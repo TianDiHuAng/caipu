@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T11:46:26.963Z",
+  "generatedAt": "2026-11-23T11:57:09.327Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 601,
     "target": 3274,
-    "actual": 1398,
-    "coverage": 0.4270006108735492
+    "actual": 1404,
+    "coverage": 0.42883323152107516
   },
   "regions": {
     "cn": [
@@ -1179,16 +1179,17 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 37,
+        "actual": 43,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "anhui-fenzheng-rou",
               "anhui-huangshan-shao-sun",
+              "anhui-meigancai-kourou",
               "huizhou-daobanxiang",
               "huizhou-hongshao-zhuti",
               "huizhou-hongshaorou",
@@ -1199,10 +1200,11 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "anhui-jiaobai-chaorou",
               "anhui-yancai-chao-dougan",
+              "huizhou-meigancai-shao-doujiao",
               "huotui-shao-sun",
               "qingchao-luhao",
               "xianggu-pa-caixin",
@@ -1213,9 +1215,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "anhui-doufu-geng-tang",
+              "anhui-xuecai-rousi-tang",
               "huainan-niurou-tang",
               "huizhou-huotui-tang",
               "huizhou-yao-tang",
@@ -1238,10 +1241,12 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "huizhou-baofu-jiao",
               "huizhou-baolu-guo",
+              "huizhou-huoshao",
+              "huizhou-meigancai-bing",
               "huizhou-shaobing",
               "huizhou-taguo"
             ]
@@ -1278,8 +1283,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "huizhou-gancai-fan"
+            ]
           },
           {
             "category": "main-seafood",
