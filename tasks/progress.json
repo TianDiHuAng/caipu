@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:33:34.996Z",
+  "generatedAt": "2026-11-23T08:37:41.400Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1282,
-    "coverage": 0.3915699450213806
+    "actual": 1288,
+    "coverage": 0.3934025656689065
   },
   "regions": {
     "cn": [
@@ -2693,7 +2693,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 39,
         "cells": [
           {
             "category": "main-meat",
@@ -2765,24 +2765,28 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "korean-japchae"
+              "korean-japchae",
+              "korean-sigeumchi-namul"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "korean-gyeran-jjim"
+            ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "korean-dubu-jorim",
               "sundubu-jjigae"
             ]
           },
@@ -2850,17 +2854,18 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 39,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "larb-gai",
               "thai-cashew-chicken",
               "thai-gaeng-kari-gai",
+              "thai-gai-yang",
               "thai-green-curry-chicken"
             ]
           },
@@ -2881,11 +2886,12 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "larb-gai",
               "som-tam",
               "thai-yam-het",
+              "thai-yam-pla-muek",
               "thai-yum-woon-sen",
               "yum-nua"
             ]
@@ -2907,11 +2913,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "mango-sticky-rice",
               "thai-coconut-jelly",
               "thai-coconut-sticky-rice",
+              "thai-kluay-buad-chee",
               "thai-pumpkin-custard"
             ]
           },
