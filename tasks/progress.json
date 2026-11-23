@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:59:01.779Z",
+  "generatedAt": "2026-11-23T16:12:07.234Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 612,
     "target": 3274,
-    "actual": 1516,
-    "coverage": 0.4630421502748931
+    "actual": 1522,
+    "coverage": 0.4648747709224191
   },
   "regions": {
     "cn": [
@@ -2678,14 +2678,15 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 45,
+        "actual": 51,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
+              "japanese-ebi-fry",
               "japanese-tempura",
               "japanese-teriyaki-salmon",
               "miso-salmon",
@@ -2697,9 +2698,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "japanese-curry-rice",
+              "japanese-katsudon",
               "japanese-oyakodon",
               "japanese-takikomi-gohan",
               "ochazuke",
@@ -2724,11 +2726,12 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "chawanmushi",
               "goma-ae-spinach",
               "hiyayakko",
+              "japanese-agedashi-tofu",
               "japanese-chawanmushi",
               "karaage"
             ]
@@ -2737,9 +2740,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "dorayaki",
+              "japanese-castella",
               "japanese-ichigo-daifuku",
               "japanese-oshiruko",
               "japanese-purin",
@@ -2751,8 +2755,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "japanese-nikujaga",
               "japanese-okonomiyaki"
             ]
           },
@@ -2779,8 +2784,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "japanese-shoyu-ramen",
               "japanese-udon",
               "japanese-yakisoba"
             ]

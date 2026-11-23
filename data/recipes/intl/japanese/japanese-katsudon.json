@@ -1,0 +1,300 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-katsudon",
+  "name": {
+    "zh": "猪排盖饭",
+    "en": "Katsudon",
+    "original": "カツ丼"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 46,
+    "total_min": 76
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 500,
+          "unit": "g",
+          "note": "厚切",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "煮饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "裹浆与淋蛋",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 80,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 100,
+          "unit": "g",
+          "note": "磨糠",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "做汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炸制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "米淘洗三遍，加水按一比一点二煮成饭。，看准状态再往下做。",
+      "time_min": 25,
+      "heat": "大火",
+      "tip": "水比平时略少，盖饭的饭才不黏。，看准状态再往下做。",
+      "visual_cue": "米粒分明，锅盖冒白气"
+    },
+    {
+      "n": 2,
+      "text": "猪里脊切成两厘米厚片，用刀背轻拍松。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "拍松断筋，炸后不缩不硬。，看准状态再往下做。",
+      "visual_cue": "肉片变宽，厚度均匀"
+    },
+    {
+      "n": 3,
+      "text": "肉片撒盐和黑胡椒腌十分钟入味。，看准状态再往下做。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "腌十分钟，底味才进得去。，看准状态再往下做。",
+      "visual_cue": "表面微湿，调料附着"
+    },
+    {
+      "n": 4,
+      "text": "依次裹面粉、蛋液和面包糠，压紧边缘。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "面包糠压紧，炸时不易脱落。，看准状态再往下做。",
+      "visual_cue": "外壳均匀，无裸露，这一点很关键。"
+    },
+    {
+      "n": 5,
+      "text": "植物油烧到六成热，中火炸四分钟捞出。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温别太高，肉才熟透。，看准状态再往下做。",
+      "visual_cue": "外壳金黄，浮起油面"
+    },
+    {
+      "n": 6,
+      "text": "升高油温复炸三十秒，逼出多余油分。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "复炸一次，外壳才酥脆不软。，看准状态再往下做。",
+      "visual_cue": "外壳深金，声音清脆"
+    },
+    {
+      "n": 7,
+      "text": "炸排切两厘米条，洋葱丝与酱油、味醂和白糖调的汁煮开。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "汁要煮开再放料，味道才融合。，看准状态再往下做。",
+      "visual_cue": "汁面翻滚，甜香散出"
+    },
+    {
+      "n": 8,
+      "text": "洋葱煮软后放炸排，淋上打散的蛋液盖锅焖。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "蛋液分两次淋，层次才好看。，看准状态再往下做。",
+      "visual_cue": "蛋液半凝，盖住肉排"
+    },
+    {
+      "n": 9,
+      "text": "蛋液半熟时关火，连汁盖在热饭上撒小葱。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "蛋液半熟就够，盖饭的热气会继续焖。",
+      "visual_cue": "蛋面流心，葱末翠绿"
+    }
+  ],
+  "tips": [
+    "肉要拍松，炸后才不硬。，这一点很关键。",
+    "复炸一次，外壳才酥。，这一点很关键。",
+    "蛋液半熟关火，盖饭上还会继续焖熟。"
+  ],
+  "common_mistakes": [
+    "肉不拍松，咬起来像橡皮。，这一点很关键。",
+    "蛋液全熟才关火，口感变干。，这一点很关键。",
+    "汁收太干，饭拌不开。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡腿肉",
+      "ratio": "500 克:500 克",
+      "note": "更嫩，炸三分钟即可。"
+    },
+    {
+      "original": "面包",
+      "substitute": "面包糠",
+      "ratio": "100 克:100 克",
+      "note": "更省事，颗粒均匀。"
+    }
+  ],
+  "variations": [
+    "加一片芝士，融化后更浓郁。，这一点很关键。",
+    "用味噌代替部分酱油，酱香更厚。，这一点很关键。"
+  ],
+  "serving_suggestion": "趁热吃，配一碗味噌汤。，这一点很关键。",
+  "storage": "炸排冷藏两天，复热烤箱一百八十度八分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 420 克",
+    "calories_kcal": 760,
+    "protein_g": 36,
+    "fat_g": 34,
+    "carbs_g": 72,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类、乳制品与小麦，过敏者慎食；猪肉须炸至中心完全熟透、不见血水；蛋液须加热至半凝固以上，不要生食；油炸注意防溅。"
+  ],
+  "origin_note": "东京的食堂里最常见的一碗盖饭，炸猪排泡进甜咸的汁里，上面盖一层半熟蛋。勺子一挖，饭、肉、蛋一起入口。",
+  "tags": [
+    "日本",
+    "盖饭",
+    "猪排",
+    "炸物"
+  ],
+  "related_ids": [
+    "japanese-tonkatsu",
+    "japanese-oyakodon",
+    "omurice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

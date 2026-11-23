@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-shoyu-ramen",
+  "name": {
+    "zh": "酱油拉面",
+    "en": "Shoyu Ramen",
+    "original": "醤油ラーメン"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 73,
+    "total_min": 103
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "拉面",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 250,
+          "unit": "g",
+          "note": "叉烧用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 70,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清酒",
+          "name_en": "sake",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 20,
+          "unit": "g",
+          "note": "吊汤",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "卤蛋",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "熬汤",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊用棉线扎紧，表面撒盐抹匀。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "扎紧肉块，煮好切片才圆整。，看准状态再往下做。",
+      "visual_cue": "肉块紧实，线条均匀"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，把肉块各面煎上色。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "煎出焦色，汤才带香气。，看准状态再往下做。",
+      "visual_cue": "表面焦褐，油脂渗出"
+    },
+    {
+      "n": 3,
+      "text": "加酱油、味醂、清酒、白糖和清水煮开。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "汁要没过肉块，卤得才匀。，看准状态再往下做。",
+      "visual_cue": "汤汁翻滚，酱香浓，这一点很关键。"
+    },
+    {
+      "n": 4,
+      "text": "转小火卤二十分钟，中途翻面一次。，看准状态再往下做。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "小火卤，肉才软而不柴。，看准状态再往下做。",
+      "visual_cue": "肉色深褐，筷子可入"
+    },
+    {
+      "n": 5,
+      "text": "肉块捞出放凉，卤汁留作汤底。，看准状态再往下做。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "放凉再切，切面才整齐。，看准状态再往下做。",
+      "visual_cue": "肉块定型，汁色油亮"
+    },
+    {
+      "n": 6,
+      "text": "海带用清水泡二十分钟，煮开前捞出。，看准状态再往下做。",
+      "time_min": 22,
+      "heat": "中火",
+      "tip": "海带别久煮，久了会发苦。，看准状态再往下做。",
+      "visual_cue": "汤色清亮，微黄，这一点很关键。"
+    },
+    {
+      "n": 7,
+      "text": "汤里加洋葱、蒜和姜片，小火煮十分钟出味。，看准状态再往下做。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "小火慢煮，香气才不跑。，看准状态再往下做。",
+      "visual_cue": "汤面微沸，香气清，这一点很关键。"
+    },
+    {
+      "n": 8,
+      "text": "滤掉料渣，加卤汁和酱油调成面条汤底。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "卤汁按口味加，别一次倒完。，看准状态再往下做。",
+      "visual_cue": "汤色琥珀，咸香适口"
+    },
+    {
+      "n": 9,
+      "text": "另起锅煮蛋六分半，剥壳泡进卤汁做卤蛋。，看准状态再往下做。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "六分半的蛋，蛋黄正好流心。，看准状态再往下做。",
+      "visual_cue": "蛋面染色，蛋黄半凝"
+    },
+    {
+      "n": 10,
+      "text": "面条煮两分钟捞起，倒入热汤摆肉片和蛋。，看准状态再往下做。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "面煮好立刻入汤，才不软烂。，看准状态再往下做。",
+      "visual_cue": "面条挺立，汤面油亮"
+    },
+    {
+      "n": 11,
+      "text": "撒小葱末，趁热吃面喝汤。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热吃，面才不吸汤发胀。，看准状态再往下做。",
+      "visual_cue": "葱末翠绿，热气升腾"
+    }
+  ],
+  "tips": [
+    "卤汁留一半做汤底，咸淡才好调。，这一点很关键。",
+    "海带煮开前捞出，汤才不苦。，这一点很关键。",
+    "面煮好立刻入汤，避免发软。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "汤底一次倒太多卤汁，咸得下不了口。",
+    "面煮太久，端上桌就糊了。，这一点很关键。",
+    "肉热着切，切面全散。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡腿肉",
+      "ratio": "250 克:250 克",
+      "note": "更清爽，卤十五分钟。"
+    },
+    {
+      "original": "面条",
+      "substitute": "乌冬面",
+      "ratio": "300 克:300 克",
+      "note": "更有嚼劲，煮三分钟。"
+    }
+  ],
+  "variations": [
+    "加一片紫菜和笋干，口感更完整。，这一点很关键。",
+    "汤底加一勺味噌，酱香更厚。，这一点很关键。"
+  ],
+  "serving_suggestion": "趁热吃，先喝一口汤再吃面。，这一点很关键。",
+  "storage": "汤底冷藏三天，面条现煮现吃。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 550 克",
+    "calories_kcal": 680,
+    "protein_g": 34,
+    "fat_g": 22,
+    "carbs_g": 82,
+    "sodium_mg": 1680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类、大豆与小麦，过敏者慎食；猪肉须卤至中心完全熟透；蛋须煮至蛋黄凝固以上，不要生食；汤底含盐较高，适量食用。"
+  ],
+  "origin_note": "东京的老派拉面，汤清澈见底，酱油香压得住面香。一片卤得发亮的叉烧，一颗溏心蛋，简单却让人排队。",
+  "tags": [
+    "日本",
+    "拉面",
+    "面食",
+    "酱油"
+  ],
+  "related_ids": [
+    "japanese-udon",
+    "japanese-yakisoba",
+    "miso-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
