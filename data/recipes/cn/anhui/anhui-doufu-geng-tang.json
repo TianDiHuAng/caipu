@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-doufu-geng-tang",
+  "name": {
+    "zh": "徽州豆腐羹",
+    "en": "Huizhou Tofu Thick Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 18,
+    "total_min": 38
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐切成半厘米的小丁，放进淡盐水里泡五分钟去除豆腥。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盐水泡过豆腐不易碎，豆腥也淡。",
+      "visual_cue": "豆腐丁白净完整，边缘不散"
+    },
+    {
+      "n": 2,
+      "text": "香菇去柄切同样大小的丁，姜切末，小葱切成细花。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "香菇丁切小些，煮出来的羹才顺口。",
+      "visual_cue": "香菇丁大小均匀，香气明显"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒植物油烧热，下姜末和香菇丁小火煸出香味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "香菇先煸出香味，汤底才够浓够鲜。",
+      "visual_cue": "香菇变软呈褐色，香气扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "加清水和生抽烧开，放入豆腐丁转小火煮八分钟。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "豆腐下锅后轻推别猛搅，免得碎。",
+      "visual_cue": "汤色微褐，豆腐浮在汤面"
+    },
+    {
+      "n": 5,
+      "text": "淀粉加水调匀，边淋边搅，把汤勾到稀稠合适。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "芡要分两次淋，一次倒进去容易结块。",
+      "visual_cue": "汤体透亮稠滑，能挂勺"
+    },
+    {
+      "n": 6,
+      "text": "蛋液细线般淋入搅出蛋花，加盐和白胡椒粉调味。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "蛋液用小火淋入，蛋花才薄而均匀漂亮。",
+      "visual_cue": "蛋花飘浮成丝，汤色柔亮"
+    },
+    {
+      "n": 7,
+      "text": "撒上葱花搅匀，关火后盛入汤碗里趁热上桌喝。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "葱花在关火后放，香气才留得住不散。",
+      "visual_cue": "汤面浮着翠绿葱花"
+    }
+  ],
+  "tips": [
+    "豆腐用淡盐水泡一会儿，不易碎且去豆腥。",
+    "香菇先煸出香味，汤底才够浓郁鲜香。",
+    "芡汁分两次淋，羹体才滑不结块。"
+  ],
+  "common_mistakes": [
+    "豆腐直接大火煮，翻两下就碎成渣。",
+    "淀粉一次全倒进去，整锅结成疙瘩。",
+    "蛋液大火直接冲进去，蛋花又老又粗。"
+  ],
+  "substitutions": [
+    {
+      "original": "香菇",
+      "substitute": "口蘑",
+      "ratio": "60 克:80 克",
+      "note": "香气更清，煸制时间缩短一分钟。"
+    },
+    {
+      "original": "淀粉",
+      "substitute": "藕粉",
+      "ratio": "25 克:25 克",
+      "note": "芡汁更透亮，需多加十毫升水调开。"
+    }
+  ],
+  "variations": [
+    "加几粒虾仁同煮，鲜味更上一层楼。",
+    "放一点火腿末提味，咸香更浓更鲜。"
+  ],
+  "serving_suggestion": "趁热喝最柔滑，配一碗米饭或烧饼都合适。",
+  "storage": "冷藏一天，复热要小火加热并不断搅动，避免糊底。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 180,
+    "protein_g": 12,
+    "fat_g": 11,
+    "carbs_g": 10,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆腐与蛋类须彻底加热，蛋花必须完全凝固；剩汤冷藏不超过一天，复热需烧至滚沸。"
+  ],
+  "origin_note": "徽州人家的家常羹汤，豆腐配香菇勾薄芡，端上来滑溜鲜香。山里做法朴素，靠香菇提鲜、白胡椒提香，冷天喝一碗从胃里暖起来。",
+  "tags": [
+    "安徽",
+    "豆腐",
+    "羹汤",
+    "家常"
+  ],
+  "related_ids": [
+    "xiongzhang-doufu",
+    "anhui-jiaobai-chaorou",
+    "fujian-ganbei-donggua-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

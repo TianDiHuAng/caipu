@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T09:22:41.089Z",
+  "generatedAt": "2026-11-23T08:01:36.657Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1230,
-    "coverage": 0.37568723274282223
+    "actual": 1234,
+    "coverage": 0.3769089798411729
   },
   "regions": {
     "cn": [
@@ -699,7 +699,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 40,
         "cells": [
           {
             "category": "main-seafood",
@@ -747,12 +747,13 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "jiaxing-zongzi",
               "ningbo-xiechao-niangao",
               "wenzhou-nuomifan",
-              "xianrou-caifan"
+              "xianrou-caifan",
+              "zhejiang-caifan"
             ]
           },
           {
@@ -860,16 +861,17 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 40,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "fujian-ganbei-donggua-tang",
               "haili-doufu-tang",
+              "minnan-xuecai-jiyu-tang",
               "taipingyan-tang",
               "xianggu-rougeng",
               "zicai-sharen-tang"
@@ -1005,7 +1007,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 37,
+        "actual": 38,
         "cells": [
           {
             "category": "main-meat",
@@ -1039,11 +1041,12 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "duojiao-zheng-yutou",
               "ganguo-chashugu",
               "ganguo-huacai",
+              "hunan-lajiao-chao-qiezi",
               "hunan-suanla-tudousi",
               "hunan-xianggan-chaorou",
               "shousi-baocai",
@@ -1164,7 +1167,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 37,
         "cells": [
           {
             "category": "main-meat",
@@ -1198,8 +1201,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "anhui-doufu-geng-tang",
               "huainan-niurou-tang",
               "huizhou-huotui-tang",
               "huizhou-yao-tang",

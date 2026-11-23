@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-caifan",
+  "name": {
+    "zh": "浙江菜饭",
+    "en": "Zhejiang Vegetable Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 35,
+    "total_min": 60
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "淘洗干净",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 300,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 20,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 330,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "炒锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后沥干，静置十分钟让米粒吸足表面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "米先沥干再下水煮，饭粒才不软塌发黏。",
+      "visual_cue": "米粒干爽松散，不粘手"
+    },
+    {
+      "n": 2,
+      "text": "咸肉切小丁，香肠切薄片，用黄酒抓匀去腥。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "咸肉切小些，煮出来咸味才均匀。",
+      "visual_cue": "肉丁大小一致，肥瘦分明"
+    },
+    {
+      "n": 3,
+      "text": "青菜洗净后切成碎末，菜梗和菜叶分开放置。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "菜梗菜叶分开，下锅时间才好控制。",
+      "visual_cue": "菜碎翠绿，摊开不见水"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热放猪油，下咸肉丁和香肠片煸出油香。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "煸出油脂再下菜，饭才香而不觉得腻。",
+      "visual_cue": "肉丁透明出油，锅底发亮"
+    },
+    {
+      "n": 5,
+      "text": "先下菜梗炒半分钟，再下菜叶炒到刚软即关火。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "青菜只炒半熟，靠焖饭的余热熟透。",
+      "visual_cue": "菜梗翠绿微软，菜叶塌下"
+    },
+    {
+      "n": 6,
+      "text": "大米和清水放入电饭锅，把炒好的肉菜连油一起铺在米上。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "菜铺在米上别搅，煮好再拌饭才不烂。",
+      "visual_cue": "米面被菜肉盖住，水量刚好"
+    },
+    {
+      "n": 7,
+      "text": "按下煮饭键煮到自动跳闸，再焖上十分钟开盖。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "跳闸后焖十分钟，米芯才彻底熟透。",
+      "visual_cue": "饭面平整，青菜变深绿"
+    },
+    {
+      "n": 8,
+      "text": "加盐拌匀，尝过味道再补，盛碗后趁热吃掉。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先尝再放盐，咸肉本身已经很咸了。",
+      "visual_cue": "饭粒油亮分明，菜肉均匀"
+    }
+  ],
+  "tips": [
+    "青菜先炒半熟再焖，颜色和口感都好。",
+    "菜肉铺在米上别搅动，米饭才不糊。",
+    "跳闸后焖十分钟，米芯才不会夹生。"
+  ],
+  "common_mistakes": [
+    "青菜和米一起煮半小时，出锅发黄发烂。",
+    "水量放得太多，最后煮成一锅软烂菜粥。",
+    "咸肉不煸直接下锅，饭里全是油腻味。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸肉",
+      "substitute": "腊肠",
+      "ratio": "100 克:100 克",
+      "note": "甜香更突出，盐可不加。"
+    },
+    {
+      "original": "青菜",
+      "substitute": "油菜",
+      "ratio": "300 克:300 克",
+      "note": "梗更粗，需多炒半分钟再焖。"
+    }
+  ],
+  "variations": [
+    "加一把笋丁同煮，口感层次更丰富。",
+    "最后淋上一勺葱油，香气更足更诱人。"
+  ],
+  "serving_suggestion": "趁热盛碗，配一碗清汤或紫菜蛋汤最舒服。",
+  "storage": "冷藏一天，复热用蒸锅或微波加少量水，避免干硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 520,
+    "protein_g": 16,
+    "fat_g": 16,
+    "carbs_g": 76,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "咸肉与香肠属腌制品，需彻底加热熟透，含盐较高不宜多食；剩饭冷藏一天内复热至中心烫手。"
+  ],
+  "origin_note": "江南人家秋冬的省事饭，一口锅解决饭和菜。讲究菜绿、肉香、饭粒分明，焖好开盖那阵香气最勾人，宁波一带还爱配一碗咸菜汤。",
+  "tags": [
+    "浙江",
+    "菜饭",
+    "咸肉",
+    "主食"
+  ],
+  "related_ids": [
+    "minnan-xianfan",
+    "xianrou-caifan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

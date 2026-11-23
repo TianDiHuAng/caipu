@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "minnan-xuecai-jiyu-tang",
+  "name": {
+    "zh": "雪菜鲫鱼汤",
+    "en": "Crucian Carp Soup with Pickled Mustard Greens"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲫鱼",
+          "name_en": "crucian carp",
+          "amount": 600,
+          "unit": "g",
+          "note": "收拾干净",
+          "optional": false
+        },
+        {
+          "name": "雪菜",
+          "name_en": "pickled potherb mustard",
+          "amount": 120,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "煎鱼",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲫鱼去鳞去内脏，刮净腹内黑膜，鱼身两面各打两刀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腹内黑膜不去净，汤会发腥甚至发苦。",
+      "visual_cue": "鱼身干爽，刀口整齐"
+    },
+    {
+      "n": 2,
+      "text": "鱼身抹薄盐和黄酒，塞入姜片腌十分钟，再用厨房纸吸干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "下锅前必须擦干，否则溅油破皮。",
+      "visual_cue": "鱼皮干爽，表面不见水光"
+    },
+    {
+      "n": 3,
+      "text": "雪菜用清水泡五分钟挤干切碎，去掉多余咸味。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "雪菜先泡五分钟，汤才不会过咸发齁。",
+      "visual_cue": "雪菜碎干爽，咸味变柔和"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热倒植物油，鲫鱼下锅中火煎到两面微黄定型。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鱼皮结壳了再翻面，鱼身才能保持完整。",
+      "visual_cue": "鱼皮金黄完整，晃动会滑锅"
+    },
+    {
+      "n": 5,
+      "text": "冲入开水没过鱼身，大火滚煮到汤色转成奶白。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "一定用开水，冷水冲汤色发白不透。",
+      "visual_cue": "汤色乳白，浮着一层油花"
+    },
+    {
+      "n": 6,
+      "text": "转成小火后放雪菜同煮，让咸鲜味慢慢融进汤里。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "雪菜后放，久煮会发酸也失去脆感。",
+      "visual_cue": "雪菜浮在汤面，汤色微黄"
+    },
+    {
+      "n": 7,
+      "text": "加盐和白胡椒粉调味，撒上葱段关火盛入汤碗。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "先尝再放盐，雪菜本身已经带咸味。",
+      "visual_cue": "汤色奶白带黄，葱段翠绿"
+    }
+  ],
+  "tips": [
+    "冲汤要用开水，汤色才奶白浓香。",
+    "雪菜先泡过再下锅，汤的咸度才刚好。",
+    "雪菜要先泡过再下锅，免得整锅汤过咸。"
+  ],
+  "common_mistakes": [
+    "用冷水冲汤，煮出来汤色灰白发浑。",
+    "鱼不擦干就下锅，油花四溅还破皮。",
+    "雪菜煮太久，汤发酸雪菜也烂了。"
+  ],
+  "substitutions": [
+    {
+      "original": "雪菜",
+      "substitute": "芥菜",
+      "ratio": "120 克:150 克",
+      "note": "需补三克盐，鲜味略淡。"
+    },
+    {
+      "original": "鲫鱼",
+      "substitute": "小黄鱼",
+      "ratio": "600 克:600 克",
+      "note": "刺更细，煮制时间缩短三分钟。"
+    }
+  ],
+  "variations": [
+    "加几块嫩豆腐同煮，汤更浓也更饱腹。",
+    "放两只煎蛋一起滚，汤色更快转白。"
+  ],
+  "serving_suggestion": "趁热喝汤吃肉，配米饭或面线都好。",
+  "storage": "冷藏一天，复热小火加热至滚，鱼汤不宜反复加热。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 240,
+    "protein_g": 26,
+    "fat_g": 13,
+    "carbs_g": 4,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "mustard",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鲫鱼细刺多，老人与儿童食用需仔细挑刺；鱼汤须煮到鱼肉全白熟透，剩汤冷藏一天内复热至滚沸。"
+  ],
+  "origin_note": "闽南人爱用雪菜配河鱼，咸鲜里带一点酸，最能衬出鱼汤的甜。做法简单但讲究两点：鱼煎透、水要开，汤自然就白得漂亮。",
+  "tags": [
+    "福建",
+    "鲫鱼",
+    "雪菜",
+    "汤"
+  ],
+  "related_ids": [
+    "jiangsu-jiyu-doufu-tang",
+    "anhui-hongshao-jiyu",
+    "zhejiang-chuncai-xiaren-geng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
