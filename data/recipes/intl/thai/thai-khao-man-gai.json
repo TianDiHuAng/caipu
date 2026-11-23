@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-khao-man-gai",
+  "name": {
+    "zh": "泰式海南鸡饭",
+    "en": "Khao Man Gai",
+    "original": "ข้าวมันไก่"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 68,
+    "total_min": 98
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 800,
+          "unit": "g",
+          "note": "带骨",
+          "optional": false
+        },
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "香米",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 3,
+          "unit": "piece",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "蘸料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒米",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿用盐抹匀，加姜片和大蒜冷水下锅烧开。，看准状态再往下做。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "冷水下锅，血水才逼得干净。，看准状态再往下做。",
+      "visual_cue": "水面起沫，鸡皮收紧"
+    },
+    {
+      "n": 2,
+      "text": "转小火煮二十分钟，关火焖十分钟。，看准状态再往下做。",
+      "time_min": 32,
+      "heat": "小火",
+      "tip": "关火焖，肉才嫩不柴。，看准状态再往下做。",
+      "visual_cue": "鸡腿浮起，筷子可穿"
+    },
+    {
+      "n": 3,
+      "text": "捞出鸡腿泡冰水，让鸡皮紧实有弹性。，看准状态再往下做。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "冰水激一下，皮才脆肉才紧。，看准状态再往下做。",
+      "visual_cue": "鸡皮发亮，肉色白嫩"
+    },
+    {
+      "n": 4,
+      "text": "留一锅鸡汤，撇净浮沫备用。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "鸡汤撇净，煮饭才香不腥。，看准状态再往下做。",
+      "visual_cue": "汤清见底，油花浮面"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒植物油，把拍碎的大蒜炒到微黄。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "蒜炒香不炒焦，饭才有底味。，看准状态再往下做。",
+      "visual_cue": "蒜块金黄，香气散出"
+    },
+    {
+      "n": 6,
+      "text": "下米炒两分钟，加鸡汤按一比一煮成饭。，看准状态再往下做。",
+      "time_min": 22,
+      "heat": "大火",
+      "tip": "米先炒过，饭粒才散不粘。，看准状态再往下做。",
+      "visual_cue": "米粒透明，汤面收平"
+    },
+    {
+      "n": 7,
+      "text": "酱油、青柠汁、白糖和小米椒调成蘸汁。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "先尝一口，酸甜咸要平衡。，看准状态再往下做。",
+      "visual_cue": "汁色深褐，辣椒漂面"
+    },
+    {
+      "n": 8,
+      "text": "鸡腿斩条，饭盛碗，摆鸡腿片和黄瓜。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "鸡腿回温再斩，肉汁才不流失。，看准状态再往下做。",
+      "visual_cue": "鸡条整齐，饭粒分明"
+    },
+    {
+      "n": 9,
+      "text": "淋一勺蘸汁，撒香菜碎趁热吃。，看准状态再往下做。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "蘸汁别一次淋太多，会泡软饭。，看准状态再往下做。",
+      "visual_cue": "汁面油亮，香菜翠绿"
+    }
+  ],
+  "tips": [
+    "鸡腿冷水下锅，血沫才逼出来。，这一点很关键。",
+    "煮好泡冰水，鸡皮才爽脆。，这一点很关键。",
+    "米先炒再煮，饭粒才松散。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "全程大火煮，鸡肉又老又柴。，这一点很关键。",
+    "鸡汤不撇沫，饭带腥味。，这一点很关键。",
+    "米不炒直接煮，饭粘成一坨。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿",
+      "substitute": "猪里脊",
+      "ratio": "800 克:800 克",
+      "note": "煮十五分钟即可，风味略淡。"
+    },
+    {
+      "original": "青柠",
+      "substitute": "柠檬",
+      "ratio": "1 个:1 个",
+      "note": "酸度更柔和。"
+    }
+  ],
+  "variations": [
+    "蘸汁加一勺姜蓉，辛香更足。，这一点很关键。",
+    "饭里加几片香兰叶，香气更清。，这一点很关键。"
+  ],
+  "serving_suggestion": "配一碗鸡汤，蘸汁单独装碟。，这一点很关键。",
+  "storage": "冷藏两天，复热蒸十分钟。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 420 克",
+    "calories_kcal": 720,
+    "protein_g": 38,
+    "fat_g": 26,
+    "carbs_g": 78,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含大豆与小麦制品，过敏者慎食；鸡腿须煮至中心完全熟透、骨边不见血色；鸡汤须煮沸后使用；成品冷藏不超过两天。"
+  ],
+  "origin_note": "曼谷街边最常见的饭，鸡肉煮熟斩条盖在蒜香饭上。蘸一口酸甜辣的汁，饭香和鸡油的香气一起上来。，这一点很关键。",
+  "tags": [
+    "泰国",
+    "米饭",
+    "鸡肉",
+    "街头菜"
+  ],
+  "related_ids": [
+    "thai-gai-yang",
+    "thai-pad-kra-pao",
+    "pad-thai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

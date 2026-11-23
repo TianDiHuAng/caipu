@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:25:53.422Z",
+  "generatedAt": "2026-11-23T16:38:16.919Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 612,
     "target": 3274,
-    "actual": 1528,
-    "coverage": 0.466707391569945
+    "actual": 1534,
+    "coverage": 0.468540012217471
   },
   "regions": {
     "cn": [
@@ -3029,7 +3029,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 48,
+        "actual": 54,
         "cells": [
           {
             "category": "main-poultry",
@@ -3063,12 +3063,13 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "larb-gai",
               "som-tam",
               "thai-yam-het",
               "thai-yam-pla-muek",
+              "thai-yum-talay",
               "thai-yum-woon-sen",
               "yum-nua"
             ]
@@ -3077,10 +3078,11 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "pu-pad-pong-curry",
               "thai-basil-shrimp",
+              "thai-goong-ob-wunsen",
               "thai-goong-pad-khing",
               "thai-pla-neung-manao",
               "thai-steamed-fish",
@@ -3091,13 +3093,14 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "mango-sticky-rice",
               "thai-coconut-jelly",
               "thai-coconut-sticky-rice",
               "thai-khanom-krok",
               "thai-kluay-buad-chee",
+              "thai-lod-chong",
               "thai-pumpkin-custard"
             ]
           },
@@ -3134,9 +3137,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "pad-thai",
+              "thai-pad-kee-mao",
               "thai-pad-see-ew",
               "thai-pad-thai",
               "thai-pad-woon-sen"
@@ -3146,8 +3150,9 @@
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "thai-gaeng-massaman",
               "thai-gaeng-phed-moo",
               "thai-kor-moo-yang",
               "thai-pad-kra-pao",
@@ -3158,9 +3163,10 @@
             "category": "staple-rice",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "thai-coconut-sticky-rice",
+              "thai-khao-man-gai",
               "thai-khao-pad-sapparod"
             ]
           },
