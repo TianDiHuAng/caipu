@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T12:58:41.988Z
+> 生成时间：2026-11-23T13:08:15.378Z
 
-**总览**：工程任务 49/53；菜谱内容 1433/3274（43.8%），共 602 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1439/3274（44.0%），共 602 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（596/1339）
+### 中国菜系（602/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，65/107</summary>
 
@@ -194,15 +194,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>湘菜 hunan</b> — A 级，41/107</summary>
+<details><summary><b>湘菜 hunan</b> — A 级，47/107</summary>
 
-- [ ] `P4-hunan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 7
-- [ ] `P4-hunan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 5
-- [ ] `P4-hunan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 8
-- [ ] `P4-hunan/appetizer` 前菜（Appetizer）目标 15，已完成 4
-- [ ] `P4-hunan/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 5
+- [ ] `P4-hunan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 8
+- [ ] `P4-hunan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 6
+- [ ] `P4-hunan/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 9
+- [ ] `P4-hunan/appetizer` 前菜（Appetizer）目标 15，已完成 5
+- [ ] `P4-hunan/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 6
 - [ ] `P4-hunan/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 2
-- [ ] `P4-hunan/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 2
+- [ ] `P4-hunan/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 3
 - [ ] `P4-hunan/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 1
 - [ ] `P4-hunan/staple-rice` 主食·饭（Rice Dish）目标 8，已完成 1
 - [x] `P4-hunan/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2

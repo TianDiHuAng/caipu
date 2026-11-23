@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-zhu-xue-wanzi",
+  "name": {
+    "zh": "湘式猪血丸子",
+    "en": "Hunan Pork Blood Balls",
+    "original": "猪血丸子"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 76,
+    "total_min": 106
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "压干水分",
+          "optional": false
+        },
+        {
+          "name": "猪血",
+          "name_en": "pork blood",
+          "amount": 200,
+          "unit": "g",
+          "note": "新鲜",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 250,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "橘皮",
+          "name_en": "tangerine peel",
+          "amount": 5,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "蒸锅",
+    "炒锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐用纱布包好压二十分钟，挤掉多余水分。这一步别着急。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "水压不干，丸子就捏不成形。，注意火候。",
+      "visual_cue": "豆腐紧实，手按不塌，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切半厘米小丁，肥瘦分开。这一步别着急。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "丁要小，丸子切开才好看。，注意火候。",
+      "visual_cue": "肉丁均匀，肥瘦分明，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "豆腐捏碎，加猪血、肉丁、姜末和盐抓匀。这一步别着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "抓到颜色均匀，馅才抱团。，注意火候。",
+      "visual_cue": "馅色深红，质地黏稠，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "加干辣椒碎、五香粉和橘皮末拌匀。这一步别着急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "橘皮去腥提香，别放多。，注意火候。",
+      "visual_cue": "香料均匀，香气冲鼻，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "手上抹油，把馅捏成拳头大小的圆球。这一步别着急。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "反复摔打几下，丸子才紧实。，注意火候。",
+      "visual_cue": "丸子圆整，表面光滑，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "丸子摆进蒸锅，大火蒸四十分钟。这一步别着急。",
+      "time_min": 42,
+      "heat": "大火",
+      "tip": "蒸到按下去有弹性就熟。，注意火候。",
+      "visual_cue": "丸子变硬，表面泛油，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "取出晾到完全凉透，再切成半厘米厚的片备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "晾凉再切，切面才不散。，注意火候。",
+      "visual_cue": "切面平整，红白相间，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "炒锅倒植物油，把丸子片煎到两面焦香。这一步别着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "煎出焦边，香味才足。，注意火候。",
+      "visual_cue": "两面焦褐，油脂渗出，状态稳定"
+    }
+  ],
+  "tips": [
+    "豆腐一定要压干，不然丸子捏不紧。，值得留意。",
+    "馅要摔打几下，蒸好才不散。，值得留意。",
+    "晾凉再切片，切面才整齐。，值得留意。"
+  ],
+  "common_mistakes": [
+    "豆腐水多，丸子一蒸就塌。，值得留意。",
+    "盐放少了，晒干的丸子会发酸。，值得留意。",
+    "蒸的时间不够，切开还有生血。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪血",
+      "substitute": "鸭血",
+      "ratio": "200 克:200 克",
+      "note": "颜色略浅，口感更嫩。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "250 克:250 克",
+      "note": "更瘦，可多加一点植物油。"
+    }
+  ],
+  "variations": [
+    "加一点橘皮和白酒，风味更接近湘西做法。",
+    "切片后和蒜苗同炒，更下饭。，值得留意。"
+  ],
+  "serving_suggestion": "切片煎香配米饭，或炒蒜苗。，效果更稳定。",
+  "storage": "冷藏三天，冷冻一个月；复热蒸十分钟。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 480,
+    "protein_g": 28,
+    "fat_g": 34,
+    "carbs_g": 14,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪血与猪肉须彻底蒸熟，中心无生血色；含大豆制品，过敏者慎食；成品冷藏不超过三天，复热须彻底加热。"
+  ],
+  "origin_note": "湘西人过年前家家做血丸子，豆腐拌猪血和肉丁，捏成球晒干或熏干。切片一煎，外焦里嫩，咸香能下三碗饭。",
+  "tags": [
+    "湖南",
+    "腊味",
+    "猪血",
+    "豆腐"
+  ],
+  "related_ids": [
+    "hunan-suanrou",
+    "nongjia-xiaochaorou",
+    "hunan-suan-doujiao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
