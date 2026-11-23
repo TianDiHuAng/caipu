@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T08:59:27.359Z
+> 生成时间：2026-11-23T09:08:00.410Z
 
-**总览**：工程任务 49/53；菜谱内容 1311/3274（40.0%），共 591 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1317/3274（40.2%），共 592 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -408,7 +408,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（745/1935）
+### 外国菜系（751/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，45/107</summary>
 
@@ -429,15 +429,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>韩国料理 korean</b> — A 级，39/107</summary>
+<details><summary><b>韩国料理 korean</b> — A 级，42/107</summary>
 
 - [ ] `P4-korean/main-meat` 主菜·肉（Meat Main）目标 15，已完成 5
 - [ ] `P4-korean/soup` 汤羹（Soup）目标 15，已完成 5
 - [ ] `P4-korean/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 6
 - [ ] `P4-korean/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 5
-- [ ] `P4-korean/snack` 小吃（Street Food）目标 15，已完成 5
-- [ ] `P4-korean/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 2
-- [ ] `P4-korean/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 1
+- [ ] `P4-korean/snack` 小吃（Street Food）目标 15，已完成 6
+- [ ] `P4-korean/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 3
+- [ ] `P4-korean/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 2
 - [ ] `P4-korean/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 2
 - [ ] `P4-korean/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 2
 - [x] `P4-korean/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 2
@@ -448,18 +448,19 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>泰国菜 thai</b> — A 级，39/107</summary>
+<details><summary><b>泰国菜 thai</b> — A 级，42/107</summary>
 
-- [ ] `P4-thai/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 5
+- [ ] `P4-thai/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 6
 - [ ] `P4-thai/soup` 汤羹（Soup）目标 15，已完成 5
 - [ ] `P4-thai/salad` 沙拉（Salad）目标 15，已完成 6
 - [ ] `P4-thai/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 5
-- [ ] `P4-thai/dessert` 甜点（Dessert）目标 15，已完成 5
+- [ ] `P4-thai/dessert` 甜点（Dessert）目标 15，已完成 6
 - [ ] `P4-thai/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 2
 - [ ] `P4-thai/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 1
 - [ ] `P4-thai/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 1
 - [ ] `P4-thai/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 4
 - [x] `P4-thai/main-meat` 主菜·肉（Meat Main）目标 0，已完成 3
+- [x] `P4-thai/drink` 饮品（Drink）目标 0，已完成 1
 - [x] `P4-thai/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1
 - [x] `P4-thai/appetizer` 前菜（Appetizer）目标 0，已完成 1
 

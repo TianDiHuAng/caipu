@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:59:27.286Z",
+  "generatedAt": "2026-11-23T09:08:00.327Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 591,
+    "cells": 592,
     "target": 3274,
-    "actual": 1311,
-    "coverage": 0.40042761148442274
+    "actual": 1317,
+    "coverage": 0.40226023213194867
   },
   "regions": {
     "cn": [
@@ -2696,7 +2696,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 42,
         "cells": [
           {
             "category": "main-meat",
@@ -2755,10 +2755,11 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "haemul-pajeon",
               "hotteok",
+              "korean-bungeoppang",
               "korean-fried-chicken",
               "korean-kimchi-jeon",
               "korean-tteokbokki"
@@ -2768,8 +2769,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "korean-gaji-namul",
               "korean-japchae",
               "korean-sigeumchi-namul"
             ]
@@ -2778,8 +2780,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "korean-egg-roll",
               "korean-gyeran-jjim"
             ]
           },
@@ -2857,18 +2860,19 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 39,
+        "actual": 42,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "larb-gai",
               "thai-cashew-chicken",
               "thai-gaeng-kari-gai",
               "thai-gai-yang",
+              "thai-garlic-pepper-chicken",
               "thai-green-curry-chicken"
             ]
           },
@@ -2916,11 +2920,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "mango-sticky-rice",
               "thai-coconut-jelly",
               "thai-coconut-sticky-rice",
+              "thai-khanom-krok",
               "thai-kluay-buad-chee",
               "thai-pumpkin-custard"
             ]
@@ -2974,6 +2979,15 @@
               "thai-gaeng-phed-moo",
               "thai-kor-moo-yang",
               "thai-pad-kra-pao"
+            ]
+          },
+          {
+            "category": "drink",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "thai-coconut-shake"
             ]
           },
           {
