@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-23T10:45:48.145Z
+> 生成时间：2026-11-23T10:58:37.736Z
 
-**总览**：工程任务 49/53；菜谱内容 1374/3274（42.0%），共 601 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1380/3274（42.2%），共 601 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -408,7 +408,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（802/1935）
+### 外国菜系（808/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，45/107</summary>
 
@@ -556,12 +556,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>马来菜 malaysian</b> — B 级，13/38</summary>
+<details><summary><b>马来菜 malaysian</b> — B 级，16/38</summary>
 
-- [ ] `P4-malaysian/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 2
-- [ ] `P4-malaysian/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 2
+- [ ] `P4-malaysian/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 3
+- [ ] `P4-malaysian/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 3
 - [ ] `P4-malaysian/soup` 汤羹（Soup）目标 6，已完成 1
-- [ ] `P4-malaysian/snack` 小吃（Street Food）目标 6，已完成 4
+- [ ] `P4-malaysian/snack` 小吃（Street Food）目标 6，已完成 5
 - [ ] `P4-malaysian/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-malaysian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-malaysian/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
@@ -733,10 +733,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>爱尔兰菜 irish</b> — C 级，13/25</summary>
+<details><summary><b>爱尔兰菜 irish</b> — C 级，16/25</summary>
 
-- [ ] `P4-irish/main-meat` 主菜·肉（Meat Main）目标 5，已完成 2
-- [ ] `P4-irish/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 2
+- [ ] `P4-irish/main-meat` 主菜·肉（Meat Main）目标 5，已完成 4
+- [ ] `P4-irish/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 3
 - [ ] `P4-irish/soup` 汤羹（Soup）目标 5，已完成 3
 - [ ] `P4-irish/breakfast` 早餐（Breakfast）目标 5，已完成 3
 - [ ] `P4-irish/drink` 饮品（Drink）目标 5，已完成 0

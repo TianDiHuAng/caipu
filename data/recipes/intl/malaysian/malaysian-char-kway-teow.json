@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "malaysian-char-kway-teow",
+  "name": {
+    "zh": "马来炒米粉",
+    "en": "Char Kway Teow"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "malaysian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 34,
+    "total_min": 49
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "umami",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "宽条泡软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 120,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两只",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "韭菜",
+          "name_en": "Chinese chives",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "鲜辣椒",
+          "name_en": "fresh chili pepper",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "米粉用温水泡二十分钟到软，捞出沥干。这一步不要着急。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡到能弯折就好，泡过头一炒就断。，注意火候。",
+      "visual_cue": "条身柔软，抖开不粘，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "虾仁去壳去肠线，用厨房纸吸干水分。这一步不要着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "虾仁吸干，下锅才不会出水。，注意火候。",
+      "visual_cue": "虾仁表面干爽，颜色透亮，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "炒锅烧到冒烟倒植物油，下蒜末和鲜辣椒碎爆香。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "锅要够热，米粉才有镬气。，注意火候。",
+      "visual_cue": "蒜末金黄，香气冲鼻，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "放虾仁大火炒到变色卷曲，盛出备用。这一步不要着急。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "虾仁先盛出，最后回锅才不老。，注意火候。",
+      "visual_cue": "虾仁表面卷曲，颜色转红，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "锅里补少许油，倒入米粉快速翻炒抖散。这一步不要着急。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "用铲子抖散，别压着炒。，注意火候。",
+      "visual_cue": "条条分明，不粘成团，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "淋酱油和蚝油翻炒到每条都染上酱色。这一步不要着急。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "酱料沿锅边淋，香气才激出来。，注意火候。",
+      "visual_cue": "颜色均匀，油光发亮，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "把米粉推到一边，打入鸡蛋炒散后拌合。这一步不要着急。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "蛋液半熟时拌合，米粉才滑。，注意火候。",
+      "visual_cue": "蛋花细碎，分布均匀，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "放回虾仁，加豆芽、韭菜和盐调味，大火翻炒三十秒出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "韭菜最后放，脆香才留得住。，注意火候。",
+      "visual_cue": "韭菜翠绿，豆芽挺直，状态稳定"
+    }
+  ],
+  "tips": [
+    "锅一定要烧到冒烟，米粉才有镬气。，值得留意。",
+    "米粉泡软就够，泡过头一炒就断。，值得留意。",
+    "韭菜最后下锅，翠绿才好看。，值得留意。"
+  ],
+  "common_mistakes": [
+    "锅不够热，米粉粘成一坨。，值得留意。",
+    "米粉泡太久，炒的时候全断。，值得留意。",
+    "一次下太多料，变成水煮米粉。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鸡胸肉",
+      "ratio": "120 克:120 克",
+      "note": "切薄片，先炒熟再回锅。"
+    },
+    {
+      "original": "米粉",
+      "substitute": "宽米粉",
+      "ratio": "250 克:250 克",
+      "note": "更宽更滑，泡的时间减半。"
+    }
+  ],
+  "variations": [
+    "加一把血蚶，鲜味更足。，值得留意。",
+    "放两片腊肠同炒，甜香更浓。，值得留意。"
+  ],
+  "serving_suggestion": "趁热装盘，配一碟参巴辣酱最够味。，效果更稳定。",
+  "storage": "冷藏一天，复热用炒锅大火快炒。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 620,
+    "protein_g": 24,
+    "fat_g": 24,
+    "carbs_g": 76,
+    "sodium_mg": 1100,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含虾仁与鸡蛋，须炒至虾仁完全变红熟透、蛋液凝固；海鲜与鸡蛋过敏者慎食；成品冷藏不超过一天。"
+  ],
+  "origin_note": "马来西亚槟城的路边招牌，宽米粉配虾仁鸡蛋和豆芽，大火快炒出焦香。关键是锅气，火猛手快，一盘炒完不到两分钟。",
+  "tags": [
+    "马来西亚",
+    "米粉",
+    "炒面",
+    "街头"
+  ],
+  "related_ids": [
+    "malaysian-mee-goreng",
+    "malaysian-laksa",
+    "malaysian-satay-chicken"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
