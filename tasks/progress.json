@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:34:06.158Z",
+  "generatedAt": "2026-11-23T09:40:57.937Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 595,
+    "cells": 596,
     "target": 3274,
-    "actual": 1329,
-    "coverage": 0.40592547342700064
+    "actual": 1335,
+    "coverage": 0.40775809407452657
   },
   "regions": {
     "cn": [
@@ -3355,7 +3355,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 41,
+        "actual": 43,
         "cells": [
           {
             "category": "main-seafood",
@@ -3468,11 +3468,21 @@
             "category": "soup",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "gazpacho",
               "spanish-gazpacho",
-              "spanish-salmorejo"
+              "spanish-salmorejo",
+              "spanish-sopa-de-ajo"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "spanish-empanada-gallega"
             ]
           },
           {
@@ -3501,16 +3511,17 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 22,
+        "actual": 26,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "pho-bo",
               "vietnamese-canh-bi",
+              "vietnamese-canh-chua-ca",
               "vietnamese-niurou-fen",
               "vietnamese-sour-soup"
             ]
@@ -3531,8 +3542,9 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "vietnamese-goi-bo",
               "vietnamese-goi-ga",
               "vietnamese-goi-tom"
             ]
@@ -3541,9 +3553,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "vietnamese-cao-lau",
+              "vietnamese-thit-kho-trung",
               "vietnamese-thit-kho"
             ]
           },
@@ -3574,9 +3587,10 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "banh-mi",
+              "vietnamese-banh-cuon",
               "vietnamese-banh-mi",
               "vietnamese-banh-xeo",
               "vietnamese-cha-gio"

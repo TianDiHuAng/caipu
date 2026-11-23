@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "vietnamese-canh-chua-ca",
+  "name": {
+    "zh": "越南酸鱼汤",
+    "en": "Canh Chua Ca"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "vietnamese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 20,
+    "total_min": 38
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "三文鱼",
+          "name_en": "salmon",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 120,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "菠萝",
+          "name_en": "pineapple",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 40,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "三文鱼切成三厘米的块，撒盐抓匀腌十分钟去腥。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "腌出表面水分，煮的时候汤才不腥。，注意火候。",
+      "visual_cue": "鱼块紧实，表面干燥，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒植物油烧热，下蒜末小火炒香后加番茄块。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "蒜先炒香打底，汤的底味才不单薄。，注意火候。",
+      "visual_cue": "蒜末微黄，香气升起，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "番茄炒到软烂出汁，加清水烧开后转小火煮五分钟。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "番茄炒透了，汤色才红亮带酸。，注意火候。",
+      "visual_cue": "汤色橙红，番茄软烂，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "放入菠萝块煮三分钟，让果酸和甜味融进汤里。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "菠萝后放，煮久了甜味会散掉。，注意火候。",
+      "visual_cue": "汤面微沸，果香明显，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "轻轻放入鱼块，小火煮六分钟，中途只推锅底不翻动。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "鱼块易碎，用推的方式防粘底。，注意火候。",
+      "visual_cue": "鱼块变白，边缘收紧，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "下豆芽煮一分钟，加鱼露和白糖调味。这一步不要着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "豆芽一断生就关火，久煮会发软。，注意火候。",
+      "visual_cue": "豆芽脆嫩，汤色清亮，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "挤入青柠汁，撒香菜碎后关火盛出。这一步不要着急。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "青柠离火加，酸香才清爽不涩。，注意火候。",
+      "visual_cue": "香气酸鲜，汤色明亮，状态稳定"
+    }
+  ],
+  "tips": [
+    "鱼块腌十分钟，煮出来的汤才不腥。，值得留意。",
+    "菠萝后放，果香和甜味才留得住。，值得留意。",
+    "青柠离火再加，酸味不涩。，值得留意。"
+  ],
+  "common_mistakes": [
+    "鱼块大火滚煮，出锅全散成碎渣。，务必避免。",
+    "豆芽久煮，吃起来又软又寡淡。，务必避免。",
+    "青柠早放，汤带一股涩味。，务必避免。"
+  ],
+  "substitutions": [
+    {
+      "original": "三文鱼",
+      "substitute": "鲈鱼",
+      "ratio": "500 克:500 克",
+      "note": "肉质更嫩，煮制时间减两分钟。"
+    },
+    {
+      "original": "菠萝",
+      "substitute": "青芒果",
+      "ratio": "150 克:150 克",
+      "note": "酸味更明显，白糖加五克。"
+    }
+  ],
+  "variations": [
+    "加几片秋葵同煮，汤汁更稠。，也很受欢迎。",
+    "放一小把薄荷叶，香气更清爽。，也很受欢迎。"
+  ],
+  "serving_suggestion": "配米饭当汤菜吃，也可以单喝一碗。，效果更稳定。",
+  "storage": "冷藏一天，复热小火加热避免鱼肉碎。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 280,
+    "protein_g": 30,
+    "fat_g": 12,
+    "carbs_g": 12,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鱼肉须煮至中心完全变白熟透；成品冷藏不超过一天，复热须彻底加热。"
+  ],
+  "origin_note": "越南湄公河三角洲的家常汤，鱼块配菠萝和番茄一起煮，酸味来自果子而不是醋。汤色橙红，喝起来酸里带甜，撒一把香菜最提神。",
+  "tags": [
+    "越南",
+    "汤",
+    "鱼",
+    "酸汤"
+  ],
+  "related_ids": [
+    "vietnamese-sour-soup",
+    "vietnamese-canh-bi",
+    "pho-bo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
