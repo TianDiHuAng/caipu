@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-baingan-bharta",
+  "name": {
+    "zh": "印度茄泥咖喱",
+    "en": "Baingan Bharta"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 30,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 700,
+          "unit": "g",
+          "note": "整只烤制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "平底锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "整只茄子洗净擦干，用叉子在表面扎十几个小孔透气。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "扎孔防止烤的时候表皮爆开，也熟得更透。",
+      "visual_cue": "表皮干爽，孔洞均匀，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "烤箱预热二百度，茄子放在烤盘上烤二十五分钟至表皮起皱。",
+      "time_min": 5,
+      "heat": "-",
+      "tip": "烤到用筷子一插就透，肉才够软糯。，注意火候。",
+      "visual_cue": "表皮焦皱，整体塌软，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "取出放凉五分钟，撕掉焦皮，把茄肉用刀背压成粗泥。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "别压太细，留些颗粒口感更有层次。，注意火候。",
+      "visual_cue": "茄肉成泥，仍带纤维，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒植物油烧热，下孜然炒到微微跳动出香。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "孜然一响香味就出来了，别炒到发黑。",
+      "visual_cue": "油面微响，香气散出，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "下洋葱碎炒到透明变软，再加蒜末和姜末炒出香味。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "姜蒜后放，久炒会发苦盖住茄子的甜。",
+      "visual_cue": "洋葱透明，香气浓郁，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "倒入番茄丁炒三分钟到出汁变软，加辣椒粉和盐炒匀。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄炒出汁，咖喱的底味才够厚不发干。",
+      "visual_cue": "番茄软烂，锅中有汁，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "倒入茄泥翻炒五分钟，让茄肉吸进汤汁变得浓稠。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "小火慢炒，茄子吸味后颜色会变深褐。",
+      "visual_cue": "茄泥浓稠，汁水收干，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "撒上香菜碎翻匀，关火装盘配烤饼或米饭上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜关火再撒，清香才留得住。，注意火候。",
+      "visual_cue": "表面翠绿，质地浓稠，状态稳定"
+    }
+  ],
+  "tips": [
+    "茄子整只烤到用筷子能插透，才好压成泥。",
+    "孜然下锅一响就放洋葱，久炒会发苦。，值得留意。",
+    "茄泥小火慢炒，水分收干味道才集中。，值得留意。"
+  ],
+  "common_mistakes": [
+    "茄子切开煎代替整只烤，水分太多成汤。",
+    "姜蒜一开始就下锅，炒糊后整锅发苦。，务必避免。",
+    "番茄没炒出汁就放茄子，成品干硬无味。"
+  ],
+  "substitutions": [
+    {
+      "original": "茄子",
+      "substitute": "长茄",
+      "ratio": "700 克:700 克",
+      "note": "皮更薄，烤制时间减五分钟。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "小米辣",
+      "ratio": "5 克:15 克",
+      "note": "辣味更冲，用量按口味调整。"
+    }
+  ],
+  "variations": [
+    "加一勺酸奶同拌，辣味更柔和。，也很受欢迎。",
+    "放少许咖喱粉，香气更复合。，也很受欢迎。"
+  ],
+  "serving_suggestion": "配热烤饼或白米饭，用勺子舀着吃最下饭。，效果更稳定。",
+  "storage": "冷藏两天，复热用平底锅小火翻炒至热透。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 180,
+    "protein_g": 4,
+    "fat_g": 12,
+    "carbs_g": 14,
+    "sodium_mg": 480,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "茄子须烤至完全软透；成品冷藏不超过两天，复热须彻底加热后食用。"
+  ],
+  "origin_note": "印度旁遮普一带的家常菜，整只茄子直接烤到表皮焦黑，撕掉外皮压成泥再和番茄洋葱同炒。烟熏味混着孜然香，配烤饼一口就吃出乡村味道。",
+  "tags": [
+    "印度",
+    "茄子",
+    "咖喱",
+    "素食"
+  ],
+  "related_ids": [
+    "aloo-gobi",
+    "chana-masala",
+    "indian-palak-paneer"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

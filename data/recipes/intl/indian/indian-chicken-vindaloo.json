@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-chicken-vindaloo",
+  "name": {
+    "zh": "印度酸辣鸡",
+    "en": "Chicken Vindaloo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 50,
+    "total_min": 75
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "sour",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 750,
+          "unit": "g",
+          "note": "去骨切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 50,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "碗",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿去掉骨头切成三厘米见方的块，用清水冲净沥干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "块切得均匀，炖的时候熟度才一致。，注意火候。",
+      "visual_cue": "肉块方正，表面干净，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "鸡块加白醋、一半辣椒粉和一半蒜末姜末抓匀腌二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "醋能软化肉质，也让酸辣味渗进肉里。",
+      "visual_cue": "鸡块裹料，颜色发红，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧热，下洋葱碎中火炒到边缘微焦。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒到发褐，咖喱的甜味和颜色都来源这步。",
+      "visual_cue": "洋葱焦边，颜色深褐，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "加剩余蒜末姜末和辣椒粉，小火炒三十秒炒出香气。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "辣椒粉容易糊，小火快炒出红油就够。",
+      "visual_cue": "油色发红，香气冲鼻，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "倒入番茄丁炒到完全软烂出汁，锅里的底料变得浓稠。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒化后咖喱才挂得住肉块，不发散。",
+      "visual_cue": "番茄成糊，锅底浓稠，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "放入鸡块翻炒均匀，让每块肉都裹上一层红色酱料。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "先翻匀再加水，味才挂得均匀。，注意火候。",
+      "visual_cue": "鸡块红亮，裹满酱，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "加盐和半碗清水，盖盖小火炖十八分钟至鸡肉软嫩。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "小火慢炖肉才嫩，大火会让肉发柴。，注意火候。",
+      "visual_cue": "汤汁微沸，香气浓厚，状态稳定"
+    },
+    {
+      "n": 8,
+      "text": "开盖收汁到浓稠挂勺，撒香菜碎后配米饭上桌。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "收到能挂住勺背就好，太干会咸。，注意火候。",
+      "visual_cue": "汁浓红亮，油光浮动，状态稳定"
+    }
+  ],
+  "tips": [
+    "鸡块用醋腌二十分钟，肉质更软也入味。",
+    "洋葱炒到微焦，颜色和甜味全靠这一步。",
+    "辣椒粉小火快炒，炒糊整锅会发苦。，值得留意。"
+  ],
+  "common_mistakes": [
+    "洋葱没炒透就下番茄，成品颜色发白发浅。",
+    "炖的时间太短，鸡肉咬开还带血丝。，务必避免。",
+    "收汁过头，酱料咸得没法下口。，务必避免。"
+  ],
+  "substitutions": [
+    {
+      "original": "白醋",
+      "substitute": "米醋",
+      "ratio": "50 毫升:50 毫升",
+      "note": "酸味更柔和，用量可加十毫升。"
+    },
+    {
+      "original": "鸡腿",
+      "substitute": "鸡胸肉",
+      "ratio": "750 克:700 克",
+      "note": "炖制时间减五分钟，避免发柴。"
+    }
+  ],
+  "variations": [
+    "加两个土豆块同炖，酱汁更稠更顶饱。，也很受欢迎。",
+    "放一小块黄油收尾，辣味变得圆润。，也很受欢迎。"
+  ],
+  "serving_suggestion": "配印度烤饼或香米饭，把红亮的酱汁浇在饭上。",
+  "storage": "冷藏两天，复热加少量清水小火炖透。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 280 克",
+    "calories_kcal": 420,
+    "protein_g": 36,
+    "fat_g": 26,
+    "carbs_g": 12,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须炖至中心完全熟透，不得带血水；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "源自葡萄牙人在果阿带来的做法，用醋和大量辣椒把肉腌透再慢炖。酸味先到，辣味随后追上来，酱汁红亮浓稠，是印度菜里最够劲的一道。",
+  "tags": [
+    "印度",
+    "鸡肉",
+    "咖喱",
+    "辣味"
+  ],
+  "related_ids": [
+    "indian-chicken-curry",
+    "indian-butter-chicken",
+    "indian-naan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}

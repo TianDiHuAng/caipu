@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:44:25.192Z",
+  "generatedAt": "2026-11-23T08:48:23.842Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 591,
     "target": 3274,
-    "actual": 1293,
-    "coverage": 0.39492974954184484
+    "actual": 1299,
+    "coverage": 0.3967623701893708
   },
   "regions": {
     "cn": [
@@ -3324,18 +3324,19 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 36,
+        "actual": 39,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "bacalao-al-pil-pil",
               "gambas-al-ajillo",
               "merluza-a-la-vasca",
               "pulpo-a-la-gallega",
+              "spanish-bacalao-al-horno",
               "spanish-gambas-al-ajillo",
               "spanish-paella"
             ]
@@ -3344,12 +3345,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "calamares-fritos",
               "champinones-al-ajillo",
               "spanish-almejas-vino-blanco",
               "spanish-gambas-al-ajillo",
+              "spanish-pan-con-tomate",
               "spanish-patatas-bravas",
               "tortilla-espanola"
             ]
@@ -3371,11 +3373,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "churros",
               "flan",
               "spanish-arroz-con-leche",
+              "spanish-bizcocho",
               "spanish-polvorones",
               "tarta-de-santiago"
             ]
@@ -3976,17 +3979,18 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 34,
+        "actual": 37,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "aloo-gobi",
               "aloo-palak",
               "chana-masala",
+              "indian-baingan-bharta",
               "indian-palak-paneer",
               "palak-paneer"
             ]
@@ -3995,12 +3999,13 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "butter-chicken",
               "indian-butter-chicken",
               "indian-chicken-curry",
               "indian-chicken-tikka-masala",
+              "indian-chicken-vindaloo",
               "indian-palak-chicken",
               "indian-tandoori-chicken"
             ]
@@ -4009,10 +4014,11 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "aloo-paratha",
               "indian-naan",
+              "indian-roti",
               "naan",
               "puri"
             ]
