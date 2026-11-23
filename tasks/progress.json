@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T12:25:58.568Z",
+  "generatedAt": "2026-11-23T12:36:12.146Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 602,
     "target": 3274,
-    "actual": 1416,
-    "coverage": 0.4324984728161271
+    "actual": 1422,
+    "coverage": 0.434331093463653
   },
   "regions": {
     "cn": [
@@ -1179,21 +1179,23 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 49,
+        "actual": 55,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
               "anhui-banli-shaorou",
               "anhui-fenzheng-rou",
               "anhui-huangshan-shao-sun",
               "anhui-meigancai-kourou",
               "huizhou-daobanxiang",
+              "huizhou-fenzheng-paigu",
               "huizhou-hongshao-zhuti",
               "huizhou-hongshaorou",
+              "huizhou-jiangya",
               "yipin-guo"
             ]
           },
@@ -1201,12 +1203,13 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "anhui-jiaobai-chaorou",
               "anhui-yancai-chao-dougan",
               "huizhou-dongsun-chao-xianggu",
               "huizhou-meigancai-shao-doujiao",
+              "huizhou-xianggu-youcai",
               "huizhou-yancai-shao-doufu",
               "huotui-shao-sun",
               "qingchao-luhao",
@@ -1218,12 +1221,14 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 9,
             "ids": [
               "anhui-dongsun-xianrou-tang",
               "anhui-doufu-geng-tang",
               "anhui-xuecai-rousi-tang",
               "huainan-niurou-tang",
+              "huizhou-donggua-xianrou-tang",
+              "huizhou-doufu-zhu-xue-tang",
               "huizhou-huotui-tang",
               "huizhou-yao-tang",
               "wenzheng-shansun-tang"
@@ -1246,7 +1251,7 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "huizhou-baofu-jiao",
               "huizhou-baolu-guo",
@@ -1254,7 +1259,8 @@
               "huizhou-meigancai-bing",
               "huizhou-shaobing",
               "huizhou-shitouguo",
-              "huizhou-taguo"
+              "huizhou-taguo",
+              "huizhou-zhima-bing"
             ]
           },
           {

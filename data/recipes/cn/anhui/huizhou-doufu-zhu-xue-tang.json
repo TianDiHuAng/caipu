@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huizhou-doufu-zhu-xue-tang",
+  "name": {
+    "zh": "徽州豆腐猪血汤",
+    "en": "Tofu and Pork Blood Soup",
+    "original": "豆腐猪血汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪血",
+          "name_en": "pork blood",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "韭黄",
+          "name_en": "yellow chives",
+          "amount": 50,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 3,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 12,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪血切两厘米块，冷水下锅焯三分钟。这一步别着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "冷水下锅，血块才不散。，注意火候。",
+      "visual_cue": "血块收紧，汤水微浑，状态稳定"
+    },
+    {
+      "n": 2,
+      "text": "捞出过凉水，洗去表面浮沫备用。这一步别着急。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "过凉水血块更紧实。，注意火候。",
+      "visual_cue": "血块光滑，无碎屑，状态稳定"
+    },
+    {
+      "n": 3,
+      "text": "豆腐切同样大小的块，用淡盐水泡五分钟。这一步别着急。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "盐水泡过，煮的时候不易碎。，注意火候。",
+      "visual_cue": "豆腐挺实，边缘完整，状态稳定"
+    },
+    {
+      "n": 4,
+      "text": "汤锅倒植物油，下姜丝和干辣椒段炒香。这一步别着急。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "辣椒炒香但别炒黑。，注意火候。",
+      "visual_cue": "姜丝微卷，辣香散出，状态稳定"
+    },
+    {
+      "n": 5,
+      "text": "倒入清水大火烧开，放猪血块煮五分钟。这一步别着急。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "水开再下血块，汤才清。，注意火候。",
+      "visual_cue": "血块浮起，汤面微沸，状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "放豆腐块转中火煮五分钟，别大力搅动。这一步别着急。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "用勺子背推，豆腐才不破。，注意火候。",
+      "visual_cue": "豆腐完整，汤色微白，状态稳定"
+    },
+    {
+      "n": 7,
+      "text": "加盐和白胡椒粉调味，放韭黄段烫三十秒。这一步别着急。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "韭黄最后放，香气才留得住。，注意火候。",
+      "visual_cue": "韭黄转深绿，汤面浮油"
+    },
+    {
+      "n": 8,
+      "text": "淋上香油就出锅，趁热喝最暖，胡椒的辛香会慢慢散开。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香油最后淋，香味才不散。，注意火候。",
+      "visual_cue": "汤面泛亮，胡椒暖香，状态稳定"
+    }
+  ],
+  "tips": [
+    "猪血冷水下锅焯，块才不散。，值得留意。",
+    "豆腐用盐水泡过，煮时不易碎。，值得留意。",
+    "韭黄最后放，烫三十秒就够。，值得留意。"
+  ],
+  "common_mistakes": [
+    "血块热水下锅，一下锅就碎。，值得留意。",
+    "大火翻滚，豆腐全成渣。，值得留意。",
+    "韭黄煮久，颜色发黄发苦。，值得留意。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪血",
+      "substitute": "鸭血",
+      "ratio": "300 克:300 克",
+      "note": "更嫩，焯水时间缩短一分钟。"
+    },
+    {
+      "original": "韭黄",
+      "substitute": "小葱",
+      "ratio": "50 克:40 克",
+      "note": "香气弱一些，用量可略多。"
+    }
+  ],
+  "variations": [
+    "加一把粉丝，做成血旺粉丝汤。，值得留意。",
+    "放一勺辣椒油，辣味更直接。，值得留意。"
+  ],
+  "serving_suggestion": "配米饭或烧饼，冬天喝最暖。，效果更稳定。",
+  "storage": "冷藏一天，复热须彻底煮开。，效果更稳定。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 180,
+    "protein_g": 18,
+    "fat_g": 9,
+    "carbs_g": 6,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪血须彻底煮熟透、中心无生血色；含大豆制品，过敏者慎食；成品冷藏不超过一天，复热须滚开。"
+  ],
+  "origin_note": "徽州杀年猪时血不浪费，凝成块和豆腐同煮。汤里撒点胡椒和韭黄，热腾腾一碗，配烧饼就是一顿。家常做法并不复杂，关键是火候和耐心。",
+  "tags": [
+    "安徽",
+    "汤",
+    "猪血",
+    "豆腐"
+  ],
+  "related_ids": [
+    "anhui-doufu-geng-tang",
+    "huizhou-donggua-xianrou-tang",
+    "anhui-yancai-chao-dougan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-23",
+  "updated_at": "2026-11-23"
+}
