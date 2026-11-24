@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:38:06.510Z",
+  "generatedAt": "2026-11-24T05:57:02.293Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 636,
     "target": 3274,
-    "actual": 1745,
-    "coverage": 0.5329871716554673
+    "actual": 1751,
+    "coverage": 0.5348197923029933
   },
   "regions": {
     "cn": [
@@ -5401,28 +5401,32 @@
         "en": "Irish",
         "tier": "C",
         "target": 25,
-        "actual": 16,
+        "actual": 22,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "irish-bacon-and-cabbage",
               "irish-beef-stew",
               "irish-cottage-pie",
-              "irish-lamb-stew"
+              "irish-dublin-coddle",
+              "irish-lamb-stew",
+              "irish-steak-pie"
             ]
           },
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "irish-boxty",
               "irish-brown-bread",
+              "irish-oat-cakes",
+              "irish-potato-bread",
               "irish-soda-bread"
             ]
           },
@@ -5430,10 +5434,11 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "irish-beef-stew",
               "irish-cullen-skink",
+              "irish-potato-soup",
               "irish-seafood-chowder"
             ]
           },
@@ -5459,8 +5464,9 @@
             "category": "main-vegetable",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "irish-champ",
               "irish-colcannon"
             ]
           },

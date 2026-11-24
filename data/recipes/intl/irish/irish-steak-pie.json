@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "irish-steak-pie",
+  "name": {
+    "zh": "爱尔兰黑啤牛腱派",
+    "en": "Steak and Ale Pie",
+    "original": "Steak and Ale Pie"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "irish"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 141,
+    "total_min": 166
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腱",
+          "name_en": "beef shank",
+          "amount": 800,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "派皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "啤酒",
+          "name_en": "beer",
+          "amount": 400,
+          "unit": "ml",
+          "note": "炖制",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 100,
+          "unit": "g",
+          "note": "派皮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炖制",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "刷面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "派盘",
+    "擀面杖",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腱切三厘米块，用盐和黑胡椒抓匀。，份量心里有数，咸淡才好把握。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "块别太小，炖久才不散。，手法轻些，颜色才够亮。",
+      "visual_cue": "块形方正，表面沾盐，时间掐准，火候才均匀。"
+    },
+    {
+      "n": 2,
+      "text": "炖锅倒植物油，大火把牛腱煎上色。，份量心里有数，口感才不散。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "煎出焦色，味道才厚。，别用力搅，风味才干净。",
+      "visual_cue": "表面深褐，锅底有焦痕，别用力搅，成品才好看。"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱和蒜末炒软，加胡萝卜翻匀。，先试试温度，吃口才舒服。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒透，汤才甜。，先试试温度，口感才不发柴。",
+      "visual_cue": "洋葱透明，香气升起，料别一次下太多，形状才完整。"
+    },
+    {
+      "n": 4,
+      "text": "倒啤酒和清水，煮开后转小火。，慢慢来别急，锅气才足。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "啤酒先冒泡，苦味才散。，翻动放轻，整道菜才立得住。",
+      "visual_cue": "液面翻滚，泡沫消退，火别太大，香气才不跑。"
+    },
+    {
+      "n": 5,
+      "text": "盖盖炖一小时，炖到牛腱变软。，时间掐准，味道才进得去。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "小火慢炖，肉才酥。，盖盖焖一会儿，食材才不糊。",
+      "visual_cue": "肉块松软，筷子能穿，份量心里有数，火候才均匀。"
+    },
+    {
+      "n": 6,
+      "text": "开盖收汁，尝味补盐，放凉备用。，先试试温度，锅气才足。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "馅要稠，派才不漏。，顺序照着来，咸淡才好把握。",
+      "visual_cue": "汤汁浓稠，能挂勺，保持小火，锅气才足。"
+    },
+    {
+      "n": 7,
+      "text": "面粉加黄油搓成粗砂，加冷水揉成团。，起锅前尝味，成品才稳当。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "黄油要冷，派皮才酥。，顺序照着来，成品才好看。",
+      "visual_cue": "面团光滑，手感凉，手法轻些，味道才进得去。"
+    },
+    {
+      "n": 8,
+      "text": "面团擀开，铺进派盘压边，留一片盖面。，时间掐准，锅气才足。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "边要压实，烤时才不缩。，别急着加油，颜色才够亮。",
+      "visual_cue": "派皮贴合，边缘整齐，手法轻些，成品才好看。"
+    },
+    {
+      "n": 9,
+      "text": "填入牛腱馅，盖上派皮，刷蛋液划口。，汤汁别收太干，锅气才足。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "划两道口，蒸汽才出得来。，份量心里有数，口感才不发柴。",
+      "visual_cue": "表面平整，刀口清晰，起锅前尝味，吃口才舒服。"
+    },
+    {
+      "n": 10,
+      "text": "烤箱两百度烤三十五分钟到金黄。，份量心里有数，味道才进得去。",
+      "time_min": 37,
+      "heat": "无火",
+      "tip": "烤到表面金黄，馅才热透。，留意锅底，口感才不发柴。",
+      "visual_cue": "表皮金黄，边缘起酥，动作放连贯，咸淡才好把握。"
+    }
+  ],
+  "tips": [
+    "牛腱先煎上色，味道才厚。，汤汁别收太干，口感才不散。",
+    "馅要收稠，烤时才不漏。，时间掐准，表面才漂亮。",
+    "派皮划口，蒸汽才出得来。，锅温要匀，细节才到位。"
+  ],
+  "common_mistakes": [
+    "牛腱不煎直接炖，味道发淡。，动作放连贯，香气才留得住。",
+    "馅太稀，烤完底皮湿软。，留意锅底，成品才好看。",
+    "不划口，派皮鼓包裂开。，留意锅底，风味才干净。"
+  ],
+  "substitutions": [
+    {
+      "original": "啤酒",
+      "substitute": "清水",
+      "ratio": "400 毫升:400 毫升",
+      "note": "风味变清淡，可加一勺酱油提味。"
+    },
+    {
+      "original": "牛腱",
+      "substitute": "牛腩",
+      "ratio": "800 克:800 克",
+      "note": "更油润，炖制时间减十分钟。"
+    }
+  ],
+  "variations": [
+    "加蘑菇片，鲜味更足。，份量心里有数，锅气才足。",
+    "加一点百里香，香气更草本。，别急着加油，口感才不发柴。"
+  ],
+  "serving_suggestion": "切块配土豆泥和青豆。，火别太大，成品才好看。",
+  "storage": "冷藏两天，复热用烤箱。，火别太大，口感才有层次。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 780,
+    "protein_g": 42,
+    "fat_g": 42,
+    "carbs_g": 48,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质、乳制品与蛋类，过敏者慎食；牛腱须炖至软烂熟透；烤箱与派盘高温，取出时须垫厚布并注意防止烫伤。"
+  ],
+  "origin_note": "爱尔兰酒馆的经典，牛腱在黑啤里炖到酥，盖一层酥皮烤到金黄。切开时热气直冒。，留意锅底，味道才不闷。，下手别慌，吃口才舒服。",
+  "tags": [
+    "爱尔兰",
+    "牛腱",
+    "啤酒",
+    "烤制"
+  ],
+  "related_ids": [
+    "irish-beef-stew",
+    "irish-cottage-pie",
+    "irish-fish-pie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
