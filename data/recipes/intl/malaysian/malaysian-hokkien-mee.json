@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "malaysian-hokkien-mee",
+  "name": {
+    "zh": "福建炒面",
+    "en": "Hokkien Mee",
+    "original": "Hokkien Mee"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "malaysian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 24,
+    "total_min": 39
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 500,
+          "unit": "g",
+          "note": "粗面",
+          "optional": false
+        },
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 250,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "带肥",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "焖制",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "掐根",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面条先焯水两分钟，捞出沥干。，别用力搅，颜色才够亮。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "先焯一下，炒时才不粘连。，别急着加油，口感才不散。",
+      "visual_cue": "面条散开，表面微亮，翻动放轻，细节才到位。"
+    },
+    {
+      "n": 2,
+      "text": "虾去壳留尾，用盐抓洗一遍。，别用力搅，口感才有层次。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "抓洗一下，虾才不腥。，手法轻些，味道才进得去。",
+      "visual_cue": "虾身透亮，壳已去净，火别太大，颜色才够亮。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，中火炒蒜末。，手法轻些，口感才不发柴。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蒜末别炒焦，发苦就毁了。，慢慢来别急，形状才完整。",
+      "visual_cue": "蒜末微黄，香气升起，锅温要匀，形状才完整。"
+    },
+    {
+      "n": 4,
+      "text": "下猪肉末炒散，炒到出油发香。，火别太大，味道才不闷。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "炒出油，面才香。，慢慢来别急，食材才不糊。",
+      "visual_cue": "肉末焦黄，锅底见油，先试试温度，咸淡才好把握。"
+    },
+    {
+      "n": 5,
+      "text": "加虾仁翻炒到变色卷起。，料别一次下太多，颜色才够亮。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "虾变色就够，久了发柴。，手法轻些，口感才有层次。",
+      "visual_cue": "虾身卷曲，颜色转红，汤汁别收太干，食材才不糊。"
+    },
+    {
+      "n": 6,
+      "text": "下面条，加浓口酱油和蚝油翻匀。，下手别慌，成品才稳当。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "大火快炒，面才够香。，别急着加油，火候才均匀。",
+      "visual_cue": "面条上色，颗颗分明，份量心里有数，食材才不糊。"
+    },
+    {
+      "n": 7,
+      "text": "倒清水，盖盖焖三分钟收汁。，盖盖焖一会儿，口感才不发柴。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "焖一下，面才吸进味道。，先试试温度，香气才不跑。",
+      "visual_cue": "汤汁收干，面身发亮，时间掐准，成品才稳当。"
+    },
+    {
+      "n": 8,
+      "text": "下豆芽和小葱段，撒黑胡椒翻两下。，顺序照着来，香气才不跑。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "豆芽最后下，脆口才在。，时间掐准，细节才到位。",
+      "visual_cue": "豆芽挺立，葱段翠绿，份量心里有数，成品才稳当。"
+    }
+  ],
+  "tips": [
+    "面条先焯水，炒时才不结块。，份量心里有数，味道才不闷。",
+    "大火快炒，锅气才足。，盖盖焖一会儿，形状才完整。",
+    "豆芽最后下，脆口才留得住。，翻动放轻，口感才有层次。"
+  ],
+  "common_mistakes": [
+    "面没焯水，下锅粘成一团。，火别太大，吃口才舒服。",
+    "火太小，面出水发软。，别急着加油，吃口才舒服。",
+    "虾炒太久，肉发柴。，份量心里有数，吃口才舒服。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "河粉",
+      "ratio": "500 克:500 克",
+      "note": "更宽更滑，焖制时间减一分钟。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "鸡腿肉",
+      "ratio": "150 克:150 克",
+      "note": "切丝替代，炒制时间加两分钟。"
+    }
+  ],
+  "variations": [
+    "加一点猪油，香气更足。，火别太大，口感才有层次。",
+    "加辣椒酱，味道更冲。，下手别慌，整道菜才立得住。"
+  ],
+  "serving_suggestion": "盛盘配酸柑和辣椒酱。，起锅前尝味，整道菜才立得住。",
+  "storage": "冷藏一天，复热用炒锅。，锅温要匀，成品才好看。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 520,
+    "protein_g": 26,
+    "fat_g": 20,
+    "carbs_g": 58,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含甲壳类（虾）、大豆与麸质（酱油、蚝油、面条），过敏者慎食；虾与猪肉须彻底炒熟，虾身卷曲变红、肉末无粉色；大火炒制油易溅，注意防止烫伤。"
+  ],
+  "origin_note": "马来西亚大排档的招牌面，粗面吸足酱色，虾和猪肉末一起炒。锅气重，端上来还滋滋响。，留意锅底，风味才干净。",
+  "tags": [
+    "马来西亚",
+    "面条",
+    "虾",
+    "炒制"
+  ],
+  "related_ids": [
+    "malaysian-char-kway-teow",
+    "malaysian-mee-goreng",
+    "malaysian-laksa"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
