@@ -1,251 +1,251 @@
 {
- "schema_version": "1.0",
- "content_version": 1,
- "id": "turkish-adana-kebab",
- "name": {
-  "zh": "阿达纳烤肉串",
-  "en": "Adana Kebab",
-  "original": "Adana Kebap"
- },
- "cuisine": {
-  "region": "intl",
-  "style": "turkish"
- },
- "category": [
-  "main-meat"
- ],
- "difficulty": 2,
- "time": {
-  "prep_min": 30,
-  "cook_min": 93,
-  "total_min": 123
- },
- "servings": 3,
- "flavor": [
-  "savory",
-  "spicy",
-  "smoky"
- ],
- "ingredients": [
-  {
-   "group": "main",
-   "items": [
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "turkish-adana-kebab",
+  "name": {
+    "zh": "阿达纳烤肉串",
+    "en": "Adana Kebab",
+    "original": "Adana Kebap"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "turkish"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 93,
+    "total_min": 123
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "smoky"
+  ],
+  "ingredients": [
     {
-     "name": "羊肉",
-     "name_en": "lamb",
-     "amount": 700,
-     "unit": "g",
-     "note": "取羊腿肉",
-     "optional": false
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 700,
+          "unit": "g",
+          "note": "取羊腿肉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "擦成泥",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 8,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "抹手",
+          "optional": false
+        }
+      ]
     }
-   ]
-  },
-  {
-   "group": "aux",
-   "items": [
+  ],
+  "equipment": [
+    "刀",
+    "砧板",
+    "大碗",
+    "烤签",
+    "烤架",
+    "保鲜膜"
+  ],
+  "steps": [
     {
-     "name": "洋葱",
-     "name_en": "onion",
-     "amount": 120,
-     "unit": "g",
-     "note": "擦成泥",
-     "optional": false
+      "n": 1,
+      "text": "羊肉剔掉筋膜，切成小块放冰箱冷冻二十分钟。，看住火，别让它失控。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "冻硬一点，剁起来才不散。，全程留意火候，别贪快。",
+      "visual_cue": "肉块硬挺，边缘微白"
     },
     {
-     "name": "辣椒粉",
-     "name_en": "chili powder",
-     "amount": 10,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 2,
+      "text": "洋葱擦成细泥，用纱布挤掉一半水分。，火大了就离锅远一点。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洋葱水太多，肉团挂不住签。，火别开太大，稳着来。",
+      "visual_cue": "洋葱泥浓稠，汁水滤出"
     },
     {
-     "name": "红椒粉",
-     "name_en": "paprika",
-     "amount": 8,
-     "unit": "g",
-     "note": "上色",
-     "optional": false
+      "n": 3,
+      "text": "羊肉用刀剁成细粒，颗粒要均匀。，锅温要匀，别忽高忽低。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "别用料理机，打成糊就没嚼劲。，火力保持中等，慢慢来。",
+      "visual_cue": "羊肉粒细匀，微微发黏"
     },
     {
-     "name": "孜然",
-     "name_en": "cumin",
-     "amount": 5,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 4,
+      "text": "羊肉粒里加洋葱泥、辣椒粉、红椒粉、孜然、盐和黑胡椒。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "调料先混匀再上手，味道才一致。，火候宁小勿大，慢慢推进。",
+      "visual_cue": "肉团泛红，香料均匀"
     },
     {
-     "name": "盐",
-     "name_en": "salt",
-     "amount": 6,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 5,
+      "text": "用手揉捏十分钟，到肉团起胶发黏。，注意锅里温度别掉下来。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "揉到发黏，烤的时候才不掉。，始终中小火，别心急。",
+      "visual_cue": "肉团成团，掌心挂丝"
     },
     {
-     "name": "黑胡椒",
-     "name_en": "black pepper",
-     "amount": 3,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 6,
+      "text": "盖保鲜膜冷藏半小时，让味道进肉里。，火要均匀，食材才不糊。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "冷藏定型，串签才不塌。，看住火，别让它失控。",
+      "visual_cue": "肉团紧实，按压回弹"
     },
     {
-     "name": "橄榄油",
-     "name_en": "olive oil",
-     "amount": 30,
-     "unit": "ml",
-     "note": "抹手",
-     "optional": false
+      "n": 7,
+      "text": "手上抹橄榄油，把肉团捏成长条压上烤签，捏出波浪纹。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "一边捏一边压，厚薄要匀。，全程留意火候，别贪快。",
+      "visual_cue": "肉条平整，指痕成纹"
+    },
+    {
+      "n": 8,
+      "text": "烤架烧到高温，肉串离火十厘米烤十二分钟。，火大了就离锅远一点。",
+      "time_min": 14,
+      "heat": "中大火",
+      "tip": "高温快烤，表面焦香里面多汁。，火别开太大，稳着来。",
+      "visual_cue": "表面焦褐，油脂滴落"
+    },
+    {
+      "n": 9,
+      "text": "翻面再烤六分钟，按压无血水即可。，锅温要匀，别忽高忽低。",
+      "time_min": 7,
+      "heat": "中大火",
+      "tip": "按压不冒血水就熟了。，火力保持中等，慢慢来。",
+      "visual_cue": "肉串紧实，油光微亮"
+    },
+    {
+      "n": 10,
+      "text": "出炉静置三分钟，配洋葱丝和烤饼上桌。，火候宁小勿大，慢慢推进。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "静置让肉汁回流，切开不流失。，注意锅里温度别掉下来。",
+      "visual_cue": "切面多汁，香气冲鼻"
     }
-   ]
-  }
- ],
- "equipment": [
-  "刀",
-  "砧板",
-  "大碗",
-  "烤签",
-  "烤架",
-  "保鲜膜"
- ],
- "steps": [
-  {
-   "n": 1,
-   "text": "羊肉剔掉筋膜，切成小块放冰箱冷冻二十分钟。，火候要稳，别忽大忽小。",
-   "time_min": 22,
-   "heat": "无火",
-   "tip": "冻硬一点，剁起来才不散。，火候要稳，别忽大忽小。",
-   "visual_cue": "肉块硬挺，边缘微白"
+  ],
+  "tips": [
+    "羊肉冻硬再剁，颗粒才匀。，别嫌麻烦，做完它。",
+    "洋葱泥要挤水，否则肉团散。，这一步别省。",
+    "揉到起胶，烤的时候才不脱落。，别跳过这步。"
+  ],
+  "common_mistakes": [
+    "用料理机打肉，口感发糊。，这步最关键。",
+    "洋葱水没挤，串签就往下掉。，很多人在这里出错。",
+    "火太小慢烤，肉又干又硬。，这里最容易翻车。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "700 克:700 克",
+      "note": "牛肉瘦，需多加三十毫升橄榄油。"
+    }
+  ],
+  "variations": [
+    "加一勺番茄膏，颜色更红亮。，别小看这一步。",
+    "配烤青椒和番茄一起吃。，成败就在这一步。"
+  ],
+  "serving_suggestion": "配薄饼、洋葱丝和烤青椒，卷起来吃。",
+  "storage": "冷藏两天，复热用平底锅干煎。，这点要注意。",
+  "nutrition_estimate": {
+    "basis": "每份约 250 克",
+    "calories_kcal": 560,
+    "protein_g": 38,
+    "fat_g": 42,
+    "carbs_g": 6,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
-  {
-   "n": 2,
-   "text": "洋葱擦成细泥，用纱布挤掉一半水分。，火候要稳，别忽大忽小。",
-   "time_min": 8,
-   "heat": "无火",
-   "tip": "洋葱水太多，肉团挂不住签。，火候要稳，别忽大忽小。",
-   "visual_cue": "洋葱泥浓稠，汁水滤出"
-  },
-  {
-   "n": 3,
-   "text": "羊肉用刀剁成细粒，颗粒要均匀。，火候要稳，别忽大忽小。",
-   "time_min": 10,
-   "heat": "无火",
-   "tip": "别用料理机，打成糊就没嚼劲。，火候要稳，别忽大忽小。",
-   "visual_cue": "羊肉粒细匀，微微发黏"
-  },
-  {
-   "n": 4,
-   "text": "羊肉粒里加洋葱泥、辣椒粉、红椒粉、孜然、盐和黑胡椒。",
-   "time_min": 5,
-   "heat": "无火",
-   "tip": "调料先混匀再上手，味道才一致。，火候要稳，别忽大忽小。",
-   "visual_cue": "肉团泛红，香料均匀"
-  },
-  {
-   "n": 5,
-   "text": "用手揉捏十分钟，到肉团起胶发黏。，火候要稳，别忽大忽小。",
-   "time_min": 11,
-   "heat": "无火",
-   "tip": "揉到发黏，烤的时候才不掉。，火候要稳，别忽大忽小。",
-   "visual_cue": "肉团成团，掌心挂丝"
-  },
-  {
-   "n": 6,
-   "text": "盖保鲜膜冷藏半小时，让味道进肉里。，火候要稳，别忽大忽小。",
-   "time_min": 32,
-   "heat": "无火",
-   "tip": "冷藏定型，串签才不塌。，火候要稳，别忽大忽小。",
-   "visual_cue": "肉团紧实，按压回弹"
-  },
-  {
-   "n": 7,
-   "text": "手上抹橄榄油，把肉团捏成长条压上烤签，捏出波浪纹。",
-   "time_min": 8,
-   "heat": "无火",
-   "tip": "一边捏一边压，厚薄要匀。，火候要稳，别忽大忽小。",
-   "visual_cue": "肉条平整，指痕成纹"
-  },
-  {
-   "n": 8,
-   "text": "烤架烧到高温，肉串离火十厘米烤十二分钟。，火候要稳，别忽大忽小。",
-   "time_min": 14,
-   "heat": "中大火",
-   "tip": "高温快烤，表面焦香里面多汁。，火候要稳，别忽大忽小。",
-   "visual_cue": "表面焦褐，油脂滴落"
-  },
-  {
-   "n": 9,
-   "text": "翻面再烤六分钟，按压无血水即可。，火候要稳，别忽大忽小。",
-   "time_min": 7,
-   "heat": "中大火",
-   "tip": "按压不冒血水就熟了。，火候要稳，别忽大忽小。",
-   "visual_cue": "肉串紧实，油光微亮"
-  },
-  {
-   "n": 10,
-   "text": "出炉静置三分钟，配洋葱丝和烤饼上桌。，火候要稳，别忽大忽小。",
-   "time_min": 3,
-   "heat": "无火",
-   "tip": "静置让肉汁回流，切开不流失。，火候要稳，别忽大忽小。",
-   "visual_cue": "切面多汁，香气冲鼻"
-  }
- ],
- "tips": [
-  "羊肉冻硬再剁，颗粒才匀。，这一点很关键。",
-  "洋葱泥要挤水，否则肉团散。，这一点很关键。",
-  "揉到起胶，烤的时候才不脱落。，这一点很关键。"
- ],
- "common_mistakes": [
-  "用料理机打肉，口感发糊。，这一点很关键。",
-  "洋葱水没挤，串签就往下掉。，这一点很关键。",
-  "火太小慢烤，肉又干又硬。，这一点很关键。"
- ],
- "substitutions": [
-  {
-   "original": "羊肉",
-   "substitute": "牛肉",
-   "ratio": "700 克:700 克",
-   "note": "牛肉瘦，需多加三十毫升橄榄油。"
-  }
- ],
- "variations": [
-  "加一勺番茄膏，颜色更红亮。，这一点很关键。",
-  "配烤青椒和番茄一起吃。，这一点很关键。"
- ],
- "serving_suggestion": "配薄饼、洋葱丝和烤青椒，卷起来吃。",
- "storage": "冷藏两天，复热用平底锅干煎。，这一点很关键。",
- "nutrition_estimate": {
-  "basis": "每份约 250 克",
-  "calories_kcal": 560,
-  "protein_g": 38,
-  "fat_g": 42,
-  "carbs_g": 6,
-  "sodium_mg": 880,
-  "is_estimate": true,
-  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
- },
- "allergens": [],
- "diet_tags": [],
- "food_safety_notes": [
-  "羊肉须烤至中心完全变色、无血水渗出；生肉接触过的刀板须彻底清洗；成品冷藏不超过两天，复热须彻底加热至中心熟透。"
- ],
- "origin_note": "土耳其阿达纳城的招牌烤肉，羊肉剁碎后加洋葱泥和辣椒，捏在宽签上烤。脂肪滴在炭火上冒烟，肉带着一股焦香。",
- "tags": [
-  "土耳其",
-  "烤肉",
-  "羊肉",
-  "烧烤"
- ],
- "related_ids": [
-  "turkish-kofta",
-  "turkish-lahmacun",
-  "turkish-ezme"
- ],
- "image_url": null,
- "image_credit": null,
- "status": "published",
- "created_at": "2026-11-24",
- "updated_at": "2026-11-24"
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须烤至中心完全变色、无血水渗出；生肉接触过的刀板须彻底清洗；成品冷藏不超过两天，复热须彻底加热至中心熟透。"
+  ],
+  "origin_note": "土耳其阿达纳城的招牌烤肉，羊肉剁碎后加洋葱泥和辣椒，捏在宽签上烤。脂肪滴在炭火上冒烟，肉带着一股焦香。",
+  "tags": [
+    "土耳其",
+    "烤肉",
+    "羊肉",
+    "烧烤"
+  ],
+  "related_ids": [
+    "turkish-kofta",
+    "turkish-lahmacun",
+    "turkish-ezme"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
 }

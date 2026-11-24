@@ -1,237 +1,237 @@
 {
- "schema_version": "1.0",
- "content_version": 1,
- "id": "italian-torta-al-limone",
- "name": {
-  "zh": "柠檬橄榄油蛋糕",
-  "en": "Lemon Olive Oil Cake",
-  "original": "Torta al Limone"
- },
- "cuisine": {
-  "region": "intl",
-  "style": "italian"
- },
- "category": [
-  "dessert"
- ],
- "difficulty": 1,
- "time": {
-  "prep_min": 20,
-  "cook_min": 57,
-  "total_min": 77
- },
- "servings": 6,
- "flavor": [
-  "sweet",
-  "fragrant",
-  "light"
- ],
- "ingredients": [
-  {
-   "group": "main",
-   "items": [
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-torta-al-limone",
+  "name": {
+    "zh": "柠檬橄榄油蛋糕",
+    "en": "Lemon Olive Oil Cake",
+    "original": "Torta al Limone"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 57,
+    "total_min": 77
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
     {
-     "name": "面粉",
-     "name_en": "all-purpose flour",
-     "amount": 250,
-     "unit": "g",
-     "note": "过筛",
-     "optional": false
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        }
+      ]
     },
     {
-     "name": "鸡蛋",
-     "name_en": "egg",
-     "amount": 3,
-     "unit": "piece",
-     "note": "室温",
-     "optional": false
+      "group": "aux",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 160,
+          "unit": "g",
+          "note": "打发",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "拌糊",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 100,
+          "unit": "ml",
+          "note": "调糊",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 2,
+          "unit": "piece",
+          "note": "汁与皮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
     }
-   ]
-  },
-  {
-   "group": "aux",
-   "items": [
+  ],
+  "equipment": [
+    "烤箱",
+    "打蛋器",
+    "模具",
+    "刨丝器",
+    "刮刀"
+  ],
+  "steps": [
     {
-     "name": "白糖",
-     "name_en": "sugar",
-     "amount": 160,
-     "unit": "g",
-     "note": "打发",
-     "optional": false
+      "n": 1,
+      "text": "柠檬刨出黄色表皮屑，挤汁备用。，看住火，别让它失控。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "只刨黄色部分，白瓤发苦。，全程留意火候，别贪快。",
+      "visual_cue": "皮屑细黄，汁水清澈"
     },
     {
-     "name": "橄榄油",
-     "name_en": "olive oil",
-     "amount": 120,
-     "unit": "ml",
-     "note": "拌糊",
-     "optional": false
+      "n": 2,
+      "text": "鸡蛋加白糖打发到颜色发白、体积膨胀。，火大了就离锅远一点。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "打到发白，蛋糕才松。，火别开太大，稳着来。",
+      "visual_cue": "蛋糊泛白，落痕缓慢消失"
     },
     {
-     "name": "牛奶",
-     "name_en": "milk",
-     "amount": 100,
-     "unit": "ml",
-     "note": "调糊",
-     "optional": false
+      "n": 3,
+      "text": "分次倒入橄榄油，边倒边搅到乳化。，锅温要匀，别忽高忽低。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "慢慢倒，油才不浮在表面。，火力保持中等，慢慢来。",
+      "visual_cue": "糊体顺滑，油光均匀"
     },
     {
-     "name": "柠檬",
-     "name_en": "lemon",
-     "amount": 2,
-     "unit": "piece",
-     "note": "汁与皮",
-     "optional": false
+      "n": 4,
+      "text": "加牛奶和柠檬汁，搅匀后拌入柠檬皮屑。，火候宁小勿大，慢慢推进。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "柠檬汁遇奶会略稠，正常。，注意锅里温度别掉下来。",
+      "visual_cue": "糊体微稠，香气清酸"
     },
     {
-     "name": "盐",
-     "name_en": "salt",
-     "amount": 2,
-     "unit": "g",
-     "note": "提味",
-     "optional": false
+      "n": 5,
+      "text": "筛入面粉和盐，翻拌到看不见干粉。，始终中小火，别心急。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "别画圈拌，起筋蛋糕就硬。，火要均匀，食材才不糊。",
+      "visual_cue": "糊体顺滑，无干粉块"
+    },
+    {
+      "n": 6,
+      "text": "倒进抹油撒粉的模具，震出大气泡。，看住火，别让它失控。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "震两下，切面才没有大孔。，全程留意火候，别贪快。",
+      "visual_cue": "表面平整，气泡上浮"
+    },
+    {
+      "n": 7,
+      "text": "烤箱一百七十五度烤三十五分钟，表面金黄。，火大了就离锅远一点。",
+      "time_min": 36,
+      "heat": "无火",
+      "tip": "牙签插入带少量湿屑即可。，火别开太大，稳着来。",
+      "visual_cue": "表面金黄，中心微弹"
+    },
+    {
+      "n": 8,
+      "text": "出炉放凉十分钟再脱模，切片。，锅温要匀，别忽高忽低。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "稍凉再脱，蛋糕才不散。，火力保持中等，慢慢来。",
+      "visual_cue": "边缘脱离，切面细密"
     }
-   ]
-  }
- ],
- "equipment": [
-  "烤箱",
-  "打蛋器",
-  "模具",
-  "刨丝器",
-  "刮刀"
- ],
- "steps": [
-  {
-   "n": 1,
-   "text": "柠檬刨出黄色表皮屑，挤汁备用。，火候要稳，别忽大忽小。",
-   "time_min": 5,
-   "heat": "无火",
-   "tip": "只刨黄色部分，白瓤发苦。，火候要稳，别忽大忽小。",
-   "visual_cue": "皮屑细黄，汁水清澈"
+  ],
+  "tips": [
+    "柠檬只刨黄色部分，白瓤发苦。，这一步别省。",
+    "橄榄油分次倒，才乳化的开。，别跳过这步。",
+    "别画圈拌面糊，起筋就发硬。，这步最关键。"
+  ],
+  "common_mistakes": [
+    "蛋糊没打发，蛋糕发硬不发。，很多人在这里出错。",
+    "橄榄油一次倒入，油水分离。，这里最容易翻车。",
+    "烤过头，表面焦里面干。，别小看这一步。"
+  ],
+  "substitutions": [
+    {
+      "original": "柠檬",
+      "substitute": "橙子",
+      "ratio": "2 个:2 个",
+      "note": "甜度更高，糖可减二十克。"
+    },
+    {
+      "original": "橄榄油",
+      "substitute": "黄油",
+      "ratio": "120 毫升:130 克",
+      "note": "需融化后放凉再拌。"
+    }
+  ],
+  "variations": [
+    "表面淋一层柠檬糖霜。，成败就在这一步。",
+    "加一勺罂粟籽，口感更丰富。，这点要注意。"
+  ],
+  "serving_suggestion": "切厚片配红茶，第二天更入味。，这是关键点。",
+  "storage": "常温密封三天，冷藏一周。，别嫌麻烦，做完它。",
+  "nutrition_estimate": {
+    "basis": "每份约 110 克",
+    "calories_kcal": 400,
+    "protein_g": 6,
+    "fat_g": 23,
+    "carbs_g": 43,
+    "sodium_mg": 90,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
-  {
-   "n": 2,
-   "text": "鸡蛋加白糖打发到颜色发白、体积膨胀。，火候要稳，别忽大忽小。",
-   "time_min": 7,
-   "heat": "无火",
-   "tip": "打到发白，蛋糕才松。，火候要稳，别忽大忽小。",
-   "visual_cue": "蛋糊泛白，落痕缓慢消失"
-  },
-  {
-   "n": 3,
-   "text": "分次倒入橄榄油，边倒边搅到乳化。，火候要稳，别忽大忽小。",
-   "time_min": 4,
-   "heat": "无火",
-   "tip": "慢慢倒，油才不浮在表面。，火候要稳，别忽大忽小。",
-   "visual_cue": "糊体顺滑，油光均匀"
-  },
-  {
-   "n": 4,
-   "text": "加牛奶和柠檬汁，搅匀后拌入柠檬皮屑。，火候要稳，别忽大忽小。",
-   "time_min": 3,
-   "heat": "无火",
-   "tip": "柠檬汁遇奶会略稠，正常。，火候要稳，别忽大忽小。",
-   "visual_cue": "糊体微稠，香气清酸"
-  },
-  {
-   "n": 5,
-   "text": "筛入面粉和盐，翻拌到看不见干粉。，火候要稳，别忽大忽小。",
-   "time_min": 4,
-   "heat": "无火",
-   "tip": "别画圈拌，起筋蛋糕就硬。，火候要稳，别忽大忽小。",
-   "visual_cue": "糊体顺滑，无干粉块"
-  },
-  {
-   "n": 6,
-   "text": "倒进抹油撒粉的模具，震出大气泡。，火候要稳，别忽大忽小。",
-   "time_min": 3,
-   "heat": "无火",
-   "tip": "震两下，切面才没有大孔。，火候要稳，别忽大忽小。",
-   "visual_cue": "表面平整，气泡上浮"
-  },
-  {
-   "n": 7,
-   "text": "烤箱一百七十五度烤三十五分钟，表面金黄。，火候要稳，别忽大忽小。",
-   "time_min": 36,
-   "heat": "无火",
-   "tip": "牙签插入带少量湿屑即可。，火候要稳，别忽大忽小。",
-   "visual_cue": "表面金黄，中心微弹"
-  },
-  {
-   "n": 8,
-   "text": "出炉放凉十分钟再脱模，切片。，火候要稳，别忽大忽小。",
-   "time_min": 12,
-   "heat": "无火",
-   "tip": "稍凉再脱，蛋糕才不散。，火候要稳，别忽大忽小。",
-   "visual_cue": "边缘脱离，切面细密"
-  }
- ],
- "tips": [
-  "柠檬只刨黄色部分，白瓤发苦。，这一点很关键。",
-  "橄榄油分次倒，才乳化的开。，这一点很关键。",
-  "别画圈拌面糊，起筋就发硬。，这一点很关键。"
- ],
- "common_mistakes": [
-  "蛋糊没打发，蛋糕发硬不发。，这一点很关键。",
-  "橄榄油一次倒入，油水分离。，这一点很关键。",
-  "烤过头，表面焦里面干。，这一点很关键。"
- ],
- "substitutions": [
-  {
-   "original": "柠檬",
-   "substitute": "橙子",
-   "ratio": "2 个:2 个",
-   "note": "甜度更高，糖可减二十克。"
-  },
-  {
-   "original": "橄榄油",
-   "substitute": "黄油",
-   "ratio": "120 毫升:130 克",
-   "note": "需融化后放凉再拌。"
-  }
- ],
- "variations": [
-  "表面淋一层柠檬糖霜。，这一点很关键。",
-  "加一勺罂粟籽，口感更丰富。，这一点很关键。"
- ],
- "serving_suggestion": "切厚片配红茶，第二天更入味。，这一点很关键。",
- "storage": "常温密封三天，冷藏一周。，这一点很关键。",
- "nutrition_estimate": {
-  "basis": "每份约 110 克",
-  "calories_kcal": 400,
-  "protein_g": 6,
-  "fat_g": 23,
-  "carbs_g": 43,
-  "sodium_mg": 90,
-  "is_estimate": true,
-  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
- },
- "allergens": [
-  "egg",
-  "gluten",
-  "milk"
- ],
- "diet_tags": [],
- "food_safety_notes": [
-  "含蛋类、乳制品与小麦，过敏者慎食；蛋糕须烤至中心凝固、牙签不带生糊；常温密封不超过三天。",
-  "蛋液须彻底烤至中心凝固熟透，不得生食；处理蛋壳后须洗净双手，成品冷藏保存。"
- ],
- "origin_note": "意大利南部的家常蛋糕，用橄榄油代替黄油，柠檬味很冲。放一夜回潮，第二天切片更湿润。，这一点很关键。",
- "tags": [
-  "意大利",
-  "甜点",
-  "柠檬",
-  "烘焙"
- ],
- "related_ids": [
-  "italian-torta-caprese",
-  "panna-cotta",
-  "tiramisu"
- ],
- "image_url": null,
- "image_credit": null,
- "status": "published",
- "created_at": "2026-11-24",
- "updated_at": "2026-11-24"
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类、乳制品与小麦，过敏者慎食；蛋糕须烤至中心凝固、牙签不带生糊；常温密封不超过三天。",
+    "蛋液须彻底烤至中心凝固熟透，不得生食；处理蛋壳后须洗净双手，成品冷藏保存。"
+  ],
+  "origin_note": "意大利南部的家常蛋糕，用橄榄油代替黄油，柠檬味很冲。放一夜回潮，第二天切片更湿润。，这一步别省。",
+  "tags": [
+    "意大利",
+    "甜点",
+    "柠檬",
+    "烘焙"
+  ],
+  "related_ids": [
+    "italian-torta-caprese",
+    "panna-cotta",
+    "tiramisu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
 }

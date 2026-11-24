@@ -1,260 +1,260 @@
 {
- "schema_version": "1.0",
- "content_version": 1,
- "id": "portuguese-carne-de-porco-a-alentejana",
- "name": {
-  "zh": "阿连特茹猪肉炒蛤蜊",
-  "en": "Pork with Clams",
-  "original": "Carne de Porco à Alentejana"
- },
- "cuisine": {
-  "region": "intl",
-  "style": "portuguese"
- },
- "category": [
-  "main-meat"
- ],
- "difficulty": 2,
- "time": {
-  "prep_min": 135,
-  "cook_min": 94,
-  "total_min": 229
- },
- "servings": 4,
- "flavor": [
-  "savory",
-  "sour",
-  "fragrant"
- ],
- "ingredients": [
-  {
-   "group": "main",
-   "items": [
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "portuguese-carne-de-porco-a-alentejana",
+  "name": {
+    "zh": "阿连特茹猪肉炒蛤蜊",
+    "en": "Pork with Clams",
+    "original": "Carne de Porco à Alentejana"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "portuguese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 135,
+    "cook_min": 94,
+    "total_min": 229
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour",
+    "fragrant"
+  ],
+  "ingredients": [
     {
-     "name": "五花肉",
-     "name_en": "pork belly",
-     "amount": 800,
-     "unit": "g",
-     "note": "切块",
-     "optional": false
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 500,
+          "unit": "g",
+          "note": "吐沙",
+          "optional": false
+        }
+      ]
     },
     {
-     "name": "蛤蜊",
-     "name_en": "clam",
-     "amount": 500,
-     "unit": "g",
-     "note": "吐沙",
-     "optional": false
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 10,
+          "unit": "g",
+          "note": "腌料",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 100,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 280,
+          "unit": "ml",
+          "note": "炸土豆",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
     }
-   ]
-  },
-  {
-   "group": "aux",
-   "items": [
+  ],
+  "equipment": [
+    "锅",
+    "碗",
+    "刀",
+    "砧板",
+    "锅铲",
+    "漏勺"
+  ],
+  "steps": [
     {
-     "name": "大蒜",
-     "name_en": "garlic",
-     "amount": 25,
-     "unit": "g",
-     "note": "切末",
-     "optional": false
+      "n": 1,
+      "text": "五花肉切三厘米块，用盐、黑胡椒、红椒粉、蒜末和一半白葡萄酒腌两小时。",
+      "time_min": 125,
+      "heat": "无火",
+      "tip": "腌够时间，肉才入味。，火大了就离锅远一点。",
+      "visual_cue": "肉块泛红，腌料挂壁"
     },
     {
-     "name": "红椒粉",
-     "name_en": "paprika",
-     "amount": 10,
-     "unit": "g",
-     "note": "腌料",
-     "optional": false
+      "n": 2,
+      "text": "蛤蜊放盐水里吐沙一小时，中途换一次水。，火别开太大，稳着来。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "吐沙不净，吃的时候全在牙上。，锅温要匀，别忽高忽低。",
+      "visual_cue": "水色变浑，蛤蜊微张"
     },
     {
-     "name": "白葡萄酒",
-     "name_en": "dry white wine",
-     "amount": 100,
-     "unit": "ml",
-     "note": "去腥",
-     "optional": false
+      "n": 3,
+      "text": "土豆切块泡水，沥干后下橄榄油锅炸到金黄。，火力保持中等，慢慢来。",
+      "time_min": 12,
+      "heat": "中大火",
+      "tip": "炸两遍更脆，第一遍定型即可。，火候宁小勿大，慢慢推进。",
+      "visual_cue": "土豆微黄，表面起壳"
     },
     {
-     "name": "柠檬",
-     "name_en": "lemon",
-     "amount": 1,
-     "unit": "piece",
-     "note": "挤汁",
-     "optional": false
+      "n": 4,
+      "text": "锅留底油，五花肉下锅煎到两面焦黄。，注意锅里温度别掉下来。",
+      "time_min": 10,
+      "heat": "中大火",
+      "tip": "煎出油，肉才不腻。，始终中小火，别心急。",
+      "visual_cue": "表面焦褐，油脂析出"
     },
     {
-     "name": "土豆",
-     "name_en": "potato",
-     "amount": 400,
-     "unit": "g",
-     "note": "切块",
-     "optional": false
+      "n": 5,
+      "text": "倒剩余白葡萄酒，煮到酒气散。，火要均匀，食材才不糊。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "酒煮开，酸味才柔和。，看住火，别让它失控。",
+      "visual_cue": "酒气散尽，锅底发亮"
     },
     {
-     "name": "橄榄油",
-     "name_en": "olive oil",
-     "amount": 280,
-     "unit": "ml",
-     "note": "炸土豆",
-     "optional": false
+      "n": 6,
+      "text": "蛤蜊下锅，盖盖焖五分钟到开口。，全程留意火候，别贪快。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "只留开口的，闭口的一律扔掉。，火大了就离锅远一点。",
+      "visual_cue": "蛤壳张开，汁水流出"
     },
     {
-     "name": "盐",
-     "name_en": "salt",
-     "amount": 6,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 7,
+      "text": "炸好的土豆回锅，挤柠檬汁翻匀。，火别开太大，稳着来。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "土豆吸汁，味道才连成一体。，锅温要匀，别忽高忽低。",
+      "visual_cue": "汁水裹匀，油光浮动"
     },
     {
-     "name": "黑胡椒",
-     "name_en": "black pepper",
-     "amount": 3,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 8,
+      "text": "尝味补盐，撒蒜末出锅。，火力保持中等，慢慢来。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛤蜊自带咸，盐要少放。，火候宁小勿大，慢慢推进。",
+      "visual_cue": "蒜香扑鼻，热气腾腾"
     }
-   ]
-  }
- ],
- "equipment": [
-  "锅",
-  "碗",
-  "刀",
-  "砧板",
-  "锅铲",
-  "漏勺"
- ],
- "steps": [
-  {
-   "n": 1,
-   "text": "五花肉切三厘米块，用盐、黑胡椒、红椒粉、蒜末和一半白葡萄酒腌两小时。",
-   "time_min": 125,
-   "heat": "无火",
-   "tip": "腌够时间，肉才入味。，火候要稳，别忽大忽小。",
-   "visual_cue": "肉块泛红，腌料挂壁"
+  ],
+  "tips": [
+    "肉腌两小时以上，味道才进得去。，这步最关键。",
+    "蛤蜊吐沙要够，否则影响口感。，很多人在这里出错。",
+    "闭口蛤蜊一律丢掉，别硬开。，这里最容易翻车。"
+  ],
+  "common_mistakes": [
+    "肉没腌够，里面是白的。，别小看这一步。",
+    "蛤蜊没吐沙，吃起来发碜。，成败就在这一步。",
+    "大火猛炒，蛤蜊肉缩成一点。，这点要注意。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "鸡腿肉",
+      "ratio": "800 克:800 克",
+      "note": "需多加油三十毫升，避免发柴。"
+    },
+    {
+      "original": "蛤蜊",
+      "substitute": "虾",
+      "ratio": "500 克:500 克",
+      "note": "虾变红即熟，焖的时间减到三分钟。"
+    }
+  ],
+  "variations": [
+    "加一点辣椒粉，做成微辣版。，这是关键点。",
+    "撒欧芹碎，颜色更鲜。，别嫌麻烦，做完它。"
+  ],
+  "serving_suggestion": "配炸土豆和柠檬角，浇上锅里的汁。",
+  "storage": "冷藏两天，复热须彻底加热。，这一步别省。",
+  "nutrition_estimate": {
+    "basis": "每份约 350 克",
+    "calories_kcal": 680,
+    "protein_g": 32,
+    "fat_g": 48,
+    "carbs_g": 26,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
-  {
-   "n": 2,
-   "text": "蛤蜊放盐水里吐沙一小时，中途换一次水。，火候要稳，别忽大忽小。",
-   "time_min": 62,
-   "heat": "无火",
-   "tip": "吐沙不净，吃的时候全在牙上。，火候要稳，别忽大忽小。",
-   "visual_cue": "水色变浑，蛤蜊微张"
-  },
-  {
-   "n": 3,
-   "text": "土豆切块泡水，沥干后下橄榄油锅炸到金黄。，火候要稳，别忽大忽小。",
-   "time_min": 12,
-   "heat": "中大火",
-   "tip": "炸两遍更脆，第一遍定型即可。，火候要稳，别忽大忽小。",
-   "visual_cue": "土豆微黄，表面起壳"
-  },
-  {
-   "n": 4,
-   "text": "锅留底油，五花肉下锅煎到两面焦黄。，火候要稳，别忽大忽小。",
-   "time_min": 10,
-   "heat": "中大火",
-   "tip": "煎出油，肉才不腻。，火候要稳，别忽大忽小。",
-   "visual_cue": "表面焦褐，油脂析出"
-  },
-  {
-   "n": 5,
-   "text": "倒剩余白葡萄酒，煮到酒气散。，火候要稳，别忽大忽小。",
-   "time_min": 4,
-   "heat": "中火",
-   "tip": "酒煮开，酸味才柔和。，火候要稳，别忽大忽小。",
-   "visual_cue": "酒气散尽，锅底发亮"
-  },
-  {
-   "n": 6,
-   "text": "蛤蜊下锅，盖盖焖五分钟到开口。，火候要稳，别忽大忽小。",
-   "time_min": 6,
-   "heat": "中火",
-   "tip": "只留开口的，闭口的一律扔掉。，火候要稳，别忽大忽小。",
-   "visual_cue": "蛤壳张开，汁水流出"
-  },
-  {
-   "n": 7,
-   "text": "炸好的土豆回锅，挤柠檬汁翻匀。，火候要稳，别忽大忽小。",
-   "time_min": 4,
-   "heat": "中火",
-   "tip": "土豆吸汁，味道才连成一体。，火候要稳，别忽大忽小。",
-   "visual_cue": "汁水裹匀，油光浮动"
-  },
-  {
-   "n": 8,
-   "text": "尝味补盐，撒蒜末出锅。，火候要稳，别忽大忽小。",
-   "time_min": 3,
-   "heat": "无火",
-   "tip": "蛤蜊自带咸，盐要少放。，火候要稳，别忽大忽小。",
-   "visual_cue": "蒜香扑鼻，热气腾腾"
-  }
- ],
- "tips": [
-  "肉腌两小时以上，味道才进得去。，这一点很关键。",
-  "蛤蜊吐沙要够，否则影响口感。，这一点很关键。",
-  "闭口蛤蜊一律丢掉，别硬开。，这一点很关键。"
- ],
- "common_mistakes": [
-  "肉没腌够，里面是白的。，这一点很关键。",
-  "蛤蜊没吐沙，吃起来发碜。，这一点很关键。",
-  "大火猛炒，蛤蜊肉缩成一点。，这一点很关键。"
- ],
- "substitutions": [
-  {
-   "original": "五花肉",
-   "substitute": "鸡腿肉",
-   "ratio": "800 克:800 克",
-   "note": "需多加油三十毫升，避免发柴。"
-  },
-  {
-   "original": "蛤蜊",
-   "substitute": "虾",
-   "ratio": "500 克:500 克",
-   "note": "虾变红即熟，焖的时间减到三分钟。"
-  }
- ],
- "variations": [
-  "加一点辣椒粉，做成微辣版。，这一点很关键。",
-  "撒欧芹碎，颜色更鲜。，这一点很关键。"
- ],
- "serving_suggestion": "配炸土豆和柠檬角，浇上锅里的汁。",
- "storage": "冷藏两天，复热须彻底加热。，这一点很关键。",
- "nutrition_estimate": {
-  "basis": "每份约 350 克",
-  "calories_kcal": 680,
-  "protein_g": 32,
-  "fat_g": 48,
-  "carbs_g": 26,
-  "sodium_mg": 900,
-  "is_estimate": true,
-  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
- },
- "allergens": [
-  "mollusk",
-  "sulfite"
- ],
- "diet_tags": [],
- "food_safety_notes": [
-  "含贝类，过敏者慎食；蛤蜊须煮至壳完全张开，闭口者须丢弃；猪肉须煎至中心完全熟透无粉红；成品冷藏不超过两天，复热须彻底加热。"
- ],
- "origin_note": "阿连特茹的招牌菜，猪肉和蛤蜊同锅，听着奇怪但味道极搭。肉香带海味，汁水拌土豆最香。，这一点很关键。",
- "tags": [
-  "葡萄牙",
-  "猪肉",
-  "海鲜",
-  "地方菜"
- ],
- "related_ids": [
-  "portuguese-francesinha",
-  "portuguese-caldo-verde",
-  "portuguese-bacalhau-a-bras"
- ],
- "image_url": null,
- "image_credit": null,
- "status": "published",
- "created_at": "2026-11-24",
- "updated_at": "2026-11-24"
+  "allergens": [
+    "mollusk",
+    "sulfite"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含贝类，过敏者慎食；蛤蜊须煮至壳完全张开，闭口者须丢弃；猪肉须煎至中心完全熟透无粉红；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "阿连特茹的招牌菜，猪肉和蛤蜊同锅，听着奇怪但味道极搭。肉香带海味，汁水拌土豆最香。，别跳过这步。",
+  "tags": [
+    "葡萄牙",
+    "猪肉",
+    "海鲜",
+    "地方菜"
+  ],
+  "related_ids": [
+    "portuguese-francesinha",
+    "portuguese-caldo-verde",
+    "portuguese-bacalhau-a-bras"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
 }

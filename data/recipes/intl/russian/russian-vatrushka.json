@@ -1,253 +1,253 @@
 {
- "schema_version": "1.0",
- "content_version": 1,
- "id": "russian-vatrushka",
- "name": {
-  "zh": "俄式奶酪小面包",
-  "en": "Russian Cheese Buns",
-  "original": "Ватрушка"
- },
- "cuisine": {
-  "region": "intl",
-  "style": "russian"
- },
- "category": [
-  "bakery"
- ],
- "difficulty": 2,
- "time": {
-  "prep_min": 120,
-  "cook_min": 20,
-  "total_min": 140
- },
- "servings": 6,
- "flavor": [
-  "sweet",
-  "rich",
-  "fragrant"
- ],
- "ingredients": [
-  {
-   "group": "main",
-   "items": [
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "russian-vatrushka",
+  "name": {
+    "zh": "俄式奶酪小面包",
+    "en": "Russian Cheese Buns",
+    "original": "Ватрушка"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "russian"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 120,
+    "cook_min": 20,
+    "total_min": 140
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
     {
-     "name": "面粉",
-     "name_en": "all-purpose flour",
-     "amount": 400,
-     "unit": "g",
-     "note": "过筛",
-     "optional": false
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "奶油奶酪",
+          "name_en": "cream cheese",
+          "amount": 250,
+          "unit": "g",
+          "note": "馅料",
+          "optional": false
+        }
+      ]
     },
     {
-     "name": "奶油奶酪",
-     "name_en": "cream cheese",
-     "amount": 250,
-     "unit": "g",
-     "note": "馅料",
-     "optional": false
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "温水化开",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "发酵",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 80,
+          "unit": "g",
+          "note": "面团",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "面团",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "面团与刷面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 20,
+          "unit": "g",
+          "note": "刷面",
+          "optional": false
+        }
+      ]
     }
-   ]
-  },
-  {
-   "group": "aux",
-   "items": [
+  ],
+  "equipment": [
+    "大碗",
+    "擀面杖",
+    "烤盘",
+    "烤箱",
+    "刷子",
+    "保鲜膜"
+  ],
+  "steps": [
     {
-     "name": "牛奶",
-     "name_en": "milk",
-     "amount": 200,
-     "unit": "ml",
-     "note": "温水化开",
-     "optional": false
+      "n": 1,
+      "text": "温牛奶加酵母和一勺白糖，静置十分钟起泡。，火候宁小勿大，慢慢推进。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "牛奶别超过四十度，会烫死酵母。，注意锅里温度别掉下来。",
+      "visual_cue": "表面浮沫，酵母活跃"
     },
     {
-     "name": "酵母",
-     "name_en": "yeast",
-     "amount": 5,
-     "unit": "g",
-     "note": "发酵",
-     "optional": false
+      "n": 2,
+      "text": "加面粉、剩余白糖、盐、鸡蛋和软化黄油，揉成光滑面团。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "揉到能拉出薄膜，面团才松软。，始终中小火，别心急。",
+      "visual_cue": "面团光滑，不粘手，这是关键点。"
     },
     {
-     "name": "白糖",
-     "name_en": "sugar",
-     "amount": 80,
-     "unit": "g",
-     "note": "面团",
-     "optional": false
+      "n": 3,
+      "text": "盖布发酵一小时，到体积两倍。，火要均匀，食材才不糊。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "温度低就多等一会儿。，看住火，别让它失控。",
+      "visual_cue": "面团膨胀，指压回弹"
     },
     {
-     "name": "黄油",
-     "name_en": "butter",
-     "amount": 50,
-     "unit": "g",
-     "note": "面团",
-     "optional": false
+      "n": 4,
+      "text": "奶油奶酪加一勺白糖拌顺滑，冷藏备用。，全程留意火候，别贪快。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "馅别太稀，烤时会流。，火大了就离锅远一点。",
+      "visual_cue": "馅料浓稠，能立住，别嫌麻烦，做完它。"
     },
     {
-     "name": "鸡蛋",
-     "name_en": "egg",
-     "amount": 2,
-     "unit": "piece",
-     "note": "面团与刷面",
-     "optional": false
+      "n": 5,
+      "text": "面团分成六份，搓圆压出中间凹陷。，火别开太大，稳着来。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "凹陷深一点，馅才装得住。，锅温要匀，别忽高忽低。",
+      "visual_cue": "圆饼整齐，坑位居中"
     },
     {
-     "name": "盐",
-     "name_en": "salt",
-     "amount": 3,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 6,
+      "text": "把奶酪馅舀进凹陷，边缘刷蛋液。，火力保持中等，慢慢来。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "馅别装太满，烤时会溢出。，火候宁小勿大，慢慢推进。",
+      "visual_cue": "馅面平整，边缘发亮"
     },
     {
-     "name": "蜂蜜",
-     "name_en": "honey",
-     "amount": 20,
-     "unit": "g",
-     "note": "刷面",
-     "optional": false
+      "n": 7,
+      "text": "烤箱一百八十度烤十八分钟，到边缘金黄。，注意锅里温度别掉下来。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "烤到边缘上色就够，馅会略微膨胀。，始终中小火，别心急。",
+      "visual_cue": "表皮金黄，馅心微鼓"
+    },
+    {
+      "n": 8,
+      "text": "出炉趁热刷一层蜂蜜水，放架冷却。，火要均匀，食材才不糊。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "刷蜜增加光泽，凉了再收。，看住火，别让它失控。",
+      "visual_cue": "表面油亮，香气扑鼻"
     }
-   ]
-  }
- ],
- "equipment": [
-  "大碗",
-  "擀面杖",
-  "烤盘",
-  "烤箱",
-  "刷子",
-  "保鲜膜"
- ],
- "steps": [
-  {
-   "n": 1,
-   "text": "温牛奶加酵母和一勺白糖，静置十分钟起泡。，火候要稳，别忽大忽小。",
-   "time_min": 11,
-   "heat": "无火",
-   "tip": "牛奶别超过四十度，会烫死酵母。，火候要稳，别忽大忽小。",
-   "visual_cue": "表面浮沫，酵母活跃"
+  ],
+  "tips": [
+    "牛奶温度别过高，否则酵母死掉。，这一步别省。",
+    "面团揉到出膜，口感才松软。，别跳过这步。",
+    "馅别装太满，烤时会溢出。，这步最关键。"
+  ],
+  "common_mistakes": [
+    "酵母被烫死，面团发不起来。，很多人在这里出错。",
+    "馅太稀，烤完全流出来。，这里最容易翻车。",
+    "烤过头，底部干硬。，别小看这一步。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶油奶酪",
+      "substitute": "酸奶油",
+      "ratio": "250 克:250 克",
+      "note": "更酸，糖加二十克。"
+    },
+    {
+      "original": "蜂蜜",
+      "substitute": "白糖",
+      "ratio": "20 克:20 克",
+      "note": "无光泽，可刷蛋液代替。"
+    }
+  ],
+  "variations": [
+    "馅里加葡萄干，口感更丰富。，成败就在这一步。",
+    "表面撒酥粒，层次更明显。，这点要注意。"
+  ],
+  "serving_suggestion": "趁温热配牛奶，早餐或下午茶。，这是关键点。",
+  "storage": "密封常温一天，冷藏三天。，别嫌麻烦，做完它。",
+  "nutrition_estimate": {
+    "basis": "每份约 130 克",
+    "calories_kcal": 420,
+    "protein_g": 12,
+    "fat_g": 18,
+    "carbs_g": 52,
+    "sodium_mg": 300,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
-  {
-   "n": 2,
-   "text": "加面粉、剩余白糖、盐、鸡蛋和软化黄油，揉成光滑面团。",
-   "time_min": 12,
-   "heat": "无火",
-   "tip": "揉到能拉出薄膜，面团才松软。，火候要稳，别忽大忽小。",
-   "visual_cue": "面团光滑，不粘手，这一点很关键。"
-  },
-  {
-   "n": 3,
-   "text": "盖布发酵一小时，到体积两倍。，火候要稳，别忽大忽小。",
-   "time_min": 62,
-   "heat": "无火",
-   "tip": "温度低就多等一会儿。，火候要稳，别忽大忽小。",
-   "visual_cue": "面团膨胀，指压回弹"
-  },
-  {
-   "n": 4,
-   "text": "奶油奶酪加一勺白糖拌顺滑，冷藏备用。，火候要稳，别忽大忽小。",
-   "time_min": 4,
-   "heat": "无火",
-   "tip": "馅别太稀，烤时会流。，火候要稳，别忽大忽小。",
-   "visual_cue": "馅料浓稠，能立住，这一点很关键。"
-  },
-  {
-   "n": 5,
-   "text": "面团分成六份，搓圆压出中间凹陷。，火候要稳，别忽大忽小。",
-   "time_min": 6,
-   "heat": "无火",
-   "tip": "凹陷深一点，馅才装得住。，火候要稳，别忽大忽小。",
-   "visual_cue": "圆饼整齐，坑位居中"
-  },
-  {
-   "n": 6,
-   "text": "把奶酪馅舀进凹陷，边缘刷蛋液。，火候要稳，别忽大忽小。",
-   "time_min": 5,
-   "heat": "无火",
-   "tip": "馅别装太满，烤时会溢出。，火候要稳，别忽大忽小。",
-   "visual_cue": "馅面平整，边缘发亮"
-  },
-  {
-   "n": 7,
-   "text": "烤箱一百八十度烤十八分钟，到边缘金黄。，火候要稳，别忽大忽小。",
-   "time_min": 20,
-   "heat": "无火",
-   "tip": "烤到边缘上色就够，馅会略微膨胀。，火候要稳，别忽大忽小。",
-   "visual_cue": "表皮金黄，馅心微鼓"
-  },
-  {
-   "n": 8,
-   "text": "出炉趁热刷一层蜂蜜水，放架冷却。，火候要稳，别忽大忽小。",
-   "time_min": 8,
-   "heat": "无火",
-   "tip": "刷蜜增加光泽，凉了再收。，火候要稳，别忽大忽小。",
-   "visual_cue": "表面油亮，香气扑鼻"
-  }
- ],
- "tips": [
-  "牛奶温度别过高，否则酵母死掉。，这一点很关键。",
-  "面团揉到出膜，口感才松软。，这一点很关键。",
-  "馅别装太满，烤时会溢出。，这一点很关键。"
- ],
- "common_mistakes": [
-  "酵母被烫死，面团发不起来。，这一点很关键。",
-  "馅太稀，烤完全流出来。，这一点很关键。",
-  "烤过头，底部干硬。，这一点很关键。"
- ],
- "substitutions": [
-  {
-   "original": "奶油奶酪",
-   "substitute": "酸奶油",
-   "ratio": "250 克:250 克",
-   "note": "更酸，糖加二十克。"
-  },
-  {
-   "original": "蜂蜜",
-   "substitute": "白糖",
-   "ratio": "20 克:20 克",
-   "note": "无光泽，可刷蛋液代替。"
-  }
- ],
- "variations": [
-  "馅里加葡萄干，口感更丰富。，这一点很关键。",
-  "表面撒酥粒，层次更明显。，这一点很关键。"
- ],
- "serving_suggestion": "趁温热配牛奶，早餐或下午茶。，这一点很关键。",
- "storage": "密封常温一天，冷藏三天。，这一点很关键。",
- "nutrition_estimate": {
-  "basis": "每份约 130 克",
-  "calories_kcal": 420,
-  "protein_g": 12,
-  "fat_g": 18,
-  "carbs_g": 52,
-  "sodium_mg": 300,
-  "is_estimate": true,
-  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
- },
- "allergens": [
-  "egg",
-  "gluten",
-  "milk"
- ],
- "diet_tags": [],
- "food_safety_notes": [
-  "含蛋类、乳制品与小麦，过敏者慎食；面包须烤至中心无湿面糊；含奶酪馅，冷藏保存不超过三天。"
- ],
- "origin_note": "俄式茶点里的小圆包，中间一个奶酪坑。面团发得松软，烤好刷蜂蜜水，趁热吃最香。，这一点很关键。",
- "tags": [
-  "俄式",
-  "烘焙",
-  "面包",
-  "奶酪"
- ],
- "related_ids": [
-  "russian-medovik",
-  "russian-blini",
-  "russian-pirozhki"
- ],
- "image_url": null,
- "image_credit": null,
- "status": "published",
- "created_at": "2026-11-24",
- "updated_at": "2026-11-24"
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类、乳制品与小麦，过敏者慎食；面包须烤至中心无湿面糊；含奶酪馅，冷藏保存不超过三天。"
+  ],
+  "origin_note": "俄式茶点里的小圆包，中间一个奶酪坑。面团发得松软，烤好刷蜂蜜水，趁热吃最香。，这一步别省。",
+  "tags": [
+    "俄式",
+    "烘焙",
+    "面包",
+    "奶酪"
+  ],
+  "related_ids": [
+    "russian-medovik",
+    "russian-blini",
+    "russian-pirozhki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
 }

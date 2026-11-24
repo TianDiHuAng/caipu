@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:37:01.304Z",
+  "generatedAt": "2026-11-24T03:47:00.151Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 631,
     "target": 3274,
-    "actual": 1679,
-    "coverage": 0.5128283445326818
+    "actual": 1685,
+    "coverage": 0.5146609651802077
   },
   "regions": {
     "cn": [
@@ -6898,15 +6898,16 @@
         "en": "West African",
         "tier": "C",
         "target": 25,
-        "actual": 20,
+        "actual": 26,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "west-african-coconut-rice",
+              "west-african-fried-rice",
               "west-african-jollof-rice",
               "west-african-waakye"
             ]
@@ -6915,8 +6916,10 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "west-african-chicken-pepper-soup",
+              "west-african-fish-soup",
               "west-african-lentil-stew",
               "west-african-peanut-soup"
             ]
@@ -6925,9 +6928,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "west-african-asun",
+              "west-african-grilled-chicken-peanut",
               "west-african-peanut-soup",
               "west-african-suya"
             ]
@@ -6936,12 +6940,14 @@
             "category": "snack",
             "kind": "core",
             "target": 5,
-            "actual": 5,
+            "actual": 7,
             "ids": [
               "west-african-chin-chin",
               "west-african-kelewele",
+              "west-african-meat-pie",
               "west-african-moi-moi",
               "west-african-puff-puff",
+              "west-african-spicy-potato",
               "west-african-suya"
             ]
           },

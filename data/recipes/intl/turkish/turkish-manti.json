@@ -1,277 +1,277 @@
 {
- "schema_version": "1.0",
- "content_version": 1,
- "id": "turkish-manti",
- "name": {
-  "zh": "土耳其小饺子",
-  "en": "Turkish Manti",
-  "original": "Mantı"
- },
- "cuisine": {
-  "region": "intl",
-  "style": "turkish"
- },
- "category": [
-  "staple-bread"
- ],
- "difficulty": 3,
- "time": {
-  "prep_min": 60,
-  "cook_min": 46,
-  "total_min": 106
- },
- "servings": 4,
- "flavor": [
-  "savory",
-  "rich",
-  "fragrant"
- ],
- "ingredients": [
-  {
-   "group": "main",
-   "items": [
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "turkish-manti",
+  "name": {
+    "zh": "土耳其小饺子",
+    "en": "Turkish Manti",
+    "original": "Mantı"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "turkish"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 60,
+    "cook_min": 46,
+    "total_min": 106
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
     {
-     "name": "面粉",
-     "name_en": "all-purpose flour",
-     "amount": 400,
-     "unit": "g",
-     "note": "和面",
-     "optional": false
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 300,
+          "unit": "g",
+          "note": "馅料",
+          "optional": false
+        }
+      ]
     },
     {
-     "name": "牛肉末",
-     "name_en": "ground beef",
-     "amount": 300,
-     "unit": "g",
-     "note": "馅料",
-     "optional": false
+      "group": "aux",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 180,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 300,
+          "unit": "g",
+          "note": "浇面",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "淋面",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 6,
+          "unit": "g",
+          "note": "淋面",
+          "optional": false
+        },
+        {
+          "name": "薄荷",
+          "name_en": "mint",
+          "amount": 8,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        }
+      ]
     }
-   ]
-  },
-  {
-   "group": "aux",
-   "items": [
+  ],
+  "equipment": [
+    "擀面杖",
+    "刀",
+    "砧板",
+    "大碗",
+    "锅",
+    "漏勺"
+  ],
+  "steps": [
     {
-     "name": "清水",
-     "name_en": "water",
-     "amount": 180,
-     "unit": "ml",
-     "note": "和面",
-     "optional": false
+      "n": 1,
+      "text": "面粉加盐、鸡蛋和清水揉成偏硬的面团。，火大了就离锅远一点。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "面要硬，擀薄才不破。，火别开太大，稳着来。",
+      "visual_cue": "面团紧实，表面光洁"
     },
     {
-     "name": "鸡蛋",
-     "name_en": "egg",
-     "amount": 1,
-     "unit": "piece",
-     "note": "和面",
-     "optional": false
+      "n": 2,
+      "text": "盖湿布醒面三十分钟，中途再揉一次。，锅温要匀，别忽高忽低。",
+      "time_min": 33,
+      "heat": "无火",
+      "tip": "醒透了才好擀。，火力保持中等，慢慢来。",
+      "visual_cue": "按下去缓慢回弹，别嫌麻烦，做完它。"
     },
     {
-     "name": "盐",
-     "name_en": "salt",
-     "amount": 8,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 3,
+      "text": "牛肉末加洋葱末、盐和黑胡椒，顺一个方向搅上劲。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "搅到发黏，馅才抱团。，火候宁小勿大，慢慢推进。",
+      "visual_cue": "肉馅成团，筷子立得住"
     },
     {
-     "name": "洋葱",
-     "name_en": "onion",
-     "amount": 100,
-     "unit": "g",
-     "note": "切末",
-     "optional": false
+      "n": 4,
+      "text": "面团擀成两毫米薄片，切成五厘米方块。，注意锅里温度别掉下来。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "越薄越好，透光能看见手指。，始终中小火，别心急。",
+      "visual_cue": "面片薄匀，边缘整齐"
     },
     {
-     "name": "黑胡椒",
-     "name_en": "black pepper",
-     "amount": 4,
-     "unit": "g",
-     "note": "调味",
-     "optional": false
+      "n": 5,
+      "text": "每张面片放指甲盖大的馅，四角捏合封口。，火要均匀，食材才不糊。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "馅别多，多了煮的时候撑破。，看住火，别让它失控。",
+      "visual_cue": "小包挺立，封口紧实"
     },
     {
-     "name": "酸奶",
-     "name_en": "yogurt",
-     "amount": 300,
-     "unit": "g",
-     "note": "浇面",
-     "optional": false
+      "n": 6,
+      "text": "锅烧开水加盐，下饺子煮八分钟。，全程留意火候，别贪快。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "水要宽，饺子才不粘。，火大了就离锅远一点。",
+      "visual_cue": "饺子浮起，皮呈半透明"
     },
     {
-     "name": "黄油",
-     "name_en": "butter",
-     "amount": 40,
-     "unit": "g",
-     "note": "淋面",
-     "optional": false
+      "n": 7,
+      "text": "捞出沥干装盘，趁热淋上酸奶。，火别开太大，稳着来。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酸奶要浓稠，挂得住饺子。，锅温要匀，别忽高忽低。",
+      "visual_cue": "白酱覆盖，饺子微露"
     },
     {
-     "name": "红椒粉",
-     "name_en": "paprika",
-     "amount": 6,
-     "unit": "g",
-     "note": "淋面",
-     "optional": false
+      "n": 8,
+      "text": "黄油小火化开，加红椒粉炒出红油。，火力保持中等，慢慢来。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "红椒粉一下锅就关火，久了发苦。，火候宁小勿大，慢慢推进。",
+      "visual_cue": "油色橘红，香气上冲"
     },
     {
-     "name": "薄荷",
-     "name_en": "mint",
-     "amount": 8,
-     "unit": "g",
-     "note": "撒面",
-     "optional": false
+      "n": 9,
+      "text": "把红油淋在酸奶上，撒薄荷碎趁热吃。，注意锅里温度别掉下来。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "淋油时听得到滋滋声才对。，始终中小火，别心急。",
+      "visual_cue": "红白相间，薄荷点缀"
     }
-   ]
-  }
- ],
- "equipment": [
-  "擀面杖",
-  "刀",
-  "砧板",
-  "大碗",
-  "锅",
-  "漏勺"
- ],
- "steps": [
-  {
-   "n": 1,
-   "text": "面粉加盐、鸡蛋和清水揉成偏硬的面团。，火候要稳，别忽大忽小。",
-   "time_min": 12,
-   "heat": "无火",
-   "tip": "面要硬，擀薄才不破。，火候要稳，别忽大忽小。",
-   "visual_cue": "面团紧实，表面光洁"
+  ],
+  "tips": [
+    "面团要硬，擀薄才不破皮。，这一步别省。",
+    "馅只放黄豆大，多了会煮破。，别跳过这步。",
+    "红椒粉下锅立刻关火，久了发苦。，这步最关键。"
+  ],
+  "common_mistakes": [
+    "面太软，擀开就粘成一团。，很多人在这里出错。",
+    "馅包太多，煮的时候全漏。，这里最容易翻车。",
+    "酸奶太稀，浇上去流一盘子。，别小看这一步。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "羊肉",
+      "ratio": "300 克:300 克",
+      "note": "羊肉先剁细，香味更重。"
+    },
+    {
+      "original": "酸奶",
+      "substitute": "淡奶油",
+      "ratio": "300 克:250 克",
+      "note": "口感更厚，酸味变淡。"
+    }
+  ],
+  "variations": [
+    "加一勺番茄膏炒进红油里。，成败就在这一步。",
+    "撒一点孜然粉，香气更足。，这点要注意。"
+  ],
+  "serving_suggestion": "装盘后拌开吃，配一杯咸酸奶。，这是关键点。",
+  "storage": "生饺子冷冻一个月，熟品冷藏一天。",
+  "nutrition_estimate": {
+    "basis": "每份约 260 克",
+    "calories_kcal": 520,
+    "protein_g": 24,
+    "fat_g": 20,
+    "carbs_g": 58,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
-  {
-   "n": 2,
-   "text": "盖湿布醒面三十分钟，中途再揉一次。，火候要稳，别忽大忽小。",
-   "time_min": 33,
-   "heat": "无火",
-   "tip": "醒透了才好擀。，火候要稳，别忽大忽小。",
-   "visual_cue": "按下去缓慢回弹，这一点很关键。"
-  },
-  {
-   "n": 3,
-   "text": "牛肉末加洋葱末、盐和黑胡椒，顺一个方向搅上劲。",
-   "time_min": 6,
-   "heat": "无火",
-   "tip": "搅到发黏，馅才抱团。，火候要稳，别忽大忽小。",
-   "visual_cue": "肉馅成团，筷子立得住"
-  },
-  {
-   "n": 4,
-   "text": "面团擀成两毫米薄片，切成五厘米方块。，火候要稳，别忽大忽小。",
-   "time_min": 12,
-   "heat": "无火",
-   "tip": "越薄越好，透光能看见手指。，火候要稳，别忽大忽小。",
-   "visual_cue": "面片薄匀，边缘整齐"
-  },
-  {
-   "n": 5,
-   "text": "每张面片放指甲盖大的馅，四角捏合封口。，火候要稳，别忽大忽小。",
-   "time_min": 22,
-   "heat": "无火",
-   "tip": "馅别多，多了煮的时候撑破。，火候要稳，别忽大忽小。",
-   "visual_cue": "小包挺立，封口紧实"
-  },
-  {
-   "n": 6,
-   "text": "锅烧开水加盐，下饺子煮八分钟。，火候要稳，别忽大忽小。",
-   "time_min": 10,
-   "heat": "中火",
-   "tip": "水要宽，饺子才不粘。，火候要稳，别忽大忽小。",
-   "visual_cue": "饺子浮起，皮呈半透明"
-  },
-  {
-   "n": 7,
-   "text": "捞出沥干装盘，趁热淋上酸奶。，火候要稳，别忽大忽小。",
-   "time_min": 3,
-   "heat": "无火",
-   "tip": "酸奶要浓稠，挂得住饺子。，火候要稳，别忽大忽小。",
-   "visual_cue": "白酱覆盖，饺子微露"
-  },
-  {
-   "n": 8,
-   "text": "黄油小火化开，加红椒粉炒出红油。，火候要稳，别忽大忽小。",
-   "time_min": 3,
-   "heat": "小火",
-   "tip": "红椒粉一下锅就关火，久了发苦。，火候要稳，别忽大忽小。",
-   "visual_cue": "油色橘红，香气上冲"
-  },
-  {
-   "n": 9,
-   "text": "把红油淋在酸奶上，撒薄荷碎趁热吃。，火候要稳，别忽大忽小。",
-   "time_min": 2,
-   "heat": "无火",
-   "tip": "淋油时听得到滋滋声才对。，火候要稳，别忽大忽小。",
-   "visual_cue": "红白相间，薄荷点缀"
-  }
- ],
- "tips": [
-  "面团要硬，擀薄才不破皮。，这一点很关键。",
-  "馅只放黄豆大，多了会煮破。，这一点很关键。",
-  "红椒粉下锅立刻关火，久了发苦。，这一点很关键。"
- ],
- "common_mistakes": [
-  "面太软，擀开就粘成一团。，这一点很关键。",
-  "馅包太多，煮的时候全漏。，这一点很关键。",
-  "酸奶太稀，浇上去流一盘子。，这一点很关键。"
- ],
- "substitutions": [
-  {
-   "original": "牛肉末",
-   "substitute": "羊肉",
-   "ratio": "300 克:300 克",
-   "note": "羊肉先剁细，香味更重。"
-  },
-  {
-   "original": "酸奶",
-   "substitute": "淡奶油",
-   "ratio": "300 克:250 克",
-   "note": "口感更厚，酸味变淡。"
-  }
- ],
- "variations": [
-  "加一勺番茄膏炒进红油里。，这一点很关键。",
-  "撒一点孜然粉，香气更足。，这一点很关键。"
- ],
- "serving_suggestion": "装盘后拌开吃，配一杯咸酸奶。，这一点很关键。",
- "storage": "生饺子冷冻一个月，熟品冷藏一天。",
- "nutrition_estimate": {
-  "basis": "每份约 260 克",
-  "calories_kcal": 520,
-  "protein_g": 24,
-  "fat_g": 20,
-  "carbs_g": 58,
-  "sodium_mg": 760,
-  "is_estimate": true,
-  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
- },
- "allergens": [
-  "egg",
-  "gluten",
-  "milk"
- ],
- "diet_tags": [],
- "food_safety_notes": [
-  "含蛋类、乳制品与小麦，过敏者慎食；牛肉馅须煮至完全熟透，饺子中心不得夹生；熟品冷藏不超过一天，复热须彻底加热。"
- ],
- "origin_note": "土耳其家庭几乎人人会包的迷你饺子，小到一勺能盛好几只。煮好浇上蒜味酸奶和红椒黄油，酸、香、辣一起压上来。",
- "tags": [
-  "土耳其",
-  "面食",
-  "饺子",
-  "酸奶"
- ],
- "related_ids": [
-  "turkish-lahmacun",
-  "turkish-yogurt-soup",
-  "turkish-kofta"
- ],
- "image_url": null,
- "image_credit": null,
- "status": "published",
- "created_at": "2026-11-24",
- "updated_at": "2026-11-24"
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类、乳制品与小麦，过敏者慎食；牛肉馅须煮至完全熟透，饺子中心不得夹生；熟品冷藏不超过一天，复热须彻底加热。"
+  ],
+  "origin_note": "土耳其家庭几乎人人会包的迷你饺子，小到一勺能盛好几只。煮好浇上蒜味酸奶和红椒黄油，酸、香、辣一起压上来。",
+  "tags": [
+    "土耳其",
+    "面食",
+    "饺子",
+    "酸奶"
+  ],
+  "related_ids": [
+    "turkish-lahmacun",
+    "turkish-yogurt-soup",
+    "turkish-kofta"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
 }

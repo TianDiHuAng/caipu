@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-24T03:37:01.407Z
+> 生成时间：2026-11-24T03:47:00.234Z
 
-**总览**：工程任务 49/53；菜谱内容 1679/3274（51.3%），共 631 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1685/3274（51.5%），共 631 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -416,7 +416,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1029/1935）
+### 外国菜系（1035/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，57/107</summary>
 
@@ -958,12 +958,12 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>西非菜 west-african</b> — C 级，20/25</summary>
+<details><summary><b>西非菜 west-african</b> — C 级，26/25</summary>
 
-- [ ] `P4-west-african/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 3
-- [ ] `P4-west-african/soup` 汤羹（Soup）目标 5，已完成 2
-- [ ] `P4-west-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 3
-- [x] `P4-west-african/snack` 小吃（Street Food）目标 5，已完成 5
+- [ ] `P4-west-african/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 4
+- [ ] `P4-west-african/soup` 汤羹（Soup）目标 5，已完成 4
+- [ ] `P4-west-african/main-meat` 主菜·肉（Meat Main）目标 5，已完成 4
+- [x] `P4-west-african/snack` 小吃（Street Food）目标 5，已完成 7
 - [ ] `P4-west-african/sauce` 酱汁与基础调味（Sauce）目标 5，已完成 3
 - [x] `P4-west-african/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 0，已完成 2
 - [x] `P4-west-african/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 1
