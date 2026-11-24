@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "british-cullen-skink",
+  "name": {
+    "zh": "苏格兰鳕鱼浓汤",
+    "en": "Cullen Skink",
+    "original": "Cullen skink"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "british"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 45,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳕鱼",
+          "name_en": "cod",
+          "amount": 500,
+          "unit": "g",
+          "note": "去皮",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 500,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "木勺",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鳕鱼擦干，检查有没有残刺。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "细刺挑干净，汤才顺口。，火候要稳，别忽大忽小。",
+      "visual_cue": "鱼肉干净，表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "锅化黄油，小火炒洋葱到透明。，火候要稳，别忽大忽小。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "洋葱炒软，甜味才出来。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱软塌，边缘发黄"
+    },
+    {
+      "n": 3,
+      "text": "撒面粉炒匀，倒清水搅到无颗粒。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "面粉先炒，汤才稠得匀。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤汁微稠，无结块，这一点很关键。"
+    },
+    {
+      "n": 4,
+      "text": "加土豆块，小火煮十五分钟到软。，火候要稳，别忽大忽小。",
+      "time_min": 17,
+      "heat": "小火",
+      "tip": "土豆煮到一压就碎。，火候要稳，别忽大忽小。",
+      "visual_cue": "土豆软透，汤变稠，这一点很关键。"
+    },
+    {
+      "n": 5,
+      "text": "鳕鱼整块放入，小火煮六分钟。，火候要稳，别忽大忽小。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "鱼别久煮，一散就老。，火候要稳，别忽大忽小。",
+      "visual_cue": "鱼肉变白，能剥落，这一点很关键。"
+    },
+    {
+      "n": 6,
+      "text": "捞出鳕鱼撕成大块，去掉鱼皮。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "撕大块，吃着才有口感。，火候要稳，别忽大忽小。",
+      "visual_cue": "鱼块白嫩，纹理清楚"
+    },
+    {
+      "n": 7,
+      "text": "倒牛奶小火加热，别煮沸。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "牛奶一沸就起膜，别煮开。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤色乳白，微微冒气"
+    },
+    {
+      "n": 8,
+      "text": "放回鱼块，加盐和黑胡椒调味。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "盐最后调，鱼肉才不柴。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤浓味鲜，鱼块完整"
+    },
+    {
+      "n": 9,
+      "text": "盛碗后撒上一层黑胡椒，趁热端上桌即可食用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热喝，凉了会腥。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤色奶白，胡椒点缀"
+    }
+  ],
+  "tips": [
+    "鱼最后煮，肉才嫩。，这一点很关键。",
+    "牛奶别煮沸，汤才顺滑。，这一点很关键。",
+    "土豆煮烂一点，汤自然稠。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "鱼煮太久，散成碎渣。，这一点很关键。",
+    "牛奶煮开，表面起一层膜。，这一点很关键。",
+    "土豆没煮透，汤水发清。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳕鱼",
+      "substitute": "三文鱼",
+      "ratio": "500 克:500 克",
+      "note": "油脂更多，奶量减一百毫升。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "500 毫升:250 毫升",
+      "note": "需兑水一半，质地更厚。"
+    }
+  ],
+  "variations": [
+    "加一点白葡萄酒，香气更清。，这一点很关键。",
+    "撒韭菜碎，颜色更好看。，这一点很关键。"
+  ],
+  "serving_suggestion": "配全麦面包和黄油，趁热喝。，这一点很关键。",
+  "storage": "冷藏两天，复热别煮沸。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 380,
+    "protein_g": 28,
+    "fat_g": 18,
+    "carbs_g": 28,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鱼类、乳制品与麸质，过敏者慎食；鱼肉须煮至完全不透明、易剥落；含牛奶的汤复热时不要煮到沸腾。"
+  ],
+  "origin_note": "苏格兰东北部的渔村汤，鳕鱼和土豆洋葱一起煮，最后加牛奶。浓稠奶白，冬天喝一碗最暖。，这一点很关键。",
+  "tags": [
+    "英式",
+    "汤",
+    "鳕鱼",
+    "土豆"
+  ],
+  "related_ids": [
+    "british-fish-and-chips",
+    "british-potato-and-onion-soup",
+    "british-scones"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

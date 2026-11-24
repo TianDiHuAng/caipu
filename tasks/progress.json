@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:53:53.587Z",
+  "generatedAt": "2026-11-24T03:01:51.061Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 629,
     "target": 3274,
-    "actual": 1649,
-    "coverage": 0.503665241295052
+    "actual": 1655,
+    "coverage": 0.5054978619425778
   },
   "regions": {
     "cn": [
@@ -5222,25 +5222,28 @@
         "en": "British",
         "tier": "B",
         "target": 38,
-        "actual": 14,
+        "actual": 20,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "british-roast-beef",
-              "british-shepherds-pie"
+              "british-shepherds-pie",
+              "british-steak-ale-pie",
+              "british-toad-in-the-hole"
             ]
           },
           {
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "british-bread-butter-pudding",
+              "british-cornish-pasty",
               "british-scones",
               "british-yorkshire-pudding"
             ]
@@ -5249,8 +5252,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "british-apple-crumble",
               "british-bread-butter-pudding",
               "british-eton-mess",
               "british-sticky-toffee-pudding",
@@ -5261,18 +5265,20 @@
             "category": "breakfast",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "british-full-breakfast",
-              "british-scones"
+              "british-scones",
+              "british-welsh-rarebit"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "british-cullen-skink",
               "british-potato-and-onion-soup"
             ]
           },

@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "british-steak-ale-pie",
+  "name": {
+    "zh": "英式啤酒牛肉派",
+    "en": "Steak and Ale Pie",
+    "original": "Steak and ale pie"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "british"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 122,
+    "total_min": 152
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 700,
+          "unit": "g",
+          "note": "牛腱切块",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 350,
+          "unit": "g",
+          "note": "派皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "啤酒",
+          "name_en": "beer",
+          "amount": 330,
+          "unit": "ml",
+          "note": "炖制",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 180,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 110,
+          "unit": "g",
+          "note": "派皮与煎肉",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 3,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "炖制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "炖制",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 60,
+          "unit": "g",
+          "note": "刷面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "烤盘",
+    "擀面杖",
+    "木勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切大块，用厨房纸吸干水分。，火候要稳，别忽大忽小。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉块擦干，煎时才上色。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉块干爽，切面整齐"
+    },
+    {
+      "n": 2,
+      "text": "炖锅化一半黄油，牛肉分批煎上色。，火候要稳，别忽大忽小。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "分批煎，锅温才不掉。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉块焦褐，锅底有焦香"
+    },
+    {
+      "n": 3,
+      "text": "盛出牛肉，余油炒洋葱和胡萝卜。，火候要稳，别忽大忽小。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒软，汤才甜。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱透明，胡萝卜发亮"
+    },
+    {
+      "n": 4,
+      "text": "撒两克面粉炒匀，倒啤酒和清水。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "面粉炒过，汤才浓。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤体微稠，泡沫消散"
+    },
+    {
+      "n": 5,
+      "text": "放回牛肉，加香叶和百里香，小火炖一小时。，火候要稳，别忽大忽小。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "小火慢炖，肉才酥。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤汁浓稠，肉一戳就散"
+    },
+    {
+      "n": 6,
+      "text": "加盐和黑胡椒调味，放凉备用。，火候要稳，别忽大忽小。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "馅要放凉，派皮才不软。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤汁浓稠，味道厚实"
+    },
+    {
+      "n": 7,
+      "text": "余下面粉加剩余黄油搓成颗粒，加水和团。，火候要稳，别忽大忽小。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "黄油要冷，派皮才酥。，火候要稳，别忽大忽小。",
+      "visual_cue": "面团光滑，手感凉，这一点很关键。"
+    },
+    {
+      "n": 8,
+      "text": "面团擀开盖住馅料，边缘压实。，火候要稳，别忽大忽小。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "边缘压实，汁才不漏。，火候要稳，别忽大忽小。",
+      "visual_cue": "派皮贴合，边缘密封"
+    },
+    {
+      "n": 9,
+      "text": "表面刷蛋液，二百度烤三十分钟上色。，火候要稳，别忽大忽小。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "表面金黄就出炉，别烤干。，火候要稳，别忽大忽小。",
+      "visual_cue": "表皮金黄，微微鼓起"
+    }
+  ],
+  "tips": [
+    "牛肉分批煎，才煎出焦香。，这一点很关键。",
+    "馅放凉再盖派皮，皮才不软。，这一点很关键。",
+    "派皮边缘压紧，汁才不漏。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "牛肉一次下锅，出水变煮。，这一点很关键。",
+    "馅还烫就盖皮，皮底湿软。，这一点很关键。",
+    "烤太久，肉汁收干。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "啤酒",
+      "substitute": "红酒",
+      "ratio": "330 毫升:300 毫升",
+      "note": "酸度更高，需多加糖五克。"
+    },
+    {
+      "original": "牛腱",
+      "substitute": "牛腩",
+      "ratio": "700 克:700 克",
+      "note": "脂肪更多，炖的时间缩短十分钟。"
+    }
+  ],
+  "variations": [
+    "上面加一层土豆泥，就是双层派。，这一点很关键。",
+    "加蘑菇同炖，鲜味更足。，这一点很关键。"
+  ],
+  "serving_suggestion": "切开浇肉汁，配豌豆和薯泥。，这一点很关键。",
+  "storage": "冷藏三天，冷冻一个月。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 780,
+    "protein_g": 42,
+    "fat_g": 44,
+    "carbs_g": 52,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质、蛋类与乳制品，过敏者慎食；含啤酒酒精，炖煮后仍有微量残留，儿童与孕妇慎食；牛肉须炖至软烂熟透。"
+  ],
+  "origin_note": "英国酒馆的招牌，牛肉和啤酒慢炖成浓馅，盖上酥皮烤到金黄。切开一股酒香扑出来。，这一点很关键。",
+  "tags": [
+    "英式",
+    "派",
+    "牛肉",
+    "啤酒"
+  ],
+  "related_ids": [
+    "british-roast-beef",
+    "british-yorkshire-pudding",
+    "british-shepherds-pie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
