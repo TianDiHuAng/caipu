@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:43:25.658Z",
+  "generatedAt": "2026-11-24T04:55:54.488Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 633,
+    "cells": 634,
     "target": 3274,
-    "actual": 1715,
-    "coverage": 0.5238240684178375
+    "actual": 1721,
+    "coverage": 0.5256566890653634
   },
   "regions": {
     "cn": [
@@ -6203,16 +6203,17 @@
         "en": "Cajun",
         "tier": "C",
         "target": 25,
-        "actual": 15,
+        "actual": 21,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "cajun-blackened-fish",
               "cajun-crab-cakes",
+              "cajun-shrimp-creole",
               "cajun-shrimp-etouffee"
             ]
           },
@@ -6220,11 +6221,12 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "cajun-dirty-rice",
               "cajun-jambalaya",
               "cajun-red-beans-and-rice",
+              "cajun-rice-dressing",
               "cajun-shrimp-etouffee"
             ]
           },
@@ -6232,30 +6234,42 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "cajun-chicken-and-rice-soup",
               "cajun-chicken-sausage-gumbo",
-              "cajun-chicken-stew"
+              "cajun-chicken-stew",
+              "cajun-shrimp-bisque"
             ]
           },
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "cajun-chicken-and-rice-soup"
+              "cajun-chicken-and-rice-soup",
+              "cajun-smothered-chicken"
             ]
           },
           {
             "category": "sauce",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "cajun-corn-maque-choux",
-              "cajun-remoulade"
+              "cajun-remoulade",
+              "cajun-sauce-piquant"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "cajun-hush-puppies"
             ]
           },
           {
