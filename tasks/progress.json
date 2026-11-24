@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:17:23.750Z",
+  "generatedAt": "2026-11-24T02:22:49.427Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 618,
+    "cells": 619,
     "target": 3274,
-    "actual": 1613,
-    "coverage": 0.4926695174098962
+    "actual": 1619,
+    "coverage": 0.4945021380574221
   },
   "regions": {
     "cn": [
@@ -6950,26 +6950,30 @@
         "en": "South African",
         "tier": "C",
         "target": 25,
-        "actual": 14,
+        "actual": 20,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 5,
             "ids": [
               "south-african-bobotie",
-              "south-african-potjiekos"
+              "south-african-boerewors",
+              "south-african-bredie",
+              "south-african-potjiekos",
+              "south-african-sosaties"
             ]
           },
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "south-african-bunny-chow",
               "south-african-pap",
+              "south-african-roosterkoek",
               "south-african-vetkoek"
             ]
           },
@@ -6977,8 +6981,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "south-african-koeksister",
               "south-african-malva-pudding",
               "south-african-milk-tart"
             ]
@@ -7020,6 +7025,15 @@
             "actual": 1,
             "ids": [
               "south-african-bunny-chow"
+            ]
+          },
+          {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "south-african-umngqusho"
             ]
           }
         ]
