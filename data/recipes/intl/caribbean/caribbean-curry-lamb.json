@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "caribbean-curry-lamb",
+  "name": {
+    "zh": "加勒比咖喱羊肉",
+    "en": "Curry Lamb",
+    "original": "Curry Goat"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "caribbean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 99,
+    "total_min": 119
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "rich",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 900,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 30,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "红辣椒",
+          "name_en": "red chili",
+          "amount": 12,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "炖制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "刀",
+    "勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切块，用盐、黑胡椒和一半咖喱粉腌十分钟。，手法轻些，锅气才足。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "先腌一下，味才进得去。，火别太大，食材才不糊。",
+      "visual_cue": "肉块挂粉，颜色转黄，动作放连贯，口感才有层次。"
+    },
+    {
+      "n": 2,
+      "text": "炖锅倒植物油，中火炒洋葱到软。，注意别烧干，风味才干净。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱炒透，甜味才出来。，锅温要匀，咸淡才好把握。",
+      "visual_cue": "洋葱透明，边缘微黄，保持小火，香气才留得住。"
+    },
+    {
+      "n": 3,
+      "text": "下蒜末、姜末和红辣椒炒香。，料别一次下太多，锅气才足。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "姜蒜别炒焦，会发苦。，时间掐准，吃口才舒服。",
+      "visual_cue": "香气浓，油色发亮，慢慢来别急，表面才漂亮。"
+    },
+    {
+      "n": 4,
+      "text": "加剩余咖喱粉，小火炒出香味。，时间掐准，成品才好看。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "小火炒粉，才不发苦。，汤汁别收太干，成品才好看。",
+      "visual_cue": "油色橙黄，香气呛鼻，料别一次下太多，形状才完整。"
+    },
+    {
+      "n": 5,
+      "text": "下羊肉翻炒，裹匀咖喱。，先试试温度，成品才好看。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "每块都裹上，颜色才一致。，注意别烧干，细节才到位。",
+      "visual_cue": "肉块油亮，通体橙黄，别急着加油，颜色才够亮。"
+    },
+    {
+      "n": 6,
+      "text": "倒清水，加百里香，煮开后转小火。，注意别烧干，口感才有层次。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水要没过肉，炖够才软。，汤汁别收太干，颜色才够亮。",
+      "visual_cue": "液面翻滚，香气上升，翻动放轻，口感才有层次。"
+    },
+    {
+      "n": 7,
+      "text": "盖盖炖五十分钟，中途翻动两次。，料别一次下太多，咸淡才好把握。",
+      "time_min": 52,
+      "heat": "小火",
+      "tip": "翻动一下，受热才匀。，料别一次下太多，味道才不闷。",
+      "visual_cue": "汤面微沸，肉块下沉，锅温要匀，味道才不闷。"
+    },
+    {
+      "n": 8,
+      "text": "下土豆块，再炖二十分钟。，盖盖焖一会儿，成品才好看。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "土豆后下，才不化在汤里。，动作放连贯，食材才不糊。",
+      "visual_cue": "土豆软透，边缘完整，慢慢来别急，形状才完整。"
+    },
+    {
+      "n": 9,
+      "text": "开盖收汁，尝味补盐盛盘。，动作放连贯，香气才不跑。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "汁要稠些，才挂得住肉。，慢慢来别急，香气才留得住。",
+      "visual_cue": "汁体浓稠，油光浮面，下手别慌，表面才漂亮。"
+    }
+  ],
+  "tips": [
+    "咖喱粉分两次用，香气更有层次。，注意别烧干，香气才留得住。",
+    "土豆后下，才不煮成糊。，翻动放轻，风味才干净。",
+    "小火慢炖，羊肉才酥。，别用力搅，成品才稳当。"
+  ],
+  "common_mistakes": [
+    "咖喱粉一次全下又炒久，发苦。，手法轻些，形状才完整。",
+    "火太大，汤汁烧干粘锅。，手法轻些，风味才干净。",
+    "土豆早下，最后全化在汤里。，起锅前尝味，味道才进得去。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "鸡腿肉",
+      "ratio": "900 克:900 克",
+      "note": "炖制时间减三十分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "南瓜",
+      "ratio": "300 克:300 克",
+      "note": "更易烂，炖制时间减五分钟。"
+    }
+  ],
+  "variations": [
+    "加一点椰奶，辣味更圆。，别用力搅，口感才有层次。",
+    "加青豆，颜色更清新。，顺序照着来，细节才到位。"
+  ],
+  "serving_suggestion": "配米饭或印度薄饼。，料别一次下太多，口感才有层次。",
+  "storage": "冷藏两天，复热用小火。，份量心里有数，香气才留得住。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 620,
+    "protein_g": 40,
+    "fat_g": 40,
+    "carbs_g": 24,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "羊肉须炖至软烂熟透、无血色肉汁；咖喱粉炒制时油温高易溅，注意防止烫伤；炖锅滚沸，开盖时先侧身放气。"
+  ],
+  "origin_note": "加勒比的咖喱羊肉，咖喱味比印度版更浓烈，土豆吸满汤汁。配米饭，一勺就够下饭。，留意锅底，细节才到位。",
+  "tags": [
+    "加勒比",
+    "羊肉",
+    "咖喱",
+    "炖锅"
+  ],
+  "related_ids": [
+    "caribbean-curry-chicken",
+    "caribbean-pepperpot-beef",
+    "caribbean-rice-and-peas"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

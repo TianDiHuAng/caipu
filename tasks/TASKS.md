@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-24T06:08:06.512Z
+> 生成时间：2026-11-24T06:19:01.919Z
 
-**总览**：工程任务 49/53；菜谱内容 1757/3274（53.7%），共 637 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1763/3274（53.8%），共 638 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -416,7 +416,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1107/1935）
+### 外国菜系（1113/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，63/107</summary>
 
@@ -932,13 +932,14 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>加勒比菜 caribbean</b> — C 级，14/25</summary>
+<details><summary><b>加勒比菜 caribbean</b> — C 级，20/25</summary>
 
-- [ ] `P4-caribbean/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 3
-- [ ] `P4-caribbean/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 3
+- [ ] `P4-caribbean/main-poultry` 主菜·禽（Poultry Main）目标 5，已完成 4
+- [ ] `P4-caribbean/main-seafood` 主菜·海鲜（Seafood Main）目标 5，已完成 4
 - [ ] `P4-caribbean/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 2
-- [ ] `P4-caribbean/drink` 饮品（Drink）目标 5，已完成 1
-- [ ] `P4-caribbean/dessert` 甜点（Dessert）目标 5，已完成 2
+- [ ] `P4-caribbean/drink` 饮品（Drink）目标 5，已完成 2
+- [ ] `P4-caribbean/dessert` 甜点（Dessert）目标 5，已完成 3
+- [x] `P4-caribbean/main-meat` 主菜·肉（Meat Main）目标 0，已完成 2
 - [x] `P4-caribbean/soup` 汤羹（Soup）目标 0，已完成 1
 - [x] `P4-caribbean/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
 - [x] `P4-caribbean/staple-bread` 主食·饼（Bread Staple）目标 0，已完成 1
