@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "peruvian-ocopa",
+  "name": {
+    "zh": "秘鲁核桃辣酱土豆",
+    "en": "Ocopa",
+    "original": "Ocopa"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "peruvian"
+  },
+  "category": [
+    "appetizer",
+    "cold-dish"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 700,
+          "unit": "g",
+          "note": "黄心小土豆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "核桃",
+          "name_en": "walnut",
+          "amount": 100,
+          "unit": "g",
+          "note": "去皮烘香",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 80,
+          "unit": "g",
+          "note": "咸味硬质奶酪",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili-powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "按口味增减",
+          "optional": false
+        },
+        {
+          "name": "消化饼干",
+          "name_en": "digestive-biscuit",
+          "amount": 40,
+          "unit": "g",
+          "note": "增稠用",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调稀酱体",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable-oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒香用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black-pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 60,
+          "unit": "g",
+          "note": "垫盘",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "搅拌机",
+    "平底锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆带皮蒸二十五分钟至叉子能轻松插入，取出稍凉后剥皮，切成两厘米厚片。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "带皮蒸不容易吸水，口感更粉。",
+      "visual_cue": "土豆皮裂开，叉子一插到底"
+    },
+    {
+      "n": 2,
+      "text": "核桃用干锅小火烘四分钟至出香，搓掉外层薄皮。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "核桃皮带涩，去掉酱才顺滑。",
+      "visual_cue": "核桃出油发亮，薄皮一搓就落"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒植物油，下洋葱丝和蒜末小火炒六分钟至软甜。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱炒到甜，酱的底味才厚。",
+      "visual_cue": "洋葱软塌透明，锅里有甜香"
+    },
+    {
+      "n": 4,
+      "text": "搅拌机里放核桃、奶酪、消化饼干、炒好的洋葱蒜、辣椒粉、盐和黑胡椒。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "饼干是天然的增稠剂，别省。",
+      "visual_cue": "材料堆在杯里，干湿分层"
+    },
+    {
+      "n": 5,
+      "text": "分次倒入牛奶打成浓稠糊状，尝味后补盐，质地要能挂在勺背上。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "牛奶慢慢加，太稀就回不去了。",
+      "visual_cue": "酱体顺滑，勺子舀起缓慢流下"
+    },
+    {
+      "n": 6,
+      "text": "盘底铺生菜，土豆片叠放，浇上核桃酱，撒少量辣椒粉和黑胡椒。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱要盖住土豆，但边缘留出白色。",
+      "visual_cue": "酱面平滑，点缀红椒粉"
+    }
+  ],
+  "tips": [
+    "没有黄心小土豆，用普通土豆蒸久一点也可。",
+    "核桃酱可提前一天做好冷藏，上桌再浇。",
+    "喜欢酸味可以加一勺青柠汁，能把坚果的油腻压下去。"
+  ],
+  "common_mistakes": [
+    "土豆蒸完泡在水里，吸水后口感发水。",
+    "核桃没有先烘干就直接打，酱里带一股生涩味。",
+    "牛奶一次倒完，酱稀到挂不住土豆。"
+  ],
+  "substitutions": [
+    {
+      "original": "核桃",
+      "substitute": "杏仁",
+      "ratio": "100克:100克",
+      "note": "香气更淡，可加一勺烘过的芝麻。"
+    },
+    {
+      "original": "奶酪",
+      "substitute": "羊乳酪",
+      "ratio": "80克:80克",
+      "note": "咸味更重，盐要减半。"
+    }
+  ],
+  "variations": [
+    "加一撮孜然粉，香气更接近安第斯山区版本。",
+    "酱里拌入烤过的红椒，颜色更红亮，甜味也更足。"
+  ],
+  "serving_suggestion": "冷食上桌，配煮玉米和炸玉米粒，作为烧烤前的前菜。",
+  "storage": "酱冷藏三天，土豆当天吃完；酱与土豆分开存放，上桌前再浇。",
+  "nutrition_estimate": {
+    "basis": "每份约260克",
+    "calories_kcal": 380,
+    "protein_g": 11,
+    "fat_g": 22,
+    "carbs_g": 36,
+    "sodium_mg": 420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "tree-nut",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "含奶酪与牛奶的冷酱须全程冷藏，室温放置不超过两小时；土豆须蒸至中心软透后尽快冷却。"
+  ],
+  "origin_note": "Ocopa 来自安第斯山城阿雷基帕，核桃、奶酪和辣椒打成酱浇在冷土豆上。与利马版本的黄辣椒酱土豆相比，它的坚果香更突出，口感也更厚。",
+  "tags": [
+    "秘鲁",
+    "核桃",
+    "土豆",
+    "前菜"
+  ],
+  "related_ids": [
+    "peruvian-papa-a-la-huancaina",
+    "peruvian-causa-limena"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

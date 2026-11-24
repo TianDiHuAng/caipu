@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "peruvian-seco-de-res",
+  "name": {
+    "zh": "秘鲁香菜炖牛肉",
+    "en": "Seco de Res",
+    "original": "Seco de Res"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "peruvian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 70,
+    "total_min": 90
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "herbal",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 700,
+          "unit": "g",
+          "note": "牛腩或牛肩，切四厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 80,
+          "unit": "g",
+          "note": "连茎一起打泥",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "豌豆",
+          "name_en": "green-pea",
+          "amount": 100,
+          "unit": "g",
+          "note": "冷冻即可",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili-powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "微辣",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable-oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black-pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "炖煮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底炖锅",
+    "搅拌机",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉块用厨房纸吸干，撒一半盐和黑胡椒，静置十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "表面擦干才能煎出焦壳。",
+      "visual_cue": "肉块干爽，按下去回弹"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅倒植物油烧热，分批把牛肉煎到六面焦褐，盛出备用。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "一次别下太多，锅里挤了就变成水煮。",
+      "visual_cue": "肉块表面深褐，锅底有焦渣"
+    },
+    {
+      "n": 3,
+      "text": "原锅下洋葱丁和蒜末，小火炒六分钟，把锅底的焦渣刮起来。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱炒甜，底味才厚。",
+      "visual_cue": "洋葱透明，锅底干净"
+    },
+    {
+      "n": 4,
+      "text": "香菜连茎加水打成浓绿泥，倒进锅里，加辣椒粉和孜然煮开。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "香菜只用叶会太淡，茎才是香气来源。",
+      "visual_cue": "汤色深绿，香气冲鼻"
+    },
+    {
+      "n": 5,
+      "text": "牛肉回锅，加热水没过肉面，小火盖盖炖四十分钟。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "水面微微冒泡即可，大滚肉会柴。",
+      "visual_cue": "肉块能用筷子插进去"
+    },
+    {
+      "n": 6,
+      "text": "放土豆和胡萝卜，继续炖十五分钟至蔬菜软透。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "土豆后放，否则会炖成糊。",
+      "visual_cue": "土豆边缘化开，胡萝卜变软"
+    },
+    {
+      "n": 7,
+      "text": "加豌豆煮三分钟，用剩下的盐调味，撒黑胡椒上桌。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "豌豆最后放，颜色才翠。",
+      "visual_cue": "豌豆翠绿，汤汁浓稠挂勺"
+    }
+  ],
+  "tips": [
+    "香菜泥打好立刻下锅，久放会氧化发黑。",
+    "喜欢更浓的青草香可留一把香菜最后切碎撒面。",
+    "牛腩比牛腱更适合，胶质炖出来汤更厚。"
+  ],
+  "common_mistakes": [
+    "牛肉没煎直接炖，汤寡淡无层次。",
+    "香菜泥在锅里煮太久，颜色和香气都发暗发黑。",
+    "土豆一开始就下锅，炖到最后全化在汤里。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "鸡腿肉",
+      "ratio": "700克:700克",
+      "note": "炖的时间缩短到二十五分钟。"
+    },
+    {
+      "original": "豌豆",
+      "substitute": "青豆",
+      "ratio": "100克:100克",
+      "note": "口感接近，煮三分钟即可。"
+    }
+  ],
+  "variations": [
+    "加一勺黄辣椒酱，辣味更接近秘鲁本地版本。",
+    "配白饭和炸香蕉，是秘鲁北部的吃法。"
+  ],
+  "serving_suggestion": "浇在白饭上，配一份洋葱青柠拌菜解腻，汤汁拌饭是重点。",
+  "storage": "冷藏三天，冷冻一个月；复热小火加热并补少量水。",
+  "nutrition_estimate": {
+    "basis": "每份约330克",
+    "calories_kcal": 520,
+    "protein_g": 38,
+    "fat_g": 28,
+    "carbs_g": 26,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖至中心完全熟透、纤维能轻松撕开；剩菜复热须彻底加热至沸腾。"
+  ],
+  "origin_note": "Seco 在秘鲁指用香菜和蔬菜慢炖到汤汁收浓的做法，海边人家用牛肉，山区用羊肉。绿色汤汁是它的标志，配白饭一浇，几乎家家都会做。",
+  "tags": [
+    "秘鲁",
+    "牛肉",
+    "香菜",
+    "炖菜"
+  ],
+  "related_ids": [
+    "peruvian-aji-de-gallina",
+    "peruvian-tacu-tacu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

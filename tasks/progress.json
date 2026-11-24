@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T07:59:52.332Z",
+  "generatedAt": "2026-11-24T08:09:50.015Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 638,
+    "cells": 639,
     "target": 3274,
-    "actual": 1800,
-    "coverage": 0.5497861942577886
+    "actual": 1808,
+    "coverage": 0.5522296884544899
   },
   "regions": {
     "cn": [
@@ -6520,15 +6520,16 @@
         "en": "Peruvian",
         "tier": "C",
         "target": 25,
-        "actual": 21,
+        "actual": 29,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "peruvian-ceviche",
+              "peruvian-pescado-a-lo-macho",
               "peruvian-tiradito"
             ]
           },
@@ -6547,11 +6548,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 5,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "peruvian-causa-limena",
               "peruvian-ceviche",
+              "peruvian-ocopa",
               "peruvian-papa-a-la-huancaina",
+              "peruvian-papa-rellena",
               "peruvian-salsa-criolla"
             ]
           },
@@ -6559,8 +6562,9 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "peruvian-chaufa",
               "peruvian-lomo-saltado",
               "peruvian-tacu-tacu"
             ]
@@ -6579,21 +6583,33 @@
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "peruvian-anticuchos",
               "peruvian-lomo-saltado",
-              "peruvian-rocoto-relleno"
+              "peruvian-rocoto-relleno",
+              "peruvian-seco-de-res"
             ]
           },
           {
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "peruvian-causa-limena",
-              "peruvian-ceviche"
+              "peruvian-ceviche",
+              "peruvian-ocopa"
+            ]
+          },
+          {
+            "category": "dessert",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "peruvian-arroz-zambito",
+              "peruvian-suspiro-limenao"
             ]
           },
           {
@@ -6606,12 +6622,12 @@
             ]
           },
           {
-            "category": "dessert",
+            "category": "snack",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "peruvian-suspiro-limenao"
+              "peruvian-papa-rellena"
             ]
           },
           {
