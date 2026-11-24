@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "south-asian-sambar",
+  "name": {
+    "zh": "南亚酸辣扁豆汤",
+    "en": "Lentil Tamarind Soup",
+    "original": "Sambar"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "south-asian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扁豆",
+          "name_en": "lentil",
+          "amount": 250,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 30,
+          "unit": "g",
+          "note": "取汁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 12,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "芥末籽",
+          "name_en": "mustard seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "爆香",
+          "optional": false
+        },
+        {
+          "name": "咖喱叶",
+          "name_en": "curry leaves",
+          "amount": 6,
+          "unit": "g",
+          "note": "爆香",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "木勺",
+    "碗",
+    "小煎锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "扁豆洗净，加清水煮开后转小火。，火候要稳，别忽大忽小。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "水开再转小火，豆汤才清。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤面翻滚，豆子浮起"
+    },
+    {
+      "n": 2,
+      "text": "煮二十五分钟到豆子完全散开。，火候要稳，别忽大忽小。",
+      "time_min": 27,
+      "heat": "小火",
+      "tip": "煮到用勺一压就碎。，火候要稳，别忽大忽小。",
+      "visual_cue": "豆粒开花，汤变稠，这一点很关键。"
+    },
+    {
+      "n": 3,
+      "text": "罗望子用热水泡开，滤出酸汁。，火候要稳，别忽大忽小。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "泡软后揉出汁，渣别下锅。，火候要稳，别忽大忽小。",
+      "visual_cue": "汁液深褐，果肉分离"
+    },
+    {
+      "n": 4,
+      "text": "锅中植物油烧热，下芥末籽爆到跳。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "籽一跳就下料，别等发黑。，火候要稳，别忽大忽小。",
+      "visual_cue": "籽粒跳动，香气窜出"
+    },
+    {
+      "n": 5,
+      "text": "加咖喱叶、姜末和洋葱丁炒到软。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "咖喱叶一炸就香，动作要快。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱透明，油色发黄"
+    },
+    {
+      "n": 6,
+      "text": "下番茄和辣椒粉炒到出汁。，火候要稳，别忽大忽小。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "番茄炒烂，汤才酸甜平衡。，火候要稳，别忽大忽小。",
+      "visual_cue": "番茄软塌，汤汁渗出"
+    },
+    {
+      "n": 7,
+      "text": "把豆汤和罗望子汁倒入锅中，加咖喱粉。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "慢慢倒，边倒边搅。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤色橙褐，浓稠挂勺"
+    },
+    {
+      "n": 8,
+      "text": "小火煮十分钟，加盐调味，撒香菜。，火候要稳，别忽大忽小。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "盐最后加，豆才不硬。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤面微沸，香菜浮面"
+    }
+  ],
+  "tips": [
+    "豆子煮到散开，汤才稠。，这一点很关键。",
+    "罗望子汁滤渣，口感才顺。，这一点很关键。",
+    "芥末籽爆香是灵魂，别省。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "豆子没煮烂，汤里全是颗粒。，这一点很关键。",
+    "罗望子放太多，酸得发涩。，这一点很关键。",
+    "芥末籽炸黑，整锅发苦。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "罗望子",
+      "substitute": "青柠",
+      "ratio": "30 克:2 个",
+      "note": "酸味更清，需在关火后挤入。"
+    },
+    {
+      "original": "扁豆",
+      "substitute": "绿豆",
+      "ratio": "250 克:250 克",
+      "note": "煮的时间缩短五分钟。"
+    }
+  ],
+  "variations": [
+    "加茄子块同煮，口感更丰富。，这一点很关键。",
+    "加一勺酥油，香气更浓。，这一点很关键。"
+  ],
+  "serving_suggestion": "浇在米饭上，或配蒸米糕。，这一点很关键。",
+  "storage": "冷藏三天，冷冻一个月。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 250,
+    "protein_g": 14,
+    "fat_g": 8,
+    "carbs_g": 32,
+    "sodium_mg": 660,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含豆类，过敏者慎食；扁豆须彻底煮透避免胃肠不适；热汤分装放凉后再冷藏，避免长时间室温放置。"
+  ],
+  "origin_note": "南印度的日常汤菜，扁豆煮烂加罗望子调酸，最后爆一把香料。浇在米饭上，一顿就够。，这一点很关键。",
+  "tags": [
+    "南亚",
+    "汤",
+    "扁豆",
+    "酸辣"
+  ],
+  "related_ids": [
+    "south-asian-rasam",
+    "south-asian-dal-tadka",
+    "south-asian-jeera-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

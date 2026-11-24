@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:28:43.078Z",
+  "generatedAt": "2026-11-24T02:34:19.259Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 620,
+    "cells": 622,
     "target": 3274,
-    "actual": 1625,
-    "coverage": 0.4963347587049481
+    "actual": 1631,
+    "coverage": 0.498167379352474
   },
   "regions": {
     "cn": [
@@ -4458,15 +4458,16 @@
         "en": "South Asian",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 18,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "south-asian-jeera-rice"
+              "south-asian-jeera-rice",
+              "south-asian-vegetable-biryani"
             ]
           },
           {
@@ -4486,10 +4487,11 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "south-asian-dal-tadka",
-              "south-asian-rasam"
+              "south-asian-rasam",
+              "south-asian-sambar"
             ]
           },
           {
@@ -4515,8 +4517,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "south-asian-egg-curry"
+            ]
           },
           {
             "category": "main-tofu",
@@ -4529,9 +4533,28 @@
             "category": "staple-bread",
             "kind": "extra",
             "target": 0,
+            "actual": 2,
+            "ids": [
+              "south-asian-aloo-paratha",
+              "south-asian-chapati"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
             "actual": 1,
             "ids": [
-              "south-asian-chapati"
+              "south-asian-butter-chicken"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "south-asian-tomato-chutney"
             ]
           }
         ]
