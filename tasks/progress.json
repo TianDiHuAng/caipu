@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:58:07.947Z",
+  "generatedAt": "2026-11-24T04:06:38.506Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 631,
     "target": 3274,
-    "actual": 1691,
-    "coverage": 0.5164935858277336
+    "actual": 1697,
+    "coverage": 0.5183262064752596
   },
   "regions": {
     "cn": [
@@ -4778,26 +4778,29 @@
         "en": "Mediterranean",
         "tier": "B",
         "target": 38,
-        "actual": 21,
+        "actual": 27,
         "cells": [
           {
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "mediterranean-fattoush",
               "mediterranean-greek-salad",
-              "mediterranean-octopus-salad"
+              "mediterranean-octopus-salad",
+              "mediterranean-panzanella"
             ]
           },
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "mediterranean-baked-cod",
               "mediterranean-grilled-sardines",
+              "mediterranean-grilled-squid",
               "mediterranean-shrimp-saganaki"
             ]
           },
@@ -4805,9 +4808,10 @@
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "mediterranean-baba-ganoush",
+              "mediterranean-feta-dip",
               "mediterranean-hummus",
               "mediterranean-spanakopita",
               "mediterranean-tzatziki"
@@ -4817,20 +4821,22 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "mediterranean-briam",
               "mediterranean-ratatouille",
-              "mediterranean-stuffed-eggplant"
+              "mediterranean-stuffed-eggplant",
+              "mediterranean-stuffed-zucchini"
             ]
           },
           {
             "category": "sauce",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "mediterranean-hummus",
+              "mediterranean-olive-tapenade",
               "mediterranean-skhug",
               "mediterranean-toum",
               "mediterranean-tzatziki"
