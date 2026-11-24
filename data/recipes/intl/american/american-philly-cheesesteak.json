@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-philly-cheesesteak",
+  "name": {
+    "zh": "费城奶酪牛肉三明治",
+    "en": "Philly Cheesesteak",
+    "original": "Philly cheesesteak"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 55,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 600,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 4,
+          "unit": "piece",
+          "note": "长条面包",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "切达奶酪",
+          "name_en": "cheddar cheese",
+          "amount": 160,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "铲子",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉冻半小时后切薄片，越薄越好。，火候要稳，别忽大忽小。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "冻硬一点，才切得薄。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉片薄透，边缘整齐"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒植物油烧热，下洋葱丝炒到发软出甜味。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "炒到发黄，甜味才出来。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱软塌，颜色金黄"
+    },
+    {
+      "n": 3,
+      "text": "加青椒丝同炒，盛出备用。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "青椒别炒过，留一点脆。，火候要稳，别忽大忽小。",
+      "visual_cue": "椒丝发亮，仍挺括，这一点很关键。"
+    },
+    {
+      "n": 4,
+      "text": "锅烧到很热，牛肉片摊平煎。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "锅要够热，肉才不出水。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉片变色，边缘焦褐"
+    },
+    {
+      "n": 5,
+      "text": "用铲子切碎肉片，和蔬菜拌在一起。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "铲子切碎，夹面包才顺。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉碎均匀，蔬菜混合"
+    },
+    {
+      "n": 6,
+      "text": "加盐和黑胡椒调味，分成四堆。，火候要稳，别忽大忽小。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "分成堆，铺奶酪才方便。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉堆成型，调味均匀"
+    },
+    {
+      "n": 7,
+      "text": "每堆上铺切达奶酪片，盖盖焖一分钟到化开。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "盖盖焖，奶酪才化开。，火候要稳，别忽大忽小。",
+      "visual_cue": "奶酪融化，边缘流下"
+    },
+    {
+      "n": 8,
+      "text": "面包剖开烤热，铲起肉和奶酪夹入。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "面包烤热，夹起来才不软。，火候要稳，别忽大忽小。",
+      "visual_cue": "面包微脆，奶酪包裹"
+    }
+  ],
+  "tips": [
+    "牛肉冻硬再切，片才够薄。，这一点很关键。",
+    "锅要够热，肉才嫩不柴。，这一点很关键。",
+    "奶酪盖盖焖，才能全化开。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "牛肉切太厚，嚼不动。，这一点很关键。",
+    "锅不够热，肉出水变煮。，这一点很关键。",
+    "奶酪没化就夹，口感发硬。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600 克:600 克",
+      "note": "脂肪少，煎的时间缩短一分钟。"
+    },
+    {
+      "original": "切达奶酪",
+      "substitute": "马苏里拉奶酪",
+      "ratio": "160 克:160 克",
+      "note": "拉丝明显，风味偏淡。"
+    }
+  ],
+  "variations": [
+    "加蘑菇片同炒，味道更厚。，这一点很关键。",
+    "淋一点辣酱，风味更冲。，这一点很关键。"
+  ],
+  "serving_suggestion": "对半切开，配薯条和酸黄瓜。，这一点很关键。",
+  "storage": "冷藏一天，复热须烤透。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 640,
+    "protein_g": 42,
+    "fat_g": 32,
+    "carbs_g": 44,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质与乳制品，过敏者慎食；牛肉须煎至完全熟透；面包切开后尽快食用；成品冷藏不超过一天。"
+  ],
+  "origin_note": "费城的街头名吃，薄牛肉片和洋葱青椒一起煎，盖上奶酪化开夹进长面包。咬下去汁水直冒。，这一点很关键。",
+  "tags": [
+    "美式",
+    "三明治",
+    "牛肉",
+    "奶酪"
+  ],
+  "related_ids": [
+    "american-sloppy-joe",
+    "american-coleslaw",
+    "american-potato-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

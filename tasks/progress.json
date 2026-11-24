@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:47:49.453Z",
+  "generatedAt": "2026-11-24T02:53:53.587Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 628,
+    "cells": 629,
     "target": 3274,
-    "actual": 1643,
-    "coverage": 0.501832620647526
+    "actual": 1649,
+    "coverage": 0.503665241295052
   },
   "regions": {
     "cn": [
@@ -5700,18 +5700,19 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 55,
+        "actual": 61,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "american-bbq-ribs",
               "american-buffalo-wings",
               "american-chicken-pot-pie",
               "american-fried-chicken",
+              "american-philly-cheesesteak",
               "american-pot-roast",
               "american-pulled-pork",
               "american-salisbury-steak",
@@ -5759,8 +5760,9 @@
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
+              "american-biscuits-gravy",
               "american-breakfast-hash",
               "american-eggs-benedict",
               "american-hash-browns",
@@ -5823,6 +5825,36 @@
             ]
           },
           {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "american-bbq-chicken",
+              "buffalo-wings"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "american-corn-pudding",
+              "american-spinach-cheese-dip"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "american-fried-shrimp",
+              "american-shrimp-roll"
+            ]
+          },
+          {
             "category": "snack",
             "kind": "extra",
             "target": 0,
@@ -5842,30 +5874,12 @@
             ]
           },
           {
-            "category": "main-seafood",
+            "category": "staple-rice",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "american-fried-shrimp"
-            ]
-          },
-          {
-            "category": "appetizer",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "american-spinach-cheese-dip"
-            ]
-          },
-          {
-            "category": "main-poultry",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "buffalo-wings"
+              "american-jambalaya"
             ]
           }
         ]

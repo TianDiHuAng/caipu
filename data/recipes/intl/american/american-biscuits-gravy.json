@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-biscuits-gravy",
+  "name": {
+    "zh": "美式饼干浇肉汁",
+    "en": "Biscuits and Gravy",
+    "original": "Biscuits and gravy"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 52,
+    "total_min": 67
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 350,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 300,
+          "unit": "g",
+          "note": "做肉汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 400,
+          "unit": "ml",
+          "note": "面团与肉汁",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 90,
+          "unit": "g",
+          "note": "冷切丁",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 12,
+          "unit": "g",
+          "note": "膨松",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 6,
+          "unit": "g",
+          "note": "粗磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "平底锅",
+    "碗",
+    "擀面杖",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "烤箱预热到二百度，烤盘铺油纸。，火候要稳，别忽大忽小。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "提前预热，饼干才发得起来。，火候要稳，别忽大忽小。",
+      "visual_cue": "烤箱温度到位，烤盘备好"
+    },
+    {
+      "n": 2,
+      "text": "面粉、泡打粉和盐混匀，加冷黄油丁。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "黄油要冷，层次才明显。，火候要稳，别忽大忽小。",
+      "visual_cue": "颗粒粗砂，粉料均匀"
+    },
+    {
+      "n": 3,
+      "text": "倒牛奶揉成团，别过度揉搓。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "揉到没干粉就停，越揉越硬。，火候要稳，别忽大忽小。",
+      "visual_cue": "面团粗糙，略粘手，这一点很关键。"
+    },
+    {
+      "n": 4,
+      "text": "擀成两厘米厚，切出六块圆饼。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "刀直上直下切，边缘才分层。，火候要稳，别忽大忽小。",
+      "visual_cue": "饼坯厚实，边缘整齐"
+    },
+    {
+      "n": 5,
+      "text": "烤十五分钟到表面金黄。，火候要稳，别忽大忽小。",
+      "time_min": 17,
+      "heat": "无火",
+      "tip": "烤到侧面裂开，里面才熟。，火候要稳，别忽大忽小。",
+      "visual_cue": "表面金黄，侧面分层"
+    },
+    {
+      "n": 6,
+      "text": "平底锅倒植物油，炒散猪肉末。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉末炒散，别结大块。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉末松散，颜色变深"
+    },
+    {
+      "n": 7,
+      "text": "撒面粉炒一分钟，倒牛奶搅匀。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "面粉先炒过，汁才不结块。，火候要稳，别忽大忽小。",
+      "visual_cue": "锅底糊状，无干粉，这一点很关键。"
+    },
+    {
+      "n": 8,
+      "text": "小火煮到浓稠，加盐和大量黑胡椒。，火候要稳，别忽大忽小。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "不停搅，免得糊底。，火候要稳，别忽大忽小。",
+      "visual_cue": "汁体浓稠，能挂勺，这一点很关键。"
+    },
+    {
+      "n": 9,
+      "text": "饼干对半切开，浇上肉汁趁热吃。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "现浇现吃，饼干才不软塌。，火候要稳，别忽大忽小。",
+      "visual_cue": "汁水渗入，香气扑鼻"
+    }
+  ],
+  "tips": [
+    "黄油要冷，饼干才分层。，这一点很关键。",
+    "面团别揉多，揉久就硬。，这一点很关键。",
+    "黑胡椒要多，肉汁才有魂。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "黄油太软，饼干摊成饼。，这一点很关键。",
+    "肉汁没搅，结成一团团。，这一点很关键。",
+    "火太大，肉汁焦底发苦。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "300 克:300 克",
+      "note": "味道更浓，可多加黄油五克。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "400 毫升:200 毫升",
+      "note": "需兑水一半，质地更厚。"
+    }
+  ],
+  "variations": [
+    "肉汁里加辣椒碎，辣味更足。，这一点很关键。",
+    "饼干上加煎蛋，做成早餐堡。，这一点很关键。"
+  ],
+  "serving_suggestion": "淋满肉汁，配煎蛋和咖啡。，这一点很关键。",
+  "storage": "饼干常温一天，肉汁冷藏两天。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 680,
+    "protein_g": 24,
+    "fat_g": 38,
+    "carbs_g": 62,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含麸质、乳制品，过敏者慎食；绞肉须彻底炒熟；肉汁含牛奶，须煮至微沸；成品冷藏不超过两天，复热须煮透。"
+  ],
+  "origin_note": "美国南方的早餐标配，酥饼剖开浇满胡椒肉汁。咸香厚重，一份就能撑到中午。，这一点很关键。，很多人就是漏了这一步。",
+  "tags": [
+    "美式",
+    "早餐",
+    "面粉",
+    "猪肉"
+  ],
+  "related_ids": [
+    "american-buttermilk-biscuits",
+    "american-breakfast-hash",
+    "american-eggs-benedict"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
