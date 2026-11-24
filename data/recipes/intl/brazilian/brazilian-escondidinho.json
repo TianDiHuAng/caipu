@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "brazilian-escondidinho",
+  "name": {
+    "zh": "巴西牛肉土豆焗",
+    "en": "Escondidinho",
+    "original": "Escondidinho de Carne"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "brazilian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 72,
+    "total_min": 97
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 500,
+          "unit": "g",
+          "note": "炒馅",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 900,
+          "unit": "g",
+          "note": "做泥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调泥",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "调泥",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒馅",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "压泥器",
+    "烤盘",
+    "木勺",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆去皮切块，冷水下锅煮二十分钟到软。，火候要稳，别忽大忽小。",
+      "time_min": 24,
+      "heat": "中火",
+      "tip": "筷子能轻松插入就够了。，火候要稳，别忽大忽小。",
+      "visual_cue": "土豆发软，边缘起沙"
+    },
+    {
+      "n": 2,
+      "text": "压成泥，趁热加牛奶和黄油搅到顺滑。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "趁热加，泥才细腻不结块。，火候要稳，别忽大忽小。",
+      "visual_cue": "泥体顺滑，能拉出纹路"
+    },
+    {
+      "n": 3,
+      "text": "锅里倒橄榄油，炒香洋葱末和蒜末。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒到透明，甜味才出来。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱透亮，蒜香上涌"
+    },
+    {
+      "n": 4,
+      "text": "下牛肉末炒散，炒到水汽收干、边缘微焦。，火候要稳，别忽大忽小。",
+      "time_min": 8,
+      "heat": "中大火",
+      "tip": "炒到发焦，味道才厚。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉末松散，锅底无汤"
+    },
+    {
+      "n": 5,
+      "text": "加番茄丁、盐和黑胡椒，小火焖十分钟。，火候要稳，别忽大忽小。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "焖到番茄化开，馅才不干。，火候要稳，别忽大忽小。",
+      "visual_cue": "馅料浓稠，油色发红"
+    },
+    {
+      "n": 6,
+      "text": "烤盘底部铺一层土豆泥，压实。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "压平压实，铺馅才不塌。，火候要稳，别忽大忽小。",
+      "visual_cue": "泥层平整，厚度均匀"
+    },
+    {
+      "n": 7,
+      "text": "把牛肉馅均匀铺在泥上，再盖一层泥抹平。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盖严一点，烤的时候馅才不冒。，火候要稳，别忽大忽小。",
+      "visual_cue": "表面平整，边缘封住"
+    },
+    {
+      "n": 8,
+      "text": "表面刷一层融化的黄油，撒少量盐。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "刷油才烤得出焦壳。，火候要稳，别忽大忽小。",
+      "visual_cue": "表面油亮，无干粉，这一点很关键。"
+    },
+    {
+      "n": 9,
+      "text": "烤箱两百度烤二十分钟，表面金黄起泡。，火候要稳，别忽大忽小。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "烤到表面鼓起小泡才对。，火候要稳，别忽大忽小。",
+      "visual_cue": "表面焦黄，边缘微翘"
+    },
+    {
+      "n": 10,
+      "text": "出炉静置五分钟再切块。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置后切，层次才不散。，火候要稳，别忽大忽小。",
+      "visual_cue": "切面分层，泥体挺立"
+    }
+  ],
+  "tips": [
+    "土豆趁热压泥，才不结块。，这一点很关键。",
+    "牛肉末炒到微焦，味道才厚。，这一点很关键。",
+    "出炉静置五分钟，切块才不塌。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "土豆泥太稀，铺上去全塌。，这一点很关键。",
+    "馅没炒干，烤完一盘子汤。，这一点很关键。",
+    "没静置就切，层次全糊在一起。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "鸡胸肉",
+      "ratio": "500 克:500 克",
+      "note": "鸡肉瘦，油要多加二十毫升。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "120 毫升:100 毫升",
+      "note": "泥更浓郁，黄油可减十克。"
+    }
+  ],
+  "variations": [
+    "撒一层帕玛森芝士再烤，表面更脆。",
+    "加一勺番茄膏，馅色更红亮。，这一点很关键。"
+  ],
+  "serving_suggestion": "配白米饭和蔬菜沙拉，切大块上桌。",
+  "storage": "冷藏三天，复热用烤箱一百八十度。",
+  "nutrition_estimate": {
+    "basis": "每份约 330 克",
+    "calories_kcal": 590,
+    "protein_g": 28,
+    "fat_g": 32,
+    "carbs_g": 48,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品，过敏者慎食；牛肉馅须炒至完全熟透、无粉红色；成品冷藏不超过三天，复热须彻底加热至中心滚烫。"
+  ],
+  "origin_note": "巴西东北部的家常焗菜，牛肉馅藏在土豆泥下面，名字直译就是藏起来的东西。表面烤出焦壳，一勺挖下去冒热气。",
+  "tags": [
+    "巴西",
+    "焗菜",
+    "牛肉",
+    "土豆"
+  ],
+  "related_ids": [
+    "brazilian-carne-de-panela",
+    "brazilian-feijoada",
+    "brazilian-baiao-de-dois"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

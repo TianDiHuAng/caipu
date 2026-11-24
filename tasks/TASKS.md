@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-24T01:39:01.934Z
+> 生成时间：2026-11-24T01:44:12.021Z
 
-**总览**：工程任务 49/53；菜谱内容 1558/3274（47.6%），共 612 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1570/3274（48.0%），共 612 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -416,7 +416,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（908/1935）
+### 外国菜系（920/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，57/107</summary>
 
@@ -657,13 +657,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>土耳其菜 turkish</b> — B 级，13/38</summary>
+<details><summary><b>土耳其菜 turkish</b> — B 级，19/38</summary>
 
-- [ ] `P4-turkish/main-meat` 主菜·肉（Meat Main）目标 6，已完成 1
-- [ ] `P4-turkish/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 1
-- [ ] `P4-turkish/appetizer` 前菜（Appetizer）目标 6，已完成 2
-- [ ] `P4-turkish/dessert` 甜点（Dessert）目标 6，已完成 2
-- [ ] `P4-turkish/soup` 汤羹（Soup）目标 6，已完成 2
+- [ ] `P4-turkish/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
+- [ ] `P4-turkish/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 2
+- [ ] `P4-turkish/appetizer` 前菜（Appetizer）目标 6，已完成 4
+- [ ] `P4-turkish/dessert` 甜点（Dessert）目标 6，已完成 3
+- [ ] `P4-turkish/soup` 汤羹（Soup）目标 6，已完成 3
 - [ ] `P4-turkish/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 1
 - [ ] `P4-turkish/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
 - [x] `P4-turkish/snack` 小吃（Street Food）目标 0，已完成 2
@@ -889,13 +889,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>巴西菜 brazilian</b> — C 级，12/25</summary>
+<details><summary><b>巴西菜 brazilian</b> — C 级，18/25</summary>
 
-- [ ] `P4-brazilian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 2
-- [ ] `P4-brazilian/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 2
-- [ ] `P4-brazilian/snack` 小吃（Street Food）目标 5，已完成 2
-- [ ] `P4-brazilian/dessert` 甜点（Dessert）目标 5，已完成 3
-- [ ] `P4-brazilian/drink` 饮品（Drink）目标 5，已完成 1
+- [ ] `P4-brazilian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 4
+- [ ] `P4-brazilian/staple-rice` 主食·饭（Rice Dish）目标 5，已完成 3
+- [ ] `P4-brazilian/snack` 小吃（Street Food）目标 5，已完成 3
+- [ ] `P4-brazilian/dessert` 甜点（Dessert）目标 5，已完成 4
+- [ ] `P4-brazilian/drink` 饮品（Drink）目标 5，已完成 2
 - [x] `P4-brazilian/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 2
 
 </details>

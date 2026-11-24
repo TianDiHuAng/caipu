@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:39:01.866Z",
+  "generatedAt": "2026-11-24T01:44:11.949Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 612,
     "target": 3274,
-    "actual": 1558,
-    "coverage": 0.4758704948075748
+    "actual": 1570,
+    "coverage": 0.47953573610262673
   },
   "regions": {
     "cn": [
@@ -4642,14 +4642,15 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 19,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "turkish-adana-kebab",
               "turkish-kofta"
             ]
           },
@@ -4657,18 +4658,21 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "turkish-lahmacun"
+              "turkish-lahmacun",
+              "turkish-manti"
             ]
           },
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "turkish-cacik",
               "turkish-ezme",
+              "turkish-hummus",
               "turkish-zucchini-fritters"
             ]
           },
@@ -4676,8 +4680,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "turkish-revani",
               "turkish-sutlac",
               "turkish-walnut-baklava"
             ]
@@ -4686,9 +4691,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "turkish-lentil-soup",
+              "turkish-yayla-corbasi",
               "turkish-yogurt-soup"
             ]
           },
@@ -6302,14 +6308,16 @@
         "en": "Brazilian",
         "tier": "C",
         "target": 25,
-        "actual": 12,
+        "actual": 18,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "brazilian-carne-de-panela",
+              "brazilian-escondidinho",
               "brazilian-feijoada",
               "brazilian-picanha-grill"
             ]
@@ -6318,8 +6326,9 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "brazilian-arroz-de-coco",
               "brazilian-baiao-de-dois",
               "brazilian-feijao-tropeiro"
             ]
@@ -6328,9 +6337,10 @@
             "category": "snack",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "brazilian-coxinha",
+              "brazilian-pao-de-queijo",
               "brazilian-pastel"
             ]
           },
@@ -6338,20 +6348,22 @@
             "category": "dessert",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "brazilian-bolo-de-cenoura",
               "brazilian-brigadeiro",
-              "brazilian-grilled-pineapple"
+              "brazilian-grilled-pineapple",
+              "brazilian-quindim"
             ]
           },
           {
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "brazilian-limonada"
+              "brazilian-limonada",
+              "brazilian-suco-de-laranja"
             ]
           },
           {
