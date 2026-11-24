@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-fish-head-curry",
+  "name": {
+    "zh": "新加坡咖喱鱼头",
+    "en": "Singapore Fish Head Curry",
+    "original": "Fish Head Curry"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 40,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "sour",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "石斑鱼",
+          "name_en": "grouper",
+          "amount": 800,
+          "unit": "g",
+          "note": "取鱼头半只，剖开洗净血水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 25,
+          "unit": "g",
+          "note": "海鲜咖喱粉",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 5,
+          "unit": "g",
+          "note": "增色提香",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 300,
+          "unit": "ml",
+          "note": "最后下锅，避免久煮",
+          "optional": false
+        },
+        {
+          "name": "罗望子",
+          "name_en": "tamarind",
+          "amount": 30,
+          "unit": "g",
+          "note": "用温水泡出酸汁",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 30,
+          "unit": "g",
+          "note": "拍扁切段",
+          "optional": false
+        },
+        {
+          "name": "咖喱叶",
+          "name_en": "curry leaf",
+          "amount": 3,
+          "unit": "g",
+          "note": "摘去梗",
+          "optional": false
+        },
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块泡水",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird-eye chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "分次调整",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "炒香料用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深炒锅",
+    "砂锅",
+    "木铲",
+    "滤网",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "石斑鱼头剖成两半，用清水冲净血块，撒三克盐抹匀腌十五分钟去腥。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "血水冲净，汤才不发腥。",
+      "visual_cue": "鱼皮泛白，切口没有血丝"
+    },
+    {
+      "n": 2,
+      "text": "罗望子果肉加温水八十毫升泡十分钟，用手揉散后滤出酸汁备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "罗望子肉别直接下锅，会带渣。",
+      "visual_cue": "滤出的汁呈琥珀色，味酸"
+    },
+    {
+      "n": 3,
+      "text": "红葱头、大蒜、南姜切碎，与咖喱粉、姜黄一同下植物油锅小火炒五分钟至油色泛红。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "香料要炒到出油才够香，火大易焦苦。",
+      "visual_cue": "锅中红油厚实，香气扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "下香茅段、咖喱叶和小米辣继续炒一分钟，加番茄块炒到软塌出汁。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄炒软能撑起汤体的厚度。",
+      "visual_cue": "番茄边缘化开，锅底有浓汁"
+    },
+    {
+      "n": 5,
+      "text": "倒入六百毫升清水和罗望子汁烧开，放茄子块中火煮八分钟至半软。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "茄子先煮半软，吸足咖喱汁更入味。",
+      "visual_cue": "茄子皮转深紫，边缘微透"
+    },
+    {
+      "n": 6,
+      "text": "鱼头肉面朝下放入锅中，加盖小火焖十二分钟，中途把汤汁舀起淋在鱼头上。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "鱼头别频繁翻动，肉容易散。",
+      "visual_cue": "鱼眼凸白，鱼皮裂开露出白肉"
+    },
+    {
+      "n": 7,
+      "text": "转最小火倒入椰奶，加盐和白糖调味，保持微沸煮三分钟即关火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "椰奶不能大滚，否则油水分离。",
+      "visual_cue": "汤色转橙红，表面细泡轻冒"
+    },
+    {
+      "n": 8,
+      "text": "连锅端上桌，先舀汤再取鱼肉，配白饭食用。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "余温会让鱼肉继续熟成，别久煮。",
+      "visual_cue": "鱼肉一夹就离骨，汤汁挂勺"
+    }
+  ],
+  "tips": [
+    "鱼头选石斑或鲈鱼，肉质紧实不易散。",
+    "咖喱粉先用温油炒过，辛辣味会比直接下汤柔和。",
+    "茄子泡过水再煮，颜色才不发黑。"
+  ],
+  "common_mistakes": [
+    "椰奶早放又大火滚，汤汁分层结块。",
+    "鱼头不断翻动，出锅时只剩碎肉。",
+    "罗望子放太多，酸味压过咖喱香。"
+  ],
+  "substitutions": [
+    {
+      "original": "石斑鱼",
+      "substitute": "鲈鱼",
+      "ratio": "800克:800克",
+      "note": "肉质更嫩，焖煮时间缩短三分钟。"
+    },
+    {
+      "original": "罗望子",
+      "substitute": "青柠",
+      "ratio": "30克:2个",
+      "note": "青柠汁出锅前挤入，酸味更清亮。"
+    }
+  ],
+  "variations": [
+    "加一把秋葵同煮，汤汁会更稠滑。",
+    "用砂锅慢炖，保温久，适合多人分食。"
+  ],
+  "serving_suggestion": "先把鱼头夹到盘中，浇两勺咖喱汤，配白饭或印度煎饼蘸汤吃。",
+  "storage": "冷藏可放两天，复热时加少量清水小火加热，别用大火。",
+  "nutrition_estimate": {
+    "basis": "每份约380克",
+    "calories_kcal": 480,
+    "protein_g": 38,
+    "fat_g": 30,
+    "carbs_g": 14,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鱼头须煮至中心完全熟透、鱼肉能轻松离骨，汤体保持沸腾后再转小火；剩汤冷藏不超过两天，复热须彻底滚开。"
+  ],
+  "origin_note": "咖喱鱼头是新加坡小印度的招牌，据说是印度厨师为迁就华人爱吃鱼头的习惯改出来的菜。红汤里浮着整只鱼头，酸来自罗望子，浓来自椰奶，一桌人围着砂锅，各取所好。",
+  "tags": [
+    "新加坡",
+    "咖喱鱼头",
+    "小印度",
+    "椰奶"
+  ],
+  "related_ids": [
+    "singaporean-fish-curry",
+    "singaporean-roti-prata"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

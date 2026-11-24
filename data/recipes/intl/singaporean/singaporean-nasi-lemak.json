@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-nasi-lemak",
+  "name": {
+    "zh": "新加坡椰浆饭",
+    "en": "Nasi Lemak",
+    "original": "Nasi Lemak"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "泰国香米",
+          "name_en": "jasmine rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "选细长青粒米，提前淘洗",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "浓椰浆，摇匀再用",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍扁取白色茎部",
+          "optional": false
+        },
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 20,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "柠檬叶",
+          "name_en": "kaffir lime leaf",
+          "amount": 3,
+          "unit": "g",
+          "note": "撕开叶脉",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 30,
+          "unit": "g",
+          "note": "温水泡五分钟",
+          "optional": false
+        },
+        {
+          "name": "小鱼干",
+          "name_en": "dried anchovy",
+          "amount": 80,
+          "unit": "g",
+          "note": "挑去内脏洗净",
+          "optional": false
+        },
+        {
+          "name": "熟花生",
+          "name_en": "roasted peanut",
+          "amount": 80,
+          "unit": "g",
+          "note": "去皮花生米",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "室温回温",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 150,
+          "unit": "g",
+          "note": "切半月片",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird-eye chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "现成参巴风味酱",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡咸辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分两次使用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炸葱头用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "小奶锅",
+    "平底锅",
+    "滤网",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "泰国香米淘洗两遍，换清水浸泡二十分钟后倒进滤网沥干。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡过的米粒吸足水，煮出来才松而不黏。",
+      "visual_cue": "米粒发白，指尖一捻就断"
+    },
+    {
+      "n": 2,
+      "text": "椰奶倒进小奶锅，加香茅、南姜片、柠檬叶和两克盐，小火加热到锅边起小泡后关火浸泡十分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "椰奶不能大火滚，油水分离就失了香气。",
+      "visual_cue": "表面浮一层薄油，椰香混着柠檬叶味"
+    },
+    {
+      "n": 3,
+      "text": "红葱头切薄片，平底锅倒植物油中火炸三分钟至金黄，捞出葱酥留底油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "葱片一下锅就翻动，受热才均匀。",
+      "visual_cue": "葱片边缘金黄，油面浮起细小泡"
+    },
+    {
+      "n": 4,
+      "text": "大蒜切末下葱油锅小火炒二十秒，虾米和小米辣压碎后一同下锅炒一分钟，再加辣椒酱与白糖炒出红油。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "压碎虾米才能把海味逼出来。",
+      "visual_cue": "油色转红，辣香冲鼻不呛喉"
+    },
+    {
+      "n": 5,
+      "text": "沥干的泰国香米倒进电饭锅，倒入煮好的椰奶和清水，液面高出米粒约一厘米，按标准程序煮二十分钟。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "液体一次加够，中途开盖米粒会夹生。",
+      "visual_cue": "米粒挺立分明，锅盖边缘冒白汽"
+    },
+    {
+      "n": 6,
+      "text": "平底锅留少量葱油，小鱼干和熟花生小火翻炒两分钟，撒三克盐翻匀盛出。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "小鱼干炒到脆就好，过头会发苦。",
+      "visual_cue": "小鱼干脆挺弯曲，花生衣泛油光"
+    },
+    {
+      "n": 7,
+      "text": "鸡蛋冷水下锅煮八分钟，捞出泡凉水剥壳对切；黄瓜切片，与小鱼干、熟花生、葱酥一同摆在椰浆饭旁。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "鸡蛋从冷水开始煮，蛋黄才不偏一侧。",
+      "visual_cue": "蛋黄全熟不流，黄瓜切面脆亮"
+    },
+    {
+      "n": 8,
+      "text": "剩下的盐用少量温水化开，淋在饭上再拌匀食用。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "盐先化开，咸味才分布均匀。",
+      "visual_cue": "饭粒泛着油光，咸香明显"
+    }
+  ],
+  "tips": [
+    "椰浆饭的米要煮得比白饭稍干，拌上参巴酱才不会糊成一团。",
+    "葱酥一次可以多炸些，密封保存随时取用。",
+    "没有南姜可用普通姜代替，但香气会温和许多。"
+  ],
+  "common_mistakes": [
+    "椰奶直接大火煮沸，油水分离后饭粒吸不进香气。",
+    "小鱼干不洗直接下锅，成品带一股腥苦味。",
+    "米泡太久又不沥干，煮出来黏成一块。"
+  ],
+  "substitutions": [
+    {
+      "original": "泰国香米",
+      "substitute": "大米",
+      "ratio": "400克:400克",
+      "note": "香气弱一些，浸泡时间缩短到十分钟。"
+    },
+    {
+      "original": "南姜",
+      "substitute": "姜",
+      "ratio": "20克:15克",
+      "note": "辛辣感更直白，用量略减。"
+    }
+  ],
+  "variations": [
+    "配一块煎得焦脆的鱼饼，是新加坡摊位的常见组合。",
+    "加一勺参巴虾米辣酱，把辣度再抬一层。"
+  ],
+  "serving_suggestion": "米饭盛在小盘中央，配料围成一圈，吃前把参巴酱拌进饭里。",
+  "storage": "冷藏可放两天，复热时加盖微波一分半，另配新鲜黄瓜。",
+  "nutrition_estimate": {
+    "basis": "每份约420克",
+    "calories_kcal": 730,
+    "protein_g": 24,
+    "fat_g": 32,
+    "carbs_g": 90,
+    "sodium_mg": 790,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "peanut",
+    "crustacean",
+    "egg"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须彻底加热至蛋黄完全凝固，煮好后两小时内食用或冷藏；小鱼干与虾米用前泡洗，冷藏保存不超过一个月。"
+  ],
+  "origin_note": "椰浆饭是马来半岛的早餐灵魂，新加坡人习惯把它包在香蕉叶里带走。椰香米饭配小鱼干、花生、黄瓜与辣酱，四样小菜颜色分明，一口咸辣一口清甜，摊主递过来时叶子还带着温热。",
+  "tags": [
+    "新加坡",
+    "椰浆饭",
+    "参巴",
+    "早餐"
+  ],
+  "related_ids": [
+    "singaporean-hainanese-chicken-rice",
+    "singaporean-laksa"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
