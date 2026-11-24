@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:04:48.024Z",
+  "generatedAt": "2026-11-24T05:16:04.042Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 635,
+    "cells": 636,
     "target": 3274,
-    "actual": 1727,
-    "coverage": 0.5274893097128894
+    "actual": 1733,
+    "coverage": 0.5293219303604154
   },
   "regions": {
     "cn": [
@@ -4228,18 +4228,19 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 16,
+        "actual": 22,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "filipino-bicol-express",
               "filipino-bistek",
               "filipino-kare-kare",
               "filipino-mechado",
+              "filipino-pork-sisig",
               "filipino-sinigang"
             ]
           },
@@ -4247,8 +4248,9 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "filipino-ginataang-gulay",
               "filipino-sinigang",
               "filipino-tinola"
             ]
@@ -4257,17 +4259,20 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "filipino-arroz-caldo"
+              "filipino-arroz-caldo",
+              "filipino-garlic-rice"
             ]
           },
           {
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "filipino-champorado",
+              "filipino-ginataang-bilo-bilo",
               "filipino-halo-halo",
               "filipino-leche-flan"
             ]
@@ -4305,6 +4310,15 @@
               "filipino-chicken-adobo",
               "filipino-pancit",
               "filipino-tinola"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "filipino-paksiw-na-isda"
             ]
           },
           {

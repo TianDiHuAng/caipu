@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-24T05:04:48.099Z
+> 生成时间：2026-11-24T05:16:04.149Z
 
-**总览**：工程任务 49/53；菜谱内容 1727/3274（52.7%），共 635 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1733/3274（52.9%），共 636 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -416,7 +416,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1077/1935）
+### 外国菜系（1083/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，63/107</summary>
 
@@ -598,16 +598,17 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>菲律宾菜 filipino</b> — B 级，16/38</summary>
+<details><summary><b>菲律宾菜 filipino</b> — B 级，22/38</summary>
 
-- [ ] `P4-filipino/main-meat` 主菜·肉（Meat Main）目标 6，已完成 5
-- [ ] `P4-filipino/soup` 汤羹（Soup）目标 6，已完成 2
-- [ ] `P4-filipino/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 1
-- [ ] `P4-filipino/dessert` 甜点（Dessert）目标 6，已完成 2
+- [x] `P4-filipino/main-meat` 主菜·肉（Meat Main）目标 6，已完成 6
+- [ ] `P4-filipino/soup` 汤羹（Soup）目标 6，已完成 3
+- [ ] `P4-filipino/staple-rice` 主食·饭（Rice Dish）目标 6，已完成 2
+- [ ] `P4-filipino/dessert` 甜点（Dessert）目标 6，已完成 4
 - [ ] `P4-filipino/snack` 小吃（Street Food）目标 6，已完成 2
 - [ ] `P4-filipino/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
 - [ ] `P4-filipino/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
 - [x] `P4-filipino/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 3
+- [x] `P4-filipino/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 1
 - [x] `P4-filipino/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 1
 
 </details>
