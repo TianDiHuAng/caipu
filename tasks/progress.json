@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:22:49.427Z",
+  "generatedAt": "2026-11-24T02:28:43.078Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 619,
+    "cells": 620,
     "target": 3274,
-    "actual": 1619,
-    "coverage": 0.4945021380574221
+    "actual": 1625,
+    "coverage": 0.4963347587049481
   },
   "regions": {
     "cn": [
@@ -6754,16 +6754,17 @@
         "en": "West African",
         "tier": "C",
         "target": 25,
-        "actual": 14,
+        "actual": 20,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "west-african-coconut-rice",
-              "west-african-jollof-rice"
+              "west-african-jollof-rice",
+              "west-african-waakye"
             ]
           },
           {
@@ -6780,8 +6781,9 @@
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "west-african-asun",
               "west-african-peanut-soup",
               "west-african-suya"
             ]
@@ -6790,9 +6792,11 @@
             "category": "snack",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "west-african-chin-chin",
               "west-african-kelewele",
+              "west-african-moi-moi",
               "west-african-puff-puff",
               "west-african-suya"
             ]
@@ -6809,21 +6813,31 @@
             ]
           },
           {
+            "category": "main-vegetable",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "west-african-efo-riro",
+              "west-african-lentil-stew"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "west-african-grilled-tilapia"
+            ]
+          },
+          {
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "west-african-jollof-rice"
-            ]
-          },
-          {
-            "category": "main-vegetable",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "west-african-lentil-stew"
             ]
           }
         ]
