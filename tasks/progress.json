@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:55:54.488Z",
+  "generatedAt": "2026-11-24T05:04:48.024Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 634,
+    "cells": 635,
     "target": 3274,
-    "actual": 1721,
-    "coverage": 0.5256566890653634
+    "actual": 1727,
+    "coverage": 0.5274893097128894
   },
   "regions": {
     "cn": [
@@ -5970,15 +5970,16 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 15,
+        "actual": 21,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "american-south-bbq-chicken",
+              "american-south-chicken-dumplings",
               "southern-fried-chicken"
             ]
           },
@@ -5986,8 +5987,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "american-south-candied-yams",
+              "american-south-corn-pudding",
               "american-south-fried-green-tomato",
               "american-south-green-beans",
               "american-south-succotash"
@@ -6006,9 +6009,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "american-south-banana-pudding",
+              "american-south-chess-pie",
               "american-south-pecan-pie"
             ]
           },
@@ -6016,11 +6020,12 @@
             "category": "breakfast",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "american-south-biscuits-and-gravy",
               "american-south-cornbread",
-              "american-south-grits"
+              "american-south-grits",
+              "american-south-pancakes"
             ]
           },
           {
@@ -6036,6 +6041,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "american-south-corn-fritters"
+            ]
           },
           {
             "category": "staple-rice",
