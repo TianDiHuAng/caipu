@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "russian-plov",
+  "name": {
+    "zh": "俄式牛肉抓饭",
+    "en": "Russian Beef Plov",
+    "original": "Плов"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "russian"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 84,
+    "total_min": 104
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "长粒",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 350,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 250,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "整瓣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 70,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "小茴香",
+          "name_en": "cumin seed",
+          "amount": 4,
+          "unit": "g",
+          "note": "整粒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 9,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗三遍，泡冷水二十分钟。，火候要稳，别忽大忽小。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "泡过米，煮时才不夹生。，火候要稳，别忽大忽小。",
+      "visual_cue": "米粒发白，水变清，这一点很关键。"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅倒植物油烧热，牛肉块下锅煎到表面焦褐。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "牛肉煎上色，汤才香。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉块焦褐，锅底有香"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱丝炒软，再放胡萝卜条。，火候要稳，别忽大忽小。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "胡萝卜炒软，甜味才出。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱透明，胡萝卜发亮"
+    },
+    {
+      "n": 4,
+      "text": "加盐、黑胡椒和小茴香炒匀。，火候要稳，别忽大忽小。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "小茴香是抓饭的魂。，火候要稳，别忽大忽小。",
+      "visual_cue": "香气冲鼻，调料均匀"
+    },
+    {
+      "n": 5,
+      "text": "倒清水烧开，小火炖二十分钟。，火候要稳，别忽大忽小。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "先炖肉，汤才有底味。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤色深褐，肉块变软"
+    },
+    {
+      "n": 6,
+      "text": "米铺在肉上，铺平不搅拌。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "别搅动，否则米会糊底。，火候要稳，别忽大忽小。",
+      "visual_cue": "米层平整，水量齐米"
+    },
+    {
+      "n": 7,
+      "text": "整瓣大蒜插进米里，盖盖小火焖二十分钟。，火候要稳，别忽大忽小。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "蒜整瓣放，香而不苦。，火候要稳，别忽大忽小。",
+      "visual_cue": "水被吸干，米粒鼓胀"
+    },
+    {
+      "n": 8,
+      "text": "关火焖十分钟，从底部翻拌均匀。，火候要稳，别忽大忽小。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "焖够时间，米粒才松散。，火候要稳，别忽大忽小。",
+      "visual_cue": "米粒分明，肉香扑鼻"
+    }
+  ],
+  "tips": [
+    "米要泡过再煮，才颗颗分明。，这一点很关键。",
+    "米铺上后别搅，否则糊底。，这一点很关键。",
+    "关火焖十分钟，米粒更松。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "米没泡，煮出来夹生。，这一点很关键。",
+    "中途搅动，米粒糊成一团。，这一点很关键。",
+    "水太多，煮成稠粥。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "350 克:350 克",
+      "note": "风味更重，可多加小茴香一克。"
+    },
+    {
+      "original": "大米",
+      "substitute": "糙米",
+      "ratio": "400 克:400 克",
+      "note": "需多泡二十分钟，水加一百毫升。"
+    }
+  ],
+  "variations": [
+    "加葡萄干，甜咸更有层次。，这一点很关键。",
+    "加红腰豆同炖，口感更丰富。，这一点很关键。"
+  ],
+  "serving_suggestion": "配酸黄瓜和番茄沙拉一起吃。，这一点很关键。",
+  "storage": "冷藏两天，复热加点水。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 640,
+    "protein_g": 24,
+    "fat_g": 22,
+    "carbs_g": 84,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含牛肉，须炖至软烂熟透；米饭煮好后应在两小时内冷藏，复热须彻底加热到中心烫口；厚底锅保温强，取用注意防烫。"
+  ],
+  "origin_note": "中亚传进俄语区的米饭菜，牛肉胡萝卜垫底，米铺上去焖熟。开盖一股小茴香。，这一点很关键。，很多人就是漏了这一步。",
+  "tags": [
+    "俄式",
+    "米饭",
+    "牛肉",
+    "胡萝卜"
+  ],
+  "related_ids": [
+    "russian-beef-stroganoff",
+    "russian-solyanka",
+    "russian-pelmeni"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

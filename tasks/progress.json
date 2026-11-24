@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:01:51.061Z",
+  "generatedAt": "2026-11-24T03:10:50.295Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 629,
+    "cells": 630,
     "target": 3274,
-    "actual": 1655,
-    "coverage": 0.5054978619425778
+    "actual": 1661,
+    "coverage": 0.5073304825901038
   },
   "regions": {
     "cn": [
@@ -5591,7 +5591,7 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 19,
+        "actual": 25,
         "cells": [
           {
             "category": "soup",
@@ -5609,11 +5609,13 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "russian-beef-stroganoff",
+              "russian-chicken-tabaka",
               "russian-golubtsy",
-              "russian-pelmeni"
+              "russian-pelmeni",
+              "russian-pozharsky-cutlet"
             ]
           },
           {
@@ -5630,10 +5632,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "russian-blini",
               "russian-pirozhki",
+              "russian-sharlotka",
               "russian-vatrushka"
             ]
           },
@@ -5664,10 +5667,21 @@
             "category": "dessert",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "russian-apple-kompot",
               "russian-medovik",
+              "russian-napoleon-cake",
+              "russian-syrniki"
+            ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "russian-draniki",
               "russian-syrniki"
             ]
           },
@@ -5690,12 +5704,12 @@
             ]
           },
           {
-            "category": "breakfast",
+            "category": "staple-rice",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "russian-syrniki"
+              "russian-plov"
             ]
           }
         ]
