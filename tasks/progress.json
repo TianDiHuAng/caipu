@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:47:00.151Z",
+  "generatedAt": "2026-11-24T03:58:07.947Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 631,
     "target": 3274,
-    "actual": 1685,
-    "coverage": 0.5146609651802077
+    "actual": 1691,
+    "coverage": 0.5164935858277336
   },
   "regions": {
     "cn": [
@@ -6998,15 +6998,17 @@
         "en": "East African",
         "tier": "C",
         "target": 25,
-        "actual": 18,
+        "actual": 24,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "east-african-beef-nyama-stew",
               "east-african-beef-stew",
+              "east-african-fish-coconut-curry",
               "east-african-nyama-choma"
             ]
           },
@@ -7014,8 +7016,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "east-african-chapati-roll",
               "east-african-chapati",
               "east-african-mahamri",
               "east-african-mandazi"
@@ -7034,11 +7037,13 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 5,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "east-african-cabbage-stew",
               "east-african-coconut-beans",
               "east-african-githeri",
+              "east-african-maharage-stew",
+              "east-african-sukuma-beans",
               "east-african-ugali-sukuma-wiki"
             ]
           },
@@ -7046,9 +7051,10 @@
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "east-african-spiced-milk-tea"
+              "east-african-spiced-milk-tea",
+              "east-african-tamarind-drink"
             ]
           },
           {
