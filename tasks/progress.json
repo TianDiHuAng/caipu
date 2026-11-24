@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:58:40.051Z",
+  "generatedAt": "2026-11-24T02:03:32.785Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 614,
+    "cells": 615,
     "target": 3274,
-    "actual": 1589,
-    "coverage": 0.4853390348197923
+    "actual": 1595,
+    "coverage": 0.4871716554673183
   },
   "regions": {
     "cn": [
@@ -5542,25 +5542,28 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 19,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "borscht",
-              "russian-shchi"
+              "russian-shchi",
+              "russian-solyanka",
+              "russian-ukha"
             ]
           },
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "russian-beef-stroganoff",
+              "russian-golubtsy",
               "russian-pelmeni"
             ]
           },
@@ -5578,10 +5581,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "russian-blini",
-              "russian-pirozhki"
+              "russian-pirozhki",
+              "russian-vatrushka"
             ]
           },
           {
@@ -5611,10 +5615,20 @@
             "category": "dessert",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "russian-apple-kompot",
+              "russian-medovik",
               "russian-syrniki"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "russian-kiev-cutlet"
             ]
           },
           {

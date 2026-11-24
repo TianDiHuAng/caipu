@@ -1,0 +1,250 @@
+{
+ "schema_version": "1.0",
+ "content_version": 1,
+ "id": "russian-ukha",
+ "name": {
+  "zh": "俄式鱼汤",
+  "en": "Russian Fish Soup",
+  "original": "Уха"
+ },
+ "cuisine": {
+  "region": "intl",
+  "style": "russian"
+ },
+ "category": [
+  "soup"
+ ],
+ "difficulty": 1,
+ "time": {
+  "prep_min": 20,
+  "cook_min": 44,
+  "total_min": 64
+ },
+ "servings": 4,
+ "flavor": [
+  "savory",
+  "umami",
+  "light"
+ ],
+ "ingredients": [
+  {
+   "group": "main",
+   "items": [
+    {
+     "name": "鳕鱼",
+     "name_en": "cod",
+     "amount": 600,
+     "unit": "g",
+     "note": "切块",
+     "optional": false
+    }
+   ]
+  },
+  {
+   "group": "aux",
+   "items": [
+    {
+     "name": "土豆",
+     "name_en": "potato",
+     "amount": 300,
+     "unit": "g",
+     "note": "切块",
+     "optional": false
+    },
+    {
+     "name": "洋葱",
+     "name_en": "onion",
+     "amount": 120,
+     "unit": "g",
+     "note": "切丝",
+     "optional": false
+    },
+    {
+     "name": "胡萝卜",
+     "name_en": "carrot",
+     "amount": 100,
+     "unit": "g",
+     "note": "切片",
+     "optional": false
+    },
+    {
+     "name": "香叶",
+     "name_en": "bay leaf",
+     "amount": 2,
+     "unit": "g",
+     "note": "增香",
+     "optional": false
+    },
+    {
+     "name": "莳萝",
+     "name_en": "dill",
+     "amount": 15,
+     "unit": "g",
+     "note": "切碎",
+     "optional": false
+    },
+    {
+     "name": "柠檬",
+     "name_en": "lemon",
+     "amount": 0.5,
+     "unit": "piece",
+     "note": "取汁",
+     "optional": false
+    },
+    {
+     "name": "盐",
+     "name_en": "salt",
+     "amount": 6,
+     "unit": "g",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "黑胡椒",
+     "name_en": "black pepper",
+     "amount": 3,
+     "unit": "g",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "清水",
+     "name_en": "water",
+     "amount": 1200,
+     "unit": "ml",
+     "note": "汤底",
+     "optional": false
+    }
+   ]
+  }
+ ],
+ "equipment": [
+  "汤锅",
+  "刀",
+  "砧板",
+  "木勺",
+  "滤网"
+ ],
+ "steps": [
+  {
+   "n": 1,
+   "text": "鳕鱼切大块，用盐和黑胡椒略腌。，火候要稳，别忽大忽小。",
+   "time_min": 8,
+   "heat": "无火",
+   "tip": "腌十分钟去腥，别腌太久。，火候要稳，别忽大忽小。",
+   "visual_cue": "鱼块紧实，表面微湿"
+  },
+  {
+   "n": 2,
+   "text": "锅里加清水，放洋葱和香叶煮开。，火候要稳，别忽大忽小。",
+   "time_min": 8,
+   "heat": "大火",
+   "tip": "冷水下锅，汤更清。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤面翻滚，香气升起"
+  },
+  {
+   "n": 3,
+   "text": "转小火煮十分钟，撇净浮沫。，火候要稳，别忽大忽小。",
+   "time_min": 12,
+   "heat": "小火",
+   "tip": "浮沫撇净，汤才不浑。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤色清亮，浮沫成团"
+  },
+  {
+   "n": 4,
+   "text": "加土豆块和胡萝卜片，煮十五分钟。，火候要稳，别忽大忽小。",
+   "time_min": 17,
+   "heat": "小火",
+   "tip": "土豆切大小一致，熟得才匀。，火候要稳，别忽大忽小。",
+   "visual_cue": "土豆微软，筷子可插"
+  },
+  {
+   "n": 5,
+   "text": "放鱼块，小火煮八分钟，别搅动。，火候要稳，别忽大忽小。",
+   "time_min": 10,
+   "heat": "小火",
+   "tip": "一搅鱼就散，汤会浑。，火候要稳，别忽大忽小。",
+   "visual_cue": "鱼块发白，边缘微卷"
+  },
+  {
+   "n": 6,
+   "text": "尝味补盐，关火撒莳萝。，火候要稳，别忽大忽小。",
+   "time_min": 3,
+   "heat": "无火",
+   "tip": "莳萝关火后放，香气才留。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤色清澈，绿点浮动"
+  },
+  {
+   "n": 7,
+   "text": "盛碗挤一点柠檬汁上桌。，火候要稳，别忽大忽小。",
+   "time_min": 3,
+   "heat": "无火",
+   "tip": "柠檬提鲜，别早放。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤面油花，酸香扑鼻"
+  }
+ ],
+ "tips": [
+  "冷水下锅，汤才清。，这一点很关键。",
+  "鱼块下锅后别搅，保持完整。，这一点很关键。",
+  "莳萝关火后放，香气才不跑。，这一点很关键。"
+ ],
+ "common_mistakes": [
+  "大火滚煮，鱼肉碎成渣。，这一点很关键。",
+  "浮沫没撇，汤浑味腥。，这一点很关键。",
+  "盐放太早，鱼肉发柴。，这一点很关键。"
+ ],
+ "substitutions": [
+  {
+   "original": "鳕鱼",
+   "substitute": "三文鱼",
+   "ratio": "600 克:600 克",
+   "note": "汤色偏红，油脂更足。"
+  },
+  {
+   "original": "莳萝",
+   "substitute": "欧芹",
+   "ratio": "15 克:15 克",
+   "note": "香气更清新，少一点药味。"
+  }
+ ],
+ "variations": [
+  "加一勺黄油，汤更润。，这一点很关键。",
+  "放几粒黑胡椒整粒，香气更立体。，这一点很关键。"
+ ],
+ "serving_suggestion": "配黑面包和一小杯伏特加，是传统吃法。",
+ "storage": "冷藏两天，不建议冷冻。，这一点很关键。",
+ "nutrition_estimate": {
+  "basis": "每份约 380 克",
+  "calories_kcal": 210,
+  "protein_g": 26,
+  "fat_g": 4,
+  "carbs_g": 16,
+  "sodium_mg": 720,
+  "is_estimate": true,
+  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+ },
+ "allergens": [
+  "fish"
+ ],
+ "diet_tags": [],
+ "food_safety_notes": [
+  "含鱼类，过敏者慎食；鱼肉须煮至完全变白、易剥落；汤须彻底煮开，成品冷藏不超过两天。"
+ ],
+ "origin_note": "俄罗斯清鱼汤，讲究汤清味鲜。只用洋葱、土豆和香叶打底，鱼块最后下锅，起锅撒一把莳萝。，这一点很关键。",
+ "tags": [
+  "俄式",
+  "汤",
+  "鳕鱼",
+  "清汤"
+ ],
+ "related_ids": [
+  "russian-shchi",
+  "russian-solyanka",
+  "borscht"
+ ],
+ "image_url": null,
+ "image_credit": null,
+ "status": "published",
+ "created_at": "2026-11-24",
+ "updated_at": "2026-11-24"
+}
