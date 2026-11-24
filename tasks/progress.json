@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:18:19.148Z",
+  "generatedAt": "2026-11-24T03:25:57.572Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 631,
     "target": 3274,
-    "actual": 1667,
-    "coverage": 0.5091631032376298
+    "actual": 1673,
+    "coverage": 0.5109957238851558
   },
   "regions": {
     "cn": [
@@ -4671,15 +4671,17 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 19,
+        "actual": 25,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "turkish-adana-kebab",
+              "turkish-hunkar-begendi",
+              "turkish-iskender-kebab",
               "turkish-kofta"
             ]
           },
@@ -4687,8 +4689,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "turkish-gozleme",
               "turkish-lahmacun",
               "turkish-manti"
             ]
@@ -4697,11 +4700,12 @@
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "turkish-cacik",
               "turkish-ezme",
               "turkish-hummus",
+              "turkish-sigara-boregi",
               "turkish-zucchini-fritters"
             ]
           },
@@ -4709,8 +4713,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "turkish-muhallebi",
               "turkish-revani",
               "turkish-sutlac",
               "turkish-walnut-baklava"
@@ -4731,9 +4736,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "turkish-imam-bayildi"
+              "turkish-imam-bayildi",
+              "turkish-karniyarik"
             ]
           },
           {
