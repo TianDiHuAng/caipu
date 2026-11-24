@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "singaporean-mee-goreng",
+  "name": {
+    "zh": "新加坡马来炒面",
+    "en": "Malay Fried Noodles",
+    "original": "Mee Goreng"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "singaporean"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 22,
+    "total_min": 37
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 500,
+          "unit": "g",
+          "note": "煮熟过凉",
+          "optional": false
+        },
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 200,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "炒散",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "摘净",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "调色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面条煮到八分熟，过凉水沥干。，火候要稳，别忽大忽小。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "别煮太软，回锅还要炒。，火候要稳，别忽大忽小。",
+      "visual_cue": "面条弹牙，根根分明"
+    },
+    {
+      "n": 2,
+      "text": "锅热植物油，炒香蒜末、红葱头和小米辣。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "红葱头炒到微黄才够香。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱金黄，油香浓郁"
+    },
+    {
+      "n": 3,
+      "text": "下虾仁炒到变色，盛出备用。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "虾先炒好，久炒会老。，火候要稳，别忽大忽小。",
+      "visual_cue": "虾身卷曲，颜色转红"
+    },
+    {
+      "n": 4,
+      "text": "倒蛋液炒散，加番茄块炒出汁。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鸡蛋炒散不结块，口感才匀。，火候要稳，别忽大忽小。",
+      "visual_cue": "蛋块松散，番茄出水"
+    },
+    {
+      "n": 5,
+      "text": "加番茄膏和生抽炒匀上色。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄膏炒一下，酸味才柔和。，火候要稳，别忽大忽小。",
+      "visual_cue": "酱色红亮，香气升起"
+    },
+    {
+      "n": 6,
+      "text": "下面条大火快炒，让每条都裹上酱。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "用筷子抖散，别让面粘成团。，火候要稳，别忽大忽小。",
+      "visual_cue": "面条红亮，根根分开"
+    },
+    {
+      "n": 7,
+      "text": "放豆芽和虾回锅，炒一分钟。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "豆芽最后放，才脆。，火候要稳，别忽大忽小。",
+      "visual_cue": "豆芽断生，仍挺立，这一点很关键。"
+    },
+    {
+      "n": 8,
+      "text": "尝味补盐，挤青柠汁出锅。，火候要稳，别忽大忽小。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "青柠离火后挤，酸香才鲜。，火候要稳，别忽大忽小。",
+      "visual_cue": "面身油亮，酸香扑鼻"
+    }
+  ],
+  "tips": [
+    "面条煮八分熟就够，回锅还要炒。，这一点很关键。",
+    "大火快炒，面条才不粘锅。，这一点很关键。",
+    "豆芽最后放，保持脆感。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "面条煮太软，一炒就断。，这一点很关键。",
+    "火不够大，面条粘成坨。，这一点很关键。",
+    "番茄膏放太多，酸得发苦。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "500 克:400 克",
+      "note": "泡软后炒，吸收酱汁更快。"
+    },
+    {
+      "original": "虾",
+      "substitute": "鱿鱼",
+      "ratio": "200 克:200 克",
+      "note": "切圈快炒一分钟，口感更脆。"
+    }
+  ],
+  "variations": [
+    "加豆腐皮丝，口感更有层次。，这一点很关键。",
+    "加一勺虾酱，风味更浓。，这一点很关键。"
+  ],
+  "serving_suggestion": "热吃，配青柠角和一小碟辣椒酱。，这一点很关键。",
+  "storage": "冷藏一天，复炒须大火。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 16,
+    "carbs_g": 70,
+    "sodium_mg": 850,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含甲壳类、蛋类与小麦，过敏者慎食；虾须炒至完全变红卷曲；面条复热须彻底加热，成品冷藏不超过一天。"
+  ],
+  "origin_note": "新加坡印度穆斯林的炒面摊，番茄膏和生抽一起下，面条红亮微酸。加个鸡蛋就是完整一餐。，这一点很关键。",
+  "tags": [
+    "新加坡",
+    "炒面",
+    "虾",
+    "番茄"
+  ],
+  "related_ids": [
+    "singaporean-char-kway-teow",
+    "singaporean-prawn-noodle-soup",
+    "singaporean-laksa"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
