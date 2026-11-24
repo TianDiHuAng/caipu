@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T03:10:50.295Z",
+  "generatedAt": "2026-11-24T03:18:19.148Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 630,
+    "cells": 631,
     "target": 3274,
-    "actual": 1661,
-    "coverage": 0.5073304825901038
+    "actual": 1667,
+    "coverage": 0.5091631032376298
   },
   "regions": {
     "cn": [
@@ -4890,15 +4890,16 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 19,
+        "actual": 25,
         "cells": [
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "greek-keftedes",
+              "greek-kolokythokeftedes",
               "greek-saganaki",
               "tzatziki"
             ]
@@ -4907,11 +4908,13 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "greek-keftedes",
               "greek-moussaka",
-              "greek-souvlaki"
+              "greek-soutzoukakia",
+              "greek-souvlaki",
+              "greek-stifado"
             ]
           },
           {
@@ -4928,8 +4931,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "greek-galaktoboureko",
               "greek-honey-cake",
               "greek-loukoumades"
             ]
@@ -4949,8 +4953,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "greek-gemista",
               "greek-gigantes-plaki",
               "greek-spanakopita"
             ]
@@ -4987,6 +4992,15 @@
             "actual": 1,
             "ids": [
               "greek-loukoumades"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "greek-psari-plaki"
             ]
           },
           {
