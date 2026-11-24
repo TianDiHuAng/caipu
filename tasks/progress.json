@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:34:19.259Z",
+  "generatedAt": "2026-11-24T02:40:43.214Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 622,
+    "cells": 625,
     "target": 3274,
-    "actual": 1631,
-    "coverage": 0.498167379352474
+    "actual": 1637,
+    "coverage": 0.5
   },
   "regions": {
     "cn": [
@@ -6676,14 +6676,15 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 19,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "north-african-bissara",
               "north-african-harira",
               "north-african-lentil-soup"
             ]
@@ -6732,8 +6733,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "north-african-shakshuka"
+            ]
           },
           {
             "category": "main-tofu",
@@ -6743,21 +6746,49 @@
             "ids": []
           },
           {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "north-african-kefta-tagine",
+              "north-african-lamb-tagine"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "north-african-chicken-tagine"
+            ]
+          },
+          {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "north-african-couscous-royal"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "north-african-fish-chermoula"
+            ]
+          },
+          {
             "category": "special-diet",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "north-african-harira"
-            ]
-          },
-          {
-            "category": "main-meat",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "north-african-lamb-tagine"
             ]
           },
           {
