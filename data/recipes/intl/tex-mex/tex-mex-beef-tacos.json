@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tex-mex-beef-tacos",
+  "name": {
+    "zh": "墨西哥牛肉玉米饼",
+    "en": "Beef Tacos",
+    "original": "Tacos de carne"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "tex-mex"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉末",
+          "name_en": "ground beef",
+          "amount": 600,
+          "unit": "g",
+          "note": "炒馅",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 12,
+          "unit": "piece",
+          "note": "小饼",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "切达奶酪",
+          "name_en": "cheddar cheese",
+          "amount": 80,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 6,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取汁",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "木勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "平底锅烧热倒植物油，下洋葱丁炒软。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒到透明，甜味才出。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱软塌，边缘微黄"
+    },
+    {
+      "n": 2,
+      "text": "加蒜末、辣椒粉、孜然和牛至炒香。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料遇油才出味，别炒糊。，火候要稳，别忽大忽小。",
+      "visual_cue": "香气冲鼻，油色发红"
+    },
+    {
+      "n": 3,
+      "text": "下牛肉末，用铲子压散开。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "中大火",
+      "tip": "压散一点，颗粒才均匀。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉末松散，颜色变深"
+    },
+    {
+      "n": 4,
+      "text": "炒到肉末全熟、水汽收干。，火候要稳，别忽大忽小。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "水汽收干，馅才不湿饼。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉末干香，锅底无汁"
+    },
+    {
+      "n": 5,
+      "text": "加盐和黑胡椒调味，挤入青柠汁。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "青柠提味，也解油腻。，火候要稳，别忽大忽小。",
+      "visual_cue": "馅料油亮，酸香浮出"
+    },
+    {
+      "n": 6,
+      "text": "玉米饼放干锅上烘二十秒回软。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "饼烘一下，折起来才不裂。，火候要稳，别忽大忽小。",
+      "visual_cue": "饼片发软，边缘微黄"
+    },
+    {
+      "n": 7,
+      "text": "饼上铺生菜丝，再放一勺肉馅。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "生菜垫底，饼才不湿。，火候要稳，别忽大忽小。",
+      "visual_cue": "馅料居中，菜丝翠绿"
+    },
+    {
+      "n": 8,
+      "text": "撒番茄丁、切达奶酪丝和香菜，对折趁热食用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热吃，奶酪才会化。，火候要稳，别忽大忽小。",
+      "visual_cue": "奶酪微软，香气扑鼻"
+    }
+  ],
+  "tips": [
+    "肉末炒干水汽，饼才不湿软。，这一点很关键。",
+    "玉米饼先烘一下，折起来不裂。，这一点很关键。",
+    "青柠汁最后挤，酸香才鲜。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "肉末没炒干，饼一咬就漏汁。，这一点很关键。",
+    "香料炒糊，馅发苦。，这一点很关键。",
+    "饼没加热，一折就碎。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉末",
+      "substitute": "猪肉末",
+      "ratio": "600 克:600 克",
+      "note": "脂肪更多，炒时少放油。"
+    },
+    {
+      "original": "切达奶酪",
+      "substitute": "马苏里拉奶酪",
+      "ratio": "80 克:80 克",
+      "note": "拉丝更好，风味偏淡。"
+    }
+  ],
+  "variations": [
+    "加牛油果片，口感更绵。，这一点很关键。",
+    "换成鱼肉馅，就是海鲜版。，这一点很关键。"
+  ],
+  "serving_suggestion": "配酸奶油和辣酱，挤青柠汁一起上桌。",
+  "storage": "馅料冷藏两天，饼现烘现吃。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 300 克",
+    "calories_kcal": 520,
+    "protein_g": 32,
+    "fat_g": 28,
+    "carbs_g": 36,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品与麸质，过敏者慎食；绞肉须彻底炒熟至无粉色；含生菜等生食蔬菜，须洗净；成品冷藏不超过两天。"
+  ],
+  "origin_note": "美墨边境的街头小吃，牛肉末用辣椒粉和孜然炒香，塞进热饼里加生菜番茄。手拿着吃最痛快。，这一点很关键。",
+  "tags": [
+    "墨西哥",
+    "塔可",
+    "牛肉",
+    "玉米饼"
+  ],
+  "related_ids": [
+    "tex-mex-beef-fajitas",
+    "tex-mex-guacamole",
+    "tex-mex-nachos"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

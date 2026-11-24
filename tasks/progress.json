@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:40:43.214Z",
+  "generatedAt": "2026-11-24T02:47:49.453Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 625,
+    "cells": 628,
     "target": 3274,
-    "actual": 1637,
-    "coverage": 0.5
+    "actual": 1643,
+    "coverage": 0.501832620647526
   },
   "regions": {
     "cn": [
@@ -5987,27 +5987,30 @@
         "en": "Tex-Mex",
         "tier": "B",
         "target": 38,
-        "actual": 12,
+        "actual": 18,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "tex-mex-beef-fajitas",
-              "tex-mex-chicken-enchiladas"
+              "tex-mex-beef-tacos",
+              "tex-mex-chicken-enchiladas",
+              "tex-mex-chili-con-carne"
             ]
           },
           {
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "tex-mex-chicken-quesadilla",
               "tex-mex-elote",
-              "tex-mex-nachos"
+              "tex-mex-nachos",
+              "tex-mex-sopaipillas"
             ]
           },
           {
@@ -6054,12 +6057,39 @@
             "ids": []
           },
           {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "tex-mex-chicken-burrito"
+            ]
+          },
+          {
+            "category": "bakery",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "tex-mex-corn-bread"
+            ]
+          },
+          {
             "category": "salad",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "tex-mex-corn-salad"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "tex-mex-refried-beans"
             ]
           },
           {
