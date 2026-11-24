@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-zosui",
+  "name": {
+    "zh": "日式杂炊",
+    "en": "Zosui",
+    "original": "雑炊"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 20,
+    "total_min": 32
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "隔夜饭",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "煮粥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "紫菜",
+          "name_en": "nori",
+          "amount": 5,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "打蛋器",
+    "碗",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "米饭用清水冲一遍，洗掉表面黏性。，火候要稳，别忽大忽小。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "洗去黏性，杂炊才清爽不糊。，火候要稳，别忽大忽小。",
+      "visual_cue": "米粒分散，水变浑，这一点很关键。"
+    },
+    {
+      "n": 2,
+      "text": "砂锅里高汤烧开，加生抽和盐调味。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "汤味要略淡，米会吸走咸味。，火候要稳，别忽大忽小。",
+      "visual_cue": "汤面翻滚，香气上涌"
+    },
+    {
+      "n": 3,
+      "text": "下米饭用汤勺轻轻拨散，别用力压。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "拨散就好，压了就成糊。，火候要稳，别忽大忽小。",
+      "visual_cue": "米粒散开，汤色微黄"
+    },
+    {
+      "n": 4,
+      "text": "小火煮八分钟，让米粒吸饱汤汁。，火候要稳，别忽大忽小。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "小火慢煮，米粒才不烂。，火候要稳，别忽大忽小。",
+      "visual_cue": "米粒饱满，汤面微沸"
+    },
+    {
+      "n": 5,
+      "text": "鸡蛋打散，沿锅边绕圈淋进去。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "淋成细线，蛋花才漂亮。，火候要稳，别忽大忽小。",
+      "visual_cue": "蛋液铺开，边缘凝固"
+    },
+    {
+      "n": 6,
+      "text": "盖锅焖一分钟，让蛋花定型。，火候要稳，别忽大忽小。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "焖一下，蛋花才嫩不散。，火候要稳，别忽大忽小。",
+      "visual_cue": "蛋花成形，汤面平静"
+    },
+    {
+      "n": 7,
+      "text": "撒小葱、紫菜和白胡椒，连锅端上桌。，火候要稳，别忽大忽小。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "白胡椒去腥，别省。，火候要稳，别忽大忽小。",
+      "visual_cue": "葱花翠绿，热气腾腾"
+    }
+  ],
+  "tips": [
+    "米饭先冲洗，杂炊才清爽。，这一点很关键。",
+    "汤味调淡，米会吸咸。，这一点很关键。",
+    "蛋液淋成细线，蛋花才嫩。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "用力搅动，米饭糊成团。，这一点很关键。",
+    "汤太咸，煮完无法入口。，这一点很关键。",
+    "蛋液一次倒完，结成一块。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "1000 毫升:1000 毫升",
+      "note": "需多加生抽提味。"
+    },
+    {
+      "original": "米饭",
+      "substitute": "大米",
+      "ratio": "400 克:150 克",
+      "note": "煮的时间加十分钟。"
+    }
+  ],
+  "variations": [
+    "加几片鸡肉，鲜味更足。，这一点很关键。",
+    "加一点姜丝，暖身更好。，这一点很关键。"
+  ],
+  "serving_suggestion": "连锅上桌，配一碟腌萝卜。，这一点很关键。",
+  "storage": "冷藏一天，复热加水调稀。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 480 克",
+    "calories_kcal": 260,
+    "protein_g": 11,
+    "fat_g": 6,
+    "carbs_g": 42,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类与大豆制品，过敏者慎食；鸡蛋须煮至完全凝固，米饭须彻底加热；成品冷藏不超过一天。"
+  ],
+  "origin_note": "日本火锅吃完后的收尾，把剩饭倒进剩汤里煮一煮。米粒吸饱汤汁，打个蛋花，是冬天最省事的一碗。，这一点很关键。",
+  "tags": [
+    "日本",
+    "主食",
+    "米饭",
+    "家常菜"
+  ],
+  "related_ids": [
+    "japanese-kayu",
+    "ochazuke",
+    "japanese-oyakodon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

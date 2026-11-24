@@ -1,0 +1,266 @@
+{
+ "schema_version": "1.0",
+ "content_version": 1,
+ "id": "thai-khao-mok-gai",
+ "name": {
+  "zh": "泰式咖喱鸡焖饭",
+  "en": "Khao Mok Gai",
+  "original": "ข้าวหมกไก่"
+ },
+ "cuisine": {
+  "region": "intl",
+  "style": "thai"
+ },
+ "category": [
+  "staple-rice"
+ ],
+ "difficulty": 2,
+ "time": {
+  "prep_min": 25,
+  "cook_min": 57,
+  "total_min": 82
+ },
+ "servings": 3,
+ "flavor": [
+  "savory",
+  "spicy",
+  "fragrant"
+ ],
+ "ingredients": [
+  {
+   "group": "main",
+   "items": [
+    {
+     "name": "大米",
+     "name_en": "rice",
+     "amount": 300,
+     "unit": "g",
+     "note": "洗净沥干",
+     "optional": false
+    },
+    {
+     "name": "鸡胸肉",
+     "name_en": "chicken breast",
+     "amount": 400,
+     "unit": "g",
+     "note": "切块",
+     "optional": false
+    }
+   ]
+  },
+  {
+   "group": "aux",
+   "items": [
+    {
+     "name": "黄咖喱酱",
+     "name_en": "yellow curry paste",
+     "amount": 45,
+     "unit": "g",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "椰奶",
+     "name_en": "coconut milk",
+     "amount": 200,
+     "unit": "ml",
+     "note": "增香",
+     "optional": false
+    },
+    {
+     "name": "红葱头",
+     "name_en": "shallot",
+     "amount": 50,
+     "unit": "g",
+     "note": "切末",
+     "optional": false
+    },
+    {
+     "name": "香茅",
+     "name_en": "lemongrass",
+     "amount": 1,
+     "unit": "piece",
+     "note": "拍扁",
+     "optional": false
+    },
+    {
+     "name": "鱼露",
+     "name_en": "fish sauce",
+     "amount": 15,
+     "unit": "ml",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "红糖",
+     "name_en": "brown sugar",
+     "amount": 8,
+     "unit": "g",
+     "note": "平衡",
+     "optional": false
+    },
+    {
+     "name": "植物油",
+     "name_en": "vegetable oil",
+     "amount": 25,
+     "unit": "ml",
+     "note": "炒制",
+     "optional": false
+    },
+    {
+     "name": "清水",
+     "name_en": "water",
+     "amount": 350,
+     "unit": "ml",
+     "note": "焖饭",
+     "optional": false
+    },
+    {
+     "name": "黄瓜",
+     "name_en": "cucumber",
+     "amount": 100,
+     "unit": "g",
+     "note": "切片配菜",
+     "optional": false
+    }
+   ]
+  }
+ ],
+ "equipment": [
+  "电饭锅",
+  "炒锅",
+  "刀",
+  "砧板",
+  "碗"
+ ],
+ "steps": [
+  {
+   "n": 1,
+   "text": "鸡胸肉块用一半黄咖喱酱和鱼露抓匀，腌十五分钟。",
+   "time_min": 16,
+   "heat": "无火",
+   "tip": "腌透了肉才有味，别省这一步。，火候要稳，别忽大忽小。",
+   "visual_cue": "肉块挂酱，颜色发黄"
+  },
+  {
+   "n": 2,
+   "text": "炒锅倒植物油，小火炒香红葱头末和剩余黄咖喱酱。",
+   "time_min": 5,
+   "heat": "小火",
+   "tip": "咖喱炒出油，饭才够香。，火候要稳，别忽大忽小。",
+   "visual_cue": "酱体冒泡，油色转红"
+  },
+  {
+   "n": 3,
+   "text": "下腌好的鸡肉块，中火翻炒到表面变白。，火候要稳，别忽大忽小。",
+   "time_min": 5,
+   "heat": "中火",
+   "tip": "肉块裹住咖喱，焖出来才入味。，火候要稳，别忽大忽小。",
+   "visual_cue": "肉块挂酱，边角收紧"
+  },
+  {
+   "n": 4,
+   "text": "加红糖炒匀，倒入椰奶煮开后关火。，火候要稳，别忽大忽小。",
+   "time_min": 4,
+   "heat": "中火",
+   "tip": "椰奶别久煮，香气会跑。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤色奶黄，香气浓，这一点很关键。"
+  },
+  {
+   "n": 5,
+   "text": "大米放进电饭锅，加清水和炒好的鸡肉连酱汁。，火候要稳，别忽大忽小。",
+   "time_min": 3,
+   "heat": "无火",
+   "tip": "水按米量算，酱汁也含水分。，火候要稳，别忽大忽小。",
+   "visual_cue": "米粒铺平，汤汁浸过"
+  },
+  {
+   "n": 6,
+   "text": "放一根香茅在米上，按下煮饭键焖熟。，火候要稳，别忽大忽小。",
+   "time_min": 32,
+   "heat": "无火",
+   "tip": "香茅整根放，焖完取出。，火候要稳，别忽大忽小。",
+   "visual_cue": "按键跳起，香气满锅"
+  },
+  {
+   "n": 7,
+   "text": "焖好别马上开盖，静置十分钟再拌松。，火候要稳，别忽大忽小。",
+   "time_min": 11,
+   "heat": "无火",
+   "tip": "静置让水汽回匀，饭才不湿。，火候要稳，别忽大忽小。",
+   "visual_cue": "开盖热气腾，米粒分明"
+  },
+  {
+   "n": 8,
+   "text": "取出香茅，鸡肉配黄瓜片摆盘上桌。，火候要稳，别忽大忽小。",
+   "time_min": 3,
+   "heat": "无火",
+   "tip": "黄瓜解腻，配着吃更清爽。，火候要稳，别忽大忽小。",
+   "visual_cue": "饭色金黄，黄瓜翠绿"
+  }
+ ],
+ "tips": [
+  "鸡肉腌透，焖出来才有味。，这一点很关键。",
+  "咖喱酱炒出油，饭才香。，这一点很关键。",
+  "焖好静置十分钟，米粒才松散。，这一点很关键。"
+ ],
+ "common_mistakes": [
+  "鸡肉不腌直接焖，味道只在表面。，这一点很关键。",
+  "水放太多，焖成烂饭。，这一点很关键。",
+  "焖好立刻开盖，饭发黏。，这一点很关键。"
+ ],
+ "substitutions": [
+  {
+   "original": "鸡胸肉",
+   "substitute": "鸡翅",
+   "ratio": "400 克:450 克",
+   "note": "焖的时间加十分钟。"
+  },
+  {
+   "original": "黄咖喱酱",
+   "substitute": "咖喱粉",
+   "ratio": "45 克:25 克",
+   "note": "需另加盐调味。"
+  }
+ ],
+ "variations": [
+  "加一点葡萄干，甜味更明显。，这一点很关键。",
+  "配泰式酸甜酱一起吃。，这一点很关键。"
+ ],
+ "serving_suggestion": "配黄瓜片和一碗清汤。，这一点很关键。",
+ "storage": "冷藏两天，复热加一勺水。，这一点很关键。",
+ "nutrition_estimate": {
+  "basis": "每份约 420 克",
+  "calories_kcal": 680,
+  "protein_g": 38,
+  "fat_g": 24,
+  "carbs_g": 78,
+  "sodium_mg": 760,
+  "is_estimate": true,
+  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+ },
+ "allergens": [
+  "fish"
+ ],
+ "diet_tags": [],
+ "food_safety_notes": [
+  "含鱼类制品，过敏者慎食；鸡肉须焖至中心完全变白无粉红；成品冷藏不超过两天，复热须彻底加热。"
+ ],
+ "origin_note": "泰南的穆斯林家常饭，米和鸡肉加咖喱一锅焖。米粒吸饱了椰奶和香料，颜色金黄，配几片生黄瓜刚好解腻。",
+ "tags": [
+  "泰国",
+  "主食",
+  "焖饭",
+  "咖喱"
+ ],
+ "related_ids": [
+  "thai-khao-man-gai",
+  "thai-gaeng-kari-gai",
+  "thai-green-curry-chicken"
+ ],
+ "image_url": null,
+ "image_credit": null,
+ "status": "published",
+ "created_at": "2026-11-24",
+ "updated_at": "2026-11-24"
+}

@@ -1,0 +1,275 @@
+{
+ "schema_version": "1.0",
+ "content_version": 1,
+ "id": "thai-khao-soi",
+ "name": {
+  "zh": "清迈咖喱面",
+  "en": "Khao Soi",
+  "original": "ข้าวซอย"
+ },
+ "cuisine": {
+  "region": "intl",
+  "style": "thai"
+ },
+ "category": [
+  "main-poultry"
+ ],
+ "difficulty": 2,
+ "time": {
+  "prep_min": 20,
+  "cook_min": 41,
+  "total_min": 61
+ },
+ "servings": 3,
+ "flavor": [
+  "rich",
+  "spicy",
+  "umami"
+ ],
+ "ingredients": [
+  {
+   "group": "main",
+   "items": [
+    {
+     "name": "鸡胸肉",
+     "name_en": "chicken breast",
+     "amount": 400,
+     "unit": "g",
+     "note": "切块",
+     "optional": false
+    },
+    {
+     "name": "河粉",
+     "name_en": "flat rice noodles",
+     "amount": 300,
+     "unit": "g",
+     "note": "宽条",
+     "optional": false
+    }
+   ]
+  },
+  {
+   "group": "aux",
+   "items": [
+    {
+     "name": "黄咖喱酱",
+     "name_en": "yellow curry paste",
+     "amount": 60,
+     "unit": "g",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "椰奶",
+     "name_en": "coconut milk",
+     "amount": 600,
+     "unit": "ml",
+     "note": "分两次",
+     "optional": false
+    },
+    {
+     "name": "鱼露",
+     "name_en": "fish sauce",
+     "amount": 20,
+     "unit": "ml",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "红糖",
+     "name_en": "brown sugar",
+     "amount": 10,
+     "unit": "g",
+     "note": "平衡",
+     "optional": false
+    },
+    {
+     "name": "大蒜",
+     "name_en": "shallot",
+     "amount": 40,
+     "unit": "g",
+     "note": "切末",
+     "optional": false
+    },
+    {
+     "name": "青柠",
+     "name_en": "lime",
+     "amount": 1,
+     "unit": "piece",
+     "note": "挤汁",
+     "optional": false
+    },
+    {
+     "name": "植物油",
+     "name_en": "vegetable oil",
+     "amount": 40,
+     "unit": "ml",
+     "note": "炒制",
+     "optional": false
+    },
+    {
+     "name": "清水",
+     "name_en": "water",
+     "amount": 300,
+     "unit": "ml",
+     "note": "调稀",
+     "optional": false
+    },
+    {
+     "name": "花生",
+     "name_en": "peanut",
+     "amount": 40,
+     "unit": "g",
+     "note": "烤香碎",
+     "optional": false
+    }
+   ]
+  }
+ ],
+ "equipment": [
+  "炒锅",
+  "汤锅",
+  "刀",
+  "砧板",
+  "漏勺"
+ ],
+ "steps": [
+  {
+   "n": 1,
+   "text": "炒锅倒一半植物油，小火炒香黄咖喱酱两分钟。，火候要稳，别忽大忽小。",
+   "time_min": 4,
+   "heat": "小火",
+   "tip": "咖喱酱要炒出油，香味才出来。，火候要稳，别忽大忽小。",
+   "visual_cue": "酱体冒泡，油色转红"
+  },
+  {
+   "n": 2,
+   "text": "倒一半椰奶，中火搅到油水分离出红油。，火候要稳，别忽大忽小。",
+   "time_min": 6,
+   "heat": "中火",
+   "tip": "椰奶煮到出油，咖喱才够香。，火候要稳，别忽大忽小。",
+   "visual_cue": "表面浮红油，酱体浓稠"
+  },
+  {
+   "n": 3,
+   "text": "下鸡胸肉块翻炒到表面变白。，火候要稳，别忽大忽小。",
+   "time_min": 5,
+   "heat": "中火",
+   "tip": "肉块裹上咖喱，才入味。，火候要稳，别忽大忽小。",
+   "visual_cue": "肉块挂酱，颜色发黄"
+  },
+  {
+   "n": 4,
+   "text": "加清水和红糖，小火煮二十分钟。，火候要稳，别忽大忽小。",
+   "time_min": 22,
+   "heat": "小火",
+   "tip": "小火慢煮，鸡肉才不柴。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤面微沸，酱汁转稠"
+  },
+  {
+   "n": 5,
+   "text": "倒剩余椰奶和鱼露，搅匀后再煮三分钟。，火候要稳，别忽大忽小。",
+   "time_min": 5,
+   "heat": "小火",
+   "tip": "椰奶后放，香气才清。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤色奶黄，质地顺滑"
+  },
+  {
+   "n": 6,
+   "text": "河粉用开水烫软，捞出沥干分装碗里。，火候要稳，别忽大忽小。",
+   "time_min": 5,
+   "heat": "大火",
+   "tip": "河粉烫软就捞，泡久会烂。，火候要稳，别忽大忽小。",
+   "visual_cue": "粉条柔软，根根分明"
+  },
+  {
+   "n": 7,
+   "text": "大蒜末用剩余植物油小火炸到金黄。，火候要稳，别忽大忽小。",
+   "time_min": 6,
+   "heat": "小火",
+   "tip": "小火慢炸，蒜末才不焦。，火候要稳，别忽大忽小。",
+   "visual_cue": "蒜末金黄，油香浓，这一点很关键。"
+  },
+  {
+   "n": 8,
+   "text": "咖喱汤浇在粉上，撒蒜末和花生碎。，火候要稳，别忽大忽小。",
+   "time_min": 3,
+   "heat": "无火",
+   "tip": "配料最后撒，脆感才在。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤面油亮，脆料堆顶"
+  },
+  {
+   "n": 9,
+   "text": "挤一点青柠汁，拌匀趁热吃。，火候要稳，别忽大忽小。",
+   "time_min": 2,
+   "heat": "无火",
+   "tip": "青柠解腻，别省。，火候要稳，别忽大忽小。",
+   "visual_cue": "酸香散开，汤色变浅"
+  }
+ ],
+ "tips": [
+  "咖喱酱要炒出红油，香味才足。，这一点很关键。",
+  "椰奶后放，香气才清不腻。，这一点很关键。",
+  "蒜末小火炸，才金黄不苦。，这一点很关键。"
+ ],
+ "common_mistakes": [
+  "咖喱酱不炒，汤发闷。，这一点很关键。",
+  "河粉泡太久，端上来就断。，这一点很关键。",
+  "火大煮椰奶，油水分离发渣。，这一点很关键。"
+ ],
+ "substitutions": [
+  {
+   "original": "鸡胸肉",
+   "substitute": "牛里脊",
+   "ratio": "400 克:400 克",
+   "note": "炖的时间加十分钟。"
+  },
+  {
+   "original": "河粉",
+   "substitute": "米粉",
+   "ratio": "300 克:300 克",
+   "note": "更细，烫的时间减半。"
+  }
+ ],
+ "variations": [
+  "加酸菜，酸味更正。，这一点很关键。",
+  "加一个溏心蛋，更饱腹。，这一点很关键。"
+ ],
+ "serving_suggestion": "配腌菜和青柠角一起上。，这一点很关键。",
+ "storage": "汤冷藏两天，粉现煮现烫。，这一点很关键。",
+ "nutrition_estimate": {
+  "basis": "每份约 550 克",
+  "calories_kcal": 620,
+  "protein_g": 34,
+  "fat_g": 34,
+  "carbs_g": 48,
+  "sodium_mg": 980,
+  "is_estimate": true,
+  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+ },
+ "allergens": [
+  "fish",
+  "peanut"
+ ],
+ "diet_tags": [],
+ "food_safety_notes": [
+  "含鱼类制品与花生，过敏者慎食；鸡肉须煮至完全熟透；成品汤冷藏不超过两天，复热须彻底加热。"
+ ],
+ "origin_note": "清迈街头的招牌面，咖喱汤上漂着一层红油，上面堆着炸脆的蒜末。一碗里同时有软、脆、辣、酸四种口感。",
+ "tags": [
+  "泰国",
+  "面食",
+  "咖喱",
+  "清迈"
+ ],
+ "related_ids": [
+  "thai-green-curry-chicken",
+  "thai-gaeng-kari-gai",
+  "pad-thai"
+ ],
+ "image_url": null,
+ "image_credit": null,
+ "status": "published",
+ "created_at": "2026-11-24",
+ "updated_at": "2026-11-24"
+}

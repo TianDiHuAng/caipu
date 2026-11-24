@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-yum-kai-yang",
+  "name": {
+    "zh": "泰式烤鸡沙拉",
+    "en": "Grilled Chicken Salad",
+    "original": "ยำไก่ย่าง"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 400,
+          "unit": "g",
+          "note": "整块",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 200,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 20,
+          "unit": "g",
+          "note": "取叶",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 40,
+          "unit": "g",
+          "note": "烤香碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "大碗",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡胸肉片成两片薄厚均匀的肉排，撒盐抹匀。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "片薄一点，煎的时候才受热均匀。，火候要稳，别忽大忽小。",
+      "visual_cue": "肉排厚薄一致，盐粒附着"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒植物油烧热，下鸡胸肉中火煎。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "锅热再下肉，表面才封得住汁。，火候要稳，别忽大忽小。",
+      "visual_cue": "油面泛光，肉边转白"
+    },
+    {
+      "n": 3,
+      "text": "每面煎五分钟，到表面金黄、中心不透明。，火候要稳，别忽大忽小。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "别急着翻，一面定了再翻。，火候要稳，别忽大忽小。",
+      "visual_cue": "两面焦黄，按压有弹性"
+    },
+    {
+      "n": 4,
+      "text": "盛出静置五分钟，再切成条。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置让肉汁回吸，切了才不流。，火候要稳，别忽大忽小。",
+      "visual_cue": "切面湿润，汁水不外流"
+    },
+    {
+      "n": 5,
+      "text": "小碗里放青柠汁、鱼露和白糖，搅到糖化。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "糖要化开，酱汁才不齁。，火候要稳，别忽大忽小。",
+      "visual_cue": "汁体清亮，糖粒消失"
+    },
+    {
+      "n": 6,
+      "text": "大碗放黄瓜片、番茄块和红葱头丝。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蔬菜切均匀，入口才顺。，火候要稳，别忽大忽小。",
+      "visual_cue": "颜色交错，堆成小山"
+    },
+    {
+      "n": 7,
+      "text": "放入鸡肉条，淋酱汁轻轻拌匀。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "轻拌别压，蔬菜才不出水。，火候要稳，别忽大忽小。",
+      "visual_cue": "酱汁挂匀，颜色发亮"
+    },
+    {
+      "n": 8,
+      "text": "撒罗勒叶和花生碎，装盘上桌。，火候要稳，别忽大忽小。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "罗勒最后放，香气才清。，火候要稳，别忽大忽小。",
+      "visual_cue": "绿叶点缀，脆料散布"
+    }
+  ],
+  "tips": [
+    "鸡肉煎后静置再切，肉汁才不流失。",
+    "糖要搅化，酱汁才不齁。，这一点很关键。",
+    "罗勒最后放，香气才清。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "鸡肉煎完立刻切，汁水全流走。，这一点很关键。",
+    "酱汁糖没化，吃到颗粒。，这一点很关键。",
+    "拌太久，蔬菜出水变汤。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "牛里脊",
+      "ratio": "400 克:400 克",
+      "note": "煎的时间减到三分钟每面。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "生抽",
+      "ratio": "25 毫升:25 毫升",
+      "note": "咸度略低，可少放糖。"
+    }
+  ],
+  "variations": [
+    "加烤花生换成腰果，口感更脆。，这一点很关键。",
+    "加几片薄荷，凉感更足。，这一点很关键。"
+  ],
+  "serving_suggestion": "配糯米饭，用手捏着吃。，这一点很关键。",
+  "storage": "冷藏一天，酱汁分开保存。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 320 克",
+    "calories_kcal": 330,
+    "protein_g": 36,
+    "fat_g": 14,
+    "carbs_g": 14,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "peanut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鱼类制品与花生，过敏者慎食；鸡肉须煎至中心完全变白无粉红；成品冷藏不超过一天。"
+  ],
+  "origin_note": "泰国东北的凉拌菜做法，烤鸡撕条拌进酸辣汁里。青柠的酸、鱼露的咸、红葱头的辛一起冲上来，配糯米最对。",
+  "tags": [
+    "泰国",
+    "沙拉",
+    "鸡肉",
+    "酸辣"
+  ],
+  "related_ids": [
+    "yum-nua",
+    "som-tam",
+    "larb-gai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

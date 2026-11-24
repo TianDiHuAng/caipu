@@ -1,0 +1,218 @@
+{
+ "schema_version": "1.0",
+ "content_version": 1,
+ "id": "japanese-kayu",
+ "name": {
+  "zh": "日式米粥",
+  "en": "Okayu",
+  "original": "お粥"
+ },
+ "cuisine": {
+  "region": "intl",
+  "style": "japanese"
+ },
+ "category": [
+  "staple-rice"
+ ],
+ "difficulty": 1,
+ "time": {
+  "prep_min": 10,
+  "cook_min": 52,
+  "total_min": 62
+ },
+ "servings": 3,
+ "flavor": [
+  "light",
+  "savory",
+  "umami"
+ ],
+ "ingredients": [
+  {
+   "group": "main",
+   "items": [
+    {
+     "name": "大米",
+     "name_en": "rice",
+     "amount": 150,
+     "unit": "g",
+     "note": "洗净",
+     "optional": false
+    },
+    {
+     "name": "清水",
+     "name_en": "water",
+     "amount": 1500,
+     "unit": "ml",
+     "note": "煮粥",
+     "optional": false
+    }
+   ]
+  },
+  {
+   "group": "aux",
+   "items": [
+    {
+     "name": "盐",
+     "name_en": "salt",
+     "amount": 4,
+     "unit": "g",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "生抽",
+     "name_en": "light soy sauce",
+     "amount": 10,
+     "unit": "ml",
+     "note": "提味",
+     "optional": false
+    },
+    {
+     "name": "紫菜",
+     "name_en": "nori",
+     "amount": 5,
+     "unit": "g",
+     "note": "切丝",
+     "optional": false
+    },
+    {
+     "name": "小葱",
+     "name_en": "scallion",
+     "amount": 15,
+     "unit": "g",
+     "note": "切碎",
+     "optional": false
+    }
+   ]
+  }
+ ],
+ "equipment": [
+  "砂锅",
+  "量杯",
+  "汤勺",
+  "碗"
+ ],
+ "steps": [
+  {
+   "n": 1,
+   "text": "大米淘洗两遍，沥干后静置十分钟。，火候要稳，别忽大忽小。",
+   "time_min": 12,
+   "heat": "无火",
+   "tip": "米洗到水清，粥才不浑。，火候要稳，别忽大忽小。",
+   "visual_cue": "米粒洁白，水清澈，这一点很关键。"
+  },
+  {
+   "n": 2,
+   "text": "砂锅倒清水，大火烧到锅底冒小泡。，火候要稳，别忽大忽小。",
+   "time_min": 6,
+   "heat": "大火",
+   "tip": "水开再下米，米粒才不粘底。，火候要稳，别忽大忽小。",
+   "visual_cue": "锅底气泡，水面微动"
+  },
+  {
+   "n": 3,
+   "text": "下米搅一圈，再次煮开后转小火。，火候要稳，别忽大忽小。",
+   "time_min": 4,
+   "heat": "小火",
+   "tip": "搅一圈防粘，之后别多搅。，火候要稳，别忽大忽小。",
+   "visual_cue": "米粒下沉，水面翻滚"
+  },
+  {
+   "n": 4,
+   "text": "盖锅留一条缝，小火煮三十分钟。，火候要稳，别忽大忽小。",
+   "time_min": 31,
+   "heat": "小火",
+   "tip": "留缝防溢，粥面才不会糊出锅。，火候要稳，别忽大忽小。",
+   "visual_cue": "粥面微沸，米粒开花"
+  },
+  {
+   "n": 5,
+   "text": "用汤勺压几粒米，能压散就说明好了。，火候要稳，别忽大忽小。",
+   "time_min": 2,
+   "heat": "小火",
+   "tip": "米心压得散，口感才绵。，火候要稳，别忽大忽小。",
+   "visual_cue": "米粒软烂，粥体浓稠"
+  },
+  {
+   "n": 6,
+   "text": "加盐和生抽调味，搅匀关火。，火候要稳，别忽大忽小。",
+   "time_min": 2,
+   "heat": "小火",
+   "tip": "盐最后放，粥才不澥。，火候要稳，别忽大忽小。",
+   "visual_cue": "粥体挂勺，颜色微黄"
+  },
+  {
+   "n": 7,
+   "text": "盛碗撒紫菜丝和小葱碎，趁热吃。，火候要稳，别忽大忽小。",
+   "time_min": 2,
+   "heat": "无火",
+   "tip": "紫菜遇热会散开，香气才出来。，火候要稳，别忽大忽小。",
+   "visual_cue": "紫菜舒展，葱花翠绿"
+  }
+ ],
+ "tips": [
+  "米洗到水清，粥才不浑。，这一点很关键。",
+  "小火慢煮，米粒才开花。，这一点很关键。",
+  "盐最后放，粥体才稠。，这一点很关键。"
+ ],
+ "common_mistakes": [
+  "大火一直滚，粥溢得到处都是。，这一点很关键。",
+  "水太少，煮成夹生饭。，这一点很关键。",
+  "频繁搅动，粥变糊状。，这一点很关键。"
+ ],
+ "substitutions": [
+  {
+   "original": "大米",
+   "substitute": "米饭",
+   "ratio": "150 克:300 克",
+   "note": "煮的时间减到十五分钟。"
+  },
+  {
+   "original": "清水",
+   "substitute": "高汤",
+   "ratio": "1500 毫升:1500 毫升",
+   "note": "鲜味更足，盐可减半。"
+  }
+ ],
+ "variations": [
+  "打一个鸡蛋进去，做成蛋粥。，这一点很关键。",
+  "加一块梅干，酸味解腻。，这一点很关键。"
+ ],
+ "serving_suggestion": "配腌菜或一小碟纳豆。，这一点很关键。",
+ "storage": "冷藏两天，复热加水调稀。，这一点很关键。",
+ "nutrition_estimate": {
+  "basis": "每份约 550 克",
+  "calories_kcal": 180,
+  "protein_g": 4,
+  "fat_g": 1,
+  "carbs_g": 39,
+  "sodium_mg": 420,
+  "is_estimate": true,
+  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+ },
+ "allergens": [
+  "gluten",
+  "soy"
+ ],
+ "diet_tags": [],
+ "food_safety_notes": [
+  "含大豆制品，过敏者慎食；粥须煮至米粒完全开花软烂；成品冷藏不超过两天，复热须彻底加热。"
+ ],
+ "origin_note": "日本人身体不舒服时第一口想吃的东西。米和水慢慢熬到开花，配一碟腌菜，胃里就暖起来了。，这一点很关键。",
+ "tags": [
+  "日本",
+  "粥",
+  "主食",
+  "清淡"
+ ],
+ "related_ids": [
+  "ochazuke",
+  "japanese-zosui",
+  "japanese-takikomi-gohan"
+ ],
+ "image_url": null,
+ "image_credit": null,
+ "status": "published",
+ "created_at": "2026-11-24",
+ "updated_at": "2026-11-24"
+}

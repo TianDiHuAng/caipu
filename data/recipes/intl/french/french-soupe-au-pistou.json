@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-soupe-au-pistou",
+  "name": {
+    "zh": "普罗旺斯蔬菜汤",
+    "en": "Soupe au Pistou",
+    "original": "Soupe au Pistou"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 47,
+    "total_min": 67
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "herbal",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "通心粉",
+          "name_en": "penne",
+          "amount": 150,
+          "unit": "g",
+          "note": "短管",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 250,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 30,
+          "unit": "g",
+          "note": "取叶",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 40,
+          "unit": "g",
+          "note": "磨碎",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调酱",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "研钵",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄底部划十字，热水烫三十秒后去皮切块。，看准状态再往下做。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "烫过去皮，汤才不涩。，看准状态再往下做。",
+      "visual_cue": "皮卷起，果肉软，这一点很关键。"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒一半橄榄油，下洋葱碎小火炒软。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱炒透，汤才有甜底。，看准状态再往下做。",
+      "visual_cue": "洋葱透明，油色微黄"
+    },
+    {
+      "n": 3,
+      "text": "加胡萝卜丁和西葫芦丁翻炒三分钟。，看准状态再往下做。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "蔬菜裹油，煮后更香。，看准状态再往下做。",
+      "visual_cue": "表面油亮，颜色鲜，这一点很关键。"
+    },
+    {
+      "n": 4,
+      "text": "下番茄块炒出汁，加盐和黑胡椒调味。，看准状态再往下做。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄炒出汁，汤才浓。，看准状态再往下做。",
+      "visual_cue": "番茄化开，汁水冒泡"
+    },
+    {
+      "n": 5,
+      "text": "倒清水煮开，转小火炖二十分钟。，看准状态再往下做。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "小火慢炖，蔬菜味才融进汤。，看准状态再往下做。",
+      "visual_cue": "汤面微沸，颜色橙红"
+    },
+    {
+      "n": 6,
+      "text": "加通心粉煮十分钟到软。，看准状态再往下做。，动作要轻，别把食材弄碎。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "通心粉后放，才不会糊。，看准状态再往下做。",
+      "visual_cue": "面身变软，汤体微稠"
+    },
+    {
+      "n": 7,
+      "text": "罗勒叶、蒜末和帕玛森芝士放研钵捣成酱。，看准状态再往下做。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "边捣边加剩余橄榄油，酱才顺滑。，看准状态再往下做。",
+      "visual_cue": "酱体浓绿，油香扑鼻"
+    },
+    {
+      "n": 8,
+      "text": "关火后把罗勒酱拌进汤里，搅匀盛碗。，看准状态再往下做。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "关火再拌，罗勒香才不跑。，看准状态再往下做。",
+      "visual_cue": "汤色转绿，油花点点"
+    }
+  ],
+  "tips": [
+    "罗勒酱关火再拌，香气才保得住。，这一点很关键。",
+    "番茄先炒出汁，汤才浓不寡淡。，这一点很关键。",
+    "通心粉后放，煮久会糊在汤里。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "罗勒一开始就煮，香气全跑光。，这一点很关键。",
+    "番茄不炒直接加水，汤发酸。，这一点很关键。",
+    "通心粉煮过头，汤变成糊。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "通心粉",
+      "substitute": "面条",
+      "ratio": "150 克:150 克",
+      "note": "掰短，煮六分钟。"
+    },
+    {
+      "original": "帕玛森芝士",
+      "substitute": "奶酪",
+      "ratio": "40 克:45 克",
+      "note": "咸度略低。"
+    }
+  ],
+  "variations": [
+    "加一把白豆，汤更饱腹。，这一点很关键。",
+    "加一点青豆，颜色更鲜。，这一点很关键。"
+  ],
+  "serving_suggestion": "盛碗后再淋一点橄榄油，配面包。，这一点很关键。",
+  "storage": "冷藏三天，罗勒酱现做现拌。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 400 克",
+    "calories_kcal": 320,
+    "protein_g": 11,
+    "fat_g": 16,
+    "carbs_g": 36,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含乳制品与小麦，过敏者慎食；汤须煮沸后食用；成品冷藏不超过三天，复热须彻底加热。"
+  ],
+  "origin_note": "普罗旺斯夏天的汤，有什么蔬菜就放什么。关火前拌一大勺罗勒蒜酱，整锅汤瞬间变成草本的绿色。，这一点很关键。",
+  "tags": [
+    "法国",
+    "汤",
+    "蔬菜",
+    "普罗旺斯"
+  ],
+  "related_ids": [
+    "french-ratatouille",
+    "french-onion-soup",
+    "veloute-potiron"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:38:16.919Z",
+  "generatedAt": "2026-11-24T01:39:01.866Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 612,
     "target": 3274,
-    "actual": 1534,
-    "coverage": 0.468540012217471
+    "actual": 1558,
+    "coverage": 0.4758704948075748
   },
   "regions": {
     "cn": [
@@ -2678,15 +2678,17 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 51,
+        "actual": 57,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 8,
             "ids": [
               "japanese-ebi-fry",
+              "japanese-hotate-butter",
+              "japanese-saba-shioyaki",
               "japanese-tempura",
               "japanese-teriyaki-salmon",
               "miso-salmon",
@@ -2698,12 +2700,14 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 9,
             "ids": [
               "japanese-curry-rice",
               "japanese-katsudon",
+              "japanese-kayu",
               "japanese-oyakodon",
               "japanese-takikomi-gohan",
+              "japanese-zosui",
               "ochazuke",
               "omurice",
               "oyakodon"
@@ -2726,13 +2730,14 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "chawanmushi",
               "goma-ae-spinach",
               "hiyayakko",
               "japanese-agedashi-tofu",
               "japanese-chawanmushi",
+              "japanese-takoyaki",
               "karaage"
             ]
           },
@@ -2740,11 +2745,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "dorayaki",
               "japanese-castella",
               "japanese-ichigo-daifuku",
+              "japanese-mizuyokan",
               "japanese-oshiruko",
               "japanese-purin",
               "matcha-pudding",
@@ -3029,30 +3035,32 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 54,
+        "actual": 60,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "larb-gai",
               "thai-cashew-chicken",
               "thai-gaeng-kari-gai",
               "thai-gai-yang",
               "thai-garlic-pepper-chicken",
-              "thai-green-curry-chicken"
+              "thai-green-curry-chicken",
+              "thai-khao-soi"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "thai-kaeng-jued-moo",
               "thai-tom-som-pla",
+              "thai-tom-yum-gai",
               "thai-tom-yum-goong",
               "tom-kha-gai",
               "tom-kha-hed",
@@ -3063,12 +3071,13 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "larb-gai",
               "som-tam",
               "thai-yam-het",
               "thai-yam-pla-muek",
+              "thai-yum-kai-yang",
               "thai-yum-talay",
               "thai-yum-woon-sen",
               "yum-nua"
@@ -3078,12 +3087,13 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "pu-pad-pong-curry",
               "thai-basil-shrimp",
               "thai-goong-ob-wunsen",
               "thai-goong-pad-khing",
+              "thai-goong-tod-krathiam",
               "thai-pla-neung-manao",
               "thai-steamed-fish",
               "tom-yum-goong"
@@ -3093,9 +3103,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "mango-sticky-rice",
+              "thai-bua-loy",
               "thai-coconut-jelly",
               "thai-coconut-sticky-rice",
               "thai-khanom-krok",
@@ -3163,10 +3174,11 @@
             "category": "staple-rice",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "thai-coconut-sticky-rice",
               "thai-khao-man-gai",
+              "thai-khao-mok-gai",
               "thai-khao-pad-sapparod"
             ]
           },
@@ -3197,13 +3209,13 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 52,
+        "actual": 58,
         "cells": [
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "ciabatta",
               "focaccia",
@@ -3211,6 +3223,7 @@
               "italian-pane-carasau",
               "italian-pane-toscano",
               "italian-piadina-romagnola",
+              "italian-pizza-bianca",
               "italian-pizza-margherita",
               "italian-taralli"
             ]
@@ -3219,11 +3232,12 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "chicken-cacciatore",
               "italian-chicken-parmesan",
               "italian-pollo-alla-milanese",
+              "italian-pollo-in-padella",
               "pollo-al-limone",
               "pollo-alla-cacciatora",
               "pollo-arrosto"
@@ -3233,11 +3247,13 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 8,
             "ids": [
               "biscotti",
               "cannoli-siciliani",
               "italian-granita-al-limone",
+              "italian-torta-al-limone",
+              "italian-torta-caprese",
               "italian-zeppole",
               "panna-cotta",
               "tiramisu"
@@ -3247,12 +3263,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "bruschetta",
               "caprese-salad",
               "italian-arancini",
               "italian-bruschetta",
+              "italian-funghi-trifolati",
               "italian-polpette",
               "italian-suppli",
               "italian-vitello-tonnato"
@@ -3262,11 +3279,12 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "aglio-e-olio",
               "italian-bagna-cauda",
               "italian-marinara-sauce",
+              "italian-pesto-di-rucola",
               "italian-puttanesca-sauce",
               "pesto-genovese",
               "pesto"
@@ -3370,19 +3388,20 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 48,
+        "actual": 54,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "boeuf-bourguignon",
               "french-boeuf-bourguignon",
               "french-brandade-de-morue",
               "french-coq-au-vin",
               "french-hachis-parmentier",
+              "french-navarin-d-agneau",
               "french-pot-au-feu",
               "french-steak-frites",
               "french-tartiflette",
@@ -3394,7 +3413,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "creme-brulee",
               "french-clafoutis",
@@ -3402,6 +3421,7 @@
               "french-financier",
               "french-madeleines",
               "french-mousse-au-chocolat",
+              "french-souffle-au-chocolat",
               "french-tarte-au-citron",
               "french-tarte-aux-pommes",
               "tarte-tatin"
@@ -3411,9 +3431,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "french-sauce-au-poivre",
+              "french-sauce-aux-champignons",
               "sauce-bechamel",
               "sauce-bordelaise",
               "sauce-hollandaise"
@@ -3423,11 +3444,12 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "bouillabaisse",
               "french-onion-soup",
               "french-potato-soup",
+              "french-soupe-au-pistou",
               "veloute-potiron"
             ]
           },
@@ -3435,12 +3457,13 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "baguette",
               "french-brioche",
               "french-croissant",
               "french-pain-au-chocolat",
+              "french-pain-de-campagne",
               "french-quiche-lorraine",
               "tarte-tatin"
             ]
@@ -3514,8 +3537,9 @@
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "french-poule-au-pot",
               "french-poulet-basquaise"
             ]
           },
