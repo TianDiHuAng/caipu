@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-khao-tom",
+  "name": {
+    "zh": "泰式汤饭",
+    "en": "Thai Rice Soup",
+    "original": "ข้าวต้ม"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "staple-congee"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 37,
+    "total_min": 49
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "隔夜饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "Minced Pork",
+          "amount": 250,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "碗",
+    "刀",
+    "勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肉末剁成肉末，姜切细丝，大蒜拍碎。，锅温要匀，口感才不发柴。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "肉末剁细些，汤才清。，注意别烧干，咸淡才好把握。",
+      "visual_cue": "肉末松散，姜丝细长，注意别烧干，香气才不跑。"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒清水，放姜丝和大蒜大火煮开。，保持小火，表面才漂亮。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水开再下料，香气才出。，手法轻些，锅气才足。",
+      "visual_cue": "水面翻滚，香气升起，翻动放轻，成品才稳当。"
+    },
+    {
+      "n": 3,
+      "text": "下肉末用勺拨散，煮到肉色变白。，份量心里有数，吃口才舒服。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉末要拨散，不然会坨。，留意锅底，味道才不闷。",
+      "visual_cue": "肉末分明，汤面浮渣，料别一次下太多，整道菜才立得住。"
+    },
+    {
+      "n": 4,
+      "text": "撇掉浮沫，汤色才清亮。，别用力搅，食材才不糊。，料别一次下太多，颜色才够亮。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "撇干净沫，汤才不浑。，留意锅底，口感才不发柴。",
+      "visual_cue": "汤面清透，浮沫去尽，锅温要匀，火候才均匀。"
+    },
+    {
+      "n": 5,
+      "text": "放入米饭，用勺压散不结块。，保持小火，口感才不散。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "饭要压散，煮开才均匀。，汤汁别收太干，口感才有层次。",
+      "visual_cue": "米粒散开，汤色微浊，盖盖焖一会儿，成品才稳当。"
+    },
+    {
+      "n": 6,
+      "text": "小火煮十分钟，煮到米粒开花。，份量心里有数，香气才不跑。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "小火慢煮，米才开花。，起锅前尝味，锅气才足。",
+      "visual_cue": "米粒饱满，汤略稠，顺序照着来，细节才到位。"
+    },
+    {
+      "n": 7,
+      "text": "加鱼露、盐和白胡椒调味。，下手别慌，细节才到位。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "鱼露后放，鲜味才不跑。，别急着加油，细节才到位。",
+      "visual_cue": "汤色浅褐，咸鲜扑鼻，份量心里有数，口感才不散。"
+    },
+    {
+      "n": 8,
+      "text": "关火撒小葱和香菜，趁热盛碗。，留意锅底，咸淡才好把握。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "香草关火再撒，颜色才绿。，料别一次下太多，香气才不跑。",
+      "visual_cue": "葱花翠绿，汤面油亮，慢慢来别急，食材才不糊。"
+    }
+  ],
+  "tips": [
+    "用隔夜米饭，煮出来的汤才不糊。，顺序照着来，成品才稳当。",
+    "肉末下锅要拨散，汤才清。，汤汁别收太干，味道才不闷。",
+    "鱼露最后放，鲜味才留得住。，慢慢来别急，细节才到位。"
+  ],
+  "common_mistakes": [
+    "大火久煮，米粒化在锅里。，先试试温度，锅气才足。",
+    "肉末不拨散，结成硬块。，下手别慌，整道菜才立得住。",
+    "鱼露放太早，越煮越咸。，慢慢来别急，香气才不跑。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡腿肉",
+      "ratio": "250 克:250 克",
+      "note": "去皮切小丁，煮制时间减两分钟。"
+    },
+    {
+      "original": "米饭",
+      "substitute": "大米",
+      "ratio": "600 克:200 克",
+      "note": "需多煮二十分钟，水量加两百毫升。"
+    }
+  ],
+  "variations": [
+    "打一个鸡蛋进去，做成蛋花汤饭。，汤汁别收太干，风味才干净。",
+    "加几片姜丝和油条，风味更足。，保持小火，细节才到位。"
+  ],
+  "serving_suggestion": "趁热配腌辣椒或小块煎蛋。，别用力搅，成品才稳当。",
+  "storage": "冷藏一天，复热需加水。，慢慢来别急，整道菜才立得住。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 380,
+    "protein_g": 22,
+    "fat_g": 8,
+    "carbs_g": 56,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含鱼类制品（鱼露），过敏者慎食；猪肉须彻底加热至中心熟透呈白色；汤温高，盛装时注意防止烫伤。"
+  ],
+  "origin_note": "曼谷街边的早餐汤饭，米粒泡在清汤里，肉末飘在上头。一碗下肚，胃里最舒服。，顺序照着来，成品才好看。，下手别慌，成品才好看。",
+  "tags": [
+    "泰式",
+    "汤饭",
+    "猪肉",
+    "早餐"
+  ],
+  "related_ids": [
+    "thai-tom-yum-gai",
+    "thai-kaeng-jued-moo",
+    "pad-thai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

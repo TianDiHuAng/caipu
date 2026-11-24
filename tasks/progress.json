@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T04:29:56.679Z",
+  "generatedAt": "2026-11-24T04:43:25.658Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 631,
+    "cells": 633,
     "target": 3274,
-    "actual": 1709,
-    "coverage": 0.5219914477703116
+    "actual": 1715,
+    "coverage": 0.5238240684178375
   },
   "regions": {
     "cn": [
@@ -3041,7 +3041,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 60,
+        "actual": 66,
         "cells": [
           {
             "category": "main-poultry",
@@ -3062,8 +3062,9 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
+              "thai-gaeng-liang",
               "thai-kaeng-jued-moo",
               "thai-tom-som-pla",
               "thai-tom-yum-gai",
@@ -3093,12 +3094,13 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "pu-pad-pong-curry",
               "thai-basil-shrimp",
               "thai-goong-ob-wunsen",
               "thai-goong-pad-khing",
+              "thai-goong-pad-makham",
               "thai-goong-tod-krathiam",
               "thai-pla-neung-manao",
               "thai-steamed-fish",
@@ -3109,13 +3111,14 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "mango-sticky-rice",
               "thai-bua-loy",
               "thai-coconut-jelly",
               "thai-coconut-sticky-rice",
               "thai-khanom-krok",
+              "thai-khao-niao-sangkhaya",
               "thai-kluay-buad-chee",
               "thai-lod-chong",
               "thai-pumpkin-custard"
@@ -3125,10 +3128,11 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "thai-green-curry-vegetable",
               "thai-pad-hed-taohu",
+              "thai-pad-pak-boong",
               "thai-pad-pak-khun-chai"
             ]
           },
@@ -3205,6 +3209,24 @@
             "actual": 1,
             "ids": [
               "thai-coconut-shake"
+            ]
+          },
+          {
+            "category": "staple-congee",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "thai-khao-tom"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "thai-sai-krok"
             ]
           }
         ]
