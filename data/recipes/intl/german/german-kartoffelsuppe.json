@@ -1,0 +1,284 @@
+{
+ "schema_version": "1.0",
+ "content_version": 1,
+ "id": "german-kartoffelsuppe",
+ "name": {
+  "zh": "德式土豆汤",
+  "en": "German Potato Soup",
+  "original": "Kartoffelsuppe"
+ },
+ "cuisine": {
+  "region": "intl",
+  "style": "german"
+ },
+ "category": [
+  "soup"
+ ],
+ "difficulty": 1,
+ "time": {
+  "prep_min": 15,
+  "cook_min": 47,
+  "total_min": 62
+ },
+ "servings": 4,
+ "flavor": [
+  "savory",
+  "rich",
+  "light"
+ ],
+ "ingredients": [
+  {
+   "group": "main",
+   "items": [
+    {
+     "name": "土豆",
+     "name_en": "potato",
+     "amount": 800,
+     "unit": "g",
+     "note": "切块",
+     "optional": false
+    }
+   ]
+  },
+  {
+   "group": "aux",
+   "items": [
+    {
+     "name": "培根",
+     "name_en": "bacon",
+     "amount": 100,
+     "unit": "g",
+     "note": "切丁",
+     "optional": false
+    },
+    {
+     "name": "洋葱",
+     "name_en": "onion",
+     "amount": 120,
+     "unit": "g",
+     "note": "切末",
+     "optional": false
+    },
+    {
+     "name": "胡萝卜",
+     "name_en": "carrot",
+     "amount": 150,
+     "unit": "g",
+     "note": "切丁",
+     "optional": false
+    },
+    {
+     "name": "芹菜",
+     "name_en": "celery",
+     "amount": 80,
+     "unit": "g",
+     "note": "切丁",
+     "optional": false
+    },
+    {
+     "name": "牛奶",
+     "name_en": "milk",
+     "amount": 150,
+     "unit": "ml",
+     "note": "调稠",
+     "optional": false
+    },
+    {
+     "name": "面粉",
+     "name_en": "all-purpose flour",
+     "amount": 15,
+     "unit": "g",
+     "note": "增稠",
+     "optional": false
+    },
+    {
+     "name": "黄油",
+     "name_en": "butter",
+     "amount": 20,
+     "unit": "g",
+     "note": "炒制",
+     "optional": false
+    },
+    {
+     "name": "香叶",
+     "name_en": "bay leaf",
+     "amount": 2,
+     "unit": "g",
+     "note": "增香",
+     "optional": false
+    },
+    {
+     "name": "盐",
+     "name_en": "salt",
+     "amount": 5,
+     "unit": "g",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "黑胡椒",
+     "name_en": "black pepper",
+     "amount": 2,
+     "unit": "g",
+     "note": "调味",
+     "optional": false
+    },
+    {
+     "name": "清水",
+     "name_en": "water",
+     "amount": 900,
+     "unit": "ml",
+     "note": "煮汤",
+     "optional": false
+    }
+   ]
+  }
+ ],
+ "equipment": [
+  "汤锅",
+  "刀",
+  "砧板",
+  "木勺",
+  "压泥器"
+ ],
+ "steps": [
+  {
+   "n": 1,
+   "text": "土豆去皮切两厘米块，泡水备用。，火候要稳，别忽大忽小。",
+   "time_min": 10,
+   "heat": "无火",
+   "tip": "泡水防止发黑。，火候要稳，别忽大忽小。",
+   "visual_cue": "土豆洁白，水微浑，这一点很关键。"
+  },
+  {
+   "n": 2,
+   "text": "汤锅放黄油，培根丁下锅炒出油。，火候要稳，别忽大忽小。",
+   "time_min": 5,
+   "heat": "中火",
+   "tip": "培根炒脆，汤底才香。，火候要稳，别忽大忽小。",
+   "visual_cue": "培根卷边，油脂析出"
+  },
+  {
+   "n": 3,
+   "text": "加洋葱、胡萝卜和芹菜炒三分钟。，火候要稳，别忽大忽小。",
+   "time_min": 4,
+   "heat": "中火",
+   "tip": "蔬菜炒软，甜味才出来。，火候要稳，别忽大忽小。",
+   "visual_cue": "洋葱透明，锅底微黄"
+  },
+  {
+   "n": 4,
+   "text": "撒面粉炒一分钟，搅匀。，火候要稳，别忽大忽小。",
+   "time_min": 2,
+   "heat": "小火",
+   "tip": "面粉炒过才不腥。，火候要稳，别忽大忽小。",
+   "visual_cue": "干粉消失，糊状均匀"
+  },
+  {
+   "n": 5,
+   "text": "倒入清水和香叶，加土豆块煮开。，火候要稳，别忽大忽小。",
+   "time_min": 6,
+   "heat": "大火",
+   "tip": "水要没过土豆两指。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤面翻滚，土豆下沉"
+  },
+  {
+   "n": 6,
+   "text": "转小火煮二十分钟，到土豆一压就散。，火候要稳，别忽大忽小。",
+   "time_min": 22,
+   "heat": "小火",
+   "tip": "煮到软才压得动。，火候要稳，别忽大忽小。",
+   "visual_cue": "土豆酥软，边缘发毛"
+  },
+  {
+   "n": 7,
+   "text": "压泥器压碎一半土豆，留一些块。，火候要稳，别忽大忽小。",
+   "time_min": 3,
+   "heat": "小火",
+   "tip": "留块口感才有层次。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤体半稠，仍有块状"
+  },
+  {
+   "n": 8,
+   "text": "倒牛奶，加盐和黑胡椒，煮开即可。，火候要稳，别忽大忽小。",
+   "time_min": 5,
+   "heat": "小火",
+   "tip": "牛奶后加，别大火滚。，火候要稳，别忽大忽小。",
+   "visual_cue": "汤色乳白，微微冒泡"
+  },
+  {
+   "n": 9,
+   "text": "盛碗撒黑胡椒，配酸菜吃。，火候要稳，别忽大忽小。",
+   "time_min": 2,
+   "heat": "无火",
+   "tip": "现磨黑胡椒香气最好。，火候要稳，别忽大忽小。",
+   "visual_cue": "表面油光，热气升腾"
+  }
+ ],
+ "tips": [
+  "培根先炒出油，汤底才香。，这一点很关键。",
+  "压碎一半就好，留块才有口感。，这一点很关键。",
+  "牛奶后加，别大火滚。，这一点很关键。"
+ ],
+ "common_mistakes": [
+  "土豆没煮透，压不碎。，这一点很关键。",
+  "面粉没炒，汤有生粉味。，这一点很关键。",
+  "牛奶大火滚，容易分层。，这一点很关键。"
+ ],
+ "substitutions": [
+  {
+   "original": "培根",
+   "substitute": "火腿",
+   "ratio": "100 克:100 克",
+   "note": "咸味更轻，盐少放一克。"
+  },
+  {
+   "original": "牛奶",
+   "substitute": "淡奶油",
+   "ratio": "150 毫升:120 毫升",
+   "note": "汤更浓，可加五十毫升清水。"
+  }
+ ],
+ "variations": [
+  "撒一把炸洋葱碎，口感更脆。，这一点很关键。",
+  "加一勺酸菜，酸香更足。，这一点很关键。"
+ ],
+ "serving_suggestion": "配酸菜和腌黄瓜。，这一点很关键。",
+ "storage": "冷藏三天，复热须煮开。，这一点很关键。",
+ "nutrition_estimate": {
+  "basis": "每份约 350 克",
+  "calories_kcal": 300,
+  "protein_g": 10,
+  "fat_g": 14,
+  "carbs_g": 34,
+  "sodium_mg": 720,
+  "is_estimate": true,
+  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+ },
+ "allergens": [
+  "celery",
+  "gluten",
+  "milk"
+ ],
+ "diet_tags": [],
+ "food_safety_notes": [
+  "含乳制品与小麦，过敏者慎食；土豆发芽或表皮发绿须整颗丢弃；成品冷藏不超过三天，复热须彻底煮开。"
+ ],
+ "origin_note": "德国农家冬天的常备汤，土豆煮烂压碎，加培根和一点牛奶。配一片黑面包就是一顿饭。，这一点很关键。",
+ "tags": [
+  "德国",
+  "汤",
+  "土豆",
+  "家常"
+ ],
+ "related_ids": [
+  "german-kartoffelsalat",
+  "german-sauerkraut",
+  "german-frikadellen"
+ ],
+ "image_url": null,
+ "image_credit": null,
+ "status": "published",
+ "created_at": "2026-11-24",
+ "updated_at": "2026-11-24"
+}

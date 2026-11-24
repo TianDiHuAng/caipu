@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-zwiebelkuchen",
+  "name": {
+    "zh": "德式洋葱咸派",
+    "en": "German Onion Tart",
+    "original": "Zwiebelkuchen"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 110,
+    "cook_min": 60,
+    "total_min": 170
+  },
+  "servings": 6,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 350,
+          "unit": "g",
+          "note": "面团",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 180,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 7,
+          "unit": "g",
+          "note": "发面",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 180,
+          "unit": "ml",
+          "note": "温面",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "助发",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "揉面",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 700,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "蛋液",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 150,
+          "unit": "ml",
+          "note": "馅料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "烤盘",
+    "锅",
+    "刀",
+    "擀面杖",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛奶温热，加酵母和白糖化开，静置五分钟。，火候要稳，别忽大忽小。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "牛奶别烫手，太热会杀死酵母。，火候要稳，别忽大忽小。",
+      "visual_cue": "液面起泡，酵母活化"
+    },
+    {
+      "n": 2,
+      "text": "面粉加盐和一半黄油，倒入酵母水揉成团。，火候要稳，别忽大忽小。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "揉到光滑，面才不发硬。，火候要稳，别忽大忽小。",
+      "visual_cue": "面团光滑，不粘手，这一点很关键。"
+    },
+    {
+      "n": 3,
+      "text": "盖布温暖处发一小时，到两倍大。，火候要稳，别忽大忽小。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "发到位，饼底才松软。，火候要稳，别忽大忽小。",
+      "visual_cue": "体积翻倍，指压回弹"
+    },
+    {
+      "n": 4,
+      "text": "洋葱切细丝，用剩余黄油小火炒二十分钟。，火候要稳，别忽大忽小。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "慢炒到软甜，别炒焦。，火候要稳，别忽大忽小。",
+      "visual_cue": "洋葱软塌，颜色金黄"
+    },
+    {
+      "n": 5,
+      "text": "培根丁下锅炒出油，和洋葱拌匀。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "培根炒脆，口感才有对比。，火候要稳，别忽大忽小。",
+      "visual_cue": "培根卷边，油光浮动"
+    },
+    {
+      "n": 6,
+      "text": "蛋液加淡奶油、盐和黑胡椒，搅匀成馅液。，火候要稳，别忽大忽小。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛋奶液别打发起泡。，火候要稳，别忽大忽小。",
+      "visual_cue": "液体顺滑，颜色淡黄"
+    },
+    {
+      "n": 7,
+      "text": "面团擀成烤盘大小，边缘卷起一厘米。，火候要稳，别忽大忽小。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "边缘卷起，馅才不会流出去。，火候要稳，别忽大忽小。",
+      "visual_cue": "饼皮贴合，边缘立起"
+    },
+    {
+      "n": 8,
+      "text": "洋葱培根铺满饼皮，倒入蛋奶液。，火候要稳，别忽大忽小。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "馅别铺太厚，烤不透。，火候要稳，别忽大忽小。",
+      "visual_cue": "馅料平整，液体浸匀"
+    },
+    {
+      "n": 9,
+      "text": "烤箱两百度烤三十五分钟，表面金黄凝固。，火候要稳，别忽大忽小。",
+      "time_min": 37,
+      "heat": "无火",
+      "tip": "中心凝固才算熟。，火候要稳，别忽大忽小。",
+      "visual_cue": "表面金黄，轻晃不流动"
+    },
+    {
+      "n": 10,
+      "text": "出炉稍凉十分钟再切块。，火候要稳，别忽大忽小。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "凉一点切，馅才不散。，火候要稳，别忽大忽小。",
+      "visual_cue": "切面平整，馅料紧实"
+    }
+  ],
+  "tips": [
+    "牛奶温热不烫手，酵母才活。，这一点很关键。",
+    "洋葱慢炒到甜，是这道菜的灵魂。，这一点很关键。",
+    "中心凝固才算烤熟。，这一点很关键。"
+  ],
+  "common_mistakes": [
+    "牛奶太烫，酵母死掉发不起来。，这一点很关键。",
+    "洋葱没炒够，馅出水。，这一点很关键。",
+    "烤不足，切开中间是稀的。，这一点很关键。"
+  ],
+  "substitutions": [
+    {
+      "original": "淡奶油",
+      "substitute": "牛奶",
+      "ratio": "150 毫升:150 毫升",
+      "note": "需多加一个鸡蛋固定。"
+    },
+    {
+      "original": "培根",
+      "substitute": "火腿",
+      "ratio": "180 克:180 克",
+      "note": "咸味轻，盐可加一克。"
+    }
+  ],
+  "variations": [
+    "加一点孜然，香气更像德国南部风味。",
+    "表面撒奶酪丝，烤出焦壳。，这一点很关键。"
+  ],
+  "serving_suggestion": "趁热切块，配新酒或苹果汁。，这一点很关键。",
+  "storage": "冷藏三天，复热用烤箱。，这一点很关键。",
+  "nutrition_estimate": {
+    "basis": "每份约 200 克",
+    "calories_kcal": 480,
+    "protein_g": 15,
+    "fat_g": 28,
+    "carbs_g": 42,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类、乳制品与小麦，过敏者慎食；蛋奶馅须烤至中心完全凝固；成品冷藏不超过三天，复热须彻底加热。"
+  ],
+  "origin_note": "德国秋天的应季菜，新洋葱上市时家家都烤。洋葱量比面皮还多，甜味全靠慢炒出来。，这一点很关键。",
+  "tags": [
+    "德国",
+    "咸派",
+    "洋葱",
+    "烘焙"
+  ],
+  "related_ids": [
+    "pretzel",
+    "german-sauerkraut",
+    "german-kartoffelsuppe"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

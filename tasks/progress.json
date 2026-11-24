@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:44:11.949Z",
+  "generatedAt": "2026-11-24T01:49:59.341Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 612,
+    "cells": 614,
     "target": 3274,
-    "actual": 1570,
-    "coverage": 0.47953573610262673
+    "actual": 1582,
+    "coverage": 0.4832009773976787
   },
   "regions": {
     "cn": [
@@ -4963,16 +4963,17 @@
         "en": "Portuguese",
         "tier": "B",
         "target": 38,
-        "actual": 14,
+        "actual": 20,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "portuguese-arroz-de-marisco",
               "portuguese-bacalhau-a-bras",
+              "portuguese-bacalhau-com-natas",
               "portuguese-grilled-sardines"
             ]
           },
@@ -4980,9 +4981,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "portuguese-arroz-doce",
+              "portuguese-morgado",
               "portuguese-pastel-de-nata",
               "portuguese-pudim-flan"
             ]
@@ -4991,9 +4993,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "portuguese-bife-grelhado",
+              "portuguese-carne-de-porco-a-alentejana",
               "portuguese-francesinha"
             ]
           },
@@ -5001,18 +5004,20 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "portuguese-caldo-verde"
+              "portuguese-caldo-verde",
+              "portuguese-canja-de-galinha"
             ]
           },
           {
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "portuguese-cornbread",
+              "portuguese-pao-de-lo",
               "portuguese-pastel-de-nata"
             ]
           },
@@ -5048,6 +5053,15 @@
             "ids": [
               "portuguese-arroz-de-marisco"
             ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "portuguese-frango-assado"
+            ]
           }
         ]
       },
@@ -5057,15 +5071,16 @@
         "en": "German",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 19,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "austrian-wiener-schnitzel",
+              "german-frikadellen",
               "german-rouladen",
               "german-sauerbraten",
               "schweinshaxe",
@@ -5076,9 +5091,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "apple-strudel",
+              "german-zwiebelkuchen",
               "pretzel"
             ]
           },
@@ -5105,17 +5121,21 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "apple-strudel"
+              "apple-strudel",
+              "german-kaiserschmarrn",
+              "german-milchreis"
             ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "german-kaesespaetzle"
+            ]
           },
           {
             "category": "main-egg",
@@ -5140,6 +5160,15 @@
             "actual": 1,
             "ids": [
               "german-kartoffelsalat"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "german-kartoffelsuppe"
             ]
           }
         ]
