@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "portuguese-bitoque",
+  "name": {
+    "zh": "葡式比托克牛排",
+    "en": "Bitoque",
+    "original": "Bitoque"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "portuguese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 400,
+          "unit": "g",
+          "note": "西冷或肉眼，厚约一厘米",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "煎太阳蛋",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "煎牛排用",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎土豆用",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "white-wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "做酱汁",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay-leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "粗盐",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black-pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "夹子",
+    "厨房纸",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉提前二十分钟从冷藏取出回温，用厨房纸吸干表面水分，两面撒盐和黑胡椒。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "回温后煎，中心温度才均匀。",
+      "visual_cue": "牛肉表面干爽，按下去有弹性"
+    },
+    {
+      "n": 2,
+      "text": "土豆带皮切一厘米厚片，冷水下锅煮六分钟，捞出沥干。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "先煮后煎，外脆内软不夹生。",
+      "visual_cue": "土豆片边缘发软，中心略硬"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒橄榄油，下大蒜炒香后把土豆片两面各煎三分钟至金黄，盛出保温。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "土豆别挤在一起，留空隙才脆。",
+      "visual_cue": "表面金黄，边缘微焦"
+    },
+    {
+      "n": 4,
+      "text": "同一锅加黄油，大火烧到泡沫变小，放入牛肉每面煎一分半。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "黄油不要烧到发黑，会带苦味。",
+      "visual_cue": "表面焦褐，锅底有棕色渣"
+    },
+    {
+      "n": 5,
+      "text": "取出牛排静置三分钟，锅里倒白葡萄酒和香叶，小火刮起锅底焦渣收汁一分半。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "锅底的焦渣就是风味，别丢掉。",
+      "visual_cue": "酱汁浓稠挂勺，颜色深棕"
+    },
+    {
+      "n": 6,
+      "text": "用锅里剩下的黄油把鸡蛋煎成太阳蛋，蛋白凝固蛋黄流动。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蛋黄别煎实，流心才好拌饭。",
+      "visual_cue": "蛋白边缘微焦脆，蛋黄发亮"
+    },
+    {
+      "n": 7,
+      "text": "牛肉、土豆和煎蛋一同装盘，淋上酱汁趁热上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "静置过的牛排切开会更Juicy，别马上切。",
+      "visual_cue": "切面呈粉红，盘底有少量肉汁"
+    }
+  ],
+  "tips": [
+    "牛排厚度不同要调整时间，一厘米约每面一分半。",
+    "土豆煮后一定要沥干，带水下锅会炸油。",
+    "酱汁收得太干可加一勺热水调开。"
+  ],
+  "common_mistakes": [
+    "牛排从冰箱取出直接下锅，外焦内生。",
+    "大火一直烧黄油，泡沫发黑，成品带一股焦苦味。",
+    "煎好的牛排立刻切，肉汁全流在盘里。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "牛里脊",
+      "ratio": "400克:400克",
+      "note": "肉质更瘦，煎的时间缩短三十秒。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "米酒",
+      "ratio": "40毫升:30毫升",
+      "note": "酸度偏低，可加两滴柠檬汁。"
+    }
+  ],
+  "variations": [
+    "加两片火腿铺在牛排上，再盖一片奶酪烤一分钟。",
+    "酱汁里加一勺番茄膏，颜色更红亮。"
+  ],
+  "serving_suggestion": "配白饭或薯条，最后把流心蛋黄拌进饭里，再蘸盘底的酱汁。",
+  "storage": "牛排当天吃完最好，冷藏后复热用平底锅中火二十秒，别久加热。",
+  "nutrition_estimate": {
+    "basis": "每份约430克",
+    "calories_kcal": 680,
+    "protein_g": 42,
+    "fat_g": 44,
+    "carbs_g": 26,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "牛肉中心须煎至可食用熟度、外层避免焦黑；鸡蛋须煎至蛋白完全凝固、蛋黄不生食，剩菜复热须彻底加热。"
+  ],
+  "origin_note": "Bitoque 是葡萄牙小酒馆的午市常客，一块薄牛排、一撮薯条、一个太阳蛋，浇上锅里现做的酒汁。当地人吃它讲究把蛋黄戳破，让蛋液和酱汁一起裹住牛肉。",
+  "tags": [
+    "葡萄牙",
+    "牛排",
+    "煎蛋",
+    "小酒馆"
+  ],
+  "related_ids": [
+    "portuguese-bife-grelhado",
+    "portuguese-francesinha"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

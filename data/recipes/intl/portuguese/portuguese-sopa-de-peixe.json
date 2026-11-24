@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "portuguese-sopa-de-peixe",
+  "name": {
+    "zh": "葡式鱼汤",
+    "en": "Portuguese Fish Soup",
+    "original": "Sopa de Peixe"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "portuguese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳕鱼",
+          "name_en": "cod",
+          "amount": 500,
+          "unit": "g",
+          "note": "去皮去骨，切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "初榨",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "white-wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "干型",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay-leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black-pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "搅拌棒",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "汤锅倒橄榄油，下洋葱丁和蒜末小火炒五分钟至洋葱变软发甜。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "洋葱炒透，汤底才不寡淡。",
+      "visual_cue": "洋葱透明，油色微黄"
+    },
+    {
+      "n": 2,
+      "text": "加番茄块继续炒三分钟，炒到出汁、块状开始塌陷。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄炒出红油，汤色才漂亮。",
+      "visual_cue": "番茄化开，锅底有浓红汁"
+    },
+    {
+      "n": 3,
+      "text": "倒入白葡萄酒煮一分钟让酒气挥发，再放土豆块和香叶。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "酒先煮掉生味，再加水和土豆。",
+      "visual_cue": "酒气散尽，土豆块裹上红汁"
+    },
+    {
+      "n": 4,
+      "text": "加八百毫升热水，大火烧开后转小火煮十五分钟至土豆能压碎。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "小火慢煮，汤体才会自然稠起来。",
+      "visual_cue": "土豆边缘化开，汤色橙红"
+    },
+    {
+      "n": 5,
+      "text": "用搅拌棒把汤打成顺滑的糊状，重新放回火上小火烧热。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "喜欢有颗粒感就少打几下，看个人口味。",
+      "visual_cue": "汤体细腻挂勺，颜色均匀"
+    },
+    {
+      "n": 6,
+      "text": "放入鳕鱼块，小火煮五分钟，用勺背轻推不要搅碎。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "鱼块下锅后别翻动，靠汤的温度焖熟。",
+      "visual_cue": "鱼块由透明转白，轻按会分层"
+    },
+    {
+      "n": 7,
+      "text": "加盐和黑胡椒调味，撒上欧芹碎，盛进陶碗上桌。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "盐最后加，鳕鱼的咸味要先算进去。",
+      "visual_cue": "表面浮着翠绿欧芹，热气带酒香"
+    }
+  ],
+  "tips": [
+    "用鱼骨先熬二十分钟高汤，鲜味会更足。",
+    "土豆选淀粉多的品种，汤体自然浓稠。",
+    "鱼块用厨房纸吸干水再下锅，汤不会变浑。"
+  ],
+  "common_mistakes": [
+    "汤一直用大火滚，鱼块散成碎渣，汤也浑了。",
+    "土豆煮不够就打泥，汤里带生粉味。",
+    "白葡萄酒省略，汤少了一层果酸。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳕鱼",
+      "substitute": "石斑鱼",
+      "ratio": "500克:500克",
+      "note": "肉质更紧，煮的时间加两分钟。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "米酒",
+      "ratio": "50毫升:40毫升",
+      "note": "酸度略低，可补几滴柠檬汁。"
+    }
+  ],
+  "variations": [
+    "加一把虾仁同煮，汤的海味更浓。",
+    "喜欢浓汤可加两片面包同煮再打碎。"
+  ],
+  "serving_suggestion": "盛进陶碗，配烤面包片和一杯绿酒，撒一点辣椒碎提味。",
+  "storage": "冷藏两天，冷冻可放两周；复热时小火加热并补少量水。",
+  "nutrition_estimate": {
+    "basis": "每份约340克",
+    "calories_kcal": 250,
+    "protein_g": 22,
+    "fat_g": 11,
+    "carbs_g": 16,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鳕鱼须煮至肉色完全不透明、能轻松分层；含酒汤品给儿童食用前须充分煮沸挥发酒精。"
+  ],
+  "origin_note": "葡萄牙海岸线上每个渔村都有自己的鱼汤版本，渔民把当天卖不掉的小鱼和土豆一锅煮，打成浓汤配硬面包。汤色橙红，酸来自番茄，鲜来自鱼骨，冬天喝一碗最实在。",
+  "tags": [
+    "葡萄牙",
+    "鱼汤",
+    "鳕鱼",
+    "浓汤"
+  ],
+  "related_ids": [
+    "portuguese-caldo-verde",
+    "portuguese-arroz-de-marisco"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
