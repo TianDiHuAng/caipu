@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:49:59.341Z",
+  "generatedAt": "2026-11-24T01:58:40.051Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 614,
     "target": 3274,
-    "actual": 1582,
-    "coverage": 0.4832009773976787
+    "actual": 1589,
+    "coverage": 0.4853390348197923
   },
   "regions": {
     "cn": [
@@ -5355,15 +5355,16 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 13,
+        "actual": 20,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "nordic-fish-soup",
+              "nordic-janssons-frestelse",
               "nordic-salmon-dill-potato"
             ]
           },
@@ -5371,10 +5372,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "nordic-cardamom-buns",
               "nordic-kladdkaka",
+              "nordic-pepparkakor",
               "nordic-smorrebrod"
             ]
           },
@@ -5391,10 +5393,13 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 5,
             "ids": [
+              "nordic-aeblekage",
               "nordic-apple-cake",
-              "nordic-kladdkaka"
+              "nordic-glogg",
+              "nordic-kladdkaka",
+              "nordic-riskrem"
             ]
           },
           {
@@ -5425,9 +5430,10 @@
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "nordic-frikadeller",
+              "nordic-kalops",
               "nordic-swedish-meatballs"
             ]
           },
@@ -5435,8 +5441,9 @@
             "category": "soup",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "nordic-blueberry-soup",
               "nordic-fish-soup"
             ]
           }
