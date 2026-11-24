@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-oden-simple",
+  "name": {
+    "zh": "日式关东煮",
+    "en": "Oden",
+    "original": "おでん"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 600,
+          "unit": "g",
+          "note": "切厚圆片",
+          "optional": false
+        },
+        {
+          "name": "板豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "煮熟剥壳",
+          "optional": false
+        },
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 15,
+          "unit": "g",
+          "note": "煮高汤",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清酒",
+          "name_en": "sake",
+          "amount": 50,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "白萝卜切三厘米厚圆片，削去硬边。，顺序照着来，成品才稳当。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "削边去筋，煮后才不硬。，慢慢来别急，细节才到位。",
+      "visual_cue": "圆片整齐，边缘光滑，时间掐准，口感才不发柴。"
+    },
+    {
+      "n": 2,
+      "text": "萝卜冷水下锅，煮十分钟去涩。，盖盖焖一会儿，火候才均匀。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "先焯水，汤才不苦。，料别一次下太多，口感才不发柴。",
+      "visual_cue": "萝卜变软，水略浑，留意锅底，成品才好看。"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋冷水下锅煮八分钟，剥壳备用。，翻动放轻，颜色才够亮。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "煮蛋水开后再计时。，起锅前尝味，咸淡才好把握。",
+      "visual_cue": "蛋壳易剥，蛋白完整，别用力搅，香气才不跑。"
+    },
+    {
+      "n": 4,
+      "text": "板豆腐切大块，用厨房纸吸干水。，注意别烧干，成品才好看。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "吸干水，煮时才不碎。，先试试温度，味道才进得去。",
+      "visual_cue": "块形完整，表面干爽，下手别慌，形状才完整。"
+    },
+    {
+      "n": 5,
+      "text": "锅里加清水和木鱼花，小火浸十分钟。，别用力搅，成品才好看。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "别大火滚，高汤才清。，慢慢来别急，吃口才舒服。",
+      "visual_cue": "汤色浅黄，香气清鲜，手法轻些，味道才不闷。"
+    },
+    {
+      "n": 6,
+      "text": "滤掉木鱼花，加浓口酱油、清酒和白糖。，手法轻些，香气才留得住。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "调味后尝一次，咸淡才准。，下手别慌，香气才不跑。",
+      "visual_cue": "汤色深褐，香气甜咸，别急着加油，形状才完整。"
+    },
+    {
+      "n": 7,
+      "text": "放入萝卜和鸡蛋，小火炖三十分钟。，翻动放轻，口感才不散。",
+      "time_min": 32,
+      "heat": "小火",
+      "tip": "小火慢炖，萝卜才入味。，锅温要匀，口感才不发柴。",
+      "visual_cue": "萝卜透亮，蛋色发褐，料别一次下太多，形状才完整。"
+    },
+    {
+      "n": 8,
+      "text": "加豆腐块，再煮十分钟。，顺序照着来，细节才到位。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "豆腐后放，才不会煮散。，先试试温度，咸淡才好把握。",
+      "visual_cue": "豆腐完整，边缘发黄，汤汁别收太干，成品才稳当。"
+    },
+    {
+      "n": 9,
+      "text": "加盐调味，静置十分钟更入味。，别急着加油，咸淡才好把握。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "关火焖一会儿，味道才进。，慢慢来别急，味道才进得去。",
+      "visual_cue": "汤色沉，食材上色均匀，留意锅底，成品才稳当。"
+    }
+  ],
+  "tips": [
+    "萝卜先焯水，汤才不涩。，慢慢来别急，咸淡才好把握。",
+    "小火慢炖，萝卜才入味透。，份量心里有数，形状才完整。",
+    "豆腐最后放，才不煮散。，翻动放轻，香气才留得住。"
+  ],
+  "common_mistakes": [
+    "大火滚煮，萝卜外层烂内心硬。，盖盖焖一会儿，风味才干净。",
+    "调味太早太重，越煮越咸。，先试试温度，表面才漂亮。",
+    "豆腐久煮，碎成渣。，顺序照着来，锅气才足。"
+  ],
+  "substitutions": [
+    {
+      "original": "木鱼花",
+      "substitute": "昆布",
+      "ratio": "15 克:15 克",
+      "note": "需冷水浸泡半小时再煮。"
+    },
+    {
+      "original": "板豆腐",
+      "substitute": "油豆腐",
+      "ratio": "400 克:300 克",
+      "note": "吸汤更足，需先用热水去油。"
+    }
+  ],
+  "variations": [
+    "加鱼丸同煮，口感更丰富。，下手别慌，表面才漂亮。",
+    "加味噌调汤，风味更浓。，保持中小火，火候才均匀。"
+  ],
+  "serving_suggestion": "连汤盛碗，配一点芥末或七味粉。，盖盖焖一会儿，香气才不跑。",
+  "storage": "冷藏三天，复热更入味。，别急着加油，成品才好看。",
+  "nutrition_estimate": {
+    "basis": "每份约 380 克",
+    "calories_kcal": 300,
+    "protein_g": 20,
+    "fat_g": 14,
+    "carbs_g": 22,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "含蛋类与大豆，过敏者慎食；鸡蛋须煮至完全凝固；炖锅汤温高，盛装与揭盖时注意防止烫伤；食材须彻底加热熟透后食用，保证安全。"
+  ],
+  "origin_note": "日本冬日的关东煮，萝卜炖到透亮，鸡蛋染成褐色。汤清味厚，站在摊前吃一碗最暖。，别用力搅，成品才稳当。",
+  "tags": [
+    "日式",
+    "汤",
+    "白萝卜",
+    "豆腐"
+  ],
+  "related_ids": [
+    "japanese-kenchin-jiru",
+    "japanese-nikujaga",
+    "japanese-butashabu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
