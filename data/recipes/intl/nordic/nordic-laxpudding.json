@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "nordic-laxpudding",
+  "name": {
+    "zh": "瑞典三文鱼布丁",
+    "en": "Laxpudding",
+    "original": "Laxpudding"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "nordic"
+  },
+  "category": [
+    "main-seafood",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 50,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "三文鱼",
+          "name_en": "salmon",
+          "amount": 500,
+          "unit": "g",
+          "note": "去皮去刺，切薄片",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 700,
+          "unit": "g",
+          "note": "煮后切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 150,
+          "unit": "ml",
+          "note": "调蛋液",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "莳萝",
+          "name_en": "dill",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "撒层用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white-pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "煮锅",
+    "烤盘",
+    "打蛋碗",
+    "锡纸",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆连皮煮二十分钟至筷子能穿透，晾凉后去皮切成半厘米厚的片。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "土豆煮到八成熟就够，太软切片会散。",
+      "visual_cue": "土豆片完整不碎，断面干爽"
+    },
+    {
+      "n": 2,
+      "text": "洋葱丝用一半黄油小火炒六分钟至软透发甜，盛出备用。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "洋葱只炒软不上色，甜味才干净。",
+      "visual_cue": "洋葱丝透明柔软，锅底无焦色"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋打散加牛奶、一半盐和白胡椒搅匀成蛋奶液。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛋液别打发，只需搅匀不起泡。",
+      "visual_cue": "蛋液淡黄均匀，表面有细小泡沫"
+    },
+    {
+      "n": 4,
+      "text": "烤盘内壁抹剩余黄油，铺一层土豆片，撒少量面粉和盐。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "薄薄一层面粉能吸住鱼汁，不可省略。",
+      "visual_cue": "土豆片铺平，表面有薄粉层"
+    },
+    {
+      "n": 5,
+      "text": "铺上三文鱼片和洋葱丝，撒莳萝碎，再盖一层土豆片，重复到材料用完。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "最上层收土豆片，烤完表面才平整。",
+      "visual_cue": "层次分明，顶层土豆片齐平"
+    },
+    {
+      "n": 6,
+      "text": "倒入蛋奶液静置十分钟让土豆吸足，盖锡纸入烤箱一百八十度烤三十五分钟。",
+      "time_min": 45,
+      "heat": "中火",
+      "tip": "静置让蛋液渗进缝隙，成品才成型。",
+      "visual_cue": "蛋液几乎被吸干，表面微颤"
+    },
+    {
+      "n": 7,
+      "text": "揭锡纸再烤十分钟上色，出炉静置五分钟切块，配一勺黄油上桌。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "最后十分钟盯着表面，防止蛋液起泡焦黑。",
+      "visual_cue": "表层金黄定型，切块边缘整齐"
+    }
+  ],
+  "tips": [
+    "三文鱼换成烟熏三文鱼，咸香更浓，盐要减半。",
+    "土豆提前一天煮好冷藏，切片更利落不会糊。",
+    "喜欢更湿润的口感，蛋奶液加到二百毫升。"
+  ],
+  "common_mistakes": [
+    "土豆煮得过软，切片时全部碎成泥。",
+    "蛋液没有静置就进烤箱，底层流成一摊水。",
+    "锡纸盖得太严，烤完表面还是湿的白色。"
+  ],
+  "substitutions": [
+    {
+      "original": "三文鱼",
+      "substitute": "鳕鱼",
+      "ratio": "500克:500克",
+      "note": "肉质更紧，烤的时间多加五分钟。"
+    },
+    {
+      "original": "莳萝",
+      "substitute": "欧芹",
+      "ratio": "10克:10克",
+      "note": "香气清淡一些，颜色更绿。"
+    }
+  ],
+  "variations": [
+    "加一层炒蘑菇夹在鱼与土豆之间，鲜味更厚。",
+    "表面撒面包糠再烤，多一层脆壳。"
+  ],
+  "serving_suggestion": "切大方块配一份黄瓜沙拉和黑麦面包，是瑞典家庭周五晚餐的常见搭配。",
+  "storage": "冷藏两天，切块后用平底锅小火复热；不建议冷冻，土豆口感会变粉。",
+  "nutrition_estimate": {
+    "basis": "每份约350克",
+    "calories_kcal": 480,
+    "protein_g": 32,
+    "fat_g": 24,
+    "carbs_g": 36,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "milk",
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "三文鱼须烤至中心不透明、能轻松分层；含鸡蛋与牛奶的蛋液必须完全凝固，剩菜须冷藏并在两天内彻底加热食用。"
+  ],
+  "origin_note": "Laxpudding 是瑞典老派的烤箱菜，把煮土豆、腌三文鱼和蛋奶液一层层叠进烤盘，靠余温与烤箱慢慢凝固。过去它多用腌鱼的下脚料做成，如今成了圣诞和复活节餐桌上的怀旧味。",
+  "tags": [
+    "北欧",
+    "瑞典",
+    "三文鱼",
+    "烤箱菜"
+  ],
+  "related_ids": [
+    "nordic-salmon-dill-potato",
+    "nordic-gravlaks"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:30:37.879Z",
+  "generatedAt": "2026-11-25T01:42:21.752Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 640,
     "target": 3274,
-    "actual": 1817,
-    "coverage": 0.5549786194257789
+    "actual": 1825,
+    "coverage": 0.5574221136224802
   },
   "regions": {
     "cn": [
@@ -5531,16 +5531,18 @@
         "en": "Nordic",
         "tier": "B",
         "target": 38,
-        "actual": 20,
+        "actual": 28,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "nordic-fish-soup",
+              "nordic-fiskbullar",
               "nordic-janssons-frestelse",
+              "nordic-laxpudding",
               "nordic-salmon-dill-potato"
             ]
           },
@@ -5548,9 +5550,10 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "nordic-cardamom-buns",
+              "nordic-havrekakor",
               "nordic-kladdkaka",
               "nordic-pepparkakor",
               "nordic-smorrebrod"
@@ -5569,11 +5572,13 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 7,
             "ids": [
               "nordic-aeblekage",
               "nordic-apple-cake",
+              "nordic-blabarsoppa",
               "nordic-glogg",
+              "nordic-havrekakor",
               "nordic-kladdkaka",
               "nordic-riskrem"
             ]
@@ -5582,8 +5587,9 @@
             "category": "breakfast",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "nordic-aggrora",
               "nordic-oat-porridge",
               "nordic-smorrebrod"
             ]
@@ -5606,10 +5612,12 @@
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "nordic-farikal",
               "nordic-frikadeller",
               "nordic-kalops",
+              "nordic-laxpudding",
               "nordic-swedish-meatballs"
             ]
           },
