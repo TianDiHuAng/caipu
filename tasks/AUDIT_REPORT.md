@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T15:28:30.499Z
+- 生成时间：2026-11-25T15:35:52.515Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 119 道，平均分 98
 - 需重写（C/D）：0 道
@@ -134,9 +134,9 @@
 | xibei | xibei-liangpi | 93 | A | 准确性 18/25 |
 | xinjiang | xinjiang-tomato-pepper-salad | 100 | A | 无 |
 | yunguai | yunnan-ham-potato-rice | 100 | A | 无 |
-| zhejiang | guihua-nuomiyu | 93 | A | 准确性 18/25 |
-| zhejiang | zhejiang-meigan-cai-kourou-wan | 100 | A | 无 |
-| zhejiang | liangban-muer | 100 | A | 无 |
+| zhejiang | zhejiang-qingzheng-baoyu | 94 | A | 安全性 14/20 |
+| zhejiang | meigancai-kourou | 100 | A | 无 |
+| zhejiang | hangzhou-luya | 100 | A | 无 |
 
 ## 结论
 

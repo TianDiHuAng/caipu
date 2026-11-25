@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-shizitou",
+  "name": {
+    "zh": "清炖狮子头",
+    "en": "Braised Pork Meatball",
+    "original": "清炖狮子头"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 60,
+    "total_min": 90
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "肥四瘦六手工切粒",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 200,
+          "unit": "g",
+          "note": "取嫩心洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末挤汁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "打结垫锅",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清上劲",
+          "optional": false
+        },
+        {
+          "name": "荸荠",
+          "name_en": "water chestnut",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细粒增脆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 15,
+          "unit": "g",
+          "note": "封汤面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "大碗",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉去皮，先切薄片再切条最后切成石榴粒大小，全程不剁。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "手工切粒是狮子头松软的关键，绞肉机打出来会发柴。",
+      "visual_cue": "肉粒大小如石榴粒，颗颗分明不粘连"
+    },
+    {
+      "n": 2,
+      "text": "荸荠拍碎切细粒，姜末加两勺清水泡成姜水滤出备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "姜水比姜末更好，去腥而不留渣，拌进肉料口感更细。",
+      "visual_cue": "姜水微黄透亮，荸荠粒大小均匀"
+    },
+    {
+      "n": 3,
+      "text": "肉粒加盐、白胡椒、料酒和蛋清，分三次倒入姜水顺向搅打上劲。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水要一点点加，一次倒多肉料就澥了，抱不成团。",
+      "visual_cue": "肉料黏稠发亮，能整团离碗不掉"
+    },
+    {
+      "n": 4,
+      "text": "拌入荸荠粒，双手蘸水把肉料来回摔打成四个大丸子。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "多摔几下把空气挤出，炖的时候才不会散开。",
+      "visual_cue": "丸子圆整光滑，表面不见裂纹"
+    },
+    {
+      "n": 5,
+      "text": "砂锅垫葱结姜片，放丸子加温水没过，小火炖四十分钟。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "水面只轻微冒泡，滚起来丸子就碎了。",
+      "visual_cue": "汤面微沸，丸子浮起定型不塌"
+    },
+    {
+      "n": 6,
+      "text": "下小白菜心再炖八分钟，淋猪油封汤面，尝味补盐即可。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "菜心一定要最后放，久炖会发黄失脆，还带走汤的清气。",
+      "visual_cue": "菜心翠绿半透明，汤清不浑"
+    }
+  ],
+  "tips": [
+    "肉料里可加两勺切碎的蟹肉，鲜味立刻上一个档次，是镇江一带的做法。",
+    "炖的时候在汤面盖一张白菜叶，既能防干又能吸走浮沫。",
+    "丸子先蒸十分钟定型再炖，形状更完整，新手也不容易散。"
+  ],
+  "common_mistakes": [
+    "用绞肉机打成肉泥，炖完硬得像乒乓球，完全没有松软感。",
+    "姜水一次倒太多，肉料当场澥开，怎么搅都抱不成团。",
+    "火开得太大，汤滚得翻天，丸子散成一锅碎渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "荸荠",
+      "substitute": "莲藕",
+      "ratio": "60克:60克",
+      "note": "莲藕须切得更碎，否则口感发硬。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "500克:500克",
+      "note": "前腿肉偏瘦，须加二十克猪油同拌。"
+    }
+  ],
+  "variations": [
+    "加一把干贝丝同炖，汤的鲜味更厚，是宴客时的做法。",
+    "丸子外面裹一层糯米上笼蒸，就是珍珠狮子头，卖相最好。"
+  ],
+  "serving_suggestion": "一人一盅连汤上桌，配一小碟镇江香醋解腻，饭后喝汤最好。",
+  "storage": "冷藏可存两天，复热时连汤小火加热，别用大火翻动以免散开。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 28,
+    "fat_g": 42,
+    "carbs_g": 8,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "肉料须炖至中心完全熟透、不见粉色，避免生肉带来的细菌风险。",
+    "处理生肉的砧板与刀须与熟食分开，避免交叉污染。"
+  ],
+  "origin_note": "清炖狮子头是扬州与镇江一带的席面菜，肥四瘦六的五花肉手工切成石榴粒，拌上荸荠粒摔打成团，用小火在砂锅里慢慢炖。汤清而不寡、肉松而不散，是考验厨师基本功的一道菜，江浙人家过年过节必做。",
+  "tags": [
+    "浙江菜",
+    "炖菜",
+    "狮子头",
+    "宴客"
+  ],
+  "related_ids": [
+    "dongpo-rou",
+    "zhejiang-shengchao-rousi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
