@@ -1,0 +1,299 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xinjiang-hongshao-yangrou",
+  "name": {
+    "zh": "红烧羊肉",
+    "en": "Braised Lamb in Brown Sauce",
+    "original": "红烧羊肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xinjiang"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 34,
+    "cook_min": 100,
+    "total_min": 134
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 900,
+          "unit": "g",
+          "note": "带骨切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "去膻",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切成四厘米见方的块，冷水浸泡半小时泡出血水，中途换一次水。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "泡出血水，后面炖出来汤才清、膻味才轻。",
+      "visual_cue": "肉块发白，水色转成淡红"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，加姜片与花椒，大火煮开撇净浮沫，煮三分钟后捞出冲净。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "浮沫要撇干净，粘在肉上带腥，汤也浑。",
+      "visual_cue": "水面浮起灰白沫，肉块收紧"
+    },
+    {
+      "n": 3,
+      "text": "炖锅倒植物油，下白糖小火炒到起泡变枣红，立刻倒入羊肉翻炒上色。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色一冒小泡就下肉，炒过头会发苦发黑。",
+      "visual_cue": "糖浆枣红起小泡，肉块均匀裹色"
+    },
+    {
+      "n": 4,
+      "text": "下姜片、蒜、干辣椒与洋葱块炒香，烹入生抽与老抽翻匀。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱炒到变软透出甜味，整锅汤的底味才厚实，不要只炒到断生就下一样。",
+      "visual_cue": "洋葱变透明，肉块颜色深红"
+    },
+    {
+      "n": 5,
+      "text": "加开水没过羊肉，大火烧开后转小火炖五十分钟，中途不揭盖。",
+      "time_min": 52,
+      "heat": "小火",
+      "tip": "必须加开水，冷水一激肉就紧，炖再久也发柴。",
+      "visual_cue": "汤面微沸，肉块浮起松动"
+    },
+    {
+      "n": 6,
+      "text": "下胡萝卜块与土豆块，继续小火炖二十分钟至软糯。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "胡萝卜和土豆要后放，早放会炖成泥糊，把整锅汤都弄得浑浑的，卖相差。",
+      "visual_cue": "胡萝卜与土豆能用筷子插透"
+    },
+    {
+      "n": 7,
+      "text": "加盐与孜然调味，转大火收汁五分钟，撒香菜段出锅。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "收汁的时候要勤翻动，让浓汤均匀裹住每一块肉，出锅的油光才亮得住。",
+      "visual_cue": "汤汁浓稠挂肉，油亮不流散"
+    }
+  ],
+  "tips": [
+    "羊肉选带皮带骨的部位，胶质多，炖出来更香。",
+    "加一整个番茄同炖，酸甜能解膻，是南疆的家常做法。",
+    "炖好放凉再热一次，味道更透，第二天更好吃。"
+  ],
+  "common_mistakes": [
+    "不焯水直接炖，血沫混在汤里，一股膻味散不掉。",
+    "中途加冷水，肉纤维骤缩，炖两小时还是咬不动。",
+    "糖色炒糊了硬着头皮下肉，整锅发苦救不回来。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛腩",
+      "ratio": "900克:900克",
+      "note": "牛腩更耐炖，时间延长二十分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "南瓜",
+      "ratio": "200克:250克",
+      "note": "南瓜易烂，炖的时间减到十分钟。"
+    }
+  ],
+  "variations": [
+    "把胡萝卜换成白萝卜，清甜解腻，汤也不那么浓。",
+    "加一把泡软的红枣同炖，回甘明显，是冬季的吃法。"
+  ],
+  "serving_suggestion": "连汤带肉盛进大碗，配馕或手抓饭都合适，汤泡饭最香。",
+  "storage": "冷藏可存三天，复热须小火加热至沸腾，可续加少量开水。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 720,
+    "protein_g": 52,
+    "fat_g": 48,
+    "carbs_g": 22,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "羊肉须炖至酥软熟透，肉块中心不见血水后再食用。",
+    "炒糖色时糖浆温度极高，下肉前须把火调小，避免糖浆爆溅烫伤。"
+  ],
+  "origin_note": "红烧羊肉是新疆人家冬天的硬菜，羊肉配胡萝卜和土豆，一锅炖到软烂。新疆人炖肉讲究大火烧开、小火慢煨，中间不揭盖，靠时间把膻味换成香。出锅时汤汁浓亮裹肉，配一块馕蘸着吃，是牧区最踏实的滋味。",
+  "tags": [
+    "新疆菜",
+    "羊肉",
+    "红烧",
+    "炖菜"
+  ],
+  "related_ids": [
+    "xinjiang-qingdun-yangrou",
+    "xinjiang-zhuafan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

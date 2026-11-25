@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xinjiang-qiezi-shao-yangrou",
+  "name": {
+    "zh": "茄子烧羊肉",
+    "en": "Braised Eggplant with Lamb",
+    "original": "茄子烧羊肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xinjiang"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 28,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 450,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 250,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 60,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "煎茄子用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 18,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 12,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子切成滚刀块，撒少许盐抓匀腌十分钟，挤掉渗出的水分。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "先腌出水，茄子下锅就不那么吸油了。",
+      "visual_cue": "茄块变软出水，颜色转深"
+    },
+    {
+      "n": 2,
+      "text": "羊肉切成薄片，加少许盐与生抽抓匀，腌五分钟让它先入个底味。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "薄片腌一下更嫩，炒的时候也不容易老。",
+      "visual_cue": "肉片发黏上浆，边缘整齐"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧热，茄块下锅中火煎到表面微黄发软，盛出沥油。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "茄子先煎到定型，后面回锅烧的时候才不会散架，也不至于烂成泥。",
+      "visual_cue": "茄块表面金黄，边缘软塌"
+    },
+    {
+      "n": 4,
+      "text": "倒出多余油留底油，下羊肉片大火快炒至变色，盛出备用。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "羊肉只用大火快炒，炒久了膻味重还发柴。",
+      "visual_cue": "肉片变白卷边，锅底无血水"
+    },
+    {
+      "n": 5,
+      "text": "原锅下洋葱、姜末、蒜末炒香，加番茄块炒出红汁，放番茄酱、孜然与辣椒粉。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄炒化汤汁才浓，茄子才挂得住味。",
+      "visual_cue": "番茄化开出汁，锅中泛红"
+    },
+    {
+      "n": 6,
+      "text": "倒回茄块与羊肉片，加小半碗水小火焖八分钟，让茄子吸饱汤汁。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "茄子极能吃汤，水别放得太少，焖到茄块鼓胀软糯才算到位。",
+      "visual_cue": "茄块鼓胀吸汁，汤汁剩一半"
+    },
+    {
+      "n": 7,
+      "text": "下青椒块大火收汁一分钟，试味补盐，撒香菜段出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "青椒断生就起锅，久炒不光发黄失脆，清香味也全跑光了。",
+      "visual_cue": "汤汁浓亮裹块，青椒翠绿"
+    }
+  ],
+  "tips": [
+    "茄子选长形的紫皮茄，肉厚籽少，烧出来不苦。",
+    "茄子腌后挤水再煎，能省一半油，也不腻口。",
+    "加一个番茄同烧，颜色红亮，酸味解羊肉的膻。"
+  ],
+  "common_mistakes": [
+    "茄子不腌直接下锅，吸油吸到锅干，成品一咬一嘴油。",
+    "羊肉和茄子一起炖，羊肉老了，茄子烂成泥。",
+    "水加太多收不干，茄子泡在汤里，味道全散了。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "250克:250克",
+      "note": "牛肉更瘦，腌时可加少许油锁水。"
+    },
+    {
+      "original": "茄子",
+      "substitute": "西葫芦",
+      "ratio": "450克:450克",
+      "note": "西葫芦出水多，焖的时间减三分钟。"
+    }
+  ],
+  "variations": [
+    "把茄子换成豆角同烧，口感更脆，是新疆家庭的常见搭配。",
+    "加一勺豆瓣酱同烧，酱香厚重，更下饭。"
+  ],
+  "serving_suggestion": "连汁浇在米饭上或者拌进面里都香，配一块馕蘸汤吃更是地道。",
+  "storage": "冷藏可存两天，复热须小火加少许水焖三分钟。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 470,
+    "protein_g": 24,
+    "fat_g": 36,
+    "carbs_g": 14,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "羊肉片须彻底炒熟，中心不见血色后再与茄子同烧。",
+    "煎茄子时油温较高，茄块须挤干水分再下锅，避免热油溅伤。"
+  ],
+  "origin_note": "茄子烧羊肉是新疆人家的家常菜，羊肉切片快炒，茄子先煎后烧，两样都要软糯才好吃。新疆人做菜爱放番茄和孜然，一道素烧也带着浓浓的地域味。汤汁红亮，茄子吸饱了羊肉的鲜，拌面拌饭都极下口。",
+  "tags": [
+    "新疆菜",
+    "茄子",
+    "羊肉",
+    "家常"
+  ],
+  "related_ids": [
+    "xinjiang-hongshao-yangrou",
+    "xinjiang-tomato-pepper-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

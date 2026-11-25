@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T17:16:15.634Z
+- 生成时间：2026-11-25T17:32:32.213Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 122 道，平均分 98
 - 需重写（C/D）：0 道
@@ -134,7 +134,7 @@
 | west-african | west-african-grilled-chicken-peanut | 100 | A | 无 |
 | west-african | west-african-pepper-sauce | 100 | A | 无 |
 | xibei | yangrou-paomo | 93 | A | 准确性 18/25 |
-| xinjiang | xinjiang-yangrou-menbing | 100 | A | 无 |
+| xinjiang | xinjiang-zhima-naan | 100 | A | 无 |
 | yunguai | guizhou-zaolajiao | 100 | A | 无 |
 | zhejiang | zhejiang-dongpo-doufu | 94 | A | 安全性 14/20 |
 | zhejiang | huotui-donggua-tang | 100 | A | 无 |
