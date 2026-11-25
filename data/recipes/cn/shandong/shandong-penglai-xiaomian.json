@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-penglai-xiaomian",
+  "name": {
+    "zh": "蓬莱小面",
+    "en": "Penglai Fine Noodles",
+    "original": "蓬萊小麵"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "用最细的龙须面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 120,
+          "unit": "g",
+          "note": "挑去虾线",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "摊蛋皮切丝",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "黄花菜",
+          "name_en": "dried daylily",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡发切段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "Welsh onion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 12,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "出锅前提香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "摊蛋皮与炒卤",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "做卤汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "木耳与黄花菜提前用温水泡发，木耳切细丝、黄花菜切两段备用。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "黄花菜要泡到完全回软并掐掉硬梗，否则嚼不动。",
+      "visual_cue": "木耳丝爽脆，黄花菜柔软无硬结。"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋打散，平底锅抹薄油摊成蛋皮，晾凉后切成细丝。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "蛋皮摊得越薄越好，切出的丝才细而不断。",
+      "visual_cue": "蛋皮薄而完整，切丝金黄均匀。"
+    },
+    {
+      "n": 3,
+      "text": "锅中放植物油，下葱花和姜末炒香，再加虾仁翻炒到变色卷曲。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "虾仁一变红就打卷，再多炒十秒肉质就发柴变老。",
+      "visual_cue": "虾仁卷曲发红，锅里有鲜香。"
+    },
+    {
+      "n": 4,
+      "text": "加木耳丝、黄花菜和清水烧开，用生抽和盐调味，小火煮五分钟出味。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "卤汤先煮五分钟再下面，鲜味才融进汤里。",
+      "visual_cue": "汤色清亮带琥珀色，配料浮沉。"
+    },
+    {
+      "n": 5,
+      "text": "另起汤锅烧水，下龙须面煮到刚断生就捞出，直接盛进碗里。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "细面极易煮烂，断生立刻捞出，靠热卤汤再泡熟。",
+      "visual_cue": "面条细白挺直，咬开略带白芯。"
+    },
+    {
+      "n": 6,
+      "text": "把滚烫的卤汤连料浇在面上，撒蛋皮丝、淋香油即可上桌。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "卤汤一定要滚烫，浇下去才能把面泡透并激出香气。",
+      "visual_cue": "碗里汤宽面细，蛋皮丝浮在表面。"
+    }
+  ],
+  "tips": [
+    "面条选最细的龙须面，浇滚汤即熟，口感最接近蓬莱本地。",
+    "卤汤要单独烧滚再浇面，用煮面水做汤会浑。",
+    "虾仁最后下锅，变色即起，才能保持脆嫩口感。"
+  ],
+  "common_mistakes": [
+    "面条在锅里煮到全熟才捞，浇汤后泡成一碗糊。",
+    "卤汤不滚就浇面，面条吸不进味，汤也发腥。",
+    "黄花菜没泡透就下锅，嚼起来硬柴还有涩味。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "海参",
+      "ratio": "120克:100克",
+      "note": "换成泡发的海参切丝，是更讲究的宴席版。"
+    },
+    {
+      "original": "龙须面",
+      "substitute": "面条",
+      "ratio": "400克:400克",
+      "note": "没有细面可用普通面条，煮的时间要相应延长。"
+    }
+  ],
+  "variations": [
+    "蓬莱当地会加一小勺鱼卤或蛤蜊汤，鲜味更贴近海边风味。",
+    "冬天把清汤换成骨汤打底，卤更浓稠，暖胃程度加倍。"
+  ],
+  "serving_suggestion": "蓬莱小面讲究汤宽面细，一碗端上来先喝汤再吃面，配一碟小咸菜就是海边人的早饭。",
+  "storage": "卤汤与面条分开冷藏可存一天，复热时把卤汤烧滚再浇在现煮的面条上。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 430,
+    "protein_g": 24,
+    "fat_g": 14,
+    "carbs_g": 56,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "虾仁为甲壳类，过敏体质者慎食；须炒至完全变色熟透。",
+    "摊蛋皮与烧滚汤时注意防烫，端锅请用隔热手套。"
+  ],
+  "origin_note": "蓬莱小面是烟台蓬莱的传统面食，面条细如龙须，卤汤用虾仁、木耳、黄花菜和蛋皮丝勾成，汤清味鲜。当地早点摊上一碗小面配一碟咸菜，是几代蓬莱人的清晨记忆。",
+  "tags": [
+    "鲁菜",
+    "胶东",
+    "面食",
+    "汤面"
+  ],
+  "related_ids": [
+    "dalu-mian",
+    "shandong-sanxian-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

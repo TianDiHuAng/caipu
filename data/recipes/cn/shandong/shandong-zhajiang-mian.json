@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-zhajiang-mian",
+  "name": {
+    "zh": "山东炸酱面",
+    "en": "Shandong Fried Sauce Noodles",
+    "original": "山東炸醬麵"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 25,
+    "total_min": 43
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 450,
+          "unit": "g",
+          "note": "手擀细面或鲜面条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 180,
+          "unit": "g",
+          "note": "切成黄豆大的小丁",
+          "optional": false
+        },
+        {
+          "name": "甜面酱",
+          "name_en": "sweet bean sauce",
+          "amount": 60,
+          "unit": "g",
+          "note": "鲁式炸酱主料",
+          "optional": false
+        },
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "与甜面酱合炒更厚",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝配面",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "焯水后配面",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "Welsh onion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "中和酱的咸",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "炒酱用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "澥酱与熬酱",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成黄豆大小的肉丁，大葱切葱花、姜切末，黄瓜切细丝装小碟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "肉丁别用绞碎的肉代替，炸酱要能咬到颗粒才香。",
+      "visual_cue": "肉丁大小一致，肥瘦相连。"
+    },
+    {
+      "n": 2,
+      "text": "甜面酱与黄豆酱放碗里，分次加清水澥开成无颗粒的稀酱。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱一定要提前澥开，直接下锅容易结块糊底。",
+      "visual_cue": "酱汁顺滑，用勺舀起能缓缓流下。"
+    },
+    {
+      "n": 3,
+      "text": "锅中放植物油烧热，下五花肉丁中火煸到出油、边缘微焦。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉丁煸到出油，炸酱才不会腻，酱也更容易挂住肉丁。",
+      "visual_cue": "肉丁卷缩出油，锅底积一层清亮油。"
+    },
+    {
+      "n": 4,
+      "text": "转小火下葱花和姜末炒香，再倒入澥好的酱，用锅铲不停推炒。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "全程小火，酱一焦就发苦，宁可多炒两分钟也别开大火。",
+      "visual_cue": "酱色转深发亮，油与酱开始分离。"
+    },
+    {
+      "n": 5,
+      "text": "加白糖调味，继续小火熬到酱稠厚、表面浮起一层亮油即可关火。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "熬到油酱分离才叫炸透，这时候酱香最浓、也不涩口。",
+      "visual_cue": "酱稠得能挂住铲子，边缘浮出清油。"
+    },
+    {
+      "n": 6,
+      "text": "面条煮熟后过一遍热汤，捞进碗里，舀上炸酱，配黄瓜丝和焯好的豆芽拌开。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "面要热、酱要烫，凉的炸酱拌面不香也不化。",
+      "visual_cue": "面上酱色油亮，配菜清爽翠绿。"
+    }
+  ],
+  "tips": [
+    "甜面酱与黄豆酱按二比一配，咸鲜层次比单用一种更厚。",
+    "酱必须提前用清水澥开，下锅才不结块。",
+    "小火熬到油酱分离再关火，这是炸酱香而不涩的关键。"
+  ],
+  "common_mistakes": [
+    "酱没澥开直接下锅，锅里结成一坨坨硬块，还容易糊底。",
+    "图快用大火炒酱，酱色发黑带焦苦，整碗面都毁了。",
+    "肉丁切得太小或用肉末，炸酱只有咸味没有咬劲。"
+  ],
+  "substitutions": [
+    {
+      "original": "甜面酱",
+      "substitute": "黄豆酱",
+      "ratio": "60克:60克",
+      "note": "只用黄豆酱则咸味更重，需多加五克白糖平衡。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "牛肉",
+      "ratio": "180克:180克",
+      "note": "换成牛肉丁做炸酱，风味更清爽不腻。"
+    }
+  ],
+  "variations": [
+    "济南人家会加一把剁碎的韭菜末，酱香里带一股辛香。",
+    "加几个香菇丁同炒，素炸酱的鲜味也够足。"
+  ],
+  "serving_suggestion": "炸酱面拌好后配一碟黄瓜丝、一小把豆芽，再来瓣蒜，就是济南人夏天的一顿正经饭。",
+  "storage": "炸酱冷藏可存五天，面条现煮现拌，拌剩的面不建议隔夜。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 620,
+    "protein_g": 24,
+    "fat_g": 28,
+    "carbs_g": 68,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "炸酱含大豆与小麦，过敏体质者需留意配料表。",
+    "炒酱时油温较高，酱汁易溅，操作时不要俯身靠近锅口。"
+  ],
+  "origin_note": "山东炸酱面与京津版本不同，酱用甜面酱配黄豆酱，肉丁切得粗些，酱熬到油酱分离才香。济南人把这碗面当正餐，面条热、炸酱烫，黄瓜丝清爽解腻，一大碗下去格外踏实。",
+  "tags": [
+    "鲁菜",
+    "济南",
+    "面食",
+    "炸酱"
+  ],
+  "related_ids": [
+    "dalu-mian",
+    "shandong-qiangguo-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

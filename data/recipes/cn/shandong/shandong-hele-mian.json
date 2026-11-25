@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-hele-mian",
+  "name": {
+    "zh": "潍坊和乐面",
+    "en": "Weifang Hele Noodles",
+    "original": "濰坊和樂麵"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 450,
+          "unit": "g",
+          "note": "粗圆面条或饸饹面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝炒成臊子",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "摊蛋皮切丝",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "Welsh onion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "给臊子上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "吃时按口味加",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒臊子",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成细丝，木耳泡发后切丝，鸡蛋摊成薄蛋皮再切成细丝备用。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "肉丝切得细而匀，炒出的臊子才不柴不塞牙。",
+      "visual_cue": "肉丝细匀，蛋皮丝金黄整齐。"
+    },
+    {
+      "n": 2,
+      "text": "锅中放植物油烧热，下葱花和姜末炒香，再放五花肉丝中火煸到出油。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉丝煸出油再下调料，臊子才香而不腻。",
+      "visual_cue": "肉丝卷曲出油，锅底见清亮油脂。"
+    },
+    {
+      "n": 3,
+      "text": "加生抽和老抽翻炒上色，倒入清水烧开，转小火炖十分钟成臊子汤。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "老抽只为上色，多放会发黑发苦，一小勺足够。",
+      "visual_cue": "汤色红亮，肉丝酥软浮在汤面。"
+    },
+    {
+      "n": 4,
+      "text": "另起锅烧水，加少许盐后煮面，粗面条煮到断生略有咬劲时捞出装碗。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "面里加盐煮更筋道，但宁可略硬也别煮软，还要靠热汤泡开。",
+      "visual_cue": "面条粗圆挺直，咬开略带白芯。"
+    },
+    {
+      "n": 5,
+      "text": "把臊子汤浇在面上，撒木耳丝、蛋皮丝和香菜，吃时按口味加香醋。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菜最后撒，香醋上桌前再放，酸香才不散。",
+      "visual_cue": "碗里红汤宽面，配菜颜色分明。"
+    }
+  ],
+  "tips": [
+    "粗面条煮得略硬一点，浇汤后还会继续吸汤变软。",
+    "臊子里的老抽只用于上色，一小勺足够，宁少勿多。",
+    "香醋按个人口味后加，不要直接倒进锅里。"
+  ],
+  "common_mistakes": [
+    "面条煮到全软再浇汤，端上桌已经坨成一团。",
+    "臊子里老抽放太多，整碗汤色发黑，吃着还带苦味。",
+    "香菜提前放进锅里煮，香气全跑光只剩草味。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "羊肉",
+      "ratio": "150克:150克",
+      "note": "换成羊肉丝炒臊子，汤头更膻香，需多加姜末。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "米醋",
+      "ratio": "10毫升:10毫升",
+      "note": "米醋酸味更柔和，适合不喜欢冲酸的人。"
+    }
+  ],
+  "variations": [
+    "潍坊当地会加一勺芝麻酱调开，汤更浓稠滑口。",
+    "喜欢辣的可以加一勺辣椒油，红汤配辣香别有风味。"
+  ],
+  "serving_suggestion": "和乐面一大碗端上来，先拌开再吃，配蒜瓣或小咸菜，是潍坊人早市上的固定组合。",
+  "storage": "臊子汤可冷藏两天，面条现煮现吃，复热时把汤烧滚再浇。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 560,
+    "protein_g": 26,
+    "fat_g": 22,
+    "carbs_g": 66,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "煮面与浇滚汤时注意防烫，盛碗时碗壁很热，端取请用托盘。",
+    "五花肉须炒透炖熟，中心温度达到七十度以上。"
+  ],
+  "origin_note": "潍坊和乐面是当地的传统面食，面条粗圆筋道，浇上用五花肉丝、木耳炖成的红亮臊子，再铺蛋皮丝和香菜。和乐二字取和睦安乐的好意头，潍坊人过年过节都爱吃这一碗。",
+  "tags": [
+    "鲁菜",
+    "潍坊",
+    "面食",
+    "汤面"
+  ],
+  "related_ids": [
+    "dalu-mian",
+    "shandong-qiangguo-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
