@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:41:53.269Z",
+  "generatedAt": "2026-11-25T10:58:40.253Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2037,
-    "coverage": 0.6221747098350642
+    "actual": 2045,
+    "coverage": 0.6246182040317654
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 110,
+        "actual": 118,
         "cells": [
           {
             "category": "main-meat",
@@ -176,9 +176,17 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 9,
             "ids": [
-              "larou-chaofan"
+              "larou-chaofan",
+              "sichuan-dan-chaofan",
+              "sichuan-douhua-fan",
+              "sichuan-jiangyou-chaofan",
+              "sichuan-suancai-chaofan",
+              "sichuan-tudou-menfan",
+              "sichuan-wandou-menfan",
+              "sichuan-xiangchang-menfan",
+              "sichuan-yacai-chaofan"
             ]
           },
           {

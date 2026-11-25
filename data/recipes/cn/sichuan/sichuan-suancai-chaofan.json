@@ -1,0 +1,221 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-suancai-chaofan",
+  "name": {
+    "zh": "酸菜炒饭",
+    "en": "Stir-Fried Rice with Pickled Mustard",
+    "original": "酸菜炒飯"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 8,
+    "cook_min": 8,
+    "total_min": 16
+  },
+  "servings": 2,
+  "flavor": [
+    "tangy",
+    "salty",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "隔夜冷饭抓散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 80,
+          "unit": "g",
+          "note": "川式泡酸菜，挤干切碎",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散备用",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "酸菜咸，盐要极少",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "分两次炒制",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "打蛋碗",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "酸菜用清水冲一遍去掉多余咸味，挤干后切成细末，小米辣切圈、大蒜切末备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酸菜挤得越干，炒出来的饭越香不发酸水。",
+      "visual_cue": "酸菜末干爽细碎，咸味适中。"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋打散，炒锅放三十毫升植物油烧热，倒蛋液炒成小块盛出。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "油热再下蛋液，蛋块才蓬松不吸油。",
+      "visual_cue": "蛋块金黄蓬松，颗粒松散。"
+    },
+    {
+      "n": 3,
+      "text": "锅内补十五毫升植物油，下蒜末和小米辣圈爆香，倒入酸菜末小火煸三分钟。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "酸菜要小火慢煸，把酸香和咸香逼出来。",
+      "visual_cue": "酸菜末收缩泛亮，酸香上扬。"
+    },
+    {
+      "n": 4,
+      "text": "倒入米饭大火翻炒压散，炒到米粒跳动，倒回蛋块，加生抽和盐翻匀撒葱花出锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "全程大火快炒，饭粒才带焦香不返潮。",
+      "visual_cue": "饭粒粒粒分明，酸菜末分布均匀。"
+    }
+  ],
+  "tips": [
+    "酸菜挤干水分，炒出的饭才够干香。",
+    "小米辣和蒜末先爆香，酸味才有层次。",
+    "盐要放得极少，酸菜本身已经够咸。"
+  ],
+  "common_mistakes": [
+    "酸菜不挤水直接下锅，饭炒成黏糊。",
+    "火太小慢慢炒，酸菜出水饭粒发软。",
+    "盐放多了，整盘饭咸得发苦咽不下。"
+  ],
+  "substitutions": [
+    {
+      "original": "酸菜",
+      "substitute": "芽菜",
+      "ratio": "80克:40克",
+      "note": "芽菜咸香更沉、酸味弱，用量减半，可加几滴香醋补酸。"
+    },
+    {
+      "original": "小米辣",
+      "substitute": "泡椒",
+      "ratio": "6克:20克",
+      "note": "泡椒酸辣带发酵香，与酸菜同煸风味更地道。"
+    }
+  ],
+  "variations": [
+    "有的家庭加一点肉末同炒，酸香配肉香更下饭。",
+    "川南做法会加半勺豆瓣酱，红亮微辣。"
+  ],
+  "serving_suggestion": "酸香开胃，配一碗清汤或豆腐汤，夏天没胃口时最合适。",
+  "storage": "冷藏可存一日，回锅大火翻炒一分钟；酸菜炒饭久放易发酸，建议当餐吃完。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 530,
+    "protein_g": 13,
+    "fat_g": 19,
+    "carbs_g": 73,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须炒至完全凝固、彻底加热熟透再与米饭同炒。",
+    "酸菜属腌制品，含盐量高，须冲洗减盐，高血压人群应少量食用。"
+  ],
+  "origin_note": "酸菜炒饭是川渝人清冰箱的绝活，自家泡的酸菜挤干剁细，配蒜末和小米辣小火煸出酸香，再与冷饭大火同翻，酸辣味裹进每粒米饭，蛋块点睛，一口下去开胃得很，剩饭也能吃出新鲜劲。",
+  "tags": [
+    "川菜",
+    "主食",
+    "炒饭",
+    "开胃"
+  ],
+  "related_ids": [
+    "sichuan-yacai-chaofan",
+    "sichuan-jiangyou-chaofan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

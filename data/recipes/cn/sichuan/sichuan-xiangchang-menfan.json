@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-xiangchang-menfan",
+  "name": {
+    "zh": "香肠焖饭",
+    "en": "Braised Rice with Sausage",
+    "original": "香腸燜飯"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 32,
+    "total_min": 42
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "淘洗沥干",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 150,
+          "unit": "g",
+          "note": "斜切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 80,
+          "unit": "g",
+          "note": "新鲜青豌豆",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "香肠有咸味，盐要少",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 370,
+          "unit": "ml",
+          "note": "比日常煮饭略少",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸香菇用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭煲",
+    "刀",
+    "砧板",
+    "炒锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍沥干，香肠斜切成两毫米薄片，香菇去蒂切成小丁，豌豆洗净备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香肠斜切更易出油，片薄才能焖得透。",
+      "visual_cue": "香肠片肥瘦相间，边缘油润。"
+    },
+    {
+      "n": 2,
+      "text": "炒锅放植物油，下香菇丁中火煸到出水收干、边缘微焦。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇煸干水分才有浓香，否则带土腥。",
+      "visual_cue": "香菇丁收缩微焦，香气扑鼻。"
+    },
+    {
+      "n": 3,
+      "text": "放入香肠片和豌豆翻炒一分钟，再放大米同炒，加生抽和盐翻匀。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香肠炒出油就够了，久炒会变硬发柴。",
+      "visual_cue": "米粒油亮分明，香肠泛红出油。"
+    },
+    {
+      "n": 4,
+      "text": "全部倒入电饭煲加清水铺平，按煮饭键焖到跳闸，保温十分钟。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "水量略低于白饭，香菇和豌豆都会出水。",
+      "visual_cue": "水面刚好没过米面约半厘米。"
+    },
+    {
+      "n": 5,
+      "text": "开盖撒葱花，用饭勺翻拌均匀，让香肠的油汁裹住每粒饭。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "翻拌让油汁裹匀，每粒饭都带腊香。",
+      "visual_cue": "饭粒油润泛红，葱花点缀。"
+    }
+  ],
+  "tips": [
+    "香肠斜切薄片，出油均匀而且容易入味。",
+    "香菇先煸干水分才够香，别直接下锅焖。",
+    "水量略少一些，配料出水正好补上。"
+  ],
+  "common_mistakes": [
+    "香肠切得太厚，焖好后仍然发硬嚼不动。",
+    "香菇不煸直接焖，饭里带着土腥味。",
+    "水放太多，饭粒发黏丧失颗粒感。"
+  ],
+  "substitutions": [
+    {
+      "original": "香肠",
+      "substitute": "腊肉",
+      "ratio": "150克:150克",
+      "note": "腊肉咸味更重，盐可完全省略，猪油量略增。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "干香菇",
+      "ratio": "60克:20克",
+      "note": "干香菇需提前泡发，泡菇水可代替部分清水，香气更浓。"
+    }
+  ],
+  "variations": [
+    "有的做法把香肠换成广式腊肠加腊肉，咸甜交织。",
+    "加一勺辣椒油拌进去，川味更足。"
+  ],
+  "serving_suggestion": "盛碗后撒点葱花，配清炒青菜或一碗番茄蛋汤，一餐齐活。",
+  "storage": "冷藏可存两日，加少许清水回锅焖三分钟；香肠焖饭冷冻后饭粒易散，不建议。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 610,
+    "protein_g": 20,
+    "fat_g": 22,
+    "carbs_g": 80,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "香肠属腌制肉制品，须彻底加热熟透后食用，不宜长期大量摄入。",
+    "焖饭剩余部分须及时冷藏，复热时务必彻底热透。"
+  ],
+  "origin_note": "香肠焖饭是川渝人家过冬的省事饭，自家灌的香肠斜切薄片，与香菇丁、青豌豆一起铺在淘好的米上，电饭煲一跳闸，掀开盖子满屋都是腊香和菇香，饭粒吸足了香肠渗出的红油，咸甜交织，一锅能吃三碗。",
+  "tags": [
+    "川菜",
+    "主食",
+    "焖饭",
+    "一锅出"
+  ],
+  "related_ids": [
+    "sichuan-wandou-menfan",
+    "larou-chaofan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
