@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T13:21:02.696Z",
+  "generatedAt": "2026-11-25T14:36:07.519Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2092,
-    "coverage": 0.6389737324373854
+    "actual": 2098,
+    "coverage": 0.6408063530849114
   },
   "regions": {
     "cn": [
@@ -287,19 +287,20 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 92,
+        "actual": 98,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "congshao-haishen",
               "fanqie-daxia",
               "jiaodong-bayu-jiaozi",
               "shandong-furong-ganbei",
               "shandong-ganjian-daiyu",
+              "shandong-ruanzha-xiaren",
               "shandong-xiangsu-xia",
               "suanrong-shenghao",
               "tangcu-liyu",
@@ -311,7 +312,7 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "baochao-yaohua",
               "bazi-rou",
@@ -323,6 +324,7 @@
               "shandong-jingjiang-rousi",
               "shandong-sixi-wanzi",
               "shandong-surou",
+              "shandong-yuanbao-lijisi",
               "tangcu-liji"
             ]
           },
@@ -383,8 +385,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "shandong-culiu-baicai",
               "shandong-culiu-tudousi",
               "shandong-qiehe"
             ]
@@ -453,10 +456,11 @@
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "huangmen-ji",
               "linyi-chaoji",
+              "shandong-budai-ji",
               "shandong-dezhou-paji",
               "shandong-huangmen-jikuai",
               "shandong-lizi-shaoji",
@@ -467,10 +471,12 @@
             "category": "appetizer",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "majiang-huanggua",
+              "shandong-ban-jisi",
               "shandong-doupi-bocai",
+              "shandong-jiangzhi-oupian",
               "shandong-xiaocong-ban-doufu",
               "zha-ouhe"
             ]
