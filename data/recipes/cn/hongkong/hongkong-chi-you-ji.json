@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-chi-you-ji",
+  "name": {
+    "zh": "港式豉油鸡",
+    "en": "Hong Kong Soy Sauce Chicken",
+    "original": "港式豉油鸡"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 17,
+    "cook_min": 40,
+    "total_min": 57
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "整鸡",
+          "name_en": "whole chicken",
+          "amount": 1200,
+          "unit": "g",
+          "note": "一只约两斤半",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 50,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 300,
+          "unit": "ml",
+          "note": "卤汁主体",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 60,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 80,
+          "unit": "g",
+          "note": "回甜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "橘皮",
+          "name_en": "tangerine peel",
+          "amount": 1,
+          "unit": "piece",
+          "note": "解腻增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "汤勺",
+    "刀",
+    "砧板",
+    "冰水盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "整鸡洗净沥干，剪去鸡屁股与多余脂肪，鸡腹内塞入葱结、姜片与拍裂的大蒜。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "鸡身一定要擦干，带水下锅会冲淡卤汁，皮也不上色。",
+      "visual_cue": "鸡皮干爽完整，腹腔塞满葱姜"
+    },
+    {
+      "n": 2,
+      "text": "深锅放生抽、老抽、冰糖、料酒、八角、桂皮、香叶与陈皮，加清水至能没过半只鸡。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "卤汁咸度以略咸于平时为准，鸡才入味。",
+      "visual_cue": "卤汁深褐透亮，香料浮在表面"
+    },
+    {
+      "n": 3,
+      "text": "大火把卤汁烧开，转小火煮五分钟，让香料的味道先释放出来。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "先把香料煮五分钟再下鸡，味道才有时间释放到卤汁里。",
+      "visual_cue": "卤汁翻滚冒大泡，香料香气浓郁"
+    },
+    {
+      "n": 4,
+      "text": "提着鸡颈把整鸡浸入卤汁，提起沥出腔内汁水，重复三次让鸡皮收紧。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "三提三放能让鸡皮紧实，卤好皮才爽脆。",
+      "visual_cue": "鸡皮收紧泛黄，表面光亮"
+    },
+    {
+      "n": 5,
+      "text": "整鸡浸入卤汁，保持微沸不滚的状态浸煮三十分钟，中途翻面两次。",
+      "time_min": 31,
+      "heat": "小火",
+      "tip": "汤面只冒小泡就够了，滚起来鸡肉就柴。",
+      "visual_cue": "鸡身浮起，筷子插腿无血水"
+    },
+    {
+      "n": 6,
+      "text": "捞出整鸡立刻浸入冰水三分钟，鸡皮骤冷收紧，斩件后淋上热卤汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "冰水这一步决定鸡皮爽不爽，热鸡一遇冷水立刻收紧。",
+      "visual_cue": "鸡皮紧致油亮，切面肉汁清亮"
+    }
+  ],
+  "tips": [
+    "卤汁可反复使用，越卤越香，用完过滤冷冻保存。",
+    "鸡选两斤半左右的三黄鸡，太大不易入味。",
+    "斩件后淋一勺热卤汁，比冷汁香得多。"
+  ],
+  "common_mistakes": [
+    "卤汁滚着下鸡，鸡皮立刻破，肉也发柴。",
+    "煮的时间过长，鸡肉缩水发硬，一切就散。",
+    "捞出不过冰水，鸡皮软塌，没有爽脆的口感。"
+  ],
+  "substitutions": [
+    {
+      "original": "整鸡",
+      "substitute": "鸡腿肉",
+      "ratio": "1200克:800克",
+      "note": "鸡腿肉更容易入味，浸煮时间减到二十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "80克:70克",
+      "note": "白糖色浅，老抽可多加十毫升。"
+    }
+  ],
+  "variations": [
+    "卤汁里加一勺玫瑰露酒，香气更雅，是酒家的做法。",
+    "把鸡换成鸡翅，浸十五分钟即可，做成豉油鸡翼。"
+  ],
+  "serving_suggestion": "斩件摆盘淋汁，配一碗白饭与姜葱蓉，就是港式烧腊店的经典套餐。",
+  "storage": "冷藏可存三天，复热须蒸八分钟，卤汁另烧热淋上。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 50,
+    "fat_g": 28,
+    "carbs_g": 16,
+    "sodium_mg": 1680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "整鸡须卤至腿根插入筷子无血水流出，中心完全熟透后食用。",
+    "卤汁长时间沸腾，捞取整鸡时须用长夹并防蒸汽烫伤，斩件时刀要稳。"
+  ],
+  "origin_note": "豉油鸡是港式烧腊店与家常厨房都常见的菜，一锅卤汁反复用，越卤越香。做法看着简单，其实讲究三提三放与微沸浸煮，鸡皮才爽、肉才嫩。香港人过年过节斩一只豉油鸡上桌，淋一勺热卤，配姜葱蓉，就是最体面的家常味。",
+  "tags": [
+    "港澳菜",
+    "豉油鸡",
+    "卤味",
+    "整鸡"
+  ],
+  "related_ids": [
+    "hongkong-cha-siu",
+    "hongkong-baozaifan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

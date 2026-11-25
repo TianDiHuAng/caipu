@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-baozaifan",
+  "name": {
+    "zh": "腊味煲仔饭",
+    "en": "Claypot Rice with Cured Meat",
+    "original": "腊味煲仔饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 44,
+    "cook_min": 30,
+    "total_min": 74
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "提前浸泡",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 100,
+          "unit": "g",
+          "note": "斜切薄片",
+          "optional": false
+        },
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 80,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "焯水配菜",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "可选打入",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "抹锅与淋边",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调豉汁",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "调色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "化入豉汁",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "调豉汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "电饭锅",
+    "刀",
+    "砧板",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍，加清水浸泡三十分钟，沥干后拌入少许花生油备用。",
+      "time_min": 33,
+      "heat": "无火",
+      "tip": "泡过的米吸足水，煮出来才粒粒分明不夹生。",
+      "visual_cue": "饭粒饱胀发白，捏之易碎"
+    },
+    {
+      "n": 2,
+      "text": "生抽、老抽与冰糖加两勺清水小火煮化，晾凉后加芝麻油调成浇饭汁。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "汁要先煮开化糖，凉了再淋才不会把饭泡软。",
+      "visual_cue": "汁色红亮微稠，糖粒全化"
+    },
+    {
+      "n": 3,
+      "text": "腊肠与腊肉斜切成薄片，姜切细丝，小白菜单棵剖开洗净备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "腊味切薄些，靠饭的蒸汽一焖就熟透出油。",
+      "visual_cue": "腊味片薄而透光，肥瘦分明"
+    },
+    {
+      "n": 4,
+      "text": "砂锅内壁抹一层花生油，倒入米与一点二倍清水，大火烧开。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "锅底抹油是起锅巴的关键，油少了粘锅。",
+      "visual_cue": "水面翻滚冒大泡，米粒上浮"
+    },
+    {
+      "n": 5,
+      "text": "水收到与米齐平时转小火，加盖焖十分钟至表面出现细密气孔。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "小火焖到看不见水，气孔一出就说明饭快好了。",
+      "visual_cue": "饭面布满小气孔，边缘冒白汽"
+    },
+    {
+      "n": 6,
+      "text": "铺上腊肠、腊肉与姜丝，沿锅边淋一圈花生油，加盖再焖八分钟。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "沿锅边淋油能让锅巴脆而不焦，这是行家的做法。",
+      "visual_cue": "腊味油脂渗出，锅边吱吱作响"
+    },
+    {
+      "n": 7,
+      "text": "开盖打入鸡蛋，摆上焯熟的小白菜，加盖焖两分钟，浇汁撒葱花。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "鸡蛋最后放，焖两分钟正好半熟流心。",
+      "visual_cue": "蛋黄半凝，锅底锅巴金黄"
+    }
+  ],
+  "tips": [
+    "砂锅要选厚壁的，受热匀，锅巴才整片不碎。",
+    "腊味本身咸，浇饭汁要少放，试味后再加。",
+    "想吃整块锅巴，出锅前沿锅边再淋一次油，焗两分钟。"
+  ],
+  "common_mistakes": [
+    "米不泡直接下锅，外层糊了里面还是硬的。",
+    "全程大火猛烧，水干了饭还夹生，锅底一片焦黑。",
+    "浇饭汁一次倒太多，饭泡成粥，锅巴也软了。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肠",
+      "substitute": "腊肉",
+      "ratio": "100克:100克",
+      "note": "全用腊肉更咸，浇饭汁可减半。"
+    },
+    {
+      "original": "大米",
+      "substitute": "泰国香米",
+      "ratio": "300克:300克",
+      "note": "香米更松散，水量减一成。"
+    }
+  ],
+  "variations": [
+    "把腊味换成滑鸡块与香菇，就是经典的北菇滑鸡煲仔饭。",
+    "加一勺豆豉与排骨同焖，咸香更重，是老茶楼的做法。"
+  ],
+  "serving_suggestion": "趁热把腊味和饭拌匀，锅巴刮下来一起吃，香气最足。",
+  "storage": "冷藏可存一天，复热须加一勺水盖盖小火焖五分钟，锅巴会回软。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 760,
+    "protein_g": 26,
+    "fat_g": 34,
+    "carbs_g": 84,
+    "sodium_mg": 1280,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "腊味与鸡蛋须彻底加热至熟透，鸡蛋如需半熟请选用可生食蛋。",
+    "砂锅烧热后温度很高，加水与淋油时须小心，避免蒸汽与热油烫手。"
+  ],
+  "origin_note": "腊味煲仔饭是港式茶餐厅与街坊小店的常青款，一锅饭、两片腊味、一勺甜豉油，揭开盖子那股油香能飘半条街。讲究的是火候与锅巴，师傅听锅边的吱吱声就知道该不该收火。香港人冬天最爱这一锅，饭焦刮下来，脆得像饼干。",
+  "tags": [
+    "港澳菜",
+    "煲仔饭",
+    "腊味",
+    "砂锅"
+  ],
+  "related_ids": [
+    "hongkong-cha-siu",
+    "hongkong-ganchao-niuhe"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
