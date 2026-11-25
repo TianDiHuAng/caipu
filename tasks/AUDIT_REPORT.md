@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T15:10:18.692Z
+- 生成时间：2026-11-25T15:19:35.472Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 119 道，平均分 98
 - 需重写（C/D）：0 道
@@ -115,8 +115,8 @@
 | south-african | south-african-pap | 93 | A | 准确性 18/25 |
 | south-asian | south-asian-dal-tadka | 93 | A | 准确性 18/25 |
 | south-asian | south-asian-cabbage-poriyal | 100 | A | 无 |
-| spanish | spanish-empanada-gallega | 100 | A | 无 |
-| spanish | spanish-almejas-vino-blanco | 100 | A | 无 |
+| spanish | spanish-escalivada | 100 | A | 无 |
+| spanish | spanish-bacalao-al-horno | 100 | A | 无 |
 | spanish | spanish-salmorejo | 100 | A | 无 |
 | taiwan | kezai-jian | 100 | A | 无 |
 | tex-mex | tex-mex-huevos-rancheros | 100 | A | 无 |
