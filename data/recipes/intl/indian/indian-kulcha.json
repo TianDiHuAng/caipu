@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-kulcha",
+  "name": {
+    "zh": "印度洋葱酥饼",
+    "en": "Onion Kulcha",
+    "original": "Amritsari Kulcha"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 120,
+    "cook_min": 20,
+    "total_min": 140
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切碎末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 100,
+          "unit": "g",
+          "note": "无糖",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "助发酵",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "小茴香",
+          "name_en": "cumin seed",
+          "amount": 5,
+          "unit": "g",
+          "note": "碾碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "抹面",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 10,
+          "unit": "g",
+          "note": "表面装饰",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "擀面杖",
+    "盆",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉过筛，加酵母、白糖与盐拌匀，倒入酸奶与清水揉成软面团。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "面团要揉到表面光滑，出筋才起层。",
+      "visual_cue": "面团表面光滑不粘手。"
+    },
+    {
+      "n": 2,
+      "text": "面团抹薄油，盖保鲜膜放在温暖处发酵一小时至体积翻倍。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "温度低就多发一会儿，看状态不看钟。",
+      "visual_cue": "面团涨大、指按回弹慢。"
+    },
+    {
+      "n": 3,
+      "text": "洋葱切细末，用厨房纸吸去多余汁水，与香菜、小茴香拌匀成馅。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "洋葱汁水挤干，否则饼会被泡破。",
+      "visual_cue": "馅料干爽不流水。"
+    },
+    {
+      "n": 4,
+      "text": "发好的面团分成六份，每份包入两勺洋葱馅，收口捏紧后静置十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "收口一定捏严，擀的时候才不破。",
+      "visual_cue": "面团圆润，收口朝下。"
+    },
+    {
+      "n": 5,
+      "text": "把包好馅的面团轻轻擀成椭圆饼，表面刷水撒芝麻并按实。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "馅饼只能轻擀，用力就破皮漏馅。",
+      "visual_cue": "饼坯表面芝麻均匀。"
+    },
+    {
+      "n": 6,
+      "text": "平底锅烧热不放油，饼坯下锅烙两分钟至底面起斑，翻面再烙两分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "干烙定型后再刷油，饼才不会软塌。",
+      "visual_cue": "底面焦斑密布，饼身鼓起。"
+    },
+    {
+      "n": 7,
+      "text": "刷上植物油，把饼按在锅边压着烙到两面酥脆，出锅稍压散层。",
+      "time_min": 7,
+      "heat": "中小火",
+      "tip": "压着烙能让层次分开，吃起来一片片。",
+      "visual_cue": "外层金黄起酥，用手一拍能散层。"
+    }
+  ],
+  "tips": [
+    "酸奶让饼皮更软，记得选无糖原味的那种。",
+    "洋葱馅一定要挤干水，否则饼中间湿塌。",
+    "吃之前用手轻轻拍散，层次才漂亮。"
+  ],
+  "common_mistakes": [
+    "洋葱馅带水下锅烙，饼中间泡软、整张塌陷。",
+    "面团没发起来就烙，饼硬得像饼干。"
+  ],
+  "substitutions": [
+    {
+      "original": "酸奶",
+      "substitute": "牛奶",
+      "ratio": "100g 对 90ml",
+      "note": "牛奶和的面偏硬，需多加 10ml 清水。"
+    }
+  ],
+  "variations": [
+    "阿姆利则的店铺会在馅料里加一小勺石榴籽粉提酸，颜色微红，酸香更明显。"
+  ],
+  "serving_suggestion": "配黄油鸡或鹰嘴豆咖喱，撕开蘸酱汁吃。",
+  "storage": "冷藏两天，复热用平底锅干烙一分钟，别用微波炉。",
+  "nutrition_estimate": {
+    "basis": "每份约 200g",
+    "calories_kcal": 430,
+    "protein_g": 12,
+    "fat_g": 12,
+    "carbs_g": 70,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "sesame"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "饼内包有生洋葱馅，须烙至内部完全熟透再食用。",
+    "含麸质与乳制品，相关过敏人群避免食用。",
+    "平底锅干烙温度较高，翻面时注意手部防护。"
+  ],
+  "origin_note": "Kulcha 是旁遮普阿姆利则的招牌面饼，面团用酸奶发起来，包进洋葱香菜馅，干锅烙到焦斑遍体，再压着锅边刷油烙酥，一口下去外层脆、里面软。",
+  "tags": [
+    "印度菜",
+    "面饼",
+    "洋葱",
+    "主食"
+  ],
+  "related_ids": [
+    "indian-naan",
+    "indian-paratha",
+    "naan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

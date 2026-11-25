@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:13:56.820Z",
+  "generatedAt": "2026-11-25T04:25:32.135Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 1919,
-    "coverage": 0.5861331704337203
+    "actual": 1925,
+    "coverage": 0.5879657910812461
   },
   "regions": {
     "cn": [
@@ -4422,7 +4422,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 58,
+        "actual": 64,
         "cells": [
           {
             "category": "main-vegetable",
@@ -4470,13 +4470,19 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 13,
             "ids": [
               "aloo-paratha",
               "indian-bhatura",
+              "indian-kulcha",
+              "indian-laccha-paratha",
+              "indian-makki-roti",
               "indian-naan",
               "indian-paratha",
+              "indian-pudina-paratha",
               "indian-roti",
+              "indian-rumali-roti",
+              "indian-tandoori-roti",
               "naan",
               "puri"
             ]
