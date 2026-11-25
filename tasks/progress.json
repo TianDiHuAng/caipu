@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T02:47:41.582Z",
+  "generatedAt": "2026-11-25T02:56:24.814Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 1877,
-    "coverage": 0.5733048259010385
+    "actual": 1883,
+    "coverage": 0.5751374465485645
   },
   "regions": {
     "cn": [
@@ -910,7 +910,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 82,
+        "actual": 88,
         "cells": [
           {
             "category": "soup",
@@ -1047,9 +1047,15 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 7,
             "ids": [
-              "fujian-hongshao-doufu"
+              "fujian-doufu-men-baicai",
+              "fujian-hongshao-doufu",
+              "fujian-niang-doufu",
+              "fujian-shacha-doufu",
+              "fujian-shaguo-doufu-bao",
+              "fujian-xiang-jian-doufu",
+              "fujian-zaoxiang-doufu"
             ]
           },
           {

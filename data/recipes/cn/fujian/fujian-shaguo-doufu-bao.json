@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-shaguo-doufu-bao",
+  "name": {
+    "zh": "砂锅豆腐煲",
+    "en": "Claypot Tofu Casserole",
+    "original": "砂锅豆腐煲"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡发切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "娃娃菜",
+          "name_en": "baby napa cabbage",
+          "amount": 200,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 12,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干香菇用温水泡二十分钟，泡香菇的水沉淀后留用。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "香菇水是这道汤的鲜味来源，别倒掉。",
+      "visual_cue": "香菇变软展开，水呈淡褐色。"
+    },
+    {
+      "n": 2,
+      "text": "娃娃菜切段，五花肉切薄片，姜切片，小葱切段备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "五花肉切薄一点，煸出油才香。 水汽要控住。",
+      "visual_cue": "肉片薄而透光，菜段整齐。"
+    },
+    {
+      "n": 3,
+      "text": "砂锅下花生油，放五花肉片小火煸到边缘卷起出油。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "煸出猪油再下其他料，整锅都香。 时间别硬压。",
+      "visual_cue": "肉片卷边微黄，锅底一层清油。"
+    },
+    {
+      "n": 4,
+      "text": "下姜片与香菇片炒香，淋料酒去腥，加生抽与蚝油炒匀。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇要炒到边缘微焦，香味才出来。 这一步别图快。",
+      "visual_cue": "锅里酱色均匀，香味浓郁。"
+    },
+    {
+      "n": 5,
+      "text": "倒入香菇水与半锅清水烧开，加盐与白糖调味。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "水要一次加足，中途加水汤味会变淡。",
+      "visual_cue": "汤汁滚开，表面浮起少许油花。"
+    },
+    {
+      "n": 6,
+      "text": "娃娃菜铺底，嫩豆腐块码在上面，盖盖小火炖十五分钟。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "豆腐放上层，炖的时候汤汁能浸透。 火候宁小勿大。",
+      "visual_cue": "豆腐鼓起，汤汁收到一半。"
+    },
+    {
+      "n": 7,
+      "text": "开盖撒葱段，连砂锅端上桌，趁热盛出分食。注意火候，不要着急。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "砂锅余温还在滚，端的时候垫个盘。 次序不能颠倒。",
+      "visual_cue": "汤色乳白泛油光，豆腐完整不碎。"
+    }
+  ],
+  "tips": [
+    "香菇水一定要沉淀后取上层，底部有沙。",
+    "豆腐最后放，久炖会起孔发老。，这一点要记住。",
+    "砂锅先小火预热再加油，骤热容易裂。"
+  ],
+  "common_mistakes": [
+    "砂锅冷锅直接大火烧，锅底受热不匀容易炸裂。",
+    "一直大火滚炖，豆腐全成碎块，汤也浑了。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "咸肉",
+      "ratio": "120g 对 100g",
+      "note": "咸肉更咸，盐要减到一克。"
+    }
+  ],
+  "variations": [
+    "闽南人家会加几只鲜虾与一把粉丝，砂锅豆腐煲就成了能当主食的一锅端。"
+  ],
+  "serving_suggestion": "连砂锅上桌最有气氛，汤汁拌饭或泡饼都合适。",
+  "storage": "冷藏两天，复热整锅小火慢烧到滚，不要中途搅动。",
+  "nutrition_estimate": {
+    "basis": "每份约 250g",
+    "calories_kcal": 330,
+    "protein_g": 19,
+    "fat_g": 24,
+    "carbs_g": 10,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉须炖至完全熟透，中心不见血水。",
+    "砂锅端取须垫盘，避免烫伤。，不容忽视。",
+    "豆腐与香菇同炖须烧透，隔夜须彻底复热。"
+  ],
+  "origin_note": "砂锅豆腐煲是闽地冬天最常见的暖锅，豆腐吸饱肉汤，娃娃菜炖得发甜，一锅能吃掉三碗饭。，在闽地餐桌上流传至今。",
+  "tags": [
+    "闽菜",
+    "砂锅",
+    "豆腐煲",
+    "家常菜"
+  ],
+  "related_ids": [
+    "fujian-niang-doufu",
+    "fujian-shacha-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

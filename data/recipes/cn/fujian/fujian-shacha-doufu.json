@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-shacha-doufu",
+  "name": {
+    "zh": "沙茶豆腐",
+    "en": "Tofu in Shacha Sauce",
+    "original": "沙茶豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "沙茶酱",
+          "name_en": "shacha sauce",
+          "amount": 40,
+          "unit": "g",
+          "note": "调味核心",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 60,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "补咸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "回甜",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 150,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "嫩豆腐切三厘米见方的块，放进淡盐水里浸五分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "盐水浸泡能让豆腐紧实，烧的时候不易散。",
+      "visual_cue": "豆腐块完整，表面泛着水光。"
+    },
+    {
+      "n": 2,
+      "text": "蒜切末，小葱切段，青椒去籽切成与豆腐差不多大的块。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "青椒块大小一致，受热才同步。 次序不能颠倒。",
+      "visual_cue": "配料切好分装，颜色分明。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下花生油烧热，放蒜末与沙茶酱小火炒出红油。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "沙茶酱容易糊，一定要小火慢慢炒香。",
+      "visual_cue": "锅里泛出橙红油色，香味直冒。"
+    },
+    {
+      "n": 4,
+      "text": "倒入高汤烧开，加生抽与白糖调匀成沙茶汤汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "没有高汤可用清水加半勺蚝油替代。 手上动作要稳。",
+      "visual_cue": "汤汁红亮，表面浮一层沙茶油。"
+    },
+    {
+      "n": 5,
+      "text": "轻轻放入豆腐块，转小火焖八分钟，中途晃锅防粘。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "别用铲子翻，晃锅让汤汁自己流动。 量要称准。",
+      "visual_cue": "豆腐吸饱汤汁，颜色转深。"
+    },
+    {
+      "n": 6,
+      "text": "下青椒块再烧两分钟，淋水淀粉收浓汤汁。注意火候，不要着急。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "青椒后放才脆，久烧会发黄。 水汽要控住。",
+      "visual_cue": "汤汁挂勺，青椒翠绿。"
+    },
+    {
+      "n": 7,
+      "text": "撒葱段，连汁盛出装盘，趁热浇一点汤汁在豆腐上。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "葱段最后撒，香气最足。 时间别硬压。",
+      "visual_cue": "每块豆腐都裹着红亮酱汁。"
+    }
+  ],
+  "tips": [
+    "沙茶酱本身咸鲜带甜，生抽要少放，避免过咸。",
+    "嫩豆腐先过淡盐水，烧的时候不容易碎块。",
+    "收汁要薄芡，太稠会糊住沙茶的香气。"
+  ],
+  "common_mistakes": [
+    "沙茶酱大火干炒，一瞬间就发黑发苦，整锅报废。",
+    "用铲子翻炒豆腐，最后全成了豆腐碎酱。"
+  ],
+  "substitutions": [
+    {
+      "original": "沙茶酱",
+      "substitute": "沙嗲酱",
+      "ratio": "40g 对 40g",
+      "note": "沙嗲酱偏甜辣，糖减半即可。"
+    }
+  ],
+  "variations": [
+    "厦门人家会在沙茶豆腐里加几只虾仁同烧，鲜味更足，汤汁也更甜。"
+  ],
+  "serving_suggestion": "连汁浇在米饭上，沙茶的香与豆腐的嫩配在一起最下饭。",
+  "storage": "冷藏一天内吃完，复热小火加少量水回烧，别用大火。",
+  "nutrition_estimate": {
+    "basis": "每份约 200g",
+    "calories_kcal": 300,
+    "protein_g": 16,
+    "fat_g": 22,
+    "carbs_g": 9,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "豆腐为豆制品，须烧透入味，隔夜须彻底复热。",
+    "沙茶酱含花生与虾米，过敏人群须核对配料表。",
+    "含高汤与酱料，钠含量偏高，高血压人群减量。"
+  ],
+  "origin_note": "沙茶是闽南与潮汕共有的味道，花生、虾米与香料炒成的酱烧进豆腐里，一勺汤汁就能拌下一碗饭。，在闽地餐桌上流传至今。",
+  "tags": [
+    "闽菜",
+    "沙茶",
+    "豆腐",
+    "家常菜"
+  ],
+  "related_ids": [
+    "fujian-niang-doufu",
+    "fujian-shaguo-doufu-bao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
