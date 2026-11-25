@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-jiyu-zheng-rou",
+  "name": {
+    "zh": "鲫鱼蒸肉",
+    "en": "Steamed Crucian Carp Stuffed with Pork",
+    "original": "鲫鱼蒸肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲫鱼",
+          "name_en": "crucian carp",
+          "amount": 600,
+          "unit": "g",
+          "note": "两条，处理干净",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "三分肥七分瘦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "一半切片一半切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "一半垫底一半切末",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "拌馅用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "抹鱼身与拌馅",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "泼油用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "刀",
+    "砧板",
+    "深盘",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲫鱼去鳞去鳃去内脏，撕净腹腔里的黑膜，在鱼身两面各划三刀，用盐与米酒抹匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "腹腔黑膜最腥，撕干净了蒸出来才没有土味。",
+      "visual_cue": "鱼身干爽，刀口深至骨不见血水"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加香菇末、姜末、葱花、生抽、盐、白胡椒与淀粉，顺一个方向搅打上劲。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "搅到肉馅能拉出黏丝，蒸出来才紧实不松散。",
+      "visual_cue": "肉馅黏手发亮，插筷子能立住"
+    },
+    {
+      "n": 3,
+      "text": "把肉馅分成两份，分别塞进两条鲫鱼的腹腔和刀口里，塞实抹平。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "刀口也塞一点肉，蒸的时候鱼肉吸肉汁更嫩。",
+      "visual_cue": "鱼腹饱满鼓起，刀口填满不塌陷"
+    },
+    {
+      "n": 4,
+      "text": "盘底铺姜片与葱段，放上鲫鱼，鱼身上再盖两片姜。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "垫高让蒸汽循环，鱼底不会泡在腥水里。",
+      "visual_cue": "鱼身架起不贴盘，姜葱铺满盘底"
+    },
+    {
+      "n": 5,
+      "text": "蒸锅水大开后放入，大火蒸十二分钟，关火再焖三分钟取出。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "必须水开上锅，冷水上锅鱼肉发柴，肉馅也不易熟。",
+      "visual_cue": "鱼眼凸出发白，肉馅表面收紧"
+    },
+    {
+      "n": 6,
+      "text": "倒掉盘中的腥水，拣去姜葱，撒上新鲜葱花，把植物油烧到冒烟，连同几滴香油一起泼在葱花上。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "腥水一定要倒掉，泼热油才激得出葱香。",
+      "visual_cue": "葱末卷起放香，油光浮在盘底"
+    }
+  ],
+  "tips": [
+    "鲫鱼刺多，塞肉后蒸熟更易整条脱骨，吃时仍要小心细刺。",
+    "肉馅里加两勺笋末，口感更松脆，也能解腻。",
+    "选巴掌大的鲫鱼最合适，太大肉厚蒸不透。"
+  ],
+  "common_mistakes": [
+    "肉馅塞得太满，蒸时鱼腹撑裂，卖相全毁。",
+    "不划刀直接蒸，鱼肉厚薄不一，中间还是生的。",
+    "冷水上锅慢慢蒸，鱼肉发柴、肉馅出水，整盘寡淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲫鱼",
+      "substitute": "鲈鱼",
+      "ratio": "600克:600克",
+      "note": "鲈鱼刺少，蒸的时间减三分钟。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "鸡肉末",
+      "ratio": "150克:150克",
+      "note": "鸡肉较瘦，香油可多加三毫升。"
+    }
+  ],
+  "variations": [
+    "把鲫鱼换成鳜鱼同法做，肉厚刺少，更适合老人食用。",
+    "加一勺豆瓣酱在肉馅里，咸香微辣，是徽州山区的重口版本。"
+  ],
+  "serving_suggestion": "整条上桌，鱼腹里的肉馅最入味，汤汁拌饭也极香。",
+  "storage": "建议当餐吃完，淡水鱼隔夜易变质，复蒸会令肉质发柴。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 420,
+    "protein_g": 45,
+    "fat_g": 24,
+    "carbs_g": 6,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "鲫鱼与肉馅须彻底蒸熟，鱼肉完全变白、肉馅中心不见粉色。",
+    "鲫鱼细刺极多，老人与儿童食用时须仔细挑刺，避免卡喉。",
+    "香菇等菌菇类食材须彻底加热熟透后再食用，不要生食或半生食用。"
+  ],
+  "origin_note": "鲫鱼蒸肉是徽州水乡的老菜，鱼腹塞肉同蒸，鱼肉吸肉香、肉馅吸鱼鲜，一味两吃。徽菜讲究原锅原味，这道菜只用盐与米酒调味，靠蒸汽把两种鲜味揉在一起。老一辈说鲫鱼蒸肉最养人，产妇坐月子常吃。",
+  "tags": [
+    "徽菜",
+    "蒸菜",
+    "鲫鱼",
+    "肉馅"
+  ],
+  "related_ids": [
+    "chou-guiyu",
+    "anhui-hongshao-jiyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

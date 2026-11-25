@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-doufu-shao-xiaren",
+  "name": {
+    "zh": "虾仁烧豆腐",
+    "en": "Braised Tofu with Shrimp",
+    "original": "虾仁烧豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 24,
+    "total_min": 46
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "老豆腐切厚片",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去壳去肠线",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "勾芡与上浆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "煎豆腐用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 18,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "老豆腐切成两厘米厚的方片，用厨房纸把表面的水分吸干，撒少许盐腌上十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "表面水分一定要吸干，否则下锅就粘，一翻就碎给你看。",
+      "visual_cue": "豆腐表面泛出水珠，片形挺立不软"
+    },
+    {
+      "n": 2,
+      "text": "虾仁挑去背上的肠线，用盐和淀粉抓洗一遍，冲净后吸干水分上浆。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "抓洗能去掉黏液与腥味，虾仁炒出来才透亮爽脆。",
+      "visual_cue": "虾仁发白透明，表面干爽带薄浆"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧热，摆入豆腐片中火煎到两面结起金黄硬壳后盛出。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "一面煎定型再翻面，急着翻必然碎成一锅豆腐渣。",
+      "visual_cue": "两面金黄结壳，边角挺立完整"
+    },
+    {
+      "n": 4,
+      "text": "原锅留底油，下姜丝、蒜片与香菇片炒香，倒入虾仁快炒至变色。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "虾仁先炒到变色就行，久炒会缩成小硬球。",
+      "visual_cue": "虾仁卷曲变粉红，香菇出香"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、米酒与小半碗清水烧开，铺回煎好的豆腐，小火焖六分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "豆腐铺上去后只推锅不翻动，靠汤汁浸透才保持整片。",
+      "visual_cue": "汤汁微沸没过豆腐一半，颜色转深"
+    },
+    {
+      "n": 6,
+      "text": "淀粉调水勾薄芡，撒盐、白胡椒与葱段，轻轻推匀后出锅。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "芡要薄，徽菜讲究汁浓挂身而不糊嘴。",
+      "visual_cue": "汤汁浓亮挂勺，豆腐油润饱满"
+    }
+  ],
+  "tips": [
+    "豆腐用老豆腐，嫩豆腐一煎就散，撑不住这道菜的火候。",
+    "虾仁用河虾现剥的更鲜，冰冻虾仁须彻底解冻并吸干水。",
+    "加一勺火腿末同烧，鲜味厚一层，是徽州的老做法。"
+  ],
+  "common_mistakes": [
+    "豆腐不吸干水就下锅，油花四溅还粘得满锅都是。",
+    "虾仁和豆腐一起久烧，虾缩成硬球，豆腐也散了。",
+    "大火猛烧，汤汁烧干，豆腐外面咸里面还是白的。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "河虾",
+      "ratio": "150克:200克",
+      "note": "河虾带壳更鲜，须剪去虾枪再炒。"
+    },
+    {
+      "original": "老豆腐",
+      "substitute": "豆腐皮",
+      "ratio": "400克:200克",
+      "note": "豆腐皮吸汁快，焖的时间减两分钟。"
+    }
+  ],
+  "variations": [
+    "把虾仁换成火腿片，咸鲜更浓，是徽州宴席的做法。",
+    "加一把青豆同烧，颜色清爽，口感也多一层。"
+  ],
+  "serving_suggestion": "连汁浇在米饭上最香，作为家常主菜配一碟青菜正好。",
+  "storage": "冷藏可存两天，复热须加两勺水小火焖三分钟，微波会令豆腐发硬。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 355,
+    "protein_g": 26,
+    "fat_g": 24,
+    "carbs_g": 10,
+    "sodium_mg": 830,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "虾仁与豆腐须彻底烧熟，虾仁须完全变色卷曲后再食用。",
+    "煎豆腐时油温较高，豆腐须吸干水分并沿锅边滑入，避免油花爆溅烫伤。",
+    "香菇等菌菇类食材须彻底加热熟透后再食用，不要生食或半生食用。"
+  ],
+  "origin_note": "虾仁烧豆腐是徽州人家的家常主菜，一碟豆腐也能做出宴客的体面。徽菜重火功，豆腐先煎出硬壳，再用虾仁与香菇的鲜味去烧，出锅时汁浓油亮。山里人说豆腐本无味，全靠汤来养，汤好豆腐就好。",
+  "tags": [
+    "徽菜",
+    "豆腐",
+    "虾仁",
+    "家常"
+  ],
+  "related_ids": [
+    "anhui-sunpian-jian-doufu",
+    "huizhou-yancai-shao-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

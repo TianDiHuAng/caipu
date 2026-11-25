@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-larou-men-fan",
+  "name": {
+    "zh": "腊肉焖饭",
+    "en": "Rice Cooked with Cured Pork",
+    "original": "腊肉焖饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 46,
+    "total_min": 81
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 450,
+          "unit": "g",
+          "note": "生米约两百克，淘净沥干",
+          "optional": false
+        },
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 180,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡发切丁",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "切段，最后放",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 6,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸腊肉用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 18,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "中和咸味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "刀",
+    "砧板",
+    "饭勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "米粒淘洗两遍后加清水浸泡二十分钟，捞出沥干水分，这样煮出来更易吸味。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡过的米煮出来更饱满，也不容易夹生。",
+      "visual_cue": "米粒发白膨胀，手指能捻断"
+    },
+    {
+      "n": 2,
+      "text": "腊肉切小丁，笋切同样大小的丁，香菇切丁，青菜洗净切段。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "丁切小一点，和米粒一起焖才同时熟。",
+      "visual_cue": "各料丁块大小接近，约半厘米见方"
+    },
+    {
+      "n": 3,
+      "text": "砂锅倒植物油，下腊肉丁小火煸五分钟至出油微黄。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "腊肉先煸出油再下米，那一层烟熏的荤香才会渗进每一粒饭里。",
+      "visual_cue": "肉丁透明微卷，锅底渗出清油"
+    },
+    {
+      "n": 4,
+      "text": "下姜末、香菇丁与笋丁炒香，烹入米酒，加生抽与白糖翻匀。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "笋丁先炒过一遍再焖，口感才会脆爽，否则在锅里会出一包水。",
+      "visual_cue": "配料油亮出香，锅底见酱色"
+    },
+    {
+      "n": 5,
+      "text": "倒入沥干的米粒翻炒一分钟，加清水没过米面一厘米，大火烧开。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "水要比平常煮饭略少一些，腊肉和笋丁在焖的过程中还会不断出水。",
+      "visual_cue": "米粒油亮裹色，水面刚好盖过米"
+    },
+    {
+      "n": 6,
+      "text": "转最小火加盖焖二十五分钟，中途不要开盖，最后五分钟铺上青菜段焖熟。",
+      "time_min": 27,
+      "heat": "小火",
+      "tip": "整个过程千万不要开盖，蒸汽一跑光，底下的米就会夹生。",
+      "visual_cue": "锅边冒小泡，能闻到米饭焦香"
+    },
+    {
+      "n": 7,
+      "text": "关火焖十分钟，开盖撒葱花，用饭勺从锅底翻拌均匀即可。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "关火再焖十分钟，锅底一层锅巴最香。",
+      "visual_cue": "米粒分明油润，锅底结出金黄锅巴"
+    }
+  ],
+  "tips": [
+    "用砂锅焖比电饭锅更香，锅底结出的那层锅巴才是整锅饭的灵魂所在。",
+    "腊肉的咸淡差别很大，生抽和盐都要先尝过味道再决定放多少。",
+    "青菜最后五分钟放，才不会焖成黄叶。"
+  ],
+  "common_mistakes": [
+    "米不泡直接焖，外软内硬，一口咬到生米。",
+    "水加太多，焖成了稀饭，米粒全糊在一起。",
+    "中途反复开盖查看，蒸汽跑光，饭夹生。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肉",
+      "substitute": "咸肉",
+      "ratio": "180克:180克",
+      "note": "咸肉更咸，须先泡两小时再切。"
+    },
+    {
+      "original": "笋",
+      "substitute": "茭白",
+      "ratio": "150克:150克",
+      "note": "茭白水分多，焖饭的水要减两勺。"
+    }
+  ],
+  "variations": [
+    "加几颗栗子同焖，粉糯香甜，是秋冬季的时令版本。",
+    "把腊肉换成腊肠，甜咸交错，孩子更爱吃。"
+  ],
+  "serving_suggestion": "整锅上桌，配一碟腌菜或清汤，就是徽州人的一顿饭。",
+  "storage": "冷藏可存两天，复热须加一勺水小火焖五分钟。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 720,
+    "protein_g": 26,
+    "fat_g": 30,
+    "carbs_g": 85,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "腊肉与米饭须彻底焖熟，米粒中心无硬芯，腊肉须加热至肥肉透明。",
+    "砂锅离火后余温很高，取锅须垫厚布，避免烫伤。",
+    "香菇等菌菇类食材须彻底加热熟透后再食用，不要生食或半生食用。"
+  ],
+  "origin_note": "腊肉焖饭是徽州冬天最踏实的一锅饭，腊肉、笋丁、香菇和米一起焖，锅盖一掀满屋都是烟熏香。山里人做饭图省柴火，一锅焖到底，饭菜同熟。老一辈说最香的是锅底那层锅巴，铲下来嘎吱响，比什么菜都下饭。",
+  "tags": [
+    "徽菜",
+    "主食",
+    "腊肉",
+    "焖饭"
+  ],
+  "related_ids": [
+    "huizhou-gancai-fan",
+    "anhui-suanmiao-chao-larou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

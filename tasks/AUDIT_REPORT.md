@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T16:49:46.279Z
+- 生成时间：2026-11-25T17:04:16.277Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 121 道，平均分 99
 - 需重写（C/D）：0 道
@@ -22,9 +22,9 @@
 | american | american-peach-cobbler | 100 | A | 无 |
 | american | american-waldorf-salad | 100 | A | 无 |
 | american-south | southern-fried-chicken | 100 | A | 无 |
-| anhui | huizhou-baolu-guo | 93 | A | 准确性 18/25 |
-| anhui | anhui-huangshan-shao-sun | 94 | A | 安全性 14/20 |
-| anhui | huizhou-shaobing | 100 | A | 无 |
+| anhui | huizhou-meigancai-shao-doujiao | 100 | A | 无 |
+| anhui | anhui-hongshao-jiyu | 100 | A | 无 |
+| anhui | chou-guiyu | 100 | A | 无 |
 | argentinian | argentinian-chimichurri-steak | 100 | A | 无 |
 | australian | australian-avocado-toast | 100 | A | 无 |
 | beijing | beijing-sanbuzhan | 100 | A | 无 |
