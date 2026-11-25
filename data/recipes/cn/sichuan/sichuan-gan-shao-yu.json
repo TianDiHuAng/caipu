@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-gan-shao-yu",
+  "name": {
+    "zh": "干烧鱼",
+    "en": "Dry-Braised Crucian Carp",
+    "original": "干燒魚"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 14,
+    "cook_min": 28,
+    "total_min": 42
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "spicy",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲫鱼",
+          "name_en": "crucian carp",
+          "amount": 600,
+          "unit": "g",
+          "note": "两条，去鳞去内脏洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 80,
+          "unit": "g",
+          "note": "肥瘦三七，增香提鲜",
+          "optional": false
+        },
+        {
+          "name": "芽菜",
+          "name_en": "preserved mustard sprout",
+          "amount": 30,
+          "unit": "g",
+          "note": "宜宾碎米芽菜，挤干",
+          "optional": false
+        },
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 25,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "泡椒",
+          "name_en": "pickled chili",
+          "amount": 25,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "中和咸辣",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 5,
+          "unit": "ml",
+          "note": "出锅前提香",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 90,
+          "unit": "ml",
+          "note": "煎鱼与炒料分两次用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "腌鱼去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "锅铲",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲫鱼去鳞去内脏刮净黑膜，两面各划三刀，用料酒和盐抹匀腌十分钟，再用厨房纸吸干表面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "鱼身必须擦干，带水下锅必粘锅破皮，油还会飞溅伤人。",
+      "visual_cue": "鱼身干爽无水分，刀口整齐外翻。"
+    },
+    {
+      "n": 2,
+      "text": "炒锅烧热放六十毫升植物油滑锅，提着鱼尾把鲫鱼贴锅放入，中火煎到两面金黄定型后盛出。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "下锅后先别翻动，等一面结壳变硬再翻才不破皮。",
+      "visual_cue": "鱼皮金黄完整，边缘微焦起泡。"
+    },
+    {
+      "n": 3,
+      "text": "锅内补三十毫升植物油，下猪肉末炒散出油，加豆瓣酱和泡椒碎小火炒出红油，再放姜末蒜末和芽菜煸香。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "豆瓣酱必须小火慢炒，火大立刻发苦，红油也出不来。",
+      "visual_cue": "锅底红油透亮，肉末酥香散开。"
+    },
+    {
+      "n": 4,
+      "text": "把煎好的鲫鱼放回锅中，加生抽、白糖和清水没过鱼身一半，烧开后转小火加盖焖十五分钟。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "中途用勺舀汤汁浇鱼身，不必翻面，鱼形才完整。",
+      "visual_cue": "汤汁浓稠挂勺，鱼身微微颤动。"
+    },
+    {
+      "n": 5,
+      "text": "开盖转大火收汁，边收边浇汁到汤汁见油不见水，淋香醋撒葱花即可出锅。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "收汁到油红汁干才算干烧，汤汁太多就失去风味。",
+      "visual_cue": "鱼身油亮红润，盘底几乎无汤汁。"
+    }
+  ],
+  "tips": [
+    "鱼身擦干再煎，是不破皮的关键所在。",
+    "豆瓣酱小火炒出红油，整道菜才够川味。",
+    "收汁到最后见油不见水，才算真正的干烧。"
+  ],
+  "common_mistakes": [
+    "鱼带水下锅，热油飞溅而且粘锅破皮。",
+    "全程大火收汁，鱼皮焦黑酱汁发苦。",
+    "汤汁没收干就出锅，吃着像炖鱼不像干烧。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲫鱼",
+      "substitute": "鲈鱼",
+      "ratio": "600克:600克",
+      "note": "鲈鱼刺少肉厚，煎制时间延长两分钟，焖煮缩短到十二分钟。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "五花肉",
+      "ratio": "80克:80克",
+      "note": "五花肉切小粒煸出油，颗粒感更强，油量可减十毫升。"
+    }
+  ],
+  "variations": [
+    "有的家庭加几段蒜苗同烧，辛香更足。",
+    "乐山做法会加一勺醪糟汁，回甜更明显。"
+  ],
+  "serving_suggestion": "鱼整条上桌，把锅里的肉末芽菜酱汁浇在鱼身上，配米饭最下饭。",
+  "storage": "冷藏可存一日，回锅加两勺清水小火焖三分钟；鱼肉久放易柴，建议当餐吃完。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 420,
+    "protein_g": 38,
+    "fat_g": 24,
+    "carbs_g": 10,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鲫鱼须去净内脏和黑膜，煎焖后彻底加热至熟透，鱼肉中心应完全变白不透明。",
+    "鱼刺细密，老人和儿童食用时须仔细剔除，避免卡喉。"
+  ],
+  "origin_note": "干烧鱼是川菜里最考验火候的一道鱼，鲫鱼煎到两面金黄，再用猪肉末、豆瓣酱和芽菜炒出的红油慢焖，最后大火收汁到见油不见水，鱼肉吸足了咸鲜微辣，鱼形完整、酱汁裹身，一筷下去连皮带肉都是浓香。",
+  "tags": [
+    "川菜",
+    "水产",
+    "家常菜",
+    "宴客菜"
+  ],
+  "related_ids": [
+    "douban-yu",
+    "sichuan-paojiao-yupian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
