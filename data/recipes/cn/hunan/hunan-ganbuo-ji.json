@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-ganbuo-ji",
+  "name": {
+    "zh": "湘菜干锅鸡",
+    "en": "Hunan Dry Pot Chicken",
+    "original": "干锅鸡"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 32,
+    "cook_min": 35,
+    "total_min": 67
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 800,
+          "unit": "g",
+          "note": "斩小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "豆腐干",
+          "name_en": "dried tofu",
+          "amount": 150,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "泡椒",
+          "name_en": "pickled chili",
+          "amount": 40,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "干锅或砂锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉斩成小块，加料酒与少许盐抓匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "块切小一点，干锅才入味快。",
+      "visual_cue": "鸡块表面泛光，腌料吸尽。"
+    },
+    {
+      "n": 2,
+      "text": "土豆去皮切粗条，泡清水五分钟洗去表面淀粉。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "洗掉淀粉，土豆条炒时不粘锅。",
+      "visual_cue": "水变浑浊，土豆条脆硬。"
+    },
+    {
+      "n": 3,
+      "text": "锅里倒花生油，土豆条中火煎到四面金黄盛出。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "土豆先煎定型，后面焖才不会烂。",
+      "visual_cue": "土豆条边缘金黄起壳。"
+    },
+    {
+      "n": 4,
+      "text": "原锅下鸡块，大火煸炒到表面金黄、鸡皮出油。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "干锅讲究干香，鸡块要煸到位。",
+      "visual_cue": "鸡块紧缩，锅里有明油。"
+    },
+    {
+      "n": 5,
+      "text": "放姜蒜、干辣椒、花椒与泡椒炒香，加生抽翻匀。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "泡椒自带咸酸，盐要少放。",
+      "visual_cue": "红油渗出，香味冲鼻。"
+    },
+    {
+      "n": 6,
+      "text": "倒回土豆条与豆腐干，加清水焖八分钟收干。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "水别多，收干后才是干锅的样子。",
+      "visual_cue": "汤汁基本收干，锅底吱吱响。"
+    },
+    {
+      "n": 7,
+      "text": "放青椒与蒜苗大火翻炒半分钟，加盐调味出锅装锅。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "蒜苗最后下，断生就好，香气足。",
+      "visual_cue": "蒜苗翠绿，青椒微皱。"
+    }
+  ],
+  "tips": [
+    "干锅要用厚底锅，受热均匀不容易糊。",
+    "土豆先煎后焖，外酥里粉，比直接焖好吃。",
+    "家里做可以盛到砂锅里上桌，保温效果更好。"
+  ],
+  "common_mistakes": [
+    "鸡块先焯水再煸，水分太多煸不香。",
+    "一路大火不收汁，最后变成一锅汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅",
+      "ratio": "800g 对 800g",
+      "note": "鸡翅斩半，焖的时间缩短两分钟。"
+    }
+  ],
+  "variations": [
+    "加一把藕片同炒，脆口解辣，是长沙干锅店的常见搭配。"
+  ],
+  "serving_suggestion": "装干锅或砂锅上桌，边加热边吃，配米饭。",
+  "storage": "冷藏两天，复热时加一勺水盖盖焖三分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 400g",
+    "calories_kcal": 450,
+    "protein_g": 32,
+    "fat_g": 26,
+    "carbs_g": 22,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炒至完全熟透，中心温度达到 74℃ 以上。",
+    "干锅离火后锅体仍高温，上桌须垫隔热垫。",
+    "泡椒与豆瓣类调料含盐高，高血压人群减量。"
+  ],
+  "origin_note": "干锅鸡是湘菜馆里的常客，鸡块煸到干香，配土豆、豆腐干与蒜苗，一锅端上桌边加热边吃，越吃越辣、越辣越香。",
+  "tags": [
+    "湘菜",
+    "禽类",
+    "干锅",
+    "下饭"
+  ],
+  "related_ids": [
+    "ganguo-chashugu",
+    "hunan-mala-ziji",
+    "hunan-lajiao-chao-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

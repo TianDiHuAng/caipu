@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T04:26:02.350Z
+- 生成时间：2026-11-25T04:54:01.295Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 111 道，平均分 99
 - 需重写（C/D）：0 道
@@ -80,8 +80,8 @@
 | mediterranean | mediterranean-baked-cod | 94 | A | 安全性 14/20 |
 | mediterranean | mediterranean-toum | 100 | A | 无 |
 | mexican | agua-fresca | 97 | A | 完整性 22/25 |
+| mexican | mexican-fideo-seco | 100 | A | 无 |
 | mexican | mexican-elote-cup | 100 | A | 无 |
-| mexican | mexican-cochinita-pibil | 100 | A | 无 |
 | middle-eastern | middle-eastern-basbousa | 100 | A | 无 |
 | mongolian | mongolian-tsuivan | 100 | A | 无 |
 | nordic | nordic-oat-porridge | 100 | A | 无 |
@@ -94,8 +94,8 @@
 | portuguese | portuguese-caldo-verde | 100 | A | 无 |
 | russian | russian-ukha | 100 | A | 无 |
 | russian | russian-plov | 100 | A | 无 |
-| shandong | naitang-jiyu | 94 | A | 安全性 14/20 |
-| shandong | youmen-daxia | 100 | A | 无 |
+| shandong | youbao-shuangcui | 93 | A | 准确性 18/25 |
+| shandong | shandong-bingtang-zhouzi | 100 | A | 无 |
 | shandong | baochao-yaohua | 100 | A | 无 |
 | shanghai | shanghai-egg-dumpling | 100 | A | 无 |
 | sichuan | sichuan-xuehua-jinao | 93 | A | 准确性 18/25 |

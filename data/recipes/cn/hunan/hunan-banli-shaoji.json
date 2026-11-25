@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-banli-shaoji",
+  "name": {
+    "zh": "湘菜板栗烧鸡",
+    "en": "Hunan Braised Chicken with Chestnuts",
+    "original": "板栗烧鸡"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 70,
+    "total_min": 95
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 800,
+          "unit": "g",
+          "note": "斩块",
+          "optional": false
+        },
+        {
+          "name": "栗子",
+          "name_en": "chestnut",
+          "amount": 300,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉斩成三厘米块，冷水下锅加料酒焯水，撇沫后捞出冲净。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "焯水去腥，鸡块表面收紧再烧更香。",
+      "visual_cue": "鸡块发白，浮沫撇净。"
+    },
+    {
+      "n": 2,
+      "text": "栗子去壳后用开水烫五分钟，剥去内层薄皮。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "烫过再剥，那层薄膜一搓就掉。",
+      "visual_cue": "栗子仁金黄完整。"
+    },
+    {
+      "n": 3,
+      "text": "锅里倒花生油，下姜片、八角与干辣椒小火煸香。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "香料别炒糊，微微冒香就够。",
+      "visual_cue": "姜片微卷，香味浮起。"
+    },
+    {
+      "n": 4,
+      "text": "倒入鸡块用大火翻炒到表面微黄，沿锅边烹入料酒去腥。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "鸡块炒到出油，成菜才香不腥。",
+      "visual_cue": "鸡皮卷起，锅底见油。"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽与冰糖翻匀，加热水没过鸡块，放葱结煮开。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "水一次加足，中途添水会冲淡味道。",
+      "visual_cue": "汤汁酱红，鸡块上色均匀。"
+    },
+    {
+      "n": 6,
+      "text": "转小火炖二十分钟，再下栗子继续炖十五分钟。",
+      "time_min": 37,
+      "heat": "小火",
+      "tip": "栗子后放，久炖会散成泥。",
+      "visual_cue": "栗子软糯，鸡块酥嫩。"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味，转大火收汁到浓稠，撒葱花装盘。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "收汁时勤翻动，糖分容易糊底。",
+      "visual_cue": "汤汁挂勺，栗子油亮。"
+    }
+  ],
+  "tips": [
+    "板栗选个头均匀的油栗，粉糯不散。",
+    "鸡用土鸡更香，老母鸡要炖足一小时。",
+    "栗子可以先过油再炖，形状更完整。"
+  ],
+  "common_mistakes": [
+    "栗子和鸡一起下锅，炖完只剩鸡块，栗子全化。",
+    "冰糖炒过头变焦糖色，味道发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "栗子",
+      "substitute": "芋头",
+      "ratio": "300g 对 350g",
+      "note": "芋头版汤汁更稠，炖的时间缩短五分钟。"
+    }
+  ],
+  "variations": [
+    "湘中一带会加几片腊肉同烧，油脂渗进栗子里，香得更彻底。"
+  ],
+  "serving_suggestion": "连汁带料装盘，配米饭，栗子最抢手。",
+  "storage": "冷藏两天，复热时加少量热水，栗子会略散。",
+  "nutrition_estimate": {
+    "basis": "每份约 380g",
+    "calories_kcal": 430,
+    "protein_g": 30,
+    "fat_g": 20,
+    "carbs_g": 32,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy",
+    "tree-nut"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炖至完全熟透，中心温度达到 74℃ 以上。",
+    "栗子含淀粉较多，一次不宜过量食用，避免腹胀。",
+    "生鸡肉处理后须清洗刀板，避免与其他食材交叉污染。"
+  ],
+  "origin_note": "板栗烧鸡是湖南秋天的家常菜，新收的板栗与土鸡同烧，汤汁收到浓稠，栗子粉糯、鸡肉酥香，一锅能下两碗饭。",
+  "tags": [
+    "湘菜",
+    "禽类",
+    "板栗",
+    "家常"
+  ],
+  "related_ids": [
+    "dong-an-ji",
+    "hunan-zhijiang-ya",
+    "hunan-ganbuo-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
