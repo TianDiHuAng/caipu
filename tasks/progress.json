@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:32:31.312Z",
+  "generatedAt": "2026-11-25T17:45:09.570Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 652,
     "target": 3274,
-    "actual": 2215,
-    "coverage": 0.6765424557116677
+    "actual": 2222,
+    "coverage": 0.6786805131337813
   },
   "regions": {
     "cn": [
@@ -2937,26 +2937,30 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 15,
+        "actual": 22,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 5,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "tibetan-beef-potato-stew",
               "tibetan-momo",
+              "tibetan-niurou-chao-qincai",
               "tibetan-sha-phaley",
-              "tibetan-shapta"
+              "tibetan-shapta",
+              "tibetan-shouzhua-niurou"
             ]
           },
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 5,
-            "actual": 4,
+            "actual": 6,
             "ids": [
+              "tibetan-balep",
+              "tibetan-khapse",
               "tibetan-momo",
               "tibetan-sha-phaley",
               "tibetan-tingmo",
@@ -2967,10 +2971,12 @@
             "category": "soup",
             "kind": "core",
             "target": 5,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "tibetan-guthuk",
-              "tibetan-thukpa"
+              "tibetan-niurou-qingtang",
+              "tibetan-thukpa",
+              "tibetan-tsamthuk"
             ]
           },
           {
@@ -2986,8 +2992,9 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 5,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "tibetan-chao-mianpian",
               "tibetan-guthuk",
               "tibetan-thenthuk",
               "tibetan-thukpa"

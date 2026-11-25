@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-25T17:32:31.382Z
+> 生成时间：2026-11-25T17:45:09.637Z
 
-**总览**：工程任务 49/53；菜谱内容 2215/3274（67.7%），共 652 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2222/3274（67.9%），共 652 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（976/1339）
+### 中国菜系（983/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，132/107</summary>
 
@@ -404,13 +404,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>藏餐 tibetan</b> — C 级，15/25</summary>
+<details><summary><b>藏餐 tibetan</b> — C 级，22/25</summary>
 
-- [ ] `P4-tibetan/main-meat` 主菜·肉（Meat Main）目标 5，已完成 4
-- [ ] `P4-tibetan/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 4
-- [ ] `P4-tibetan/soup` 汤羹（Soup）目标 5，已完成 2
+- [x] `P4-tibetan/main-meat` 主菜·肉（Meat Main）目标 5，已完成 6
+- [x] `P4-tibetan/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 6
+- [ ] `P4-tibetan/soup` 汤羹（Soup）目标 5，已完成 4
 - [ ] `P4-tibetan/drink` 饮品（Drink）目标 5，已完成 1
-- [ ] `P4-tibetan/staple-noodle` 主食·面（Noodle Dish）目标 5，已完成 3
+- [ ] `P4-tibetan/staple-noodle` 主食·面（Noodle Dish）目标 5，已完成 4
 - [x] `P4-tibetan/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1
 
 </details>
