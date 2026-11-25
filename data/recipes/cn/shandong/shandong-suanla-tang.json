@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-suanla-tang",
+  "name": {
+    "zh": "酸辣汤",
+    "en": "Hot and Sour Soup",
+    "original": "酸辣湯"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 250,
+          "unit": "g",
+          "note": "切细条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 30,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "出酸",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "出辣",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "起锅增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "木耳用温水泡发三十分钟，洗净泥沙后切成细丝，嫩豆腐也切成同粗的条。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "木耳根部硬蒂要掐掉，藏在丝里最影响口感。",
+      "visual_cue": "木耳丝乌黑透亮，豆腐条齐整不断"
+    },
+    {
+      "n": 2,
+      "text": "鸡汤倒进汤锅大火烧开，下木耳丝煮三分钟，再放豆腐条轻推散开。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "豆腐下锅后用勺背推，别用勺沿翻，容易碎。",
+      "visual_cue": "汤面微沸，豆腐条完整浮起"
+    },
+    {
+      "n": 3,
+      "text": "玉米淀粉加三勺清水调匀，慢慢淋进汤里边淋边搅，把汤收到微稠。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "淀粉水要现调现用，放久了沉底结块。",
+      "visual_cue": "汤色透亮挂勺，表面无白色粉粒"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋打散后沿汤面绕圈淋入，静置十秒再轻轻推开，形成薄蛋花。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "淋蛋液时火要小，汤滚太猛蛋花全成碎末。",
+      "visual_cue": "蛋花成大片飘浮，薄而不散不断"
+    },
+    {
+      "n": 5,
+      "text": "加生抽和盐调味，关火后再倒陈醋、撒白胡椒粉，搅匀后尝一下咸酸。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "醋一定关火后放，滚汤里煮过酸味就飞了。",
+      "visual_cue": "汤色酱红透亮，酸香冲鼻"
+    },
+    {
+      "n": 6,
+      "text": "盛碗后撒上香菜末和小葱末，最后淋一圈芝麻油上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "香菜要在最后撒，热气一闷香味正好。",
+      "visual_cue": "碗面浮着翠绿香菜和一圈油光"
+    }
+  ],
+  "tips": [
+    "胡椒要用现磨白胡椒，粉状久放的胡椒只剩辣不见香。",
+    "酸辣比例按三比一调，先定酸再补辣，尝着顺口为准。",
+    "勾芡宁薄不宁厚，稠成糊就失去了汤的清爽。"
+  ],
+  "common_mistakes": [
+    "醋和胡椒一起下锅久煮，酸味挥发、辣味发闷，只剩咸。",
+    "蛋液倒进翻滚的汤里，蛋花碎成絮状，卖相全无。",
+    "淀粉一次倒完，汤结成团，怎么搅都有疙瘩。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡汤",
+      "substitute": "清水",
+      "ratio": "800毫升:800毫升",
+      "note": "清水版本加两克盐和一勺生抽补底味。"
+    },
+    {
+      "original": "嫩豆腐",
+      "substitute": "北豆腐",
+      "ratio": "250克:250克",
+      "note": "北豆腐更结实，切条不易碎，口感略粗。"
+    }
+  ],
+  "variations": [
+    "加五十克熟鸡丝同煮，鲜味更足，接近老式三鲜酸辣汤。",
+    "喜欢更辣可另配一小碟辣椒油，随个人口味加。"
+  ],
+  "serving_suggestion": "趁热盛进汤碗，先喝一口汤再拌开香菜，配油条或烧饼当早餐最合适。",
+  "storage": "冷藏可存一天，复热时补少量清水和几滴陈醋；勾过芡的汤不宜久放，容易澥汤。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 150,
+    "protein_g": 10,
+    "fat_g": 7,
+    "carbs_g": 11,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "汤中含鸡蛋，须淋入沸汤并煮至蛋花完全凝固，不要生食。",
+    "木耳须充分泡发并洗净，泡发超过四小时的木耳建议弃用。"
+  ],
+  "origin_note": "酸辣汤在山东是家常醒胃汤，讲究酸出头、辣收口、汤清不糊。老做法用鸡汤打底，豆腐木耳定形，最后靠陈醋和白胡椒定调，关火下醋是铁律。济南人早饭爱拿它配油条，一口下去额头冒汗，浑身都松快。",
+  "tags": [
+    "鲁菜",
+    "汤羹",
+    "酸辣",
+    "豆腐"
+  ],
+  "related_ids": [
+    "shandong-sanxian-tang",
+    "shandong-chengzi-doufu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

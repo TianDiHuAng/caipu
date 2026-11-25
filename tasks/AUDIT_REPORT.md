@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T14:42:52.436Z
+- 生成时间：2026-11-25T14:52:20.020Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 118 道，平均分 98
 - 需重写（C/D）：0 道
@@ -96,11 +96,11 @@
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | russian-medovik | 100 | A | 无 |
 | russian | russian-vatrushka | 100 | A | 无 |
+| shandong | pa-yuanke-baoyu | 93 | A | 准确性 18/25 |
 | shandong | shandong-surou | 93 | A | 准确性 18/25 |
-| shandong | naitang-jiyu | 94 | A | 安全性 14/20 |
 | shandong | bazi-rou | 100 | A | 无 |
-| shandong | shandong-doupi-bocai | 100 | A | 无 |
-| shandong | shandong-lizi-shaoji | 100 | A | 无 |
+| shandong | shandong-fanqie-jidan-mian | 100 | A | 无 |
+| shandong | shandong-naitang-baicai | 100 | A | 无 |
 | shanghai | shanghai-smoked-fish | 100 | A | 无 |
 | sichuan | shuizhu-yu | 93 | A | 准确性 18/25 |
 | sichuan | suanla-tang | 100 | A | 无 |
