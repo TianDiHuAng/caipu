@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-hongshao-bayu",
+  "name": {
+    "zh": "红烧鲅鱼",
+    "en": "Braised Spanish Mackerel",
+    "original": "紅燒鮁魚"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 32,
+    "total_min": 57
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲅鱼",
+          "name_en": "spanish mackerel",
+          "amount": 700,
+          "unit": "g",
+          "note": "切三厘米厚段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "加深颜色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍扁",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎鱼用油",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炖煮汤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲅鱼刮净鱼身黑膜冲净血水，切成三厘米厚的斜段，用厨房纸吸干表面水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "黑膜和血水是腥味来源，刮干净再煎，成品才不腥。",
+      "visual_cue": "鱼段表面干爽，断面切得整齐平整"
+    },
+    {
+      "n": 2,
+      "text": "鱼段两面薄薄撒一层盐，淋上料酒抹匀，静置腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌过的鱼皮更紧，煎的时候不容易破皮粘锅。",
+      "visual_cue": "鱼皮微微收紧，表面泛光"
+    },
+    {
+      "n": 3,
+      "text": "花生油烧到七成热，下鱼段中火煎到两面金黄，盛出备用。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "下锅后先别动，等底面结壳再用铲子推，鱼就不散。",
+      "visual_cue": "鱼皮金黄完整，锅底不粘"
+    },
+    {
+      "n": 4,
+      "text": "原锅留底油，下大葱段、姜片、大蒜和八角炒香，加生抽、老抽、白糖和香醋。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料炒出香味再添液体，汤汁才有底味。",
+      "visual_cue": "葱姜边缘微黄，酱香扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "倒入高汤烧开，放回鱼段，保持汤面微沸炖二十分钟，中途浇两次汤。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "不要用铲子翻鱼，端起锅晃一晃就行，翻动必散。",
+      "visual_cue": "汤汁收浓一半，鱼段完整"
+    },
+    {
+      "n": 6,
+      "text": "开大火收汁到能挂在鱼身上，撒葱段起锅装盘。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "收汁时一手晃锅一手浇汁，鱼段才不会糊底。",
+      "visual_cue": "汁色红亮浓稠，挂满鱼身"
+    }
+  ],
+  "tips": [
+    "鲅鱼肉厚，切段比整条更容易入味，也方便翻动。",
+    "煎鱼前把锅烧到冒烟再下油，鱼皮才不粘。",
+    "香醋只需一点，作用是去腥，多了会让鱼肉发柴。"
+  ],
+  "common_mistakes": [
+    "鱼段带水下锅，油花四溅还粘掉整层鱼皮。",
+    "中途用铲子翻鱼，鱼段碎成几块，卖相全无。",
+    "大火滚炖半小时，鱼肉纤维散开，汤汁浑浊发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲅鱼",
+      "substitute": "带鱼",
+      "ratio": "700克:700克",
+      "note": "带鱼同样切段红烧，炖的时间缩短到十五分钟。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "300毫升:300毫升",
+      "note": "没有高汤用清水加两片姜，鲜味略淡。"
+    }
+  ],
+  "variations": [
+    "加一把泡软的粉条同炖，粉条吸饱鱼汁非常下饭。",
+    "喜欢辣味可加三个干辣椒同炒，出锅前挑出。"
+  ],
+  "serving_suggestion": "整盘端上桌，把浓汁浇在鱼段上，配米饭或玉米面饼子，山东沿海人家最常这样吃。",
+  "storage": "冷藏可存两天，复热时加少量高汤小火㸆透；不建议反复加热，鱼肉会散。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 380,
+    "protein_g": 38,
+    "fat_g": 20,
+    "carbs_g": 9,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鲅鱼须炖至鱼肉中心完全变白、能整片剥离鱼骨，中心温度七十度以上；鱼刺较多，给儿童食用前先去刺。",
+    "煎鱼时油温高易溅油，鱼段须吸干水分再下锅。"
+  ],
+  "origin_note": "鲅鱼是山东沿海最家常的海鱼，肉质紧实少刺。烟台、威海一带惯用红烧：鱼段煎到金黄，用葱姜八角爆香，添高汤小火㸆上二十分钟，最后大火收汁。成菜酱色红亮、鱼肉成蒜瓣状，一筷子夹起来还带着颤。",
+  "tags": [
+    "鲁菜",
+    "海鲜",
+    "鲅鱼",
+    "红烧"
+  ],
+  "related_ids": [
+    "tangcu-liyu",
+    "shandong-ganjian-daiyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

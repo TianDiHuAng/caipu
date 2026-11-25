@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:36:07.519Z",
+  "generatedAt": "2026-11-25T14:39:16.898Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2098,
-    "coverage": 0.6408063530849114
+    "actual": 2104,
+    "coverage": 0.6426389737324374
   },
   "regions": {
     "cn": [
@@ -287,20 +287,23 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 98,
+        "actual": 104,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 14,
             "ids": [
               "congshao-haishen",
               "fanqie-daxia",
               "jiaodong-bayu-jiaozi",
+              "shandong-baochao-youyu",
               "shandong-furong-ganbei",
               "shandong-ganjian-daiyu",
+              "shandong-hongshao-bayu",
               "shandong-ruanzha-xiaren",
+              "shandong-suzha-xiaohuangyu",
               "shandong-xiangsu-xia",
               "suanrong-shenghao",
               "tangcu-liyu",
@@ -312,7 +315,7 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "baochao-yaohua",
               "bazi-rou",
@@ -324,6 +327,7 @@
               "shandong-jingjiang-rousi",
               "shandong-sixi-wanzi",
               "shandong-surou",
+              "shandong-tanzi-rou",
               "shandong-yuanbao-lijisi",
               "tangcu-liji"
             ]
@@ -332,12 +336,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "cu-jiao-yutang",
               "jiyu-doufu-tang",
               "naitang-jiyu",
               "shandong-chengzi-doufu-tang",
+              "shandong-cuyuwan-tang",
               "shandong-donggua-haimi-tang",
               "shandong-haishen-tang",
               "shandong-naitang-baicai",
@@ -471,12 +476,13 @@
             "category": "appetizer",
             "kind": "extra",
             "target": 0,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "majiang-huanggua",
               "shandong-ban-jisi",
               "shandong-doupi-bocai",
               "shandong-jiangzhi-oupian",
+              "shandong-laocu-huangsheng",
               "shandong-xiaocong-ban-doufu",
               "zha-ouhe"
             ]

@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-tanzi-rou",
+  "name": {
+    "zh": "坛子肉",
+    "en": "Shandong Clay Pot Braised Pork",
+    "original": "壇子肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 110,
+    "total_min": 130
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "带皮切四厘米方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段垫底",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 600,
+          "unit": "ml",
+          "note": "炖煮液体",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒糖色用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉连皮切成四厘米见方的块，冷水下锅加料酒和姜片，煮开后撇去浮沫再煮三分钟。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血水慢慢逼出来，热水下锅肉一紧就封住腥味。",
+      "visual_cue": "浮沫撇净，肉块表面收紧变色"
+    },
+    {
+      "n": 2,
+      "text": "捞出肉块用温水冲净浮沫，逐块擦干表面水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "用温水不用冷水，冷水一激肉皮会紧缩发硬。",
+      "visual_cue": "肉块表面干爽，皮面完整无破损"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下花生油和冰糖，小火慢慢炒到糖化开变枣红色，冒小泡时立刻下肉块翻炒上色。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "糖色一冒大泡就要下肉，晚了会发苦，早了颜色不够。",
+      "visual_cue": "糖汁枣红发亮，肉块均匀裹色"
+    },
+    {
+      "n": 4,
+      "text": "肉块转入砂锅，加生抽、老抽、盐、八角、桂皮、葱段，倒入高汤没过肉面。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "液体要一次加足，中途添汤会冲淡胶质，成品不黏唇。",
+      "visual_cue": "汤面高出肉块两指，颜色红亮"
+    },
+    {
+      "n": 5,
+      "text": "大火烧开后转最小火，盖盖慢炖一个半小时，中途翻动两次。",
+      "time_min": 90,
+      "heat": "小火",
+      "tip": "保持汤面只有零星小泡，滚猛了肉皮会散、汤也浑。",
+      "visual_cue": "肉皮软糯，筷子一插即透"
+    },
+    {
+      "n": 6,
+      "text": "开盖转中火收汁到汤汁浓稠挂勺，撒上葱段即可连砂锅端上桌。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "收汁时轻轻推锅底防粘，五花肉含糖多，很容易糊。",
+      "visual_cue": "汤汁浓稠红亮，能挂在肉块上"
+    }
+  ],
+  "tips": [
+    "选肥瘦三层分明的带皮五花，炖完才软糯不散。",
+    "糖色是坛子肉的魂，宁可浅一点也别炒糊。",
+    "砂锅比铁锅保温均匀，小火慢㸆出来的肉更糯。"
+  ],
+  "common_mistakes": [
+    "糖色炒过头变黑，整锅肉带一股焦苦味。",
+    "中途添冷水，肉皮骤缩，炖两小时还是发硬。",
+    "全程大火滚炖，肉块散成碎块，汤汁浑浊不清。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪蹄膀",
+      "ratio": "800克:800克",
+      "note": "换蹄膀胶质更足，炖制时间延长三十分钟。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "600毫升:600毫升",
+      "note": "用清水需补一勺生抽提鲜，风味略薄。"
+    }
+  ],
+  "variations": [
+    "加几个煮鸡蛋或百叶结同炖，吸足肉汁比肉还抢手。",
+    "喜欢酒香可把三分之一高汤换成花雕酒，香气更厚。"
+  ],
+  "serving_suggestion": "连砂锅端上桌，撒一把葱段，配米饭和一份爽口的醋溜白菜，是山东冬天最实在的一顿。",
+  "storage": "冷藏可存三天，凝固的浮油撇掉后复热；冷冻一个月，解冻后小火㸆透再吃。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 680,
+    "protein_g": 26,
+    "fat_g": 56,
+    "carbs_g": 10,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "五花肉须炖至肉皮软糯、中心完全熟透，中心温度七十五度以上；炒糖色温度极高，下肉时注意防溅。",
+    "剩菜两小时内冷藏，复热须整体滚透后再食用。"
+  ],
+  "origin_note": "坛子肉是鲁中农家过年的硬菜。早年没有冰箱，杀了年猪就把五花肉切块，炒过糖色装进陶坛，添高汤和香料封口，塞进灶膛余火里煨上小半天。肉在坛里慢慢㸆到软糯，揭盖那一刻酱香扑脸，连汤带肉能吃到正月十五。",
+  "tags": [
+    "鲁菜",
+    "肉类",
+    "五花肉",
+    "慢炖"
+  ],
+  "related_ids": [
+    "bazi-rou",
+    "shandong-bingtang-zhouzi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

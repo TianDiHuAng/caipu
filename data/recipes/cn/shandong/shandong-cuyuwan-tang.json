@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-cuyuwan-tang",
+  "name": {
+    "zh": "氽鱼丸汤",
+    "en": "Shandong Fish Ball Soup",
+    "original": "氽魚丸湯"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 20,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 500,
+          "unit": "g",
+          "note": "取净肉约三百克",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蛋清",
+          "name_en": "egg white",
+          "amount": 1,
+          "unit": "piece",
+          "note": "增加黏性",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "鱼泥上劲",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 900,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "取姜汁去腥",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段煮汤",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥提香",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段点缀",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "料理机",
+    "碗",
+    "漏勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去骨去皮，取净鱼肉切成小块，用清水漂洗两遍去掉血水，沥干。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "漂洗能洗掉鱼肉里的血水，鱼丸才白净不腥气。",
+      "visual_cue": "鱼肉发白，无血水渗出"
+    },
+    {
+      "n": 2,
+      "text": "鱼肉加姜汁、料酒、盐和蛋清放进料理机打成细腻的鱼泥，中途刮一次杯壁。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打两遍比一次打久更好，鱼泥细腻鱼丸才弹。",
+      "visual_cue": "鱼泥细腻发亮，看不见颗粒"
+    },
+    {
+      "n": 3,
+      "text": "鱼泥倒进碗里加玉米淀粉，顺着一个方向搅打上劲，摔打十几下让团更紧。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "一定要顺一个方向搅，来回搅会把上劲的胶质打散。",
+      "visual_cue": "鱼泥黏手能成团，不掉渣"
+    },
+    {
+      "n": 4,
+      "text": "高汤加葱段烧到微沸转小火，用虎口挤鱼泥、勺子舀成丸子逐个下锅。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "汤只能微沸，大滚会把没定型的鱼丸冲散。",
+      "visual_cue": "鱼丸全部浮起，外形圆润饱满"
+    },
+    {
+      "n": 5,
+      "text": "鱼丸全部浮起后再煮两分钟，撇去浮沫，加盐和白胡椒调味。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "撇净浮沫汤才清亮，浮沫留在汤里会有腥气和渣感。",
+      "visual_cue": "汤色清亮，鱼丸饱满白净"
+    },
+    {
+      "n": 6,
+      "text": "盛入白瓷汤碗，撒上小葱碎和香菜段，趁热端上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "葱花香菜最后撒，热气一激香气才出得来。",
+      "visual_cue": "汤面浮着翠绿葱末，鱼丸分布均匀"
+    }
+  ],
+  "tips": [
+    "鱼肉漂洗后一定要沥干，水多了鱼泥打不上劲，丸子会散。",
+    "挤丸子时手蘸点清水，鱼泥不粘手，形状也更圆。",
+    "鱼丸下锅后别搅动，端着锅晃一晃就够。"
+  ],
+  "common_mistakes": [
+    "鱼泥没上劲就挤丸子，下锅三十秒全散成鱼汤。",
+    "汤大滚着下鱼丸，丸子被冲得七零八落，汤也浑了。",
+    "鱼骨没剔干净，吃的时候一口下去全是小刺。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲈鱼",
+      "ratio": "500克:500克",
+      "note": "鲈鱼肉厚刺少，取肉更方便，口感更细。"
+    },
+    {
+      "original": "玉米淀粉",
+      "substitute": "红薯淀粉",
+      "ratio": "15克:12克",
+      "note": "红薯淀粉黏性大，用量要减，鱼丸更弹。"
+    }
+  ],
+  "variations": [
+    "汤里加几片冬瓜或一小把青菜同煮，更清爽。",
+    "鱼泥里拌入少许猪肥膘丁，鱼丸更滑更香。"
+  ],
+  "serving_suggestion": "用白瓷汤碗盛出，先舀汤再放鱼丸，撒葱花香菜，作为宴席中的清口汤最合适。",
+  "storage": "鱼丸生坯可冷冻一个月，汤现煮现喝；熟鱼丸冷藏一天内吃完，复热用汤小火煮透。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 190,
+    "protein_g": 26,
+    "fat_g": 6,
+    "carbs_g": 8,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "草鱼刺多，取肉时须用镊子拔净细刺；鱼丸须煮至全部浮起、中心完全变白熟透，中心温度七十度以上。",
+    "处理生鱼后须洗净刀具砧板，避免与其他食材交叉污染。"
+  ],
+  "origin_note": "鲁菜宴席讲究一汤压轴，氽鱼丸汤是最见手艺的一道清汤。取草鱼净肉漂洗去血，加蛋清和姜汁打成泥，搅上劲后挤成丸子下微沸的高汤。汤色清亮、鱼丸白净弹牙，喝一口只觉鲜，没有半点腥气，正合山东人「清汤见功夫」的说法。",
+  "tags": [
+    "鲁菜",
+    "汤品",
+    "草鱼",
+    "鱼丸"
+  ],
+  "related_ids": [
+    "shandong-hongshao-bayu",
+    "tangcu-liyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
