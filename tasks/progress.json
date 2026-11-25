@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:45:52.838Z",
+  "generatedAt": "2026-11-25T15:56:54.198Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2146,
-    "coverage": 0.6554673182651192
+    "actual": 2153,
+    "coverage": 0.6576053756872328
   },
   "regions": {
     "cn": [
@@ -293,7 +293,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 122,
+        "actual": 129,
         "cells": [
           {
             "category": "main-seafood",
@@ -386,10 +386,11 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "congshao-tijin",
               "pa-yuanke-baoyu",
+              "shandong-yipin-doufu",
               "sixi-wanzi",
               "youbao-shuangcui",
               "zhaoliu-yupian"
@@ -399,26 +400,32 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 7,
+            "actual": 11,
             "ids": [
               "shandong-chao-hecai",
               "shandong-culiu-baicai",
               "shandong-culiu-tudousi",
+              "shandong-cupeng-lvdouya",
               "shandong-ganshao-dongsun",
               "shandong-qiehe",
               "shandong-qincai-chaorousi",
-              "shandong-shao-qiezi"
+              "shandong-qingchao-wosun",
+              "shandong-shao-donggua-xiaren",
+              "shandong-shao-qiezi",
+              "shandong-xianggu-youcai"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 7,
             "ids": [
               "shandong-furong-ganbei",
+              "shandong-guota-jidan",
               "shandong-jiucai-chaodan",
               "shandong-liu-huangcai",
+              "shandong-muer-chao-jidan",
               "shandong-muxu-rou",
               "shandong-xiaren-huadan"
             ]

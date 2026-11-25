@@ -1,0 +1,303 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-yipin-doufu",
+  "name": {
+    "zh": "一品豆腐",
+    "en": "Yipin Braised Tofu",
+    "original": "一品豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 40,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "北豆腐沥干水",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "取蛋清",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 80,
+          "unit": "g",
+          "note": "去黑线切丁",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 50,
+          "unit": "g",
+          "note": "切丁焯水",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 12,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎制用",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "虾仁去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅淋入",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "深盘",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐用重物压二十分钟逼出水分，再片成一厘米厚的方片。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "压过水的豆腐才不易碎，煎的时候也不炸油。",
+      "visual_cue": "豆腐表面干爽不出水，切口平整不塌边"
+    },
+    {
+      "n": 2,
+      "text": "虾仁切小丁，加料酒与少许盐抓匀腌十分钟去腥入味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "虾仁切丁比剁泥更有口感，吃着有颗粒感。",
+      "visual_cue": "虾仁丁大小均匀，表面微黏挂手不成团"
+    },
+    {
+      "n": 3,
+      "text": "香菇与冬笋分别切小丁，冬笋丁下沸水焯一分钟去涩味。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "冬笋不焯水会有涩味，汤再好也被拖累。",
+      "visual_cue": "笋丁透亮，涩味明显减轻"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油下姜末爆香，放虾仁丁、香菇丁、笋丁炒熟盛出作馅料。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "馅料要炒到全熟，后面蒸的时间短才不出水。",
+      "visual_cue": "馅料干爽出香，不见生水"
+    },
+    {
+      "n": 5,
+      "text": "每两片豆腐中间夹一层馅料，摆入深盘，蛋清加少许盐打散浇在豆腐上。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "蛋清浇面能让豆腐表面结一层嫩膜，卖相更亮。",
+      "visual_cue": "豆腐层叠整齐，蛋清铺满盘底"
+    },
+    {
+      "n": 6,
+      "text": "原汁加生抽、蚝油、白糖烧开，淀粉调水勾薄芡，淋香油撒小葱末浇在豆腐上。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "蒸出的汤汁最鲜，别倒掉，拿来调芡正好。",
+      "visual_cue": "豆腐鼓起，盘底积起清亮汤汁"
+    },
+    {
+      "n": 7,
+      "text": "原汁加生抽、蚝油、白糖烧开，淀粉调水勾薄芡，淋香油浇在豆腐上。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "芡要薄而亮，浇上去能流动又不散开。",
+      "visual_cue": "酱汁晶亮挂勺，色泽琥珀"
+    }
+  ],
+  "tips": [
+    "豆腐片大小尽量一致，叠起来才整齐好看。",
+    "馅料可提前一晚炒好冷藏，第二天上桌前只需蒸。",
+    "没有冬笋可用泡发的干笋或马蹄代替，口感一样脆。"
+  ],
+  "common_mistakes": [
+    "豆腐不压水直接煎，下锅就碎，卖相全毁。",
+    "馅料没炒熟就夹进去蒸，蒸十分钟中心还是生的。",
+    "蒸出的原汁倒掉改用清水调汁，鲜味损失一半。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "嫩豆腐",
+      "ratio": "400克:400克",
+      "note": "嫩豆腐须先蒸五分钟定型再片。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "干贝",
+      "ratio": "80克:30克",
+      "note": "干贝蒸软撕丝，鲜味更浓但油可减十毫升。"
+    }
+  ],
+  "variations": [
+    "把馅料换成肉末香菇，就是山东宴席上的荤一品豆腐。",
+    "表面铺几片火腿或海参片同蒸，档次立刻不同，是宴客的大菜。"
+  ],
+  "serving_suggestion": "整盘上桌，用汤勺连汁分食，作为宴席头菜或家宴主菜都体面。",
+  "storage": "冷藏可存两天，复热须上锅蒸八分钟，微波会出水破坏卖相。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 340,
+    "protein_g": 22,
+    "fat_g": 22,
+    "carbs_g": 14,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡蛋与虾仁须彻底加热至完全熟透，中心温度要够，蒸足时间不要提前出锅。",
+    "煎豆腐时锅中有热油，须擦干豆腐表面水分再下锅，防止溅油烫伤。"
+  ],
+  "origin_note": "一品豆腐是鲁菜宴席上的传统大菜，名字取一品当朝的彩头。做法是把豆腐片夹上虾仁香菇馅，浇蛋清上笼蒸，再用原汁勾芡浇面。豆腐嫩滑、馅料咸鲜，一盘上桌既见刀工也见火候，山东的老厨师把它当作席面开场的第一道热菜。",
+  "tags": [
+    "鲁菜",
+    "宴席",
+    "豆腐",
+    "一品"
+  ],
+  "related_ids": [
+    "shandong-guota-doufu",
+    "shandong-niang-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

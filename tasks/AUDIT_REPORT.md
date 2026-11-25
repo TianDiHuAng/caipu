@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T15:45:53.741Z
+- 生成时间：2026-11-25T15:57:07.625Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 120 道，平均分 99
 - 需重写（C/D）：0 道
@@ -96,12 +96,12 @@
 | portuguese | portuguese-grilled-sardines | 100 | A | 无 |
 | russian | russian-medovik | 100 | A | 无 |
 | russian | russian-vatrushka | 100 | A | 无 |
-| shandong | shandong-jingjiang-rousi | 93 | A | 准确性 18/25 |
 | shandong | bazi-rou | 100 | A | 无 |
-| shandong | shandong-baicai-doufu | 100 | A | 无 |
+| shandong | shandong-ban-jisi | 100 | A | 无 |
 | shandong | shandong-suanla-tang | 100 | A | 无 |
-| shandong | shandong-gangzitou | 100 | A | 无 |
-| shandong | shandong-niang-doufu | 100 | A | 无 |
+| shandong | shandong-ganshao-dongsun | 100 | A | 无 |
+| shandong | shandong-penglai-xiaomian | 100 | A | 无 |
+| shandong | shandong-jiucai-chaodan | 100 | A | 无 |
 | shanghai | yandu-xian | 87 | B | 准确性 18/25；安全性 14/20 |
 | sichuan | sichuan-zhangcha-ya | 100 | A | 无 |
 | sichuan | sichuan-suzhurou | 100 | A | 无 |
