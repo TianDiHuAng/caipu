@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-lu-you-doufu",
+  "name": {
+    "zh": "福州卤油豆腐",
+    "en": "Fuzhou Braised Tofu Puffs",
+    "original": "福州卤油豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 40,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "油豆腐",
+          "name_en": "fried tofu puff",
+          "amount": 300,
+          "unit": "g",
+          "note": "方形油豆腐",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸肉",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "卤制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "油豆腐用热水烫一分钟去掉浮油，捞出后轻轻压出多余水分。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "压水时别用力，压破了卤汁会漏光。",
+      "visual_cue": "油豆腐回软，表面不见油光。"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切薄片，小葱切段，姜切片，蒜拍碎备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "肉片切薄些，卤的时候才出味快。",
+      "visual_cue": "肉片均匀，配料分装。"
+    },
+    {
+      "n": 3,
+      "text": "花生油下锅，煸五花肉片到出油微焦，加姜片与蒜炒香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "五花肉要煸透出油，卤汁才有油脂香。",
+      "visual_cue": "肉片卷边出油，锅里有香气。"
+    },
+    {
+      "n": 4,
+      "text": "加生抽、老抽、白糖、盐与五香粉炒匀，倒清水煮开后放油豆腐。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "汤汁要没过油豆腐，中途翻一次面。",
+      "visual_cue": "汤色酱红，油豆腐浮起。"
+    },
+    {
+      "n": 5,
+      "text": "转小火卤十五分钟，让油豆腐吸足卤汁，最后开大火收汁。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "小火慢卤才入味，大火只会把汁烧干。",
+      "visual_cue": "油豆腐鼓胀变色，汤汁浓稠挂壁。"
+    },
+    {
+      "n": 6,
+      "text": "撒上小葱段翻匀出锅，放凉一点再吃更入味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "小葱段要最后放，香气清亮又不会煮烂。",
+      "visual_cue": "盘底见浓汁，油豆腐油亮。"
+    }
+  ],
+  "tips": [
+    "油豆腐挑方整厚实的，太薄的卤完就烂。",
+    "卤汁宁宽勿窄，最后留一点浓汁拌饭最好。",
+    "卤好放一夜再复热，味道比刚出锅更透。"
+  ],
+  "common_mistakes": [
+    "油豆腐没烫过直接卤，浮油多、卤汁发浑。",
+    "全程大火卤，外皮破了里面还是白芯。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "香菇",
+      "ratio": "120g 对 150g",
+      "note": "素版要加一勺生抽与半勺糖补鲜。"
+    }
+  ],
+  "variations": [
+    "福州人卤油豆腐会加一小段桂皮与两颗八角，香气更厚重，卤汁留着下次继续用，越卤越香。"
+  ],
+  "serving_suggestion": "盛盘带一点卤汁，配白饭或拌面都合适，凉了当冷菜也好吃。",
+  "storage": "冷藏三天，卤汁可冷冻一个月；复热连汁小火煮五分钟。",
+  "nutrition_estimate": {
+    "basis": "每份约 180g",
+    "calories_kcal": 310,
+    "protein_g": 17,
+    "fat_g": 22,
+    "carbs_g": 9,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "油豆腐为豆制品，须当日食用完毕，出现酸味即弃。",
+    "五花肉须卤至完全熟透，中心不见血丝与水。",
+    "卤汁含盐较高，高血压人群宜少量。"
+  ],
+  "origin_note": "福州卤油豆腐是街头卤味摊的常客，方形油豆腐先用热水去浮油，再与五花肉一同在酱汁里小火慢卤，吸饱卤汁后一咬爆汁，配饭配面都合适。",
+  "tags": [
+    "闽菜",
+    "福州",
+    "卤味",
+    "油豆腐"
+  ],
+  "related_ids": [
+    "fujian-hongshao-doufu",
+    "fujian-xiang-jian-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

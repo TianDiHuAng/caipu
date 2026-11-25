@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T03:16:10.210Z",
+  "generatedAt": "2026-11-25T03:26:28.346Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 1895,
-    "coverage": 0.5788026878436163
+    "actual": 1901,
+    "coverage": 0.5806353084911423
   },
   "regions": {
     "cn": [
@@ -910,7 +910,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 100,
+        "actual": 106,
         "cells": [
           {
             "category": "soup",
@@ -1003,17 +1003,21 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 15,
             "ids": [
               "fujian-congjiang-rong",
               "fujian-congyou-zhi",
+              "fujian-douchi-jiang",
+              "fujian-huajiang-zhanliao",
               "fujian-jiamo-jiangyou-die",
+              "fujian-juyou-jiang",
               "fujian-puning-doujiang-zhi",
               "fujian-suan-tian-luo-bo",
               "fujian-suanrong-jiang",
               "fujian-suantou-jiang",
               "fujian-tian-la-jiang",
               "fujian-zaoxiang-jiang",
+              "fujian-zhima-jiang",
               "fuzhou-xiayou",
               "shacha-jiang"
             ]
@@ -1038,7 +1042,7 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "fujian-caipu-jiandan",
               "fujian-jiucai-chaodan",
@@ -1046,17 +1050,19 @@
               "fujian-sanse-zhengdan",
               "fujian-tangcu-hebaodan",
               "fujian-wuxiang-ludan",
-              "fujian-xiaren-zhengdan"
+              "fujian-xiaren-zhengdan",
+              "fujian-zaoxiang-chaodan"
             ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "fujian-doufu-men-baicai",
               "fujian-hongshao-doufu",
+              "fujian-lu-you-doufu",
               "fujian-niang-doufu",
               "fujian-shacha-doufu",
               "fujian-shaguo-doufu-bao",
