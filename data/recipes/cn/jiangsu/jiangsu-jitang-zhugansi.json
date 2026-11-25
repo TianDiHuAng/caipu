@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-jitang-zhugansi",
+  "name": {
+    "zh": "鸡汤煮干丝",
+    "en": "Shredded Tofu Skin in Chicken Broth",
+    "original": "雞湯煮干絲"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 45,
+    "total_min": 70
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "light",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "豆腐皮",
+          "name_en": "tofu skin",
+          "amount": 300,
+          "unit": "g",
+          "note": "选厚百叶，切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 250,
+          "unit": "g",
+          "note": "带骨熬汤更鲜",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 30,
+          "unit": "g",
+          "note": "切细丝提鲜",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 80,
+          "unit": "g",
+          "note": "开背去虾线",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 100,
+          "unit": "g",
+          "note": "取嫩心洗净",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "汤锅调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "出锅撒",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅点香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1300,
+          "unit": "ml",
+          "note": "熬汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐皮先片成薄片，再改刀切成火柴梗粗的细丝，泡在清水里轻轻搓洗两遍。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "丝要切得匀细，粗了不入味，炒时会硬成一团。",
+      "visual_cue": "豆腐皮细丝根根分明，水色微浑。"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加冷水和鸡腿肉，加料酒和姜片煮开，撇净浮沫后转小火熬二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "浮沫一定撇干净，撇得越净汤色越澄澈，喝起来也不带腥气。",
+      "visual_cue": "汤面清亮，鸡肉变白收紧。"
+    },
+    {
+      "n": 3,
+      "text": "鸡腿肉捞出放凉后撕成细丝，汤过滤留用，火腿切细丝备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "鸡肉放凉再撕，热着撕容易断成碎渣，撕出的丝也更蓬松。",
+      "visual_cue": "鸡丝细白松散，汤色淡黄清透。"
+    },
+    {
+      "n": 4,
+      "text": "豆腐皮丝下沸水焯一分钟去掉豆腥，捞出沥干，倒进鸡汤里小火煮八分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "焯水这步别省，豆腥味去不净整锅汤都受影响。",
+      "visual_cue": "豆皮丝吸汤变软，汤色略稠。"
+    },
+    {
+      "n": 5,
+      "text": "下鸡丝、火腿丝和虾仁，小火再煮五分钟，放青菜烫到叶片变深绿。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "虾仁最后放，煮久了缩成硬球，鲜味也跑了。",
+      "visual_cue": "虾仁转红卷曲，青菜叶色深绿。"
+    },
+    {
+      "n": 6,
+      "text": "加盐和白胡椒调味，淋香油，连汤带丝盛进深碗，趁热上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "调味要轻，火腿本身带咸，盐多了盖住鲜味。",
+      "visual_cue": "汤清味厚，细丝浮沉分明。"
+    }
+  ],
+  "tips": [
+    "干丝讲究刀工，家里可买现成百叶丝，但厚度要挑厚一点的。",
+    "鸡汤撇出的浮油别全去，留一点汤更润。",
+    "喜欢更鲜可加两只小虾米同熬，盐要相应减少。"
+  ],
+  "common_mistakes": [
+    "干丝没焯水直接下汤，豆腥味压不住，汤发涩。",
+    "干丝切得太粗，下汤后外软内硬，嚼起来发木也不入味。",
+    "青菜在汤里久煮，叶片发黄带苦味，汤色也跟着变浑。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐皮",
+      "substitute": "百叶",
+      "ratio": "1:1",
+      "note": "薄百叶切丝更软，焯水时间缩短半分钟。"
+    },
+    {
+      "original": "火腿",
+      "substitute": "金华火腿",
+      "ratio": "1:1",
+      "note": "金华火腿更咸，用量减十克，盐也要相应减少。"
+    }
+  ],
+  "variations": [
+    "扬州早茶做法讲究用老母鸡与猪骨吊高汤，干丝在汤里反复浇淋，味更厚。",
+    "有的版本加蟹粉同煮，称为蟹粉干丝，鲜味翻倍但成本更高。"
+  ],
+  "serving_suggestion": "当早餐或汤菜都宜，配一只汤包或一块肴肉，就是标准的扬州早茶组合。",
+  "storage": "冷藏可存两日，复热加少量清水小火温开，干丝会吸汤变浓。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 300,
+    "protein_g": 28,
+    "fat_g": 14,
+    "carbs_g": 12,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡腿肉与虾仁须彻底加热至熟透，中心不见血色，不要生食或半生。",
+    "虾类过敏者慎食，生禽肉接触的刀具与砧板要彻底清洗，避免交叉污染。"
+  ],
+  "origin_note": "鸡汤煮干丝是扬州早茶的代表汤菜，把厚百叶片薄切细丝焯水去豆腥，再用鸡汤配鸡丝、火腿与虾仁小火慢煮，汤清味厚、干丝绵软，讲究刀工与火候。",
+  "tags": [
+    "苏菜",
+    "汤品",
+    "干丝",
+    "扬州"
+  ],
+  "related_ids": [
+    "dazhu-gansi",
+    "wensi-doufu-geng",
+    "jiangsu-jingxiang-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

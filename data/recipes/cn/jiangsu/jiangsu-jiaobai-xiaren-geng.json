@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-jiaobai-xiaren-geng",
+  "name": {
+    "zh": "茭白虾仁羹",
+    "en": "Water Bamboo Shoot and Shrimp Thick Soup",
+    "original": "茭白蝦仁羹"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 22,
+    "total_min": 42
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "light",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茭白",
+          "name_en": "water bamboo",
+          "amount": 400,
+          "unit": "g",
+          "note": "去壳切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "开背去虾线",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清约三十克",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "上浆与勾芡",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "虾仁去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "出锅撒",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅点香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "煸茭白用",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮羹用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茭白剥去外壳削掉老根，先片成薄片再切成火柴梗粗的细丝，泡清水备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "茭白根部老纤维多，多削掉一层切出的丝才嫩。",
+      "visual_cue": "茭白丝洁白均匀，浸水不发黄。"
+    },
+    {
+      "n": 2,
+      "text": "虾仁开背挑去肠泥，加料酒、少许盐和一半玉米淀粉抓匀上浆，静置十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "上浆后静置一会儿，虾仁煮出来才滑嫩有弹性。",
+      "visual_cue": "虾仁表面挂一层薄浆，微微发亮。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油烧热，下茭白丝中火煸炒三分钟，炒到丝身变软出水。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "先煸炒再加水，茭白的清甜味才出得来。",
+      "visual_cue": "茭白丝塌软透亮，锅底见少量汁水。"
+    },
+    {
+      "n": 4,
+      "text": "加入清水大火烧开，转中火煮五分钟，让茭白的甜味融进汤里。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "汤不要煮太久，茭白久煮失去脆感，汤也发浑。",
+      "visual_cue": "汤色微白，茭白丝浮在汤面。"
+    },
+    {
+      "n": 5,
+      "text": "把虾仁逐只下锅，煮两分钟到转红卷曲，再淋入鸡蛋清轻轻推成蛋花。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "蛋清要边淋边搅，火大就结成硬块，蛋花也不细。",
+      "visual_cue": "虾仁通红卷曲，蛋花细白飘散。"
+    },
+    {
+      "n": 6,
+      "text": "剩余玉米淀粉加水调匀勾薄芡，加盐和白胡椒，淋香油撒葱花即可。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "芡要薄，能挂住勺背就停，太稠像糊不好喝。",
+      "visual_cue": "羹汁微稠透亮，勺子舀起能挂一层。"
+    }
+  ],
+  "tips": [
+    "茭白选表皮青白、捏着硬实的，出现黑点的已开始老化。",
+    "虾仁上浆前要用厨房纸吸干水分，浆才挂得住。",
+    "没有茭白可用冬笋代替，但笋要先焯水去涩。"
+  ],
+  "common_mistakes": [
+    "虾仁没挑去肠泥就下锅，整锅羹都带上泥腥味，很败口感。",
+    "芡粉一次倒太多，成品稠成一坨，凉了更结块。",
+    "蛋清在滚水里倒，瞬间结成大块，蛋花全无。"
+  ],
+  "substitutions": [
+    {
+      "original": "茭白",
+      "substitute": "冬笋",
+      "ratio": "1:1",
+      "note": "冬笋要先焯水五分钟去涩，切丝后煸炒时间延长两分钟。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "蟹肉",
+      "ratio": "1:1",
+      "note": "蟹肉更鲜甜易熟，下锅煮一分钟即可，盐要减一克。"
+    }
+  ],
+  "variations": [
+    "苏州店家会加一小勺火腿末提鲜，羹色微红，鲜味更立体。",
+    "有的做法把茭白切丁不切丝，口感更脆，适合夏天吃。"
+  ],
+  "serving_suggestion": "趁热盛小碗，淋几滴香醋更开胃；配一只汤包或蒸饺就是一顿江南早饭。",
+  "storage": "冷藏可存一日，复热加少量开水小火温开并搅匀，别大火滚。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 230,
+    "protein_g": 22,
+    "fat_g": 10,
+    "carbs_g": 12,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "虾仁与鸡蛋均属高风险食材，须彻底加热至熟透，不要生食或半生。",
+    "对甲壳类水产与蛋类过敏者慎食，处理生虾仁的器具要洗净，避免交叉污染。"
+  ],
+  "origin_note": "茭白虾仁羹是江南水乡的时令汤羹，茭白切细丝煸香后加清汤煮出甜味，再下上浆虾仁与蛋清勾薄芡，羹色莹白、鲜甜清爽，夏秋茭白上市时最常做。",
+  "tags": [
+    "苏菜",
+    "汤羹",
+    "茭白",
+    "虾仁"
+  ],
+  "related_ids": [
+    "chuncai-yinyu-geng",
+    "wensi-doufu-geng",
+    "jiangsu-shaguo-yutou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
