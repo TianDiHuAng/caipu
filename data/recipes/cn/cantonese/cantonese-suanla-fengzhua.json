@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-suanla-fengzhua",
+  "name": {
+    "zh": "酸辣凤爪",
+    "en": "Hot and Sour Chicken Feet",
+    "original": "酸辣凤爪"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "appetizer",
+    "cold-dish"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 130,
+    "cook_min": 45,
+    "total_min": 175
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡爪",
+          "name_en": "chicken feet",
+          "amount": 500,
+          "unit": "g",
+          "note": "剪去趾甲，剖成两半",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片去籽",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 60,
+          "unit": "ml",
+          "note": "酸味主体",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "平衡酸辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "增麻",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "密封盒"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡爪剪去趾甲，从中间剖成两半，用清水反复冲洗至水变清。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "剖开更易入味，冲洗到水清才没有腥味。",
+      "visual_cue": "爪块干净无血污，水色清澈"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，加姜片、葱结与少许盐，大火烧开后撇净浮沫。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才出得干净，热水下锅腥味锁在里面。",
+      "visual_cue": "水面浮起灰白沫，逐层撇清"
+    },
+    {
+      "n": 3,
+      "text": "转中火煮十二分钟至爪皮软糯、关节能弯，捞出立刻放冰水中浸凉。",
+      "time_min": 14,
+      "heat": "中火",
+      "tip": "冰水激一下，皮才爽脆有咬劲，不激就发绵。",
+      "visual_cue": "爪皮收紧发亮，关节弯折有弹性"
+    },
+    {
+      "n": 4,
+      "text": "锅中留少许煮爪汤，下干辣椒、花椒、蒜与白糖煮三分钟做辣汁底。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "辣味煮出来再调酸，味道融合得更好。",
+      "visual_cue": "汤汁微红，辣香与蒜香明显"
+    },
+    {
+      "n": 5,
+      "text": "辣汁离火放凉，加米醋、生抽、盐与香油搅匀成腌汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "醋要等汁凉了再加，热的时候加酸味会挥发。",
+      "visual_cue": "汁液红亮透光，酸香和蒜香一起扑上来"
+    },
+    {
+      "n": 6,
+      "text": "鸡爪放入密封盒，倒入腌汁与柠檬片拌匀，冷藏四小时以上。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "至少腌四小时，隔夜更入味，中途翻动一次。",
+      "visual_cue": "爪皮染上红亮酱色，汁水浸没爪块"
+    }
+  ],
+  "tips": [
+    "煮的时间按爪的大小调整，筷子能戳透关节就是熟了。",
+    "柠檬片要去籽，籽带苦味，泡久了整盒都发涩。",
+    "爱吃更辣的可加两勺辣椒油，颜色也更红亮。"
+  ],
+  "common_mistakes": [
+    "鸡爪煮过头，皮烂脱骨，拌起来糊成一团。",
+    "煮后不冰镇直接泡，皮发绵没有爽脆的咬劲。",
+    "腌汁热着就倒进爪里，皮被烫紧，味道进不去。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡爪",
+      "substitute": "鸭掌",
+      "ratio": "500克:500克",
+      "note": "鸭掌更耐煮，时间延长六分钟。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "白醋",
+      "ratio": "60毫升:55毫升",
+      "note": "白醋更冲，糖可加五克中和。"
+    }
+  ],
+  "variations": [
+    "加一勺糟卤同腌，酒香清雅，是粤式茶楼的常见版本。",
+    "换成泡椒与野山椒，做成泡椒凤爪，酸辣更带劲。"
+  ],
+  "serving_suggestion": "冰镇后作餐前小菜或下酒菜最合适，也可作为追剧时的小零嘴。",
+  "storage": "密封冷藏可存三天，取食须用干净筷子，汁水别兑生水。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 320,
+    "protein_g": 27,
+    "fat_g": 19,
+    "carbs_g": 9,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "禽类制品须彻底煮透至关节处不见血水，凉拌菜不要再回锅但须煮透后冷却。",
+    "处理生鸡爪后须彻底清洗刀板与双手，避免与其他食材交叉污染。"
+  ],
+  "origin_note": "酸辣凤爪是粤式茶楼与夜宵摊上的常客，做法源于广东的卤味摊，把鸡爪煮软后用醋、辣椒、蒜腌透。好的凤爪皮爽肉厚、酸辣直冲，啃起来有胶质的黏口感。广东人喝茶爱点一碟，配冻柠茶，一坐就是一下午。",
+  "tags": [
+    "粤菜",
+    "凉菜",
+    "凤爪",
+    "酸辣"
+  ],
+  "related_ids": [
+    "cantonese-chiyou-ji",
+    "cantonese-baiqie-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

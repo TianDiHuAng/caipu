@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-sumi-geng",
+  "name": {
+    "zh": "粟米羹",
+    "en": "Sweet Corn Soup",
+    "original": "粟米羹"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 15,
+    "total_min": 27
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米",
+          "name_en": "sweet corn",
+          "amount": 200,
+          "unit": "g",
+          "note": "一半打浆一半留粒",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 120,
+          "unit": "g",
+          "note": "约两个，打散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 30,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "调水勾芡",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "去腥提香",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 4,
+          "unit": "ml",
+          "note": "起锅淋入",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "炒玉米用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "打蛋器",
+    "碗",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米粒取一半放入搅拌机，加两百毫升清水打成细腻的玉米浆。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "打得越细，羹才越顺滑，颗粒感靠剩下那一半。",
+      "visual_cue": "浆液浓稠均匀，不见整粒残渣"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，下玉米粒小火炒两分钟，炒出甜香后倒入汤锅。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "玉米粒先下锅炒一遍，甜味才被彻底激发出来，直接煮味道发闷。",
+      "visual_cue": "玉米粒颜色转深，香气散出"
+    },
+    {
+      "n": 3,
+      "text": "汤锅加玉米浆与六百毫升清水，大火烧开后转中小火煮五分钟。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "煮的时候要边煮边搅动，玉米浆很容易沉底糊锅，一糊整锅带焦味。",
+      "visual_cue": "汤色金黄浓稠，表面冒细泡"
+    },
+    {
+      "n": 4,
+      "text": "加盐、白糖与白胡椒调味，淀粉调水缓缓淋入并不断搅拌至浓稠。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "芡水要细流慢倒，一边倒一边搅，一次全倒进去必然结成粉团。",
+      "visual_cue": "汤体挂勺顺滑，无白色粉团"
+    },
+    {
+      "n": 5,
+      "text": "关小火，蛋液呈细线状淋入，静置十秒后轻推成蛋花。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "淋完别马上搅，等蛋液定型再推，蛋花才成絮状。",
+      "visual_cue": "蛋花成薄片絮状，汤面漂金丝"
+    },
+    {
+      "n": 6,
+      "text": "最后撒上火腿末与葱花，淋几滴香油，就可以盛出来上桌了。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "火腿末要最后放，煮久了咸香被煮散，只剩下死咸。",
+      "visual_cue": "汤面金红点缀，芡亮不浊"
+    }
+  ],
+  "tips": [
+    "用现剥甜玉米最好，罐头玉米须减糖并沥干水分。",
+    "想更鲜可加一小块鸡汤块，或用上汤代替清水。",
+    "勾芡后不要再大火滚，否则芡会散成水。"
+  ],
+  "common_mistakes": [
+    "玉米浆不搅动就煮，沉底糊锅，整锅带焦味。",
+    "淀粉一次全倒进去，结成一个个粉团捞不出来。",
+    "蛋液在滚沸时倒入又猛搅，蛋花全碎成渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "玉米粒",
+      "substitute": "南瓜",
+      "ratio": "200克:250克",
+      "note": "南瓜须蒸软打泥，糖可减半。"
+    },
+    {
+      "original": "火腿",
+      "substitute": "蟹肉",
+      "ratio": "30克:40克",
+      "note": "蟹肉最后放，煮久会散。"
+    }
+  ],
+  "variations": [
+    "加一把蟹肉做成蟹肉粟米羹，是粤式酒楼的常见升级版。",
+    "换成鸡蓉同煮，就是鸡蓉粟米羹，更清淡适合孩子。"
+  ],
+  "serving_suggestion": "热食最佳，作为宴席的第二道汤羹或家常配汤都合适。",
+  "storage": "冷藏可存一天，复热须小火加两勺水慢煮，浓稠度会变。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 235,
+    "protein_g": 11,
+    "fat_g": 9,
+    "carbs_g": 29,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "sesame"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须在汤中煮至完全凝固熟透，不要做成半熟蛋花。",
+    "勾芡后的汤体温度高且黏稠，盛出时须沿碗边缓倒，避免溅出烫伤。"
+  ],
+  "origin_note": "粟米羹是粤式酒楼里最常见的例汤，也是茶餐厅的常驻。甜玉米打浆勾芡，再淋一层蛋花，金黄浓稠、甜中带鲜。广东人无论办喜事还是家常便饭都会煮一锅，孩子爱喝，老人也嚼得动，是最没有门槛的一道汤。",
+  "tags": [
+    "粤菜",
+    "汤羹",
+    "粟米",
+    "家常"
+  ],
+  "related_ids": [
+    "cantonese-qingbu-liang-tang",
+    "zicai-danhua-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

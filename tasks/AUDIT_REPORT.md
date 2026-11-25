@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T16:06:15.494Z
+- 生成时间：2026-11-25T16:15:54.754Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 121 道，平均分 99
 - 需重写（C/D）：0 道
@@ -31,11 +31,11 @@
 | brazilian | brazilian-brigadeiro | 100 | A | 无 |
 | british | british-toad-in-the-hole | 100 | A | 无 |
 | cajun | cajun-blackened-fish | 100 | A | 无 |
-| cantonese | mizhi-chashao | 93 | A | 准确性 18/25 |
+| cantonese | cantonese-haoyou-menji | 93 | A | 准确性 18/25 |
+| cantonese | mangguo-nuomici | 93 | A | 准确性 18/25 |
 | cantonese | cantonese-baozai-fan | 93 | A | 准确性 18/25 |
-| cantonese | cantonese-hongshao-baoyu | 100 | A | 无 |
 | cantonese | cantonese-qingbu-liang-tang | 100 | A | 无 |
-| cantonese | cantonese-lvdou-sha | 100 | A | 无 |
+| cantonese | cantonese-lianou-paigu-tang | 100 | A | 无 |
 | caribbean | caribbean-pineapple-chicken | 100 | A | 无 |
 | chaoshan | chaoshan-donggua-shrimp-soup | 100 | A | 无 |
 | dongbei | suancai-bairou | 93 | A | 准确性 18/25 |

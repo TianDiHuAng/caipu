@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-fuzhu-baiguo-tang",
+  "name": {
+    "zh": "腐竹白果猪骨汤",
+    "en": "Pork Bone Soup with Tofu Skin and Ginkgo",
+    "original": "腐竹白果猪骨汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 100,
+    "total_min": 130
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪筒骨",
+          "name_en": "pork marrow bone",
+          "amount": 500,
+          "unit": "g",
+          "note": "筒骨剁块",
+          "optional": false
+        },
+        {
+          "name": "腐竹",
+          "name_en": "dried tofu stick",
+          "amount": 80,
+          "unit": "g",
+          "note": "提前泡软切段",
+          "optional": false
+        },
+        {
+          "name": "白果",
+          "name_en": "ginkgo nut",
+          "amount": 40,
+          "unit": "g",
+          "note": "去壳去衣去芯",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "起锅前调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "焯水去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪骨用清水浸泡二十分钟去血水，中途换一次水。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "骨头先泡过再焯水，煲出来的汤色才清亮，不带那种闷腥气。",
+      "visual_cue": "骨块发白，血水明显减少"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅加姜片与料酒，大火烧开后撇净浮沫，煮三分钟捞出冲净。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "浮沫撇得越干净，最后煲出来的汤就越清甜，别嫌麻烦多撇两遍。",
+      "visual_cue": "水面浮起厚灰沫，骨缝不见血丝"
+    },
+    {
+      "n": 3,
+      "text": "白果去壳后用沸水烫两分钟，剥去薄衣并挑出中间的芯。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "芯最苦，一定要挑净，否则整锅汤都发涩。",
+      "visual_cue": "果仁金黄完整，不见绿芯残留"
+    },
+    {
+      "n": 4,
+      "text": "汤锅加足量清水，放骨块、姜片与胡萝卜，大火烧开转小火煲一小时。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "水一定要一次加够，中途添水汤味就淡了，实在要加只能加热水。",
+      "visual_cue": "汤色转乳白，骨香明显"
+    },
+    {
+      "n": 5,
+      "text": "放入白果继续煲十五分钟，再加泡软的腐竹煮八分钟。",
+      "time_min": 23,
+      "heat": "小火",
+      "tip": "腐竹最后放，久煮会化在汤里失了口感。",
+      "visual_cue": "白果软糯，腐竹舒展不碎"
+    },
+    {
+      "n": 6,
+      "text": "最后加盐与白胡椒调味，关火后焖五分钟，就可以盛出来喝了。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盐一定要最后放，早放肉会发柴，汤也不容易煲出胶质。",
+      "visual_cue": "汤色清亮微白，油花浮在表层"
+    }
+  ],
+  "tips": [
+    "想汤更白可先把骨块煎至微黄再煲，胶质析出更快。",
+    "白果每人每天不宜超过十粒，一锅放四十克刚好。",
+    "加两根蜜枣同煲，汤色更亮，甜味更自然。"
+  ],
+  "common_mistakes": [
+    "骨块不焯水直接煲，汤浑带腥，浮沫撇不干净。",
+    "白果不挑芯就下锅，整锅汤苦得没法入口，白白浪费一锅好骨汤。",
+    "腐竹一开始就和骨同煲，最后全化没了。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪骨",
+      "substitute": "鸡骨架",
+      "ratio": "500克:500克",
+      "note": "鸡架出汤快，煲的时间可减到四十分钟。"
+    },
+    {
+      "original": "腐竹",
+      "substitute": "豆腐皮",
+      "ratio": "80克:80克",
+      "note": "豆腐皮更薄，最后五分钟下即可。"
+    }
+  ],
+  "variations": [
+    "加一把薏米或芡实同煲，祛湿效果更好，是广东春天的常用搭配。",
+    "把白果换成莲子，汤更清甜，孩子更爱喝。"
+  ],
+  "serving_suggestion": "饭前喝一小碗最养胃，也可作为晚餐的主汤配白饭。",
+  "storage": "冷藏可存两天，复热须小火慢煮十分钟，腐竹会略软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 330,
+    "protein_g": 26,
+    "fat_g": 19,
+    "carbs_g": 13,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪骨汤须煲足够时间至肉熟透，白果含微量毒素，须去芯煮熟且不宜大量食用。",
+    "白果去壳时用刀背轻敲，注意手指位置，避免敲伤；煲汤时锅盖留缝防溢。"
+  ],
+  "origin_note": "腐竹白果猪骨汤是广东人秋冬的家常老火汤，一煲就是两小时。白果糯、腐竹滑、汤色微白，喝下去从喉咙暖到胃里。广东的主妇说这汤最平和，不燥不寒，孩子老人都能喝，煲汤时加两颗蜜枣，甜味就自然出来了。",
+  "tags": [
+    "粤菜",
+    "老火汤",
+    "腐竹",
+    "白果"
+  ],
+  "related_ids": [
+    "cantonese-lianou-paigu-tang",
+    "dongguo-paigu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

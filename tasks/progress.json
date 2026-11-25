@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:06:14.579Z",
+  "generatedAt": "2026-11-25T16:15:53.865Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 642,
+    "cells": 644,
     "target": 3274,
-    "actual": 2162,
-    "coverage": 0.6603543066585217
+    "actual": 2171,
+    "coverage": 0.6631032376298106
   },
   "regions": {
     "cn": [
@@ -536,7 +536,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 82,
+        "actual": 91,
         "cells": [
           {
             "category": "main-seafood",
@@ -584,11 +584,14 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 10,
             "ids": [
               "caigan-zhugu-tang",
+              "cantonese-babao-dongguazhong",
+              "cantonese-fuzhu-baiguo-tang",
               "cantonese-lianou-paigu-tang",
               "cantonese-qingbu-liang-tang",
+              "cantonese-sumi-geng",
               "donggua-yimi-paigu-tang",
               "dongguo-paigu-tang",
               "huasheng-jijiao-tang",
@@ -657,10 +660,11 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "baizhuo-caixin",
               "baizhuo-jielan",
+              "cantonese-qingchao-sigua",
               "haoyou-shengcai",
               "suanrong-caixin",
               "suanrong-xilanhua",
@@ -671,8 +675,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "cantonese-zheng-shuidan",
               "huadan-niurou",
               "jiuhuang-chaodan"
             ]
@@ -681,9 +686,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "cantonese-chiyou-jian-doufu"
+              "cantonese-chiyou-jian-doufu",
+              "cantonese-haoyou-doufu-bao"
             ]
           },
           {
@@ -700,9 +706,10 @@
             "category": "appetizer",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "baizhuo-xia",
+              "cantonese-suanla-fengzhua",
               "pidan-doufu"
             ]
           },
@@ -714,6 +721,24 @@
             "ids": [
               "guangshi-chunjuan",
               "xiajiao"
+            ]
+          },
+          {
+            "category": "banquet",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "cantonese-babao-dongguazhong"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "cantonese-suanla-fengzhua"
             ]
           }
         ]
