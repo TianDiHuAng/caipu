@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-binlangyu-kourou",
+  "name": {
+    "zh": "槟榔芋扣肉",
+    "en": "Taro and Pork Belly Casserole",
+    "original": "槟榔芋扣肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 95,
+    "total_min": 125
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "选带皮三层肉，切成方整大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "芋头",
+          "name_en": "taro",
+          "amount": 500,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调咸鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "回甜",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "补咸",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炸制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "锅铲",
+    "深盘",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块冷水下锅，加姜片与料酒，大火煮二十分钟至筷子能插入。",
+      "time_min": 20,
+      "heat": "大火",
+      "tip": "煮到七成熟就够，太烂后面炸会散。 这一步别图省事。",
+      "visual_cue": "肉皮变半透明，筷子插进有阻力。"
+    },
+    {
+      "n": 2,
+      "text": "捞出趁热在肉皮上抹老抽，静置晾到表面干爽不粘手。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "皮不干就下油锅，油会剧烈炸开。 火候宁小勿大。",
+      "visual_cue": "肉皮呈深枣红色，摸上去发干。"
+    },
+    {
+      "n": 3,
+      "text": "花生油烧到六成热，肉块皮朝下入锅，中火炸至起泡。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "下锅后立刻盖锅盖防溅，听声再开盖。",
+      "visual_cue": "肉皮鼓起密集小泡，呈虎皮状。"
+    },
+    {
+      "n": 4,
+      "text": "炸好的五花肉捞出泡进温水，泡到皮皱软再切成厚片。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "泡水这一步让皮起皱，蒸出来才糯。 别急着省时间。",
+      "visual_cue": "肉皮皱纹明显，切片边缘柔软。"
+    },
+    {
+      "n": 5,
+      "text": "芋头切成与肉片同厚的片，下油锅炸到表面结壳捞起。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "芋头炸过才不散，也不会吸走汤汁。 手快也要稳。",
+      "visual_cue": "芋片表面金黄，边缘略硬。"
+    },
+    {
+      "n": 6,
+      "text": "肉片与芋头片交替码进深盘，皮朝下，撒冰糖、八角与盐。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "皮朝下码，蒸好后倒扣才好看。 顺序别颠倒。",
+      "visual_cue": "盘里肉芋相间，缝隙紧密。"
+    },
+    {
+      "n": 7,
+      "text": "淋生抽与剩余料酒，铺上葱结，上蒸锅大火蒸一小时。",
+      "time_min": 60,
+      "heat": "大火",
+      "tip": "中途加水要加热水，避免温差让蒸锅停火。",
+      "visual_cue": "盘底积起深色汤汁，肉片轻推即晃。"
+    }
+  ],
+  "tips": [
+    "芋头选粉糯的槟榔芋，切开断面有紫红纹路的最好。",
+    "蒸足一小时，肉与芋头才会软糯入味，不要提前揭盖。",
+    "倒扣装盘时先用盘子盖紧再翻手，汤汁才不会洒。"
+  ],
+  "common_mistakes": [
+    "肉皮没抹老抽就炸，成品颜色发白，看着没有食欲。",
+    "芋头没炸直接码盘，蒸完化成糊，整盘菜都塌掉。"
+  ],
+  "substitutions": [
+    {
+      "original": "芋头",
+      "substitute": "红薯",
+      "ratio": "1:1",
+      "note": "红薯甜度高，冰糖减到八克即可。"
+    }
+  ],
+  "variations": [
+    "闽西客家版会在盘底垫一层梅干菜，吸油之后格外下饭。"
+  ],
+  "serving_suggestion": "倒扣上桌后浇上原汁，配一碗白米饭与清炒时蔬最合适。",
+  "storage": "冷藏可存三天，复蒸十五分钟回软，汤汁可单独收稠再浇。",
+  "nutrition_estimate": {
+    "basis": "每份约 250g",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 40,
+    "carbs_g": 24,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉必须彻底加热至中心熟透，肉汁清澈无血水。",
+    "炸制时肉皮含水会爆油，下锅后立即盖上锅盖并远离锅口。",
+    "处理生肉后的刀板须用洗涤剂清洗，避免交叉污染。"
+  ],
+  "origin_note": "槟榔芋扣肉是闽西与闽南宴席上的硬菜，芋头吸走五花肉的油，肉又借芋头的粉香，蒸到软糯后倒扣上桌，是过年才有的排面。",
+  "tags": [
+    "闽菜",
+    "芋头",
+    "扣肉",
+    "宴席菜"
+  ],
+  "related_ids": [
+    "min-sun-menrou",
+    "minnan-fengrou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

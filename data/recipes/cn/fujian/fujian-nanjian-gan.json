@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-nanjian-gan",
+  "name": {
+    "zh": "南煎肝",
+    "en": "Fujian Pan-fried Pork Liver",
+    "original": "南煎肝"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 10,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肝",
+          "name_en": "pork liver",
+          "amount": 450,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调咸鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "回甜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "收香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "碗",
+    "刀",
+    "砧板",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肝整块用清水冲洗，撕掉表面筋膜，泡十分钟换两次水。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡去血水，肝才不腥也不发黑。 这一步别图省事。",
+      "visual_cue": "泡过的肝片颜色转浅，水不再泛红。"
+    },
+    {
+      "n": 2,
+      "text": "猪肝切成一厘米厚的片，用厨房纸吸干表面水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "带水下锅会溅油，也煎不出焦边。 火候宁小勿大。",
+      "visual_cue": "肝片干爽，按压不留水痕。"
+    },
+    {
+      "n": 3,
+      "text": "肝片两面薄薄裹一层面粉，抖掉多余的粉。注意不要着急，稳一点更好。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "粉太厚会糊成壳，薄薄一层就够。 别急着省时间。",
+      "visual_cue": "表面呈现均匀的哑光白色。"
+    },
+    {
+      "n": 4,
+      "text": "花生油烧到五成热，肝片平铺入锅，中火煎到底面定型。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "中途别急着翻，等定型再动才不破。 手快也要稳。",
+      "visual_cue": "边缘焦黄，锅里有轻微滋响声。"
+    },
+    {
+      "n": 5,
+      "text": "翻面继续煎一分钟，盛出控油，锅内留底油。注意不要着急，稳一点更好。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "两面各煎一次就够，久煎会变硬。 顺序别颠倒。",
+      "visual_cue": "两面均呈浅褐色，按压有弹性。"
+    },
+    {
+      "n": 6,
+      "text": "下姜末、蒜末与葱段爆香，加生抽、白糖、料酒与香醋烧开。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "醋最后加，酸味才留得住。 份量要称准。",
+      "visual_cue": "锅里酱汁冒泡，香气冲鼻。"
+    },
+    {
+      "n": 7,
+      "text": "倒入煎好的猪肝翻匀挂汁，淋香油立刻出锅。注意不要着急，稳一点更好。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "挂汁不超过一分钟，肝才嫩滑。 这一步别图省事。",
+      "visual_cue": "每片肝都裹上亮汁，盘底不积水。"
+    }
+  ],
+  "tips": [
+    "猪肝切片要厚一点，太薄一煎就老，口感发渣。",
+    "香醋是南煎肝的灵魂，出锅前沿着锅边淋最提味。",
+    "肝片下锅前回温到室温，冷肝下锅容易外老内生。"
+  ],
+  "common_mistakes": [
+    "猪肝泡水时间不足，成品带明显腥气，甜酸也压不住。",
+    "大火猛煎太久，肝片收缩发硬，咬着像橡皮。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肝",
+      "substitute": "鸡肝",
+      "ratio": "450g 对 400g",
+      "note": "鸡肝更细腻，煎制时间缩短一半。"
+    }
+  ],
+  "variations": [
+    "福州老店会加一小勺红糟同烧，颜色更红，糟香也更足。"
+  ],
+  "serving_suggestion": "趁热上桌配白米饭，肝片挂汁拌饭是福州人的家常享受。",
+  "storage": "冷藏一天内吃完，复热用小火回锅，勿用微波炉以免变硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 180g",
+    "calories_kcal": 330,
+    "protein_g": 26,
+    "fat_g": 20,
+    "carbs_g": 12,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肝须彻底加热至中心熟透，切面不留粉红，半生肝片绝不能上桌。",
+    "猪肝为高胆固醇内脏，高血脂人群控制食用频率。",
+    "生肝接触的刀板须彻底清洗消毒，避免交叉污染。"
+  ],
+  "origin_note": "南煎肝是福州菜的代表作之一，所谓南煎指用糖醋酱油调的南式煎法，肝片裹粉煎香再挂汁，甜酸里透着肝的粉糯。",
+  "tags": [
+    "闽菜",
+    "猪肝",
+    "南煎",
+    "甜酸"
+  ],
+  "related_ids": [
+    "lizhi-rou",
+    "minnan-zhacurou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
