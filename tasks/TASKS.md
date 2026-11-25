@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-25T03:51:55.271Z
+> 生成时间：2026-11-25T04:04:56.158Z
 
-**总览**：工程任务 49/53；菜谱内容 1907/3274（58.2%），共 642 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1913/3274（58.4%），共 642 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -416,7 +416,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1191/1935）
+### 外国菜系（1197/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，63/107</summary>
 
@@ -613,9 +613,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>印度菜 indian</b> — A 级，46/107</summary>
+<details><summary><b>印度菜 indian</b> — A 级，52/107</summary>
 
-- [ ] `P4-indian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 7
+- [ ] `P4-indian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 15，已完成 13
 - [ ] `P4-indian/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 7
 - [ ] `P4-indian/staple-bread` 主食·饼（Bread Staple）目标 15，已完成 7
 - [ ] `P4-indian/soup` 汤羹（Soup）目标 15，已完成 6

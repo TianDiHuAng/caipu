@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-rajma-curry",
+  "name": {
+    "zh": "印度红豆咖喱",
+    "en": "Indian Kidney Bean Curry",
+    "original": "Rajma Masala"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "红豆",
+          "name_en": "adzuki bean",
+          "amount": 300,
+          "unit": "g",
+          "note": "干豆泡发",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "印度风味",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "整粒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "煮豆",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "锅铲",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "红豆挑去坏豆，用清水泡八小时，泡到豆身发胀、指甲能掐动。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "泡不透的豆子煮两小时也硬，泡够时间才省火。",
+      "visual_cue": "豆子胀大一圈，表皮起皱。"
+    },
+    {
+      "n": 2,
+      "text": "泡好的红豆换清水，大火烧开转小火煮二十五分钟，煮到一捏就碎。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "煮豆水别倒，留着调咖喱的浓稠度。",
+      "visual_cue": "豆子一压成泥，汤汁发暗红。"
+    },
+    {
+      "n": 3,
+      "text": "洋葱切细丝，番茄切小块，姜与大蒜分别剁成细末备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "姜蒜剁得越细，炒出来的底味越匀。",
+      "visual_cue": "配料分装齐整，洋葱丝粗细一致。"
+    },
+    {
+      "n": 4,
+      "text": "植物油下锅炒洋葱丝，炒到边缘焦黄发甜，再放姜末蒜末炒香。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱要炒够时间，焦糖化才有印度咖喱的甜底。",
+      "visual_cue": "洋葱丝深黄发软，油色转金。"
+    },
+    {
+      "n": 5,
+      "text": "放番茄丁炒到化成糊，加咖喱粉、姜黄与孜然炒到油色红亮。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "香料下锅后要小火炒，火大立刻发苦。",
+      "visual_cue": "锅底油色红亮，香料味冲鼻。"
+    },
+    {
+      "n": 6,
+      "text": "倒入红豆与煮豆水，小火煮十五分钟，用勺背压碎部分豆子让汤汁变稠。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "压碎一部分豆子是让它自然挂汁的诀窍。",
+      "visual_cue": "汤汁浓稠裹勺，豆子软糯。"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味，撒香菜碎，配米饭或烤饼一起上桌。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "盐最后放，早放豆子不容易煮软。",
+      "visual_cue": "表面浮一层红油，香菜点缀。"
+    }
+  ],
+  "tips": [
+    "红豆一定要泡足八小时，赶时间就用热水泡三小时。",
+    "洋葱炒到焦黄是 Rajma 的甜味来源，别急着下番茄。",
+    "剩的咖喱隔夜更好吃，豆子会把香料味吸得更透。"
+  ],
+  "common_mistakes": [
+    "豆子没泡就直接煮，煮到汤干豆心还硬。",
+    "香料和番茄一起下锅，香料没炒开、味道发闷。"
+  ],
+  "substitutions": [
+    {
+      "original": "红豆",
+      "substitute": "红腰豆罐头",
+      "ratio": "300g 干豆 对 400g 罐头",
+      "note": "用罐头要冲洗掉糖水，煮的时间缩到八分钟。"
+    }
+  ],
+  "variations": [
+    "旁遮普家庭会加一小块黄油与半勺奶油收尾，咖喱更顺口，代价是热量翻倍。"
+  ],
+  "serving_suggestion": "浇在热白饭上，配一片洋葱和青柠角解腻。",
+  "storage": "冷藏三天，冷冻一个月；复热时加清水调稀。",
+  "nutrition_estimate": {
+    "basis": "每份约 280g",
+    "calories_kcal": 300,
+    "protein_g": 15,
+    "fat_g": 9,
+    "carbs_g": 42,
+    "sodium_mg": 540,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "红豆须彻底煮至软烂，半生豆含凝集素，食后易腹胀腹泻。",
+    "干豆泡发水要倒掉并换清水煮，减少胀气成分。",
+    "豆类为常见过敏原，敏感人群宜少量试吃。"
+  ],
+  "origin_note": "Rajma Masala 是北印度旁遮普的国民菜，红豆煮到软糯，在洋葱番茄与香料炒成的底里再焖一刻钟，汤汁浓得能挂在饭粒上，印度人管这叫一碗能哄人开心的饭。",
+  "tags": [
+    "印度菜",
+    "咖喱",
+    "豆类",
+    "素食"
+  ],
+  "related_ids": [
+    "chana-masala",
+    "indian-tofu-masala",
+    "indian-veg-pulao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

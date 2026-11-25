@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-mutter-paneer",
+  "name": {
+    "zh": "印度豌豆奶酪咖喱",
+    "en": "Indian Pea and Paneer Curry",
+    "original": "Mutter Paneer"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 250,
+          "unit": "g",
+          "note": "新鲜或解冻",
+          "optional": false
+        },
+        {
+          "name": "印度奶酪",
+          "name_en": "paneer",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "整粒",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 30,
+          "unit": "ml",
+          "note": "收尾",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "煮汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "印度奶酪切成两厘米见方的块，放进清水里泡五分钟去掉表面咸味。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "奶酪泡一下口感更软，也不至于过咸。",
+      "visual_cue": "奶酪块边缘微软，水略发白。"
+    },
+    {
+      "n": 2,
+      "text": "洋葱切细丝，番茄切小丁，姜与大蒜分别剁成末，香菜切碎。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "番茄切小一点更容易炒成糊，也省去一半炒制时间。",
+      "visual_cue": "配料分装，番茄丁大小均匀。"
+    },
+    {
+      "n": 3,
+      "text": "植物油下锅炸香孜然粒，放洋葱丝炒到金黄发软。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒到金黄，咖喱的甜味才立得住。",
+      "visual_cue": "洋葱丝深黄卷曲，油面泛光。"
+    },
+    {
+      "n": 4,
+      "text": "加姜末蒜末炒香，倒番茄丁炒成浓糊，撒姜黄与辣椒粉炒到油色红亮。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄要炒到不流动，否则最后汤汁太稀。",
+      "visual_cue": "番茄完全化开，锅底油色红亮。"
+    },
+    {
+      "n": 5,
+      "text": "倒入豌豆与清水，小火煮八分钟，煮到豌豆软而皮不破。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "豌豆别煮过，破了皮汤就发浑，成品颜色也发暗。",
+      "visual_cue": "豌豆软糯，汤色橙红。"
+    },
+    {
+      "n": 6,
+      "text": "轻轻放入奶酪块，小火再煮三分钟让奶酪吸味，加盐调味后淋淡奶油、撒香菜出锅。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "奶酪下锅后别猛搅，一搅就碎成渣。",
+      "visual_cue": "奶酪块完整，酱汁浓稠挂勺。"
+    }
+  ],
+  "tips": [
+    "印度奶酪耐煮，但搅动要轻，铲子从锅底推起最稳。",
+    "淡奶油最后淋入，煮滚了会分层出油，关火再拌更稳。",
+    "喜欢更浓的口感可以把一半番茄换成番茄酱。"
+  ],
+  "common_mistakes": [
+    "奶酪早下锅还一直翻，端上桌只剩碎渣。",
+    "豌豆煮到脱皮，整锅汤变成豆泥色。"
+  ],
+  "substitutions": [
+    {
+      "original": "印度奶酪",
+      "substitute": "豆腐干",
+      "ratio": "250g 对 250g",
+      "note": "豆腐干更吸水，煮的时间缩到两分钟。"
+    }
+  ],
+  "variations": [
+    "德里餐馆的版本会加一勺腰果泥打底，酱汁更厚，坚果香也更明显。"
+  ],
+  "serving_suggestion": "配印度烤饼或香米饭，一人一勺酱汁浇饭最合适。",
+  "storage": "冷藏两天，复热用小火加少量清水，别用大火滚。",
+  "nutrition_estimate": {
+    "basis": "每份约 220g",
+    "calories_kcal": 320,
+    "protein_g": 16,
+    "fat_g": 20,
+    "carbs_g": 18,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "印度奶酪属乳制品，乳糖不耐与乳过敏人群不宜食用。",
+    "菜肴须彻底加热至滚烫，奶酪中心也要热透。",
+    "辣椒粉按耐受度调整，幼儿食用建议省略。"
+  ],
+  "origin_note": "Mutter Paneer 是印度餐桌上的常客，青豌豆的清甜配印度奶酪的奶香，番茄洋葱底炒得浓稠，淋一点淡奶油收尾，素食者拿它当主菜，配烤饼能吃两三张。",
+  "tags": [
+    "印度菜",
+    "咖喱",
+    "奶酪",
+    "豌豆"
+  ],
+  "related_ids": [
+    "indian-palak-paneer",
+    "palak-paneer",
+    "indian-tofu-masala"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
