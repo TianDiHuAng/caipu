@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T16:26:21.320Z
+- 生成时间：2026-11-25T16:38:05.062Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 121 道，平均分 99
 - 需重写（C/D）：0 道
@@ -54,7 +54,7 @@
 | german | pretzel | 93 | A | 准确性 18/25 |
 | german | german-cucumber-salad | 100 | A | 无 |
 | greek | greek-honey-cake | 100 | A | 无 |
-| hakka | hakka-stir-fried-gai-lan | 100 | A | 无 |
+| hakka | hakka-meicai-zheng-roubing | 100 | A | 无 |
 | halal-cn | halal-cn-niurou-huntun | 100 | A | 无 |
 | hongkong | hongkong-bolo-bao | 100 | A | 无 |
 | hunan | dong-an-ji | 100 | A | 无 |

@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hakka-dongsun-paigu-tang",
+  "name": {
+    "zh": "冬笋排骨汤",
+    "en": "Bamboo Shoot and Pork Rib Soup",
+    "original": "冬笋排骨汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 85,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 500,
+          "unit": "g",
+          "note": "剁成小段",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 250,
+          "unit": "g",
+          "note": "切片，先焯水去涩",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡发切块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "起锅前调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "焯水去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨用清水浸泡二十分钟去血水，中途换一次水，捞出沥干。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡去血水，汤色才清亮，不会有一股闷腥气。",
+      "visual_cue": "骨块发白，水色由红转浅"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅加姜片与黄酒，烧开后撇净浮沫，煮三分钟捞出冲净。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "浮沫一定要撇干净，这是汤清的关键一步。",
+      "visual_cue": "水面浮起灰白厚沫，骨缝无血丝"
+    },
+    {
+      "n": 3,
+      "text": "冬笋切薄片，放入沸水中焯五分钟，捞出用冷水冲洗。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "冬笋含有不少草酸，必须焯过水才能去掉那股涩味，不焯的话喝起来会发麻嘴。",
+      "visual_cue": "笋片由白转透，涩味明显减轻"
+    },
+    {
+      "n": 4,
+      "text": "汤锅加足量清水，放排骨、姜片与葱结，大火烧开转小火煲四十分钟。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "冬笋里面含有草酸，一定要先焯过水才能彻底去掉涩味，不焯的话整锅汤都会发麻口。",
+      "visual_cue": "汤色转白，排骨香气散出"
+    },
+    {
+      "n": 5,
+      "text": "再把冬笋片和香菇一起放进去，继续用小火煲二十分钟，直到笋片彻底变软入味。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "笋后放，久煮会散，也会抢掉排骨的鲜。",
+      "visual_cue": "笋片吸汁发亮，汤面浮起油花"
+    },
+    {
+      "n": 6,
+      "text": "最后加上盐和白胡椒调味，关火以后再焖上五分钟，就可以连汤一起盛出来了。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盐最后放，排骨才不柴，汤也更清甜。",
+      "visual_cue": "汤色清亮微白，笋片沉在锅底"
+    }
+  ],
+  "tips": [
+    "冬笋挑根小、壳紧、掂着沉的，空心的笋切开全是洞。",
+    "加几片火腿同煲，汤的鲜味立刻厚一层。",
+    "喜欢笋味浓的可用笋干代替，须提前泡发一夜。"
+  ],
+  "common_mistakes": [
+    "冬笋不焯水直接煲，汤涩口还带麻，整锅都浪费。",
+    "大火滚煮一小时，排骨碎散，汤浑得像泥水。",
+    "中途反复加冷水，汤的温度忽降，肉发柴不出味。"
+  ],
+  "substitutions": [
+    {
+      "original": "冬笋",
+      "substitute": "春笋",
+      "ratio": "250克:250克",
+      "note": "春笋涩味更重，焯水时间延长两分钟。"
+    },
+    {
+      "original": "排骨",
+      "substitute": "猪骨",
+      "ratio": "500克:500克",
+      "note": "猪骨胶质更多，煲的时间延长十五分钟。"
+    }
+  ],
+  "variations": [
+    "加一把咸菜同煲，就是客家常见的咸菜排骨汤，咸鲜开胃。",
+    "把排骨换成老鸭，汤更清润，适合秋天喝。"
+  ],
+  "serving_suggestion": "饭前喝一碗最开胃，也可作为晚餐主汤，配白饭与青菜正好。",
+  "storage": "冷藏可存两天，复热须小火慢煮十分钟，笋会略软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 300,
+    "protein_g": 24,
+    "fat_g": 19,
+    "carbs_g": 8,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "排骨须煲至肉熟透脱骨，骨边不见血水。",
+    "冬笋含草酸，须焯水后再煮，肾结石人群不宜大量食用。"
+  ],
+  "origin_note": "冬笋排骨汤是客家山区的时令汤水，冬天挖了笋就煲一锅。冬笋脆嫩带甘，排骨出油出鲜，汤色清亮不油。客家人煲汤讲究不落多余调料，一撮盐一点胡椒就够，喝的正是那股清鲜本味。",
+  "tags": [
+    "客家菜",
+    "汤",
+    "冬笋",
+    "排骨"
+  ],
+  "related_ids": [
+    "kejia-xiancai-zhudu-tang",
+    "dongguo-paigu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

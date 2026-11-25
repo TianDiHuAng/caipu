@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:26:20.431Z",
+  "generatedAt": "2026-11-25T16:38:04.138Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 647,
+    "cells": 650,
     "target": 3274,
-    "actual": 2179,
-    "coverage": 0.6655467318265119
+    "actual": 2187,
+    "coverage": 0.6679902260232132
   },
   "regions": {
     "cn": [
@@ -2251,16 +2251,19 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 14,
+        "actual": 22,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 6,
+            "actual": 9,
             "ids": [
               "hakka-egg-pocket-braise",
+              "hakka-hongshao-zhu-shou",
               "hakka-meicai-kourou",
+              "hakka-meicai-zheng-roubing",
+              "hakka-nanru-shaorou",
               "hakka-sanbeiji",
               "hakka-stuffed-bitter-melon",
               "kejia-chao-mifen",
@@ -2271,8 +2274,9 @@
             "category": "main-tofu",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "hakka-hongshao-doufu",
               "niang-doufu"
             ]
           },
@@ -2280,8 +2284,9 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "hakka-dongsun-paigu-tang",
               "kejia-xiancai-zhudu-tang"
             ]
           },
@@ -2319,6 +2324,33 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "hakka-jiangzheng-caoyu"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "hakka-liangban-muer"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "hakka-liangban-muer"
+            ]
           },
           {
             "category": "staple-noodle",

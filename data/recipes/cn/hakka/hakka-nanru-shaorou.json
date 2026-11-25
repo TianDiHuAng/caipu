@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hakka-nanru-shaorou",
+  "name": {
+    "zh": "南乳烧肉",
+    "en": "Braised Pork with Fermented Bean Curd",
+    "original": "南乳烧肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 55,
+    "total_min": 75
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 600,
+          "unit": "g",
+          "note": "带皮，切三厘米方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "两粒",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "腐乳",
+          "name_en": "fermented tofu",
+          "amount": 40,
+          "unit": "g",
+          "note": "带两勺南乳汁",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸肉用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "酌情添加",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成三厘米见方的块，冷水下锅加姜片与少许米酒焯五分钟，捞出冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "整块先焯再切更整齐，切好再焯肉块容易缩成小球。",
+      "visual_cue": "肉块发白收紧，水面浮起厚沫"
+    },
+    {
+      "n": 2,
+      "text": "南乳用勺子压碎，加两勺南乳汁、生抽、老抽与米酒调成酱汁备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "南乳一定要压成泥，整块下锅化不开，味道也不均匀。",
+      "visual_cue": "酱汁呈深红稠糊状，无颗粒"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，下冰糖小火炒至融化变枣红色。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "糖色炒到枣红就要立刻下肉，炒黑了整锅发苦。",
+      "visual_cue": "糖液起大泡转小泡，颜色枣红"
+    },
+    {
+      "n": 4,
+      "text": "倒入肉块快速翻炒裹上糖色，加姜、蒜、八角与桂皮煸出油。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "每块肉都裹上糖色，成品才红亮好看。",
+      "visual_cue": "肉块表面油亮泛红，锅底渗出油脂"
+    },
+    {
+      "n": 5,
+      "text": "倒入调好的南乳酱汁炒匀，加开水没过肉块，放葱结烧开。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "一定要加开水，冷水会让肉突然收紧变柴。",
+      "visual_cue": "汤汁深红翻滚，南乳香散出"
+    },
+    {
+      "n": 6,
+      "text": "转砂锅小火焖四十分钟，中途翻动一次让肉均匀入味。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "小火慢焖，肉才酥而不烂，皮也软糯起胶。",
+      "visual_cue": "肉皮透亮起皱，筷子能轻松插入"
+    },
+    {
+      "n": 7,
+      "text": "开盖转大火收汁至浓稠，尝味后可补少许盐，出锅装盘。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "南乳本身咸，收汁后味道会浓缩，盐要最后试再加。",
+      "visual_cue": "酱汁红亮裹肉，油层浮在表面"
+    }
+  ],
+  "tips": [
+    "五花肉选肥瘦三层分明的，纯瘦的焖出来发柴。",
+    "加几块炸豆腐或芋头同焖，吸汁比肉还香。",
+    "焖好放一夜再吃，味道更透，客家人叫隔夜香。"
+  ],
+  "common_mistakes": [
+    "南乳不压碎直接下锅，化不开还结块，味道忽咸忽淡。",
+    "糖色炒过头，整锅肉带焦苦味，救不回来。",
+    "全程大火滚煮，肉皮烂了肉还柴，汤汁也烧干。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "600克:600克",
+      "note": "前腿较瘦，焖的时间延长十分钟。"
+    },
+    {
+      "original": "南乳",
+      "substitute": "腐乳",
+      "ratio": "40克:40克",
+      "note": "腐乳颜色浅，老抽可多加三毫升。"
+    }
+  ],
+  "variations": [
+    "加一把梅菜同焖，就是南乳梅菜肉，咸香更足。",
+    "把肉换成猪手同法焖制，胶质更厚，适合冬天吃。"
+  ],
+  "serving_suggestion": "配白饭最下饭，也可夹入馒头或拌面，汤汁是精华。",
+  "storage": "冷藏可存三天，复热须加少量水小火焖十分钟，风味反而更佳。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 680,
+    "protein_g": 28,
+    "fat_g": 57,
+    "carbs_g": 10,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "五花肉须焖至完全熟透、皮软肉酥，中心不见血水。",
+    "炒糖色时糖油温度极高，下肉前须把火调小并擦干肉块表面，防止热油爆溅。"
+  ],
+  "origin_note": "南乳烧肉是客家菜的经典，南乳那股发酵的咸香是整道菜的灵魂。五花肉先焯后焖，裹上糖色与南乳汁，小火慢煨到皮软起胶。客家人逢年过节必做一锅，红亮的颜色讨喜，隔夜再热更入味，是老一辈最认的年味。",
+  "tags": [
+    "客家菜",
+    "烧肉",
+    "南乳",
+    "砂锅"
+  ],
+  "related_ids": [
+    "meicai-kourou",
+    "hakka-sanbeiji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

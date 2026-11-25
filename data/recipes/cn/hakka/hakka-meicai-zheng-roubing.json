@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hakka-meicai-zheng-roubing",
+  "name": {
+    "zh": "梅菜蒸肉饼",
+    "en": "Steamed Minced Pork with Preserved Greens",
+    "original": "梅菜蒸肉饼"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 45,
+    "total_min": 70
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 350,
+          "unit": "g",
+          "note": "三分肥七分瘦",
+          "optional": false
+        },
+        {
+          "name": "梅干菜",
+          "name_en": "preserved mustard",
+          "amount": 60,
+          "unit": "g",
+          "note": "提前泡发切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 12,
+          "unit": "g",
+          "note": "拌馅用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "中和梅菜咸味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒梅菜用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "刀",
+    "砧板",
+    "深盘",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "梅菜用温水泡二十分钟，反复搓洗三遍去除泥沙，挤干水分后切成细末。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "梅菜里沙子极多，洗到水清才不牙碜，这一步不能省。",
+      "visual_cue": "菜末乌黑干爽，盆底没有沙粒"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，下梅菜末小火炒三分钟，加白糖炒匀后盛出晾凉。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "梅菜先炒过再拌馅，香气才出得来，也能去掉生涩味。",
+      "visual_cue": "菜末松散出香，锅底见油不湿"
+    },
+    {
+      "n": 3,
+      "text": "猪肉末加姜末、黄酒、生抽、蚝油与淀粉，顺一个方向搅打上劲。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "搅到肉馅能拉出黏丝，蒸出来才紧实不散。",
+      "visual_cue": "肉馅黏手发亮，筷子插入能立住"
+    },
+    {
+      "n": 4,
+      "text": "把炒好的梅菜末与香油拌入肉馅，拌匀后静置十分钟入味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置一会儿，梅菜的咸香才能渗进肉里。",
+      "visual_cue": "馅料颜色深浅交错，质地均匀"
+    },
+    {
+      "n": 5,
+      "text": "馅料倒入深盘，用勺子背压成一厘米厚的圆饼，表面抹平。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "压得薄厚一致，蒸的时候才同时熟透。",
+      "visual_cue": "饼面平整光滑，边缘整齐无裂缝"
+    },
+    {
+      "n": 6,
+      "text": "上汽后放入蒸锅，中火蒸十五分钟，取出撒葱末即可。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "蒸够时间让肉饼中心熟透，中途别开盖。",
+      "visual_cue": "肉饼收缩离盘，表面浮出一层清汤"
+    }
+  ],
+  "tips": [
+    "梅菜本身很咸，生抽和蚝油的量要克制，宁淡勿咸。",
+    "加两勺马蹄碎或藕碎，肉饼口感更松脆，孩子更爱吃。",
+    "蒸出的汤汁别倒，拌饭极香，是整道菜的精华。"
+  ],
+  "common_mistakes": [
+    "梅菜没泡透就下锅，成品咸得发苦，还带沙。",
+    "肉馅不搅打上劲，蒸出来松散成渣，一切就碎。",
+    "肉饼压得太厚，外面老了中心还是生的。"
+  ],
+  "substitutions": [
+    {
+      "original": "梅菜",
+      "substitute": "梅干菜",
+      "ratio": "60克:60克",
+      "note": "两者同类，梅干菜更干，泡的时间延长五分钟。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "350克:350克",
+      "note": "牛肉较瘦，须多加一勺植物油。"
+    }
+  ],
+  "variations": [
+    "把肉饼换成肉丸，同法蒸制，口感更弹，宴客也好看。",
+    "加一层咸蛋黄碎铺面同蒸，咸香更足，是客家宴席的做法。"
+  ],
+  "serving_suggestion": "趁热配白饭，舀一勺汤汁浇在饭上，咸香下饭。",
+  "storage": "冷藏可存两天，复热须上锅蒸十分钟，微波会令肉饼发干。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 430,
+    "protein_g": 26,
+    "fat_g": 32,
+    "carbs_g": 9,
+    "sodium_mg": 1150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪肉馅与腌制的梅菜均须彻底蒸熟，肉饼中心温度须达到熟透标准。",
+    "蒸锅取盘时须用夹子并垫干布，避免蒸汽烫伤手臂。"
+  ],
+  "origin_note": "梅菜蒸肉饼是客家人的家常看家菜，梅菜的咸香与猪肉的油润天生一对。客家地区山多田少，腌菜耐存，一块梅菜就能下一锅饭。好的肉饼蒸出来紧实弹牙，盘底一层清亮的肉汁，客家人说那是这道菜的魂。",
+  "tags": [
+    "客家菜",
+    "蒸菜",
+    "梅菜",
+    "肉饼"
+  ],
+  "related_ids": [
+    "meicai-kourou",
+    "niang-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
