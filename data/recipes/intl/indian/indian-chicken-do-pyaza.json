@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-chicken-do-pyaza",
+  "name": {
+    "zh": "印度双葱鸡",
+    "en": "Chicken Do Pyaza",
+    "original": "Murgh Do Pyaza"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "去骨切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 400,
+          "unit": "g",
+          "note": "一半炒底一半留块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 100,
+          "unit": "g",
+          "note": "无糖",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "整粒",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切块，用酸奶、姜黄与一半咖喱粉抓匀，腌二十分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "酸奶腌能让鸡腿肉更嫩，也带走腥味。",
+      "visual_cue": "鸡块挂上淡黄浆。"
+    },
+    {
+      "n": 2,
+      "text": "洋葱一半切细丝炒底用，另一半切成四瓣的块留到最后下锅。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "两种切法对应两个阶段，别图省事混在一起。",
+      "visual_cue": "洋葱分成两堆，丝细块大。"
+    },
+    {
+      "n": 3,
+      "text": "锅里放植物油，下孜然炒香，加洋葱丝炒到金黄发甜。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱丝要炒透，甜味是这道菜的底子。",
+      "visual_cue": "洋葱丝深黄，油色金黄。"
+    },
+    {
+      "n": 4,
+      "text": "放姜末蒜末炒香，加番茄丁炒成糊，撒剩下的咖喱粉翻匀。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄炒到不流动，酱汁才有厚度。",
+      "visual_cue": "番茄化开，锅底浓稠。"
+    },
+    {
+      "n": 5,
+      "text": "下鸡块翻炒上色，加清水盖锅小火焖十五分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "鸡块先煎一下表面再焖，味道更足。",
+      "visual_cue": "鸡块染色均匀，汤汁收浓。"
+    },
+    {
+      "n": 6,
+      "text": "放入洋葱块再焖五分钟，让洋葱块保持形状又吸到酱汁。",
+      "time_min": 7,
+      "heat": "中小火",
+      "tip": "洋葱块最后放，煮久了就化在汤里。",
+      "visual_cue": "洋葱块半透明，边缘完整。"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味后撒上香菜碎，拌匀装盘趁热上桌食用。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱块本身有甜味，盐别放多。",
+      "visual_cue": "酱汁裹住鸡块与洋葱块。"
+    }
+  ],
+  "tips": [
+    "Do Pyaza 的意思就是两倍的洋葱，洋葱给少了就不是这道菜。",
+    "洋葱块切成四瓣，太大不熟、太小会化，三厘米见方刚好。",
+    "喜欢酱汁多一点，清水加到 250ml，最后不用收太干。"
+  ],
+  "common_mistakes": [
+    "洋葱全部切丝一起炒，最后吃不到洋葱块的甜脆。",
+    "鸡块没腌就下锅，肉质发柴、味道浮在表面。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "700g 对 650g",
+      "note": "鸡胸肉更瘦，焖的时间缩到十分钟，避免发柴。"
+    }
+  ],
+  "variations": [
+    "德里餐馆会加一小勺腰果糊让酱汁更顺滑，配黄油烤饼最搭。"
+  ],
+  "serving_suggestion": "配印度烤饼或香米饭，洋葱块和鸡块一起入口最香。",
+  "storage": "冷藏两天，复热加少量清水小火翻热。",
+  "nutrition_estimate": {
+    "basis": "每份约 270g",
+    "calories_kcal": 350,
+    "protein_g": 32,
+    "fat_g": 19,
+    "carbs_g": 14,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须焖至中心完全熟透，无血色、无粉红汁水。",
+    "生熟食材的刀具与砧板须分开，避免交叉污染。",
+    "含乳制品腌料须冷藏，室温放置不超过半小时。"
+  ],
+  "origin_note": "Do 是二、Pyaza 是洋葱，名字就把配方写在了脸上。莫卧儿时期的厨师为了让酱汁更有层次，把洋葱分成两批：一批炒化成甜底，一批留块收尾，一锅吃到两种洋葱口感。",
+  "tags": [
+    "印度菜",
+    "鸡肉",
+    "洋葱",
+    "咖喱"
+  ],
+  "related_ids": [
+    "indian-murgh-handi",
+    "indian-chicken-curry",
+    "indian-chicken-korma"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

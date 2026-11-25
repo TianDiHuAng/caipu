@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-chicken-kadai",
+  "name": {
+    "zh": "印度锅炒鸡",
+    "en": "Kadai Chicken",
+    "original": "Kadai Chicken"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "去骨切块",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "整粒",
+          "optional": false
+        },
+        {
+          "name": "芫荽籽",
+          "name_en": "coriander seed",
+          "amount": 6,
+          "unit": "g",
+          "note": "碾碎",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "香菜籽用干锅小火炒香，盛出后用刀背碾成粗粒备用。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "香菜籽现炒现碾，香气差别很明显。",
+      "visual_cue": "锅里飘起柑橘样的香味。"
+    },
+    {
+      "n": 2,
+      "text": "鸡腿肉切成三厘米见方的块，用盐与姜黄抓匀静置十分钟。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "先腌一下，鸡肉里外都有味。",
+      "visual_cue": "鸡腿肉表面均匀泛黄。"
+    },
+    {
+      "n": 3,
+      "text": "锅里放植物油，下孜然炸香，加洋葱块炒到边缘发软。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱切块炒到边缘软、中心还脆，口感最好。",
+      "visual_cue": "洋葱块边缘透明。"
+    },
+    {
+      "n": 4,
+      "text": "放姜末蒜末炒香，加番茄丁炒成糊，撒辣椒粉与香菜籽翻匀。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "香菜籽最后放，早了香气跑光。",
+      "visual_cue": "酱汁橙红，香料颗粒可见。"
+    },
+    {
+      "n": 5,
+      "text": "下鸡块翻炒上色，加清水盖锅小火焖十二分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "锅炒鸡讲究酱少，水别加多。",
+      "visual_cue": "汤汁浓稠挂住鸡块。"
+    },
+    {
+      "n": 6,
+      "text": "放入青椒块转大火翻炒三分钟，断生即可，撒香菜碎出锅。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "青椒要留脆口，炒软了整道菜就塌了。",
+      "visual_cue": "青椒颜色翠绿发亮。"
+    }
+  ],
+  "tips": [
+    "kadai 是印度的一种浅口炒锅，用普通炒锅同样能做。",
+    "香菜籽与孜然现炒现碾，是这道菜香气的关键。",
+    "青椒最后大火快炒，颜色和脆度都能保住。"
+  ],
+  "common_mistakes": [
+    "水加太多，焖完变成汤菜，没有锅炒的干香。",
+    "青椒和鸡块一起焖，最后颜色发黄、口感发软。"
+  ],
+  "substitutions": [
+    {
+      "original": "青椒",
+      "substitute": "彩椒",
+      "ratio": "150g 对 150g",
+      "note": "彩椒不辣，颜色更好看，适合不吃辣的人。"
+    }
+  ],
+  "variations": [
+    "家庭版本会加两勺淡奶油把酱汁调柔，辣度不变，口感更顺。"
+  ],
+  "serving_suggestion": "配烤饼或白饭，用饼把盘底的香料酱擦干净。",
+  "storage": "冷藏两天，复热用大火快炒，不要加水。",
+  "nutrition_estimate": {
+    "basis": "每份约 250g",
+    "calories_kcal": 330,
+    "protein_g": 33,
+    "fat_g": 18,
+    "carbs_g": 10,
+    "sodium_mg": 540,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炒至完全断生并焖透，中心温度达 74℃ 以上。",
+    "干锅炒香菜籽时火力要小，焦化后会产生苦味。",
+    "炒制过程油温较高，注意防止溅油。"
+  ],
+  "origin_note": "Kadai Chicken 是印度公路餐馆里最常见的一道，用浅口铁锅大火翻炒，番茄与洋葱收成薄薄一层酱，青椒最后下锅保脆，配一张烤饼就是一餐。",
+  "tags": [
+    "印度菜",
+    "鸡肉",
+    "青椒",
+    "锅炒"
+  ],
+  "related_ids": [
+    "indian-chicken-do-pyaza",
+    "indian-murgh-handi",
+    "indian-chicken-chettinad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
