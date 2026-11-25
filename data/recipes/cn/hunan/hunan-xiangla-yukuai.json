@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-xiangla-yukuai",
+  "name": {
+    "zh": "香辣鱼块",
+    "en": "Hunan Spicy Fish Chunks",
+    "original": "香辣鱼块"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 20,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 700,
+          "unit": "g",
+          "note": "取中段，切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 40,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "紫苏",
+          "name_en": "perilla",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍粉用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎鱼块用",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 10,
+          "unit": "g",
+          "note": "剁碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "腌鱼用",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "腌鱼用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼刮净鱼鳞去掉腹内黑膜，取中段切成三厘米见方的块，用盐与米酒抓匀腌十分钟。",
+      "time_min": 14,
+      "heat": "无火",
+      "tip": "鱼块大小要切得一致，下锅后才同时熟透。",
+      "visual_cue": "鱼块表面干爽，刀口白净无血水"
+    },
+    {
+      "n": 2,
+      "text": "腌好的鱼块用厨房纸吸干水分，逐块拍上一层薄薄的淀粉。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "薄薄一层就够，拍多了淀粉吸水发黏，下锅就掉粉。",
+      "visual_cue": "鱼块表面挂上均匀白霜"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒菜籽油烧到微微冒烟，鱼块皮朝下摆入，中火煎到两面定形微黄后盛出。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "下锅别急着动，等底面结壳再翻，鱼皮才不会破。",
+      "visual_cue": "两面结壳金黄，鱼皮完整"
+    },
+    {
+      "n": 4,
+      "text": "原锅留底油，下姜末、蒜末与剁碎的豆豉小火炒香，再放小米椒圈炒出辣味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "豆豉要炒散出酱香，辣椒后放才不发苦。",
+      "visual_cue": "锅中飘起酱香与辣气，油色转红"
+    },
+    {
+      "n": 5,
+      "text": "烹入米酒与生抽，加小半碗清水烧开，倒回鱼块转小火焖六分钟收味。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "焖时只推锅不翻动，用勺背把汤汁浇在鱼块上。",
+      "visual_cue": "汤汁过半没鱼块，颜色深红发亮"
+    },
+    {
+      "n": 6,
+      "text": "下青椒块大火收一分钟，撒紫苏丝与葱段，再撒少许白胡椒，汤汁浓亮立即起锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "紫苏下锅就起，久炒香味全跑，只剩一股草气。",
+      "visual_cue": "汤汁浓稠挂勺，青椒翠绿"
+    }
+  ],
+  "tips": [
+    "草鱼刺多，可在切块时先片去大刺，老人小孩更好入口。",
+    "没有紫苏可换成薄荷嫩叶，湘西一带也这样吃。",
+    "菜籽油要烧到冒烟再下料，否则有一股生油味。"
+  ],
+  "common_mistakes": [
+    "鱼块不吸干就下锅，油花四溅还粘得满锅都是。",
+    "全程大火猛翻，鱼块碎成鱼茸，卖相全无。",
+    "小米椒和豆豉一起爆，辣椒糊了发苦，辣味也不香。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲈鱼",
+      "ratio": "700克:600克",
+      "note": "鲈鱼刺少，焖的时间减两分钟。"
+    },
+    {
+      "original": "菜籽油",
+      "substitute": "花生油",
+      "ratio": "60毫升:60毫升",
+      "note": "花生油更香，但少了那股湘味的厚重。"
+    }
+  ],
+  "variations": [
+    "把小米椒换成剁椒同烧，酸辣更冲，是湘南的做法。",
+    "加一把泡软的干粉皮同烧，吸饱汤汁比鱼还抢口。"
+  ],
+  "serving_suggestion": "配白饭最下口，鱼块吃完剩下的汤汁拌饭一绝。",
+  "storage": "冷藏可存一天，淡水鱼不宜久放，复热须小火加少许水焖透。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 48,
+    "fat_g": 29,
+    "carbs_g": 8,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "鱼块须彻底煎焖熟透，鱼肉中心完全变白无血丝后再食用。",
+    "煎鱼时油温高，鱼块须吸干水分沿锅边滑入，避免热油溅伤。"
+  ],
+  "origin_note": "香辣鱼块是湖南人饭桌上的家常硬菜，草鱼便宜肉厚，一煎一焖就是一碗下饭的好菜。湘菜讲干香不出水，鱼块先拍粉煎出硬壳锁住水分，再用豆豉、小米椒和紫苏把辣味香一起烧进去。出锅时汤汁浓亮，辣得过瘾却不抢鱼鲜。",
+  "tags": [
+    "湘菜",
+    "鱼",
+    "香辣",
+    "家常"
+  ],
+  "related_ids": [
+    "duojiao-yutou",
+    "hunan-ganbian-jiangdou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

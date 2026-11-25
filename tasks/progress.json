@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:04:15.422Z",
+  "generatedAt": "2026-11-25T17:16:14.748Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 652,
     "target": 3274,
-    "actual": 2201,
-    "coverage": 0.6722663408674404
+    "actual": 2208,
+    "coverage": 0.674404398289554
   },
   "regions": {
     "cn": [
@@ -1372,15 +1372,17 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 59,
+        "actual": 66,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
+              "hunan-larou-zheng-xianggan",
               "hunan-suanrou",
+              "hunan-xiangla-feichang",
               "hunan-zhu-xue-wanzi",
               "lajiao-chaorou",
               "lawi-hezheng",
@@ -1414,13 +1416,15 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "duojiao-zheng-yutou",
               "ganguo-chashugu",
               "ganguo-huacai",
               "hunan-ganbian-jiangdou",
+              "hunan-jiachang-donggua",
               "hunan-lajiao-chao-qiezi",
+              "hunan-suanla-kugua",
               "hunan-suanla-tudousi",
               "hunan-xianggan-chaorou",
               "shousi-baocai",
@@ -1474,11 +1478,12 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "hunan-duojiao-zheng-doufu",
               "hunan-jiacang-doufu",
-              "hunan-lajiao-chao-doufu"
+              "hunan-lajiao-chao-doufu",
+              "hunan-xiangjian-doufu"
             ]
           },
           {
@@ -1500,6 +1505,16 @@
             ]
           },
           {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "duojiao-yutou",
+              "hunan-xiangla-yukuai"
+            ]
+          },
+          {
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
@@ -1510,12 +1525,13 @@
             ]
           },
           {
-            "category": "main-seafood",
+            "category": "soup",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "duojiao-yutou"
+              "hunan-kugua-paigu-tang",
+              "nanchang-waguantang"
             ]
           },
           {
@@ -1534,15 +1550,6 @@
             "actual": 1,
             "ids": [
               "nanchang-banfen"
-            ]
-          },
-          {
-            "category": "soup",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "nanchang-waguantang"
             ]
           }
         ]

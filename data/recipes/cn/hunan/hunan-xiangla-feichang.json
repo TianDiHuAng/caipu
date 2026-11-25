@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-xiangla-feichang",
+  "name": {
+    "zh": "香辣肥肠",
+    "en": "Hunan Spicy Pork Intestines",
+    "original": "香辣肥肠"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 25,
+    "total_min": 70
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪大肠",
+          "name_en": "pork intestine",
+          "amount": 700,
+          "unit": "g",
+          "note": "翻洗干净，切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 50,
+          "unit": "g",
+          "note": "切斜段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半煮一半切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "一半煮一半切段",
+          "optional": false
+        },
+        {
+          "name": "紫苏",
+          "name_en": "perilla",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "煮肥肠用",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 2,
+          "unit": "g",
+          "note": "煮肥肠用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "白酒",
+          "name_en": "baijiu",
+          "amount": 20,
+          "unit": "ml",
+          "note": "焯水去味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "搓洗与调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "高压锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "肥肠翻面撕去里面的油脂，用盐反复搓洗三遍，再用清水冲到不滑手。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "盐搓是关键，不搓干净怎么烧都带骚味。",
+      "visual_cue": "肠壁发白发涩，水冲后不再黏手"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，加白酒、姜片、葱结与八角桂皮，大火焯十分钟后捞出冲净。",
+      "time_min": 13,
+      "heat": "大火",
+      "tip": "冷水下锅才逼得出异味，热水下锅腥味全锁在里面。",
+      "visual_cue": "水面浮起白沫与油花，肠身收缩"
+    },
+    {
+      "n": 3,
+      "text": "焯好的肥肠切成长四厘米的段，粗的从中间剖开，方便入味。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "段切均匀，粗的剖开才和细的同时熟。",
+      "visual_cue": "段长一致，内壁干净无异物"
+    },
+    {
+      "n": 4,
+      "text": "高压锅加清水没过肥肠，放姜片与白酒压十五分钟至软糯，捞出沥干。",
+      "time_min": 18,
+      "heat": "大火",
+      "tip": "压到筷子能轻松插透就好，压过头就烂成泥。",
+      "visual_cue": "筷子一插即透，肠段鼓起发亮"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒菜籽油烧热，下豆瓣酱、姜蒜末与小米椒小火炒出红油。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "豆瓣酱要小火慢炒，炒出红油才香，火大就发苦。",
+      "visual_cue": "锅中红油涌起，酱香冲鼻"
+    },
+    {
+      "n": 6,
+      "text": "倒入肥肠转大火翻炒三分钟，烹生抽、老抽与白糖，让每段都裹上酱色。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "大火快炒把水气炒干，肥肠才干香不出水。",
+      "visual_cue": "肠段油亮焦边，锅底无积水"
+    },
+    {
+      "n": 7,
+      "text": "下青椒段与紫苏丝翻炒一分钟，撒葱段、试味补盐后出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "湘菜讲干香，青椒断生就起锅，别炒出水。",
+      "visual_cue": "青椒翠绿起虎皮，肠段红亮油润"
+    }
+  ],
+  "tips": [
+    "肥肠洗净后可先用面粉揉一遍，去黏液更彻底。",
+    "焯水时加一勺白酒，去腥的效果比料酒更狠，骚味压得更干净。",
+    "压好的肥肠可冷藏存三天，随吃随炒。"
+  ],
+  "common_mistakes": [
+    "肥肠不翻面洗油脂，烧出来满口骚味。",
+    "不压直接炒，嚼不动，咬半天还是韧的。",
+    "豆瓣酱大火爆炒，一股焦苦味压过所有香气。"
+  ],
+  "substitutions": [
+    {
+      "original": "肥肠",
+      "substitute": "猪肚",
+      "ratio": "700克:700克",
+      "note": "猪肚更脆，压的时间减三分钟。"
+    },
+    {
+      "original": "紫苏",
+      "substitute": "香菜",
+      "ratio": "10克:12克",
+      "note": "香菜清香更淡，但同样去腻。"
+    }
+  ],
+  "variations": [
+    "把肥肠换成大肠头，肉厚油多，干锅做法更香。",
+    "加一把炸过的黄豆同炒，脆香对比，是湘西的下酒版本。"
+  ],
+  "serving_suggestion": "配啤酒最合适，也可配白饭，肥肠的油香极下饭。",
+  "storage": "冷藏可存两天，复热须大火快炒，久蒸会失去脆糯口感。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 620,
+    "protein_g": 32,
+    "fat_g": 50,
+    "carbs_g": 8,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "猪肠须彻底翻洗并充分加热熟透，中心温度足够后才可食用。",
+    "清洗内脏时手上有伤口须戴手套，避免细菌感染。"
+  ],
+  "origin_note": "香辣肥肠是湖南宵夜摊上的招牌，肥肠洗得干净、压得软糯，再用豆瓣酱和小米椒一炒，红油裹身，越嚼越香。湘人吃内脏从不含糊，洗、焯、压、炒四步一步不能省。老饕说肥肠好不好，先闻有没有骚味，再看咬不咬得动。",
+  "tags": [
+    "湘菜",
+    "肥肠",
+    "香辣",
+    "下酒菜"
+  ],
+  "related_ids": [
+    "maoshi-hongshaorou",
+    "hunan-xianggan-chaorou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
