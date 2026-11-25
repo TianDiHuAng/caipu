@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-shengbao-yanjianrou",
+  "name": {
+    "zh": "生爆盐煎肉",
+    "en": "Stir-fried Salted Pork",
+    "original": "生爆盐煎肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪后腿肉",
+          "name_en": "pork hind leg",
+          "amount": 400,
+          "unit": "g",
+          "note": "去皮切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 120,
+          "unit": "g",
+          "note": "斜刀切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "剪段去籽",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 25,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 10,
+          "unit": "g",
+          "note": "略剁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "肉片底味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "中和咸辣",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪后腿肉去皮，逆着纹路切成两毫米厚的薄片，肥瘦分开摆放。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "逆纹切短纤维，炒出来才嚼得动不发柴。",
+      "visual_cue": "肉片薄可透光，大小均匀不叠片"
+    },
+    {
+      "n": 2,
+      "text": "蒜苗斜刀切成四厘米长的段，蒜白与蒜叶分开放置备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蒜白先下锅、蒜叶后下锅，才能同时熟透。",
+      "visual_cue": "蒜白断面斜长，蒜叶翠绿不发黄"
+    },
+    {
+      "n": 3,
+      "text": "炒锅烧到微微冒烟，倒植物油下肥肉片小火慢煎，把油脂充分逼出来。",
+      "time_min": 5,
+      "heat": "中小火",
+      "tip": "用肥肉自身的油炒瘦肉，这道菜才够香不腻。",
+      "visual_cue": "肥片卷边透明，锅底积起清亮油"
+    },
+    {
+      "n": 4,
+      "text": "下瘦肉片转大火翻炒到变色，加盐炒匀让底味先入进去。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "肉片一变白就停手，炒久了水分跑光会发韧。",
+      "visual_cue": "肉片由粉转白，边缘微微焦黄"
+    },
+    {
+      "n": 5,
+      "text": "拨开肉片下豆瓣酱、豆豉和干辣椒段，小火炒出红油与酱香。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "酱料怕大火，火一猛就发苦，宁可慢一点。",
+      "visual_cue": "油色转红亮，酱香混着辣味冲出锅"
+    },
+    {
+      "n": 6,
+      "text": "下蒜白与姜丝翻炒，加生抽和白糖，最后放蒜叶翻两下关火。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "蒜叶下锅只需十秒，断生就起锅保持清香味。",
+      "visual_cue": "蒜叶翠绿微软，肉片裹满红亮酱汁"
+    }
+  ],
+  "tips": [
+    "肉片切得越薄越好，冻硬半小时再切，薄片整齐又省力。",
+    "没有后腿肉可用五花肉代替，但要减少炒油的用量。",
+    "豆瓣酱本身很咸，加盐前先尝一口再决定。"
+  ],
+  "common_mistakes": [
+    "肉片切得太厚又大火猛炒，外面焦了里面还是生的。",
+    "豆瓣酱和肉一起下锅大火炒，酱直接糊在锅底发苦。",
+    "蒜苗整根一次下锅，蒜叶炒烂了蒜白还硬着。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪后腿肉",
+      "substitute": "五花肉",
+      "ratio": "400克:350克",
+      "note": "五花肉出油多，油量减到三十毫升。"
+    },
+    {
+      "original": "蒜苗",
+      "substitute": "大葱",
+      "ratio": "120克:100克",
+      "note": "大葱取葱白斜切，香气略淡。"
+    }
+  ],
+  "variations": [
+    "加一把泡发的黑木耳同炒，口感层次更丰富，也不那么腻。",
+    "起锅前沿锅边淋半勺香醋，酸香一提，是内江一带的做法。"
+  ],
+  "serving_suggestion": "趁热装盘，配一碗白米饭最下饭，也可以夹在锅盔里当早点。",
+  "storage": "冷藏可存两天，复热时加一勺清水小火翻炒，避免肉片发干。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 28,
+    "fat_g": 36,
+    "carbs_g": 8,
+    "sodium_mg": 940,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "肉片须彻底加热至完全熟透、不见粉色，避免生肉带来的细菌风险。",
+    "炒制豆瓣酱时油温较高，须防止油花溅出烫伤手臂。"
+  ],
+  "origin_note": "生爆盐煎肉是四川的家常名菜，与回锅肉并称姊妹菜，区别在于肉是生的直接下锅爆炒，不过水不煮。肉片先煎后爆，油脂被逼出来又不干，配上豆瓣的酱香和蒜苗的清香，一碟就能配下三碗米饭，四川人自己做家常菜，这道出镜率最高。",
+  "tags": [
+    "川菜",
+    "家常",
+    "盐煎肉",
+    "下饭"
+  ],
+  "related_ids": [
+    "huiguo-rou",
+    "suan-ni-bai-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

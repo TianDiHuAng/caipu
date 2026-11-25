@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T15:35:52.515Z
+- 生成时间：2026-11-25T15:45:53.741Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：59 个，抽样 119 道，平均分 98
+- 覆盖菜系：59 个，抽样 120 道，平均分 99
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -103,42 +103,43 @@
 | shandong | shandong-gangzitou | 100 | A | 无 |
 | shandong | shandong-niang-doufu | 100 | A | 无 |
 | shanghai | yandu-xian | 87 | B | 准确性 18/25；安全性 14/20 |
-| sichuan | sichuan-zhima-jipian | 93 | A | 准确性 18/25 |
-| sichuan | sichuan-baicai-doufu-tang | 93 | A | 准确性 18/25 |
-| sichuan | sichuan-suruo-donggua-tang | 100 | A | 无 |
-| sichuan | koushui-ji | 100 | A | 无 |
+| sichuan | sichuan-zhangcha-ya | 100 | A | 无 |
+| sichuan | sichuan-suzhurou | 100 | A | 无 |
+| sichuan | sichuan-baiyou-doufu | 100 | A | 无 |
+| sichuan | larou-chaofan | 100 | A | 无 |
 | sichuan | guaiwei-jiang | 100 | A | 无 |
 | sichuan | yuxiang-rousi | 100 | A | 无 |
-| singaporean | singaporean-hainanese-chicken-rice | 93 | A | 准确性 18/25 |
+| sichuan | sichuan-mala-niurougan | 100 | A | 无 |
 | singaporean | singaporean-otah | 93 | A | 准确性 18/25 |
-| south-african | south-african-malva-pudding | 93 | A | 准确性 18/25 |
+| singaporean | singaporean-fish-curry | 94 | A | 安全性 14/20 |
 | south-african | south-african-pap | 93 | A | 准确性 18/25 |
-| south-asian | south-asian-dal-tadka | 93 | A | 准确性 18/25 |
+| south-african | south-african-koeksister | 100 | A | 无 |
 | south-asian | south-asian-cabbage-poriyal | 100 | A | 无 |
-| spanish | spanish-escalivada | 100 | A | 无 |
+| south-asian | south-asian-lemon-rice | 100 | A | 无 |
+| spanish | arroz-negro | 93 | A | 准确性 18/25 |
 | spanish | spanish-bacalao-al-horno | 100 | A | 无 |
 | spanish | spanish-salmorejo | 100 | A | 无 |
-| taiwan | kezai-jian | 100 | A | 无 |
-| tex-mex | tex-mex-huevos-rancheros | 100 | A | 无 |
+| taiwan | taiwan-pork-chop-rice | 100 | A | 无 |
 | tex-mex | tex-mex-beef-tacos | 100 | A | 无 |
-| thai | thai-pla-neung-manao | 100 | A | 无 |
+| tex-mex | tex-mex-queso | 100 | A | 无 |
 | thai | thai-gaeng-kari-gai | 100 | A | 无 |
-| thai | thai-khao-man-gai | 100 | A | 无 |
-| thai | thai-pad-pak-boong | 100 | A | 无 |
-| tibetan | tibetan-dresil | 100 | A | 无 |
-| turkish | turkish-revani | 100 | A | 无 |
-| turkish | turkish-imam-bayildi | 100 | A | 无 |
-| vietnamese | vietnamese-banh-xeo | 100 | A | 无 |
-| west-african | west-african-lentil-stew | 93 | A | 准确性 18/25 |
+| thai | thai-khao-mok-gai | 100 | A | 无 |
+| thai | thai-pad-pak-khun-chai | 100 | A | 无 |
+| thai | thai-garlic-pepper-chicken | 100 | A | 无 |
+| tibetan | tibetan-thenthuk | 94 | A | 安全性 14/20 |
+| turkish | turkish-iskender-kebab | 100 | A | 无 |
+| turkish | turkish-hummus | 100 | A | 无 |
+| vietnamese | vietnamese-dau-hu-sot-ca | 100 | A | 无 |
 | west-african | west-african-asun | 94 | A | 安全性 14/20 |
-| xibei | xibei-liangpi | 93 | A | 准确性 18/25 |
-| xinjiang | xinjiang-tomato-pepper-salad | 100 | A | 无 |
-| yunguai | yunnan-ham-potato-rice | 100 | A | 无 |
-| zhejiang | zhejiang-qingzheng-baoyu | 94 | A | 安全性 14/20 |
+| west-african | west-african-grilled-tilapia | 100 | A | 无 |
+| xibei | xibei-yangrou-jiaozi | 100 | A | 无 |
+| xinjiang | xinjiang-zhuafan | 100 | A | 无 |
+| yunguai | yunguai-bamboo-tube-rice | 100 | A | 无 |
+| zhejiang | zhejiang-dongpo-doufu | 94 | A | 安全性 14/20 |
 | zhejiang | meigancai-kourou | 100 | A | 无 |
 | zhejiang | hangzhou-luya | 100 | A | 无 |
 
 ## 结论
 
-- 本批 119 道全部达到 B 级及以上，无需重写。
+- 本批 120 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。

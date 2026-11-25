@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:35:51.606Z",
+  "generatedAt": "2026-11-25T15:45:52.838Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2140,
-    "coverage": 0.6536346976175932
+    "actual": 2146,
+    "coverage": 0.6554673182651192
   },
   "regions": {
     "cn": [
@@ -23,13 +23,13 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 126,
+        "actual": 132,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 15,
             "ids": [
               "fenzheng-rou",
               "guoba-roupian",
@@ -39,8 +39,11 @@
               "mapo-doufu",
               "shuizhu-niurou",
               "shuizhu-roupian",
+              "sichuan-jiaoyan-paigu",
               "sichuan-lianguo-tang",
+              "sichuan-shengbao-yanjianrou",
               "sichuan-suzhurou",
+              "sichuan-xianshaobai",
               "tudou-shao-paigu",
               "yuxiang-rousi"
             ]
@@ -49,7 +52,7 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "gongbao-jiding",
               "koushui-ji",
@@ -62,6 +65,7 @@
               "sichuan-paojiao-jiding",
               "sichuan-xuehua-jinao",
               "sichuan-yuer-ji",
+              "sichuan-zhangcha-ya",
               "sichuan-zhima-jipian",
               "xiaojian-ji"
             ]
@@ -164,9 +168,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "dandan-mian",
+              "sichuan-hongshao-niurou-mian",
               "sichuan-liangmian",
               "sichuan-xiaomian",
               "yibin-ranmian"
@@ -262,21 +267,22 @@
             ]
           },
           {
+            "category": "dessert",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "sichuan-basi-hongshu",
+              "sichuan-tianshaobai"
+            ]
+          },
+          {
             "category": "hotpot-bbq",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "maoxuewang"
-            ]
-          },
-          {
-            "category": "dessert",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "sichuan-basi-hongshu"
             ]
           }
         ]

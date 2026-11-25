@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-hongshao-niurou-mian",
+  "name": {
+    "zh": "红烧牛肉面",
+    "en": "Braised Beef Noodle Soup",
+    "original": "红烧牛肉面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 130,
+    "total_min": 160
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 500,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        },
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "碱水面或宽面",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 120,
+          "unit": "g",
+          "note": "洗净掰散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结与切末",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒底味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "提亮回甜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调整咸度",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "增麻",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "汤勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩块冷水浸泡半小时去血水，再冷水下锅加料酒焯透捞出。",
+      "time_min": 35,
+      "heat": "中火",
+      "tip": "冷水下锅血沫才出得净，热水一烫就锁住了。",
+      "visual_cue": "水面浮起厚厚灰白沫，肉块紧缩"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，下豆瓣酱小火炒出红油，加姜片与干辣椒炒香。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "豆瓣酱必须小火慢炒，火大使酱发苦整锅报废。",
+      "visual_cue": "油色转红亮，香味冲鼻不呛"
+    },
+    {
+      "n": 3,
+      "text": "下牛腩块大火翻炒上色，淋料酒、生抽、老抽炒到酱色均匀。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "肉块炒到表面收紧再加水，炖出来才不散。",
+      "visual_cue": "肉块表面焦香，颜色深红发亮"
+    },
+    {
+      "n": 4,
+      "text": "加足量热水没过肉块，放八角、桂皮、香叶、花椒、冰糖与葱结。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "一定加热水，冷水会让肉纤维瞬间紧缩变柴。",
+      "visual_cue": "汤色棕红，香料浮在汤面"
+    },
+    {
+      "n": 5,
+      "text": "转小火加盖炖一百分半钟，炖到牛腩用筷子轻松戳透。",
+      "time_min": 95,
+      "heat": "小火",
+      "tip": "全程只冒小泡，滚太猛汤会浑、肉会缩。",
+      "visual_cue": "筷子插入即过，汤面浮一层红油"
+    },
+    {
+      "n": 6,
+      "text": "另起锅煮面，面条将熟时下小白菜烫三十秒，捞入碗中浇牛腩原汤，尝咸淡补盐撒葱末。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "面煮到八分熟就捞，泡在热汤里还会继续软。",
+      "visual_cue": "面条透亮有弹性，菜叶翠绿"
+    }
+  ],
+  "tips": [
+    "炖好的牛腩汤可一次多做些，冷藏后撇掉浮油，分袋冷冻当备用汤底。",
+    "加一小块陈皮同炖，牛腩更容易软，汤也不油腻。",
+    "面碗先用热水烫一遍再盛面，端上桌不凉得快。"
+  ],
+  "common_mistakes": [
+    "牛腩不焯水直接炖，汤浑得发黑还带腥味。",
+    "中途加冷水，牛腩纤维一紧，炖两小时还是咬不动。",
+    "面条煮到全熟才捞，等端上桌已经糊成一团。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "500克:500克",
+      "note": "牛腱更紧实，炖的时间延长二十分钟。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "300克:300克",
+      "note": "米粉只需烫三十秒，别久煮。"
+    }
+  ],
+  "variations": [
+    "加几块白萝卜同炖，吸饱肉汤后清甜解腻。",
+    "起锅前加一勺醋和辣椒油，酸辣开胃，是川东一带的吃法。"
+  ],
+  "serving_suggestion": "热汤宽面盛大碗，撒葱末与香菜，配一碟泡菜同食最地道。",
+  "storage": "牛肉汤冷藏可存三天、冷冻可存一个月；面条须现煮现吃不宜存放。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 620,
+    "protein_g": 36,
+    "fat_g": 26,
+    "carbs_g": 62,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖至中心完全软烂熟透，避免半生带来的细菌风险。",
+    "煮面时汤水沸腾，捞面须用漏勺并避免手部靠近锅口以防蒸汽烫伤。"
+  ],
+  "origin_note": "红烧牛肉面在四川的街头巷尾随处可见，一锅用豆瓣炒香、香料慢炖的牛肉汤是灵魂。牛腩炖到用筷子一戳就透，汤色红亮带辣，浇在刚出锅的碱水面上，再烫两片青菜，重庆人说这是最踏实的一碗早饭。",
+  "tags": [
+    "川菜",
+    "面食",
+    "牛肉面",
+    "主食"
+  ],
+  "related_ids": [
+    "sichuan-xiaomian",
+    "sichuan-xiangchang-menfan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

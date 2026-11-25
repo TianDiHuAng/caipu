@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-jiaoyan-paigu",
+  "name": {
+    "zh": "椒盐排骨",
+    "en": "Salt and Pepper Spare Ribs",
+    "original": "椒盐排骨"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 30,
+    "total_min": 65
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 500,
+          "unit": "g",
+          "note": "斩成四厘米段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋液裹粉",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 260,
+          "unit": "ml",
+          "note": "炸制用",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 6,
+          "unit": "g",
+          "note": "炒椒盐",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "炒椒盐",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "腌制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "厨房纸",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨段用清水泡二十分钟去血水，捞出挤干水分装碗。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡出血水炸出来才不发黑，也不会有腥味。",
+      "visual_cue": "排骨颜色转浅，水盆微微泛红"
+    },
+    {
+      "n": 2,
+      "text": "加料酒、生抽、姜末、白胡椒抓匀腌十五分钟入味。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "腌料抓到手感发黏，味道才挂得住骨头。",
+      "visual_cue": "排骨表面湿润，酱色均匀"
+    },
+    {
+      "n": 3,
+      "text": "花椒与盐下干锅小火炒香，倒出碾碎成椒盐备用。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "花椒一变色就关火，炒黑了整碟都带苦。",
+      "visual_cue": "花椒脆得一捻即碎，盐粒微黄"
+    },
+    {
+      "n": 4,
+      "text": "排骨先裹蛋液再滚一层面粉，抖掉多余干粉后静置五分钟。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "裹完放一会，粉回潮才不会炸时脱壳。",
+      "visual_cue": "表面挂一层薄粉，不见干粉堆积"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒花生油烧到六成热，下排骨中火炸六分钟捞出沥油。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "油温不够粉会掉，六成热下锅外壳立刻定型。",
+      "visual_cue": "外壳浅金黄，排骨浮起不再下沉"
+    },
+    {
+      "n": 6,
+      "text": "油温升到八成热复炸四十秒，捞出趁热撒椒盐、葱末与干辣椒翻匀。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "复炸逼油起脆，只几十秒，久了肉汁全干。",
+      "visual_cue": "外壳金黄起泡，敲着有脆响"
+    }
+  ],
+  "tips": [
+    "排骨斩段时让摊主代劳，刀口整齐炸出来不易掉渣。",
+    "椒盐可以一次多炒些，装瓶留着做椒盐虾、椒盐蘑菇。",
+    "喜欢辣的可在椒盐里拌入少许辣椒粉，香辣更突出。"
+  ],
+  "common_mistakes": [
+    "排骨没泡水就腌，炸出来颜色发黑还带腥味。",
+    "裹粉后马上炸，粉层脱落，锅里全是白渣。",
+    "只炸一次就上桌，凉两分钟外壳就软塌了。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪排骨",
+      "substitute": "鸡翅中",
+      "ratio": "500克:500克",
+      "note": "鸡翅更易熟，炸的时间缩到五分钟。"
+    },
+    {
+      "original": "面粉",
+      "substitute": "糯米粉",
+      "ratio": "40克:40克",
+      "note": "糯米粉更脆，凉了也不易回软。"
+    }
+  ],
+  "variations": [
+    "炸好后与蒜末、干辣椒同炒，就是蒜香辣子排骨，味道更冲。",
+    "把椒盐换成孜然与辣椒面，立刻变成西北风味。"
+  ],
+  "serving_suggestion": "趁热装盘，配一碟椒盐与柠檬角，作为下酒菜或儿童餐主菜都合适。",
+  "storage": "炸好的当天吃完最脆，剩下的冷藏后可回锅高温复炸一分钟。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 30,
+    "fat_g": 36,
+    "carbs_g": 18,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "排骨须彻底加热至完全炸熟、骨边不见血色，避免猪肉寄生虫风险。",
+    "复炸时油温较高，下锅前须抖干水分并沿锅边轻放，防止热油飞溅。"
+  ],
+  "origin_note": "椒盐排骨是川菜馆里最受欢迎的一道干炸菜，排骨腌过再裹薄粉，两遍油炸出脆壳，最后趁热撒上现炒的花椒盐。外皮酥得咔嚓响，里面的肉还带着汁，四川人喝白酒时点它，一碟排骨能坐一晚上。",
+  "tags": [
+    "川菜",
+    "油炸",
+    "排骨",
+    "下酒"
+  ],
+  "related_ids": [
+    "sichuan-suzhurou",
+    "xiangla-xie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
