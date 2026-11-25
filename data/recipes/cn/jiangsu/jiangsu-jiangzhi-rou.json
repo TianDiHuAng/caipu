@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-jiangzhi-rou",
+  "name": {
+    "zh": "苏州酱汁肉",
+    "en": "Suzhou Braised Pork in Sweet Soy Sauce",
+    "original": "蘇州醬汁肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 110,
+    "total_min": 135
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "选带皮方肉，切四厘米方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 70,
+          "unit": "g",
+          "note": "炒糖色与调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 50,
+          "unit": "ml",
+          "note": "主咸味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "补色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "后段调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "焖煮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成四厘米见方的块，冷水下锅加料酒焯水，煮开撇沫后捞出冲净。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "肉块大小要一致，焖的时候才同时软烂。",
+      "visual_cue": "肉块收紧发白，浮沫贴锅边。"
+    },
+    {
+      "n": 2,
+      "text": "炒锅小火放冰糖和少量清水，熬到糖液起大泡转成琥珀色的糖色。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "糖色一到枣红立刻下肉，再等就发苦。",
+      "visual_cue": "糖液冒细泡，颜色像琥珀。"
+    },
+    {
+      "n": 3,
+      "text": "肉块倒入糖色里翻炒上色，加姜片、大葱段、八角、桂皮和老抽炒匀。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "每块肉都要翻到，上色不匀成品就花脸。",
+      "visual_cue": "肉块通体红亮，锅底油泛红色。"
+    },
+    {
+      "n": 4,
+      "text": "倒入生抽和清水，水面没过肉块，大火烧开后转小火焖七十分钟。",
+      "time_min": 72,
+      "heat": "小火",
+      "tip": "水一次加足，中途加水肉会紧、汤汁也变淡。",
+      "visual_cue": "汤面小泡微滚，肉皮轻轻颤动。"
+    },
+    {
+      "n": 5,
+      "text": "加盐调味后开中火收汁，不停翻动肉块，让酱汁均匀裹在每一块上。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "收汁时火别开大，糖分沉底极易糊锅，见汁稠就关小火。",
+      "visual_cue": "酱汁浓稠挂肉，锅底只剩薄薄一层。"
+    },
+    {
+      "n": 6,
+      "text": "关火后让肉在锅里静置十分钟回汁，再盛盘浇上酱汁，配白饭上桌。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置这几分钟让肉心回软回汁，切块时不散，盘里也不会流一滩汤。",
+      "visual_cue": "肉皮透亮微颤，酱汁缓缓渗下。"
+    }
+  ],
+  "tips": [
+    "五花肉选三层分明、皮薄的，焖后肥而不腻，切片也好看。",
+    "冰糖用量别减，苏式酱汁肉讲究甜出头、咸收口。",
+    "隔夜冷藏后再蒸热，味道更融合，肉也更入味。"
+  ],
+  "common_mistakes": [
+    "糖色熬过头，酱汁带焦苦味，颜色发黑。",
+    "全程大火焖煮，肉块外烂内生，肥肉化成一锅油。",
+    "收汁时不翻动，锅底结焦，酱汁带上糊味。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "1:1",
+      "note": "前腿肉瘦多，焖的时间延长十分钟，口感稍紧。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "1:1",
+      "note": "白糖易焦，糖色火候要再小一档。"
+    }
+  ],
+  "variations": [
+    "苏州老店会在卤汁里加一小块红曲调色，成品红如樱桃，卖相更艳。",
+    "有的家庭把肉块切得更大，焖足两小时，吃起来更酥烂。"
+  ],
+  "serving_suggestion": "连汁浇在白饭上最经典，也可夹荷叶饼吃，配一碗青菜汤解腻。",
+  "storage": "冷藏可存三日，冷冻两周；复热连汁蒸十五分钟，别用大火翻煮。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 620,
+    "protein_g": 24,
+    "fat_g": 48,
+    "carbs_g": 20,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "五花肉须焖至彻底熟透，中心不见血色，不要半生食用。",
+    "含糖酱汁容易糊锅，收汁时保持中小火并看锅。"
+  ],
+  "origin_note": "酱汁肉是苏州春季的传统肉菜，五花肉炒糖色后用酱油冰糖小火焖透，收出一层红亮酱汁，甜中带咸、入口即化，旧时与樱桃肉、酱方并称苏式肉菜三绝。",
+  "tags": [
+    "苏菜",
+    "红烧",
+    "五花肉",
+    "家常"
+  ],
+  "related_ids": [
+    "suzhou-yingtao-rou",
+    "wuxi-paigu",
+    "jiangsu-jiangya"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

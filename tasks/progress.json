@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T05:53:42.949Z",
+  "generatedAt": "2026-11-25T06:10:33.973Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 1961,
-    "coverage": 0.5989615149664019
+    "actual": 1970,
+    "coverage": 0.6017104459376909
   },
   "regions": {
     "cn": [
@@ -570,7 +570,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 48,
+        "actual": 57,
         "cells": [
           {
             "category": "main-seafood",
@@ -594,8 +594,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 7,
             "ids": [
+              "jiangsu-jiangzhi-rou",
+              "jiangsu-muyou-chuanya",
               "qingdun-shizitou",
               "shizitou",
               "suzhou-yingtao-rou",
@@ -621,9 +623,12 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 7,
             "ids": [
+              "jiangsu-baiqie-yangrou",
+              "jiangsu-jiangya",
               "jiangsu-liangban-wosun",
+              "jiangsu-tangcu-luobo",
               "nanjing-yanshui-ya",
               "shuijing-yaorou",
               "zao-maodou"
@@ -657,9 +662,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "dazhu-gansi",
+              "jiangsu-jingxiang-doufu",
               "xiefen-doufu"
             ]
           },
@@ -687,11 +693,14 @@
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 7,
             "ids": [
               "guihua-tangou",
+              "jiangsu-baiqie-yangrou",
+              "jiangsu-jiangya",
               "jiangsu-liangban-wosun",
               "jiangsu-songhua-dangao",
+              "jiangsu-tangcu-luobo",
               "zao-maodou"
             ]
           },
