@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-hupidan",
+  "name": {
+    "zh": "川味虎皮鸡蛋",
+    "en": "Sichuan Tiger-Skin Eggs",
+    "original": "川味虎皮雞蛋"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "salty",
+    "sweet",
+    "fragrant",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 8,
+          "unit": "piece",
+          "note": "煮至全熟后剥壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炸制用，可回收",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "上色调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "加深色泽",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "回甜提亮",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "剪节",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "增麻",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "焖烧用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "漏勺",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋冷水下锅加一克盐，大火烧开后转中火煮九分钟，捞出投入冷水泡五分钟再剥壳。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "煮好后立刻过冷水，蛋壳一敲整片脱落，蛋白也不破。",
+      "visual_cue": "蛋壳完整剥落，蛋白光滑无缺口。"
+    },
+    {
+      "n": 2,
+      "text": "剥壳的鸡蛋用厨房纸彻底擦干，表面划两刀浅口便于入味。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "表面必须擦干，带水下锅会剧烈爆油。",
+      "visual_cue": "蛋身干爽，划口浅而整齐。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油烧到七成热，下鸡蛋中火炸到表面起皱金黄，捞出沥油。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "边炸边翻动，让蛋身均匀起皱，那层皱皮就是虎皮。",
+      "visual_cue": "蛋面布满金黄皱皮，敲之发硬。"
+    },
+    {
+      "n": 4,
+      "text": "锅留底油，下姜片、干辣椒节和花椒小火炒香，加生抽、老抽、料酒、白糖和清水烧开。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "香料炒香再下液体，酱香才立得住。",
+      "visual_cue": "汤汁红亮，香料香气上扬。"
+    },
+    {
+      "n": 5,
+      "text": "放入炸好的鸡蛋，加盐调味，小火加盖焖八分钟，中途翻面一次。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "焖的过程让皱皮吸饱汤汁，翻面才上色均匀。",
+      "visual_cue": "蛋身转为酱红，皱皮鼓胀吸汁。"
+    },
+    {
+      "n": 6,
+      "text": "开盖大火收汁到浓稠挂蛋，撒葱结增香后装盘。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "收到汤汁能挂住蛋身就停，收干了发苦。",
+      "visual_cue": "酱汁油亮裹住蛋身，盘底无余汤。"
+    }
+  ],
+  "tips": [
+    "鸡蛋煮九分钟刚好全熟，蛋黄不发青。",
+    "炸前务必擦干水分，避免爆油伤人。",
+    "焖烧阶段小火慢煨，皱皮才吸汁。"
+  ],
+  "common_mistakes": [
+    "鸡蛋带水下油锅，爆油溅得满灶台。",
+    "炸得太久，蛋白发硬嚼起来像橡皮。",
+    "收汁收得太干，酱味发苦盖住蛋香。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡蛋",
+      "substitute": "鹌鹑蛋",
+      "ratio": "8个:20个",
+      "note": "鹌鹑蛋更小更易入味，炸制时间缩短到三分钟。"
+    },
+    {
+      "original": "干辣椒",
+      "substitute": "辣椒面",
+      "ratio": "5克:6克",
+      "note": "辣椒面在收汁前撒入，红亮但辣味略冲。"
+    }
+  ],
+  "variations": [
+    "有的做法在焖烧时加一勺豆瓣酱，酱香和辣味更厚重。",
+    "川南一带会加几块冰糖同烧，色泽更亮、甜味更柔。"
+  ],
+  "serving_suggestion": "热吃酱香浓郁，凉后当冷盘或下酒菜也别有风味，配米饭最实在。",
+  "storage": "冷藏可存两日，连汤汁一起保存更入味；复热时加少许清水小火焖三分钟即可。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 330,
+    "protein_g": 16,
+    "fat_g": 25,
+    "carbs_g": 9,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须煮到全熟定型，蛋黄中心完全凝固后再进行炸制，彻底加热至熟透再食用。",
+    "油炸时蛋体含水易爆油，须彻底擦干并保持通风，溅油烫伤风险高，务必注意安全操作。"
+  ],
+  "origin_note": "虎皮鸡蛋是川菜馆冷盘和家常菜里的双重角色，鸡蛋煮到全熟剥壳擦干，下七成热油炸出满身金黄皱皮，再与干辣椒、花椒、姜葱同烧，小火焖到皱皮吸饱酱汁，收汁后油亮红润，咬开外层韧、内里嫩，咸甜带辣。",
+  "tags": [
+    "川菜",
+    "鸡蛋",
+    "红烧",
+    "下饭菜"
+  ],
+  "related_ids": [
+    "yuxiang-hongdan",
+    "sichuan-guaiwei-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
