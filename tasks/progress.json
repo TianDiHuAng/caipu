@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T13:02:39.535Z",
+  "generatedAt": "2026-11-25T13:12:04.038Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2082,
-    "coverage": 0.6359193646915089
+    "actual": 2087,
+    "coverage": 0.6374465485644472
   },
   "regions": {
     "cn": [
@@ -287,17 +287,18 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 82,
+        "actual": 87,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "congshao-haishen",
               "fanqie-daxia",
               "jiaodong-bayu-jiaozi",
+              "shandong-furong-ganbei",
               "shandong-ganjian-daiyu",
               "shandong-xiangsu-xia",
               "suanrong-shenghao",
@@ -392,9 +393,13 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 5,
             "ids": [
-              "shandong-muxu-rou"
+              "shandong-furong-ganbei",
+              "shandong-jiucai-chaodan",
+              "shandong-liu-huangcai",
+              "shandong-muxu-rou",
+              "shandong-xiaren-huadan"
             ]
           },
           {
