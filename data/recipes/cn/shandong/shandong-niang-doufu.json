@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-niang-doufu",
+  "name": {
+    "zh": "酿豆腐",
+    "en": "Stuffed Tofu Pockets",
+    "original": "釀豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "切三角厚块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥提香",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "封口与勾芡",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 200,
+          "unit": "ml",
+          "note": "焖烧汤汁",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制用油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "小勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "嫩豆腐切成两厘米厚的长方块，再对角切成三角块，用厨房纸吸干表面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "豆腐表面吸得越干，煎的时候就越不容易粘锅。",
+      "visual_cue": "豆腐块边缘齐整，表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加香菇丁、姜末、料酒、生抽、盐和白胡椒粉顺一个方向搅打到上劲。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "始终顺同一个方向搅，肉馅才抱团不出水。",
+      "visual_cue": "肉馅黏稠发亮，能粘住盆壁"
+    },
+    {
+      "n": 3,
+      "text": "每块豆腐的斜边中间挖一个小坑，撒一点玉米淀粉，填入肉馅压实抹平。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "坑里撒淀粉是粘合剂，煎时肉馅才不掉。",
+      "visual_cue": "肉馅填得饱满，与豆腐面齐平"
+    },
+    {
+      "n": 4,
+      "text": "花生油烧到六成热，肉馅朝下摆入锅中，中火煎三分钟至肉面金黄定型。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "坑里撒的那层淀粉是粘合剂，煎的时候肉馅才不会掉。",
+      "visual_cue": "肉面结壳焦黄，边缘微微收缩"
+    },
+    {
+      "n": 5,
+      "text": "翻面煎另一边两分钟，倒入鸡汤烧开，转小火焖八分钟让豆腐吃进汤汁。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "先煎有肉的一面再煎豆腐面，肉馅才不容易散。",
+      "visual_cue": "汤汁微沸，豆腐块微微鼓起"
+    },
+    {
+      "n": 6,
+      "text": "玉米淀粉加水调匀淋入勾薄芡，撒小葱末起锅装盘。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "芡一定要薄，能挂住豆腐表面就够，厚了整盘发糊。",
+      "visual_cue": "汤汁透亮微稠，豆腐完整不散"
+    }
+  ],
+  "tips": [
+    "豆腐选稍老一点的嫩豆腐，太嫩挖坑时容易塌。",
+    "肉馅别填太满，煎的时候会缩，鼓出来就不好看。",
+    "剩下的肉馅可以团成小丸子同焖，一点不浪费。"
+  ],
+  "common_mistakes": [
+    "豆腐没吸干水就下锅，油花四溅还粘掉一层皮。",
+    "坑里不撒淀粉，肉馅煎完整块脱落，只剩空豆腐。",
+    "焖的时候大火翻滚，豆腐块碎成一锅豆花。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "虾仁",
+      "ratio": "150克:150克",
+      "note": "虾仁剁成粗粒，加姜末和料酒拌，鲜味更清。"
+    },
+    {
+      "original": "鸡汤",
+      "substitute": "清水",
+      "ratio": "200毫升:200毫升",
+      "note": "清水版本补一勺生抽和少许白糖提鲜。"
+    }
+  ],
+  "variations": [
+    "加五十克剁碎的荸荠同拌肉馅，口感更脆爽。",
+    "收汁前放几片青椒同焖，多一层清香。"
+  ],
+  "serving_suggestion": "整盘端上桌，把芡汁浇在豆腐上，配米饭吃，肉汁拌饭尤其香。",
+  "storage": "冷藏可存两天，复热时加两勺鸡汤小火焖三分钟；豆腐不宜冷冻，肉馅可单独冻存。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 300,
+    "protein_g": 22,
+    "fat_g": 19,
+    "carbs_g": 9,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "肉馅须煎至中心完全变色、焖至熟透，中心温度达到七十五度以上。",
+    "处理生肉后的刀具砧板要彻底清洗，避免与凉菜交叉污染。"
+  ],
+  "origin_note": "酿豆腐在山东是待客的家常硬菜，逢年过节家家都做。老做法是把豆腐切成三角，挖坑填肉，先煎后焖，出锅时浇一层薄芡。豆腐吸饱肉汁，一咬满口鲜汤，肉馅又带豆香，两样东西互相成全，是鲁菜里最朴素的搭配智慧。",
+  "tags": [
+    "鲁菜",
+    "豆腐",
+    "酿菜",
+    "家常"
+  ],
+  "related_ids": [
+    "shandong-shaguo-doufu",
+    "shandong-xianggu-shao-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
