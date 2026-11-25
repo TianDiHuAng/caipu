@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T03:26:28.346Z",
+  "generatedAt": "2026-11-25T03:51:55.189Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 1901,
-    "coverage": 0.5806353084911423
+    "actual": 1907,
+    "coverage": 0.5824679291386683
   },
   "regions": {
     "cn": [
@@ -910,13 +910,13 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 106,
+        "actual": 112,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 14,
+            "actual": 15,
             "ids": [
               "fujian-chashugu-paigu-tang",
               "fujian-fotiaoqiang",
@@ -924,6 +924,7 @@
               "fujian-honggu-dun-jitui",
               "fujian-jitang-cuan-haibang",
               "fujian-jiuzao-laoya-tang",
+              "fujian-qixing-yuwan-tang",
               "fujian-rougeng-tang",
               "fujian-suancai-ya-rou-tang",
               "fujian-suanla-youyu-tang",
@@ -938,16 +939,19 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 15,
             "ids": [
               "baizhuo-xiaoguan",
               "fujian-congyou-geli",
               "fujian-haoli-jian",
+              "fujian-jiangyoushui-youyu",
               "fujian-qingchao-xiaren",
               "fujian-qingzheng-huangyu",
               "fujian-suanrong-kai-bian-xia",
+              "fujian-suanrong-zheng-beibei",
               "fujian-xiangjian-daiyu",
               "fujian-xiangzao-chao-chengzi",
+              "fujian-zao-zui-xia",
               "jiangyoushui-luyu",
               "min-jiaoyan-xia",
               "minnan-jian-xie",
@@ -982,13 +986,15 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 15,
             "ids": [
               "dingbian-hu",
               "fujian-chongwu-yujuan",
               "fujian-mianxian-hu",
+              "fujian-runbing",
               "fujian-shaorou-zong",
               "fujian-wangao",
+              "fujian-xian-guo",
               "fujian-yu-bao",
               "fujian-zha-wu-xiang",
               "fujian-zhaza",
