@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-linsensuppe",
+  "name": {
+    "zh": "德式扁豆汤",
+    "en": "Linsensuppe",
+    "original": "Linsensuppe"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 45,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "smoky",
+    "sour",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扁豆",
+          "name_en": "lentil",
+          "amount": 300,
+          "unit": "g",
+          "note": "褐色小扁豆，洗净",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切一厘米丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小条",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "苹果醋",
+          "name_en": "apple-cider-vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "最后调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable-oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black-pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎装饰",
+          "optional": false
+        },
+        {
+          "name": "水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "漏勺",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "扁豆洗净挑去杂质，用清水泡二十分钟，赶时间也可直接下锅多煮十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡过的扁豆煮得快，口感也更均匀。",
+      "visual_cue": "豆子沉底，水略浑浊"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒植物油，下培根小火煸四分钟至出油变脆。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "培根的烟熏味是这锅汤的底味。",
+      "visual_cue": "培根卷边，锅底浮一层油"
+    },
+    {
+      "n": 3,
+      "text": "加洋葱丁、胡萝卜丁和蒜末，中火炒五分钟至洋葱透明。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "蔬菜炒软再加水，汤才甜。",
+      "visual_cue": "洋葱透亮，胡萝卜边缘发亮"
+    },
+    {
+      "n": 4,
+      "text": "倒入扁豆和一千二百毫升水，煮开后转小火煮二十五分钟。",
+      "time_min": 27,
+      "heat": "小火",
+      "tip": "水面保持微沸，别大火滚。",
+      "visual_cue": "扁豆裂开变软，汤色转浑"
+    },
+    {
+      "n": 5,
+      "text": "加土豆丁继续煮十分钟至土豆能被勺子压碎。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "土豆后放，否则会化在汤里。",
+      "visual_cue": "土豆边角圆钝，一压就散"
+    },
+    {
+      "n": 6,
+      "text": "用盐和黑胡椒调味，关火淋苹果醋搅匀，撒欧芹碎上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "醋最后放，酸香才不会煮飞。",
+      "visual_cue": "汤体浓稠，入口先咸后酸"
+    }
+  ],
+  "tips": [
+    "扁豆品种不同吸水量差别大，水不够中途补热水。",
+    "喜欢更浓可把一勺扁豆压碎搅回汤里。",
+    "隔夜更好喝，酸味和烟熏味融合得更透。"
+  ],
+  "common_mistakes": [
+    "扁豆没挑杂质，煮出来有沙粒感。",
+    "全程大火滚，扁豆煮烂成一锅糊。",
+    "一开始就放盐，扁豆皮会变硬煮不软。"
+  ],
+  "substitutions": [
+    {
+      "original": "扁豆",
+      "substitute": "红腰豆",
+      "ratio": "300克:300克",
+      "note": "需提前泡四小时，煮的时间延长十分钟。"
+    },
+    {
+      "original": "培根",
+      "substitute": "烟熏火腿",
+      "ratio": "100克:100克",
+      "note": "咸度更高，盐要减两克。"
+    }
+  ],
+  "variations": [
+    "加一根切片的香肠同煮，是施瓦本地区的吃法。",
+    "加一勺黄芥末，酸辣感更明显，汤也更开胃。"
+  ],
+  "serving_suggestion": "盛进深碗，配一块黑麦面包和一杯苹果汁，是德国冬天的家常午餐。",
+  "storage": "冷藏三天，冷冻一个月；复热加少量热水调稀，出锅前再点几滴醋。",
+  "nutrition_estimate": {
+    "basis": "每份约400克",
+    "calories_kcal": 390,
+    "protein_g": 20,
+    "fat_g": 14,
+    "carbs_g": 46,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "培根须煸至完全熟透；汤品冷却须在两小时内冷藏，复热须彻底加热至沸腾并搅拌防糊底。"
+  ],
+  "origin_note": "Linsensuppe 是德国冬天的常备汤，扁豆加培根和根茎蔬菜一锅煮，便宜又管饱。新年吃扁豆在德国象征钱币，所以这道汤也常出现在跨年夜的餐桌上。",
+  "tags": [
+    "德国",
+    "扁豆",
+    "汤",
+    "培根"
+  ],
+  "related_ids": [
+    "german-kartoffelsuppe",
+    "german-sauerbraten"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

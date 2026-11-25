@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T08:09:50.015Z",
+  "generatedAt": "2026-11-24T11:30:37.879Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 639,
+    "cells": 640,
     "target": 3274,
-    "actual": 1808,
-    "coverage": 0.5522296884544899
+    "actual": 1817,
+    "coverage": 0.5549786194257789
   },
   "regions": {
     "cn": [
@@ -5218,18 +5218,20 @@
         "en": "German",
         "tier": "B",
         "target": 38,
-        "actual": 19,
+        "actual": 28,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 6,
+            "actual": 8,
             "ids": [
               "austrian-wiener-schnitzel",
               "german-frikadellen",
+              "german-jagerschnitzel",
               "german-rouladen",
               "german-sauerbraten",
+              "german-schweinebraten",
               "schweinshaxe",
               "wiener-schnitzel"
             ]
@@ -5238,9 +5240,11 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "apple-strudel",
+              "german-apfelkuchen",
+              "german-hefezopf",
               "german-zwiebelkuchen",
               "pretzel"
             ]
@@ -5258,19 +5262,21 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "german-cucumber-salad",
-              "german-kartoffelsalat"
+              "german-kartoffelsalat",
+              "german-krautsalat"
             ]
           },
           {
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "apple-strudel",
+              "german-apfelkuchen",
               "german-kaiserschmarrn",
               "german-milchreis"
             ]
@@ -5292,6 +5298,26 @@
             "ids": []
           },
           {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "german-kartoffelsalat",
+              "german-krautsalat"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "german-kartoffelsuppe",
+              "german-linsensuppe"
+            ]
+          },
+          {
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
@@ -5301,21 +5327,12 @@
             ]
           },
           {
-            "category": "cold-dish",
+            "category": "breakfast",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "german-kartoffelsalat"
-            ]
-          },
-          {
-            "category": "soup",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "german-kartoffelsuppe"
+              "german-hefezopf"
             ]
           }
         ]

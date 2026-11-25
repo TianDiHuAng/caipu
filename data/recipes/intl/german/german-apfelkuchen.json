@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-apfelkuchen",
+  "name": {
+    "zh": "德式苹果蛋糕",
+    "en": "Apfelkuchen",
+    "original": "Apfelkuchen"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "dessert",
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 50,
+    "total_min": 80
+  },
+  "servings": 8,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "rich",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 900,
+          "unit": "g",
+          "note": "酸味品种，去皮切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "低筋面粉",
+          "name_en": "cake-flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 120,
+          "unit": "g",
+          "note": "软化",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 100,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 80,
+          "unit": "ml",
+          "note": "调面糊",
+          "optional": false
+        },
+        {
+          "name": "肉桂粉",
+          "name_en": "ground-cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "拌苹果",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 20,
+          "unit": "g",
+          "note": "取汁防氧化",
+          "optional": false
+        },
+        {
+          "name": "糖粉",
+          "name_en": "powdered-sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "撒面装饰",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "打蛋器",
+    "八寸圆模",
+    "烘焙纸",
+    "削皮刀",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄油室温软化到手指能压出坑，加白糖和盐打发到颜色发白、体积变蓬。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "黄油太硬打不发，太软会出油。",
+      "visual_cue": "颜色乳白，提起打蛋器有尖角"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋分两次加入，每次搅到完全吸收再加下一次。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "一次加完容易油水分离。",
+      "visual_cue": "面糊细腻有光泽且浓稠"
+    },
+    {
+      "n": 3,
+      "text": "倒入牛奶拌匀，筛入低筋面粉，用刮刀翻拌到看不见干粉即可。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "拌到无干粉就停，过度会起筋发硬。",
+      "visual_cue": "面糊浓稠，刮刀挑起缓慢落下"
+    },
+    {
+      "n": 4,
+      "text": "苹果去皮去芯切三毫米薄片，拌入柠檬汁和肉桂粉。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "切好马上拌柠檬汁，不然会发黑。",
+      "visual_cue": "苹果片整齐，表面挂一层香料"
+    },
+    {
+      "n": 5,
+      "text": "面糊倒进铺纸的圆模抹平，苹果片一片压一片排成同心圆，轻轻按进面糊。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "排紧一点，烤完不会散开。",
+      "visual_cue": "苹果片层层叠放，覆盖整个表面"
+    },
+    {
+      "n": 6,
+      "text": "烤箱一百八十度烤五十分钟，牙签插入中心无湿面糊即可出炉。",
+      "time_min": 50,
+      "heat": "中火",
+      "tip": "中途上色过快就盖一层锡纸。",
+      "visual_cue": "表面金黄，边缘微微离模"
+    },
+    {
+      "n": 7,
+      "text": "连模放凉十分钟再脱模，完全冷却后筛一层糖粉。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "热着切会散，凉透才成型。",
+      "visual_cue": "切面整齐，糖粉如薄霜"
+    }
+  ],
+  "tips": [
+    "选酸一点的苹果，烤完甜而不腻。",
+    "面糊别打太久，翻拌手法从底往上。",
+    "冷藏一夜后风味更融合，口感更紧实。"
+  ],
+  "common_mistakes": [
+    "黄油没软化就打，糖和油始终分离。",
+    "苹果片切得太厚，烤完中心还是生的。",
+    "热的时候脱模，整块蛋糕直接散掉。"
+  ],
+  "substitutions": [
+    {
+      "original": "苹果",
+      "substitute": "梨",
+      "ratio": "900克:900克",
+      "note": "甜度更高，糖可减二十克。"
+    },
+    {
+      "original": "低筋面粉",
+      "substitute": "中筋面粉加玉米淀粉",
+      "ratio": "250克:200克加50克",
+      "note": "口感略粗，接近家常版本。"
+    }
+  ],
+  "variations": [
+    "表面撒一把杏仁片，烤后多一层脆感。",
+    "加一勺酸奶油进面糊，湿润度更高。"
+  ],
+  "serving_suggestion": "切一块配打发的淡奶油或一球香草冰淇淋，配黑咖啡正好压甜。",
+  "storage": "冷藏四天，密封常温两天；食用前回温十分钟风味更佳。",
+  "nutrition_estimate": {
+    "basis": "每份约150克",
+    "calories_kcal": 340,
+    "protein_g": 5,
+    "fat_g": 16,
+    "carbs_g": 46,
+    "sodium_mg": 140,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "egg"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "含鸡蛋的面糊须烤至中心无湿黏、牙签插入干净；成品含奶蛋，冷藏保存并在四天内食用完。"
+  ],
+  "origin_note": "Apfelkuchen 在德国几乎是家庭烘焙的入门款，每个地区都有自己的版本：南部偏厚面糊，北部用酥皮。秋天苹果上市时，厨房里飘的多半就是肉桂和黄油的味道。",
+  "tags": [
+    "德国",
+    "苹果",
+    "蛋糕",
+    "烘焙"
+  ],
+  "related_ids": [
+    "apple-strudel",
+    "german-kaiserschmarrn"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

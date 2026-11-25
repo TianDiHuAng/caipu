@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-jagerschnitzel",
+  "name": {
+    "zh": "德式猎人猪排",
+    "en": "Jägerschnitzel",
+    "original": "Jägerschnitzel"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork-tenderloin",
+          "amount": 600,
+          "unit": "g",
+          "note": "横切成三片，拍薄",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button-mushroom",
+          "amount": 250,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 60,
+          "unit": "g",
+          "note": "切小条",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "勾芡用",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy-cream",
+          "amount": 80,
+          "unit": "ml",
+          "note": "增稠提香",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "煎蘑菇用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable-oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎肉用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black-pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎装饰",
+          "optional": false
+        },
+        {
+          "name": "水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "肉锤",
+    "平底锅",
+    "夹子",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊横切成三片，用肉锤拍到半厘米厚，两面撒一半盐和黑胡椒。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "拍薄要均匀，厚的地方多敲两下。",
+      "visual_cue": "肉片薄而完整，边缘不破"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒植物油烧热，肉片每面煎两分钟至金黄，盛出保温。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "锅要够热，肉片下去立刻响。",
+      "visual_cue": "两面金黄，锅底留一层焦香"
+    },
+    {
+      "n": 3,
+      "text": "原锅放黄油，下培根小火煸三分钟至出油变脆。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "培根煸出油，蘑菇才不粘。",
+      "visual_cue": "培根卷边，锅里有清亮油"
+    },
+    {
+      "n": 4,
+      "text": "下洋葱丁和蒜末炒三分钟，再放口蘑片炒到出水收干。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "蘑菇要炒到不出水，酱才不稀。",
+      "visual_cue": "蘑菇片缩小变褐，锅底干爽"
+    },
+    {
+      "n": 5,
+      "text": "撒面粉翻炒一分钟，倒水和淡奶油搅匀，小火煮三分钟成浓酱。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "面粉要炒匀再加水，否则结块。",
+      "visual_cue": "酱体顺滑，能挂住勺背"
+    },
+    {
+      "n": 6,
+      "text": "用剩下的盐和黑胡椒调味，肉片回锅浸一分钟，撒欧芹碎上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "肉片只浸一分钟，久了炸衣会软。",
+      "visual_cue": "每片肉都裹上一层褐色酱汁"
+    }
+  ],
+  "tips": [
+    "肉锤用拍打面而不是钉面，肉才不会被扎烂。",
+    "蘑菇换成鸡油菌，香气更接近森林版。",
+    "配炸薯条或土豆泥都能把酱汁用干净。"
+  ],
+  "common_mistakes": [
+    "肉片没有拍薄，煎完外面焦了里面还生。",
+    "蘑菇没炒干就加水，酱汁稀得挂不住。",
+    "面粉直接撒进汤里，酱里全是白疙瘩。"
+  ],
+  "substitutions": [
+    {
+      "original": "淡奶油",
+      "substitute": "牛奶加一勺黄油",
+      "ratio": "80毫升:70毫升",
+      "note": "酱体稍稀，面粉可多加五克。"
+    },
+    {
+      "original": "口蘑",
+      "substitute": "香菇",
+      "ratio": "250克:250克",
+      "note": "香气更重，炒的时间延长两分钟。"
+    }
+  ],
+  "variations": [
+    "不加奶油做成清汤猎人汁，口感更轻。",
+    "用鸡胸肉代替猪里脊，家庭版更省事。"
+  ],
+  "serving_suggestion": "肉片连酱一起浇在盘里，配炸薯条和一份黄瓜沙拉，挤上柠檬汁解腻。",
+  "storage": "冷藏两天，酱与肉分开存；复热小火加热酱汁再放肉片。",
+  "nutrition_estimate": {
+    "basis": "每份约330克",
+    "calories_kcal": 580,
+    "protein_g": 45,
+    "fat_g": 36,
+    "carbs_g": 14,
+    "sodium_mg": 790,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉片须煎至中心完全变白、无粉红汁水；含奶酱汁冷藏不超过两天，复热须彻底加热至沸腾。"
+  ],
+  "origin_note": "Jäger 是猎人的意思，这道菜的酱汁原本用猎获的野味和森林里的蘑菇熬成，后来改用猪里脊，成了德国家常菜馆菜单上最稳的一道。蘑菇酱配肉，是德国人对鲜味的理解。",
+  "tags": [
+    "德国",
+    "猪排",
+    "蘑菇",
+    "酱汁"
+  ],
+  "related_ids": [
+    "wiener-schnitzel",
+    "german-rouladen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

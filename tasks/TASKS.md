@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-24T08:09:50.091Z
+> 生成时间：2026-11-24T11:30:37.965Z
 
-**总览**：工程任务 49/53；菜谱内容 1808/3274（55.2%），共 639 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1817/3274（55.5%），共 640 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -416,7 +416,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1158/1935）
+### 外国菜系（1167/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，63/107</summary>
 
@@ -724,18 +724,19 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>德国菜 german</b> — B 级，19/38</summary>
+<details><summary><b>德国菜 german</b> — B 级，28/38</summary>
 
-- [x] `P4-german/main-meat` 主菜·肉（Meat Main）目标 6，已完成 6
-- [ ] `P4-german/bakery` 烘焙面包（Bakery）目标 6，已完成 3
+- [x] `P4-german/main-meat` 主菜·肉（Meat Main）目标 6，已完成 8
+- [ ] `P4-german/bakery` 烘焙面包（Bakery）目标 6，已完成 5
 - [ ] `P4-german/fermented` 腌制发酵（Pickle & Ferment）目标 6，已完成 1
-- [ ] `P4-german/salad` 沙拉（Salad）目标 6，已完成 2
-- [ ] `P4-german/dessert` 甜点（Dessert）目标 6，已完成 3
+- [ ] `P4-german/salad` 沙拉（Salad）目标 6，已完成 3
+- [ ] `P4-german/dessert` 甜点（Dessert）目标 6，已完成 4
 - [ ] `P4-german/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 1
 - [ ] `P4-german/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [x] `P4-german/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2
+- [x] `P4-german/soup` 汤羹（Soup）目标 0，已完成 2
 - [x] `P4-german/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
-- [x] `P4-german/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
-- [x] `P4-german/soup` 汤羹（Soup）目标 0，已完成 1
+- [x] `P4-german/breakfast` 早餐（Breakfast）目标 0，已完成 1
 
 </details>
 

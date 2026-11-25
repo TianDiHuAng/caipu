@@ -1,0 +1,248 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-hefezopf",
+  "name": {
+    "zh": "德式辫子面包",
+    "en": "Hefezopf",
+    "original": "Hefezopf"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "bakery",
+    "breakfast"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 110,
+    "cook_min": 35,
+    "total_min": 145
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "高筋面粉",
+          "name_en": "bread-flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 220,
+          "unit": "ml",
+          "note": "温热不烫手",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 7,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 80,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 80,
+          "unit": "g",
+          "note": "软化",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "一个入面团一个刷面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "增筋",
+          "optional": false
+        },
+        {
+          "name": "葡萄干",
+          "name_en": "raisin",
+          "amount": 60,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "杏仁片",
+          "name_en": "almond-flake",
+          "amount": 20,
+          "unit": "g",
+          "note": "撒面装饰",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厨师机",
+    "发酵盆",
+    "烤盘",
+    "刷子",
+    "保鲜膜",
+    "擀面杖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温牛奶加一勺白糖和酵母搅匀，静置十分钟到表面浮起一层细泡。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "牛奶温度接近体温，太烫会杀死酵母。",
+      "visual_cue": "表面泛起细密泡沫，像浅咖啡色奶液"
+    },
+    {
+      "n": 2,
+      "text": "高筋面粉、剩下的白糖和盐混匀，倒入酵母奶和一个鸡蛋，厨师机低速揉五分钟成团。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "盐别直接碰酵母，先和面粉混匀。",
+      "visual_cue": "面团粗糙，盆底无干粉"
+    },
+    {
+      "n": 3,
+      "text": "分次加入软化黄油，中速揉十二分钟至面团能拉出薄膜。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "黄油一次加太多，面团会打滑揉不匀。",
+      "visual_cue": "薄膜透光不破，面团光滑有弹性"
+    },
+    {
+      "n": 4,
+      "text": "拌入泡软沥干的葡萄干，盖保鲜膜放温暖处发酵一小时至两倍大。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "温度二十八度左右最合适，别放暖气旁。",
+      "visual_cue": "体积翻倍，手指戳洞不回缩"
+    },
+    {
+      "n": 5,
+      "text": "面团排气后分成三等份，搓成三条长短一致的长条，编成辫子收口捏紧。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "三条粗细一致，编出来才匀称。",
+      "visual_cue": "辫纹清晰，长度约三十厘米"
+    },
+    {
+      "n": 6,
+      "text": "移到烤盘再发酵三十分钟，表面刷蛋液撒杏仁片。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "二次发酵到按下去缓慢回弹即可。",
+      "visual_cue": "体积明显膨大，表面湿润有光"
+    },
+    {
+      "n": 7,
+      "text": "烤箱一百八十度烤三十五分钟，中途上色过深盖锡纸。",
+      "time_min": 35,
+      "heat": "中火",
+      "tip": "最后十分钟盯着颜色，杏仁片容易焦。",
+      "visual_cue": "表皮深金，敲起来有空响"
+    }
+  ],
+  "tips": [
+    "面团偏软是正常的，手粉少量多次撒。",
+    "刷两层薄蛋液，光泽比一次刷厚更好看。",
+    "烤好立刻脱盘，底部才不会回潮。"
+  ],
+  "common_mistakes": [
+    "酵母直接接触盐或高温牛奶，面团发不起来。",
+    "黄油没软化就加，揉半天也揉不匀。",
+    "辫子编得太紧，二次发酵时撑断表层。"
+  ],
+  "substitutions": [
+    {
+      "original": "葡萄干",
+      "substitute": "蔓越莓干",
+      "ratio": "60克:60克",
+      "note": "酸味更明显，糖可加十克。"
+    },
+    {
+      "original": "杏仁片",
+      "substitute": "粗糖粒",
+      "ratio": "20克:20克",
+      "note": "烤后结一层脆壳，口感更甜。"
+    }
+  ],
+  "variations": [
+    "编成圆形花环，中间塞一颗杏仁，是新年版本。",
+    "减糖到四十克，做成配黄油的咸口版本。"
+  ],
+  "serving_suggestion": "切片配黄油和果酱，或直接撕着吃，配一杯咖啡就是德式周日早餐。",
+  "storage": "常温密封两天，冷冻一个月；复热一百五十度五分钟恢复松软。",
+  "nutrition_estimate": {
+    "basis": "每份约170克",
+    "calories_kcal": 420,
+    "protein_g": 11,
+    "fat_g": 14,
+    "carbs_g": 62,
+    "sodium_mg": 210,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "egg",
+    "tree-nut"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "面团含鸡蛋与牛奶，须发酵至体积翻倍并烤到中心无湿黏面糊；成品冷却后密封冷藏保存不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "Hefezopf 在德语里就是酵母辫子，德国南部和奥地利把它当周日和节日早餐。三条面团编在一起，象征家庭团聚，新年时还会编成花环形状讨个吉利。",
+  "tags": [
+    "德国",
+    "面包",
+    "酵母",
+    "早餐"
+  ],
+  "related_ids": [
+    "pretzel",
+    "german-zwiebelkuchen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}
