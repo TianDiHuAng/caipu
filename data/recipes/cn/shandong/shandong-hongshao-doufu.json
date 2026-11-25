@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-hongshao-doufu",
+  "name": {
+    "zh": "红烧豆腐",
+    "en": "Braised Tofu in Brown Sauce",
+    "original": "紅燒豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 17,
+    "cook_min": 18,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 500,
+          "unit": "g",
+          "note": "切三角厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 40,
+          "unit": "g",
+          "note": "切菱形片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 200,
+          "unit": "ml",
+          "note": "烧制汤汁",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎制用油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐切成八毫米厚的三角片，平铺在盘里用厨房纸吸干两面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "豆腐水吸得干，煎的时候才不会爆油粘锅。",
+      "visual_cue": "豆腐片表面干爽，边缘齐整"
+    },
+    {
+      "n": 2,
+      "text": "花生油烧到六成热，豆腐片平铺入锅，中火煎四分钟至底面金黄。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "煎的时候别急着翻，定型了自然离锅。",
+      "visual_cue": "底面结成金黄硬皮，晃动锅能滑动"
+    },
+    {
+      "n": 3,
+      "text": "翻面再煎三分钟，两面金黄后盛出，锅底留少许油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "煎过的豆腐才耐烧，久煮不散还更吸汁。",
+      "visual_cue": "两面金黄，外皮硬实不破"
+    },
+    {
+      "n": 4,
+      "text": "下姜片和小葱段爆香，放香菇片炒软，加入生抽、老抽、蚝油和白糖炒匀。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇要炒到出水再下调料，菌香才出得来。",
+      "visual_cue": "香菇片发软出香，酱色均匀"
+    },
+    {
+      "n": 5,
+      "text": "倒入高汤烧开，放入煎好的豆腐片，小火烧八分钟让豆腐吸透汤汁。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "汤量刚没过豆腐一半，烧出来才浓不稀。",
+      "visual_cue": "汤汁收至过半，豆腐片颜色转深"
+    },
+    {
+      "n": 6,
+      "text": "加盐调味，下青椒片烫三十秒，玉米淀粉加水勾芡，翻匀出锅。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "青椒最后下锅，断生就起，脆绿才好看。",
+      "visual_cue": "芡汁红亮挂豆腐，青椒翠绿"
+    }
+  ],
+  "tips": [
+    "北豆腐质地紧实，红烧首选，嫩豆腐一烧就碎。",
+    "豆腐先煎后烧，外皮带韌能挂住酱汁，比直接烧入味。",
+    "没有高汤用清水加半勺蚝油替代，鲜味也够。"
+  ],
+  "common_mistakes": [
+    "豆腐不吸水下锅，油花四溅还粘掉一层皮。",
+    "全程大火收汁，豆腐外皮皱缩，里面还是白的。",
+    "老抽放得太多，成菜发黑发苦，卖相全毁了。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "冻豆腐",
+      "ratio": "500克:400克",
+      "note": "冻豆腐解冻挤水后烧，蜂窝吸汁更强。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "木耳",
+      "ratio": "50克:20克",
+      "note": "木耳需提前泡发，口感更脆。"
+    }
+  ],
+  "variations": [
+    "加五十克猪肉片同烧，荤素搭配更下饭。",
+    "收汁前加一小勺豆瓣酱，做成家常酱香版。"
+  ],
+  "serving_suggestion": "连汁带豆腐盛盘，浇在米饭上吃最香，也可以配馒头蘸汁。",
+  "storage": "冷藏可存两天，复热时加两勺高汤小火回烧三分钟；冻过再热豆腥回升，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 280,
+    "protein_g": 20,
+    "fat_g": 20,
+    "carbs_g": 10,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "香菇须彻底加热炒透，避免半生带出生菌味。",
+    "煎豆腐时油量较多，豆腐片须吸干水分再下锅，防止热油飞溅。"
+  ],
+  "origin_note": "红烧豆腐是鲁菜家常味里的看家菜，讲究外皮煎得金黄、内里嫩滑、汁浓色亮。山东人做豆腐不图花哨，先煎后烧两步不能省：煎是为了立住形、挂住汁，烧是为了让酱香钻进豆腐里。一盘端上桌，汁浇米饭就是一餐。",
+  "tags": [
+    "鲁菜",
+    "豆腐",
+    "红烧",
+    "家常"
+  ],
+  "related_ids": [
+    "shandong-niang-doufu",
+    "shandong-shaguo-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:03:18.924Z",
+  "generatedAt": "2026-11-25T15:10:17.369Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2116,
-    "coverage": 0.6463042150274894
+    "actual": 2122,
+    "coverage": 0.6481368356750152
   },
   "regions": {
     "cn": [
@@ -287,7 +287,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 116,
+        "actual": 122,
         "cells": [
           {
             "category": "main-seafood",
@@ -337,7 +337,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "cu-jiao-yutang",
               "jiyu-doufu-tang",
@@ -351,6 +351,7 @@
               "shandong-shanyao-paigu-tang",
               "shandong-suanla-tang",
               "shandong-yiner-xueli-tang",
+              "shandong-zicai-danhua-tang",
               "shanxian-yangrou-tang"
             ]
           },
@@ -420,12 +421,13 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "shandong-baicai-doufu",
               "shandong-boshan-doufuxiang",
               "shandong-doupi-bocai",
               "shandong-guota-doufu",
+              "shandong-hongshao-doufu",
               "shandong-niang-doufu",
               "shandong-shaguo-doufu",
               "shandong-xiajiang-doufu",
@@ -454,17 +456,36 @@
             "category": "appetizer",
             "kind": "extra",
             "target": 0,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "majiang-huanggua",
               "shandong-ban-jisi",
+              "shandong-ban-sansi",
               "shandong-doupi-bocai",
+              "shandong-huasheng-bocai",
               "shandong-jiangzhi-oupian",
               "shandong-laocu-huangsheng",
               "shandong-liangban-haidaisi",
               "shandong-suanmi-qiezi",
               "shandong-xiaocong-ban-doufu",
               "zha-ouhe"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 9,
+            "ids": [
+              "huangmen-ji",
+              "linyi-chaoji",
+              "shandong-budai-ji",
+              "shandong-dezhou-paji",
+              "shandong-huangmen-jikuai",
+              "shandong-lizi-shaoji",
+              "shandong-xianggu-men-ji",
+              "shandong-xiangsu-jichi",
+              "shandong-xiangsu-ya"
             ]
           },
           {
@@ -484,29 +505,14 @@
             ]
           },
           {
-            "category": "main-poultry",
-            "kind": "extra",
-            "target": 0,
-            "actual": 8,
-            "ids": [
-              "huangmen-ji",
-              "linyi-chaoji",
-              "shandong-budai-ji",
-              "shandong-dezhou-paji",
-              "shandong-huangmen-jikuai",
-              "shandong-lizi-shaoji",
-              "shandong-xiangsu-jichi",
-              "shandong-xiangsu-ya"
-            ]
-          },
-          {
             "category": "breakfast",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "shandong-dabobo",
-              "shandong-huajuan"
+              "shandong-huajuan",
+              "shandong-jidan-geng"
             ]
           }
         ]
