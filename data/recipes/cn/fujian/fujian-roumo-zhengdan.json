@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-roumo-zhengdan",
+  "name": {
+    "zh": "肉末蒸蛋",
+    "en": "Steamed Egg with Minced Pork",
+    "original": "肉末蒸蛋"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 300,
+          "unit": "g",
+          "note": "约五枚",
+          "optional": false
+        },
+        {
+          "name": "猪肉馅",
+          "name_en": "minced pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "收香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒肉末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "碗",
+    "筷子",
+    "炒锅",
+    "筛网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋打进大碗，加盐与一半生抽，用筷子充分打散。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋液打匀后过筛，蒸出来才没有蜂窝。",
+      "visual_cue": "蛋液颜色一致，表面浮起细密小泡。"
+    },
+    {
+      "n": 2,
+      "text": "蛋液按一比一点五加温水搅匀，过筛滤掉泡沫。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "一定要用温水，冷水蒸出来分层。 顺序别颠倒。",
+      "visual_cue": "碗中蛋液平滑，看不见明显气泡。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下花生油，放姜末炒香，再下猪肉馅炒散。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉末要炒到粒粒分明，不要结成大块。",
+      "visual_cue": "肉末由粉转白，锅里油色变亮。"
+    },
+    {
+      "n": 4,
+      "text": "肉末加料酒与剩余生抽、白糖炒到出油，盛出备用。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "炒到略干，铺在蛋液上才不会沉底。 份量要称准。",
+      "visual_cue": "肉末干香松散，锅底留少量油。"
+    },
+    {
+      "n": 5,
+      "text": "蛋液碗盖上保鲜膜或扣一个盘子，放进上汽的蒸锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "盖住能防止水汽滴落，表面才平整。 这一步别图省事。",
+      "visual_cue": "锅盖缝隙冒白汽，锅内有水声。"
+    },
+    {
+      "n": 6,
+      "text": "中火蒸十分钟，见表面凝固定型后揭开盖子。注意不要着急，稳一点更好。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "火太大蛋会起蜂窝，中小火最稳。 火候宁小勿大。",
+      "visual_cue": "蛋面平滑如镜，轻晃碗有微微颤动。"
+    },
+    {
+      "n": 7,
+      "text": "铺上炒好的肉末再蒸两分钟，出锅淋香油撒葱花。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "肉末后放，蛋才不会压出坑。 别急着省时间。",
+      "visual_cue": "肉末贴在蛋面上，香气扑鼻。"
+    }
+  ],
+  "tips": [
+    "蛋水比例一比一点五最嫩，比例太大会蒸不成型。",
+    "温水调蛋液是关键，冷水容易分层，开水会直接烫熟。",
+    "过筛这一步别省，滤掉的泡沫就是蜂窝的来源。"
+  ],
+  "common_mistakes": [
+    "蛋液不盖直接蒸，水汽滴进去表面坑坑洼洼。",
+    "大火猛蒸二十分钟，蛋体老化出水，口感像海绵。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉馅",
+      "substitute": "鸡肉馅",
+      "ratio": "1:1",
+      "note": "鸡肉更瘦，炒制时补一勺油防干。"
+    }
+  ],
+  "variations": [
+    "闽南人家会把肉末换成虾仁与香菇丁，鲜味更足，也更清爽。"
+  ],
+  "serving_suggestion": "浇一勺热油激香葱花再上桌，配米饭能把汤汁全拌掉。",
+  "storage": "冷藏一天内吃完，复蒸五分钟回温，不要微波以免出水。",
+  "nutrition_estimate": {
+    "basis": "每份约 180g",
+    "calories_kcal": 290,
+    "protein_g": 22,
+    "fat_g": 20,
+    "carbs_g": 4,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋与猪肉均须彻底加热至熟透，蛋液完全凝固。",
+    "生肉与蛋液接触的器具须清洗，避免交叉污染。",
+    "猪肉馅须现买现用，冷藏不超过一天。"
+  ],
+  "origin_note": "肉末蒸蛋是闽地家宴里最稳的一道，蛋羹滑、肉末香，老少都肯吃，逢年过节也总能在桌上见到它。，是闽地人家的家常味道。",
+  "tags": [
+    "闽菜",
+    "蒸蛋",
+    "肉末",
+    "家常菜"
+  ],
+  "related_ids": [
+    "fujian-caipu-jiandan",
+    "fujian-fenzheng-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
