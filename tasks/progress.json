@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:12:32.351Z",
+  "generatedAt": "2026-11-25T18:30:58.185Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 652,
     "target": 3274,
-    "actual": 2236,
-    "coverage": 0.6829566279780086
+    "actual": 2244,
+    "coverage": 0.6854001221747098
   },
   "regions": {
     "cn": [
@@ -2092,15 +2092,17 @@
         "en": "Northwestern",
         "tier": "B",
         "target": 38,
-        "actual": 15,
+        "actual": 23,
         "cells": [
           {
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "lanzhou-niurou-mian",
               "shaanxi-saozi-mian",
+              "xibei-cuoyuzi",
               "youpo-mian"
             ]
           },
@@ -2108,10 +2110,11 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "xibei-guokui",
               "xibei-roujiamo",
+              "xibei-shizi-mo",
               "xibei-wotou",
               "yangrou-paomo"
             ]
@@ -2120,19 +2123,23 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "shaanxi-saozi-mian",
+              "xibei-dapanji",
               "xibei-hand-grabbed-lamb",
-              "xibei-hongshao-yangrou"
+              "xibei-hongshao-yangrou",
+              "xibei-ziran-yangpai"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "lanzhou-niurou-mian",
+              "xibei-yangrou-fentang",
               "xibei-yangza-tang",
               "yangrou-paomo"
             ]
@@ -2141,8 +2148,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "xibei-yangrou-chuan",
               "xibei-yangrou-jiaozi",
               "xibei-zenggao"
             ]

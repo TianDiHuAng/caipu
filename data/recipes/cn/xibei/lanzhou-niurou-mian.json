@@ -1,0 +1,301 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "lanzhou-niurou-mian",
+  "name": {
+    "zh": "兰州牛肉面",
+    "en": "Lanzhou Beef Noodle Soup",
+    "original": "兰州牛肉面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "staple-noodle",
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 140,
+    "cook_min": 100,
+    "total_min": 240
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 600,
+          "unit": "g",
+          "note": "牛腱切大块",
+          "optional": false
+        },
+        {
+          "name": "碱面",
+          "name_en": "alkaline noodles",
+          "amount": 500,
+          "unit": "g",
+          "note": "细面条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛骨",
+          "name_en": "beef bone",
+          "amount": 800,
+          "unit": "g",
+          "note": "敲断熬汤",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 300,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 40,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 12,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 3,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "最后点睛",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛骨敲断冷水浸泡一小时去血水，牛肉也泡半小时，中途换两次水。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "泡透血水汤才清，不泡的汤浑得发灰。",
+      "visual_cue": "骨头断面发白，泡出的水色淡红"
+    },
+    {
+      "n": 2,
+      "text": "牛骨与牛肉冷水下锅焯水，煮开撇净浮沫，捞出用温水冲净表面。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "浮沫要撇干净，这是清汤的第一步，撇不净汤就发灰。",
+      "visual_cue": "水面浮起厚厚一层灰沫"
+    },
+    {
+      "n": 3,
+      "text": "汤锅加足量清水，放牛骨、牛肉、姜片、葱段、花椒、八角、桂皮与香叶，大火烧开。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "水一次加足，中途添水汤味就淡了，宁可多放别少放。",
+      "visual_cue": "汤面翻滚冒大泡，香料香气散出"
+    },
+    {
+      "n": 4,
+      "text": "转小火慢炖两小时，炖到筷子能轻松插透牛肉，捞出牛肉晾凉切片。",
+      "time_min": 122,
+      "heat": "小火",
+      "tip": "保持汤面微微冒泡，滚大了汤就浑，清汤成了白汤。",
+      "visual_cue": "汤色转清亮，筷子一插即透"
+    },
+    {
+      "n": 5,
+      "text": "白萝卜切薄片下汤中煮十分钟，加盐与生抽调味，把汤滤一遍备用。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "萝卜后放，煮久了会化在汤里发甜，清味就没了。",
+      "visual_cue": "萝卜片透明，汤色浅褐清亮"
+    },
+    {
+      "n": 6,
+      "text": "另起锅烧水，碱面下锅煮两分钟，捞起过一下热水，抖散装碗。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "面只煮到刚断生，入碗后靠热汤继续烫熟。",
+      "visual_cue": "碱性面身弹性足，挑起不断条"
+    },
+    {
+      "n": 7,
+      "text": "碗中码上牛肉片与萝卜片，浇滚汤没过碗里的面，撒蒜苗末与香菜，淋辣椒油。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "汤一定要滚烫再浇，一浇下去蒜苗的香气立刻就出来了。",
+      "visual_cue": "汤面漂一层红油，蒜苗翠绿"
+    }
+  ],
+  "tips": [
+    "一清二白三红四绿五黄是兰州牛肉面的标准，汤清是第一关。",
+    "香料包别放太多，压过牛肉本味就成了卤汤。",
+    "香料包别放太多，压过牛肉本味就成了卤汤，清汤的鲜就没影了。"
+  ],
+  "common_mistakes": [
+    "牛骨不泡不焯直接炖，汤浑发腥，怎么撇都清不了。",
+    "全程大火猛滚，汤浑如奶，清汤变白汤。",
+    "面煮过头再浇汤，端上桌就成一碗糊面。"
+  ],
+  "substitutions": [
+    {
+      "original": "碱面",
+      "substitute": "面条",
+      "ratio": "500克:500克",
+      "note": "普通面条更软，煮的时间减半分钟。"
+    },
+    {
+      "original": "牛肉",
+      "substitute": "牛腩",
+      "ratio": "600克:600克",
+      "note": "牛腩带筋膜，炖的时间加二十分钟。"
+    }
+  ],
+  "variations": [
+    "汤里加几片番茄同煮，酸香更足，是家常版的做法。",
+    "把面换成宽面或韭叶面，口感更厚实，汤挂得住。"
+  ],
+  "serving_suggestion": "趁热吃，先喝一口汤再挑面，配一碟小菜就是兰州人的早餐。",
+  "storage": "汤可冷藏三天、冷冻一个月；面条须现煮，不宜隔夜。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 720,
+    "protein_g": 46,
+    "fat_g": 26,
+    "carbs_g": 78,
+    "sodium_mg": 1560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖至完全熟透，切开不见血色后切片食用。",
+    "长时间熬汤与浇滚汤时蒸汽强烈，盛汤须用大勺并远离面部，避免烫伤。"
+  ],
+  "origin_note": "兰州人的一天是从一碗牛肉面开始的，清汤、白萝卜、红油、绿蒜苗、黄面条，五色俱全。讲究的是汤要清、肉要烂、面要筋，凌晨就开始熬骨汤，一锅汤卖到中午就收摊。兰州街上几百家面馆，各有各的汤方，谁也不服谁。",
+  "tags": [
+    "西北菜",
+    "牛肉面",
+    "兰州",
+    "汤面"
+  ],
+  "related_ids": [
+    "xibei-yangrou-fentang",
+    "xibei-cuoyuzi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

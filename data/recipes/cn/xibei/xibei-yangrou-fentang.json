@@ -1,0 +1,273 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xibei-yangrou-fentang",
+  "name": {
+    "zh": "羊肉粉汤",
+    "en": "Lamb Soup with Glass Noodles",
+    "original": "羊肉粉汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 61,
+    "cook_min": 100,
+    "total_min": 161
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 700,
+          "unit": "g",
+          "note": "带点肥的羊腿肉",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 120,
+          "unit": "g",
+          "note": "提前泡软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 250,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 30,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 4,
+          "unit": "g",
+          "note": "去膻",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "上桌自加",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切大块，冷水浸泡半小时去血水，中途换一次水。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "泡够半小时，血水出净，汤才不腥不浑，颜色也清。",
+      "visual_cue": "肉块发白，泡出的水色淡红"
+    },
+    {
+      "n": 2,
+      "text": "羊肉冷水下锅焯水，煮开撇净浮沫，捞出用温水冲洗干净。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "浮沫撇净，汤清味才正，这一步偷懒整锅汤都带着一股腥膻气。",
+      "visual_cue": "浮沫成层，肉块表面干净"
+    },
+    {
+      "n": 3,
+      "text": "汤锅加清水，放羊肉、姜片、葱段、花椒与香叶，大火烧开转小火。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "水要一次加够，中途添水汤味会淡，鲜味也跟着跑掉。",
+      "visual_cue": "汤面翻滚冒大泡，羊肉香气散出"
+    },
+    {
+      "n": 4,
+      "text": "小火炖一个半小时，至羊肉酥软，捞出晾凉后切成薄片。",
+      "time_min": 92,
+      "heat": "小火",
+      "tip": "保持微沸，滚大了汤就浑，膻味也重。",
+      "visual_cue": "筷子能插透羊肉，汤色清亮"
+    },
+    {
+      "n": 5,
+      "text": "白萝卜切细丝下汤煮八分钟至透明，加盐与白胡椒调味。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "萝卜丝切细才快熟，粗条煮久了发苦。",
+      "visual_cue": "萝卜丝透明发亮，汤色浅黄"
+    },
+    {
+      "n": 6,
+      "text": "粉丝用温水泡软，另起锅焯一下捞出，装入大碗垫底。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "粉丝单煮再入碗，汤才不糊，粉丝也不粘成一坨。",
+      "visual_cue": "粉丝柔软透明，根根分明"
+    },
+    {
+      "n": 7,
+      "text": "碗中铺羊肉片与萝卜丝，浇滚汤，撒蒜苗香菜，淋辣椒油上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "汤要滚烫浇下，蒜苗一烫就香，凉汤浇上去全是生味。",
+      "visual_cue": "汤面浮红油，蒜苗翠绿"
+    }
+  ],
+  "tips": [
+    "羊肉选带一点肥的，汤才有油香，全瘦的发寡。",
+    "白胡椒别省，它是羊汤去膻的关键，起锅前再补撒一次，辛香更冲。",
+    "白胡椒别省，它是羊汤去膻的关键，起锅前再撒一次更冲。"
+  ],
+  "common_mistakes": [
+    "羊肉不焯水直接炖，浮沫混在汤里，颜色发灰。",
+    "粉丝早早泡在汤里，端上桌就糊成一团。",
+    "大火猛滚一小时，汤浑肉柴，鲜味全跑光。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "羊排",
+      "ratio": "700克:800克",
+      "note": "羊排带骨更香，炖的时间加二十分钟。"
+    },
+    {
+      "original": "粉丝",
+      "substitute": "面条",
+      "ratio": "120克:200克",
+      "note": "面条更顶饱，须现煮后入碗。"
+    }
+  ],
+  "variations": [
+    "加一把泡软的黄花菜与木耳同炖，就是西北的粉汤做法。",
+    "把羊肉换成羊杂，就是街头的羊杂粉汤，膻香更浓。"
+  ],
+  "serving_suggestion": "一碗汤配一块馍，泡着吃或就着吃都行，冬天最暖胃。",
+  "storage": "汤冷藏可存三天，冷冻一个月，复热须加少许水烧开，粉丝现煮现加。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 560,
+    "protein_g": 42,
+    "fat_g": 30,
+    "carbs_g": 30,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "羊肉须炖至酥软熟透，切片后不见血色再食用。",
+    "长时间炖煮与浇滚汤时蒸汽强烈，盛汤须用大勺，避免烫手。"
+  ],
+  "origin_note": "羊肉粉汤是西北人家冬天的常备，羊肉炖到酥烂，汤清而鲜，萝卜丝和粉丝一烫就熟。甘肃、宁夏一带早餐摊上常见，一碗汤配一块馍，吃完浑身发暖。讲究的是汤清、肉烂、胡椒足，喝一口从嗓子暖到胃。",
+  "tags": [
+    "西北菜",
+    "羊汤",
+    "粉丝",
+    "汤菜"
+  ],
+  "related_ids": [
+    "lanzhou-niurou-mian",
+    "xibei-yangza-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xibei-dapanji",
+  "name": {
+    "zh": "大盘鸡",
+    "en": "Xinjiang Big Plate Chicken",
+    "original": "大盘鸡"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 55,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "整鸡",
+          "name_en": "whole chicken",
+          "amount": 1200,
+          "unit": "g",
+          "note": "剁成块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 15,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 4,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "炖锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "大盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "整鸡剁成大块，冷水浸泡二十分钟去血水，捞出沥干水分。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "水要沥干，带水下锅会溅油，鸡皮也不易上色。",
+      "visual_cue": "鸡块表面干爽，血色褪去"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，下冰糖小火炒到融化成枣红色，倒入鸡块中火翻炒上色。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "鸡选两斤半的土鸡，肉质紧实耐炖，炖久了也不散。",
+      "visual_cue": "鸡块均匀裹上红亮糖色"
+    },
+    {
+      "n": 3,
+      "text": "下姜片、蒜、葱段、干辣椒、花椒与桂皮炒香，烹入料酒。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "干辣椒别炒黑，一黑就苦，辣味也跑了。",
+      "visual_cue": "香料飘香，辣椒转暗红"
+    },
+    {
+      "n": 4,
+      "text": "加生抽与老抽翻匀，倒入没过鸡块的热水，大火烧开转中火焖二十分钟。",
+      "time_min": 23,
+      "heat": "中火",
+      "tip": "一定加热水，冷水会让鸡肉骤然收紧发柴。",
+      "visual_cue": "汤汁翻滚呈深褐色，油花浮面"
+    },
+    {
+      "n": 5,
+      "text": "下土豆块继续焖十五分钟，至土豆边缘发软、汤汁变稠。",
+      "time_min": 17,
+      "heat": "中火",
+      "tip": "土豆后放，早了会化在汤里，汤变糊就不好看了。",
+      "visual_cue": "土豆外软内实，汤汁收浓"
+    },
+    {
+      "n": 6,
+      "text": "放青椒与洋葱块，加盐调味，大火翻炒三分钟收汁。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "青椒最后下，脆感才在，久煮就黄了。",
+      "visual_cue": "青椒翠绿，汤汁裹料发亮"
+    },
+    {
+      "n": 7,
+      "text": "放青椒与洋葱块，加盐调味，转大火翻炒三分钟收浓汤汁。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汤别收太干，大盘鸡的精华就在这口汤。",
+      "visual_cue": "青椒翠绿，汤汁裹料发亮光"
+    }
+  ],
+  "tips": [
+    "鸡选两斤半的土鸡，肉质紧实耐炖，炖久了也不散架发柴。",
+    "土豆选黄心的，炖出来绵软带甜，白心的偏水不糯。",
+    "吃完肉拌一把宽面进汤里，才是完整的大盘鸡吃法。"
+  ],
+  "common_mistakes": [
+    "鸡块不沥干就下锅，油花四溅，鸡皮也上不了色。",
+    "土豆和鸡一起下锅，炖到最后土豆化成了糊。",
+    "干辣椒炒糊，整锅发苦，辣味只剩刺激没有香。"
+  ],
+  "substitutions": [
+    {
+      "original": "整鸡",
+      "substitute": "鸡腿肉",
+      "ratio": "1200克:900克",
+      "note": "鸡腿肉更嫩，焖的时间减到十五分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "胡萝卜",
+      "ratio": "500克:400克",
+      "note": "胡萝卜更耐焖，可早放五分钟。"
+    }
+  ],
+  "variations": [
+    "加一把皮带面同焖，面吸饱汤汁，就是新疆的拌面版本。",
+    "把鸡换成羊排，做成大盘羊排，风味更浓。"
+  ],
+  "serving_suggestion": "连汤带肉盛在大盘里，一家人围着吃，最后拌面收尾。",
+  "storage": "冷藏可存三天，复热须小火加少许水烧开，土豆会散要轻翻。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 760,
+    "protein_g": 52,
+    "fat_g": 40,
+    "carbs_g": 48,
+    "sodium_mg": 1380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡块须焖至中心熟透，骨边不见血色后再食用。",
+    "炒糖色与下鸡块时热油易溅，鸡块须沥干并沿锅边滑入，避免烫伤。"
+  ],
+  "origin_note": "大盘鸡起于新疆公路边的小饭馆，司机停车吃饭，一大盘鸡配土豆，最后拌面，管饱又实惠。后来传遍西北，成了馆子必点。讲究的是糖色红亮、辣味够劲、汤汁宽，吃完鸡肉拿面拌汤，一点不剩。",
+  "tags": [
+    "西北菜",
+    "大盘鸡",
+    "土豆",
+    "家常"
+  ],
+  "related_ids": [
+    "xibei-ziran-yangpai",
+    "xibei-cuoyuzi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

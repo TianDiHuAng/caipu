@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xibei-yangrou-chuan",
+  "name": {
+    "zh": "烤羊肉串",
+    "en": "Cumin Lamb Skewers",
+    "original": "烤羊肉串"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xibei"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 86,
+    "cook_min": 18,
+    "total_min": 104
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 800,
+          "unit": "g",
+          "note": "肥瘦相间切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝腌肉",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋液上浆",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 12,
+          "unit": "g",
+          "note": "撒料主体",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "撒料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 12,
+          "unit": "g",
+          "note": "撒料",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "刷串防干",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌制",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 6,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炭炉",
+    "铁签",
+    "刷子",
+    "刀",
+    "砧板",
+    "托盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切成两厘米见方的块，肥瘦分开切，肥肉单留一部分。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "肥瘦搭配着串，烤的时候肥油渗进瘦肉才香。",
+      "visual_cue": "肉块大小均匀，肥瘦分明"
+    },
+    {
+      "n": 2,
+      "text": "洋葱切丝加少许盐抓出汁，连蛋液、姜末与生抽一起拌入羊肉。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "洋葱汁和蛋液能让肉更嫩，膻味也淡，别省这一步。",
+      "visual_cue": "肉块裹上蛋液，洋葱出水"
+    },
+    {
+      "n": 3,
+      "text": "冷藏腌制一小时，中途翻拌一次，让每块肉都浸到汁。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "至少腌一小时，时间短了只有表面有味。",
+      "visual_cue": "肉块颜色转深，汁水被吸收"
+    },
+    {
+      "n": 4,
+      "text": "按一块瘦一块肥的顺序串在铁签上，每串五六块，压紧压实。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉要压紧，烤的时候才不会转着掉下来。",
+      "visual_cue": "串体紧实，肉块居中不掉"
+    },
+    {
+      "n": 5,
+      "text": "炭炉烧到无明火、炭面泛白灰，肉串上架翻烤六分钟至变色。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "有明火就会烧黑，要等炭烧透表面泛白灰再上架烤。",
+      "visual_cue": "表面变白收紧，油脂滴落"
+    },
+    {
+      "n": 6,
+      "text": "刷一层植物油继续翻烤四分钟，撒盐、辣椒粉，再烤两分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "盐要撒匀，一撮撮撒容易一处咸一处淡。",
+      "visual_cue": "表面焦褐，油光发亮起壳"
+    },
+    {
+      "n": 7,
+      "text": "临出炉撒孜然与芝麻，翻两下让香料沾匀，趁热上桌。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "孜然最后撒，香气才冲，早撒会烤糊。",
+      "visual_cue": "孜然粒沾满表面，香气四散"
+    }
+  ],
+  "tips": [
+    "羊后腿肉最适合串，瘦肉多又有筋，口感弹。",
+    "没有炭炉可用烤箱两百度烤十五分钟，中途翻面刷油。",
+    "撒料按盐、辣子、孜然三三制配，谁也别抢谁的味。"
+  ],
+  "common_mistakes": [
+    "肉块带水就上炉，油滴进炭里冒大火，表面烧黑。",
+    "孜然一早撒上，烤完只剩苦味，香劲全无。",
+    "串得太松，翻面时肉块脱落，掉进炭里。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "800克:800克",
+      "note": "牛肉更瘦，须刷两次油防干。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "辣椒油",
+      "ratio": "10克:20毫升",
+      "note": "油辣椒更润，出锅前刷一层即可。"
+    }
+  ],
+  "variations": [
+    "肉块之间夹一小块羊油，就是新疆街头的油包肝式串法。",
+    "腌料里加少许啤酒，肉质更松软，膻味也淡。"
+  ],
+  "serving_suggestion": "一人十串起步，配馕和冰镇啤酒，夏夜路边摊的标准配置。",
+  "storage": "生串可冷冻一个月，烤熟后不宜久放，现烤现吃最佳。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 40,
+    "fat_g": 36,
+    "carbs_g": 6,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "羊肉串须烤至中心完全熟透，切开不见血色后再食用。",
+    "炭炉明火与热油易烫伤，点火与翻串时须戴手套，室内不可使用炭炉以免一氧化碳中毒。"
+  ],
+  "origin_note": "烤羊肉串是西北街头的灵魂，一把铁签、一炉炭、三样撒料，简单到不能再简单。新疆的摊子讲究现切现串现烤，肥瘦相间，油一渗，孜然一撒，隔着半条街都能闻到。夏天夜里，一人十串，配一瓶冰啤酒，就是最踏实的幸福。",
+  "tags": [
+    "西北菜",
+    "羊肉串",
+    "烧烤",
+    "孜然"
+  ],
+  "related_ids": [
+    "xibei-ziran-yangpai",
+    "xibei-hand-grabbed-lamb"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
