@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-sanxian-tang",
+  "name": {
+    "zh": "山东三鲜汤",
+    "en": "Shandong Three Delicacy Soup",
+    "original": "三鲜汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "海参",
+          "name_en": "sea cucumber",
+          "amount": 200,
+          "unit": "g",
+          "note": "水发切条",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去虾线",
+          "optional": false
+        },
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 150,
+          "unit": "g",
+          "note": "切花刀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 30,
+          "unit": "g",
+          "note": "泡发撕小朵",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "出锅点香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "海参、鱿鱼与虾仁分别洗净，虾仁挑去背部沙线，鱿鱼切十字花刀再切块。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "鱿鱼改花刀受热会卷成花，卖相更好。",
+      "visual_cue": "鱿鱼块上布满菱形刀纹。"
+    },
+    {
+      "n": 2,
+      "text": "香菇切片，木耳撕成小朵，小白菜洗净切段备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "木耳要提前泡透，口感才脆。",
+      "visual_cue": "木耳舒展开，厚实有弹性。"
+    },
+    {
+      "n": 3,
+      "text": "高汤倒入汤锅，加姜丝煮开，先下香菇与木耳煮五分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "香菇先煮，汤里才有菌菇的鲜。",
+      "visual_cue": "汤面滚动，香菇浮起。"
+    },
+    {
+      "n": 4,
+      "text": "放海参与鱿鱼，加料酒，转中小火煮三分钟。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "海参久煮会缩，三分钟就够。",
+      "visual_cue": "鱿鱼卷成花，海参变挺。"
+    },
+    {
+      "n": 5,
+      "text": "放入虾仁与小白菜，煮到虾仁卷曲变红即可关火。",
+      "time_min": 5,
+      "heat": "中小火",
+      "tip": "虾仁一变色就关火，煮久发硬。",
+      "visual_cue": "虾仁通体粉红卷曲"
+    },
+    {
+      "n": 6,
+      "text": "加盐与白胡椒调味，淋香油，撒小葱花开锅上桌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "白胡椒最后放，辛辣香才在。",
+      "visual_cue": "汤色清亮，葱花浮面。"
+    }
+  ],
+  "tips": [
+    "三鲜指海参、虾仁、鱿鱼，卤水点的北豆腐也可代一部分。",
+    "高汤要提前吊好，清水做出来鲜味差一截。",
+    "下海鲜后别再大火滚，汤会浑、料会老。"
+  ],
+  "common_mistakes": [
+    "海鲜一起下锅久煮，鱿鱼橡皮、虾仁发柴。",
+    "木耳没泡透就下锅，咬着有硬芯，口感发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "海参",
+      "substitute": "水发花胶",
+      "ratio": "200g 对 200g",
+      "note": "花胶要提前泡发去腥，煮的时间加两分钟。"
+    }
+  ],
+  "variations": [
+    "胶东一带会加几片火腿同煮，汤色微红，鲜味更厚。"
+  ],
+  "serving_suggestion": "清汤上桌，配一小碟米醋蘸海鲜。",
+  "storage": "冷藏一天，海鲜汤不宜久放，复热须彻底煮开。",
+  "nutrition_estimate": {
+    "basis": "每份约 400g",
+    "calories_kcal": 150,
+    "protein_g": 22,
+    "fat_g": 4,
+    "carbs_g": 6,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "mollusk",
+    "sesame"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "海参、蝦仁与鱿鱼须彻底加热至完全熟透，中心温度达到 74℃ 以上。",
+    "贝类与软体海鲜须选用新鲜货，有异味不可食用。",
+    "海鲜过敏人群不宜食用，处理生海鲜后须洗手并清洗刀板。"
+  ],
+  "origin_note": "三鲜汤是鲁菜宴席上的清汤菜，海参、虾仁、鱿鱼三样海味同锅，靠一份好高汤提鲜，汤清料嫩，讲究的是不抢味。",
+  "tags": [
+    "鲁菜",
+    "汤品",
+    "海鲜",
+    "三鲜"
+  ],
+  "related_ids": [
+    "shandong-haishen-tang",
+    "shandong-chengzi-doufu-tang",
+    "cu-jiao-yutang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
