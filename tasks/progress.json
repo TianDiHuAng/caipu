@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:24:43.743Z",
+  "generatedAt": "2026-11-25T12:47:03.225Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2065,
-    "coverage": 0.6307269395235187
+    "actual": 2075,
+    "coverage": 0.6337813072693952
   },
   "regions": {
     "cn": [
@@ -287,7 +287,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 65,
+        "actual": 75,
         "cells": [
           {
             "category": "main-seafood",
@@ -401,8 +401,17 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 8,
+            "ids": [
+              "shandong-baicai-doufu",
+              "shandong-boshan-doufuxiang",
+              "shandong-doupi-bocai",
+              "shandong-guota-doufu",
+              "shandong-xiajiang-doufu",
+              "shandong-xianggu-shao-doufu",
+              "shandong-xiaocong-ban-doufu",
+              "shandong-zhadoufu-wanzi"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -428,6 +437,18 @@
             ]
           },
           {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 4,
+            "ids": [
+              "majiang-huanggua",
+              "shandong-doupi-bocai",
+              "shandong-xiaocong-ban-doufu",
+              "zha-ouhe"
+            ]
+          },
+          {
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
@@ -435,16 +456,6 @@
             "ids": [
               "huangmen-ji",
               "linyi-chaoji"
-            ]
-          },
-          {
-            "category": "appetizer",
-            "kind": "extra",
-            "target": 0,
-            "actual": 2,
-            "ids": [
-              "majiang-huanggua",
-              "zha-ouhe"
             ]
           },
           {
