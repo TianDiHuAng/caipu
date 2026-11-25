@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "beijing-zhuachao-yupian",
+  "name": {
+    "zh": "抓炒鱼片",
+    "en": "Quick-fried Fish Slices",
+    "original": "抓炒鱼片"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 12,
+    "total_min": 42
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 500,
+          "unit": "g",
+          "note": "取净肉切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清上浆",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 40,
+          "unit": "g",
+          "note": "上浆与勾芡",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 18,
+          "unit": "ml",
+          "note": "酸味来源",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "甜味来源",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "滑油用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去骨去皮，取净肉片成半厘米厚的片，用清水冲两遍沥干。",
+      "time_min": 14,
+      "heat": "无火",
+      "tip": "片要顺着鱼肉的纹理斜切，薄厚一致才好熟。",
+      "visual_cue": "鱼片完整均匀，颜色洁白"
+    },
+    {
+      "n": 2,
+      "text": "鱼片加盐、料酒与半个蛋清抓匀，再拌淀粉上浆，静置十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "先蛋清后淀粉，浆才裹得牢，滑油不掉浆。",
+      "visual_cue": "鱼片表面挂一层薄浆发亮"
+    },
+    {
+      "n": 3,
+      "text": "碗里放白糖、米醋、生抽与淀粉，加四十毫升清水调成碗汁备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "碗汁先调好，出锅时来不及一样样加。",
+      "visual_cue": "碗汁呈浅琥珀色，无干粉颗粒"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧到四成热，鱼片逐片下锅滑到变白，立刻捞出沥油。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "油温四成即可，鱼片下锅慢慢变白，油一热肉就发老。",
+      "visual_cue": "鱼片卷成小卷，通体雪白"
+    },
+    {
+      "n": 5,
+      "text": "锅留底油下葱段、姜末、蒜末炒香，倒入碗汁中火搅到冒泡变稠。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "汁烧开变稠才能裹住鱼片，稀汁一浇就流走。",
+      "visual_cue": "汁面鼓起大泡，稠度能挂勺"
+    },
+    {
+      "n": 6,
+      "text": "倒回鱼片快速翻锅，让每片都裹上汁，淋少许热油出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "翻动要轻巧，鱼片嫩得一碰就碎，用铲背推比翻更好。",
+      "visual_cue": "鱼片油亮裹汁，锅中不留汤"
+    }
+  ],
+  "tips": [
+    "草鱼换鲈鱼也可以，刺少肉嫩，成本高些。",
+    "抓炒讲究的是封汁，汁量宁少勿多，多了就成烩。",
+    "酸甜比按糖一醋零点九配，京菜的抓炒偏爱偏甜。"
+  ],
+  "common_mistakes": [
+    "鱼片不上浆直接滑油，下锅肉质发柴还带腥。",
+    "油温过高下鱼片，表面立刻焦黄，里面还是生的。",
+    "碗汁勾芡太厚，鱼片裹成一坨，吃起来满口糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲈鱼",
+      "ratio": "500克:500克",
+      "note": "鲈鱼刺少，片的时候更方便。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "陈醋",
+      "ratio": "18毫升:15毫升",
+      "note": "陈醋色深味重，糖可稍减。"
+    }
+  ],
+  "variations": [
+    "把鱼片换成鸡片，就是抓炒鸡片，京菜馆常见。",
+    "加几片冬笋同炒，口感更脆，汤汁也更清。"
+  ],
+  "serving_suggestion": "趁热上桌，酸甜汁裹着嫩鱼片，宴席上很镇得住场。",
+  "storage": "不宜久存，冷藏不超过一天，复热须小火回锅，微波会令鱼片发散。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 32,
+    "fat_g": 30,
+    "carbs_g": 22,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鱼片须滑油至完全变白熟透后再裹汁，不可半生食用。",
+    "滑油时油温虽不高仍会溅油，鱼片下锅须贴近油面轻放，避免烫伤。"
+  ],
+  "origin_note": "抓炒是京菜里的一门手艺，据说是清宫御膳房的绝活，抓炒鱼片、抓炒虾仁、抓炒里脊合称四大抓。要领就八个字：急火速成，汁紧裹料。鱼片滑得嫩，汁调得甜酸，出锅时油亮不流汤，师傅手上一慢就成了烩鱼片。",
+  "tags": [
+    "京菜",
+    "宴席",
+    "鱼片",
+    "抓炒"
+  ],
+  "related_ids": [
+    "beijing-quanjiafu",
+    "beijing-sixi-wanzi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

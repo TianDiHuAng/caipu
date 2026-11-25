@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "beijing-tangcu-paigu",
+  "name": {
+    "zh": "糖醋排骨",
+    "en": "Sweet and Sour Spare Ribs",
+    "original": "糖醋排骨"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 29,
+    "cook_min": 50,
+    "total_min": 79
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "sour",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 800,
+          "unit": "g",
+          "note": "剁成寸段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 6,
+          "unit": "g",
+          "note": "出锅撒用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "分两次放",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "note": "甜味来源",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炸制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "漏勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨剁成四厘米长段，冷水浸泡三十分钟泡去血水，捞出沥干。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "泡透血水，炸出来才不腥，油也不发黑。",
+      "visual_cue": "排骨颜色发白，水色由深红转淡"
+    },
+    {
+      "n": 2,
+      "text": "排骨冷水下锅，加姜片与料酒煮开，撇去浮沫后煮三分钟捞出冲净。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "先焯后炸，肉紧实不散，也去净血沫。",
+      "visual_cue": "浮沫撇净，骨头断面不见血"
+    },
+    {
+      "n": 3,
+      "text": "排骨加生抽与少许盐抓匀，腌十五分钟入味，再用厨房纸吸干表面水分。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "表面一定要擦干，带水下油锅会炸得一塌糊涂。",
+      "visual_cue": "排骨表面干爽，颜色微深"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧到六成热，排骨分批下锅炸六分钟，捞出后升温复炸两分钟。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "复炸一次，外壳才酥，凉了也不回软。",
+      "visual_cue": "排骨金黄结壳，敲击有脆响"
+    },
+    {
+      "n": 5,
+      "text": "另起锅放白糖与三十毫升水，小火熬到糖化起小泡，加生抽与一半米醋搅匀。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "糖水熬到微稠再下醋，酸甜才挂得住。",
+      "visual_cue": "糖汁微黄起泡，能拉出细丝"
+    },
+    {
+      "n": 6,
+      "text": "倒入排骨中火翻炒，让每块都裹上糖醋汁，加葱段与姜片同炒。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "翻动要匀，糖汁受热快，一处没翻到就发黑。",
+      "visual_cue": "排骨油亮裹汁，颜色枣红"
+    },
+    {
+      "n": 7,
+      "text": "临出锅淋入剩下的米醋，快速翻匀撒芝麻即可装盘。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "醋分两次放，前面入甜，后面提酸香。",
+      "visual_cue": "汁亮不流，表面撒的芝麻挂得牢"
+    }
+  ],
+  "tips": [
+    "排骨选肋排，肉厚骨小，炸出来最好吃。",
+    "糖醋比按糖五十克配醋四十毫升，京味偏甜一点。",
+    "没有温度计时可丢一小块葱白，周围冒小泡即为六成热。"
+  ],
+  "common_mistakes": [
+    "排骨带水下油锅，油花四溅，手上容易被烫。",
+    "不焯水直接炸，血沫封在里面，咬开一股腥味。",
+    "糖汁熬过头变焦糖，倒进排骨满锅发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "排骨",
+      "substitute": "猪里脊",
+      "ratio": "800克:700克",
+      "note": "里脊无骨，炸四分钟即可，口感更嫩。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "陈醋",
+      "ratio": "40毫升:32毫升",
+      "note": "陈醋色深，糖可减十克。"
+    }
+  ],
+  "variations": [
+    "把排骨换成鸡翅，做糖醋鸡翅，时间缩短一半。",
+    "收汁时加一勺番茄酱，颜色红亮，酸甜更柔和。"
+  ],
+  "serving_suggestion": "热吃酥甜，凉吃有嚼劲，宴客和哄孩子都合适。",
+  "storage": "冷藏可存两天，复热须下锅干煸两分钟再淋少许醋，微波会回软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 720,
+    "protein_g": 36,
+    "fat_g": 48,
+    "carbs_g": 34,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "排骨须炸至骨边不见血色、内部熟透后再裹汁。",
+    "炸制油量大、油温高，排骨下锅须擦干水分并分批放入，锅旁不可离人。"
+  ],
+  "origin_note": "糖醋排骨是京菜馆里的招牌甜口菜，外酥里嫩，酸甜挂着亮汁，小孩和老人家都爱。老北京的做法讲究先焯后炸、复炸一次，糖醋汁要熬到能挂住排骨又不粘牙。上桌时撒一把芝麻，颜色枣红，看着就有食欲。",
+  "tags": [
+    "京菜",
+    "排骨",
+    "糖醋",
+    "炸制"
+  ],
+  "related_ids": [
+    "beijing-hongshao-niurou",
+    "beijing-sixi-wanzi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

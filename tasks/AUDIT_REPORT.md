@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T17:45:10.455Z
+- 生成时间：2026-11-25T17:58:42.752Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 122 道，平均分 98
 - 需重写（C/D）：0 道
@@ -27,7 +27,7 @@
 | anhui | chou-guiyu | 100 | A | 无 |
 | argentinian | argentinian-chimichurri-steak | 100 | A | 无 |
 | australian | australian-avocado-toast | 100 | A | 无 |
-| beijing | beijing-sanbuzhan | 100 | A | 无 |
+| beijing | beijing-hongshao-niurou | 100 | A | 无 |
 | brazilian | brazilian-brigadeiro | 100 | A | 无 |
 | british | british-toad-in-the-hole | 100 | A | 无 |
 | cajun | cajun-blackened-fish | 100 | A | 无 |

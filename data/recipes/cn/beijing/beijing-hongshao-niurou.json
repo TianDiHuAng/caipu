@@ -1,0 +1,299 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "beijing-hongshao-niurou",
+  "name": {
+    "zh": "京味红烧牛肉",
+    "en": "Beijing Braised Beef",
+    "original": "京味红烧牛肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 49,
+    "cook_min": 105,
+    "total_min": 154
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 1000,
+          "unit": "g",
+          "note": "取牛腩部位切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 250,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉块切成三厘米见方的块，冷水浸泡四十分钟去血水，中途换两次水。",
+      "time_min": 42,
+      "heat": "无火",
+      "tip": "牛肉块血水多，泡透了炖出来的汤才清，腥味也去得干净。",
+      "visual_cue": "肉块发白，水色转淡红"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅，加姜片与料酒，大火煮开撇净浮沫，煮五分钟捞出冲净。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "浮沫撇干净，汤才清亮，腥味也去得干净。",
+      "visual_cue": "水面浮起厚厚一层灰白沫"
+    },
+    {
+      "n": 3,
+      "text": "炖锅倒植物油，下白糖小火炒到起泡变枣红，倒入牛肉块翻炒上色。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "糖色一冒小泡就下肉，炒老了整锅发苦。",
+      "visual_cue": "糖浆枣红起泡，肉块裹色均匀"
+    },
+    {
+      "n": 4,
+      "text": "下葱段、姜片、蒜、八角、桂皮与香叶炒香，烹入料酒、生抽与老抽。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香料提前炒一遍，靠热油把香气逼出来，比直接炖强。",
+      "visual_cue": "香料飘香，肉块颜色深红"
+    },
+    {
+      "n": 5,
+      "text": "加开水没过牛肉，大火烧开转小火加盖炖一小时。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "必须加开水，冷水一激牛肉就紧，炖再久也发柴。",
+      "visual_cue": "汤面微微冒泡，肉块浮起转动"
+    },
+    {
+      "n": 6,
+      "text": "下白萝卜块继续炖二十分钟，至萝卜透明、牛肉酥软。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "萝卜后放，久炖会烂在汤里，只剩甜水味。",
+      "visual_cue": "萝卜透亮，筷子能插透牛肉"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味，转大火收汁八分钟，汤汁浓亮后撒香菜出锅。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "收汁时要勤翻动，糖分多容易糊底，一糊整锅都苦。",
+      "visual_cue": "汤汁浓稠挂肉，油光发亮"
+    }
+  ],
+  "tips": [
+    "牛肉块选带筋膜的，炖软后胶质丰厚，汤也更稠。",
+    "炖的时候放两颗红枣，回甘更明显，颜色也深。",
+    "第二天回锅再热一次，味道更透，汤能拌两碗饭。"
+  ],
+  "common_mistakes": [
+    "牛肉不泡不焯直接炖，汤浑发腥，一股血味散不掉。",
+    "中途加冷水，牛肉纤维骤然收缩，炖两小时还是硬。",
+    "糖色炒过头才下肉，整锅发苦，怎么加糖都救不回。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "1000克:1000克",
+      "note": "羊肉更嫩，炖的时间减二十分钟。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "土豆",
+      "ratio": "250克:300克",
+      "note": "土豆易烂，炖的时间减到十分钟。"
+    }
+  ],
+  "variations": [
+    "把汤收得更干，做成京味的干烧牛肉，配饼夹着吃很香。",
+    "加一把泡软的粉丝同炖，粉丝吸饱汤汁，比肉还抢手。"
+  ],
+  "serving_suggestion": "连汁浇在米饭上最香，也可以配馒头或面条，汤汁一点不浪费。",
+  "storage": "冷藏可存三天，冷冻可存一个月，复热须小火加开水烧开。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 680,
+    "protein_g": 50,
+    "fat_g": 44,
+    "carbs_g": 16,
+    "sodium_mg": 1220,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖至酥软熟透，中心不见血水后再食用。",
+    "炒糖色时糖浆温度极高，下肉前须把火调小，避免糖浆爆溅烫伤。"
+  ],
+  "origin_note": "京味红烧牛肉是胡同里的家常硬菜，讲究酱香浓、汤色亮、肉酥而不散。老北京人炖肉爱用糖色配黄酱的路数，这里用生抽老抽代替，颜色一样透亮。冬天炖一大锅，配萝卜一起烧，一家人就着汤汁吃两碗饭。",
+  "tags": [
+    "京菜",
+    "牛肉",
+    "红烧",
+    "炖菜"
+  ],
+  "related_ids": [
+    "beijing-sixi-wanzi",
+    "jingjiang-rousi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

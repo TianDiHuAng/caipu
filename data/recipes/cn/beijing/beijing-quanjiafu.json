@@ -1,0 +1,326 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "beijing-quanjiafu",
+  "name": {
+    "zh": "全家福",
+    "en": "Beijing Mixed Braise (Quanjiafu)",
+    "original": "全家福"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 25,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "挑去背线",
+          "optional": false
+        },
+        {
+          "name": "海参",
+          "name_en": "sea cucumber",
+          "amount": 150,
+          "unit": "g",
+          "note": "泡发后切条",
+          "optional": false
+        },
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 150,
+          "unit": "g",
+          "note": "切花刀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "腐竹",
+          "name_en": "dried tofu stick",
+          "amount": 80,
+          "unit": "g",
+          "note": "泡软切段",
+          "optional": false
+        },
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "鹌鹑蛋",
+          "name_en": "quail eggs",
+          "amount": 8,
+          "unit": "piece",
+          "note": "煮熟去壳",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "锅铲",
+    "刀",
+    "砂锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "海参提前泡发切条，腐竹泡软切段，香菇泡开切片，鹌鹑蛋煮熟剥壳。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "几样干货提前备好，炒的时候才不手忙脚乱。",
+      "visual_cue": "干货泡透，捏起来柔软有弹性"
+    },
+    {
+      "n": 2,
+      "text": "虾仁挑去背上的黑线，加盐与料酒抓匀；鱿鱼切十字花刀后切块。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "背上的黑线不挑干净会带沙，腥味也重，一条条挑才干净。",
+      "visual_cue": "虾仁干净透亮，鱿鱼花刀均匀"
+    },
+    {
+      "n": 3,
+      "text": "汤锅烧水，海参、腐竹、香菇分别焯一分钟捞出，鱿鱼烫到卷起立刻捞。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "焯水去异味，鱿鱼一烫就卷，久煮就老。",
+      "visual_cue": "鱿鱼卷成花，海参发亮"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧热，下葱姜蒜炒香，倒入虾仁大火滑到变红盛出。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "虾仁单独滑熟盛出，久炒就缩成硬粒，口感全无。",
+      "visual_cue": "虾仁转红卷曲，锅底无汤"
+    },
+    {
+      "n": 5,
+      "text": "原锅下白菜与胡萝卜炒软，加香菇、腐竹、海参与鹌鹑蛋翻炒，烹料酒。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "白菜炒出水再下料，汤汁才自然不寡。",
+      "visual_cue": "白菜变软塌下，锅中开始出汤"
+    },
+    {
+      "n": 6,
+      "text": "加生抽、蚝油、白糖与小半碗开水，加盖中火烧八分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "汤汁别收得太干，后面还要勾芡，留一点才裹得住料。",
+      "visual_cue": "汤汁见少变浓，各料颜色加深"
+    },
+    {
+      "n": 7,
+      "text": "倒回虾仁与鱿鱼，加盐调味，淋淀粉水勾薄芡，翻匀出锅。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "虾仁和鱿鱼最后回锅，热一下就出锅，多煮一分钟就老。",
+      "visual_cue": "汤汁浓稠裹料，油亮不流散"
+    }
+  ],
+  "tips": [
+    "海参要用凉水泡足天数，急不得，泡不透口感发硬。",
+    "加两只泡发的干香菇提鲜，汤味立刻厚一层。",
+    "宴席版可再加鱼肚与火腿片，料越全越有讲究。"
+  ],
+  "common_mistakes": [
+    "所有料一起下锅猛煮，虾仁煮成硬粒，白菜烂成泥。",
+    "干货不焯水直接烧，一股存放的异味压不住。",
+    "芡勾得太厚，整锅黏成团，筷子插进去立着。"
+  ],
+  "substitutions": [
+    {
+      "original": "海参",
+      "substitute": "鱿鱼",
+      "ratio": "150克:150克",
+      "note": "省去海参时鱿鱼要加倍，口感更韧。"
+    },
+    {
+      "original": "草虾",
+      "substitute": "虾仁",
+      "ratio": "150克:150克",
+      "note": "现成虾仁更方便，须挑净背线。"
+    }
+  ],
+  "variations": [
+    "把各料分装小砂锅单独烧，就是京菜馆的一品砂锅全家福。",
+    "汤汁加一勺奶汤同烧，味道更醇厚，颜色也更白。"
+  ],
+  "serving_suggestion": "一大盘端上桌，料足味浓，是过年过节最讨喜的席面菜。",
+  "storage": "冷藏可存两天，复热须小火加少许水烧开，海参与鱿鱼久热会发硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 34,
+    "fat_g": 22,
+    "carbs_g": 20,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "海参、鱿鱼与虾仁须彻底加热至熟透后再食用，贝类与甲壳类不宜生食。",
+    "处理鱿鱼与海参时刀具湿滑，切花刀须稳手操作，避免划伤。"
+  ],
+  "origin_note": "全家福是京津宴席上的吉祥菜，海参、虾仁、鱿鱼、腐竹、白菜一锅烩，讲究的是料多、汁浓、色正。旧时馆子做这道菜看家底，料全不全一眼就见分晓。老北京过年桌上少不了它，一家人围着一盘杂烩，图的就是团圆两个字。",
+  "tags": [
+    "京菜",
+    "宴席",
+    "海鲜",
+    "全家福"
+  ],
+  "related_ids": [
+    "beijing-sixi-wanzi",
+    "beijing-zhuachao-yupian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

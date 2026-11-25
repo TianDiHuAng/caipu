@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:45:09.570Z",
+  "generatedAt": "2026-11-25T17:58:41.882Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 652,
     "target": 3274,
-    "actual": 2222,
-    "coverage": 0.6786805131337813
+    "actual": 2229,
+    "coverage": 0.6808185705558949
   },
   "regions": {
     "cn": [
@@ -1744,14 +1744,16 @@
         "en": "Beijing",
         "tier": "B",
         "target": 38,
-        "actual": 15,
+        "actual": 22,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "beijing-hongshao-niurou",
+              "beijing-tangcu-paigu",
               "culiu-muxu",
               "jingjiang-rousi"
             ]
@@ -1771,9 +1773,10 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "beijing-aiwowo",
+              "beijing-zha-guanchang",
               "beijing-zhima-shaobing",
               "chaogan",
               "lvdagun"
@@ -1794,15 +1797,20 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 3,
+            "ids": [
+              "beijing-quanjiafu",
+              "beijing-sixi-wanzi",
+              "beijing-zhuachao-yupian"
+            ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "beijing-ganbian-sijidou",
               "shao-er-dong"
             ]
           },
