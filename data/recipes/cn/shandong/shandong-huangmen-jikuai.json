@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-huangmen-jikuai",
+  "name": {
+    "zh": "黄焖鸡块",
+    "en": "Braised Chicken Chunks in Soy Sauce",
+    "original": "黃燜雞塊"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 750,
+          "unit": "g",
+          "note": "切四厘米见方的块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡发切块",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "note": "焖制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成四厘米见方的块，用清水冲两遍去掉血水，再擦干表面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "冲掉血水再焖，汤才清不发腥；擦干下锅才不上色不均。",
+      "visual_cue": "鸡块表面干爽，肉质紧实。"
+    },
+    {
+      "n": 2,
+      "text": "炒锅放植物油烧热，下葱段和姜片炒香，再放鸡块中火煸到表面微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "鸡块要煸到表皮收紧，焖出来才香而不是腥。",
+      "visual_cue": "鸡块边缘金黄，锅底有焦香。"
+    },
+    {
+      "n": 3,
+      "text": "加料酒、生抽、老抽和白糖翻炒到鸡块均匀上色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "老抽只为调色，宁少勿多，多了整锅发黑。",
+      "visual_cue": "鸡块呈酱红色，油亮。"
+    },
+    {
+      "n": 4,
+      "text": "放入香菇块翻炒几下，倒入高汤没过鸡块三分之二，大火烧开。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "高汤别一次加太满，焖的过程还会出水。",
+      "visual_cue": "汤面浮起细沫，香气浓郁。"
+    },
+    {
+      "n": 5,
+      "text": "转小火盖盖焖二十五分钟，中途翻动一次防止粘底。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "小火慢焖，汤面只冒小泡，鸡肉才酥而不柴。",
+      "visual_cue": "汤汁浓稠挂在鸡块上，鸡肉轻压脱形。"
+    },
+    {
+      "n": 6,
+      "text": "开盖放青椒块，加盐调味，大火收汁三分钟即可出锅。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "青椒最后放，收汁时再煮久了颜色发暗。",
+      "visual_cue": "汤汁浓亮，青椒翠绿。"
+    }
+  ],
+  "tips": [
+    "鸡块先煸到表面金黄再焖，香气比直接炖强得多。",
+    "高汤加到没过三分之二就够，收汁时才有浓稠挂汁的效果。",
+    "青椒最后下锅，用大火收汁才能保持翠绿爽脆。"
+  ],
+  "common_mistakes": [
+    "鸡块没煸就加水炖，汤腥肉柴，一点锅气都没有。",
+    "汤汁收得太干，鸡块表面发硬，吃着像炖老了。",
+    "青椒和鸡一起焖二十分钟，出锅成了暗绿色的软片。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅",
+      "ratio": "750克:800克",
+      "note": "用鸡翅中焖，胶质更多，汤汁更黏稠。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "400毫升:400毫升",
+      "note": "用清水加一片姜代替，需多放五克生抽补味。"
+    }
+  ],
+  "variations": [
+    "加一把泡软的粉条一起焖，粉条吸饱鸡汤格外香。",
+    "喜欢辣的可以加两个干辣椒同煸，做成微辣黄焖鸡。"
+  ],
+  "serving_suggestion": "黄焖鸡块连汤汁一起浇在米饭上最香，配一碟凉拌黄瓜解腻，就是踏实的一顿家常饭。",
+  "storage": "冷藏可存两天，复热时加一勺高汤小火焖五分钟，不要大火干烧。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 420,
+    "protein_g": 34,
+    "fat_g": 26,
+    "carbs_g": 10,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡块须焖至完全熟透，切开不见粉红色、骨内无血水。",
+    "收汁时汤汁翻滚，翻炒动作放轻，避免热汁溅出烫手。"
+  ],
+  "origin_note": "黄焖鸡块是鲁菜里的家常名菜，鸡腿肉先煸后焖，加生抽老抽上色，用高汤小火焖到酥软，最后大火收汁。成菜色泽酱红、鸡肉酥烂、汤汁浓郁，浇在米饭上尤其下饭。",
+  "tags": [
+    "鲁菜",
+    "济南",
+    "禽类",
+    "家常"
+  ],
+  "related_ids": [
+    "shandong-dezhou-paji",
+    "shandong-lizi-shaoji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

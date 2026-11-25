@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-lizi-shaoji",
+  "name": {
+    "zh": "栗子烧鸡",
+    "en": "Braised Chicken with Chestnuts",
+    "original": "栗子燒雞"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 28,
+    "cook_min": 42,
+    "total_min": 70
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "栗子",
+          "name_en": "chestnut",
+          "amount": 200,
+          "unit": "g",
+          "note": "去壳去内膜",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "炒糖色与提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒糖色与煸鸡",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 450,
+          "unit": "ml",
+          "note": "烧制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "栗子用刀划一小口，下开水煮五分钟，捞出趁热剥去外壳和内膜。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "趁热剥内膜最容易，凉了那层薄皮会紧紧粘在栗肉上。",
+      "visual_cue": "栗子完整金黄，内膜去净。"
+    },
+    {
+      "n": 2,
+      "text": "鸡腿肉切块，冷水下锅加料酒焯两分钟，捞出用温水冲净浮沫。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "焯水用冷水下锅，血沫才逼得出来；冲洗要用温水免得肉骤缩。",
+      "visual_cue": "鸡块无血沫，肉质收紧。"
+    },
+    {
+      "n": 3,
+      "text": "锅中放植物油和白糖，小火慢慢搅到糖化成枣红色小泡。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色到枣红就立刻下鸡块，再等两秒就焦苦。",
+      "visual_cue": "糖液枣红冒细泡，有焦糖香。"
+    },
+    {
+      "n": 4,
+      "text": "下鸡块快速翻炒裹上糖色，加葱段姜片炒出香味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "鸡块下锅要快翻，糖色裹匀才好看，否则一半黑一半白。",
+      "visual_cue": "鸡块红亮均匀，葱姜香气明显。"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽、料酒和高汤烧开，转小火焖二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "先焖鸡后放栗子，否则栗子炖成泥，汤汁发浑。",
+      "visual_cue": "汤汁红亮，鸡块半酥。"
+    },
+    {
+      "n": 6,
+      "text": "放入栗子继续焖十五分钟，加盐调味，大火收汁到浓稠即可。",
+      "time_min": 17,
+      "heat": "大火",
+      "tip": "栗子下锅后别频繁翻动，一动就容易碎成渣，汤汁也会发浑。",
+      "visual_cue": "栗子完整油亮，汤汁浓稠挂勺。"
+    }
+  ],
+  "tips": [
+    "栗子趁热剥内膜最省事，凉了就剥不干净。",
+    "栗子后放、少翻动，才能保持完整不碎不浑汤。",
+    "栗子后放、少翻动，才能保持完整不碎。"
+  ],
+  "common_mistakes": [
+    "栗子剥完内膜没去净，烧出来带着涩味和硬皮。",
+    "糖色炒过头，整锅鸡块发黑发苦，只能倒掉。",
+    "栗子和鸡一起下锅炖四十分钟，栗子化在汤里成糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "栗子",
+      "substitute": "土豆",
+      "ratio": "200克:250克",
+      "note": "换成土豆块同样粉糯，需多烧五分钟。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅",
+      "ratio": "700克:800克",
+      "note": "用鸡翅中烧栗子，胶质更足，汤汁更黏。"
+    }
+  ],
+  "variations": [
+    "加几颗红枣同烧，甜香更浓，是秋冬家常的做法。",
+    "用干香菇泡发的水代替部分高汤，鲜味更沉。"
+  ],
+  "serving_suggestion": "栗子烧鸡秋冬吃最应季，鸡块酥烂、栗子粉甜，汤汁浇在米饭上能多吃一碗。",
+  "storage": "冷藏可存两天，复热时加少量清水小火焖几分钟，栗子不易碎。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 33,
+    "fat_g": 24,
+    "carbs_g": 38,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡块须烧至完全熟透，骨内不见血水；栗子含淀粉，冷却后易变质，剩菜须及时冷藏。",
+    "炒糖色温度很高，鸡块下锅时会爆油，请用长柄锅铲并保持距离。"
+  ],
+  "origin_note": "栗子烧鸡是山东秋天常见的一道家常菜，鸡块先焯后炒糖色，加高汤小火焖到半酥，再放剥好的栗子同烧。栗子吸足了鸡汁，粉甜绵软，鸡肉酥烂脱骨，汤汁红亮浓稠。",
+  "tags": [
+    "鲁菜",
+    "家常",
+    "禽类",
+    "秋冬"
+  ],
+  "related_ids": [
+    "shandong-huangmen-jikuai",
+    "shandong-dezhou-paji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
