@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-sopa-de-lima",
+  "name": {
+    "zh": "尤卡坦青柠鸡汤",
+    "en": "Sopa de Lima",
+    "original": "Sopa de Lima"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 55,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "带骨",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 3,
+          "unit": "piece",
+          "note": "两颗挤汁一颗切片",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 4,
+          "unit": "piece",
+          "note": "切条炸脆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炸饼条",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉冷水下锅，大火煮开撇沫，转小火煮二十五分钟。",
+      "time_min": 28,
+      "heat": "小火",
+      "tip": "鸡肉煮到筷子能轻松扎透即可，别煮老。",
+      "visual_cue": "鸡腿浮起，汤面清亮。"
+    },
+    {
+      "n": 2,
+      "text": "捞出鸡腿稍凉后撕成粗丝，鸡皮与骨头留回汤里再煮十分钟。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "骨头回锅煮，汤味更厚。",
+      "visual_cue": "汤色微黄，香气浓。"
+    },
+    {
+      "n": 3,
+      "text": "滤出清汤撇去浮油，锅里留少量植物油炒香洋葱丝与蒜末。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱炒到透明就够，不要上色。",
+      "visual_cue": "锅里油热，洋葱下锅发出细响。"
+    },
+    {
+      "n": 4,
+      "text": "加番茄丁炒出汁，倒入滤好的鸡汤，加牛至与黑胡椒煮十分钟。",
+      "time_min": 12,
+      "heat": "中小火",
+      "tip": "牛至和青柠是这道汤的骨架，别省。",
+      "visual_cue": "汤色橙红，香气清亮。"
+    },
+    {
+      "n": 5,
+      "text": "玉米饼切细条，下热油炸到金黄酥脆，捞出沥油。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "饼条要炸透，泡进汤里才不立刻软烂。",
+      "visual_cue": "饼条炸到金黄卷曲，捞出沥油。"
+    },
+    {
+      "n": 6,
+      "text": "汤里放回鸡肉丝，加盐调味，关火后挤入两颗青柠的汁。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "青柠汁关火后加，煮久会发苦。",
+      "visual_cue": "汤味立刻变清酸。"
+    },
+    {
+      "n": 7,
+      "text": "盛碗后放青柠片、香菜碎与炸好的玉米饼条，趁热喝。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "饼条上桌再放，保持脆感。",
+      "visual_cue": "碗面浮着脆饼条与青柠片。"
+    }
+  ],
+  "tips": [
+    "尤卡坦的青柠比普通柠檬更小更酸，用普通青柠可减量。",
+    "汤要清亮，全程小火，别让大火把汤滚浑。",
+    "炸玉米饼条一次多炸些，蘸汤吃很上瘾。"
+  ],
+  "common_mistakes": [
+    "青柠汁和汤一起长时间煮，酸味变苦、汤色发暗。",
+    "鸡肉煮过头再撕，肉丝又干又柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "青柠",
+      "substitute": "柠檬",
+      "ratio": "3 个对 2 个",
+      "note": "柠檬酸度低，需多挤半个提味。"
+    }
+  ],
+  "variations": [
+    "梅里达的餐馆会加一小勺炸过的干辣椒碎，酸里带辣，喝起来更开胃。"
+  ],
+  "serving_suggestion": "配玉米饼与一小碟哈瓦那辣椒酱，酸辣交替。",
+  "storage": "汤与饼条分开存放，冷藏两天，复热后现放饼条。",
+  "nutrition_estimate": {
+    "basis": "每份约 400g",
+    "calories_kcal": 330,
+    "protein_g": 28,
+    "fat_g": 17,
+    "carbs_g": 15,
+    "sodium_mg": 500,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡腿须煮至中心完全熟透、无血色，中心温度达到 74℃ 以上。",
+    "处理生鸡肉后须洗手并清洗刀板，避免交叉污染。",
+    "炸饼条时油温控制在 180℃ 左右，避免油温过高起火。"
+  ],
+  "origin_note": "Sopa de Lima 是尤卡坦半岛的招牌汤，名字里的 lima 指当地那种小而极酸的青柠。鸡汤打底，加番茄与牛至，最后挤足青柠汁，配炸脆的玉米饼条，酸香清爽。",
+  "tags": [
+    "墨西哥菜",
+    "汤品",
+    "鸡肉",
+    "青柠"
+  ],
+  "related_ids": [
+    "caldo-de-pollo",
+    "tortilla-soup",
+    "mexican-caldo-de-res"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

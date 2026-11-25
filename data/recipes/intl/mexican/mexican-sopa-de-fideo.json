@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-sopa-de-fideo",
+  "name": {
+    "zh": "墨西哥细面汤",
+    "en": "Sopa de Fideo",
+    "original": "Sopa de Fideo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 350,
+          "unit": "g",
+          "note": "短细面",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "煮汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "两瓣",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切角",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "搅拌机",
+    "汤锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄、洋葱与大蒜放入搅拌机，加少量高汤打成顺滑的红色汤底。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "打得越细，汤越顺口。",
+      "visual_cue": "酱汁呈均匀的橙红色。"
+    },
+    {
+      "n": 2,
+      "text": "锅里倒植物油烧热，放短细面中小火翻炒到金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "面要炒到通体金黄，煮出来才不糊。",
+      "visual_cue": "面条颜色由白转金，闻到坚果香。"
+    },
+    {
+      "n": 3,
+      "text": "倒入打好的番茄汤底，翻匀让每根面条都裹上酱。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "面条裹上酱再加水，汤才浓。",
+      "visual_cue": "面条染成橙红色。"
+    },
+    {
+      "n": 4,
+      "text": "加高汤与孜然，煮开后转小火煮十分钟至面条变软。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "面条吸汤快，中途搅两次防粘底。",
+      "visual_cue": "面条软而不烂，汤变稠。"
+    },
+    {
+      "n": 5,
+      "text": "加盐调味，撒香菜碎，关火静置两分钟让汤更稠。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "静置后汤会收得更浓，口感更好。",
+      "visual_cue": "汤面微微起稠，香菜浮在表面。"
+    },
+    {
+      "n": 6,
+      "text": "盛入深碗，挤上青柠汁，连汤带面趁热吃最香。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "青柠汁解腻，别省略。",
+      "visual_cue": "碗边摆着青柠角。"
+    }
+  ],
+  "tips": [
+    "短细面在墨西哥超市叫 fideo，用掰断的细面条一样可以做。",
+    "炒面这一步决定香气，颜色到金黄才算到位。",
+    "汤的稠度靠静置收浓，不用加淀粉勾芡。"
+  ],
+  "common_mistakes": [
+    "面条不炒直接下汤，煮出来糊成一锅面糊。",
+    "汤底打得不细，喝起来有番茄皮渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "350g 对 320g",
+      "note": "米粉吸汤快，高汤加到 1400ml。"
+    }
+  ],
+  "variations": [
+    "有的家庭会在汤里加一个水煮蛋或一勺酸奶油，做成更饱腹的版本。"
+  ],
+  "serving_suggestion": "配玉米饼与一勺酸奶油，也可以加个煎蛋当早餐。",
+  "storage": "冷藏两天，复热时加少量高汤稀释，面条会继续吸汤。",
+  "nutrition_estimate": {
+    "basis": "每份约 380g",
+    "calories_kcal": 340,
+    "protein_g": 11,
+    "fat_g": 11,
+    "carbs_g": 50,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "热汤与炒面时注意油温，面条含水少，下锅易溅油。",
+    "含麸质，乳糜泻与麸质敏感人群不宜食用。",
+    "汤品冷却后须冷藏保存，室温放置不超过两小时。"
+  ],
+  "origin_note": "Sopa de Fideo 是墨西哥孩子的第一口汤，番茄洋葱打成底，短细面先炒香再煮，浓稠顺口，一顿午餐配几张玉米饼就足够。",
+  "tags": [
+    "墨西哥菜",
+    "汤品",
+    "面条",
+    "家常"
+  ],
+  "related_ids": [
+    "tortilla-soup",
+    "caldo-de-pollo",
+    "mexican-caldo-de-res"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

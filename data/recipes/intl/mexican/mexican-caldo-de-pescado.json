@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-caldo-de-pescado",
+  "name": {
+    "zh": "墨西哥鱼汤",
+    "en": "Caldo de Pescado",
+    "original": "Caldo de Pescado"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲈鱼",
+          "name_en": "sea bass",
+          "amount": 700,
+          "unit": "g",
+          "note": "去骨切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲈鱼去骨切成大块，用一半青柠汁与少许盐抓匀腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "青柠汁能去腥并让鱼肉紧实。",
+      "visual_cue": "鱼肉表面发白，闻不到腥味。"
+    },
+    {
+      "n": 2,
+      "text": "锅里倒橄榄油，下洋葱丝炒到透明，加大蒜末炒香。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "洋葱炒软就够，别炒出焦色。",
+      "visual_cue": "洋葱透明，蒜香散出。"
+    },
+    {
+      "n": 3,
+      "text": "放番茄块与青椒圈炒五分钟，炒到番茄出汁变软。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄炒出汁，汤底才有厚度。",
+      "visual_cue": "锅里出现橙红色汤汁。"
+    },
+    {
+      "n": 4,
+      "text": "加清水与牛至煮开，转小火煮十分钟让味道融合。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "先煮出蔬菜的甜，再下鱼。",
+      "visual_cue": "汤色橙红，香气清亮。"
+    },
+    {
+      "n": 5,
+      "text": "放入鲈鱼块，小火煮六分钟，不要搅动避免鱼肉散开。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "鱼块下锅后只能轻推，翻搅就碎。",
+      "visual_cue": "鱼块变白不透明。"
+    },
+    {
+      "n": 6,
+      "text": "加盐调味，关火挤入剩下的青柠汁，撒香菜碎。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "青柠汁关火后加，酸味才清。",
+      "visual_cue": "汤面浮着香菜，闻起来酸香。"
+    }
+  ],
+  "tips": [
+    "鱼要选肉质紧实的海鱼，鲈鱼、鳕鱼都合适。",
+    "鱼块下锅后别盖严锅盖，容易焖散。",
+    "汤煮好后立即喝，鱼肉久泡会散。"
+  ],
+  "common_mistakes": [
+    "鱼块冷水下锅，煮出来又老又散。",
+    "汤一直大火翻滚，鱼肉全碎在汤里，只剩一锅腥汤。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲈鱼",
+      "substitute": "鳕鱼",
+      "ratio": "700g 对 700g",
+      "note": "鳕鱼肉更嫩，煮的时间缩短到四分钟。"
+    }
+  ],
+  "variations": [
+    "韦拉克鲁斯版本会加一勺番茄酱与几片月桂叶，汤色更红、味道更浓。"
+  ],
+  "serving_suggestion": "配玉米饼与青柠角，也可以浇在白饭上。",
+  "storage": "冷藏一天，复热时小火加热，不要煮滚。",
+  "nutrition_estimate": {
+    "basis": "每份约 400g",
+    "calories_kcal": 250,
+    "protein_g": 30,
+    "fat_g": 11,
+    "carbs_g": 9,
+    "sodium_mg": 500,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "鲈鱼须煮至肉质完全变白、中心不再透明，中心温度达到 63℃ 以上。",
+    "处理生鱼的刀板与熟食分开，避免交叉污染。",
+    "鱼刺须彻底剔除，老人与儿童食用前再检查一遍。"
+  ],
+  "origin_note": "墨西哥湾沿岸的鱼汤做法简单：番茄、洋葱、青椒炒成底，加清水煮开，最后放鱼块与青柠汁。汤清味鲜，配一张玉米饼就是海边人家的午饭。",
+  "tags": [
+    "墨西哥菜",
+    "汤品",
+    "鱼",
+    "海鲜"
+  ],
+  "related_ids": [
+    "mexican-caldo-de-camerones",
+    "mexican-sopa-de-lima",
+    "caldo-de-pollo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-caldo-de-res",
+  "name": {
+    "zh": "墨西哥牛肉蔬菜汤",
+    "en": "Caldo de Res",
+    "original": "Caldo de Res"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 105,
+    "total_min": 130
+  },
+  "servings": 6,
+  "flavor": [
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 900,
+          "unit": "g",
+          "note": "带筋膜切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "玉米",
+          "name_en": "sweet corn",
+          "amount": 2,
+          "unit": "piece",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "切角",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成四厘米见方的块，用冷水浸泡二十分钟逼出血水。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡出血水，汤才清不腥。",
+      "visual_cue": "水色转淡红，牛腩发白。"
+    },
+    {
+      "n": 2,
+      "text": "牛腩冷水下锅，大火煮开后撇净浮沫，捞出用温水冲洗。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "浮沫撇干净，汤底才透亮。",
+      "visual_cue": "水面浮起褐色泡沫。"
+    },
+    {
+      "n": 3,
+      "text": "锅里重新加清水，放牛腩、洋葱块、大蒜与香叶，大火煮开转小火。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "小火慢炖，牛腩才软而不散。",
+      "visual_cue": "汤面只有细小气泡，微微冒气。"
+    },
+    {
+      "n": 4,
+      "text": "盖锅炖六十分钟，中途撇两次浮油，保持汤面清亮。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "炖的时间按肉的老嫩调整，筷子能扎透就行。",
+      "visual_cue": "牛腩块边缘发软。"
+    },
+    {
+      "n": 5,
+      "text": "放胡萝卜、土豆与玉米段，继续炖二十分钟至蔬菜熟透。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "蔬菜后放，久炖会化在汤里。",
+      "visual_cue": "土豆边缘微融，胡萝卜变软。"
+    },
+    {
+      "n": 6,
+      "text": "加盐与黑胡椒调味，撒入芹菜段再煮三分钟。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "芹菜最后下，保住清香与脆感。",
+      "visual_cue": "芹菜翠绿，汤色清亮。"
+    },
+    {
+      "n": 7,
+      "text": "盛碗时放一大块牛腩与蔬菜，撒香菜，配青柠角挤汁。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "青柠汁上桌前挤，酸香最提味。",
+      "visual_cue": "汤面漂着油花，青柠翠绿。"
+    }
+  ],
+  "tips": [
+    "牛腩选带筋膜的，炖出来汤浓肉香。",
+    "全程小火，汤才清；大火滚会把汤煮浑。",
+    "墨西哥人喝这汤会配玉米饼，掰碎泡着吃。"
+  ],
+  "common_mistakes": [
+    "牛腩不焯水直接炖，汤浑且带腥。",
+    "一开始就放盐，牛腩炖两小时还是硬的。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "900g 对 900g",
+      "note": "牛腱筋多，炖的时间延长二十分钟。"
+    }
+  ],
+  "variations": [
+    "北部地区会加一段甘蔗同炖，汤带清甜，喝起来更润。"
+  ],
+  "serving_suggestion": "配上玉米饼、洋葱碎与青柠角，一人一碗连肉带汤。",
+  "storage": "冷藏三天，撇去表面油脂后复热，风味更好。",
+  "nutrition_estimate": {
+    "basis": "每份约 400g",
+    "calories_kcal": 320,
+    "protein_g": 26,
+    "fat_g": 18,
+    "carbs_g": 14,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛腩须炖至中心完全熟透、无血色，中心温度达到 74℃ 以上。",
+    "生肉接触过的刀板须彻底清洗，避免与熟食交叉污染。",
+    "汤品隔夜保存须迅速冷却后冷藏，室温放置不超过两小时。"
+  ],
+  "origin_note": "Caldo de Res 是墨西哥家家都做的牛肉汤，牛腩与胡萝卜、土豆、玉米一起慢炖，汤清肉烂，上桌时配一叠玉米饼和青柠角，一顿饭就够了。",
+  "tags": [
+    "墨西哥菜",
+    "汤品",
+    "牛肉",
+    "炖煮"
+  ],
+  "related_ids": [
+    "caldo-de-pollo",
+    "mexican-pozole-rojo",
+    "tortilla-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

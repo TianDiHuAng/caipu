@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T02:36:26.137Z
+- 生成时间：2026-11-25T04:26:02.350Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：59 个，抽样 108 道，平均分 98
+- 覆盖菜系：59 个，抽样 111 道，平均分 99
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -44,90 +44,93 @@
 | french | sauce-hollandaise | 100 | A | 无 |
 | french | bouillabaisse | 100 | A | 无 |
 | french | french-salade-chevre-chaud | 100 | A | 无 |
-| fujian | min-sun-menrou | 100 | A | 无 |
-| fujian | fujian-puning-doujiang-zhi | 100 | A | 无 |
-| fujian | wuxiang-paigu | 100 | A | 无 |
-| fujian | fujian-qingzheng-huangyu | 100 | A | 无 |
-| german | german-cucumber-salad | 100 | A | 无 |
-| german | german-frikadellen | 100 | A | 无 |
-| greek | greek-keftedes | 100 | A | 无 |
-| hakka | niang-doufu | 100 | A | 无 |
-| halal-cn | halal-cn-huangmen-jirou | 93 | A | 准确性 18/25 |
-| hongkong | hongkong-egg-tart | 100 | A | 无 |
-| hunan | hunan-suanrou | 93 | A | 准确性 18/25 |
-| hunan | hunan-lajiao-chao-qiezi | 100 | A | 无 |
+| fujian | minnan-zhacurou | 94 | A | 安全性 14/20 |
+| fujian | fuzhou-rouyan | 100 | A | 无 |
+| fujian | fujian-niang-doufu | 100 | A | 无 |
+| fujian | fujian-qingchao-jielan | 100 | A | 无 |
+| fujian | fujian-haoli-jian | 100 | A | 无 |
+| fujian | fujian-ganbei-donggua-tang | 100 | A | 无 |
+| german | pretzel | 93 | A | 准确性 18/25 |
+| german | german-jagerschnitzel | 100 | A | 无 |
+| greek | greek-honey-cake | 100 | A | 无 |
+| hakka | hakka-sanbeiji | 100 | A | 无 |
+| halal-cn | halal-cn-niurou-chaomian | 100 | A | 无 |
+| hongkong | hongkong-pork-chop-rice | 93 | A | 准确性 18/25 |
 | hunan | ganguo-chashugu | 100 | A | 无 |
-| indian | aloo-gobi | 100 | A | 无 |
-| indian | indian-chicken-vindaloo | 100 | A | 无 |
-| indian | indian-veg-pulao | 100 | A | 无 |
-| indonesian | indonesian-gado-gado | 100 | A | 无 |
-| irish | irish-champ | 100 | A | 无 |
-| italian | ciabatta | 100 | A | 无 |
-| italian | grissini | 100 | A | 无 |
-| italian | italian-risotto-milanese | 100 | A | 无 |
-| japanese | hiyayakko | 87 | B | 准确性 18/25；安全性 14/20 |
-| japanese | japanese-shiratama | 100 | A | 无 |
-| japanese | omurice | 100 | A | 无 |
-| jiangsu | guotie | 93 | A | 准确性 18/25 |
-| jiangsu | jiangsu-liangban-wosun | 93 | A | 准确性 18/25 |
-| jiangsu | jiangsu-xiaohun-tun | 100 | A | 无 |
-| korean | jeyuk-bokkeum | 93 | A | 准确性 18/25 |
-| korean | dwaeji-gukbap | 93 | A | 准确性 18/25 |
+| hunan | dong-an-ji | 100 | A | 无 |
+| hunan | hunan-lajiao-chao-qiezi | 100 | A | 无 |
+| indian | indian-chicken-tikka-masala | 93 | A | 准确性 18/25 |
+| indian | indian-shrikhand | 100 | A | 无 |
+| indian | indian-chicken-chettinad | 100 | A | 无 |
+| indian | indian-aloo-matar | 100 | A | 无 |
+| indonesian | indonesian-ayam-penyet | 100 | A | 无 |
+| irish | irish-porridge | 100 | A | 无 |
+| italian | cannoli-siciliani | 93 | A | 准确性 18/25 |
+| italian | pollo-al-limone | 94 | A | 安全性 14/20 |
+| italian | italian-pasta-alla-norma | 100 | A | 无 |
+| japanese | japanese-castella | 100 | A | 无 |
+| japanese | japanese-kinpira-renkon | 100 | A | 无 |
+| japanese | japanese-hanbaagu | 100 | A | 无 |
+| jiangsu | jiangsu-qingzheng-luyu | 94 | A | 安全性 14/20 |
+| jiangsu | jiangsu-jiyu-doufu-tang | 100 | A | 无 |
+| jiangsu | dazhu-gansi | 100 | A | 无 |
+| korean | gochujang | 93 | A | 准确性 18/25 |
+| korean | korean-oi-muchim | 94 | A | 安全性 14/20 |
 | malaysian | malaysian-curry-puff | 100 | A | 无 |
-| mediterranean | mediterranean-spanakopita | 100 | A | 无 |
-| mediterranean | mediterranean-fattoush | 100 | A | 无 |
-| mexican | sopa-de-frijol | 93 | A | 准确性 18/25 |
-| mexican | mexican-atole | 100 | A | 无 |
-| mexican | chili-con-carne | 100 | A | 无 |
-| middle-eastern | middle-eastern-kofta | 100 | A | 无 |
-| mongolian | mongolian-lamb-ribs | 100 | A | 无 |
-| nordic | nordic-aeblekage | 100 | A | 无 |
-| nordic | nordic-blabarsoppa | 100 | A | 无 |
-| north-african | north-african-shakshuka | 100 | A | 无 |
-| north-african | north-african-msemen | 100 | A | 无 |
-| peruvian | peruvian-salsa-criolla | 100 | A | 无 |
-| peruvian | peruvian-papa-a-la-huancaina | 100 | A | 无 |
-| portuguese | portuguese-toucinho-do-ceu | 93 | A | 准确性 18/25 |
-| portuguese | portuguese-frango-assado | 100 | A | 无 |
-| russian | russian-napoleon-cake | 100 | A | 无 |
-| russian | russian-olivier-salad | 100 | A | 无 |
+| mediterranean | mediterranean-baked-cod | 94 | A | 安全性 14/20 |
+| mediterranean | mediterranean-toum | 100 | A | 无 |
+| mexican | agua-fresca | 97 | A | 完整性 22/25 |
+| mexican | mexican-elote-cup | 100 | A | 无 |
+| mexican | mexican-cochinita-pibil | 100 | A | 无 |
+| middle-eastern | middle-eastern-basbousa | 100 | A | 无 |
+| mongolian | mongolian-tsuivan | 100 | A | 无 |
+| nordic | nordic-oat-porridge | 100 | A | 无 |
+| nordic | nordic-pepparkakor | 100 | A | 无 |
+| north-african | north-african-lamb-chickpea-stew | 100 | A | 无 |
+| north-african | north-african-zaalouk | 100 | A | 无 |
+| peruvian | peruvian-papa-rellena | 93 | A | 准确性 18/25 |
+| peruvian | peruvian-limonada | 100 | A | 无 |
+| portuguese | portuguese-carne-de-porco-a-alentejana | 100 | A | 无 |
+| portuguese | portuguese-caldo-verde | 100 | A | 无 |
+| russian | russian-ukha | 100 | A | 无 |
+| russian | russian-plov | 100 | A | 无 |
 | shandong | naitang-jiyu | 94 | A | 安全性 14/20 |
-| shandong | tangcu-liyu | 100 | A | 无 |
-| shandong | shandong-naitang-baicai | 100 | A | 无 |
-| shanghai | shanghai-jiang-ya | 93 | A | 准确性 18/25 |
-| sichuan | yibin-ranmian | 100 | A | 无 |
-| sichuan | chuanbei-liangfen | 100 | A | 无 |
-| sichuan | guoba-roupian | 100 | A | 无 |
-| singaporean | singaporean-nasi-lemak | 93 | A | 准确性 18/25 |
-| singaporean | singaporean-crab-bee-hoon | 100 | A | 无 |
-| south-african | south-african-pap | 93 | A | 准确性 18/25 |
-| south-african | south-african-milk-tart | 100 | A | 无 |
-| south-asian | south-asian-tandoori-chicken | 100 | A | 无 |
-| south-asian | south-asian-sambar | 100 | A | 无 |
-| spanish | gambas-al-ajillo | 94 | A | 安全性 14/20 |
-| spanish | spanish-paella | 100 | A | 无 |
-| spanish | paella-verduras | 100 | A | 无 |
-| taiwan | lurou-fan | 93 | A | 准确性 18/25 |
-| tex-mex | tex-mex-tortilla-soup | 100 | A | 无 |
-| tex-mex | tex-mex-elote | 100 | A | 无 |
-| thai | thai-tod-mun-pla | 93 | A | 准确性 18/25 |
-| thai | thai-khao-man-gai | 100 | A | 无 |
+| shandong | youmen-daxia | 100 | A | 无 |
+| shandong | baochao-yaohua | 100 | A | 无 |
+| shanghai | shanghai-egg-dumpling | 100 | A | 无 |
+| sichuan | sichuan-xuehua-jinao | 93 | A | 准确性 18/25 |
+| sichuan | mala-xiangguo | 100 | A | 无 |
+| sichuan | sichuan-liangmian | 100 | A | 无 |
+| singaporean | singaporean-prawn-noodle-soup | 87 | B | 准确性 18/25；安全性 14/20 |
+| singaporean | singaporean-fried-carrot-cake | 100 | A | 无 |
+| south-african | south-african-samoosa | 94 | A | 安全性 14/20 |
+| south-african | south-african-potato-salad | 100 | A | 无 |
+| south-asian | south-asian-chapati | 100 | A | 无 |
+| south-asian | south-asian-baingan-bharta | 100 | A | 无 |
+| spanish | champinones-al-ajillo | 100 | A | 无 |
+| spanish | tortilla-espanola | 100 | A | 无 |
+| spanish | spanish-empanada-gallega | 100 | A | 无 |
+| taiwan | taiwan-sanbei-zhongjiao | 100 | A | 无 |
+| tex-mex | tex-mex-chili-con-carne | 100 | A | 无 |
+| tex-mex | tex-mex-guacamole | 100 | A | 无 |
+| thai | thai-green-curry-vegetable | 100 | A | 无 |
+| thai | thai-gai-yang | 100 | A | 无 |
 | thai | thai-mieng-kham | 100 | A | 无 |
-| thai | thai-green-curry-chicken | 100 | A | 无 |
-| tibetan | tibetan-dresil | 100 | A | 无 |
-| turkish | turkish-manti | 100 | A | 无 |
-| turkish | turkish-karniyarik | 100 | A | 无 |
-| vietnamese | vietnamese-sour-soup | 100 | A | 无 |
-| west-african | west-african-peanut-soup | 93 | A | 准确性 18/25 |
-| west-african | west-african-asun | 94 | A | 安全性 14/20 |
-| xibei | xibei-guokui | 100 | A | 无 |
-| xinjiang | xinjiang-tomato-pepper-salad | 100 | A | 无 |
-| yunguai | guizhou-siwawa | 100 | A | 无 |
-| zhejiang | wenzhou-nuomifan | 100 | A | 无 |
-| zhejiang | zhejiang-donggua-xiawan-tang | 100 | A | 无 |
-| zhejiang | liangban-muer | 100 | A | 无 |
+| thai | thai-khao-man-gai | 100 | A | 无 |
+| tibetan | tibetan-tingmo | 100 | A | 无 |
+| turkish | turkish-adana-kebab | 100 | A | 无 |
+| turkish | turkish-muhallebi | 100 | A | 无 |
+| vietnamese | pho-bo | 100 | A | 无 |
+| west-african | west-african-puff-puff | 100 | A | 无 |
+| west-african | west-african-coconut-rice | 100 | A | 无 |
+| xibei | xibei-roujiamo | 100 | A | 无 |
+| xinjiang | xinjiang-suannai | 100 | A | 无 |
+| yunguai | guizhou-zaolajiao | 100 | A | 无 |
+| zhejiang | zhejiang-gancai-menrou | 93 | A | 准确性 18/25 |
+| zhejiang | ningbo-tangyuan | 100 | A | 无 |
+| zhejiang | laoya-bao | 100 | A | 无 |
 
 ## 结论
 
-- 本批 108 道全部达到 B 级及以上，无需重写。
+- 本批 111 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。
