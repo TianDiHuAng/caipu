@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "south-asian-rogan-josh",
+  "name": {
+    "zh": "克什米尔羊肉咖喱",
+    "en": "Rogan Josh",
+    "original": "Rogan Josh"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "south-asian"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 80,
+    "total_min": 105
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 900,
+          "unit": "g",
+          "note": "带骨羊肩，切四厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 150,
+          "unit": "ml",
+          "note": "全脂，室温",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "捣泥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "捣泥",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili-powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "克什米尔辣椒粉更佳",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "香料粉",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "香料粉",
+          "optional": false
+        },
+        {
+          "name": "小豆蔻",
+          "name_en": "cardamom",
+          "amount": 4,
+          "unit": "g",
+          "note": "拍破",
+          "optional": false
+        },
+        {
+          "name": "肉桂粉",
+          "name_en": "ground-cinnamon",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "丁香",
+          "name_en": "clove",
+          "amount": 3,
+          "unit": "piece",
+          "note": "整粒",
+          "optional": false
+        },
+        {
+          "name": "酥油",
+          "name_en": "ghee",
+          "amount": 40,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎装饰",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "小碗",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉块用一半盐和一半酸奶抓匀，静置二十分钟腌入味。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "酸奶能软化纤维，也让肉更挂香料。",
+      "visual_cue": "肉块表面挂浆，碗底无多余水"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅化一半酥油，中火炒洋葱丝十分钟至深褐色，盛出一半备用。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "洋葱炒到褐色才有甜味，是这道菜的底子。",
+      "visual_cue": "洋葱深褐发亮，体积缩一半"
+    },
+    {
+      "n": 3,
+      "text": "下蒜泥、姜泥、小豆蔻、丁香和肉桂粉炒一分钟至香味散出。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "香料遇酥油才出味，注意别炒焦。",
+      "visual_cue": "锅里香气浓，香料裹在洋葱上"
+    },
+    {
+      "n": 4,
+      "text": "倒入羊肉块中火翻炒八分钟，让每块都裹上香料并微微上色。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "肉要炒到表面发白收紧，锁住汁水。",
+      "visual_cue": "肉块表面紧实，锅底有褐色焦层"
+    },
+    {
+      "n": 5,
+      "text": "加辣椒粉、姜黄和孜然炒两分钟，再倒入剩下的酸奶慢慢搅匀。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "酸奶要一点点加，一次倒入容易结絮。",
+      "visual_cue": "酱体橙红浓稠，无颗粒"
+    },
+    {
+      "n": 6,
+      "text": "加番茄块、剩下的盐和两百毫升热水，煮开后转小火盖盖炖五十分钟。",
+      "time_min": 52,
+      "heat": "小火",
+      "tip": "保持微沸，水少时补一勺热水。",
+      "visual_cue": "羊肉软烂，酱汁挂勺"
+    },
+    {
+      "n": 7,
+      "text": "开盖撒回炒好的洋葱丝，再化剩下的酥油淋在表面，撒香菜碎上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "最后淋酥油是克什米尔做法，香气更足。",
+      "visual_cue": "表面浮一层橙红油光"
+    }
+  ],
+  "tips": [
+    "用带骨羊肉炖，汤味比纯肉厚很多。",
+    "克什米尔辣椒粉辣度低、色红，是做这道菜的首选。",
+    "隔夜再吃味道更融合，第二天加点水复热即可。"
+  ],
+  "common_mistakes": [
+    "酸奶一次全倒进热锅，酱汁立刻结出絮状颗粒。",
+    "洋葱只炒到透明就下肉，成品缺甜味。",
+    "火太大炖煮，羊肉外表老了里面还没烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛腩",
+      "ratio": "900克:900克",
+      "note": "炖的时间延长二十分钟。"
+    },
+    {
+      "original": "酥油",
+      "substitute": "黄油",
+      "ratio": "40克:40克",
+      "note": "香味略淡，火要更小以免焦化。"
+    }
+  ],
+  "variations": [
+    "加几颗去核李子干，酸香更接近克什米尔老做法。",
+    "用羊腿肉替代羊肩，炖的时间缩短十分钟。"
+  ],
+  "serving_suggestion": "配白米饭或印度薄饼，旁边放一小碟洋葱圈和柠檬角，酸辣解腻。",
+  "storage": "冷藏三天，冷冻两个月；复热加两勺水小火加热，别用大火收干。",
+  "nutrition_estimate": {
+    "basis": "每份约320克",
+    "calories_kcal": 620,
+    "protein_g": 40,
+    "fat_g": 42,
+    "carbs_g": 14,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "羊肉须炖至中心完全熟透、能轻松脱骨；含酸奶的酱汁冷却后两小时内冷藏，复热须彻底加热至滚沸。"
+  ],
+  "origin_note": "Rogan Josh 出自克什米尔的穆斯林厨房，名字来自莫卧儿语里的「油」和「热」，指用酥油和红辣椒慢炖出的油亮羊肉。它不用洋葱打底的浓汤，而靠酸奶和整粒香料撑起味道。",
+  "tags": [
+    "印度",
+    "羊肉",
+    "咖喱",
+    "克什米尔"
+  ],
+  "related_ids": [
+    "south-asian-butter-chicken",
+    "south-asian-vegetable-biryani"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

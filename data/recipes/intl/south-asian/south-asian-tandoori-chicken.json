@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "south-asian-tandoori-chicken",
+  "name": {
+    "zh": "印度酸奶烤鸡",
+    "en": "Tandoori Chicken",
+    "original": "Tandoori Chicken"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "south-asian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 250,
+    "cook_min": 35,
+    "total_min": 285
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "sour",
+    "smoky",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken-thigh",
+          "amount": 900,
+          "unit": "g",
+          "note": "带皮去骨，切十字花刀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 250,
+          "unit": "ml",
+          "note": "全脂，滤去水分",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 80,
+          "unit": "g",
+          "note": "一半取汁腌肉，一半切角配食",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "捣泥",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "捣泥",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili-powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 4,
+          "unit": "g",
+          "note": "香料粉",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "香料粉",
+          "optional": false
+        },
+        {
+          "name": "香菜籽粉",
+          "name_en": "coriander-seed",
+          "amount": 5,
+          "unit": "g",
+          "note": "香料粉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 12,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable-oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "刷面用",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切圈配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "烤架",
+    "食品夹",
+    "保鲜膜",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉厚处切两刀不切断，用一半盐和一份柠檬汁抹匀，静置二十分钟。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "划刀让腌料进到肉里，也防止烤时卷起。",
+      "visual_cue": "肉面有明显刀口，表面微湿"
+    },
+    {
+      "n": 2,
+      "text": "酸奶滤去多余水分，加姜泥、蒜泥、八成辣椒粉、姜黄、孜然、香菜籽粉和剩下的盐拌成腌料。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "酸奶太稀会挂不住，一定要滤。",
+      "visual_cue": "腌料稠厚，能挂在勺背"
+    },
+    {
+      "n": 3,
+      "text": "把鸡腿肉放进腌料抓匀，盖保鲜膜冷藏至少三小时，中途翻动一次。",
+      "time_min": 200,
+      "heat": "无火",
+      "tip": "腌足时间香料才进到肉心，急不得。",
+      "visual_cue": "肉块被白红色腌料完全包裹"
+    },
+    {
+      "n": 4,
+      "text": "烤箱预热到二百二十度，烤架架在烤盘上，把鸡肉摆开避免重叠。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "烤架架空受热均匀，底下接油不冒烟。",
+      "visual_cue": "烤箱指示灯亮，内部温度上升"
+    },
+    {
+      "n": 5,
+      "text": "鸡肉表面刷植物油，烤十八分钟至边缘出现焦斑。",
+      "time_min": 19,
+      "heat": "无火",
+      "tip": "刷油能防止表面烤干发白。",
+      "visual_cue": "表面红亮，边缘有黑色焦点"
+    },
+    {
+      "n": 6,
+      "text": "翻面刷油再烤十二分钟，最后调上火烤三分钟收出焦香。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "最后几分钟盯紧，很容易焦过。",
+      "visual_cue": "表面干爽，切开汁水清亮"
+    },
+    {
+      "n": 7,
+      "text": "取出静置五分钟，撒剩下的辣椒粉，配洋葱圈和柠檬角上桌。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "静置让肉汁回吸，切的时候不流失。",
+      "visual_cue": "肉质紧实多汁，切面微粉"
+    }
+  ],
+  "tips": [
+    "腌一夜风味更足，酸味也更柔和。",
+    "没有烤箱可用厚底锅加盖小火焖烤，最后开盖收干。",
+    "配薄荷酸奶酱吃，辣度和油腻感都会被压住。"
+  ],
+  "common_mistakes": [
+    "酸奶没滤直接腌，烤的时候腌料全流掉。",
+    "腌制时间不足一小时，只有表面有味。",
+    "烤完立刻切，肉汁全流在盘子里。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "900克:900克",
+      "note": "腌的时间缩到两小时，烤的时间减五分钟。"
+    },
+    {
+      "original": "酸奶",
+      "substitute": "酸奶油",
+      "ratio": "250毫升:250毫升",
+      "note": "更稠，可加两勺牛奶调稀。"
+    }
+  ],
+  "variations": [
+    "加一勺克什米尔辣椒粉，颜色更红但辣度不变。",
+    "把鸡肉换成整只小鸡，烤的时间延长二十分钟。"
+  ],
+  "serving_suggestion": "配印度薄饼、洋葱圈、柠檬角和一小碟薄荷酸奶酱，再撒一把 chaat masala 香料粉更地道。",
+  "storage": "冷藏三天，冷冻一个月；复热用烤箱二百度烤八分钟，别用微波炉否则肉会发硬。",
+  "nutrition_estimate": {
+    "basis": "每份约250克",
+    "calories_kcal": 470,
+    "protein_g": 42,
+    "fat_g": 28,
+    "carbs_g": 9,
+    "sodium_mg": 940,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "鸡肉须烤至中心完全不透明、汁水清澈，内部温度达到七十四度；腌过的生肉与成品须分开存放，剩菜冷藏不超过三天并彻底复热。"
+  ],
+  "origin_note": "Tandoori chicken 得名于北印度的泥炉 tandoor，整鸡挂炉壁高温烤熟，外皮焦红内里多汁。现代家庭用烤箱加烤架复刻，靠酸奶和辣椒粉腌出那种砖红色。",
+  "tags": [
+    "印度",
+    "烤鸡",
+    "酸奶",
+    "香料"
+  ],
+  "related_ids": [
+    "south-asian-butter-chicken",
+    "south-asian-chapati"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

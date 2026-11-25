@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T01:46:18.012Z",
+  "generatedAt": "2026-11-25T01:49:32.995Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 641,
+    "cells": 642,
     "target": 3274,
-    "actual": 1835,
-    "coverage": 0.5604764813683567
+    "actual": 1841,
+    "coverage": 0.5623091020158827
   },
   "regions": {
     "cn": [
@@ -4524,15 +4524,16 @@
         "en": "South Asian",
         "tier": "B",
         "target": 38,
-        "actual": 18,
+        "actual": 24,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "south-asian-jeera-rice",
+              "south-asian-lemon-rice",
               "south-asian-vegetable-biryani"
             ]
           },
@@ -4540,13 +4541,14 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "south-asian-aloo-gobi",
               "south-asian-baingan-bharta",
               "south-asian-cabbage-poriyal",
               "south-asian-chickpea-curry",
-              "south-asian-jeera-rice"
+              "south-asian-jeera-rice",
+              "south-asian-palak-paneer"
             ]
           },
           {
@@ -4564,8 +4566,9 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "south-asian-aloo-tikki",
               "south-asian-onion-pakora",
               "south-asian-samosa"
             ]
@@ -4574,8 +4577,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "south-asian-gajar-halwa",
               "south-asian-kheer"
             ]
           },
@@ -4609,9 +4613,19 @@
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
+            "actual": 2,
+            "ids": [
+              "south-asian-butter-chicken",
+              "south-asian-tandoori-chicken"
+            ]
+          },
+          {
+            "category": "main-meat",
+            "kind": "extra",
+            "target": 0,
             "actual": 1,
             "ids": [
-              "south-asian-butter-chicken"
+              "south-asian-rogan-josh"
             ]
           },
           {
