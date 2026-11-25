@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T03:08:26.005Z",
+  "generatedAt": "2026-11-25T03:16:10.210Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 1889,
-    "coverage": 0.5769700671960905
+    "actual": 1895,
+    "coverage": 0.5788026878436163
   },
   "regions": {
     "cn": [
@@ -910,7 +910,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 94,
+        "actual": 100,
         "cells": [
           {
             "category": "soup",
@@ -1068,8 +1068,14 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 8,
             "ids": [
+              "fujian-changting-yanmian",
+              "fujian-fuzhou-laohua",
+              "fujian-putian-lumian",
+              "fujian-quanzhou-curou-mian",
+              "fujian-xinghua-chaomifen",
+              "fujian-zhangzhou-shouzhua-mian",
               "fuzhou-banmian",
               "xiamen-shachamian"
             ]

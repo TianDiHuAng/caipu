@@ -1,0 +1,319 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-putian-lumian",
+  "name": {
+    "zh": "莆田卤面",
+    "en": "Putian Braised Noodles",
+    "original": "莆田卤面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "挂面",
+          "name_en": "dried noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细圆面",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 150,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 200,
+          "unit": "g",
+          "note": "吐净泥沙",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 20,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 25,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "掐去根须",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "红薯淀粉",
+          "name_en": "sweet potato starch",
+          "amount": 25,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "花蛤提前用淡盐水养两小时吐净泥沙，外壳逐个刷洗干净后沥干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "泡蛤的水里滴几滴油，吐沙更快更干净。",
+      "visual_cue": "盆底沉下细沙，蛤壳光洁。"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切薄片，加料酒与白胡椒粉抓匀；干香菇用温水泡发后切细丝。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "香菇水留着一起入锅，鲜味全在里面。",
+      "visual_cue": "肉片均匀，香菇丝软身。"
+    },
+    {
+      "n": 3,
+      "text": "葱姜蒜分别切成末，芹菜切段，豆芽掐去根须冲净沥干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "豆芽掐根虽然费事，但口感差别明显。",
+      "visual_cue": "配料分装干净，豆芽不带黑头。"
+    },
+    {
+      "n": 4,
+      "text": "花生油烧到五成热，下五花肉片煸到出油微焦，加葱姜蒜末炒香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉要煸透出油，卤面的底味才厚。",
+      "visual_cue": "肉片卷边发黄，锅里有油脂。"
+    },
+    {
+      "n": 5,
+      "text": "下香菇丝与虾米炒香，加生抽、老抽、白糖炒匀，倒入清水与香菇水煮开。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "汤汁要比平常宽一些，面会吸汤。",
+      "visual_cue": "汤色酱红，香味扑鼻。"
+    },
+    {
+      "n": 6,
+      "text": "挂面抖散下锅，中火煮到八分软，放花蛤与豆芽继续煮两分钟。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "面别煮太早，边煮边吸汤才入味。",
+      "visual_cue": "挂面变成半透明，花蛤陆续开口。"
+    },
+    {
+      "n": 7,
+      "text": "红薯淀粉加水调稀勾薄芡，撒芹菜段与盐，汤汁浓稠挂面即可出锅。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "芡要薄薄一层就好，厚了整锅像糨糊。",
+      "visual_cue": "汤汁裹住面条，碗里不见清水。"
+    }
+  ],
+  "tips": [
+    "卤面的灵魂是汤汁宽、芡要薄，面条吸饱汤后一碗就很顶。",
+    "花蛤提前吐沙是硬要求，沙没净整锅都毁了。",
+    "莆田人做卤面会加一勺猪油，香气立起来。"
+  ],
+  "common_mistakes": [
+    "面下太早煮烂，端上桌就断成一截截。",
+    "蛤没吐沙直接下锅，吃着满口细沙。"
+  ],
+  "substitutions": [
+    {
+      "original": "花蛤",
+      "substitute": "海蛎",
+      "ratio": "200g 对 180g",
+      "note": "换海蛎要最后下，久煮会缩成小粒。"
+    }
+  ],
+  "variations": [
+    "莆田江口的卤面会在汤里加一小勺沙茶与几段炸豆腐，味道更浓，也更有渔村的咸香。"
+  ],
+  "serving_suggestion": "盛碗趁热吃，撒一点白胡椒粉，配一小碟酸萝卜解腻。",
+  "storage": "现煮现吃，剩面冷藏一天，复热须加高汤稀释，不要干烧。",
+  "nutrition_estimate": {
+    "basis": "每碗约 450g",
+    "calories_kcal": 560,
+    "protein_g": 22,
+    "fat_g": 20,
+    "carbs_g": 70,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "crustacean",
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "花蛤须吐净泥沙并彻底加热至开壳，未开壳的不要食用。",
+    "干香菇须泡发后彻底加热至熟透，不要生食。",
+    "贝类过敏者不宜食用，痛风人群控制份量。"
+  ],
+  "origin_note": "莆田卤面是当地婚宴与年节的头道主食，汤宽芡薄，靠五花肉、香菇与花蛤吊出海鲜与猪油的双重鲜味，面吸饱汤汁后一碗下去极顶饱。",
+  "tags": [
+    "闽菜",
+    "莆田",
+    "卤面",
+    "面食"
+  ],
+  "related_ids": [
+    "fuzhou-banmian",
+    "xiamen-shachamian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

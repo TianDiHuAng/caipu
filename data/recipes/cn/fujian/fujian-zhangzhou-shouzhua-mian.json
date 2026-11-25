@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-zhangzhou-shouzhua-mian",
+  "name": {
+    "zh": "漳州手抓面",
+    "en": "Zhangzhou Hand Rolled Noodle Wrap",
+    "original": "漳州手抓面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "umami",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "碱面",
+          "name_en": "alkaline noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细碱面",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "掐根",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 50,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生酱",
+          "name_en": "peanut butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "温水调稀",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "防粘与炒肉",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "筷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "碱面下沸水煮到八分熟，捞出过凉水沥干，拌少许花生油防粘。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "碱面耐煮，别煮到全软，卷起来才挺。",
+      "visual_cue": "碱面根根分明，摸起来有弹性。"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切细丝，加生抽与白胡椒粉抓匀，腌十分钟。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "肉丝切细，卷进面里才不会顶破。",
+      "visual_cue": "肉丝上色均匀，盆底不留汁。"
+    },
+    {
+      "n": 3,
+      "text": "胡萝卜切细丝，芹菜切段，豆芽掐去根须，葱蒜切末备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "胡萝卜丝尽量切细，生吃才不会硌牙。",
+      "visual_cue": "配菜丝细齐，豆芽干净。"
+    },
+    {
+      "n": 4,
+      "text": "花生油烧热，下五花肉丝炒散，加蒜末炒香后盛出。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉丝炒到出油微焦，那股焦香才够足。",
+      "visual_cue": "肉丝金黄松散，锅底见油。"
+    },
+    {
+      "n": 5,
+      "text": "花生酱用凉白开加生抽调稀，加白糖、盐与香醋拌匀成蘸酱。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "水一点点加，酱要能挂勺又流得动。",
+      "visual_cue": "酱色浅褐，舀起能连成一条线。"
+    },
+    {
+      "n": 6,
+      "text": "碱面摊成小片，卷上豆芽、胡萝卜丝与肉丝，蘸酱吃，撒葱末与芹菜段。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面片卷紧一点，蘸酱的时候才不会散开。",
+      "visual_cue": "面卷紧实不散，蘸酱裹匀。"
+    }
+  ],
+  "tips": [
+    "手抓面的乐趣在自己卷，配菜切得越细越好入口。",
+    "花生酱要用温水调，冷水一搅就结块。",
+    "碱面过凉水后拌油，放一小时也不粘。"
+  ],
+  "common_mistakes": [
+    "花生酱调太稠，蘸的时候拉不动，还糊一嘴。",
+    "面煮得太软，卷起来就断，抓不住配菜。"
+  ],
+  "substitutions": [
+    {
+      "original": "花生酱",
+      "substitute": "芝麻酱",
+      "ratio": "40g 对 40g",
+      "note": "芝麻酱更浓，要加一勺水与少许糖调开。"
+    }
+  ],
+  "variations": [
+    "漳州人吃手抓面还会加一勺甜面酱与芥末酱，一口下去甜、咸、辣、酸四味齐，是最地道的街头吃法。"
+  ],
+  "serving_suggestion": "自己动手卷，卷好后整条蘸酱吃，配一碗清汤解口干。",
+  "storage": "配菜与面分开冷藏，一天内吃完；蘸酱冷藏三天，用前搅匀。",
+  "nutrition_estimate": {
+    "basis": "每份约 320g",
+    "calories_kcal": 490,
+    "protein_g": 15,
+    "fat_g": 20,
+    "carbs_g": 62,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉丝须炒至完全熟透，不见粉红色。",
+    "花生为常见过敏原，过敏人群不宜食用。",
+    "蘸酱含生蒜，胃肠敏感者宜少量。"
+  ],
+  "origin_note": "漳州手抓面是街头最随性的一味，把煮好的碱面摊成小片，自己动手卷上豆芽、胡萝卜与肉丝，再蘸一碟花生酱，抓着吃，酸甜咸香一起入口。",
+  "tags": [
+    "闽菜",
+    "漳州",
+    "手抓面",
+    "面食"
+  ],
+  "related_ids": [
+    "xiamen-shachamian",
+    "fujian-changting-yanmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

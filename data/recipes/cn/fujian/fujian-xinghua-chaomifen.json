@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-xinghua-chaomifen",
+  "name": {
+    "zh": "兴化炒米粉",
+    "en": "Xinghua Fried Rice Noodles",
+    "original": "兴化炒米粉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "干米粉，冷水泡发",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 20,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 100,
+          "unit": "g",
+          "note": "掐根",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 50,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "锅铲",
+    "筷子",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干米粉提前二十分钟用冷水泡软，捞出抖散沥干水分。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "米粉只能用冷水泡，热水一泡就断。",
+      "visual_cue": "粉条柔软有弹性，掐一段不见白芯。"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切细丝，加料酒与白胡椒粉抓匀，静置十分钟。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "肉丝切细些，炒的时候才和米粉同步熟。",
+      "visual_cue": "肉丝根根分离，不见粘连。"
+    },
+    {
+      "n": 3,
+      "text": "干香菇泡发切细丝，胡萝卜切丝，豆芽掐去根须洗净，葱蒜切末。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "香菇丝要顺着纹理切，嚼起来不柴。",
+      "visual_cue": "配菜丝细均匀，豆芽干净。"
+    },
+    {
+      "n": 4,
+      "text": "花生油烧热，下五花肉丝煸出油脂，加葱蒜末、香菇丝与虾米炒香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉丝煸到微焦，米粉炒出来才够香。",
+      "visual_cue": "肉丝卷曲，锅里有香菇与油脂的混合香气。"
+    },
+    {
+      "n": 5,
+      "text": "下胡萝卜丝与豆芽大火快炒半分钟，加生抽、盐与白糖炒匀。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "蔬菜只炒断生，后面还要和米粉一起翻。",
+      "visual_cue": "菜丝颜色鲜亮，锅底不见多余的汤水。"
+    },
+    {
+      "n": 6,
+      "text": "倒入泡软的米粉，转中火用筷子翻拌到每根上色入味，撒葱绿出锅。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "用筷子比铲子好使，翻拌不容易断粉。",
+      "visual_cue": "米粉根根分明，颜色均匀不结团。"
+    }
+  ],
+  "tips": [
+    "兴化米粉细如发丝，泡发时间宁短勿长，泡过头一炒就断。",
+    "炒米粉怕粘锅，油量要比平时炒菜多一勺。",
+    "配菜可以换，但水分大的菜要先炒干再下粉。"
+  ],
+  "common_mistakes": [
+    "用热水泡米粉，下锅前就断成一截截。",
+    "一次下太多米粉，锅温骤降，炒出来湿软发黏。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "虾仁",
+      "ratio": "100g 对 120g",
+      "note": "海鲜版要减盐，虾仁本身带咸味。"
+    }
+  ],
+  "variations": [
+    "莆田人炒米粉喜欢加一勺红菇汤上色，红汤米粉是酒席上的常客，颜色喜气。"
+  ],
+  "serving_suggestion": "装盘趁热吃，配一碗紫菜汤，干湿搭配正好。",
+  "storage": "冷藏一天，复热用平底锅干炒两分钟，微波会让米粉发硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 280g",
+    "calories_kcal": 470,
+    "protein_g": 14,
+    "fat_g": 18,
+    "carbs_g": 64,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "干香菇须泡发后彻底加热至熟透，不要生食。",
+    "五花肉须煸炒至完全熟透，不见粉红色。",
+    "米粉泡发后易变质，室温放置不要超过两小时。"
+  ],
+  "origin_note": "兴化炒米粉是莆田兴化平原的家常主食，米粉细韧，配五花肉丝、香菇与豆芽同炒，讲究根根分明、干爽不粘，旧时是农忙时省事又管饱的一锅饭。",
+  "tags": [
+    "闽菜",
+    "莆田",
+    "炒米粉",
+    "面食"
+  ],
+  "related_ids": [
+    "fuzhou-banmian",
+    "fujian-putian-lumian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

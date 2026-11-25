@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-fuzhou-laohua",
+  "name": {
+    "zh": "福州捞化",
+    "en": "Fuzhou Rice Noodle Soup",
+    "original": "福州捞化"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 70,
+    "total_min": 90
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "兴化粉，冷水泡软",
+          "optional": false
+        },
+        {
+          "name": "猪筒骨",
+          "name_en": "pork marrow bone",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块焯水",
+          "optional": false
+        },
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 150,
+          "unit": "g",
+          "note": "吐沙洗净",
+          "optional": false
+        },
+        {
+          "name": "猪肝",
+          "name_en": "pork liver",
+          "amount": 100,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 15,
+          "unit": "g",
+          "note": "泡软",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "爆香",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 8,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪骨冷水下锅焯去血沫，捞出用温水冲净表面的浮渣。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "冷水下锅血水才逼得出来，汤才清。",
+      "visual_cue": "水面浮起灰沫，骨头干净无血丝。"
+    },
+    {
+      "n": 2,
+      "text": "猪骨与姜片放进汤锅，加足量清水大火烧开，转小火熬一小时。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "中途只补开水，汤色才稳不发浑。",
+      "visual_cue": "汤面微滚，汤色清亮带淡黄。"
+    },
+    {
+      "n": 3,
+      "text": "花蛤用淡盐水泡到吐净泥沙，米粉用冷水泡软后抖散备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "米粉泡到能弯折就够，泡久了煮即烂。",
+      "visual_cue": "蛤壳洁净，粉条柔软不断。"
+    },
+    {
+      "n": 4,
+      "text": "猪肝切薄片，用清水漂洗两遍去血水，捞出沥干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "猪肝要现切现煮，久放会发黑发腥。",
+      "visual_cue": "肝片色泽红润，水不再浑浊。"
+    },
+    {
+      "n": 5,
+      "text": "花生油下锅爆香虾米，倒入滤净的汤煮开，下米粉煮两分钟，加盐与生抽调味。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "汤要滤净渣子，喝起来才够顺口不牙碜。",
+      "visual_cue": "米粉浮起，汤面清透飘着虾米香。"
+    },
+    {
+      "n": 6,
+      "text": "下花蛤煮到开口，放猪肝片滚十几秒至变色，撒芹菜末、葱末与白胡椒粉，起锅滴香醋。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "猪肝一变色就关火，煮久了发柴又发腥。",
+      "visual_cue": "蛤全开口，肝片边缘卷起刚断生。"
+    }
+  ],
+  "tips": [
+    "捞化的汤要清，靠猪骨慢熬，不加酱色。",
+    "猪肝是捞化的标配，也有人换腰花、海蛎或大肠，按新鲜度挑。",
+    "米粉单独泡、单独煮，汤才不会发糊。"
+  ],
+  "common_mistakes": [
+    "猪肝切太厚又久煮，端上来像橡皮。",
+    "汤里下了太多料还大火猛滚，汤变浑发腥。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肝",
+      "substitute": "猪腰",
+      "ratio": "100g 对 100g",
+      "note": "猪腰要片净白色筋膜，不然腥味压不住。"
+    }
+  ],
+  "variations": [
+    "福州人吃捞化爱配一根油条或一小碟卤味，早上一碗，汤鲜粉滑，是街头最寻常的早餐。"
+  ],
+  "serving_suggestion": "盛碗后撒白胡椒粉，趁热先喝一口汤，再配油条吃。",
+  "storage": "现煮现吃，汤底冷藏三天，复热后另煮米粉，不要连粉一起存。",
+  "nutrition_estimate": {
+    "basis": "每碗约 420g",
+    "calories_kcal": 380,
+    "protein_g": 26,
+    "fat_g": 11,
+    "carbs_g": 44,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "crustacean",
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肝须彻底加热至中心无血丝，不要生食或半生。",
+    "花蛤须吐沙并煮至开壳，未开壳的弃掉。",
+    "内脏胆固醇高，高血脂人群宜少量食用。"
+  ],
+  "origin_note": "福州捞化是当地早点摊的招牌，用猪骨与海鲜熬清汤，把兴化粉一烫就捞，再加猪肝、花蛤与芹菜末，汤清粉滑，名字里的捞字说的就是这道动作。",
+  "tags": [
+    "闽菜",
+    "福州",
+    "捞化",
+    "早餐"
+  ],
+  "related_ids": [
+    "dingbian-hu",
+    "fujian-putian-lumian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

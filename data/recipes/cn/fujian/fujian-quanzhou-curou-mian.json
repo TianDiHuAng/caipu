@@ -1,0 +1,302 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-quanzhou-curou-mian",
+  "name": {
+    "zh": "泉州醋肉汤面",
+    "en": "Quanzhou Vinegar Pork Noodles",
+    "original": "泉州醋肉汤面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 30,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "salty",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "挂面",
+          "name_en": "dried noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细圆面",
+          "optional": false
+        },
+        {
+          "name": "猪肩肉",
+          "name_en": "pork shoulder",
+          "amount": 250,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "猪筒骨",
+          "name_en": "pork marrow bone",
+          "amount": 400,
+          "unit": "g",
+          "note": "熬汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "红薯淀粉",
+          "name_en": "sweet potato starch",
+          "amount": 40,
+          "unit": "g",
+          "note": "裹浆",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炸肉",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "碗",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "梅花肉切成两指宽的条，加盐、白糖、生抽与料酒抓匀，腌二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "肉条粗细一致，炸的时候才同步熟。",
+      "visual_cue": "肉条表面挂上酱色，盆底有汁。"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋打散倒进肉条拌匀，再分次加红薯淀粉抓成薄浆。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "先蛋液后红薯淀粉，浆才粘得牢不掉渣。",
+      "visual_cue": "每条都裹上厚浆，不见裸露的肉条。"
+    },
+    {
+      "n": 3,
+      "text": "花生油烧到六成热，肉条逐条下锅，中火炸到浅金黄捞出。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "一条条下锅，粘在一起就炸不透。",
+      "visual_cue": "外壳定型，油面气泡均匀。"
+    },
+    {
+      "n": 4,
+      "text": "油温升到八成，肉条回锅复炸三十秒至外壳酥脆，捞出控油。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "复炸是酥的关键，时间短但别走开。",
+      "visual_cue": "外壳深金黄，敲起来有声。"
+    },
+    {
+      "n": 5,
+      "text": "猪骨焯水后加姜片与清水熬四十分钟，滤渣留汤备用。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "汤要清亮，才压得住醋肉的酸甜味。",
+      "visual_cue": "汤色微白，撇净浮油。"
+    },
+    {
+      "n": 6,
+      "text": "挂面下沸水煮到刚熟，捞进碗里，浇上滚汤，加生抽与盐调味。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "面别煮过头，泡在汤里还会继续软。",
+      "visual_cue": "面条浮起，掐断见白芯刚消失。"
+    },
+    {
+      "n": 7,
+      "text": "面上摆炸好的醋肉，淋香醋，撒蒜末、葱末、芹菜末与白胡椒粉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "醋最后淋，香气才在，早放就挥发掉了。",
+      "visual_cue": "汤面浮着油花，酸香扑鼻。"
+    }
+  ],
+  "tips": [
+    "醋肉要现炸现吃，泡在汤里超过五分钟外壳就软了。",
+    "香醋分两次用，腌肉时一点，出锅前淋一点，酸得更有层次。",
+    "泉州人吃醋肉面爱配一小碟甜辣酱，酸甜打底。"
+  ],
+  "common_mistakes": [
+    "肉条浆太薄，下锅就脱浆，油变浑肉变柴。",
+    "醋一次倒太多，汤酸得发涩，压住海鲜与骨汤的鲜。"
+  ],
+  "substitutions": [
+    {
+      "original": "梅花肉",
+      "substitute": "鸡胸肉",
+      "ratio": "250g 对 250g",
+      "note": "鸡胸肉要缩短炸制时间，三十秒就够。"
+    }
+  ],
+  "variations": [
+    "泉州石狮一带会把醋肉切小块，和面线一起煮成醋肉面线，酸香更浓，是夏日开胃的吃法。"
+  ],
+  "serving_suggestion": "连汤带面盛出，先把醋肉夹出来另放，吃一口面咬一口肉，脆感不丢。",
+  "storage": "醋肉冷藏两天，复热用一百八十度烤五分钟；汤与面分开存，勿久泡。",
+  "nutrition_estimate": {
+    "basis": "每碗约 430g",
+    "calories_kcal": 620,
+    "protein_g": 28,
+    "fat_g": 28,
+    "carbs_g": 62,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "egg",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "梅花肉须炸至中心完全熟透，不见粉红色。",
+    "油炸时油温不超过八成，油面冒浓烟须立即降温。",
+    "鸡蛋为常见过敏原，过敏人群不宜食用。"
+  ],
+  "origin_note": "泉州醋肉汤面把闽南人爱吃的炸醋肉放进清汤面里，肉条裹浆炸得外壳酥脆，泡在汤里一半软一半脆，酸香解腻，是街边小店最热卖的搭配。",
+  "tags": [
+    "闽菜",
+    "泉州",
+    "醋肉",
+    "面食"
+  ],
+  "related_ids": [
+    "minnan-zhacurou",
+    "fujian-putian-lumian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
