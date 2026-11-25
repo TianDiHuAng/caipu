@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:38:04.138Z",
+  "generatedAt": "2026-11-25T16:49:45.356Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 650,
+    "cells": 652,
     "target": 3274,
-    "actual": 2187,
-    "coverage": 0.6679902260232132
+    "actual": 2194,
+    "coverage": 0.6701282834453268
   },
   "regions": {
     "cn": [
@@ -1131,7 +1131,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 112,
+        "actual": 119,
         "cells": [
           {
             "category": "soup",
@@ -1160,12 +1160,13 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 15,
+            "actual": 16,
             "ids": [
               "baizhuo-xiaoguan",
               "fujian-congyou-geli",
               "fujian-haoli-jian",
               "fujian-jiangyoushui-youyu",
+              "fujian-jiucai-chao-huage",
               "fujian-qingchao-xiaren",
               "fujian-qingzheng-huangyu",
               "fujian-suanrong-kai-bian-xia",
@@ -1253,13 +1254,15 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 8,
+            "actual": 10,
             "ids": [
               "fujian-chao-shuangdong",
               "fujian-douchi-kugua",
               "fujian-furu-kongxincai",
+              "fujian-hongshao-donggua",
               "fujian-qingchao-jielan",
               "fujian-sunsi-chaorou",
+              "fujian-xiaren-sigua",
               "fujian-younmen-jiaobai",
               "fujian-younmen-sun",
               "fujian-zaoxiang-chunsun"
@@ -1317,10 +1320,39 @@
             "category": "dessert",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "bayu-ni",
+              "fujian-hongzao-lianzi-tang",
               "fujian-huangsheng-tang"
+            ]
+          },
+          {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "fujian-lurou-fan",
+              "minnan-xianfan"
+            ]
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "fujian-liangban-haidai"
+            ]
+          },
+          {
+            "category": "hotpot-bbq",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "fujian-shacha-huoguo"
             ]
           },
           {
@@ -1330,15 +1362,6 @@
             "actual": 1,
             "ids": [
               "fuzhou-guangbing"
-            ]
-          },
-          {
-            "category": "staple-rice",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "minnan-xianfan"
             ]
           }
         ]

@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T16:38:05.062Z
+- 生成时间：2026-11-25T16:49:46.279Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 121 道，平均分 99
 - 需重写（C/D）：0 道
@@ -46,11 +46,11 @@
 | french | french-salade-nicoise | 100 | A | 无 |
 | french | french-tarte-aux-pommes | 100 | A | 无 |
 | fujian | minnan-zhacurou | 94 | A | 安全性 14/20 |
-| fujian | fujian-puning-doujiang-zhi | 100 | A | 无 |
-| fujian | fujian-qingchao-xiaren | 100 | A | 无 |
-| fujian | fujian-honggu-dun-jitui | 100 | A | 无 |
-| fujian | fujian-haoli-jian | 100 | A | 无 |
 | fujian | fujian-mianxian-hu | 100 | A | 无 |
+| fujian | fujian-puning-doujiang-zhi | 100 | A | 无 |
+| fujian | fujian-hongshao-donggua | 100 | A | 无 |
+| fujian | fujian-honggu-dun-jitui | 100 | A | 无 |
+| fujian | fujian-liangban-haidai | 100 | A | 无 |
 | german | pretzel | 93 | A | 准确性 18/25 |
 | german | german-cucumber-salad | 100 | A | 无 |
 | greek | greek-honey-cake | 100 | A | 无 |

@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-lurou-fan",
+  "name": {
+    "zh": "闽南卤肉饭",
+    "en": "Minnan Braised Pork Rice",
+    "original": "闽南卤肉饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 62,
+    "total_min": 82
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "带皮，切小丁",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 500,
+          "unit": "g",
+          "note": "刚煮好的热饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡发切丁",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 120,
+          "unit": "g",
+          "note": "两个，煮成白煮蛋",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 8,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "酌情添加",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉连皮切成半厘米的小丁，鸡蛋煮熟剥壳备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "切小丁比绞肉更有嚼头，卤出来油亮不散。",
+      "visual_cue": "肉丁大小均匀，肥瘦相连"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，下五花肉丁小火煸十分钟，煸到出油微黄。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "煸出油是卤肉饭不腻的关键，煸到肉丁缩小发黄。",
+      "visual_cue": "肉丁微卷出油，锅底油层清亮"
+    },
+    {
+      "n": 3,
+      "text": "加冰糖炒化，再下蒜末、姜片与香菇丁炒香，烹入米酒。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "冰糖炒化能挂色，卤出来的肉才红亮诱人。",
+      "visual_cue": "糖色红亮裹肉，香气散出"
+    },
+    {
+      "n": 4,
+      "text": "加生抽、老抽、五香粉与开水没过肉丁，放入白煮蛋烧开。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "一定加开水，冷水下锅肉会紧缩发柴。",
+      "visual_cue": "汤汁深褐翻滚，蛋面沾满酱汁"
+    },
+    {
+      "n": 5,
+      "text": "转入砂锅小火卤四十五分钟，中途翻两次让蛋均匀上色。",
+      "time_min": 47,
+      "heat": "小火",
+      "tip": "保持小火慢慢卤，肉里的胶质才会融进汤汁，浇在饭上才挂得住不渗干。",
+      "visual_cue": "肉丁酥软，汤汁浓稠起泡"
+    },
+    {
+      "n": 6,
+      "text": "大火收汁到略稠，试味补盐，把热米饭盛进碗里，浇上卤肉与卤蛋，撒葱花香菜。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "最后的汁不要收得太干，浇饭全靠这一勺浓汁，收干了饭就发柴。",
+      "visual_cue": "卤汁油亮浓稠，浇在饭上不马上渗干"
+    }
+  ],
+  "tips": [
+    "五花肉选肥瘦三层分明的，纯瘦肉卤出来发柴不香。",
+    "加一勺红葱酥同卤，是闽南卤肉饭的灵魂香气。",
+    "卤一锅分装冷冻，随取随热，比现做更入味。"
+  ],
+  "common_mistakes": [
+    "肉丁煸得不够，卤出来满嘴油，吃两口就腻。",
+    "老抽下手太重，卤肉黑得发苦，卖相全无。",
+    "大火卤半小时就出锅，肉还硬，汁也不浓。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "500克:500克",
+      "note": "前腿较瘦，须多放十毫升植物油。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "20克:18克",
+      "note": "白糖上色更快，须看紧火候。"
+    }
+  ],
+  "variations": [
+    "加一把笋丁同卤，口感更丰富，是闽南山区的做法。",
+    "把米饭换成面条，浇上卤肉就是闽南卤肉面。"
+  ],
+  "serving_suggestion": "热饭浇卤肉，配一颗卤蛋与一勺汤汁，是最经典的吃法。",
+  "storage": "冷藏可存三天，冷冻可存两周，复热须加少量水小火煮开。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 760,
+    "protein_g": 30,
+    "fat_g": 42,
+    "carbs_g": 68,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "五花肉须卤至完全熟透软烂，中心不见血水。",
+    "白煮蛋须煮至全熟，卤制与保存过程须冷藏，不要室温过夜。"
+  ],
+  "origin_note": "闽南卤肉饭是街头巷尾最踏实的一碗饭，肥瘦相间的肉丁卤到酥软，浇在热饭上，一勺汤汁就够香。福建人卤肉讲究小丁慢卤、冰糖上色，配一颗卤蛋，几口就能吃完一碗。老摊子往往一口老卤传几十年，越卤越香。",
+  "tags": [
+    "闽菜",
+    "主食",
+    "卤肉",
+    "米饭"
+  ],
+  "related_ids": [
+    "minnan-xianfan",
+    "wuxiang-paigu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

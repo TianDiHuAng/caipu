@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-shacha-huoguo",
+  "name": {
+    "zh": "沙茶火锅",
+    "en": "Satay Sauce Hot Pot",
+    "original": "沙茶火锅"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "hotpot-bbq"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 32,
+    "total_min": 57
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 350,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去壳洗净",
+          "optional": false
+        },
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 300,
+          "unit": "g",
+          "note": "吐净沙",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "沙茶酱",
+          "name_en": "shacha sauce",
+          "amount": 80,
+          "unit": "g",
+          "note": "锅底主料",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 250,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 150,
+          "unit": "g",
+          "note": "铺底",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "空心菜",
+          "name_en": "water spinach",
+          "amount": 200,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒锅底用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "火锅",
+    "汤勺",
+    "刀",
+    "砧板",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "花蛤提前用淡盐水养两小时吐沙，中途换一次水，捞出冲洗干净。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "水里滴几滴植物油，花蛤吐沙会更快，不吐干净吃起来满嘴都是沙。",
+      "visual_cue": "花蛤壳紧闭或轻敲即合，水底有沙"
+    },
+    {
+      "n": 2,
+      "text": "牛肉逆着纹理切成薄片，加少许生抽与米酒抓匀腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "牛肉一定要逆着纹理切才嫩，顺着纹理切出来涮过之后根本嚼不动。",
+      "visual_cue": "肉片薄而均匀，表面微微发亮"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，下蒜末与姜片小火煸香，加沙茶酱炒出红油。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "沙茶酱要小火慢炒，火大了发苦，香气也出不来。",
+      "visual_cue": "酱料散开浮红油，沙茶香浓"
+    },
+    {
+      "n": 4,
+      "text": "加清水烧开，调入生抽、白糖与盐，倒入火锅盆中作锅底。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "汤底要略咸一点，涮出来的食材才够味。",
+      "visual_cue": "汤色红褐油亮，香气扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "豆芽铺在锅底，摆上豆腐片、香菇片与空心菜段。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "豆芽垫底能防粘锅，也让汤底更清甜。",
+      "visual_cue": "食材分层摆好，豆芽铺满锅底"
+    },
+    {
+      "n": 6,
+      "text": "汤底滚沸后先下花蛤煮两分钟，再下牛肉片涮十秒，最后烫虾仁即可。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "海鲜先下汤才鲜，牛肉最后涮，久了就柴了。",
+      "visual_cue": "花蛤开口，牛肉变色，虾仁卷曲"
+    }
+  ],
+  "tips": [
+    "沙茶酱本身咸，盐要边尝边加，别一开始就放足。",
+    "蘸料用沙茶酱加生抽、蒜末和一点糖，是厦门的标准配方。",
+    "锅底加两勺花生酱，汤更浓稠挂味，这是闽南家庭的私方。"
+  ],
+  "common_mistakes": [
+    "花蛤不吐沙直接下锅，整锅汤都带沙，没法吃。",
+    "沙茶酱大火猛炒，一下子炒糊发苦，汤底全毁。",
+    "牛肉一股脑倒进锅里，捞出来全是老的，涮的意义就没了。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "350克:350克",
+      "note": "羊肉膻味重，米酒可加到二十五毫升。"
+    },
+    {
+      "original": "花蛤",
+      "substitute": "蛏子",
+      "ratio": "300克:300克",
+      "note": "蛏子吐沙更快，养一小时即可。"
+    }
+  ],
+  "variations": [
+    "把沙茶汤底拌入煮好的面条，就是厦门最有名的沙茶面。",
+    "加一份鱼丸与肉羹同涮，更像闽南街边火锅的配置。"
+  ],
+  "serving_suggestion": "围锅现涮现吃，最后用汤底拌一碗面或泡饭，鲜味全收进碗里。",
+  "storage": "汤底冷藏可存一天，复热须烧开滚三分钟，涮过的汤不宜久存。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 480,
+    "protein_g": 38,
+    "fat_g": 29,
+    "carbs_g": 15,
+    "sodium_mg": 1250,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish",
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "花蛤等贝类须充分吐沙并彻底加热至开壳，未开壳的须丢弃不要食用。",
+    "牛肉片须涮至完全变色熟透，不要追求过嫩而食用半生肉片。"
+  ],
+  "origin_note": "沙茶火锅是厦门人冬天的聚会首选，一锅沙茶汤底能把海鲜与牛肉的鲜味全托起来。沙茶源自南洋，经闽南人改良成了带花生香的酱料，咸里带甜、香中带鲜。厦门人吃火锅讲究先贝后肉，汤越煮越浓，最后下把面条拌汤，一滴不剩。",
+  "tags": [
+    "闽菜",
+    "火锅",
+    "沙茶",
+    "厦门"
+  ],
+  "related_ids": [
+    "xiamen-shachamian",
+    "shacha-jiang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
