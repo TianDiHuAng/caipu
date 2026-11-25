@@ -1,0 +1,256 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-liangxi-cuishan",
+  "name": {
+    "zh": "梁溪脆鳝",
+    "en": "Wuxi Crispy Eel",
+    "original": "梁溪脆鱔"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 40,
+    "total_min": 65
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄鳝",
+          "name_en": "swamp eel",
+          "amount": 500,
+          "unit": "g",
+          "note": "取烫杀去骨的鳝丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 450,
+          "unit": "ml",
+          "note": "宽油炸制",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "调汁",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅点香",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "撒面点缀",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调汁用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鳝丝用清水冲两遍去净血水，沥干后用厨房纸吸去表面水分，切成十厘米长段。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "鳝丝一定要吸干，带水下锅会炸溅，也炸不脆。",
+      "visual_cue": "鳝丝表面干爽，颜色由暗红转浅。"
+    },
+    {
+      "n": 2,
+      "text": "炒锅放宽植物油烧到七成热，鳝丝分两批下锅，中火炸三分钟定型捞出。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "分批下锅油温才稳，一次倒满油温骤降，鳝丝会发软。",
+      "visual_cue": "鳝丝卷缩发硬，颜色转深黄。"
+    },
+    {
+      "n": 3,
+      "text": "油温升到八成热，鳝丝回锅复炸一分半钟，炸到外皮起泡发脆立即捞出沥油。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "复炸是脆的关键，炸到轻敲有脆响就起锅，过火会发苦。",
+      "visual_cue": "鳝丝乌黑发亮，相互碰撞有脆响。"
+    },
+    {
+      "n": 4,
+      "text": "另起净锅，放生抽、白糖、香醋、料酒和清水，小火熬到糖化汁浓能挂勺。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "汁熬到起细密小泡、舀起能挂一层再下鳝丝，否则挂不住。",
+      "visual_cue": "汁色红亮，勺背挂一层薄浆。"
+    },
+    {
+      "n": 5,
+      "text": "下姜丝和炸好的鳝丝，中火快速翻拌让每根裹上糖醋汁，淋香油出锅。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "翻拌要快，动作慢了脆壳被汁泡软，就成了软塌塌的烧鳝。",
+      "visual_cue": "鳝丝油亮红褐，盘底不见流汁。"
+    },
+    {
+      "n": 6,
+      "text": "装盘后撒芝麻和剩余大葱段，趁热吃，凉了脆感会明显下降。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "芝麻最后撒，下锅炒会发糊带苦味。",
+      "visual_cue": "表面芝麻点点，色泽乌亮红润。"
+    }
+  ],
+  "tips": [
+    "鳝丝选手指粗细的笔杆鳝，肉厚耐炸，细鳝一炸就干。",
+    "第一次炸定型、第二次炸上色，两遍油温别省，脆度全靠它。",
+    "糖醋汁比例大约糖四、醋一、酱油二点五，甜中带咸才地道。"
+  ],
+  "common_mistakes": [
+    "鳝丝没吸干水下锅，油花四溅，皮也炸不出脆壳。",
+    "只炸一遍就调汁，成品软塌，放凉后更是咬不动。",
+    "糖汁熬得太稀，浇上去挂不住，盘底一片汪水。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄鳝",
+      "substitute": "鳝鱼",
+      "ratio": "1:1",
+      "note": "两者本质相同，买现成烫杀去骨的鳝丝最省事。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "冰糖",
+      "ratio": "1:1.1",
+      "note": "冰糖需先敲碎，熬汁时间延长一分钟，光泽更亮。"
+    }
+  ],
+  "variations": [
+    "无锡老法会把鳝丝炸到全干，再浇热糖醋汁，脆得能听见响，称重脆鳝。",
+    "有的家庭加一小勺番茄酱调色，汁色更红，但酸甜比例要相应调整。"
+  ],
+  "serving_suggestion": "作冷盘或热菜都宜，摆盘时堆成小山状，配一壶黄酒最对味。",
+  "storage": "现炸现吃最好，冷藏可存两日；复热用一百八十度烤箱烤三分钟，别回锅炒。",
+  "nutrition_estimate": {
+    "basis": "按六人份估算",
+    "calories_kcal": 320,
+    "protein_g": 20,
+    "fat_g": 20,
+    "carbs_g": 14,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鳝丝须彻底炸透至肉质紧实、中心不见血色，不要生食或半生。",
+    "油炸时油温高，鳝丝下锅前须沥干水分，操作时远离锅口，避免热油飞溅。"
+  ],
+  "origin_note": "梁溪脆鳝是无锡的传统名菜，取笔杆粗细的鳝丝两次油炸至脆，再裹上糖醋浓汁，成品乌亮红润、入口酥脆有声，甜中带咸，冷食热食皆宜，是苏锡菜里见功夫的一道。",
+  "tags": [
+    "苏菜",
+    "鳝",
+    "无锡",
+    "冷盘"
+  ],
+  "related_ids": [
+    "jiangsu-xiangyou-shanhu",
+    "wuxi-paigu",
+    "jiangsu-jiangzhi-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
