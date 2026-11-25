@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-bibim-guksu",
+  "name": {
+    "zh": "韩式拌面",
+    "en": "Bibim Guksu",
+    "original": "비빔국수"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 12,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细圆面",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "摊蛋皮切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "熟白芝麻",
+          "name_en": "toasted white sesame",
+          "amount": 6,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 35,
+          "unit": "g",
+          "note": "拌酱主体",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "补咸味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 12,
+          "unit": "ml",
+          "note": "增香防粘",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 20,
+          "unit": "g",
+          "note": "挤汁带酸",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "拌面碗",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄瓜与胡萝卜分别切成细丝，胡萝卜用开水快速烫十秒后过凉。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "胡萝卜烫一下去生味，颜色也更鲜亮好看。",
+      "visual_cue": "黄瓜丝翠绿挺直，胡萝卜丝油亮"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋打散过筛，平底锅摊成薄蛋皮，晾凉后切成细丝。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "蛋液过筛摊出来才没有白点，切丝也齐整。",
+      "visual_cue": "蛋皮薄透金黄，蛋丝宽窄一致"
+    },
+    {
+      "n": 3,
+      "text": "大锅烧开水下面条，按包装时间煮到刚断生就立刻捞出。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "面条别煮过头，拌的时候还要吸一次酱汁。",
+      "visual_cue": "面条发胀但中心还有一点硬芯"
+    },
+    {
+      "n": 4,
+      "text": "面条过冷水并轻轻搓洗两遍，洗去表面黏浆后彻底沥干。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "搓洗这步决定拌面爽不爽口，别只冲一遍。",
+      "visual_cue": "面条根根发亮，盆底不见浑水"
+    },
+    {
+      "n": 5,
+      "text": "碗里放韩式辣椒酱、生抽、白糖、香油与蒜末，挤入柠檬汁调匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱先调匀再拌面，酸甜辣才不会一口一边。",
+      "visual_cue": "酱汁红亮顺滑，尝着酸辣带甜"
+    },
+    {
+      "n": 6,
+      "text": "面条装碗，铺上黄瓜丝、胡萝卜丝与蛋皮丝，浇酱拌匀后撒熟白芝麻。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "拌的时候用筷子挑起抖散，比压着搅更均匀。",
+      "visual_cue": "面条通体泛红，配料层层分明"
+    }
+  ],
+  "tips": [
+    "面条煮好过冷水越彻底，拌出来的面越爽口不粘。",
+    "酱料提前拌好静置十分钟，糖化开味道才融。",
+    "喜欢更清凉可把面条冰镇五分钟再拌，夏天吃非常解暑。"
+  ],
+  "common_mistakes": [
+    "面条煮太久又没搓洗，拌完粘成一块，筷子挑不起来。",
+    "酱料直接倒在面上再拌，辣椒酱结在面疙瘩里没化开。",
+    "拌好放半小时才吃，面条吸干酱汁，口感又干又硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "荞麦面",
+      "ratio": "300克:300克",
+      "note": "荞麦面更爽口，煮的时间缩短一分钟。"
+    },
+    {
+      "original": "柠檬",
+      "substitute": "白葡萄酒",
+      "ratio": "20克:15毫升",
+      "note": "酒味较冲，白糖加五克平衡。"
+    }
+  ],
+  "variations": [
+    "加一把切碎的泡菜同拌，酸辣更立体，是夏天最常见的吃法。",
+    "加半个苹果切细丝，甜脆解辣，孩子也更爱吃。"
+  ],
+  "serving_suggestion": "装深碗上桌，配一小碗清汤或冰水一起，吃的时候可以随时冲淡辣味。",
+  "storage": "拌好当餐吃完最好，剩下的冷藏次日口感会发硬，可加一勺香油拌匀。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 420,
+    "protein_g": 15,
+    "fat_g": 14,
+    "carbs_g": 58,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须彻底加热至完全凝固，不留任何生蛋液，避免沙门氏菌风险。",
+    "面条及配菜过冷水须用凉开水或冰水，避免用生水直冲造成污染。"
+  ],
+  "origin_note": "韩式拌面是夏天最省事的一碗面，辣椒酱、醋、糖和香油调开，拌上过冷水的细面，铺一层黄瓜丝和蛋皮丝就成。它没有汤，也不讲究配菜，韩国人热得没胃口时，最先想到的就是端一碗这个，酸辣带甜，几口下去胃口就回来了。",
+  "tags": [
+    "韩国料理",
+    "拌面",
+    "清爽",
+    "快手"
+  ],
+  "related_ids": [
+    "korean-japchae",
+    "korean-jjajangmyeon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

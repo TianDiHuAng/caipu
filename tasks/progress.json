@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:19:34.553Z",
+  "generatedAt": "2026-11-25T15:28:29.614Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2128,
-    "coverage": 0.6499694563225412
+    "actual": 2134,
+    "coverage": 0.6518020769700672
   },
   "regions": {
     "cn": [
@@ -3109,7 +3109,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 54,
+        "actual": 60,
         "cells": [
           {
             "category": "main-meat",
@@ -3222,11 +3222,34 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "korean-bibim-guksu",
               "korean-japchae",
               "korean-jjajangmyeon",
               "korean-mandu-guk"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 3,
+            "ids": [
+              "haemul-pajeon",
+              "korean-hobak-jeon",
+              "korean-oi-muchim"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 3,
+            "ids": [
+              "korean-godeungeo-gui",
+              "korean-nakji-bokkeum",
+              "korean-ojingeo-bokkeum"
             ]
           },
           {
@@ -3240,22 +3263,23 @@
             ]
           },
           {
-            "category": "appetizer",
+            "category": "sauce",
             "kind": "extra",
             "target": 0,
             "actual": 2,
             "ids": [
-              "haemul-pajeon",
-              "korean-oi-muchim"
+              "gochujang",
+              "korean-ssamjang"
             ]
           },
           {
-            "category": "sauce",
+            "category": "main-poultry",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "gochujang"
+              "korean-dak-galbi",
+              "korean-fried-chicken"
             ]
           },
           {
@@ -3265,24 +3289,6 @@
             "actual": 1,
             "ids": [
               "hotteok"
-            ]
-          },
-          {
-            "category": "main-poultry",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "korean-fried-chicken"
-            ]
-          },
-          {
-            "category": "main-seafood",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "korean-nakji-bokkeum"
             ]
           }
         ]

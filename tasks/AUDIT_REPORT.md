@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T15:19:35.472Z
+- 生成时间：2026-11-25T15:28:30.499Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 119 道，平均分 98
 - 需重写（C/D）：0 道
@@ -75,9 +75,9 @@
 | jiangsu | guihua-tangou | 93 | A | 准确性 18/25 |
 | jiangsu | jiangsu-jitang-zhugansi | 100 | A | 无 |
 | jiangsu | wuxi-youmianjin-sairou | 100 | A | 无 |
-| korean | dwaeji-gukbap | 93 | A | 准确性 18/25 |
-| korean | kkakdugi | 94 | A | 安全性 14/20 |
-| korean | haemul-pajeon | 100 | A | 无 |
+| korean | gimbap | 93 | A | 准确性 18/25 |
+| korean | hotteok | 100 | A | 无 |
+| korean | korean-bibim-guksu | 100 | A | 无 |
 | malaysian | malaysian-satay-chicken | 93 | A | 准确性 18/25 |
 | mediterranean | mediterranean-octopus-salad | 100 | A | 无 |
 | mediterranean | mediterranean-loukoumades | 100 | A | 无 |

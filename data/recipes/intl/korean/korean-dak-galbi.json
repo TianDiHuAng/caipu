@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-dak-galbi",
+  "name": {
+    "zh": "春川辣炒鸡",
+    "en": "Dak Galbi",
+    "original": "닭갈비"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 20,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "去骨切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "一半磨泥一半切丝",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "斜切段",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 100,
+          "unit": "g",
+          "note": "磨泥腌肉用",
+          "optional": false
+        },
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 200,
+          "unit": "g",
+          "note": "切大片垫锅",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "熟白芝麻",
+          "name_en": "toasted white sesame",
+          "amount": 6,
+          "unit": "g",
+          "note": "出锅撒面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 40,
+          "unit": "g",
+          "note": "提色增稠",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "韩式粗粉",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "收尾淋面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "大碗",
+    "刀",
+    "砧板",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉去骨切成入口大小的块，用清水冲去血水后彻底沥干。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水一定沥干，带水下锅会出汤，炒不出焦香。",
+      "visual_cue": "肉块表面干爽，颜色粉白透亮"
+    },
+    {
+      "n": 2,
+      "text": "梨去皮磨成细泥，洋葱一半磨泥一半切丝，大葱斜切成段。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "梨泥是嫩肉的关键，质地越细腌出来的鸡肉越松软。",
+      "visual_cue": "梨泥细腻出汁，葱段斜口整齐"
+    },
+    {
+      "n": 3,
+      "text": "鸡块里加辣椒粉、韩式辣椒酱、梨泥、洋葱泥、蒜末、生抽与白糖抓匀腌二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "用手抓两分钟让酱料渗进肉里，腌出来才够味。",
+      "visual_cue": "鸡块通体裹上红亮酱衣"
+    },
+    {
+      "n": 4,
+      "text": "平底锅烧热倒植物油，中小火把腌好的鸡块连酱一起下锅翻炒。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "酱料含糖容易糊，火别大，勤翻锅底。",
+      "visual_cue": "酱汁咕嘟冒泡，鸡块边缘转白"
+    },
+    {
+      "n": 5,
+      "text": "鸡块七成熟时下洋葱丝、大葱段与白菜片，中火翻炒到收汁。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "菜叶下锅后会出水，正好把锅底酱料化开。",
+      "visual_cue": "白菜变软半透明，汤汁明显收浓"
+    },
+    {
+      "n": 6,
+      "text": "淋香油翻匀，撒熟白芝麻与黑胡椒，连锅端上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "香油最后淋，加热过头香味就跑光了。",
+      "visual_cue": "表面油亮泛红，芝麻均匀散布"
+    }
+  ],
+  "tips": [
+    "腌肉时间最少二十分钟，冷藏过夜更入味，第二天炒出来更嫩。",
+    "锅里酱汁收得太干可加两勺清水，避免糖分糊底发苦。",
+    "吃完剩的酱汁可以加米饭和海苔碎炒成炒饭，是春川当地的标准吃法。"
+  ],
+  "common_mistakes": [
+    "鸡肉带水下锅，先出一锅汤，最后变成炖鸡而不是炒鸡。",
+    "全程大火猛炒，辣椒粉和糖在锅底结焦，整锅带苦味。",
+    "腌料一次全倒进去，酱太稠糊住肉块，里面根本没入味。"
+  ],
+  "substitutions": [
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "100克:100克",
+      "note": "苹果甜度更高，白糖可减半。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600克:600克",
+      "note": "鸡胸更瘦，腌的时间延长到四十分钟。"
+    }
+  ],
+  "variations": [
+    "加两百克年糕片一起炒，酱汁裹住年糕，是春川最流行的吃法。",
+    "加一把红薯片和圆白菜同炒，甜味更足，也更像铁板炒鸡的街头版本。"
+  ],
+  "serving_suggestion": "用铁盘或平底锅直接上桌，配生菜叶包着吃，再加一碗白米饭解辣。",
+  "storage": "冷藏可存两天，回锅时加两勺清水小火翻热，别用大火猛烧。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 34,
+    "fat_g": 26,
+    "carbs_g": 26,
+    "sodium_mg": 890,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炒至中心完全熟透、不见血水，避免沙门氏菌感染。",
+    "腌过生肉的容器与手须彻底清洗，避免交叉污染其他食材。"
+  ],
+  "origin_note": "春川辣炒鸡起源于江原道春川的胡同小馆，上世纪六十年代当地烤排骨太贵，摊主就把便宜的鸡腿肉切块，用辣椒酱和梨泥腌过，在铁板上和白菜、年糕一起炒。如今春川还有一条专门的辣炒鸡一条街，铁盘上桌、边炒边吃成了固定仪式。",
+  "tags": [
+    "韩国料理",
+    "辣炒",
+    "鸡肉",
+    "下饭"
+  ],
+  "related_ids": [
+    "jeyuk-bokkeum",
+    "korean-galbi-gui"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
