@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-sanxian-doufu",
+  "name": {
+    "zh": "三鲜豆腐",
+    "en": "Tofu with Three Delicacies",
+    "original": "三鮮豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 12,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切两厘米方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 100,
+          "unit": "g",
+          "note": "去虾线",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 40,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 12,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "烧制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "锅铲",
+    "深盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "嫩豆腐切两厘米方块，在加盐的开水中浸泡三分钟定形，捞出沥水备用。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "嫩豆腐不泡盐水，一烧就碎成渣。",
+      "visual_cue": "豆腐块完整，表面紧实。"
+    },
+    {
+      "n": 2,
+      "text": "虾仁挑去肠泥，加盐、料酒和白胡椒抓匀腌五分钟；香菇与火腿切薄片。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "虾仁先腌去腥，滑炒后更弹。",
+      "visual_cue": "虾仁挺立，配料切片均匀。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油烧到五成热，下虾仁中火滑炒到卷曲变红盛出，锅中留底油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "虾仁一变红就盛出，久炒发柴。",
+      "visual_cue": "虾仁卷曲橙红，表面紧实。"
+    },
+    {
+      "n": 4,
+      "text": "下姜末、香菇片和火腿片炒香，加清水烧开，放入豆腐块小火煨五分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "用勺背推锅不翻铲，嫩豆腐才不会破。",
+      "visual_cue": "汤汁微白，香菇出香。"
+    },
+    {
+      "n": 5,
+      "text": "倒回虾仁，加盐和生抽调味，水淀粉化开后缓缓淋入勾薄芡。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "芡要薄，三鲜吃的是清鲜，厚芡会糊口。",
+      "visual_cue": "汤汁透亮挂勺，豆腐完整。"
+    },
+    {
+      "n": 6,
+      "text": "起锅装盘后撒上葱花，趁热上桌，汤汁拌饭极其鲜美。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "葱花最后撒，久煮颜色发黄。",
+      "visual_cue": "白绿相间，汤汁清亮。"
+    }
+  ],
+  "tips": [
+    "三鲜指虾仁、香菇、火腿，缺一样可用干贝或木耳顶上。",
+    "豆腐用嫩豆腐口感最滑，但必须盐水泡定形。",
+    "全程保持小火慢烧，汤汁才会清亮不浑，豆腐也更嫩滑。"
+  ],
+  "common_mistakes": [
+    "豆腐不泡盐水直接烧，碎得不成块。",
+    "用大火收汤，汁水发浑豆腐也烧老，口感发柴。",
+    "虾仁和豆腐一起久烧，虾老豆腐碎。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "干贝",
+      "ratio": "100克:40克",
+      "note": "干贝需提前蒸软撕丝，鲜味更清雅，成本更高。"
+    },
+    {
+      "original": "火腿",
+      "substitute": "蚝油",
+      "ratio": "40克:15毫升",
+      "note": "无火腿可加蚝油提鲜，咸度更集中，盐要减。"
+    }
+  ],
+  "variations": [
+    "有的做法加几片笋片，口感更脆。",
+    "加一勺奶汤同烧，汤汁更白更浓，是宴席版做法。"
+  ],
+  "serving_suggestion": "装深盘带汁上桌，配白饭；也可作为宴席中的清口热菜。",
+  "storage": "冷藏可存两日，复热加少量清水小火煨开，勿微波以免豆腐出水。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 320,
+    "protein_g": 24,
+    "fat_g": 20,
+    "carbs_g": 10,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "虾仁属贝类海鲜，须彻底加热至卷曲变红、中心不透明，不要生食。",
+    "豆腐与海鲜同烧须一次吃完，剩菜冷藏并在两日内彻底加热后再食。"
+  ],
+  "origin_note": "三鲜豆腐是川菜里的清鲜派，嫩豆腐盐水定形后与滑炒的虾仁、香菇片、火腿片同烧，勾一层薄薄的亮芡，汤汁清鲜、豆腐滑嫩，是老少皆宜的一道家常热菜。",
+  "tags": [
+    "川菜",
+    "豆腐",
+    "三鲜",
+    "清鲜"
+  ],
+  "related_ids": [
+    "sichuan-shaguo-doufu",
+    "sichuan-baiyou-doufu",
+    "sichuan-xiangxiang-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

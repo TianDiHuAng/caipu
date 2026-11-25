@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-shaguo-doufu",
+  "name": {
+    "zh": "砂锅豆腐",
+    "en": "Claypot Tofu",
+    "original": "砂鍋豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 500,
+          "unit": "g",
+          "note": "切厚片煎黄",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 50,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "泡发切块",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡发撕小朵",
+          "optional": false
+        },
+        {
+          "name": "黄花菜",
+          "name_en": "dried daylily",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡发去硬蒂",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "洗净切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 90,
+          "unit": "ml",
+          "note": "煎豆腐用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "煮汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "木耳与黄花菜用温水泡发二十分钟，木耳撕成小朵，黄花菜剪去硬蒂反复冲洗。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "黄花菜硬蒂发苦，必须剪掉，泡发后再冲两遍。",
+      "visual_cue": "木耳舒展有弹，黄花菜柔软无硬芯。"
+    },
+    {
+      "n": 2,
+      "text": "北豆腐切一厘米厚的大片，用厨房纸吸干水分，香菇切块，火腿切片。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "豆腐吸干再煎才不粘锅、不溅油。",
+      "visual_cue": "豆腐片干燥整齐，配料备齐。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油烧到六成热，下豆腐片中火煎到两面金黄，盛出备用。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "煎过的豆腐更香也更能吸汤，不要煎得太干。",
+      "visual_cue": "豆腐两面金黄，边缘微脆。"
+    },
+    {
+      "n": 4,
+      "text": "砂锅放少许油下姜片和火腿片煸香，加清水烧开，放入香菇、木耳和黄花菜煮五分钟。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "干货先煮五分钟出味，汤才鲜。",
+      "visual_cue": "汤色微黄，干货舒展。"
+    },
+    {
+      "n": 5,
+      "text": "把煎好的豆腐片铺进砂锅，加生抽、蚝油、盐和白胡椒，转小火盖盖煨十二分钟。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "豆腐要铺平别叠太高，煨的时间足够才入味。",
+      "visual_cue": "汤汁微滚，豆腐吸满汤色。"
+    },
+    {
+      "n": 6,
+      "text": "下小白菜再煮两分钟至断生，撒葱花，连砂锅端上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "青菜最后下，煮久了发黄，汤也带涩味。",
+      "visual_cue": "菜叶翠绿，汤汁清鲜。"
+    }
+  ],
+  "tips": [
+    "豆腐先煎后煨，外香内嫩，比直接下锅更有层次。",
+    "干货泡发的水滤净后可当高汤用，鲜味不浪费。",
+    "砂锅保温好，离火后还会继续滚，青菜可以早一点关火。"
+  ],
+  "common_mistakes": [
+    "豆腐不煎直接下砂锅，容易碎，汤也发浑。",
+    "木耳黄花菜不洗净就下锅，吃着有沙。",
+    "小火煨的时间不够，豆腐里面还是白心，没入味。"
+  ],
+  "substitutions": [
+    {
+      "original": "火腿",
+      "substitute": "香菇",
+      "ratio": "50克:70克",
+      "note": "素食可去掉火腿，香菇加量并加一勺生抽补咸鲜。"
+    },
+    {
+      "original": "小白菜",
+      "substitute": "豆腐皮",
+      "ratio": "150克:100克",
+      "note": "换成豆腐皮需提前泡软切条，口感更有嚼劲。"
+    }
+  ],
+  "variations": [
+    "有的做法加几片腊肉同煮，汤更香浓。",
+    "四川家常版会加一勺豆瓣酱炒香再煮，变成红汤砂锅豆腐。"
+  ],
+  "serving_suggestion": "连砂锅上桌，先喝汤再吃豆腐；配米饭，冬天吃最暖。",
+  "storage": "冷藏可存两日，复热加少量清水小火煨开；青菜建议现吃现下。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 340,
+    "protein_g": 20,
+    "fat_g": 22,
+    "carbs_g": 16,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "木耳须用洁净水泡发，泡发时间不超过四小时，泡好后彻底加热至熟透，不要生食。",
+    "砂锅离火后温度很高，端锅时用厚布垫手，避免烫伤。"
+  ],
+  "origin_note": "砂锅豆腐是川渝冬天的家常暖锅，豆腐煎黄后与木耳、黄花菜、香菇、火腿一同入砂锅小火慢煨，汤汁清鲜、豆腐吸饱汤味，最后下一把青菜，连锅端上桌热气腾腾。",
+  "tags": [
+    "川菜",
+    "豆腐",
+    "砂锅",
+    "家常"
+  ],
+  "related_ids": [
+    "sichuan-sanxian-doufu",
+    "sichuan-baiyou-doufu",
+    "jiachang-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

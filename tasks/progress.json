@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T07:01:04.169Z",
+  "generatedAt": "2026-11-25T09:06:12.535Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 1982,
-    "coverage": 0.6053756872327428
+    "actual": 2021,
+    "coverage": 0.6172877214416616
   },
   "regions": {
     "cn": [
@@ -23,7 +23,7 @@
         "en": "Sichuan",
         "tier": "A",
         "target": 107,
-        "actual": 71,
+        "actual": 94,
         "cells": [
           {
             "category": "main-meat",
@@ -49,12 +49,20 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 13,
             "ids": [
               "gongbao-jiding",
               "koushui-ji",
               "lazi-ji",
+              "sichuan-bangbang-ji",
+              "sichuan-fenzheng-ji",
+              "sichuan-ganbian-ji",
+              "sichuan-huajiao-ji",
+              "sichuan-jiangzhi-rewo-ji",
+              "sichuan-paojiao-jiding",
               "sichuan-xuehua-jinao",
+              "sichuan-yuer-ji",
+              "sichuan-zhima-jipian",
               "xiaojian-ji"
             ]
           },
@@ -62,12 +70,20 @@
             "category": "main-tofu",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 13,
             "ids": [
               "hongshao-doufu",
               "jiachang-doufu",
               "mapo-doufu",
+              "sichuan-baiyou-doufu",
               "sichuan-douhua",
+              "sichuan-huangjin-doufu",
+              "sichuan-koudai-doufu",
+              "sichuan-paojiao-doufu",
+              "sichuan-sanxian-doufu",
+              "sichuan-shaguo-doufu",
+              "sichuan-xiangxiang-doufu",
+              "sichuan-yuxiang-doufu",
               "xiongzhang-doufu"
             ]
           },
@@ -89,11 +105,18 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 4,
+            "actual": 11,
             "ids": [
               "guaiwei-jiang",
+              "sichuan-gan-die",
+              "sichuan-guaiwei-zhi",
+              "sichuan-hong-tang-zhan-shui",
               "sichuan-hongyou-lazi",
               "sichuan-jiaoma-jiang",
+              "sichuan-jiaoma-zhi",
+              "sichuan-majiang-die",
+              "sichuan-tangcu-zhi",
+              "sichuan-yuxiang-zhi",
               "yuxiang-jiang"
             ]
           },
@@ -398,7 +421,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 66,
+        "actual": 82,
         "cells": [
           {
             "category": "main-seafood",
@@ -461,11 +484,19 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 14,
             "ids": [
               "baiqie-ji",
+              "cantonese-baiqie-ji",
+              "cantonese-chiyou-ji",
+              "cantonese-chizhi-zhengji",
+              "cantonese-congyou-ji",
               "cantonese-douchi-ji",
+              "cantonese-haoyou-menji",
               "cantonese-ningmeng-ji",
+              "cantonese-shajiang-ji",
+              "cantonese-yanju-ji",
+              "cantonese-zijiang-menya",
               "chiyou-ji",
               "jiangcong-ji",
               "xianggu-huaji"
@@ -475,9 +506,17 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 14,
             "ids": [
               "baozaifan",
+              "cantonese-baozai-fan",
+              "cantonese-beigu-huaji-fan",
+              "cantonese-ganbei-danbai-chaofan",
+              "cantonese-huadan-niurou-fan",
+              "cantonese-shengchao-nuomifan",
+              "cantonese-xianyu-huannan-fan",
+              "cantonese-xianyu-jili-chaofan",
+              "cantonese-xiaren-chaofan",
               "claypot-rice",
               "dan-chaofan",
               "shengchao-nuomifan",

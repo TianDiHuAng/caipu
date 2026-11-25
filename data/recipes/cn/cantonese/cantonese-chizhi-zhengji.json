@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-chizhi-zhengji",
+  "name": {
+    "zh": "豉汁蒸鸡",
+    "en": "Steamed Chicken with Black Bean Sauce",
+    "original": "豉汁蒸雞"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 18,
+    "total_min": 38
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "带皮去骨切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 25,
+          "unit": "g",
+          "note": "剁碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切粒",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "锁汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "拌腌",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅点香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调底味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "深盘",
+    "刀",
+    "砧板",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉去骨切成三厘米见方的块，冲净血水后挤干水分，放深盘备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "挤干水分腌料才挂得住，蒸出来不至于一汪水。",
+      "visual_cue": "鸡块表面干爽，大小均匀。"
+    },
+    {
+      "n": 2,
+      "text": "豆豉剁碎，与姜末下锅用少量植物油小火炒出香味，盛出摊凉。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "豆豉炒过才去生涩味，香气也更浓。",
+      "visual_cue": "豆豉粒粒松散，豉香扑鼻。"
+    },
+    {
+      "n": 3,
+      "text": "鸡块加生抽、蚝油、白糖、料酒、盐、白胡椒和炒好的豆豉抓匀，腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "抓拌到鸡块发黏再停手，味道才吸得进去。",
+      "visual_cue": "鸡块挂满酱色，表面发亮。"
+    },
+    {
+      "n": 4,
+      "text": "腌好的鸡块拌入玉米淀粉和植物油，摊平在深盘里，尽量不要叠太厚。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "淀粉锁汁、油防粘，摊平受热才均匀。",
+      "visual_cue": "鸡块表面薄薄一层浆。"
+    },
+    {
+      "n": 5,
+      "text": "蒸锅大火上汽后放入深盘，中火蒸十二分钟，关火再闷两分钟。",
+      "time_min": 14,
+      "heat": "中火",
+      "tip": "上汽后再放进去，冷水上锅蒸出来肉发柴、盘里都是水。",
+      "visual_cue": "盘底汁水清亮，鸡皮鼓起。"
+    },
+    {
+      "n": 6,
+      "text": "取出撒小葱粒，淋香油和几滴热植物油激香，趁热连汁一起上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "葱粒最后撒，蒸过就发黄，卖相和香味都损。",
+      "visual_cue": "葱绿点点，豉汁油亮。"
+    }
+  ],
+  "tips": [
+    "豆豉选阳江或罗定的，颗粒完整、豉香厚，别买碎末。",
+    "鸡腿肉比鸡胸耐蒸，十二分钟刚熟不老。",
+    "盘要深一点，蒸出的鸡汁是精华，拌饭极香。"
+  ],
+  "common_mistakes": [
+    "豆豉不炒直接拌，生豉味重，蒸出来发涩。",
+    "鸡块切得大小不一，小的老大的生。",
+    "冷水上锅干蒸，鸡肉失水发柴，盘底一片汤水。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅",
+      "ratio": "1:1.1",
+      "note": "鸡翅对半剁开蒸十分钟即可，胶质多、更滑嫩。"
+    },
+    {
+      "original": "豆豉",
+      "substitute": "生抽",
+      "ratio": "25克:20毫升",
+      "note": "缺豆豉时改用生抽加少许白糖，风味近似但少了豉香。"
+    }
+  ],
+  "variations": [
+    "有的做法在豉汁里加一勺辣椒酱，蒸出来微辣开胃。",
+    "顺德一带会把鸡块换成排骨或鱼头，豉汁配方一致。"
+  ],
+  "serving_suggestion": "连盘上桌，用勺把豉汁淋在鸡块上，配白饭最下饭；豉汁拌面也香。",
+  "storage": "冷藏可存两日；复热上锅蒸八分钟，不要微波炉直接打，鸡肉会发硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 32,
+    "fat_g": 28,
+    "carbs_g": 8,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须彻底蒸熟，最厚处切开不见血水，中心温度达到七十五度以上，不要生食。",
+    "豆豉含盐量高，高血压人群应减少生抽用量，成品不宜久放常温。"
+  ],
+  "origin_note": "豉汁蒸鸡是粤式家常的代表，鸡腿块以剁碎的豆豉、姜末与酱料抓匀，拌淀粉后上锅急蒸，鸡肉滑嫩、豉香浓郁，盘底那一汪豉汁用来拌饭是老广的心头好。",
+  "tags": [
+    "粤菜",
+    "鸡",
+    "豆豉",
+    "蒸"
+  ],
+  "related_ids": [
+    "cantonese-chiyou-ji",
+    "cantonese-congyou-ji",
+    "cantonese-baiqie-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

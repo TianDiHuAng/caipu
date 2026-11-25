@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "sichuan-ganbian-ji",
+  "name": {
+    "zh": "干煸鸡",
+    "en": "Dry-fried Chicken",
+    "original": "乾煸雞"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "去骨切三厘米条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 15,
+          "unit": "g",
+          "note": "剪节去籽",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 8,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "熟白芝麻",
+          "name_en": "toasted white sesame",
+          "amount": 10,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 90,
+          "unit": "ml",
+          "note": "煸制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "锅铲",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉去骨切成三厘米长的粗条，加盐、料酒和生抽抓匀腌十五分钟入味。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "腌到位才能干煸时不出水，也让鸡肉不柴。",
+      "visual_cue": "鸡条均匀，表面润泽无汁水。"
+    },
+    {
+      "n": 2,
+      "text": "干辣椒剪成短节，抖掉大部分辣椒籽，花椒挑去黑籽，芹菜与大葱切段备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "辣椒籽去大半，成菜才香辣不燥。",
+      "visual_cue": "辣椒节长短一致，籽量不多。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油烧到六成热，下鸡条中火摊开煎到一面金黄，再翻面继续煸炒。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "先别急着翻，等一面定型再翻才不粘不碎。",
+      "visual_cue": "鸡条表面金黄起壳，锅底少油。"
+    },
+    {
+      "n": 4,
+      "text": "转小火持续煸炒到鸡条水分收干、表面干香起皱，盛出多余的油。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "干煸的关键是耐心小火，把水分慢慢煸出去。",
+      "visual_cue": "鸡条干香紧实，无汁水渗出。"
+    },
+    {
+      "n": 5,
+      "text": "锅中留少许底油，下干辣椒节和花椒小火炒香，再下姜丝、葱段炒出香味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "辣椒花椒要小火慢炒，一焦就整锅发苦。",
+      "visual_cue": "辣椒转深红，花椒出麻香。"
+    },
+    {
+      "n": 6,
+      "text": "倒回鸡条转中火翻炒，加白糖和少许盐调味，下芹菜段炒到断生。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "芹菜只炒到断生，脆感才在，久了发黄出水。",
+      "visual_cue": "芹菜翠绿断生，鸡条均匀裹料。"
+    },
+    {
+      "n": 7,
+      "text": "起锅装盘，撒上熟白芝麻，趁热食用，凉了香气会散。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "白芝麻最后撒，久炒会发苦也会掉色。",
+      "visual_cue": "鸡条干香红亮，芝麻点点。"
+    }
+  ],
+  "tips": [
+    "选鸡腿肉，脂肪适中，煸出来不干不柴。",
+    "全程分两段火：中火煎香，小火煸干。",
+    "芹菜只取梗，叶子下锅容易发苦发黑。"
+  ],
+  "common_mistakes": [
+    "鸡条不腌直接煸，出水多，煸不出干香。",
+    "一直大火猛炒，外面焦了里面还是生的。",
+    "辣椒花椒炒糊，整盘菜带焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "500克:450克",
+      "note": "鸡胸肉更干，腌时加一勺油锁水，煸的时间缩短两分钟。"
+    },
+    {
+      "original": "芹菜",
+      "substitute": "莴笋",
+      "ratio": "60克:60克",
+      "note": "莴笋切条口感更脆，需提前用盐腌两分钟去水。"
+    }
+  ],
+  "variations": [
+    "有的做法加一把炸花生同炒，酥脆解辣。",
+    "川南版会把鸡条先过油再煸，成品更干香但更油腻。"
+  ],
+  "serving_suggestion": "装盘撒芝麻，配啤酒或白饭；凉了可回锅小火复煸一分钟。",
+  "storage": "冷藏可存两日，回锅小火干煸一分钟回香，勿加水复热。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 34,
+    "fat_g": 38,
+    "carbs_g": 10,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须彻底煸熟，切开中心不见粉红、汁水清亮，不要半生食用。",
+    "煸炒时油温较高且鸡肉可能带水分，下锅前沥干避免热油飞溅烫伤。"
+  ],
+  "origin_note": "干煸鸡是川菜干煸技法的代表，鸡腿肉切条腌制后中火煎香、小火慢煸到水分收干，再与干辣椒、花椒、姜葱同炒，鸡条干香紧实、麻辣入骨，越嚼越香，是川渝小馆里最下酒的一道。",
+  "tags": [
+    "川菜",
+    "鸡肉",
+    "干煸",
+    "下酒菜"
+  ],
+  "related_ids": [
+    "sichuan-yuer-ji",
+    "lazi-ji",
+    "gongbao-jiding"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
