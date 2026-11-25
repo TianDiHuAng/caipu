@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-jiuzao-laoya-tang",
+  "name": {
+    "zh": "酒糟老鸭汤",
+    "en": "Old Duck Soup with Fermented Rice Lees",
+    "original": "酒糟老鸭汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 105,
+    "total_min": 130
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "老鸭",
+          "name_en": "old duck",
+          "amount": 1200,
+          "unit": "g",
+          "note": "斩大块",
+          "optional": false
+        },
+        {
+          "name": "香糟",
+          "name_en": "fermented rice lees",
+          "amount": 50,
+          "unit": "g",
+          "note": "调成糟汁",
+          "optional": false
+        },
+        {
+          "name": "山药",
+          "name_en": "Chinese yam",
+          "amount": 200,
+          "unit": "g",
+          "note": "去皮切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "焯水去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "中和糟味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "枸杞",
+          "name_en": "goji berry",
+          "amount": 8,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2500,
+          "unit": "ml",
+          "note": "炖汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "刀",
+    "砧板",
+    "滤网",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "老鸭斩成大块，冷水下锅加料酒焯到浮沫大量涌出。",
+      "time_min": 15,
+      "heat": "中大火",
+      "tip": "老鸭油脂厚，焯水时多翻动两次去腥。",
+      "visual_cue": "浮沫灰黄成厚层，老鸭皮毛孔收紧。"
+    },
+    {
+      "n": 2,
+      "text": "老鸭块捞出用温水彻底冲洗干净，沥干表面水分备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "冲洗要彻底，残留的浮沫会让汤发苦发涩。",
+      "visual_cue": "老鸭块表面干净，皮色发白。"
+    },
+    {
+      "n": 3,
+      "text": "香糟用温水调开，静置后滤去粗渣，只留细腻糟汁。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "糟渣必须滤净，汤才不浑不涩，口感也更顺。",
+      "visual_cue": "滤网上留下粗粒，碗中糟汁呈米白色。"
+    },
+    {
+      "n": 4,
+      "text": "砂锅放老鸭块、姜片与清水，大火烧开后转小火炖七十分钟。",
+      "time_min": 75,
+      "heat": "小火",
+      "tip": "水面保持微微冒泡，火一大老鸭肉就柴，汤也易浑。",
+      "visual_cue": "汤色转浅黄，老鸭皮能用筷子戳透。"
+    },
+    {
+      "n": 5,
+      "text": "倒入糟汁与冰糖，下山药段，续炖二十分钟至老鸭块轻推即离骨。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "糟汁后放，酒香才留得住，早放会发酸。",
+      "visual_cue": "汤面泛出米白，山药边缘变半透明。"
+    },
+    {
+      "n": 6,
+      "text": "加盐调味，撒入枸杞再焖五分钟，让味道融进汤里。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "盐最后放，老鸭肉才不紧缩，汤也不会越炖越咸。",
+      "visual_cue": "枸杞吸水鼓胀，汤面浮一层清亮油花。"
+    }
+  ],
+  "tips": [
+    "老老鸭皮下脂肪厚，炖好后先撇油再喝，口感清爽不少。",
+    "香糟本身带咸味，加盐前先尝一口汤再定分量。",
+    "山药后放，早放会炖成糊，汤也会变得黏稠。"
+  ],
+  "common_mistakes": [
+    "糟汁跟老鸭一起下锅久炖，酒香全跑光只剩一股酸味。",
+    "贪便宜选生长期过短的禽类代替，炖一小时肉就散碎，汤也不够厚。"
+  ],
+  "substitutions": [
+    {
+      "original": "香糟",
+      "substitute": "红糟",
+      "ratio": "1:1",
+      "note": "红糟颜色偏红，汤色更深，风味更浓。"
+    }
+  ],
+  "variations": [
+    "闽东做法会在起锅前加一小把线面同煮，直接当主食吃。"
+  ],
+  "serving_suggestion": "盛碗后撒少许葱花，配米饭或直接当汤菜，适合秋冬进补。",
+  "storage": "冷藏两日，复热时加两勺清水小火煮开，糟香会回来一些。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 44,
+    "fat_g": 34,
+    "carbs_g": 12,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "老鸭肉须炖至中心完全熟透，骨缝处不见血水方可食用。",
+    "含酒精的糟汁经长时间炖煮后残留很低，但仍不建议给幼儿大量食用。"
+  ],
+  "origin_note": "酒糟入馔是闽菜的一大特色，福州一带习惯用糯米香糟炖老鸭，取其去腥增香、暖胃滋补之效，是入秋后的家常汤品。",
+  "tags": [
+    "闽菜",
+    "糟香",
+    "老鸭",
+    "秋冬进补"
+  ],
+  "related_ids": [
+    "fujian-honggu-dun-jitui",
+    "lizhi-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

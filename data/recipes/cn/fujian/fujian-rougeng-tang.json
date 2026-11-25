@@ -1,0 +1,236 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-rougeng-tang",
+  "name": {
+    "zh": "福州肉羹汤",
+    "en": "Fuzhou Pork Thick Soup",
+    "original": "肉羹汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 25,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 400,
+          "unit": "g",
+          "note": "切小指粗条",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 40,
+          "unit": "g",
+          "note": "裹肉与勾芡",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "碗",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊切成小指粗的条，加盐与两勺清水抓到表面发黏。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "顺着一个方向抓，肉条才吃水发嫩，也不易柴。",
+      "visual_cue": "肉条表面起黏，碗里不见游离水。"
+    },
+    {
+      "n": 2,
+      "text": "分三次加入玉米淀粉，抓匀到每根肉条都裹上厚浆。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "分次加粉才裹得匀，一次倒进去会结块。",
+      "visual_cue": "肉条根根分明，粉层看不见干粉。"
+    },
+    {
+      "n": 3,
+      "text": "香菇与竹笋切细丝，放进高汤里煮五分钟出味。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "笋丝先焯水去涩，汤才清甜，不带土腥味。",
+      "visual_cue": "汤面轻滚，笋丝变软由白转透。"
+    },
+    {
+      "n": 4,
+      "text": "转中小火，把肉条一根根下锅，先别搅动等浆定型。",
+      "time_min": 5,
+      "heat": "中小火",
+      "tip": "逐条下锅才不粘连，一下锅就搅会脱浆。",
+      "visual_cue": "肉条表面浆层变白定型，不再粘筷子。"
+    },
+    {
+      "n": 5,
+      "text": "肉条浮起后轻推散开，再煮两分钟至中心熟透。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "保持微沸就好，滚太猛会把肉条上的浆冲散。",
+      "visual_cue": "肉条鼓起浮在汤面，断面全白无粉红。"
+    },
+    {
+      "n": 6,
+      "text": "加盐与白胡椒调味，淋香油，撒香菜与葱花即可。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "白胡椒最后放，香气才不被煮散，辣味也更清。",
+      "visual_cue": "汤体微稠挂勺，葱花香菜浮在表面。"
+    }
+  ],
+  "tips": [
+    "浆要厚一点，福州肉羹讲究滑而不散。",
+    "汤底用高汤打底，换成清水味道差一大截。",
+    "下肉时汤只能微沸，滚开就关小火等一等。"
+  ],
+  "common_mistakes": [
+    "肉条下锅马上去搅，浆全脱进汤里，汤浑肉柴。",
+    "淀粉一次全倒，肉条粘成一团，煮出来是肉饼不是肉羹。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡胸肉",
+      "ratio": "1:1",
+      "note": "鸡胸肉需多加五克淀粉，口感更滑。"
+    }
+  ],
+  "variations": [
+    "福州街头版本会加一勺虾油与几段鱼丸同煮，鲜味更足。"
+  ],
+  "serving_suggestion": "盛碗后淋几滴虾油，配拌面或锅边糊是福州人的标准早饭。",
+  "storage": "冷藏一日，复热时加少许高汤稀释，稠度会回软。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 330,
+    "protein_g": 34,
+    "fat_g": 12,
+    "carbs_g": 20,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sesame"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪肉条须煮至中心完全变白无粉红，中心温度达七十五度以上。",
+    "含淀粉勾芡的汤品放凉后易滋生细菌，冷藏不超过一日并彻底复热。"
+  ],
+  "origin_note": "肉羹汤是福州早点摊的常客，把上浆的肉条下进高汤里滑熟，配笋丝香菇勾薄芡，讲究肉滑、汤鲜、芡薄。",
+  "tags": [
+    "闽菜",
+    "福州小吃",
+    "快手汤",
+    "家常"
+  ],
+  "related_ids": [
+    "xianggu-rougeng",
+    "fuzhou-rouyan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

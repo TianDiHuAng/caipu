@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-25T01:49:33.062Z
+> 生成时间：2026-11-25T02:06:47.334Z
 
-**总览**：工程任务 49/53；菜谱内容 1841/3274（56.2%），共 642 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1847/3274（56.4%），共 642 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（650/1339）
+### 中国菜系（656/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，71/107</summary>
 
@@ -179,9 +179,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>闽菜 fujian</b> — A 级，46/107</summary>
+<details><summary><b>闽菜 fujian</b> — A 级，52/107</summary>
 
-- [ ] `P4-fujian/soup` 汤羹（Soup）目标 15，已完成 8
+- [ ] `P4-fujian/soup` 汤羹（Soup）目标 15，已完成 14
 - [ ] `P4-fujian/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 6
 - [ ] `P4-fujian/main-meat` 主菜·肉（Meat Main）目标 15，已完成 10
 - [ ] `P4-fujian/snack` 小吃（Street Food）目标 15，已完成 7

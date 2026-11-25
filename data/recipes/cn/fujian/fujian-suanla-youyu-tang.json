@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-suanla-youyu-tang",
+  "name": {
+    "zh": "酸辣鱿鱼汤",
+    "en": "Hot and Sour Squid Soup",
+    "original": "酸辣鱿鱼汤"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 400,
+          "unit": "g",
+          "note": "去膜切圈",
+          "optional": false
+        },
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 120,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "打散取蛋液",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "抓洗去腥",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "起锅前放",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "调水淀粉",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "碗",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鱿鱼撕掉表面薄膜，切成半厘米宽的圈，用料酒与姜丝抓洗。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "膜不撕净汤会发腥，抓洗时轻一点别把肉揉烂。",
+      "visual_cue": "鱿鱼圈边缘透亮，碗底有少量血水。"
+    },
+    {
+      "n": 2,
+      "text": "猪里脊切细丝，加少量玉米淀粉抓匀腌上备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "上浆后肉丝下锅才滑嫩不柴，久煮也不容易散。",
+      "visual_cue": "肉丝表面挂一层薄浆，手指捏起不黏连。"
+    },
+    {
+      "n": 3,
+      "text": "香菇与竹笋切细丝，入沸水焯一分钟捞出沥干。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "笋丝焯水去涩，香菇焯水去土腥，汤才清甜。",
+      "visual_cue": "笋丝由白转透，香菇丝变软。"
+    },
+    {
+      "n": 4,
+      "text": "高汤烧开，下香菇丝与竹笋丝同煮三分钟，让鲜味出来。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "高汤本就咸鲜，后面加盐要留手，先尝再放。",
+      "visual_cue": "汤面轻滚，笋香混着菌香飘出。"
+    },
+    {
+      "n": 5,
+      "text": "下猪里脊丝拨散，变色后再下鱿鱼圈汆四十秒。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "鱿鱼久煮就老，四十秒足够断生，见卷边即捞。",
+      "visual_cue": "肉丝转白散开，鱿鱼圈卷边。"
+    },
+    {
+      "n": 6,
+      "text": "淋入打散的鸡蛋液推成蛋花，再倒入玉米淀粉水勾薄芡。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "蛋液沿锅边淋下，蛋花才薄如云片，别一次倒中间。",
+      "visual_cue": "蛋花浮起成片，汤体微微挂勺。"
+    },
+    {
+      "n": 7,
+      "text": "关火前加米醋、白胡椒与盐，淋香油，撒香菜与葱花。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "醋一定关火后放，煮过就没酸香，只剩死酸味。",
+      "visual_cue": "汤色清亮微稠，酸味冲鼻不刺喉。"
+    }
+  ],
+  "tips": [
+    "米醋分两次放，一次关火前提香，一次上桌补酸。",
+    "勾芡要薄，芡厚了酸辣味散不开，汤也会发黏。",
+    "鱿鱼选冰鲜的，解冻后用厨房纸吸干水再下锅。"
+  ],
+  "common_mistakes": [
+    "鱿鱼跟肉丝同时下锅，等肉熟鱿鱼已经老得咬不动。",
+    "醋和胡椒一起早放，煮十分钟酸辣味全跑光。"
+  ],
+  "substitutions": [
+    {
+      "original": "鱿鱼",
+      "substitute": "墨鱼",
+      "ratio": "1:1",
+      "note": "墨鱼肉更厚，切圈后需多汆十秒。"
+    }
+  ],
+  "variations": [
+    "福州版本会加一勺香糟汁，酸辣之外多一层酒香。"
+  ],
+  "serving_suggestion": "趁热盛碗，配一小碟白胡椒粉自行加重辣度，饭前喝最开胃。",
+  "storage": "冷藏一日内吃完，复热时补半勺米醋恢复酸香。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 230,
+    "protein_g": 26,
+    "fat_g": 11,
+    "carbs_g": 9,
+    "sodium_mg": 990,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "mollusk",
+    "sesame"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鱿鱼须彻底加热至肉质变白卷曲，不要生食或半生食用。",
+    "蛋液需在汤中完全凝固成花，含蛋菜品不要隔夜冷食。"
+  ],
+  "origin_note": "酸辣鱿鱼汤在福建沿海一带流传已久，借高汤打底、米醋提酸、白胡椒提辣，是闽菜中少见的重口汤品。",
+  "tags": [
+    "闽菜",
+    "酸辣",
+    "开胃汤",
+    "家常"
+  ],
+  "related_ids": [
+    "xianggu-rougeng",
+    "haili-doufu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

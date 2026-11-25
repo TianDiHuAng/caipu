@@ -1,0 +1,20 @@
+﻿校验范围: 1627 个文件（成功解析 1627）
+分类体系: 59 菜系 / 26 品类；食材词典: 484 项
+
+[问题文件] 4 个（schema 失败 0，规则失败 4）：
+
+· data/recipes/cn/fujian/fujian-chashugu-paigu-tang.json (fujian-chashugu-paigu-tang) [RULES]
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
+
+· data/recipes/cn/fujian/fujian-fotiaoqiang.json (fujian-fotiaoqiang) [RULES]
+   - ingredients: 「料酒」在全部步骤与提示中均未被使用
+   - steps: 文本提到「面粉」，但配料表中没有该食材
+
+· data/recipes/cn/fujian/fujian-jitang-cuan-haibang.json (fujian-jitang-cuan-haibang) [RULES]
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
+
+· data/recipes/cn/fujian/fujian-jiuzao-laoya-tang.json (fujian-jiuzao-laoya-tang) [RULES]
+   - steps: 文本提到「鸭」，但配料表中没有该食材
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
+
+❌ 未通过：4 类问题，累计 6 条

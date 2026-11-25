@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-fotiaoqiang",
+  "name": {
+    "zh": "佛跳墙",
+    "en": "Buddha Jumps Over the Wall",
+    "original": "佛跳墙"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 5,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 195,
+    "total_min": 240
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "老鸭",
+          "name_en": "old duck",
+          "amount": 600,
+          "unit": "g",
+          "note": "斩成骨牌块",
+          "optional": false
+        },
+        {
+          "name": "猪蹄",
+          "name_en": "pork trotter",
+          "amount": 400,
+          "unit": "g",
+          "note": "剁成四厘米块",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 300,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "鲍鱼",
+          "name_en": "abalone",
+          "amount": 200,
+          "unit": "g",
+          "note": "刷净黑膜",
+          "optional": false
+        },
+        {
+          "name": "海参",
+          "name_en": "sea cucumber",
+          "amount": 150,
+          "unit": "g",
+          "note": "切三厘米段",
+          "optional": false
+        },
+        {
+          "name": "蹄筋",
+          "name_en": "beef tendon",
+          "amount": 150,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "干贝",
+          "name_en": "dried scallop",
+          "amount": 50,
+          "unit": "g",
+          "note": "温水泡发",
+          "optional": false
+        },
+        {
+          "name": "鹌鹑蛋",
+          "name_en": "quail eggs",
+          "amount": 100,
+          "unit": "g",
+          "note": "煮熟剥壳",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "去蒂切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "焯水去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "炖底汤",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 500,
+          "unit": "ml",
+          "note": "煨坛",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "坛子",
+    "刀",
+    "砧板",
+    "漏勺",
+    "汤碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干贝用温水泡发二十分钟，撕掉边缘硬筋，泡发水沉淀后留用。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡发水别倒，鲜味全在里面，滤掉沉底的沙。",
+      "visual_cue": "干贝手感由硬转软，撕开能见到丝缕。"
+    },
+    {
+      "n": 2,
+      "text": "老鸭斩块、鸡腿肉切块、猪蹄剁成小块，一起冷水下锅加料酒焯水。",
+      "time_min": 15,
+      "heat": "中大火",
+      "tip": "三样肉分开焯，血水才出得干净，汤色才清。",
+      "visual_cue": "水面浮起灰白浮沫，肉块边缘收紧变色。"
+    },
+    {
+      "n": 3,
+      "text": "焯好的老鸭与猪蹄捞出，用温水冲净表面浮沫，沥干水分。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "一定用温水冲，冷水一激肉质会紧得发柴。",
+      "visual_cue": "肉块表面干净无沫，手摸干爽不黏。"
+    },
+    {
+      "n": 4,
+      "text": "砂锅下老鸭、猪蹄、姜片与清水，大火烧到翻滚。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "水一次加足，中途补水会冲淡汤的厚度与鲜味。",
+      "visual_cue": "汤面猛烈翻滚，姜香随蒸汽散出。"
+    },
+    {
+      "n": 5,
+      "text": "撇净浮沫后转最小火，盖盖慢炖九十分钟至猪蹄微软。",
+      "time_min": 90,
+      "heat": "小火",
+      "tip": "保持汤面似开未开，火一大汤就浑，肉也不易酥烂。",
+      "visual_cue": "汤色转浅褐，猪蹄皮能按出凹陷。"
+    },
+    {
+      "n": 6,
+      "text": "鲍鱼刷净黑膜切十字花刀，海参切段，蹄筋切条，香菇去蒂。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "鲍鱼黑膜不刷净会发苦，海参别切太薄。",
+      "visual_cue": "鲍鱼表面见菱形刀口，海参切面呈乳白色。"
+    },
+    {
+      "n": 7,
+      "text": "把鸡腿肉、干贝连泡发水、香菇、鲍鱼、海参、蹄筋放入坛中，加高汤与冰糖。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "海味铺上层，肉类垫底，受热才均匀。",
+      "visual_cue": "坛口冒出细密热气，糖化开汤面泛亮。"
+    },
+    {
+      "n": 8,
+      "text": "坛子坐砂锅水里，小火隔水煨四十分钟，让海味与肉香融在一起。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "隔水煨不糊底，坛盖留一丝缝，腥气散得出去。",
+      "visual_cue": "坛内汤面轻晃，香气浓到压不住。"
+    },
+    {
+      "n": 9,
+      "text": "放入剥壳的鹌鹑蛋，加盐调味，撒小葱段再煨五分钟即可上桌。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "盐最后放，早放肉会紧，海参也易缩。",
+      "visual_cue": "蛋身染上汤色，葱段翠绿不黄。"
+    }
+  ],
+  "tips": [
+    "老鸭选两年以上的，皮下脂肪黄亮，炖出的汤才够厚。",
+    "坛内不要加冷水，温度一降海参立刻回缩发硬。",
+    "上桌前把浮油撇一层，喝着不腻又不寡。"
+  ],
+  "common_mistakes": [
+    "把所有食材同时下锅猛火煮，海味被煮老，肉还没烂。",
+    "图快用高压锅压，虽然快但汤浑味薄，失去煨坛的意义。"
+  ],
+  "substitutions": [
+    {
+      "original": "海参",
+      "substitute": "花胶",
+      "ratio": "1:1",
+      "note": "花胶需提前泡发一日，口感更黏。"
+    }
+  ],
+  "variations": [
+    "福州家常版会加鹌鹑蛋与鸽蛋各半，成本低且分量足。"
+  ],
+  "serving_suggestion": "趁滚烫上桌，先喝一小碗原汤感受层次，再配白米饭或线面。",
+  "storage": "冷藏可存两日，复热时加两勺清水小火慢煨，别用微波炉高火。",
+  "nutrition_estimate": {
+    "basis": "按四人份配料估算",
+    "calories_kcal": 720,
+    "protein_g": 62,
+    "fat_g": 44,
+    "carbs_g": 18,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "mollusk"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "海参、鲍鱼、干贝等海产须彻底加热至中心温度达七十五度以上再食用，勿生食。",
+    "鹌鹑蛋需完全煮熟并剥净蛋壳，冷藏超过一日不要再用。"
+  ],
+  "origin_note": "佛跳墙起源于清代福州聚春园，以酒坛煨制十余种山珍海味，因开坛时香气扑鼻而得名，是闽菜宴席的最高规格。",
+  "tags": [
+    "宴客",
+    "闽菜名菜",
+    "煨坛",
+    "高汤"
+  ],
+  "related_ids": [
+    "fujian-honggu-dun-jitui",
+    "taipingyan-tang",
+    "fujian-suancai-ya-rou-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
