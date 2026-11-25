@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-caijianbing",
+  "name": {
+    "zh": "枣庄菜煎饼",
+    "en": "Zaozhuang Vegetable Jianbing Roll",
+    "original": "棗莊菜煎餅"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "staple-bread",
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 18,
+    "total_min": 58
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        },
+        {
+          "name": "玉米面",
+          "name_en": "cornmeal",
+          "amount": 100,
+          "unit": "g",
+          "note": "掺入增香，煎饼更脆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆腐皮",
+          "name_en": "tofu skin",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "韭菜",
+          "name_en": "Chinese chives",
+          "amount": 100,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 60,
+          "unit": "g",
+          "note": "温水泡软剪段",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 50,
+          "unit": "g",
+          "note": "擦细丝",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "摊饼时用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "给馅调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "摊饼与炒馅分两次用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 320,
+          "unit": "ml",
+          "note": "调面糊",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "鏊子",
+    "刮板",
+    "炒锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉与玉米面混匀，分次加清水搅成能流动的稀面糊，静置十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "面糊调到能挂住刮板又缓缓流下，太稠摊不开，太稀不成形。",
+      "visual_cue": "面糊顺滑无颗粒，挑起能成线流下。"
+    },
+    {
+      "n": 2,
+      "text": "鏊子烧热刷薄薄一层植物油，舀一勺面糊用刮板迅速刮平成薄饼。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "刮的时候手要快，饼越薄越好，厚了卷起来发硬。",
+      "visual_cue": "薄饼贴鏊透亮，边缘微翘。"
+    },
+    {
+      "n": 3,
+      "text": "薄饼上打入鸡蛋抹匀，翻面烙到两面微黄起脆边后取出备用。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "鸡蛋液要抹匀封住整张饼面，卷馅的时候才不容易破皮漏菜。",
+      "visual_cue": "蛋液均匀铺满，饼面金黄有脆边。"
+    },
+    {
+      "n": 4,
+      "text": "另起炒锅放植物油，把豆腐皮丝、白菜丝、胡萝卜丝炒软，加粉丝和生抽调味。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "蔬菜要大火快炒，出水太多会把饼皮泡软。",
+      "visual_cue": "菜丝断生色泽鲜亮，锅底几乎无汤。"
+    },
+    {
+      "n": 5,
+      "text": "关火拌入韭菜段和盐，趁热把菜馅铺在煎饼上卷紧，两头折起再回鏊子烙脆。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "韭菜最后拌才够香，回烙十几秒让饼皮重新变脆。",
+      "visual_cue": "菜卷紧实不散，外皮金黄酥脆。"
+    }
+  ],
+  "tips": [
+    "面糊里掺玉米面，煎饼才有枣庄的粗粮香。",
+    "菜馅要炒到不见汤水，否则饼皮很快回软。",
+    "韭菜一定要最后下锅，靠余温断生才最鲜，久炒就发黄出水。"
+  ],
+  "common_mistakes": [
+    "面糊调得太稠，摊出来的饼又厚又硬，卷起来还会断裂。",
+    "菜馅炒完没控干水就卷，放一会儿饼皮就被泡得软烂。",
+    "韭菜跟着一起久炒，颜色发黄出水，鲜味全跑光了。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐皮",
+      "substitute": "鸡蛋",
+      "ratio": "150克:3个",
+      "note": "鸡蛋摊成蛋皮切丝，蛋白质更高。"
+    },
+    {
+      "original": "韭菜",
+      "substitute": "小葱",
+      "ratio": "100克:100克",
+      "note": "不吃韭菜可换小葱，辛香柔和些。"
+    }
+  ],
+  "variations": [
+    "喜欢辣的可以在馅里加一勺辣椒油，风味更足。",
+    "把豆腐皮换成摊好的鸡蛋皮切丝，口感更嫩也更滑。"
+  ],
+  "serving_suggestion": "菜煎饼卷好切段趁热吃，配一碗玉米面粥解腻。",
+  "storage": "现卷现吃最佳，剩馅可冷藏一天；饼皮凉后回鏊子小火复烙两分钟。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 430,
+    "protein_g": 18,
+    "fat_g": 12,
+    "carbs_g": 62,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋与豆腐皮须彻底加热，鸡蛋要完全凝固不发流。",
+    "面粉含麸质，麸质过敏者不宜食用。"
+  ],
+  "origin_note": "枣庄菜煎饼是鲁南街头的实在吃食，薄薄的杂粮煎饼摊上鸡蛋，卷进炒软的豆腐皮、白菜、胡萝卜和粉丝，再撒一把韭菜，回鏊子一烙，外皮酥脆、内里清鲜多汁，两张下肚很顶饱。",
+  "tags": [
+    "鲁菜",
+    "面食",
+    "枣庄",
+    "素馅",
+    "粗粮"
+  ],
+  "related_ids": [
+    "shandong-jianbing",
+    "zha-ouhe"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

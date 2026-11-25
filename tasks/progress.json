@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:03:03.392Z",
+  "generatedAt": "2026-11-25T12:24:43.743Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2053,
-    "coverage": 0.6270616982284667
+    "actual": 2065,
+    "coverage": 0.6307269395235187
   },
   "regions": {
     "cn": [
@@ -287,7 +287,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 53,
+        "actual": 65,
         "cells": [
           {
             "category": "main-seafood",
@@ -348,12 +348,20 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 13,
             "ids": [
               "qiangmian-mantou",
+              "shandong-caijianbing",
               "shandong-dabobo",
+              "shandong-gangzitou",
+              "shandong-huajuan",
               "shandong-jianbao",
               "shandong-jianbing",
+              "shandong-qiancengbing",
+              "shandong-rouhuoshao",
+              "shandong-tangsujianbing",
+              "shandong-xibing",
+              "shandong-youxuan",
               "zhouchun-shaobing"
             ]
           },
@@ -409,10 +417,13 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 6,
             "ids": [
               "congyou-bing",
               "jiaodong-bayu-jiaozi",
+              "shandong-caijianbing",
+              "shandong-rouhuoshao",
+              "shandong-tangsujianbing",
               "zha-ouhe"
             ]
           },
@@ -440,9 +451,10 @@
             "category": "breakfast",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "shandong-dabobo"
+              "shandong-dabobo",
+              "shandong-huajuan"
             ]
           }
         ]
