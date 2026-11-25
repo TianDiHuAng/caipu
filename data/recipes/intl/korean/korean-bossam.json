@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-bossam",
+  "name": {
+    "zh": "韩式菜包肉",
+    "en": "Korean Boiled Pork Wraps",
+    "original": "보쌈"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 35,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "选带皮整块，肥瘦三层",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "下汤锅提底味",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "一半入汤一半捣泥",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切长段",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "调蘸酱",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 150,
+          "unit": "g",
+          "note": "磨泥增甜",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 150,
+          "unit": "g",
+          "note": "洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 200,
+          "unit": "g",
+          "note": "取嫩叶部分",
+          "optional": false
+        },
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 30,
+          "unit": "g",
+          "note": "调蘸酱",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "蘸酱用",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "炒香压碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "蘸酱调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "煮肉用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块冷水冲泡三十分钟，中途换水两次，把表面血水冲干净。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "整块冲水不切开，肉汁才锁得住，煮出来不发柴。",
+      "visual_cue": "水色由淡红转清，肉皮泛白。"
+    },
+    {
+      "n": 2,
+      "text": "汤锅注入清水，放黄豆酱、姜片、洋葱块、大葱段和料酒，大火烧开。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "底料先煮开再放肉，香气才压得住猪肉味。",
+      "visual_cue": "汤面翻滚，豆酱香混着葱姜味冒上来。"
+    },
+    {
+      "n": 3,
+      "text": "把五花肉放入汤锅，转中小火煮二十五分钟，筷子能轻松穿透即可。",
+      "time_min": 25,
+      "heat": "中小火",
+      "tip": "水面保持小泡微滚，滚太猛肉皮会开裂。",
+      "visual_cue": "筷子直插到底无阻力，肉皮微微翘起。"
+    },
+    {
+      "n": 4,
+      "text": "肉块留在原汤里浸泡十分钟，捞出放凉到不烫手，再切成半厘米厚片。",
+      "time_min": 12,
+      "heat": "微火",
+      "tip": "趁温热切片不散，凉透再切容易碎。",
+      "visual_cue": "切面肥白瘦红分明，片形完整不塌。"
+    },
+    {
+      "n": 5,
+      "text": "梨磨成细泥，与韩式辣椒酱、白糖、大蒜泥、香油、芝麻和盐拌成蘸酱。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "梨泥分两次加，先稠后稀，酱才不会流汤。",
+      "visual_cue": "酱色红亮，挑起能挂住勺背。"
+    },
+    {
+      "n": 6,
+      "text": "生菜与大白菜叶用冰水泡五分钟，沥干水后摆盘，配肉片与蘸酱上桌。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "菜叶冰水泡过更脆，甩干水再摆盘不出汤。",
+      "visual_cue": "菜叶挺立发亮，盘底无水渍。"
+    }
+  ],
+  "tips": [
+    "五花肉选皮薄、肥瘦三层均匀的，煮后切片才好看又不腻。",
+    "煮肉的原汤别倒，撇净浮油可以留着煮面或做汤底。",
+    "蘸酱里加一勺煮肉原汤，咸鲜更厚，比单放盐柔和。"
+  ],
+  "common_mistakes": [
+    "肉一直大火滚煮，肉皮炸开、瘦肉纤维变粗，切片就散。",
+    "肉凉透了才切，肥瘦分层错位，片上全是碎屑。",
+    "菜叶洗完不沥干，包起来汁水横流，酱味被冲淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "1:1",
+      "note": "前腿肉瘦些，煮的时间要缩短五分钟，口感偏紧实。"
+    },
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "1:1",
+      "note": "苹果泥甜度略低，可多加五克白糖补味。"
+    }
+  ],
+  "variations": [
+    "全罗道做法会在蘸酱里加一勺虾酱，咸鲜更冲，配白切肉特别下饭。",
+    "首尔版本常用萝卜泡菜叶代替生菜包肉，酸脆解腻，层次更足。"
+  ],
+  "serving_suggestion": "肉片趁温热上桌，取一片菜叶垫底，加蒜片与蘸酱卷起一口吃掉。",
+  "storage": "肉片冷藏可存两日，复热时连原汤一起蒸五分钟，别用微波炉干加热。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 26,
+    "fat_g": 42,
+    "carbs_g": 12,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "五花肉须彻底加热至中心熟透，切开不见血水，不要半生食用。",
+    "煮好的肉在两小时内冷藏，室温久放容易滋生细菌。"
+  ],
+  "origin_note": "菜包肉是韩国家常待客的猪肉菜，把整块五花肉用豆酱汤煮透，片薄后配生菜、泡菜与辣酱包食，讲究肉香清、菜叶脆、酱味厚，是韩式猪肉料理里最朴素的一道。",
+  "tags": [
+    "韩国料理",
+    "白切肉",
+    "包饭",
+    "家常宴客"
+  ],
+  "related_ids": [
+    "korean-galbi-jjim",
+    "korean-oi-muchim",
+    "kkakdugi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-25T05:21:14.729Z
+> 生成时间：2026-11-25T05:53:43.032Z
 
-**总览**：工程任务 49/53；菜谱内容 1955/3274（59.7%），共 642 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 1961/3274（59.9%），共 642 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -416,7 +416,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1221/1935）
+### 外国菜系（1227/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，63/107</summary>
 
@@ -437,9 +437,9 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>韩国料理 korean</b> — A 级，48/107</summary>
+<details><summary><b>韩国料理 korean</b> — A 级，54/107</summary>
 
-- [ ] `P4-korean/main-meat` 主菜·肉（Meat Main）目标 15，已完成 6
+- [ ] `P4-korean/main-meat` 主菜·肉（Meat Main）目标 15，已完成 12
 - [ ] `P4-korean/soup` 汤羹（Soup）目标 15，已完成 6
 - [ ] `P4-korean/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 6
 - [ ] `P4-korean/fermented` 腌制发酵（Pickle & Ferment）目标 15，已完成 5

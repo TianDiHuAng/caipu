@@ -1,0 +1,311 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-jokbal",
+  "name": {
+    "zh": "韩式酱猪蹄",
+    "en": "Korean Braised Pig Trotters",
+    "original": "족발"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 70,
+    "cook_min": 110,
+    "total_min": 180
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪蹄",
+          "name_en": "pork trotter",
+          "amount": 1200,
+          "unit": "g",
+          "note": "斩块，拔净残毛",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 80,
+          "unit": "ml",
+          "note": "主酱味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 60,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段与细丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "整瓣拍松",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒糖色与调味",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 20,
+          "unit": "g",
+          "note": "收汁增亮",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 100,
+          "unit": "g",
+          "note": "磨泥软化肉质",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "装料包",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "装料包",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "装料包",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "装料包提辣",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "出锅撒面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "炖煮后段调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "炖煮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "料包袋",
+    "镊子",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪蹄用镊子拔净残毛，冷水浸泡一小时，中途换水三次把血水泡出来。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "残毛用火燎一下再刮，比反复拔快得多。",
+      "visual_cue": "外皮泛白，泡水后水面无血色。"
+    },
+    {
+      "n": 2,
+      "text": "猪蹄冷水下锅，加料酒与姜片，大火煮开撇净浮沫后捞出用温水冲净。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "飞水用冷水下锅，血沫才逼得干净。",
+      "visual_cue": "浮沫结块浮起，外皮收紧发亮。"
+    },
+    {
+      "n": 3,
+      "text": "汤锅铺大葱段、洋葱块、蒜瓣与姜片，放猪蹄，倒生抽、老抽、白糖和清水。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "锅底垫葱姜，外皮不贴锅，炖完不易破。",
+      "visual_cue": "液体没过猪蹄两指，酱色均匀。"
+    },
+    {
+      "n": 4,
+      "text": "八角、桂皮、香叶和干辣椒装进料包投锅，大火烧开转小火炖一小时。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "香料装包才好捞，散着煮久了会发苦。",
+      "visual_cue": "汤面小泡微滚，香料味漫出锅沿。"
+    },
+    {
+      "n": 5,
+      "text": "炖到外皮起胶、筷子能扎透时加盐和梨泥，再小火焖二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "盐后放肉才不柴，梨泥让胶质更软糯。",
+      "visual_cue": "外皮轻按即凹，汤汁变得黏稠。"
+    },
+    {
+      "n": 6,
+      "text": "开中火收汁到酱色油亮，淋蜂蜜翻匀，放凉后切块撒黑胡椒与大葱丝。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "收汁时勤翻动，胶质容易糊底。",
+      "visual_cue": "每块猪蹄挂满亮汁，色如琥珀。"
+    }
+  ],
+  "tips": [
+    "猪蹄选前蹄，筋多肉厚，炖后更弹牙。",
+    "炖好别急着捞，关火焖半小时胶质会更透。",
+    "收汁到锅底只剩薄薄一层就够，汁多反而稀薄。"
+  ],
+  "common_mistakes": [
+    "猪蹄没泡透血水，炖出来汤浑带腥。",
+    "全程大火炖，猪皮开裂、肉散脱骨。",
+    "收汁过头，糖分焦化发苦，颜色发黑。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪蹄",
+      "substitute": "猪肘",
+      "ratio": "1:1",
+      "note": "肘子肉多，炖的时间缩短二十分钟，切块更方整。"
+    },
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "1:1",
+      "note": "苹果泥甜度略低，白糖可多加五克。"
+    }
+  ],
+  "variations": [
+    "首尔奖忠洞一带的做法偏清淡，酱油减半，靠长时间炖出原胶香。",
+    "有的店家在收汁前加一勺辣椒粉，做成微辣的酱猪蹄，配冷面吃很搭。"
+  ],
+  "serving_suggestion": "趁温热切块装盘，配辣酱、蒜片和泡菜，冷吃当冷盘也很受欢迎。",
+  "storage": "连汁冷藏可存三日，冷冻两周；复热连汁小火加热，别用大火收干。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 580,
+    "protein_g": 34,
+    "fat_g": 40,
+    "carbs_g": 18,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪蹄含大量胶质，须炖至彻底熟透软烂，中心不见血色。",
+    "炖好的猪蹄室温放置不超过两小时，冷藏保存并复热透再食用。"
+  ],
+  "origin_note": "酱猪蹄是韩国夜宵与下酒菜的常客，猪蹄拔毛飞水后用酱油与香料慢炖，再加梨泥收汁，成品胶质透亮、咸甜适口，讲究皮糯不烂、酱香入骨，常配辣酱与泡菜同食。",
+  "tags": [
+    "韩国料理",
+    "炖菜",
+    "猪蹄",
+    "夜宵"
+  ],
+  "related_ids": [
+    "korean-jang-jorim",
+    "korean-bossam",
+    "kkakdugi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

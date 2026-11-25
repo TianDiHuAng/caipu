@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-suyuk",
+  "name": {
+    "zh": "韩式白切肉",
+    "en": "Korean Sliced Boiled Pork",
+    "original": "수육"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 80,
+    "total_min": 120
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 700,
+          "unit": "g",
+          "note": "带皮整条，卷紧后煮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "入汤锅提味",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "一半入汤一半切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 50,
+          "unit": "g",
+          "note": "切段与细丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "汤锅调味",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 100,
+          "unit": "g",
+          "note": "切薄片泡冰水",
+          "optional": false
+        },
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 30,
+          "unit": "g",
+          "note": "调蘸酱",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 20,
+          "unit": "ml",
+          "note": "蘸酱解腻",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "蘸酱平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "蘸酱用",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "撒蘸酱面",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "煮肉用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整条用清水冲净，用棉线捆紧成卷，冷水下锅水要完全没过肉面。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "捆紧再煮，肉卷切出来才圆整不散。",
+      "visual_cue": "肉卷紧实成柱，棉线勒出浅痕。"
+    },
+    {
+      "n": 2,
+      "text": "锅里放黄豆酱、姜片、大葱段、洋葱块、盐和料酒，大火煮开撇净浮沫。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "浮沫撇得越干净，白切肉的味道越清爽。",
+      "visual_cue": "汤面浮沫聚到锅边，汤色转清。"
+    },
+    {
+      "n": 3,
+      "text": "转小火煮四十分钟，煮到筷子能轻松穿透肉卷最厚的部分。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "全程小泡微滚，翻滚太猛肉皮会破。",
+      "visual_cue": "筷子直插无阻，肉皮透亮起胶。"
+    },
+    {
+      "n": 4,
+      "text": "关火后让肉在汤里焖二十分钟，捞出趁热用保鲜膜卷紧放凉。",
+      "time_min": 22,
+      "heat": "微火",
+      "tip": "焖这一步让肉汁回流，切片才不干。",
+      "visual_cue": "肉卷表面油润，按压有回弹。"
+    },
+    {
+      "n": 5,
+      "text": "黄瓜切薄片泡冰水，大蒜切片，大葱切细丝，分盘摆成小碟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "黄瓜冰水泡十分钟，脆度能明显提升。",
+      "visual_cue": "黄瓜片透亮卷边，葱丝细而散。"
+    },
+    {
+      "n": 6,
+      "text": "韩式辣椒酱、米醋、白糖、香油和芝麻调成蘸酱，肉卷切薄片配黄瓜上桌。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "醋要在最后加，早放辣酱的颜色会发暗。",
+      "visual_cue": "酱色红亮微稠，肉片切面肥瘦分层。"
+    }
+  ],
+  "tips": [
+    "肉卷放凉后再切，片形才完整，厚度控制在三毫米左右。",
+    "煮肉汤撇净浮油可以当高汤，煮萝卜或面条都很鲜。",
+    "想吃更清爽，把肉片在冰水里过一下再摆盘。"
+  ],
+  "common_mistakes": [
+    "肉没捆紧就下锅，煮后散成几块，切片全碎。",
+    "大火滚煮，肉皮破开、瘦肉发柴，切面毛糙。",
+    "刚出锅就切片，肉汁流失，片上干白发硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪前腿肉",
+      "ratio": "1:1",
+      "note": "前腿肉瘦，煮的时间缩短十分钟，蘸酱里多加五毫升香油。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "柠檬汁",
+      "ratio": "1:1",
+      "note": "柠檬酸更清爽，用量减少五毫升避免过酸。"
+    }
+  ],
+  "variations": [
+    "庆尚道做法在汤锅里加一把紫苏叶同煮，香气特殊，能压猪肉味。",
+    "有的家庭把肉卷换成猪颈肉，脂肪更细密，口感更弹。"
+  ],
+  "serving_suggestion": "肉片薄切后配黄瓜与辣酱醋碟，也可直接包泡菜，冷热吃都合适。",
+  "storage": "肉卷冷藏可存三日，切片后密封保存，复热用蒸锅五分钟最接近原味。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 540,
+    "protein_g": 28,
+    "fat_g": 44,
+    "carbs_g": 10,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "五花肉须彻底煮熟至中心无血色，切开不见红，不要半生食用。",
+    "冷藏保存的肉片复热要透，中心温度够高才安全。"
+  ],
+  "origin_note": "白切肉是韩国节庆与祭祀桌上常见的猪肉冷盘，整块五花肉用豆酱汤小火煮透、焖至回汁，切片后配辣酱醋碟与黄瓜食用，讲究肉香清、片形整、蘸酱解腻。",
+  "tags": [
+    "韩国料理",
+    "白煮",
+    "下酒菜",
+    "冷盘"
+  ],
+  "related_ids": [
+    "korean-bossam",
+    "kkakdugi",
+    "korean-oi-muchim"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

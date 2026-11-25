@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-galbi-gui",
+  "name": {
+    "zh": "韩式酱烤牛排骨",
+    "en": "Grilled Marinated Beef Short Ribs",
+    "original": "갈비구이"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 230,
+    "cook_min": 35,
+    "total_min": 265
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "savory",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛排骨",
+          "name_en": "beef short ribs",
+          "amount": 900,
+          "unit": "g",
+          "note": "沿骨缝切一指厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 60,
+          "unit": "ml",
+          "note": "腌汁主味",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 200,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "腌汁调味",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 30,
+          "unit": "g",
+          "note": "刷面增亮",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "腌汁用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 8,
+          "unit": "g",
+          "note": "出炉撒面",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "调稀腌汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤架",
+    "刷子",
+    "刀",
+    "砧板",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛排骨沿骨缝切成一指厚的片，冷水浸泡四十分钟，中途换水两次去血水。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "泡够时间血水才出得净，烤时不会起黑沫。",
+      "visual_cue": "盆里的水由红转清，骨面发白。"
+    },
+    {
+      "n": 2,
+      "text": "梨与洋葱分别磨成泥，加生抽、白糖、料酒、黑胡椒、蒜末和香油调成腌汁。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "腌汁先加清水调稀，太浓会盖住肉的本味。",
+      "visual_cue": "腌汁呈深褐色，能闻到果香与酱香。"
+    },
+    {
+      "n": 3,
+      "text": "排骨放进腌汁里抓匀，冷藏腌三小时，中途翻面一次让味道进透。",
+      "time_min": 180,
+      "heat": "无火",
+      "tip": "腌足三小时才进骨缝，赶时间也别少于两小时。",
+      "visual_cue": "肉色转深褐，汁液被吸收过半。"
+    },
+    {
+      "n": 4,
+      "text": "烤箱预热到二百二十度，排骨摆上烤架，刷一层蜂蜜腌汁送入中层。",
+      "time_min": 10,
+      "heat": "中大火",
+      "tip": "烤架下垫烤盘接汁，清理省事也不冒烟。",
+      "visual_cue": "炉内温度到位，排骨表面油亮挂汁。"
+    },
+    {
+      "n": 5,
+      "text": "烤十二分钟后翻面再刷一次蜂蜜腌汁，继续烤八分钟至表面焦亮。",
+      "time_min": 20,
+      "heat": "中大火",
+      "tip": "蜂蜜最后刷，早刷糖分焦化会发黑。",
+      "visual_cue": "肉边卷起焦褐色，骨端微微露白。"
+    },
+    {
+      "n": 6,
+      "text": "出炉撒芝麻和大葱丝，静置五分钟后顺骨缝切成段装盘。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置这几分钟让肉汁回流，切开不流一盘汤。",
+      "visual_cue": "切面湿润不流血水，香气直冲。"
+    }
+  ],
+  "tips": [
+    "牛排骨选肉厚带筋的小排，烤后筋络软糯，比纯瘦肉更香。",
+    "腌汁留两勺单独装碗，烤好淋在肉上，味道更集中。",
+    "家用烤箱温度虚高，看到边缘焦黑就先盖一层锡纸。"
+  ],
+  "common_mistakes": [
+    "腌汁里糖放太多又腌过夜，肉表面发黏，烤出来发苦。",
+    "排骨没吸干水分就上烤架，炉内水汽重，烤成焖肉。",
+    "出炉立刻切块，肉汁全流在案板上，口感变干。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛排骨",
+      "substitute": "牛里脊",
+      "ratio": "1:1",
+      "note": "里脊无骨易熟，腌一小时即可，烤制时间减半。"
+    },
+    {
+      "original": "蜂蜜",
+      "substitute": "白糖",
+      "ratio": "1:1.2",
+      "note": "白糖挂汁弱些，需多刷一次才够亮。"
+    }
+  ],
+  "variations": [
+    "首尔店家会把排骨切得更薄，用炭火快烤，焦香更重、肉质更嫩。",
+    "家庭版常加半勺芝麻粉进腌汁，坚果香浓，配生菜包食很搭。"
+  ],
+  "serving_suggestion": "趁热配生菜、蒜片和泡菜包食，也可直接盖在白饭上做排骨盖饭。",
+  "storage": "冷藏可存两日，复热用烤箱一百八十度烤六分钟，别用微波炉回软。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 640,
+    "protein_g": 38,
+    "fat_g": 40,
+    "carbs_g": 26,
+    "sodium_mg": 950,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛排骨须彻底烤熟，骨缝处不见血水，中心温度要达到熟透标准。",
+    "腌汁接触过生肉后不可直接作蘸料，须煮沸后再用。"
+  ],
+  "origin_note": "酱烤牛排骨是韩式烤肉里的宴客菜，用梨泥与洋葱泥软化肉质，酱油蜂蜜定甜咸，炭火或烤箱高温快烤出焦壳，讲究甜咸平衡、肉汁饱满，常在节日与生日餐桌出现。",
+  "tags": [
+    "韩国料理",
+    "烤排骨",
+    "宴客",
+    "腌渍"
+  ],
+  "related_ids": [
+    "korean-galbi-jjim",
+    "korean-bulgogi",
+    "korean-jang-jorim"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
