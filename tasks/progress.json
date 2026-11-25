@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T02:34:48.850Z",
+  "generatedAt": "2026-11-25T02:40:09.830Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 1865,
-    "coverage": 0.5696395846059865
+    "actual": 1871,
+    "coverage": 0.5714722052535125
   },
   "regions": {
     "cn": [
@@ -910,7 +910,7 @@
         "en": "Fujian",
         "tier": "A",
         "target": 107,
-        "actual": 70,
+        "actual": 76,
         "cells": [
           {
             "category": "soup",
@@ -1016,10 +1016,16 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 8,
             "ids": [
+              "fujian-chao-shuangdong",
+              "fujian-douchi-kugua",
+              "fujian-furu-kongxincai",
+              "fujian-qingchao-jielan",
               "fujian-sunsi-chaorou",
-              "fujian-younmen-sun"
+              "fujian-younmen-jiaobai",
+              "fujian-younmen-sun",
+              "fujian-zaoxiang-chunsun"
             ]
           },
           {

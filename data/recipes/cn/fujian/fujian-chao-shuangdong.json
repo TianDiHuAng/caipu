@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-chao-shuangdong",
+  "name": {
+    "zh": "炒双冬",
+    "en": "Stir-fried Winter Bamboo and Mushrooms",
+    "original": "炒双冬"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 22,
+    "total_min": 67
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 300,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 200,
+          "unit": "g",
+          "note": "干香菇泡发切条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调咸鲜",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "补咸",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 6,
+          "unit": "g",
+          "note": "勾薄芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干香菇用温水泡发四十分钟，挤干水分切成粗条。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "泡菇水留一碗，后面当高汤用最鲜。 这一步别图省事。",
+      "visual_cue": "香菇伞面回软，捏起来有弹性。"
+    },
+    {
+      "n": 2,
+      "text": "竹笋去壳削根，切成一厘米厚的片，冷水焯八分钟。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "焯过水的笋不涩，炒出来也更容易入味。",
+      "visual_cue": "笋片由白转透，筷尖能插透。"
+    },
+    {
+      "n": 3,
+      "text": "小葱切段、姜切末，泡菇水过滤掉沉渣另装一碗。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "菇水底部的细沙一定要滤掉。 火候宁小勿大。",
+      "visual_cue": "碗中菇水清澈微褐，闻着有菌香。"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下花生油烧热，放姜末与葱段煸出香气。注意不要着急，稳一点更好。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "葱段煸到微黄，香气最浓。 别急着省时间。",
+      "visual_cue": "葱段卷起，油面泛起香氛小泡。"
+    },
+    {
+      "n": 5,
+      "text": "倒入笋片与香菇条大火翻炒三分钟，炒到边缘微焦。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "香菇要炒出水分收干，香味才浓。 手快也要稳。",
+      "visual_cue": "菇条缩小发亮，锅底不见水。"
+    },
+    {
+      "n": 6,
+      "text": "倒入泡菇水，加生抽、蚝油、白糖与盐，小火烧四分钟。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "汤汁要没过食材一半，烧透才入味。 顺序别颠倒。",
+      "visual_cue": "锅里咕嘟冒泡，汤汁转深褐。"
+    },
+    {
+      "n": 7,
+      "text": "玉米淀粉加水调开淋入勾薄芡，翻匀收亮汁出锅。",
+      "time_min": 1,
+      "heat": "中火",
+      "tip": "芡要薄，挂汁透亮才有卖相。 份量要称准。",
+      "visual_cue": "每片笋菇都泛着亮光，盘底不流汁。"
+    }
+  ],
+  "tips": [
+    "香菇选肉厚的小朵干菇，泡发后香气比鲜菇足得多。",
+    "笋与菇都吸油，油量别省，少了会发干涩口。",
+    "泡菇水是这道菜的鲜味底，别倒掉。这一点要留意。"
+  ],
+  "common_mistakes": [
+    "香菇不挤干就下锅，出水太多炒成煮菜，香气全散。",
+    "全程大火不收汁，芡汁稀薄，挂在食材上厚度不够。"
+  ],
+  "substitutions": [
+    {
+      "original": "香菇",
+      "substitute": "木耳",
+      "ratio": "200g 对 150g",
+      "note": "木耳更脆，焯水后同炒，口感更清爽。"
+    }
+  ],
+  "variations": [
+    "闽北山区会加一把腊肉片同炒，荤油带出菌香，冬天吃格外香。"
+  ],
+  "serving_suggestion": "配米饭最下饭，也常作宴席的素菜冷碟，凉了风味仍足。",
+  "storage": "冷藏两天，复热用炒锅小火回温，微波会让笋片发硬。",
+  "nutrition_estimate": {
+    "basis": "每份约 170g",
+    "calories_kcal": 170,
+    "protein_g": 6,
+    "fat_g": 10,
+    "carbs_g": 14,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "干香菇须充分泡发并清洗，去除褶皱里的沙土。",
+    "香菇须彻底加热至熟透，不要生食或半生食用。",
+    "含蚝油，贝类过敏人群须回避，可改用素蚝油。",
+    "竹笋含草酸，焯水后再炒，痛风人群适量食用。"
+  ],
+  "origin_note": "炒双冬是闽菜的老牌素菜，冬笋与冬菇同炒，一个脆一个香，用泡菇水收汁，鲜味全靠食材自己给。，是闽地人家的家常味道。",
+  "tags": [
+    "闽菜",
+    "双冬",
+    "香菇",
+    "素菜"
+  ],
+  "related_ids": [
+    "fujian-younmen-sun",
+    "xianggu-rougeng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
