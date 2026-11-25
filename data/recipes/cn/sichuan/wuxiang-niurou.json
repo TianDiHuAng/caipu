@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "wuxiang-niurou",
+  "name": {
+    "zh": "五香牛肉",
+    "en": "Five-Spice Braised Beef",
+    "original": "五香牛肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 95,
+    "total_min": 115
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腱",
+          "name_en": "beef shank",
+          "amount": 800,
+          "unit": "g",
+          "note": "整块，用棉线捆紧定型",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "掰小块",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "三片",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 4,
+          "unit": "g",
+          "note": "装料包",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "回甘上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "卤制用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "砂锅",
+    "棉线"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腱子冷水浸泡两小时，中途换两次水，泡到肉色发白后用棉线顺着长条捆紧。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "捆紧能让卤好的牛腱子切开纹路整齐，切片不散。",
+      "visual_cue": "牛腱子表面发白，捆线勒出浅窝。"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加水烧开，放入牛腱焯五分钟，撇净浮沫后捞出，用温水冲洗表面杂质。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "用温水冲洗，冷水一激牛腱子紧缩，后面很难卤透。",
+      "visual_cue": "牛腱子表面清爽无浮沫挂壁。"
+    },
+    {
+      "n": 3,
+      "text": "八角、桂皮、香叶和花椒装进料包，与姜片、葱结一起放入砂锅，加清水、生抽、料酒和冰糖。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "香料装包才不会粘在肉上，吃起来也干净。",
+      "visual_cue": "汤色浅褐，香料浮沉均匀。"
+    },
+    {
+      "n": 4,
+      "text": "放入牛腱大火烧开，转小火加盖卤六十分钟，保持汤面微微冒泡。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "全程小火，滚沸会让牛腱子纤维松散、切片发碎。",
+      "visual_cue": "筷子能扎透但仍有阻力，肉香沉厚。"
+    },
+    {
+      "n": 5,
+      "text": "加盐调味，再小火卤十五分钟让咸味渗入，关火后在原汤里浸泡两小时。",
+      "time_min": 18,
+      "heat": "小火",
+      "tip": "盐要后放，早放肉会紧；浸泡比久煮更能入味。",
+      "visual_cue": "汤面平静，牛腱子颜色深褐均匀。"
+    },
+    {
+      "n": 6,
+      "text": "捞出牛腱子晾到完全凉透，拆去棉线，逆纹切成薄片，码盘后淋一勺原汤即可。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "一定要凉透再切，热切必碎；刀口斜着下，片大而薄。",
+      "visual_cue": "切面纹理细密，片形完整不散。"
+    }
+  ],
+  "tips": [
+    "牛腱要选筋膜分布均匀的金钱腱，切片最好看。",
+    "卤汤可留作老卤，滤净冷冻能反复使用。",
+    "凉透再切是成形关键，急冻十分钟更好切。"
+  ],
+  "common_mistakes": [
+    "全程大火卤制，牛肉外烂内硬还发柴。",
+    "热的时候切片，肉片全部碎散不成形。",
+    "盐和生抽早早下重，肉紧不入味还发咸。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腱子",
+      "substitute": "牛腩",
+      "ratio": "800克:800克",
+      "note": "牛腩脂肪多，卤好后口感更润，但切片易散，适合切块装盘。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "15克:12克",
+      "note": "白糖上色更快，需注意火候，容易炒出焦味。"
+    }
+  ],
+  "variations": [
+    "川西做法会在料包里加一小块陈皮，去腻提香。",
+    "有的家庭卤好后用纱布包紧压重物过夜，切片更像市售卤牛肉。"
+  ],
+  "serving_suggestion": "切薄片码成扇形，淋原汤或蘸干辣椒面，配白饭、拌面或当冷盘都合适。",
+  "storage": "冷藏可存三日，原汤浸泡保存更润；冷冻可存一个月，解冻后切薄片即可。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 380,
+    "protein_g": 42,
+    "fat_g": 19,
+    "carbs_g": 8,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "牛肉须卤到中心完全熟透、切开无血色，中心温度达到七十五度以上。",
+    "卤汤重复使用前须彻底烧开并过滤，冷藏保存不超过三日，出现异味立即弃用。"
+  ],
+  "origin_note": "五香牛肉是川渝卤味摊上的基本款，牛腱捆紧后与八角、桂皮、香叶、花椒同卤，小火慢煨到筷子能扎透，关火再泡足两小时，凉透切薄片，肉纹清晰、咸香回甘，是逢年过节冷盘里少不了的一道。",
+  "tags": [
+    "川菜",
+    "凉菜",
+    "牛肉",
+    "卤味"
+  ],
+  "related_ids": [
+    "chenpi-niurou",
+    "dengying-niurou",
+    "fuqi-feipian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

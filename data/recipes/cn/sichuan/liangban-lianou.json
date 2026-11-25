@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "liangban-lianou",
+  "name": {
+    "zh": "凉拌藕片",
+    "en": "Chilled Lotus Root Salad",
+    "original": "涼拌藕片"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "sichuan"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "total_min": 25
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "numbing",
+    "sour",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "莲藕",
+          "name_en": "lotus root",
+          "amount": 500,
+          "unit": "g",
+          "note": "选九孔脆藕，去皮切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "剪成节",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 4,
+          "unit": "g",
+          "note": "泼油激香",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 18,
+          "unit": "ml",
+          "note": "增酸解腻",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "中和酸味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "焯水与调味",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "泼干辣椒用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "焯藕用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "大碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "莲藕削皮后切成两毫米厚的薄片，切好立刻泡进加了少许盐的清水里，防止氧化发黑。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "选两头完整、孔洞小的脆藕，切开的藕遇空气很快变色。",
+      "visual_cue": "藕片洁白透亮，厚薄一致。"
+    },
+    {
+      "n": 2,
+      "text": "汤锅水烧开加盐，下藕片焯一分半钟，断生即用漏勺捞出，投入冰水中过凉。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "焯的时间宁短勿长，超过两分钟藕片就发面失去脆劲。",
+      "visual_cue": "藕片由白转透，边缘略呈半透明。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油烧到六成热，下干辣椒节和花椒炸到香味冲鼻，趁热泼在蒜末上。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "油温不够激不出香，冒烟就过头会苦，看到辣椒变暗红立刻关火。",
+      "visual_cue": "蒜末边缘起泡，红油香气扑鼻。"
+    },
+    {
+      "n": 4,
+      "text": "大碗放生抽、香醋、白糖和盐搅匀，倒入泼好的蒜末红油与辣椒油拌匀成料汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先尝一口料汁再拌藕，酸辣要略重一点，藕片本身不带味。",
+      "visual_cue": "料汁呈琥珀红色，糖盐完全化开。"
+    },
+    {
+      "n": 5,
+      "text": "藕片沥干水分倒入料汁中，加香菜段和葱花抓拌均匀，冷藏十分钟后装盘。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "藕片一定要沥干，带水会把料汁冲淡；拌好静置十分钟更入味。",
+      "visual_cue": "藕片均匀挂上红亮料汁，脆挺不软塌。"
+    }
+  ],
+  "tips": [
+    "脆藕看孔，九孔七孔都行，只要切开断面水分足。",
+    "焯水后冰镇是保持脆度的关键步骤。",
+    "料汁里加半勺糖，酸辣才不尖锐。"
+  ],
+  "common_mistakes": [
+    "藕片切好泡在铁锅里，氧化后发黑发暗。",
+    "焯水时间过长，藕片发面一拌就碎。",
+    "干辣椒油温过高炸糊，整碗料汁带苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "莲藕",
+      "substitute": "莴笋",
+      "ratio": "500克:500克",
+      "note": "莴笋切条后只需焯三十秒，口感更水嫩但要现拌现吃。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "米醋",
+      "ratio": "18毫升:18毫升",
+      "note": "米醋酸味更柔和，白糖可相应减到五克。"
+    }
+  ],
+  "variations": [
+    "成都街头版会加一勺花椒油，麻味更突出。",
+    "有的做法把藕片换成藕丁，焯后更易入味，适合下酒。"
+  ],
+  "serving_suggestion": "冰镇后装浅盘，撒点熟芝麻更香，配啤酒或稀饭都合适，夏天当开胃小菜最好。",
+  "storage": "冷藏密封可存两日，藕片会慢慢吸收料汁变深，食用前补一勺辣椒油提香。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 210,
+    "protein_g": 4,
+    "fat_g": 13,
+    "carbs_g": 21,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegan"
+  ],
+  "food_safety_notes": [
+    "莲藕生长在淤泥中，削皮后须彻底焯熟再过凉，不要生食凉拌，避免寄生虫与细菌风险。",
+    "焯好的藕片若不当餐食用，须冷藏保存并在二十四小时内吃完，室温久放容易变质。"
+  ],
+  "origin_note": "凉拌藕片是川渝人家夏天的常备冷碟，脆藕切薄片焯到断生，过冰水锁住脆劲，再泼一勺现炸的干辣椒花椒油，拌上酸辣料汁，入口咔嚓作响，麻香里带着清爽的藕香，解腻又开胃。",
+  "tags": [
+    "川菜",
+    "凉菜",
+    "莲藕",
+    "素食"
+  ],
+  "related_ids": [
+    "fuqi-feipian",
+    "suan-ni-bai-rou",
+    "liangban-fuzhu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
