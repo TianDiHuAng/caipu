@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-mole-rojo",
+  "name": {
+    "zh": "墨西哥红鼹鼠酱",
+    "en": "Mole Rojo",
+    "original": "Mole Rojo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 50,
+    "total_min": 75
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "smoky",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 60,
+          "unit": "g",
+          "note": "去籽",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "烤软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "带皮",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "杏仁",
+          "name_en": "almond",
+          "amount": 20,
+          "unit": "g",
+          "note": "去皮",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 30,
+          "unit": "g",
+          "note": "烤脆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "丁香",
+          "name_en": "clove",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "调浆",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "搅拌机",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干辣椒去籽剪段，干锅小火烘出香味，注意别烘黑。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "辣椒烘到用手一掰就断，香气最足。",
+      "visual_cue": "辣椒变脆，颜色转深红。"
+    },
+    {
+      "n": 2,
+      "text": "番茄、洋葱与大蒜放平底锅上烤到表面起焦斑。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "焦斑是红酱的烟熏底味来源。",
+      "visual_cue": "番茄起皱，洋葱边缘焦黄。"
+    },
+    {
+      "n": 3,
+      "text": "芝麻与杏仁干锅炒香，面包烤脆撕成小块备用。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "坚果和面包让酱体稠厚，别省。",
+      "visual_cue": "芝麻跳动，面包干脆。"
+    },
+    {
+      "n": 4,
+      "text": "把所有烤好的材料与干辣椒放入搅拌机，加一半高汤打成糊。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "分次打，太干就补高汤推动。",
+      "visual_cue": "糊体浓稠，颜色深红。"
+    },
+    {
+      "n": 5,
+      "text": "锅里倒植物油烧热，倒入酱糊小火翻炒八分钟去生味。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "生酱必须炒透，否则带涩味。",
+      "visual_cue": "酱体冒泡，颜色变深。"
+    },
+    {
+      "n": 6,
+      "text": "加剩余高汤、牛至、孜然与丁香，小火煮二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "煮的过程中偶尔搅底，防糊。",
+      "visual_cue": "酱汁浓稠，表面浮出红油。"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味，尝一下咸淡与辣度，稍收汁后关火。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "红酱要能挂勺，太稀可以再收五分钟。",
+      "visual_cue": "勺背挂薄薄一层酱。"
+    }
+  ],
+  "tips": [
+    "红鼹鼠酱比黑酱清爽，适合配猪肉与鸡肉。",
+    "干辣椒品种决定辣度，怕辣可减到四十克。",
+    "酱做好静置一夜，颜色会更红亮。"
+  ],
+  "common_mistakes": [
+    "干辣椒烘糊发黑，整锅酱都带着苦味。",
+    "酱糊不炒直接煮，成品有生辣椒味。"
+  ],
+  "substitutions": [
+    {
+      "original": "杏仁",
+      "substitute": "花生",
+      "ratio": "20g 对 20g",
+      "note": "花生版更香，但过敏人群须避开。"
+    }
+  ],
+  "variations": [
+    "有的家庭会加一小块巧克力提色，红酱会更亮，但味道仍以辣香为主。"
+  ],
+  "serving_suggestion": "浇在烤猪肉或鸡肉上，配玉米饼与洋葱丝。",
+  "storage": "冷藏五天，冷冻两个月，复热时小火加高汤调开。",
+  "nutrition_estimate": {
+    "basis": "每份约 160g",
+    "calories_kcal": 240,
+    "protein_g": 6,
+    "fat_g": 17,
+    "carbs_g": 18,
+    "sodium_mg": 460,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "tree-nut"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "烘烤干辣椒时刺激性气味强，须开抽油烟机并保持通风。",
+    "炒酱时热酱会溅，须小火并用长柄勺。",
+    "含杏仁与芝麻，坚果过敏人群不宜食用。"
+  ],
+  "origin_note": "Mole Rojo 是墨西哥中部常见的红酱，比黑鼹鼠酱简单，用干辣椒、烤番茄与坚果打浆炒香，辣中带烟熏，配烤肉最合适。",
+  "tags": [
+    "墨西哥菜",
+    "酱料",
+    "干辣椒",
+    "炖酱"
+  ],
+  "related_ids": [
+    "mexican-mole-poblano",
+    "mexican-salsa-roja",
+    "mexican-adobo-sauce"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
