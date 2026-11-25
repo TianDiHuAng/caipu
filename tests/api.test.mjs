@@ -160,7 +160,16 @@ test('GET /api/v1/ingredients 支持关键词搜索', async () => {
 test('GET /api/v1/ingredients/:key/recipes 返回该食材的菜谱', async () => {
   const body = (await api('/api/v1/ingredients/chicken-thigh/recipes?pageSize=100')).json();
   assert.ok(body.total >= 1);
-  assert.ok(body.items.some((x) => x.id === 'gongbao-jiding'));
+  assert.ok(body.items.length >= 1);
+  // 菜谱数量增长后目标菜可能落在后续分页，逐页查找
+  let found = body.items.some((x) => x.id === 'gongbao-jiding');
+  let page = 1;
+  while (!found && page < body.totalPages) {
+    page += 1;
+    const next = (await api(`/api/v1/ingredients/chicken-thigh/recipes?pageSize=100&page=${page}`)).json();
+    found = next.items.some((x) => x.id === 'gongbao-jiding');
+  }
+  assert.ok(found, '鸡腿肉菜谱列表应包含 gongbao-jiding');
 });
 
 test('未知路由返回 404 且带错误码', async () => {
