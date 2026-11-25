@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tex-mex-tinga-de-pollo",
+  "name": {
+    "zh": "墨西哥番茄辣酱炖鸡",
+    "en": "Tinga de Pollo",
+    "original": "Tinga de Pollo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "tex-mex"
+  },
+  "category": [
+    "main-poultry",
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "sour",
+    "smoky",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken-thigh",
+          "amount": 800,
+          "unit": "g",
+          "note": "去骨，整块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "一半切丝一半切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato-paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "提色增酸",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili-powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "按辣度调整",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨更香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable-oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煸炒用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black-pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn-tortilla",
+          "amount": 8,
+          "unit": "piece",
+          "note": "配食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "木勺",
+    "叉子",
+    "料理机"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉抹一半盐和黑胡椒，冷水下锅煮开转小火煮十五分钟，捞出留一碗汤。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "煮到能用叉子轻松戳穿就够，别煮老。",
+      "visual_cue": "鸡肉紧实不散，汤色清亮"
+    },
+    {
+      "n": 2,
+      "text": "鸡肉晾到不烫手，用两把叉子顺纤维撕成粗丝，越不均匀越好。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "撕比切更容易挂酱，口感也更像。",
+      "visual_cue": "肉丝粗长，纤维分明"
+    },
+    {
+      "n": 3,
+      "text": "番茄、洋葱末和大蒜放料理机打成粗浆，保留一点颗粒感。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "别打太细，成泥后炖出来发糊。",
+      "visual_cue": "浆体带明显颗粒，颜色鲜红"
+    },
+    {
+      "n": 4,
+      "text": "深锅倒植物油，中火炒洋葱丝五分钟至边缘发软，加辣椒粉和孜然炒三十秒。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "香料只在油里炒半分钟，久了发苦。",
+      "visual_cue": "洋葱变软，香料出香不冒烟"
+    },
+    {
+      "n": 5,
+      "text": "倒入番茄浆和番茄膏，小火煮八分钟至颜色变深、水分略收。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "番茄膏要炒透，生味才会消失。",
+      "visual_cue": "酱体暗红浓稠，油边泛红"
+    },
+    {
+      "n": 6,
+      "text": "放入鸡丝和半碗煮鸡汤，加剩下的盐，小火煮十分钟至酱汁裹住肉丝。",
+      "time_min": 11,
+      "heat": "小火",
+      "tip": "汤分次加，浓稠度以挂住肉丝为准。",
+      "visual_cue": "肉丝吸满酱，锅底无流动汁水"
+    },
+    {
+      "n": 7,
+      "text": "玉米饼干锅两面各烘二十秒，包入炖鸡丝上桌。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "饼要现烘，软了才好卷不裂。",
+      "visual_cue": "饼面有焦点，卷起不断"
+    }
+  ],
+  "tips": [
+    "辣椒粉分两次加，一半炒香一半最后补，辣味更立体。",
+    "加一勺酸奶油拌着吃，辣度会柔和很多。",
+    "剩下的炖鸡夹面包或拌米饭都合适。"
+  ],
+  "common_mistakes": [
+    "鸡肉煮太久，撕出来的丝又干又柴。",
+    "番茄浆打得太细，炖完像番茄酱不像炖菜。",
+    "香料下锅炒到冒烟，整锅带焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "800克:800克",
+      "note": "煮的时间缩短到十分钟，避免发柴。"
+    },
+    {
+      "original": "番茄膏",
+      "substitute": "番茄酱",
+      "ratio": "30克:40克",
+      "note": "酸度低一些，糖可加两克。"
+    }
+  ],
+  "variations": [
+    "加几片罐装墨西哥辣椒，酸辣感更强。",
+    "把鸡丝换成猪肩肉丝，做成 tinga 的猪肉版本。"
+  ],
+  "serving_suggestion": "夹进玉米饼，配牛油果片、香菜和青柠角，再撒一把洋葱末，就是标准的墨西哥街头吃法。",
+  "storage": "冷藏三天，冷冻一个月；复热加一勺鸡汤小火拌开，别用大火收干。",
+  "nutrition_estimate": {
+    "basis": "每份约300克",
+    "calories_kcal": 430,
+    "protein_g": 36,
+    "fat_g": 20,
+    "carbs_g": 26,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡腿肉须煮至中心完全变白、汁水清澈，内部温度达到七十四度；炖好的菜冷藏保存不超过三天，复热须彻底加热至滚沸。"
+  ],
+  "origin_note": "Tinga 出自墨西哥普埃布拉，原本用番茄、洋葱和烟熏辣椒把剩鸡肉炖成浓酱，夹在玉米饼里当早餐或宵夜。德州墨西哥版本减了烟熏辣椒，改用辣椒粉和孜然，辣度更直接。",
+  "tags": [
+    "墨西哥",
+    "鸡肉",
+    "番茄",
+    "辣"
+  ],
+  "related_ids": [
+    "tex-mex-chicken-burrito",
+    "tex-mex-chili-con-carne"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

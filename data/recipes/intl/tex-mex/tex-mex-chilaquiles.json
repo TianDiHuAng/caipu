@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "tex-mex-chilaquiles",
+  "name": {
+    "zh": "墨西哥红酱玉米饼",
+    "en": "Chilaquiles Rojos",
+    "original": "Chilaquiles Rojos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "tex-mex"
+  },
+  "category": [
+    "breakfast",
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "sour",
+    "savory",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米饼",
+          "name_en": "corn-tortilla",
+          "amount": 9,
+          "unit": "piece",
+          "note": "隔夜的更挺括",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "红辣椒",
+          "name_en": "red-chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "去籽切段",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "煎蛋用",
+          "optional": false
+        },
+        {
+          "name": "切达奶酪",
+          "name_en": "cheddar-cheese",
+          "amount": 60,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour-cream",
+          "amount": 60,
+          "unit": "ml",
+          "note": "淋面",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable-oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎饼用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "料理机",
+    "锅铲",
+    "厨房纸",
+    "小奶锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米饼切成三角形，摊开晾十分钟让表面略干，煎的时候才不软塌。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "隔夜饼最好，新鲜饼要先烘一下去水分。",
+      "visual_cue": "三角块边缘硬挺，不粘手"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒四十毫升植物油烧到微冒烟，分批把饼块煎到金黄酥脆，捞出沥油。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "一次别放太多，油温掉了会吸油。",
+      "visual_cue": "饼块金黄硬脆，敲起来有响声"
+    },
+    {
+      "n": 3,
+      "text": "另起小锅炒洋葱丁和大蒜三分钟，加番茄块和红辣椒小火煮十分钟。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "番茄要煮到塌软出汁，酱才够浓。",
+      "visual_cue": "番茄完全散开，汤色深红"
+    },
+    {
+      "n": 4,
+      "text": "把酱料放料理机打成顺滑红酱，倒回锅里加一半盐小火保温。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "打之前稍放凉，避免热气顶开盖子。",
+      "visual_cue": "酱体细腻，能挂住勺背"
+    },
+    {
+      "n": 5,
+      "text": "把煎好的饼块倒进红酱里快速翻拌二十秒，让每块都裹上酱但还保持脆。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "拌的时间越短越脆，久了就成糊。",
+      "visual_cue": "饼块表面裹红酱，边缘仍挺"
+    },
+    {
+      "n": 6,
+      "text": "另用剩下的油把三个鸡蛋煎成溏心蛋，撒剩下的盐。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "蛋黄要流心，拌进酱里才好吃。",
+      "visual_cue": "蛋白凝固，蛋黄柔软颤动"
+    },
+    {
+      "n": 7,
+      "text": "饼块盛盘，放上煎蛋，撒切达奶酪丝、淋酸奶油、撒香菜碎即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "切达奶酪靠余温化开，别提前撒。",
+      "visual_cue": "奶酪半融，酸奶油白色拉丝"
+    }
+  ],
+  "tips": [
+    "红酱可提前一天做好冷藏，早上只需煎饼和蛋。",
+    "喜欢更辣可以在酱里加一勺辣椒粉一起煮。",
+    "饼块换成厚切薯片，是德州酒吧的常见做法。"
+  ],
+  "common_mistakes": [
+    "饼块在酱里泡太久，端上桌已经软成一团。",
+    "红酱没煮透，生番茄味压过了辣味。",
+    "油温太低煎饼，饼块全是油没有脆感。"
+  ],
+  "substitutions": [
+    {
+      "original": "切达奶酪",
+      "substitute": "马苏里拉奶酪",
+      "ratio": "60克:60克",
+      "note": "拉丝更明显，咸度略低。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "原味酸奶",
+      "ratio": "60毫升:60毫升",
+      "note": "酸度接近，稠度稍稀。"
+    }
+  ],
+  "variations": [
+    "用绿番茄做酱，就是酸味更清爽的绿酱版本。",
+    "加一把撕碎的手撕猪肉，变成更饱腹的早餐。"
+  ],
+  "serving_suggestion": "趁热吃，配一杯黑咖啡和一份黑豆泥，是墨西哥周末早餐的标准组合。",
+  "storage": "饼与酱分开冷藏可存两天；复热时饼用烤箱一百八十度烤五分钟再浇热酱。",
+  "nutrition_estimate": {
+    "basis": "每份约300克",
+    "calories_kcal": 520,
+    "protein_g": 20,
+    "fat_g": 32,
+    "carbs_g": 40,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "煎蛋须煎至蛋白完全凝固，儿童与孕妇建议全熟；含奶酪与酸奶油的成品须冷藏，复热须彻底加热。"
+  ],
+  "origin_note": "Chilaquiles 是墨西哥人处理隔夜玉米饼的办法：切块煎脆，浇上热辣红酱，配煎蛋和奶酪当早餐。它不上桌好看，但辣、酸、脆、软全在一盘里，是宿醉早晨的救命菜。",
+  "tags": [
+    "墨西哥",
+    "早餐",
+    "玉米饼",
+    "辣"
+  ],
+  "related_ids": [
+    "tex-mex-huevos-rancheros",
+    "tex-mex-nachos"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-24",
+  "updated_at": "2026-11-24"
+}

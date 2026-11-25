@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T01:42:21.752Z",
+  "generatedAt": "2026-11-25T01:46:18.012Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 640,
+    "cells": 641,
     "target": 3274,
-    "actual": 1825,
-    "coverage": 0.5574221136224802
+    "actual": 1835,
+    "coverage": 0.5604764813683567
   },
   "regions": {
     "cn": [
@@ -6176,29 +6176,31 @@
         "en": "Tex-Mex",
         "tier": "B",
         "target": 38,
-        "actual": 18,
+        "actual": 28,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "tex-mex-beef-fajitas",
               "tex-mex-beef-tacos",
               "tex-mex-chicken-enchiladas",
-              "tex-mex-chili-con-carne"
+              "tex-mex-chili-con-carne",
+              "tex-mex-tinga-de-pollo"
             ]
           },
           {
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "tex-mex-chicken-quesadilla",
               "tex-mex-elote",
               "tex-mex-nachos",
+              "tex-mex-rajas-con-crema",
               "tex-mex-sopaipillas"
             ]
           },
@@ -6206,9 +6208,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "tex-mex-guacamole",
+              "tex-mex-pico-de-gallo",
               "tex-mex-queso"
             ]
           },
@@ -6216,8 +6219,9 @@
             "category": "breakfast",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "tex-mex-chilaquiles",
               "tex-mex-huevos-rancheros"
             ]
           },
@@ -6225,18 +6229,21 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "tex-mex-calabacitas",
-              "tex-mex-elote"
+              "tex-mex-elote",
+              "tex-mex-rajas-con-crema"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "tex-mex-chilaquiles"
+            ]
           },
           {
             "category": "main-tofu",
@@ -6249,9 +6256,30 @@
             "category": "staple-rice",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "tex-mex-arroz-rojo",
               "tex-mex-chicken-burrito"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "tex-mex-black-bean-soup",
+              "tex-mex-tortilla-soup"
+            ]
+          },
+          {
+            "category": "appetizer",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "tex-mex-pico-de-gallo",
+              "tex-mex-refried-beans"
             ]
           },
           {
@@ -6273,21 +6301,12 @@
             ]
           },
           {
-            "category": "appetizer",
+            "category": "main-poultry",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "tex-mex-refried-beans"
-            ]
-          },
-          {
-            "category": "soup",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "tex-mex-tortilla-soup"
+              "tex-mex-tinga-de-pollo"
             ]
           }
         ]
