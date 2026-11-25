@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-wangao",
+  "name": {
+    "zh": "闽南碗糕",
+    "en": "Minnan Steamed Rice Cake",
+    "original": "闽南碗糕"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 100,
+    "cook_min": 50,
+    "total_min": 150
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "粘米粉",
+          "name_en": "rice flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "过筛",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 260,
+          "unit": "ml",
+          "note": "约四十度",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 3,
+          "unit": "g",
+          "note": "耐高糖型",
+          "optional": false
+        },
+        {
+          "name": "小苏打",
+          "name_en": "baking soda",
+          "amount": 2,
+          "unit": "g",
+          "note": "消酸味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 80,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "刷碗防粘",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "盆",
+    "打蛋器",
+    "筛网",
+    "保鲜膜",
+    "小碗",
+    "蒸锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "粘米粉与白糖倒进盆里，分三次加温水，边加边搅成没有颗粒的米浆。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水别一次倒完，分次搅才不起疙瘩。",
+      "visual_cue": "米浆顺滑，舀起能连成线。"
+    },
+    {
+      "n": 2,
+      "text": "米浆过一次筛，撇掉表面的浮沫，静置五分钟。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "过筛这步决定糕面细不细，别省。",
+      "visual_cue": "筛网上只剩粗粒，浆面平整。"
+    },
+    {
+      "n": 3,
+      "text": "酵母用两勺温水化开，倒进米浆里搅匀，让酵母分布均匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酵母先用温水化开唤醒，发酵才快也才匀。",
+      "visual_cue": "浆面出现细小气泡。"
+    },
+    {
+      "n": 4,
+      "text": "盆口盖保鲜膜，放温暖处发酵一个半小时，米浆膨胀到原来一倍半。",
+      "time_min": 90,
+      "heat": "无火",
+      "tip": "温度低就延长发酵，看状态不看时间。",
+      "visual_cue": "浆面布满气泡，闻起来有淡淡酒香。"
+    },
+    {
+      "n": 5,
+      "text": "发酵好的米浆加小苏打搅匀，静置十分钟散掉酸味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "小苏打别多，多了成品发黄还带涩味。",
+      "visual_cue": "酸味变淡，浆面重新平整。"
+    },
+    {
+      "n": 6,
+      "text": "小碗内壁刷一层花生油，把米浆舀到七分满，轻震两下排出气泡。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "只装七分满，蒸的时候还要往上发。",
+      "visual_cue": "碗壁挂油，浆面没有大泡。"
+    },
+    {
+      "n": 7,
+      "text": "蒸锅水开后放入小碗，大火蒸十五分钟，关火焖三分钟再开盖。",
+      "time_min": 18,
+      "heat": "大火",
+      "tip": "中途别开盖，塌下去就发不起来了。",
+      "visual_cue": "糕面隆起开裂像花，竹签插入不粘。"
+    }
+  ],
+  "tips": [
+    "米浆发酵到有酒香、表面起泡才算到位，发不够蒸出来是死糕。",
+    "碗糕讲究裂口，裂得开才是发得好，别怕难看。",
+    "用粘米粉比现磨米浆省事，口感差别不大。"
+  ],
+  "common_mistakes": [
+    "米浆太稀，蒸出来中间塌成凹坑。",
+    "发酵过头酸味重，靠小苏打也压不住。"
+  ],
+  "substitutions": [
+    {
+      "original": "粘米粉",
+      "substitute": "大米粉",
+      "ratio": "250g 对 250g",
+      "note": "现磨米浆要用 300g 大米泡一夜再打成浆。"
+    }
+  ],
+  "variations": [
+    "闽南人做碗糕会在浆里拌一勺红糖，蒸出来是琥珀色的红糖碗糕，拜拜时更常见。"
+  ],
+  "serving_suggestion": "放凉后从碗里倒扣出来，配豆浆或茶当早餐，热吃松软凉吃紧实。",
+  "storage": "冷藏两天，复蒸五分钟回软，凉透再密封免得返潮。",
+  "nutrition_estimate": {
+    "basis": "每份约 120g",
+    "calories_kcal": 210,
+    "protein_g": 4,
+    "fat_g": 2,
+    "carbs_g": 44,
+    "sodium_mg": 60,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "peanut"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "蒸制时水要一次加足，中途揭盖易回缩塌陷。",
+    "对酵母过敏者不宜食用，发酵米制品须当日食用完毕。"
+  ],
+  "origin_note": "碗糕是闽南人过年与拜拜必备的米食，米浆靠酵母发起，蒸到顶部裂成十字花才算合格，老辈人说裂得越开，来年越发。",
+  "tags": [
+    "闽菜",
+    "闽南",
+    "碗糕",
+    "米食"
+  ],
+  "related_ids": [
+    "fuzhou-guangbing",
+    "fujian-caipu-jiandan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

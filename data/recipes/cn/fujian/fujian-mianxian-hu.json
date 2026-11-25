@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-mianxian-hu",
+  "name": {
+    "zh": "闽南面线糊",
+    "en": "Minnan Fine Noodle Soup",
+    "original": "闽南面线糊"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "total_min": 110
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "挂面",
+          "name_en": "dried noodles",
+          "amount": 150,
+          "unit": "g",
+          "note": "掰成寸段",
+          "optional": false
+        },
+        {
+          "name": "猪筒骨",
+          "name_en": "pork marrow bone",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块焯水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 20,
+          "unit": "g",
+          "note": "泡软",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 15,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 30,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "红薯淀粉",
+          "name_en": "sweet potato starch",
+          "amount": 30,
+          "unit": "g",
+          "note": "调水勾芡",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "爆香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪骨冷水下锅焯去血沫，捞出用温水冲洗掉浮沫与碎骨。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血水逼出来，汤才不腥。",
+      "visual_cue": "水面浮起灰褐色泡沫，捞出后骨头干净。"
+    },
+    {
+      "n": 2,
+      "text": "猪骨与姜片放进汤锅，加足量清水，大火烧开后转小火熬一小时。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "中途补开水不补冷水，汤味才稳。",
+      "visual_cue": "汤色微白，撇掉浮油后清亮。"
+    },
+    {
+      "n": 3,
+      "text": "细挂面掰成寸段，干香菇泡软切细丝，虾米用温水泡开备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "挂面掰短才好糊化，口感像面线。",
+      "visual_cue": "面段均匀，香菇丝细。"
+    },
+    {
+      "n": 4,
+      "text": "花生油爆香葱白、香菇丝与虾米，倒入滤净的猪骨汤煮开。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "汤要滤净渣，勾出来的芡才透亮不浑。",
+      "visual_cue": "汤面冒小泡，香气出来。"
+    },
+    {
+      "n": 5,
+      "text": "下细挂面段煮到软烂散开，加生抽、盐与白胡椒粉调味。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "煮到面条边缘化开，汤底自然就黏稠了。",
+      "visual_cue": "面条一夹就断，汤略稠。"
+    },
+    {
+      "n": 6,
+      "text": "红薯淀粉加水调稀，边搅边淋入锅中，勾成能流动的薄芡。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "芡别太厚，能挂勺又要流得动才算合适。",
+      "visual_cue": "汤汁挂匀勺背，滴落成线。"
+    },
+    {
+      "n": 7,
+      "text": "撒芹菜末与葱绿，起锅前滴几滴花生油提香，趁热盛碗。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "芹菜末最后放，保住脆香，久煮就烂了。",
+      "visual_cue": "碗里浮着绿色末，汤面有油光。"
+    }
+  ],
+  "tips": [
+    "面线糊的稠度靠勾芡与面条糊化两重作用，芡只是辅助。",
+    "闽南人吃面线糊爱配油条、大肠或卤蛋，清汤底最见功力。",
+    "汤底可以提前熬好分装冷冻，早上煮面线只需十分钟。"
+  ],
+  "common_mistakes": [
+    "汤没滤渣就勾芡，成品浑浊还有颗粒感。",
+    "芡一次勾太厚，放凉就凝成块，热了也化不开。"
+  ],
+  "substitutions": [
+    {
+      "original": "细挂面",
+      "substitute": "手工面线",
+      "ratio": "150g 对 120g",
+      "note": "用面线要减芡，面线本身含盐且易糊。"
+    }
+  ],
+  "variations": [
+    "泉州的面线糊会加一勺卤汁与几段炸醋肉，汤色变深，酸香开胃，是早点摊的标配搭头。"
+  ],
+  "serving_suggestion": "盛碗后撒白胡椒粉，配一根油条蘸着吃，是闽南最寻常的早餐。",
+  "storage": "现煮现吃最好，汤底冷藏三天，复热后重新勾芡，不要反复加热。",
+  "nutrition_estimate": {
+    "basis": "每碗约 350g",
+    "calories_kcal": 290,
+    "protein_g": 14,
+    "fat_g": 9,
+    "carbs_g": 38,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "crustacean",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪骨汤须熬透并滤净浮沫，汤底隔夜须彻底煮沸再用。",
+    "勾芡后的汤放置过久易变质，室温下不要超过两小时。",
+    "对小麦过敏者不可食用，可换米粉制作。",
+    "干香菇须泡发后彻底加热至熟透，不要生食。"
+  ],
+  "origin_note": "面线糊是泉州与厦门的早点代表，用猪骨汤煮烂细面线，再勾一层薄芡，撒芹菜末与胡椒，稠而不糊，配油条吃一碗顶到中午。",
+  "tags": [
+    "闽菜",
+    "泉州",
+    "面线糊",
+    "早餐"
+  ],
+  "related_ids": [
+    "dingbian-hu",
+    "fuzhou-banmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

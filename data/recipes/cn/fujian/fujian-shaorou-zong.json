@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "fujian-shaorou-zong",
+  "name": {
+    "zh": "闽南烧肉粽",
+    "en": "Minnan Pork Zongzi",
+    "original": "闽南烧肉粽"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "fujian"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 60,
+    "cook_min": 210,
+    "total_min": 270
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "umami",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "糯米",
+          "name_en": "glutinous rice",
+          "amount": 500,
+          "unit": "g",
+          "note": "圆糯米，提前浸泡",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 300,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "咸蛋黄",
+          "name_en": "salted egg yolk",
+          "amount": 4,
+          "unit": "piece",
+          "note": "对半切",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 30,
+          "unit": "g",
+          "note": "泡发切块",
+          "optional": false
+        },
+        {
+          "name": "栗子",
+          "name_en": "chestnut",
+          "amount": 60,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        },
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 20,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "粽叶",
+          "name_en": "bamboo leaf",
+          "amount": 30,
+          "unit": "piece",
+          "note": "鲜叶或干叶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "定咸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "棉线",
+    "深锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "糯米淘洗三遍，加清水没过泡两小时，捞出沥干后拌入一半生抽、老抽与盐。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "米要泡到手指能捏碎，煮出来才软糯不夹生。",
+      "visual_cue": "米粒粒上色，盆底不见积水。"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切一厘米厚的片，加料酒、白糖、五香粉与姜末抓匀，腌半小时。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "腌透的肉煮完才有咸香，别省略这一步。",
+      "visual_cue": "肉片表面发亮，姜末裹匀。"
+    },
+    {
+      "n": 3,
+      "text": "干香菇泡发后切块，虾米用温水泡软沥干，板栗剥去外衣备用。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "香菇水别倒，可以留着拌米增香。",
+      "visual_cue": "香菇块厚实，虾米回软。"
+    },
+    {
+      "n": 4,
+      "text": "粽叶剪去硬梗，入沸水煮五分钟，捞出过凉水用布擦干。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "煮过的粽叶有韧性，包的时候不容易裂。",
+      "visual_cue": "叶片由青转深绿，摸起来柔韧带水光。"
+    },
+    {
+      "n": 5,
+      "text": "花生油下锅，炒香葱段、香菇块与虾米，倒入糯米中火翻炒三分钟，加剩余生抽拌匀。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "米先炒过再包，香味足且不易泡烂。",
+      "visual_cue": "米粒油亮松散，锅里有香菇香。"
+    },
+    {
+      "n": 6,
+      "text": "取两片粽叶叠成漏斗，填一勺糯米，放五花肉、咸蛋黄与板栗，再盖一勺糯米压实。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "米别填太满，留一指空隙给米胀。",
+      "visual_cue": "漏斗里米面平整，馅料居中。"
+    },
+    {
+      "n": 7,
+      "text": "粽叶折起包成四角形，用棉线绕两圈扎紧，逐个码进深锅。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "线扎紧不扎死，太紧米没处胀会撑破叶。",
+      "visual_cue": "四角分明，提起来不漏米。"
+    },
+    {
+      "n": 8,
+      "text": "加水没过粽子两指，大火烧开后转小火煮两个半小时，中途添热水保持水位。",
+      "time_min": 150,
+      "heat": "小火",
+      "tip": "水要一直没过粽子，干了就补开水。",
+      "visual_cue": "粽叶颜色转深，筷子能轻松插透米心。"
+    }
+  ],
+  "tips": [
+    "圆糯米比长糯米黏性足，凉了也不发硬。",
+    "咸蛋黄挑油润出沙的，掰开见红油的最好。",
+    "一次多包几个，冷藏后复热蒸透比微波好吃。"
+  ],
+  "common_mistakes": [
+    "米没泡透就下锅，煮再久米心还是硬的。",
+    "粽叶没煮直接包，叶脉一折就裂，煮时漏米。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "梅花肉",
+      "ratio": "300g 对 300g",
+      "note": "怕肥的可以用梅花肉，需多腌十分钟入味。"
+    }
+  ],
+  "variations": [
+    "泉州人包烧肉粽会加一勺卤汁进米里，成品更黑更香，配甜辣酱吃。"
+  ],
+  "serving_suggestion": "剥开趁热吃，淋一点甜辣酱或花生酱，配一碗清汤正好。",
+  "storage": "冷藏三天，复热用蒸锅蒸二十分钟至中心烫手，不要微波以免米粒发干。",
+  "nutrition_estimate": {
+    "basis": "每个约 260g",
+    "calories_kcal": 520,
+    "protein_g": 18,
+    "fat_g": 22,
+    "carbs_g": 62,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "peanut",
+    "soy",
+    "tree-nut"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉须煮至中心完全熟透，不见血水与粉红色。",
+    "糯米黏性大，老人小孩与肠胃弱者宜少量慢吃。",
+    "咸蛋黄胆固醇较高，血脂异常人群控制份量。"
+  ],
+  "origin_note": "闽南烧肉粽是泉州端午的当家味，讲究米要先用猪油与卤汁炒香，再裹五花肉、咸蛋黄与板栗，煮足两个半小时，剥开油亮黏糯，与北方甜粽完全不同路。",
+  "tags": [
+    "闽菜",
+    "泉州",
+    "烧肉粽",
+    "端午"
+  ],
+  "related_ids": [
+    "minnan-xianfan",
+    "fuzhou-guangbing"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
