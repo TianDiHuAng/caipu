@@ -1,0 +1,228 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shanghai-hongshao-dan",
+  "name": {
+    "zh": "红烧荷包蛋",
+    "en": "Red-braised Fried Eggs",
+    "original": "红烧荷包蛋"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 8,
+    "cook_min": 12,
+    "total_min": 20
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 200,
+          "unit": "g",
+          "note": "约四个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 5,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "煎蛋用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 3,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "本帮甜口",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 8,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "锅铲",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "平底锅倒植物油烧到五成热，逐个磕入鸡蛋，中小火煎成荷包蛋。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "蛋要一个一个下，锅太挤会粘成一团，形状也难看。",
+      "visual_cue": "蛋白凝固发白，边缘微微焦黄"
+    },
+    {
+      "n": 2,
+      "text": "一面煎定型后翻面再煎半分钟，蛋黄保持半流动状态盛出。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "蛋黄别煎破，后面红烧才不会流得满锅都是。",
+      "visual_cue": "两面金黄，蛋黄饱满不塌"
+    },
+    {
+      "n": 3,
+      "text": "锅中留底油，下姜丝与葱段小火煸香，烹入黄酒。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "黄酒要趁锅热沿着锅边烹进去，酒气一挥发，蛋腥味也跟着走了。",
+      "visual_cue": "锅边腾起酒气，葱段变软"
+    },
+    {
+      "n": 4,
+      "text": "加生抽、老抽、白糖与小半碗清水烧开，放回荷包蛋小火焖三分钟。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "焖的时候把汤汁往蛋上浇，味道才进得去。",
+      "visual_cue": "汤汁红亮，蛋面染上酱色"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽、白糖与小半碗清水一起烧开，再放回荷包蛋小火焖三分钟。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "焖的时候用勺子把汤汁一勺勺往蛋面上浇，味道才真正进得去。",
+      "visual_cue": "酱汁浓亮裹蛋，锅底几乎无多余汤"
+    }
+  ],
+  "tips": [
+    "煎蛋时撒一小撮盐在油里，蛋不容易粘锅也更有底味。",
+    "加两片青椒同烧，甜咸里带清香，是上海人家的家常搭法。",
+    "用鸭蛋代替鸡蛋，蛋黄更油润，红烧后特别香。"
+  ],
+  "common_mistakes": [
+    "油温太低就下蛋，蛋白摊得又薄又老，一点也不嫩。",
+    "蛋黄煎破还红烧，成品像蛋碎，卖相全无。",
+    "糖放太多又不收汁，甜得发腻，本帮的甜上口咸收口就做反了。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡蛋",
+      "substitute": "鸭蛋",
+      "ratio": "200克:200克",
+      "note": "鸭蛋腥味重，黄酒可加到十毫升。"
+    },
+    {
+      "original": "植物油",
+      "substitute": "猪油",
+      "ratio": "50毫升:40克",
+      "note": "猪油更香，煎出的蛋边更酥。"
+    }
+  ],
+  "variations": [
+    "把荷包蛋换成水煮蛋，划几刀再红烧，就是上海的红烧蛋。",
+    "加一小块冰糖同烧，成品光泽更亮，是本帮馆子的做法。"
+  ],
+  "serving_suggestion": "连汁带蛋浇在米饭上最下饭，也可作为面条的浇头。",
+  "storage": "冷藏可存一天，复热须加两勺水小火焖三分钟，微波会令蛋发韧。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 380,
+    "protein_g": 15,
+    "fat_g": 29,
+    "carbs_g": 7,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "high-protein",
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须煎至蛋白完全凝固、蛋黄熟透，避免食用流心的半熟蛋。",
+    "煎蛋时热油可能爆溅，磕蛋前须擦干蛋壳，沿锅边轻放。"
+  ],
+  "origin_note": "红烧荷包蛋是上海人家的快手菜，讲究浓油赤酱、甜咸平衡。煎得边角微焦的荷包蛋吸饱酱汁，咬开时蛋黄还是软的，拌饭一绝。老上海人做这道菜从不复杂，一勺酱油一点糖，几分钟上桌，是加班晚归时最踏实的一口。",
+  "tags": [
+    "沪菜",
+    "蛋类",
+    "红烧",
+    "家常"
+  ],
+  "related_ids": [
+    "shanghai-hongshao-rou",
+    "jiuhuang-chaodan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

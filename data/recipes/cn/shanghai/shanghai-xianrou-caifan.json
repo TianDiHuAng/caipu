@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shanghai-xianrou-caifan",
+  "name": {
+    "zh": "咸肉菜饭",
+    "en": "Salt Pork and Greens Rice",
+    "original": "咸肉菜饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 55,
+    "total_min": 75
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 450,
+          "unit": "g",
+          "note": "大米两百克煮成",
+          "optional": false
+        },
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 250,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒料用",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 15,
+          "unit": "g",
+          "note": "拌饭增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "视咸肉咸度调整",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "做米饭的米淘洗两遍后加水浸泡二十分钟，水量比平时煮饭略少一成。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "青菜会出水，水多了饭就烂，宁少不多。",
+      "visual_cue": "米粒吸水发白，水面刚没过米"
+    },
+    {
+      "n": 2,
+      "text": "咸肉切成半厘米见方的小丁，用温水泡五分钟去掉表面浮盐。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "泡一泡咸度更均匀，不然一口咸一口淡。",
+      "visual_cue": "肉丁肥瘦分明，水略发浑"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，下咸肉丁小火煸出油脂，加姜末与黄酒炒香。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "咸肉要煸出油，饭才香，但别煸干成油渣。",
+      "visual_cue": "肉丁边缘微卷，锅底渗出清亮油"
+    },
+    {
+      "n": 4,
+      "text": "青菜碎下锅大火翻炒一分钟至塌软，加盐翻匀后关火。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "青菜只炒到半熟，靠焖饭的热度熟透，才不发黄。",
+      "visual_cue": "菜叶塌软收缩，颜色深绿"
+    },
+    {
+      "n": 5,
+      "text": "把炒好的咸肉与青菜连油一起倒进煮米饭的锅里，铺平后按煮饭键。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "料铺在米上别搅拌，煮好再拌，米粒才分明。",
+      "visual_cue": "料均匀铺满米面，不见米粒露出"
+    },
+    {
+      "n": 6,
+      "text": "跳闸后焖十分钟，开盖加猪油与葱末，用饭勺翻拌均匀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "猪油最后拌入，香气最足，饭粒也更油润。",
+      "visual_cue": "饭粒油亮松散，菜与肉分布均匀"
+    }
+  ],
+  "tips": [
+    "用上海青或矮脚青菜最好，梗叶分明、出水少。",
+    "加几片香肠同煮，甜咸交织，是江南冬天的豪华版。",
+    "锅底那层微焦的锅巴最好吃，别扔，铲下来当零嘴。"
+  ],
+  "common_mistakes": [
+    "青菜一开始就和米同煮，焖到发黄发烂，一点口感都没有。",
+    "水放多了，饭变成一锅菜粥，完全没了粒感。",
+    "咸肉不泡直接下锅，成品咸得没法入口。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸肉",
+      "substitute": "香肠",
+      "ratio": "120克:120克",
+      "note": "香肠偏甜，盐可减到一克。"
+    },
+    {
+      "original": "青菜",
+      "substitute": "大白菜",
+      "ratio": "250克:250克",
+      "note": "大白菜出水多，煮饭的水须再减两成。"
+    }
+  ],
+  "variations": [
+    "改用砂锅焖，锅底能结出一层金黄锅巴，是上海人最惦记的部分。",
+    "加一勺豆瓣酱同炒咸肉，咸香里带一丝辣，更适合年轻人。"
+  ],
+  "serving_suggestion": "趁热吃最香，配一碗紫菜蛋汤就是标准的上海家常一餐。",
+  "storage": "冷藏可存两天，复热须加一勺水用蒸锅蒸十分钟，微波会令青菜发黄。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 620,
+    "protein_g": 20,
+    "fat_g": 26,
+    "carbs_g": 76,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "咸肉为腌制品，含盐量高，须先浸泡去盐并彻底加热熟透后食用。",
+    "使用电饭锅时须擦干内胆外壁再放入，避免水渍导致短路。"
+  ],
+  "origin_note": "咸肉菜饭是上海人家冬天的标配，一锅焖好菜肉饭全有。讲究的是青菜后放、猪油后拌，出锅时饭粒油亮、咸肉香透。老上海人冬天买一块咸肉挂在厨房，切几片就能焖一锅饭，简单却百吃不厌，配碗汤就是完整的一餐。",
+  "tags": [
+    "沪菜",
+    "主食",
+    "咸肉",
+    "菜饭"
+  ],
+  "related_ids": [
+    "shanghai-hongshao-rou",
+    "congyou-banmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-25T16:15:53.935Z
+> 生成时间：2026-11-25T16:26:20.499Z
 
-**总览**：工程任务 49/53；菜谱内容 2171/3274（66.3%），共 644 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2179/3274（66.6%），共 647 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（932/1339）
+### 中国菜系（940/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，132/107</summary>
 
@@ -249,18 +249,21 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>沪菜 shanghai</b> — B 级，14/38</summary>
+<details><summary><b>沪菜 shanghai</b> — B 级，22/38</summary>
 
 - [ ] `P4-shanghai/main-meat` 主菜·肉（Meat Main）目标 6，已完成 2
-- [ ] `P4-shanghai/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 1
+- [ ] `P4-shanghai/main-seafood` 主菜·海鲜（Seafood Main）目标 6，已完成 3
 - [ ] `P4-shanghai/appetizer` 前菜（Appetizer）目标 6，已完成 2
 - [ ] `P4-shanghai/snack` 小吃（Street Food）目标 6，已完成 3
 - [ ] `P4-shanghai/dessert` 甜点（Dessert）目标 6，已完成 2
-- [ ] `P4-shanghai/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
-- [ ] `P4-shanghai/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
+- [ ] `P4-shanghai/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 2
+- [ ] `P4-shanghai/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 2
 - [x] `P4-shanghai/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 1
+- [x] `P4-shanghai/soup` 汤羹（Soup）目标 0，已完成 1
 - [x] `P4-shanghai/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 - [x] `P4-shanghai/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1
+- [x] `P4-shanghai/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1
+- [x] `P4-shanghai/main-tofu` 主菜·豆制品（Tofu Main）目标 0，已完成 1
 
 </details>
 

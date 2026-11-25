@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shanghai-huangyu-geng",
+  "name": {
+    "zh": "黄鱼羹",
+    "en": "Yellow Croaker Thick Soup",
+    "original": "黄鱼羹"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "soup",
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 20,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄鱼",
+          "name_en": "yellow croaker",
+          "amount": 400,
+          "unit": "g",
+          "note": "一条，取净肉约两百克",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 25,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 60,
+          "unit": "g",
+          "note": "一个，取蛋清",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "打结，另留葱末",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "调水勾芡",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎鱼用",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅淋入",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄鱼去鳞去内脏洗净，用厨房纸吸干水分，两面各划两刀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "鱼身必须擦干，下锅才不粘皮，也不会溅油。",
+      "visual_cue": "鱼皮干爽完整，刀口整齐"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒植物油，下姜片爆香后放鱼，中火煎至两面微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "煎定型再翻面，鱼肉才不散，后面拆肉也整齐。",
+      "visual_cue": "两面结起金黄薄皮，鱼身完整"
+    },
+    {
+      "n": 3,
+      "text": "烹入黄酒，加清水与葱结，小火煮八分钟后把鱼捞出晾凉。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "汤别丢，鱼肉拆完还要倒回这锅汤里煮。",
+      "visual_cue": "汤色转白，鱼眼发白凸出"
+    },
+    {
+      "n": 4,
+      "text": "鱼稍凉后用手拆下鱼肉，仔细挑净细刺，鱼皮与骨弃去。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "拆肉时顺着鱼刺方向摸一遍，细刺最容易漏。",
+      "visual_cue": "鱼肉成小块，指腹摸不到硬刺"
+    },
+    {
+      "n": 5,
+      "text": "鱼汤滤净回锅，加香菇丝与火腿末煮三分钟，再放回鱼肉。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "鱼肉要等到最后才放回锅里，煮久了会碎成渣，汤也变浑。",
+      "visual_cue": "汤面浮起香菇丝，香气变厚"
+    },
+    {
+      "n": 6,
+      "text": "加盐与白胡椒调味，淀粉调水勾芡，淋入蛋清推成蛋花，撒葱末与香油。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "蛋清要在勾芡后淋，蛋花才浮在汤面不沉底。",
+      "visual_cue": "汤体浓滑挂勺，蛋花如雪片漂浮"
+    }
+  ],
+  "tips": [
+    "黄鱼选新鲜的，眼睛清亮、鳃色鲜红，冷冻鱼腥味重须多加姜。",
+    "拆骨时可戴上手套，既防扎手又不易漏刺。",
+    "加一勺猪油同煮，汤更浓白，是本帮老做法。"
+  ],
+  "common_mistakes": [
+    "鱼不擦干就下锅煎，鱼皮粘锅撕烂，后面全是碎肉。",
+    "拆肉时粗心漏刺，吃的时候卡喉咙，非常危险。",
+    "芡勾太厚，羹结成块，完全失去滑润的口感。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄鱼",
+      "substitute": "鲈鱼",
+      "ratio": "400克:400克",
+      "note": "鲈鱼刺少，更适合新手操作。"
+    },
+    {
+      "original": "火腿",
+      "substitute": "金华火腿片",
+      "ratio": "25克:25克",
+      "note": "咸味重，盐量须减一克。"
+    }
+  ],
+  "variations": [
+    "加一把莼菜同煮，就是江南名菜莼菜黄鱼羹，滑润清鲜。",
+    "把黄鱼换成鳜鱼，肉更细嫩，羹也更鲜甜。"
+  ],
+  "serving_suggestion": "热食最佳，作为宴席汤羹或家常配汤都合适，佐醋更提鲜。",
+  "storage": "冷藏可存一天，复热须小火加两勺水慢搅，芡会变稠需补汤。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 255,
+    "protein_g": 27,
+    "fat_g": 12,
+    "carbs_g": 8,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "鱼类须彻底加热熟透，拆刺时须仔细检查，儿童与老人食用前须再次确认无刺。",
+    "煎鱼时热油易溅，鱼身须擦干并沿锅边滑入，避免油花爆起烫伤。"
+  ],
+  "origin_note": "黄鱼羹是上海本帮菜里最见功夫的汤羹之一，源自宁波一带的黄鱼做法。鱼肉拆成小块回锅，加火腿香菇提鲜，勾薄芡淋蛋清，汤色乳白、口感滑润。老上海请客，一盅黄鱼羹端上来，讲究的是鱼肉整而不散、羹汁滑而不糊。",
+  "tags": [
+    "沪菜",
+    "汤羹",
+    "黄鱼",
+    "本帮"
+  ],
+  "related_ids": [
+    "shanghai-smoked-fish",
+    "xieke-huang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}

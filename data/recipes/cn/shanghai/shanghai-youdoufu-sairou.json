@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shanghai-youdoufu-sairou",
+  "name": {
+    "zh": "油豆腐塞肉",
+    "en": "Fried Tofu Stuffed with Minced Pork",
+    "original": "油豆腐塞肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shanghai"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "油豆腐",
+          "name_en": "fried tofu puff",
+          "amount": 250,
+          "unit": "g",
+          "note": "选方形小个的，共十二只",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 200,
+          "unit": "g",
+          "note": "三分肥七分瘦",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "葱白切末，葱绿切段",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "拌馅上劲",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "本帮甜口",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肉末放入碗中，加姜末、葱白末、黄酒、生抽与淀粉，顺一个方向搅到起胶。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "一定要顺同一个方向搅，肉馅才上劲，塞进去不会散开。",
+      "visual_cue": "肉馅发白发亮，搅动时带明显黏丝"
+    },
+    {
+      "n": 2,
+      "text": "油豆腐用筷子在一个面上戳一个小洞，把里面的豆腐瓤轻轻捏松。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洞别戳太大，皮破了煮的时候肉馅会漏出来。",
+      "visual_cue": "洞口约一厘米，豆腐皮完整不裂"
+    },
+    {
+      "n": 3,
+      "text": "用手指或小勺把肉馅一点点塞进油豆腐里，塞到八分满。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "塞八分满留出余地，肉馅受热膨胀才不撑破。",
+      "visual_cue": "油豆腐鼓起变沉，表面不见裂口"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油，下葱段与姜末小火煸香，摆入塞好的油豆腐微煎一面。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "开口朝下先煎一下，肉馅定型不易脱落。",
+      "visual_cue": "底部煎出薄薄的金黄壳，葱香和姜香一起散出来"
+    },
+    {
+      "n": 5,
+      "text": "烹入黄酒，加生抽、老抽、白糖、盐与清水至八分满，烧开后转小火烧二十分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "水别太多，烧到收汁才够入味，中途翻一次面。",
+      "visual_cue": "汤色红亮，油豆腐吸汁鼓胀"
+    },
+    {
+      "n": 6,
+      "text": "最后转大火把汤汁收到浓稠，撒上葱绿就可以出锅装盘了。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "收汁时勤推动锅子防粘，别用铲子翻动以防破皮。",
+      "visual_cue": "酱汁浓亮挂身，豆腐油光发润"
+    }
+  ],
+  "tips": [
+    "油豆腐挑皮薄空心的，塞肉才塞得进，太实心的塞不动。",
+    "肉馅里加一勺剁碎的虾仁，鲜味提升明显，是上海人家的做法。",
+    "烧的时候加两片大白菜垫底，菜吸汁比豆腐还香。"
+  ],
+  "common_mistakes": [
+    "肉馅顺着不同方向乱搅，塞进去一煮就散，汤里全是肉渣。",
+    "油豆腐洞戳太大，烧到一半肉馅全漏出来。",
+    "大火急烧，外面咸里面还是白味，豆腐皮也烧烂了。"
+  ],
+  "substitutions": [
+    {
+      "original": "油豆腐",
+      "substitute": "豆腐泡",
+      "ratio": "250克:250克",
+      "note": "两者本质相同，选小个均匀的即可。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "鸡肉馅",
+      "ratio": "200克:200克",
+      "note": "鸡肉更瘦，须多加一勺植物油防柴。"
+    }
+  ],
+  "variations": [
+    "把塞好的油豆腐放进砂锅加白菜同炖，就是上海冬天的砂锅油豆腐。",
+    "改用百叶包肉，同样红烧，口感更添豆香与韧劲。"
+  ],
+  "serving_suggestion": "连汁浇在米饭上最下饭，也可作为面浇头，汤汁拌面极香。",
+  "storage": "冷藏可存两天，复热须加两勺水小火焖八分钟，微波会令豆腐皮发硬。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 420,
+    "protein_g": 26,
+    "fat_g": 29,
+    "carbs_g": 12,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪肉馅须彻底烧熟至中心不见粉色，肉制品不要半熟食用。",
+    "处理生肉馅后须彻底清洗双手与器具，避免与熟食交叉污染。"
+  ],
+  "origin_note": "油豆腐塞肉是上海弄堂人家的经典家常菜，浓油赤酱的代表之一。油豆腐吸饱了肉汁与酱油糖色，一口咬下去先流汁再嚼肉，甜上口咸收口。老上海人做这道菜讲究肉馅要上劲、烧的时候要小火慢煨，汤汁拌饭能多吃半碗。",
+  "tags": [
+    "沪菜",
+    "豆腐",
+    "塞肉",
+    "红烧"
+  ],
+  "related_ids": [
+    "sikai-kaofu",
+    "shanghai-hongshao-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-25",
+  "updated_at": "2026-11-25"
+}
