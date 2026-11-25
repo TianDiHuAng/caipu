@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-25T15:57:07.625Z
+- 生成时间：2026-11-25T16:06:15.494Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：59 个，抽样 120 道，平均分 99
+- 覆盖菜系：59 个，抽样 121 道，平均分 99
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -135,11 +135,12 @@
 | xibei | xibei-yangrou-jiaozi | 100 | A | 无 |
 | xinjiang | xinjiang-zhuafan | 100 | A | 无 |
 | yunguai | yunguai-bamboo-tube-rice | 100 | A | 无 |
-| zhejiang | zhejiang-dongpo-doufu | 94 | A | 安全性 14/20 |
-| zhejiang | meigancai-kourou | 100 | A | 无 |
-| zhejiang | hangzhou-luya | 100 | A | 无 |
+| zhejiang | zhejiang-gancai-menrou | 93 | A | 准确性 18/25 |
+| zhejiang | ningbo-tangyuan | 100 | A | 无 |
+| zhejiang | huotui-donggua-tang | 100 | A | 无 |
+| zhejiang | zhejiang-congyou-doufu | 100 | A | 无 |
 
 ## 结论
 
-- 本批 120 道全部达到 B 级及以上，无需重写。
+- 本批 121 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。

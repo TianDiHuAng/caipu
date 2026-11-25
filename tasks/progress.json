@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:56:54.198Z",
+  "generatedAt": "2026-11-25T16:06:14.579Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 642,
     "target": 3274,
-    "actual": 2153,
-    "coverage": 0.6576053756872328
+    "actual": 2162,
+    "coverage": 0.6603543066585217
   },
   "regions": {
     "cn": [
@@ -907,7 +907,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 60,
+        "actual": 69,
         "cells": [
           {
             "category": "main-seafood",
@@ -994,19 +994,22 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "xianggu-qingcai",
               "youmen-shunsun",
-              "zhejiang-kaocai"
+              "zhejiang-kaocai",
+              "zhejiang-xuecai-dongsun",
+              "zhejiang-youmen-jiaobai"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "zhejiang-xianyadan-nangua",
               "zhejiang-xiaren-zhengdan"
             ]
           },
@@ -1014,8 +1017,9 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "zhejiang-congyou-doufu",
               "zhejiang-dongpo-doufu"
             ]
           },
@@ -1031,6 +1035,18 @@
             ]
           },
           {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 4,
+            "ids": [
+              "hangzhou-luya",
+              "sanbei-ji",
+              "zhejiang-babao-ya",
+              "zhejiang-banli-shaoji"
+            ]
+          },
+          {
             "category": "snack",
             "kind": "extra",
             "target": 0,
@@ -1042,33 +1058,35 @@
             ]
           },
           {
-            "category": "main-poultry",
-            "kind": "extra",
-            "target": 0,
-            "actual": 2,
-            "ids": [
-              "hangzhou-luya",
-              "sanbei-ji"
-            ]
-          },
-          {
             "category": "appetizer",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "liangban-muer",
-              "zhejiang-ganzha-xiangling"
+              "zhejiang-ganzha-xiangling",
+              "zhejiang-yanshui-maodou"
             ]
           },
           {
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "zhejiang-liangban-muer",
+              "zhejiang-yanshui-maodou",
               "zhejiang-zuiji"
+            ]
+          },
+          {
+            "category": "banquet",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "meigancai-kourou",
+              "zhejiang-babao-ya"
             ]
           },
           {
@@ -1078,15 +1096,6 @@
             "actual": 1,
             "ids": [
               "congbaogui"
-            ]
-          },
-          {
-            "category": "banquet",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "meigancai-kourou"
             ]
           }
         ]
