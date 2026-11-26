@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-hotteok",
+  "name": {
+    "zh": "韩式糖饼",
+    "en": "Korean Sweet Pancake",
+    "original": "Hotteok"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 105,
+    "cook_min": 10,
+    "total_min": 115
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "糯米粉",
+          "name_en": "glutinous rice flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "增加软糯",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "红豆沙",
+          "name_en": "red bean paste",
+          "amount": 150,
+          "unit": "g",
+          "note": "现成甜馅",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 10,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "发面",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 190,
+          "unit": "ml",
+          "note": "三十五度左右",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "面团和馅各半",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "增筋",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎饼用",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 20,
+          "unit": "g",
+          "note": "刷面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "平底锅",
+    "擀面杖",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温水加干酵母和十克白糖搅开，静置五分钟，水面浮起一层细泡。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "水温摸着温热就行，烫手会把酵母烫死，这一步决定了成品的口感。",
+      "visual_cue": "水面起泡，酵母激活，锅面和食材状态一目了然"
+    },
+    {
+      "n": 2,
+      "text": "面粉和糯米粉加盐和剩余白糖混匀，倒进酵母水，揉成光滑不粘手的面团。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "面团要揉到表面光滑，粘手就撒一点干粉，这一步决定了成品的口感。",
+      "visual_cue": "面团光滑，按下去回弹，颜色与质地变化清楚可见"
+    },
+    {
+      "n": 3,
+      "text": "面团盖保鲜膜放温暖处发酵一小时，涨到原来的一点五倍大。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "室温低时可以把碗放在温水盆上加速发酵。",
+      "visual_cue": "面团膨胀，内部呈蜂窝，香气和声音能说明进度"
+    },
+    {
+      "n": 4,
+      "text": "红豆沙拌入炒香的芝麻，分成二十克一个的小球，冷藏十分钟定型。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "馅球冷一点更好包，软馅容易漏，这一步决定了成品的口感。",
+      "visual_cue": "馅球圆整，不粘手，整体火候状态清楚好判断"
+    },
+    {
+      "n": 5,
+      "text": "发好的面团排气后分成八份，压扁包入馅球，收口朝下按成圆饼。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "收口一定要捏紧，煎的时候糖馅会流出来，这一步决定了成品的口感。",
+      "visual_cue": "饼坯圆整，收口紧闭，表面变化看得出来已到位"
+    },
+    {
+      "n": 6,
+      "text": "平底锅刷植物油烧到中火，饼坯下锅煎两分钟，翻面压扁再煎两分钟，出锅刷蜂蜜。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "用铲子轻压让饼变薄，中间糖馅才化得透，这一步决定了成品的口感。",
+      "visual_cue": "两面金黄，饼身微鼓，汤汁和食材状态清楚到位"
+    }
+  ],
+  "tips": [
+    "酵母水一定要先激活，直接撒进面粉里发得慢，面团容易发死。",
+    "加糯米粉是让饼皮更软糯的关键，全用面粉煎出来偏硬。",
+    "馅料别包太多，煎的时候糖液化膨胀，会从收口处流出来。",
+    "煎的时候用铲子压一压，让饼变薄受热均匀，中间才不会夹生。"
+  ],
+  "common_mistakes": [
+    "酵母用烫水和，酵母被烫死后完全发不起来，饼硬得像石头。",
+    "收口没捏紧就下锅，糖馅遇热流到锅里，饼底焦黑发苦。",
+    "火太大急着煎，外皮焦了里面还是生面，咬开一股生粉味。"
+  ],
+  "substitutions": [
+    {
+      "original": "红豆沙",
+      "substitute": "红糖",
+      "ratio": "150克:80克",
+      "note": "红糖加十克面粉拌匀，防止流得太快。"
+    },
+    {
+      "original": "糯米粉",
+      "substitute": "玉米淀粉",
+      "ratio": "60克:40克",
+      "note": "淀粉版更脆，软糯感会弱一些。"
+    }
+  ],
+  "variations": [
+    "馅里加一把碾碎的坚果，口感更丰富，咬起来有脆粒。",
+    "把红豆沙换成芝士碎和白糖，做成拉丝版糖饼，年轻人很喜欢。"
+  ],
+  "serving_suggestion": "趁热吃最好，外皮微脆内里软糯，糖馅烫口，配一杯热豆浆或咖啡都合适。",
+  "storage": "冷藏可放两天，回热用平底锅小火两面各烘一分钟，不要微波否则发硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 390,
+    "protein_g": 8,
+    "fat_g": 9,
+    "carbs_g": 68,
+    "sodium_mg": 210,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "煎饼时油温高、含糖馅料易溅，翻面时用锅盖遮挡避免烫伤。",
+    "饼须煎至中心熟透不夹生，掰开断面不见生面糊再食用。"
+  ],
+  "origin_note": "韩国冬天的街头，最暖手的就是一张刚出锅的糖饼。面团用面粉加糯米粉发出来，包进红糖或红豆馅，压扁下锅煎到两面金黄。咬开时糖液还冒着热气，甜香混着面香，是很多人学生时代的记忆。",
+  "tags": [
+    "韩国料理",
+    "小吃",
+    "糖饼",
+    "发面",
+    "街头美食"
+  ],
+  "related_ids": [
+    "korean-tteokguk",
+    "korean-bibimbap",
+    "cantonese-ye-zhi-dun-dan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

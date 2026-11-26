@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-pollo-alla-marinara",
+  "name": {
+    "zh": "意式番茄炖鸡",
+    "en": "Chicken with Tomato Sauce",
+    "original": "Pollo alla marinara"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 50,
+    "total_min": 70
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "带皮去骨，切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 10,
+          "unit": "g",
+          "note": "撕碎",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 30,
+          "unit": "g",
+          "note": "刨碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎炒",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 100,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深煎锅",
+    "木勺",
+    "菜刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成四大块，用厨房纸吸干表面水分，两面撒盐和黑胡椒。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "表面一定要擦干，下锅才能煎出金黄的皮，这一步决定了成品的口感。",
+      "visual_cue": "鸡皮干爽，盐粒均匀，锅面和食材状态一目了然"
+    },
+    {
+      "n": 2,
+      "text": "深煎锅倒橄榄油烧热，鸡皮朝下放入，中火煎五分钟到皮呈金褐色。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "煎的时候别频繁翻动，让它贴住锅底煎出油。",
+      "visual_cue": "鸡皮金黄，锅底留油，颜色与质地变化清楚可见"
+    },
+    {
+      "n": 3,
+      "text": "翻面再煎三分钟，盛出备用，锅里的鸡油留着炒蔬菜。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "鸡肉不用煎熟，后面还要和酱汁一起炖，这一步决定了成品的口感。",
+      "visual_cue": "两面微焦，肉块定型，香气和声音能说明进度"
+    },
+    {
+      "n": 4,
+      "text": "原锅下洋葱碎炒三分钟到透明，加蒜末炒半分钟，倒白葡萄酒煮到酒气散尽。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "白葡萄酒要把酒精煮挥发，否则会留酸涩味。",
+      "visual_cue": "洋葱透明，酒香转甜，整体火候状态清楚好判断"
+    },
+    {
+      "n": 5,
+      "text": "加番茄块和番茄酱翻炒，中火炖十分钟，炖到番茄塌软成糊状。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "中途用木勺压碎番茄块，酱汁更快出稠，这一步决定了成品的口感。",
+      "visual_cue": "酱汁浓稠，颜色深红，表面变化看得出来已到位"
+    },
+    {
+      "n": 6,
+      "text": "把鸡块放回锅里，转小火焖十五分钟，最后撒罗勒和帕玛森碎上桌。",
+      "time_min": 17,
+      "heat": "小火",
+      "tip": "鸡皮朝上焖，皮才不会泡软，卖相更好，这一步决定了成品的口感。",
+      "visual_cue": "鸡肉酥软，酱汁挂肉，汤汁和食材状态清楚到位"
+    }
+  ],
+  "tips": [
+    "鸡皮朝下先煎出油，这层鸡油是整道菜的香气来源，别用别的油代替。",
+    "番茄要选熟透的，捏着软的最好，酸味轻甜味足，酱汁才好吃。",
+    "炖的时候盖上锅盖留一条缝，酱汁慢慢收，味道才浓。",
+    "配意面或烤面包都合适，酱汁别浪费，蘸着面包吃最香。"
+  ],
+  "common_mistakes": [
+    "鸡肉没擦干就下锅，锅里水汽大，鸡皮煎不脆还溅油。",
+    "番茄没炒出糊就直接炖，酱汁稀得像汤，挂不住鸡肉。",
+    "小火焖的时间不够，鸡肉咬着带血丝，酱汁也没进味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600克:600克",
+      "note": "鸡胸肉易柴，焖的时间减到八分钟。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "料酒",
+      "ratio": "100毫升:80毫升",
+      "note": "料酒版少了果香，可加一小勺白糖补味。"
+    }
+  ],
+  "variations": [
+    "加一把黑橄榄和续随子，做成地中海风味的番茄炖鸡，咸鲜更足。",
+    "把鸡肉换成猪肉块或小牛肉，酱汁同样适用，炖的时间加二十分钟。"
+  ],
+  "serving_suggestion": "连锅端上桌，配一份意面或烤土豆，撒上一把新鲜罗勒，酱汁拌面特别香。",
+  "storage": "冷藏可放三天，回热时加少量清水小火炖五分钟，酱汁会重新变稠。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 430,
+    "protein_g": 34,
+    "fat_g": 26,
+    "carbs_g": 11,
+    "sodium_mg": 700,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炖到中心完全熟透、骨边不见血色，中心温度达到七十五度以上。",
+    "炖菜冷藏不超过三天，回热须彻底煮沸后再食用。"
+  ],
+  "origin_note": "在意大利南部，番茄炖鸡是最常见的家常做法之一。鸡腿肉先煎出金黄色，再和番茄、洋葱、白葡萄酒一起慢慢炖。酱汁炖得浓稠时把鸡块放回去吸味，撒上罗勒和帕玛森，一锅端上来配面包就能吃饱。",
+  "tags": [
+    "意大利菜",
+    "炖菜",
+    "鸡腿肉",
+    "番茄",
+    "主菜"
+  ],
+  "related_ids": [
+    "italian-chicken-parmesan",
+    "aglio-e-olio",
+    "french-sauce-bechamel"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
