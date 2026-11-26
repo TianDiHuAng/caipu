@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-kartoffelpuffer",
+  "name": {
+    "zh": "德式土豆煎饼",
+    "en": "Potato Pancakes",
+    "original": "Kartoffelpuffer"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 34,
+    "cook_min": 15,
+    "total_min": 49
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 700,
+          "unit": "g",
+          "note": "粉质土豆，擦细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "擦成细末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "增稠粘结",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "煎饼用油",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "擦丝器",
+    "干净纱布",
+    "平底锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆去皮擦成细丝，擦好后立刻泡进冷水里防氧化发黑。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "土豆一离开水就开始变灰，泡着擦完再处理。",
+      "visual_cue": "薯丝雪白，水略发浑，很有食欲"
+    },
+    {
+      "n": 2,
+      "text": "薯丝装进干净纱布，用力拧出水分，拧到几乎挤不出水。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "水挤得越干，煎出来越脆，这是成败关键。",
+      "visual_cue": "薯丝干爽，纱布挤不出水，感觉清爽"
+    },
+    {
+      "n": 3,
+      "text": "拧出的水静置三分钟，倒掉上层清水，留下杯底那层白色沉淀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "杯底那层白色沉淀是天然粘合剂，比多加面粉更管用。",
+      "visual_cue": "碗底沉出白色浆层，火候刚好"
+    },
+    {
+      "n": 4,
+      "text": "薯丝倒进大碗，加洋葱末、鸡蛋、面粉与杯底的白色沉淀一起拌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "鸡蛋先打散再倒，饼糊才拌得均匀不起团。",
+      "visual_cue": "糊体黏稠，挂着薯丝，让人安心"
+    },
+    {
+      "n": 5,
+      "text": "加盐、黑胡椒与白糖拌匀，静置五分钟让味道渗进去。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "拌好别马上下锅，静置一会儿糊体更紧实。",
+      "visual_cue": "糊体收紧，尝着咸鲜，看着舒服"
+    },
+    {
+      "n": 6,
+      "text": "平底锅倒一半植物油，中火烧到筷子插进去冒小泡。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "油温不够饼会吸油，太高外面焦里面生。",
+      "visual_cue": "油面微动，筷子起泡，状态正好"
+    },
+    {
+      "n": 7,
+      "text": "舀一勺糊摊成八厘米圆饼，用铲背压到一厘米厚。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "压薄一点熟得更快，太厚中间容易发黏。",
+      "visual_cue": "饼边定型，油花翻起，很有食欲"
+    },
+    {
+      "n": 8,
+      "text": "两面各煎三分钟到金黄酥脆，盛出放厨房纸沥油。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "一面定型再翻面，急着翻动整张饼就散了。",
+      "visual_cue": "两面金黄，边缘起脆皮，感觉清爽"
+    }
+  ],
+  "tips": [
+    "德式土豆煎饼分粗细两版，这版用细丝，成品边缘更脆。",
+    "配苹果酱是标准吃法，甜酸味压住油。",
+    "拌好的糊要马上煎，放久会出水变稀。"
+  ],
+  "common_mistakes": [
+    "薯丝没挤干水，下锅就炸成一团油沫，饼软塌塌。",
+    "油温太低就下锅，饼吸饱油，咬着发腻。",
+    "糊调得太稀，摊下去摊不开，翻面全碎。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡蛋",
+      "substitute": "土豆淀粉",
+      "ratio": "100克:40克",
+      "note": "不加蛋的版本更脆，但翻面时容易散，要煎小张。"
+    },
+    {
+      "original": "面粉",
+      "substitute": "土豆淀粉",
+      "ratio": "30克:25克",
+      "note": "土豆淀粉版更轻盈，脆度也更持久。"
+    }
+  ],
+  "variations": [
+    "糊里拌一把小葱末，香气更冲，配啤酒最合适。",
+    "加一小勺肉桂粉，甜咸之间多一层暖香，秋冬吃很舒服。"
+  ],
+  "serving_suggestion": "趁热装盘，配一大勺苹果酱和一小碟酸奶油。",
+  "storage": "冷藏可存两天，复热用平底锅干煎两分钟，别用微波炉会软。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 440,
+    "protein_g": 10,
+    "fat_g": 24,
+    "carbs_g": 48,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "含鸡蛋须煎至两面金黄、中心完全熟透；煎制时油温较高，注意溅油烫伤。"
+  ],
+  "origin_note": "Kartoffelpuffer 是德国集市和圣诞市场上的现煎小吃，土豆擦丝挤干水后拌蛋和面粉，下锅煎成金黄脆饼。摊主一般会问一句要苹果酱还是蒜酱，甜咸两派各有拥趸。",
+  "tags": [
+    "德国菜",
+    "早餐",
+    "土豆",
+    "煎饼",
+    "鸡蛋"
+  ],
+  "related_ids": [
+    "german-brathendl",
+    "german-kaesespaetzle",
+    "german-frikadellen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

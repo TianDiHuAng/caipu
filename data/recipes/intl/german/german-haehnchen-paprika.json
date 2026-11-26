@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-haehnchen-paprika",
+  "name": {
+    "zh": "德式红椒炖鸡",
+    "en": "Chicken with Paprika",
+    "original": "Hähnchengeschnetzeltes mit Paprika"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 21,
+    "cook_min": 34,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "去骨切条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 300,
+          "unit": "g",
+          "note": "红黄各半，切条",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎炒用",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 15,
+          "unit": "g",
+          "note": "收汁增稠",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 6,
+          "unit": "g",
+          "note": "甜椒粉",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炖煮用",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 80,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "木铲",
+    "砧板",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉去骨切成两厘米宽的条，用厨房纸吸干表面水分。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "表面干爽下锅才上色，湿的下锅只会出水。",
+      "visual_cue": "肉条干爽，切口整齐，状态正好"
+    },
+    {
+      "n": 2,
+      "text": "肉条撒一半盐与黑胡椒抓匀，静置十分钟入底味。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "腌十分钟就够，时间久了肉会出水变柴。",
+      "visual_cue": "肉条泛盐光，手感发黏，很有食欲"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒一半植物油烧热，肉条平铺下锅煎三分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "别一次倒太多，摊得太挤就变成煮肉了。",
+      "visual_cue": "底面金黄，锅底起焦香，感觉清爽"
+    },
+    {
+      "n": 4,
+      "text": "翻面再煎两分钟，盛出备用，锅底焦香别洗掉。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "锅底那层褐色是香味，等下用高汤化开就是底味。",
+      "visual_cue": "两面微黄，锅底留香，火候刚好"
+    },
+    {
+      "n": 5,
+      "text": "原锅补油，下洋葱丝与蒜末小火炒到透明出香。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "蒜末最后再放，早放容易在锅底烧焦。",
+      "visual_cue": "洋葱透明，蒜香浮起，让人安心"
+    },
+    {
+      "n": 6,
+      "text": "加甜椒条与口蘑片，中火翻炒四分钟到略软出水。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "甜椒别炒太久，留点脆感口感才不闷。",
+      "visual_cue": "甜椒变软，蘑菇收紧，看着舒服"
+    },
+    {
+      "n": 7,
+      "text": "撒面粉与红椒粉翻匀，倒高汤搅开锅底的焦香物。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "红椒粉遇油出红，翻十秒就要加汤，否则发苦。",
+      "visual_cue": "汤汁泛红，锅底干净，状态正好"
+    },
+    {
+      "n": 8,
+      "text": "鸡肉回锅小火炖八分钟，倒淡奶油煮到汤汁浓稠。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "奶油最后放，久煮会分层，汤汁看着发花。",
+      "visual_cue": "汤汁挂勺，颜色奶红，很有食欲"
+    },
+    {
+      "n": 9,
+      "text": "加剩下的盐与黑胡椒调味，撒欧芹碎盛盘上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "奶油让咸味变钝，尝过再补盐，别一次加足。",
+      "visual_cue": "酱汁油亮，香草点缀，感觉清爽"
+    }
+  ],
+  "tips": [
+    "红椒炖鸡是德国东部的家常菜，甜椒粉的用量很随意。",
+    "配米饭、面条或土豆丸子都合适，汤汁别收太干。",
+    "用鸡腿肉比鸡胸更嫩，久炖也不干。"
+  ],
+  "common_mistakes": [
+    "鸡肉没吸干水就下锅，煎出来一锅白汤，完全不上色。",
+    "红椒粉和蒜末一起早放，炒到最后带焦苦味。",
+    "淡奶油大火煮，油水分离，汤汁看着像渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "淡奶油",
+      "substitute": "酸奶",
+      "ratio": "80毫升:100克",
+      "note": "酸奶版须关火后加，一煮就结块。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600克:600克",
+      "note": "鸡胸版煎的时间减一分，炖的时间别超五分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺番茄泥同炖，颜色更红，酸味更开胃。",
+    "放几片培根同煎，烟熏味和甜椒粉很搭，配面条最好。"
+  ],
+  "serving_suggestion": "盛深盘上桌，配黄油面条或土豆丸子，汤汁浇在面上。",
+  "storage": "冷藏可存三天，冷冻可存一个月，复热时补少量高汤调开。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 40,
+    "fat_g": 30,
+    "carbs_g": 18,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须彻底加热至中心不再泛粉，汤汁须滚沸；含乳与麸质可能，乳糖不耐者可用酸奶替代。"
+  ],
+  "origin_note": "Hähnchengeschnetzeltes mit Paprika 在德国是食堂和家庭都常见的菜，鸡腿肉切条煎香，与甜椒、蘑菇同炖，最后用淡奶油收成浅红的酱汁。配面条吃最受欢迎。",
+  "tags": [
+    "德国菜",
+    "主菜",
+    "鸡肉",
+    "甜椒",
+    "奶油"
+  ],
+  "related_ids": [
+    "german-schweinebraten",
+    "german-kaesespaetzle",
+    "german-sauerkraut"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

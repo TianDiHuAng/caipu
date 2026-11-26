@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-26T08:05:50.831Z
+- 生成时间：2026-11-26T09:03:03.931Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 130 道，平均分 99
 - 需重写（C/D）：0 道
@@ -54,8 +54,8 @@
 | fujian | minnan-jiangmuya | 100 | A | 无 |
 | fujian | fujian-honggu-dun-jitui | 100 | A | 无 |
 | fujian | fujian-jiangyoushui-youyu | 100 | A | 无 |
-| german | german-linsensuppe | 93 | A | 准确性 18/25 |
-| german | german-kaesespaetzle | 100 | A | 无 |
+| german | german-hefezopf | 93 | A | 准确性 18/25 |
+| german | german-kartoffelsuppe | 100 | A | 无 |
 | greek | greek-gemista | 100 | A | 无 |
 | hakka | hakka-dongsun-paigu-tang | 100 | A | 无 |
 | halal-cn | halal-cn-niurou-chaomian | 100 | A | 无 |

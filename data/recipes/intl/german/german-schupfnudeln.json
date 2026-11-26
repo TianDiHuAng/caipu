@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-schupfnudeln",
+  "name": {
+    "zh": "德式土豆面疙瘩",
+    "en": "Potato Noodles",
+    "original": "Schupfnudeln"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 34,
+    "cook_min": 51,
+    "total_min": 85
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 700,
+          "unit": "g",
+          "note": "粉质土豆，煮后压泥",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 150,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "一个蛋黄",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "煎香用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "防粘",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "和面与煮制",
+          "optional": false
+        },
+        {
+          "name": "肉豆蔻",
+          "name_en": "nutmeg",
+          "amount": 1,
+          "unit": "g",
+          "note": "少许",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "土豆压泥器",
+    "案板",
+    "平底锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆带皮冷水下锅，水开后中火煮二十五分钟到软透。",
+      "time_min": 27,
+      "heat": "中火",
+      "tip": "粉质土豆做出的疙瘩才松软，脆土豆会发硬。",
+      "visual_cue": "表皮微裂，签子一插就透，很有食欲"
+    },
+    {
+      "n": 2,
+      "text": "趁热剥皮，用压泥器压成细腻的薯泥，摊开晾五分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "薯泥太烫会把蛋黄烫熟，晾到温热再拌最好。",
+      "visual_cue": "薯泥细腻，无颗粒结块，感觉清爽"
+    },
+    {
+      "n": 3,
+      "text": "薯泥加蛋黄、面粉、盐与肉豆蔻，用手揉成柔软面团。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "面粉别一次加足，面团能成团不粘手就够。",
+      "visual_cue": "面团柔软，不粘手不裂，火候刚好"
+    },
+    {
+      "n": 4,
+      "text": "面团搓成两厘米粗的长条，切成四厘米长的小段。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "切一段就盖一块湿布，表面吹干会开裂。",
+      "visual_cue": "小段粗细一致，切口平整，让人安心"
+    },
+    {
+      "n": 5,
+      "text": "每段在手心搓成中间粗两头尖的橄榄形，摆开备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "搓的时候轻一点，压太实煮出来会发硬。",
+      "visual_cue": "形状均匀，表面光滑，看着舒服"
+    },
+    {
+      "n": 6,
+      "text": "汤锅烧开水加盐，下面疙瘩煮到全部浮起再多煮两分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "浮起来不算熟，多煮两分钟中心才透。",
+      "visual_cue": "疙瘩浮面，水微浑，状态正好"
+    },
+    {
+      "n": 7,
+      "text": "捞出沥水，平底锅放黄油与植物油，下洋葱丝炒香。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "黄油加油一起用，奶香有了还不容易焦。",
+      "visual_cue": "洋葱透明，锅里起奶香，很有食欲"
+    },
+    {
+      "n": 8,
+      "text": "倒进面疙瘩中火煎六分钟，翻面煎到两面金黄带脆皮。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "下锅先别翻，等底面结壳再动，才不粘锅。",
+      "visual_cue": "两面金黄，边缘起脆壳，感觉清爽"
+    },
+    {
+      "n": 9,
+      "text": "撒盐与黑胡椒翻匀，连锅端上桌配酸菜一起吃。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "配酸菜是斯瓦本地区的标准吃法，酸味解掉黄油腻。",
+      "visual_cue": "表面焦香，油光匀亮，火候刚好"
+    }
+  ],
+  "tips": [
+    "土豆面疙瘩是德国南部的家常主食，形状像小橄榄。",
+    "煮好可以直接拌酸菜吃，也可以煎香后当配菜。",
+    "面团里加一点土豆淀粉，疙瘩更挺，煮的时候不容易散。"
+  ],
+  "common_mistakes": [
+    "土豆泥没晾就拌蛋黄，蛋黄结块，面团里全是黄点。",
+    "面粉加太多，疙瘩煮出来硬得像面棍。",
+    "煮好直接下锅不沥水，煎的时候油花四溅还粘锅。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡蛋",
+      "substitute": "土豆淀粉",
+      "ratio": "50克:30克",
+      "note": "不加蛋的版本要补一勺淀粉，否则面团发散。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "30克:25毫升",
+      "note": "植物油版少了奶香，可加一瓣蒜同煎补味。"
+    }
+  ],
+  "variations": [
+    "煎好后撒一把奶酪碎进烤箱烤五分钟，焗成奶酪面疙瘩。",
+    "拌入炒香的培根和洋葱，做成带肉的一锅饭，更顶饱。"
+  ],
+  "serving_suggestion": "装盘配德式酸菜和烤猪排，或直接拌酸菜当主食。",
+  "storage": "煮好未煎的可冷藏两天、冷冻一个月；煎过的冷藏一天，复热用平底锅回脆。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 14,
+    "fat_g": 18,
+    "carbs_g": 68,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "含鸡蛋与麸质，鸡蛋须彻底加热至完全熟透；煎制时油温较高，注意防溅油烫伤。"
+  ],
+  "origin_note": "Schupfnudeln 是德国南部与奥地利的家常主食，用煮熟的土豆泥和面粉搓成两头尖的小条。煮好再用黄油煎出脆皮，配酸菜或炖肉吃，是斯瓦本地区的日常午饭。",
+  "tags": [
+    "德国菜",
+    "主食",
+    "土豆",
+    "面条",
+    "黄油"
+  ],
+  "related_ids": [
+    "german-kaesespaetzle",
+    "german-sauerkraut",
+    "german-schweinebraten"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

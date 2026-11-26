@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:06:18.278Z",
+  "generatedAt": "2026-11-26T09:03:11.422Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 653,
+    "cells": 655,
     "target": 3274,
-    "actual": 2340,
-    "coverage": 0.7147220525351252
+    "actual": 2348,
+    "coverage": 0.7171655467318265
   },
   "regions": {
     "cn": [
@@ -5809,7 +5809,7 @@
         "en": "German",
         "tier": "B",
         "target": 38,
-        "actual": 28,
+        "actual": 36,
         "cells": [
           {
             "category": "main-meat",
@@ -5853,8 +5853,9 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "german-bohnensalat",
               "german-cucumber-salad",
               "german-kartoffelsalat",
               "german-krautsalat"
@@ -5864,9 +5865,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "apple-strudel",
+              "german-apfelkompott",
               "german-apfelkuchen",
               "german-kaiserschmarrn",
               "german-milchreis"
@@ -5876,17 +5878,40 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "german-kaesespaetzle"
+              "german-kaesespaetzle",
+              "german-rotkohl"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "german-bauernfruehstueck"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "german-brathendl",
+              "german-haehnchen-paprika"
+            ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "german-hefezopf",
+              "german-kartoffelpuffer"
+            ]
           },
           {
             "category": "cold-dish",
@@ -5909,21 +5934,21 @@
             ]
           },
           {
-            "category": "main-poultry",
+            "category": "snack",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "german-brathendl"
+              "german-flammkuchen"
             ]
           },
           {
-            "category": "breakfast",
+            "category": "staple-noodle",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "german-hefezopf"
+              "german-schupfnudeln"
             ]
           }
         ]

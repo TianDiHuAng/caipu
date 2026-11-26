@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-bauernfruehstueck",
+  "name": {
+    "zh": "德式农家早餐",
+    "en": "Farmers Breakfast",
+    "original": "Bauernfrühstück"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 14,
+    "cook_min": 31,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 600,
+          "unit": "g",
+          "note": "煮熟，切厚片",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 200,
+          "unit": "g",
+          "note": "四个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "煎土豆用",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "防粘",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "木铲",
+    "削皮刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "熟土豆切成八毫米厚的片，太薄容易煎碎，太厚不入味。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "用前一天剩的土豆最好，水分少，煎得更香。",
+      "visual_cue": "薯片厚薄一致，边缘干爽，火候刚好"
+    },
+    {
+      "n": 2,
+      "text": "香肠切成小片，洋葱切细丝，小葱切成翠绿葱花。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香肠切薄一点，煎的时候卷边出油更快。",
+      "visual_cue": "配料切好分放，颜色分明，让人安心"
+    },
+    {
+      "n": 3,
+      "text": "平底锅放黄油与植物油，中火化开后下洋葱丝。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "黄油加一点植物油，奶香有了还不容易烧焦。",
+      "visual_cue": "黄油化开，洋葱开始透明，看着舒服"
+    },
+    {
+      "n": 4,
+      "text": "洋葱炒到发软出香，倒入土豆片摊平不动煎三分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "摊平后别急着翻，让它结出一层焦壳才好吃。",
+      "visual_cue": "薯片底面结壳，香气冒出，状态正好"
+    },
+    {
+      "n": 5,
+      "text": "翻面再煎三分钟，撒盐与黑胡椒，让薯片均匀入味。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "分两次翻，一次翻一半，碎得少也翻得更匀。",
+      "visual_cue": "两面焦黄，薯片边缘发脆，很有食欲"
+    },
+    {
+      "n": 6,
+      "text": "把土豆拨到锅边，空出中间下香肠片煎出红油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香肠单独煎出油，整锅味道都会更浓。",
+      "visual_cue": "香肠卷边，油色发红，感觉清爽"
+    },
+    {
+      "n": 7,
+      "text": "全部翻拌均匀，把锅里的料摊平成一层准备倒蛋液。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "摊平能让蛋液均匀铺开，熟的程度才一致。",
+      "visual_cue": "料铺平，锅底冒香，火候刚好"
+    },
+    {
+      "n": 8,
+      "text": "鸡蛋打散加少量盐，顺锅边淋入，小火烘到底部凝固。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "小火慢烘，蛋才嫩，火大底部焦了上边还稀。",
+      "visual_cue": "蛋液凝成软块，边缘微鼓，让人安心"
+    },
+    {
+      "n": 9,
+      "text": "用木铲切成大块翻拌，撒葱花，趁热连锅端上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蛋液八成熟就关火，余温会继续加热，吃起来最嫩。",
+      "visual_cue": "蛋块金黄，葱花翠绿，看着舒服"
+    }
+  ],
+  "tips": [
+    "这道菜原意是把前一晚剩的土豆和香肠变成早餐，材料都能替换。",
+    "配一碟腌黄瓜和一杯咖啡，就是德式乡下的标准早饭。",
+    "土豆要用煮熟的，生土豆下锅很难煎透。"
+  ],
+  "common_mistakes": [
+    "土豆刚煮好还烫就切，一切就散成泥。",
+    "大火烘蛋，底部焦黑，上面还是流动的蛋液。",
+    "香肠和土豆一起下锅，香肠煎老了土豆还没上色。"
+  ],
+  "substitutions": [
+    {
+      "original": "香肠",
+      "substitute": "火腿",
+      "ratio": "150克:130克",
+      "note": "火腿版更快熟，盐减两克即可。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "30克:30毫升",
+      "note": "全植物油版少了奶香，可加一瓣蒜增香。"
+    }
+  ],
+  "variations": [
+    "加一把蘑菇片同煎，鲜味更足，口感也更丰富。",
+    "最后撒一把芝士碎进烤箱烤三分钟，做成焗版更浓郁。"
+  ],
+  "serving_suggestion": "连锅端上桌，配黑麦面包、腌黄瓜和一杯热咖啡。",
+  "storage": "冷藏可存一天，复热用平底锅小火回煎，别用微波炉会出水。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 22,
+    "fat_g": 28,
+    "carbs_g": 36,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须炒至完全凝固熟透，不要留流动蛋液；含蛋与乳制品，剩菜须冷藏并彻底复热。"
+  ],
+  "origin_note": "Bauernfrühstück 直译是农夫早餐，起源就是把前一晚剩下的煮土豆切片，和香肠、洋葱一起煎香，最后倒蛋液烘成一大块。德国农家一早下地前吃一盘，能撑到下午。",
+  "tags": [
+    "德国菜",
+    "早餐",
+    "土豆",
+    "鸡蛋",
+    "香肠"
+  ],
+  "related_ids": [
+    "german-kartoffelsuppe",
+    "german-krautsalat",
+    "german-frikadellen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

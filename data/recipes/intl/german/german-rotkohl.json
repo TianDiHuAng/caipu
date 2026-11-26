@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-rotkohl",
+  "name": {
+    "zh": "德式紫甘蓝",
+    "en": "Braised Red Cabbage",
+    "original": "Rotkohl"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 14,
+    "cook_min": 70,
+    "total_min": 84
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "sweet",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "紫甘蓝",
+          "name_en": "red cabbage",
+          "amount": 900,
+          "unit": "g",
+          "note": "半颗，切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 200,
+          "unit": "g",
+          "note": "去皮切小丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒底用",
+          "optional": false
+        },
+        {
+          "name": "红糖",
+          "name_en": "brown sugar",
+          "amount": 25,
+          "unit": "g",
+          "note": "上色提甜",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 40,
+          "unit": "ml",
+          "note": "酸味来源",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "清水亦可",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "削皮刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "紫甘蓝去掉外层老叶与硬芯，切成三毫米宽的细丝。",
+      "time_min": 14,
+      "heat": "无火",
+      "tip": "硬芯不切掉，炖两小时还是咬着发硬，口感全毁。",
+      "visual_cue": "菜丝均匀，颜色深紫，看着舒服"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅放黄油，小火化开后下洋葱丝炒到发软。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "黄油别烧到冒烟，化开就下洋葱，否则发苦。",
+      "visual_cue": "洋葱透明，锅里奶香，状态正好"
+    },
+    {
+      "n": 3,
+      "text": "加苹果丁翻炒两分钟，让果香慢慢混进洋葱里。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "苹果炖到化，甜味自然，能压住甘蓝的涩。",
+      "visual_cue": "苹果微软，锅底微甜，很有食欲"
+    },
+    {
+      "n": 4,
+      "text": "倒入所有菜丝，中火翻炒五分钟到体积缩一半。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "一开始锅满得快溢出来，翻两遍就塌下去了。",
+      "visual_cue": "菜丝变软，体积大幅缩小，感觉清爽"
+    },
+    {
+      "n": 5,
+      "text": "撒入红糖翻炒均匀，让每根菜丝都染上一层焦糖色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "糖下锅容易糊，翻匀就马上加醋，别停手。",
+      "visual_cue": "菜丝泛红，锅底发亮，火候刚好"
+    },
+    {
+      "n": 6,
+      "text": "沿锅边淋入香醋翻匀，醋酸遇热立刻冒起一阵白汽。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "醋分两次放，一半现在炖，一半起锅前补酸。",
+      "visual_cue": "白汽升起，酸香明显，让人安心"
+    },
+    {
+      "n": 7,
+      "text": "倒高汤放香叶，小火盖盖炖四十分钟，中途翻两次。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "火小到锅里只冒细泡，炖出来的菜才软而不烂。",
+      "visual_cue": "汤汁发紫，菜丝软塌，看着舒服"
+    },
+    {
+      "n": 8,
+      "text": "开盖收汁五分钟，加盐与黑胡椒，补剩下的香醋。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "起锅前补的这点醋是活的酸，香气最冲。",
+      "visual_cue": "汁水收浓，颜色油亮，状态正好"
+    }
+  ],
+  "tips": [
+    "硬芯不切掉，炖两小时还是咬着发硬，口感全毁。",
+    "炖的时间越长越好吃，隔夜复热味道更浓。",
+    "加一勺果酱同炖是德国家庭的隐藏做法，果香更足。"
+  ],
+  "common_mistakes": [
+    "用铁锅炖，酸性一遇铁整锅变蓝黑，还带金属味。",
+    "醋放得太晚，甘蓝炖不软，咬着发硬。",
+    "红糖下锅后没马上翻，糖焦在锅底带苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "30克:25毫升",
+      "note": "植物油版少了奶香，适合不吃乳制品的人。"
+    },
+    {
+      "original": "苹果",
+      "substitute": "梨",
+      "ratio": "200克:200克",
+      "note": "梨的甜味更清，酸味略淡，醋要补足。"
+    }
+  ],
+  "variations": [
+    "加几片培根同炖，烟熏味和酸甜味撞在一起很香。",
+    "放一小勺越橘果酱，北欧版做法，配野味最合适。"
+  ],
+  "serving_suggestion": "盛深盘上桌，配烤猪肩肉、土豆丸子和一杯冰啤酒。",
+  "storage": "冷藏可存四天，冷冻可存一个月，复热时加少量高汤防止糊底。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 180,
+    "protein_g": 4,
+    "fat_g": 7,
+    "carbs_g": 26,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "炖菜须充分加热至汤汁滚沸；含乳制品与麸质可能，乳糖不耐者可用植物油替代黄油。"
+  ],
+  "origin_note": "Rotkohl 是德国圣诞餐桌上的常客，紫甘蓝切丝与苹果、红糖、香醋一起慢炖。成品酸甜柔润，颜色红得发亮，专门用来配烤鹅和烤猪肩肉这种重油的主菜。",
+  "tags": [
+    "德国菜",
+    "配菜",
+    "紫甘蓝",
+    "苹果",
+    "慢炖"
+  ],
+  "related_ids": [
+    "german-schweinebraten",
+    "german-sauerkraut",
+    "german-kartoffelsuppe"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
