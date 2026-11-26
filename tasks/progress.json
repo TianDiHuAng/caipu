@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:38:29.049Z",
+  "generatedAt": "2026-11-26T10:15:14.509Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 657,
+    "cells": 658,
     "target": 3274,
-    "actual": 2356,
-    "coverage": 0.7196090409285278
+    "actual": 2364,
+    "coverage": 0.722052535125229
   },
   "regions": {
     "cn": [
@@ -2920,14 +2920,15 @@
         "en": "Chinese Halal",
         "tier": "B",
         "target": 38,
-        "actual": 17,
+        "actual": 25,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 7,
+            "actual": 8,
             "ids": [
+              "halal-cn-congbao-yangrou",
               "halal-cn-hongshao-niurou",
               "halal-cn-hongshao-yangrou",
               "halal-cn-lamb-skewers",
@@ -2941,18 +2942,20 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "halal-cn-niurou-chaomian",
-              "halal-cn-niurou-lamian"
+              "halal-cn-niurou-lamian",
+              "halal-cn-yangrou-huimian"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "halal-cn-donggua-yangrou-tang",
               "halal-cn-niurou-huntun",
               "halal-cn-niurou-wanzi-tang",
               "shuipen-yangrou"
@@ -2962,10 +2965,12 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "halal-cn-lamb-skewers",
               "halal-cn-niurou-huntun",
+              "halal-cn-niurou-xianbing",
+              "halal-cn-yangrou-jiaozi",
               "halal-cn-youxiang"
             ]
           },
@@ -2973,17 +2978,20 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "halal-cn-shouzhua-yangrou"
+              "halal-cn-shouzhua-yangrou",
+              "halal-cn-yangrou-dun-fentiao"
             ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "halal-cn-cu-liu-baicai"
+            ]
           },
           {
             "category": "main-egg",
@@ -2991,6 +2999,15 @@
             "target": 4,
             "actual": 0,
             "ids": []
+          },
+          {
+            "category": "cold-dish",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "halal-cn-baiqie-yangrou"
+            ]
           },
           {
             "category": "main-poultry",

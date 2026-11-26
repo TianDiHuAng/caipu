@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-yangrou-huimian",
+  "name": {
+    "zh": "羊肉烩面",
+    "en": "Lamb Braised Noodles",
+    "original": "羊肉烩面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 51,
+    "cook_min": 80,
+    "total_min": 131
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 350,
+          "unit": "g",
+          "note": "宽面片",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 350,
+          "unit": "g",
+          "note": "带筋，切小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 60,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 50,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "去膻",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "汤底调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去膻",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "炖汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "锅铲",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉块泡水半小时去血水，捞出沥干备用即可。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "泡过的羊肉炖出来汤不浑，膻味也淡一半。",
+      "visual_cue": "肉色转白，水底见血丝，一目了然"
+    },
+    {
+      "n": 2,
+      "text": "粉丝用温水泡十五分钟到软，剪成巴掌长的段。",
+      "time_min": 17,
+      "heat": "无火",
+      "tip": "粉丝剪短一点，舀起来才不缠成一团。",
+      "visual_cue": "粉丝透明柔软，能弯折，火候正好"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放植物油烧热，下姜片、葱段、八角和花椒小火煸香。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "香料小火煸，油温太高会立刻发苦，这一步别省。",
+      "visual_cue": "香料浮起，油面起细泡，状态到位"
+    },
+    {
+      "n": 4,
+      "text": "倒入羊肉块中火翻炒五分钟，把表面炒到微焦收紧。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "羊肉先炒出油，汤才白，膻味也压得住。",
+      "visual_cue": "肉块上色，锅底见油，颜色清爽"
+    },
+    {
+      "n": 5,
+      "text": "沿锅边淋生抽炒匀，加清水一千八百毫升大火烧开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "加热水不加冷水，冷水会让肉块骤缩发硬。",
+      "visual_cue": "汤色转深，热气直冒，看着就有食欲"
+    },
+    {
+      "n": 6,
+      "text": "撇净浮沫后转小火炖五十分钟，到羊肉用筷子能插透。",
+      "time_min": 52,
+      "heat": "小火",
+      "tip": "汤面只冒小泡最好，滚太猛汤会浑，这一步别省。",
+      "visual_cue": "汤色乳白，肉块轻晃，香气已出"
+    },
+    {
+      "n": 7,
+      "text": "另起锅烧水，宽面条下锅煮到八分熟捞出即可。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "面条煮八分熟就好，剩两分熟交给汤锅。",
+      "visual_cue": "面条浮起，边缘略透明，层次分明"
+    },
+    {
+      "n": 8,
+      "text": "面片放进羊肉汤里，加粉丝和盐中火烩三分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "烩的过程让面条吸汤，味才进得去，这一步别省。",
+      "visual_cue": "面条膨胀，汤汁略稠，火候刚好"
+    },
+    {
+      "n": 9,
+      "text": "撒白胡椒和香菜末，连汤带面盛进大碗上桌即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "白胡椒最后放，香味才冲得出来，这一步别省。",
+      "visual_cue": "汤面浮香菜，面条宽厚，一目了然"
+    }
+  ],
+  "tips": [
+    "烩面的关键是汤，羊汤炖得白，面条才有味道。",
+    "面条别煮太软，烩三分钟刚好，泡久了就糊。",
+    "配一碟蒜和一点辣椒油，是河南清真馆子的标准吃法。"
+  ],
+  "common_mistakes": [
+    "羊肉没炒就直接炖，汤色发灰，膻味压不住。",
+    "面条提前煮到全熟，烩完软塌没咬劲。",
+    "汤滚着大火炖一小时，汤浑得像面糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉块",
+      "substitute": "牛肉",
+      "ratio": "350克:350克",
+      "note": "牛肉版炖四十分钟就够，加一片山楂更容易烂。"
+    },
+    {
+      "original": "面条",
+      "substitute": "手擀面",
+      "ratio": "350克:380克",
+      "note": "手擀面更耐煮，烩五分钟也不烂。"
+    }
+  ],
+  "variations": [
+    "加一把豆皮和海带丝一起烩，口感层次更丰富。",
+    "汤里放两个番茄同炖，酸香开胃，孩子更爱吃。"
+  ],
+  "serving_suggestion": "用大碗盛面，浇足羊汤，配糖蒜和辣椒油一起吃。",
+  "storage": "汤和面分开冷藏可存两天；复热时汤先烧开再放面，别整锅回锅。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 640,
+    "protein_g": 36,
+    "fat_g": 22,
+    "carbs_g": 74,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "羊肉须炖至完全熟透无血色；面片与粉丝须煮透，汤底复热时须彻底煮沸。"
+  ],
+  "origin_note": "羊肉烩面是清真面馆的看家面。羊骨羊肉小火炖出白汤，宽面片煮到八分熟再下汤锅烩一遍，加粉丝和香菜。面吸饱了羊汤，一口下去又滑又厚，冬天吃完浑身发热。",
+  "tags": [
+    "清真菜",
+    "主食",
+    "面条",
+    "羊肉",
+    "烩煮"
+  ],
+  "related_ids": [
+    "halal-cn-niurou-lamian",
+    "halal-cn-niurou-chaomian",
+    "shuipen-yangrou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

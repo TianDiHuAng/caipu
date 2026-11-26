@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-26T09:38:21.873Z
+- 生成时间：2026-11-26T10:15:07.780Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 130 道，平均分 99
 - 需重写（C/D）：0 道
@@ -58,7 +58,7 @@
 | german | german-kartoffelsuppe | 100 | A | 无 |
 | greek | greek-gemista | 100 | A | 无 |
 | hakka | hakka-dongsun-paigu-tang | 100 | A | 无 |
-| halal-cn | halal-cn-niurou-chaomian | 100 | A | 无 |
+| halal-cn | halal-cn-lamb-skewers | 93 | A | 准确性 18/25 |
 | hongkong | hongkong-salt-pepper-squid | 100 | A | 无 |
 | hunan | hunan-larou-zheng-xianggan | 100 | A | 无 |
 | hunan | hunan-jiachang-donggua | 100 | A | 无 |

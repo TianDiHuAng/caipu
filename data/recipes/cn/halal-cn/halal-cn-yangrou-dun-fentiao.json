@@ -1,0 +1,306 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-yangrou-dun-fentiao",
+  "name": {
+    "zh": "羊肉炖粉条",
+    "en": "Lamb Stewed with Glass Noodles",
+    "original": "羊肉炖粉条"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 85,
+    "cook_min": 103,
+    "total_min": 188
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 600,
+          "unit": "g",
+          "note": "带筋带骨，切块",
+          "optional": false
+        },
+        {
+          "name": "粉条",
+          "name_en": "dried sweet potato noodles",
+          "amount": 200,
+          "unit": "g",
+          "note": "提前泡软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 300,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸肉",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "去膻",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "上色提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 9,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去膻",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "锅铲",
+    "汤勺",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉块冷水浸泡四十分钟去血水，捞出沥干水分。",
+      "time_min": 42,
+      "heat": "无火",
+      "tip": "泡过的羊肉炖出来膻味轻，汤也不发浑。",
+      "visual_cue": "肉色转浅，水底见血丝，颜色清爽"
+    },
+    {
+      "n": 2,
+      "text": "粉条用温水泡三十分钟到完全回软，剪成两段备用。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "粉条泡透再炖，才不会把汤吸干，这一步别省。",
+      "visual_cue": "粉条透明柔软，可随意弯折"
+    },
+    {
+      "n": 3,
+      "text": "白萝卜去皮切三厘米滚刀块，切好放一旁待用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "萝卜后放，早放会炖化，把汤弄浑，这一步别省。",
+      "visual_cue": "块形带棱角，切面水润，看着就有食欲"
+    },
+    {
+      "n": 4,
+      "text": "炖锅放植物油烧热，下姜片、葱段、八角和花椒小火煸香。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "香料小火慢煸才出香，火大了立刻发苦。",
+      "visual_cue": "香料浮起，油面细泡，香气已出"
+    },
+    {
+      "n": 5,
+      "text": "倒入羊肉块中火翻炒六分钟，炒到表面焦黄收紧出油。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "把羊油炒出来，汤才香，膻味也淡，这一步别省。",
+      "visual_cue": "肉块焦褐，锅底见油，层次分明"
+    },
+    {
+      "n": 6,
+      "text": "淋生抽炒匀上色，加清水一千八百毫升大火烧开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水要一次加足，中途加水汤味会淡，这一步别省。",
+      "visual_cue": "汤色酱红，热气翻腾，火候刚好"
+    },
+    {
+      "n": 7,
+      "text": "撇净浮沫转小火炖六十分钟，到羊肉软烂用筷子能插透。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "小火慢炖，汤面只冒小泡，肉才酥而不散。",
+      "visual_cue": "汤面微滚，肉块轻晃，一目了然"
+    },
+    {
+      "n": 8,
+      "text": "下白萝卜块炖十五分钟，到萝卜变透明、吸满汤汁。",
+      "time_min": 17,
+      "heat": "中火",
+      "tip": "萝卜炖到透明才入味，硬芯会影响口感。",
+      "visual_cue": "萝卜透明，边角发圆，火候正好"
+    },
+    {
+      "n": 9,
+      "text": "放粉条再炖六分钟，让粉条吸饱汤变得透亮即可。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "粉条最后放，久煮会断成一截一截，这一步别省。",
+      "visual_cue": "粉条透亮，挂满汤汁，状态到位"
+    },
+    {
+      "n": 10,
+      "text": "加盐和白胡椒调味，撒一把香菜末，连锅端上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "盐最后放，早放羊肉炖一小时还是发柴。",
+      "visual_cue": "汤色红亮，香菜浮面，颜色清爽"
+    }
+  ],
+  "tips": [
+    "这道菜在清真席面上常作压轴，粉条吸了羊汤比肉还香。",
+    "羊肉先炒后炖，汤厚味浓，膻味也去得干净。",
+    "萝卜和粉条分次下锅，各自的熟度才刚好。"
+  ],
+  "common_mistakes": [
+    "粉条一开始就下锅，炖到最后全断在汤里成糊。",
+    "羊肉没炒直接炖，汤色发灰，膻味压不住。",
+    "中途加冷水，肉块骤缩变硬，炖再久也不烂。"
+  ],
+  "substitutions": [
+    {
+      "original": "粉条",
+      "substitute": "粉丝",
+      "ratio": "200克:150克",
+      "note": "粉丝更细，炖三分钟就够，久煮易烂。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "土豆",
+      "ratio": "300克:300克",
+      "note": "土豆版汤更稠，炖的时间延长五分钟。"
+    }
+  ],
+  "variations": [
+    "加一把干豆角同炖，吸味能力很强，是西北常见的搭法。",
+    "最后淋一勺辣椒油，汤味立刻冲起来，适合冬天吃。"
+  ],
+  "serving_suggestion": "连锅端上桌，盛进大碗，配馍或米饭都下饭。",
+  "storage": "冷藏可存三天，粉条会继续吸汤，复热时补少量清水。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 620,
+    "protein_g": 36,
+    "fat_g": 28,
+    "carbs_g": 56,
+    "sodium_mg": 1280,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "羊肉须炖至完全软烂、中心无血色；粉条须炖透，复热须彻底煮沸，避免久置后食用。"
+  ],
+  "origin_note": "羊肉炖粉条是清真席面上的家常硬菜。羊肉先炒出油，加香料和生抽上色，添水小火慢炖一小时，再下萝卜和粉条收尾。粉条吸饱羊汤，透亮弹牙，一锅端上来，汤、肉、粉条各有一口。",
+  "tags": [
+    "清真菜",
+    "宴客",
+    "羊肉",
+    "粉条",
+    "炖煮"
+  ],
+  "related_ids": [
+    "halal-cn-hongshao-yangrou",
+    "halal-cn-shouzhua-yangrou",
+    "halal-cn-niurou-dun-tudou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

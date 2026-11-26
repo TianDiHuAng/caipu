@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "halal-cn-yangrou-jiaozi",
+  "name": {
+    "zh": "羊肉萝卜饺子",
+    "en": "Lamb and Radish Dumplings",
+    "original": "羊肉萝卜饺子"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "halal-cn"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 114,
+    "cook_min": 10,
+    "total_min": 124
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "中筋，留手粉",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 300,
+          "unit": "g",
+          "note": "绞成粗粒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 300,
+          "unit": "g",
+          "note": "擦丝挤水",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "馅料与煮锅各半",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "封住水分",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "泡水去膻",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 210,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "擀面杖",
+    "煮锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加三克盐拌匀，分次倒入清水，先搅成絮再揉成团。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水别一次倒完，面团偏硬一点更适合包饺子。",
+      "visual_cue": "面絮均匀，盆底无干粉，层次分明"
+    },
+    {
+      "n": 2,
+      "text": "面团盖湿布醒三十分钟，中间揉一次让面筋更顺。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "醒过的面擀皮不回缩，包的时候边也压得紧。",
+      "visual_cue": "面团光洁，按压慢慢回弹，火候刚好"
+    },
+    {
+      "n": 3,
+      "text": "花椒用温水泡十分钟，滤出花椒水放凉备用即可。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "花椒水是去膻的关键，别用花椒粉代替，味太冲。",
+      "visual_cue": "水色微黄，花椒沉底，一目了然"
+    },
+    {
+      "n": 4,
+      "text": "羊肉放大碗，分三次加花椒水，顺一个方向搅到上劲。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "一次加一点水，馅料吸足了水才嫩，多了就散。",
+      "visual_cue": "馅料发亮，能拉出细丝，火候正好"
+    },
+    {
+      "n": 5,
+      "text": "白萝卜擦成细丝，撒三克盐腌十分钟，挤干水分再剁碎。",
+      "time_min": 14,
+      "heat": "无火",
+      "tip": "萝卜水一定挤干，不然包的时候皮底会破。",
+      "visual_cue": "萝卜干爽成团，挤出水分，状态到位"
+    },
+    {
+      "n": 6,
+      "text": "馅料加大葱末、姜末、生抽和盐搅匀，再拌进萝卜碎。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "萝卜最后拌，早拌会反复出水，馅就稀了。",
+      "visual_cue": "馅料黏稠，颜色均匀，颜色清爽"
+    },
+    {
+      "n": 7,
+      "text": "淋香油顺一个方向拌匀，馅料表面油亮就可以包了。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香油包住水分，煮的时候汤汁才留在馅里。",
+      "visual_cue": "油光裹面，馅料不散，看着就有食欲"
+    },
+    {
+      "n": 8,
+      "text": "面团搓条切成小剂子，擀成中间厚边缘薄的圆皮。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "中间厚一点托得住馅，边缘薄才好捏紧。",
+      "visual_cue": "皮子圆整，中心略厚，香气已出"
+    },
+    {
+      "n": 9,
+      "text": "每张皮放一勺馅，对折捏紧边缘，捏出均匀的褶子。",
+      "time_min": 16,
+      "heat": "无火",
+      "tip": "馅别贪多，封口沾到油就捏不牢，下锅就开。",
+      "visual_cue": "饺子饱满，褶纹清楚，层次分明"
+    },
+    {
+      "n": 10,
+      "text": "煮锅水大开下饺子，三次点冷水，饺子浮起再煮两分钟。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "点冷水让水回落，皮熟馅也熟，不容易破。",
+      "visual_cue": "饺子鼓胀浮面，皮子透亮，火候刚好"
+    }
+  ],
+  "tips": [
+    "清真饺子只用牛羊肉，羊肉配白萝卜是最经典的组合。",
+    "花椒水一次别加多，肉馅吸饱就行，稀了包不住。",
+    "煮好的饺子配米醋和蒜泥，比蘸酱油更对味。"
+  ],
+  "common_mistakes": [
+    "萝卜没挤水就拌进馅，饺子底一煮就破，汤里全是馅。",
+    "花椒水一次倒太多，馅料稀得包不起来。",
+    "水一直大滚不点冷水，饺子皮破了馅还没熟。"
+  ],
+  "substitutions": [
+    {
+      "original": "白萝卜",
+      "substitute": "西葫芦",
+      "ratio": "300克:300克",
+      "note": "西葫芦更清甜，挤水要更用力，出水比萝卜多。"
+    },
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "300克:320克",
+      "note": "牛肉版要加一点油，纯瘦牛肉拌馅容易发柴。"
+    }
+  ],
+  "variations": [
+    "馅里加一小把韭菜末，辛香提味，特别适合配羊肉。",
+    "把饺子改成锅贴，底面煎到金黄再淋水焖，底部更脆。"
+  ],
+  "serving_suggestion": "热饺子装盘，配米醋、蒜泥和一碗羊汤一起吃。",
+  "storage": "生饺子冷冻可存一个月，煮时不用解冻直接下锅；熟饺子冷藏一天，复煎比复煮好吃。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 620,
+    "protein_g": 30,
+    "fat_g": 18,
+    "carbs_g": 82,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "羊肉馅须彻底煮熟，饺子浮起后须再煮两分钟确保中心熟透；包制时生熟案板分开，避免交叉污染。"
+  ],
+  "origin_note": "清真馆子的羊肉饺子讲究一个鲜字。羊肉剁成粗粒，用花椒水打上劲去膻，再拌进挤干水的白萝卜。萝卜吸油、羊肉出汤，一口咬开满是汤水，是北方回民家里过年必包的一种馅。",
+  "tags": [
+    "清真菜",
+    "小吃",
+    "饺子",
+    "羊肉",
+    "白萝卜"
+  ],
+  "related_ids": [
+    "halal-cn-niurou-huntun",
+    "halal-cn-youxiang",
+    "halal-cn-niurou-wanzi-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
