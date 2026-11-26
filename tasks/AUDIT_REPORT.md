@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-26T04:35:08.191Z
+- 生成时间：2026-11-26T04:59:10.973Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 126 道，平均分 99
 - 需重写（C/D）：0 道
@@ -18,7 +18,7 @@
 
 | 菜系 | 菜谱 id | 得分 | 等级 | 扣分项 |
 | --- | --- | --- | --- | --- |
-| american | american-cinnamon-rolls | 100 | A | 无 |
+| american | american-cinnamon-raisin-bread | 100 | A | 无 |
 | american | american-peach-cobbler | 100 | A | 无 |
 | american | american-waldorf-salad | 100 | A | 无 |
 | american-south | southern-fried-chicken | 100 | A | 无 |
@@ -44,8 +44,8 @@
 | east-african | east-african-ugali-sukuma-wiki | 93 | A | 准确性 18/25 |
 | eastern-european | eastern-european-apple-kissel | 100 | A | 无 |
 | filipino | filipino-lumpiang-shanghai | 100 | A | 无 |
-| french | french-tarte-aux-poires | 100 | A | 无 |
-| french | french-haricots-verts-butter | 100 | A | 无 |
+| french | french-tarte-au-citron | 100 | A | 无 |
+| french | french-madeleines | 100 | A | 无 |
 | french | sauce-bechamel | 100 | A | 无 |
 | fujian | fujian-hongshao-doufu | 94 | A | 安全性 14/20 |
 | fujian | fujian-puning-doujiang-zhi | 100 | A | 无 |
@@ -64,7 +64,7 @@
 | hunan | hunan-jiachang-donggua | 100 | A | 无 |
 | hunan | hunan-banli-shaoji | 100 | A | 无 |
 | indian | indian-baingan-bharta | 100 | A | 无 |
-| indian | indian-rasam | 100 | A | 无 |
+| indian | indian-rasmalai | 100 | A | 无 |
 | indian | chana-masala | 100 | A | 无 |
 | indian | indian-mulligatawny-soup | 100 | A | 无 |
 | indonesian | indonesian-soto-ayam | 100 | A | 无 |
@@ -85,7 +85,7 @@
 | malaysian | malaysian-char-kway-teow | 100 | A | 无 |
 | mediterranean | mediterranean-stuffed-zucchini | 100 | A | 无 |
 | mediterranean | mediterranean-skhug | 100 | A | 无 |
-| mexican | mexican-tamales-verdes | 100 | A | 无 |
+| mexican | mexican-tacos-al-pastor | 93 | A | 准确性 18/25 |
 | mexican | mexican-mole-rojo | 100 | A | 无 |
 | mexican | tostadas | 100 | A | 无 |
 | middle-eastern | middle-eastern-lamb-tagine | 100 | A | 无 |
@@ -121,7 +121,7 @@
 | south-african | south-african-samoosa | 94 | A | 安全性 14/20 |
 | south-asian | south-asian-onion-pakora | 100 | A | 无 |
 | south-asian | south-asian-aloo-tikki | 100 | A | 无 |
-| spanish | spanish-pan-con-tomate | 100 | A | 无 |
+| spanish | spanish-patatas-bravas | 100 | A | 无 |
 | spanish | merluza-a-la-vasca | 100 | A | 无 |
 | spanish | spanish-bacalao-al-horno | 100 | A | 无 |
 | taiwan | taiwan-pork-chop-rice | 100 | A | 无 |

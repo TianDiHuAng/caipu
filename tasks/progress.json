@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:35:15.333Z",
+  "generatedAt": "2026-11-26T04:59:18.558Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 653,
     "target": 3274,
-    "actual": 2292,
-    "coverage": 0.7000610873549176
+    "actual": 2300,
+    "coverage": 0.7025045815516188
   },
   "regions": {
     "cn": [
@@ -3350,7 +3350,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 62,
+        "actual": 64,
         "cells": [
           {
             "category": "main-meat",
@@ -3376,11 +3376,12 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "dwaeji-gukbap",
               "korean-dajiang-tang",
               "korean-doenjang-ggigae",
+              "korean-sogogi-muguk",
               "miyeok-guk",
               "sundubu-jjigae",
               "yukgaejang"
@@ -3405,11 +3406,12 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "gochujang",
               "kimchi",
               "kkakdugi",
+              "korean-cucumber-oiji",
               "korean-dongchimi",
               "korean-oiji",
               "korean-perilla-jangajji"
@@ -3918,7 +3920,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 61,
+        "actual": 63,
         "cells": [
           {
             "category": "main-meat",
@@ -3963,10 +3965,11 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "french-sauce-au-poivre",
               "french-sauce-aux-champignons",
+              "french-sauce-bechamel",
               "french-sauce-roquefort",
               "sauce-bechamel",
               "sauce-bordelaise",
@@ -3977,13 +3980,14 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "bouillabaisse",
               "french-garbure",
               "french-onion-soup",
               "french-potato-soup",
               "french-soupe-au-pistou",
+              "french-soupe-oignon",
               "veloute-potiron"
             ]
           },
@@ -4115,7 +4119,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 58,
+        "actual": 59,
         "cells": [
           {
             "category": "main-seafood",
@@ -4186,13 +4190,14 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "alioli",
               "romesco-sauce",
               "romesco",
               "salmorejo",
               "spanish-escalivada",
+              "spanish-romesco-sauce",
               "spanish-salsa-verde"
             ]
           },
@@ -4869,7 +4874,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 65,
+        "actual": 66,
         "cells": [
           {
             "category": "main-vegetable",
@@ -4938,13 +4943,14 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "dal-tomato-soup",
               "indian-chicken-shorba",
               "indian-mulligatawny-soup",
               "indian-rasam",
               "indian-sambar",
+              "indian-tomato-shorba",
               "tomato-shorba"
             ]
           },
@@ -6407,7 +6413,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 61,
+        "actual": 62,
         "cells": [
           {
             "category": "main-meat",
@@ -6518,8 +6524,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "american-bbq-tofu"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -6958,7 +6966,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 58,
+        "actual": 59,
         "cells": [
           {
             "category": "snack",
@@ -7034,13 +7042,14 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "agua-fresca",
               "horchata",
               "mexican-agua-de-jamaica",
               "mexican-atole",
               "mexican-champurrado",
+              "mexican-horchata",
               "mexican-limonada"
             ]
           },
