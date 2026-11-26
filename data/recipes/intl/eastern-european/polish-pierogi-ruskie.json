@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "polish-pierogi-ruskie",
+  "name": {
+    "zh": "波兰土豆奶酪饺",
+    "en": "Pierogi Ruskie",
+    "original": "Pierogi Ruskie"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "eastern-european"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 70,
+    "cook_min": 46,
+    "total_min": 116
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 500,
+          "unit": "g",
+          "note": "煮软压泥",
+          "optional": false
+        },
+        {
+          "name": "奶油奶酪",
+          "name_en": "cream cheese",
+          "amount": 200,
+          "unit": "g",
+          "note": "馅料",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "约两个，一个和面一个刷边",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 150,
+          "unit": "g",
+          "note": "佐食",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 60,
+          "unit": "g",
+          "note": "炒洋葱与煎饺",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "擀面杖",
+    "汤锅",
+    "平底锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加盐拌匀，中间挖窝，打入一个鸡蛋并分次加温水揉成光滑面团。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "水温手摸不烫即可，太烫面团会发黏。",
+      "visual_cue": "面团光滑，按下去回弹"
+    },
+    {
+      "n": 2,
+      "text": "面团盖湿布静置三十分钟，让面筋松弛，擀的时候不缩。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "松弛到位，擀出的皮才不会回缩。",
+      "visual_cue": "面团松软，指压缓慢回弹"
+    },
+    {
+      "n": 3,
+      "text": "土豆削皮切块，加水煮十八分钟到软透，沥干后压成细泥。",
+      "time_min": 22,
+      "heat": "中火",
+      "tip": "沥得越干越好，湿泥会让馅料出水破皮。",
+      "visual_cue": "泥体干爽，无颗粒"
+    },
+    {
+      "n": 4,
+      "text": "黄油下锅小火融化，放洋葱丁炒六分钟到金黄出甜味。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "洋葱炒到金黄，馅才香，别只炒到透明。",
+      "visual_cue": "洋葱金黄，锅底微焦"
+    },
+    {
+      "n": 5,
+      "text": "土豆泥趁热加奶油奶酪、一半炒洋葱、盐和黑胡椒拌成馅。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "馅料调到偏咸一点，煮过之后味道会淡。",
+      "visual_cue": "馅料抱团，能捏成球"
+    },
+    {
+      "n": 6,
+      "text": "面团擀成两毫米薄片，用杯口压出圆皮，包入一勺馅捏紧边缘。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "边缘一定要捏死，煮的时候才不会开口。",
+      "visual_cue": "半月成形，边薄馅鼓"
+    },
+    {
+      "n": 7,
+      "text": "汤锅烧水加盐，饺子分批下锅，浮起后再煮两分钟捞出。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "浮起来只是表面熟，再多煮两分钟馅才透。",
+      "visual_cue": "饺子鼓起，表皮透亮"
+    },
+    {
+      "n": 8,
+      "text": "平底锅融化剩余黄油，把饺子两面各煎两分钟到微黄，撒葱花配酸奶油。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "煮后煎一遍，外皮微脆，口感立刻上一层。",
+      "visual_cue": "两面金黄，边缘起壳"
+    }
+  ],
+  "tips": [
+    "这道饺子在波兰是国民食物，家家有自己包的褶子。",
+    "馅料里的奶酪要选质地干的，湿的会让皮破。",
+    "一次多包一些冷冻，吃的时候不用解冻直接下锅。"
+  ],
+  "common_mistakes": [
+    "面团没松弛就擀，皮一擀就缩回原形，包不住馅。",
+    "土豆泥太湿，馅料出汤，下锅全破在锅里。",
+    "饺子下锅后猛搅，皮互相摩擦，一半都裂开。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶油奶酪",
+      "substitute": "农夫奶酪",
+      "ratio": "200克:200克",
+      "note": "农夫奶酪更干更酸，是最传统的选择，可多加一点盐。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "酸奶",
+      "ratio": "150克:150克",
+      "note": "酸奶清爽，须选浓稠型，否则挂不住饺子。"
+    }
+  ],
+  "variations": [
+    "馅料里加一把炒香的蘑菇碎，风味更浓，是秋季版本。",
+    "包好后直接冷冻，煮的时间多加一分钟，味道不打折。"
+  ],
+  "serving_suggestion": "盛盘后淋一勺融化黄油，撒葱花，旁边配一碟酸奶油蘸着吃。",
+  "storage": "生饺冷冻可存一个月，煮熟的冷藏两天，复热用平底锅煎。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 640,
+    "protein_g": 20,
+    "fat_g": 26,
+    "carbs_g": 82,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "含鸡蛋的面皮须煮至中心熟透、无生面粉芯；煮制时须保证水持续沸腾，成品趁热食用。"
+  ],
+  "origin_note": "波兰饺子的名字来自东欧旧时的鲁塞尼亚地区，土豆加奶酪是最经典的素馅。面皮擀薄包成半月，水煮后捞出，再在黄油里煎到两面微黄。撒上葱花，配一勺酸奶油，是波兰人从小吃到大的味道。",
+  "tags": [
+    "东欧菜",
+    "波兰",
+    "面食",
+    "饺子",
+    "奶酪"
+  ],
+  "related_ids": [
+    "russian-pelmeni",
+    "hungarian-langos",
+    "polish-kapusta-kiszona"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

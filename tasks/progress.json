@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T10:55:50.416Z",
+  "generatedAt": "2026-11-26T11:35:25.305Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2372,
-    "coverage": 0.7244960293219304
+    "actual": 2380,
+    "coverage": 0.7269395235186317
   },
   "regions": {
     "cn": [
@@ -6305,17 +6305,19 @@
         "en": "Eastern European",
         "tier": "B",
         "target": 38,
-        "actual": 20,
+        "actual": 28,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "eastern-european-borscht",
               "eastern-european-sauerkraut-soup",
-              "eastern-european-solyanka"
+              "eastern-european-solyanka",
+              "hungarian-gulyas",
+              "ukrainian-borscht"
             ]
           },
           {
@@ -6336,42 +6338,48 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "eastern-european-blini",
               "eastern-european-piroshki",
-              "georgian-khachapuri"
+              "georgian-khachapuri",
+              "hungarian-langos",
+              "polish-pierogi-ruskie"
             ]
           },
           {
             "category": "fermented",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "eastern-european-pickled-cucumber",
-              "eastern-european-pickled-tomato"
+              "eastern-european-pickled-tomato",
+              "polish-kapusta-kiszona",
+              "russian-pickled-tomatoes"
             ]
           },
           {
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "eastern-european-apple-kissel",
               "eastern-european-honey-cake",
               "eastern-european-paska",
-              "eastern-european-syrniki"
+              "eastern-european-syrniki",
+              "polish-sernik"
             ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "eastern-european-pierogi"
+              "eastern-european-pierogi",
+              "hungarian-lecso"
             ]
           },
           {

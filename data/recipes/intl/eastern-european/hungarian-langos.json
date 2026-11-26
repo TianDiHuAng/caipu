@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hungarian-langos",
+  "name": {
+    "zh": "匈牙利炸面饼",
+    "en": "Langos",
+    "original": "Lángos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "eastern-european"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 94,
+    "cook_min": 29,
+    "total_min": 123
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "中筋",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "煮熟压泥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "温到三十五度",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 7,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末调酱",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 150,
+          "unit": "g",
+          "note": "抹面",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 100,
+          "unit": "g",
+          "note": "擦丝撒面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 300,
+          "unit": "ml",
+          "note": "油炸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "助发酵",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大碗",
+    "深锅",
+    "擀面杖",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆削皮切块，加水煮十五分钟到软透，压成细泥放凉到温热。",
+      "time_min": 19,
+      "heat": "中火",
+      "tip": "土豆泥别太烫，会把酵母烫死，面就发不起来。",
+      "visual_cue": "泥体细腻，手摸温热"
+    },
+    {
+      "n": 2,
+      "text": "温牛奶加白糖和酵母搅匀，静置八分钟到表面浮起一层细泡。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "泡沫起来说明酵母活着，这步别省。",
+      "visual_cue": "表面浮沫，闻着有麦香"
+    },
+    {
+      "n": 3,
+      "text": "面粉加盐拌匀，倒进土豆泥和酵母牛奶，揉成柔软不粘手的面团。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "面团要比做馒头软一些，炸出来才蓬松。",
+      "visual_cue": "面团光滑，按下去回弹"
+    },
+    {
+      "n": 4,
+      "text": "盖上湿布放温暖处发酵一小时，涨到原来的两倍大。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "室温低时可放烤箱里，旁边摆一碗热水。",
+      "visual_cue": "体积翻倍，指压留窝"
+    },
+    {
+      "n": 5,
+      "text": "面团分成八份，手上抹油，把每份按成一厘米厚的圆饼。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "用手按别用擀面杖，保留气泡炸出来才鼓。",
+      "visual_cue": "圆饼匀整，边缘略厚"
+    },
+    {
+      "n": 6,
+      "text": "深锅倒植物油烧到一百八十度，面饼下锅炸两分钟到鼓起金黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "油温够高，面饼一下锅就鼓泡，吸油也少。",
+      "visual_cue": "饼身鼓起，边缘金黄"
+    },
+    {
+      "n": 7,
+      "text": "翻面再炸一分钟，捞出放厨房纸上沥掉表面浮油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "两面都炸到金黄才脆，一面炸会发硬。",
+      "visual_cue": "两面金黄，外壳起小泡"
+    },
+    {
+      "n": 8,
+      "text": "趁热抹酸奶油，撒奶酪丝和切碎的大蒜，喜欢咸口再撒一点盐。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热抹酱，奶酪会自己化开贴住饼面。",
+      "visual_cue": "表面奶白，蒜香扑鼻"
+    }
+  ],
+  "tips": [
+    "炸面饼是匈牙利市集和小吃摊的招牌，热吃才够香。",
+    "面团偏软是重点，硬面团炸出来像鞋底。",
+    "酸奶油和奶酪是经典搭配，也可以只抹蒜汁。"
+  ],
+  "common_mistakes": [
+    "牛奶太烫直接倒酵母，酵母被烫死，面团一小时都不涨。",
+    "面团揉得太硬，炸出来又厚又韧，咬着费劲。",
+    "油温太低就下锅，面饼吸满油，一口全是油腻。"
+  ],
+  "substitutions": [
+    {
+      "original": "酸奶油",
+      "substitute": "酸奶",
+      "ratio": "150克:150克",
+      "note": "酸奶更清爽，需选浓稠型，否则会流下来。"
+    },
+    {
+      "original": "奶酪",
+      "substitute": "切达奶酪",
+      "ratio": "100克:100克",
+      "note": "切达融化快，风味更浓，用量可减到八十克。"
+    }
+  ],
+  "variations": [
+    "抹一层捣碎的大蒜加黄油，再撒奶酪，是最常见的街头吃法。",
+    "甜口版本抹果酱撒白糖粉，当早餐或下午茶都合适。"
+  ],
+  "serving_suggestion": "出锅两分钟内吃，配一碗牛肉汤或一杯酸奶油蘸着吃。",
+  "storage": "现炸现吃，凉了可用平底锅无油小火两面各烘一分钟回脆。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 620,
+    "protein_g": 16,
+    "fat_g": 28,
+    "carbs_g": 76,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "油炸时油温高，面饼下锅须沿锅边轻放防溅油；成品须炸至中心熟透、无生面芯，趁热食用。"
+  ],
+  "origin_note": "炸面饼在匈牙利是市集上的主角，面团里加土豆泥让它更松软。揪一团按扁，下油锅几秒就鼓起大泡，捞出抹上酸奶油撒奶酪，烫手的时候最好吃。匈牙利人冬天配着热汤吃，夏天在湖边也吃。",
+  "tags": [
+    "东欧菜",
+    "匈牙利",
+    "面食",
+    "油炸",
+    "小吃"
+  ],
+  "related_ids": [
+    "hungarian-gulyas",
+    "russian-pirozhki",
+    "polish-pierogi-ruskie"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

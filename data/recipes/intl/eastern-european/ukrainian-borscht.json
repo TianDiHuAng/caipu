@@ -1,0 +1,329 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "ukrainian-borscht",
+  "name": {
+    "zh": "乌克兰罗宋汤",
+    "en": "Ukrainian Borscht",
+    "original": "Borscht"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "eastern-european"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 8,
+    "cook_min": 108,
+    "total_min": 116
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 500,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        },
+        {
+          "name": "甜菜根",
+          "name_en": "beetroot",
+          "amount": 400,
+          "unit": "g",
+          "note": "擦粗丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 300,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "莳萝",
+          "name_en": "dill",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 100,
+          "unit": "g",
+          "note": "盛碗配",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "或清水",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒菜",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "保色提酸",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "平底锅",
+    "擦丝器",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切三厘米方块，冷水下锅煮开焯三分钟，撇掉浮沫后捞出冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血水慢慢逼出来，汤才清。",
+      "visual_cue": "浮沫灰白，肉块紧实"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒高汤，放牛腩和香叶，烧开后转小火盖盖炖六十分钟。",
+      "time_min": 63,
+      "heat": "小火",
+      "tip": "小火慢炖，肉才软而不柴，汤也不浑。",
+      "visual_cue": "汤面微沸，肉块沉底"
+    },
+    {
+      "n": 3,
+      "text": "平底锅放植物油，下洋葱丁中火炒四分钟到透明边缘微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒出甜味，是整锅汤的底子。",
+      "visual_cue": "洋葱透明，锅底泛油光"
+    },
+    {
+      "n": 4,
+      "text": "加胡萝卜丝炒两分钟，再放甜菜根丝翻炒三分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "甜菜根先炒过，红色才亮，也不带土腥味。",
+      "visual_cue": "菜丝变软，锅里泛红"
+    },
+    {
+      "n": 5,
+      "text": "加番茄块和番茄膏炒三分钟，炒到番茄出汁、颜色深红。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄膏要炒散，生番茄膏带酸涩味。",
+      "visual_cue": "酱汁浓稠，颜色深红"
+    },
+    {
+      "n": 6,
+      "text": "倒白醋和白糖翻匀，关火，把炒好的菜整锅倒进汤锅。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "加醋能锁住红色，甜菜根才不会发褐。",
+      "visual_cue": "菜料入汤，汤色转红"
+    },
+    {
+      "n": 7,
+      "text": "放土豆块和卷心菜丝，中火煮十八分钟到土豆能用筷子插透。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "卷心菜后放，煮久了甜味全跑进汤里没口感。",
+      "visual_cue": "土豆软透，菜丝透明"
+    },
+    {
+      "n": 8,
+      "text": "加盐和黑胡椒调味，关火撒切碎的大蒜和莳萝碎，盛碗配酸奶油。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "大蒜和莳萝关火后再放，香气才留得住。",
+      "visual_cue": "汤色艳红，顶层一勺白"
+    }
+  ],
+  "tips": [
+    "罗宋汤是东欧冬天的命脉，一锅能吃两三天，越回锅越香。",
+    "甜菜根别用铁锅久煮，颜色会发暗，砂锅或搪瓷锅最好。",
+    "酸奶油一定要盛碗后再加，下锅煮会结絮。"
+  ],
+  "common_mistakes": [
+    "甜菜根没炒就下汤，汤色灰红，味道带土气。",
+    "全程大火滚煮，牛腩又硬又柴，汤也浑成一片。",
+    "酸奶油下锅一起煮，整锅汤飘着白色絮块。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "500克:500克",
+      "note": "牛腱胶质多，炖的时间可延长十分钟，汤更稠。"
+    },
+    {
+      "original": "甜菜根",
+      "substitute": "胡萝卜",
+      "ratio": "400克:400克",
+      "note": "不用甜菜根的版本颜色偏橙，酸味可以多补一勺白醋。"
+    }
+  ],
+  "variations": [
+    "加一勺煮烂的白豆，汤体更厚，是最老派的乡村做法。",
+    "把牛腩换成猪排骨，肉香更浓，炖的时间缩短十五分钟。"
+  ],
+  "serving_suggestion": "盛进深碗，顶上一大勺酸奶油和一把莳萝碎，配黑麦面包吃。",
+  "storage": "冷藏可存四天，冷冻可存两个月；复热时补一点高汤，酸奶油另备。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 28,
+    "fat_g": 20,
+    "carbs_g": 32,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "牛腩须炖至中心熟透、能轻松咬断；汤品冷藏后复热须彻底煮沸，酸奶油须冷藏保存并在盛碗后加入。"
+  ],
+  "origin_note": "罗宋汤在乌克兰家家有自己的配方，甜菜根给出那抹标志性的艳红。牛腩先炖出汤底，甜菜根和番茄膏炒出颜色，最后放土豆和卷心菜。盛碗时一勺酸奶油化在红汤里，是当地冬天的日常。",
+  "tags": [
+    "东欧菜",
+    "乌克兰",
+    "汤",
+    "牛肉",
+    "甜菜根"
+  ],
+  "related_ids": [
+    "russian-shchi",
+    "russian-solyanka",
+    "russian-beef-stroganoff"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
