@@ -1,0 +1,246 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-feicui-shaomai",
+  "name": {
+    "zh": "翡翠烧卖",
+    "en": "Jade Shumai",
+    "original": "翡翠烧卖"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 48,
+    "cook_min": 15,
+    "total_min": 63
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 400,
+          "unit": "g",
+          "note": "选嫩叶多的",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        },
+        {
+          "name": "澄面",
+          "name_en": "wheat starch",
+          "amount": 50,
+          "unit": "g",
+          "note": "使皮透明",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小粒",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 30,
+          "unit": "g",
+          "note": "拌馅增香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "烫面用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸笼",
+    "擀面杖",
+    "菜刀",
+    "汤锅",
+    "漏勺",
+    "湿布"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小白菜掰开洗净，烧一锅水加少许盐，下锅烫三十秒立刻捞出过冷水。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "烫菜时间短，断生就捞，烫久了叶子发黄，香味也跟着跑掉。",
+      "visual_cue": "菜叶翠绿挺立，梗变软"
+    },
+    {
+      "n": 2,
+      "text": "烫好的小白菜挤干水分后切碎，再用力挤一遍，拌入猪油、香油、白糖、盐和香菇末。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水挤得越干馅越香，香菇末最后拌进去，鲜味才不会被猪油盖住。",
+      "visual_cue": "菜馅干爽成团，不滴水"
+    },
+    {
+      "n": 3,
+      "text": "面粉与澄面混合，冲入沸水用筷子搅成雪花状，稍凉后揉成光滑面团醒十分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "澄面必须用滚水烫透才透明，水温不够皮子蒸出来发白不亮。",
+      "visual_cue": "面团洁白细腻，按下去有弹性"
+    },
+    {
+      "n": 4,
+      "text": "面团搓条下剂，擀成直径十厘米的圆皮，包入菜馅和虾仁碎，收口捏成花瓶形。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "收口留一截菜馅露在外面，蒸出来才是翡翠色的花蕊样子。",
+      "visual_cue": "烧卖生坯挺立，顶部露出绿馅"
+    },
+    {
+      "n": 5,
+      "text": "蒸笼垫湿布摆入烧卖，水开后大火蒸八分钟，关火焖一分钟取出。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "蒸的时间别超十分钟，皮薄馅嫩，多蒸一分钟皮就发黏。",
+      "visual_cue": "皮薄透亮，能看见里面绿馅"
+    }
+  ],
+  "tips": [
+    "翡翠烧卖的绿来自小白菜，选叶多梗少的嫩菜，颜色才够鲜亮。",
+    "澄面烫熟后要趁热揉，凉了结块就揉不开，皮子上会有小疙瘩。",
+    "虾仁切成小粒别剁成泥，颗粒感在嘴里一咬才弹，剁碎就没魂了。"
+  ],
+  "common_mistakes": [
+    "小白菜烫完不挤水，馅里全是汤，包好的烧卖一蒸就塌成扁片。",
+    "用冷水和面，皮子蒸出来灰白不透明，完全吃不出翡翠烧卖的样子。",
+    "馅里加酱油调色，菜叶被染成暗褐色，翠绿全毁，只能重做一笼。"
+  ],
+  "substitutions": [
+    {
+      "original": "小白菜",
+      "substitute": "小油菜",
+      "ratio": "400克:400克",
+      "note": "小油菜梗多，烫制时间要延长二十秒。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "干贝丝",
+      "ratio": "120克:60克",
+      "note": "干贝需提前泡发撕丝，鲜味更集中。"
+    }
+  ],
+  "variations": [
+    "把菜馅换成荠菜，春天做出来带一股清香，是扬州的时令吃法。",
+    "馅里拌入火腿末与香菇丁，鲜味更足，就是富春茶社的双色烧卖。"
+  ],
+  "serving_suggestion": "烧卖现蒸现吃，配一壶绿杨春茶，蘸一点镇江香醋更解腻。",
+  "storage": "生坯可冷冻一周，蒸时不用解冻，多加三分钟；熟烧卖回蒸三分钟即可。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 380,
+    "protein_g": 16,
+    "fat_g": 12,
+    "carbs_g": 52,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "包入的虾仁须彻底蒸熟，中心温度达到七十五度以上，肉质由透明变白才算熟透。"
+  ],
+  "origin_note": "翡翠烧卖是扬州早茶的代表，与千层油糕并称扬州双绝。馅心用剁碎的小白菜，因为颜色翠绿透亮，蒸好能看见皮里的绿，才得翡翠这个名字，讲究皮薄如纸、顶端开口露馅。",
+  "tags": [
+    "苏菜",
+    "点心",
+    "烧卖",
+    "扬州",
+    "蒸制"
+  ],
+  "related_ids": [
+    "suzhou-qianceng-yougao",
+    "xiehuang-tangbao",
+    "shengjian-bao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

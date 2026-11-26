@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:14:05.430Z",
+  "generatedAt": "2026-11-26T03:51:31.551Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 653,
     "target": 3274,
-    "actual": 2271,
-    "coverage": 0.6936469150885767
+    "actual": 2278,
+    "coverage": 0.6957849725106903
   },
   "regions": {
     "cn": [
@@ -755,7 +755,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 69,
+        "actual": 73,
         "cells": [
           {
             "category": "main-seafood",
@@ -835,11 +835,15 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 9,
             "ids": [
               "congyou-su-shaobing",
               "guotie",
+              "jiangsu-feicui-shaomai",
+              "jiangsu-luobosi-subing",
+              "jiangsu-meihua-gao",
               "shengjian-bao",
+              "suzhou-qianceng-yougao",
               "xiehuang-tangbao",
               "yaxue-fensi-tang"
             ]
@@ -1566,7 +1570,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 62,
+        "actual": 65,
         "cells": [
           {
             "category": "main-meat",
@@ -1627,9 +1631,12 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 8,
             "ids": [
               "anhui-lajiaohu",
+              "huizhou-chou-guiyu",
+              "huizhou-douchi",
+              "huizhou-furu",
               "huizhou-laba-doufu",
               "huizhou-maodoufu",
               "huizhou-paocai-chao-rou",
