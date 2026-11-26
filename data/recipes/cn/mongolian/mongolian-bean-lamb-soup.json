@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mongolian-bean-lamb-soup",
+  "name": {
+    "zh": "豆角羊肉汤",
+    "en": "Green Bean Lamb Soup",
+    "original": "Шөл"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "mongolian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 19,
+    "cook_min": 78,
+    "total_min": 97
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 400,
+          "unit": "g",
+          "note": "带骨带筋，切块",
+          "optional": false
+        },
+        {
+          "name": "豆角",
+          "name_en": "green beans",
+          "amount": 300,
+          "unit": "g",
+          "note": "掰成四厘米段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 50,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸肉用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1600,
+          "unit": "ml",
+          "note": "炖汤用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "锅铲",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉块冷水下锅，水开后煮三分钟逼出血沫，捞出冲净。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才出得干净，热水下锅肉一紧就锁住了。",
+      "visual_cue": "水面浮起灰沫，肉块紧实，颜色清爽"
+    },
+    {
+      "n": 2,
+      "text": "豆角掰成四厘米长的段，撕掉两侧的老筋即可。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "老筋不撕，煮久了还是咬不断，吃的时候很扫兴。",
+      "visual_cue": "豆角段整齐，筋丝撕净，看着就有食欲"
+    },
+    {
+      "n": 3,
+      "text": "土豆切成三厘米滚刀块，切好泡在清水里防发黑。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "土豆后放，早放会煮化成泥，把汤弄浑。",
+      "visual_cue": "块形带棱角，泡水清亮，香气已出"
+    },
+    {
+      "n": 4,
+      "text": "汤锅放植物油烧热，下姜片与葱段小火煸出香味即可。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "姜片煸到边缘卷起，去膻的力才出来。",
+      "visual_cue": "葱姜浮香，油面起泡，层次分明"
+    },
+    {
+      "n": 5,
+      "text": "倒入羊肉块中火翻炒四分钟，把表面炒到微微焦黄。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "羊肉先炒一遍再炖，汤会白一些，膻味也淡。",
+      "visual_cue": "肉块上色，锅底微焦，火候刚好"
+    },
+    {
+      "n": 6,
+      "text": "加清水一千六百毫升，大火烧开后转小火炖四十分钟。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "全程小火，汤面只冒小泡，肉才炖得酥而不散。",
+      "visual_cue": "汤色转奶白，肉块浮沉，状态分明"
+    },
+    {
+      "n": 7,
+      "text": "下豆角段和土豆块，继续炖十五分钟到豆角软透。",
+      "time_min": 17,
+      "heat": "中火",
+      "tip": "豆角必须炖到颜色发暗、掐得断，没熟有毒。",
+      "visual_cue": "豆角转深绿，土豆边角发圆"
+    },
+    {
+      "n": 8,
+      "text": "加盐与黑胡椒调味，再煮两分钟让咸味融进汤里。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "盐最后放，早放肉炖不烂，豆角也不容易软。",
+      "visual_cue": "汤面油亮，咸香浮起，火候正好"
+    },
+    {
+      "n": 9,
+      "text": "关火焖三分钟，撇掉表面浮油再盛碗上桌即可。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "焖三分钟让味道回一层，汤会更醇，时间别省。",
+      "visual_cue": "汤清带油花，肉块沉底，状态到位"
+    }
+  ],
+  "tips": [
+    "牧区冬天常用羊肉配干菜煮汤，鲜豆角版本更清甜。",
+    "豆角一定要炖透，颜色发暗才算熟，脆绿的有风险。",
+    "汤里加一小把挂面，就变成一顿完整的饭。"
+  ],
+  "common_mistakes": [
+    "豆角下锅就起锅，颜色翠绿发脆，吃了容易闹肚子。",
+    "土豆和豆角一起早放，土豆化成泥，汤变浑发糊。",
+    "盐一开始就放足，羊肉炖一小时还是发柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆角",
+      "substitute": "豇豆",
+      "ratio": "300克:300克",
+      "note": "豇豆更细，炖十二分钟就软，注意别煮过头。"
+    },
+    {
+      "original": "羊肉块",
+      "substitute": "羊排",
+      "ratio": "400克:450克",
+      "note": "用羊排汤更香，炖的时间要延长十分钟。"
+    }
+  ],
+  "variations": [
+    "加两个西红柿一起炖，汤带一点酸，喝着更开胃。",
+    "最后撒一把香菜和辣椒油，口味立刻变成西北风。"
+  ],
+  "serving_suggestion": "盛入大碗撒葱段，配烤饼或馒头蘸着汤吃更香。",
+  "storage": "冷藏可存三天，冷冻两周；复热须煮沸，豆角不要反复加热多次。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 430,
+    "protein_g": 32,
+    "fat_g": 22,
+    "carbs_g": 26,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "豆角须彻底煮至颜色发暗、完全熟透，未熟豆角含皂苷易引起中毒；羊肉须炖至软烂无血色。"
+  ],
+  "origin_note": "内蒙的羊汤做法极简，一把羊肉一把豆角就能煮一锅。牧民把羊肉先炒后炖，汤色转奶白，再下豆角和土豆炖软。喝一碗浑身发热，是草原冬天最实在的暖身汤。",
+  "tags": [
+    "内蒙菜",
+    "汤品",
+    "羊肉",
+    "豆角",
+    "炖煮"
+  ],
+  "related_ids": [
+    "mongolian-lamb-soup",
+    "mongolian-lamb-potato-stew",
+    "shouba-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

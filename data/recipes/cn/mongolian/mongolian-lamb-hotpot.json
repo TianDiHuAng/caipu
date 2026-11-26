@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mongolian-lamb-hotpot",
+  "name": {
+    "zh": "草原涮羊肉锅",
+    "en": "Mongolian Lamb Hotpot",
+    "original": "Хуушуурын шөл"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "mongolian"
+  },
+  "category": [
+    "hotpot-bbq"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 29,
+    "total_min": 69
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 600,
+          "unit": "g",
+          "note": "薄切，肥瘦相间",
+          "optional": false
+        },
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 400,
+          "unit": "g",
+          "note": "切大片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 80,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2000,
+          "unit": "ml",
+          "note": "锅底",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 10,
+          "unit": "g",
+          "note": "锅底调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "蘸碟用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "蘸碟",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "火锅",
+    "汤勺",
+    "漏勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉片从冰箱取出摊开回温十分钟，别叠成一坨。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "回温过的薄片下锅一烫就熟，冻硬的煮久会老。",
+      "visual_cue": "肉片分开，边缘微湿，看着就有食欲"
+    },
+    {
+      "n": 2,
+      "text": "白菜洗净切成巴掌大的片，菜帮和菜叶分开放。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "菜帮先下、菜叶后下，熟度才一致，时间别省。",
+      "visual_cue": "菜帮厚实，菜叶舒展，香气已出"
+    },
+    {
+      "n": 3,
+      "text": "粉丝用温水泡十五分钟到软，剪成两段方便夹取。",
+      "time_min": 17,
+      "heat": "无火",
+      "tip": "泡软就行，泡过头一煮就烂成糊，时间别省。",
+      "visual_cue": "粉丝透明柔软，可随意弯折"
+    },
+    {
+      "n": 4,
+      "text": "火锅里放清水两升，加姜片、葱段大火烧开即可。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "锅底越清越能吃出羊肉本味，不用加浓汤宝。",
+      "visual_cue": "水面翻滚，葱姜浮起，层次分明"
+    },
+    {
+      "n": 5,
+      "text": "加盐和黑胡椒调味，尝一口汤，咸味要淡一点。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "涮的过程中汤会越煮越咸，锅底得留余地。",
+      "visual_cue": "汤色清亮，微咸回甘，火候刚好"
+    },
+    {
+      "n": 6,
+      "text": "先下口蘑片煮五分钟，把菌香煮进汤里当底味。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "菌菇先煮能把清水变成鲜汤，涮肉更香。",
+      "visual_cue": "菇片浮起，汤色微浑，状态分明"
+    },
+    {
+      "n": 7,
+      "text": "下白菜帮煮三分钟，再放菜叶煮两分钟到软即可。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "菜叶久煮发黄发苦，两分钟就够，时间别省。",
+      "visual_cue": "菜帮透明，菜叶柔软，火候正好"
+    },
+    {
+      "n": 8,
+      "text": "羊肉片下锅用筷子拨散，变色卷起立刻捞出即可。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "薄片只烫十到二十秒，煮久就柴得像纸。",
+      "visual_cue": "肉片卷曲泛白，不带血色，状态到位"
+    },
+    {
+      "n": 9,
+      "text": "粉丝最后下锅烫一分钟，吸饱汤后连菜一起捞。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "粉丝最后放，泡久了会把汤吸干，时间别省。",
+      "visual_cue": "粉丝透亮，挂住汤汁，颜色清爽"
+    },
+    {
+      "n": 10,
+      "text": "孜然与生抽调成蘸碟，肉片蘸着吃，边涮边喝汤。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蘸碟里加一勺锅底汤，味道更连得上。",
+      "visual_cue": "蘸碟油亮，孜然香气扑鼻，看着就有食欲"
+    }
+  ],
+  "tips": [
+    "内蒙涮羊肉讲究锅底清、肉片薄，吃的是羊肉本身的鲜甜。",
+    "肉片别用筷子在锅里搅，轻轻拨散就不会碎。",
+    "喝完汤再下一把面条，是草原人收尾的习惯。"
+  ],
+  "common_mistakes": [
+    "锅底加了太多调料，羊肉的鲜味被盖得一点不剩。",
+    "羊肉片冻着直接下锅，外面煮老了里面还没化。",
+    "白菜和肉一起下，菜叶煮烂成泥，汤也发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉片",
+      "substitute": "牛肉片",
+      "ratio": "600克:600克",
+      "note": "牛肉版汤头稍薄，可加一片姜和一点葱提味。"
+    },
+    {
+      "original": "白菜",
+      "substitute": "油菜",
+      "ratio": "400克:350克",
+      "note": "油菜烫三十秒就够，久煮发黄。"
+    }
+  ],
+  "variations": [
+    "锅底换成羊骨汤，汤浓一倍，冬天喝完整个人都暖透。",
+    "加一把手切宽粉和几片冻豆腐，吸汤能力更强。"
+  ],
+  "serving_suggestion": "围锅而食，肉片现涮现吃，配孜然蘸碟和一杯咸奶茶。",
+  "storage": "汤底冷藏可存两天，涮过的肉和菜不要留；复热须彻底煮沸。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 480,
+    "protein_g": 38,
+    "fat_g": 26,
+    "carbs_g": 22,
+    "sodium_mg": 1150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "羊肉片须涮至完全变色无血色，中心温度达七十五度以上；菌菇须彻底煮熟，涮煮用锅具与夹生肉的筷子须分开。"
+  ],
+  "origin_note": "草原上的涮羊肉不用复杂锅底，一锅清水加葱姜就能涮。羊肉片薄，下锅几秒即熟，蘸孜然和生抽吃，鲜甜直接。吃完肉再涮白菜粉丝，最后喝一碗汤，是最朴素的草原吃法。",
+  "tags": [
+    "内蒙菜",
+    "火锅",
+    "羊肉",
+    "涮煮",
+    "冬季"
+  ],
+  "related_ids": [
+    "mongolian-lamb-ribs",
+    "shouba-rou",
+    "mongolian-mutton-noodle-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

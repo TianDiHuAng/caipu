@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-26T09:03:11.494Z
+> 生成时间：2026-11-26T09:38:29.118Z
 
-**总览**：工程任务 49/53；菜谱内容 2348/3274（71.7%），共 655 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2356/3274（72.0%），共 657 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（1045/1339）
+### 中国菜系（1053/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，132/107</summary>
 
@@ -416,14 +416,16 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>内蒙菜 mongolian</b> — C 级，16/25</summary>
+<details><summary><b>内蒙菜 mongolian</b> — C 级，24/25</summary>
 
-- [x] `P4-mongolian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 8
-- [ ] `P4-mongolian/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 2
-- [ ] `P4-mongolian/drink` 饮品（Drink）目标 5，已完成 1
-- [ ] `P4-mongolian/soup` 汤羹（Soup）目标 5，已完成 2
-- [ ] `P4-mongolian/dessert` 甜点（Dessert）目标 5，已完成 2
-- [x] `P4-mongolian/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 1
+- [x] `P4-mongolian/main-meat` 主菜·肉（Meat Main）目标 5，已完成 9
+- [ ] `P4-mongolian/staple-bread` 主食·饼（Bread Staple）目标 5，已完成 3
+- [ ] `P4-mongolian/drink` 饮品（Drink）目标 5，已完成 2
+- [ ] `P4-mongolian/soup` 汤羹（Soup）目标 5，已完成 3
+- [ ] `P4-mongolian/dessert` 甜点（Dessert）目标 5，已完成 3
+- [x] `P4-mongolian/staple-noodle` 主食·面（Noodle Dish）目标 0，已完成 2
+- [x] `P4-mongolian/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 0，已完成 1
+- [x] `P4-mongolian/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
 
 </details>
 

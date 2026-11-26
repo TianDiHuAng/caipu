@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mongolian-yogurt-drink",
+  "name": {
+    "zh": "蒙古酸奶饮",
+    "en": "Mongolian Yogurt Drink",
+    "original": "Айраг"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "mongolian"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 0,
+    "total_min": 22
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "sweet",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 400,
+          "unit": "g",
+          "note": "原味无糖",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 300,
+          "unit": "ml",
+          "note": "冰镇",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 20,
+          "unit": "g",
+          "note": "挤汁提酸",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "按口味调整",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "一小撮提味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "冰水稀释",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "搅拌机",
+    "量杯",
+    "滤网",
+    "玻璃杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "酸奶倒进搅拌机，加冰镇牛奶与冰水，先低速搅十秒。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "液体先下再开高速，不然酸奶会粘在杯壁上搅不匀。",
+      "visual_cue": "液体混成乳白，表面起小泡"
+    },
+    {
+      "n": 2,
+      "text": "加白糖、一小撮盐，挤入柠檬汁，再高速搅三十秒。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "一点盐能把奶香提出来，还能压住过头的甜。",
+      "visual_cue": "颜色奶白，泡沫细腻，酸香浮起"
+    },
+    {
+      "n": 3,
+      "text": "停机用勺刮下杯壁的酸奶，再搅十秒保证完全均匀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "杯壁上那层不刮下来，喝的时候会突然一口很酸。",
+      "visual_cue": "杯壁干净，液体顺滑无颗粒"
+    },
+    {
+      "n": 4,
+      "text": "用细滤网过一遍，滤掉泡沫和没打散的小结块。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "过筛过的口感顺得多，像奶昔一样滑。",
+      "visual_cue": "滤网留住粗泡，液体细腻，火候刚好"
+    },
+    {
+      "n": 5,
+      "text": "尝一口，按酸度补糖或补柠檬汁，调到酸甜平衡。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "先尝再调，酸奶酸度差别大，照方子加容易过甜。",
+      "visual_cue": "酸甜适口，奶香清晰，状态分明"
+    },
+    {
+      "n": 6,
+      "text": "玻璃杯提前冰五分钟，倒入酸奶饮到七分满即可。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "杯子冰过才挂得住水汽，喝着更凉更爽。",
+      "visual_cue": "杯壁起雾，液体挂壁，火候正好"
+    },
+    {
+      "n": 7,
+      "text": "表面补一层细泡沫，放两片柠檬皮屑增香即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "柠檬皮只刮黄色那层，刮到白色就发苦。",
+      "visual_cue": "泡沫雪白，皮屑点缀，状态到位"
+    },
+    {
+      "n": 8,
+      "text": "立即饮用，配炒米或炸馃子一起吃更对味即可。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "放久会分层，喝前搅一下再倒更好看。",
+      "visual_cue": "杯身结霜，奶白透亮，颜色清爽"
+    }
+  ],
+  "tips": [
+    "蒙古族夏天把酸奶兑水稀释后当饮料喝，解渴又顶饱。",
+    "用冰牛奶比常温水好，奶香更浓，口感也更顺。",
+    "加一小撮盐是草原做法，喝起来奶味反而更明显。"
+  ],
+  "common_mistakes": [
+    "全部用酸奶不兑水，喝着太稠太酸，像在吃甜品。",
+    "糖加太多盖住酸味，喝完嘴里发黏，宁可少放一点。",
+    "打好放半小时才喝，分层后上层稀下层稠。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "水",
+      "ratio": "300毫升:300毫升",
+      "note": "纯水版更清爽，适合夏天大量喝。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "蜂蜜",
+      "ratio": "20克:22克",
+      "note": "蜂蜜版香气更柔，须用温水化开再加。"
+    }
+  ],
+  "variations": [
+    "加一根香蕉同打，口感更稠，早餐喝一杯就够。",
+    "放几片薄荷叶同打，清凉感更强，配烤肉特别解腻。"
+  ],
+  "serving_suggestion": "装冰镇玻璃杯，配炒米、炸馃子或手把肉一起吃。",
+  "storage": "冷藏密封当天喝完，乳制品久放容易变酸变质。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 160,
+    "protein_g": 8,
+    "fat_g": 5,
+    "carbs_g": 22,
+    "sodium_mg": 120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "含乳制品，须全程冷藏并在当天饮用；乳糖不耐者可用无乳糖牛奶与酸奶替代。"
+  ],
+  "origin_note": "艾日格是蒙古族用马奶或牛奶发酵制成的酸饮，草原上夏天靠它解渴。家常做法更简单，酸奶兑冰牛奶和一点水，加糖和盐打匀，奶香里带清爽的酸。",
+  "tags": [
+    "内蒙菜",
+    "饮品",
+    "酸奶",
+    "牛奶",
+    "清凉"
+  ],
+  "related_ids": [
+    "mongolian-milk-tea",
+    "mongolian-yogurt-bowl",
+    "mongolian-milk-tofu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

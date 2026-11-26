@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mongolian-mushroom-lamb-noodle",
+  "name": {
+    "zh": "口蘑羊肉面",
+    "en": "Mushroom Lamb Noodles",
+    "original": "Гурван гоймон"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "mongolian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 42,
+    "total_min": 54
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "手擀面，宽条",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 250,
+          "unit": "g",
+          "note": "薄切，肥瘦相间",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 200,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒料用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "汤底调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜上色",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮面与汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "锅铲",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "口蘑切半厘米厚片，大葱切段，胡萝卜切成筷子粗的丝。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "口蘑切厚片才煎得出焦边，切薄了遇热就缩成一片。",
+      "visual_cue": "菇片厚薄一致，切面干爽，看着就有食欲"
+    },
+    {
+      "n": 2,
+      "text": "炒锅烧热放植物油，油纹散开下羊肉片摊开煎到变色。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "羊肉先煎出油，汤才香，肉片摊平别挤成一堆。",
+      "visual_cue": "肉片泛白，锅底见油，香气已出"
+    },
+    {
+      "n": 3,
+      "text": "羊肉推到锅边，下大葱段和胡萝卜丝炒出香味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "葱段炒出甜味再加水，汤头会明显厚一层。",
+      "visual_cue": "葱段透明，胡萝卜上色，层次分明"
+    },
+    {
+      "n": 4,
+      "text": "倒入口蘑片翻炒三分钟，让菇面煎出焦边并吸走油香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "口蘑要先煎透到塌下去，生菇味才会散掉。",
+      "visual_cue": "菇片塌软，边缘转褐，火候刚好"
+    },
+    {
+      "n": 5,
+      "text": "沿锅边淋生抽炒匀，加热水一千二百毫升烧开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "一定加热水，冷水下去肉片会紧，汤也不鲜。",
+      "visual_cue": "汤色转琥珀，热气翻腾，状态分明"
+    },
+    {
+      "n": 6,
+      "text": "汤滚后撇净浮沫，加盐与黑胡椒，小火煮十分钟出味。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "浮沫撇干净汤才清，不撇会有一股膻味。",
+      "visual_cue": "汤面清亮，浮沫成团，火候正好"
+    },
+    {
+      "n": 7,
+      "text": "另一锅烧水，面条下锅按包装时间煮到八分熟。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "面煮八分熟就捞，剩下两分熟交给汤锅吸味。",
+      "visual_cue": "面条浮起，中间留一点白心"
+    },
+    {
+      "n": 8,
+      "text": "面条捞进汤锅，中火再煮两分钟让面条吸饱汤汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "面和汤一起煮这两分钟，味才进得去，不是分开装。",
+      "visual_cue": "面条膨胀，汤略收稠，状态到位"
+    },
+    {
+      "n": 9,
+      "text": "撒一把葱段，连汤带面盛进大碗，趁热端上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "碗先用热水烫过，面上桌不至于三分钟就凉。",
+      "visual_cue": "汤面浮葱绿，面条宽厚有光"
+    }
+  ],
+  "tips": [
+    "内蒙人吃面讲究汤厚面宽，一碗下去能顶半天放牧的体力。",
+    "口蘑换成白蘑也行，鲜味其实是菌菇本身撑起来的。",
+    "羊肉片别切太厚，薄片一烫就熟，口感才滑。"
+  ],
+  "common_mistakes": [
+    "口蘑没煎透直接下水，汤里一股生菌味，怎么调味都压不住。",
+    "面条煮到全熟再进汤，盛出来发软没嚼劲。",
+    "加冷水续汤，肉片骤缩变硬，汤也不甜了。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉片",
+      "substitute": "羊肉块",
+      "ratio": "250克:260克",
+      "note": "羊肉块要先炖二十分钟再下面，否则咬不动。"
+    },
+    {
+      "original": "生抽",
+      "substitute": "盐",
+      "ratio": "15毫升:5克",
+      "note": "只用盐汤色清亮，但鲜味会薄一点。"
+    }
+  ],
+  "variations": [
+    "加一勺辣椒油和一点香菜，汤味立刻冲起来，冬天吃最舒服。",
+    "换成荞麦面，口感更硬，也更贴草原的粗粮吃法。"
+  ],
+  "serving_suggestion": "用大碗盛汤面，撒葱段，配一碟蒜泥和一碗奶茶。",
+  "storage": "冷藏可存两天，汤面分开存放；复热时汤先烧开再下面，别整碗微波。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 580,
+    "protein_g": 34,
+    "fat_g": 18,
+    "carbs_g": 68,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "菌菇类须彻底加热至完全熟透再食用，不可生食；羊肉片须煮至无血色，中心温度达七十五度以上。"
+  ],
+  "origin_note": "草原上羊肉与蘑菇是夏天最搭的两样东西。牧民把口蘑和羊肉片一起炒香，添水下面条，一锅端上桌。汤厚面宽，菌香混着羊油香，是牧区最常见的家常面。",
+  "tags": [
+    "内蒙菜",
+    "主食",
+    "面条",
+    "羊肉",
+    "口蘑"
+  ],
+  "related_ids": [
+    "mongolian-mutton-noodle-soup",
+    "mongolian-tsuivan",
+    "mongolian-lamb-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
