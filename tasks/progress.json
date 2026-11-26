@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:34:17.783Z",
+  "generatedAt": "2026-11-26T07:09:43.922Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 653,
     "target": 3274,
-    "actual": 2324,
-    "coverage": 0.7098350641417227
+    "actual": 2332,
+    "coverage": 0.7122785583384239
   },
   "regions": {
     "cn": [
@@ -3749,17 +3749,19 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 59,
+        "actual": 67,
         "cells": [
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "ciabatta",
               "focaccia",
               "grissini",
+              "italian-focaccia",
+              "italian-grissini",
               "italian-pane-carasau",
               "italian-pane-toscano",
               "italian-piadina-romagnola",
@@ -3772,10 +3774,11 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "chicken-cacciatore",
               "italian-chicken-parmesan",
+              "italian-pollo-alla-cacciatora",
               "italian-pollo-alla-milanese",
               "italian-pollo-in-padella",
               "pollo-al-limone",
@@ -3787,10 +3790,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "biscotti",
               "cannoli-siciliani",
+              "italian-cantuccini",
               "italian-granita-al-limone",
               "italian-torta-al-limone",
               "italian-torta-caprese",
@@ -3819,7 +3823,7 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "aglio-e-olio",
               "italian-arrabbiata-sauce",
@@ -3827,6 +3831,7 @@
               "italian-marinara-sauce",
               "italian-pesto-di-rucola",
               "italian-puttanesca-sauce",
+              "italian-salsa-verde",
               "pesto-genovese",
               "pesto"
             ]
@@ -3846,17 +3851,21 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "italian-frittata"
+              "italian-frittata",
+              "italian-uova-al-pomodoro"
             ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "italian-tofu-alla-parmigiana",
+              "italian-tofu-in-padella"
+            ]
           },
           {
             "category": "staple-noodle",

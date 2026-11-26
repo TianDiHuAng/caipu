@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-focaccia",
+  "name": {
+    "zh": "意大利佛卡夏",
+    "en": "Focaccia",
+    "original": "Focaccia"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 146,
+    "cook_min": 25,
+    "total_min": 171
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 400,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "迷迭香",
+          "name_en": "rosemary",
+          "amount": 5,
+          "unit": "g",
+          "note": "取叶切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 5,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "面团用",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 80,
+          "unit": "ml",
+          "note": "分次抹面",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "温水约三十度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "烤盘",
+    "烤箱",
+    "擀面杖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温水化开酵母，静置五分钟看到水面浮起一层细泡。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水太烫会把酵母烫死，摸起来比手温略高就够。",
+      "visual_cue": "水面浮起细密小泡，水面微微鼓动"
+    },
+    {
+      "n": 2,
+      "text": "面粉加盐拌匀，倒入酵母水和三十毫升橄榄油揉成团。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "盐不能和酵母直接碰，会抑制发酵，面团发不起来。",
+      "visual_cue": "面团成型，盆壁基本干净"
+    },
+    {
+      "n": 3,
+      "text": "面团移到抹油的盆里盖湿布，室温发到两倍大。",
+      "time_min": 105,
+      "heat": "无火",
+      "tip": "发酵看状态不看时间，按下去缓慢回弹才算发好。",
+      "visual_cue": "面团鼓起两倍，表面有气孔"
+    },
+    {
+      "n": 4,
+      "text": "烤盘抹足橄榄油，把面团倒进去，用手指从中间往外推平。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "手指推的时候别压死气泡，那些气泡就是佛卡夏松软的来源。",
+      "visual_cue": "面团铺满烤盘，表面留指坑"
+    },
+    {
+      "n": 5,
+      "text": "表面刷一层橄榄油撒盐与迷迭香，盖上湿布再醒二十分钟。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "二次醒发不能省，跳过的话烤出来又扁又硬。",
+      "visual_cue": "面团微微鼓起，油光发亮"
+    },
+    {
+      "n": 6,
+      "text": "烤箱二百二十度烤二十分钟，表面金黄鼓起就出炉脱模。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "出炉立刻脱模，留在烤盘里底部会被蒸汽泡软。",
+      "visual_cue": "表面金黄，边缘微微焦脆"
+    }
+  ],
+  "tips": [
+    "佛卡夏是意大利北部的家常扁面包，配方简单到只有面、水、油和盐。",
+    "用手指在表面戳满小坑，淋上橄榄油才够香。",
+    "烤好当天最好吃，隔夜可用平底锅回热。"
+  ],
+  "common_mistakes": [
+    "酵母水温度太高，面团一小时都不见涨，最后烤成硬饼。",
+    "橄榄油抹太少，烤出来干硬，蘸汤都救不回来。",
+    "推到烤盘时使劲压，气泡全消，成品又实又扁。"
+  ],
+  "substitutions": [
+    {
+      "original": "迷迭香",
+      "substitute": "百里香",
+      "ratio": "5克:5克",
+      "note": "百里香版香气更清，适合配汤。"
+    },
+    {
+      "original": "面粉",
+      "substitute": "低筋面粉",
+      "ratio": "400克:300克加100克高筋",
+      "note": "加高筋粉筋度更好，纯低筋烤出来发酥不蓬松。"
+    }
+  ],
+  "variations": [
+    "表面铺小番茄和黑橄榄同烤，是常见的加料版本。",
+    "面团里揉进一把葡萄干，甜咸交织，适合早餐。"
+  ],
+  "serving_suggestion": "切成方块，趁温热配橄榄油和黑醋蘸食，也可夹火腿做三明治。",
+  "storage": "常温密封可存两天，冷冻可存一个月，回炉五分钟即可恢复。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 10,
+    "fat_g": 18,
+    "carbs_g": 54,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "含麸质，麸质过敏者禁食；烤箱操作注意防烫，出炉后稍放凉再切。"
+  ],
+  "origin_note": "Focaccia 是意大利北部的家常扁面包，古罗马时期就有雏形。面团用水和油揉得柔软，摊平后用指头戳出小坑，淋上橄榄油和迷迭香，烤出来外脆内软。",
+  "tags": [
+    "意大利菜",
+    "面包",
+    "佛卡夏",
+    "迷迭香",
+    "烤箱"
+  ],
+  "related_ids": [
+    "italian-pane-toscano",
+    "italian-pizza-bianca",
+    "italian-piadina-romagnola"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
