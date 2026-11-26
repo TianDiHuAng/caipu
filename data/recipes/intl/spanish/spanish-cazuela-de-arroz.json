@@ -1,0 +1,306 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-cazuela-de-arroz",
+  "name": {
+    "zh": "西班牙砂锅鸡肉饭",
+    "en": "Chicken Rice Casserole",
+    "original": "Cazuela de Arroz con Pollo"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 6,
+    "cook_min": 57,
+    "total_min": 63
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "短粒米",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 450,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 80,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 80,
+          "unit": "g",
+          "note": "冷冻",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 850,
+          "unit": "ml",
+          "note": "热的鸡高汤",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎鸡用",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 0.2,
+          "unit": "g",
+          "note": "一小撮",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 4,
+          "unit": "g",
+          "note": "甜椒粉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 80,
+          "unit": "ml",
+          "note": "干白",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "木勺",
+    "砧板",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉撒盐腌十分钟，砂锅烧热橄榄油，鸡皮朝下煎。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "砂锅要先烧透再下油，冷锅下鸡肉会粘得抬不起来。",
+      "visual_cue": "鸡皮金黄，锅底起焦香"
+    },
+    {
+      "n": 2,
+      "text": "翻面再煎三分钟取出，用原锅下腊肠片煎出红油。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "腊肠的红油是这道饭的颜色来源，别急着倒掉。",
+      "visual_cue": "腊肠卷边，锅里的油色发红"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱末、蒜末与甜椒丁，中火翻炒到软透出水。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "甜椒炒软才出甜味，硬的时候下汤只会涩。",
+      "visual_cue": "蔬菜软塌，锅底不见水"
+    },
+    {
+      "n": 4,
+      "text": "加番茄碎与红椒粉炒成浓稠底酱，倒入白葡萄酒。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "酒后煮到酒气散尽，酸味才不会抢掉藏红花的香。",
+      "visual_cue": "底酱浓稠，酒气基本散尽"
+    },
+    {
+      "n": 5,
+      "text": "鸡块回锅翻匀，倒入泡过藏红花的热高汤煮开。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "汤要热，冷的会让砂锅温度骤降，米粒外熟内生。",
+      "visual_cue": "汤面翻滚，汤色转成金黄"
+    },
+    {
+      "n": 6,
+      "text": "下大米用木勺铺平，中火煮十二分钟，全程不搅动。",
+      "time_min": 14,
+      "heat": "中火",
+      "tip": "米下锅就别搅，砂锅底薄，一搅米粒全碎。",
+      "visual_cue": "汤面冒小泡，米粒鼓起"
+    },
+    {
+      "n": 7,
+      "text": "撒入豌豆转小火焖八分钟，到汤汁基本收干为止。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "豌豆最后放，久煮会发黄，甜味也跑掉。",
+      "visual_cue": "汤汁收干，豌豆仍旧翠绿"
+    },
+    {
+      "n": 8,
+      "text": "关火后盖上干布静置五分钟，撒上欧芹碎端上桌。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置的五分钟饭粒会把余汤吸干，口感才松散。",
+      "visual_cue": "饭面干爽，锅边结薄壳"
+    }
+  ],
+  "tips": [
+    "砂锅饭是西班牙家庭的周日午饭，一口砂锅就能端上桌。",
+    "腊肠和藏红花是这锅饭的两个关键，缺一个味道就单薄。",
+    "锅底的薄壳别刮掉，那是最好吃的一层。"
+  ],
+  "common_mistakes": [
+    "砂锅没烧透就下鸡肉，全粘在锅底刮不下来。",
+    "中途搅动米粒，淀粉出来，整锅变成稠糊。",
+    "汤一次加太多，煮到最后饭烂成粥，粒感全无。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肠",
+      "substitute": "火腿",
+      "ratio": "80克:80克",
+      "note": "火腿版咸度更高，盐要少放两克。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "兔肉",
+      "ratio": "450克:450克",
+      "note": "兔肉是瓦伦西亚传统做法，炖的时间需延长十分钟。"
+    }
+  ],
+  "variations": [
+    "加一把青豆和几片红椒同焖，颜色更热闹。",
+    "放几只虾仁进去，海陆混合，是海岸一带的吃法。"
+  ],
+  "serving_suggestion": "连砂锅端上桌，配一份蔬菜沙拉和一杯干红。",
+  "storage": "冷藏可存两天，复热加两勺高汤小火焖五分钟。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 620,
+    "protein_g": 34,
+    "fat_g": 24,
+    "carbs_g": 68,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sulfite"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炖至中心不再呈粉色、达到七十五度；禽类与生食砧板分开，剩饭须彻底加热。"
+  ],
+  "origin_note": "Cazuela de Arroz con Pollo 是西班牙家家会做的砂锅饭，鸡肉、腊肠和甜椒先在锅里煎出香气，再下米和高汤焖熟。一锅端上桌，配面包和沙拉就是完整的一餐。",
+  "tags": [
+    "西班牙菜",
+    "主食",
+    "米饭",
+    "鸡肉",
+    "砂锅"
+  ],
+  "related_ids": [
+    "spanish-arroz-con-pollo",
+    "spanish-paella",
+    "spanish-arroz-con-verduras"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

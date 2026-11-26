@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:09:43.922Z",
+  "generatedAt": "2026-11-26T08:06:18.278Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 653,
     "target": 3274,
-    "actual": 2332,
-    "coverage": 0.7122785583384239
+    "actual": 2340,
+    "coverage": 0.7147220525351252
   },
   "regions": {
     "cn": [
@@ -4147,13 +4147,13 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 61,
+        "actual": 69,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
               "bacalao-al-pil-pil",
               "gambas-al-ajillo",
@@ -4161,7 +4161,9 @@
               "pulpo-a-la-gallega",
               "spanish-bacalao-al-horno",
               "spanish-gambas-al-ajillo",
+              "spanish-merluza-rebozada",
               "spanish-paella",
+              "spanish-pulpo-a-la-gallega",
               "spanish-sepia-plancha"
             ]
           },
@@ -4169,7 +4171,7 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "calamares-fritos",
               "champinones-al-ajillo",
@@ -4180,6 +4182,7 @@
               "spanish-pan-con-tomate",
               "spanish-patatas-bravas",
               "spanish-pimientos-padron",
+              "spanish-pimientos-rellenos",
               "tortilla-espanola"
             ]
           },
@@ -4187,7 +4190,7 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
               "arroz-negro",
               "paella-valenciana",
@@ -4196,6 +4199,8 @@
               "spanish-arroz-caldoso",
               "spanish-arroz-con-pollo",
               "spanish-arroz-con-verduras",
+              "spanish-arroz-negro",
+              "spanish-cazuela-de-arroz",
               "spanish-paella"
             ]
           },
@@ -4219,7 +4224,7 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "alioli",
               "romesco-sauce",
@@ -4228,6 +4233,7 @@
               "spanish-ali-oli",
               "spanish-escalivada",
               "spanish-romesco-sauce",
+              "spanish-salsa-brava",
               "spanish-salsa-verde"
             ]
           },
@@ -4248,8 +4254,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "spanish-huevos-rellenos",
               "spanish-tortilla-espanola"
             ]
           },
@@ -4257,9 +4264,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "spanish-tofu-a-la-plancha"
+              "spanish-tofu-a-la-plancha",
+              "spanish-tofu-al-ajillo"
             ]
           },
           {

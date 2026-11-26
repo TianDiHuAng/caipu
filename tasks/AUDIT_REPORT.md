@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-26T07:09:36.900Z
+- 生成时间：2026-11-26T08:05:50.831Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：59 个，抽样 129 道，平均分 99
+- 覆盖菜系：59 个，抽样 130 道，平均分 99
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -124,31 +124,32 @@
 | south-african | south-african-potjiekos | 100 | A | 无 |
 | south-asian | south-asian-butter-chicken | 100 | A | 无 |
 | south-asian | south-asian-gajar-halwa | 100 | A | 无 |
-| spanish | spanish-gazpacho | 100 | A | 无 |
-| spanish | romesco | 100 | A | 无 |
-| spanish | spanish-paella | 100 | A | 无 |
-| taiwan | taiwan-danzai-noodle | 100 | A | 无 |
-| tex-mex | tex-mex-chicken-burrito | 100 | A | 无 |
+| spanish | spanish-huevos-rotos | 100 | A | 无 |
+| spanish | spanish-albondigas | 100 | A | 无 |
+| spanish | spanish-pan-con-tomate | 100 | A | 无 |
+| spanish | spanish-arroz-caldoso | 100 | A | 无 |
+| taiwan | taiwan-chicken-rice | 100 | A | 无 |
 | tex-mex | tex-mex-elote | 100 | A | 无 |
-| thai | mango-sticky-rice | 93 | A | 准确性 18/25 |
-| thai | thai-green-curry-chicken | 100 | A | 无 |
-| thai | thai-pad-prik-gaeng-moo | 100 | A | 无 |
+| tex-mex | tex-mex-arroz-rojo | 100 | A | 无 |
+| thai | thai-goong-tod-krathiam | 94 | A | 安全性 14/20 |
+| thai | thai-pad-prik-doufu | 94 | A | 安全性 14/20 |
 | thai | thai-yam-het | 100 | A | 无 |
-| tibetan | tibetan-thenthuk | 94 | A | 安全性 14/20 |
+| thai | thai-pla-neung-manao | 100 | A | 无 |
+| tibetan | tibetan-dresil | 100 | A | 无 |
 | turkish | turkish-ezme | 93 | A | 准确性 18/25 |
-| turkish | turkish-hunkar-begendi | 100 | A | 无 |
-| vietnamese | vietnamese-goi-bo | 100 | A | 无 |
-| west-african | west-african-lentil-stew | 93 | A | 准确性 18/25 |
+| turkish | turkish-manti | 100 | A | 无 |
+| vietnamese | vietnamese-dau-hu-sot-ca | 100 | A | 无 |
 | west-african | west-african-chin-chin | 100 | A | 无 |
-| xibei | xibei-yangrou-jiaozi | 100 | A | 无 |
-| xinjiang | naobao-rou | 100 | A | 无 |
-| yunguai | suantang-feiniu | 100 | A | 无 |
+| west-african | west-african-puff-puff | 100 | A | 无 |
+| xibei | lanzhou-niurou-mian | 100 | A | 无 |
+| xinjiang | xinjiang-qiezi-shao-yangrou | 100 | A | 无 |
+| yunguai | suan-tang-yu | 100 | A | 无 |
+| zhejiang | xuecai-datang-huangyu | 87 | B | 准确性 18/25；安全性 14/20 |
 | zhejiang | dongpo-rou | 93 | A | 准确性 18/25 |
-| zhejiang | xihu-niurou-geng | 93 | A | 准确性 18/25 |
-| zhejiang | zhejiang-babao-ya | 100 | A | 无 |
 | zhejiang | sun-shao-rou | 100 | A | 无 |
+| zhejiang | zhejiang-zhima-tuan | 100 | A | 无 |
 
 ## 结论
 
-- 本批 129 道全部达到 B 级及以上，无需重写。
+- 本批 130 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。
