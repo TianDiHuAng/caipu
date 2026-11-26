@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-gimbap",
+  "name": {
+    "zh": "韩式紫菜包饭",
+    "en": "Korean Seaweed Rice Rolls",
+    "original": "Gimbap"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 28,
+    "cook_min": 18,
+    "total_min": 46
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "温热的",
+          "optional": false
+        },
+        {
+          "name": "紫菜",
+          "name_en": "nori",
+          "amount": 20,
+          "unit": "g",
+          "note": "整张烤紫菜",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "摊蛋皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细条",
+          "optional": false
+        },
+        {
+          "name": "菠菜",
+          "name_en": "spinach",
+          "amount": 100,
+          "unit": "g",
+          "note": "焯水",
+          "optional": false
+        },
+        {
+          "name": "泡菜",
+          "name_en": "kimchi",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "拌饭用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 8,
+          "unit": "g",
+          "note": "点缀",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煎蛋皮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "竹帘",
+    "平底锅",
+    "寿司刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "温热米饭倒进大碗，淋香油、撒盐和白芝麻，用饭勺翻拌到粒粒油亮。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "趁热拌，凉了油挂不上米粒。这一步别省，成品口感差别很明显。",
+      "visual_cue": "米粒油亮，松散不粘，锅里状态一目了然。"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋打散加一点盐，平底锅刷一层植物油小火摊成蛋皮，晾凉后切成细条。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "蛋皮摊薄一点，卷起来才不顶手。火候和顺序都要留神，别图快。",
+      "visual_cue": "蛋皮平整，厚薄均匀，颜色和形态变化清楚。"
+    },
+    {
+      "n": 3,
+      "text": "胡萝卜切细条用少许油炒一分钟至断生，菠菜焯水挤干后拌一点盐和香油。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "胡萝卜炒一下更甜，也更软好卷。提前把材料备齐，操作起来更稳当。",
+      "visual_cue": "胡萝卜发亮，菠菜成束"
+    },
+    {
+      "n": 4,
+      "text": "紫菜铺在竹帘上，把米饭均匀铺满四分之三，靠外一侧留出两厘米空白。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "铺薄一点才好卷，太厚会撑开。这一步别省，成品口感差别很明显。",
+      "visual_cue": "饭层薄匀，边留空，颜色和形态变化清楚。"
+    },
+    {
+      "n": 5,
+      "text": "在米饭下三分之一处依次码上蛋皮条、胡萝卜、菠菜和泡菜，用竹帘压卷成条。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "边卷边压实，两头向内收一下。火候和顺序都要留神，别图快。",
+      "visual_cue": "卷体紧实，粗细一致，锅里状态一目了然。"
+    },
+    {
+      "n": 6,
+      "text": "刀抹香油，把包饭切成一点五厘米厚的段，切口朝上摆盘撒白芝麻。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "每切一刀抹一次油，切口才整齐。提前把材料备齐，操作起来更稳当。",
+      "visual_cue": "切口平整，饭粒不散，颜色和形态变化清楚。"
+    }
+  ],
+  "tips": [
+    "米饭要温热时拌香油和盐，凉了粘不成团。",
+    "卷的时候用竹帘压实再推进，卷出来才紧实不散。",
+    "刀上抹一层香油再切，切口平整不掉米粒。"
+  ],
+  "common_mistakes": [
+    "米饭拌得太湿，卷的时候紫菜被泡软，一刀切下去整条塌掉。",
+    "馅料堆在中间不铺开，卷出来两头空、中间鼓，很难看。",
+    "用快刀来回拉锯着切，紫菜全被拉破，饭粒撒一盘。"
+  ],
+  "substitutions": [
+    {
+      "original": "泡菜",
+      "substitute": "腌黄瓜",
+      "ratio": "80克:80克",
+      "note": "咸度更轻，盐可多加一克。"
+    },
+    {
+      "original": "紫菜",
+      "substitute": "海苔片",
+      "ratio": "20克:20克",
+      "note": "更薄更脆，卷时动作要更轻。"
+    }
+  ],
+  "variations": [
+    "加一条煎熟的牛肉丝和芝士片，就是韩式店里的豪华版，孩子最爱。",
+    "把米饭换成糙米饭，卷得紧一些，口感更有嚼头也更顶饱。"
+  ],
+  "serving_suggestion": "切成一指半厚的段，切口朝上摆盘，撒白芝麻，配腌萝卜和一杯大麦茶。",
+  "storage": "冷藏可放一天，紫菜会返软，建议用保鲜膜单条包好，食用前常温回温。",
+  "nutrition_estimate": {
+    "basis": "按四条估算",
+    "calories_kcal": 480,
+    "protein_g": 16,
+    "fat_g": 14,
+    "carbs_g": 72,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "sesame"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须摊至完全凝固再切条，中心温度达到七十度以上，不要留溏心。",
+    "卷好的包饭常温不要放置超过两小时，外出携带须用保温袋冷藏。"
+  ],
+  "origin_note": "紫菜包饭是韩国人郊游和便当的标配，名字直译就是紫菜加米饭。温热米饭拌上香油和盐，铺在烤紫菜上，码进蛋皮条、胡萝卜、菠菜和泡菜，用竹帘卷紧切段。颜色从紫到橙到绿一层层透出来，看着就开胃。",
+  "tags": [
+    "韩国菜",
+    "米饭",
+    "紫菜",
+    "便当",
+    "野餐"
+  ],
+  "related_ids": [
+    "korean-bibimbap",
+    "korean-kimchi-fried-rice",
+    "korean-tteokbokki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

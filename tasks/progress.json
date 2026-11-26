@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:22:06.432Z",
+  "generatedAt": "2026-11-26T14:33:59.086Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2444,
-    "coverage": 0.746487477092242
+    "actual": 2452,
+    "coverage": 0.7489309712889431
   },
   "regions": {
     "cn": [
@@ -1594,7 +1594,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 66,
+        "actual": 68,
         "cells": [
           {
             "category": "main-meat",
@@ -1655,9 +1655,10 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "anhui-lajiaohu",
+              "anhui-mao-doufu",
               "huizhou-chou-guiyu",
               "huizhou-douchi",
               "huizhou-furu",
@@ -1671,8 +1672,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
+              "anhui-huangshan-shaobing",
               "huizhou-baofu-jiao",
               "huizhou-baolu-guo",
               "huizhou-huoshao",
@@ -3234,7 +3236,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 72,
+        "actual": 73,
         "cells": [
           {
             "category": "main-seafood",
@@ -3293,7 +3295,7 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "chawanmushi",
               "goma-ae-spinach",
@@ -3301,6 +3303,7 @@
               "japanese-agedashi-tofu",
               "japanese-chawanmushi",
               "japanese-hiyayakko",
+              "japanese-shiraae-ae",
               "japanese-takoyaki",
               "karaage"
             ]
@@ -3428,7 +3431,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 72,
+        "actual": 73,
         "cells": [
           {
             "category": "main-meat",
@@ -3471,13 +3474,14 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "dolsot-bibimbap",
               "dwaeji-gukbap",
               "gimbap",
               "korean-bibimbap",
               "korean-doenjang-gukbap",
+              "korean-gimbap",
               "korean-kimchi-bokkeumbap",
               "korean-kimchi-fried-rice",
               "korean-kongnamul-bap",
@@ -3833,7 +3837,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 69,
+        "actual": 70,
         "cells": [
           {
             "category": "staple-bread",
@@ -3892,13 +3896,14 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "bruschetta",
               "caprese-salad",
               "italian-arancini",
               "italian-bruschetta",
               "italian-funghi-trifolati",
+              "italian-peperonata",
               "italian-polpette",
               "italian-suppli",
               "italian-vitello-tonnato"
@@ -4024,7 +4029,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 74,
+        "actual": 75,
         "cells": [
           {
             "category": "main-meat",
@@ -4134,8 +4139,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "french-oeufs-en-meurette",
               "french-omelette-aux-fines-herbes",
               "french-omelette"
             ]
@@ -4236,7 +4242,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 71,
+        "actual": 72,
         "cells": [
           {
             "category": "main-seafood",
@@ -4344,9 +4350,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "spanish-huevos-rellenos",
+              "spanish-revuelto-gambas",
               "spanish-tortilla-espanola"
             ]
           },
@@ -4429,7 +4436,7 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 26,
+        "actual": 27,
         "cells": [
           {
             "category": "soup",
@@ -4482,8 +4489,10 @@
             "category": "drink",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "vietnamese-sinh-to-bo"
+            ]
           },
           {
             "category": "main-vegetable",
