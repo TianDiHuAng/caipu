@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:16:03.999Z",
+  "generatedAt": "2026-11-26T15:39:29.844Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2467,
-    "coverage": 0.753512522907758
+    "actual": 2475,
+    "coverage": 0.7559560171044594
   },
   "regions": {
     "cn": [
@@ -954,7 +954,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 79,
+        "actual": 81,
         "cells": [
           {
             "category": "main-seafood",
@@ -978,7 +978,7 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "dongpo-rou",
               "meigancai-kourou",
@@ -986,6 +986,7 @@
               "sun-shao-rou",
               "zhejiang-furu-rou",
               "zhejiang-gancai-menrou",
+              "zhejiang-jiang-ya",
               "zhejiang-meigan-cai-kourou-wan",
               "zhejiang-shengchao-rousi",
               "zhejiang-shizitou"
@@ -1032,7 +1033,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "dingsheng-gao",
               "guihua-nuomiyu",
@@ -1040,6 +1041,7 @@
               "ningbo-tangyuan",
               "zhejiang-bingtang-nuoou",
               "zhejiang-guihua-gao",
+              "zhejiang-guihua-nuomi-ou",
               "zhejiang-lvdou-gao",
               "zhejiang-qingtuan",
               "zhejiang-yin-er-geng"
@@ -3240,7 +3242,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 74,
+        "actual": 75,
         "cells": [
           {
             "category": "main-seafood",
@@ -3317,12 +3319,13 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "dorayaki",
               "japanese-castella",
               "japanese-ichigo-daifuku",
               "japanese-mizuyokan",
+              "japanese-ohagi",
               "japanese-oshiruko",
               "japanese-purin",
               "japanese-shiratama",
@@ -3436,7 +3439,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 74,
+        "actual": 76,
         "cells": [
           {
             "category": "main-meat",
@@ -3462,12 +3465,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "dwaeji-gukbap",
               "korean-dajiang-tang",
               "korean-doenjang-ggigae",
               "korean-kongnamul-guk",
+              "korean-miyuk-guk",
               "korean-sogogi-muguk",
               "korean-tteokguk",
               "miyeok-guk",
@@ -3514,7 +3518,7 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "haemul-pajeon",
               "hotteok",
@@ -3524,7 +3528,8 @@
               "korean-hotteok-ssiat",
               "korean-hotteok",
               "korean-kimchi-jeon",
-              "korean-tteokbokki"
+              "korean-tteokbokki",
+              "korean-vegetable-jeon"
             ]
           },
           {
@@ -3640,7 +3645,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 77,
+        "actual": 79,
         "cells": [
           {
             "category": "main-poultry",
@@ -3700,7 +3705,7 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "pu-pad-pong-curry",
               "thai-basil-shrimp",
@@ -3709,6 +3714,7 @@
               "thai-goong-pad-makham",
               "thai-goong-tod-krathiam",
               "thai-pla-neung-manao",
+              "thai-pla-neung",
               "thai-steamed-fish",
               "tom-yum-goong"
             ]
@@ -3717,9 +3723,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "mango-sticky-rice",
+              "thai-bua-loi",
               "thai-bua-loy",
               "thai-coconut-jelly",
               "thai-coconut-sticky-rice",
@@ -6611,7 +6618,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 66,
+        "actual": 67,
         "cells": [
           {
             "category": "main-meat",
@@ -6671,11 +6678,12 @@
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "american-biscuits-gravy",
               "american-breakfast-burrito",
               "american-breakfast-hash",
+              "american-egg-in-a-hole",
               "american-eggs-benedict",
               "american-hash-browns",
               "american-pancakes",
