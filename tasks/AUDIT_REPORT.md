@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-26T04:59:10.973Z
+- 生成时间：2026-11-26T05:26:06.622Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：59 个，抽样 126 道，平均分 99
+- 覆盖菜系：59 个，抽样 126 道，平均分 98
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -77,10 +77,10 @@
 | japanese | karaage | 100 | A | 无 |
 | jiangsu | guotie | 93 | A | 准确性 18/25 |
 | jiangsu | jiangsu-baoyu-hongshao | 100 | A | 无 |
-| jiangsu | jiangsu-jingxiang-doufu | 100 | A | 无 |
+| jiangsu | jiangsu-jitang-zhugansi | 100 | A | 无 |
 | jiangsu | yangchun-mian | 100 | A | 无 |
-| korean | korean-fried-chicken | 100 | A | 无 |
-| korean | korean-egg-roll | 100 | A | 无 |
+| korean | korean-gaji-namul | 93 | A | 准确性 18/25 |
+| korean | korean-galbi-gui | 100 | A | 无 |
 | korean | budae-jjigae | 100 | A | 无 |
 | malaysian | malaysian-char-kway-teow | 100 | A | 无 |
 | mediterranean | mediterranean-stuffed-zucchini | 100 | A | 无 |

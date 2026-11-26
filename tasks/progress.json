@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:59:18.558Z",
+  "generatedAt": "2026-11-26T05:26:14.270Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 653,
     "target": 3274,
-    "actual": 2300,
-    "coverage": 0.7025045815516188
+    "actual": 2308,
+    "coverage": 0.7049480757483201
   },
   "regions": {
     "cn": [
@@ -757,7 +757,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 73,
+        "actual": 74,
         "cells": [
           {
             "category": "main-seafood",
@@ -822,12 +822,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "jiangsu-baiqie-yangrou",
               "jiangsu-jiangya",
               "jiangsu-liangban-wosun",
               "jiangsu-tangcu-luobo",
+              "jiangsu-xunyu",
               "nanjing-yanshui-ya",
               "shuijing-yaorou",
               "zao-maodou"
@@ -3350,7 +3351,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 64,
+        "actual": 68,
         "cells": [
           {
             "category": "main-meat",
@@ -3376,11 +3377,12 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "dwaeji-gukbap",
               "korean-dajiang-tang",
               "korean-doenjang-ggigae",
+              "korean-kongnamul-guk",
               "korean-sogogi-muguk",
               "miyeok-guk",
               "sundubu-jjigae",
@@ -3391,7 +3393,7 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "dolsot-bibimbap",
               "dwaeji-gukbap",
@@ -3399,6 +3401,7 @@
               "korean-bibimbap",
               "korean-doenjang-gukbap",
               "korean-kimchi-fried-rice",
+              "korean-kongnamul-bap",
               "korean-tteokbokki"
             ]
           },
@@ -3406,13 +3409,14 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "gochujang",
               "kimchi",
               "kkakdugi",
               "korean-cucumber-oiji",
               "korean-dongchimi",
+              "korean-kkakdugi",
               "korean-oiji",
               "korean-perilla-jangajji"
             ]
@@ -3421,12 +3425,13 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "haemul-pajeon",
               "hotteok",
               "korean-bungeoppang",
               "korean-fried-chicken",
+              "korean-haemul-pajeon",
               "korean-hotteok-ssiat",
               "korean-kimchi-jeon",
               "korean-tteokbokki"
@@ -3544,21 +3549,23 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 66,
+        "actual": 68,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 9,
             "ids": [
               "larb-gai",
               "thai-cashew-chicken",
               "thai-gaeng-kari-gai",
+              "thai-gai-pad-nam-prik-pao",
               "thai-gai-yang",
               "thai-garlic-pepper-chicken",
               "thai-green-curry-chicken",
-              "thai-khao-soi"
+              "thai-khao-soi",
+              "thai-pad-khing-gai"
             ]
           },
           {
@@ -6413,7 +6420,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 62,
+        "actual": 63,
         "cells": [
           {
             "category": "main-meat",
@@ -6473,13 +6480,14 @@
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "american-biscuits-gravy",
               "american-breakfast-hash",
               "american-eggs-benedict",
               "american-hash-browns",
               "american-pancakes",
+              "american-scrambled-eggs",
               "pancakes",
               "scrambled-eggs"
             ]

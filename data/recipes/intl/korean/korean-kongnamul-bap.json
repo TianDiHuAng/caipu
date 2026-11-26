@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-kongnamul-bap",
+  "name": {
+    "zh": "韩式豆芽饭",
+    "en": "Korean Bean Sprout Rice",
+    "original": "콩나물밥"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "total_min": 55
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "短粒米",
+          "optional": false
+        },
+        {
+          "name": "黄豆芽",
+          "name_en": "soybean sprouts",
+          "amount": 300,
+          "unit": "g",
+          "note": "去根洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味酱油",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 12,
+          "unit": "ml",
+          "note": "拌饭用",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味酱用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "调和酱汁",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 330,
+          "unit": "ml",
+          "note": "煮饭用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "煮饭调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "小碗",
+    "平底锅",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗三遍到水清，泡二十分钟后沥干水分。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡过的米煮出来更饱满，没泡的米芯硬，配豆芽一起吃更明显。",
+      "visual_cue": "米粒发白涨大，水面清澈无浊"
+    },
+    {
+      "n": 2,
+      "text": "黄豆芽掐掉根须，冲净后在沸水里焯三分钟捞出沥干。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "焯一下能去豆腥，生豆芽直接下锅焖饭，整锅饭都会带生豆味。",
+      "visual_cue": "豆芽转软，颜色透亮"
+    },
+    {
+      "n": 3,
+      "text": "米与清水入锅，豆芽平铺在米上，撒盐后启动煮饭程序。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "豆芽铺在上面别搅，搅进米里煮完会烂成一锅糊。",
+      "visual_cue": "豆芽铺平，水面没过米"
+    },
+    {
+      "n": 4,
+      "text": "生抽、香油、辣椒粉、白糖、蒜末与葱花调成拌饭酱。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱汁里加半勺煮饭的米汤，味道更融，也更好拌开。",
+      "visual_cue": "酱汁红亮，葱花浮在表面"
+    },
+    {
+      "n": 5,
+      "text": "饭煮好焖十分钟，开盖把豆芽与饭轻轻翻拌，盛碗配酱汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "拌的时候从底往上翻，压着拌会把米粒压烂发黏。",
+      "visual_cue": "豆芽分布均匀，饭粒分明"
+    }
+  ],
+  "tips": [
+    "豆芽饭是韩国全罗道的家常饭，一锅饭配一碗酱就够一顿。",
+    "用石锅装饭再焖一下，锅底结一层锅巴，浇酱吃最香。",
+    "豆芽可以混一半绿豆芽同焖，口感更嫩，也更容易熟。"
+  ],
+  "common_mistakes": [
+    "豆芽没焯直接下锅，整锅饭带一股生豆腥味。",
+    "水放多，豆芽出水后饭变成稠粥，米粒全糊。",
+    "拌饭时用力压，米粒被压碎，饭发黏不顺口。"
+  ],
+  "substitutions": [
+    {
+      "original": "大米",
+      "substitute": "糙米",
+      "ratio": "300克:300克",
+      "note": "糙米需多泡四十分钟并加五十毫升水。"
+    },
+    {
+      "original": "黄豆芽",
+      "substitute": "绿豆芽",
+      "ratio": "300克:300克",
+      "note": "绿豆芽更嫩，焯水时间减半。"
+    }
+  ],
+  "variations": [
+    "加几片牛肉同焖，做成牛肉豆芽饭，是庆尚道的做法。",
+    "饭里拌一勺大酱代替酱油，风味更浓。"
+  ],
+  "serving_suggestion": "盛进石锅，浇上拌饭酱，配一碗豆芽汤和几片泡菜。",
+  "storage": "冷藏可存一天，复热时淋一勺水盖盖蒸热，口感较接近现煮。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 14,
+    "fat_g": 10,
+    "carbs_g": 82,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆芽须焯水焯透并彻底加热，饭煮好后两小时内冷藏，隔夜饭复热须热透。"
+  ],
+  "origin_note": "콩나물밥 是韩国全罗道乡下的家常饭，一把豆芽铺在米上一起焖，饭香里带豆香。吃的时候浇一勺酱油辣酱拌开，配一碗豆芽汤，是韩国人心里最踏实的一顿。",
+  "tags": [
+    "韩国料理",
+    "主食",
+    "米饭",
+    "黄豆芽",
+    "一锅饭"
+  ],
+  "related_ids": [
+    "korean-kongnamul-guk",
+    "korean-bibimbap",
+    "korean-kimchi-fried-rice"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
