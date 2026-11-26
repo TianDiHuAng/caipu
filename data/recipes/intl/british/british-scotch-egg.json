@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "british-scotch-egg",
+  "name": {
+    "zh": "苏格兰蛋",
+    "en": "Scotch Eggs",
+    "original": "Scotch Egg"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "british"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 36,
+    "cook_min": 22,
+    "total_min": 58
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 300,
+          "unit": "g",
+          "note": "约六个，四个煮、两个打散",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 400,
+          "unit": "g",
+          "note": "带一点肥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "剁细末",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 80,
+          "unit": "g",
+          "note": "裹层用",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 120,
+          "unit": "g",
+          "note": "裹层用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 300,
+          "unit": "ml",
+          "note": "油炸",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "肉豆蔻",
+          "name_en": "nutmeg",
+          "amount": 1,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "漏勺",
+    "保鲜膜",
+    "砧板",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "四个鸡蛋放进冷水锅，中火煮九分钟到全熟，捞出过冰水剥壳。",
+      "time_min": 14,
+      "heat": "中火",
+      "tip": "冷水下锅、水开计时，蛋才不容易煮裂。",
+      "visual_cue": "蛋黄全熟，蛋壳一剥就整片脱落"
+    },
+    {
+      "n": 2,
+      "text": "洋葱剁成细末，撒一点盐抓匀静置五分钟，用纱布挤掉水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洋葱水挤不干，炸的时候肉层容易开裂。",
+      "visual_cue": "洋葱末松散发白，纱布里没有滴水"
+    },
+    {
+      "n": 3,
+      "text": "猪肉末加洋葱末、欧芹碎、盐、黑胡椒和肉豆蔻，顺一个方向搅到起黏性。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "搅到肉糜抱团上劲，包蛋时才贴得牢。",
+      "visual_cue": "肉馅黏稠发亮，能整团提起"
+    },
+    {
+      "n": 4,
+      "text": "肉馅分成四份，掌心压成圆饼，放一颗鸡蛋，慢慢收拢裹圆。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "双手来回轻抛几下，把里面的空气挤出来。",
+      "visual_cue": "肉球滚圆，蛋在中心不偏，火候正好"
+    },
+    {
+      "n": 5,
+      "text": "剩下两个鸡蛋打散成蛋液，肉球依次滚面粉、裹蛋液、粘面包糠。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "面粉层薄薄一层就够，太厚会掉壳，这一步别省。",
+      "visual_cue": "外壳均匀，颗粒分明不结块"
+    },
+    {
+      "n": 6,
+      "text": "深锅倒植物油烧到一百七十度，肉球下锅小火炸六分钟至金黄。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "油温别太高，肉厚需要时间把里面炸熟。",
+      "visual_cue": "外壳金黄，油面细泡不断，状态到位"
+    },
+    {
+      "n": 7,
+      "text": "捞出放厨房纸上沥油，静置三分钟再切，蛋黄才不会流散。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "静置让肉汁回到中心，切面更整齐好看。",
+      "visual_cue": "外壳酥脆，切开层次分明，颜色清爽"
+    }
+  ],
+  "tips": [
+    "苏格兰蛋是英国人野餐盒里的常客，冷的吃比热的更香。",
+    "肉层要裹得均匀，薄厚一致才能同时炸熟。",
+    "一次多裹几个冷冻生坯，想吃时直接下锅。"
+  ],
+  "common_mistakes": [
+    "鸡蛋没煮成全熟，切开蛋黄流一地，肉层也不熟。",
+    "油温过高，外壳焦黑而里面的肉还带血色。",
+    "洋葱没有挤水，肉层下锅就散开，蛋整个掉出来。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "鸡肉末",
+      "ratio": "400克:400克",
+      "note": "鸡肉版口感更清爽，油温可略降一档，防止外焦里生。"
+    },
+    {
+      "original": "面包糠",
+      "substitute": "玉米片碎",
+      "ratio": "120克:110克",
+      "note": "玉米片碎更脆，颗粒粗，压碎后再裹更服帖。"
+    }
+  ],
+  "variations": [
+    "肉馅里拌一勺黄芥末，吃起来带一点辛香，配啤酒很合适。",
+    "换成鹌鹑蛋做成小个头的版本，一口一个，适合当冷盘。"
+  ],
+  "serving_suggestion": "切两半露出蛋心，配一小碟第戎芥末和拌菜叶，冷热都好吃。",
+  "storage": "冷藏可存两天，外壳会回软；冷冻生坯可存一个月，直接冷油下锅慢炸。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 26,
+    "fat_g": 34,
+    "carbs_g": 26,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须煮至蛋黄完全凝固，肉层须炸至中心熟透、无血色；油炸时油量较大，下锅须轻放防溅油，操作时离开儿童。"
+  ],
+  "origin_note": "苏格兰蛋据说是伦敦一家食品店为长途旅客想出的便携食物，用肉馅裹住煮蛋再炸。外壳酥、肉层香、中心是一颗完整的蛋，切开的三层结构成了它最标志的样子。",
+  "tags": [
+    "英国菜",
+    "蛋类",
+    "油炸",
+    "猪肉",
+    "野餐"
+  ],
+  "related_ids": [
+    "british-fish-and-chips",
+    "british-full-breakfast",
+    "british-cornish-pasty"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
