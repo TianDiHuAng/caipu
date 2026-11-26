@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-tofu-steak",
+  "name": {
+    "zh": "日式豆腐排",
+    "en": "Japanese Tofu Steak",
+    "original": "Tofu suteeki"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 13,
+    "total_min": 31
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "压水后切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 30,
+          "unit": "g",
+          "note": "裹面",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 25,
+          "unit": "ml",
+          "note": "增甜亮色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "平衡咸味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 50,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "菜刀",
+    "厨房纸",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐用厨房纸包住，上面压一个盘子，静置十分钟压出多余水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "压过的豆腐才好切，煎的时候也不出水。",
+      "visual_cue": "豆腐变紧实，纸上已湿透"
+    },
+    {
+      "n": 2,
+      "text": "压好的豆腐切成三厘米厚的排状两块，两面均匀拍上一层玉米淀粉。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "粉只拍薄薄一层就够，太厚会吸油发硬",
+      "visual_cue": "表面干爽，粉层均匀薄白"
+    },
+    {
+      "n": 3,
+      "text": "小碗里放生抽、味醂、白糖和清水搅匀，姜磨成泥备用，调成照烧汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "糖先化开再下锅，汁才不会结块发黑。",
+      "visual_cue": "汁色深褐，糖已化开无颗粒"
+    },
+    {
+      "n": 4,
+      "text": "平底锅放植物油烧热，豆腐排下锅中小火煎四分钟，底面金黄后翻面再煎三分钟。",
+      "time_min": 7,
+      "heat": "中小火",
+      "tip": "翻面要用铲子托住，豆腐太嫩容易断碎",
+      "visual_cue": "两面金黄，边缘结起脆边"
+    },
+    {
+      "n": 5,
+      "text": "倒进照烧汁和姜泥，小火煨两分钟，一边收汁一边用勺子往豆腐上淋。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "汁收到能挂勺就该停，再收下去会发苦",
+      "visual_cue": "汁稠裹面，表面油亮反光"
+    },
+    {
+      "n": 6,
+      "text": "豆腐排盛盘，淋上锅里剩的照烧汁，撒白芝麻和小葱圈即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "芝麻用干锅炒十秒更香，直接撒也行。",
+      "visual_cue": "汁亮葱绿，芝麻散落点点"
+    }
+  ],
+  "tips": [
+    "豆腐压水是成败关键，压足十分钟，后面煎才不散也不出水。",
+    "味醂和生抽一比一左右最稳，甜味靠味醂，白糖只是补一点。",
+    "没有味醂可以用米酒加糖代替，但甜味会直一些，糖减到五克。"
+  ],
+  "common_mistakes": [
+    "豆腐不压水就下锅，锅里全是水，煎不出脆壳，还溅油。",
+    "玉米淀粉拍得太厚，煎的时候吸满油，外层发硬里面还是软的。",
+    "照烧汁大火收干，糖烧焦带苦味，豆腐表面发黑卖相差。"
+  ],
+  "substitutions": [
+    {
+      "original": "味醂",
+      "substitute": "米酒",
+      "ratio": "25毫升:25毫升",
+      "note": "米酒需额外加五克白糖补甜。"
+    },
+    {
+      "original": "北豆腐",
+      "substitute": "老豆腐",
+      "ratio": "450克:450克",
+      "note": "老豆腐质地更糙，压水时间可减到五分钟。"
+    }
+  ],
+  "variations": [
+    "表面撒一层芝士碎再烤两分钟，做成洋风豆腐排，孩子更爱吃。",
+    "把照烧汁换成味噌加味醂调的酱，风味更浓，适合配清酒。"
+  ],
+  "serving_suggestion": "热豆腐排配白米饭和一碗味噌汤，就是简单的一餐，配菜用腌萝卜解腻。",
+  "storage": "冷藏可放两天，回热时用平底锅小火两面各煎一分钟，不要用微波炉，会出水变软。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 250,
+    "protein_g": 15,
+    "fat_g": 15,
+    "carbs_g": 13,
+    "sodium_mg": 890,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "煎制时油温不宜过高，豆腐含水遇热油易溅，下锅前须吸干表面水分。",
+    "照烧汁含糖，收汁时须小火避免烧焦发苦。"
+  ],
+  "origin_note": "日本的家庭餐桌上，豆腐排是替代肉排的常见做法。把豆腐压水切厚片，煎到两面金黄再淋照烧汁收浓，切开断面还是雪白细嫩，一盘下去很有饱足感，配米饭比炸猪排清爽。",
+  "tags": [
+    "日本菜",
+    "豆腐",
+    "照烧",
+    "家常菜",
+    "高蛋白"
+  ],
+  "related_ids": [
+    "japanese-agedashi-tofu",
+    "japanese-yudofu",
+    "hiyayakko"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

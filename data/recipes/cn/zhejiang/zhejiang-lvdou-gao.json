@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-lvdou-gao",
+  "name": {
+    "zh": "浙江绿豆糕",
+    "en": "Zhejiang Mung Bean Cake",
+    "original": "Lvdou gao"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 52,
+    "total_min": 92
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "绿豆",
+          "name_en": "mung bean",
+          "amount": 300,
+          "unit": "g",
+          "note": "去皮绿豆仁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "糯米粉",
+          "name_en": "glutinous rice flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "增加黏性",
+          "optional": false
+        },
+        {
+          "name": "红豆沙",
+          "name_en": "red bean paste",
+          "amount": 120,
+          "unit": "g",
+          "note": "现成细腻豆沙",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "按口味增减",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "拌豆泥用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "模具",
+    "细筛"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "去皮绿豆仁用清水泡四个小时，泡到用手指一捻就碎的程度，捞出沥干。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "天热时中途换一次水，避免发酵发酸。",
+      "visual_cue": "豆仁一捻即碎，泡到透心"
+    },
+    {
+      "n": 2,
+      "text": "泡好的绿豆仁铺在蒸屉上，大火蒸二十五分钟，蒸到完全软烂能压成泥。",
+      "time_min": 25,
+      "heat": "大火",
+      "tip": "铺得薄一点蒸得透，铺厚了中间会夹生",
+      "visual_cue": "豆仁开花，一压就成泥"
+    },
+    {
+      "n": 3,
+      "text": "蒸好的绿豆趁热用勺子压成泥，再用细筛过一遍，让口感更细腻。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "过筛虽然费时，但口感差别真的很明显",
+      "visual_cue": "豆泥细滑，没有颗粒感"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放植物油，倒入豆泥、糯米粉、白糖和一小撮盐，小火翻炒八分钟，炒到能成团不粘锅。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "炒到铲子推过能留痕就好，炒太干会裂。",
+      "visual_cue": "豆泥成团，锅底干净不粘"
+    },
+    {
+      "n": 5,
+      "text": "豆泥分成三十克一个的剂子，压扁包入十克豆沙，收口后搓圆。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "皮和馅比例三比一，包出来才有层次。",
+      "visual_cue": "剂子匀整，收口光滑无裂"
+    },
+    {
+      "n": 6,
+      "text": "模具内壁薄薄刷油，把圆球放进去压实，脱模后摆进蒸锅蒸五分钟定型。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "压模的时候用力均匀，花纹才清晰好看",
+      "visual_cue": "花纹清楚，边缘整齐漂亮"
+    }
+  ],
+  "tips": [
+    "绿豆糕要好吃，豆泥一定过筛，细腻的口感全靠这一步。",
+    "炒豆泥时火要小，糖化了容易糊底，最好用厚底锅。",
+    "豆沙别包太多，皮薄了压模会破，露出馅料就不好看。"
+  ],
+  "common_mistakes": [
+    "绿豆没泡透就蒸，蒸一小时豆芯还是硬的，压泥时全是颗粒。",
+    "豆泥炒太干，压模时边角开裂，成品放凉后硬得咬不动。",
+    "模具不刷油直接压，脱模时花纹撕掉一半，卖相全毁。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆沙",
+      "substitute": "红豆沙",
+      "ratio": "120克:120克",
+      "note": "带粒豆沙口感粗一些，可先压细再用。"
+    },
+    {
+      "original": "白糖",
+      "substitute": "红糖",
+      "ratio": "60克:65克",
+      "note": "红糖版颜色偏深，风味更浓。"
+    }
+  ],
+  "variations": [
+    "在豆泥里拌入一勺桂花糖，香气更雅，颜色也更亮。",
+    "把豆沙换成枣泥，甜味更自然，适合不爱吃太甜的家人。"
+  ],
+  "serving_suggestion": "切块装盘，配一壶绿茶当下午茶点心，冷藏后口感更清爽也更好脱模。",
+  "storage": "密封冷藏可放三天，冷冻可放两周，吃前回温十分钟，避免受潮出水。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 320,
+    "protein_g": 9,
+    "fat_g": 11,
+    "carbs_g": 48,
+    "sodium_mg": 95,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆类制品须蒸透炒熟后食用，成品冷藏保存不超过三天。",
+    "含糖点心不宜给婴幼儿整块食用，避免呛噎风险。"
+  ],
+  "origin_note": "江南一带的夏天，绿豆糕是配茶的老点心，讲究的是入口即化。老师傅把绿豆泡开蒸烂，过筛成细泥，小火炒到能成团，再包一小团豆沙压出花纹。凉透后咬一口，甜得克制，绿豆的清香留在舌根。",
+  "tags": [
+    "浙江菜",
+    "甜品",
+    "绿豆",
+    "点心",
+    "传统小吃"
+  ],
+  "related_ids": [
+    "zhejiang-guihua-gao",
+    "zhejiang-qingtuan",
+    "zhejiang-bingtang-nuoou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
