@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-nanru-kourou",
+  "name": {
+    "zh": "南乳扣肉",
+    "en": "Braised Pork Belly with Red Fermented Beancurd",
+    "original": "Nanru kourou"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 124,
+    "total_min": 154
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 700,
+          "unit": "g",
+          "note": "整块带皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "莲藕",
+          "name_en": "lotus root",
+          "amount": 300,
+          "unit": "g",
+          "note": "切厚片垫底",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "腐乳",
+          "name_en": "fermented tofu",
+          "amount": 50,
+          "unit": "g",
+          "note": "连汁压碎",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "回甘",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎皮",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "蒸汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉整块冷水下锅，加姜片和料酒煮二十分钟，煮到筷子能插入皮内，捞出擦干。",
+      "time_min": 24,
+      "heat": "中火",
+      "tip": "煮过再炸，皮才起泡，肉也不会外熟内生，这一步千万别省。",
+      "visual_cue": "肉皮收紧，表面不见血水，状态和火候都看得清"
+    },
+    {
+      "n": 2,
+      "text": "用叉子在皮上扎满小孔，抹一层生抽晾十分钟，让皮面干爽好起泡。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "扎孔是起虎皮的关键，孔越密泡越细，火候和顺序都要留神。",
+      "visual_cue": "皮面密布小孔，泛着酱色，颜色和形态变化明显"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧至六成热，肉皮朝下入锅，立刻盖盖中火炸五分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "下锅马上盖盖，防油溅也防皮粘锅，提前把配料备好再动手更稳。",
+      "visual_cue": "锅内噼啪作响，皮面鼓起，气味的浓淡也说明进度"
+    },
+    {
+      "n": 4,
+      "text": "炸好的肉块放进温水泡十分钟，泡到皮面起皱软透，取出切成半厘米厚的片。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "温水泡软，切片时皮不会碎裂脱落，这一步千万别省。",
+      "visual_cue": "皮层起皱发软，切片平整，锅里整体状态一目了然"
+    },
+    {
+      "n": 5,
+      "text": "南乳连汁压成泥，加生抽、冰糖、料酒和清水调匀，和蒜末一起把肉片逐片沾匀酱汁。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "逐片沾汁比整块泡更均匀，蒸后咸度一致，火候和顺序都要留神。",
+      "visual_cue": "肉片挂满红色酱汁，状态和火候都看得清"
+    },
+    {
+      "n": 6,
+      "text": "藕片铺在大碗底，肉片皮朝下码紧，淋上剩余酱汁，上汽蒸九十分钟后倒扣装盘。",
+      "time_min": 92,
+      "heat": "中火",
+      "tip": "皮朝下码，倒扣后皮才朝上好看，提前把配料备好再动手更稳。",
+      "visual_cue": "肥肉透明，倒扣成形不散，颜色和形态变化明显"
+    }
+  ],
+  "tips": [
+    "五花肉先煮再炸皮，皮面起泡后用温水泡软，切片时皮不会裂开。",
+    "南乳要连汁一起压成泥，只用块不连汁会缺那一层发酵的鲜。",
+    "扣肉要蒸足一个半小时，肥肉化开成透明才不腻口。"
+  ],
+  "common_mistakes": [
+    "热油直接下带水的肉皮，油花四溅还炸不开花，皮面只有零星焦斑。",
+    "切得太薄，蒸完肉片散开夹不起来，一夹就断。",
+    "南乳放太多又加生抽，咸得盖住肉香，只能配大量米饭。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "梅头肉",
+      "ratio": "700克:700克",
+      "note": "脂肪少，蒸的时间减少二十分钟。"
+    },
+    {
+      "original": "藕",
+      "substitute": "芋头",
+      "ratio": "300克:300克",
+      "note": "芋头吸汁更绵，蒸后更粉糯。"
+    }
+  ],
+  "variations": [
+    "垫底的藕换成干豆角，豆角吸了南乳汁和肉油，比肉还抢手。",
+    "加一勺玫瑰露酒同蒸，香气更复合，是顺德一带的做法。"
+  ],
+  "serving_suggestion": "倒扣在大盘里，把蒸汁勾薄芡淋上，配白饭和一碗清菜汤，肥瘦相间最下饭。",
+  "storage": "冷藏可放三天，回热用蒸锅蒸二十分钟，微波会让肥肉出油变硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 680,
+    "protein_g": 26,
+    "fat_g": 56,
+    "carbs_g": 14,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "五花肉须煮至断生再炸，蒸制时确保中心温度达七十五度以上，肥肉呈半透明才算透。",
+    "扣肉含盐较高，冷藏保存不超过三天，回热须彻底蒸透。"
+  ],
+  "origin_note": "南乳扣肉是广府人家过年过节必做的一道，红曲发酵的南乳给肉块染上暗红色，带着豆香与酒香。五花肉煮过再炸皮，切厚片码进碗里，底下垫藕片或芋头，长时蒸到肥肉化开，倒扣上桌时一片片颤着油光。",
+  "tags": [
+    "粤菜",
+    "扣肉",
+    "南乳",
+    "宴客",
+    "蒸菜"
+  ],
+  "related_ids": [
+    "meigancai-kourou",
+    "cantonese-meicai-zheng-rouping",
+    "gulu-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

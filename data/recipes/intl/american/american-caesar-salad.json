@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-caesar-salad",
+  "name": {
+    "zh": "凯撒沙拉",
+    "en": "Caesar Salad",
+    "original": "Caesar salad"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 17,
+    "total_min": 37
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 300,
+          "unit": "g",
+          "note": "罗马生菜",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁烤脆",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 60,
+          "unit": "g",
+          "note": "切条煎脆",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 30,
+          "unit": "g",
+          "note": "刨碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蛋黄酱",
+          "name_en": "mayonnaise",
+          "amount": 60,
+          "unit": "g",
+          "note": "沙拉酱底",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 20,
+          "unit": "ml",
+          "note": "挤汁提酸",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "压成泥",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "拌菜",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "沙拉碗",
+    "平底锅",
+    "压蒜器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "生菜逐片掰下冲洗干净，泡冰水十分钟后沥干，用手撕成入口大小的块。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "手撕比刀切更挂酱，断面不氧化发黑，这一步千万别省。",
+      "visual_cue": "叶片脆挺，水珠已干，状态和火候都看得清"
+    },
+    {
+      "n": 2,
+      "text": "面包切成两厘米见方的丁，平底锅不放油小火干烘六分钟，烘到四面微黄。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "干烘要不停翻动，受热才均匀不焦，火候和顺序都要留神。",
+      "visual_cue": "面包丁金黄，捏着发脆，颜色和形态变化明显"
+    },
+    {
+      "n": 3,
+      "text": "培根切成三厘米长的条，下锅小火煎五分钟至出油焦脆，捞出放在厨房纸上吸油。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "煎到边缘卷曲才够脆，出油后可倒掉多余油脂。",
+      "visual_cue": "培根卷边，颜色红褐，气味的浓淡也说明进度"
+    },
+    {
+      "n": 4,
+      "text": "蒜压成泥，和蛋黄酱、柠檬汁、橄榄油、盐、黑胡椒一起搅匀成浓稠酱汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蒜泥要压细，颗粒太大会在酱里呛口，这一步千万别省。",
+      "visual_cue": "酱汁顺滑，能挂住勺背，锅里整体状态一目了然"
+    },
+    {
+      "n": 5,
+      "text": "沙拉碗里放生菜、面包丁和培根，淋上酱汁快速翻拌，让每片叶子薄薄挂一层。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "翻拌从下往上兜，叶子不易压伤出水，火候和顺序都要留神。",
+      "visual_cue": "叶面挂酱，不见积汁，状态和火候都看得清"
+    },
+    {
+      "n": 6,
+      "text": "装盘后刨一层帕玛森碎，现磨一点黑胡椒，两分钟内上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "芝士最后刨，香气才不散，提前把配料备好再动手更稳。",
+      "visual_cue": "芝士碎薄片，色泽雪白，颜色和形态变化明显"
+    }
+  ],
+  "tips": [
+    "生菜要提前冷藏半小时再拌，冰过的叶子脆度好，也不易被酱汁压塌。",
+    "面包丁用平底锅干烘，不用油也能酥，比油炸清爽很多。",
+    "酱汁最后才拌，上桌前两分钟动手，叶子才不会出水变蔫。"
+  ],
+  "common_mistakes": [
+    "面包丁烤到发黑，焦苦味盖过整个沙拉的清香，只能整盘重做。",
+    "蛋黄酱一次倒太多，每片叶子糊成厚泥，吃着油腻又压住生菜的脆。",
+    "生菜洗后带水就拌，酱汁被稀释，盘底很快积起一层稀汤，越吃越淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "火腿",
+      "ratio": "60克:60克",
+      "note": "咸度略低，酱汁里盐可多加一克。"
+    },
+    {
+      "original": "帕玛森",
+      "substitute": "奶酪",
+      "ratio": "30克:40克",
+      "note": "风味偏淡，可加一撮黑胡椒补味。"
+    }
+  ],
+  "variations": [
+    "加一块煎鸡胸切片，就是主菜版凯撒沙拉，能当一顿饭。",
+    "把面包丁换成烤好的全麦面包块，麦香更重也更有嚼头。"
+  ],
+  "serving_suggestion": "拌好后立刻上桌，刨一层帕玛森在表面，配一杯冰饮或作为牛排的前菜。",
+  "storage": "拌好的沙拉不建议存放，蔬菜会出水变软，各料分开冷藏最多放一天。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 420,
+    "protein_g": 15,
+    "fat_g": 30,
+    "carbs_g": 22,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk",
+    "mustard"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "沙拉为生食菜品，生菜须用流动水逐片冲洗并彻底沥干，拌好后两小时内食用。",
+    "含蛋黄酱的沙拉在常温下易滋生细菌，室温放置超过两小时不要食用，冷藏不超过一天。"
+  ],
+  "origin_note": "凯撒沙拉诞生于墨西哥蒂华纳的 Caesar's 餐厅，上世纪二十年代由厨师凯撒·卡迪尼临时拼出，后来成了美国餐馆的标配前菜。罗马生菜、烤脆的面包丁、培根和帕玛森，靠一勺带蒜香的蛋黄酱把所有味道拧在一起，清脆里带咸鲜。",
+  "tags": [
+    "美式",
+    "沙拉",
+    "生菜",
+    "培根",
+    "轻食"
+  ],
+  "related_ids": [
+    "american-coleslaw",
+    "american-cobb-salad",
+    "american-wedge-salad"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:53:50.139Z",
+  "generatedAt": "2026-11-26T14:02:45.818Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2428,
-    "coverage": 0.7416004886988393
+    "actual": 2436,
+    "coverage": 0.7440439828955406
   },
   "regions": {
     "cn": [
@@ -293,7 +293,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 136,
+        "actual": 137,
         "cells": [
           {
             "category": "main-seafood",
@@ -386,11 +386,12 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "congshao-tijin",
               "pa-yuanke-baoyu",
               "shandong-furong-jipian",
+              "shandong-hongshao-tijin",
               "shandong-sanbuzhan",
               "shandong-tangcu-liyu",
               "shandong-yipin-doufu",
@@ -543,7 +544,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 95,
+        "actual": 97,
         "cells": [
           {
             "category": "main-seafood",
@@ -575,10 +576,11 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "bobo-gulaorou",
               "cantonese-meicai-zheng-rouping",
+              "cantonese-nanru-kourou",
               "cantonese-shacha-niurou",
               "chijiao-niurou",
               "chizhi-zheng-paigu",
@@ -654,10 +656,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "cantonese-hongdou-gao",
               "cantonese-lvdou-sha",
+              "cantonese-mangguo-ximi",
               "cantonese-yangzhi-ganlu",
               "cantonese-ye-zhi-dun-dan",
               "cantonese-zhima-hu",
@@ -760,7 +763,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 76,
+        "actual": 77,
         "cells": [
           {
             "category": "main-seafood",
@@ -825,10 +828,11 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "jiangsu-baiqie-yangrou",
               "jiangsu-jiangya",
+              "jiangsu-jiangzhi-ou",
               "jiangsu-liangban-wosun",
               "jiangsu-tangcu-luobo",
               "jiangsu-xun-yu",
@@ -950,19 +954,20 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 75,
+        "actual": 76,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "congyou-xia",
               "longjing-xiaren",
               "ningbo-xiechao-niangao",
               "xihu-cuyu",
               "xuecai-datang-huangyu",
+              "zhejiang-ganjian-daiyu",
               "zhejiang-qingzheng-baoyu",
               "zhejiang-shaoxing-zui-xia",
               "zhejiang-yousha-xiaren",
@@ -3229,7 +3234,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 70,
+        "actual": 71,
         "cells": [
           {
             "category": "main-seafood",
@@ -3270,10 +3275,11 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "asari-misoshiru",
               "japanese-dangojiru",
+              "japanese-kabocha-potage",
               "japanese-kakitama-jiru",
               "japanese-kenchin-jiru",
               "japanese-nikujiru",
@@ -4992,7 +4998,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 69,
+        "actual": 70,
         "cells": [
           {
             "category": "main-vegetable",
@@ -5078,11 +5084,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "gajar-halwa",
               "indian-carrot-halwa",
               "indian-gulab-jamun",
+              "indian-jalebi",
               "indian-kaju-katli",
               "indian-kulfi",
               "indian-rasmalai",
@@ -6576,7 +6583,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 63,
+        "actual": 64,
         "cells": [
           {
             "category": "main-meat",
@@ -6652,8 +6659,9 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
+              "american-caesar-salad",
               "american-chef-salad",
               "american-cobb-salad",
               "american-coleslaw",

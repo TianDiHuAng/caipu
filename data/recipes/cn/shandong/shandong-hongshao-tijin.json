@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-hongshao-tijin",
+  "name": {
+    "zh": "红烧蹄筋",
+    "en": "Braised Pork Tendon",
+    "original": "Hongshao tijin"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 70,
+    "total_min": 95
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蹄筋",
+          "name_en": "beef tendon",
+          "amount": 600,
+          "unit": "g",
+          "note": "水发蹄筋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "两枚",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提亮回甘",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "补咸",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "高压锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "水发蹄筋切成五厘米长的段，放冷水锅里加料酒煮三分钟，捞出冲净沥干。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "焯水去碱味，蹄筋后续烧出的汁才清亮，这一步千万别省。",
+      "visual_cue": "蹄筋涨发，水面浮起白沫，状态和火候都看得清"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油烧至五成热，下大葱段和姜片小火煸三分钟，煸出香味后捞出备用。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "葱姜煸香后捞出，避免长时间烧制发苦，火候和顺序都要留神。",
+      "visual_cue": "葱段金黄，油面飘香，颜色和形态变化明显"
+    },
+    {
+      "n": 3,
+      "text": "锅里留底油下冰糖，小火慢慢炒到融化并冒出细密小泡，糖色呈琥珀色。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "糖色炒到起泡立刻下料，再等就发苦了，提前把配料备好再动手更稳。",
+      "visual_cue": "糖液琥珀，泡沫细密，气味的浓淡也说明进度"
+    },
+    {
+      "n": 4,
+      "text": "倒入蹄筋快速翻炒，让每段都裹上糖色，加生抽、老抽和料酒翻匀。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "裹糖色要快，慢了糖会结块粘锅，这一步千万别省。",
+      "visual_cue": "蹄筋均匀挂色，油亮，锅里整体状态一目了然"
+    },
+    {
+      "n": 5,
+      "text": "加清水没过蹄筋，放回葱姜和八角，大火烧开后转小火加盖煨六十分钟。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "小火慢煨胶质才出，水要一次加足不添冷水。",
+      "visual_cue": "汤面微滚，蹄筋渐软，状态和火候都看得清"
+    },
+    {
+      "n": 6,
+      "text": "开盖转中火收汁，加盐调味，收到汤汁浓稠能挂住蹄筋时关火装盘。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "收汁时轻推锅底防粘，汁浓即停，过头会发黏。",
+      "visual_cue": "汤汁浓亮，蹄筋颤而不断，颜色和形态变化明显"
+    }
+  ],
+  "tips": [
+    "水发蹄筋先焯一遍水，去掉碱味和腥气，烧出来才有胶质香而不是涩味。",
+    "冰糖炒到融化起小泡再下蹄筋，糖色裹住筋条，成菜红亮不乌。",
+    "小火慢烧一小时以上，蹄筋才软糯带弹，急火只会外烂内硬。"
+  ],
+  "common_mistakes": [
+    "蹄筋没焯水直接下锅，烧出来的汤汁发浑带碱味，怎么收都不亮。",
+    "全程大火收汁，锅底糖分焦化发苦，蹄筋表面一层黑斑。",
+    "水一次加得不够，中途加冷水，胶原蛋白突然收缩，蹄筋变得咬不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "蹄筋",
+      "substitute": "牛筋",
+      "ratio": "600克:600克",
+      "note": "牛筋更硬，烧制时间要延长四十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "细砂糖",
+      "ratio": "20克:18克",
+      "note": "上色略浅，可多炒半分钟。"
+    }
+  ],
+  "variations": [
+    "加几片冬笋同烧，笋的清鲜能解蹄筋的黏腻，是济南馆子的老搭配。",
+    "把清水换成高汤，胶原与鲜味叠加，收汁后汤汁能挂勺。"
+  ],
+  "serving_suggestion": "盛盘后淋上浓汁，撒一段青葱，配米饭或荷叶饼，趁热吃胶质最糯。",
+  "storage": "冷藏可放两天，胶质会凝固成冻，回热时加两勺清水小火化开，勿反复加热。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 38,
+    "fat_g": 22,
+    "carbs_g": 12,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "蹄筋须彻底烧透至软糯，中心温度达七十五度以上，水发蹄筋若有酸味应弃用。",
+    "反复回热的胶质菜易滋生细菌，冷藏超过两天的不要食用。"
+  ],
+  "origin_note": "红烧蹄筋是鲁菜宴席上常见的一道大菜，讲究胶质软糯、汁浓味厚。济南的老馆子把水发蹄筋先焯后烧，用冰糖炒出糖色，加葱姜八角小火慢煨，出锅时筋条透亮颤巍巍，筷子夹起来能拉出丝，是老派宴席里显手艺的一道。",
+  "tags": [
+    "鲁菜",
+    "宴席",
+    "蹄筋",
+    "红烧",
+    "胶质"
+  ],
+  "related_ids": [
+    "congshao-tijin",
+    "shandong-haishen-tang",
+    "shandong-tanzi-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
