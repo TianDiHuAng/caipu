@@ -1,0 +1,223 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-cai-pao-fan",
+  "name": {
+    "zh": "浙江菜泡饭",
+    "en": "Zhejiang Vegetable Rice Soup",
+    "original": "菜泡饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 6,
+    "cook_min": 12,
+    "total_min": 18
+  },
+  "servings": 2,
+  "flavor": [
+    "light",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "隔夜冷饭，粒粒分开",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "选矮脚青，洗净沥水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "去蒂切薄片",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 600,
+          "unit": "ml",
+          "note": "鸡汤或骨汤都行",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "按汤量微调",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "出锅前撒",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "米饭用勺子背轻轻压散，让每一粒米都分开，不要留有结块的饭团。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "隔夜米饭偏硬更好操作，刚煮的米饭水分太多，泡出来容易糊。",
+      "visual_cue": "米粒松散分开，没有成团的饭块。"
+    },
+    {
+      "n": 2,
+      "text": "青菜逐片洗净沥干，切成两厘米长的段，菜梗和菜叶分开放。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "菜梗比菜叶难熟，分开放才能先后下锅，口感一致。",
+      "visual_cue": "菜梗与菜叶分作两堆，切面整齐。"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒入高汤，中火加热到锅边冒细密小泡，放入香菇片煮三分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "高汤不要烧到猛烈翻滚，微沸状态香菇的香气才留得住。",
+      "visual_cue": "汤面细泡连绵，香菇片变软发亮。"
+    },
+    {
+      "n": 4,
+      "text": "转大火倒入压散的米饭，用木勺贴着锅底轻推，煮到米粒浮起。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "推的时候贴锅底走，米粒才不粘锅，汤也不会浑。",
+      "visual_cue": "米粒在汤里翻滚上浮，汤色微白。"
+    },
+    {
+      "n": 5,
+      "text": "先下菜梗煮半分钟，再下菜叶，加盐和白胡椒粉搅匀调味。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "盐分两次放，先少后补，泡饭的汤是可以直接喝的。",
+      "visual_cue": "菜梗转深绿，菜叶刚刚塌软。"
+    },
+    {
+      "n": 6,
+      "text": "关火撒入小葱末，连汤带饭盛进深碗，趁烫端上桌。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "葱末离火再撒，余温一烫就够香，煮过的葱会发酸。",
+      "visual_cue": "葱花浮在汤面，汤清而有油光。"
+    }
+  ],
+  "tips": [
+    "米饭下锅前先用勺子压散，米粒分开煮出来才颗颗清爽不糊。",
+    "高汤代替清水是这碗饭的底气，没有高汤时用清水也可以，只是鲜味会淡一层。",
+    "青菜最后下，煮一分钟断生就够，久煮发黄还带涩味。"
+  ],
+  "common_mistakes": [
+    "米饭直接整团丢进汤里，煮完成一锅糊糊，完全失去泡饭的粒感。",
+    "青菜和米饭一起下锅久煮，菜叶发黄发烂，汤也带上苦味。",
+    "用刚出锅的热饭来泡，米粒吸水过快，汤很快被吸干变成干饭。"
+  ],
+  "substitutions": [
+    {
+      "original": "高汤",
+      "substitute": "清水加鸡精",
+      "ratio": "600毫升:600毫升加3克",
+      "note": "鲜味略薄，盐要相应减少。"
+    },
+    {
+      "original": "青菜",
+      "substitute": "上海青",
+      "ratio": "150克:150克",
+      "note": "梗更厚，多煮半分钟。"
+    }
+  ],
+  "variations": [
+    "加两片咸肉同煮，汤头带上腌腊的咸香，是浙北冬天的常见吃法。",
+    "把青菜换成雪菜末，酸香开胃，配一碟油条碎口感更丰富。"
+  ],
+  "serving_suggestion": "趁烫盛进深碗，表面撒小葱末和白胡椒粉，配一碟酱瓜或腐乳就是一顿舒坦的早饭。",
+  "storage": "现煮现吃最好，剩下的话冷藏不超过一天，回锅加两勺高汤小火煮开再吃。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 320,
+    "protein_g": 10,
+    "fat_g": 6,
+    "carbs_g": 56,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "青菜须煮至完全断生变软，菜梗中心不要带生青色再出锅。",
+    "剩饭冷藏超过一天不建议再用来做泡饭，米粒易滋生细菌。"
+  ],
+  "origin_note": "菜泡饭是浙江人家最随手的一碗早饭，把隔夜的冷饭和一把青菜丢进滚汤里煮开，粒粒分明，汤清味鲜。宁波、绍兴一带习惯配酱瓜、腐乳或咸蟹，讲究的不是排场，而是清早那口热汤落肚的踏实。",
+  "tags": [
+    "浙江菜",
+    "主食",
+    "泡饭",
+    "剩饭改造",
+    "快手"
+  ],
+  "related_ids": [
+    "zhejiang-caifan",
+    "wenzhou-nuomifan",
+    "xianggu-qingcai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
