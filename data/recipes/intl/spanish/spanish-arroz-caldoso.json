@@ -1,0 +1,242 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-arroz-caldoso",
+  "name": {
+    "zh": "西班牙瓦伦西亚汤饭",
+    "en": "Spanish Soupy Rice",
+    "original": "Arroz Caldoso"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 250,
+          "unit": "g",
+          "note": "短粒米",
+          "optional": false
+        },
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 100,
+          "unit": "g",
+          "note": "新鲜或冻品",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "擦成泥",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 70,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "炒底用",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 900,
+          "unit": "ml",
+          "note": "蔬菜高汤",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 1,
+          "unit": "g",
+          "note": "温水泡开",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "出锅提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "汤锅",
+    "木铲",
+    "量杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "藏红花放进小碗加两勺温高汤泡开，泡到汤色金黄备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "藏红花别用滚水冲，温度太高会把香气烫掉，只剩一股药味。",
+      "visual_cue": "汤色金黄透亮，花丝舒展"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒橄榄油烧热，下洋葱丁小火炒到透明发软，加蒜片炒香。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱炒到发软才有甜底，蒜片最后放，早了会焦出苦味。",
+      "visual_cue": "洋葱透明，蒜片微黄卷边"
+    },
+    {
+      "n": 3,
+      "text": "倒入番茄泥同炒，炒到酱色变深、水分收干出红油。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒出红油这一步省不得，汤饭的颜色和鲜味全靠它。",
+      "visual_cue": "酱底红亮，锅底浮起红油"
+    },
+    {
+      "n": 4,
+      "text": "大米下锅翻炒两分钟裹上酱色，倒高汤与藏红花水，加盐搅匀。",
+      "time_min": 18,
+      "heat": "中火",
+      "tip": "汤要比平时煮饭多一倍，这道饭讲究汤宽，米粒在汤里滚着熟。",
+      "visual_cue": "汤水清亮泛红，米粒浮起"
+    },
+    {
+      "n": 5,
+      "text": "汤沸后转小火煮十分钟，撒豌豆再煮五分钟，关火撒白胡椒。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "豌豆最后十分钟内下锅，煮久了皮破发黄，汤也会带豆腥。",
+      "visual_cue": "汤汁略稠发亮，豌豆仍翠绿"
+    }
+  ],
+  "tips": [
+    "汤饭要趁热吃，放凉后汤汁被米吸干，就变成一锅扎实的米饭了。",
+    "想更鲜可以加几只蛤蜊同煮，汤底带海鲜甜味，盐就要减半。",
+    "高汤保持微沸状态分两次加入，米粒受热均匀，煮出来更松。"
+  ],
+  "common_mistakes": [
+    "高汤一次全倒进去再大火猛煮，米粒外烂内生，汤也煮浑了。",
+    "用长粒米做汤饭，米粒不吸汤，煮完汤饭分离像泡饭。",
+    "藏红花省略不放，成色发白，味道也少了那股特殊的坚果香。"
+  ],
+  "substitutions": [
+    {
+      "original": "藏红花",
+      "substitute": "姜黄粉",
+      "ratio": "1克:2克",
+      "note": "姜黄只上色，香气淡很多。"
+    },
+    {
+      "original": "豌豆",
+      "substitute": "青豆",
+      "ratio": "100克:100克",
+      "note": "青豆略甜，煮制时间相同。"
+    }
+  ],
+  "variations": [
+    "加几块煎过的鳕鱼同煮，做成海鲜版汤饭，是瓦伦西亚海边做法。",
+    "换成兔肉或鸡腿肉块先煎香再煮，汤底更厚，属于内陆吃法。"
+  ],
+  "serving_suggestion": "连锅端上桌，用汤勺连汤带饭舀进浅碗，配一碟腌橄榄。",
+  "storage": "冷藏可存一天，复热时加两勺高汤小火煮开，勿干烧。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 380,
+    "protein_g": 8,
+    "fat_g": 13,
+    "carbs_g": 58,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "汤饭含米饭与豆类，须现做现食，室温放置超过两小时不可食用，冷藏复热须彻底煮开。"
+  ],
+  "origin_note": "瓦伦西亚人把这道饭叫 arroz caldoso，意思是带汤的饭。和干爽的锅饭不同，它汤宽米软，用勺子舀着吃，当地人冬天常做，配一勺蒜香酱更对味。",
+  "tags": [
+    "西班牙菜",
+    "主食",
+    "汤饭",
+    "大米",
+    "一锅出"
+  ],
+  "related_ids": [
+    "spanish-paella",
+    "paella-verduras",
+    "spanish-arroz-bacalao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:15:03.187Z",
+  "generatedAt": "2026-11-26T04:35:15.333Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 653,
     "target": 3274,
-    "actual": 2285,
-    "coverage": 0.6979230299328039
+    "actual": 2292,
+    "coverage": 0.7000610873549176
   },
   "regions": {
     "cn": [
@@ -542,7 +542,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 92,
+        "actual": 93,
         "cells": [
           {
             "category": "main-seafood",
@@ -652,8 +652,9 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
+              "cantonese-hongdou-gao",
               "cantonese-lvdou-sha",
               "cantonese-yangzhi-ganlu",
               "cantonese-zhima-hu",
@@ -943,7 +944,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 70,
+        "actual": 71,
         "cells": [
           {
             "category": "main-seafood",
@@ -1001,7 +1002,7 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "jiaxing-zongzi",
               "ningbo-xiechao-niangao",
@@ -1009,7 +1010,8 @@
               "xianrou-caifan",
               "zhejiang-cai-fan-gao",
               "zhejiang-caifan",
-              "zhejiang-hongzao-nuomifan"
+              "zhejiang-hongzao-nuomifan",
+              "zhejiang-xianrou-wandou-fan"
             ]
           },
           {
@@ -3162,7 +3164,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 63,
+        "actual": 64,
         "cells": [
           {
             "category": "main-seafood",
@@ -3202,9 +3204,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "asari-misoshiru",
+              "japanese-dangojiru",
               "japanese-kakitama-jiru",
               "japanese-kenchin-jiru",
               "japanese-oden-simple",
@@ -3347,7 +3350,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 61,
+        "actual": 62,
         "cells": [
           {
             "category": "main-meat",
@@ -3387,12 +3390,13 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "dolsot-bibimbap",
               "dwaeji-gukbap",
               "gimbap",
               "korean-bibimbap",
+              "korean-doenjang-gukbap",
               "korean-kimchi-fried-rice",
               "korean-tteokbokki"
             ]
@@ -3734,7 +3738,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 58,
+        "actual": 59,
         "cells": [
           {
             "category": "staple-bread",
@@ -3804,9 +3808,10 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "aglio-e-olio",
+              "italian-arrabbiata-sauce",
               "italian-bagna-cauda",
               "italian-marinara-sauce",
               "italian-pesto-di-rucola",
@@ -4110,7 +4115,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 57,
+        "actual": 58,
         "cells": [
           {
             "category": "main-seafood",
@@ -4150,12 +4155,13 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "arroz-negro",
               "paella-valenciana",
               "paella-verduras",
               "spanish-arroz-bacalao",
+              "spanish-arroz-caldoso",
               "spanish-arroz-con-pollo",
               "spanish-paella"
             ]
@@ -4863,7 +4869,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 64,
+        "actual": 65,
         "cells": [
           {
             "category": "main-vegetable",
@@ -4946,10 +4952,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "gajar-halwa",
               "indian-gulab-jamun",
+              "indian-kaju-katli",
               "indian-kulfi",
               "indian-rasmalai",
               "indian-shrikhand",

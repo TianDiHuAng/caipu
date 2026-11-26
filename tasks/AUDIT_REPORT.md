@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-26T04:14:55.980Z
+- 生成时间：2026-11-26T04:35:08.191Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：59 个，抽样 126 道，平均分 98
+- 覆盖菜系：59 个，抽样 126 道，平均分 99
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -33,9 +33,9 @@
 | cajun | cajun-blackened-fish | 100 | A | 无 |
 | cantonese | mangguo-nuomici | 93 | A | 准确性 18/25 |
 | cantonese | cantonese-baozai-fan | 93 | A | 准确性 18/25 |
-| cantonese | cantonese-hongshao-baoyu | 100 | A | 无 |
-| cantonese | cantonese-qingbu-liang-tang | 100 | A | 无 |
-| cantonese | cantonese-lvdou-sha | 100 | A | 无 |
+| cantonese | cantonese-hongdou-gao | 100 | A | 无 |
+| cantonese | cantonese-ningmeng-ji | 100 | A | 无 |
+| cantonese | cantonese-lianou-paigu-tang | 100 | A | 无 |
 | caribbean | caribbean-pineapple-chicken | 100 | A | 无 |
 | chaoshan | chaoshan-frozen-crab | 100 | A | 无 |
 | chaoshan | chaoshan-yuwan-tang | 100 | A | 无 |
@@ -69,9 +69,9 @@
 | indian | indian-mulligatawny-soup | 100 | A | 无 |
 | indonesian | indonesian-soto-ayam | 100 | A | 无 |
 | irish | irish-boxty | 100 | A | 无 |
-| italian | italian-frittata | 100 | A | 无 |
+| italian | italian-ciambotta | 100 | A | 无 |
 | italian | italian-arancini | 100 | A | 无 |
-| italian | italian-bagna-cauda | 100 | A | 无 |
+| italian | italian-arrabbiata-sauce | 100 | A | 无 |
 | japanese | hiyayakko | 87 | B | 准确性 18/25；安全性 14/20 |
 | japanese | japanese-ichigo-daifuku | 100 | A | 无 |
 | japanese | karaage | 100 | A | 无 |
@@ -79,7 +79,7 @@
 | jiangsu | jiangsu-baoyu-hongshao | 100 | A | 无 |
 | jiangsu | jiangsu-jingxiang-doufu | 100 | A | 无 |
 | jiangsu | yangchun-mian | 100 | A | 无 |
-| korean | korean-gaji-namul | 93 | A | 准确性 18/25 |
+| korean | korean-fried-chicken | 100 | A | 无 |
 | korean | korean-egg-roll | 100 | A | 无 |
 | korean | budae-jjigae | 100 | A | 无 |
 | malaysian | malaysian-char-kway-teow | 100 | A | 无 |
@@ -121,7 +121,7 @@
 | south-african | south-african-samoosa | 94 | A | 安全性 14/20 |
 | south-asian | south-asian-onion-pakora | 100 | A | 无 |
 | south-asian | south-asian-aloo-tikki | 100 | A | 无 |
-| spanish | spanish-patatas-bravas | 100 | A | 无 |
+| spanish | spanish-pan-con-tomate | 100 | A | 无 |
 | spanish | merluza-a-la-vasca | 100 | A | 无 |
 | spanish | spanish-bacalao-al-horno | 100 | A | 无 |
 | taiwan | taiwan-pork-chop-rice | 100 | A | 无 |
@@ -140,10 +140,10 @@
 | xibei | xibei-wotou | 100 | A | 无 |
 | xinjiang | xinjiang-qingdun-yangrou | 100 | A | 无 |
 | yunguai | guizhou-changwang-mian | 100 | A | 无 |
-| zhejiang | youmen-shunsun | 93 | A | 准确性 18/25 |
 | zhejiang | zhejiang-shengchao-rousi | 100 | A | 无 |
 | zhejiang | congyou-xia | 100 | A | 无 |
-| zhejiang | zhejiang-bingtang-nuoou | 100 | A | 无 |
+| zhejiang | zhejiang-cai-fan-gao | 100 | A | 无 |
+| zhejiang | zhejiang-babao-ya | 100 | A | 无 |
 
 ## 结论
 
