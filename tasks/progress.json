@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:30:58.185Z",
+  "generatedAt": "2026-11-26T02:12:57.965Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 652,
     "target": 3274,
-    "actual": 2244,
-    "coverage": 0.6854001221747098
+    "actual": 2258,
+    "coverage": 0.6896762370189371
   },
   "regions": {
     "cn": [
@@ -1976,16 +1976,17 @@
         "en": "Northeastern",
         "tier": "B",
         "target": 38,
-        "actual": 20,
+        "actual": 34,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "di-san-xian",
               "dongbei-jiang-gudou",
+              "dongbei-zicai-fen",
               "shao-qiezi"
             ]
           },
@@ -1993,10 +1994,15 @@
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 10,
             "ids": [
+              "dongbei-ba-rou",
+              "dongbei-bairou-xuechang",
               "dongbei-luandun",
+              "dongbei-si-xi-wanzi",
+              "dongbei-tieguo-da-e",
               "dongbei-zhurou-dun-fentiao",
+              "dongbei-zicai-fen",
               "guobao-rou",
               "liu-roudan",
               "suancai-bairou"
@@ -2006,19 +2012,21 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "dongbei-niandoubao"
+              "dongbei-niandoubao",
+              "dongbei-tie-bingzi"
             ]
           },
           {
             "category": "cold-dish",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "dongbei-dalapi",
               "dongbei-laohu-cai",
+              "dongbei-liangban-doufu-si",
               "pai-huanggua"
             ]
           },
@@ -2026,8 +2034,11 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "dongbei-ba-rou",
+              "dongbei-si-xi-wanzi"
+            ]
           },
           {
             "category": "main-egg",
@@ -2049,8 +2060,9 @@
             "category": "soup",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "dongbei-bairou-xuechang",
               "dongbei-gedatang",
               "suancai-bairou",
               "xiaoji-dun-mogu"
@@ -2060,18 +2072,20 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "dongbei-basi-digua",
-              "dongbei-jiucai-hezi"
+              "dongbei-jiucai-hezi",
+              "dongbei-tie-bingzi"
             ]
           },
           {
             "category": "appetizer",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "dongbei-liangban-doufu-si",
               "pai-huanggua"
             ]
           },
@@ -2079,8 +2093,9 @@
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "dongbei-tieguo-da-e",
               "xiaoji-dun-mogu"
             ]
           }

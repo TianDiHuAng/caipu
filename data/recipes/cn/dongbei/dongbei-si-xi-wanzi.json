@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "dongbei-si-xi-wanzi",
+  "name": {
+    "zh": "四喜丸子",
+    "en": "Braised Pork Meatballs",
+    "original": "四喜丸子"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "dongbei"
+  },
+  "category": [
+    "banquet",
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 65,
+    "total_min": 90
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "去皮切小粒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "约一个，打散",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 200,
+          "unit": "g",
+          "note": "焯水围边",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 160,
+          "unit": "ml",
+          "note": "炸丸子",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 30,
+          "unit": "g",
+          "note": "粘合",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "整颗",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砧板",
+    "菜刀",
+    "大碗",
+    "汤锅",
+    "漏勺",
+    "深盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉去皮先切成一厘米见方的小粒，再用刀略剁几下，保留颗粒感。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "千万别剁成泥，留一点颗粒，咬下去才有汁有嚼头。",
+      "visual_cue": "肉粒大小均匀，能看见肥瘦分界"
+    },
+    {
+      "n": 2,
+      "text": "肉粒放大碗，加姜末、葱碎、盐、生抽与料酒，顺一个方向搅打上劲。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "方向不能变，一变力就散了，搅到发黏出胶才算到位。",
+      "visual_cue": "肉料黏稠，筷子插上能立住"
+    },
+    {
+      "n": 3,
+      "text": "分次加入玉米淀粉与打散的鸡蛋，继续搅到肉料黏手起胶。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "淀粉和鸡蛋分两三次加，一次加完容易稀，丸子成形不了。",
+      "visual_cue": "肉料能成团，手抓着不掉"
+    },
+    {
+      "n": 4,
+      "text": "手上抹清水，把肉料分成四份团成大丸子，反复在两手间摔打排气。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "摔打能排出空气，丸子炸的时候不裂，切开断面也紧实。",
+      "visual_cue": "丸子圆润光滑，表面无气孔"
+    },
+    {
+      "n": 5,
+      "text": "锅中放植物油烧至五成热，丸子逐个下锅小火慢炸至表面金黄定形。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "油温别太高，外面焦了里面还是生的，用手在锅上方感到温热就行。",
+      "visual_cue": "丸子外壳金黄，浮起定型"
+    },
+    {
+      "n": 6,
+      "text": "另起锅加清水、生抽、老抽、八角与白砂糖烧开，放入丸子小火炖半小时。",
+      "time_min": 33,
+      "heat": "小火",
+      "tip": "炖的时候汤要没过丸子一半，中途翻一次面，上色才匀。",
+      "visual_cue": "汤色红亮，丸子鼓胀饱满"
+    },
+    {
+      "n": 7,
+      "text": "油菜下沸水焯一分半钟摆盘围边，丸子放中间，原汤勾薄芡浇上并淋少许植物油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "芡要薄，挂得住就行，厚了像浆糊，浇上去一团糊。",
+      "visual_cue": "芡汁透亮，油菜翠绿不黄"
+    }
+  ],
+  "tips": [
+    "四喜丸子取福禄寿喜四喜之意，四个一盘，是东北宴席的压桌菜。",
+    "肉要手工剁，机器打的肉泥没有咀嚼感，口感发面。",
+    "摔打这一步别省，丸子炸的时候不裂，炖完还是圆的。"
+  ],
+  "common_mistakes": [
+    "肉剁成泥又加太多淀粉，丸子吃起来像橡皮，一点汁水都没有。",
+    "油温过高直接下锅，丸子外皮焦黑、里面还是生的。",
+    "炖的时候汤太少没翻面，丸子一面发黑一面发白，卖相全无。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "800克:800克",
+      "note": "前腿肉更瘦，需多加十克玉米淀粉防散。"
+    },
+    {
+      "original": "油菜",
+      "substitute": "小白菜",
+      "ratio": "200克:200克",
+      "note": "小白菜叶薄，焯水时间减到一分钟。"
+    }
+  ],
+  "variations": [
+    "丸子炖好后加一勺米醋同烧五分钟，解腻又开胃，是家常版做法。",
+    "把肉料里掺入剁碎的香菇粒，香气更足，宴席上更显讲究。"
+  ],
+  "serving_suggestion": "四个丸子摆在盘中央，油菜围边，浇上红亮的芡汁，端上桌就是一道体面的宴客菜，配米饭最佳。",
+  "storage": "冷藏可存三天，冷冻可存一个月；复热时连汤一起蒸二十分钟，比下锅烧更不易散。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 820,
+    "protein_g": 40,
+    "fat_g": 66,
+    "carbs_g": 18,
+    "sodium_mg": 1360,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "肉料含鸡蛋，丸子必须彻底加热至中心温度七十五度以上，切开不见粉红生肉再食用。",
+    "炸丸子时油量大、气泡多，下锅要沿锅边滑入，避免热油溅出烫伤。"
+  ],
+  "origin_note": "四喜丸子是东北宴席上的老面孔，取福禄寿喜之意，四个一盘，讲究团团圆圆。做这道菜最费功夫的是剁肉和摔打，肉要剁得带颗粒，摔得能弹起来。旧时只有办喜事才舍得用整块五花肉做这一盘。",
+  "tags": [
+    "东北菜",
+    "宴席",
+    "丸子",
+    "四喜"
+  ],
+  "related_ids": [
+    "liu-roudan",
+    "guobao-rou",
+    "dongbei-ba-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
