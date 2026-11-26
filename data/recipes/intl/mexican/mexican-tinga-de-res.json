@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-tinga-de-res",
+  "name": {
+    "zh": "牛肉汀加",
+    "en": "Beef Tinga",
+    "original": "Tinga de res"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 64,
+    "total_min": 99
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sour",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肩肉",
+          "name_en": "beef shoulder",
+          "amount": 600,
+          "unit": "g",
+          "note": "整块煮后撕丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "一半煮肉一半炒",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块打泥",
+          "optional": false
+        },
+        {
+          "name": "墨西哥辣椒",
+          "name_en": "jalapeno",
+          "amount": 40,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "牛油果",
+          "name_en": "avocado",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片装饰",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干牛至",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮肉用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "木勺",
+    "叉子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肩肉整块放进汤锅，加半个洋葱、蒜和清水，小火煮四十分钟。",
+      "time_min": 45,
+      "heat": "小火",
+      "tip": "整块煮再撕丝，肉纤维长，口感才有嚼头。",
+      "visual_cue": "汤面微滚，肉色转灰"
+    },
+    {
+      "n": 2,
+      "text": "肉煮到筷子能轻松扎透就捞出，晾十分钟到不烫手。",
+      "time_min": 13,
+      "heat": "无火",
+      "tip": "晾一下再撕，太烫撕不细，凉透又撕不动。",
+      "visual_cue": "肉块松软，按压回弹"
+    },
+    {
+      "n": 3,
+      "text": "顺着纹理把肉撕成细丝，粗的地方用手撕开，别用刀切。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "手撕的断面毛糙，挂酱比刀切的好得多。",
+      "visual_cue": "肉丝细长，断面毛糙"
+    },
+    {
+      "n": 4,
+      "text": "番茄切块用搅拌机打成泥，洋葱切丝，墨西哥辣椒切圈备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "番茄打成泥，炒的时候出汁快，颜色也匀。",
+      "visual_cue": "番茄泥顺滑，色红"
+    },
+    {
+      "n": 5,
+      "text": "炒锅放植物油烧热，下洋葱丝炒四分钟到软甜发亮。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱炒透出甜，是汀加底味的关键。",
+      "visual_cue": "洋葱透明，锅底微焦"
+    },
+    {
+      "n": 6,
+      "text": "加番茄膏和墨西哥辣椒圈炒一分钟出红油，倒番茄泥炒五分钟收浓。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "番茄膏先炒出红油，颜色才深，不然发粉。",
+      "visual_cue": "酱汁浓稠，油色发红"
+    },
+    {
+      "n": 7,
+      "text": "把肉丝倒进酱里，加牛至、孜然和盐，中火翻拌六分钟入味。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "多翻几下让每根肉丝都裹上酱，干一点更香。",
+      "visual_cue": "肉丝裹酱，锅里无水"
+    },
+    {
+      "n": 8,
+      "text": "盛盘后放牛油果片和香菜碎，趁热吃风味最好。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "牛油果最后切，早切会氧化发黑。",
+      "visual_cue": "酱色深红，牛油果翠绿"
+    }
+  ],
+  "tips": [
+    "汀加是把煮软的肉撕丝再回锅炒酱，鸡肉版更常见，牛肉版更浓。",
+    "肉丝一定要手撕，刀切的断面光，挂不住酱。",
+    "炒到锅底没有明显汤汁为止，干香才对。"
+  ],
+  "common_mistakes": [
+    "肉煮过头，撕的时候全烂成一团泥。",
+    "酱汁没炒干就起锅，装盘一放就流一滩汤。",
+    "辣椒放太多，辣味盖住番茄和肉的香。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肩肉",
+      "substitute": "鸡腿肉",
+      "ratio": "600克:600克",
+      "note": "鸡腿肉煮二十五分钟即可，撕丝更细。"
+    },
+    {
+      "original": "牛油果",
+      "substitute": "酸奶油",
+      "ratio": "100克:80克",
+      "note": "酸奶油更清凉，配辣酱很解辣。"
+    }
+  ],
+  "variations": [
+    "把肉丝和酱一起夹进玉米饼，做成汀加塔可，最受欢迎。",
+    "加一勺黑豆泥同炒，酱更厚，也能多喂一个人。"
+  ],
+  "serving_suggestion": "铺在脆饼上做成托斯塔达，或者夹玉米饼配酸奶油一起吃。",
+  "storage": "冷藏三天，冷冻一个月；复热用炒锅小火加一勺清水回软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 33,
+    "fat_g": 26,
+    "carbs_g": 12,
+    "sodium_mg": 800,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛肉须煮至中心完全熟透、无血色，煮肉汤须滚沸；成品冷藏不超过三天，复热须彻底加热。"
+  ],
+  "origin_note": "汀加原本是普埃布拉一带用剩肉做的家常菜，把煮软的牛肉撕成丝，回锅和番茄辣椒酱一起炒干。后来夹进脆饼、卷进玉米饼，成了街头小馆子最稳定的招牌，酸辣干香，越嚼越有味。",
+  "tags": [
+    "墨西哥菜",
+    "牛肉",
+    "炖",
+    "辣",
+    "手撕"
+  ],
+  "related_ids": [
+    "mexican-chicken-tinga",
+    "tostadas",
+    "mexican-tofu-tinga"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

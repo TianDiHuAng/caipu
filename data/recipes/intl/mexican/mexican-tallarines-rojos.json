@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-tallarines-rojos",
+  "name": {
+    "zh": "墨西哥红酱细面",
+    "en": "Tallarines in Red Sauce",
+    "original": "Tallarines rojos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 11,
+    "cook_min": 38,
+    "total_min": 49
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sour",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "细面条",
+          "name_en": "fine noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "干细面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "煮软打泥",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 2,
+          "unit": "g",
+          "note": "干牛至",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "煮面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "搅拌机",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄和半个洋葱放进小锅，加清水没过，中火煮十五分钟到软烂。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "煮到皮裂开最好，甜味全出来了。",
+      "visual_cue": "番茄皮裂，汤色发红"
+    },
+    {
+      "n": 2,
+      "text": "捞出番茄和洋葱，稍凉后放进搅拌机打成顺滑的红泥。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打之前先晾一下，太烫会让机器盖子顶开。",
+      "visual_cue": "酱泥顺滑看不见颗粒"
+    },
+    {
+      "n": 3,
+      "text": "汤锅烧大半锅清水，水开后下细面条，按包装时间煮到八分熟。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "煮到八分熟就捞，回锅还要吸汁，全熟会烂。",
+      "visual_cue": "面条能弯折而不断裂"
+    },
+    {
+      "n": 4,
+      "text": "细面条捞出沥干，拌一小勺植物油防粘，摊开晾着。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "拌一点油，面不会黏成一坨。",
+      "visual_cue": "根根分明，不粘连"
+    },
+    {
+      "n": 5,
+      "text": "炒锅放余下的植物油，下另一半洋葱丝炒三分钟到发软。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒透再放酱，甜味才融进汁里。",
+      "visual_cue": "洋葱透明，锅底微焦"
+    },
+    {
+      "n": 6,
+      "text": "加蒜末和番茄膏炒一分钟出红油，倒番茄泥，小火煮五分钟。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "番茄膏先炒，颜色才深红不发粉。",
+      "visual_cue": "酱汁翻泡，颜色深红"
+    },
+    {
+      "n": 7,
+      "text": "把细面条放进红酱里，加盐和牛至，中小火翻拌三分钟让面吸汁。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "多翻几下，让每根面都裹上酱。",
+      "visual_cue": "面条染红，酱汁收浓"
+    },
+    {
+      "n": 8,
+      "text": "尝一下咸淡，装盘时淋一勺锅里剩的酱，趁热上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酱别收太干，留一点拌着吃更顺口。",
+      "visual_cue": "酱汁裹住细面条，油光发亮"
+    }
+  ],
+  "tips": [
+    "红酱细面是墨西哥家常主食，做法简单，孩子最买账。",
+    "番茄先煮再打泥，比生打更甜，也没有生青味。",
+    "面煮八分熟，回锅吸汁刚好，不会软烂。"
+  ],
+  "common_mistakes": [
+    "面煮到全熟再回锅，成品一拌就断。",
+    "番茄泥没炒透就下锅面，酱发涩带生味。",
+    "酱汁收得太干，面坨成一团拌不开。"
+  ],
+  "substitutions": [
+    {
+      "original": "细面条",
+      "substitute": "意面",
+      "ratio": "400克:400克",
+      "note": "意面更粗，煮的时间加两分钟。"
+    },
+    {
+      "original": "番茄",
+      "substitute": "番茄膏加水",
+      "ratio": "400克:60克加400毫升",
+      "note": "风味偏浓，糖和盐要相应调整。"
+    }
+  ],
+  "variations": [
+    "加一勺淡奶油同煮，酱色变粉，味道更柔。",
+    "把面条先干炒到微黄再煮，做成带焦香的版本。"
+  ],
+  "serving_suggestion": "单吃或者配一块煎肉排，孩子喜欢在上面撒一层奶酪丝。",
+  "storage": "冷藏两天，复热加两勺清水小火翻拌，避免结块。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 470,
+    "protein_g": 15,
+    "fat_g": 13,
+    "carbs_g": 76,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "面条须煮透至无硬芯，酱汁须滚沸后调味；成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "红酱面是墨西哥妈妈们的救急菜，番茄洋葱煮软打成泥，和炒香的面一起翻。不到二十分钟就能端上一大锅，孩子们用勺子舀着吃。家常馆子里常常把它和烤肉排配成一份，有面有肉，吃得很实在。",
+  "tags": [
+    "墨西哥菜",
+    "主食",
+    "面条",
+    "番茄",
+    "家常"
+  ],
+  "related_ids": [
+    "mexican-fideo-seco",
+    "mexican-sopa-de-fideo",
+    "mexican-mole-rojo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

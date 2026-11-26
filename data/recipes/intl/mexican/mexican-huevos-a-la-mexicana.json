@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-huevos-a-la-mexicana",
+  "name": {
+    "zh": "墨西哥式炒蛋",
+    "en": "Huevos a la Mexicana",
+    "original": "Huevos a la mexicana"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 17,
+    "total_min": 32
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 240,
+          "unit": "g",
+          "note": "约四到五个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "墨西哥辣椒",
+          "name_en": "jalapeno",
+          "amount": 25,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "不粘锅",
+    "打蛋碗",
+    "打蛋器",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋磕进碗里，加一半的盐和一勺清水，用打蛋器打散到均匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "加一点清水，炒出来的蛋更蓬松柔软。",
+      "visual_cue": "蛋液匀黄，表面有细泡"
+    },
+    {
+      "n": 2,
+      "text": "番茄、洋葱和墨西哥辣椒都切成小丁，大小尽量一致。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切得小一点，炒的时候出水快，蛋不会泡在汤里。",
+      "visual_cue": "三色小丁，颗粒均匀"
+    },
+    {
+      "n": 3,
+      "text": "不粘锅烧热放一半植物油，倒蛋液，静置十秒再轻推。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "先让底部定型再推，蛋才会成大片而不是碎末。",
+      "visual_cue": "底部凝固，边缘微卷"
+    },
+    {
+      "n": 4,
+      "text": "用木铲把蛋从边缘推向中间，炒到七成凝固立刻盛出。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "七成熟就起锅，余温会让它继续凝固，全熟就老了。",
+      "visual_cue": "蛋块湿润，还能看到一点亮"
+    },
+    {
+      "n": 5,
+      "text": "锅补余油，下洋葱丁炒两分钟，加辣椒碎炒出香味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "辣椒碎先炒一下，辣味才散得开。",
+      "visual_cue": "洋葱透明，锅里有辣香"
+    },
+    {
+      "n": 6,
+      "text": "倒番茄丁炒三分钟，加余下的盐和黑胡椒，炒到番茄出汁变软。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄炒到出汁就行，炒太久会散成酱。",
+      "visual_cue": "番茄塌软，汁水微稠"
+    },
+    {
+      "n": 7,
+      "text": "把蛋倒回锅里，用木铲轻轻翻匀，让蛋块裹上番茄汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "动作要轻，蛋块翻碎就不好看了。",
+      "visual_cue": "蛋块裹酱，颜色红黄相间"
+    },
+    {
+      "n": 8,
+      "text": "关火后撒上香菜碎，翻匀后趁热装盘即可上桌享用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "蛋要滚烫的时候上桌，凉了会有蛋腥味。",
+      "visual_cue": "香气扑鼻，蛋色金黄"
+    }
+  ],
+  "tips": [
+    "红番茄、白洋葱、绿辣椒三色搭配，是墨西哥国旗的颜色，所以叫墨西哥式。",
+    "蛋炒到七成熟就起锅，回锅后刚好全熟。",
+    "搭配主食卷起来吃更地道，蛋香更突出。"
+  ],
+  "common_mistakes": [
+    "蛋液一下锅就用力搅，炒成一锅碎渣。",
+    "番茄炒太久出水太多，蛋泡在汤里发水。",
+    "蛋炒到全干才起锅，口感又硬又柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "墨西哥辣椒",
+      "substitute": "青椒",
+      "ratio": "25克:40克",
+      "note": "不辣版本，可另配一碟辣椒酱。"
+    },
+    {
+      "original": "鸡蛋",
+      "substitute": "豆腐",
+      "ratio": "240克:300克",
+      "note": "豆腐压碎炒散模拟蛋，需多加一克盐。"
+    }
+  ],
+  "variations": [
+    "把蛋直接打进番茄酱里搅散，做成酱汁里的碎蛋，口感更嫩。",
+    "加一把奶酪碎在起锅前撒上，盖盖焖半分钟让它融化。"
+  ],
+  "serving_suggestion": "配热玉米饼、一勺黑豆和一杯热巧克力，就是墨西哥人的标准早点。",
+  "storage": "现炒现吃，冷藏不超过一天；复热用平底锅小火，不要用微波炉。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 230,
+    "protein_g": 14,
+    "fat_g": 17,
+    "carbs_g": 6,
+    "sodium_mg": 430,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "low-carb",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须炒至完全凝固、无流动蛋液，中心温度达七十一度以上；隔夜成品须冷藏并在一天内彻底复热后食用。"
+  ],
+  "origin_note": "墨西哥人的早饭桌上，这道炒蛋出场率最高。番茄、洋葱、青辣椒切丁炒软，把蛋液倒进去轻轻一推，七成熟就起锅。颜色红黄绿相间，卷进热玉米饼，配一杯咖啡或热巧克力，一顿就这么解决。",
+  "tags": [
+    "墨西哥菜",
+    "鸡蛋",
+    "早餐",
+    "家常",
+    "快炒"
+  ],
+  "related_ids": [
+    "mexican-huevos-rancheros",
+    "mexican-bistec-a-la-mexicana",
+    "mexican-tofu-ranchero"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

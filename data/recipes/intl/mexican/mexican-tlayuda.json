@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-tlayuda",
+  "name": {
+    "zh": "特莱尤达大脆饼",
+    "en": "Tlayuda",
+    "original": "Tlayuda"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 23,
+    "total_min": 33
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 400,
+          "unit": "g",
+          "note": "大号，四张",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黑豆",
+          "name_en": "black bean",
+          "amount": 300,
+          "unit": "g",
+          "note": "煮熟压泥",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 200,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "牛油果",
+          "name_en": "avocado",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎饼",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "豆泥用",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "炒锅",
+    "勺子",
+    "烤架"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "熟黑豆连一点汤汁倒进炒锅，中火加热后用勺子压成粗泥。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "留一点颗粒，口感比全泥更有层次。",
+      "visual_cue": "豆泥浓稠，能看到碎粒"
+    },
+    {
+      "n": 2,
+      "text": "豆泥里加盐和孜然，小火翻炒三分钟收干水分，盛出备用。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "水分收干，抹在饼上才不会把饼泡软。",
+      "visual_cue": "豆泥抱团，锅底干净"
+    },
+    {
+      "n": 3,
+      "text": "平底锅刷一层植物油，玉米饼下锅小火烘两分钟到微微发硬。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "饼要先烘硬，铺料才不会塌。",
+      "visual_cue": "饼面干爽，边缘微翘"
+    },
+    {
+      "n": 4,
+      "text": "把饼翻面，均匀抹一层豆泥，边缘留出一指宽的空隙。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "抹厚一点更顶饱，但要抹平不然铺料会滑。",
+      "visual_cue": "豆泥平整，颜色深褐"
+    },
+    {
+      "n": 5,
+      "text": "豆泥上撒一半奶酪丝，铺番茄片和洋葱丝，再撒余下的奶酪。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "奶酪分两层，中间的料就被粘住了。",
+      "visual_cue": "料层分明，奶酪成堆"
+    },
+    {
+      "n": 6,
+      "text": "盖上锅盖小火烘五分钟，让奶酪完全融化、饼底变脆。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "盖盖让热气循环，奶酪化得快，饼底不焦。",
+      "visual_cue": "奶酪融化，边缘焦脆"
+    },
+    {
+      "n": 7,
+      "text": "起锅前撒辣椒面，铺上牛油果片、生菜丝和香菜碎。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "生菜和牛油果最后放，热度会把它们焖软。",
+      "visual_cue": "色彩鲜亮，饼身完整"
+    },
+    {
+      "n": 8,
+      "text": "切成四块，趁热用手拿着吃，饼底脆响奶酪拉丝才算成功。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "切开要快，凉了饼变韧就切不动了。",
+      "visual_cue": "切口整齐，奶酪拉丝"
+    }
+  ],
+  "tips": [
+    "特莱尤达是瓦哈卡州的招牌，饼比一般玉米饼大一倍，烘得又薄又脆。",
+    "豆泥一定要收干，这是饼底不塌的关键。",
+    "奶酪选能拉丝的，融化后才有那种黏连的口感。"
+  ],
+  "common_mistakes": [
+    "豆泥太稀就抹上饼，烘完饼底软塌塌提不起来。",
+    "火太大，饼底焦黑而奶酪还没化。",
+    "配料铺得太满，拿起来就散一地。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶酪",
+      "substitute": "莫扎里拉奶酪",
+      "ratio": "200克:200克",
+      "note": "拉丝效果更好，咸度略低需补一克盐。"
+    },
+    {
+      "original": "黑豆",
+      "substitute": "红腰豆",
+      "ratio": "300克:300克",
+      "note": "红腰豆压泥颜色偏红，味道更甜。"
+    }
+  ],
+  "variations": [
+    "加一层撕碎的熟鸡肉，做成加料的版本，更顶饱。",
+    "把豆泥换成南瓜泥，做成甜咸口的素食版本。"
+  ],
+  "serving_suggestion": "切成四块当小吃，配一杯冰啤酒或青柠水，人多时最合适。",
+  "storage": "现做现吃，冷藏一天；复热用平底锅小火加盖烘三分钟回脆。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 24,
+    "carbs_g": 56,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "奶酪须完全融化、饼身热透；成品冷藏不超过一天，复热须彻底加热后再食用。"
+  ],
+  "origin_note": "瓦哈卡的市场里，摊主把大张玉米饼架在炭火上烘到半脆，抹上黑豆泥，撒一把当地产的奶酪丝，再铺番茄和牛油果。折起来像一把扇子，咬下去饼脆、豆香、奶酪拉丝，是当地人从小吃到大的味道。",
+  "tags": [
+    "墨西哥菜",
+    "小吃",
+    "玉米饼",
+    "奶酪",
+    "脆"
+  ],
+  "related_ids": [
+    "tostadas",
+    "mexican-frijoles-refritos",
+    "mexican-chicken-quesadilla"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

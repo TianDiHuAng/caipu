@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T12:21:31.623Z",
+  "generatedAt": "2026-11-26T13:17:19.792Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2388,
-    "coverage": 0.7293830177153329
+    "actual": 2396,
+    "coverage": 0.7318265119120342
   },
   "regions": {
     "cn": [
@@ -7098,19 +7098,20 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 62,
+        "actual": 70,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "elote",
               "mexican-chicken-quesadilla",
               "mexican-elote-cup",
               "mexican-guacamole",
               "mexican-tamales-verdes",
+              "mexican-tlayuda",
               "quesadilla",
               "tacos-de-carne",
               "tostadas"
@@ -7120,15 +7121,17 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
               "carnitas",
               "chili-con-carne",
               "mexican-birria-de-res",
+              "mexican-bistec-a-la-mexicana",
               "mexican-carne-asada",
               "mexican-carnitas",
               "mexican-cochinita-pibil",
               "mexican-tacos-al-pastor",
+              "mexican-tinga-de-res",
               "ropa-vieja"
             ]
           },
@@ -7176,13 +7179,15 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 10,
             "ids": [
               "agua-fresca",
               "horchata",
               "mexican-agua-de-jamaica",
+              "mexican-agua-de-pepino",
               "mexican-atole",
               "mexican-champurrado",
+              "mexican-chocolate-caliente",
               "mexican-horchata",
               "mexican-licuado-platano",
               "mexican-limonada"
@@ -7205,9 +7210,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "mexican-chiles-rellenos",
+              "mexican-huevos-a-la-mexicana",
               "mexican-huevos-rancheros"
             ]
           },
@@ -7215,8 +7221,9 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "mexican-tofu-ranchero",
               "mexican-tofu-tinga"
             ]
           },
@@ -7224,9 +7231,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "mexican-fideo-seco"
+              "mexican-fideo-seco",
+              "mexican-tallarines-rojos"
             ]
           },
           {
