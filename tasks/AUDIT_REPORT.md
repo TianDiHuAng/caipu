@@ -1,6 +1,6 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-26T03:51:23.956Z
+- 生成时间：2026-11-26T04:14:55.980Z
 - 随机种子：20260101（同种子可复现同一批样本）
 - 覆盖菜系：59 个，抽样 126 道，平均分 98
 - 需重写（C/D）：0 道
@@ -31,11 +31,11 @@
 | brazilian | brazilian-brigadeiro | 100 | A | 无 |
 | british | british-toad-in-the-hole | 100 | A | 无 |
 | cajun | cajun-blackened-fish | 100 | A | 无 |
-| cantonese | cantonese-haoyou-menji | 93 | A | 准确性 18/25 |
 | cantonese | mangguo-nuomici | 93 | A | 准确性 18/25 |
 | cantonese | cantonese-baozai-fan | 93 | A | 准确性 18/25 |
+| cantonese | cantonese-hongshao-baoyu | 100 | A | 无 |
 | cantonese | cantonese-qingbu-liang-tang | 100 | A | 无 |
-| cantonese | cantonese-lianou-paigu-tang | 100 | A | 无 |
+| cantonese | cantonese-lvdou-sha | 100 | A | 无 |
 | caribbean | caribbean-pineapple-chicken | 100 | A | 无 |
 | chaoshan | chaoshan-frozen-crab | 100 | A | 无 |
 | chaoshan | chaoshan-yuwan-tang | 100 | A | 无 |
@@ -45,8 +45,8 @@
 | eastern-european | eastern-european-apple-kissel | 100 | A | 无 |
 | filipino | filipino-lumpiang-shanghai | 100 | A | 无 |
 | french | french-tarte-aux-poires | 100 | A | 无 |
-| french | french-madeleines | 100 | A | 无 |
-| french | sauce-bordelaise | 100 | A | 无 |
+| french | french-haricots-verts-butter | 100 | A | 无 |
+| french | sauce-bechamel | 100 | A | 无 |
 | fujian | fujian-hongshao-doufu | 94 | A | 安全性 14/20 |
 | fujian | fujian-puning-doujiang-zhi | 100 | A | 无 |
 | fujian | fujian-hongshao-donggua | 100 | A | 无 |
@@ -59,9 +59,9 @@
 | hakka | hakka-hongshao-doufu | 100 | A | 无 |
 | halal-cn | halal-cn-hongshao-niurou | 93 | A | 准确性 18/25 |
 | hongkong | hongkong-ganchao-niuhe | 100 | A | 无 |
-| hunan | lawi-hezheng | 93 | A | 准确性 18/25 |
-| hunan | hunan-lajiao-chao-qiezi | 100 | A | 无 |
-| hunan | hunan-jiacang-doufu | 100 | A | 无 |
+| hunan | lajiao-chaorou | 100 | A | 无 |
+| hunan | hunan-larou-zheng-xianggan | 100 | A | 无 |
+| hunan | hunan-jiachang-donggua | 100 | A | 无 |
 | hunan | hunan-banli-shaoji | 100 | A | 无 |
 | indian | indian-baingan-bharta | 100 | A | 无 |
 | indian | indian-rasam | 100 | A | 无 |
@@ -80,7 +80,7 @@
 | jiangsu | jiangsu-jingxiang-doufu | 100 | A | 无 |
 | jiangsu | yangchun-mian | 100 | A | 无 |
 | korean | korean-gaji-namul | 93 | A | 准确性 18/25 |
-| korean | korean-fried-chicken | 100 | A | 无 |
+| korean | korean-egg-roll | 100 | A | 无 |
 | korean | budae-jjigae | 100 | A | 无 |
 | malaysian | malaysian-char-kway-teow | 100 | A | 无 |
 | mediterranean | mediterranean-stuffed-zucchini | 100 | A | 无 |
@@ -121,9 +121,9 @@
 | south-african | south-african-samoosa | 94 | A | 安全性 14/20 |
 | south-asian | south-asian-onion-pakora | 100 | A | 无 |
 | south-asian | south-asian-aloo-tikki | 100 | A | 无 |
-| spanish | spanish-pan-con-tomate | 100 | A | 无 |
+| spanish | spanish-patatas-bravas | 100 | A | 无 |
 | spanish | merluza-a-la-vasca | 100 | A | 无 |
-| spanish | spanish-berenjenas-al-horno | 100 | A | 无 |
+| spanish | spanish-bacalao-al-horno | 100 | A | 无 |
 | taiwan | taiwan-pork-chop-rice | 100 | A | 无 |
 | tex-mex | tex-mex-pico-de-gallo | 93 | A | 准确性 18/25 |
 | tex-mex | tex-mex-chicken-burrito | 100 | A | 无 |

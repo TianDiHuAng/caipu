@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-arroz-bacalao",
+  "name": {
+    "zh": "西班牙鳕鱼饭",
+    "en": "Spanish Cod Rice",
+    "original": "Arroz con Bacalao"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 46,
+    "total_min": 66
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "短粒米免洗",
+          "optional": false
+        },
+        {
+          "name": "鳕鱼",
+          "name_en": "cod",
+          "amount": 400,
+          "unit": "g",
+          "note": "去皮切大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "擦成泥",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎鱼与炒底",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "鱼骨高汤",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "汤锅",
+    "木铲",
+    "烤盘",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鳕鱼去皮切成三厘米见方的块，用厨房纸吸干表面水分，两面撒盐与白胡椒。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "鱼块一定要吸干水，湿着下锅只会焖出一锅水汽，煎不出焦边。",
+      "visual_cue": "鱼块表面干爽，调料均匀"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒一半橄榄油烧热，鱼块下锅中火煎到两面微黄，盛出备用。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "鱼块只煎到定型就行，后面还要焖，煎老了肉质发干像木屑。",
+      "visual_cue": "鱼块两面结起浅黄硬壳"
+    },
+    {
+      "n": 3,
+      "text": "原锅补剩下的橄榄油，下洋葱丁小火炒到透明，加蒜末炒出香味。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "洋葱要炒到发软透明才有甜味，急着放蒜末会把蒜炒苦。",
+      "visual_cue": "洋葱透明，蒜末微黄不焦"
+    },
+    {
+      "n": 4,
+      "text": "倒入番茄泥翻炒到颜色变深、水分收干，炒出浓稠的红色酱底。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄泥要炒到出红油才算到位，炒不透会带一股生酸味。",
+      "visual_cue": "酱底红亮浓稠，锅底见油"
+    },
+    {
+      "n": 5,
+      "text": "大米倒进锅里翻炒两分钟，让每粒米都裹上红色酱底，再倒入高汤。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "米下锅先炒过，煮出来的饭粒分明不粘，这是西班牙锅饭的规矩。",
+      "visual_cue": "米粒均匀泛红，汤汁清亮"
+    },
+    {
+      "n": 6,
+      "text": "汤汁烧开后转小火煮十分钟，把煎好的鱼块铺在饭面，加盖焖十二分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "鱼块别压进饭里，铺在上面用蒸汽焖熟，肉质才嫩不散。",
+      "visual_cue": "汤汁收至米面，鱼块完整"
+    },
+    {
+      "n": 7,
+      "text": "关火焖五分钟，撒欧芹碎，连锅端上桌用勺子分食。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "关火焖五分钟让米粒吸干余汤，急着吃会夹生还汤水四溢。",
+      "visual_cue": "饭粒松散，锅底微结薄壳"
+    }
+  ],
+  "tips": [
+    "西班牙锅饭讲究锅底那层微焦的锅巴，最后两分钟可以开大火逼一下。",
+    "米和高汤的比例按一比二点三最稳，汤多了成粥，少了夹生。",
+    "用咸鳕鱼的话要提前泡二十四小时去盐，鲜鳕鱼就不用这一步。"
+  ],
+  "common_mistakes": [
+    "用铲子不停翻搅，米粒被搅断，煮出来一锅黏糊糊的米粥。",
+    "高汤一次倒太多，饭煮到最后还是汤泡饭，锅巴也结不起来。",
+    "鱼块和米一起下锅久煮，鱼肉碎成渣，吃不出块状。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳕鱼",
+      "substitute": "鲈鱼",
+      "ratio": "400克:400克",
+      "note": "鲈鱼刺少肉紧，煎制时间可缩短两分钟。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "700毫升:700毫升",
+      "note": "用清水需补五克盐与少许白胡椒。"
+    }
+  ],
+  "variations": [
+    "加一把青豆同煮，颜色更鲜亮，是瓦伦西亚沿海的家常版本。",
+    "把鳕鱼换成虾仁与蛤蜊，做成海鲜版锅饭，鲜味更足。"
+  ],
+  "serving_suggestion": "连锅端上桌，配一碟腌橄榄和一杯冰镇白葡萄酒，先吃鱼再吃饭最对味。",
+  "storage": "冷藏可存一天，复热时淋两勺高汤盖锡纸进烤箱一百八十度烤十分钟。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 32,
+    "fat_g": 18,
+    "carbs_g": 58,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish"
+  ],
+  "diet_tags": [
+    "pescatarian",
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鳕鱼须煎至中心温度达到六十三度以上、肉质由透明转白且能轻松分层，再与饭同焖至熟透。"
+  ],
+  "origin_note": "这道饭来自西班牙北部的巴斯克与加泰罗尼亚沿海，当地渔民把腌鳕鱼和米一起下锅，用鱼骨熬的汤煮成。讲究米粒分明、锅底一层薄锅巴，配着橄榄和当地白酒吃。",
+  "tags": [
+    "西班牙菜",
+    "主食",
+    "鳕鱼",
+    "锅饭",
+    "一锅出"
+  ],
+  "related_ids": [
+    "spanish-paella",
+    "arroz-negro",
+    "paella-verduras"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

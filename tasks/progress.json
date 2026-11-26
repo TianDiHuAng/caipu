@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T03:51:31.551Z",
+  "generatedAt": "2026-11-26T04:15:03.187Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 653,
     "target": 3274,
-    "actual": 2278,
-    "coverage": 0.6957849725106903
+    "actual": 2285,
+    "coverage": 0.6979230299328039
   },
   "regions": {
     "cn": [
@@ -542,7 +542,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 91,
+        "actual": 92,
         "cells": [
           {
             "category": "main-seafood",
@@ -652,9 +652,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "cantonese-lvdou-sha",
+              "cantonese-yangzhi-ganlu",
               "cantonese-zhima-hu",
               "guangshi-hongdou-sha",
               "jiang-zhuang-nai",
@@ -942,7 +943,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 69,
+        "actual": 70,
         "cells": [
           {
             "category": "main-seafood",
@@ -1000,14 +1001,15 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "jiaxing-zongzi",
               "ningbo-xiechao-niangao",
               "wenzhou-nuomifan",
               "xianrou-caifan",
               "zhejiang-cai-fan-gao",
-              "zhejiang-caifan"
+              "zhejiang-caifan",
+              "zhejiang-hongzao-nuomifan"
             ]
           },
           {
@@ -1382,7 +1384,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 66,
+        "actual": 67,
         "cells": [
           {
             "category": "main-meat",
@@ -1464,11 +1466,12 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "duo-lajiao",
               "hunan-mei-doufu",
               "hunan-suan-doujiao",
+              "hunan-suan-jiangdou",
               "hunan-suan-jiao-tou",
               "hunan-suanrou",
               "hunan-yancai"
@@ -3344,7 +3347,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 60,
+        "actual": 61,
         "cells": [
           {
             "category": "main-meat",
@@ -3398,11 +3401,12 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "gochujang",
               "kimchi",
               "kkakdugi",
+              "korean-dongchimi",
               "korean-oiji",
               "korean-perilla-jangajji"
             ]
@@ -3909,7 +3913,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 60,
+        "actual": 61,
         "cells": [
           {
             "category": "main-meat",
@@ -3968,9 +3972,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "bouillabaisse",
+              "french-garbure",
               "french-onion-soup",
               "french-potato-soup",
               "french-soupe-au-pistou",
@@ -4105,7 +4110,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 55,
+        "actual": 57,
         "cells": [
           {
             "category": "main-seafood",
@@ -4145,11 +4150,12 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "arroz-negro",
               "paella-valenciana",
               "paella-verduras",
+              "spanish-arroz-bacalao",
               "spanish-arroz-con-pollo",
               "spanish-paella"
             ]
@@ -4174,13 +4180,14 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "alioli",
               "romesco-sauce",
               "romesco",
               "salmorejo",
-              "spanish-escalivada"
+              "spanish-escalivada",
+              "spanish-salsa-verde"
             ]
           },
           {

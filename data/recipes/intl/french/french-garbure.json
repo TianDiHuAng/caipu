@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-garbure",
+  "name": {
+    "zh": "法式卷心菜腌肉汤",
+    "en": "French Garbure",
+    "original": "Garbure"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 500,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 120,
+          "unit": "g",
+          "note": "切一指宽条",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "面包",
+          "name_en": "bread",
+          "amount": 4,
+          "unit": "piece",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "鸡骨或菜汤",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒底用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "出锅提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底汤锅",
+    "木勺",
+    "烤面包机",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "培根切成手指宽的粗条，厚底锅不放油直接下培根，小火煸出油脂。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "培根冷锅下才出得透油，热锅下去外面焦了里面还是白的。",
+      "visual_cue": "培根卷边出油，锅底一层亮油"
+    },
+    {
+      "n": 2,
+      "text": "培根捞出留用，原油下洋葱丁与大蒜，淋入橄榄油，小火炒到洋葱透明发甜。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "用培根留下的油再加橄榄油炒洋葱，汤的底味才厚，另起油锅就散了。",
+      "visual_cue": "洋葱透明发软，香气浓"
+    },
+    {
+      "n": 3,
+      "text": "卷心菜切大块洗净，下锅翻炒到叶片塌软、边缘略透。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "菜叶先炒过再煮，涩味跑掉，汤喝着清甜不冲。",
+      "visual_cue": "菜叶塌软，体积缩掉一半"
+    },
+    {
+      "n": 4,
+      "text": "倒入高汤与土豆块，放回培根，大火烧开后转小火慢炖三十分钟。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "小火慢煨汤才清亮，滚得太猛土豆散在汤里，汤会变浑发糊。",
+      "visual_cue": "土豆块边缘发圆，汤色微黄"
+    },
+    {
+      "n": 5,
+      "text": "用勺背压碎两块土豆让汤略稠，加盐与白胡椒调味，撒欧芹碎。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "压碎土豆比另调稠汁自然，汤稠得柔和，凉了也不会结块。",
+      "visual_cue": "汤汁微稠挂勺，菜块完整"
+    },
+    {
+      "n": 6,
+      "text": "面包片烤到两面微焦，摆在汤面上或另装一碟配着吃。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "面包烤脆一点，泡进汤里才不散，咬着还有焦香。",
+      "visual_cue": "面包两面金黄，边缘酥脆"
+    }
+  ],
+  "tips": [
+    "这道汤在法国西南部是一锅到底的农家菜，隔夜再热更入味。",
+    "想吃扎实一点可以加一只油封鸭腿同炖，风味立刻变得厚重。",
+    "汤面上浮的油别撇掉，那是培根的香气，撇了汤就寡淡。"
+  ],
+  "common_mistakes": [
+    "大火滚煮全程不收火，土豆煮成糊，汤浑得像浆糊。",
+    "卷心菜煮过头，菜叶发黄发烂，汤里一股闷味。",
+    "盐在炖之前就放足，炖到后面汤收浓，咸得下不了口。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "腊肉",
+      "ratio": "120克:120克",
+      "note": "腊肉咸味重，盐减到一克。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "1200毫升:1200毫升",
+      "note": "清水版需补三克盐与一小块培根增鲜。"
+    }
+  ],
+  "variations": [
+    "加一把白豆同炖，汤更绵密，是比利牛斯山区的做法。",
+    "把面包片铺在碗底再浇汤，做成泡汤吃的乡村版本。"
+  ],
+  "serving_suggestion": "盛进厚壁汤碗，配烤面包片和一杯干白，冬天喝最暖胃。",
+  "storage": "冷藏可存三天，冷冻一个月；复热时补少量高汤，避免越热越咸。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 320,
+    "protein_g": 14,
+    "fat_g": 20,
+    "carbs_g": 24,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "含猪肉制品须彻底加热至中心温度七十五度以上，汤煮沸后再小火维持十分钟。"
+  ],
+  "origin_note": "Garbure 是法国西南部加斯科涅地区的农家汤，冬天用院里收的卷心菜、地窖里的土豆和自腌的猪肉一锅炖。传统上汤面上要浮一片烤面包，浇上汤汁连面包一起吃。",
+  "tags": [
+    "法国菜",
+    "汤",
+    "卷心菜",
+    "培根",
+    "乡村菜"
+  ],
+  "related_ids": [
+    "french-onion-soup",
+    "french-potato-soup",
+    "bouillabaisse"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

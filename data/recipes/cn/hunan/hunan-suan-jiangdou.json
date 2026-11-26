@@ -1,0 +1,212 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-suan-jiangdou",
+  "name": {
+    "zh": "湘西酸豇豆",
+    "en": "Hunan Pickled Cowpeas",
+    "original": "酸豇豆"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "fermented"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 10,
+    "total_min": 40
+  },
+  "servings": 5,
+  "flavor": [
+    "sour",
+    "salty",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "豆角",
+          "name_en": "green beans",
+          "amount": 500,
+          "unit": "g",
+          "note": "选细嫩的整根豆角",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍破",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "干辣椒磨粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 25,
+          "unit": "g",
+          "note": "腌制主盐",
+          "optional": false
+        },
+        {
+          "name": "白酒",
+          "name_en": "baijiu",
+          "amount": 15,
+          "unit": "ml",
+          "note": "杀菌助发酵",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "煮盐水用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "陶坛",
+    "汤锅",
+    "竹匾",
+    "干净石块",
+    "纱布"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豇豆一条条掐去两头，撕掉两侧的老筋，用清水冲净后摊在竹匾上晾到表面全干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "豆角必须晾到发蔫没有水汽，带生水下坛两天就长白膜发臭。",
+      "visual_cue": "豆角微软发蔫，表面无水滴"
+    },
+    {
+      "n": 2,
+      "text": "清水加盐煮开搅化，继续滚两分钟离火，晾到完全凉透备用。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "盐水煮一下能去生水里的杂菌，煮完一定要放凉再用。",
+      "visual_cue": "盐水清亮，尝着明显偏咸"
+    },
+    {
+      "n": 3,
+      "text": "晾干的豇豆盘成小把塞进陶坛，塞一层撒一层蒜、姜与辣椒粉。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "豆角要盘紧压实，坛里越少空隙越不容易坏。",
+      "visual_cue": "豆角盘紧贴实，调料分层撒匀"
+    },
+    {
+      "n": 4,
+      "text": "倒入凉盐水没过豆角，淋白酒，压石块盖纱布，放阴凉处发酵五天。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "坛口不能封死，发酵产气要留缝，否则胀气顶开盖子进杂菌。",
+      "visual_cue": "盐水微浑，坛口有酸香"
+    }
+  ],
+  "tips": [
+    "腌好的酸豇豆切碎炒肉丁或炒鸡蛋都是湘西家常下饭菜。",
+    "取用一定用干燥无油的筷子，沾油整坛会烂，酸味也会变馊味。",
+    "天热三天就酸，天冷要放到一周，以豆角由绿转黄、闻着酸香为准。"
+  ],
+  "common_mistakes": [
+    "豆角带着生水下坛，第三天坛口就浮一层白膜，整坛只能倒掉。",
+    "盐水太淡想靠时间长补酸，结果先发霉后发酸，口感发苦。",
+    "坛子放在太阳下晒，温度太高豆角发黏，一点都不脆。"
+  ],
+  "substitutions": [
+    {
+      "original": "豇豆",
+      "substitute": "四季豆",
+      "ratio": "500克:500克",
+      "note": "四季豆肉厚，腌制时间需多两天。"
+    },
+    {
+      "original": "白酒",
+      "substitute": "料酒",
+      "ratio": "15毫升:20毫升",
+      "note": "料酒度数低，需多加五毫升。"
+    }
+  ],
+  "variations": [
+    "加几颗朝天椒同腌，酸辣更冲，是怀化一带的吃法。",
+    "腌好的酸豆角与腊肉同炒，加一勺剁椒，做成湘西下饭小炒。"
+  ],
+  "serving_suggestion": "切碎后用干锅焙香，配白粥或拌米粉，酸香开胃。",
+  "storage": "连盐水装坛冷藏可存三个月，取用时保持豆角浸在盐水中不露出液面。",
+  "nutrition_estimate": {
+    "basis": "按五人份估算",
+    "calories_kcal": 40,
+    "protein_g": 2,
+    "fat_g": 0,
+    "carbs_g": 7,
+    "sodium_mg": 730,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "腌制蔬菜须保证完全浸没在盐水中，出现白膜、发黏或异味时整坛丢弃不可食用。",
+    "豇豆属高风险的豆类食材，腌好后炒制须彻底加热至熟透、颜色转暗、没有生豆腥味，不可生食。"
+  ],
+  "origin_note": "湘西多山，夏天豆角一茬接一茬吃不完，当地人便用盐水加白酒腌进陶坛。坛子放在灶屋阴凉角落，几天后豆角由绿转黄，酸香扑鼻，是山里人一冬的下饭菜。",
+  "tags": [
+    "湘菜",
+    "发酵",
+    "腌菜",
+    "豇豆",
+    "下饭"
+  ],
+  "related_ids": [
+    "hunan-yancai",
+    "hunan-suan-jiao-tou",
+    "duo-lajiao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
