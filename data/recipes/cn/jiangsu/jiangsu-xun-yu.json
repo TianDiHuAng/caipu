@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-xun-yu",
+  "name": {
+    "zh": "苏式熏鱼",
+    "en": "Suzhou Style Smoked Fish",
+    "original": "Su shi xun yu"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 42,
+    "total_min": 72
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "savory",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 800,
+          "unit": "g",
+          "note": "取中段，切两厘米厚块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "两颗",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 340,
+          "unit": "ml",
+          "note": "炸鱼用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "卤汁",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 45,
+          "unit": "g",
+          "note": "卤汁",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "卤汁",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 350,
+          "unit": "ml",
+          "note": "熬卤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "大盆",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去鳞去内脏洗净，横切成两厘米厚的块，加姜片和料酒抓匀腌十五分钟。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "鱼块厚薄必须一致，下锅炸的时候熟度才同步",
+      "visual_cue": "鱼块切得齐整，表面干爽不粘手"
+    },
+    {
+      "n": 2,
+      "text": "小锅放清水、生抽、老抽、冰糖、米醋、八角和桂皮，小火熬二十分钟成卤汁。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "卤汁熬到只剩原来三分之二，味道才够浓够厚",
+      "visual_cue": "卤汁深红透亮，香气浓郁扑鼻"
+    },
+    {
+      "n": 3,
+      "text": "腌好的鱼块用厨房纸吸干表面水分，避免下油锅时爆油。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "鱼皮一定要擦到干透，带水下锅会油星四溅",
+      "visual_cue": "鱼块表面干爽，一点水汽都没有"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧到七成热，鱼块分批下锅，炸五分钟到外壳金黄捞出。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "一次别下太多鱼块，油温一掉鱼就炸得软塌",
+      "visual_cue": "外壳炸到金黄，鱼块挺实不下塌"
+    },
+    {
+      "n": 5,
+      "text": "全部炸完后再把油烧热，鱼块回锅复炸一分钟，逼出多余油分，捞出沥油。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "复炸一分钟能让外壳更脆，浸卤后也不容易散",
+      "visual_cue": "外壳酥硬，用筷子敲上去有响声"
+    },
+    {
+      "n": 6,
+      "text": "趁热把鱼块浸进放凉的卤汁里，泡三分钟翻面再泡两分钟，捞出装盘。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "趁着热鱼进冷卤，一冷一热汁水才吸得进去",
+      "visual_cue": "鱼块挂满卤汁，颜色红亮油润"
+    }
+  ],
+  "tips": [
+    "卤汁一定要提前熬好并放凉，热卤泡鱼会把外壳泡软。",
+    "鱼块复炸这一步不能省，外壳够脆，浸卤后才不会烂成糊。",
+    "喜欢甜口的可以把冰糖加到六十克，江浙人吃熏鱼讲究甜出头、咸收口。"
+  ],
+  "common_mistakes": [
+    "鱼块带水下油锅，热油飞溅，鱼皮也被炸破，卖相差。",
+    "油温不够就下鱼，鱼块吸饱油，吃着腻，也不脆。",
+    "卤汁是热的就泡鱼，外壳立刻回软，成品软塌塌没有口感。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲈鱼",
+      "ratio": "800克:800克",
+      "note": "鲈鱼肉嫩，炸的时间减到四分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "45克:40克",
+      "note": "白糖色浅，可加两毫升老抽补色。"
+    }
+  ],
+  "variations": [
+    "卤汁里加一小勺五香粉，香气更像老式熏鱼，配粥一流。",
+    "把鱼换成带鱼段，做成熏带鱼，骨少肉厚，孩子也能吃。"
+  ],
+  "serving_suggestion": "冷吃热吃都行，冷后入味更足，配黄酒或白粥，是江南人待客的冷盘。",
+  "storage": "冷藏可放三天，取出直接冷食，不要回锅加热，回热外壳会软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 30,
+    "fat_g": 22,
+    "carbs_g": 18,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "炸鱼时鱼块须擦干，油温七成下锅，避免热油爆溅烫伤。",
+    "鱼块须彻底炸熟，鱼肉中心不见血水，方可浸卤食用。"
+  ],
+  "origin_note": "苏式熏鱼其实不熏，靠的是炸和卤。苏州人把草鱼切厚块，炸到外壳酥硬，趁热投进冰凉的甜咸卤汁里，滋啦一声，汁水全吸进去。切开断面雪白，外层红亮带甜，冷盘里最见功夫的一道。",
+  "tags": [
+    "苏菜",
+    "冷盘",
+    "草鱼",
+    "熏鱼",
+    "本帮菜"
+  ],
+  "related_ids": [
+    "jiangsu-xianrou-caifan",
+    "zhejiang-shengchao-rousi",
+    "shandong-tangcu-liyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

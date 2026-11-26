@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:24:33.901Z",
+  "generatedAt": "2026-11-26T13:31:57.783Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2404,
-    "coverage": 0.7342700061087355
+    "actual": 2412,
+    "coverage": 0.7367135003054368
   },
   "regions": {
     "cn": [
@@ -293,7 +293,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 135,
+        "actual": 136,
         "cells": [
           {
             "category": "main-seafood",
@@ -386,12 +386,13 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "congshao-tijin",
               "pa-yuanke-baoyu",
               "shandong-furong-jipian",
               "shandong-sanbuzhan",
+              "shandong-tangcu-liyu",
               "shandong-yipin-doufu",
               "sixi-wanzi",
               "youbao-shuangcui",
@@ -542,7 +543,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 93,
+        "actual": 95,
         "cells": [
           {
             "category": "main-seafood",
@@ -574,9 +575,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "bobo-gulaorou",
+              "cantonese-meicai-zheng-rouping",
               "cantonese-shacha-niurou",
               "chijiao-niurou",
               "chizhi-zheng-paigu",
@@ -652,11 +654,12 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "cantonese-hongdou-gao",
               "cantonese-lvdou-sha",
               "cantonese-yangzhi-ganlu",
+              "cantonese-ye-zhi-dun-dan",
               "cantonese-zhima-hu",
               "guangshi-hongdou-sha",
               "jiang-zhuang-nai",
@@ -757,7 +760,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 74,
+        "actual": 76,
         "cells": [
           {
             "category": "main-seafood",
@@ -822,12 +825,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "jiangsu-baiqie-yangrou",
               "jiangsu-jiangya",
               "jiangsu-liangban-wosun",
               "jiangsu-tangcu-luobo",
+              "jiangsu-xun-yu",
               "jiangsu-xunyu",
               "nanjing-yanshui-ya",
               "shuijing-yaorou",
@@ -888,8 +892,9 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "jiangsu-xianrou-caifan",
               "yangzhou-chaofan"
             ]
           },
@@ -945,7 +950,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 73,
+        "actual": 75,
         "cells": [
           {
             "category": "main-seafood",
@@ -968,12 +973,13 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "dongpo-rou",
               "meigancai-kourou",
               "mizhi-huofang",
               "sun-shao-rou",
+              "zhejiang-furu-rou",
               "zhejiang-gancai-menrou",
               "zhejiang-meigan-cai-kourou-wan",
               "zhejiang-shengchao-rousi",
@@ -1003,7 +1009,7 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "jiaxing-zongzi",
               "ningbo-xiechao-niangao",
@@ -1012,7 +1018,8 @@
               "zhejiang-cai-fan-gao",
               "zhejiang-caifan",
               "zhejiang-hongzao-nuomifan",
-              "zhejiang-xianrou-wandou-fan"
+              "zhejiang-xianrou-wandou-fan",
+              "zhejiang-xianrou-zongzi"
             ]
           },
           {
@@ -3407,7 +3414,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 68,
+        "actual": 69,
         "cells": [
           {
             "category": "main-meat",
@@ -3433,13 +3440,14 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "dwaeji-gukbap",
               "korean-dajiang-tang",
               "korean-doenjang-ggigae",
               "korean-kongnamul-guk",
               "korean-sogogi-muguk",
+              "korean-tteokguk",
               "miyeok-guk",
               "sundubu-jjigae",
               "yukgaejang"

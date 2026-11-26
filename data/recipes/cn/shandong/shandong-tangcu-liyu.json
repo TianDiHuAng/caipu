@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-tangcu-liyu",
+  "name": {
+    "zh": "糖醋鲤鱼",
+    "en": "Sweet and Sour Carp",
+    "original": "Tang cu li yu"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 38,
+    "total_min": 73
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "sour",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鲤鱼",
+          "name_en": "carp",
+          "amount": 900,
+          "unit": "g",
+          "note": "去鳞去内脏，两面剞花刀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半切片一半切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 50,
+          "unit": "g",
+          "note": "挂糊",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 50,
+          "unit": "g",
+          "note": "挂糊加勾芡",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 350,
+          "unit": "ml",
+          "note": "炸鱼用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 70,
+          "unit": "g",
+          "note": "熬汁",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 70,
+          "unit": "ml",
+          "note": "熬汁",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌鱼",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "熬汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "菜刀",
+    "漏勺",
+    "大盆",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鲤鱼去鳞去内脏后冲洗干净，两面各斜剞五六刀，深到鱼骨但不要切断。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "刀口要斜着切，鱼肉遇热卷起来造型才好看",
+      "visual_cue": "鱼身开出均匀花刀，刀口整齐不破皮"
+    },
+    {
+      "n": 2,
+      "text": "鱼身内外抹上盐和料酒，塞入姜片和葱段腌十五分钟去腥。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "腌好后把鱼身表面的血水擦干，挂糊才黏得牢",
+      "visual_cue": "鱼身干爽，葱姜香味渗进肉里"
+    },
+    {
+      "n": 3,
+      "text": "面粉和淀粉加清水调成能挂住勺背的糊，把鱼整条裹匀，刀口处也要抹到。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "糊要稠到能挂住勺背，太稀挂不住，炸完不成形",
+      "visual_cue": "鱼身裹满薄糊，提起来糊不往下滴"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧到六成热，提着鱼尾先炸鱼头定型，再把整条鱼滑进油里。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "下锅时提着鱼尾让鱼身弯成弓形，炸出来造型才挺",
+      "visual_cue": "鱼身弯成弓形定型，油面大滚"
+    },
+    {
+      "n": 5,
+      "text": "中火炸八分钟翻面再炸五分钟，炸到外壳硬脆捞出，放厨房纸上沥油。",
+      "time_min": 14,
+      "heat": "中火",
+      "tip": "用勺子不断把热油淋在鱼身上，两面受热才均匀",
+      "visual_cue": "外壳炸到金黄硬脆，敲上去发响"
+    },
+    {
+      "n": 6,
+      "text": "另起锅放白糖、米醋、生抽、老抽和清水熬开，加蒜末和姜丝勾芡，浇在鱼身上。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "糖醋汁熬到能挂住勺背再勾芡，浇上去才红亮",
+      "visual_cue": "糖醋汁红亮黏稠，浇时滋滋作响"
+    }
+  ],
+  "tips": [
+    "鱼一定要选鲜活的，眼睛清亮、鳃色鲜红，炸出来肉才不散。",
+    "花刀切到鱼骨但不切透，这样炸后鱼肉翻开，浇汁也能挂住。",
+    "糖醋汁的酸甜比大约一比一，喜欢酸一点就把米醋加到八十毫升。"
+  ],
+  "common_mistakes": [
+    "鱼身没擦干就挂糊，糊和水混在一起脱落，炸出来坑坑洼洼。",
+    "油温不够就把鱼下锅，外壳吸满油发软，切开里面还带血丝。",
+    "糖醋汁熬好才勾芡又大火收，芡汁结成硬块，浇在鱼身上一坨坨。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲤鱼",
+      "substitute": "草鱼",
+      "ratio": "900克:900克",
+      "note": "草鱼刺多，花刀要切得更密。"
+    },
+    {
+      "original": "米醋",
+      "substitute": "香醋",
+      "ratio": "70毫升:70毫升",
+      "note": "香醋味更厚，白糖可减到六十克。"
+    }
+  ],
+  "variations": [
+    "把番茄酱加到糖醋汁里，颜色更红，酸甜味更直接，孩子更爱。",
+    "喜欢麻香的可以在浇汁前撒一把花椒粉，做成川式糖醋鱼口味。"
+  ],
+  "serving_suggestion": "整条鱼摆在长盘里，浇汁后立刻上桌，配米饭和一碗清汤，是宴席的主菜。",
+  "storage": "炸好的鱼当天吃完最好，冷藏后回锅用一百八十度油炸两分钟复脆，再浇新熬的汁。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 480,
+    "protein_g": 32,
+    "fat_g": 24,
+    "carbs_g": 33,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "炸鱼时油温保持在六成，鱼下锅沿锅边滑入，避免热油溅出烫伤。",
+    "鱼须炸到内部完全熟透再浇汁，鱼肉与骨连接处不见血水方可食用。"
+  ],
+  "origin_note": "糖醋鲤鱼是鲁菜宴席上的老牌大菜，讲究整条上桌、头尾翘起。济南的老师傅炸鱼前先把鱼身剞成花刀，裹上厚糊炸到金黄酥脆，再浇一勺滚烫的糖醋汁，端上桌时滋滋作响，酸甜气直冲鼻子。",
+  "tags": [
+    "鲁菜",
+    "宴席菜",
+    "鲤鱼",
+    "糖醋",
+    "炸物"
+  ],
+  "related_ids": [
+    "shandong-furong-jipian",
+    "shandong-sanbuzhan",
+    "zhaoliu-yupian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
