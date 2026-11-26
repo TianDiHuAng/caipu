@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-tofu-provencale",
+  "name": {
+    "zh": "普罗旺斯炖豆腐",
+    "en": "Provencal Tofu Stew",
+    "original": "Tofu à la Provençale"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "sour",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "老豆腐切厚片",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 200,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 6,
+          "unit": "g",
+          "note": "撕碎",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 70,
+          "unit": "ml",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 50,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "木勺",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐切一厘米厚片，用厨房纸压住吸掉表面水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "水分吸干才煎得脆，湿豆腐下锅只会噼啪爆油还粘底。",
+      "visual_cue": "豆腐片干爽，厨房纸吸到变湿"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒一半橄榄油，中火把豆腐片两面煎到金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "一面煎定型再翻，急着翻会散成碎块，卖相全无。",
+      "visual_cue": "豆腐两面金黄，边缘起壳"
+    },
+    {
+      "n": 3,
+      "text": "原锅补油，下洋葱与蒜片炒香，放茄子块煎到软。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "茄子很吃油，先煎到外皮收紧再和其他菜同炖，才不会烂成泥。",
+      "visual_cue": "茄子软塌，外皮转成深紫色"
+    },
+    {
+      "n": 4,
+      "text": "加西葫芦块与番茄块翻炒，倒白葡萄酒煮开去酒气。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄下锅后会出水，这时不要加水，靠自身汁水炖最鲜。",
+      "visual_cue": "番茄化开，锅里出红色汁"
+    },
+    {
+      "n": 5,
+      "text": "把豆腐片铺回锅里，盖盖小火炖十二分钟入味。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "豆腐最后放且不要翻动，只把汤汁淋上去，翻一次就散。",
+      "visual_cue": "豆腐吸汁变深，汤汁略收"
+    },
+    {
+      "n": 6,
+      "text": "开盖补盐与黑胡椒，撒罗勒与欧芹碎，连锅上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香草最后撒，久煮的罗勒会发黑，香气也跑光。",
+      "visual_cue": "香草翠绿，红色汤汁清亮"
+    }
+  ],
+  "tips": [
+    "普罗旺斯炖豆腐是素食者对炖菜的改良，香料与做法完全本地。",
+    "茄子先用盐腌十分钟再煎，能少吃一半油。",
+    "隔夜再吃更入味，冷藏后风味反而更好。"
+  ],
+  "common_mistakes": [
+    "豆腐没吸水就煎，油溅得满灶台，还粘锅破皮。",
+    "茄子没煎透就加水炖，最后化在汤里找不到块。",
+    "全程大火收汁，番茄烧焦发苦，颜色发暗。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐",
+      "substitute": "北豆腐",
+      "ratio": "400克:400克",
+      "note": "北豆腐更硬，煎的时候不易碎，口感更扎实。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "清水",
+      "ratio": "50毫升:50毫升",
+      "note": "清水版可加半个柠檬的汁补酸。"
+    }
+  ],
+  "variations": [
+    "加一把黑橄榄同炖，咸香更足，是尼斯一带的吃法。",
+    "放几片香菇一起炖，鲜味更浓，适合冬天。"
+  ],
+  "serving_suggestion": "连锅端上桌，配一片烤面包或一碗白米饭，淋上汤汁。",
+  "storage": "冷藏可存三天，复热时小火慢加热，别用大火会糊底。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 290,
+    "protein_g": 16,
+    "fat_g": 19,
+    "carbs_g": 14,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆腐易变质，须冷藏保存并在保质期内食用；剩菜复热须彻底加热。"
+  ],
+  "origin_note": "Tofu à la Provençale 是把普罗旺斯炖菜的蔬菜底换成豆腐的素版。番茄、茄子、西葫芦和橄榄油一起炖出浓浓的地中海味，豆腐吸饱汤汁，比肉还不腻。",
+  "tags": [
+    "法国菜",
+    "主菜",
+    "豆腐",
+    "番茄",
+    "普罗旺斯"
+  ],
+  "related_ids": [
+    "french-ratatouille",
+    "french-daube-provencale",
+    "french-soupe-au-pistou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

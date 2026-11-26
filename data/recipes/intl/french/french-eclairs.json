@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-eclairs",
+  "name": {
+    "zh": "法式闪电泡芙",
+    "en": "French Eclairs",
+    "original": "Éclairs"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 28,
+    "cook_min": 35,
+    "total_min": 63
+  },
+  "servings": 2,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 150,
+          "unit": "g",
+          "note": "过筛备用",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 240,
+          "unit": "g",
+          "note": "打散称重",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "煮面糊用",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 200,
+          "unit": "ml",
+          "note": "打发做馅",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 80,
+          "unit": "g",
+          "note": "面糊用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 40,
+          "unit": "g",
+          "note": "奶油馅用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "煮面糊",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小汤锅",
+    "裱花袋",
+    "烤盘",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛奶、清水、黄油与盐放小锅煮开，黄油完全化开。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "液体要真正滚起来再下面粉，温度不够面糊烫不熟，烤不鼓。",
+      "visual_cue": "液体翻滚，油花全化开"
+    },
+    {
+      "n": 2,
+      "text": "离火倒入过筛面粉，用木勺快速搅到成团无干粉。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面粉一次全倒入，分次加会结小疙瘩，成品里全是硬粒。",
+      "visual_cue": "面团结团，锅底结一薄层"
+    },
+    {
+      "n": 3,
+      "text": "回小火边加热边翻炒两分钟，把面团里的水分炒干。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "锅底出现一层薄膜才说明水分够了，这层膜是烤得鼓的关键。",
+      "visual_cue": "锅底起薄膜，面团光滑"
+    },
+    {
+      "n": 4,
+      "text": "面团移到盆里分五到六次加蛋液，每次都搅到完全吸收。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "蛋液千万别一次倒完，面团吸不住就变稀，挤出来全摊平。",
+      "visual_cue": "面糊提勺呈倒三角缓慢下落"
+    },
+    {
+      "n": 5,
+      "text": "面糊装裱花袋，在烤盘上挤成长条，间隔三厘米。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "挤的时候手要稳，粗细不匀烤出来有的焦有的生。",
+      "visual_cue": "长条粗细一致，间距均匀"
+    },
+    {
+      "n": 6,
+      "text": "烤箱二百度烤十五分钟，转一百八十度再烤十分钟。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "中途别开门，一开门蒸汽跑掉，泡芙立刻塌成薄饼。",
+      "visual_cue": "泡芙鼓起金黄，外壳硬挺"
+    },
+    {
+      "n": 7,
+      "text": "淡奶油加白糖打到硬挺，从泡芙底部挤入，表面可蘸巧克力。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "奶油要打到提起打蛋器有直立尖角，软了挤进去会流出来。",
+      "visual_cue": "奶油纹路挺立，泡芙鼓起饱满"
+    }
+  ],
+  "tips": [
+    "闪电泡芙因表面光泽像闪电而得名，是法式甜点铺的常客。",
+    "面糊状态决定成败，提起来呈倒三角缓慢下落最合适。",
+    "烤好的空壳冷冻可存一个月，吃前回炉五分钟再填馅。"
+  ],
+  "common_mistakes": [
+    "蛋液一次全倒，面糊变稀，挤出来摊成一片平板。",
+    "中途开烤箱看进度，泡芙瞬间塌陷，再也鼓不起来。",
+    "奶油打得太软，挤进泡芙里全流出来，切开是空的。"
+  ],
+  "substitutions": [
+    {
+      "original": "淡奶油",
+      "substitute": "牛奶",
+      "ratio": "200毫升:180毫升",
+      "note": "牛奶馅需加玉米淀粉煮成卡仕达，口感更厚。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "80克:70毫升",
+      "note": "植物油版香气差些，但烤制膨胀效果接近。"
+    }
+  ],
+  "variations": [
+    "表面蘸一层巧克力甘纳许，做成经典巧克力闪电泡芙。",
+    "挤成小圆球就是奶油泡芙，形状不同但面糊配方一样。"
+  ],
+  "serving_suggestion": "冷藏一小时定型后食用，配一杯无糖咖啡平衡甜度。",
+  "storage": "未填馅的空壳冷冻可存一个月，填馅后冷藏不超过一天。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算（共六个）",
+    "calories_kcal": 750,
+    "protein_g": 15,
+    "fat_g": 55,
+    "carbs_g": 50,
+    "sodium_mg": 380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "含蛋、乳与麸质，过敏人群禁食；奶油馅须全程冷藏，室温放置不超过两小时。"
+  ],
+  "origin_note": "Éclair 在法语里就是闪电的意思，据说是因为表面那层光泽，也可能是因为好吃到几口就没了。面糊烫熟后挤成长条烤鼓，填进奶油，是巴黎甜点铺最基础的一款。",
+  "tags": [
+    "法国菜",
+    "烘焙",
+    "甜点",
+    "泡芙",
+    "奶油"
+  ],
+  "related_ids": [
+    "french-gougeres",
+    "french-financier",
+    "french-madeleines"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
