@@ -1,0 +1,247 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-carnitas",
+  "name": {
+    "zh": "墨西哥慢炖猪肉",
+    "en": "Mexican Slow-cooked Pork",
+    "original": "Carnitas"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 800,
+          "unit": "g",
+          "note": "切拳头大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切大瓣",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 50,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 14,
+          "unit": "g",
+          "note": "腌肉用",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎上色用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "炖煮用",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 6,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "漏勺",
+    "砧板",
+    "夹子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成拳头大的块，用盐与孜然粉抓匀腌十五分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "切大块才炖得住，小块炖一小时早就散成肉糜，捞不起来。",
+      "visual_cue": "肉块表面挂盐，肥瘦分层清楚"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅倒橄榄油，中火把肉块每面煎到金黄上色。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "煎上色是香味的来源，跳过这步炖出来的肉只有咸味没焦香。",
+      "visual_cue": "肉块四面焦黄，锅底留褐色"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱瓣、蒜与干辣椒炒香，倒入清水没过肉块一半。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "水只到肉的一半，靠蒸汽和自身油脂焖，水多了就成了白煮肉。",
+      "visual_cue": "水面浸到肉块腰线，洋葱散在四周"
+    },
+    {
+      "n": 4,
+      "text": "盖盖小火炖一小时，中途翻动两次，让肉块均匀受热。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "全程小火保持微微冒泡，火大了水干得快，肉还没烂。",
+      "visual_cue": "肉块能用筷子轻松插入"
+    },
+    {
+      "n": 5,
+      "text": "开盖转中火收干汤汁，把肉块压散成粗条，煎到边缘微脆。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "收汁时别走开，糖分和油一起焦化，几十秒就变黑。",
+      "visual_cue": "汤汁收干，肉条边缘焦脆"
+    },
+    {
+      "n": 6,
+      "text": "盛盘挤上青柠汁，撒洋葱碎与香菜碎，趁热配热饼一起吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "青柠汁最后挤，酸味能解掉肥肉的腻，也让焦香更立体。",
+      "visual_cue": "肉条油亮焦脆，配菜翠绿点缀"
+    }
+  ],
+  "tips": [
+    "慢炖猪肉是墨西哥卷饼的灵魂馅料，外脆内软才对味。",
+    "传统做法用猪油慢炸，家里用厚底锅半煎半炖更省油。",
+    "剩下的肉第二天炒饭或夹热饼，味道比第一天更透。"
+  ],
+  "common_mistakes": [
+    "肉切太小块，炖完已经找不到完整肉条。",
+    "全程大火收汁，锅底焦糊，肉带苦味。",
+    "不放盐只靠酱料，肉里没底味，卷饼吃起来发淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪里脊",
+      "ratio": "800克:800克",
+      "note": "里脊更瘦，需多加五十毫升水并缩短炖煮十分钟。"
+    },
+    {
+      "original": "孜然",
+      "substitute": "咖喱粉",
+      "ratio": "4克:5克",
+      "note": "咖喱粉版香气更杂，适合重口。"
+    }
+  ],
+  "variations": [
+    "加半个橙子的皮同炖，果香更浓，是墨西哥中部的做法。",
+    "炖好后用喷枪把表面燎一下，焦香更接近街头摊。"
+  ],
+  "serving_suggestion": "夹进热饼里，配洋葱碎、香菜和青柠角，一手一个。",
+  "storage": "冷藏可存三天，复热用干锅煎脆，勿加水会失去脆边。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 620,
+    "protein_g": 28,
+    "fat_g": 50,
+    "carbs_g": 6,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "猪肉须炖至中心完全熟透、无血水；剩肉冷藏并在三天内复热彻底。"
+  ],
+  "origin_note": "Carnitas 在西班牙语里是小肉块的意思，源自墨西哥米却肯州。猪肉块在猪油里慢慢炖到软烂，再收干汤汁煎出脆边，卷进玉米饼里，咬下去外面咔嚓里面化开。",
+  "tags": [
+    "墨西哥菜",
+    "主菜",
+    "五花肉",
+    "慢炖",
+    "卷饼"
+  ],
+  "related_ids": [
+    "mexican-tacos-al-pastor"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

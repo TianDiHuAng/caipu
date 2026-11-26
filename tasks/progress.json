@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T05:26:14.270Z",
+  "generatedAt": "2026-11-26T06:01:59.724Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 653,
     "target": 3274,
-    "actual": 2308,
-    "coverage": 0.7049480757483201
+    "actual": 2316,
+    "coverage": 0.7073915699450214
   },
   "regions": {
     "cn": [
@@ -3165,7 +3165,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 64,
+        "actual": 66,
         "cells": [
           {
             "category": "main-seafood",
@@ -3205,13 +3205,14 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "asari-misoshiru",
               "japanese-dangojiru",
               "japanese-kakitama-jiru",
               "japanese-kenchin-jiru",
               "japanese-oden-simple",
+              "japanese-tonjiru",
               "miso-soup",
               "tonjiru"
             ]
@@ -3220,13 +3221,14 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "chawanmushi",
               "goma-ae-spinach",
               "hiyayakko",
               "japanese-agedashi-tofu",
               "japanese-chawanmushi",
+              "japanese-hiyayakko",
               "japanese-takoyaki",
               "karaage"
             ]
@@ -4126,7 +4128,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 59,
+        "actual": 61,
         "cells": [
           {
             "category": "main-seafood",
@@ -4166,7 +4168,7 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "arroz-negro",
               "paella-valenciana",
@@ -4174,6 +4176,7 @@
               "spanish-arroz-bacalao",
               "spanish-arroz-caldoso",
               "spanish-arroz-con-pollo",
+              "spanish-arroz-con-verduras",
               "spanish-paella"
             ]
           },
@@ -4197,12 +4200,13 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "alioli",
               "romesco-sauce",
               "romesco",
               "salmorejo",
+              "spanish-ali-oli",
               "spanish-escalivada",
               "spanish-romesco-sauce",
               "spanish-salsa-verde"
@@ -4881,7 +4885,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 66,
+        "actual": 67,
         "cells": [
           {
             "category": "main-vegetable",
@@ -4965,9 +4969,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "gajar-halwa",
+              "indian-carrot-halwa",
               "indian-gulab-jamun",
               "indian-kaju-katli",
               "indian-kulfi",
@@ -6974,17 +6979,18 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 59,
+        "actual": 62,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "elote",
               "mexican-chicken-quesadilla",
               "mexican-elote-cup",
+              "mexican-guacamole",
               "mexican-tamales-verdes",
               "quesadilla",
               "tacos-de-carne",
@@ -6995,12 +7001,13 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "carnitas",
               "chili-con-carne",
               "mexican-birria-de-res",
               "mexican-carne-asada",
+              "mexican-carnitas",
               "mexican-cochinita-pibil",
               "mexican-tacos-al-pastor",
               "ropa-vieja"
@@ -7050,7 +7057,7 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "agua-fresca",
               "horchata",
@@ -7058,6 +7065,7 @@
               "mexican-atole",
               "mexican-champurrado",
               "mexican-horchata",
+              "mexican-licuado-platano",
               "mexican-limonada"
             ]
           },

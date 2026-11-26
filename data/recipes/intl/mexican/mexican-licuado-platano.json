@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-licuado-platano",
+  "name": {
+    "zh": "墨西哥香蕉牛奶饮",
+    "en": "Mexican Banana Milkshake",
+    "original": "Licuado de Plátano"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 8,
+    "cook_min": 2,
+    "total_min": 10
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "香蕉",
+          "name_en": "banana",
+          "amount": 330,
+          "unit": "g",
+          "note": "熟透带斑点的",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 600,
+          "unit": "ml",
+          "note": "全脂冷牛奶",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 2,
+          "unit": "g",
+          "note": "磨粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 30,
+          "unit": "g",
+          "note": "按甜度调整",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "冰块替代用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "搅拌机",
+    "量杯",
+    "长杯",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "香蕉剥皮掰成小段，挑掉果肉两头附着的黑丝。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香蕉皮上带黑斑才够甜，青皮的打出来发涩，还带一股生味。",
+      "visual_cue": "香蕉段柔软，果香明显"
+    },
+    {
+      "n": 2,
+      "text": "香蕉段、冷牛奶与清水一起倒进搅拌杯里，别超过最高刻度。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "牛奶要用冰箱里的冷的，温牛奶打出来起泡又带腥。",
+      "visual_cue": "液体淹过香蕉，杯壁结水雾"
+    },
+    {
+      "n": 3,
+      "text": "加蜂蜜与肉桂粉，高速搅打四十秒到完全顺滑。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "肉桂只要一点点，多了会盖掉香蕉的甜香，变成药味。",
+      "visual_cue": "液体顺滑无颗粒，颜色米黄"
+    },
+    {
+      "n": 4,
+      "text": "倒入长杯，表面再撒少许肉桂粉，冰镇后饮用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "打好马上喝，放十分钟就分层，下面沉上面起泡。",
+      "visual_cue": "杯面细沫均匀，颜色均匀"
+    }
+  ],
+  "tips": [
+    "香蕉牛奶是墨西哥街头早餐摊的常客，一杯配一个面包就是一餐。",
+    "香蕉先冷冻再打，口感更接近奶昔，夏天更解暑。",
+    "想更香可以加一勺花生酱，是墨西哥北部的喝法。"
+  ],
+  "common_mistakes": [
+    "用青香蕉打，甜度不够还发涩，只能靠加糖硬压。",
+    "牛奶是热的，打出来腥味重，泡沫也消不掉。",
+    "打好放太久才喝，出现分层，喝起来像兑水的糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "豆浆",
+      "ratio": "600毫升:600毫升",
+      "note": "豆浆版更清爽，甜度需略增。"
+    },
+    {
+      "original": "蜂蜜",
+      "substitute": "白糖",
+      "ratio": "30克:25克",
+      "note": "白糖化得慢，需先与少量温牛奶调开。"
+    }
+  ],
+  "variations": [
+    "加一勺燕麦片同打，口感更稠，饱腹感更强。",
+    "放进几块冰一起打，做成冰沙版，夏天更受欢迎。"
+  ],
+  "serving_suggestion": "倒入冰过的长杯，插吸管现喝，配一个甜面包当早餐。",
+  "storage": "建议现打现喝，冷藏超过四小时会分层，风味明显变差。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 210,
+    "protein_g": 7,
+    "fat_g": 6,
+    "carbs_g": 34,
+    "sodium_mg": 80,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "含乳制品，乳糖不耐者可用无乳糖牛奶替代；现打饮品不宜久放。"
+  ],
+  "origin_note": "Licuado 是墨西哥人对搅拌机饮品的统称，街边小摊一早就在打。香蕉加冷牛奶，撒一点肉桂，甜得直接，配一个甜面包就是最普通的墨西哥早餐。",
+  "tags": [
+    "墨西哥菜",
+    "饮品",
+    "香蕉",
+    "牛奶",
+    "早餐"
+  ],
+  "related_ids": [
+    "mexican-horchata",
+    "mexican-agua-de-jamaica",
+    "mexican-atole"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

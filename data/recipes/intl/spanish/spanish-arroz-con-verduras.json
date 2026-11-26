@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-arroz-con-verduras",
+  "name": {
+    "zh": "西班牙蔬菜饭",
+    "en": "Spanish Vegetable Rice",
+    "original": "Arroz con Verduras"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 320,
+          "unit": "g",
+          "note": "短粒米",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "去皮切碎",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 100,
+          "unit": "g",
+          "note": "冷冻豌豆",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "甜椒粉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "煮饭用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "木勺",
+    "砧板",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍沥干，摊在盘里晾十分钟让表面水分走掉。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "米粒表面干爽，炒的时候才不粘锅，也不容易糊成一团。",
+      "visual_cue": "米粒干爽松散，粒粒分明不粘连"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒橄榄油，下洋葱末与蒜片小火炒到洋葱透明。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "洋葱要炒出甜味再下其他菜，急火只会把蒜炒焦发苦。",
+      "visual_cue": "洋葱透明软塌，蒜片浅黄"
+    },
+    {
+      "n": 3,
+      "text": "加番茄碎炒成浓酱，撒辣椒粉，炒到酱汁颜色变深红。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "番茄一定要炒到出水再收干，生番茄直接加水，饭会发酸发水。",
+      "visual_cue": "酱汁浓稠发亮，锅底见红油"
+    },
+    {
+      "n": 4,
+      "text": "下青椒丁、胡萝卜丁与豌豆翻炒两分钟，加盐调味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "豌豆用冷冻的可以直接下锅，新鲜的要先焯水去生豆味。",
+      "visual_cue": "蔬菜断生，颜色鲜亮有光泽"
+    },
+    {
+      "n": 5,
+      "text": "倒入大米翻炒到每粒都裹上酱汁，加清水煮开后转小火。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "水一次加足，中途补水会让米粒外烂内硬，口感全毁。",
+      "visual_cue": "米粒裹红，水面没过米一指"
+    },
+    {
+      "n": 6,
+      "text": "盖盖小火焖十八分钟，关火再焖五分钟，撒欧芹碎上桌。",
+      "time_min": 23,
+      "heat": "小火",
+      "tip": "关火后焖五分钟让水汽回匀，立刻开盖饭粒会外湿内硬。",
+      "visual_cue": "饭粒吸干水，锅边微焦"
+    }
+  ],
+  "tips": [
+    "蔬菜饭是西班牙人平常日子里的主食，比海鲜饭省事得多。",
+    "用短粒米才吸得住汤汁，长粒米做出来汤汤水水。",
+    "喜欢锅巴可以在最后两分钟开大火，听到轻微噼啪声就关火。"
+  ],
+  "common_mistakes": [
+    "米没沥干就下锅炒，粘成一坨，怎么翻都散不开。",
+    "番茄没炒透就加水，整锅饭发酸发水，味道单薄。",
+    "中途揭盖补水，米粒外烂内硬，锅底还糊一层。"
+  ],
+  "substitutions": [
+    {
+      "original": "豌豆",
+      "substitute": "青豆",
+      "ratio": "100克:100克",
+      "note": "青豆罐头需先沥干水分再下锅。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "红椒",
+      "ratio": "150克:150克",
+      "note": "红椒版颜色更亮，甜度也更高。"
+    }
+  ],
+  "variations": [
+    "加一把泡发的鹰嘴豆同焖，饱腹感更强，是西班牙南部的做法。",
+    "放几片西班牙香肠同炒，油脂渗进饭里，香气更足。"
+  ],
+  "serving_suggestion": "连锅端上桌，撒欧芹碎，配一碟蒜香蛋黄酱一起食用。",
+  "storage": "冷藏可存两天，复热时淋一勺水加盖蒸热，勿干炒会变硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 430,
+    "protein_g": 9,
+    "fat_g": 16,
+    "carbs_g": 62,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "米饭煮好后两小时内冷藏，隔夜饭复热须彻底热透，避免室温久放。"
+  ],
+  "origin_note": "Arroz con Verduras 是西班牙家庭餐桌上的日常饭，青椒、番茄、胡萝卜和豌豆一起焖进米里。没有海鲜饭那么隆重，却更能吃出蔬菜的甜和米粒的香。",
+  "tags": [
+    "西班牙菜",
+    "主食",
+    "米饭",
+    "蔬菜",
+    "一锅"
+  ],
+  "related_ids": [
+    "spanish-paella",
+    "spanish-arroz-con-pollo",
+    "spanish-pisto"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

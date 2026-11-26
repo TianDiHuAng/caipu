@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-hiyayakko",
+  "name": {
+    "zh": "日式凉拌豆腐",
+    "en": "Chilled Tofu",
+    "original": "冷奴"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 3,
+    "total_min": 15
+  },
+  "servings": 2,
+  "flavor": [
+    "light",
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 300,
+          "unit": "g",
+          "note": "嫩豆腐",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切细葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "紫菜",
+          "name_en": "nori",
+          "amount": 3,
+          "unit": "g",
+          "note": "剪细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "淋面",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小碗",
+    "刀",
+    "厨房纸",
+    "小碟"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐从盒中取出，用厨房纸包住静置五分钟吸掉表面水。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "水一定要吸掉，留着表面水，酱汁一淋就被稀释成淡汤。",
+      "visual_cue": "豆腐表面干爽，纸变湿"
+    },
+    {
+      "n": 2,
+      "text": "豆腐切成两厘米见方的块，放进冰水里浸三分钟。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "冰水浸过豆腐更紧实，切面光滑不塌，口感也清爽。",
+      "visual_cue": "豆腐块挺立，边缘平整"
+    },
+    {
+      "n": 3,
+      "text": "捞出豆腐沥干水，摆放在小碟中，块与块之间留缝。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "留点缝隙酱汁能渗到缝里，堆成一坨只有表面有味。",
+      "visual_cue": "豆腐摆稳立住，碟底没有积水"
+    },
+    {
+      "n": 4,
+      "text": "葱花、姜泥与紫菜丝分别放在豆腐上，淋生抽与香油。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酱汁上桌前再淋，提前淋好豆腐会出水，碟底全是淡汤。",
+      "visual_cue": "配料点缀均匀，酱汁微亮"
+    }
+  ],
+  "tips": [
+    "凉拌豆腐是日本夏天的家常小菜，简单到只需好豆腐和好酱油。",
+    "豆腐选嫩而不散的绢豆腐，口感才滑。",
+    "加一点木鱼花和芥末，味道更接近日本居酒屋。"
+  ],
+  "common_mistakes": [
+    "豆腐不吸水直接淋酱，碟底很快变成一汪淡汤。",
+    "用老豆腐做，口感发硬，完全失了滑嫩的意思。",
+    "酱汁提前淋好放半小时，豆腐出水，味道全淡了。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐",
+      "substitute": "内酯豆腐",
+      "ratio": "300克:300克",
+      "note": "内酯豆腐更嫩，切块时用刀背轻推不易碎。"
+    },
+    {
+      "original": "生抽",
+      "substitute": "淡酱油",
+      "ratio": "20毫升:22毫升",
+      "note": "淡酱油咸度低，可略增用量。"
+    }
+  ],
+  "variations": [
+    "放一勺芝麻酱调开，做成芝麻凉豆腐，香气更浓。",
+    "加几只剥壳的熟虾仁，做成海鲜版，适合夏天当下酒菜。"
+  ],
+  "serving_suggestion": "冰镇后上桌，配一杯冰啤酒或清酒，当开胃小菜。",
+  "storage": "现做现吃，冷藏超过半天豆腐会出水变硬，风味下降。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 130,
+    "protein_g": 12,
+    "fat_g": 7,
+    "carbs_g": 5,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆腐为即食冷菜，须使用新鲜产品并全程冷藏，制作时手与刀具保持清洁。"
+  ],
+  "origin_note": "冷奴 是日本夏天最省事的一道菜，名字据说来自切豆腐时白白方方的样子像奴仆。冰过的嫩豆腐淋上酱油，撒葱花和姜泥，五分钟就能上桌。",
+  "tags": [
+    "日本料理",
+    "前菜",
+    "豆腐",
+    "凉菜",
+    "快手"
+  ],
+  "related_ids": [
+    "japanese-yudofu",
+    "japanese-agedashi-tofu",
+    "japanese-sunomono"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

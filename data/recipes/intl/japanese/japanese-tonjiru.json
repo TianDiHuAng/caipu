@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-tonjiru",
+  "name": {
+    "zh": "日式猪肉味噌汤",
+    "en": "Japanese Pork Miso Soup",
+    "original": "豚汁"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 200,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 200,
+          "unit": "g",
+          "note": "切小方块",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 200,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切花片",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "味噌",
+          "name_en": "miso",
+          "amount": 60,
+          "unit": "g",
+          "note": "白味噌",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 10,
+          "unit": "g",
+          "note": "煮出汁",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "炒肉用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "海带用冷水泡二十分钟，连水一起小火加热到将沸时捞出。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "海带不能煮沸，一沸汤就发黏带腥，只能维持在冒小泡。",
+      "visual_cue": "汤色微黄，海带舒展变软"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切薄片，白萝卜与胡萝卜切薄片，香菇切片。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "萝卜切薄才能和肉同时熟，切厚了肉老了萝卜还硬。",
+      "visual_cue": "配料片薄均匀，分堆摆好"
+    },
+    {
+      "n": 3,
+      "text": "汤锅下香油，把肉片炒到变色出油，再下萝卜与香菇炒两分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉先炒出油，汤才有底味，直接用生肉煮汤会寡淡发腥。",
+      "visual_cue": "肉片卷曲出油，萝卜边缘透亮"
+    },
+    {
+      "n": 4,
+      "text": "倒入海带汤煮开，撇净浮沫，中小火煮十分钟到萝卜变软。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "浮沫要撇干净，留着汤会浑，还有一股肉腥。",
+      "visual_cue": "萝卜透明发软，汤面清亮见底"
+    },
+    {
+      "n": 5,
+      "text": "转小火，把味噌放在漏勺里浸入汤中化开，加豆腐再煮两分钟。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "味噌化开后不能再大滚，一沸香气全跑，只剩死咸。",
+      "visual_cue": "汤色转浊黄，豆香浮起"
+    },
+    {
+      "n": 6,
+      "text": "关火后撒上葱花，盛进木碗里趁热喝，凉了香气就散了。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "葱花最后撒，煮过的葱会发黄发蔫，香气也散尽。",
+      "visual_cue": "葱花翠绿浮面，热气腾腾"
+    }
+  ],
+  "tips": [
+    "猪肉味噌汤是日本东北的家常汤，料比汤多，一碗就很饱。",
+    "味噌种类决定风味，白味噌偏甜，红味噌更咸厚。",
+    "加一勺清酒同煮，肉腥去得更彻底，香气也更足。"
+  ],
+  "common_mistakes": [
+    "味噌和汤一起大滚，香气散尽，只剩咸味。",
+    "萝卜切太厚，煮十分钟还硬，咬着咯吱响。",
+    "海带煮沸，汤发黏带腥，怎么加味噌都压不住。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪里脊",
+      "ratio": "200克:200克",
+      "note": "里脊更瘦，炒时需补一小勺油防粘锅。"
+    },
+    {
+      "original": "白味噌",
+      "substitute": "红味噌",
+      "ratio": "60克:50克",
+      "note": "红味噌更咸，用量需减，不必再加盐。"
+    }
+  ],
+  "variations": [
+    "加一把魔芋块同煮，口感更丰富，热量也低。",
+    "放半勺芝麻油和少许辣椒粉，做成微辣的版本。"
+  ],
+  "serving_suggestion": "盛进木碗或陶碗，配白米饭和一小碟腌萝卜。",
+  "storage": "冷藏可存两天，复热时勿再大滚，味噌香气会二次流失。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 260,
+    "protein_g": 16,
+    "fat_g": 15,
+    "carbs_g": 14,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "猪肉须炒至完全变色并煮透；含大豆制品，大豆过敏者慎食；汤冷藏后复热须煮开。"
+  ],
+  "origin_note": "豚汁 是日本东北和关东地区的家常汤，料比汤多，猪肉、萝卜、豆腐一锅煮。冬天一碗下肚，从胃暖到手，配白米饭就是一整顿饭。",
+  "tags": [
+    "日本料理",
+    "汤",
+    "猪肉",
+    "味噌",
+    "豆腐"
+  ],
+  "related_ids": [
+    "japanese-tonkatsu",
+    "japanese-nikujaga",
+    "japanese-kenchin-jiru"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
