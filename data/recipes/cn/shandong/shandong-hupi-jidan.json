@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-hupi-jidan",
+  "name": {
+    "zh": "虎皮鸡蛋",
+    "en": "Tiger-skin Braised Eggs",
+    "original": "虎皮雞蛋"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 14,
+    "cook_min": 27,
+    "total_min": 41
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "fragrant",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 270,
+          "unit": "g",
+          "note": "约五枚",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "提鲜上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "加深颜色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "回甜",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炸制用油",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "卤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋冷水下锅，水面没过蛋身，大火烧开后转中火煮八分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "冷水下锅蛋壳不易炸裂，煮足八分钟蛋黄才完全凝固。",
+      "visual_cue": "蛋壳完整无裂纹，水面微微翻滚"
+    },
+    {
+      "n": 2,
+      "text": "捞出鸡蛋立刻浸进冷水，凉透后剥去蛋壳，剥好的蛋放厨房纸上吸干水分。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "浸冷水一激，蛋壳与蛋白分离，剥起来整片脱落。",
+      "visual_cue": "蛋身光洁无破损，表面不挂水珠"
+    },
+    {
+      "n": 3,
+      "text": "用牙签在每颗蛋上扎五六个小孔，孔扎到蛋白浅层即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "扎孔能让热气散出，炸时不容易爆裂溅油。",
+      "visual_cue": "蛋身分布细密小孔，不见渗液"
+    },
+    {
+      "n": 4,
+      "text": "花生油烧到七成热，下鸡蛋中火炸到表面起皱泛黄，捞出控油。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "蛋身带水下锅会炸得很凶，先用纸吸干再下，人侧身站远些。",
+      "visual_cue": "蛋白表面起虎皮状皱褶，色泽金黄"
+    },
+    {
+      "n": 5,
+      "text": "锅里留少许底油，下姜片、八角和桂皮炒香，加生抽、老抽、白糖和清水烧开。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料先炒出味再下液体，卤汁香气才立得住。",
+      "visual_cue": "卤汁红亮冒泡，香料浮在表面"
+    },
+    {
+      "n": 6,
+      "text": "放入炸好的鸡蛋，转小火焖十五分钟，中途翻动两次让上色均匀。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "小火慢焖，蛋身才能吸饱卤汁，火大了汁干蛋还硬。",
+      "visual_cue": "蛋身染成酱红色，皱褶鼓起"
+    },
+    {
+      "n": 7,
+      "text": "转大火收汁，汤汁浓稠发亮、裹住蛋身不流盘即可出锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "收到汤汁挂勺就停，收过头糖分焦化发苦。",
+      "visual_cue": "蛋面油亮，盘底只剩一层薄汁"
+    }
+  ],
+  "tips": [
+    "煮蛋时间控制在八分钟，短了蛋黄流心，长了蛋黄发绿带硫味。",
+    "炸蛋的油温宁高勿低，低油温蛋身吸油，吃着满口油腻。",
+    "卤汁里加一小块冰糖替代部分白糖，成品光泽更透亮。"
+  ],
+  "common_mistakes": [
+    "蛋身没擦干就下油锅，热油爆溅，蛋皮也被炸出窟窿。",
+    "卤制时一直用大火，汤汁很快收干，蛋心还是白生生的。",
+    "鸡蛋煮了十二分钟以上，蛋黄外圈发绿，吃着有股硫磺味。"
+  ],
+  "substitutions": [
+    {
+      "original": "八角",
+      "substitute": "五香粉",
+      "ratio": "2粒:3克",
+      "note": "五香粉直接撒进卤汁，香气更散，缺少完整的回甘。"
+    },
+    {
+      "original": "花生油",
+      "substitute": "植物油",
+      "ratio": "200毫升:200毫升",
+      "note": "植物油味道清淡，炸出的虎皮色泽稍浅，可延长半分钟。"
+    }
+  ],
+  "variations": [
+    "卤汁里加两个干辣椒和少许花椒，做成微麻辣的版本，夏天配粥很开胃。",
+    "炸好后与五花肉同卤，蛋吸肉香，是山东家常的一锅出做法。"
+  ],
+  "serving_suggestion": "五颗蛋摆在小碟里，浇一勺卤汁，冷吃当凉菜、热吃配米饭都合适，早餐配粥最省事。",
+  "storage": "冷藏可放三天，卤汁一起装盒更入味；复热上锅蒸五分钟，别用微波炉否则蛋身会爆。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 330,
+    "protein_g": 19,
+    "fat_g": 24,
+    "carbs_g": 9,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须煮到蛋黄完全熟透凝固、中心温度达到安全标准，炸制前擦干蛋身水分，避免热油爆溅烫伤。",
+    "油炸用过的油不要反复多次使用，出现哈喇味即应弃用。"
+  ],
+  "origin_note": "虎皮鸡蛋是山东家常菜里的巧心思，先煮后炸再卤，蛋白受热起皱，纹路像虎皮，名字就这么来了。炸过的蛋身布满细孔，往卤汁里一泡，酱色和咸甜味全渗进去，咬开外层韧、里面嫩。老济南人做这道菜常跟红烧肉一锅卤，蛋比肉还抢手。",
+  "tags": [
+    "鲁菜",
+    "蛋类",
+    "卤味",
+    "虎皮"
+  ],
+  "related_ids": [
+    "shandong-jiucai-chaodan",
+    "shandong-liu-huangcai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:12:57.965Z",
+  "generatedAt": "2026-11-26T03:14:05.430Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 652,
+    "cells": 653,
     "target": 3274,
-    "actual": 2258,
-    "coverage": 0.6896762370189371
+    "actual": 2271,
+    "coverage": 0.6936469150885767
   },
   "regions": {
     "cn": [
@@ -293,7 +293,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 129,
+        "actual": 135,
         "cells": [
           {
             "category": "main-seafood",
@@ -386,10 +386,12 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 6,
+            "actual": 8,
             "ids": [
               "congshao-tijin",
               "pa-yuanke-baoyu",
+              "shandong-furong-jipian",
+              "shandong-sanbuzhan",
               "shandong-yipin-doufu",
               "sixi-wanzi",
               "youbao-shuangcui",
@@ -419,14 +421,16 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 7,
+            "actual": 9,
             "ids": [
               "shandong-furong-ganbei",
               "shandong-guota-jidan",
+              "shandong-hupi-jidan",
               "shandong-jiucai-chaodan",
               "shandong-liu-huangcai",
               "shandong-muer-chao-jidan",
               "shandong-muxu-rou",
+              "shandong-saichengxie",
               "shandong-xiaren-huadan"
             ]
           },
@@ -521,11 +525,13 @@
             "category": "breakfast",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "shandong-dabobo",
               "shandong-huajuan",
-              "shandong-jidan-geng"
+              "shandong-jidan-geng",
+              "shandong-jidan-guanbing",
+              "shandong-tianmo"
             ]
           }
         ]
@@ -2446,16 +2452,17 @@
         "en": "Chaoshan",
         "tier": "B",
         "target": 38,
-        "actual": 19,
+        "actual": 26,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "chaoshan-frozen-crab",
               "chaoshan-haolao",
+              "chaoshan-puning-doujiang-yu",
               "chaoshan-yufan",
               "chaoshan-yusheng"
             ]
@@ -2464,9 +2471,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "chaoshan-donggua-shrimp-soup",
+              "chaoshan-jiucai-zhuxie-tang",
               "chaoshan-yuwan-tang"
             ]
           },
@@ -2486,18 +2494,20 @@
             "category": "sauce",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "chaoshan-lushui-ya",
-              "chaoshan-shacha-sauce"
+              "chaoshan-shacha-sauce",
+              "chaoshan-suanrong-lajiao-jiang"
             ]
           },
           {
             "category": "staple-congee",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "chaoshan-haozi-zhou",
               "chaoshan-shaguozhou"
             ]
           },
@@ -2519,6 +2529,26 @@
             ]
           },
           {
+            "category": "staple-noodle",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "chaoshan-chao-guotiao",
+              "chaoshan-shacha-chao-hetiao"
+            ]
+          },
+          {
+            "category": "main-poultry",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "chaoshan-lu-e",
+              "chaoshan-nanjiang-ji"
+            ]
+          },
+          {
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
@@ -2529,21 +2559,12 @@
             ]
           },
           {
-            "category": "staple-noodle",
+            "category": "main-tofu",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
-              "chaoshan-chao-guotiao"
-            ]
-          },
-          {
-            "category": "main-poultry",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "chaoshan-lu-e"
+              "chaoshan-lushui-doufu"
             ]
           }
         ]

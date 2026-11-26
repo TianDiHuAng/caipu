@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "chaoshan-haozi-zhou",
+  "name": {
+    "zh": "潮汕蚝仔粥",
+    "en": "Chaoshan Oyster Congee",
+    "original": "蚝仔粥"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "chaoshan"
+  },
+  "category": [
+    "staple-congee"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 50,
+    "total_min": 95
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 200,
+          "unit": "g",
+          "note": "提前浸泡",
+          "optional": false
+        },
+        {
+          "name": "牡蛎",
+          "name_en": "oyster",
+          "amount": 300,
+          "unit": "g",
+          "note": "小的整只",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "冬菜",
+          "name_en": "Chaozhou preserved cabbage",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "最后调",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "出锅淋",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒冬菜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "砧板",
+    "刀",
+    "汤勺",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后泡水半小时，沥干后拌入一小勺植物油，静置十分钟。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "米先拌油再下锅，煮出来的粥粒粒分明，汤也不会发浑。",
+      "visual_cue": "米粒油润发亮，盆底无积水"
+    },
+    {
+      "n": 2,
+      "text": "砂锅加清水一千八百毫升大火烧开，倒入大米，改中火煮二十分钟，其间搅动三次防粘底。",
+      "time_min": 22,
+      "heat": "中火",
+      "tip": "水一次加够，中途加冷水粥会懈，米粒也不容易开花。",
+      "visual_cue": "米粒开始开花，汤色微白"
+    },
+    {
+      "n": 3,
+      "text": "牡蛎倒入盆中，用淡盐水轻轻淘洗两遍，挑净壳片，沥干水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "淘洗只能轻晃，用力揉会使牡蛎肉破裂，鲜味全跑到水里。",
+      "visual_cue": "牡蛎肉饱满，盆底无沙粒"
+    },
+    {
+      "n": 4,
+      "text": "转小火继续熬十五分钟至米粒全开、汤稠挂勺，其间撇去表面浮沫。",
+      "time_min": 16,
+      "heat": "小火",
+      "tip": "小火慢熬才能出米油，火大了粥面翻滚，容易溢锅。",
+      "visual_cue": "粥面起细密气泡，勺背挂一层米汤"
+    },
+    {
+      "n": 5,
+      "text": "另起锅放植物油，下冬菜与姜丝小火炒香，倒入粥锅中搅匀。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "冬菜炒过才出咸香，直接下锅只能吃到一股生腌味。",
+      "visual_cue": "冬菜碎油亮，香味散开"
+    },
+    {
+      "n": 6,
+      "text": "粥锅中下牡蛎，保持小火煮三分钟，加鱼露与盐调味，撒白胡椒。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "牡蛎一开口就该关火，煮久缩成硬粒，鲜甜全没了。",
+      "visual_cue": "牡蛎边缘卷起，颜色由灰转白"
+    },
+    {
+      "n": 7,
+      "text": "关火撒芹菜末、小葱切成的葱花与香菜段，淋香油搅匀，连锅端上桌趁热吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "芹菜末最后撒，热粥一烫就熟，早放会发黄发软。",
+      "visual_cue": "粥面浮着翠绿菜末，香气扑鼻"
+    }
+  ],
+  "tips": [
+    "潮汕蚝仔粥讲究粥底先好，米要煮到开花出米油，再下海鲜才不腥。",
+    "牡蛎选小个的更好，肉质嫩，甜味足，大个的煮完容易发柴。",
+    "冬菜是潮汕粥的灵魂，一点点就够，多了会盖掉牡蛎的鲜甜。"
+  ],
+  "common_mistakes": [
+    "牡蛎和粥一起从头煮，等到粥好时牡蛎已经缩成小黑粒，鲜味全无。",
+    "熬粥时不停加冷水，粥底变稀发散，喝起来像泡饭。",
+    "冬菜放太多又不减盐，整锅粥咸得发苦，怎么加水都救不回来。"
+  ],
+  "substitutions": [
+    {
+      "original": "牡蛎",
+      "substitute": "蛤蜊",
+      "ratio": "300克:400克",
+      "note": "蛤蜊需提前吐沙，煮到开口即可关火。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "生抽",
+      "ratio": "10毫升:15毫升",
+      "note": "生抽咸度更高，盐可少放一半。"
+    }
+  ],
+  "variations": [
+    "把牡蛎换成薄壳米与虾仁，就是潮汕夜宵摊上的双鲜粥。",
+    "加两片潮州咸菜同煮，酸咸开胃，是汕头一带的家常做法。"
+  ],
+  "serving_suggestion": "砂锅端上桌趁滚烫吃，配一碟普宁豆酱蘸牡蛎，再撒一把白胡椒更暖胃。",
+  "storage": "冷藏可存一天，复热时加半碗清水小火煮开，边煮边搅防粘底；不建议冷冻，米粒回生后口感发渣。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 22,
+    "fat_g": 9,
+    "carbs_g": 64,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "fish",
+    "mollusk",
+    "sesame"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "牡蛎属贝类，须彻底加热至外壳张开、肉质变白不透明，中心温度达到七十五度以上方可食用。",
+    "处理生牡蛎后须用肥皂洗手并清洗砧板，避免与熟食交叉污染。"
+  ],
+  "origin_note": "潮汕人吃夜宵，一碗蚝仔粥是最平常的选择。汕头的老街上，砂锅小火慢慢熬着白粥，客人来了舀一勺牡蛎下锅，三分钟起锅撒芹菜末。粥要稠、蚝要嫩，靠的就是这一勺一勺现煮的功夫。",
+  "tags": [
+    "潮汕菜",
+    "粥",
+    "牡蛎",
+    "夜宵"
+  ],
+  "related_ids": [
+    "chaoshan-shaguozhou",
+    "chaoshan-yufan",
+    "chaoshan-yuwan-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

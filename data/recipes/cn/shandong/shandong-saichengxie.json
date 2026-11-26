@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-saichengxie",
+  "name": {
+    "zh": "赛螃蟹",
+    "en": "Mock Crab with Eggs",
+    "original": "賽螃蟹"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 10,
+    "total_min": 22
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蛋黄",
+          "name_en": "egg yolk",
+          "amount": 120,
+          "unit": "g",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "蛋清",
+          "name_en": "egg white",
+          "amount": 120,
+          "unit": "g",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "咸蛋黄",
+          "name_en": "salted egg yolk",
+          "amount": 60,
+          "unit": "g",
+          "note": "压成泥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调姜醋汁",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "和味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "分次炒制",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调汁",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "勾薄芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "刀",
+    "砧板",
+    "碗",
+    "筷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蛋黄和蛋清分别磕进两个碗里，各用筷子打散打匀，蛋黄碗里不要混进蛋清。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋黄和蛋清分开炒才有黄白两色，混在一起就只能算普通的炒法。",
+      "visual_cue": "两碗颜色分明，表面起细泡"
+    },
+    {
+      "n": 2,
+      "text": "咸蛋黄用刀背压成细泥，加进蛋黄里搅匀，让颜色更深更黄亮。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "咸蛋黄压得越细越匀，成品颜色才够黄亮。",
+      "visual_cue": "蛋黄液呈橙黄色，看不见颗粒"
+    },
+    {
+      "n": 3,
+      "text": "姜去皮切成极细的末，加香醋、白糖、盐和料酒调成姜醋汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "姜末要细到入口不硌牙，靠它撑起这道菜的鲜气。",
+      "visual_cue": "姜醋汁酸香冲鼻，姜末沉在碗底"
+    },
+    {
+      "n": 4,
+      "text": "玉米淀粉加高汤调开，倒进姜醋汁里搅匀备用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "芡汁先调好再下锅，边炒边调汤汁就老了。",
+      "visual_cue": "汁液乳白微稠，无结块"
+    },
+    {
+      "n": 5,
+      "text": "炒锅烧热放一半花生油，倒入蛋黄小火推炒，炒到凝成小块、散出油香。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "小火慢推，蛋黄才结成块状而不是变成碎渣。",
+      "visual_cue": "蛋黄凝成橙黄小块，颗粒分明"
+    },
+    {
+      "n": 6,
+      "text": "补入剩下的花生油，倒入蛋清推炒到刚刚凝固发白，再把结好的蛋黄块倒回锅里。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蛋清一凝固就停手，炒过头会出水发硬。",
+      "visual_cue": "蛋清雪白成片，与蛋黄块分明"
+    },
+    {
+      "n": 7,
+      "text": "淋入调好的姜醋汁快速翻匀，汤汁收紧裹住蛋黄块即可出锅。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "醋汁最后下，翻两下就出锅，久炒酸味飞散只剩涩。",
+      "visual_cue": "蛋黄块油亮，汤汁挂身不流盘"
+    }
+  ],
+  "tips": [
+    "咸蛋黄是提味的关键，没有它只有酸咸，缺那股蟹黄的厚味。",
+    "姜末和香醋的比例约一比一点五，酸要压过辣，才有吃蟹蘸醋的感觉。",
+    "锅用铁锅或不粘锅都行，但锅一定要烧透再下油，否则蛋液粘底。"
+  ],
+  "common_mistakes": [
+    "两种蛋液混在一起炒，颜色一片淡黄，看着就不像蟹肉蟹黄。",
+    "姜切成了姜丝，入口一咬满嘴辛辣，把鲜味全盖住。",
+    "醋汁早早倒进锅里同炒，酸味挥发殆尽，只剩一股闷味。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸蛋黄",
+      "substitute": "咸鸭蛋",
+      "ratio": "60克:1枚",
+      "note": "整枚咸蛋取黄压泥，蛋白另作他用，咸度更足需减盐。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "米醋",
+      "ratio": "30毫升:32毫升",
+      "note": "米醋酸味柔和，可多加两毫升补足酸度。"
+    }
+  ],
+  "variations": [
+    "加五十克拆好的鱼肉同炒，鲜味更接近真蟹，是胶东沿海的做法。",
+    "喜欢浓郁口感的，起锅前加一小块黄油化开，奶香与醋香撞出层次。"
+  ],
+  "serving_suggestion": "盛在浅盘里，黄白相间，趁热配米饭吃，一勺下去酸香扑鼻，最解腻。",
+  "storage": "现炒现吃，冷藏可放一天；复热用不粘锅小火翻炒一分钟，微波炉加热会让蛋块出水发韧。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 280,
+    "protein_g": 18,
+    "fat_g": 21,
+    "carbs_g": 5,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "peanut"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "蛋液须炒到完全凝固、不见流动液体，蛋黄中心温度须达到熟透标准。",
+    "咸蛋黄胆固醇与钠含量偏高，一次不宜多食，高血压人群需减盐。"
+  ],
+  "origin_note": "赛螃蟹不是蟹，是拿鸡蛋装出来的。鲁菜馆的老做法把蛋黄蛋清分开炒，蛋黄里加咸蛋黄压成蟹黄的样子，蛋清炒成蟹肉的样子，最后用姜末香醋一浇，酸香冲上来，吃着真有几分河蟹的意思。这道菜讲究一个像字，形要像、味要像，价钱却只有真蟹的零头。",
+  "tags": [
+    "鲁菜",
+    "蛋类",
+    "赛螃蟹",
+    "姜醋"
+  ],
+  "related_ids": [
+    "shandong-guota-jidan",
+    "shandong-liu-huangcai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
