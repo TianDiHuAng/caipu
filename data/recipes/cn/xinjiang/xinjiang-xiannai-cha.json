@@ -1,0 +1,210 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "xinjiang-xiannai-cha",
+  "name": {
+    "zh": "新疆咸奶茶",
+    "en": "Xinjiang Salted Milk Tea",
+    "original": "Etken chay"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "xinjiang"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 7,
+    "cook_min": 27,
+    "total_min": 34
+  },
+  "servings": 4,
+  "flavor": [
+    "salty",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "红茶",
+          "name_en": "black tea",
+          "amount": 15,
+          "unit": "g",
+          "note": "砖茶敲碎",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "咸口关键",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 500,
+          "unit": "ml",
+          "note": "煮茶用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小锅",
+    "木勺",
+    "茶滤",
+    "茶壶"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "红茶掰成小块，放进壶里冲入刚烧开的清水，盖盖焖八分钟出浓汤。",
+      "time_min": 11,
+      "heat": "大火",
+      "tip": "茶要焖够时间，颜色深红味道才够压得住奶。",
+      "visual_cue": "茶汤深红，香气微苦"
+    },
+    {
+      "n": 2,
+      "text": "茶汤用细滤网过进小锅，滤掉茶叶渣，只留清亮的茶汤。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "渣子滤干净，喝起来才不挂喉咙。",
+      "visual_cue": "茶汤透亮，无碎叶"
+    },
+    {
+      "n": 3,
+      "text": "小锅上火，倒入牛奶，中小火加热到锅边冒细密小泡。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "牛奶不能大滚，沸起来会溢锅还带腥味。",
+      "visual_cue": "锅边起泡，表面浮膜"
+    },
+    {
+      "n": 4,
+      "text": "把茶汤缓缓冲进牛奶里，边倒边搅，让两色完全融匀。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "茶往奶里冲，奶不容易结皮，融合也更顺。",
+      "visual_cue": "汤色浅褐，无分层"
+    },
+    {
+      "n": 5,
+      "text": "加盐和黄油，小火搅到黄油化开，尝一下咸淡再微调。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "盐分次加，咸度到微咸回甘就停。",
+      "visual_cue": "表面泛油光，咸香扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "盛进厚瓷碗，趁热喝，让碗面浮着一层薄薄的奶皮。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "奶茶凉了腥味会上来，趁热一口喝完最舒服。",
+      "visual_cue": "热气升腾，奶面细滑"
+    }
+  ],
+  "tips": [
+    "咸奶茶是新疆牧区待客的第一碗，配馕就是一顿早饭。",
+    "茶要煮得浓，奶要全脂，咸淡按口味微调，别一开始就放足盐。",
+    "没有砖茶时用普通红茶，多放两克也能出厚度。"
+  ],
+  "common_mistakes": [
+    "牛奶烧到沸腾溢锅，奶皮糊在锅底带焦味。",
+    "茶汤没滤干净，喝时一口碎叶，口感全毁。",
+    "盐一次放太多，整锅奶只能倒掉，前功尽弃。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄油",
+      "substitute": "羊油",
+      "ratio": "20克:20克",
+      "note": "羊油版更传统，香味重，量要减到十五克。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "羊奶",
+      "ratio": "1000毫升:1000毫升",
+      "note": "羊奶味更浓，需多加一点盐压膻。"
+    }
+  ],
+  "variations": [
+    "加一小勺烤香的芝麻同煮，喝起来多一层坚果香。",
+    "把盐换成白糖做成甜奶茶，孩子更容易接受。"
+  ],
+  "serving_suggestion": "配刚出炉的馕或烤包子，趁热喝，一碗下去浑身发暖。",
+  "storage": "现煮现喝，冷藏可存一天，复热须小火加热不要煮沸。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 170,
+    "protein_g": 8,
+    "fat_g": 10,
+    "carbs_g": 12,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "牛奶须加热至微沸并持续搅动防溢锅；冷藏的奶茶复热须彻底加热，出现异味或分层则不可饮用。"
+  ],
+  "origin_note": "咸奶茶在新疆牧区是每天的第一碗，砖茶敲碎煮出浓汤，冲进鲜奶里加盐和黄油。奶香里带一点茶的苦涩，喝完配一块馕，就是牧民出门前的早饭。客人进门，先端上来的也是这一碗。",
+  "tags": [
+    "新疆菜",
+    "饮品",
+    "奶茶",
+    "牛奶",
+    "红茶"
+  ],
+  "related_ids": [
+    "xinjiang-suannai",
+    "xinjiang-zhima-naan",
+    "xinjiang-you-nang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

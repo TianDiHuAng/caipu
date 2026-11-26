@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T11:35:25.305Z",
+  "generatedAt": "2026-11-26T12:21:31.623Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2380,
-    "coverage": 0.7269395235186317
+    "actual": 2388,
+    "coverage": 0.7293830177153329
   },
   "regions": {
     "cn": [
@@ -2819,7 +2819,7 @@
         "en": "Xinjiang",
         "tier": "B",
         "target": 38,
-        "actual": 20,
+        "actual": 28,
         "cells": [
           {
             "category": "main-meat",
@@ -2838,10 +2838,12 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "xinjiang-nangbao-yangrou",
               "xinjiang-yangrou-menbing",
+              "xinjiang-you-nang",
+              "xinjiang-youtazi",
               "xinjiang-zhima-naan"
             ]
           },
@@ -2849,10 +2851,12 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 6,
             "ids": [
+              "xinjiang-chao-mianpian",
               "xinjiang-chao-mifen",
               "xinjiang-dingding-chaomian",
+              "xinjiang-guoyou-rou-banmian",
               "xinjiang-laghman",
               "xinjiang-paomian"
             ]
@@ -2861,9 +2865,10 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "xinjiang-kaobaozi",
+              "xinjiang-nang-ding-chao-rou",
               "xinjiang-ziran-tudou",
               "ziran-yangrouchuan"
             ]
@@ -2872,9 +2877,11 @@
             "category": "drink",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "xinjiang-suannai"
+              "xinjiang-suannai-honey-drink",
+              "xinjiang-suannai",
+              "xinjiang-xiannai-cha"
             ]
           },
           {
@@ -2891,8 +2898,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "xinjiang-yangcong-chaodan"
+            ]
           },
           {
             "category": "main-poultry",

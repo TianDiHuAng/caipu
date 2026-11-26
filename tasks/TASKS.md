@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-26T11:35:25.377Z
+> 生成时间：2026-11-26T12:21:31.707Z
 
-**总览**：工程任务 49/53；菜谱内容 2380/3274（72.7%），共 658 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2388/3274（72.9%），共 658 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（1061/1339）
+### 中国菜系（1069/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，132/107</summary>
 
@@ -378,15 +378,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>新疆菜 xinjiang</b> — B 级，20/38</summary>
+<details><summary><b>新疆菜 xinjiang</b> — B 级，28/38</summary>
 
 - [ ] `P4-xinjiang/main-meat` 主菜·肉（Meat Main）目标 6，已完成 5
-- [ ] `P4-xinjiang/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 3
-- [ ] `P4-xinjiang/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 4
-- [ ] `P4-xinjiang/snack` 小吃（Street Food）目标 6，已完成 3
-- [ ] `P4-xinjiang/drink` 饮品（Drink）目标 6，已完成 1
+- [ ] `P4-xinjiang/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 5
+- [x] `P4-xinjiang/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 6
+- [ ] `P4-xinjiang/snack` 小吃（Street Food）目标 6，已完成 4
+- [ ] `P4-xinjiang/drink` 饮品（Drink）目标 6，已完成 3
 - [ ] `P4-xinjiang/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 2
-- [ ] `P4-xinjiang/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 0
+- [ ] `P4-xinjiang/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
 - [x] `P4-xinjiang/main-poultry` 主菜·禽（Poultry Main）目标 0，已完成 1
 - [x] `P4-xinjiang/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1
 

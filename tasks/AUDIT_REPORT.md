@@ -1,8 +1,8 @@
 # 抽检报告（5% 随机）
 
-- 生成时间：2026-11-26T11:35:18.378Z
+- 生成时间：2026-11-26T12:23:29.756Z
 - 随机种子：20260101（同种子可复现同一批样本）
-- 覆盖菜系：59 个，抽样 132 道，平均分 99
+- 覆盖菜系：59 个，抽样 133 道，平均分 99
 - 需重写（C/D）：0 道
 
 ## 评分口径
@@ -144,14 +144,15 @@
 | west-african | west-african-asun | 94 | A | 安全性 14/20 |
 | west-african | west-african-kelewele | 100 | A | 无 |
 | xibei | xibei-roujiamo | 100 | A | 无 |
-| xinjiang | xinjiang-kaobaozi | 93 | A | 准确性 18/25 |
-| yunguai | guilin-mifen | 93 | A | 准确性 18/25 |
-| zhejiang | xihu-cuyu | 100 | A | 无 |
+| xinjiang | xinjiang-chao-mianpian | 94 | A | 安全性 14/20 |
+| xinjiang | xinjiang-laghman | 100 | A | 无 |
+| yunguai | qiguo-ji | 93 | A | 准确性 18/25 |
+| zhejiang | xuecai-datang-huangyu | 87 | B | 准确性 18/25；安全性 14/20 |
 | zhejiang | zhejiang-zhima-tuan | 100 | A | 无 |
 | zhejiang | wenzhou-nuomifan | 100 | A | 无 |
-| zhejiang | zhejiang-guihua-gao | 100 | A | 无 |
+| zhejiang | zhejiang-ganzha-xiangling | 100 | A | 无 |
 
 ## 结论
 
-- 本批 132 道全部达到 B 级及以上，无需重写。
+- 本批 133 道全部达到 B 级及以上，无需重写。
 - 语义层（正宗性、地方做法是否被随意改良）由 Agent 复核后在本文件追加备注。
