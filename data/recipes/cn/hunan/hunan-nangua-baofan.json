@@ -1,0 +1,241 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-nangua-baofan",
+  "name": {
+    "zh": "湖南南瓜焖饭",
+    "en": "Hunan Pumpkin Rice",
+    "original": "Nangua baofan"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 61,
+    "total_min": 81
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "提前浸泡",
+          "optional": false
+        },
+        {
+          "name": "南瓜",
+          "name_en": "pumpkin",
+          "amount": 400,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 360,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "炒锅",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后用清水泡二十分钟，捞出沥干，让米粒吸足水更易焖透。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡过的米焖出来颗粒分明，不泡容易夹生，这一步千万别省。",
+      "visual_cue": "米粒涨大，表面泛白，状态和火候都看得清"
+    },
+    {
+      "n": 2,
+      "text": "南瓜削皮去瓤，切成三厘米见方的块，五花肉切薄片，姜切丝备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "南瓜块别切太小，焖久了会化得看不见，火候和顺序都要留神。",
+      "visual_cue": "南瓜块齐整，肉片薄透，颜色和形态变化明显"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧热，下五花肉片和姜丝中火煸三分钟，煸到肉片边缘微卷。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉片煸出油，焖出的饭才有荤香底味，提前把配料备好再动手更稳。",
+      "visual_cue": "肉片卷边，锅中浮油，气味的浓淡也说明进度"
+    },
+    {
+      "n": 4,
+      "text": "倒入南瓜块翻炒两分钟，加生抽和盐翻匀，让南瓜表面裹上酱色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "南瓜先炒过再焖，边缘不易散，甜味也更浓，这一步千万别省。",
+      "visual_cue": "南瓜挂酱，颜色橙亮，锅里整体状态一目了然"
+    },
+    {
+      "n": 5,
+      "text": "把泡好的大米铺在电饭锅内胆，倒入炒好的南瓜和肉片，加清水没过食材。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "水刚好没过食材，南瓜还会出水，多了饭就烂。",
+      "visual_cue": "水面与食材齐平，状态和火候都看得清"
+    },
+    {
+      "n": 6,
+      "text": "按下煮饭键焖三十分钟，跳闸后再焖十分钟，开盖撒葱花用饭勺翻松。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "跳闸别急着开盖，多焖十分钟米芯才透，提前把配料备好再动手更稳。",
+      "visual_cue": "饭粒松散，南瓜软糯，颜色和形态变化明显"
+    }
+  ],
+  "tips": [
+    "南瓜选粉质的老南瓜，切开瓤色橙红，焖出来才会又糯又甜。",
+    "水量要比平时煮饭少一点，南瓜本身出水，水多了饭就发黏。",
+    "五花肉先煸出油再焖，米粒吸了肉油，锅底的饭焦特别香。"
+  ],
+  "common_mistakes": [
+    "按平常的水量煮，南瓜一出水整锅变成稀饭，米粒全烂了。",
+    "南瓜切得太大块，焖完中间还是硬的，饭却已经过火发糊。",
+    "省略煸肉这一步，直接全部倒进锅里，成品只有甜味缺一层荤香。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "香肠",
+      "ratio": "120克:100克",
+      "note": "香肠本身咸，盐可减一半。"
+    },
+    {
+      "original": "南瓜",
+      "substitute": "红薯",
+      "ratio": "400克:400克",
+      "note": "红薯更甜，生抽可略减十毫升。"
+    }
+  ],
+  "variations": [
+    "加一把泡发的香菇丁同焖，山珍的鲜味会把南瓜的甜衬得更明显。",
+    "换成南瓜加腊肠的组合，就是湖南冬天最常见的腊味焖饭。"
+  ],
+  "serving_suggestion": "盛碗后撒一把葱花，配一碟酸萝卜或剁辣椒，一口饭一口咸菜很下饭。",
+  "storage": "冷藏可放两天，回热最好用蒸锅蒸八分钟，微波容易让米饭变干发硬。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 14,
+    "fat_g": 17,
+    "carbs_g": 78,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "五花肉片须煸炒至完全熟透、不见血色，与米饭同焖时确保中心温度达七十五度以上。",
+    "焖好的米饭若隔夜保存须冷藏，室温放置超过两小时不建议再食用。"
+  ],
+  "origin_note": "南瓜焖饭是湖南乡下秋收后的家常做法，南瓜便宜耐放，切块和米一起下锅，再添几片五花肉。一锅焖出来饭菜俱全，南瓜化成甜糯的沙，米粒吸了肉油，是农忙时节最省事的一顿。",
+  "tags": [
+    "湘菜",
+    "主食",
+    "焖饭",
+    "南瓜",
+    "家常"
+  ],
+  "related_ids": [
+    "hunan-duojiao-chaofan",
+    "hunan-jiachang-donggua",
+    "lawi-hezheng"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

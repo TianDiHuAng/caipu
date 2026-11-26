@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-suanla-fensi",
+  "name": {
+    "zh": "湖南酸辣粉丝",
+    "en": "Hunan Hot and Sour Glass Noodles",
+    "original": "Suanla fensi"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 2,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 150,
+          "unit": "g",
+          "note": "干粉丝",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎粒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 25,
+          "unit": "ml",
+          "note": "出酸味",
+          "optional": false
+        },
+        {
+          "name": "辣椒油",
+          "name_en": "chili oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "菜刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干粉丝用温水泡二十分钟，泡到能弯折却还带韧劲，捞出沥干剪成两段。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "粉丝剪短些好夹，太长一筷子挑起来能拖到桌上。",
+      "visual_cue": "粉丝发白变软，根根分明不粘连"
+    },
+    {
+      "n": 2,
+      "text": "五花肉切成黄豆大小的碎粒，蒜和姜切末，小葱和香菜分别切段备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "肉粒切小一点，煸出来散在粉丝里，每一口都有肉。",
+      "visual_cue": "肉粒大小匀称，配料切得齐整"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧热，下五花肉粒中火煸三分钟，煸到肉粒出油边缘微黄。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉粒煸到干香出油，粉丝才不粘锅也不油腻。",
+      "visual_cue": "肉粒焦黄，锅底浮着一层油"
+    },
+    {
+      "n": 4,
+      "text": "加姜末、蒜末和干辣椒段小火炒半分钟，炒出辣椒的呛香和蒜香。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "干辣椒小火炒，火大立刻焦黑发苦，这一步千万别省。",
+      "visual_cue": "辣椒转深红，香气呛鼻，锅里整体状态一目了然"
+    },
+    {
+      "n": 5,
+      "text": "倒入粉丝转中火翻炒两分钟，边炒边淋生抽和细砂糖，让粉丝均匀上色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "粉丝下锅要用筷子配合挑散，铲子压会粘成块。",
+      "visual_cue": "粉丝深褐油亮，不再结团，状态和火候都看得清"
+    },
+    {
+      "n": 6,
+      "text": "沿锅边淋香醋和辣椒油，撒盐翻匀，关火后放小葱和香菜段拌匀出锅。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "醋要离火前淋，酸味才保留得住，提前把配料备好再动手更稳。",
+      "visual_cue": "酸香冲鼻，粉丝根根带汁，颜色和形态变化明显"
+    }
+  ],
+  "tips": [
+    "粉丝用温水泡软就好，泡到能弯折但还有韧劲，太软煮一下就烂了。",
+    "最后淋醋要在关火前后加，高温久煮酸味会挥发，酸得不够透。",
+    "五花肉切小粒先煸出油，粉丝吸的是肉油的香，比单纯用植物油香得多。"
+  ],
+  "common_mistakes": [
+    "粉丝用开水泡了半小时，一炒就断成一截截的碎条，根本夹不起来。",
+    "醋早早倒进锅里煮，酸味跑了大半，成品只有辣没有酸，味道发闷。",
+    "一次下全部粉丝不停翻炒，锅底粘成一块，翻的时候整坨被带起。"
+  ],
+  "substitutions": [
+    {
+      "original": "粉丝",
+      "substitute": "米粉",
+      "ratio": "150克:150克",
+      "note": "米粉更耐煮，泡的时间要延长五分钟。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "榨菜",
+      "ratio": "100克:60克",
+      "note": "素食版可省生抽，咸味来自榨菜本身。"
+    }
+  ],
+  "variations": [
+    "加一把泡软的黄花菜同炒，湖南家常的酸辣粉丝常这么配。",
+    "把香醋换成陈醋，酸香更厚重，适合喜欢老陈醋酸味的人。"
+  ],
+  "serving_suggestion": "装碗趁热吃，撒一把香菜，酸辣带汤汁，配一碗紫菜汤就是完整一餐。",
+  "storage": "冷藏可放一天，回热用炒锅加两勺清水翻匀，不要微波否则粉丝发硬。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 430,
+    "protein_g": 13,
+    "fat_g": 21,
+    "carbs_g": 47,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "五花肉粒须炒到中心完全熟透不泛粉红，中心温度达七十五度以上再食用。",
+    "粉丝泡发后不宜长时间室温放置，用不完须冷藏，隔夜泡发的不建议再生食。"
+  ],
+  "origin_note": "酸辣粉丝是湖南街头小吃摊常见的一碗，主妇把泡软的粉丝和肉粒下锅炒，一勺生抽一勺香醋，出锅前淋辣椒油撒香菜，酸辣鲜香，几块钱就能吃饱，是夜里最踏实的味道。",
+  "tags": [
+    "湘菜",
+    "主食",
+    "酸辣",
+    "粉丝",
+    "快手"
+  ],
+  "related_ids": [
+    "hunan-suanla-kugua",
+    "hunan-suanla-tudousi",
+    "hunan-duojiao-chaofan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

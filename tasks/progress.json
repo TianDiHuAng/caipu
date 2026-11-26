@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:43:36.909Z",
+  "generatedAt": "2026-11-26T13:53:50.139Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2420,
-    "coverage": 0.739156994502138
+    "actual": 2428,
+    "coverage": 0.7416004886988393
   },
   "regions": {
     "cn": [
@@ -1396,7 +1396,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 69,
+        "actual": 71,
         "cells": [
           {
             "category": "main-meat",
@@ -1517,8 +1517,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "hunan-suanla-fensi",
               "nanchang-banfen"
             ]
           },
@@ -1526,9 +1527,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "hunan-duojiao-chaofan"
+              "hunan-duojiao-chaofan",
+              "hunan-nangua-baofan"
             ]
           },
           {
@@ -1587,7 +1589,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 65,
+        "actual": 66,
         "cells": [
           {
             "category": "main-meat",
@@ -1680,8 +1682,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "anhui-doufu-zhengdan",
               "anhui-huotui-zhengdan"
             ]
           },
@@ -3226,16 +3229,17 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 68,
+        "actual": 70,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "japanese-ebi-fry",
               "japanese-hotate-butter",
+              "japanese-saba-sakamushi",
               "japanese-saba-shioyaki",
               "japanese-tempura",
               "japanese-teriyaki-salmon",
@@ -3266,12 +3270,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "asari-misoshiru",
               "japanese-dangojiru",
               "japanese-kakitama-jiru",
               "japanese-kenchin-jiru",
+              "japanese-nikujiru",
               "japanese-oden-simple",
               "japanese-tonjiru",
               "miso-soup",
@@ -3416,7 +3421,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 71,
+        "actual": 72,
         "cells": [
           {
             "category": "main-meat",
@@ -3476,13 +3481,14 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "gochujang",
               "kimchi",
               "kkakdugi",
               "korean-cucumber-oiji",
               "korean-dongchimi",
+              "korean-jangajji",
               "korean-kkakdugi",
               "korean-oiji",
               "korean-perilla-jangajji"
@@ -3617,7 +3623,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 72,
+        "actual": 73,
         "cells": [
           {
             "category": "main-poultry",
@@ -3720,8 +3726,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "thai-kai-palo",
               "thai-khai-jiao"
             ]
           },
@@ -4009,7 +4016,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 71,
+        "actual": 72,
         "cells": [
           {
             "category": "main-meat",
@@ -4117,8 +4124,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "french-omelette-aux-fines-herbes",
               "french-omelette"
             ]
           },
