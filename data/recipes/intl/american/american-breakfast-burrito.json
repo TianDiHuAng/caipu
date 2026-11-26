@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-breakfast-burrito",
+  "name": {
+    "zh": "美式早餐卷饼",
+    "en": "Breakfast Burrito",
+    "original": "Breakfast burrito"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 18,
+    "total_min": 38
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 180,
+          "unit": "g",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 150,
+          "unit": "g",
+          "note": "六张",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 70,
+          "unit": "g",
+          "note": "切小片",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 60,
+          "unit": "g",
+          "note": "刨丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎土豆",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 15,
+          "unit": "g",
+          "note": "佐食",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "锡纸",
+    "打蛋盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "土豆削皮切成一厘米见方的小丁，放滚水里煮三分钟，捞出沥干水分。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "先煮再煎，里面才软外面才脆，这一步千万别省。",
+      "visual_cue": "土豆丁半透明，边缘发软，状态和火候都看得清"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放十五毫升植物油中火加热，倒入土豆丁煎六分钟，煎到四面金黄盛出。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "铺平别堆叠，让每面都接触到锅底，火候和顺序都要留神。",
+      "visual_cue": "土豆丁金黄，外皮起脆，颜色和形态变化明显"
+    },
+    {
+      "n": 3,
+      "text": "培根片下锅小火煎四分钟至出油焦脆，捞出用厨房纸吸去多余油脂。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "煎出的油留着，正好炒蛋，提前把配料备好再动手更稳。",
+      "visual_cue": "培根卷边，颜色红褐，气味的浓淡也说明进度"
+    },
+    {
+      "n": 4,
+      "text": "鸡蛋打散加盐和黑胡椒，倒入留有培根油的锅中，小火用铲子慢慢推炒两分钟。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "小火慢推，蛋块才嫩滑不干，这一步千万别省。",
+      "visual_cue": "蛋液半凝，仍有光泽，锅里整体状态一目了然"
+    },
+    {
+      "n": 5,
+      "text": "玉米饼放干锅里两面各烘十秒至回软，铺上奶酪丝让它微微融化。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "烘过的饼才柔韧，卷起来不裂，火候和顺序都要留神。",
+      "visual_cue": "饼面柔软，奶酪微软，状态和火候都看得清"
+    },
+    {
+      "n": 6,
+      "text": "依次放上土豆丁、培根和炒蛋，撒小葱，从一边卷紧成筒，对半切开。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "卷的时候先折两边再卷，馅料不漏，提前把配料备好再动手更稳。",
+      "visual_cue": "卷紧成筒，切面整齐，颜色和形态变化明显"
+    },
+    {
+      "n": 7,
+      "text": "可再用锡纸包住下半段方便手持，配辣椒酱一起上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "锡纸包住能保温，也防酱汁滴落，这一步千万别省。",
+      "visual_cue": "锡纸包紧，卷饼挺立，气味的浓淡也说明进度"
+    }
+  ],
+  "tips": [
+    "土豆丁先煮三分钟再煎，外脆内软，比直接煎省一半时间。",
+    "鸡蛋要用小火慢推，炒到刚凝固就离火，余温会继续加热。",
+    "玉米饼在干锅里烘十秒再卷，回软后不易裂开。"
+  ],
+  "common_mistakes": [
+    "鸡蛋大火猛炒，水分瞬间跑光，炒出来干硬成颗粒。",
+    "玉米饼冷着直接卷，一折就裂，馅料全漏在盘子里。",
+    "土豆丁切得太大，外面焦了里面还是生的，咬着发脆。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "火腿",
+      "ratio": "70克:70克",
+      "note": "咸度更低，盐可多加一克。"
+    },
+    {
+      "original": "玉米饼",
+      "substitute": "面粉薄饼",
+      "ratio": "150克:150克",
+      "note": "更柔软，烘的时间可略长。"
+    }
+  ],
+  "variations": [
+    "加一勺炒过的黑豆和辣酱，做成墨西哥风味的早餐卷。",
+    "把培根换成切碎的香肠，配一杯冰咖啡就是美式路边早餐。"
+  ],
+  "serving_suggestion": "对半切开，露出金黄的蛋和土豆，配辣椒酱和一杯热咖啡。",
+  "storage": "冷藏可放一天，回热用平底锅干煎两分钟，微波前用湿纸巾盖住防干。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 22,
+    "fat_g": 26,
+    "carbs_g": 40,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋须炒到完全凝固、不见流动蛋液，中心温度达到七十度以上方可食用。",
+    "含鸡蛋与奶酪的卷饼不要在室温久放，做好后两小时内食用或冷藏。"
+  ],
+  "origin_note": "早餐卷饼是美国西南部的早餐代表，从墨西哥卷饼演化而来，被路边餐车做成了能一手拿着走的早饭。土豆丁煎脆、培根煎香、鸡蛋小火慢炒成软块，全部裹进一张玉米饼里，再塞一把奶酪让它趁热化开。重口味、饱腹、五分钟能吃完。",
+  "tags": [
+    "美式",
+    "早餐",
+    "鸡蛋",
+    "卷饼",
+    "快手"
+  ],
+  "related_ids": [
+    "american-breakfast-hash",
+    "american-scrambled-eggs",
+    "american-eggs-benedict"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

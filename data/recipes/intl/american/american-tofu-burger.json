@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-tofu-burger",
+  "name": {
+    "zh": "美式豆腐汉堡排",
+    "en": "American Tofu Burger",
+    "original": "Tofu burger"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 20,
+    "total_min": 60
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "压干水分",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 60,
+          "unit": "g",
+          "note": "打散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "粘合用",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 30,
+          "unit": "g",
+          "note": "刷面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "压泥器",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "老豆腐切块放进铺了纱布的筛子里，压上重物静置二十分钟，挤出多余水分。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "压到豆腐重量明显变轻才够干，这一步千万别省。",
+      "visual_cue": "豆腐紧实，捏不出水，状态和火候都看得清"
+    },
+    {
+      "n": 2,
+      "text": "洋葱切成细末，蒜切末，平底锅放十毫升植物油，把洋葱末炒三分钟至软。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "洋葱先炒过更甜，也去掉生辣，火候和顺序都要留神。",
+      "visual_cue": "洋葱透明，香味散出，颜色和形态变化明显"
+    },
+    {
+      "n": 3,
+      "text": "大碗里把豆腐压成泥，加鸡蛋、面粉、生抽、盐和黑胡椒，拌到成团。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "拌到能捏成团不散，太湿就补面粉，提前把配料备好再动手更稳。",
+      "visual_cue": "面糊黏稠，能成团，气味的浓淡也说明进度"
+    },
+    {
+      "n": 4,
+      "text": "拌好的面糊冷藏十分钟，取出分成三份，捏成两厘米厚、直径十厘米的圆饼。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "手上沾水再捏，饼面光滑不粘，这一步千万别省。",
+      "visual_cue": "饼形圆整，厚薄一致，锅里整体状态一目了然"
+    },
+    {
+      "n": 5,
+      "text": "平底锅放剩余植物油中火烧热，放入豆腐饼煎四分钟，底面金黄后翻面再煎四分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "定型前别动，翻面一次就够，火候和顺序都要留神。",
+      "visual_cue": "两面金黄，边缘挺立，状态和火候都看得清"
+    },
+    {
+      "n": 6,
+      "text": "刷上番茄酱再煎一分钟让酱汁挂住，装盘配酸黄瓜片和番茄片。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "酱汁最后刷，糖分才不会烧焦，提前把配料备好再动手更稳。",
+      "visual_cue": "表面亮红，酱汁微焦，颜色和形态变化明显"
+    }
+  ],
+  "tips": [
+    "豆腐压水一定要到位，用重物压二十分钟，水分不挤干煎时必散。",
+    "面糊拌好后冷藏十分钟再捏，蛋白质收紧，煎的时候更成型。",
+    "两面定型再翻面，中途不要反复挪动，否则饼边先碎。"
+  ],
+  "common_mistakes": [
+    "豆腐没压水就和面粉混，饼下锅就塌成一摊糊，铲都铲不起来。",
+    "火太大下锅，外面瞬间焦黑，里面还是凉的豆腐泥。",
+    "番茄酱一开始就刷，糖分烧焦发苦，把豆香全盖住。"
+  ],
+  "substitutions": [
+    {
+      "original": "老豆腐",
+      "substitute": "豆干",
+      "ratio": "400克:350克",
+      "note": "豆干更紧实，面粉可减到四十克。"
+    },
+    {
+      "original": "鸡蛋",
+      "substitute": "淀粉",
+      "ratio": "60克:40克",
+      "note": "纯素版本，粘合度略弱，煎时火要更小。"
+    }
+  ],
+  "variations": [
+    "把汉堡排夹进面包，配生菜和番茄片，就是完整的美式素汉堡。",
+    "刷一层烧烤酱再进烤箱烤五分钟，表面焦糖化，风味更浓。"
+  ],
+  "serving_suggestion": "配腌酸黄瓜和番茄片，或者夹进面包做成汉堡，佐一杯冰可乐。",
+  "storage": "冷藏可放两天，回热用平底锅小火干煎三分钟，微波会让饼身发硬。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 340,
+    "protein_g": 17,
+    "fat_g": 20,
+    "carbs_g": 24,
+    "sodium_mg": 690,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "含鸡蛋的豆腐饼须煎到两面金黄、中心完全凝固，中心温度达到七十度以上。",
+    "豆腐制品易变质，冷藏保存不超过两天，闻到酸味立即丢弃。"
+  ],
+  "origin_note": "豆腐汉堡排是美国素食餐馆里最常见的替代肉，二战后随着素食风潮进了家庭厨房。老豆腐压干水分，和鸡蛋、面粉、洋葱末拌成黏团，下锅煎到两面焦黄，再刷一层番茄酱补上汉堡的酸甜。咬开外层脆、里面绵，配上生菜和酸黄瓜，素得也够满足。",
+  "tags": [
+    "美式",
+    "豆腐",
+    "汉堡排",
+    "素菜",
+    "家常"
+  ],
+  "related_ids": [
+    "american-bbq-tofu",
+    "american-mac-and-cheese"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

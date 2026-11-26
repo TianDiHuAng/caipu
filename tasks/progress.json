@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:02:45.818Z",
+  "generatedAt": "2026-11-26T14:22:06.432Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2436,
-    "coverage": 0.7440439828955406
+    "actual": 2444,
+    "coverage": 0.746487477092242
   },
   "regions": {
     "cn": [
@@ -3234,7 +3234,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 71,
+        "actual": 72,
         "cells": [
           {
             "category": "main-seafood",
@@ -3337,8 +3337,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "japanese-ajitama",
               "japanese-chawanmushi",
               "japanese-tamagoyaki"
             ]
@@ -3832,7 +3833,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 68,
+        "actual": 69,
         "cells": [
           {
             "category": "staple-bread",
@@ -3935,10 +3936,11 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "italian-frittata",
-              "italian-uova-al-pomodoro"
+              "italian-uova-al-pomodoro",
+              "italian-uova-in-camicia"
             ]
           },
           {
@@ -4022,7 +4024,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 72,
+        "actual": 74,
         "cells": [
           {
             "category": "main-meat",
@@ -4067,12 +4069,13 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "french-sauce-au-poivre",
               "french-sauce-aux-champignons",
               "french-sauce-bechamel",
               "french-sauce-bordelaise",
+              "french-sauce-hollandaise",
               "french-sauce-roquefort",
               "sauce-bechamel",
               "sauce-bordelaise",
@@ -4117,12 +4120,13 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "french-gratin-dauphinois",
               "french-haricots-verts-butter",
               "french-pommes-puree",
               "french-ratatouille",
+              "french-tian-provencale",
               "ratatouille"
             ]
           },
@@ -4232,7 +4236,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 70,
+        "actual": 71,
         "cells": [
           {
             "category": "main-seafood",
@@ -4360,9 +4364,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "spanish-fideua"
+              "spanish-fideua",
+              "spanish-sopa-de-fideos"
             ]
           },
           {
@@ -4998,7 +5003,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 70,
+        "actual": 71,
         "cells": [
           {
             "category": "main-vegetable",
@@ -5121,8 +5126,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "indian-veg-hakka-noodles",
               "indian-vermicelli-upma"
             ]
           },
@@ -6583,7 +6589,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 64,
+        "actual": 66,
         "cells": [
           {
             "category": "main-meat",
@@ -6643,9 +6649,10 @@
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "american-biscuits-gravy",
+              "american-breakfast-burrito",
               "american-breakfast-hash",
               "american-eggs-benedict",
               "american-hash-browns",
@@ -6696,9 +6703,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "american-bbq-tofu"
+              "american-bbq-tofu",
+              "american-tofu-burger"
             ]
           },
           {
