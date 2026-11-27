@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-dolsot-bibimbap",
+  "name": {
+    "zh": "韩式石锅拌饭",
+    "en": "Korean Stone Pot Bibimbap",
+    "original": "돌솥비빔밥"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 25,
+    "total_min": 65
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 600,
+          "unit": "g",
+          "note": "隔夜饭最佳，粒粒分明",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 180,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 120,
+          "unit": "g",
+          "note": "去根洗净",
+          "optional": false
+        },
+        {
+          "name": "菠菜",
+          "name_en": "spinach",
+          "amount": 120,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三枚，做煎蛋",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "拌菜与刷锅",
+          "optional": false
+        },
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 45,
+          "unit": "g",
+          "note": "拌饭主体",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "腌肉用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "腌肉提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "焯菜用",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 6,
+          "unit": "g",
+          "note": "焙香撒面",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煎蛋用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "石锅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "大碗",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切五厘米长的细丝，加生抽、白糖、蒜末与一勺香油抓匀，静置二十分钟入味。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "切丝要逆着纹理，入口才不会塞牙，腌够时间才不腥。",
+      "visual_cue": "肉丝裹满酱色，手感滑润"
+    },
+    {
+      "n": 2,
+      "text": "豆芽与菠菜分别放进沸水，加盐焯一分钟后捞出过冷水，挤干水分。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "焯过立刻冰水降温，颜色才翠绿，口感也保得住脆。",
+      "visual_cue": "菜叶颜色鲜绿，水挤得干爽"
+    },
+    {
+      "n": 3,
+      "text": "焯好的豆芽与菠菜各加少许盐、蒜末和香油拌匀，分开放置备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "分开拌是传统做法，摆盘时颜色层次才清楚。",
+      "visual_cue": "两样小菜油亮，咸淡试过合适"
+    },
+    {
+      "n": 4,
+      "text": "平底锅烧热，把腌好的牛肉丝大火快炒一分半，炒到变色断生立刻盛出。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "肉丝炒久了会发柴，变色就关火，余温还会继续加热。",
+      "visual_cue": "肉丝表面熟透，仍有光泽"
+    },
+    {
+      "n": 5,
+      "text": "同一个锅下胡萝卜丝炒一分钟，撒一点盐调味，盛出备用。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "胡萝卜炒过油才释放甜味，生拌会带土腥。",
+      "visual_cue": "胡萝卜丝略软，颜色转油亮"
+    },
+    {
+      "n": 6,
+      "text": "平底锅放植物油烧到五成热，磕入三枚鸡蛋煎成单面煎蛋，蛋黄半凝，撒上一半芝麻。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "煎蛋只用单面，蛋黄半凝流心才对，两面煎黄就失了这个口感。",
+      "visual_cue": "锅内壁油亮，米饭平整贴合"
+    },
+    {
+      "n": 7,
+      "text": "石锅放上中火烧五分钟，听到持续的噼啪声、闻到焦香时转小火保温。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "听声音判断锅巴，噼啪声由密变疏就说明底壳已成形。",
+      "visual_cue": "锅底传来密集噼啪声，有焦香"
+    },
+    {
+      "n": 8,
+      "text": "米饭上按颜色分区摆上牛肉、豆芽、菠菜与胡萝卜，中间放一枚煎蛋。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "摆盘按颜色交替放射状排开，上桌才好看。",
+      "visual_cue": "四色小菜呈放射状，蛋在正中"
+    },
+    {
+      "n": 9,
+      "text": "加一勺韩式辣椒酱与少许香油，趁热用勺子从底部翻拌，让锅巴混进饭里。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "拌的时候要挖到锅底，把焦脆锅巴翻上来才是石锅拌饭的精髓。",
+      "visual_cue": "饭粒染成橙红，混着焦脆锅巴"
+    }
+  ],
+  "tips": [
+    "米饭偏干更适合石锅，水多的新饭容易糊成一层。",
+    "没有石锅可以用厚铸铁锅代替，效果接近。",
+    "小菜可以换成任何时令蔬菜，颜色凑够三四种就好看。",
+    "怕辣可以把辣椒酱减半，另配一小碟酱油汁。"
+  ],
+  "common_mistakes": [
+    "米饭水分太多直接压进石锅，烧出来只有糊底没有锅巴。",
+    "石锅不刷油就烧，锅巴粘死在锅底，刮都刮不下来。",
+    "小菜提前拌好放太久，出水后拌饭变成一锅湿糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "鸡腿肉",
+      "ratio": "180克:180克",
+      "note": "切丝后炒制时间缩短半分钟。"
+    },
+    {
+      "original": "石锅",
+      "substitute": "铸铁锅",
+      "ratio": "1个:1个",
+      "note": "需预热三分钟，锅巴形成更快。"
+    }
+  ],
+  "variations": [
+    "加几片泡菜与一勺泡菜汁，酸辣层次更足。",
+    "把牛肉换成鱿鱼圈与虾仁，做成海鲜石锅拌饭。"
+  ],
+  "serving_suggestion": "趁锅还烫时端上桌，拌开后配一碗清汤与几碟小菜，就是完整的韩式一餐。",
+  "storage": "拌好的饭不建议保存，冷藏后锅巴会回软；未拌的米饭与小菜可分别冷藏一天。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 620,
+    "protein_g": 30,
+    "fat_g": 20,
+    "carbs_g": 78,
+    "sodium_mg": 900,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "牛肉须炒至完全变色熟透，煎蛋须煎至蛋白凝固；石锅上桌后余温极高，拌饭时注意避免烫伤。"
+  ],
+  "origin_note": "韩国全州的石锅拌饭，热石锅刷油压上米饭，烧出焦脆锅巴，再铺各色拌菜与煎蛋，加辣椒酱拌开。一锅里有饭有菜有肉，锅巴的脆香是全部的重点。",
+  "tags": [
+    "韩国",
+    "拌饭",
+    "石锅",
+    "牛肉"
+  ],
+  "related_ids": [
+    "korean-bibimbap",
+    "korean-kimchi-bokkeumbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

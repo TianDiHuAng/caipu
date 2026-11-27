@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-arroz-al-horno",
+  "name": {
+    "zh": "西班牙烤饭",
+    "en": "Spanish Baked Rice",
+    "original": "Arroz al horno"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 44,
+    "total_min": 79
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 360,
+          "unit": "g",
+          "note": "短粒米，不用淘太多次",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块带皮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "两只，切厚片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "热的高汤",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎炒用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "烤箱",
+    "刀",
+    "砧板",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切三厘米块，用厨房纸吸干表面水分，撒三克盐与黑胡椒抓匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "吸干水分再下锅才容易上色，湿的鸡肉只会白白出水。",
+      "visual_cue": "鸡肉表面干爽，调料均匀附着"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅放橄榄油，中火把鸡皮朝下煎四分钟到金黄，翻面再煎两分钟盛出。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "鸡皮先煎出油，后面煮饭的汤汁才香而不腻。",
+      "visual_cue": "鸡皮金黄微焦，锅底留下一层油"
+    },
+    {
+      "n": 3,
+      "text": "锅里下洋葱碎与蒜末，中小火炒到洋葱透明发软，约三分钟。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "洋葱炒透了饭才有甜底味，这一步别省时间。",
+      "visual_cue": "洋葱透明，蒜香明显但不焦"
+    },
+    {
+      "n": 4,
+      "text": "倒入米粒翻炒两分钟，让每粒米都裹上一层油，边缘略透亮。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "生米先炒过，煮出来粒粒分明不黏糊。",
+      "visual_cue": "米粒油亮，锅里有轻微噼啪声"
+    },
+    {
+      "n": 5,
+      "text": "加青椒条、香叶与剩余的盐翻匀，倒入热高汤，汤面要盖过米约一厘米。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "高汤必须是热的，冷水会让米粒外层骤缩，煮出来夹生。",
+      "visual_cue": "汤面平稳，米粒分布均匀"
+    },
+    {
+      "n": 6,
+      "text": "把煎好的鸡块铺在饭面，番茄厚片摆在鸡块之间，整锅推到炉上煮五分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄摆上层，烤的时候汁水会往下渗，饭更湿润。",
+      "visual_cue": "鸡块与番茄交替排列，汤面微滚"
+    },
+    {
+      "n": 7,
+      "text": "整锅送进两百度烤箱烤二十分钟，让表层结出薄薄一层微焦的饭壳。",
+      "time_min": 20,
+      "heat": "大火",
+      "tip": "烤箱的高温是这道菜的关键，表层焦香底层湿润才对。",
+      "visual_cue": "表层米粒微焦，番茄边缘起皱"
+    },
+    {
+      "n": 8,
+      "text": "出炉盖布静置八分钟，让水分重新分布，再用勺子从锅边挖开分装。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置能让饭心定型，急着盛会散成一锅稠粥。",
+      "visual_cue": "饭粒分明，锅边有一圈焦脆饭壳"
+    }
+  ],
+  "tips": [
+    "用短粒米或西班牙米最好，长粒米吸汤少，容易煮成硬芯。",
+    "没有烤箱可以把锅盖紧用小火焖二十分钟，底部会形成一层锅巴。",
+    "高汤换成海鲜汤底，再加几只虾仁就是海鲜版本。",
+    "锅底的焦饭壳是最好吃的部分，别丢掉。"
+  ],
+  "common_mistakes": [
+    "高汤一次加太多，烤完变成一锅稠粥，完全失去粒粒分明的口感。",
+    "米不炒直接加汤，煮出来黏成一团，香气也弱。",
+    "烤完立刻开盖盛饭，水汽没散，饭粒又黏又软。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "猪排骨",
+      "ratio": "300克:350克",
+      "note": "需先焯水去血沫，烤制时间延长十分钟。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水加鸡精",
+      "ratio": "800毫升:800毫升加5克",
+      "note": "鲜味折半，需多加一片香叶提香。"
+    }
+  ],
+  "variations": [
+    "加一把泡发的白豆与血肠片，做成瓦伦西亚乡下的丰盛版本。",
+    "全素版把鸡肉换成蘑菇与彩椒，高汤改用蔬菜汤。"
+  ],
+  "serving_suggestion": "直接端锅上桌，配一碟蒜香蛋黄酱与酸黄瓜，四人均分。",
+  "storage": "冷藏两天内吃完，复热时加一勺高汤盖锡纸烤十分钟；不建议冷冻，米粒会返生。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 560,
+    "protein_g": 26,
+    "fat_g": 20,
+    "carbs_g": 62,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡肉须烤至中心完全熟透、切开无粉色汁水；剩饭冷藏不超过两天，复热须彻底加热至中心滚烫。"
+  ],
+  "origin_note": "西班牙内陆家庭用陶锅做的烤饭，米与高汤在锅里煮到半熟再进烤箱，表层结出焦香饭壳，鸡肉与番茄铺在上面，一锅端上桌就是全家的一餐。",
+  "tags": [
+    "西班牙",
+    "烤饭",
+    "鸡肉",
+    "烤箱菜"
+  ],
+  "related_ids": [
+    "spanish-paella",
+    "spanish-arroz-con-pollo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

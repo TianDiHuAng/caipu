@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:25:38.592Z",
+  "generatedAt": "2026-11-27T12:45:17.024Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2682,
-    "coverage": 0.8191814294441051
+    "actual": 2690,
+    "coverage": 0.8216249236408063
   },
   "regions": {
     "cn": [
@@ -545,7 +545,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 103,
+        "actual": 104,
         "cells": [
           {
             "category": "main-seafood",
@@ -693,8 +693,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "cantonese-xiaren-chaodan",
               "cantonese-zheng-shuidan",
               "huadan-niurou",
               "jiuhuang-chaodan"
@@ -3319,7 +3320,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 94,
+        "actual": 95,
         "cells": [
           {
             "category": "main-seafood",
@@ -3425,9 +3426,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "japanese-daikon-furofuki",
+              "japanese-kabocha-nimono",
               "japanese-nasu-miso",
               "japanese-nikujaga",
               "japanese-okonomiyaki"
@@ -3535,7 +3537,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 91,
+        "actual": 92,
         "cells": [
           {
             "category": "main-meat",
@@ -3584,13 +3586,14 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "dolsot-bibimbap",
               "dwaeji-gukbap",
               "gimbap",
               "korean-bibimbap",
               "korean-doenjang-gukbap",
+              "korean-dolsot-bibimbap",
               "korean-gimbap",
               "korean-kimchi-bokkeumbap",
               "korean-kimchi-fried-rice",
@@ -4184,7 +4187,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 88,
+        "actual": 90,
         "cells": [
           {
             "category": "main-meat",
@@ -4303,23 +4306,25 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "french-oeufs-cocotte",
               "french-oeufs-en-meurette",
               "french-omelette-aux-fines-herbes",
-              "french-omelette"
+              "french-omelette",
+              "french-souffle-omelette"
             ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "french-tofu-bourguignon",
               "french-tofu-gratine",
-              "french-tofu-provencale"
+              "french-tofu-provencale",
+              "french-tofu-quiche"
             ]
           },
           {
@@ -4410,19 +4415,20 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 83,
+        "actual": 85,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "bacalao-al-pil-pil",
               "gambas-al-ajillo",
               "merluza-a-la-vasca",
               "pulpo-a-la-gallega",
               "spanish-bacalao-al-horno",
+              "spanish-calamares-rellenos",
               "spanish-gambas-al-ajillo",
               "spanish-merluza-rebozada",
               "spanish-paella",
@@ -4453,11 +4459,12 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "arroz-negro",
               "paella-valenciana",
               "paella-verduras",
+              "spanish-arroz-al-horno",
               "spanish-arroz-bacalao",
               "spanish-arroz-caldoso",
               "spanish-arroz-con-pollo",
@@ -6362,7 +6369,7 @@
         "en": "Irish",
         "tier": "C",
         "target": 25,
-        "actual": 22,
+        "actual": 23,
         "cells": [
           {
             "category": "main-meat",
@@ -6418,8 +6425,10 @@
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "irish-lemon-tea"
+            ]
           },
           {
             "category": "main-vegetable",
