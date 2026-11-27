@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-nargisi-kofta",
+  "name": {
+    "zh": "蛋心肉丸咖喱",
+    "en": "Egg Kofta Curry",
+    "original": "Nargisi kofta"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 29,
+    "total_min": 59
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 6,
+          "unit": "piece",
+          "note": "煮熟去壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 240,
+          "unit": "g",
+          "note": "肥瘦三七",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "一半炒酱一半拌馅",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 100,
+          "unit": "g",
+          "note": "无糖原味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酥油",
+          "name_en": "ghee",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒酱与煎丸",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "微辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "装饰",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "煮锅",
+    "平底锅",
+    "深锅",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋冷水下锅煮九分钟，一次煮六颗，捞出泡凉水后剥壳，擦干表面水分。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "煮好立刻过凉水，蛋壳一剥就整片脱落。",
+      "visual_cue": "蛋黄中心呈亮黄凝固状，蛋白光滑无破"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加一半洋葱碎、盐与孜然粉，顺同一方向搅到起黏性。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "搅到肉馅能挂住碗壁，包蛋时才不散。",
+      "visual_cue": "猪肉末抱团发黏，表面泛出细密纹路"
+    },
+    {
+      "n": 3,
+      "text": "手上抹水，把猪肉末压成薄片裹住整颗鸡蛋，六颗逐一裹好，收口捏紧。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "裹得薄而匀，煎的时候才不会一边厚一边破。",
+      "visual_cue": "肉层厚度均匀，收口处完全封住不漏蛋"
+    },
+    {
+      "n": 4,
+      "text": "平底锅化酥油，中火把肉丸滚动煎到表面金黄定型。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "一边煎一边转动，让整颗都上色不夹生。",
+      "visual_cue": "肉层表面金黄紧实，轻推能滚圈"
+    },
+    {
+      "n": 5,
+      "text": "另起深锅炒剩余洋葱到透明，加番茄、姜黄粉与辣椒粉炒成酱。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄炒到出油发亮，酱才不会水汪汪。",
+      "visual_cue": "番茄完全塌软，锅底浮出红色油脂"
+    },
+    {
+      "n": 6,
+      "text": "倒入酸奶搅匀，放回肉丸，小火炖十五分钟收汁。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "酸奶要一点一点加，一次倒容易分层出水。",
+      "visual_cue": "酱汁浓稠裹住肉丸，表面泛油光"
+    },
+    {
+      "n": 7,
+      "text": "撒香菜出锅，吃的时候对半切开露出中心的蛋。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "切开的断面要工整，摆盘时蛋黄才露在正中间好看。",
+      "visual_cue": "切面蛋白雪白蛋黄亮黄，肉层完整不脱落"
+    }
+  ],
+  "tips": [
+    "鸡蛋煮好可提前一晚冷藏，第二天裹肉更快。",
+    "肉层里拌少许面包糠，能吸住汁水不易开裂。",
+    "酱汁嫌稀就多炖五分钟，别用水淀粉勾。",
+    "配印度香米饭或烤饼，汤汁拌饭尤其好吃。"
+  ],
+  "common_mistakes": [
+    "鸡蛋表面带水就裹肉，煎的时候肉层整片脱落。",
+    "肉馅没搅出黏性就包蛋，下锅后肉层散开露出蛋。",
+    "酸奶一次全倒进热锅，酱汁立刻分层出现颗粒。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肉末",
+      "substitute": "鸡肉末",
+      "ratio": "240克:240克",
+      "note": "更瘦，需多加十克酥油防干。"
+    },
+    {
+      "original": "酸奶",
+      "substitute": "椰浆",
+      "ratio": "100克:100克",
+      "note": "奶香更浓，酸味消失。"
+    }
+  ],
+  "variations": [
+    "把鸡蛋换成鹌鹑蛋，做成一口大小的迷你版本。",
+    "酱汁里加一勺腰果酱，口感更浓稠适合配烤饼。"
+  ],
+  "serving_suggestion": "配印度香米饭或黄油烤饼，配一小碟洋葱沙拉解腻。",
+  "storage": "冷藏三天，酱汁与肉丸分开存放，复热时一起小火炖十分钟。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 420,
+    "protein_g": 26,
+    "fat_g": 31,
+    "carbs_g": 10,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡蛋与猪肉末都必须彻底加热，肉丸中心温度须达七十五度以上。",
+    "含蛋与奶的酱汁须冷藏保存，室温放置不要超过两小时。"
+  ],
+  "origin_note": "源自莫卧儿宫廷的宴客菜，把整颗水煮蛋包进调味肉馅再炖进番茄酸奶酱里，切开时蛋与肉的断面像花蕾，是北印度宴席上常见的一道。",
+  "tags": [
+    "印度菜",
+    "鸡蛋",
+    "咖喱",
+    "宴客"
+  ],
+  "related_ids": [
+    "indian-egg-curry",
+    "indian-chicken-korma",
+    "indian-anda-bhurji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

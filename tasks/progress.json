@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:56:20.981Z",
+  "generatedAt": "2026-11-27T04:01:27.531Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2499,
-    "coverage": 0.7632864996945632
+    "actual": 2507,
+    "coverage": 0.7657299938912645
   },
   "regions": {
     "cn": [
@@ -5056,7 +5056,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 71,
+        "actual": 79,
         "cells": [
           {
             "category": "main-vegetable",
@@ -5125,9 +5125,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "dal-tomato-soup",
+              "indian-chicken-corn-soup",
               "indian-chicken-shorba",
               "indian-moong-dal-shorba",
               "indian-mulligatawny-soup",
@@ -5142,7 +5143,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "gajar-halwa",
               "indian-carrot-halwa",
@@ -5150,6 +5151,7 @@
               "indian-jalebi",
               "indian-kaju-katli",
               "indian-kulfi",
+              "indian-phirni",
               "indian-rasmalai",
               "indian-shrikhand",
               "kheer"
@@ -5159,20 +5161,24 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "indian-anda-bhurji",
-              "indian-egg-curry"
+              "indian-egg-curry",
+              "indian-egg-omelette",
+              "indian-nargisi-kofta"
             ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "indian-palak-paneer",
-              "indian-tofu-masala"
+              "indian-tofu-butter-masala",
+              "indian-tofu-masala",
+              "indian-tofu-tikka"
             ]
           },
           {
@@ -5189,9 +5195,11 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "indian-chicken-biryani",
+              "indian-jeera-rice",
+              "indian-lemon-rice",
               "indian-veg-pulao"
             ]
           },
