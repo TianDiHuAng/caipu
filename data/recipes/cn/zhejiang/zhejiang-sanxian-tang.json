@@ -4,7 +4,7 @@
   "id": "zhejiang-sanxian-tang",
   "name": {
     "zh": "浙江三鲜汤",
-    "en": "Three Delicacy Soup",
+    "en": "Zhejiang Three-delicacy Soup",
     "original": "三鲜汤"
   },
   "cuisine": {
@@ -16,15 +16,15 @@
   ],
   "difficulty": 1,
   "time": {
-    "prep_min": 25,
-    "cook_min": 18,
-    "total_min": 43
+    "prep_min": 21,
+    "cook_min": 19,
+    "total_min": 40
   },
   "servings": 3,
   "flavor": [
     "light",
-    "umami",
-    "savory"
+    "savory",
+    "umami"
   ],
   "ingredients": [
     {
@@ -35,23 +35,23 @@
           "name_en": "peeled shrimp",
           "amount": 150,
           "unit": "g",
-          "note": "去壳挑净背上的黑线",
+          "note": "去线",
           "optional": false
         },
         {
-          "name": "火腿",
-          "name_en": "ham",
-          "amount": 50,
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 120,
           "unit": "g",
           "note": "切薄片",
           "optional": false
         },
         {
-          "name": "竹笋",
-          "name_en": "bamboo shoot",
-          "amount": 150,
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 80,
           "unit": "g",
-          "note": "切滚刀块，先焯水",
+          "note": "切薄片",
           "optional": false
         }
       ]
@@ -60,27 +60,35 @@
       "group": "aux",
       "items": [
         {
-          "name": "香菇",
-          "name_en": "shiitake mushroom",
-          "amount": 80,
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 200,
           "unit": "g",
           "note": "切片",
           "optional": false
         },
         {
-          "name": "小白菜",
-          "name_en": "bok choy",
-          "amount": 100,
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
           "unit": "g",
-          "note": "取嫩叶",
+          "note": "切片",
           "optional": false
         },
         {
           "name": "姜",
           "name_en": "ginger",
-          "amount": 10,
+          "amount": 12,
           "unit": "g",
           "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
           "optional": false
         }
       ]
@@ -89,35 +97,43 @@
       "group": "seasoning",
       "items": [
         {
-          "name": "料酒",
-          "name_en": "cooking wine",
+          "name": "植物油",
+          "name_en": "vegetable oil",
           "amount": 15,
           "unit": "ml",
-          "note": "腌虾仁",
+          "note": "爆香",
           "optional": false
         },
         {
           "name": "盐",
           "name_en": "salt",
-          "amount": 4,
+          "amount": 5,
           "unit": "g",
           "note": "调味",
           "optional": false
         },
         {
-          "name": "香油",
-          "name_en": "sesame oil",
-          "amount": 5,
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
           "unit": "ml",
-          "note": "起锅前淋",
+          "note": "去腥",
           "optional": false
         },
         {
           "name": "白胡椒",
           "name_en": "white pepper",
-          "amount": 1,
+          "amount": 3,
           "unit": "g",
-          "note": "去腥提鲜",
+          "note": "一撮",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 6,
+          "unit": "g",
+          "note": "上浆",
           "optional": false
         }
       ]
@@ -125,133 +141,137 @@
   ],
   "equipment": [
     "汤锅",
-    "漏勺",
+    "刀",
     "砧板",
-    "汤碗"
+    "碗",
+    "汤勺"
   ],
   "steps": [
     {
       "n": 1,
-      "text": "虾仁挑净背上的黑线，加料酒与少许盐抓匀腌十分钟。",
-      "time_min": 12,
+      "text": "虾仁挑去背上的肠线，用少许盐抓洗后冲净，厨房纸吸干。",
+      "time_min": 8,
       "heat": "无火",
-      "tip": "抓的时候轻一点，用力会把虾仁的弹性破坏掉。",
-      "visual_cue": "虾仁表面微微发亮，手感有黏性"
+      "tip": "虾仁用盐抓洗能去黏液，汤才不会腥。",
+      "visual_cue": "虾仁透亮，表面干爽"
     },
     {
       "n": 2,
-      "text": "竹笋切块后冷水下锅焯五分钟，捞起用清水冲凉。",
-      "time_min": 8,
-      "heat": "中火",
-      "tip": "焯水能去掉笋里的涩味和草酸，汤才清甜。",
-      "visual_cue": "笋块颜色转浅，闻不到生涩气"
+      "text": "猪里脊逆纹切成两毫米薄片，加料酒与淀粉抓匀上浆。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "上浆后肉片下锅才嫩，煮久了也不柴。",
+      "visual_cue": "肉片薄透挂浆，碗底无余水"
     },
     {
       "n": 3,
-      "text": "香菇切片，火腿切薄片，青菜洗净撕成小片备用。",
-      "time_min": 5,
+      "text": "白菜洗净切片，香菇切片，姜切丝，火腿切成薄片。",
+      "time_min": 7,
       "heat": "无火",
-      "tip": "火腿切薄才出味，太厚只能当肉块吃。",
-      "visual_cue": "材料分门别类装盘待用"
+      "tip": "火腿切薄片更容易出味，咸鲜是汤底的主力。",
+      "visual_cue": "配料切配整齐，分盘摆放"
     },
     {
       "n": 4,
-      "text": "汤锅加清水与姜丝大火烧开，放入火腿片与笋块煮八分钟。",
-      "time_min": 10,
-      "heat": "大火",
-      "tip": "火腿先煮能出鲜味，汤底不用另加高汤。",
-      "visual_cue": "汤色转成浅浅的茶色，火腿香飘出"
+      "text": "汤锅倒植物油烧热，下姜丝小火炒三十秒，炒出姜香。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "姜丝炒过再用，去腥效果比直接煮强得多。",
+      "visual_cue": "姜丝微卷，香味飘出"
     },
     {
       "n": 5,
-      "text": "转小火放入香菇片煮三分钟，让汤味再厚一点。",
-      "time_min": 3,
-      "heat": "小火",
-      "tip": "香菇久煮会发软，三分钟刚好留住果肉感。",
-      "visual_cue": "香菇边缘卷起，汤面浮起薄油"
+      "text": "倒入八毫升清水烧开，下白菜与香菇，中火煮五分钟。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "白菜先煮出甜味，汤底才清鲜不寡淡。",
+      "visual_cue": "白菜变软透明，汤色微白"
     },
     {
       "n": 6,
-      "text": "下入虾仁与青菜，煮到虾仁全部变成粉红色为止。",
+      "text": "转小火，把肉片一片片抖散下锅，煮两分钟至变色。",
       "time_min": 3,
-      "heat": "中火",
-      "tip": "虾仁一变红就关火，久煮会缩成硬粒。",
-      "visual_cue": "虾仁弯成月牙状，颜色粉红不透明"
+      "heat": "小火",
+      "tip": "肉片逐片下，一坨倒进去会粘成一块。",
+      "visual_cue": "肉片浮起，颜色转浅"
     },
     {
       "n": 7,
-      "text": "加盐与白胡椒粉调味，起锅前淋香油，盛入汤碗。",
-      "time_min": 2,
+      "text": "下虾仁与火腿片，中火煮三分钟，虾仁卷曲变红即可。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "虾仁久煮会老，卷成弯月形就关火。",
+      "visual_cue": "虾仁卷曲发红，火腿片卷边"
+    },
+    {
+      "n": 8,
+      "text": "撇去汤面浮沫，加盐与白胡椒调味，撒葱段关火。",
+      "time_min": 3,
       "heat": "无火",
-      "tip": "香油一定要离火后淋，煮过就失香了。",
-      "visual_cue": "汤清见底，表面浮一层油光"
+      "tip": "盐最后放，早了虾仁和肉片都会发紧。",
+      "visual_cue": "汤色清亮，葱花翠绿"
     }
   ],
   "tips": [
-    "火腿本身咸，盐要在最后尝过再放。",
-    "竹笋换成莼菜，就是另一种浙江风味。",
-    "想让汤更浓可以加一小把开洋同煮。",
-    "青菜一定要最后下，久煮会发黄失味。"
+    "三鲜没有固定搭配，虾、肉、火腿是最常见的组合。",
+    "想更鲜可加两片金华火腿，汤底立刻上一个层次。",
+    "白菜换成娃娃菜更甜，煮的时间可减两分钟。",
+    "汤要清就别大火滚，中小火保持微沸最稳。"
   ],
   "common_mistakes": [
-    "笋不焯水直接煮，汤发涩还带草酸味。",
-    "虾仁煮得太久，缩成硬粒完全没有弹性。",
-    "一开始就放盐，火腿的咸味被估错，越煮越咸。"
+    "虾仁不下锅前处理，腥味全留在汤里。",
+    "肉片一次全倒进去，粘成一坨，汤也变浑。",
+    "煮的时间过长，虾仁缩成硬球，肉片发柴。"
   ],
   "substitutions": [
     {
       "original": "火腿",
       "substitute": "咸肉",
-      "ratio": "50克:60克",
-      "note": "咸味更重，盐几乎不用放。"
+      "ratio": "80克:80克",
+      "note": "需先焯水去咸，煮制时间加五分钟。"
     },
     {
-      "original": "虾仁",
-      "substitute": "鱼圆",
-      "ratio": "150克:150克",
-      "note": "口感更软，煮的时间延到五分钟。"
+      "original": "白菜",
+      "substitute": "娃娃菜",
+      "ratio": "200克:200克",
+      "note": "更甜，煮制时间减两分钟。"
     }
   ],
   "variations": [
-    "加几颗鱼圆与蛋饺，做成更丰盛的三鲜砂锅。",
-    "把清水换成鸡汤做底，成汤的鲜味更厚。"
+    "加一把粉丝同煮，做成汤粉，能当一顿饭。",
+    "把清汤换成高汤打底，鲜味更厚，是宴席版本。"
   ],
-  "serving_suggestion": "趁热盛入汤碗，先喝一口汤再尝料，配一小碟米醋蘸虾仁。",
-  "storage": "冷藏两天，复热加少许清水小火煮开，虾仁口感会变硬。",
+  "serving_suggestion": "三人份汤菜，饭前先喝一碗，或配米饭作为一餐。",
+  "storage": "冷藏一天内喝完，复热要滚开；虾仁复热后会稍老，建议现做现喝。",
   "nutrition_estimate": {
     "basis": "按三人份估算",
-    "calories_kcal": 180,
-    "protein_g": 20,
+    "calories_kcal": 210,
+    "protein_g": 26,
     "fat_g": 8,
-    "carbs_g": 6,
-    "sodium_mg": 760,
+    "carbs_g": 9,
+    "sodium_mg": 860,
     "is_estimate": true,
     "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
   "allergens": [
     "crustacean",
-    "gluten",
-    "sesame"
+    "gluten"
   ],
   "diet_tags": [
-    "high-protein",
-    "low-carb"
+    "dairy-free"
   ],
   "food_safety_notes": [
-    "虾仁属贝类过敏原，须彻底加热煮到虾仁中心不透明、完全熟透。",
-    "香菇须充分加热熟透后食用，不要生食。"
+    "虾仁与肉片须彻底煮熟，虾身完全卷曲发红、肉片无粉色；海鲜过敏者慎食，剩汤冷藏不超一天并彻底煮沸。"
   ],
-  "origin_note": "浙江人餐桌上的家常汤，用火腿吊汤底，配河虾仁、竹笋与香菇三样时鲜，煮出来汤清味厚，是春夏之交最常出现的一碗。",
+  "origin_note": "江浙人家常做的一碗清汤，虾、肉、火腿三样鲜物同锅，白菜与香菇垫底。汤清味鲜，不靠浓油重酱，最见江南家常菜的本事。",
   "tags": [
     "浙江",
-    "汤",
-    "三鲜",
-    "清鲜"
+    "三鲜汤",
+    "清汤",
+    "家常"
   ],
   "related_ids": [
-    "zhejiang-chuncai-xiaren-geng",
-    "huotui-donggua-tang",
-    "zhejiang-xuecai-dongsun"
+    "zhejiang-congyou-yu"
   ],
   "image_url": null,
   "image_credit": null,

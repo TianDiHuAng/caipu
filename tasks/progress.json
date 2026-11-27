@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:53:39.708Z",
+  "generatedAt": "2026-11-27T14:48:58.552Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2714,
-    "coverage": 0.8289554062309102
+    "actual": 2720,
+    "coverage": 0.8307880268784361
   },
   "regions": {
     "cn": [
@@ -1450,7 +1450,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 90,
+        "actual": 91,
         "cells": [
           {
             "category": "main-meat",
@@ -1476,7 +1476,7 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "dong-an-ji",
               "dongan-ziji",
@@ -1490,7 +1490,8 @@
               "hunan-yutou-shao-ya",
               "hunan-zhijiang-ya",
               "xiang-pijiu-ya",
-              "xiangxi-tufei-ya"
+              "xiangxi-tufei-ya",
+              "yongzhou-xue-ya"
             ]
           },
           {
@@ -2104,7 +2105,7 @@
         "en": "Northeastern",
         "tier": "B",
         "target": 38,
-        "actual": 34,
+        "actual": 36,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2150,9 +2151,10 @@
             "category": "cold-dish",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "dongbei-dalapi",
+              "dongbei-gan-doufu-juan",
               "dongbei-laohu-cai",
               "dongbei-liangban-doufu-si",
               "pai-huanggua"
@@ -2162,9 +2164,10 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "dongbei-ba-rou",
+              "dongbei-sha-zhu-cai",
               "dongbei-si-xi-wanzi"
             ]
           },
@@ -2331,7 +2334,7 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 23,
+        "actual": 24,
         "cells": [
           {
             "category": "main-vegetable",
@@ -2417,6 +2420,16 @@
             ]
           },
           {
+            "category": "staple-rice",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "yunnan-boluo-fan",
+              "yunnan-ham-potato-rice"
+            ]
+          },
+          {
             "category": "main-poultry",
             "kind": "extra",
             "target": 0,
@@ -2433,15 +2446,6 @@
             "ids": [
               "suan-tang-yu"
             ]
-          },
-          {
-            "category": "staple-rice",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "yunnan-ham-potato-rice"
-            ]
           }
         ]
       },
@@ -2451,16 +2455,17 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 23,
+        "actual": 25,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "hakka-egg-pocket-braise",
               "hakka-hongshao-zhu-shou",
+              "hakka-huangjiu-ji",
               "hakka-meicai-kourou",
               "hakka-meicai-zheng-roubing",
               "hakka-nanru-shaorou",
@@ -2527,6 +2532,16 @@
             "ids": []
           },
           {
+            "category": "staple-noodle",
+            "kind": "extra",
+            "target": 0,
+            "actual": 2,
+            "ids": [
+              "hakka-suan-panzi",
+              "kejia-chao-mifen"
+            ]
+          },
+          {
             "category": "main-seafood",
             "kind": "extra",
             "target": 0,
@@ -2551,15 +2566,6 @@
             "actual": 1,
             "ids": [
               "hakka-liangban-muer"
-            ]
-          },
-          {
-            "category": "staple-noodle",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "kejia-chao-mifen"
             ]
           },
           {

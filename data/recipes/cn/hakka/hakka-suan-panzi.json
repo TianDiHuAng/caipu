@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hakka-suan-panzi",
+  "name": {
+    "zh": "客家算盘子",
+    "en": "Hakka Abacus Beads",
+    "original": "算盘子"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 55,
+    "cook_min": 27,
+    "total_min": 82
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "芋头",
+          "name_en": "taro",
+          "amount": 300,
+          "unit": "g",
+          "note": "蒸熟压泥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 180,
+          "unit": "g",
+          "note": "木薯或番薯淀粉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 40,
+          "unit": "g",
+          "note": "泡软切丁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "一撮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "大碗",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "芋头去皮切块，上蒸锅中火蒸二十分钟至能用筷子插透。",
+      "time_min": 24,
+      "heat": "中火",
+      "tip": "芋头要蒸到全软，压泥才不会有颗粒。",
+      "visual_cue": "芋块软烂，筷子一插到底"
+    },
+    {
+      "n": 2,
+      "text": "趁热把蒸好的芋头压成细泥，摊开放凉到不烫手再操作。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "太烫会把淀粉烫熟结块，晾到温热最合适。",
+      "visual_cue": "芋泥细腻无颗粒，温度微温"
+    },
+    {
+      "n": 3,
+      "text": "芋泥里分次加淀粉，揉成不粘手、能成团的面团。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "淀粉别一次倒完，看面团湿度调整。",
+      "visual_cue": "面团光滑，按下去有弹性"
+    },
+    {
+      "n": 4,
+      "text": "取小块面团搓成小球，用拇指在中间按出一个凹坑。",
+      "time_min": 14,
+      "heat": "无火",
+      "tip": "凹坑是算盘子的标志，也让酱汁兜得住。",
+      "visual_cue": "小球扁圆，中心有凹坑"
+    },
+    {
+      "n": 5,
+      "text": "蒸锅水开后把算盘子摆进去，中火蒸十分钟定型。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "蒸过再炒，成品才Q弹不粘牙。",
+      "visual_cue": "算盘子半透明，按压回弹"
+    },
+    {
+      "n": 6,
+      "text": "五花肉切小丁，香菇切丁，蒜剁末，小葱切碎备用。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "肉丁切小些，炒出来才和算盘子般配。",
+      "visual_cue": "配菜切丁均匀，大小一致"
+    },
+    {
+      "n": 7,
+      "text": "炒锅倒植物油，下五花肉丁煸三分钟出油至微焦。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉丁煸出油，后面炒算盘子才不粘。",
+      "visual_cue": "肉丁金黄出油，锅底油亮"
+    },
+    {
+      "n": 8,
+      "text": "下蒜末与香菇丁炒香，加生抽、蚝油与一百毫升水烧开。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇丁要炒到出香，鲜味才足。",
+      "visual_cue": "香菇变软，酱汁微沸"
+    },
+    {
+      "n": 9,
+      "text": "倒入蒸好的算盘子，中火翻炒三分钟让每颗裹上酱汁。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "轻推别猛铲，算盘子容易破。",
+      "visual_cue": "算盘子油亮挂汁，凹坑里兜满汁"
+    },
+    {
+      "n": 10,
+      "text": "撒盐与白胡椒，收汁至浓稠，撒葱花翻匀出锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "收干一点更香，留太多汁会变汤。",
+      "visual_cue": "酱汁浓稠，葱花点缀"
+    }
+  ],
+  "tips": [
+    "芋头选粉糯的荔浦芋，水分少，揉面更好操作。",
+    "淀粉用木薯淀粉最弹，番薯淀粉次之，玉米淀粉不行。",
+    "一次可以多做，蒸好的算盘子冷冻保存，随吃随炒。",
+    "素食版去掉五花肉，用香菇和豆干丁也很香。"
+  ],
+  "common_mistakes": [
+    "芋泥太烫就加淀粉，面团结块揉不匀。",
+    "淀粉加太少，算盘子下锅一炒就散。",
+    "不蒸直接下锅炒，外糊内生，咬着发硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "芋头",
+      "substitute": "土豆",
+      "ratio": "300克:300克",
+      "note": "水分多，淀粉需多加三十克。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "豆干",
+      "ratio": "120克:120克",
+      "note": "素食版本，咸度略降。"
+    }
+  ],
+  "variations": [
+    "加一把虾米同炒，鲜味更足，是梅州常见做法。",
+    "把算盘子下锅炸一下再炒，外脆内糯，口感完全不同。"
+  ],
+  "serving_suggestion": "三人份主食，配一碗青菜汤就是一餐，当宴席配菜也合适。",
+  "storage": "蒸好的算盘子冷冻可存两周，冷藏两天；炒好的当天吃完，复热加少许水焖两分钟。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 12,
+    "fat_g": 20,
+    "carbs_g": 78,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "芋头须蒸至完全软烂熟透，生芋头含草酸钙易致口舌发麻；含肉丁的菜品须炒熟炒透，剩菜冷藏不超两天。"
+  ],
+  "origin_note": "客家人过年必做的一道菜，芋泥拌淀粉搓成小球，按出凹坑像算盘珠。先蒸后炒，浇上肉丁香菇的酱汁，Q弹咸香，寓意来年精打细算。",
+  "tags": [
+    "客家",
+    "芋头",
+    "算盘子",
+    "主食"
+  ],
+  "related_ids": [
+    "zhejiang-sanxian-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

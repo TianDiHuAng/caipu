@@ -1,0 +1,315 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yongzhou-xue-ya",
+  "name": {
+    "zh": "永州血鸭",
+    "en": "Yongzhou Duck in Blood Sauce",
+    "original": "永州血鸭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 23,
+    "cook_min": 36,
+    "total_min": 59
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "老鸭",
+          "name_en": "old duck",
+          "amount": 1200,
+          "unit": "g",
+          "note": "剁小块",
+          "optional": false
+        },
+        {
+          "name": "鸭血",
+          "name_en": "duck blood curd",
+          "amount": 200,
+          "unit": "g",
+          "note": "留用调汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 30,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "紫苏",
+          "name_en": "perilla",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "一撮",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调血防凝",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "木铲",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "老鸭剁成三厘米小块，用清水冲两遍去血水，沥干备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "老老鸭块剁小些才容易炒透，鸭血才挂得住。",
+      "visual_cue": "老鸭块大小均匀，水清不浑"
+    },
+    {
+      "n": 2,
+      "text": "鸭血倒进碗里，加米醋与两勺清水搅匀，防止凝固成块。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "醋能让鸭血保持流动，倒进锅里才能裹匀每块肉。",
+      "visual_cue": "鸭血呈暗红流动状，无凝块"
+    },
+    {
+      "n": 3,
+      "text": "姜切片，蒜拍碎，小米辣切圈，紫苏与青蒜切好分开装。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "紫苏是这锅菜的魂，少了就只剩辣味。",
+      "visual_cue": "配料分色码放，紫苏碎翠紫"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧热，下姜片与蒜爆香三十秒。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "姜蒜先炝锅，肉腥味能压掉大半。",
+      "visual_cue": "姜片卷边，蒜香冒出"
+    },
+    {
+      "n": 5,
+      "text": "倒入老老鸭块大火翻炒，炒到表面变白、水分收干。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "老老鸭块水汽一定炒干，不然最后的血汁会稀。",
+      "visual_cue": "表皮收紧发黄，锅底无汤水"
+    },
+    {
+      "n": 6,
+      "text": "沿锅边淋料酒，加生抽、老抽与盐，翻炒两分钟上色。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "老抽只为上色，多了整锅发黑。",
+      "visual_cue": "老老鸭块均匀上酱色，油光发亮"
+    },
+    {
+      "n": 7,
+      "text": "加两百毫升热水，盖盖中小火焖十五分钟至老老鸭肉将熟。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "水别多，焖完要留一点底汤给鸭血用。",
+      "visual_cue": "汤汁剩三分之一，肉质能用筷子戳动"
+    },
+    {
+      "n": 8,
+      "text": "开盖下小米辣，大火收汁至汤汁略稠，翻炒一分钟。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "辣椒后放，辣味清亮不闷。",
+      "visual_cue": "汤汁浓稠挂勺，辣香冲鼻"
+    },
+    {
+      "n": 9,
+      "text": "转小火，把鸭血分三次淋入锅中，边淋边快速翻炒。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "必须小火分次淋，一次倒进去血就结块了。",
+      "visual_cue": "鸭血裹满老老鸭块，颜色转深红亮"
+    },
+    {
+      "n": 10,
+      "text": "血汁裹匀后关火，撒紫苏与青蒜段，再撒白胡椒，翻两下盛盘。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "紫苏靠余温激香，久炒发黑发苦。",
+      "visual_cue": "老老鸭块暗红油亮，紫苏青蒜点缀"
+    }
+  ],
+  "tips": [
+    "鸭血要现杀现接，凝固久了的血做不出这种挂浆效果。",
+    "老鸭肉选两年的，肉紧味浓，过嫩的反而没嚼头。",
+    "全程别加水太多，这道菜讲究干香，汁多就成血汤了。",
+    "怕辣可减小米辣，但紫苏不能省。"
+  ],
+  "common_mistakes": [
+    "鸭血直接倒进大火锅里，瞬间凝成块，裹不上老老鸭块。",
+    "老老鸭块水汽没炒干就加水焖，最后的血汁稀得像汤。",
+    "紫苏下锅早炒，颜色发黑，香气也散了。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸭血",
+      "substitute": "猪血",
+      "ratio": "200克:200克",
+      "note": "口感更嫩，需多加五毫升醋防凝。"
+    },
+    {
+      "original": "紫苏",
+      "substitute": "罗勒",
+      "ratio": "15克:15克",
+      "note": "香气偏甜，湖南风味会淡一些。"
+    }
+  ],
+  "variations": [
+    "加一把板栗同焖，甜糯配血香，是永州乡下的吃法。",
+    "把小米辣换成干辣椒，辣味更干香，适合下酒。"
+  ],
+  "serving_suggestion": "三人份主菜，配米饭和一碟酸萝卜，汤汁拌饭最香。",
+  "storage": "冷藏一天内吃完，复热加两勺水小火焖热；血制品易变质，不建议隔夜再存。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 40,
+    "fat_g": 34,
+    "carbs_g": 9,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "老老鸭肉须焖至完全熟透、骨边无血色；鸭血必须彻底加热至暗红转深、中心滚烫，生血严禁入口，剩菜冷藏不超一天。"
+  ],
+  "origin_note": "永州乡下宰杀老鸭待客的做法，鸭血兑醋调稀，最后小火淋进炒好的老老鸭块里。血汁裹住每块肉，暗红油亮，辣中带紫苏的清香，是湘南最有辨识度的一道家常菜。",
+  "tags": [
+    "湖南",
+    "永州",
+    "血鸭",
+    "辣"
+  ],
+  "related_ids": [
+    "zhejiang-sanxian-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
