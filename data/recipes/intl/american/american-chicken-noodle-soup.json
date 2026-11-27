@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-chicken-noodle-soup",
+  "name": {
+    "zh": "美式鸡肉面汤",
+    "en": "American Chicken Noodle Soup",
+    "original": "Chicken noodle soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 60,
+    "total_min": 85
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "带骨整块",
+          "optional": false
+        },
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 240,
+          "unit": "g",
+          "note": "宽面或蛋面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切圆片",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 120,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "炖汤用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒蔬菜用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉冲洗干净，冷水下锅煮开，撇掉表面浮沫，转小火炖二十五分钟。",
+      "time_min": 28,
+      "heat": "小火",
+      "tip": "冷水下锅才能把血沫慢慢逼出来，汤才清亮不腥。",
+      "visual_cue": "汤面浮沫撇净，汤色浅金"
+    },
+    {
+      "n": 2,
+      "text": "捞出鸡肉放凉，汤过滤留用，撇去表面多余的浮油。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "浮油撇干净，汤喝起来清爽，凉了也不会结一层白油。",
+      "visual_cue": "汤清见底，表面几乎无油"
+    },
+    {
+      "n": 3,
+      "text": "鸡肉去皮去骨，用手撕成一口大小的条，骨头上的肉也别浪费。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "手撕比刀切更挂汤，断面粗糙能吸更多汤汁。",
+      "visual_cue": "鸡丝粗细随意，无骨无皮"
+    },
+    {
+      "n": 4,
+      "text": "汤锅放植物油，中火炒洋葱丁三分钟到透明，再加蒜末炒香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "蔬菜先炒过再炖，甜味更足，汤也不会寡淡。",
+      "visual_cue": "洋葱透明，锅底有焦香"
+    },
+    {
+      "n": 5,
+      "text": "加胡萝卜片与芹菜段翻炒两分钟，倒回鸡汤与香叶，煮开后小火炖十分钟。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "胡萝卜切薄片才和芹菜同时软，厚了下锅时间对不上。",
+      "visual_cue": "胡萝卜微软，汤色加深"
+    },
+    {
+      "n": 6,
+      "text": "把面条折断下锅，中火煮六分钟到软，其间搅动两下防粘底。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "面条会吸汤，煮的时候多搅几次，不然全粘在锅底。",
+      "visual_cue": "面条软透浮起，汤略变稠"
+    },
+    {
+      "n": 7,
+      "text": "放回鸡丝煮两分钟，加盐与黑胡椒调味，尝一下咸淡。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "鸡丝最后放，久煮会散成絮状，汤也发浑。",
+      "visual_cue": "鸡丝分布均匀，汤面清亮"
+    },
+    {
+      "n": 8,
+      "text": "挑出香叶，撒上欧芹碎，盛进深碗里趁热喝。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "欧芹关火后撒，颜色翠绿，香气也不散。",
+      "visual_cue": "汤面浮绿点，鸡肉与面条堆满碗"
+    }
+  ],
+  "tips": [
+    "面条单独煮好再放，汤不会变稠，剩下的汤也清爽。",
+    "加一勺酸度温和的果醋，汤的味道立刻亮起来。",
+    "剩汤第二天会更浓，喝前加一点水稀释。",
+    "用整只鸡炖出的汤底更厚，只用腿肉是图方便的做法。"
+  ],
+  "common_mistakes": [
+    "鸡肉热水下锅，外表瞬间收紧，血沫锁在里面，汤发浑带腥。",
+    "面条一直在汤里泡，隔夜后吸干汤汁，变成一锅面糊。",
+    "盐一开始就放足，炖到最后水分蒸发，汤咸得喝不下。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "米粒面",
+      "ratio": "240克:200克",
+      "note": "更小粒，煮制时间缩短两分钟。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "500克:450克",
+      "note": "更瘦，炖制时间缩短五分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺奶油与黄油，做成更浓郁的家常版本。",
+    "加一把菠菜或青豆，颜色和营养都更均衡。"
+  ],
+  "serving_suggestion": "四人份汤面，配苏打饼干或烤面包，是最经典的感冒餐。",
+  "storage": "汤与面分开冷藏，三天内吃完；复热时先热汤再下面，避免面吸干汤汁。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 340,
+    "protein_g": 28,
+    "fat_g": 10,
+    "carbs_g": 34,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炖至中心完全熟透、骨肉分离处无血色；鸡汤须冷藏并在三天内吃完，复热彻底加热至滚沸。"
+  ],
+  "origin_note": "美国家庭的看家汤，整鸡冷水下锅慢炖出清汤，撕下鸡肉，与洋葱胡萝卜芹菜一起煮，最后下面条。感冒时、下雪天、星期天的晚餐，一锅汤就是全部的安慰。",
+  "tags": [
+    "美国",
+    "汤面",
+    "鸡肉",
+    "家常"
+  ],
+  "related_ids": [
+    "american-beef-noodle-skillet",
+    "american-pot-roast"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

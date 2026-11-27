@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-broccoli-casserole",
+  "name": {
+    "zh": "美式西兰花奶酪焗",
+    "en": "American Broccoli Cheese Casserole",
+    "original": "Broccoli cheese casserole"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 25,
+    "total_min": 65
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "西兰花",
+          "name_en": "broccoli",
+          "amount": 600,
+          "unit": "g",
+          "note": "切小朵",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 180,
+          "unit": "g",
+          "note": "切达，擦丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "面包糠",
+          "name_en": "breadcrumbs",
+          "amount": 60,
+          "unit": "g",
+          "note": "表层用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "做白汁",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 400,
+          "unit": "ml",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "肉豆蔻",
+          "name_en": "nutmeg",
+          "amount": 1,
+          "unit": "g",
+          "note": "现擦",
+          "optional": false
+        },
+        {
+          "name": "第戎芥末",
+          "name_en": "Dijon mustard",
+          "amount": 8,
+          "unit": "g",
+          "note": "增味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "烤盘",
+    "平底锅",
+    "刀",
+    "砧板",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "西兰花切小朵，粗茎削皮切片，放进沸水焯两分钟，捞出过冷水沥干。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "焯水后过冷水能锁住翠绿，烤箱里再烤也不会发黄。",
+      "visual_cue": "西兰花颜色鲜绿，茎部略软"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放二十克黄油，中火炒洋葱碎三分钟到透明，加蘑菇片炒到出水收干。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "蘑菇炒到锅底收干才香，湿的直接入盘会出水泡软表层。",
+      "visual_cue": "蘑菇缩小，锅底无明水"
+    },
+    {
+      "n": 3,
+      "text": "汤锅化开剩下的黄油，倒入面粉小火炒一分钟，炒到微微起泡成顺滑的油面糊。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "面粉要炒掉生面粉的气味，但别炒到变色，白汁才雪白。",
+      "visual_cue": "油面糊顺滑起泡，无干粉"
+    },
+    {
+      "n": 4,
+      "text": "分三次倒入温热牛奶，每次都搅到完全融合，煮到酱汁浓稠挂勺。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "牛奶一定要温的，冷牛奶倒进热油面糊会结块。",
+      "visual_cue": "白汁顺滑浓稠，能挂住勺背"
+    },
+    {
+      "n": 5,
+      "text": "离火加三分之二的奶酪丝、盐、黑胡椒、肉豆蔻与第戎芥末，搅到奶酪化开。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "离火加奶酪才不会油水分离，酱汁保持顺滑。",
+      "visual_cue": "酱汁浓稠，奶酪完全融合"
+    },
+    {
+      "n": 6,
+      "text": "把西兰花与蘑菇洋葱拌进奶酪酱里，倒进烤盘铺平。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "拌匀再入盘，比分层铺更均匀，每一口都有奶酪。",
+      "visual_cue": "西兰花裹满白酱，盘面平整"
+    },
+    {
+      "n": 7,
+      "text": "面包糠与剩下的奶酪丝混匀，撒在表面，再淋上融化的黄油。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "表层要撒得均匀，黄油淋透了才烤得金黄酥脆。",
+      "visual_cue": "表面覆盖一层均匀的面包糠"
+    },
+    {
+      "n": 8,
+      "text": "送进一百九十度烤箱烤二十五分钟，表面金黄冒泡即可出炉。",
+      "time_min": 25,
+      "heat": "大火",
+      "tip": "看到边缘起泡、表层焦黄就是好了，烤过头西兰花会发黄。",
+      "visual_cue": "表层金黄酥脆，边缘冒泡"
+    },
+    {
+      "n": 9,
+      "text": "出炉静置五分钟再切块，奶酪酱稍稍定型，切面才整齐。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置让酱汁收紧，热切会流得满盘都是。",
+      "visual_cue": "切面整齐，奶酪酱不外流"
+    }
+  ],
+  "tips": [
+    "西兰花焯水后必须沥得很干，多余水分会让下层变稀。",
+    "切达奶酪味道最正，混一点格鲁耶尔更香。",
+    "加一小勺第戎芥末，能压住奶酪的腻。",
+    "提前做好冷藏，吃前烤三十分钟即可，适合聚餐。"
+  ],
+  "common_mistakes": [
+    "西兰花不焯水直接烤，烤完又硬又生，酱汁也渗不进去。",
+    "牛奶一次全倒进油面糊，结成一锅面疙瘩。",
+    "烤盘里水分太多，出炉变成一滩稀汤，切不成块。"
+  ],
+  "substitutions": [
+    {
+      "original": "西兰花",
+      "substitute": "花椰菜",
+      "ratio": "600克:600克",
+      "note": "焯水时间延长一分钟，其余相同。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "400毫升:300毫升加100毫升水",
+      "note": "更浓郁，面粉可减5克。"
+    }
+  ],
+  "variations": [
+    "加一块煎香撕碎的培根与一勺酸奶油，做成更丰盛的聚餐版。",
+    "用花椰菜米替一半西兰花，做成低碳水版本。"
+  ],
+  "serving_suggestion": "四人份配菜，配烤鸡或烤火腿，是感恩节餐桌上的常客。",
+  "storage": "冷藏三天内吃完，复热用一百七十度烤箱烤十五分钟；不建议冷冻，白汁会出水分离。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 400,
+    "protein_g": 16,
+    "fat_g": 28,
+    "carbs_g": 22,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "mustard",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "西兰花须焯至半熟后再烤透，含奶制品的焗菜须冷藏保存并在三天内吃完、复热彻底。"
+  ],
+  "origin_note": "美国中西部聚餐桌上的经典焗菜，西兰花焯过拌进奶酪白汁，表面撒面包糠与奶酪烤到金黄。做法朴实却极受欢迎，感恩节与家庭聚会几乎必备。",
+  "tags": [
+    "美国",
+    "西兰花",
+    "奶酪",
+    "焗烤"
+  ],
+  "related_ids": [
+    "american-green-bean-casserole",
+    "american-glazed-carrots"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

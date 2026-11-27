@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-macarrones-con-tomate",
+  "name": {
+    "zh": "西班牙番茄通心粉",
+    "en": "Spanish Tomato Macaroni",
+    "original": "Macarrones con tomate"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 40,
+    "total_min": 62
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "通心粉",
+          "name_en": "penne",
+          "amount": 300,
+          "unit": "g",
+          "note": "短管状",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 180,
+          "unit": "g",
+          "note": "肥瘦三七分",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 400,
+          "unit": "g",
+          "note": "三只，擦成泥",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 2,
+          "unit": "g",
+          "note": "一小撮",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 30,
+          "unit": "g",
+          "note": "擦碎撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "汤锅烧开水加盐，下通心粉煮到比包装时间少两分钟，捞出留半杯煮面水。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "少煮两分钟，后面还要进酱汁里煮，否则会烂软没口感。",
+      "visual_cue": "通心粉外软，中心略留硬芯"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放橄榄油，中火下洋葱碎炒三分钟到透明，再加蒜末炒出香味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒到发甜再下蒜，蒜早下容易焦苦。",
+      "visual_cue": "洋葱透明，蒜香明显"
+    },
+    {
+      "n": 3,
+      "text": "下猪肉末，用铲子一边压一边炒三分钟，炒到颗粒散开、表面微焦。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉末下锅先别翻，压平煎一分钟再炒散，才有焦香。",
+      "visual_cue": "肉末颗粒分明，边缘微焦"
+    },
+    {
+      "n": 4,
+      "text": "加胡萝卜细丁翻炒两分钟，让胡萝卜丁裹上油，颜色转深。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "胡萝卜用油炒过，甜味才出得来。",
+      "visual_cue": "胡萝卜丁油亮，质地略软"
+    },
+    {
+      "n": 5,
+      "text": "倒入番茄泥，加盐、白糖与牛至，中小火煮十二分钟到酱汁浓稠。",
+      "time_min": 14,
+      "heat": "中小火",
+      "tip": "慢煮让番茄的酸转成甜，急着收汁只会留下尖酸。",
+      "visual_cue": "酱汁浓稠红亮，表面浮油"
+    },
+    {
+      "n": 6,
+      "text": "把通心粉倒进酱汁里，加两勺煮面水，中火翻拌两分钟让面吸味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "煮面水里的面糊能让酱汁挂在面上，比清水好得多。",
+      "visual_cue": "面管里灌满酱汁，锅底不干"
+    },
+    {
+      "n": 7,
+      "text": "撒上黑胡椒与奶酪碎，关火盖上锅盖焖一分钟让奶酪化开。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "盖一分钟奶酪刚好融而不拉丝断裂，趁热吃最好。",
+      "visual_cue": "奶酪半融，面身油亮"
+    },
+    {
+      "n": 8,
+      "text": "盛进深盘里，把锅里剩下的酱汁浇在面上，趁热上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "留一点酱汁浇面，吃到底也不会干。",
+      "visual_cue": "每盘面都裹着厚厚一层红酱"
+    }
+  ],
+  "tips": [
+    "通心粉比细面更能挂酱，管里灌满酱汁是最好吃的部分。",
+    "没有猪肉末可以用西班牙腌肉切丁，风味更浓。",
+    "番茄泥用新鲜番茄擦出来，比罐装的甜度自然。",
+    "加一勺擦碎的奶酪最后拌开，酱汁会更顺滑。"
+  ],
+  "common_mistakes": [
+    "面煮全熟再进酱汁，翻两下就断，成品糊成一团。",
+    "番茄泥不煮浓缩，直接拌面，盘底一层红水。",
+    "奶酪撒完立刻关火拌，奶酪结块成坨，挂不均匀。"
+  ],
+  "substitutions": [
+    {
+      "original": "通心粉",
+      "substitute": "斜管面",
+      "ratio": "300克:300克",
+      "note": "煮制时间相近，按包装调整。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "鸡腿肉末",
+      "ratio": "180克:180克",
+      "note": "更清淡，需多加一勺橄榄油补润。"
+    }
+  ],
+  "variations": [
+    "表面撒面包糠进烤箱烤十分钟，做成焗通心粉，表层焦脆。",
+    "加几只虾仁与青口，做成海鲜版本的通心粉。"
+  ],
+  "serving_suggestion": "三人份主食，配一份拌生菜与面包，是西班牙家庭的日常午餐。",
+  "storage": "冷藏两天内吃完，复热加一勺水小火拌开；不建议冷冻，面会失去弹性。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 580,
+    "protein_g": 27,
+    "fat_g": 20,
+    "carbs_g": 70,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪肉末须炒至完全变色熟透、中心无粉色；剩面须冷藏并在两天内吃完，复热须彻底加热。"
+  ],
+  "origin_note": "西班牙最普通的家常面食，番茄擦成泥与洋葱蒜慢煮成酱，加肉末与通心粉同煮，最后撒奶酪。孩子最先学会的一道菜，也是许多西班牙人心里最踏实的味道。",
+  "tags": [
+    "西班牙",
+    "通心粉",
+    "番茄",
+    "家常"
+  ],
+  "related_ids": [
+    "spanish-fideos-tostados",
+    "spanish-sopa-de-fideos"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

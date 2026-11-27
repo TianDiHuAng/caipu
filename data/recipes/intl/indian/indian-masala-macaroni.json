@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-masala-macaroni",
+  "name": {
+    "zh": "印度咖喱通心粉",
+    "en": "Indian Masala Macaroni",
+    "original": "Masala macaroni"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 31,
+    "total_min": 53
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "通心粉",
+          "name_en": "penne",
+          "amount": 300,
+          "unit": "g",
+          "note": "斜管状",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "两只，切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 60,
+          "unit": "g",
+          "note": "冷冻亦可",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "擦泥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "按辣度调整",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 2,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "整粒略捣",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "汤锅烧开水加盐，下通心粉煮到八成熟，捞出过凉水沥干备用。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "过凉水能洗掉表面的面糊，回锅炒时才不粘成一坨。",
+      "visual_cue": "通心粉弹手，水冲后分明"
+    },
+    {
+      "n": 2,
+      "text": "炒锅烧热放植物油，下孜然粒小火焙二十秒到香气冒出、微微跳动。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "孜然要在油里先爆香，整道菜的底味全靠它。",
+      "visual_cue": "孜然粒在油里跳动，香气冲出"
+    },
+    {
+      "n": 3,
+      "text": "下洋葱丁中火炒三分钟到透明发黄，再加姜泥与蒜末炒香三十秒。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "姜蒜后下，早了下锅会焦，苦味压不住。",
+      "visual_cue": "洋葱金黄软塌，蒜香明显"
+    },
+    {
+      "n": 4,
+      "text": "加番茄丁，中火炒五分钟，边炒边用铲子压，炒成浓稠的糊状。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒到出油、与锅壁分离才算炒透，这是玛莎拉的基底。",
+      "visual_cue": "番茄化开成糊，锅边见红油"
+    },
+    {
+      "n": 5,
+      "text": "放辣椒粉、姜黄与咖喱粉，小火翻炒三十秒把香料炒出油色。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "粉类香料必须小火炒，火大十秒就发黑变苦。",
+      "visual_cue": "香料与番茄糊融合，颜色转深红"
+    },
+    {
+      "n": 6,
+      "text": "下胡萝卜丁、青椒丁与豌豆，翻炒两分钟，加四克盐调味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蔬菜保持脆感，炒久了会软塌失去层次。",
+      "visual_cue": "蔬菜丁颜色鲜亮，裹满香料"
+    },
+    {
+      "n": 7,
+      "text": "倒入通心粉与两勺煮面水，中火翻炒三分钟，让面管里灌进酱汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "用铲子轻压通心粉让酱汁进入管腔，这是最好吃的部分。",
+      "visual_cue": "通心粉染成橙红，锅底无明水"
+    },
+    {
+      "n": 8,
+      "text": "尝味后补盐，撒香菜碎，关火拌匀盛出，趁热吃最香。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜最后撒，受热会发黑，香气也散掉。",
+      "visual_cue": "表面点缀绿香菜，油亮诱人"
+    }
+  ],
+  "tips": [
+    "辣度靠辣椒粉调整，怕辣可减半并多加一勺咖喱粉。",
+    "加一把煮熟的豆类，蛋白更足，也更像街头小吃。",
+    "用一半的黄油替植物油，奶香与香料更融合。",
+    "剩的通心粉第二天压成饼煎一下，外脆内软。"
+  ],
+  "common_mistakes": [
+    "香料粉大火干炒，几秒钟就焦黑，整锅带苦味。",
+    "番茄不炒透就下香料，酱汁稀薄，味道浮在表面。",
+    "通心粉煮全熟再回锅炒，翻两下就断，成品黏糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "通心粉",
+      "substitute": "意大利面",
+      "ratio": "300克:300克",
+      "note": "意面更细，回锅翻炒时间缩短一分钟。"
+    },
+    {
+      "original": "豌豆",
+      "substitute": "甜椒丁",
+      "ratio": "60克:60克",
+      "note": "换成同样脆口的蔬菜丁，辣度会更明显。"
+    }
+  ],
+  "variations": [
+    "加两枚鸡蛋炒散同炒，做成孟买街头风味的蛋炒通心粉。",
+    "全部换成蔬菜并加一勺腰果酱，做成更浓郁的全素版本。"
+  ],
+  "serving_suggestion": "三人份主食，配一份酸奶黄瓜沙拉解辣，当作午间快餐最合适。",
+  "storage": "冷藏两天内吃完，复热用平底锅加一勺水快炒，微波会变干。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 16,
+    "fat_g": 17,
+    "carbs_g": 74,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mustard"
+  ],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "通心粉须煮透无硬芯，剩菜须冷藏并在两天内吃完、复热须彻底加热至滚烫。"
+  ],
+  "origin_note": "印度街边与家庭餐桌上的融合面食，把意式通心粉放进洋葱番茄香料炒成的玛莎拉酱里，酸甜带辣。孟买的街头小摊常现炒现卖，孩子们最爱这一口。",
+  "tags": [
+    "印度",
+    "通心粉",
+    "咖喱",
+    "素食"
+  ],
+  "related_ids": [
+    "indian-chilli-garlic-noodles",
+    "indian-veg-hakka-noodles"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

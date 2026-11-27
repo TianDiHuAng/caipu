@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:45:17.024Z",
+  "generatedAt": "2026-11-27T13:09:24.644Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2690,
-    "coverage": 0.8216249236408063
+    "actual": 2698,
+    "coverage": 0.8240684178375076
   },
   "regions": {
     "cn": [
@@ -545,7 +545,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 104,
+        "actual": 105,
         "cells": [
           {
             "category": "main-seafood",
@@ -717,10 +717,11 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "cantonese-cha-siu-noodle",
               "cantonese-haoyou-chaomian",
+              "cantonese-xiaren-chaomian",
               "ganchao-niuhe"
             ]
           },
@@ -4187,7 +4188,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 90,
+        "actual": 91,
         "cells": [
           {
             "category": "main-meat",
@@ -4331,10 +4332,11 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "french-gratin-de-macaroni",
               "french-nouilles-au-beurre",
+              "french-pates-au-pistou",
               "french-provencal-noodle-bake"
             ]
           },
@@ -4415,7 +4417,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 85,
+        "actual": 87,
         "cells": [
           {
             "category": "main-seafood",
@@ -4545,10 +4547,11 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "spanish-tofu-a-la-plancha",
               "spanish-tofu-al-ajillo",
+              "spanish-tofu-con-pisto",
               "spanish-tofu-en-salsa"
             ]
           },
@@ -4556,10 +4559,11 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "spanish-fideos-tostados",
               "spanish-fideua",
+              "spanish-macarrones-con-tomate",
               "spanish-sopa-de-fideos"
             ]
           },
@@ -5199,7 +5203,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 88,
+        "actual": 89,
         "cells": [
           {
             "category": "main-vegetable",
@@ -5335,9 +5339,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "indian-chilli-garlic-noodles",
+              "indian-masala-macaroni",
               "indian-veg-hakka-noodles",
               "indian-vermicelli-upma"
             ]
@@ -6804,7 +6809,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 86,
+        "actual": 88,
         "cells": [
           {
             "category": "main-meat",
@@ -6912,8 +6917,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "american-broccoli-casserole",
               "american-glazed-carrots",
               "american-green-bean-casserole",
               "american-stuffed-peppers"
@@ -6947,9 +6953,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "american-beef-noodle-skillet",
+              "american-chicken-noodle-soup",
               "american-mac-and-cheese",
               "american-tuna-noodle-casserole"
             ]
@@ -7381,7 +7388,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 83,
+        "actual": 84,
         "cells": [
           {
             "category": "snack",
@@ -7526,10 +7533,11 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "mexican-fideo-seco",
               "mexican-poblano-cream-pasta",
+              "mexican-tallarines-con-pollo",
               "mexican-tallarines-rojos"
             ]
           },

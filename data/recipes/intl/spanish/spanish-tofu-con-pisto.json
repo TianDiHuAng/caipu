@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-tofu-con-pisto",
+  "name": {
+    "zh": "西班牙豆腐配番茄杂蔬",
+    "en": "Spanish Tofu with Pisto",
+    "original": "Tofu con pisto"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 29,
+    "total_min": 59
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "切两厘米厚片，压水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 350,
+          "unit": "g",
+          "note": "两只，切丁",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 55,
+          "unit": "ml",
+          "note": "分次用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 4,
+          "unit": "g",
+          "note": "平衡番茄酸",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 2,
+          "unit": "g",
+          "note": "一小撮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "木铲",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐切两厘米厚片，用厨房纸包住压上重物，静置十五分钟逼出多余水分。",
+      "time_min": 17,
+      "heat": "无火",
+      "tip": "水压得干，煎的时候才不会溅油，表面也更容易上色。",
+      "visual_cue": "豆腐片明显收紧，纸上有水痕"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放一半橄榄油，中火把豆腐片两面各煎三分钟，煎到浅金色盛出。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "煎的时候别急着翻，晃锅能滑动才说明底面结皮了。",
+      "visual_cue": "两面金黄结皮，豆腐片挺括"
+    },
+    {
+      "n": 3,
+      "text": "同一个锅补剩下的油，下洋葱碎炒三分钟到透明发甜。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒透是这道菜的甜味来源，别只炒到断生。",
+      "visual_cue": "洋葱透明软塌，香味散出"
+    },
+    {
+      "n": 4,
+      "text": "加蒜末与甜椒丁炒两分钟，炒到甜椒略软、边缘带一点焦。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "甜椒炒到边缘微焦才香，生味不散整盘菜会发涩。",
+      "visual_cue": "甜椒微软，锅底有焦香"
+    },
+    {
+      "n": 5,
+      "text": "下西葫芦丁与番茄丁，加盐、白糖与牛至，中火煮十分钟到蔬菜软烂出汁。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "煮到番茄完全化成酱才算到位，这道杂蔬要的是浓稠。",
+      "visual_cue": "汤汁浓稠，蔬菜软烂成糊状"
+    },
+    {
+      "n": 6,
+      "text": "把煎好的豆腐片放回锅里，让豆腐埋在汤汁里，小火煮五分钟吸味。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "豆腐最后回锅，久煮会散，五分钟足够让外层吸味。",
+      "visual_cue": "豆腐吸满红色汤汁，体积微胀"
+    },
+    {
+      "n": 7,
+      "text": "尝味后补盐与黑胡椒，汤汁太稀就开中火收两分钟。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "收到能挂勺就停，太干就变成一盘炒菜了。",
+      "visual_cue": "汤汁浓稠挂勺，表面浮一层红油"
+    },
+    {
+      "n": 8,
+      "text": "盛盘后淋一勺锅里的汤汁在豆腐上，配上一碗米饭上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汤汁是这道菜的灵魂，别只盛豆腐不浇汁。",
+      "visual_cue": "豆腐浸在红汤里，表面油亮"
+    }
+  ],
+  "tips": [
+    "压过水的北豆腐更耐煮，吸汁后形状仍然完整。",
+    "番茄选熟的沙瓤番茄，出汁多，味道也更甜。",
+    "剩的杂蔬第二天拌面吃，比刚做的还入味。",
+    "加一枚煎蛋放在豆腐上，就是一餐完整的蛋白组合。"
+  ],
+  "common_mistakes": [
+    "豆腐不压水直接煎，下锅就溅油，表面也煎不出脆皮。",
+    "番茄没煮化就放豆腐，汤汁稀薄，豆腐泡在汤里没味道。",
+    "全程大火猛烧，蔬菜焦底而番茄还是块状。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "老豆腐",
+      "ratio": "450克:450克",
+      "note": "压水时间延长五分钟，煎制时间略加。"
+    },
+    {
+      "original": "西葫芦",
+      "substitute": "茄子",
+      "ratio": "200克:200克",
+      "note": "茄子吸油，需多加一勺橄榄油。"
+    }
+  ],
+  "variations": [
+    "顶部卧一枚水波蛋，切开蛋黄拌进汤汁里更浓郁。",
+    "加一小把煮熟的鹰嘴豆，做成更有饱足感的素食主菜。"
+  ],
+  "serving_suggestion": "三人份主菜，配硬面包或白饭，把汤汁蘸干净。",
+  "storage": "冷藏两天内吃完，复热时加少许水小火慢煮；豆腐久冻会呈海绵状，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 290,
+    "protein_g": 17,
+    "fat_g": 20,
+    "carbs_g": 12,
+    "sodium_mg": 610,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy"
+  ],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "halal",
+    "kosher",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "豆腐须煎至两面熟透后与蔬菜同煮，剩余菜品须冷藏并在两天内吃完、复热彻底。"
+  ],
+  "origin_note": "西班牙家庭把传统的番茄杂蔬 pisto 与煎豆腐搭在一起，洋葱甜椒番茄慢煮成浓酱，豆腐埋在里头吸汁。全素却极有饱足感，是南部素食小馆的常客。",
+  "tags": [
+    "西班牙",
+    "豆腐",
+    "番茄",
+    "素食"
+  ],
+  "related_ids": [
+    "spanish-tofu-a-la-plancha",
+    "spanish-tofu-en-salsa"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
