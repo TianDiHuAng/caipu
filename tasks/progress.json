@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:18:23.454Z",
+  "generatedAt": "2026-11-27T06:41:19.692Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2595,
-    "coverage": 0.7926084300549786
+    "actual": 2603,
+    "coverage": 0.7950519242516799
   },
   "regions": {
     "cn": [
@@ -1629,14 +1629,15 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 77,
+        "actual": 85,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
+              "anhui-banli-shaoji",
               "anhui-banli-shaorou",
               "anhui-fenzheng-rou",
               "anhui-huangshan-shao-sun",
@@ -1655,9 +1656,10 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "anhui-douchi-chao-sun",
+              "anhui-dougan-chao-suanmiao",
               "anhui-jiaobai-chaorou",
               "anhui-suanmiao-chao-larou",
               "anhui-yancai-chao-dougan",
@@ -1675,7 +1677,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "anhui-dongsun-xianrou-tang",
               "anhui-doufu-geng-tang",
@@ -1685,6 +1687,7 @@
               "huizhou-doufu-zhu-xue-tang",
               "huizhou-huotui-luobo-tang",
               "huizhou-huotui-tang",
+              "huizhou-laoya-tang",
               "huizhou-shuangdong-tang",
               "huizhou-yao-tang",
               "wenzheng-shansun-tang"
@@ -1694,7 +1697,7 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "anhui-lajiaohu",
               "anhui-mao-doufu",
@@ -1706,7 +1709,8 @@
               "huizhou-maodoufu",
               "huizhou-paocai-chao-rou",
               "huizhou-xuelihong",
-              "huizhou-yanjiangdou"
+              "huizhou-yanjiangdou",
+              "huizhou-yansuanmiao"
             ]
           },
           {
@@ -1732,10 +1736,12 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "anhui-chunsun-chaodan",
               "anhui-doufu-zhengdan",
-              "anhui-huotui-zhengdan"
+              "anhui-huotui-zhengdan",
+              "anhui-jiucai-chaodan"
             ]
           },
           {
@@ -1755,20 +1761,22 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "anhui-huizhou-chaomian",
-              "anhui-jiaotou-mian"
+              "anhui-jiaotou-mian",
+              "huainan-niurou-mian"
             ]
           },
           {
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "anhui-larou-men-fan",
-              "huizhou-gancai-fan"
+              "huizhou-gancai-fan",
+              "huizhou-sun-men-fan"
             ]
           },
           {

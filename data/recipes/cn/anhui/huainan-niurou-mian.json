@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huainan-niurou-mian",
+  "name": {
+    "zh": "淮南牛肉面",
+    "en": "Huainan Beef Noodle Soup",
+    "original": "淮南牛肉面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 62,
+    "total_min": 82
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "鲜面条",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 400,
+          "unit": "g",
+          "note": "牛肉，切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 100,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎，可选",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煸香料",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅淋",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "面碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉冷水下锅，加姜片与料酒，大火煮开撇净浮沫。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅血水才出得干净，热水会把腥味锁在肉里。",
+      "visual_cue": "水面浮起灰褐色浮沫，撇净后汤清"
+    },
+    {
+      "n": 2,
+      "text": "转小火炖四十分钟，炖到筷子能轻松扎透牛肉。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "炖到能扎透就够，炖太久肉会散不成片。",
+      "visual_cue": "牛肉体积缩小，表面发亮"
+    },
+    {
+      "n": 3,
+      "text": "捞出牛肉放凉，逆着纹理切成薄片，汤留着备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "逆纹切才咬得断，顺纹切出来一条条塞牙。",
+      "visual_cue": "肉片薄而完整，纹理呈横向"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放花生油，下干辣椒、花椒与姜片小火煸香。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "辣椒花椒要小火煸，一焦整锅汤都发苦。",
+      "visual_cue": "辣椒颜色转深，油色变红"
+    },
+    {
+      "n": 5,
+      "text": "加生抽与老抽炒出酱香，倒入牛肉汤大火烧开。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "酱料先炒香再下汤，味道才厚不寡淡。",
+      "visual_cue": "汤色红亮，表面浮一层红油"
+    },
+    {
+      "n": 6,
+      "text": "汤里加盐与白胡椒粉调味，再转小火保持微沸状态。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "汤要一直热着，面下去时汤温才不掉。",
+      "visual_cue": "汤面细密冒泡，香气扑鼻"
+    },
+    {
+      "n": 7,
+      "text": "另起锅烧开水，下面条煮三分钟，中途点一次凉水。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "点凉水能让面条里外同熟，口感更弹。",
+      "visual_cue": "面条浮起，断面没有白芯"
+    },
+    {
+      "n": 8,
+      "text": "面条快熟时下小白菜烫三十秒，一起捞出沥干水分。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "菜叶一定最后下，烫久了会发黄也没有口感。",
+      "visual_cue": "菜叶翠绿柔软，茎部仍挺"
+    },
+    {
+      "n": 9,
+      "text": "面条装碗，浇上滚汤，铺牛肉片，撒葱花与香菜，淋香油。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汤要滚着浇，牛肉片才能被烫出香气。",
+      "visual_cue": "碗中汤色红亮，牛肉片铺面，葱花翠绿"
+    }
+  ],
+  "tips": [
+    "牛肉带筋的最好，切片后口感更弹。",
+    "汤可以提前炖好冷冻，吃前化开烧滚。",
+    "面条选碱水鲜面，泡久了也不容易糊。",
+    "喜欢吃辣可以另外再加一勺辣椒油。"
+  ],
+  "common_mistakes": [
+    "牛肉热水下锅，血沫锁在肉里，汤浑浊还腥。",
+    "汤一直大火滚，牛肉被煮得又老又柴。",
+    "面条煮好后放着等汤，一会儿就泡软成一坨。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "400克:400克",
+      "note": "腥味更重，姜与料酒要加量。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "300克:300克",
+      "note": "煮的时间减到两分钟。"
+    }
+  ],
+  "variations": [
+    "加一把豆芽与豆腐皮进去，汤面的口感更丰富。",
+    "做成干拌版本，少汤多酱，拌开更香。"
+  ],
+  "serving_suggestion": "端着热碗先喝一口汤，再把面与牛肉拌开，配一碟蒜苗更地道。",
+  "storage": "汤与面分开冷藏两天，复热汤滚开后再下面，避免面糊。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 560,
+    "protein_g": 34,
+    "fat_g": 20,
+    "carbs_g": 60,
+    "sodium_mg": 1150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖到完全熟透，中心不见红色，筷子能轻松扎透。",
+    "汤面温度高，端碗时注意烫手，儿童食用前先晾至温热。"
+  ],
+  "origin_note": "淮南街头的招牌早点，牛肉炖足火候切片，汤用辣椒与花椒熬出红油，浇在碱水面上，一碗下去满头是汗，是皖北人清早最实在的底气。",
+  "tags": [
+    "安徽",
+    "牛肉",
+    "面条",
+    "汤面"
+  ],
+  "related_ids": [
+    "anhui-huizhou-chaomian",
+    "huainan-niurou-tang",
+    "anhui-jiaotou-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
