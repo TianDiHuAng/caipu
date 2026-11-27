@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-gamjatang",
+  "name": {
+    "zh": "韩式土豆排骨汤",
+    "en": "Potato Pork Bone Stew",
+    "original": "Gamjatang"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 69,
+    "cook_min": 86,
+    "total_min": 155
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 1200,
+          "unit": "g",
+          "note": "剁成大块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 400,
+          "unit": "g",
+          "note": "切大块",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 200,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "韭菜",
+          "name_en": "Chinese chives",
+          "amount": 50,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "紫苏",
+          "name_en": "perilla",
+          "amount": 20,
+          "unit": "g",
+          "note": "撕碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半整瓣一半磨泥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "调辣度",
+          "optional": false
+        },
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "增厚汤底",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡辣味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "出锅前淋",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "炖煮用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深汤锅",
+    "砧板",
+    "漏勺",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨用清水浸泡四十分钟，中途换两次水把血水泡出来。",
+      "time_min": 42,
+      "heat": "无火",
+      "tip": "泡够时间，汤才清亮不腥，这是这道汤的底子。",
+      "visual_cue": "排骨发白，泡出的水由红转清"
+    },
+    {
+      "n": 2,
+      "text": "排骨冷水下锅，加姜片与一半蒜煮开，撇掉浮沫后捞出冲净。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "必须冷水起锅，热水下锅会把血水锁在肉里。",
+      "visual_cue": "浮沫结块浮起，排骨表面干净无血污"
+    },
+    {
+      "n": 3,
+      "text": "汤锅加清水放回排骨，大火烧开后转小火炖一小时。",
+      "time_min": 60,
+      "heat": "大火",
+      "tip": "汤面只翻小泡，火太猛肉会柴汤会浑。",
+      "visual_cue": "汤色乳白，排骨肉开始松软"
+    },
+    {
+      "n": 4,
+      "text": "辣椒粉、蒜泥、大酱、生抽与白糖拌成调味酱备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "辣椒粉先用少量热汤调开，辣味才散得均匀。",
+      "visual_cue": "酱体稠厚呈深红色，闻着有发酵香"
+    },
+    {
+      "n": 5,
+      "text": "放入土豆、白萝卜与洋葱，继续炖二十分钟到土豆变软。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "土豆后放，久炖会碎在汤里让汤变沙。",
+      "visual_cue": "土豆边缘变圆钝，筷子能插透"
+    },
+    {
+      "n": 6,
+      "text": "把调味酱倒入锅中搅散，再煮十分钟让味道融进汤里。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "酱料下锅后要多搅，不然会沉底粘锅。",
+      "visual_cue": "汤色由白转红，表面浮起一层红油"
+    },
+    {
+      "n": 7,
+      "text": "尝咸淡补盐与黑胡椒，撒韭菜段与紫苏叶，淋芝麻油关火。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "紫苏叶一定要最后放，香气才够鲜明不闷。",
+      "visual_cue": "汤面飘着紫苏与韭菜，红油清亮"
+    }
+  ],
+  "tips": [
+    "排骨换成脊骨，骨髓更香，炖的时间也多十分钟。",
+    "加一把干白菜，吸饱汤汁后非常下饭。",
+    "隔夜再热更入味，但土豆会化，最好把土豆单独留出来。",
+    "配一碗米饭，把汤浇上去就是标准的吃法。"
+  ],
+  "common_mistakes": [
+    "排骨不泡水直接炖，汤浑还带明显腥味。",
+    "全程大火猛煮，一小时后肉还是硬得咬不动。",
+    "土豆从开始就下锅，出锅时已经碎成泥。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪排骨",
+      "substitute": "牛排骨",
+      "ratio": "1200克:1200克",
+      "note": "炖的时间要加四十分钟。"
+    },
+    {
+      "original": "紫苏叶",
+      "substitute": "小葱",
+      "ratio": "20克:30克",
+      "note": "香气不同，收尾更清爽。"
+    }
+  ],
+  "variations": [
+    "调味酱里加两勺辣椒酱，汤色更红也更辣。",
+    "最后放一把泡菜同煮，酸辣味更立体。"
+  ],
+  "serving_suggestion": "盛进石锅或砂锅，撒葱花配白米饭，冬天吃最舒服。",
+  "storage": "冷藏可放三天，冷冻一个月，复热后味道更厚。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 540,
+    "protein_g": 38,
+    "fat_g": 32,
+    "carbs_g": 24,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "排骨汤须炖至肉能轻松脱骨，确保中心彻底熟透。",
+    "贝类与肉类同锅时须分别处理，避免交叉污染。"
+  ],
+  "origin_note": "韩国解酒汤中最有分量的一道，排骨泡去血水后慢炖出奶白汤底，再放进整块土豆和辣酱，红汤挂在骨头上，边啃边喝一身汗。",
+  "tags": [
+    "韩式",
+    "汤品",
+    "排骨",
+    "辣味"
+  ],
+  "related_ids": [
+    "korean-galbi-jjim",
+    "sundubu-jjigae",
+    "yukgaejang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

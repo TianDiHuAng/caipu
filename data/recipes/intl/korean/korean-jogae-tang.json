@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-jogae-tang",
+  "name": {
+    "zh": "韩式蛤蜊汤",
+    "en": "Clam Soup",
+    "original": "Jogae Tang"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 66,
+    "cook_min": 81,
+    "total_min": 147
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 1000,
+          "unit": "g",
+          "note": "提前吐沙",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 200,
+          "unit": "g",
+          "note": "切成薄片",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小方块",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "韭菜",
+          "name_en": "Chinese chives",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 5,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "蛤蜊本身有咸味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "可选，增色",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "收尾淋",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蛤蜊放进淡盐水里静置两小时，中途换一次水让它吐沙。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "水里滴几滴油，蛤蜊吐沙会更快更干净。",
+      "visual_cue": "盆底沉下一层细沙，蛤蜊微微张壳"
+    },
+    {
+      "n": 2,
+      "text": "吐好沙的蛤蜊用清水反复搓洗，挑掉破壳与不闭口的。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "壳破了的不新鲜，煮出来会带泥腥味。",
+      "visual_cue": "外壳干净发亮，闭口紧实"
+    },
+    {
+      "n": 3,
+      "text": "汤锅里加清水，放进白萝卜片与姜丝，用大火烧开。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "萝卜先煮出甜味，汤底就不用再加高汤。",
+      "visual_cue": "水面翻滚，萝卜片边缘变半透明"
+    },
+    {
+      "n": 4,
+      "text": "转成中火放入蛤蜊，盖上锅盖煮到蛤蜊全部张口。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "张口就熟，久煮肉会缩成一小团咬不动。",
+      "visual_cue": "蛤蜊壳全部张开，汤面浮起白色泡沫"
+    },
+    {
+      "n": 5,
+      "text": "撇掉表面浮沫，放入豆腐块与蒜末，再煮三分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "豆腐轻推不要搅，翻动太猛会碎在汤里。",
+      "visual_cue": "豆腐浮起，汤色由清转浅白"
+    },
+    {
+      "n": 6,
+      "text": "加盐、辣椒粉与现磨黑胡椒调味，撒韭菜段与葱花，淋芝麻油关火。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "关火前先尝一口，蛤蜊汤本身带咸，盐要少放。",
+      "visual_cue": "汤色清亮微红，韭菜翠绿不塌"
+    }
+  ],
+  "tips": [
+    "蛤蜊换成花蛤，甜味更足也更便宜。",
+    "加两片海带同煮，鲜味会明显提升。",
+    "汤里下一小把细面条，就是一顿完整的晚饭。",
+    "不要加酱油，会盖掉蛤蜊本身的清甜。"
+  ],
+  "common_mistakes": [
+    "蛤蜊没吐沙就下锅，喝汤满嘴都是细沙。",
+    "煮到蛤蜊张口后继续猛煮，肉缩成硬块。",
+    "盐一次放足，蛤蜊自带的咸味让整锅过咸。"
+  ],
+  "substitutions": [
+    {
+      "original": "蛤蜊",
+      "substitute": "花蛤",
+      "ratio": "1000克:1000克",
+      "note": "甜味更足，吐沙时间可减半。"
+    },
+    {
+      "original": "豆腐",
+      "substitute": "白萝卜",
+      "ratio": "150克:200克",
+      "note": "口感更清爽，汤也更甜。"
+    }
+  ],
+  "variations": [
+    "加一勺大酱，汤底会变成浑厚的豆香风味。",
+    "放几个青辣椒一起煮，鲜味里带辣更开胃。"
+  ],
+  "serving_suggestion": "盛进汤碗，撒一点黑胡椒，配米饭和几样小菜就是韩式家常一餐。",
+  "storage": "冷藏可放两天，蛤蜊肉久放会变硬，建议汤与蛤蜊分开存。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 180,
+    "protein_g": 22,
+    "fat_g": 6,
+    "carbs_g": 9,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "gluten-free",
+    "low-carb",
+    "high-protein",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "贝类须彻底加热至全部张口，煮后仍不张口的一律丢弃。",
+    "贝类易带致病菌，须煮透后食用，避免生食。"
+  ],
+  "origin_note": "韩国家庭最常煮的清汤之一，蛤蜊配白萝卜，靠海鲜本身的鲜味撑起整锅汤，最后撒一把韭菜提香，清清爽爽最适合配饭。",
+  "tags": [
+    "韩式",
+    "汤品",
+    "蛤蜊",
+    "清淡"
+  ],
+  "related_ids": [
+    "korean-miyuk-guk",
+    "korean-kongnamul-guk",
+    "korean-doenjang-gukbap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

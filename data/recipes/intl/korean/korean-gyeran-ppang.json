@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-gyeran-ppang",
+  "name": {
+    "zh": "韩式鸡蛋面包",
+    "en": "Egg Bread",
+    "original": "Gyeran Ppang"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 49,
+    "cook_min": 60,
+    "total_min": 109
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "其中三个整颗打入杯中",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 150,
+          "unit": "ml",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 40,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "玉米",
+          "name_en": "sweet corn",
+          "amount": 60,
+          "unit": "g",
+          "note": "沥干",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 40,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "note": "甜味",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "融化",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "平衡甜味",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 3,
+          "unit": "g",
+          "note": "可用葱花代替",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "布丁杯",
+    "搅拌盆",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛奶温热到不烫手，加酵母与一小勺白糖拌匀静置五分钟。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "牛奶太烫会把酵母烫死，摸着温温的正好。",
+      "visual_cue": "表面浮起一层细密泡沫"
+    },
+    {
+      "n": 2,
+      "text": "面粉过筛进大盆里，加剩下的白糖与盐拌匀备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面粉过筛后组织更松，烤出来成品才不会发硬。",
+      "visual_cue": "粉体蓬松细腻，颜色均匀"
+    },
+    {
+      "n": 3,
+      "text": "倒入酵母奶液与融化的黄油，搅成没有干粉的浓稠面糊。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "面糊比普通面团稀得多，能缓慢流下就对了。",
+      "visual_cue": "面糊顺滑有光泽，刮刀挑起缓慢滑落"
+    },
+    {
+      "n": 4,
+      "text": "盖湿布室温发酵一小时，体积涨到原来的一点五倍。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "温度低时延长发酵，看体积不看时间。",
+      "visual_cue": "表面布满气泡，体积明显膨起"
+    },
+    {
+      "n": 5,
+      "text": "面糊拌入玉米粒、奶酪丁与胡萝卜碎，轻轻翻匀排气。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "翻拌十下左右就够，排气过度会发硬。",
+      "visual_cue": "配料分布均匀，面糊体积略有回缩"
+    },
+    {
+      "n": 6,
+      "text": "面糊分装进布丁杯到六分满，每杯中间磕入一个鸡蛋。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "只装六分满，给蛋和面糊留出膨胀空间。",
+      "visual_cue": "蛋黄居中，面糊包住蛋的四周"
+    },
+    {
+      "n": 7,
+      "text": "撒一点盐与欧芹，一百八十度烤二十分钟到面团鼓起、蛋液熟透。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "烤到表面金黄、轻压有弹性就是好了。",
+      "visual_cue": "面团膨起包住整个鸡蛋，表面金黄发亮"
+    }
+  ],
+  "tips": [
+    "鸡蛋磕入前先在杯里挖个小坑，蛋黄才不会跑偏。",
+    "加一点培根碎，咸香更像韩国的街边口味。",
+    "趁热吃最好，凉了成品会失去松软感。",
+    "剩下的成品密封冷冻，复烤六分钟即可。"
+  ],
+  "common_mistakes": [
+    "蛋黄磕破混进面糊，成品看不出整颗蛋的效果。",
+    "面糊装太满，烤的时候溢到杯外焦成硬边。",
+    "烤的时间不够，切开蛋黄还在流动没有凝固。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "150毫升:140毫升",
+      "note": "奶香减弱，需要多加五克黄油。"
+    },
+    {
+      "original": "奶酪",
+      "substitute": "培根",
+      "ratio": "40克:50克",
+      "note": "咸香更突出，先煎出油再用。"
+    }
+  ],
+  "variations": [
+    "撒一点辣椒粉与葱花，做成咸口版本。",
+    "面糊里加可可粉，做成巧克力底的甜版本。"
+  ],
+  "serving_suggestion": "趁热当早餐或下午点心，配一杯牛奶或美式咖啡都合适。",
+  "storage": "冷藏可放两天，冷冻两周，复烤后基本恢复松软。",
+  "nutrition_estimate": {
+    "basis": "按四份估算",
+    "calories_kcal": 410,
+    "protein_g": 16,
+    "fat_g": 19,
+    "carbs_g": 45,
+    "sodium_mg": 430,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "面团中的鸡蛋须彻底加热至完全凝固，切开不见流动蛋液才可食用。",
+    "接触生鸡蛋后须洗手，打蛋用的器具要清洗干净。"
+  ],
+  "origin_note": "韩国冬天街头的小摊点心，纸杯里倒一层面糊，再磕进整颗鸡蛋烤到膨起，咸甜交织，一手一个边走边吃，是最典型的放学路上味道。",
+  "tags": [
+    "韩式",
+    "烘焙",
+    "鸡蛋",
+    "街头小吃"
+  ],
+  "related_ids": [
+    "korean-hotteok",
+    "korean-bungeoppang",
+    "korean-hotteok-ssiat"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

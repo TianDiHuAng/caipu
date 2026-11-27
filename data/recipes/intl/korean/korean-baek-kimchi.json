@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-baek-kimchi",
+  "name": {
+    "zh": "韩式白泡菜",
+    "en": "White Kimchi",
+    "original": "Baek Kimchi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "fermented"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 135,
+    "cook_min": 167,
+    "total_min": 302
+  },
+  "servings": 8,
+  "flavor": [
+    "sour",
+    "light",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大白菜",
+          "name_en": "napa cabbage",
+          "amount": 1500,
+          "unit": "g",
+          "note": "选紧实的整棵",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 200,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 40,
+          "unit": "g",
+          "note": "腌白菜用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "帮助发酵",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "磨泥",
+          "optional": false
+        },
+        {
+          "name": "糯米粉",
+          "name_en": "glutinous rice flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "煮成糊做底",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮糊与盐水",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "大盆",
+    "密封罐",
+    "砧板",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "白菜剖成四瓣，每片叶子之间均匀撒上腌白菜用的盐。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "叶帮厚的地方多撒一点，叶子薄处少撒，咸度才均匀。",
+      "visual_cue": "盐粒分布均匀，叶片被轻轻掰开"
+    },
+    {
+      "n": 2,
+      "text": "白菜静置两小时，中途翻面一次，腌到叶帮能弯不断。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "弯而不断就是腌好了，腌过头会软塌发咸。",
+      "visual_cue": "叶帮变软可弯折，体积明显缩小"
+    },
+    {
+      "n": 3,
+      "text": "腌好的白菜用清水冲洗两遍，拧干水分后沥半小时。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "冲两遍就够，洗太久白菜的甜味也被洗掉。",
+      "visual_cue": "叶面清爽不滑手，切口透亮"
+    },
+    {
+      "n": 4,
+      "text": "清水加糯米粉小火熬成半透明的糊，放凉备用。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "边熬边用勺子搅，一停下来就会结块沉底。",
+      "visual_cue": "糊体透明发亮，能挂住勺背"
+    },
+    {
+      "n": 5,
+      "text": "凉糊里加蒜泥、姜泥、白糖与调味盐，拌成浅白的腌料糊。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "白泡菜不加辣椒粉，靠蒜姜和梨的清香提味。",
+      "visual_cue": "糊体呈乳白色，闻着有蒜香与果香"
+    },
+    {
+      "n": 6,
+      "text": "把腌料糊一层层抹进白菜叶间，再拌入萝卜丝、梨丝、苹果丝与葱段。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "戴一次性手套抹，又快又匀，还不会辣到手。",
+      "visual_cue": "每片叶子都薄薄挂糊，丝料夹在叶间"
+    },
+    {
+      "n": 7,
+      "text": "装进干净密封罐压实排气，室温放一天后移入冰箱冷藏三天。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "室温发酵一天就够，夏天要缩短到半天。",
+      "visual_cue": "罐内出现细小气泡，开盖有清爽的酸香"
+    }
+  ],
+  "tips": [
+    "梨和苹果要选甜度高水分足的，发酵后汤水会更好喝。",
+    "发酵好的泡菜汤别倒掉，用来拌冷面非常清爽。",
+    "装罐前用开水烫过瓶子晾干，能放更久不坏。",
+    "冷藏冷藏发酵一周后再吃，酸味层次最舒服。"
+  ],
+  "common_mistakes": [
+    "白菜腌过头，成品软塌塌的完全没有脆感。",
+    "腌好的白菜没拧干，装罐后出一大罐水。",
+    "密封罐带生水带油，几天后表面发霉。"
+  ],
+  "substitutions": [
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "150克:150克",
+      "note": "甜度略低，糖可多加五克。"
+    },
+    {
+      "original": "糯米粉",
+      "substitute": "玉米淀粉",
+      "ratio": "20克:20克",
+      "note": "糊更清亮，口感略薄。"
+    }
+  ],
+  "variations": [
+    "加几条松子与红枣，更像节庆版的宫廷白泡菜。",
+    "加一点辣椒粉，做成微红带辣的少辣版本。"
+  ],
+  "serving_suggestion": "剪成小段装碟，当小菜配烤肉或白粥都很解腻。",
+  "storage": "冷藏可放一个月，取用须用干净筷子，避免沾生水与油。",
+  "nutrition_estimate": {
+    "basis": "按八人份估算",
+    "calories_kcal": 70,
+    "protein_g": 2,
+    "fat_g": 0,
+    "carbs_g": 15,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "发酵食品须全程保持容器清洁，出现异味或霉点须整罐丢弃。",
+    "自制发酵菜冷藏保存，避免室温长时间放置。"
+  ],
+  "origin_note": "朝鲜半岛不吃辣地区的传统泡菜，不放辣椒粉，只用梨、苹果和蒜姜抹进白菜，发酵后汤水清亮微酸，口感清脆，配烤肉尤其解腻。",
+  "tags": [
+    "韩式",
+    "发酵",
+    "泡菜",
+    "不辣"
+  ],
+  "related_ids": [
+    "kimchi",
+    "korean-kkakdugi",
+    "korean-dongchimi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

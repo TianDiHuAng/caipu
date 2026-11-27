@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-ganjang-chicken",
+  "name": {
+    "zh": "韩式酱油焖鸡",
+    "en": "Soy Braised Chicken",
+    "original": "Ganjang Jjimdak"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 36,
+    "cook_min": 45,
+    "total_min": 81
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 800,
+          "unit": "g",
+          "note": "剁成四厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "粉条",
+          "name_en": "dried sweet potato noodles",
+          "amount": 80,
+          "unit": "g",
+          "note": "提前泡软",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 60,
+          "unit": "ml",
+          "note": "主要咸味来源",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提亮味道",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 15,
+          "unit": "g",
+          "note": "收汁上色",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "出锅前淋",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "撒面",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 400,
+          "unit": "ml",
+          "note": "焖煮用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "砧板",
+    "木勺",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿剁成四厘米大小的块，用清水冲洗两遍去掉血水后沥干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "冲掉血水，焖出来的汤汁才不会发浑发腥。",
+      "visual_cue": "鸡块颜色发白，盆底水清澈不泛红"
+    },
+    {
+      "n": 2,
+      "text": "红薯粉条用温水泡二十分钟，泡到能用指甲掐断。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡到半软就够，泡过头下锅一煮就烂。",
+      "visual_cue": "粉条柔软可弯折，中心没有硬芯"
+    },
+    {
+      "n": 3,
+      "text": "深锅烧热植物油，下鸡块中火煸炒到表面变白收紧。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "先煸出鸡皮里的油，后面焖出来才不腻。",
+      "visual_cue": "鸡皮微黄，锅底渗出清亮的鸡油"
+    },
+    {
+      "n": 4,
+      "text": "放蒜、姜、洋葱与胡萝卜翻炒两分钟，炒出香味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒软后甜味会融进汤里，别省这一步。",
+      "visual_cue": "洋葱透明，胡萝卜表面泛油光"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、白糖与清水，大火烧开后转小火焖二十分钟。",
+      "time_min": 23,
+      "heat": "大火",
+      "tip": "水量刚没过鸡块就够，倒太多最后收不干。",
+      "visual_cue": "汤汁翻滚，鸡块大半浸在酱色汤里"
+    },
+    {
+      "n": 6,
+      "text": "放入泡软的粉条与香菇，继续小火焖八分钟到入味。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "粉条吸汤很快，最后几分钟要盯着别糊底。",
+      "visual_cue": "粉条变成酱褐色，锅里的汤汁明显变少"
+    },
+    {
+      "n": 7,
+      "text": "转大火收汁，淋蜂蜜与芝麻油翻匀，撒黑胡椒、葱花与白芝麻出锅。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "蜂蜜最后加，早放容易在锅底烧焦发苦。",
+      "visual_cue": "汤汁浓亮裹住鸡块，盘底不见流动液体"
+    }
+  ],
+  "tips": [
+    "加几个煮熟的鸡蛋一起焖，吸满酱汁特别好吃。",
+    "生抽咸度不同，收汁前尝一下再决定要不要补盐。",
+    "用整鸡剁块也行，焖的时间要多五分钟。",
+    "剩的汤汁拌面条，比任何酱料都香。"
+  ],
+  "common_mistakes": [
+    "鸡块没沥干就下锅，煸出一锅水变成煮鸡。",
+    "粉条泡得太软再焖，出锅全断成小段。",
+    "大火收汁时走开没看锅，糖分烧出焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿",
+      "substitute": "鸡翅",
+      "ratio": "800克:800克",
+      "note": "焖的时间缩短三分钟。"
+    },
+    {
+      "original": "红薯粉条",
+      "substitute": "年糕",
+      "ratio": "80克:100克",
+      "note": "口感更弹，需要多焖两分钟。"
+    }
+  ],
+  "variations": [
+    "加一把干辣椒一起焖，甜味里带一点微辣。",
+    "用酱油减半、加一勺大酱，风味更厚重。"
+  ],
+  "serving_suggestion": "连汤带粉条盛进深盘，配一碗白米饭最合适。",
+  "storage": "冷藏可放三天，粉条会吸干汤汁，复热时补两勺水。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 460,
+    "protein_g": 36,
+    "fat_g": 21,
+    "carbs_g": 30,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须焖至中心完全熟透，骨头附近不见血水。",
+    "处理生鸡肉后须彻底清洗双手与砧板。"
+  ],
+  "origin_note": "韩国安东地区的传统做法，把鸡块和酱油、蔬菜一起慢焖，最后放粉条吸干酱汁，咸甜中带一点姜的暖香，是逢年过节餐桌上的常客。",
+  "tags": [
+    "韩式",
+    "焖菜",
+    "鸡肉",
+    "家常"
+  ],
+  "related_ids": [
+    "korean-dak-galbi",
+    "korean-galbi-jjim",
+    "korean-suyuk"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

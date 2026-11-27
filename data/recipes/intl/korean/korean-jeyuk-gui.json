@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-jeyuk-gui",
+  "name": {
+    "zh": "韩式辣烤猪颈肉",
+    "en": "Spicy Grilled Pork Neck",
+    "original": "Jeyuk Gui"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 69,
+    "cook_min": 85,
+    "total_min": 154
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪颈肉",
+          "name_en": "pork neck",
+          "amount": 600,
+          "unit": "g",
+          "note": "切成半厘米厚的大片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "一半磨泥一半切丝",
+          "optional": false
+        },
+        {
+          "name": "梨",
+          "name_en": "Asian pear",
+          "amount": 100,
+          "unit": "g",
+          "note": "磨成梨泥",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花点缀",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 100,
+          "unit": "g",
+          "note": "洗净沥干，包肉用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "辣椒酱",
+          "name_en": "chili paste",
+          "amount": 40,
+          "unit": "g",
+          "note": "韩式辣酱",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "增加辣度与红色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "平衡辣味",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "磨成蒜泥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "磨成姜泥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "收尾撒面",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎烤防粘",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "平底锅",
+    "搅拌盆",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪颈肉用厨房纸吸干表面水分，逆着纹理切成半厘米厚的大片。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "逆纹切才不塞牙，切太薄煎完会又干又硬。",
+      "visual_cue": "肉片厚薄一致，表面干爽不渗水"
+    },
+    {
+      "n": 2,
+      "text": "梨去皮磨成细腻的泥，洋葱取一半也磨成泥备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "梨泥里的果酸能软化肉质，是韩式腌料的关键。",
+      "visual_cue": "泥体细腻多汁，用勺子能舀起流动"
+    },
+    {
+      "n": 3,
+      "text": "辣椒酱、辣椒粉、生抽、白糖、蒜泥、姜泥与梨泥拌成腌料。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "先拌成顺滑的酱再下肉，味道分布才均匀。",
+      "visual_cue": "腌料呈浓稠的深红色，看不出颗粒"
+    },
+    {
+      "n": 4,
+      "text": "肉片与腌料抓匀，加黑胡椒与盐，冷藏静置至少两小时。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "腌两小时够入味，隔夜更透但也更容易咸。",
+      "visual_cue": "每片肉都被红酱裹住，盆底留有酱汁"
+    },
+    {
+      "n": 5,
+      "text": "平底锅烧热植物油，肉片抖掉多余酱料后摊开下锅。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "酱料抖掉一些，不然糖分很快烧黑粘锅。",
+      "visual_cue": "肉片平铺入锅，边缘立刻冒出小泡"
+    },
+    {
+      "n": 6,
+      "text": "转一面煎三分钟再翻面，两面都带焦边后盛出装盘。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "别急着翻动，等肉片自己脱锅再翻才不破。",
+      "visual_cue": "表面焦红发亮，厚度略微收缩"
+    },
+    {
+      "n": 7,
+      "text": "肉片装盘，淋上芝麻油，撒白芝麻、洋葱丝与葱花，配生菜趁热吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "配一片生菜和蒜片，油腻感立刻被压下去。",
+      "visual_cue": "酱色油亮，芝麻与葱花均匀点缀"
+    }
+  ],
+  "tips": [
+    "用烤盘代替平底锅，焦香会更明显。",
+    "腌料里加一勺蜂蜜，烤出来色泽更红亮。",
+    "肉片改成五花肉，肥瘦相间更适合包菜吃。",
+    "剩下的腌料别浪费，拌洋葱丝当小菜正好。"
+  ],
+  "common_mistakes": [
+    "肉片切得太薄，煎完缩成硬片，咬起来像肉干。",
+    "腌料没抖就直接下锅，糖分烧焦后整锅发苦。",
+    "全程大火猛煎，外面焦了里面还是生的。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪颈肉",
+      "substitute": "五花肉",
+      "ratio": "600克:600克",
+      "note": "油脂更多，煎的时间略短。"
+    },
+    {
+      "original": "梨",
+      "substitute": "苹果",
+      "ratio": "100克:100克",
+      "note": "酸甜略弱，可多加五克白糖。"
+    }
+  ],
+  "variations": [
+    "腌料里加一勺大酱同腌，咸鲜的层次会更厚实。",
+    "表面撒一层奶酪丝焗两分钟，做成芝士辣烤肉。"
+  ],
+  "serving_suggestion": "配生菜叶、蒜片与包饭酱卷着吃，也可以直接盖在米饭上。",
+  "storage": "冷藏可放三天，冷冻能存一个月，复热用平底锅比微波炉更香。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 32,
+    "fat_g": 33,
+    "carbs_g": 12,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪肉须彻底加热至中心熟透，切开不见粉红才可食用。",
+    "接触过生肉的刀、砧板与手须用洗涤剂清洗后再碰其他食材。"
+  ],
+  "origin_note": "韩国街头烤肉店的招牌，用梨泥和辣酱把猪颈肉腌透，再在铁板上煎到边缘焦脆，咸甜辣三味裹着油脂香，用生菜一包就能吃掉一整盘。",
+  "tags": [
+    "韩式",
+    "烤肉",
+    "辣味",
+    "猪肉"
+  ],
+  "related_ids": [
+    "korean-galbi-gui",
+    "korean-samgyeop-sal",
+    "jeyuk-bokkeum"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

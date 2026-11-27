@@ -1,0 +1,16 @@
+﻿校验范围: 2310 个文件（成功解析 2310）
+分类体系: 59 菜系 / 26 品类；食材词典: 491 项
+
+[问题文件] 3 个（schema 失败 0，规则失败 3）：
+
+· data/recipes/intl/korean/korean-baek-kimchi.json (korean-baek-kimchi) [RULES]
+   - 用量: 每份盐约 7.5g，超过 6g 上限
+
+· data/recipes/intl/korean/korean-ganjang-chicken.json (korean-ganjang-chicken) [RULES]
+   - ingredients: 「黑胡椒」在全部步骤与提示中均未被使用
+
+· data/recipes/intl/korean/korean-gyeran-ppang.json (korean-gyeran-ppang) [RULES]
+   - steps: 文本提到「面包」，但配料表中没有该食材
+   - food_safety_notes: 含高风险食材（鸡蛋），必须写明安全处理要求
+
+❌ 未通过：3 类问题，累计 4 条

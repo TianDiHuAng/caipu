@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:46:21.135Z",
+  "generatedAt": "2026-11-27T04:57:26.850Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2547,
-    "coverage": 0.777947464874771
+    "actual": 2555,
+    "coverage": 0.7803909590714722
   },
   "regions": {
     "cn": [
@@ -3463,13 +3463,13 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 76,
+        "actual": 84,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 14,
             "ids": [
               "bulgogi",
               "dolsot-bibimbap",
@@ -3478,7 +3478,9 @@
               "korean-bulgogi",
               "korean-galbi-gui",
               "korean-galbi-jjim",
+              "korean-ganjang-chicken",
               "korean-jang-jorim",
+              "korean-jeyuk-gui",
               "korean-jokbal",
               "korean-samgyeop-sal",
               "korean-suyuk",
@@ -3489,11 +3491,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "dwaeji-gukbap",
               "korean-dajiang-tang",
               "korean-doenjang-ggigae",
+              "korean-gamjatang",
+              "korean-jogae-tang",
               "korean-kongnamul-guk",
               "korean-miyuk-guk",
               "korean-sogogi-muguk",
@@ -3525,33 +3529,37 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "gochujang",
               "kimchi",
               "kkakdugi",
+              "korean-baek-kimchi",
               "korean-cucumber-oiji",
               "korean-dongchimi",
               "korean-jangajji",
               "korean-kkakdugi",
               "korean-oiji",
-              "korean-perilla-jangajji"
+              "korean-perilla-jangajji",
+              "korean-yangpa-jangajji"
             ]
           },
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "haemul-pajeon",
               "hotteok",
               "korean-bungeoppang",
               "korean-fried-chicken",
+              "korean-gyeran-ppang",
               "korean-haemul-pajeon",
               "korean-hotteok-ssiat",
               "korean-hotteok",
               "korean-kimchi-jeon",
+              "korean-ttangkong-gangjeong",
               "korean-tteokbokki",
               "korean-vegetable-jeon"
             ]
