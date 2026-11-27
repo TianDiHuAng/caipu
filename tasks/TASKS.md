@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-27T08:07:40.469Z
+> 生成时间：2026-11-27T08:37:50.805Z
 
-**总览**：工程任务 49/53；菜谱内容 2635/3274（80.5%），共 658 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2643/3274（80.7%），共 658 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -430,15 +430,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1469/1935）
+### 外国菜系（1477/1935）
 
-<details><summary><b>日本料理 japanese</b> — A 级，85/107</summary>
+<details><summary><b>日本料理 japanese</b> — A 级，93/107</summary>
 
-- [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 11
+- [ ] `P4-japanese/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 13
 - [ ] `P4-japanese/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 11
-- [ ] `P4-japanese/soup` 汤羹（Soup）目标 15，已完成 10
-- [ ] `P4-japanese/appetizer` 前菜（Appetizer）目标 15，已完成 10
-- [ ] `P4-japanese/dessert` 甜点（Dessert）目标 15，已完成 10
+- [ ] `P4-japanese/soup` 汤羹（Soup）目标 15，已完成 12
+- [ ] `P4-japanese/appetizer` 前菜（Appetizer）目标 15，已完成 12
+- [ ] `P4-japanese/dessert` 甜点（Dessert）目标 15，已完成 12
 - [ ] `P4-japanese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 3
 - [ ] `P4-japanese/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 5
 - [ ] `P4-japanese/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 5

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:07:40.387Z",
+  "generatedAt": "2026-11-27T08:37:50.731Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2635,
-    "coverage": 0.8048259010384851
+    "actual": 2643,
+    "coverage": 0.8072693952351864
   },
   "regions": {
     "cn": [
@@ -3312,18 +3312,20 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 85,
+        "actual": 93,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "japanese-asari-sakamushi",
               "japanese-ebi-fry",
               "japanese-hotate-butter",
               "japanese-ika-shoga-ni",
+              "japanese-kaki-fry",
+              "japanese-saba-misoni",
               "japanese-saba-sakamushi",
               "japanese-saba-shioyaki",
               "japanese-tempura",
@@ -3356,16 +3358,18 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "asari-misoshiru",
               "japanese-dangojiru",
+              "japanese-ishikari-nabe",
               "japanese-kabocha-potage",
               "japanese-kakitama-jiru",
               "japanese-kenchin-jiru",
               "japanese-nikujiru",
               "japanese-oden-simple",
               "japanese-tonjiru",
+              "japanese-tsukune-jiru",
               "miso-soup",
               "tonjiru"
             ]
@@ -3374,16 +3378,18 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "chawanmushi",
               "goma-ae-spinach",
               "hiyayakko",
               "japanese-agedashi-tofu",
               "japanese-chawanmushi",
+              "japanese-goma-dofu",
               "japanese-hiyayakko",
               "japanese-ohitashi",
               "japanese-shiraae-ae",
+              "japanese-tako-su",
               "japanese-takoyaki",
               "karaage"
             ]
@@ -3392,16 +3398,18 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "dorayaki",
               "japanese-castella",
               "japanese-ichigo-daifuku",
+              "japanese-kuri-kanroni",
               "japanese-mizuyokan",
               "japanese-ohagi",
               "japanese-oshiruko",
               "japanese-purin",
               "japanese-shiratama",
+              "japanese-warabi-mochi",
               "matcha-pudding",
               "mitarashi-dango"
             ]
