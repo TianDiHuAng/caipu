@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:25:16.910Z",
+  "generatedAt": "2026-11-27T03:52:13.044Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2483,
-    "coverage": 0.7583995113011607
+    "actual": 2491,
+    "coverage": 0.760843005497862
   },
   "regions": {
     "cn": [
@@ -3862,7 +3862,7 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 70,
+        "actual": 78,
         "cells": [
           {
             "category": "staple-bread",
@@ -3887,13 +3887,15 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "chicken-cacciatore",
               "italian-chicken-parmesan",
+              "italian-pollo-al-forno-patate",
               "italian-pollo-alla-cacciatora",
               "italian-pollo-alla-marinara",
               "italian-pollo-alla-milanese",
+              "italian-pollo-alla-pizzaiola",
               "italian-pollo-in-padella",
               "pollo-al-limone",
               "pollo-alla-cacciatora",
@@ -3904,11 +3906,13 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "biscotti",
               "cannoli-siciliani",
+              "italian-affogato",
               "italian-cantuccini",
+              "italian-crostata-di-fragole",
               "italian-granita-al-limone",
               "italian-torta-al-limone",
               "italian-torta-caprese",
@@ -3921,13 +3925,15 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "bruschetta",
               "caprese-salad",
               "italian-arancini",
               "italian-bruschetta",
+              "italian-crostini-misti",
               "italian-funghi-trifolati",
+              "italian-insalata-di-polpo",
               "italian-peperonata",
               "italian-polpette",
               "italian-suppli",
@@ -3938,7 +3944,7 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "aglio-e-olio",
               "italian-arrabbiata-sauce",
@@ -3946,6 +3952,8 @@
               "italian-marinara-sauce",
               "italian-pesto-di-rucola",
               "italian-puttanesca-sauce",
+              "italian-salsa-di-funghi",
+              "italian-salsa-tonnata",
               "italian-salsa-verde",
               "pesto-genovese",
               "pesto"
