@@ -1,0 +1,283 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-taco-salad",
+  "name": {
+    "zh": "塔可风味沙拉",
+    "en": "Taco Salad",
+    "original": "Taco Salad"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 16,
+    "total_min": 28
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 400,
+          "unit": "g",
+          "note": "撕成小块",
+          "optional": false
+        },
+        {
+          "name": "红腰豆",
+          "name_en": "red kidney bean",
+          "amount": 240,
+          "unit": "g",
+          "note": "煮熟沥干",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "樱桃番茄",
+          "name_en": "cherry tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "对半切",
+          "optional": false
+        },
+        {
+          "name": "玉米",
+          "name_en": "sweet corn",
+          "amount": 150,
+          "unit": "g",
+          "note": "煮熟",
+          "optional": false
+        },
+        {
+          "name": "切达奶酪",
+          "name_en": "cheddar cheese",
+          "amount": 80,
+          "unit": "g",
+          "note": "擦成丝",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 40,
+          "unit": "g",
+          "note": "拌酱用",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 80,
+          "unit": "g",
+          "note": "拌酱用",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "拌沙拉",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "沙拉盆",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "生菜洗净后沥干，用手撕成入口大小的块放进大盆。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "手撕比刀切好，切口少反而不易发黑出水。",
+      "visual_cue": "叶片完整松散，盆底不见积水"
+    },
+    {
+      "n": 2,
+      "text": "红腰豆与玉米粒分别用开水烫一分钟，捞出沥干放凉。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "罐装的豆子烫一遍能去掉罐味，也更卫生。",
+      "visual_cue": "豆粒饱满不破皮，玉米粒颜色发亮"
+    },
+    {
+      "n": 3,
+      "text": "小番茄逐个对半切开，洋葱切成细小的丁备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "洋葱丁切得越细小，拌开后就越不会抢味。",
+      "visual_cue": "番茄切口平整，洋葱丁大小一致"
+    },
+    {
+      "n": 4,
+      "text": "酸奶油加番茄酱、辣椒粉、孜然、盐与柠檬汁拌成酱。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱汁先尝再调，酸与辣按口味加减都可以。",
+      "visual_cue": "酱汁呈粉橙色，质地顺滑能流动"
+    },
+    {
+      "n": 5,
+      "text": "把腰豆、玉米、番茄与洋葱倒进生菜盆，淋橄榄油轻拌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "只用油先拌，菜叶表面有油才不会被酱泡软。",
+      "visual_cue": "菜叶油亮，配料均匀分布在盆里"
+    },
+    {
+      "n": 6,
+      "text": "淋上调好的酱汁，用两把勺子从盆底向上翻拌均匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "翻拌比乱搅更好，菜叶不容易被压塌出水。",
+      "visual_cue": "每片叶子都挂上浅橙色酱汁"
+    },
+    {
+      "n": 7,
+      "text": "撒上切达奶酪丝，立刻端上桌趁着还脆的时候吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "奶酪一定要最后撒，早了会被酱汁浸得发黏。",
+      "visual_cue": "奶酪丝蓬松，表面红绿黄层次分明"
+    }
+  ],
+  "tips": [
+    "加一把烤过的玉米片，脆感更足也更像塔可。",
+    "想吃肉可以加炒香的牛肉碎，饱腹感更强。",
+    "酱汁单独装碗蘸着吃，剩下的菜不软。",
+    "拌之前把菜冰镇十分钟，口感会更清爽。"
+  ],
+  "common_mistakes": [
+    "生菜没沥干就拌，几分钟后盆底就是一汪水。",
+    "酱汁一次全倒进去，菜叶被泡得又黏又软。",
+    "提前一小时拌好放着，上桌时已经软塌出水。"
+  ],
+  "substitutions": [
+    {
+      "original": "红腰豆",
+      "substitute": "黑豆",
+      "ratio": "240克:240克",
+      "note": "口感更绵，颜色更深。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "酸奶",
+      "ratio": "80克:80克",
+      "note": "更清爽，酸度略高。"
+    }
+  ],
+  "variations": [
+    "加半个牛油果切块进去，口感会更绵密。",
+    "用辣酱代替一半番茄酱，辣味会更直接。"
+  ],
+  "serving_suggestion": "现拌现吃，配烤玉米片或当作一份主餐沙拉都合适。",
+  "storage": "不建议提前存放，拌开后两小时内吃完最好。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 320,
+    "protein_g": 13,
+    "fat_g": 17,
+    "carbs_g": 28,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "生食蔬菜须充分冲洗，沥干后再拌制。",
+    "拌好的沙拉在室温放置不宜超过两小时。"
+  ],
+  "origin_note": "美国墨西哥风味餐馆的常客，把塔可的馅料拆开铺在生菜上，酸奶油和番茄酱调成简易酱汁，一大盆端上桌，比卷饼吃得更清爽。",
+  "tags": [
+    "美式",
+    "沙拉",
+    "豆类",
+    "清爽"
+  ],
+  "related_ids": [
+    "american-cobb-salad",
+    "american-chef-salad",
+    "american-coleslaw"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

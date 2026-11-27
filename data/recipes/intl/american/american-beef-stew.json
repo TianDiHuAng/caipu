@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-beef-stew",
+  "name": {
+    "zh": "美式炖牛肉",
+    "en": "American Beef Stew",
+    "original": "Beef Stew"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 63,
+    "cook_min": 79,
+    "total_min": 142
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 800,
+          "unit": "g",
+          "note": "切成四厘米见方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 100,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "对半切开",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 20,
+          "unit": "g",
+          "note": "裹肉块用",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "增色提鲜",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分两次加",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎肉",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "炖煮用，可加半块高汤块",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "砧板",
+    "木勺",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩块用厨房纸吸干水分，撒上盐与黑胡椒抓匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "表面越干，下锅越容易煎出漂亮的焦褐色。",
+      "visual_cue": "肉块表面干爽，调料均匀附在每一面"
+    },
+    {
+      "n": 2,
+      "text": "把面粉薄薄撒在肉块上，翻动几下让每块都裹上一层。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "薄薄裹一层就够，裹厚了炖出来汤汁会发黏。",
+      "visual_cue": "肉块表面呈哑光白色，看不出干粉"
+    },
+    {
+      "n": 3,
+      "text": "炖锅烧热橄榄油，分批下肉块煎到六面呈深褐色后盛出。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "一次别放太多，挤在一起只会出水不会上色。",
+      "visual_cue": "锅底结出棕褐色焦层，肉块表面硬挺"
+    },
+    {
+      "n": 4,
+      "text": "原锅下洋葱、西芹与蒜末，小火炒到洋葱变透明。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "用锅铲刮起锅底的焦褐色，那些都是香味。",
+      "visual_cue": "洋葱软塌透明，锅底焦层被刮开"
+    },
+    {
+      "n": 5,
+      "text": "加番茄膏炒一分钟，倒回肉块，注入清水后用大火烧开。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "番茄膏炒过颜色才红亮，生番茄膏带酸涩。",
+      "visual_cue": "汤汁呈红棕色，肉块大半浸在汤里"
+    },
+    {
+      "n": 6,
+      "text": "转小火加盖炖一小时，中途撇掉浮在表面的油脂。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "汤面只冒小泡最合适，翻滚会让肉块散架。",
+      "visual_cue": "肉块边缘开始变软，汤色加深"
+    },
+    {
+      "n": 7,
+      "text": "放入土豆、胡萝卜与蘑菇，继续炖二十五分钟到蔬菜变软。",
+      "time_min": 27,
+      "heat": "小火",
+      "tip": "根茎菜一定要后放，久炖会化成泥让汤汁变浑。",
+      "visual_cue": "土豆一插即透，胡萝卜颜色发亮"
+    },
+    {
+      "n": 8,
+      "text": "开盖大火收汁五分钟，尝咸淡补盐，撒黑胡椒即可盛出。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "汤汁收到能挂住勺背，舀一勺拌米饭刚刚好。",
+      "visual_cue": "汤汁浓亮挂勺，肉块软而完整"
+    }
+  ],
+  "tips": [
+    "隔夜再吃味道更好，蔬菜的甜味都渗进汤里。",
+    "加一勺番茄酱，汤色更红也更有食欲。",
+    "牛腩换成牛肩肉，炖的时间要多二十分钟。",
+    "配一碗热米饭，把盘子里的汤汁都拌干净。"
+  ],
+  "common_mistakes": [
+    "肉块没吸干水就下锅，煎出一锅水和灰白的肉。",
+    "一次把所有肉倒进锅里，温度骤降后全是水汽。",
+    "全程大火猛煮，两小时后肉还是又硬又柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛肩肉",
+      "ratio": "800克:800克",
+      "note": "筋膜少，炖的时间要多二十分钟。"
+    },
+    {
+      "original": "番茄膏",
+      "substitute": "番茄酱",
+      "ratio": "30克:40克",
+      "note": "颜色更亮，酸甜味更明显。"
+    }
+  ],
+  "variations": [
+    "加一小杯红酒一起炖，味道会更有层次感。",
+    "最后撒一把青豆进去，颜色与口感都更清爽。"
+  ],
+  "serving_suggestion": "盛进深碗，撒现磨黑胡椒，配米饭或土豆泥都很合适。",
+  "storage": "冷藏可放四天，冷冻能存两个月，复热后风味更融合。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 38,
+    "fat_g": 28,
+    "carbs_g": 26,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖至软烂熟透，中心不见粉红才可食用。",
+    "剩菜复热须彻底加热至沸腾后再食用。"
+  ],
+  "origin_note": "美国中西部家庭冬天的标准一锅炖，牛肉先裹粉煎出焦褐，再和根茎菜慢慢煨到酥软，汤汁浓稠得能挂在勺背，一碗下肚浑身都暖起来。",
+  "tags": [
+    "美式",
+    "炖菜",
+    "牛肉",
+    "家常"
+  ],
+  "related_ids": [
+    "american-pot-roast",
+    "meatloaf",
+    "american-salisbury-steak"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-tofu-scramble",
+  "name": {
+    "zh": "豆腐炒蛋",
+    "en": "Tofu Scramble",
+    "original": "Tofu Scramble"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 17,
+    "cook_min": 22,
+    "total_min": 39
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "压去水分后捏碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "甜椒",
+          "name_en": "bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "菠菜",
+          "name_en": "spinach",
+          "amount": 100,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煎豆腐",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "增色提味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "增加香气",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "锅铲",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐用厨房纸包住，压上重物静置十五分钟挤出水分。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "水分挤得越干，炒出来越松散也不糊锅。",
+      "visual_cue": "豆腐块明显变薄，纸被浸湿"
+    },
+    {
+      "n": 2,
+      "text": "用手把豆腐捏成不规则的小碎块，模仿炒蛋的质感。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "别捏成泥，留一点大小不一的块口感才像。",
+      "visual_cue": "碎块大小不均，断面边缘毛糙"
+    },
+    {
+      "n": 3,
+      "text": "平底锅烧热橄榄油，下洋葱丁小火炒到透明出甜味。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱先炒软，整道菜的底味都靠它打底。",
+      "visual_cue": "洋葱变软透明，锅里没有生辣味"
+    },
+    {
+      "n": 4,
+      "text": "放甜椒丁炒两分钟，保持一点脆度不要炒塌软。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "甜椒久炒会出水变软，颜色也会跟着发暗。",
+      "visual_cue": "甜椒颜色鲜亮，块形仍然挺立"
+    },
+    {
+      "n": 5,
+      "text": "倒入豆腐碎，加辣椒粉、孜然、盐与黑胡椒翻炒均匀。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "不停翻动让香料均匀裹上，别让底部结成块。",
+      "visual_cue": "豆腐碎均匀上色，呈温暖的橘黄色"
+    },
+    {
+      "n": 6,
+      "text": "淋入生抽翻炒一分钟，让豆腐充分吸收咸鲜味。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "生抽沿锅边淋下去，遇热散出的酱香更明显。",
+      "visual_cue": "碎块颜色加深，锅里几乎没有水汽"
+    },
+    {
+      "n": 7,
+      "text": "放入菠菜段翻拌到刚刚塌软，随即关火装盘上桌。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "菠菜一变软就关火，锅里的余温还会继续加热。",
+      "visual_cue": "菠菜深绿柔软，没有出水的痕迹"
+    }
+  ],
+  "tips": [
+    "加一勺营养酵母，会有类似奶酪的咸香。",
+    "配烤吐司吃，或者卷进玉米饼里都很好吃。",
+    "豆腐换成南豆腐，口感更嫩但更难成形。",
+    "吃剩的冷藏后复热，味道反而更进味。"
+  ],
+  "common_mistakes": [
+    "豆腐没压水就下锅，炒出一锅水变成炖豆腐。",
+    "火太大还不停翻，豆腐碎被炒成一团糊。",
+    "菠菜下锅后炒太久，颜色发黄还出一盘水。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "南豆腐",
+      "ratio": "450克:450克",
+      "note": "更嫩，需减少翻炒次数。"
+    },
+    {
+      "original": "甜椒",
+      "substitute": "蘑菇",
+      "ratio": "80克:100克",
+      "note": "鲜味更浓，需多炒两分钟。"
+    }
+  ],
+  "variations": [
+    "加一小勺咖喱粉，风味立刻变成异国早午餐。",
+    "撒一把切达奶酪丝，融化后更接近真炒蛋。"
+  ],
+  "serving_suggestion": "趁热装盘，配一份烤面包、牛油果或薯饼都合适。",
+  "storage": "冷藏可放两天，复热用平底锅比微波炉好得多。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 230,
+    "protein_g": 16,
+    "fat_g": 15,
+    "carbs_g": 9,
+    "sodium_mg": 430,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆制品须彻底加热后再食用，避免生食。",
+    "菠菜含草酸，焯水或充分炒熟后更易吸收。"
+  ],
+  "origin_note": "美国素食餐厅为替代炒蛋发明的做法，用压干水分的北豆腐捏碎，靠姜黄与孜然上色提香，口感蓬松又带豆香，如今已是早午餐菜单的固定选项。",
+  "tags": [
+    "美式",
+    "豆腐",
+    "早餐",
+    "素食"
+  ],
+  "related_ids": [
+    "american-bbq-tofu",
+    "american-tofu-burger",
+    "american-breakfast-hash"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
