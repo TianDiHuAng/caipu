@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:27:43.413Z",
+  "generatedAt": "2026-11-27T11:49:28.478Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2658,
-    "coverage": 0.8118509468540013
+    "actual": 2666,
+    "coverage": 0.8142944410507025
   },
   "regions": {
     "cn": [
@@ -293,7 +293,7 @@
         "en": "Shandong",
         "tier": "A",
         "target": 107,
-        "actual": 137,
+        "actual": 138,
         "cells": [
           {
             "category": "main-seafood",
@@ -386,12 +386,13 @@
             "category": "banquet",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "congshao-tijin",
               "pa-yuanke-baoyu",
               "shandong-furong-jipian",
               "shandong-hongshao-tijin",
+              "shandong-jiuzhuan-dachang",
               "shandong-sanbuzhan",
               "shandong-tangcu-liyu",
               "shandong-yipin-doufu",
@@ -3528,7 +3529,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 87,
+        "actual": 88,
         "cells": [
           {
             "category": "main-meat",
@@ -3645,8 +3646,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "korean-dalgyal-jangjorim",
               "korean-egg-roll",
               "korean-gyeran-jjim"
             ]
@@ -4172,7 +4174,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 84,
+        "actual": 86,
         "cells": [
           {
             "category": "main-meat",
@@ -4301,8 +4303,9 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "french-tofu-bourguignon",
               "french-tofu-gratine",
               "french-tofu-provencale"
             ]
@@ -4311,10 +4314,11 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "french-gratin-de-macaroni",
-              "french-nouilles-au-beurre"
+              "french-nouilles-au-beurre",
+              "french-provencal-noodle-bake"
             ]
           },
           {
@@ -4598,7 +4602,7 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 27,
+        "actual": 28,
         "cells": [
           {
             "category": "soup",
@@ -4651,8 +4655,9 @@
             "category": "drink",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "vietnamese-ca-phe-sua-da",
               "vietnamese-sinh-to-bo"
             ]
           },
@@ -5174,7 +5179,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 87,
+        "actual": 88,
         "cells": [
           {
             "category": "main-vegetable",
@@ -5310,8 +5315,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "indian-chilli-garlic-noodles",
               "indian-veg-hakka-noodles",
               "indian-vermicelli-upma"
             ]
@@ -6776,7 +6782,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 83,
+        "actual": 84,
         "cells": [
           {
             "category": "main-meat",
@@ -6917,8 +6923,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "american-beef-noodle-skillet",
               "american-mac-and-cheese",
               "american-tuna-noodle-casserole"
             ]
@@ -7350,7 +7357,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 81,
+        "actual": 82,
         "cells": [
           {
             "category": "snack",
@@ -7494,9 +7501,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "mexican-fideo-seco",
+              "mexican-poblano-cream-pasta",
               "mexican-tallarines-rojos"
             ]
           },

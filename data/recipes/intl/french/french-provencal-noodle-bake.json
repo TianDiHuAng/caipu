@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-provencal-noodle-bake",
+  "name": {
+    "zh": "普罗旺斯蔬菜烤面",
+    "en": "Provencal Vegetable Noodle Bake",
+    "original": "Gratin de pâtes provençal"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 42,
+    "total_min": 72
+  },
+  "servings": 3,
+  "flavor": [
+    "herbal",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 270,
+          "unit": "g",
+          "note": "笔管面，煮到八分熟",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 180,
+          "unit": "g",
+          "note": "切一厘米厚片",
+          "optional": false
+        },
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 180,
+          "unit": "g",
+          "note": "切一厘米厚片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "分次使用",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 90,
+          "unit": "g",
+          "note": "擦成粗丝",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 3,
+          "unit": "g",
+          "note": "干品揉碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "分层调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "汤锅",
+    "刀",
+    "砧板",
+    "平底锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子片与西葫芦片平铺在案板上，两面撒盐静置十五分钟，逼出多余水分。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "茄子吸油全靠这一步，出水后口感也更紧实。",
+      "visual_cue": "蔬菜表面渗出水珠，片身略软"
+    },
+    {
+      "n": 2,
+      "text": "用厨房纸把蔬菜片表面的水珠与盐粒按压吸干，避免烤盘里积汤变水。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "按压时轻一些，别把片压变形，摆盘才好看。",
+      "visual_cue": "蔬菜片干爽，表面无浮盐"
+    },
+    {
+      "n": 3,
+      "text": "平底锅放一半橄榄油，洋葱丝与蒜片中火炒到微黄出香，再放番茄块炒软。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄炒到塌软出汁，酱底才有厚度不寡淡。",
+      "visual_cue": "番茄软塌出红汁，洋葱边缘金黄"
+    },
+    {
+      "n": 4,
+      "text": "加百里香、盐与黑胡椒，小火煮六分钟收成浓稠番茄酱，尝味后备用。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "酱要比平时略咸，后面还要拌面并被蔬菜稀释。",
+      "visual_cue": "酱色深红，勺背挂住不滑落"
+    },
+    {
+      "n": 5,
+      "text": "面条放进加盐的滚水煮到八分熟，捞出直接拌进番茄酱里，让面吸住酱汁。",
+      "time_min": 8,
+      "heat": "中大火",
+      "tip": "面不用过凉水，表面残留的黏性物质能帮酱汁更好地附着在面上。",
+      "visual_cue": "面条通体染红，酱汁被吸住"
+    },
+    {
+      "n": 6,
+      "text": "烤盘底部刷橄榄油，先铺一半面条，再交错摆上西葫芦片、茄子片与剩余面条。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蔬菜片交错叠放，受热均匀也更像普罗旺斯的摆法。",
+      "visual_cue": "烤盘层次分明，蔬菜片露出表面"
+    },
+    {
+      "n": 7,
+      "text": "表面撒奶酪丝，淋剩下的橄榄油，送进两百度烤箱烤二十分钟至表面金黄起泡。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "最后五分钟开上火，奶酪上色更快更均匀。",
+      "visual_cue": "奶酪融化起泡，边缘焦黄"
+    },
+    {
+      "n": 8,
+      "text": "出炉静置五分钟再切分，让层次定型，切块时才不会散开。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "静置是让奶酪与酱汁回稳，直接切会流一盘子。",
+      "visual_cue": "切块边缘整齐，奶酪层不脱落"
+    }
+  ],
+  "tips": [
+    "蔬菜片厚度尽量一致，一厘米最合适，太薄会烤干太厚不熟。",
+    "奶酪用格吕耶尔或帕玛森都行，混一半马苏里拉拉丝更好看。",
+    "想吃得更饱可在面条里拌一勺白酱，口感更润。",
+    "剩料第二天冷吃也别有风味，或用平底锅回煎到边缘脆。"
+  ],
+  "common_mistakes": [
+    "蔬菜不撒盐直接烤，烤盘出水，底部面条泡成糊。",
+    "面条煮到全熟再进烤箱，二十分钟后软烂成坨。",
+    "奶酪铺得太厚不看火，表面焦黑而内部还凉。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶酪",
+      "substitute": "面包糠",
+      "ratio": "90克:60克",
+      "note": "拌一勺橄榄油撒面，口感更脆但少了奶香。"
+    },
+    {
+      "original": "百里香",
+      "substitute": "罗勒",
+      "ratio": "3克:5克",
+      "note": "罗勒香气更清，最后五分钟再放避免烤糊。"
+    }
+  ],
+  "variations": [
+    "加五十克黑橄榄与几片鳀鱼，风味更接近尼斯一带的做法。",
+    "把番茄换成烤红椒，甜味更浓，颜色也更艳。"
+  ],
+  "serving_suggestion": "用方形烤盘上桌，配一杯干型桃红葡萄酒，旁边放几片硬面包擦盘底的酱汁。",
+  "storage": "冷藏三天内吃完，复热用烤箱一百八十度烤十分钟，微波会让面条发软。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 20,
+    "fat_g": 22,
+    "carbs_g": 60,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "烤制须确认中心完全热透、奶酪融化冒泡，隔夜复热必须加热到烫口再食用。"
+  ],
+  "origin_note": "法国南部普罗旺斯的家常焗面，把夏天大量出产的番茄、西葫芦与茄子炒成酱，和管面一起铺进烤盘撒奶酪烤到金黄，配一杯桃红正好。",
+  "tags": [
+    "法国",
+    "普罗旺斯",
+    "烤面",
+    "蔬菜"
+  ],
+  "related_ids": [
+    "french-gratin-de-macaroni",
+    "french-ratatouille"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

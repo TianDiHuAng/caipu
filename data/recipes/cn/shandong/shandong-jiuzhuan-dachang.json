@@ -1,0 +1,320 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "shandong-jiuzhuan-dachang",
+  "name": {
+    "zh": "九转大肠",
+    "en": "Shandong Nine-Turn Braised Intestine",
+    "original": "九转大腸"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "shandong"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 4,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 95,
+    "total_min": 125
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "sour",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪大肠",
+          "name_en": "pork intestine",
+          "amount": 600,
+          "unit": "g",
+          "note": "取中段厚实处",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 400,
+          "unit": "ml",
+          "note": "炖煮与收汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "一半切片一半剁末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁成细末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结与切花",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段点缀",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "g",
+          "note": "两枚",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小块",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 3,
+          "unit": "g",
+          "note": "十粒左右",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 45,
+          "unit": "g",
+          "note": "分次使用",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 25,
+          "unit": "ml",
+          "note": "提酸解腻",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "咸鲜底味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上深红色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "焯水与去腥",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 30,
+          "unit": "g",
+          "note": "搓洗肠壁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煸炒与上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "搓洗与调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪大肠翻面撕去多余油脂，用面粉与盐反复揉搓三遍，冲水到不滑不黏为止。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "面粉能带走黏液，搓到手指发涩才算洗净。",
+      "visual_cue": "肠壁发白不黏手，闻起来无明显异味"
+    },
+    {
+      "n": 2,
+      "text": "洗净的大肠冷水下锅，加料酒与姜片，水开后撇净浮沫，转中火煮四十分钟。",
+      "time_min": 45,
+      "heat": "中火",
+      "tip": "冷水下锅才能把血水慢慢逼出，热水下锅会锁住腥味。",
+      "visual_cue": "大肠卷曲发白，筷子能扎透"
+    },
+    {
+      "n": 3,
+      "text": "捞出大肠放凉，切成三厘米长的段，切口处可见内壁呈浅粉白色。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "一定要放凉再切，热切容易变形且刀口不整齐。",
+      "visual_cue": "肠段切口平整，段长基本一致"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放植物油，下白糖二十克小火炒到融化冒小泡、颜色转为枣红。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "糖色炒到枣红立刻下料，发黑就苦了。",
+      "visual_cue": "糖液起细密红泡，闻到焦糖香"
+    },
+    {
+      "n": 5,
+      "text": "倒入肠段快速翻炒上色，加姜末、蒜末、八角、桂皮与花椒炒出香气。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肠段要翻炒到每块都裹上糖色，成品才红亮。",
+      "visual_cue": "肠段通体红亮，香料香气四溢"
+    },
+    {
+      "n": 6,
+      "text": "烹入料酒、生抽与老抽，加高汤没过肠段，放葱结大火烧开转小火炖三十分钟。",
+      "time_min": 33,
+      "heat": "小火",
+      "tip": "小火慢炖，肠段才软糯不柴，汤也不浑。",
+      "visual_cue": "汤色转成深红发亮，肠段明显软塌"
+    },
+    {
+      "n": 7,
+      "text": "拣出香料与葱结，加剩下的白糖与白醋，转中火收汁并不停翻动防糊底。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "糖醋后放才留得住酸香，早放酸味会挥发掉。",
+      "visual_cue": "汤汁浓稠挂肠，锅底见油不见汤"
+    },
+    {
+      "n": 8,
+      "text": "尝味后补盐，淋少许明油翻匀，装盘撒香菜段与葱花即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "最后补一勺油让色泽发亮，凉了也不会发暗。",
+      "visual_cue": "肠段红亮油润，盘底无余汁"
+    }
+  ],
+  "tips": [
+    "大肠的清洗是成败关键，宁可多搓两遍，异味一旦留下怎么调味都盖不住。",
+    "炒糖色宁可浅一点，深了发苦无法挽回，宁可用老抽补色。",
+    "糖醋比例按酸三甜四掌握，尝起来先甜后酸才对。",
+    "收汁时用勺不停推动，糖分容易粘底焦化。"
+  ],
+  "common_mistakes": [
+    "大肠图省事只用盐搓一遍，成品带异味，调味再重也压不住。",
+    "糖色炒过头才把肠段下锅，整锅发苦发黑，怎么补糖都救不回来。",
+    "收汁用大火且离开锅边，糖汁瞬间焦糊，前功尽弃。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪大肠",
+      "substitute": "猪肚",
+      "ratio": "600克:600克",
+      "note": "清洗同样用面粉搓，煮制时间延长十分钟，口感更脆。"
+    },
+    {
+      "original": "白醋",
+      "substitute": "香醋",
+      "ratio": "25毫升:25毫升",
+      "note": "酸味更柔，用量可多加五毫升。"
+    }
+  ],
+  "variations": [
+    "加几片山楂同炖，肠段更易软烂，酸味也更复合。",
+    "把炖好的肠段入油炸一遍再收汁，表皮更酥，口感层次更足。"
+  ],
+  "serving_suggestion": "用白瓷深盘盛装，肠段堆成小山，香菜点缀顶端，配一壶热茶解腻，是宴席上的压轴热菜。",
+  "storage": "冷藏三天内吃完，复热时加两勺高汤小火翻热；冷冻会让肠段失水变硬，不建议。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 26,
+    "fat_g": 38,
+    "carbs_g": 18,
+    "sodium_mg": 1320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪大肠须用面粉与盐彻底搓洗并焯水去腥，炖制必须完全熟透软烂；内脏类食材当天食用不完须及时冷藏，隔夜复热要滚沸。"
+  ],
+  "origin_note": "济南老字号的一道名菜，把洗净的大肠先煮后炒糖色，再用高汤与糖醋慢㸆到红亮，酸甜咸香层层递进。据说当年食客说这道菜像道家九转仙丹，才得名九转大肠。",
+  "tags": [
+    "山东",
+    "宴席",
+    "大肠",
+    "糖醋"
+  ],
+  "related_ids": [
+    "shandong-hongshao-tijin",
+    "congshao-tijin"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

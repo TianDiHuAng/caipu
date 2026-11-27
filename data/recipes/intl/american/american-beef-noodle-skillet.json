@@ -1,0 +1,282 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-beef-noodle-skillet",
+  "name": {
+    "zh": "美式牛肉炒面",
+    "en": "American Beef Noodle Skillet",
+    "original": "Beef noodle skillet"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 30,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 270,
+          "unit": "g",
+          "note": "宽面，煮到八分熟",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 300,
+          "unit": "g",
+          "note": "切薄片，逆纹切",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "番茄酱",
+          "name_en": "ketchup",
+          "amount": 60,
+          "unit": "g",
+          "note": "浓缩番茄膏",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "补咸提鲜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "分次使用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "煮面与炒制",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨更香",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 150,
+          "unit": "ml",
+          "note": "调成酱汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深煎锅",
+    "汤锅",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面条放进加了盐的滚水里煮到八分熟，捞出沥干，拌少许植物油抖散防粘。",
+      "time_min": 8,
+      "heat": "中大火",
+      "tip": "八分熟就捞，后面还要回锅吸汁，全熟会泡烂。",
+      "visual_cue": "面条能咬断但中心留一点白芯"
+    },
+    {
+      "n": 2,
+      "text": "牛肉逆着纹理切薄片，用厨房纸吸干表面水分，撒盐与黑胡椒抓匀静置五分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "逆纹切能切断筋膜，炒出来才嫩不塞牙。",
+      "visual_cue": "肉片薄而整齐，表面干爽不流水"
+    },
+    {
+      "n": 3,
+      "text": "深煎锅烧到微微冒烟，放一半植物油，牛肉片摊开大火快炒到变色，立刻盛出。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "肉片别一次全下，锅温降太快就变成水煮。",
+      "visual_cue": "肉片边缘焦褐，锅底留褐色焦香物"
+    },
+    {
+      "n": 4,
+      "text": "锅里补剩下的植物油，下洋葱与蘑菇中火炒到洋葱透明、蘑菇出水又收干。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "蘑菇要炒到水分收干才有香味，出水阶段别急着加盐。",
+      "visual_cue": "蘑菇片边缘卷起，锅底略干"
+    },
+    {
+      "n": 5,
+      "text": "加蒜末与青椒条炒出香，放番茄酱小火炒三十秒，把锅底的焦香一起刮起来。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄酱一定要炒过才去生酸味，颜色也更红亮。",
+      "visual_cue": "酱色转深红，锅底褐色物质化开"
+    },
+    {
+      "n": 6,
+      "text": "倒入高汤与生抽煮开，放回牛肉与面条，用夹子翻拌到酱汁均匀裹住面条。",
+      "time_min": 6,
+      "heat": "中大火",
+      "tip": "翻拌用夹子比铲子好，面条不易断且能拌匀。",
+      "visual_cue": "面条油亮挂汁，锅里无明显汤汁"
+    },
+    {
+      "n": 7,
+      "text": "尝味后补盐与黑胡椒，撒香菜碎，连锅端上桌趁热吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜最后撒，靠余温散发香气，久炒会发黄。",
+      "visual_cue": "盘面红褐油亮，香菜翠绿点缀"
+    }
+  ],
+  "tips": [
+    "牛肉用肥瘦相间的部位更香，全瘦的炒久容易柴，可先用少量油抓匀。",
+    "面条换成螺旋面或通心粉也行，挂汁效果更好。",
+    "番茄膏比番茄沙司味更浓，用沙司要减量并多加一勺糖。",
+    "炒完立刻吃口感最好，放凉后面条会把酱汁吸干变硬。"
+  ],
+  "common_mistakes": [
+    "牛肉和洋葱一起下锅，肉出水后泡在汤里，炒不出焦香。",
+    "番茄酱没炒直接加高汤，整锅带出生涩的酸味。",
+    "面条煮到全熟再回锅，翻两下就断成短节。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "猪里脊",
+      "ratio": "300克:300克",
+      "note": "切薄片同样快炒，口感更嫩但香气略淡。"
+    },
+    {
+      "original": "番茄酱",
+      "substitute": "番茄",
+      "ratio": "60克:200克",
+      "note": "切碎炒软后多煮三分钟收汁。"
+    }
+  ],
+  "variations": [
+    "加一勺辣酱与半勺蜂蜜，做成甜辣风味，颜色更红亮。",
+    "换成芝士版，拌好后撒一把奶酪丝进烤箱烤五分钟。"
+  ],
+  "serving_suggestion": "用铸铁锅直接上桌，配一杯冰啤酒或气泡水，旁边放一小碟酸黄瓜解腻。",
+  "storage": "冷藏两天内吃完，复热时加两勺高汤小火翻热，避免干炒变硬。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 640,
+    "protein_g": 36,
+    "fat_g": 24,
+    "carbs_g": 68,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "牛肉须炒至完全变色无血水，中心熟透后再食用；剩菜复热须彻底加热至滚烫。"
+  ],
+  "origin_note": "美国中西部家庭的一锅晚餐，把牛肉片、蘑菇和面条用番茄膏与高汤在同一个锅里炒成一盘，洗一个锅就够，是忙碌工作日的常见吃法。",
+  "tags": [
+    "美国",
+    "炒面",
+    "牛肉",
+    "一锅出"
+  ],
+  "related_ids": [
+    "american-mac-and-cheese",
+    "american-tuna-noodle-casserole"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
