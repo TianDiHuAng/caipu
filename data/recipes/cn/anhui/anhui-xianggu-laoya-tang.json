@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-xianggu-laoya-tang",
+  "name": {
+    "zh": "香菇老鸭汤",
+    "en": "Braised Duck Soup with Shiitake",
+    "original": "香菇炖老鸭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 60,
+    "cook_min": 219,
+    "total_min": 279
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "老鸭",
+          "name_en": "old duck",
+          "amount": 900,
+          "unit": "g",
+          "note": "斩块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "温水泡发",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 60,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "枸杞",
+          "name_en": "goji berry",
+          "amount": 8,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "汤勺",
+    "漏勺",
+    "刀",
+    "砧板",
+    "炒锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "老鸭斩成四厘米块，冷水浸泡一小时，中途换两次水去掉血水。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "老鸭的腥味重，泡水这步比什么香料都管用，别省。",
+      "visual_cue": "水色泛红，肉块发白"
+    },
+    {
+      "n": 2,
+      "text": "老鸭肉块冷水下锅，加姜片与料酒煮开，撇净浮沫再煮三分钟。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "水开后再煮三分钟，腥味才逼得干净。",
+      "visual_cue": "浮沫成块，汤面转清"
+    },
+    {
+      "n": 3,
+      "text": "捞出老鸭肉块用温水冲净，沥干水分备用，香菇泡好后挤干切块。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香菇水别倒，滤净后加进汤里更香。",
+      "visual_cue": "肉块干爽，香菇去蒂"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放花生油，下咸肉片小火煸出油，再下姜片炒香。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "咸肉先煸出油，汤的底味才有层次。",
+      "visual_cue": "咸肉透明，油泛微黄"
+    },
+    {
+      "n": 5,
+      "text": "倒入老鸭肉块中火翻炒四分钟，炒到表面收紧、皮下油脂渗出。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "表面炒到出油，汤才不腻也不腥，香味也出来了。",
+      "visual_cue": "肉块表面微黄，锅底见油"
+    },
+    {
+      "n": 6,
+      "text": "加料酒炒匀，把老鸭肉块转入砂锅，倒热水没过三厘米，放葱结。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "一定要加热水，冷水会让老鸭肉紧缩发硬。",
+      "visual_cue": "汤面翻滚，酒气散尽"
+    },
+    {
+      "n": 7,
+      "text": "大火煮开转小火炖九十分钟，让老鸭肉慢慢酥烂。",
+      "time_min": 92,
+      "heat": "小火",
+      "tip": "保持小泡微滚，火大了汤浑肉也柴。",
+      "visual_cue": "汤色转白，老鸭肉松软"
+    },
+    {
+      "n": 8,
+      "text": "放香菇继续炖二十五分钟，让菌香融进汤里。",
+      "time_min": 26,
+      "heat": "小火",
+      "tip": "香菇炖够时间，汤才有那股厚实的菌香。",
+      "visual_cue": "香菇饱满，汤色转浓"
+    },
+    {
+      "n": 9,
+      "text": "加盐与白胡椒调味，撒枸杞再煮三分钟，挑出葱结上桌。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "咸肉本身有咸味，先尝再决定加多少盐。",
+      "visual_cue": "汤面泛油，味浓不腥"
+    }
+  ],
+  "tips": [
+    "这款汤选肉质紧实的老鸭最合适，肉紧耐煮，汤也更鲜。",
+    "泡香菇的水滤掉沉渣后倒进锅里，香味不浪费。",
+    "咸肉是提鲜的关键，没有可以换成火腿片。",
+    "汤炖好后撇掉浮油，喝起来清爽不腻。"
+  ],
+  "common_mistakes": [
+    "老鸭肉块不焯水直接炖，整锅汤腥得下不了口，只能倒掉。",
+    "全程大火猛滚，汤煮成乳白糊状，老鸭肉块也炖散成渣。",
+    "盐早放，老鸭肉块炖两小时仍然咬不动，只能倒掉。"
+  ],
+  "substitutions": [
+    {
+      "original": "老鸭",
+      "substitute": "鸭腿",
+      "ratio": "900克:900克",
+      "note": "肉更嫩，炖制时间减二十分钟。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "蘑菇",
+      "ratio": "80克:100克",
+      "note": "香气略淡，可加两朵干香菇补味。"
+    }
+  ],
+  "variations": [
+    "加一把笋干同炖，汤更清鲜，是徽州山区的老做法。",
+    "加几段玉米与胡萝卜，做成更适合全家喝的清甜版本。"
+  ],
+  "serving_suggestion": "四人份汤菜，配米饭与一碟凉拌菜，秋冬进补最合适，也可作为宴客的头道汤。",
+  "storage": "冷藏两天内吃完，撇去浮油后复热至完全沸腾；这款汤不建议冷冻，风味会明显下降。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 34,
+    "fat_g": 38,
+    "carbs_g": 8,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "老鸭肉须炖至完全熟透、骨髓不带血水；剩余汤品须冷藏并在两天内彻底复热后食用。"
+  ],
+  "origin_note": "徽州人炖老鸭必配山里的干香菇，加一小块咸肉吊鲜，砂锅小火煨到老鸭肉一夹就脱骨。汤色奶白带菌香，是秋燥时最养人的一锅。",
+  "tags": [
+    "徽菜",
+    "汤",
+    "老鸭",
+    "香菇"
+  ],
+  "related_ids": [
+    "huizhou-laoya-tang",
+    "anhui-dongsun-xianrou-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

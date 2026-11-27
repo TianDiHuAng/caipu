@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-shaguo-doufu",
+  "name": {
+    "zh": "砂锅豆腐",
+    "en": "Clay Pot Tofu",
+    "original": "砂锅豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 39,
+    "total_min": 57
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 500,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 60,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "泡发切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 50,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎豆腐",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "木铲",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐切成一厘米厚的方块，铺在厨房纸上压十分钟吸走表面水分。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "压过水的豆腐煎时不易碎，也更好吸味。",
+      "visual_cue": "豆腐干爽，表面无积水"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒三十毫升花生油，中火把豆腐两面各煎三分钟至微黄。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "一面结壳再翻动，急着翻就会散。",
+      "visual_cue": "两面金黄，边缘挺立"
+    },
+    {
+      "n": 3,
+      "text": "咸肉切薄片，冷锅小火干煸两分钟至边缘卷起出油。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "咸肉先煸出油，砂锅的底味全靠它。",
+      "visual_cue": "肉片透明卷边，油清亮"
+    },
+    {
+      "n": 4,
+      "text": "砂锅放少许底油，下姜片与咸肉片炒香，再下香菇与冬笋翻炒。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "冬笋先炒过能去掉涩味，汤更清甜。",
+      "visual_cue": "菌笋断生，香气升起"
+    },
+    {
+      "n": 5,
+      "text": "淋料酒与生抽炒匀，倒入高汤煮开，转小火煮五分钟。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "高汤要热着倒，砂锅骤冷骤热容易裂。",
+      "visual_cue": "汤面翻滚，酱色均匀"
+    },
+    {
+      "n": 6,
+      "text": "把煎好的豆腐块轻轻码进砂锅，加葱结，小火炖十分钟。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "轻放轻推，豆腐才不散成碎渣。",
+      "visual_cue": "豆腐微鼓，汤汁渐浓"
+    },
+    {
+      "n": 7,
+      "text": "加盐与白胡椒调味，放青蒜段继续炖两分钟至香气透出。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "青蒜最后下，久炖会发黄发软。",
+      "visual_cue": "蒜叶翠绿，汤面泛油"
+    },
+    {
+      "n": 8,
+      "text": "挑出葱结，连砂锅端上桌，趁滚烫时盛到碗里。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "砂锅上桌保温久，越吃越入味。",
+      "visual_cue": "汤汁微滚，豆腐完整"
+    }
+  ],
+  "tips": [
+    "豆腐选质地紧实的老豆腐，煎得住也炖不烂，不容易碎成渣。",
+    "咸肉本身有咸味，加盐前先尝一口汤。",
+    "加一勺猪油同炖，汤更浓更香，是徽州老做法。",
+    "剩下的汤汁别倒，拌一碗白米饭最能尝出咸肉和笋的鲜味。"
+  ],
+  "common_mistakes": [
+    "豆腐不压水就煎，下锅粘底碎成渣。",
+    "砂锅空烧或骤加冷汤，锅体开裂漏汤。",
+    "炖的时间太短，豆腐里面还是白味。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸肉",
+      "substitute": "火腿",
+      "ratio": "60克:60克",
+      "note": "咸度更高，盐量须减少。"
+    },
+    {
+      "original": "冬笋",
+      "substitute": "笋干",
+      "ratio": "100克:50克",
+      "note": "须提前泡发六小时，炖制时间加十分钟。"
+    }
+  ],
+  "variations": [
+    "加几只虾仁同炖，鲜味更足，是徽州宴席上的做法。",
+    "把豆腐换成冻豆腐，孔隙更多，吸饱汤后一咬就爆汁。"
+  ],
+  "serving_suggestion": "三人份主菜，配米饭最下饭，也可作为火锅前的暖锅小菜。",
+  "storage": "冷藏两天内吃完，复热须小火慢炖并补少量高汤；豆腐久放易发酸，不建议冷冻后再炖。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 380,
+    "protein_g": 24,
+    "fat_g": 26,
+    "carbs_g": 12,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "菜品须炖至完全沸腾、豆腐中心热透；剩余部分须冷藏并在两天内彻底复热后食用。"
+  ],
+  "origin_note": "徽州人冬天把砂锅架在炭炉上，豆腐煎过再和咸肉、香菇、冬笋一起炖。原锅上桌边聊边吃，汤越煮越浓，最后连汤都不剩。",
+  "tags": [
+    "徽菜",
+    "豆腐",
+    "砂锅",
+    "咸肉"
+  ],
+  "related_ids": [
+    "huizhou-yancai-shao-doufu",
+    "anhui-doufu-shao-xiaren"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:09:20.650Z",
+  "generatedAt": "2026-11-27T16:42:39.588Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2747,
-    "coverage": 0.839034819792303
+    "actual": 2755,
+    "coverage": 0.8414783139890043
   },
   "regions": {
     "cn": [
@@ -1663,17 +1663,18 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 88,
+        "actual": 96,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "anhui-banli-shaoji",
               "anhui-banli-shaorou",
               "anhui-fenzheng-rou",
+              "anhui-hongshao-niunan",
               "anhui-huangshan-shao-sun",
               "anhui-meigancai-kourou",
               "huizhou-daobanxiang",
@@ -1690,11 +1691,12 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "anhui-douchi-chao-sun",
               "anhui-dougan-chao-suanmiao",
               "anhui-jiaobai-chaorou",
+              "anhui-suanla-tudousi",
               "anhui-suanmiao-chao-larou",
               "anhui-yancai-chao-dougan",
               "huizhou-dongsun-chao-xianggu",
@@ -1711,10 +1713,12 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 14,
             "ids": [
               "anhui-dongsun-xianrou-tang",
               "anhui-doufu-geng-tang",
+              "anhui-shanyao-paigu-tang",
+              "anhui-xianggu-laoya-tang",
               "anhui-xuecai-rousi-tang",
               "huainan-niurou-tang",
               "huizhou-donggua-xianrou-tang",
@@ -1731,8 +1735,9 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
+              "anhui-furu-kongxincai",
               "anhui-lajiaohu",
               "anhui-mao-doufu",
               "huizhou-chou-guiyu",
@@ -1751,8 +1756,9 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
+              "anhui-congyou-bing",
               "anhui-huangshan-shaobing",
               "huizhou-baofu-jiao",
               "huizhou-baolu-guo",
@@ -1770,22 +1776,24 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "anhui-chunsun-chaodan",
               "anhui-doufu-zhengdan",
               "anhui-huotui-zhengdan",
-              "anhui-jiucai-chaodan"
+              "anhui-jiucai-chaodan",
+              "anhui-xiaren-zhengdan"
             ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "anhui-doufu-shao-xiaren",
               "anhui-roumo-zheng-doufu",
+              "anhui-shaguo-doufu",
               "anhui-sun-si-doufu-pi",
               "anhui-sunpian-jian-doufu",
               "huizhou-laba-doufu"

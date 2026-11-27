@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-hongshao-niunan",
+  "name": {
+    "zh": "徽州红烧牛腩",
+    "en": "Braised Beef Brisket",
+    "original": "红烧牛腩"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 196,
+    "total_min": 241
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛腩",
+          "name_en": "beef brisket",
+          "amount": 800,
+          "unit": "g",
+          "note": "切四厘米块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "温水泡发",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "一小块",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 4,
+          "unit": "piece",
+          "note": "去籽",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 12,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 25,
+          "unit": "g",
+          "note": "增厚",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛腩切成四厘米见方的块，放进清水里浸泡四十分钟，中途换两次水。",
+      "time_min": 42,
+      "heat": "无火",
+      "tip": "泡出血水后汤才清亮，也少一半腥味。",
+      "visual_cue": "水面泛红，肉块发白"
+    },
+    {
+      "n": 2,
+      "text": "泡好的牛腩冷水下锅，加十毫升料酒与三片姜，中火煮开撇净浮沫。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "撇沫要撇到汤面几乎无白沫为止，别急。",
+      "visual_cue": "浮沫成块，汤色转清"
+    },
+    {
+      "n": 3,
+      "text": "捞出牛腩用温水冲洗干净，砂锅烧一锅热水备用。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "一定用温水洗，冷水一激肉会紧成柴。",
+      "visual_cue": "肉块干净，水已烧开"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放花生油与冰糖，小火慢慢炒到糖化开泛起枣红色小泡。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "糖色一到枣红立刻下肉，再等就发苦。",
+      "visual_cue": "糖液枣红，细泡密集"
+    },
+    {
+      "n": 5,
+      "text": "倒入牛腩快速翻炒两分钟，让每块肉都裹上糖色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "动作要快，糖色裹匀了成品才有亮光。",
+      "visual_cue": "肉块油亮，色深红"
+    },
+    {
+      "n": 6,
+      "text": "加姜片、八角、桂皮、干辣椒与黄豆酱炒香，淋剩余料酒与生抽、老抽。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "酱料炒过再加水，香味才放得出来。",
+      "visual_cue": "酱香扑鼻，锅底无干粉"
+    },
+    {
+      "n": 7,
+      "text": "把牛腩连汤汁转入砂锅，加热水没过肉面三厘米，放葱结小火炖九十分钟。",
+      "time_min": 92,
+      "heat": "小火",
+      "tip": "水面保持微微冒泡，大滚会让肉散。",
+      "visual_cue": "汤面微沸，肉块浮起"
+    },
+    {
+      "n": 8,
+      "text": "放入泡发好的香菇继续炖二十分钟，让菌香渗进汤里。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "香菇后放，久炖会烂成渣，香味也散。",
+      "visual_cue": "香菇吸汤鼓起，汤色转深"
+    },
+    {
+      "n": 9,
+      "text": "挑出葱结与香料，加盐调味，中火收汁八分钟至汤汁挂勺。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "收到汤能挂住勺背就停，太干肉会柴。",
+      "visual_cue": "汤汁浓稠，油亮泛光"
+    }
+  ],
+  "tips": [
+    "牛腩选带筋膜的腹肋部位，炖完才软糯带胶质。",
+    "盐最后放，早放会让肉纤维收紧，久炖也不烂。",
+    "砂锅上桌保温久，冬天吃到最后一碗还是热的。",
+    "剩下的汤第二天加点萝卜同炖，味道更浓。"
+  ],
+  "common_mistakes": [
+    "炒糖色炒过了头，整锅带焦苦味，只能弃掉。",
+    "中途加冷水，肉块骤缩，炖两小时依旧发硬。",
+    "全程大火猛滚，肉散成碎块，汤也浑得发白。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛腩",
+      "substitute": "牛腱",
+      "ratio": "800克:800克",
+      "note": "筋膜更多，炖制时间加三十分钟。"
+    },
+    {
+      "original": "黄豆酱",
+      "substitute": "豆瓣酱",
+      "ratio": "25克:20克",
+      "note": "咸辣更突出，盐量须相应减少。"
+    }
+  ],
+  "variations": [
+    "加一把土豆块同炖，吸满肉汁后比肉还受欢迎。",
+    "改用梅干菜打底，就是更接近徽州老味道的干菜牛腩。"
+  ],
+  "serving_suggestion": "四人份主菜，配白米饭或锅巴，浇一勺汤汁在饭上最下饭。",
+  "storage": "冷藏三天内吃完，汤汁与肉分开存放；复热小火加热并补少量热水，不建议反复冷冻。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 620,
+    "protein_g": 38,
+    "fat_g": 44,
+    "carbs_g": 12,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖至完全熟透、中心不再泛红；剩余菜品须冷藏并在三天内彻底复热后食用。"
+  ],
+  "origin_note": "徽州人烧肉讲究重油重色重火功，牛腩先泡血水再炒糖色，砂锅小火慢炖到筷子一插就透。汤浓得能挂勺，是冬天下饭的头一道。",
+  "tags": [
+    "徽菜",
+    "牛腩",
+    "红烧",
+    "砂锅"
+  ],
+  "related_ids": [
+    "anhui-meigancai-kourou",
+    "huizhou-hongshaorou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
