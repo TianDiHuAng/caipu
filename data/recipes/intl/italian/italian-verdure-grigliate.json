@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-verdure-grigliate",
+  "name": {
+    "zh": "意大利烤蔬菜拼盘",
+    "en": "Grilled Vegetables",
+    "original": "Verdure Grigliate"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "appetizer",
+    "main-vegetable"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 51,
+    "cook_min": 25,
+    "total_min": 76
+  },
+  "servings": 4,
+  "flavor": [
+    "smoky",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 300,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 300,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "红椒",
+          "name_en": "red bell pepper",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 10,
+          "unit": "g",
+          "note": "撕碎",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "刷面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "烤箱",
+    "刀",
+    "砧板",
+    "刷子",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "西葫芦与茄子斜切成八毫米厚的片，彩椒切成宽条。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切得厚薄一致，烤的时候才会同时成熟。",
+      "visual_cue": "蔬菜片厚薄均匀，形状整齐"
+    },
+    {
+      "n": 2,
+      "text": "蔬菜片平铺在大盘上，两面都撒盐，静置十五分钟出水。",
+      "time_min": 16,
+      "heat": "无火",
+      "tip": "茄子撒盐能去涩味，也不至于吸太多油。",
+      "visual_cue": "表面渗出水珠，茄子变软"
+    },
+    {
+      "n": 3,
+      "text": "用厨房纸把蔬菜表面的水分和盐粒彻底吸干，越干越容易烤脆。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "吸得越干，烤出来越香不水塌。",
+      "visual_cue": "表面干爽，无积水"
+    },
+    {
+      "n": 4,
+      "text": "烤盘铺纸，蔬菜平铺一层，用刷子两面刷上橄榄油。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "别堆叠，铺一层才烤得均匀。",
+      "visual_cue": "表面油亮，不重叠"
+    },
+    {
+      "n": 5,
+      "text": "撒黑胡椒，烤箱两百度烤十分钟，取出翻面再烤八分钟。",
+      "time_min": 19,
+      "heat": "大火",
+      "tip": "烤到边缘卷起带焦斑才是对的。",
+      "visual_cue": "边缘微焦，蔬菜变软"
+    },
+    {
+      "n": 6,
+      "text": "洋葱片与整瓣大蒜放在烤盘边角同烤，烤到发甜。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "大蒜整瓣烤才不焦，甜味也更足。",
+      "visual_cue": "洋葱边缘焦糖化上色"
+    },
+    {
+      "n": 7,
+      "text": "烤好的蔬菜放凉到温热，加蒜末、柠檬汁与香醋拌匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "温热时拌，味道才吃得进去。",
+      "visual_cue": "蔬菜油润，汁水挂住"
+    },
+    {
+      "n": 8,
+      "text": "最后撒盐与撕碎的罗勒叶，静置十分钟入味后上桌。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "罗勒最后放，香气清爽不闷。",
+      "visual_cue": "表面点缀绿叶，光泽柔和"
+    }
+  ],
+  "tips": [
+    "蔬菜可以提前烤好，吃前回温再拌更入味。",
+    "烤架上烤能带更明显的焦纹，比烤箱更香。",
+    "剩下的蔬菜夹面包做三明治，第二天味道更好。",
+    "加几颗黑橄榄与酸豆，咸鲜味更足。"
+  ],
+  "common_mistakes": [
+    "蔬菜切得太薄，一烤就干缩成片，完全嚼不出水分。",
+    "不撒盐直接烤，茄子吸油吸到发腻。",
+    "烤完立刻拌，蔬菜太软烂，嚼不出层次。"
+  ],
+  "substitutions": [
+    {
+      "original": "香醋",
+      "substitute": "柠檬汁",
+      "ratio": "15毫升:15毫升",
+      "note": "酸味更直白，用量减少五毫升。"
+    },
+    {
+      "original": "茄子",
+      "substitute": "蘑菇",
+      "ratio": "300克:300克",
+      "note": "切厚片同烤，口感更脆。"
+    }
+  ],
+  "variations": [
+    "加几片马铃薯同烤，做成更有饱腹感的版本。",
+    "把蔬菜切小丁拌入煮熟的意面，做成烤蔬菜意面沙拉。"
+  ],
+  "serving_suggestion": "四人份前菜，配面包、奶酪与火腿组成冷盘，也可作为烤肉配菜。",
+  "storage": "冷藏三天内吃完，食用前回温；拌过醋汁的蔬菜不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 180,
+    "protein_g": 3,
+    "fat_g": 14,
+    "carbs_g": 12,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "蔬菜须烤至完全熟软；拌制后的蔬菜须冷藏保存，三天内食用完毕。"
+  ],
+  "origin_note": "意大利餐桌上的常备前菜，西葫芦、茄子与彩椒切片烤出焦斑，再用橄榄油、柠檬和香醋拌一拌。凉吃热吃都行，是夏天下酒的好搭档。",
+  "tags": [
+    "意大利",
+    "蔬菜",
+    "前菜",
+    "烤制"
+  ],
+  "related_ids": [
+    "italian-peperonata"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

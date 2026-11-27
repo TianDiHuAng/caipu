@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-pollo-alla-valdostana",
+  "name": {
+    "zh": "瓦尔多斯塔纳火腿芝士鸡",
+    "en": "Chicken Valdostana",
+    "original": "Pollo alla Valdostana"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 34,
+    "total_min": 49
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "rich",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 400,
+          "unit": "g",
+          "note": "片成薄片",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 80,
+          "unit": "g",
+          "note": "薄片",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 120,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 50,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 3,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 60,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "锅铲",
+    "烤箱",
+    "烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡胸肉横片成两片薄片，用肉锤轻拍到厚薄一致。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "拍薄能让肉受热均匀，卷边也少。",
+      "visual_cue": "肉片厚约一厘米，形状整齐"
+    },
+    {
+      "n": 2,
+      "text": "两面撒盐与黑胡椒，再薄薄裹上一层面粉抖掉多余的粉。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "粉要薄，厚了会糊成一层面壳。",
+      "visual_cue": "表面薄粉均匀，无干块"
+    },
+    {
+      "n": 3,
+      "text": "平底锅放黄油与橄榄油，中火把鸡片两面各煎三分钟。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "黄油加橄榄油一起用，不容易烧焦。",
+      "visual_cue": "两面金黄，肉片微鼓"
+    },
+    {
+      "n": 4,
+      "text": "盛出鸡片，原锅下蘑菇片煎五分钟至微微上色。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "蘑菇吸锅里的油香，比单独煎更好吃。",
+      "visual_cue": "蘑菇变软，边缘金黄"
+    },
+    {
+      "n": 5,
+      "text": "倒白葡萄酒煮一分钟，加百里香，收成薄薄的汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "汁不用多，后面还要进烤箱。",
+      "visual_cue": "酒汁半干，锅底有酱香"
+    },
+    {
+      "n": 6,
+      "text": "烤盘底铺蘑菇，鸡片放上去，各铺一片火腿与一片奶酪。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "火腿垫在奶酪下面，咸味会渗进鸡肉。",
+      "visual_cue": "层次分明，奶酪盖满肉片"
+    },
+    {
+      "n": 7,
+      "text": "淋上锅里剩下的汁，烤箱两百度烤十分钟至奶酪融化起斑。",
+      "time_min": 11,
+      "heat": "大火",
+      "tip": "烤到奶酪冒泡起焦点，香味才足。",
+      "visual_cue": "奶酪金黄融化，边缘起泡"
+    },
+    {
+      "n": 8,
+      "text": "出炉后静置两分钟，让汁水重新回到肉里，再切片上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "马上切会流汁，静置能让肉更嫩。",
+      "visual_cue": "切面湿润，奶酪完整包裹"
+    }
+  ],
+  "tips": [
+    "鸡胸拍薄后煎得快，别过火，容易发柴。",
+    "奶酪选容易融化的，配一半帕玛森更香。",
+    "没有白葡萄酒，用高汤加几滴柠檬汁也行。",
+    "配一份煮青豆或土豆泥，颜色和口感都平衡。"
+  ],
+  "common_mistakes": [
+    "鸡片太厚不拍，外面焦了里面还带粉色。",
+    "面粉裹太厚，煎完一层硬壳盖住肉香。",
+    "奶酪烤过了头，表面焦黑发苦，盖住了火腿的咸香。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "鸡腿肉",
+      "ratio": "400克:400克",
+      "note": "更嫩，需多煎两分钟。"
+    },
+    {
+      "original": "火腿",
+      "substitute": "培根",
+      "ratio": "80克:70克",
+      "note": "烟熏味更重，盐量减少一克。"
+    }
+  ],
+  "variations": [
+    "用鼠尾草代替百里香，香气更贴近北部山区风味。",
+    "底下垫一层菠菜同烤，做成带蔬菜的版本。"
+  ],
+  "serving_suggestion": "两人份主菜，配烤土豆、清炒青豆和一杯干白葡萄酒。",
+  "storage": "冷藏两天内吃完，复热盖锡纸烤八分钟，避免奶酪直接焦化。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 690,
+    "protein_g": 58,
+    "fat_g": 42,
+    "carbs_g": 22,
+    "sodium_mg": 1560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡胸须煎烤至中心完全熟透、无粉色，中心温度达七十四度以上；火腿为熟制品，复热须热透。"
+  ],
+  "origin_note": "来自意大利西北角瓦尔多斯塔纳的山地菜，鸡片煎香后铺火腿与当地奶酪进烤箱烤化。咸香浓郁，是阿尔卑斯山脚下最实在的一道主菜。",
+  "tags": [
+    "意大利",
+    "鸡肉",
+    "火腿",
+    "奶酪"
+  ],
+  "related_ids": [
+    "italian-chicken-parmesan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

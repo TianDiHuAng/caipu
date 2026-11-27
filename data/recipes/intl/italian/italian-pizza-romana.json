@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-pizza-romana",
+  "name": {
+    "zh": "罗马式薄底披萨",
+    "en": "Roman Thin-Crust Pizza",
+    "original": "Pizza Romana"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 75,
+    "cook_min": 51,
+    "total_min": 126
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "高筋面粉",
+          "name_en": "bread flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "做饼底",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 3,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "做酱",
+          "optional": false
+        },
+        {
+          "name": "马苏里拉",
+          "name_en": "mozzarella",
+          "amount": 150,
+          "unit": "g",
+          "note": "撕小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 10,
+          "unit": "g",
+          "note": "鲜叶",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "和面与抹面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "助发酵",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "擀面杖",
+    "大碗",
+    "保鲜膜",
+    "刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "高筋面粉、盐与白糖混匀，酵母用两百毫升温水化开倒进面粉里。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "水温摸着温和就好，太烫会把酵母烫死。",
+      "visual_cue": "面粉呈絮状，无干粉"
+    },
+    {
+      "n": 2,
+      "text": "揉面十分钟至表面光滑，盖上保鲜膜在温暖处发酵一小时。",
+      "time_min": 70,
+      "heat": "无火",
+      "tip": "面团发到两倍大，手指戳洞不回缩即可。",
+      "visual_cue": "面团膨胀饱满，表面光滑"
+    },
+    {
+      "n": 3,
+      "text": "番茄划十字烫水去皮，切碎后与大蒜、牛至下锅煮十五分钟。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "酱要收得稠一点，铺在饼上才不会泡软饼底。",
+      "visual_cue": "酱汁浓稠，色深红"
+    },
+    {
+      "n": 4,
+      "text": "发好的面团分成两份，用手掌轻轻按开成圆形，再用擀面杖擀薄。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "别用擀面杖硬压边缘，气泡留着烤出来才蓬松。",
+      "visual_cue": "饼底厚约三毫米，圆形规整"
+    },
+    {
+      "n": 5,
+      "text": "烤盘抹油，饼底摊上去，用叉子在表面扎一些小孔。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "扎孔能排气，饼底才不会鼓成大泡。",
+      "visual_cue": "饼面小孔均匀，边缘留一圈"
+    },
+    {
+      "n": 6,
+      "text": "薄薄抹一层番茄酱，撒马苏里拉，淋橄榄油与黑胡椒。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "料别铺太多，薄底披萨吃的是饼皮的脆。",
+      "visual_cue": "奶酪分布均匀，边缘露空"
+    },
+    {
+      "n": 7,
+      "text": "烤箱预热到最高温，烤盘放最下层烤八分钟至边缘起斑。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "高温短烤是关键，饼底才会脆而不干。",
+      "visual_cue": "边缘鼓泡带焦斑，奶酪融化"
+    },
+    {
+      "n": 8,
+      "text": "出炉后撒上新鲜罗勒叶，趁热切成六块即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "罗勒关火后放，香气才保留得住。",
+      "visual_cue": "罗勒翠绿，奶酪微微流动"
+    }
+  ],
+  "tips": [
+    "面团提前一晚冷藏发酵，风味会更足更香。",
+    "烤盘一定要预热到烫手，饼底才脆。",
+    "马苏里拉先沥干水分，免得烤出一滩水。",
+    "家里烤箱温度不高，可以用最大火力加烤石配合。"
+  ],
+  "common_mistakes": [
+    "番茄酱抹太厚，中间永远烤不脆。",
+    "面团没发起来就直接擀，饼底又硬又薄。",
+    "一次把奶酪堆太厚，表面焦了里面还是凉的。"
+  ],
+  "substitutions": [
+    {
+      "original": "马苏里拉",
+      "substitute": "奶酪",
+      "ratio": "150克:130克",
+      "note": "咸度更高，盐量需减少两克。"
+    },
+    {
+      "original": "高筋面粉",
+      "substitute": "低筋面粉",
+      "ratio": "300克:300克",
+      "note": "口感更酥，但延展性变差。"
+    }
+  ],
+  "variations": [
+    "抹一层橄榄油蒜末代替番茄酱，做成罗马白披萨。",
+    "铺上火腿与蘑菇，做成更丰盛的版本，烤制时间加两分钟。"
+  ],
+  "serving_suggestion": "两人份主食，切六块，配一份芝麻菜沙拉与一杯红葡萄酒。",
+  "storage": "现烤现吃最好，冷藏后的饼底复热用平底锅干烙两分钟可恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 780,
+    "protein_g": 30,
+    "fat_g": 26,
+    "carbs_g": 104,
+    "sodium_mg": 1420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "饼底须烤至中心熟透、无生面糊，奶酪须完全融化；剩余披萨冷藏不超一天，复热须热透。"
+  ],
+  "origin_note": "罗马街头的方形薄底披萨，饼底薄到几乎透明，脆得能折断。只用番茄、奶酪和橄榄油几样简单的料，烤到边缘起焦斑，吃的就是酥脆本身。",
+  "tags": [
+    "意大利",
+    "披萨",
+    "薄底",
+    "罗马"
+  ],
+  "related_ids": [
+    "italian-pizza-margherita"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

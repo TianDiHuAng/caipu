@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:19:03.130Z",
+  "generatedAt": "2026-11-27T15:46:19.702Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2729,
-    "coverage": 0.8335369578497251
+    "actual": 2739,
+    "coverage": 0.8365913255956017
   },
   "regions": {
     "cn": [
@@ -3997,13 +3997,13 @@
         "en": "Italian",
         "tier": "A",
         "target": 107,
-        "actual": 86,
+        "actual": 96,
         "cells": [
           {
             "category": "staple-bread",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "ciabatta",
               "focaccia",
@@ -4015,6 +4015,8 @@
               "italian-piadina-romagnola",
               "italian-pizza-bianca",
               "italian-pizza-margherita",
+              "italian-pizza-romana",
+              "italian-schiacciata",
               "italian-taralli"
             ]
           },
@@ -4022,15 +4024,17 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 14,
             "ids": [
               "chicken-cacciatore",
               "italian-chicken-parmesan",
+              "italian-pollo-ai-funghi",
               "italian-pollo-al-forno-patate",
               "italian-pollo-alla-cacciatora",
               "italian-pollo-alla-marinara",
               "italian-pollo-alla-milanese",
               "italian-pollo-alla-pizzaiola",
+              "italian-pollo-alla-valdostana",
               "italian-pollo-in-padella",
               "italian-pollo-ripieno",
               "pollo-al-limone",
@@ -4042,7 +4046,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "biscotti",
               "cannoli-siciliani",
@@ -4053,6 +4057,7 @@
               "italian-granita-al-limone",
               "italian-torta-al-limone",
               "italian-torta-caprese",
+              "italian-torta-di-mele",
               "italian-zeppole",
               "panna-cotta",
               "tiramisu"
@@ -4062,7 +4067,7 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "bruschetta",
               "caprese-salad",
@@ -4075,6 +4080,7 @@
               "italian-peperonata",
               "italian-polpette",
               "italian-suppli",
+              "italian-verdure-grigliate",
               "italian-vitello-tonnato"
             ]
           },
@@ -4082,12 +4088,13 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "aglio-e-olio",
               "italian-arrabbiata-sauce",
               "italian-bagna-cauda",
               "italian-marinara-sauce",
+              "italian-pesto-di-pistacchio",
               "italian-pesto-di-rucola",
               "italian-puttanesca-sauce",
               "italian-salsa-ai-peperoni",
@@ -4102,11 +4109,12 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "italian-caponata",
               "italian-ciambotta",
               "italian-parmigiana",
+              "italian-verdure-grigliate",
               "italian-zucchine-trifolate"
             ]
           },
@@ -4114,9 +4122,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "italian-frittata",
+              "italian-uova-al-forno",
               "italian-uova-al-pomodoro",
               "italian-uova-in-camicia",
               "italian-uova-strapazzate"
@@ -4126,9 +4135,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "italian-tofu-al-forno",
+              "italian-tofu-alla-cacciatora",
               "italian-tofu-alla-parmigiana",
               "italian-tofu-in-padella",
               "italian-tofu-polpette"

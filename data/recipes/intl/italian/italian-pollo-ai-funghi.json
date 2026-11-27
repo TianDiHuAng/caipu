@@ -1,0 +1,291 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-pollo-ai-funghi",
+  "name": {
+    "zh": "意大利蘑菇炖鸡",
+    "en": "Chicken with Mushrooms",
+    "original": "Pollo ai Funghi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 48,
+    "total_min": 70
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 700,
+          "unit": "g",
+          "note": "带皮切块",
+          "optional": false
+        },
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 300,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 4,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎装饰",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 25,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 80,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 150,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "木铲",
+    "盘",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成四厘米的块，用盐与黑胡椒抓匀腌十分钟。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "带皮那面朝下先煎，皮脆油香才出得来。",
+      "visual_cue": "肉块大小均匀，表面挂盐"
+    },
+    {
+      "n": 2,
+      "text": "蘑菇擦净切片，洋葱切碎，大蒜切末分开放。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "蘑菇别切太薄，煎过会缩成一半。",
+      "visual_cue": "蘑菇片均匀，色白"
+    },
+    {
+      "n": 3,
+      "text": "平底锅倒橄榄油，鸡皮朝下中火煎五分钟至金黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "下锅别急着动，等皮离锅自然松开。",
+      "visual_cue": "鸡皮金黄酥脆，锅底有油"
+    },
+    {
+      "n": 4,
+      "text": "翻面再煎三分钟至两面金黄，盛出备用，锅里留一层底油。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "这一步只上色，内部后面还要炖。",
+      "visual_cue": "两面金黄，中心略生"
+    },
+    {
+      "n": 5,
+      "text": "下洋葱碎炒三分钟，再加蒜末与百里香炒出香味。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蒜末最后放，炒焦会发苦。",
+      "visual_cue": "洋葱透明，香气升起"
+    },
+    {
+      "n": 6,
+      "text": "把蘑菇倒进锅里中火煎六分钟至出水又收干。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "蘑菇先煎到锅底干，鲜味才浓缩。",
+      "visual_cue": "蘑菇缩小，锅底无汤"
+    },
+    {
+      "n": 7,
+      "text": "倒白葡萄酒煮两分钟至酒气挥发，把鸡块放回锅中。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "酒气煮挥发，只留果香不留酒精味。",
+      "visual_cue": "酒液减半，香气偏甜"
+    },
+    {
+      "n": 8,
+      "text": "加高汤与黄油，转小火盖盖炖十五分钟至鸡肉软嫩。",
+      "time_min": 17,
+      "heat": "小火",
+      "tip": "汤汁微沸就行，滚太猛鸡肉会散。",
+      "visual_cue": "汤汁微沸，鸡肉能用筷子穿透"
+    },
+    {
+      "n": 9,
+      "text": "开盖收汁至浓稠挂勺，尝味补盐，撒香菜碎出锅。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "收汁要不断晃锅，免得蘑菇粘底。",
+      "visual_cue": "酱汁浓稠发亮，裹住鸡块"
+    }
+  ],
+  "tips": [
+    "用鸡腿肉比鸡胸嫩，久炖也不发柴。",
+    "蘑菇混一半香菇，鲜味层次会明显提升。",
+    "白葡萄酒没有的话，用高汤加半勺白醋替代。",
+    "剩下的酱汁拌意面或抹面包都很合适。"
+  ],
+  "common_mistakes": [
+    "鸡肉不煎直接炖，皮软发腻，汤汁也不香。",
+    "蘑菇和鸡一起下锅，出水太多变成水煮鸡。",
+    "大火收汁又不搅动，蘑菇糊在锅底发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "白葡萄酒",
+      "substitute": "高汤",
+      "ratio": "80毫升:90毫升",
+      "note": "加半勺白醋补酸度。"
+    },
+    {
+      "original": "蘑菇",
+      "substitute": "白蘑菇",
+      "ratio": "300克:300克",
+      "note": "味道更温和，适合不爱菌味的人。"
+    }
+  ],
+  "variations": [
+    "加两勺淡奶油收汁，做成奶香蘑菇鸡，配面包吸汁。",
+    "最后撒一把帕玛森，咸鲜更浓，是北部的吃法。"
+  ],
+  "serving_suggestion": "三人份主菜，配烤土豆、意面或一份硬面包，用面包把汁擦干净。",
+  "storage": "冷藏两天内吃完，复热小火加两勺高汤；含奶油版本不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 580,
+    "protein_g": 44,
+    "fat_g": 38,
+    "carbs_g": 9,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炖至完全熟透、中心无粉色，中心温度达七十四度以上；隔夜须冷藏并彻底复热。"
+  ],
+  "origin_note": "意大利北部的家常菜，鸡块煎香后与蘑菇、白葡萄酒一起炖。酱汁浓厚带着菌香，配面包或意面都能把盘子擦干净。",
+  "tags": [
+    "意大利",
+    "鸡肉",
+    "蘑菇",
+    "炖菜"
+  ],
+  "related_ids": [
+    "italian-pollo-in-padella"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

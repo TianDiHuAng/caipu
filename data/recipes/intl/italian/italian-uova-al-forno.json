@@ -1,0 +1,268 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-uova-al-forno",
+  "name": {
+    "zh": "意式烤蛋盅",
+    "en": "Baked Eggs with Tomato",
+    "original": "Uova al Forno"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 27,
+    "total_min": 52
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "rich",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "室温",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "去皮切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 8,
+          "unit": "g",
+          "note": "撕碎",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 30,
+          "unit": "g",
+          "note": "刨碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 2,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "小烤盅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "汤勺",
+    "烤箱"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄划十字烫水去皮，切成小丁，洋葱与大蒜切碎。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "番茄去皮口感才细，皮会卷成硬丝。",
+      "visual_cue": "番茄丁均匀，无皮"
+    },
+    {
+      "n": 2,
+      "text": "平底锅热橄榄油，下洋葱碎小火炒四分钟至透明。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "洋葱炒透出甜味，酱底才不酸。",
+      "visual_cue": "洋葱透明发亮，不焦"
+    },
+    {
+      "n": 3,
+      "text": "加蒜末与牛至炒三十秒，倒入番茄丁中火煮八分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "番茄要煮到化开，锅铲能划出清晰痕迹。",
+      "visual_cue": "酱汁浓稠，色深红"
+    },
+    {
+      "n": 4,
+      "text": "加盐与黑胡椒调味，撒一半罗勒拌匀后离火。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "罗勒留一半最后撒，香气更有层次。",
+      "visual_cue": "酱体抱团，香气浓郁"
+    },
+    {
+      "n": 5,
+      "text": "烤盅内壁抹油，把番茄酱分装到两个盅里铺平。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱别装太满，给鸡蛋留出位置。",
+      "visual_cue": "酱面平整，距盅口一厘米"
+    },
+    {
+      "n": 6,
+      "text": "用勺子在酱里压出两个小坑，把鸡蛋逐个磕进坑里。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先压坑再磕蛋，蛋黄才会留在中间。",
+      "visual_cue": "蛋黄完整居中，蛋白摊开"
+    },
+    {
+      "n": 7,
+      "text": "撒盐、帕玛森与剩余罗勒，烤箱两百度烤十分钟。",
+      "time_min": 11,
+      "heat": "大火",
+      "tip": "烤到蛋白凝固、蛋黄还晃就可以出炉。",
+      "visual_cue": "蛋白不透明，蛋黄微晃"
+    },
+    {
+      "n": 8,
+      "text": "出炉后稍放两分钟，让蛋黄稠度稳定下来再端上桌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "余温会让蛋黄继续变稠，别等太久。",
+      "visual_cue": "蛋黄半流心，奶酪融化"
+    }
+  ],
+  "tips": [
+    "鸡蛋提前从冰箱取出回温，烤的时候受热更均匀。",
+    "番茄酱可以提前做好，冷藏三天内用完，随时烤蛋。",
+    "喜欢辣味可以加一小撮辣椒碎，风味更立体。",
+    "用浅口小盅比深碗好，蛋黄更容易熟得刚好。"
+  ],
+  "common_mistakes": [
+    "酱装太满，鸡蛋磕进去直接溢出流到烤盘。",
+    "烤过头蛋白发硬、蛋黄全熟，失去流心口感。",
+    "番茄没煮浓就进烤箱，出来一汪水。"
+  ],
+  "substitutions": [
+    {
+      "original": "帕玛森",
+      "substitute": "奶酪",
+      "ratio": "30克:25克",
+      "note": "咸度略低，盐可多加半克。"
+    },
+    {
+      "original": "牛至",
+      "substitute": "百里香",
+      "ratio": "2克:2克",
+      "note": "香气更清，适合清淡口味。"
+    }
+  ],
+  "variations": [
+    "底层垫一层炒菠菜或蘑菇，做成更饱腹的版本。",
+    "加几片火腿铺在酱上再磕蛋，咸鲜更浓。"
+  ],
+  "serving_suggestion": "两人份早餐或轻午餐，配两片烤面包片、一杯咖啡或鲜橙汁。",
+  "storage": "现做现吃最佳；番茄酱底可冷藏三天，成品不建议隔夜复热。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 300,
+    "protein_g": 18,
+    "fat_g": 21,
+    "carbs_g": 11,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须烤至蛋白完全凝固、蛋黄温热；老人、孕妇与儿童建议烤至全熟，中心温度达七十一度以上。"
+  ],
+  "origin_note": "意大利中部的家常早餐，番茄煮成浓酱铺在小盅里，磕进鸡蛋进烤箱烤到半流心。配一片烤面包，把蛋黄和酱一起抹干净。",
+  "tags": [
+    "意大利",
+    "鸡蛋",
+    "早餐",
+    "烤制"
+  ],
+  "related_ids": [
+    "italian-uova-al-pomodoro"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
