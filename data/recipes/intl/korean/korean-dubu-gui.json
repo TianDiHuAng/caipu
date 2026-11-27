@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-dubu-gui",
+  "name": {
+    "zh": "韩式煎豆腐",
+    "en": "Korean Pan-fried Tofu",
+    "original": "두부구이"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 18,
+    "total_min": 43
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "切一厘米厚方片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切细花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 5,
+          "unit": "g",
+          "note": "干锅焙香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "蘸汁主体",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡咸味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "蘸汁提香",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "蘸汁增辣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 60,
+          "unit": "ml",
+          "note": "调蘸汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "撒豆腐去水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "不粘锅",
+    "刀",
+    "砧板",
+    "小碗",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐横切成厚度一厘米的方片，用厨房纸两面按压，吸干表面水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "表面越干，煎的时候越不粘锅也不溅油。",
+      "visual_cue": "豆腐片表面干爽，纸巾湿透"
+    },
+    {
+      "n": 2,
+      "text": "豆腐片平铺撒一层薄盐，静置八分钟，让内部的水分再渗出一些。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "撒盐还能提前入一点底味，成品不寡淡。",
+      "visual_cue": "豆腐片表面渗出水珠，片身紧实"
+    },
+    {
+      "n": 3,
+      "text": "再用厨房纸吸掉渗出的水，把豆腐片两面轻拍一遍，保持表面干燥。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "这一步别省，带水下锅会溅油且煎不出脆皮。",
+      "visual_cue": "豆腐片表面无浮水，手感微涩"
+    },
+    {
+      "n": 4,
+      "text": "不粘锅烧热后放植物油，转中小火，豆腐片间隔摆开，一片一片下锅。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "片与片留空隙，粘在一起翻面容易碎。",
+      "visual_cue": "锅底油面微微起波纹，豆腐片边缘开始冒泡"
+    },
+    {
+      "n": 5,
+      "text": "保持中小火慢煎五分钟，底面金黄硬壳后再用铲子翻面，另一面同样煎五分钟。",
+      "time_min": 10,
+      "heat": "中小火",
+      "tip": "等硬壳形成了再翻，过早翻动必然粘破。",
+      "visual_cue": "两面金黄，边缘略微鼓起"
+    },
+    {
+      "n": 6,
+      "text": "煎好的豆腐片码在盘里，趁热撒上焙香的芝麻，让余温把香气激出来。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "芝麻提前干锅焙一分钟，香气比生芝麻浓很多。",
+      "visual_cue": "豆腐片金黄，芝麻粒均匀附着"
+    },
+    {
+      "n": 7,
+      "text": "小碗里放生抽、清水、白糖、蒜末、辣椒粉与香油，搅匀成蘸汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "加清水是为了让蘸汁不齁咸，比例一比二左右。",
+      "visual_cue": "蘸汁呈深褐色，表面浮一层香油"
+    },
+    {
+      "n": 8,
+      "text": "撒上葱花，把蘸汁淋在豆腐上或另盛小碟蘸食，趁热吃最好。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "喜欢更入味可以淋汁后静置两分钟再吃。",
+      "visual_cue": "豆腐片油亮，葱花翠绿点缀"
+    }
+  ],
+  "tips": [
+    "豆腐选北豆腐，水分少易成型；嫩豆腐不适合煎。",
+    "一次别煎太多，锅面挤满后温度下降，豆腐会出水变软。",
+    "蘸汁可以提前做好冷藏，吃的时候省事，风味也更融合。",
+    "剩下的豆腐片第二天用来煮汤或夹三明治都不错。"
+  ],
+  "common_mistakes": [
+    "豆腐不吸干水下锅，油花四溅，豆腐表面坑洼不脆。",
+    "火太大急着上色，外皮焦黑内部还是凉的。",
+    "刚下锅就翻动，豆腐片粘锅碎裂，一盘碎渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "老豆腐干",
+      "ratio": "450克:350克",
+      "note": "更紧实耐煎，口感偏硬但豆香浓。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "辣椒油",
+      "ratio": "5克:10毫升",
+      "note": "蘸汁不必再放香油，以免过油。"
+    }
+  ],
+  "variations": [
+    "煎好后放进酱汁里小火煮三分钟，做成酱烧版本，更适合配饭。",
+    "撒一层芝士碎进烤箱烤到融化，做成韩式 fusion 小菜。"
+  ],
+  "serving_suggestion": "配一碗热米饭与一小碟泡菜，淋上蘸汁，是很常见的韩国家常搭配。",
+  "storage": "冷藏两天内吃完，复热用平底锅小火两面各煎一分钟；蘸汁冷藏可放五天。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 280,
+    "protein_g": 20,
+    "fat_g": 19,
+    "carbs_g": 9,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆腐须煎至两面熟透热透再食用，蘸汁含生蒜，做好后冷藏并在两天内用完。"
+  ],
+  "origin_note": "韩国家常餐桌上的基础小菜，把北豆腐切片煎到两面金黄，蘸上酱油蒜末调的汁，简单却下饭。韩国主妇常说看一家的小菜做得好不好，先尝一口煎豆腐。",
+  "tags": [
+    "韩国",
+    "豆腐",
+    "小菜",
+    "家常"
+  ],
+  "related_ids": [
+    "korean-dubu-jorim",
+    "korean-gaji-namul"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

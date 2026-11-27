@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-pollo-adobado",
+  "name": {
+    "zh": "墨西哥腌辣椒烤鸡",
+    "en": "Mexican Adobo Chicken",
+    "original": "Pollo adobado"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 160,
+    "cook_min": 32,
+    "total_min": 192
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "smoky",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "带皮去骨，或整只鸡腿",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 40,
+          "unit": "g",
+          "note": "去籽泡软",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 25,
+          "unit": "ml",
+          "note": "腌料酸味",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "分次使用",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 150,
+          "unit": "ml",
+          "note": "调稀腌料",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "分层调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "搅拌机",
+    "烤盘",
+    "平底锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干辣椒剪开抖掉籽，放进热水里泡十五分钟至软化，泡椒水留一小杯备用。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "泡软才能打出细腻的腌料，硬辣椒会留下颗粒。",
+      "visual_cue": "椒身柔软能捏弯，颜色转深红"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放一半橄榄油，下洋葱丝与蒜中火炒到边缘微焦，再加番茄炒软出汁。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒到带焦边，腌料的甜味和厚度都来自这一步。",
+      "visual_cue": "洋葱边缘焦褐，番茄塌软出红汁"
+    },
+    {
+      "n": 3,
+      "text": "把炒好的料与泡软的干辣椒、牛至、白醋、盐、黑胡椒一起放进搅拌机。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "辣椒先放底下，刀片才能带得动，打得更细。",
+      "visual_cue": "料全部入杯，液体基本盖住固体"
+    },
+    {
+      "n": 4,
+      "text": "加高汤打成顺滑的深红色腌料，太稠就补两勺泡椒水，尝起来应酸辣带烟熏味。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "稠度像浓稠的浆糊最好挂肉，太稀会流掉，烤完只剩薄薄一层。",
+      "visual_cue": "腌料顺滑无颗粒，颜色深红发亮"
+    },
+    {
+      "n": 5,
+      "text": "鸡腿肉用刀在厚处划两刀，撒剩下的盐揉匀，帮助腌料渗进肉里。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "划刀别划透，只切到一半深，烤时肉才不会散。",
+      "visual_cue": "鸡肉厚处有浅刀口，表面均匀撒盐"
+    },
+    {
+      "n": 6,
+      "text": "鸡肉放进腌料里抓匀，盖好冷藏两小时以上，中途翻一次面让两面都入味。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "至少两小时，隔夜风味更足，酸味会把肉腌得更嫩。",
+      "visual_cue": "鸡肉通体裹上深红腌料"
+    },
+    {
+      "n": 7,
+      "text": "烤盘刷剩下的橄榄油，鸡腿肉皮朝上摆好，把剩下的腌料抹在表面。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "皮朝上烤上色更好看，也保住下面的肉不干。",
+      "visual_cue": "鸡肉皮面朝上，表面酱层均匀"
+    },
+    {
+      "n": 8,
+      "text": "送进两百度烤箱烤二十五分钟，最后五分钟开上火烤到表皮焦红。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "烤到最厚处流出的汁清澈才算熟，带血水要回炉。",
+      "visual_cue": "表皮焦红起小泡，肉汁清澈"
+    },
+    {
+      "n": 9,
+      "text": "出炉静置八分钟再切块，让肉汁回吸，切开时不会流一盘子。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "静置是让纤维松弛，切下去肉汁才不流失。",
+      "visual_cue": "切面肉色白嫩，盘内汁水不多"
+    }
+  ],
+  "tips": [
+    "干辣椒去籽能减辣留香，想吃更辣就留一半籽一起打。",
+    "腌料可以一次做双份，冷藏一周，腌猪排或烤蔬菜都好用。",
+    "没有烤箱可用平底锅小火带盖煎十五分钟，收尾时开盖收汁。",
+    "配玉米饼与辣椒酱一起吃，酸味和辣味更平衡，也不抢腌料本身的香。"
+  ],
+  "common_mistakes": [
+    "干辣椒没泡软就下搅拌机，腌料里全是硬颗粒，抹在肉上刺口。",
+    "鸡肉腌不到一小时就烤，只有表面有味道，里面发白寡淡。",
+    "烤完立刻切，肉汁全流到盘底，肉块变得又干又柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600克:600克",
+      "note": "肉更瘦，腌料里多加油，烤制时间减五分钟。"
+    },
+    {
+      "original": "干辣椒",
+      "substitute": "辣椒粉",
+      "ratio": "40克:20克",
+      "note": "省去泡软步骤，酸辣味稍薄，可补五毫升白醋。"
+    }
+  ],
+  "variations": [
+    "把鸡肉换成猪梅花肉，做成腌辣椒烤猪排，肉质更嫩。",
+    "腌好后用炭火烤，表皮带炭香，是墨西哥街头最常见的做法。"
+  ],
+  "serving_suggestion": "配温热玉米饼、洋葱碎与青柠角，卷着吃；也可切块盖在米饭上做成碗装。",
+  "storage": "冷藏三天内吃完，复热用烤箱一百八十度烤十分钟；腌料冷藏可放一周。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 38,
+    "fat_g": 32,
+    "carbs_g": 10,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡肉须烤至中心完全熟透、肉汁清澈无血水，接触生鸡肉的器具须彻底清洗，剩菜冷藏后彻底复热。"
+  ],
+  "origin_note": "墨西哥中部常见的腌烤做法，干辣椒泡软后与番茄、洋葱、香料打成红色腌料，把鸡腿肉腌透再烤，辣中带酸与烟熏香，是家庭聚餐和街头摊都很常见的一道。",
+  "tags": [
+    "墨西哥",
+    "烤鸡",
+    "辣椒",
+    "腌制"
+  ],
+  "related_ids": [
+    "mexican-pollo-asado",
+    "mexican-chicken-tinga"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

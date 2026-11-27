@@ -1,0 +1,233 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-palmier",
+  "name": {
+    "zh": "法式棕榈酥",
+    "en": "French Palmiers",
+    "original": "Palmiers"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 105,
+    "cook_min": 16,
+    "total_min": 121
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "中筋，做酥皮用",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 150,
+          "unit": "g",
+          "note": "冷藏，切小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 90,
+          "unit": "ml",
+          "note": "冰水",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 120,
+          "unit": "g",
+          "note": "细砂糖，裹层用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "给酥皮一点底味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "擀面杖",
+    "烤盘",
+    "刀",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉过筛到大碗里，加盐拌匀，把冷藏黄油小块丢进去，用手指把黄油和面粉搓成粗砂粒状。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "黄油一定要冰的，手温高的可以先把手泡冷水降温。",
+      "visual_cue": "粉里布满米粒大小的黄油硬粒"
+    },
+    {
+      "n": 2,
+      "text": "分次加冰水，用刮刀翻拌成团，不要揉，成团即停手，包保鲜膜冷藏松弛三十分钟。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "一揉就起筋，烤出来会硬，像饼干而不是酥皮。",
+      "visual_cue": "面团成团不粘手，表面粗糙"
+    },
+    {
+      "n": 3,
+      "text": "面团取出擀成长方形薄片，把下三分之一折上来，上三分之一盖下去，转九十度再擀开。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "这就是第一次折叠，擀的时候用匀力，别把黄油挤出来。",
+      "visual_cue": "面片厚薄均匀，边缘整齐"
+    },
+    {
+      "n": 4,
+      "text": "重复擀开与三折共三次，每次之间冷藏十五分钟，让黄油重新变硬再擀。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "黄油软了就会破层，冷藏到位是起酥的关键。",
+      "visual_cue": "面片层次分明，不发黏"
+    },
+    {
+      "n": 5,
+      "text": "案板撒一层白糖，把面片放上去，两面都沾满糖，擀成三毫米厚的长方片。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "糖层会焦化成脆壳，量要够，别舍不得撒。",
+      "visual_cue": "面片两面均匀沾满糖粒"
+    },
+    {
+      "n": 6,
+      "text": "从长边两侧向中间卷起，两边卷到在中线相遇，用保鲜膜包紧，冷冻二十分钟定型。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "冻硬才切得整齐，软着切会把层次压扁，烤完看不出心形。",
+      "visual_cue": "卷成的条状挺硬，截面呈心形"
+    },
+    {
+      "n": 7,
+      "text": "冻硬的酥皮条切成七毫米厚片，间隔摆在铺纸的烤盘上，切口朝上。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "厚度一致才烤得均匀，太薄容易焦底。",
+      "visual_cue": "切面层次清晰，间距均匀"
+    },
+    {
+      "n": 8,
+      "text": "送进两百度烤箱烤九分钟，翻面再烤七分钟，烤到两面金黄焦脆、糖层起泡。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "翻面时动作要快，糖遇冷会硬，慢了会粘住烤纸。",
+      "visual_cue": "两面金褐，糖壳油亮微泡"
+    },
+    {
+      "n": 9,
+      "text": "出炉连烤纸推到网架上散热，凉透后糖壳变脆，装罐密封保存。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "热的时候酥心还是软的，完全凉透才脆，急着吃会失望。",
+      "visual_cue": "轻敲表面发出清脆声"
+    }
+  ],
+  "tips": [
+    "黄油和面团温度是成败关键，全程别让黄油软塌出油。",
+    "糖层可混入少许肉桂粉，香气更暖，适合冬天配热茶。",
+    "切好的生坯可以冷冻一个月，随烤随吃，不用解冻。",
+    "表面撒几粒粗糖再烤，脆壳更明显，咬起来有颗粒感。"
+  ],
+  "common_mistakes": [
+    "黄油太软就擀开，层层黄油挤成一片，烤完又硬又油。",
+    "折叠次数贪多，面筋反复受力，成品缩水变硬。",
+    "切太薄，烤的时候糖壳塌下来，棕榈叶变成一片薄饼。"
+  ],
+  "substitutions": [
+    {
+      "original": "白糖",
+      "substitute": "红糖",
+      "ratio": "120克:110克",
+      "note": "颜色更深，焦糖味更重，注意火候别烤过。"
+    },
+    {
+      "original": "面粉",
+      "substitute": "低筋面粉",
+      "ratio": "200克:200克",
+      "note": "酥性更强，折叠时更容易破层，动作要轻。"
+    }
+  ],
+  "variations": [
+    "卷之前在面片中间抹一层杏子果酱，做成夹心棕榈酥。",
+    "两面不裹糖而撒帕玛森碎，做成咸味版本，配汤吃。"
+  ],
+  "serving_suggestion": "凉透后摆盘配一杯红茶，或作为冰淇淋的底座，酥脆与冰凉形成对比。",
+  "storage": "常温密封可放五天，回潮时用烤箱一百五十度烤四分钟即可恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 400,
+    "protein_g": 5,
+    "fat_g": 24,
+    "carbs_g": 42,
+    "sodium_mg": 150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "含黄油与面粉的酥点须烤至中心干爽无生面，密封常温存放不超过五天。"
+  ],
+  "origin_note": "法式烘焙店常见的酥皮小点，把黄油面片反复折叠后两面裹糖，从两端卷成心形再切片烤，糖层焦化出脆壳，形状像棕榈叶，配咖啡或茶都合适。",
+  "tags": [
+    "法国",
+    "酥皮",
+    "烘焙",
+    "饼干"
+  ],
+  "related_ids": [
+    "french-financier",
+    "french-croissant"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
