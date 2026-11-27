@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:41:19.692Z",
+  "generatedAt": "2026-11-27T07:04:10.388Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2603,
-    "coverage": 0.7950519242516799
+    "actual": 2611,
+    "coverage": 0.7974954184483812
   },
   "regions": {
     "cn": [
@@ -765,7 +765,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 87,
+        "actual": 95,
         "cells": [
           {
             "category": "main-seafood",
@@ -853,7 +853,7 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "congyou-su-shaobing",
               "guotie",
@@ -862,6 +862,7 @@
               "jiangsu-guihua-tang-yunai",
               "jiangsu-luobosi-subing",
               "jiangsu-meihua-gao",
+              "jiangsu-shengjian-mantou",
               "shengjian-bao",
               "suzhou-qianceng-yougao",
               "xiehuang-tangbao",
@@ -872,9 +873,11 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "culiu-baicai",
+              "jiangsu-liangban-oupian",
+              "jiangsu-xianggu-qingcai",
               "jiangsu-yexiang-qiezi",
               "jiangsu-youmen-jiaobai",
               "shangtang-wawacai"
@@ -884,10 +887,12 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "dazhu-gansi",
+              "jiangsu-jiachang-shao-doufu",
               "jiangsu-jingxiang-doufu",
+              "jiangsu-pingqiao-doufu",
               "xiefen-doufu"
             ]
           },
@@ -895,10 +900,12 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "jiangsu-aocao-mian",
               "jiangsu-xiaohun-tun",
+              "jiangsu-xiaoren-banmian",
+              "jiangsu-xuecai-niurou-mian",
               "yangchun-mian"
             ]
           },
@@ -906,10 +913,11 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "jiangsu-caifan",
               "jiangsu-dan-chaofan",
+              "jiangsu-ouding-menfan",
               "jiangsu-xianrou-caifan",
               "yangzhou-chaofan"
             ]

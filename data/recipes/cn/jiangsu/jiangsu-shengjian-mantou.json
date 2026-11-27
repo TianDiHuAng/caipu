@@ -1,0 +1,308 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-shengjian-mantou",
+  "name": {
+    "zh": "生煎馒头",
+    "en": "Pan-fried Pork Buns",
+    "original": "生煎馒头"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 95,
+    "cook_min": 35,
+    "total_min": 130
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 300,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 300,
+          "unit": "g",
+          "note": "剁成肉馅",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "用温水化开",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 160,
+          "unit": "ml",
+          "note": "和面用",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "一半拌馅一半撒面",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 8,
+          "unit": "g",
+          "note": "撒表面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "擀面杖",
+    "面盆",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "酵母用温水化开静置五分钟，倒进面粉里揉成面团。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水别太烫，手摸温热就行，烫了酵母就死了。",
+      "visual_cue": "面团成型，盆壁干净不粘面"
+    },
+    {
+      "n": 2,
+      "text": "盖上湿布放在温暖处发酵四十分钟，涨到两倍大。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "发到手指一戳洞不回缩的程度，面才算真正发好。",
+      "visual_cue": "面团膨起两倍，表面有细密气孔"
+    },
+    {
+      "n": 3,
+      "text": "五花肉剁成馅，加姜末、生抽、料酒、盐与白糖搅上劲。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "顺着一个方向搅，绞碎的肉才黏得住不出水。",
+      "visual_cue": "绞碎的肉发黏成团，能立住不塌"
+    },
+    {
+      "n": 4,
+      "text": "拌入香油与一半葱花，搅匀后冷藏十五分钟定型。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "冷藏过的绞碎的肉更好包，煎的时候也不容易漏汁。",
+      "visual_cue": "绞碎的肉油亮紧实，葱香扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "面团排气后搓成长条，切成二十克左右的小剂子。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "剂子大小要一致，同一锅煎的时候才能同时熟。",
+      "visual_cue": "剂子大小均匀，切面平整"
+    },
+    {
+      "n": 6,
+      "text": "把剂子擀成中间厚边缘薄的圆皮，包入一勺绞碎的肉。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "中间厚才托得住馅，边缘薄褶子才好看。",
+      "visual_cue": "面皮中间厚边缘薄，馅料居中"
+    },
+    {
+      "n": 7,
+      "text": "捏出十六道褶子收口朝下，逐个摆在撒了粉的盘里。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "收口一定要捏紧，煎的时候汤汁才不会往外漏。",
+      "visual_cue": "馒头圆鼓，褶纹清晰收口紧"
+    },
+    {
+      "n": 8,
+      "text": "平底锅放花生油，馒头收口朝下摆入，中火煎三分钟。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "底部煎到金黄结硬壳，才有那层咬起来响的脆底。",
+      "visual_cue": "底面金黄结硬壳，香味四溢"
+    },
+    {
+      "n": 9,
+      "text": "沿锅边淋入半碗清水，盖盖中火焖八分钟收干。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "加水焖这一步是让内里熟透的关键，千万不能省。",
+      "visual_cue": "锅内水声由响转小，盖子边缘无水汽"
+    },
+    {
+      "n": 10,
+      "text": "开盖撒上芝麻与剩下的葱花，再煎一分钟即可出锅。",
+      "time_min": 1,
+      "heat": "小火",
+      "tip": "最后再煎一分钟，把刚才焖软的底部脆感找回来。",
+      "visual_cue": "底部焦脆，芝麻葱花均匀铺面"
+    }
+  ],
+  "tips": [
+    "肉馅选三分肥七分瘦，汁水才足。",
+    "包好可以冷冻，吃前直接下锅不用解冻。",
+    "煎的时候火别大，底糊了里面还没熟。",
+    "出锅要趁热吃，凉了之后脆底回软就不脆了。"
+  ],
+  "common_mistakes": [
+    "收口没捏紧，一加水焖汤汁就全漏进锅里了。",
+    "全程大火猛煎，底部焦黑了里面还是生面团。",
+    "面没发起来就上锅，煎出来像块死面饼。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "鸡腿肉",
+      "ratio": "300克:300克",
+      "note": "口感更清爽，需多加一勺油。"
+    },
+    {
+      "original": "面粉",
+      "substitute": "高筋面粉",
+      "ratio": "300克:300克",
+      "note": "皮更有嚼劲，发酵时间加十分钟。"
+    }
+  ],
+  "variations": [
+    "馅里拌进一勺皮冻，煎出来的馒头就带汤汁。",
+    "做成虾仁生煎，一只馒头里包一整个大虾仁。"
+  ],
+  "serving_suggestion": "出锅立刻上桌，配一碟米醋，先咬小口吸汁再蘸醋吃。",
+  "storage": "冷藏一天，复热用平底锅小火加两勺水焖三分钟恢复脆底。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 640,
+    "protein_g": 26,
+    "fat_g": 30,
+    "carbs_g": 66,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "肉馅须彻底煎熟焖透，中心不见粉色，筷子插入流出的汁水清亮。",
+    "煎制时加水会剧烈起油，沿锅边缓慢淋入并保持距离避免烫伤。"
+  ],
+  "origin_note": "苏州上海的早点摊必备，小馒头整齐排在平底锅里，煎出金黄脆底再淋水焖透，咬开先吸一口汤，再蘸点醋，脆香滚烫。",
+  "tags": [
+    "江苏",
+    "生煎",
+    "小吃",
+    "面点"
+  ],
+  "related_ids": [
+    "congyou-su-shaobing",
+    "suzhou-qianceng-yougao",
+    "jiangsu-xiaoren-banmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

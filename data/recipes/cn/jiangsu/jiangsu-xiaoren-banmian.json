@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-xiaoren-banmian",
+  "name": {
+    "zh": "虾仁拌面",
+    "en": "Noodles with Shrimp",
+    "original": "虾仁拌面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 10,
+    "total_min": 30
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "细碱水面",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 200,
+          "unit": "g",
+          "note": "去壳去肠线",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 80,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "拌面用",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调节",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒虾仁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "拌面碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾仁在背上的黑线处划开一刀，把肠线挑干净。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "挑干净肠线才不腥，虾仁受热也会卷成漂亮的球。",
+      "visual_cue": "虾仁背部划开，肠线完整取出"
+    },
+    {
+      "n": 2,
+      "text": "虾仁加料酒、姜末与一小撮盐抓匀，腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌一下既能去腥又入味，炒出来的虾仁才弹牙。",
+      "visual_cue": "虾仁表面发黏，盆底有淡色汁水"
+    },
+    {
+      "n": 3,
+      "text": "另取一只碗放生抽、香油与白糖，搅匀调成拌面汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "汁先调好，面一出锅就能马上拌，不会粘连。",
+      "visual_cue": "汁水呈深酱色，糖已化开"
+    },
+    {
+      "n": 4,
+      "text": "汤锅烧开水，下面条煮三分钟，中途点一次凉水。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "点凉水让面里外同熟，拌起来更弹牙。",
+      "visual_cue": "面条浮起，断面没有白芯"
+    },
+    {
+      "n": 5,
+      "text": "面快熟时下小白菜烫三十秒，一起捞出沥干水。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "菜叶一定最后下，烫久了发黄吃起来也没口感。",
+      "visual_cue": "菜叶翠绿柔软，面条松散不粘"
+    },
+    {
+      "n": 6,
+      "text": "面条与青菜趁热倒进拌面碗里，淋上拌面汁拌匀。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁热拌，面才吃得住汁，凉了就发坨。",
+      "visual_cue": "面条根根裹汁，油亮不粘连"
+    },
+    {
+      "n": 7,
+      "text": "炒锅放花生油烧热，下虾仁大火炒一分钟变色。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "虾仁一变色就熟，久炒就老得像橡皮。",
+      "visual_cue": "虾仁卷成球，颜色由青灰转粉白"
+    },
+    {
+      "n": 8,
+      "text": "炒好的虾仁连锅里的油一起浇在面上，撒葱花即可。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "连油一起浇在面上，香气更足，面条也不发干。",
+      "visual_cue": "虾仁铺在面顶，葱花翠绿点缀"
+    }
+  ],
+  "tips": [
+    "虾仁用鲜虾现剥最好，冷冻的要彻底解冻。",
+    "拌面汁里加一勺面汤，拌开更顺滑。",
+    "喜欢葱香可以另做一勺葱油淋上去。",
+    "面条选细碱水面，拌起来不糊不粘。"
+  ],
+  "common_mistakes": [
+    "虾仁肠线没挑干净，整碗面都会带一股土腥味。",
+    "面煮好放着不拌，一会儿就黏成一坨。",
+    "虾仁在锅里炒得太久，咬起来又硬又柴像橡皮。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "鲜贝",
+      "ratio": "200克:200克",
+      "note": "炒的时间更短，四十秒即可。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "250克:250克",
+      "note": "煮两分钟，拌的时候少加点汁。"
+    }
+  ],
+  "variations": [
+    "再淋一勺熬好的葱油一起拌，葱香更浓面更滑。",
+    "放几片切薄的叉烧一起拌，咸甜风味更足一些。"
+  ],
+  "serving_suggestion": "现拌现吃，虾仁弹嫩面条滑爽，配一小碟辣酱油更地道。",
+  "storage": "当天吃完，隔夜面条会坨，微波复热前加一勺水。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 520,
+    "protein_g": 30,
+    "fat_g": 16,
+    "carbs_g": 64,
+    "sodium_mg": 1100,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "虾仁须炒到完全变色卷曲熟透，不可半生食用。",
+    "贝类过敏人群不宜食用，处理生虾后须洗净双手。"
+  ],
+  "origin_note": "苏式面馆里的常见一碗，细面煮熟拌上酱油香油，再盖一勺刚炒好的虾仁，虾弹面滑，一口下去满嘴鲜。",
+  "tags": [
+    "江苏",
+    "虾仁",
+    "面条",
+    "拌面"
+  ],
+  "related_ids": [
+    "yangchun-mian",
+    "jiangsu-aocao-mian",
+    "jiangsu-xuecai-niurou-mian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

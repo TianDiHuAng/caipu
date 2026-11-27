@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-pingqiao-doufu",
+  "name": {
+    "zh": "平桥豆腐",
+    "en": "Pingqiao Tofu Soup",
+    "original": "平桥豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 39,
+    "total_min": 64
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切成薄片",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "鸡汤或骨汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡发切丝",
+          "optional": false
+        },
+        {
+          "name": "火腿",
+          "name_en": "ham",
+          "amount": 40,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "起锅淋",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "汤锅",
+    "汤勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "豆腐先片成一厘米厚的片，再斜刀切成菱形小块。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "斜刀切出来的块受热均匀，也更容易挂住汤汁。",
+      "visual_cue": "豆腐块呈整齐的菱形，边角完整"
+    },
+    {
+      "n": 2,
+      "text": "切好的豆腐块放进淡盐水里浸十分钟，去掉豆腥味。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "淡盐水能让豆腐收紧，煮的时候不容易碎。",
+      "visual_cue": "豆腐块表面微微收紧，水略浑"
+    },
+    {
+      "n": 3,
+      "text": "香菇用温水泡开，挤干水分后再切成细丝备用。",
+      "time_min": 20,
+      "heat": "无火",
+      "tip": "泡香菇的水别倒，滤净后加进汤里更鲜。",
+      "visual_cue": "香菇丝柔软，泡香菇的水呈褐色"
+    },
+    {
+      "n": 4,
+      "text": "火腿切成细末，小葱切成葱花，两样分开放好备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "火腿末越细越容易释放咸鲜，汤味才透。",
+      "visual_cue": "火腿末细碎均匀，葱花翠绿"
+    },
+    {
+      "n": 5,
+      "text": "砂锅里倒进高汤烧开，下香菇丝转小火煮五分钟。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "先把香菇的香味煮进汤里，再下豆腐才不乱。",
+      "visual_cue": "汤面微滚，能闻到明显菌香"
+    },
+    {
+      "n": 6,
+      "text": "轻轻推入豆腐块，转小火煨八分钟不要大力搅动。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "用勺背轻推防粘底，搅快了豆腐就散成渣。",
+      "visual_cue": "豆腐块完整浮在汤中，汤色微白"
+    },
+    {
+      "n": 7,
+      "text": "玉米淀粉加清水调匀，分两次淋入汤里勾一层薄芡。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "分两次勾芡汤才会匀，一次倒下去容易结块。",
+      "visual_cue": "汤汁挂勺，表面泛出细腻光泽"
+    },
+    {
+      "n": 8,
+      "text": "加盐与白胡椒调味，撒火腿末和葱花，淋香油离火。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "火腿本身有咸味，盐要在勾芡之后尝过再放。",
+      "visual_cue": "汤面浮着火腿末与葱花，香气扑鼻"
+    },
+    {
+      "n": 9,
+      "text": "盛入汤碗后稍晾两分钟再端上桌，避免烫到嘴。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "勾过芡的汤保温性强，表面不冒气其实很烫。",
+      "visual_cue": "汤面平整，芡汁透亮不浑浊"
+    }
+  ],
+  "tips": [
+    "豆腐选老一点的北豆腐，煨久了也不易碎。",
+    "高汤用鸡汤最正，没有就用猪骨汤代替。",
+    "火腿一定要选咸香的金华火腿，味道才够。",
+    "勾芡后不要久煮，否则芡汁会返稀变水。"
+  ],
+  "common_mistakes": [
+    "豆腐切得太薄，一煨就碎成一片豆花汤。",
+    "勾芡一次全倒进去，汤里结出一团团粉块。",
+    "端着就喝，勾芡的汤表面不冒热气却极烫。"
+  ],
+  "substitutions": [
+    {
+      "original": "豆腐",
+      "substitute": "内酯豆腐",
+      "ratio": "400克:400克",
+      "note": "更嫩，但下锅后只能推不能翻。"
+    },
+    {
+      "original": "火腿",
+      "substitute": "咸肉",
+      "ratio": "40克:40克",
+      "note": "咸味更重，盐要减半。"
+    }
+  ],
+  "variations": [
+    "再抓一把虾仁一起同煨，汤的鲜味能更上一层。",
+    "撒少许蟹黄，做成更讲究的宴席版本。"
+  ],
+  "serving_suggestion": "盛在白瓷汤碗里，撒一把葱花，趁热一勺一勺喝最鲜。",
+  "storage": "当天喝完，隔夜豆腐会出水，汤味也容易发酸。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 220,
+    "protein_g": 16,
+    "fat_g": 13,
+    "carbs_g": 10,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "汤羹勾芡后保温性强，食用前先试温度，避免烫伤口腔。",
+    "豆制品须新鲜，若有酸味或包装胀袋不可食用。",
+    "香菇须彻底加热熟透，泡发时间不宜超过四小时。"
+  ],
+  "origin_note": "淮安平桥镇的老菜，豆腐切菱形块在高汤里慢煨，勾一层薄芡，撒火腿末与葱花，看着清淡，喝起来却鲜得直往喉咙里钻。",
+  "tags": [
+    "江苏",
+    "豆腐",
+    "汤羹",
+    "淮扬"
+  ],
+  "related_ids": [
+    "wensi-doufu",
+    "wensi-doufu-geng",
+    "jiangsu-jiyu-doufu-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
