@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-nachos-supremos",
+  "name": {
+    "zh": "墨西哥豪华玉米片",
+    "en": "Loaded Nachos",
+    "original": "Nachos Supremos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 36,
+    "cook_min": 6,
+    "total_min": 42
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 8,
+          "unit": "piece",
+          "note": "切三角片",
+          "optional": false
+        },
+        {
+          "name": "切达奶酪",
+          "name_en": "cheddar cheese",
+          "amount": 180,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黑豆",
+          "name_en": "black bean",
+          "amount": 200,
+          "unit": "g",
+          "note": "煮熟沥干",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "牛油果",
+          "name_en": "avocado",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "墨西哥辣椒",
+          "name_en": "jalapeno",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 200,
+          "unit": "ml",
+          "note": "炸饼片用",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "粉状",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 100,
+          "unit": "g",
+          "note": "上桌配用",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤盘",
+    "平底锅",
+    "砧板",
+    "锡纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米饼每张切成六个三角片，摊开在案板上略晾五分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "饼皮稍干一点，炸出来更脆也不易吸油。",
+      "visual_cue": "三角片大小均匀，边缘整齐不毛糙"
+    },
+    {
+      "n": 2,
+      "text": "深锅倒植物油烧到插入筷子冒小泡，分批下饼片炸两分钟。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "一次别下太多，油温掉了饼片会吸油发软。",
+      "visual_cue": "饼片鼓起金黄，夹起时能听到清脆声"
+    },
+    {
+      "n": 3,
+      "text": "捞出放在厨房纸上沥油，趁热撒盐与孜然粉拌匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热撒调味料才挂得住，凉了就滑下来。",
+      "visual_cue": "饼片表面均匀附着调料，摸起来干脆"
+    },
+    {
+      "n": 4,
+      "text": "黑豆用勺子压成半泥状，加一点点盐与孜然小火炒香。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "留一半整颗豆子口感更好，不要全部压成豆泥。",
+      "visual_cue": "豆泥浓稠能挂勺，锅里微微冒泡"
+    },
+    {
+      "n": 5,
+      "text": "烤盘铺一层饼片，撒切达奶酪丝与黑豆，再叠一层饼片和切达奶酪。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "分层铺才每片都有奶酪，堆成一坨中间不化。",
+      "visual_cue": "饼片层次清晰，切达奶酪分布均匀不结块"
+    },
+    {
+      "n": 6,
+      "text": "烤箱两百二十度烤五分钟，烤到切达奶酪完全融化拉丝。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "烤到奶酪刚化就取出，烤久了饼片会焦。",
+      "visual_cue": "切达奶酪起小泡融化，边缘微微焦黄"
+    },
+    {
+      "n": 7,
+      "text": "取出铺上番茄丁、牛油果片与墨西哥辣椒，挤青柠配酸奶油。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "生鲜配料最后再放，跟着烤会出水把饼片泡软。",
+      "visual_cue": "配料色彩分明，切达奶酪还拉着丝"
+    }
+  ],
+  "tips": [
+    "用现成玉米片代替自制，十分钟就能上桌。",
+    "奶酪选切达配马苏里拉，拉丝与风味兼顾。",
+    "把莎莎和酸奶油放旁边蘸，饼片更不容易软。",
+    "加一勺炒过的绞肉，立刻升级成主食。"
+  ],
+  "common_mistakes": [
+    "饼片炸好不沥油，堆在盘底一片油汪汪。",
+    "切达奶酪全堆在最上面，下面那层干吃没味道。",
+    "提前把番茄铺上去烤，烤出一盘水汽。"
+  ],
+  "substitutions": [
+    {
+      "original": "切达奶酪",
+      "substitute": "马苏里拉",
+      "ratio": "180克:180克",
+      "note": "拉丝更好，风味偏淡。"
+    },
+    {
+      "original": "玉米饼",
+      "substitute": "现成玉米片",
+      "ratio": "8张:200克",
+      "note": "省去炸制，直接铺盘烘烤。"
+    }
+  ],
+  "variations": [
+    "加一勺牛肉辣酱铺在上面，做成肉食版本。",
+    "淋一层绿莎莎与酸奶油，颜色更漂亮。"
+  ],
+  "serving_suggestion": "连烤盘直接上桌，配冰饮当聚会小食最合适。",
+  "storage": "烤好的当天吃完，饼片冷藏会回软不宜久放。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 19,
+    "fat_g": 33,
+    "carbs_g": 40,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "烤盘出炉温度高，端取须用隔热手套。",
+    "奶酪与豆制品易变质，室温放置不超过两小时。"
+  ],
+  "origin_note": "这道小食出自墨西哥北部与美墨边境，玉米饼切三角炸脆，铺上奶酪与黑豆烤到拉丝，再堆满生鲜配料，一大盘端上桌，几个人围着吃最热闹。",
+  "tags": [
+    "墨西哥菜",
+    "小食",
+    "玉米片",
+    "奶酪"
+  ],
+  "related_ids": [
+    "mexican-guacamole",
+    "quesadilla",
+    "mexican-frijoles-refritos"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

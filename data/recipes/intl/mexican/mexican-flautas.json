@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-flautas",
+  "name": {
+    "zh": "墨西哥炸玉米卷",
+    "en": "Fried Tortilla Flautas",
+    "original": "Flautas"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 41,
+    "cook_min": 13,
+    "total_min": 54
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 8,
+          "unit": "piece",
+          "note": "直径十五厘米左右",
+          "optional": false
+        },
+        {
+          "name": "鸡胸肉",
+          "name_en": "chicken breast",
+          "amount": 400,
+          "unit": "g",
+          "note": "煮熟撕丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 120,
+          "unit": "g",
+          "note": "蘸食",
+          "optional": false
+        },
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 100,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 100,
+          "unit": "g",
+          "note": "擦成细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炸制用",
+          "optional": false
+        },
+        {
+          "name": "墨西哥辣椒",
+          "name_en": "jalapeno",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎拌馅",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 2,
+          "unit": "g",
+          "note": "粉状",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "深锅",
+    "厨房纸",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡胸肉冷水下锅，加一点盐煮十五分钟，捞出稍凉后撕成细丝。",
+      "time_min": 20,
+      "heat": "中火",
+      "tip": "煮到筷子能轻松插透就好，煮久了肉发柴。",
+      "visual_cue": "肉丝纤维分明，掰开中心不泛粉红"
+    },
+    {
+      "n": 2,
+      "text": "鸡肉丝拌入墨西哥辣椒、孜然、盐和两勺酸奶油，抓匀备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "拌料要湿润但不能出水，太湿会泡软饼皮。",
+      "visual_cue": "拌料抱团微黏，闻起来辛辣带奶香"
+    },
+    {
+      "n": 3,
+      "text": "玉米饼放进干锅小火烘十秒，让饼皮变软好卷不裂。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "饼皮不先烘软就直接卷，一进油锅就断成两截。",
+      "visual_cue": "饼皮变软有韧性，边缘微微起泡"
+    },
+    {
+      "n": 4,
+      "text": "每张饼放一勺鸡肉丝料和一点奶酪丝，卷紧成细长的条。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "卷得紧一些，炸的时候馅才不会往外跑。",
+      "visual_cue": "卷成手指粗的长条，接缝压在下面"
+    },
+    {
+      "n": 5,
+      "text": "用牙签把接口处固定，或把接口朝下先煎一下定形。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "先把接缝煎定形，这一步能省掉一半的翻车概率。",
+      "visual_cue": "接缝粘合紧密，轻推不会松开"
+    },
+    {
+      "n": 6,
+      "text": "深锅倒植物油烧到插入筷子冒小泡，分批下卷炸三分钟。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "油温别太高，饼皮焦了里面还没热透就糟了。",
+      "visual_cue": "表面金黄起泡，锅里气泡密集"
+    },
+    {
+      "n": 7,
+      "text": "捞出沥油，摆盘后铺生菜丝、番茄丁，挤青柠配酸奶油。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "一定要趁热吃，饼皮放凉会回软发韧，脆劲就没了。",
+      "visual_cue": "外皮酥脆轻敲有声，配料清爽堆叠"
+    }
+  ],
+  "tips": [
+    "用隔夜的煮鸡肉更省事，撕丝也更顺。",
+    "炸好撒一点辣椒粉和盐，风味更像街边摊。",
+    "空气炸锅一百九十度炸十分钟，用油少也更脆。",
+    "酸奶油里拌一点青柠汁，蘸着更清爽。"
+  ],
+  "common_mistakes": [
+    "玉米饼不烘直接卷，卷的时候就从中间裂开。",
+    "拌料太湿，炸出来皮软塌还往外漏汁。",
+    "一次下太多卷，油温骤降炸成半生不脆。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡胸肉",
+      "substitute": "鸡腿肉",
+      "ratio": "400克:400克",
+      "note": "更嫩更香，煮的时间加五分钟。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "酸奶",
+      "ratio": "120克:120克",
+      "note": "酸味更清爽，需选浓稠型。"
+    }
+  ],
+  "variations": [
+    "馅里换成炒过的黑豆和玉米，做成素版。",
+    "表面淋一层绿莎莎酱，酸辣味更开胃也更清爽。"
+  ],
+  "serving_suggestion": "摆在长盘里配酸奶油与莎莎，趁热当小食或正餐。",
+  "storage": "冷藏两天，复热用烤箱一百八十度烤六分钟恢复脆度。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 480,
+    "protein_g": 28,
+    "fat_g": 26,
+    "carbs_g": 32,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "油炸时油温较高，下锅动作要轻避免溅油。",
+    "含鸡肉丝料须炸到中心热透，内部不发凉。"
+  ],
+  "origin_note": "flauta 意思是长笛，因为卷好的玉米饼细长像乐器。墨西哥人把鸡肉丝卷进饼里炸到金黄，配酸奶油和生菜丝，是最常见的街头小食之一。",
+  "tags": [
+    "墨西哥菜",
+    "小食",
+    "炸物",
+    "鸡肉"
+  ],
+  "related_ids": [
+    "tacos-de-carne",
+    "quesadilla",
+    "tostadas"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

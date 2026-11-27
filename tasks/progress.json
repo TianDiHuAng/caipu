@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:16:08.334Z",
+  "generatedAt": "2026-11-27T04:24:18.730Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2523,
-    "coverage": 0.7706169822846671
+    "actual": 2531,
+    "coverage": 0.7730604764813683
   },
   "regions": {
     "cn": [
@@ -7224,19 +7224,21 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 72,
+        "actual": 80,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "elote",
               "mexican-chicken-quesadilla",
               "mexican-elote-cup",
               "mexican-esquites",
+              "mexican-flautas",
               "mexican-guacamole",
+              "mexican-nachos-supremos",
               "mexican-tamales-verdes",
               "mexican-tlayuda",
               "quesadilla",
@@ -7266,7 +7268,7 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 14,
             "ids": [
               "guacamole",
               "mexican-adobo-sauce",
@@ -7275,9 +7277,11 @@
               "mexican-queso-fundido",
               "mexican-salsa-de-aguacate",
               "mexican-salsa-de-arbol",
+              "mexican-salsa-de-cacahuate",
               "mexican-salsa-macha",
               "mexican-salsa-roja",
               "mexican-salsa-taquera",
+              "mexican-salsa-tatemada",
               "pico-de-gallo",
               "salsa-verde"
             ]
@@ -7286,15 +7290,17 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 14,
             "ids": [
               "caldo-de-pollo",
               "crema-de-elote",
               "mexican-caldo-de-camerones",
               "mexican-caldo-de-pescado",
               "mexican-caldo-de-res",
+              "mexican-caldo-tlalpeno",
               "mexican-crema-de-calabaza",
               "mexican-pozole-rojo",
+              "mexican-sopa-de-albondigas",
               "mexican-sopa-de-fideo",
               "mexican-sopa-de-lentejas",
               "mexican-sopa-de-lima",
@@ -7306,13 +7312,15 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "agua-fresca",
               "horchata",
               "mexican-agua-de-jamaica",
               "mexican-agua-de-pepino",
+              "mexican-agua-de-tamarindo",
               "mexican-atole",
+              "mexican-cafe-de-olla",
               "mexican-champurrado",
               "mexican-chocolate-caliente",
               "mexican-horchata",
