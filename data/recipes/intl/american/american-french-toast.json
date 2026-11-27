@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-french-toast",
+  "name": {
+    "zh": "美式法式吐司",
+    "en": "French Toast",
+    "original": "American French toast"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "breakfast"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 11,
+    "total_min": 23
+  },
+  "servings": 2,
+  "flavor": [
+    "sweet",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "吐司",
+          "name_en": "toast bread",
+          "amount": 4,
+          "unit": "piece",
+          "note": "厚切隔夜",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "常温",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "煎制用",
+          "optional": false
+        },
+        {
+          "name": "枫糖浆",
+          "name_en": "maple syrup",
+          "amount": 30,
+          "unit": "ml",
+          "note": "淋面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "肉桂粉",
+          "name_en": "ground cinnamon",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "蛋奶液调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "浅盘",
+    "打蛋器",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋打进浅盘，加牛奶、白糖、肉桂粉与盐，搅到糖基本化开。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋奶液要打得匀，吐司吸进去才一致。",
+      "visual_cue": "液体均匀淡黄，表面浮少量细泡"
+    },
+    {
+      "n": 2,
+      "text": "吐司切成两厘米厚片，隔夜的略干最适合吸汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "新鲜吐司太软，一泡就散，最好提前晾干。",
+      "visual_cue": "切面平整，按压有弹性不发黏"
+    },
+    {
+      "n": 3,
+      "text": "把吐司片放进蛋奶液，每面浸泡二十秒后立刻取出。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "泡太久中心会成糊，泡太短只有表面有味。",
+      "visual_cue": "吐司整体湿润但边缘仍保持形状"
+    },
+    {
+      "n": 4,
+      "text": "平底锅小火化开黄油，铺满锅底后放入吐司片。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "黄油别烧到发褐色，焦掉会带出苦味。",
+      "visual_cue": "黄油刚化开泛起细泡，未变色"
+    },
+    {
+      "n": 5,
+      "text": "每面煎三分钟到金黄微焦，边缘略微鼓起即可。",
+      "time_min": 6,
+      "heat": "中小火",
+      "tip": "下锅后先别翻动，定型再翻才不会破。",
+      "visual_cue": "两面金黄油亮，边缘微微鼓起"
+    },
+    {
+      "n": 6,
+      "text": "装盘后淋上温过的枫糖浆，趁热吃起来口感最好。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "糖浆稍微温一下再淋，流动更顺畅好看。",
+      "visual_cue": "糖浆顺表面铺开，吐司缝隙微微渗入"
+    }
+  ],
+  "tips": [
+    "配香蕉片与蓝莓，颜色和口感都更丰富。",
+    "蛋奶液里加一点橙皮屑，香气更清爽。",
+    "用铸铁锅煎，受热均匀上色更漂亮。",
+    "糖粉最后筛一点，卖相立刻不同。"
+  ],
+  "common_mistakes": [
+    "吐司在蛋奶液里泡太久，煎的时候整片碎掉。",
+    "火太大下锅，外面焦黑而中心还是湿的蛋液。",
+    "黄油烧到发褐才下锅，吐司带明显焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "豆奶",
+      "ratio": "120毫升:120毫升",
+      "note": "乳糖不耐可用，奶香稍淡。"
+    },
+    {
+      "original": "枫糖浆",
+      "substitute": "蜂蜜",
+      "ratio": "30毫升:30毫升",
+      "note": "甜味更直接，香气不同。"
+    }
+  ],
+  "variations": [
+    "中间夹一层奶油奶酪，做成夹心版本。",
+    "表面裹一层肉桂糖再下锅煎，口感更脆。"
+  ],
+  "serving_suggestion": "作为周末早餐，配一杯咖啡或热可可都很刚好。",
+  "storage": "现做现吃最好，冷藏一天后回锅小火煎热即可。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 420,
+    "protein_g": 17,
+    "fat_g": 18,
+    "carbs_g": 46,
+    "sodium_mg": 430,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "蛋奶液须煎到完全凝固，中心不能有流动蛋液。",
+    "含鸡蛋的液体须冷藏，室温放置不要超过一小时。"
+  ],
+  "origin_note": "美国早餐桌上最常见的做法之一，把隔夜的厚切吐司蘸上蛋奶液煎到金黄，再淋枫糖浆，简单却经得起反复吃。",
+  "tags": [
+    "美式",
+    "早餐",
+    "鸡蛋",
+    "煎制"
+  ],
+  "related_ids": [
+    "american-pancakes",
+    "american-eggs-benedict",
+    "american-scrambled-eggs"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

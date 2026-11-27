@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "american-bagels",
+  "name": {
+    "zh": "美式贝果",
+    "en": "Bagels",
+    "original": "New York bagel"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "american"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 125,
+    "cook_min": 28,
+    "total_min": 153
+  },
+  "servings": 6,
+  "flavor": [
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "高筋面粉",
+          "name_en": "bread flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "蛋白质含量高",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "常温水",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 7,
+          "unit": "g",
+          "note": "干酵母",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "供酵母发酵",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 20,
+          "unit": "g",
+          "note": "煮面团用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "增加筋性",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "刷面防粘",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "烤盘",
+    "汤锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "高筋面粉倒进和面盆，加白糖、盐与酵母，先干拌到分布均匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "盐与酵母别直接贴在一起，会抑制发酵。",
+      "visual_cue": "粉类颜色均匀，看不到结块的酵母颗粒"
+    },
+    {
+      "n": 2,
+      "text": "分次倒入清水，边倒边搅成絮状，再揉成偏硬的面团。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "贝果面团要比普通甜面团硬，水别一次倒完。",
+      "visual_cue": "面团成团不粘手，按下去几乎不回弹"
+    },
+    {
+      "n": 3,
+      "text": "在案板上反复摔揉十分钟，揉到表面光滑能拉出薄膜。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "揉到位是贝果有嚼劲的关键，偷懒成品会松垮。",
+      "visual_cue": "面团光滑发亮，拉开呈半透明薄膜"
+    },
+    {
+      "n": 4,
+      "text": "面团盖湿布室温发酵六十分钟，体积膨到原来的两倍。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "温度低就延长时间，看体积而不只看钟点。",
+      "visual_cue": "手指戳洞不回缩，内部呈蜂窝状"
+    },
+    {
+      "n": 5,
+      "text": "排气后分成六等份，滚圆盖上布静置十分钟松弛。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "先松弛过再整形，面团才不容易回缩。",
+      "visual_cue": "小面团光滑圆润，按压轻微回弹"
+    },
+    {
+      "n": 6,
+      "text": "每份搓成长条围成圈，两端捏紧收口，做成中空的环形。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "收口要压扁捏死，煮的时候才不散开。",
+      "visual_cue": "环形大小一致，收口处完全粘合"
+    },
+    {
+      "n": 7,
+      "text": "盖上湿布再醒二十分钟，同时烧一锅水加蜂蜜准备煮制。",
+      "time_min": 20,
+      "heat": "大火",
+      "tip": "水保持微沸不要滚开，滚水会把面团冲散。",
+      "visual_cue": "贝果胚明显变大，水面冒均匀小泡"
+    },
+    {
+      "n": 8,
+      "text": "把面团逐个放进水里，每面煮一分钟，捞出沥干水分。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "煮过的贝果表面糊化，烤完才有那层硬壳。",
+      "visual_cue": "表面微微起皱发亮，捞出后不滴水"
+    },
+    {
+      "n": 9,
+      "text": "烤盘刷植物油，摆上贝果，两百度烤十八分钟到表面深金。",
+      "time_min": 18,
+      "heat": "中火",
+      "tip": "中途翻一次面，上下受热才会均匀上色。",
+      "visual_cue": "表面深金有光泽，敲一下声音干脆"
+    }
+  ],
+  "tips": [
+    "趁热切开夹奶油奶酪，是纽约最经典的吃法。",
+    "面团冷藏一夜再煮，麦香更浓也更好嚼。",
+    "煮面团的水里加蜂蜜，表皮上色更漂亮。",
+    "想要更嚼劲就把煮的时间延长到每面一分半。"
+  ],
+  "common_mistakes": [
+    "面团揉得不够，烤出来的贝果松软像普通甜面团烤的圆饼。",
+    "煮面团的水滚得太猛，贝果下锅就散开变形。",
+    "收口没有捏紧，煮的时候整圈断开成条状。"
+  ],
+  "substitutions": [
+    {
+      "original": "蜂蜜",
+      "substitute": "麦芽糖",
+      "ratio": "20克:20克",
+      "note": "上色更深，风味更接近老派做法。"
+    },
+    {
+      "original": "高筋面粉",
+      "substitute": "中筋面粉",
+      "ratio": "500克:500克",
+      "note": "口感稍软，嚼劲略弱。"
+    }
+  ],
+  "variations": [
+    "揉面时加入一把芝麻或罂粟籽，做成带籽的版本。",
+    "面团里拌入葡萄干与肉桂粉，做成甜味贝果。"
+  ],
+  "serving_suggestion": "对半切开烤一下，抹奶油奶酪或夹烟熏三文鱼都很合适。",
+  "storage": "室温密封两天，冷冻两个月，吃前回烤五分钟恢复口感。",
+  "nutrition_estimate": {
+    "basis": "按六个估算",
+    "calories_kcal": 280,
+    "protein_g": 10,
+    "fat_g": 3,
+    "carbs_g": 55,
+    "sodium_mg": 420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "面团须在温暖处充分发酵，未发酵的生面团不要直接入口。",
+    "烤好的贝果中心须熟透，内部没有黏湿的面心。"
+  ],
+  "origin_note": "东欧犹太移民带到纽约的做法，面团先用水煮再进烤箱，形成外韧内软的独特口感，如今是纽约早餐桌上最有代表性的一样东西。",
+  "tags": [
+    "美式",
+    "烘焙",
+    "面包类",
+    "纽约"
+  ],
+  "related_ids": [
+    "american-cinnamon-raisin-bread",
+    "american-dinner-roll",
+    "american-buttermilk-biscuits"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

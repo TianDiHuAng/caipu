@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:01:27.531Z",
+  "generatedAt": "2026-11-27T04:08:21.163Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2507,
-    "coverage": 0.7657299938912645
+    "actual": 2515,
+    "coverage": 0.7681734880879658
   },
   "regions": {
     "cn": [
@@ -6650,7 +6650,7 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 67,
+        "actual": 75,
         "cells": [
           {
             "category": "main-meat",
@@ -6675,8 +6675,9 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 12,
             "ids": [
+              "american-bagels",
               "american-banana-bread",
               "american-blueberry-muffin",
               "american-buttermilk-biscuits",
@@ -6684,6 +6685,8 @@
               "american-cinnamon-rolls",
               "american-cornbread",
               "american-dinner-roll",
+              "american-soft-pretzel",
+              "american-zucchini-bread",
               "apple-pie",
               "brownie"
             ]
@@ -6692,12 +6695,14 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "american-apple-crisp",
               "american-blueberry-pie",
               "american-chocolate-chip-cookies",
+              "american-fudge-brownies",
               "american-key-lime-pie",
+              "american-lemon-bars",
               "american-peach-cobbler",
               "american-pumpkin-pie",
               "apple-pie",
@@ -6710,13 +6715,14 @@
             "category": "breakfast",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "american-biscuits-gravy",
               "american-breakfast-burrito",
               "american-breakfast-hash",
               "american-egg-in-a-hole",
               "american-eggs-benedict",
+              "american-french-toast",
               "american-hash-browns",
               "american-pancakes",
               "american-scrambled-eggs",
@@ -6728,12 +6734,13 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "american-caesar-salad",
               "american-chef-salad",
               "american-cobb-salad",
               "american-coleslaw",
+              "american-pasta-salad",
               "american-potato-salad",
               "american-tuna-salad",
               "american-waldorf-salad",
@@ -6745,10 +6752,11 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "american-glazed-carrots",
-              "american-green-bean-casserole"
+              "american-green-bean-casserole",
+              "american-stuffed-peppers"
             ]
           },
           {
