@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:39:29.844Z",
+  "generatedAt": "2026-11-26T16:25:16.910Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2475,
-    "coverage": 0.7559560171044594
+    "actual": 2483,
+    "coverage": 0.7583995113011607
   },
   "regions": {
     "cn": [
@@ -544,7 +544,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 97,
+        "actual": 99,
         "cells": [
           {
             "category": "main-seafood",
@@ -700,10 +700,12 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "cantonese-chiyou-jian-doufu",
-              "cantonese-haoyou-doufu-bao"
+              "cantonese-donggu-hongshao-doufu",
+              "cantonese-haoyou-doufu-bao",
+              "cantonese-xia-ren-zheng-doufu"
             ]
           },
           {
@@ -763,7 +765,7 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 77,
+        "actual": 79,
         "cells": [
           {
             "category": "main-seafood",
@@ -896,8 +898,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "jiangsu-caifan",
+              "jiangsu-dan-chaofan",
               "jiangsu-xianrou-caifan",
               "yangzhou-chaofan"
             ]
@@ -1406,7 +1410,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 71,
+        "actual": 73,
         "cells": [
           {
             "category": "main-meat",
@@ -1505,10 +1509,12 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "hunan-congyou-chaodan",
               "hunan-duojiao-zhengdan",
-              "hunan-xiaomila-chaodan"
+              "hunan-xiaomila-chaodan",
+              "hunan-zheng-shuidan"
             ]
           },
           {
@@ -3242,16 +3248,18 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 75,
+        "actual": 77,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
+              "japanese-asari-sakamushi",
               "japanese-ebi-fry",
               "japanese-hotate-butter",
+              "japanese-ika-shoga-ni",
               "japanese-saba-sakamushi",
               "japanese-saba-shioyaki",
               "japanese-tempura",

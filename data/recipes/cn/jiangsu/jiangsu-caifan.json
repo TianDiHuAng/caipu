@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-caifan",
+  "name": {
+    "zh": "江苏菜饭",
+    "en": "Jiangsu Vegetable Rice",
+    "original": "菜饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "选短粒米，煮出来才软糯",
+          "optional": false
+        },
+        {
+          "name": "小青菜",
+          "name_en": "baby greens",
+          "amount": 350,
+          "unit": "g",
+          "note": "选矮脚青，梗短叶厚",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁，肥瘦相间的最好",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切两片去腥",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒青菜用，让饭粒带油光",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "咸肉本身有咸味，先尝再补",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 330,
+          "unit": "ml",
+          "note": "比平时煮饭略少，青菜会出水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "炒锅",
+    "饭勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍沥干，咸肉切一厘米小丁用清水泡十分钟，小青菜洗净切段。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "米淘两遍够了，淘太多次米香流失，饭也不够黏。",
+      "visual_cue": "米粒清爽不浑水，咸肉丁边缘略发白。"
+    },
+    {
+      "n": 2,
+      "text": "炒锅下植物油爆香姜片，放咸肉丁中小火煸到出油、边缘微焦。",
+      "time_min": 4,
+      "heat": "中小火",
+      "tip": "咸肉要煸出油，饭才有肉香，不然只有咸味。",
+      "visual_cue": "咸肉丁体积缩小，锅底积起一层清亮油脂。"
+    },
+    {
+      "n": 3,
+      "text": "下小青菜梗大火炒一分钟，再下菜叶炒到叶片塌软，盛出沥掉汁水。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "青菜汁水要沥掉，否则饭会煮成稠糊。",
+      "visual_cue": "菜叶全部塌软，颜色仍是鲜绿不发黄。"
+    },
+    {
+      "n": 4,
+      "text": "大米倒进电饭锅，加清水和炒好的咸肉，按煮饭键煮到跳闸。",
+      "time_min": 25,
+      "heat": "中火",
+      "tip": "水量比白饭少一成，青菜后面还会往饭里渗水。",
+      "visual_cue": "跳闸后饭面平整，能闻到咸肉和米香混在一起。"
+    },
+    {
+      "n": 5,
+      "text": "开盖铺上炒好的青菜，撒盐，盖回焖五分钟，再用饭勺从底翻拌均匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "青菜最后焖，颜色才绿，早放会焖黄。",
+      "visual_cue": "饭粒油润分明，青菜均匀分布不成团。"
+    }
+  ],
+  "tips": [
+    "小青菜梗叶分开下锅，梗先炒一分钟再放叶，熟度才一致。",
+    "青菜炒到断生就盛出，跟米饭同煮太久会发黄发苦。",
+    "咸肉先用水泡十分钟去浮咸，煮出来的饭才不齁。"
+  ],
+  "common_mistakes": [
+    "青菜整棵丢进电饭锅和米同煮，出锅全烂成黄泥，颜色难看。",
+    "水按平时煮白饭的量放，青菜出水后饭变成一锅稠粥。",
+    "咸肉直接下锅不泡，整锅饭咸得只能配水喝。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸肉",
+      "substitute": "香肠",
+      "ratio": "80克:90克",
+      "note": "甜咸不同，盐要再减一克。"
+    },
+    {
+      "original": "小青菜",
+      "substitute": "菜心",
+      "ratio": "350克:350克",
+      "note": "口感更嫩，炒的时间缩短半分钟。"
+    }
+  ],
+  "variations": [
+    "把咸肉换成腊肠和一点虾米，鲜味更上一层，广式风味更足。",
+    "饭煮好后拌一勺猪油再焖五分钟，油香裹住每颗米粒，老派吃法。"
+  ],
+  "serving_suggestion": "饭煮好拌匀焖五分钟，盛进碗里压实再倒扣，配一碗紫菜汤或一碗清鸡汤，是江苏人家冬天的家常主食。",
+  "storage": "冷藏可放两天，回热时撒一勺水盖盖小火焖，比微波更能保住青菜的绿。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 465,
+    "protein_g": 14,
+    "fat_g": 13,
+    "carbs_g": 74,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "含咸肉与米饭的菜，煮好后两小时内未吃完须冷藏，隔夜饭回热要彻底。",
+    "青菜须炒到叶片完全变软断生，中心温度达到七十五度以上。"
+  ],
+  "origin_note": "菜饭是江南冬天最实在的一锅饭，矮脚青和咸肉一起焖，米粒吸足菜汁和肉油。上海、苏州一带人家讲究饭粒分明不黏，锅底还要结一层薄锅巴，配一碗汤就是一餐。",
+  "tags": [
+    "江苏菜",
+    "米饭",
+    "青菜",
+    "咸肉",
+    "家常"
+  ],
+  "related_ids": [
+    "jiangsu-xianrou-caifan",
+    "yangzhou-chaofan",
+    "jiangsu-gusu-jiangfang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}

@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-donggu-hongshao-doufu",
+  "name": {
+    "zh": "粤式冬菇红烧豆腐",
+    "en": "Cantonese Braised Tofu with Shiitake",
+    "original": "冬菇红烧豆腐"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 20,
+    "total_min": 60
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "板豆腐",
+          "name_en": "firm tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "切厚片，煎过才耐烧",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "干香菇提前泡发，泡菇水留着",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切薄片爆香",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "葱白爆锅，葱绿最后撒",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 200,
+          "unit": "ml",
+          "note": "没有就用泡菇水加清水",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "提供主要咸鲜",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "收汁前加，让汤汁挂得住",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "只提鲜不显甜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎豆腐用，实际耗油约一半",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "最后按汤汁咸度补",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干香菇用温水泡三十分钟到完全回软，挤干水分去蒂，泡菇水静置取上层清液。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "泡菇水底部有沙，只用上层清的那部分。",
+      "visual_cue": "香菇捏起来柔软有弹性，蒂部不再发硬。"
+    },
+    {
+      "n": 2,
+      "text": "板豆腐切成一厘米厚的片，两面撒薄盐静置五分钟，再用厨房纸吸干。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "盐能让豆腐表层收紧，煎的时候不粘锅也不碎。",
+      "visual_cue": "豆腐片表面发暗，按压有轻微出水。"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油烧到六成热，豆腐片平铺下锅，中小火煎至两面金黄。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "下锅后别急着动，等边缘自己翘起来再翻面。",
+      "visual_cue": "两面结成均匀的金黄薄壳，边缘微翘。"
+    },
+    {
+      "n": 4,
+      "text": "余油爆香姜片和葱白，下香菇炒出香味，加生抽白糖和高汤烧开。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇要先炒到边缘卷起，菇香才真正出来。",
+      "visual_cue": "香菇边缘微微焦边，锅里飘出浓郁菇香。"
+    },
+    {
+      "n": 5,
+      "text": "豆腐回锅转砂锅小火焖八分钟，中途轻轻推动两次防止粘底。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "推豆腐用锅铲背面，正面一铲就破皮。",
+      "visual_cue": "汤汁收到豆腐一半高度，表面颜色变深。"
+    },
+    {
+      "n": 6,
+      "text": "开盖加蚝油和盐，转中火收汁到浓稠，撒葱绿连锅上桌。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "蚝油最后放，久煮鲜味会散掉，只剩咸味。",
+      "visual_cue": "汤汁挂勺成线，豆腐表面泛着油亮的酱色。"
+    }
+  ],
+  "tips": [
+    "豆腐煎之前撒一层薄盐静置五分钟，煎的时候不易碎也更入味。",
+    "香菇泡发的水沉淀后取上层，比清水多一层菇香，别倒掉。",
+    "砂锅小火慢烧能让豆腐内部吸满汤汁，急火只会把外面烧硬。"
+  ],
+  "common_mistakes": [
+    "豆腐刚下锅就翻动，表皮还没结壳，一铲就碎成一锅渣。",
+    "香菇没泡透直接烧，咬开中间还是干硬的芯，菇香也出不来。",
+    "汤汁一次性收干，砂锅底部糊底，整锅带一股焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "香菇",
+      "substitute": "草菇",
+      "ratio": "80克:120克",
+      "note": "草菇出水多，高汤减半。"
+    },
+    {
+      "original": "蚝油",
+      "substitute": "素蚝油",
+      "ratio": "15毫升:15毫升",
+      "note": "纯素版本用，咸度略低可加生抽。"
+    }
+  ],
+  "variations": [
+    "加一把泡软的粉丝垫在砂锅底，粉丝吸满汤汁比豆腐还好吃。",
+    "把生抽换成一半生抽一半普宁豆酱，酱香更冲，潮汕风味更足。"
+  ],
+  "serving_suggestion": "连汤汁一起倒进预热的砂锅，撒葱绿端上桌，配一碗白饭，把汁浇在饭上，是广府冬天的家常味。",
+  "storage": "冷藏可放两天，回锅时加两勺高汤小火煮开，豆腐会重新吸饱汤汁。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 320,
+    "protein_g": 20,
+    "fat_g": 21,
+    "carbs_g": 14,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "香菇须彻底加热至中心温度七十五度以上，泡发超过四小时要冷藏。",
+    "红烧豆腐含糖带汤，凉透后须冷藏，室温放过夜容易发酸。"
+  ],
+  "origin_note": "冬菇红烧豆腐是广府家宴里的素菜担当，用干香菇的浓香给豆腐补味，蚝油收汁让表面挂一层亮芡。老派做法用砂锅上桌，热气腾腾掀盖，菇香先冲出来，比许多肉菜还抢手。",
+  "tags": [
+    "粤菜",
+    "豆腐",
+    "香菇",
+    "红烧",
+    "家常"
+  ],
+  "related_ids": [
+    "cantonese-haoyou-doufu-bao",
+    "cantonese-chiyou-jian-doufu",
+    "anhui-mao-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-26",
+  "updated_at": "2026-11-26"
+}
