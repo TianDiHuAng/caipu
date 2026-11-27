@@ -1,0 +1,318 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-tofu-korma",
+  "name": {
+    "zh": "印度豆腐科尔玛",
+    "en": "Indian Tofu Korma",
+    "original": "टोफू कोरमा"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 35,
+    "total_min": 53
+  },
+  "servings": 2,
+  "flavor": [
+    "rich",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切三厘米方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切碎打糊",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 100,
+          "unit": "g",
+          "note": "去蒂切小块",
+          "optional": false
+        },
+        {
+          "name": "腰果",
+          "name_en": "cashew",
+          "amount": 40,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "剥皮切碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "刮皮切碎",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 60,
+          "unit": "ml",
+          "note": "最后调顺滑",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "小豆蔻",
+          "name_en": "cardamom",
+          "amount": 2,
+          "unit": "g",
+          "note": "拍开取籽",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 2,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "主香料",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 1.5,
+          "unit": "g",
+          "note": "微辣提味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "分次调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎豆腐与炒底",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "稀释咖喱",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "搅拌机",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐切成三厘米见方的块，平铺在厨房纸上吸去表面水分，静置八分钟。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "表面越干越容易煎出硬壳，翻动也不会碎。",
+      "visual_cue": "豆腐表面无明水，纸面湿了一片"
+    },
+    {
+      "n": 2,
+      "text": "平底锅烧热放一半植物油，把豆腐块依次摆入，中小火煎到两面金黄并轻微鼓起。",
+      "time_min": 10,
+      "heat": "中小火",
+      "tip": "刚下锅别急着翻，等底面结壳再动才不破。",
+      "visual_cue": "豆腐两面金黄，边缘微微鼓起"
+    },
+    {
+      "n": 3,
+      "text": "洋葱切碎，与泡软的腰果、蒜、姜一起放进搅拌机，加少量清水打成细腻的糊。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "水量只求能转得动，糊越稠后面越好炒。",
+      "visual_cue": "糊体细腻稠厚，能挂住勺背"
+    },
+    {
+      "n": 4,
+      "text": "锅中余油下桂皮与小豆蔻焙香，倒进洋葱腰果糊，小火不停翻炒到糊体出油变浅金。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "这一步决定科尔玛的底味，炒不够会有生味。",
+      "visual_cue": "糊体离锅出油，颜色转为浅金"
+    },
+    {
+      "n": 5,
+      "text": "加番茄块、姜黄粉、咖喱粉与辣椒粉，压碎番茄炒到软烂，锅底渗出橙红油汁。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "番茄炒透出油，咖喱的味道才不会发涩。",
+      "visual_cue": "番茄化开，油色橙红发亮"
+    },
+    {
+      "n": 6,
+      "text": "倒入清水烧开，加盐调味，转小火煮五分钟让香料味融进汤汁。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "先用清水把底味煮开，再放豆腐才不吸生味。",
+      "visual_cue": "汤汁转浓，表面浮一层橙红油"
+    },
+    {
+      "n": 7,
+      "text": "把煎好的豆腐块放进咖喱汁里，加淡奶油翻匀，小火煨六分钟让豆腐吸足味道。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "淡奶油下锅后火要小，滚太猛容易分层起花。",
+      "visual_cue": "咖喱汁转成柔和的奶油橙色"
+    },
+    {
+      "n": 8,
+      "text": "关火撒香菜碎，盛进深盘，让咖喱汁把豆腐半浸着上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "香菜最后撒，香气与颜色都保留得最好。",
+      "visual_cue": "深盘里橙红咖喱半浸着金黄豆腐"
+    }
+  ],
+  "tips": [
+    "科尔玛的特点是不辣而香，辣椒粉只取香气，怕辣可以减到零点五克。",
+    "豆腐先用厨房纸吸干水分，煎的时候不会油花四溅，也更容易上色。",
+    "淡奶油最后放，火力保持最小，才能让酱汁顺滑不发花。",
+    "想要更浓的坚果香，可以把腰果的用量加到五十克，酱汁会更厚更挂勺。"
+  ],
+  "common_mistakes": [
+    "豆腐水分没吸干就下锅，煎的时候出水又粘底，块形全散。",
+    "洋葱腰果糊大火快炒，表面焦黑里头还生，咖喱带焦苦味。",
+    "淡奶油与咖喱汁一起大火滚煮，酱汁分层起颗粒，卖相全毁。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "豆干",
+      "ratio": "400克:350克",
+      "note": "质地更紧，煎制时间缩短三分钟即可上色。"
+    },
+    {
+      "original": "淡奶油",
+      "substitute": "牛奶",
+      "ratio": "60毫升:100毫升",
+      "note": "奶香稍薄，收汁时间需延长两分钟。"
+    }
+  ],
+  "variations": [
+    "加一把煮熟的毛豆同煨，颜色更绿，口感也多一层豆香。",
+    "把北豆腐换成煎过的土豆块，做成更接近北印家常的版本。"
+  ],
+  "serving_suggestion": "配白饭、薄饼或烤饼都合适，盘边放一角柠檬可以解掉奶香带来的腻感。",
+  "storage": "冷藏可存两天，豆腐久泡会出水，复热时加两勺清水小火加热到微沸即可。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 452,
+    "protein_g": 24,
+    "fat_g": 33,
+    "carbs_g": 16,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "mustard",
+    "soy",
+    "tree-nut"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "豆腐与咖喱汁含乳制品，煮好后两小时内冷藏，复热要加热到整体滚沸。"
+  ],
+  "origin_note": "科尔玛源自莫卧儿宫廷厨房，原本用肉与坚果奶同煨，如今印度家庭常用豆腐替身，靠腰果糊与淡奶油做出柔滑浓香，辣度极低，孩子也能吃。",
+  "tags": [
+    "印度",
+    "豆腐",
+    "咖喱",
+    "奶香"
+  ],
+  "related_ids": [
+    "indian-tofu-masala",
+    "indian-tofu-butter-masala",
+    "indian-tofu-tikka"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:37:50.731Z",
+  "generatedAt": "2026-11-27T10:13:48.202Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2643,
-    "coverage": 0.8072693952351864
+    "actual": 2651,
+    "coverage": 0.8097128894318876
   },
   "regions": {
     "cn": [
@@ -5168,13 +5168,13 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 79,
+        "actual": 87,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "aloo-gobi",
               "aloo-palak",
@@ -5182,6 +5182,7 @@
               "indian-aloo-matar",
               "indian-baingan-bharta",
               "indian-bharwa-baingan",
+              "indian-gajar-matar-sabzi",
               "indian-gobi-matar",
               "indian-kaddu-masala",
               "indian-mutter-paneer",
@@ -5237,11 +5238,13 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "dal-tomato-soup",
               "indian-chicken-corn-soup",
               "indian-chicken-shorba",
+              "indian-lemon-coriander-chicken-soup",
+              "indian-masoor-dal-shorba",
               "indian-moong-dal-shorba",
               "indian-mulligatawny-soup",
               "indian-palak-shorba",
@@ -5255,16 +5258,18 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "gajar-halwa",
               "indian-carrot-halwa",
+              "indian-coconut-burfi",
               "indian-gulab-jamun",
               "indian-jalebi",
               "indian-kaju-katli",
               "indian-kulfi",
               "indian-phirni",
               "indian-rasmalai",
+              "indian-semiya-payasam",
               "indian-shrikhand",
               "kheer"
             ]
@@ -5273,10 +5278,11 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "indian-anda-bhurji",
               "indian-egg-curry",
+              "indian-egg-kofta-curry",
               "indian-egg-omelette",
               "indian-nargisi-kofta"
             ]
@@ -5285,10 +5291,11 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "indian-palak-paneer",
               "indian-tofu-butter-masala",
+              "indian-tofu-korma",
               "indian-tofu-masala",
               "indian-tofu-tikka"
             ]
@@ -5307,9 +5314,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "indian-chicken-biryani",
+              "indian-coconut-rice",
               "indian-jeera-rice",
               "indian-lemon-rice",
               "indian-veg-pulao"
