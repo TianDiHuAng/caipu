@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:41:36.570Z",
+  "generatedAt": "2026-11-27T08:07:40.387Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2627,
-    "coverage": 0.8023824068417837
+    "actual": 2635,
+    "coverage": 0.8048259010384851
   },
   "regions": {
     "cn": [
@@ -3733,13 +3733,13 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 79,
+        "actual": 87,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "larb-gai",
               "thai-cashew-chicken",
@@ -3750,17 +3750,20 @@
               "thai-garlic-pepper-chicken",
               "thai-green-curry-chicken",
               "thai-khao-soi",
-              "thai-pad-khing-gai"
+              "thai-pad-khing-gai",
+              "thai-pik-gai-yang"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
+              "thai-gaeng-jued-mara",
               "thai-gaeng-jued-wunsen",
               "thai-gaeng-liang",
+              "thai-gaeng-som-goong",
               "thai-kaeng-jued-moo",
               "thai-tom-kha-gai",
               "thai-tom-som-pla",
@@ -3775,14 +3778,16 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "larb-gai",
               "som-tam",
               "thai-som-tam",
               "thai-yam-het",
               "thai-yam-khao-pod",
+              "thai-yam-makheua",
               "thai-yam-pla-muek",
+              "thai-yam-som-o",
               "thai-yum-kai-yang",
               "thai-yum-talay",
               "thai-yum-woon-sen",
@@ -3793,7 +3798,7 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "pu-pad-pong-curry",
               "thai-basil-shrimp",
@@ -3801,6 +3806,8 @@
               "thai-goong-pad-khing",
               "thai-goong-pad-makham",
               "thai-goong-tod-krathiam",
+              "thai-hoi-pad-kra-pao",
+              "thai-pla-muek-yang",
               "thai-pla-neung-manao",
               "thai-pla-neung",
               "thai-steamed-fish",
@@ -3811,7 +3818,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "mango-sticky-rice",
               "thai-bua-loi",
@@ -3822,7 +3829,8 @@
               "thai-khao-niao-sangkhaya",
               "thai-kluay-buad-chee",
               "thai-lod-chong",
-              "thai-pumpkin-custard"
+              "thai-pumpkin-custard",
+              "thai-tub-tim-grob"
             ]
           },
           {
