@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-meigancai-zheng-rou",
+  "name": {
+    "zh": "梅干菜蒸肉",
+    "en": "Steamed Pork with Preserved Greens",
+    "original": "梅干菜蒸肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 109,
+    "total_min": 149
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 500,
+          "unit": "g",
+          "note": "带皮，切厚片",
+          "optional": false
+        },
+        {
+          "name": "梅干菜",
+          "name_en": "preserved mustard",
+          "amount": 80,
+          "unit": "g",
+          "note": "提前泡发洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 2,
+          "unit": "g",
+          "note": "可省略",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "平衡咸味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒梅干菜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调节咸度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "大碗",
+    "炒锅",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "梅干菜用温水泡二十分钟，反复抓洗三次去掉泥沙。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "梅干菜根部藏沙最多，要一片片搓洗。",
+      "visual_cue": "水由浑浊变清，菜叶松软展开"
+    },
+    {
+      "n": 2,
+      "text": "洗净的梅干菜挤干水分，切成半厘米长的小段备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "挤得越干，炒的时候越容易吸油出香。",
+      "visual_cue": "菜段松散不粘连，手捏无水"
+    },
+    {
+      "n": 3,
+      "text": "五花肉切成一厘米厚的片，冷水下锅加姜片与料酒焯五分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "冷水下锅才能把血水逼出来，热水下锅会锁住腥味。",
+      "visual_cue": "水面浮起褐色浮沫，肉片变白"
+    },
+    {
+      "n": 4,
+      "text": "肉片捞出用温水冲净浮沫，沥干后加生抽与老抽抓匀。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "趁热拌酱油更易上色，凉了颜色挂不住。",
+      "visual_cue": "肉片表面泛红亮的酱色"
+    },
+    {
+      "n": 5,
+      "text": "炒锅小火放花生油，下姜片与干辣椒炒香，倒入梅干菜翻炒。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "梅干菜要小火慢炒，火大一下子就焦苦。",
+      "visual_cue": "菜叶油亮发黑，闻到浓郁咸香"
+    },
+    {
+      "n": 6,
+      "text": "梅干菜里加白糖与少许盐炒匀，盛出一半备用。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "糖能压住梅干菜的涩，尝起来不该明显发甜。",
+      "visual_cue": "菜段松散油润，咸香里带一点回甜"
+    },
+    {
+      "n": 7,
+      "text": "大碗底铺一层梅干菜，肉片皮朝下码整齐，再盖上剩下的菜。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "肉皮朝下码紧，蒸出的油会往下渗进菜里。",
+      "visual_cue": "碗面平整，肉片层层叠压"
+    },
+    {
+      "n": 8,
+      "text": "碗口盖保鲜膜或扣一个盘子，上蒸锅大火蒸足九十分钟。",
+      "time_min": 90,
+      "heat": "大火",
+      "tip": "时间不够肉不酥，宁可多蒸也不要少蒸。",
+      "visual_cue": "筷子一插就能轻松穿透肉皮"
+    },
+    {
+      "n": 9,
+      "text": "取出倒扣进盘中，撒葱结，把碗底的汤汁淋回肉上。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "倒扣要趁热，凉了油凝住会粘碗脱不出来。",
+      "visual_cue": "肉片完整翻出，酱汁流淌而下"
+    }
+  ],
+  "tips": [
+    "梅干菜有咸有淡，泡好后先尝一口再决定加多少盐。",
+    "想更酥可以把蒸的时间延长到两小时。",
+    "蒸出来的汤汁别倒掉，拌饭特别香。",
+    "一次多做几碗冷冻，吃前回蒸四十分钟即可。"
+  ],
+  "common_mistakes": [
+    "梅干菜没洗净就下锅，吃起来满口沙子。",
+    "肉没焯水直接蒸，成品带腥味还有浮沫。",
+    "蒸的时间太短，肉皮硬得根本咬不动。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "咸肉",
+      "ratio": "500克:400克",
+      "note": "盐要减掉，咸肉本身带咸。"
+    },
+    {
+      "original": "梅干菜",
+      "substitute": "雪菜",
+      "ratio": "80克:120克",
+      "note": "蒸的时间可缩短到四十分钟。"
+    }
+  ],
+  "variations": [
+    "加几片竹笋一起蒸，口感会更清口解腻。",
+    "改用小盅分装来蒸，一人一份摆盘更好看。"
+  ],
+  "serving_suggestion": "趁热扣在盘里上桌，配一碗白米饭，把汤汁连菜一起拌进饭中。",
+  "storage": "冷藏三天，冷冻两周，复蒸三十分钟即可恢复软糯。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 640,
+    "protein_g": 22,
+    "fat_g": 55,
+    "carbs_g": 12,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "五花肉须蒸到完全酥烂熟透，中心不带血水。",
+    "蒸锅开盖时蒸汽温度极高，先侧身再开盖避免烫伤。"
+  ],
+  "origin_note": "浙江绍兴一带的家常蒸菜，把梅干菜与五花肉层层码进碗里，靠长时间蒸汽把肉油逼进菜中，肉酥菜香，一碗就能配下两碗饭。",
+  "tags": [
+    "浙江",
+    "梅干菜",
+    "五花肉",
+    "蒸菜"
+  ],
+  "related_ids": [
+    "dongpo-rou",
+    "meigancai-kourou",
+    "zhejiang-gancai-menrou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

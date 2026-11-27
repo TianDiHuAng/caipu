@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-sushaoe",
+  "name": {
+    "zh": "浙江素烧鹅",
+    "en": "Vegetarian Roast Goose",
+    "original": "素烧鹅"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 42,
+    "cook_min": 26,
+    "total_min": 68
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "豆腐皮",
+          "name_en": "tofu skin",
+          "amount": 240,
+          "unit": "g",
+          "note": "干豆腐皮，泡软后使用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "收汁",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "刷面与提香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "五香粉",
+          "name_en": "five spice powder",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "平底锅",
+    "纱布",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干豆腐皮用温水泡软，捞出摊平，用厨房纸吸掉表面水分。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "水分不吸干，卷的时候皮会滑开卷不紧。",
+      "visual_cue": "豆腐皮柔软有韧劲，表面不滴水"
+    },
+    {
+      "n": 2,
+      "text": "香菇丝与笋丝用少许油炒香，加一半生抽与白糖炒匀盛出。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "馅料要炒到没有水汽，否则卷里会返潮。",
+      "visual_cue": "馅丝干香松散，颜色变深"
+    },
+    {
+      "n": 3,
+      "text": "把豆腐皮摊在纱布上，刷一层生抽与香油混合的酱汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "刷得均匀，成品的颜色才不会一块深一块浅。",
+      "visual_cue": "皮面呈浅褐色，酱汁不堆积"
+    },
+    {
+      "n": 4,
+      "text": "在豆腐皮一侧铺上香菇笋丝，卷成手腕粗的长卷。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "一边卷一边收紧，卷得紧切的时候才不散。",
+      "visual_cue": "卷体紧实圆润，表面无皱褶"
+    },
+    {
+      "n": 5,
+      "text": "用纱布把卷包紧，两端折起扎牢，上蒸锅大火蒸十分钟。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "包紧再蒸，卷体才会定型成鹅颈般的圆柱。",
+      "visual_cue": "卷体鼓起变硬，纱布外侧无水汽滴落"
+    },
+    {
+      "n": 6,
+      "text": "取出放凉十分钟，拆开纱布，表面刷老抽与五香粉混合的酱汁。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "一定要放凉之后再拆，热的卷一拆就塌。",
+      "visual_cue": "卷体定型不回缩，表面染色均匀"
+    },
+    {
+      "n": 7,
+      "text": "平底锅中火放花生油，豆腐卷下锅滚动煎到各面金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "用筷子轻推着滚一圈，各面受热才均匀。",
+      "visual_cue": "表面起金黄脆皮，有轻微噼啪声"
+    },
+    {
+      "n": 8,
+      "text": "锅里留少许油，加剩下的生抽与白糖、少量清水烧成薄汁。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "汁要稀薄，只为挂味，太稠会把脆皮泡软。",
+      "visual_cue": "汁液微稠发亮，冒细泡"
+    },
+    {
+      "n": 9,
+      "text": "豆腐卷放回锅中滚一遍汁，切片装盘，撒葱段。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "切片时刀要快，来回锯会把脆皮压碎。",
+      "visual_cue": "切片断面分明，外皮红亮内里分层"
+    }
+  ],
+  "tips": [
+    "豆腐皮选薄而韧的，太厚卷起来容易裂。",
+    "馅料可加一点笋干，口感更有嚼劲。",
+    "想更香可以把五香粉换成十三香。",
+    "冷藏后切片冷吃，也是不错的凉菜。"
+  ],
+  "common_mistakes": [
+    "豆腐皮泡得太软，卷的时候一拉就破。",
+    "卷得太松，切的时候馅料全都掉出来。",
+    "蒸好后不晾凉就拆纱布，卷体塌成扁条。"
+  ],
+  "substitutions": [
+    {
+      "original": "香菇",
+      "substitute": "木耳",
+      "ratio": "60克:60克",
+      "note": "切丝后口感更脆，香气略淡。"
+    },
+    {
+      "original": "竹笋",
+      "substitute": "茭白",
+      "ratio": "80克:100克",
+      "note": "质地更嫩，炒的时间缩短一分钟。"
+    }
+  ],
+  "variations": [
+    "卷里加一层紫菜，切开的断面更好看。",
+    "做成小卷下锅炸制，可以当作宴席的前菜。"
+  ],
+  "serving_suggestion": "切片摆盘，淋少许锅里的薄汁，冷热皆宜，作为素宴的头盘很体面。",
+  "storage": "冷藏三天，冷冻一周，复热用平底锅小火两面各煎一分钟。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 340,
+    "protein_g": 18,
+    "fat_g": 22,
+    "carbs_g": 18,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆制品须新鲜，泡发后当天使用完毕，出现酸味立即丢弃，煎制时须彻底加热熟透。",
+    "煎制油温较高，豆腐卷含水易溅油，下锅前须吸干表面水分。"
+  ],
+  "origin_note": "浙江寺院素菜的代表作，用豆腐皮卷起香菇笋丝，蒸定形后刷酱煎出脆皮，切开断面像鹅肉分层，因此得名素烧鹅。",
+  "tags": [
+    "浙江",
+    "豆腐皮",
+    "素菜",
+    "冷盘"
+  ],
+  "related_ids": [
+    "zhejiang-congyou-doufu",
+    "zhejiang-hongshao-doufu",
+    "zhejiang-dongpo-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
