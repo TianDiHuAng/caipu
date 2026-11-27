@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-daikon-furofuki",
+  "name": {
+    "zh": "日式风吕吹萝卜",
+    "en": "Japanese Simmered Daikon",
+    "original": "ふろふき大根"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 50,
+    "cook_min": 36,
+    "total_min": 86
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 700,
+          "unit": "g",
+          "note": "切四厘米厚圆段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "味噌",
+          "name_en": "miso",
+          "amount": 45,
+          "unit": "g",
+          "note": "白味噌或混合味噌",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调酱用",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡味噌咸味",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切细圈",
+          "optional": false
+        },
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 8,
+          "unit": "g",
+          "note": "煮高汤用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "高汤调味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮萝卜用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "煮萝卜时加",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "小锅",
+    "削皮刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "白萝卜横切成四厘米厚的圆段，用刀削去外皮，削到露出均匀的白色萝卜肉。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "外皮要削厚一点，带筋的部分煮不软，影响整块口感。",
+      "visual_cue": "萝卜段侧面雪白，无青绿残留"
+    },
+    {
+      "n": 2,
+      "text": "每个圆段的上下边缘用刀削出一圈小斜角，把直角削圆，煮时才不容易散。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "这道工序叫面取，能让萝卜久煮仍保持完整形状。",
+      "visual_cue": "圆段边缘圆润，无锐角"
+    },
+    {
+      "n": 3,
+      "text": "萝卜段在表面划一个浅浅的十字刀口，深度约一厘米，帮助受热与入味。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "划浅一点就够用，划穿的话久煮之后萝卜会从刀口处散开。",
+      "visual_cue": "表面有十字浅痕，边缘不变形"
+    },
+    {
+      "n": 4,
+      "text": "汤锅加清水、三克盐与一小把米，放入萝卜段，中火煮到水微沸后转小火煮二十五分钟。",
+      "time_min": 28,
+      "heat": "小火",
+      "tip": "加米煮是传统做法，米汤能让萝卜更快煮透也去苦味。",
+      "visual_cue": "水面微微冒泡，萝卜边缘变半透明"
+    },
+    {
+      "n": 5,
+      "text": "用竹签扎萝卜中心，能轻松穿透说明已透，关火后在汤里静置十分钟更入味。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "静置比继续煮好，萝卜不会烂，味道还能往里走一层。",
+      "visual_cue": "竹签一插到底，萝卜表面完整"
+    },
+    {
+      "n": 6,
+      "text": "小锅加清水与木鱼花，小火加热到微沸后关火焖五分钟，过滤出清澈高汤。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "木鱼花煮久了会发苦，微沸就关火焖，鲜味最干净。",
+      "visual_cue": "高汤浅金色透亮，闻起来清鲜"
+    },
+    {
+      "n": 7,
+      "text": "白味噌、味淋、白糖与生抽放进小锅，加两勺高汤调开，小火煮到浓稠挂勺。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "味噌不要大火久煮，香气会跑掉，稠了就离火。",
+      "visual_cue": "酱色浅褐浓稠，能挂住勺背"
+    },
+    {
+      "n": 8,
+      "text": "萝卜段捞出沥干放进碗里，把味噌酱淋在顶部，撒葱花与少许木鱼花。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "萝卜沥干再淋酱，否则汤汁会把酱冲稀。",
+      "visual_cue": "酱层盖住萝卜顶面，葱花点缀"
+    }
+  ],
+  "tips": [
+    "萝卜选粗壮沉手的，切口细密不空心的最好。",
+    "煮萝卜的汤别倒，滤清后可以煮味噌汤或炖其他菜。",
+    "味噌选白味噌偏甜，赤味噌偏咸，两者各半风味最平衡。",
+    "冬天可以一次煮多块萝卜冷藏，吃前蒸热再淋酱。"
+  ],
+  "common_mistakes": [
+    "萝卜不面取就直接煮，边缘煮烂发毛，形状全毁。",
+    "大火猛煮，萝卜外层烂了中心还是硬芯。",
+    "味噌酱大火久煮，香气散尽，只剩咸味。"
+  ],
+  "substitutions": [
+    {
+      "original": "白萝卜",
+      "substitute": "芜菁",
+      "ratio": "700克:600克",
+      "note": "煮制时间缩短到十八分钟，质地更细。"
+    },
+    {
+      "original": "木鱼花",
+      "substitute": "昆布",
+      "ratio": "8克:10克",
+      "note": "冷泡四小时吊汤，鲜味更清雅，适合素食。"
+    }
+  ],
+  "variations": [
+    "淋上蟹肉芡汁，做成更豪华的宴客版本，是日本新年菜常见的变化。",
+    "把味噌换成柚子味噌，酸香更清爽，适合夏天。"
+  ],
+  "serving_suggestion": "一块萝卜配一勺味噌酱，佐白饭与渍物，是冬天最暖的家常组合。",
+  "storage": "冷藏三天内吃完，复热用蒸锅蒸五分钟，微波会让萝卜出水发硬。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 110,
+    "protein_g": 4,
+    "fat_g": 2,
+    "carbs_g": 18,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "萝卜须煮至中心完全软化熟透再食用，味噌酱现调现用，剩余部分冷藏保存。"
+  ],
+  "origin_note": "日本冬天最常见的家常炖萝卜，整块萝卜削圆边后慢煮到透，淋上味噌酱吃。名字里的风吕吹说的是热气腾腾的样子，配一碗白饭，暖意从胃里散开。",
+  "tags": [
+    "日本",
+    "萝卜",
+    "炖菜",
+    "味噌"
+  ],
+  "related_ids": [
+    "japanese-oden-simple",
+    "japanese-chikuzenni"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

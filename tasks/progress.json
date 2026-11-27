@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:07:46.576Z",
+  "generatedAt": "2026-11-27T12:25:38.592Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2674,
-    "coverage": 0.8167379352474038
+    "actual": 2682,
+    "coverage": 0.8191814294441051
   },
   "regions": {
     "cn": [
@@ -545,7 +545,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 101,
+        "actual": 103,
         "cells": [
           {
             "category": "main-seafood",
@@ -577,9 +577,10 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "bobo-gulaorou",
+              "cantonese-gulu-rou",
               "cantonese-meicai-zheng-rouping",
               "cantonese-nanru-kourou",
               "cantonese-shacha-niurou",
@@ -595,10 +596,11 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "caigan-zhugu-tang",
               "cantonese-babao-dongguazhong",
+              "cantonese-corn-carrot-soup",
               "cantonese-fuzhu-baiguo-tang",
               "cantonese-lianou-paigu-tang",
               "cantonese-qingbu-liang-tang",
@@ -3317,7 +3319,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 93,
+        "actual": 94,
         "cells": [
           {
             "category": "main-seafood",
@@ -3423,8 +3425,9 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "japanese-daikon-furofuki",
               "japanese-nasu-miso",
               "japanese-nikujaga",
               "japanese-okonomiyaki"
@@ -3532,7 +3535,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 89,
+        "actual": 91,
         "cells": [
           {
             "category": "main-meat",
@@ -3638,9 +3641,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "korean-gaji-namul",
+              "korean-hobak-namul",
               "korean-japchae",
               "korean-sigeumchi-namul"
             ]
@@ -3649,11 +3653,12 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "korean-dalgyal-jangjorim",
               "korean-egg-roll",
-              "korean-gyeran-jjim"
+              "korean-gyeran-jjim",
+              "korean-mayak-gyeran"
             ]
           },
           {
@@ -3751,7 +3756,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 89,
+        "actual": 90,
         "cells": [
           {
             "category": "main-poultry",
@@ -3867,8 +3872,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "thai-kai-jiew-moo-sap",
               "thai-kai-palo",
               "thai-khai-jiao",
               "thai-yam-khai-dao"
@@ -4178,7 +4184,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 87,
+        "actual": 88,
         "cells": [
           {
             "category": "main-meat",
@@ -4297,8 +4303,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "french-oeufs-cocotte",
               "french-oeufs-en-meurette",
               "french-omelette-aux-fines-herbes",
               "french-omelette"
@@ -4403,7 +4410,7 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 82,
+        "actual": 83,
         "cells": [
           {
             "category": "main-seafood",
@@ -4519,11 +4526,12 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "spanish-huevos-rellenos",
               "spanish-revuelto-gambas",
-              "spanish-tortilla-espanola"
+              "spanish-tortilla-espanola",
+              "spanish-tortilla-paisana"
             ]
           },
           {
