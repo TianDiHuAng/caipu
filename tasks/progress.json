@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:46:19.702Z",
+  "generatedAt": "2026-11-27T16:09:20.650Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2739,
-    "coverage": 0.8365913255956017
+    "actual": 2747,
+    "coverage": 0.839034819792303
   },
   "regions": {
     "cn": [
@@ -4444,19 +4444,21 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 87,
+        "actual": 95,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "bacalao-al-pil-pil",
               "gambas-al-ajillo",
               "merluza-a-la-vasca",
               "pulpo-a-la-gallega",
+              "spanish-atun-a-la-plancha",
               "spanish-bacalao-al-horno",
+              "spanish-bacalao-con-miel",
               "spanish-calamares-rellenos",
               "spanish-gambas-al-ajillo",
               "spanish-merluza-rebozada",
@@ -4488,11 +4490,12 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "arroz-negro",
               "paella-valenciana",
               "paella-verduras",
+              "spanish-arroz-a-banda",
               "spanish-arroz-al-horno",
               "spanish-arroz-bacalao",
               "spanish-arroz-caldoso",
@@ -4507,7 +4510,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "churros",
               "flan",
@@ -4518,6 +4521,7 @@
               "spanish-leche-frita",
               "spanish-natillas",
               "spanish-polvorones",
+              "spanish-tarta-de-manzana",
               "spanish-tarta-de-queso",
               "spanish-tocino-de-cielo",
               "spanish-torrija",
@@ -4528,7 +4532,7 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "alioli",
               "romesco-sauce",
@@ -4538,6 +4542,7 @@
               "spanish-escalivada",
               "spanish-romesco-sauce",
               "spanish-salsa-brava",
+              "spanish-salsa-de-almendras",
               "spanish-salsa-de-perejil",
               "spanish-salsa-de-pimiento",
               "spanish-salsa-espanola",
@@ -4562,8 +4567,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "spanish-huevos-alinados",
               "spanish-huevos-rellenos",
               "spanish-revuelto-gambas",
               "spanish-tortilla-espanola",
@@ -4574,8 +4580,9 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "spanish-tofu-a-la-andaluza",
               "spanish-tofu-a-la-plancha",
               "spanish-tofu-al-ajillo",
               "spanish-tofu-con-pisto",
@@ -4586,8 +4593,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
+              "spanish-cazuela-de-fideos",
               "spanish-fideos-tostados",
               "spanish-fideua",
               "spanish-macarrones-con-tomate",

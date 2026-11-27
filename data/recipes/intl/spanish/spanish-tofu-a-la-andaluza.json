@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-tofu-a-la-andaluza",
+  "name": {
+    "zh": "安达卢西亚风味豆腐",
+    "en": "Andalusian Style Tofu",
+    "original": "Tofu a la Andaluza"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 45,
+    "total_min": 67
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "smoky",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 500,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "红椒",
+          "name_en": "red bell pepper",
+          "amount": 200,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 12,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎与炒",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 4,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 100,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "厨房纸",
+    "木铲",
+    "烤盘"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "老豆腐切成两厘米厚的片，用厨房纸压十分钟吸走多余水分。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "压过水的豆腐煎出来才有脆壳，也不崩油。",
+      "visual_cue": "豆腐片变薄，表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒二十毫升橄榄油，中火把豆腐片两面各煎四分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "一面结壳再翻，用铲子硬撬会破皮。",
+      "visual_cue": "两面金黄，边缘微焦"
+    },
+    {
+      "n": 3,
+      "text": "煎好的豆腐盛出，锅里补油下洋葱碎炒三分钟至透明。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒出甜味，整道菜的底味就稳了。",
+      "visual_cue": "洋葱透明发亮，不焦"
+    },
+    {
+      "n": 4,
+      "text": "加蒜末与红椒粉小火炒三十秒，炒出橙红色的油。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "红椒粉怕高温，炒久了会发黑发苦。",
+      "visual_cue": "油色橙红，蒜香散出"
+    },
+    {
+      "n": 5,
+      "text": "下彩椒条中火炒四分钟至边缘变软，再倒番茄丁炒三分钟。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "彩椒先炒断生，口感才脆中带软。",
+      "visual_cue": "彩椒变软，番茄出汁"
+    },
+    {
+      "n": 6,
+      "text": "倒高汤煮开，把豆腐片放回锅里，小火焖六分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "焖的时候别翻动太勤，豆腐易碎。",
+      "visual_cue": "汤汁微沸，豆腐微鼓"
+    },
+    {
+      "n": 7,
+      "text": "加盐与黑胡椒调味，转中火收汁三分钟至浓稠。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "收到能挂住豆腐就停，太干会发柴。",
+      "visual_cue": "汤汁浓稠，裹住豆腐"
+    },
+    {
+      "n": 8,
+      "text": "离火挤上柠檬汁，撒欧芹碎，装盘后趁热食用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "柠檬汁关火后加，清香才留得住。",
+      "visual_cue": "表面点缀绿碎，色亮"
+    }
+  ],
+  "tips": [
+    "豆腐压水时上面压一个重盘，十分钟就够。",
+    "彩椒选红黄两色，成品颜色更接近安达卢西亚的阳光。",
+    "加一把煮熟的白豆同焖，饱腹感更强。",
+    "剩下的汤汁拌饭特别香，别浪费。"
+  ],
+  "common_mistakes": [
+    "豆腐不压水直接煎，锅里油花四溅还粘底。",
+    "红椒粉跟蒜一起大火炒，瞬间发黑带苦味。",
+    "焖的时间太长，豆腐吸汁吸到散碎。"
+  ],
+  "substitutions": [
+    {
+      "original": "老豆腐",
+      "substitute": "豆腐",
+      "ratio": "500克:500克",
+      "note": "须先压水二十分钟，否则易碎。"
+    },
+    {
+      "original": "彩椒",
+      "substitute": "青椒",
+      "ratio": "200克:200克",
+      "note": "香气更清，口感略苦。"
+    }
+  ],
+  "variations": [
+    "加一勺番茄酱同焖，酱汁更浓，配面包很合适。",
+    "把豆腐换成煎过的茄子，做成纯素的安达卢西亚炖菜。"
+  ],
+  "serving_suggestion": "三人份主菜，配白米饭、烤面包或玉米饼，配一杯冰镇啤酒最好。",
+  "storage": "冷藏两天内吃完，复热小火加两勺高汤；豆腐久放易出水，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 300,
+    "protein_g": 18,
+    "fat_g": 20,
+    "carbs_g": 13,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "soy"
+  ],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "菜品须焖至完全热透，剩余部分冷藏并在两天内彻底复热后食用。"
+  ],
+  "origin_note": "把安达卢西亚人最爱的彩椒番茄炖法用在豆腐上，煎出脆壳再焖进甜椒汁里。汁水浓稠带烟熏香，配面包能把盘子擦干净。",
+  "tags": [
+    "西班牙",
+    "豆腐",
+    "素菜",
+    "安达卢西亚"
+  ],
+  "related_ids": [
+    "spanish-tofu-con-pisto"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

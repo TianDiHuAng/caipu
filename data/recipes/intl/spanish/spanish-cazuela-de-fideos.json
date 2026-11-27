@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-cazuela-de-fideos",
+  "name": {
+    "zh": "西班牙砂锅细面",
+    "en": "Noodle Casserole",
+    "original": "Cazuela de Fideos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 80,
+    "cook_min": 36,
+    "total_min": 116
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "细面条",
+          "name_en": "fine noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "短段",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 120,
+          "unit": "g",
+          "note": "去线",
+          "optional": false
+        },
+        {
+          "name": "蛤蜊",
+          "name_en": "clam",
+          "amount": 300,
+          "unit": "g",
+          "note": "吐沙洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 70,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 3,
+          "unit": "g",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 60,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "煮面",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "平底锅",
+    "木铲",
+    "汤勺",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "蛤蜊泡在淡盐水里吐沙一小时，中途换一次水，捞出刷净外壳。",
+      "time_min": 62,
+      "heat": "无火",
+      "tip": "吐沙不彻底，整锅面都会被沙子毁掉。",
+      "visual_cue": "蛤蜊外壳干净，水底无沙"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放橄榄油，中火把细面条干炒四分钟至微黄发脆。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "干炒过的面不易糊，汤味也挂得住。",
+      "visual_cue": "面条金黄微脆，香气明显"
+    },
+    {
+      "n": 3,
+      "text": "另起砂锅热油，下洋葱碎炒三分钟，加蒜末与红椒粉炒香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "红椒粉一遇热就出颜色，别在高温久炒。",
+      "visual_cue": "洋葱透明，油色橙红"
+    },
+    {
+      "n": 4,
+      "text": "倒番茄丁炒五分钟至出水变稠，加盐与黑胡椒调味。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒化开，汤底才够厚。",
+      "visual_cue": "番茄软烂，汤汁发红"
+    },
+    {
+      "n": 5,
+      "text": "倒白葡萄酒煮两分钟去酒气，再倒入热高汤煮开。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "高汤要热，冷汤下锅面容易断。",
+      "visual_cue": "汤面翻滚，酒气散尽"
+    },
+    {
+      "n": 6,
+      "text": "把炒好的面条放进砂锅，转小火煮八分钟至吸汤变软。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "煮的过程轻轻推几下，防止粘底。",
+      "visual_cue": "面条膨胀，汤汁渐浓"
+    },
+    {
+      "n": 7,
+      "text": "铺上虾仁与蛤蜊，盖盖焖五分钟至蛤蜊开口、虾仁变红。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "没开口的蛤蜊直接丢掉，说明本来就不新鲜。",
+      "visual_cue": "蛤蜊全开，虾仁卷曲"
+    },
+    {
+      "n": 8,
+      "text": "撒欧芹碎，连砂锅一起端上桌，趁热分到小碗里吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "砂锅保温好，吃到最后一碗还是烫的。",
+      "visual_cue": "汤汁浓稠，面身油亮"
+    }
+  ],
+  "tips": [
+    "细面条掰成五厘米的小段，更好入口也更好吸汤。",
+    "高汤用鱼汤最地道，家里没有可以用鸡汤代替。",
+    "蛤蜊提前一晚泡好放冰箱，第二天做起来更省事。",
+    "加几片煎过的鱿鱼，鲜味层次会更丰富。"
+  ],
+  "common_mistakes": [
+    "面条不炒直接下汤，煮完全粘成一坨。",
+    "汤一次加太多，最后变成面汤而不是砂锅面。",
+    "蛤蜊没吐沙就下锅，整锅都有细沙口感。"
+  ],
+  "substitutions": [
+    {
+      "original": "细面条",
+      "substitute": "意大利面",
+      "ratio": "250克:250克",
+      "note": "掰短段，煮制时间加两分钟。"
+    },
+    {
+      "original": "蛤蜊",
+      "substitute": "虾仁",
+      "ratio": "300克:200克",
+      "note": "无需吐沙，直接焖三分钟即可。"
+    }
+  ],
+  "variations": [
+    "加几块煎过的鸡肉与香肠，做成更丰盛的陆海混合版本。",
+    "用鱼肉块代替贝类，做成更适合孩子吃的版本。"
+  ],
+  "serving_suggestion": "三人份主食，配一份蒜香面包与冰镇啤酒，作为周末午餐最合适。",
+  "storage": "冷藏两天内吃完，复热加高汤小火加热；贝类隔夜须彻底热透再吃。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 520,
+    "protein_g": 28,
+    "fat_g": 16,
+    "carbs_g": 64,
+    "sodium_mg": 1260,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "mollusk",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "贝类须煮至全部开口，未开口的须弃用；虾仁须完全熟透，剩余菜品冷藏不超两天并彻底复热。"
+  ],
+  "origin_note": "西班牙沿海的砂锅面，细面先干炒再下海鲜汤里煮，吸满汤后软而不烂。用砂锅端上桌，一锅就是一顿饭。",
+  "tags": [
+    "西班牙",
+    "面条",
+    "海鲜",
+    "砂锅"
+  ],
+  "related_ids": [
+    "spanish-fideos-tostados"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

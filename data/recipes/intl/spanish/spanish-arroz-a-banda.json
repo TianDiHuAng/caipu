@@ -1,0 +1,299 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-arroz-a-banda",
+  "name": {
+    "zh": "瓦伦西亚配饭",
+    "en": "Rice on the Side",
+    "original": "Arroz a Banda"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 51,
+    "total_min": 76
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "短粒米",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 150,
+          "unit": "g",
+          "note": "去线洗净",
+          "optional": false
+        },
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 150,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "擦蓉",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切角",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "藏红花",
+          "name_en": "saffron",
+          "amount": 0.2,
+          "unit": "g",
+          "note": "泡水",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "平底锅",
+    "滤网",
+    "木铲",
+    "汤勺",
+    "量杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "藏红花放进两勺温高汤里泡出金色，米用清水淘洗两遍沥干。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "藏红花泡开才会出色，干撒颜色出不来。",
+      "visual_cue": "汤色金黄，米粒沥干"
+    },
+    {
+      "n": 2,
+      "text": "深锅倒高汤烧到微沸备用，另起平底锅放橄榄油中火烧热。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "高汤保持温热，倒进锅里饭才不会夹生。",
+      "visual_cue": "汤面微微冒泡，油面泛光"
+    },
+    {
+      "n": 3,
+      "text": "鱿鱼圈下锅煎两分钟至卷曲上色，盛出备用。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "鱿鱼先煎香，腥味才去得干净。",
+      "visual_cue": "鱿鱼卷边，表面微焦"
+    },
+    {
+      "n": 4,
+      "text": "原锅下洋葱碎炒四分钟至透明，加蒜末与欧芹炒出香味。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱炒透出甜，是整锅饭的底味。",
+      "visual_cue": "洋葱透明，香气升起"
+    },
+    {
+      "n": 5,
+      "text": "倒入番茄蓉，中小火炒六分钟至颜色变深、水分收干。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "番茄炒到发暗发稠，酸涩味才会消失。",
+      "visual_cue": "酱色深红，锅底见油"
+    },
+    {
+      "n": 6,
+      "text": "下大米翻炒两分钟，让每粒米都裹上一层油脂。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "米炒过再煮，颗粒才分明不粘连。",
+      "visual_cue": "米粒透亮，裹油均匀"
+    },
+    {
+      "n": 7,
+      "text": "倒进泡好的藏红花水与热高汤，加盐调味，转小火煮十五分钟。",
+      "time_min": 16,
+      "heat": "小火",
+      "tip": "煮的过程中别搅拌，免得米粒破皮发黏。",
+      "visual_cue": "汤面平缓，米粒吸水膨胀"
+    },
+    {
+      "n": 8,
+      "text": "放回鱿鱼与虾仁，盖盖再焖五分钟至海鲜变色、汤汁被吸干。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "海鲜最后放，久煮会老得像橡皮。",
+      "visual_cue": "虾仁卷曲变红，汤汁收干"
+    },
+    {
+      "n": 9,
+      "text": "离火静置三分钟，撒黑胡椒与欧芹，配柠檬角上桌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "静置能让锅底的饭形成薄薄一层焦香。",
+      "visual_cue": "饭粒松散，锅底微焦"
+    }
+  ],
+  "tips": [
+    "短粒米比长粒米更吸汤，口感更接近原版。",
+    "高汤可以提前用鱼骨熬，鲜味能提升一大截。",
+    "汤汁收干后别急着翻，静置几分钟更好吃。",
+    "没有藏红花可以用少量姜黄代替，但香气会不同。"
+  ],
+  "common_mistakes": [
+    "煮饭时不停搅拌，米粒破皮，整锅变成稠粥。",
+    "高汤一次加太多，最后成了泡饭不是干饭。",
+    "海鲜和米一起从头煮，出锅虾老鱿鱼硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾仁",
+      "substitute": "蛤蜊",
+      "ratio": "150克:200克",
+      "note": "鲜味更足，需提前吐沙洗净。"
+    },
+    {
+      "original": "鱿鱼",
+      "substitute": "墨鱼",
+      "ratio": "150克:150克",
+      "note": "肉更厚，煎制时间加一分钟。"
+    }
+  ],
+  "variations": [
+    "加一把青豆与彩椒丁同煮，颜色更热闹。",
+    "用鱼肉块代替虾仁，做成更清淡的海鲜版本。"
+  ],
+  "serving_suggestion": "三人份主食，配蒜香蛋黄酱与一杯冰镇白葡萄酒，也可作为海鲜主菜的配饭。",
+  "storage": "冷藏两天内吃完，复热加两勺高汤小火焖五分钟；海鲜饭不建议冷冻，米粒会散。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 560,
+    "protein_g": 26,
+    "fat_g": 18,
+    "carbs_g": 72,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "mollusk"
+  ],
+  "diet_tags": [
+    "pescatarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "海鲜须煮至完全熟透、虾仁通体不透明；贝类须开口后继续加热两分钟，剩余须冷藏不超两天。"
+  ],
+  "origin_note": "瓦伦西亚人的吃法，海鲜先熬出汤底，再用这锅汤煮饭，海鲜只作配菜铺在上面。米粒吸满海味，比海鲜饭更朴素也更浓。",
+  "tags": [
+    "西班牙",
+    "米饭",
+    "海鲜",
+    "瓦伦西亚"
+  ],
+  "related_ids": [
+    "paella-valenciana"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
