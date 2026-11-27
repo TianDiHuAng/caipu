@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-suzha-xiaohuangyu",
+  "name": {
+    "zh": "酥炸小黄鱼",
+    "en": "Crispy Fried Yellow Croaker",
+    "original": "酥炸小黄鱼"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 24,
+    "total_min": 54
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄鱼",
+          "name_en": "yellow croaker",
+          "amount": 500,
+          "unit": "g",
+          "note": "小黄鱼，去鳞去内脏",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片与切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "一个，取蛋液挂糊",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 60,
+          "unit": "g",
+          "note": "裹粉",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 40,
+          "unit": "g",
+          "note": "与面粉混合更脆",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "腌制与调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 260,
+          "unit": "ml",
+          "note": "炸制用油",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 2,
+          "unit": "g",
+          "note": "可选，增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "厨房纸",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小黄鱼去鳞去内脏，剪掉鱼鳍，用清水反复冲洗干净。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "鱼腹内的黑膜腥味最重，一定要刮干净。",
+      "visual_cue": "鱼身干净无血污，腹内没有黑膜"
+    },
+    {
+      "n": 2,
+      "text": "鱼身两面各划两刀，加姜片、葱段、料酒与盐抓匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "划刀让盐味进得去，炸的时候也不易卷缩。",
+      "visual_cue": "鱼身切口整齐，表面裹着腌料"
+    },
+    {
+      "n": 3,
+      "text": "腌十五分钟后倒掉血水，用厨房纸把鱼身内外彻底擦干。",
+      "time_min": 16,
+      "heat": "无火",
+      "tip": "带水下油锅会炸得满灶油花，擦干这步最要紧。",
+      "visual_cue": "鱼体表面干爽，纸巾不见水痕"
+    },
+    {
+      "n": 4,
+      "text": "面粉与玉米淀粉按三比二混合，加白胡椒粉和少许盐拌匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "掺淀粉能让外壳更脆，纯面粉炸出来偏硬。",
+      "visual_cue": "粉料颜色均匀，无结块"
+    },
+    {
+      "n": 5,
+      "text": "蛋液打散，鱼身先蘸蛋液再滚一层混合粉，轻抖掉多余粉。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "粉要薄薄一层，太厚炸不透还会有生粉味。",
+      "visual_cue": "鱼身均匀裹粉，鱼鳞纹路仍可见"
+    },
+    {
+      "n": 6,
+      "text": "炒锅倒花生油烧到六成热，筷子插入周围冒细密小泡。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "油温不够粉会脱，太高外面焦了里面还生。",
+      "visual_cue": "油面平稳，筷子边冒成串细泡"
+    },
+    {
+      "n": 7,
+      "text": "下小黄鱼中火炸四分钟，定型后再翻面炸三分钟。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "下锅后别急着翻，等外壳定住再动，鱼皮才不破。",
+      "visual_cue": "鱼身浮起，两面呈浅金黄色"
+    },
+    {
+      "n": 8,
+      "text": "捞出沥油，把油温升到八成热，回锅复炸一分钟。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "复炸是酥脆的关键，能把外壳里的油逼出来。",
+      "visual_cue": "外壳颜色加深，听到清脆的沙沙声"
+    },
+    {
+      "n": 9,
+      "text": "捞出放在厨房纸上吸油，撒花椒盐或细盐，趁热装盘。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "用吸油纸垫底吸走表面浮油，成品才不会软塌塌。",
+      "visual_cue": "鱼身金黄酥挺，纸上留下一圈油印"
+    }
+  ],
+  "tips": [
+    "小黄鱼选巴掌长的最嫩，太大肉厚不易炸透。",
+    "复炸前把杂质捞净，油才清亮不返黑。",
+    "一次别下太多鱼，油温掉下来就炸不脆。",
+    "剩下的炸油滤掉渣滓，可以留着下次炒菜用。"
+  ],
+  "common_mistakes": [
+    "鱼身没擦干就下锅，油花四溅还炸不脆。",
+    "油温太低就下鱼，粉衣脱落黏成一团。",
+    "只炸一遍不回锅，放凉两分钟就软了。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄鱼",
+      "substitute": "小鲳鱼",
+      "ratio": "500克:500克",
+      "note": "肉更紧实，炸的时间加一分钟。"
+    },
+    {
+      "original": "花生油",
+      "substitute": "菜籽油",
+      "ratio": "260毫升:260毫升",
+      "note": "颜色偏深，香气更重。"
+    }
+  ],
+  "variations": [
+    "腌料里加一勺生抽与五香粉，做成五香酥鱼。",
+    "炸好后淋一勺糖醋汁，做成酸甜口味。"
+  ],
+  "serving_suggestion": "趁热上桌，配一碟椒盐或香醋，连骨一起咬，作为下酒菜或主菜都合适。",
+  "storage": "冷藏一天，复热用两百度烤箱烤六分钟，不要微波会变软。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 420,
+    "protein_g": 32,
+    "fat_g": 26,
+    "carbs_g": 18,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "peanut"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "油炸时油温高，鱼身须擦干再下锅，避免热油飞溅烫伤。",
+    "鱼肉须炸到中心完全变白熟透，鱼骨酥脆可食但仍要小心细刺。"
+  ],
+  "origin_note": "江苏沿海与沿江一带的家常炸鱼，小黄鱼腌过裹一层薄粉，两遍油炸到外壳酥挺，咬开里面鱼肉雪白细嫩，是最经得住放的冷热两吃菜。",
+  "tags": [
+    "江苏",
+    "黄鱼",
+    "油炸",
+    "下酒"
+  ],
+  "related_ids": [
+    "jiangsu-xuecai-huangyu-tang",
+    "sushi-xunyu",
+    "xiangyou-shanhu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

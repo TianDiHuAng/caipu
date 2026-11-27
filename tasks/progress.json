@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:00:11.449Z",
+  "generatedAt": "2026-11-27T06:18:23.454Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2587,
-    "coverage": 0.7901649358582773
+    "actual": 2595,
+    "coverage": 0.7926084300549786
   },
   "regions": {
     "cn": [
@@ -765,16 +765,18 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 79,
+        "actual": 87,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "jiangsu-baoyu-hongshao",
+              "jiangsu-hongshao-huangshan",
               "jiangsu-qingzheng-luyu",
+              "jiangsu-suzha-xiaohuangyu",
               "jiangsu-tangchao-luosi",
               "jiangsu-youbao-xia",
               "qingchao-xiaren",
@@ -810,7 +812,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "chuncai-yinyu-geng",
               "dazhu-gansi",
@@ -818,6 +820,7 @@
               "jiangsu-jiaobai-xiaren-geng",
               "jiangsu-jitang-zhugansi",
               "jiangsu-jiyu-doufu-tang",
+              "jiangsu-luobosi-jiyu-tang",
               "jiangsu-shaguo-yutou",
               "jiangsu-xuecai-huangyu-tang",
               "jiangsu-yuyuan-tang",
@@ -830,11 +833,13 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 12,
             "ids": [
               "jiangsu-baiqie-yangrou",
               "jiangsu-jiangya",
               "jiangsu-jiangzhi-ou",
+              "jiangsu-jiangzhi-pidan",
+              "jiangsu-liangban-luhao",
               "jiangsu-liangban-wosun",
               "jiangsu-tangcu-luobo",
               "jiangsu-xun-yu",
@@ -848,11 +853,13 @@
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "congyou-su-shaobing",
               "guotie",
+              "huangqiao-shaobing",
               "jiangsu-feicui-shaomai",
+              "jiangsu-guihua-tang-yunai",
               "jiangsu-luobosi-subing",
               "jiangsu-meihua-gao",
               "shengjian-bao",
@@ -865,10 +872,11 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "culiu-baicai",
               "jiangsu-yexiang-qiezi",
+              "jiangsu-youmen-jiaobai",
               "shangtang-wawacai"
             ]
           },
