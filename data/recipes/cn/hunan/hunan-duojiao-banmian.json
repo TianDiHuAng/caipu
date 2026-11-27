@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-duojiao-banmian",
+  "name": {
+    "zh": "剁椒拌面",
+    "en": "Noodles with Chopped Chili",
+    "original": "剁椒拌面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 11,
+    "total_min": 21
+  },
+  "servings": 2,
+  "flavor": [
+    "spicy",
+    "salty",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "细面",
+          "optional": false
+        },
+        {
+          "name": "剁椒",
+          "name_en": "Hunan chopped pickled chili",
+          "amount": 60,
+          "unit": "g",
+          "note": "带汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "泼油",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "中和辣味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "拌面碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大蒜拍碎切成细末，小葱洗净切成细葱花备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蒜末切细一点，泼上热油才不留生辣味。",
+      "visual_cue": "蒜末细白，葱花翠绿蓬松"
+    },
+    {
+      "n": 2,
+      "text": "剁椒连汁盛进碗里，加蒜末、生抽与白糖拌匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "剁椒本身咸，先拌糖能压住死咸。，顺序不能颠倒。",
+      "visual_cue": "料汁绯红油亮，蒜末分布均匀"
+    },
+    {
+      "n": 3,
+      "text": "菜籽油烧到微微冒青烟，趁热泼进剁椒碗里激香。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "油要够热才激得出香，凉油泼下去只有生味。",
+      "visual_cue": "泼下瞬间滋啦作响，红油泛起"
+    },
+    {
+      "n": 4,
+      "text": "热油泼好后立刻搅匀，让剁椒与蒜末充分融合。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "趁热搅，蒜香才和剁椒的辣融成一体。",
+      "visual_cue": "碗里红油浓稠，香气冲鼻"
+    },
+    {
+      "n": 5,
+      "text": "汤锅烧开水，下面条煮三分钟到面条熟透。，注意观察火候。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "面条煮到掐开无白芯就好，别煮过头。",
+      "visual_cue": "面条浮起，颜色透亮，颜色看着很舒服"
+    },
+    {
+      "n": 6,
+      "text": "面条捞出沥干水分，趁热倒进拌面碗里备用。，中间别急着翻动。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "一定要沥干，带水会冲淡剁椒的香。，量别放多。",
+      "visual_cue": "面条松散无积水，冒热气"
+    },
+    {
+      "n": 7,
+      "text": "浇上剁椒料汁与香油，用筷子从下往上挑拌开。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "挑着拌，面条不断也能拌得更均匀。，这一步别偷懒。",
+      "visual_cue": "面条根根裹红油，油光发亮"
+    },
+    {
+      "n": 8,
+      "text": "撒一把葱花，趁热立刻拌开吃，凉了风味就散了。",
+      "time_min": 1,
+      "heat": "无火",
+      "tip": "剁椒拌面吃的是热辣鲜香，凉了会发腻。",
+      "visual_cue": "红油面身点缀翠绿葱花"
+    }
+  ],
+  "tips": [
+    "剁椒要带点汁水，拌出来才润不干。",
+    "菜籽油比花生油更香，湖南人更认这个味。",
+    "加一勺猪油，滑爽度会明显提升。",
+    "怕辣可以减半剁椒，多加点糖平衡。"
+  ],
+  "common_mistakes": [
+    "油温不够就泼，剁椒一点香味都没激出来。",
+    "面煮好没沥干，碗底积一层红汤。，白忙一场很可惜。",
+    "剁椒放太多又不加糖，咸辣冲得没法吃。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "250克:250克",
+      "note": "米粉泡软后烫一分钟，拌起来更挂汁。"
+    },
+    {
+      "original": "剁椒",
+      "substitute": "豆瓣酱",
+      "ratio": "60克:40克",
+      "note": "酱香更重，辣度柔和，盐可以不放。"
+    }
+  ],
+  "variations": [
+    "加一勺炒香的豆豉，鲜味更厚重。，换个花样不单调。",
+    "拌入几片卤牛肉，做成荤拌面更顶饱。"
+  ],
+  "serving_suggestion": "拌好趁热吃，红油裹满每根面条，辣香直冲鼻子，一口接一口停不下来。",
+  "storage": "料汁可提前做好冷藏三天，面条现煮现拌不留隔夜。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 540,
+    "protein_g": 13,
+    "fat_g": 24,
+    "carbs_g": 70,
+    "sodium_mg": 1260,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "泼热油时剁椒带汁易溅，须离远一点并快速退手。",
+    "剁椒为腌制品，含盐量高，高血压人群应酌量。"
+  ],
+  "origin_note": "湖南人家的坛子里常年腌着剁椒，懒得做菜时下一碗面，舀两勺剁椒泼上热油一拌，红艳艳的一碗，辣得痛快又省事。",
+  "tags": [
+    "湖南",
+    "剁椒",
+    "面条",
+    "拌面"
+  ],
+  "related_ids": [
+    "hunan-larou-chaomian",
+    "hunan-doushi-chaofan",
+    "hunan-duojiao-chaofan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

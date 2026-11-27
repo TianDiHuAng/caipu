@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:21:03.698Z",
+  "generatedAt": "2026-11-27T07:41:36.570Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2619,
-    "coverage": 0.7999389126450824
+    "actual": 2627,
+    "coverage": 0.8023824068417837
   },
   "regions": {
     "cn": [
@@ -1442,7 +1442,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 81,
+        "actual": 89,
         "cells": [
           {
             "category": "main-meat",
@@ -1547,11 +1547,13 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 7,
             "ids": [
               "hunan-congyou-chaodan",
               "hunan-duojiao-pidan",
               "hunan-duojiao-zhengdan",
+              "hunan-fanqie-chaodan",
+              "hunan-muer-chaodan",
               "hunan-xiaomila-chaodan",
               "hunan-zheng-shuidan"
             ]
@@ -1560,11 +1562,13 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 7,
             "ids": [
+              "hunan-doushi-shao-doufu",
               "hunan-duojiao-zheng-doufu",
               "hunan-jiacang-doufu",
               "hunan-lajiao-chao-doufu",
+              "hunan-qingjiao-jian-doufu",
               "hunan-xiangjian-doufu",
               "hunan-youdoufu-shao-rou"
             ]
@@ -1573,8 +1577,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "hunan-duojiao-banmian",
+              "hunan-larou-chaomian",
               "hunan-suanla-fensi",
               "nanchang-banfen"
             ]
@@ -1583,9 +1589,11 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "hunan-doushi-chaofan",
               "hunan-duojiao-chaofan",
+              "hunan-larou-chaofan",
               "hunan-nangua-baofan"
             ]
           },

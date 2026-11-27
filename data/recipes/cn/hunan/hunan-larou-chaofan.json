@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-larou-chaofan",
+  "name": {
+    "zh": "腊肉炒饭",
+    "en": "Fried Rice with Cured Pork",
+    "original": "腊肉炒饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 14,
+    "total_min": 26
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "smoky",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "隔夜冷饭",
+          "optional": false
+        },
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 100,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 50,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "少量调节",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "锅铲",
+    "砧板",
+    "饭碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "隔夜冷饭用手抓散，把结块的地方一点点捏开备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "饭粒抓散才炒得开，一坨坨下锅会夹生。",
+      "visual_cue": "米饭粒粒分明，不见结块"
+    },
+    {
+      "n": 2,
+      "text": "腊肉切成半厘米见方的小丁，青椒也切成同样大小。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "丁切小一点，嚼起来才不抢饭的口感。",
+      "visual_cue": "腊肉丁肥瘦分明，青椒丁规整"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋打进碗里加白胡椒打散，打匀到蛋清不见。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛋液打匀，炒出来颜色才一致好看。，火候最关键。",
+      "visual_cue": "蛋液均匀，表面有小泡"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放一半菜籽油烧热，倒蛋液炒成碎蛋块盛出。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "边倒边用铲子划，蛋才会炒成小碎块。",
+      "visual_cue": "蛋块细碎金黄，蓬松不结团"
+    },
+    {
+      "n": 5,
+      "text": "锅里补剩下的油，下腊肉丁小火煸出油脂和香味。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "小火慢煸，腊肉的油出来饭才香。，时间要卡准些。",
+      "visual_cue": "腊肉丁卷边出油，锅底亮亮的"
+    },
+    {
+      "n": 6,
+      "text": "下青椒丁大火炒半分钟，炒到断生还保留脆感。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "青椒别炒老，脆一点能解腊肉的腻。，顺序不能颠倒。",
+      "visual_cue": "青椒丁颜色转深绿，仍挺立"
+    },
+    {
+      "n": 7,
+      "text": "倒入米饭转大火，用铲子压散翻炒三分钟到干爽。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "边压边炒，饭粒才会颗颗裹油发亮。，量别放多。",
+      "visual_cue": "饭粒跳动有声，粒粒分开"
+    },
+    {
+      "n": 8,
+      "text": "倒回蛋块加生抽与盐翻匀，撒葱花再翻两下出锅。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "盐要少放，腊肉本身就带咸味。，这一步别偷懒。",
+      "visual_cue": "饭色均匀油亮，葱花翠绿点缀"
+    }
+  ],
+  "tips": [
+    "隔夜冷饭最好，新煮的饭水分太多炒不香。",
+    "腊肉先煸透，炒饭的油香全靠它。",
+    "出锅前淋几滴香油，香气更冲。，味道能更足。",
+    "锅一定要烧热再下饭，才不粘锅。"
+  ],
+  "common_mistakes": [
+    "用刚煮的热饭下锅，炒出来黏成一团。",
+    "腊肉切得太大块，一口咬下去全是咸味。",
+    "火太小慢慢翻，饭粒被水汽泡软了。，做出来完全变样。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肉",
+      "substitute": "腊肠",
+      "ratio": "100克:100克",
+      "note": "切小丁，自带甜味可少放盐。"
+    },
+    {
+      "original": "米饭",
+      "substitute": "糙米饭",
+      "ratio": "400克:400克",
+      "note": "口感更粗，需多炒一分钟。"
+    }
+  ],
+  "variations": [
+    "加一把剁椒同炒，辣香更地道。，口味层次更丰富。",
+    "放几片酸菜同炒，酸味解腻。，家里人会更爱吃。"
+  ],
+  "serving_suggestion": "装碗压实再扣在盘里，趁热吃，粒粒分明咸香带腊味。",
+  "storage": "冷藏一天，复热用大火快炒一分钟，别用蒸锅会回软。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 620,
+    "protein_g": 20,
+    "fat_g": 26,
+    "carbs_g": 76,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "腊肉为腌制品，须切丁后彻底炒熟炒透，含盐量高应适量。",
+    "炒饭用隔夜冷饭，冷藏米饭须在两天内用完。"
+  ],
+  "origin_note": "湖南农家过年熏的腊肉能吃到开春，切丁和冷饭一炒，油香渗进每粒米里，一碗管饱，是灶台边最快手的一顿。",
+  "tags": [
+    "湖南",
+    "腊肉",
+    "炒饭",
+    "家常"
+  ],
+  "related_ids": [
+    "hunan-doushi-chaofan",
+    "hunan-duojiao-chaofan",
+    "hunan-larou-chaomian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

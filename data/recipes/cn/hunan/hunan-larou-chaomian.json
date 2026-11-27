@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-larou-chaomian",
+  "name": {
+    "zh": "腊肉炒面",
+    "en": "Stir-fried Noodles with Cured Pork",
+    "original": "腊肉炒面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 14,
+    "cook_min": 20,
+    "total_min": 34
+  },
+  "servings": 2,
+  "flavor": [
+    "salty",
+    "spicy",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "碱水面",
+          "optional": false
+        },
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 120,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "菜籽油",
+          "name_en": "rapeseed oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 4,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "少量调节",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "腊肉用温水刷洗干净，放锅里蒸十分钟再切成薄片。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "先蒸软再切，片才薄得均匀也不夹生。",
+      "visual_cue": "腊肉片呈半透明，肥瘦分明"
+    },
+    {
+      "n": 2,
+      "text": "面条放沸水里煮两分钟，捞出过凉水后沥干备用。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "煮到八分熟就行，回锅炒还会再吸热。",
+      "visual_cue": "面条根根分明，掐断中间留白芯"
+    },
+    {
+      "n": 3,
+      "text": "沥干的面条拌一小勺菜籽油，抖散防止粘连成坨。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "拌油这一步能让面条炒出来更筋道。，这一步别偷懒。",
+      "visual_cue": "面条表面油润，抖开不结块"
+    },
+    {
+      "n": 4,
+      "text": "炒锅放剩下的菜籽油，下腊肉片小火慢煸两分钟。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "小火煸出油，腊肉的香才彻底释放出来。",
+      "visual_cue": "腊肉片卷边出油，锅底亮油"
+    },
+    {
+      "n": 5,
+      "text": "下干辣椒段与蒜末炒出香味，注意别炒糊发苦。",
+      "time_min": 1,
+      "heat": "中火",
+      "tip": "辣椒一变色就下料，黑了的辣油会发苦。",
+      "visual_cue": "辣椒呈暗红色，蒜末微黄"
+    },
+    {
+      "n": 6,
+      "text": "下青椒丝大火翻炒一分钟，炒到断生还带脆感。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "青椒只要断生，炒久了发黄出水。，火候最关键。",
+      "visual_cue": "青椒丝颜色转深绿，仍挺立"
+    },
+    {
+      "n": 7,
+      "text": "倒入面条，加生抽与老抽，用筷子挑着快速翻匀。",
+      "time_min": 2,
+      "heat": "大火",
+      "tip": "用筷子挑比用铲子好，面条不容易断。",
+      "visual_cue": "面条均匀上色，不见白条"
+    },
+    {
+      "n": 8,
+      "text": "撒盐与小葱段翻两下，尝一下咸淡立刻出锅。，动作要轻一点。",
+      "time_min": 1,
+      "heat": "大火",
+      "tip": "腊肉本身咸，盐要少放，先尝再补。，时间要卡准些。",
+      "visual_cue": "面条油亮干爽，青椒翠绿点缀"
+    }
+  ],
+  "tips": [
+    "腊肉选肥瘦三层的，煸出来的油最香。",
+    "面条煮好一定要抖散，粘成一坨就炒不匀。",
+    "喜欢重辣可以加一勺剁椒同炒。，口感会更好一些。",
+    "锅要够热，面条才炒得干香不湿软。"
+  ],
+  "common_mistakes": [
+    "面条煮得太软，一炒就断成碎节。，整锅味道都跟着毁了。",
+    "腊肉没蒸直接炒，又硬又咸咬不动。，口感差得很多。",
+    "火太小慢慢炒，面条出水变成一锅糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肉",
+      "substitute": "腊肠",
+      "ratio": "120克:120克",
+      "note": "斜切薄片，咸度略低可适当加盐。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "250克:250克",
+      "note": "米粉先泡软，炒时动作更轻。"
+    }
+  ],
+  "variations": [
+    "加一把豆芽同炒，口感更清脆。，口味层次更丰富。",
+    "放几根蒜苗同炒，香气更浓。，家里人会更爱吃。"
+  ],
+  "serving_suggestion": "装盘趁热吃，面条干香油润，腊肉咸香带辣，越嚼越香。",
+  "storage": "冷藏一天，复热用大火快炒一分钟，别加水。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 640,
+    "protein_g": 22,
+    "fat_g": 28,
+    "carbs_g": 72,
+    "sodium_mg": 1420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "腊肉为腌制品，须彻底加热熟透后食用，含盐量高应适量。",
+    "炒制时油温较高，下料避免水汽飞溅烫伤。"
+  ],
+  "origin_note": "湖南人冬天户户挂着腊肉，切几片煸出油，和碱水面一炒，咸香微辣，一碗下肚浑身都暖，是农闲时最实在的一顿。",
+  "tags": [
+    "湖南",
+    "腊肉",
+    "面条",
+    "炒制"
+  ],
+  "related_ids": [
+    "hunan-duojiao-banmian",
+    "hunan-larou-chaofan",
+    "xiaochao-huangniurou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
