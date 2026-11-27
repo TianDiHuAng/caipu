@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "huizhou-huasheng-zhuti",
+  "name": {
+    "zh": "徽州花生猪蹄煲",
+    "en": "Huizhou Peanut Pig Trotter Pot",
+    "original": "花生猪蹄煲"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 60,
+    "cook_min": 64,
+    "total_min": 124
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪蹄",
+          "name_en": "pork trotter",
+          "amount": 900,
+          "unit": "g",
+          "note": "斩成小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 120,
+          "unit": "g",
+          "note": "提前泡两小时",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "炖煮用",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "上色提亮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "g",
+          "note": "整颗",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "小块",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "最后调",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪蹄块用清水泡三十分钟，泡出血水后冲洗干净。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "泡出血水是去腥的第一步，别省这一会儿。",
+      "visual_cue": "水色变淡红，肉块表面发白"
+    },
+    {
+      "n": 2,
+      "text": "冷水下锅放猪蹄与姜片、料酒，煮开后撇净浮沫再煮三分钟。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才逼得出来，热水下锅会封住。",
+      "visual_cue": "水面浮起厚厚一层灰褐浮沫，肉块收紧"
+    },
+    {
+      "n": 3,
+      "text": "捞出猪蹄，用温水把表面的浮沫彻底冲干净，沥干水备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "冲的时候用温水，冷水会让皮突然收缩发硬。",
+      "visual_cue": "猪蹄表面干净，皮面完整没有残沫"
+    },
+    {
+      "n": 4,
+      "text": "炒锅下冰糖小火炒到融化起小泡，倒入猪蹄翻炒上色。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色炒到枣红色就好，再炒一会儿就会发苦发黑。",
+      "visual_cue": "猪蹄均匀裹上红亮糖色，锅里没有结晶"
+    },
+    {
+      "n": 5,
+      "text": "沿锅边淋料酒与生抽，加姜片、八角、桂皮翻匀出香。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "酱汁裹住肉再加水，颜色才亮不透水味。",
+      "visual_cue": "肉块色泽深红发亮，香料香气散出"
+    },
+    {
+      "n": 6,
+      "text": "连汁倒入砂锅，加花生与高汤没过食材，大火烧开转小火。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "花生要提前泡过，否则炖再久也不粉。",
+      "visual_cue": "液面高过食材两指，汤色红亮"
+    },
+    {
+      "n": 7,
+      "text": "小火慢炖一小时，炖到猪蹄皮糯、花生一抿就化。",
+      "time_min": 60,
+      "heat": "小火",
+      "tip": "汤面保持微沸，火大了汤会浑也不好收汁。",
+      "visual_cue": "筷子能轻松插入皮肉，花生外皮自然绽开"
+    },
+    {
+      "n": 8,
+      "text": "开盖转中火收汁，加盐调味，汤汁挂勺即可关火。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "收汁时人要守着勤翻，糖分重很容易糊底发苦。",
+      "visual_cue": "汤汁浓稠挂勺，表面油亮不流散"
+    }
+  ],
+  "tips": [
+    "猪蹄选前蹄肉多筋粗，炖出来更糯更香。",
+    "花生换成板栗同炖，口感同样粉糯。",
+    "砂锅炖的保温好，关火后焖十分钟更入味。",
+    "剩下的汤汁拌面，比什么浇头都实在。"
+  ],
+  "common_mistakes": [
+    "猪蹄没焯水直接炖，整锅带明显腥味。",
+    "炒糖色火太大，糖一下锅就发苦变黑。",
+    "收汁时不看火，转身拿个盘子的工夫就粘锅发焦。"
+  ],
+  "substitutions": [
+    {
+      "original": "花生",
+      "substitute": "板栗",
+      "ratio": "120克:150克",
+      "note": "炖的时间可缩短十分钟。"
+    },
+    {
+      "original": "猪蹄",
+      "substitute": "猪肘",
+      "ratio": "900克:900克",
+      "note": "皮更厚，需多炖二十分钟。"
+    }
+  ],
+  "variations": [
+    "加一把泡开的黄豆同炖，口感更丰富。",
+    "收汁前加一勺腐乳汁，咸鲜里带豆香，更有徽州味道。"
+  ],
+  "serving_suggestion": "连砂锅直接上桌，汤汁拌白米饭是最下饭的吃法。",
+  "storage": "冷藏三天，冷冻一个月，复热时加点高汤稀释。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 560,
+    "protein_g": 34,
+    "fat_g": 38,
+    "carbs_g": 18,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪蹄须炖到彻底熟透，皮肉用筷子能轻松插入。",
+    "花生易引起过敏，上桌时须提示同食者。"
+  ],
+  "origin_note": "徽州人把廉价的花生和猪蹄一起丢进砂锅慢炖，花生吸走油腻，猪蹄把胶质交出来，炖出来的汤汁黏稠挂勺，冬天吃最暖。",
+  "tags": [
+    "徽菜",
+    "主菜",
+    "猪蹄",
+    "炖菜"
+  ],
+  "related_ids": [
+    "huizhou-hongshao-zhuti",
+    "huizhou-hongshaorou",
+    "huizhou-huotui-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
