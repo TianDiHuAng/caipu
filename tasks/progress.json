@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:48:58.552Z",
+  "generatedAt": "2026-11-27T15:19:03.130Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 658,
+    "cells": 659,
     "target": 3274,
-    "actual": 2720,
-    "coverage": 0.8307880268784361
+    "actual": 2729,
+    "coverage": 0.8335369578497251
   },
   "regions": {
     "cn": [
@@ -7411,22 +7411,25 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 85,
+        "actual": 94,
         "cells": [
           {
             "category": "snack",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 15,
             "ids": [
               "elote",
               "mexican-chicken-quesadilla",
+              "mexican-chiles-toreados",
               "mexican-elote-cup",
               "mexican-esquites",
               "mexican-flautas",
               "mexican-guacamole",
+              "mexican-molletes",
               "mexican-nachos-supremos",
               "mexican-tamales-verdes",
+              "mexican-tlacoyos",
               "mexican-tlayuda",
               "quesadilla",
               "tacos-de-carne",
@@ -7437,14 +7440,16 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "carnitas",
               "chili-con-carne",
+              "mexican-barbacoa",
               "mexican-birria-de-res",
               "mexican-bistec-a-la-mexicana",
               "mexican-carne-asada",
               "mexican-carnitas",
+              "mexican-cerdo-salsa-verde",
               "mexican-cochinita-pibil",
               "mexican-pollo-adobado",
               "mexican-tacos-al-pastor",
@@ -7456,7 +7461,7 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 14,
+            "actual": 15,
             "ids": [
               "guacamole",
               "mexican-adobo-sauce",
@@ -7470,6 +7475,7 @@
               "mexican-salsa-roja",
               "mexican-salsa-taquera",
               "mexican-salsa-tatemada",
+              "mexican-salsa-verde-cruda",
               "pico-de-gallo",
               "salsa-verde"
             ]
@@ -7478,7 +7484,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 14,
+            "actual": 15,
             "ids": [
               "caldo-de-pollo",
               "crema-de-elote",
@@ -7486,6 +7492,7 @@
               "mexican-caldo-de-pescado",
               "mexican-caldo-de-res",
               "mexican-caldo-tlalpeno",
+              "mexican-crema-champinones",
               "mexican-crema-de-calabaza",
               "mexican-pozole-rojo",
               "mexican-sopa-de-albondigas",
@@ -7500,10 +7507,11 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "agua-fresca",
               "horchata",
+              "mexican-agua-de-fresa",
               "mexican-agua-de-jamaica",
               "mexican-agua-de-pepino",
               "mexican-agua-de-tamarindo",
@@ -7583,6 +7591,15 @@
             "ids": [
               "mexican-chicken-tinga",
               "mexican-pollo-asado"
+            ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "mexican-molletes"
             ]
           },
           {

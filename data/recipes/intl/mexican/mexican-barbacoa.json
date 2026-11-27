@@ -1,0 +1,290 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-barbacoa",
+  "name": {
+    "zh": "墨西哥慢烤羊肉",
+    "en": "Mexican Barbacoa Lamb",
+    "original": "Barbacoa"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 32,
+    "cook_min": 162,
+    "total_min": 194
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 1200,
+          "unit": "g",
+          "note": "带筋肩肉",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 200,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 2,
+          "unit": "piece",
+          "note": "榨汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 30,
+          "unit": "g",
+          "note": "整瓣",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "g",
+          "note": "两片",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 6,
+          "unit": "g",
+          "note": "干碎",
+          "optional": false
+        },
+        {
+          "name": "墨西哥辣椒",
+          "name_en": "jalapeno",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "抹肉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 12,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 5,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "炒香磨粉",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 25,
+          "unit": "ml",
+          "note": "兑汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "锡纸",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "羊肉切成拳头大的块，用厨房纸吸干表面的水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "表面越干，烤出来的焦香越足。",
+      "visual_cue": "肉块表面干爽，无血水"
+    },
+    {
+      "n": 2,
+      "text": "盐、黑胡椒、孜然与牛至混匀，均匀抹遍每一块羊肉。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "抹完静置二十分钟，让盐分渗进去。",
+      "visual_cue": "肉块表面均匀挂料"
+    },
+    {
+      "n": 3,
+      "text": "墨西哥辣椒切段，大蒜拍裂，洋葱切成厚厚的圆片备用。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "洋葱片既垫底又出汁，别切太薄。",
+      "visual_cue": "洋葱厚片铺满烤盘"
+    },
+    {
+      "n": 4,
+      "text": "烤盘铺锡纸，洋葱片铺底，羊肉块码在上面，放蒜、月桂叶与墨西哥辣椒。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "肉别贴盘底，靠洋葱垫着才不会糊。",
+      "visual_cue": "肉块不重叠，配料散开"
+    },
+    {
+      "n": 5,
+      "text": "淋橄榄油与白醋，再浇上一半青柠汁，把锡纸包紧。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酸能软化纤维，带筋的肩肉才烤得烂。",
+      "visual_cue": "锡纸包严，汁水不流"
+    },
+    {
+      "n": 6,
+      "text": "烤箱预热一百六十度，中层烤两小时四十分钟。",
+      "time_min": 162,
+      "heat": "中火",
+      "tip": "低温慢烤是关键，高温只会外焦内生。",
+      "visual_cue": "锡纸鼓起，香气往外冒"
+    },
+    {
+      "n": 7,
+      "text": "取出稍放凉，撕开锡纸，把肉拆成大块并拌入盘里的汁。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "用两把叉子顺着纹理拆，别切碎。",
+      "visual_cue": "肉块一撕就散，纤维分明"
+    },
+    {
+      "n": 8,
+      "text": "拆好的肉淋剩下的青柠汁，撒香菜，卷饼或配饭食用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "青柠最后加，酸香才明亮不闷。",
+      "visual_cue": "肉块油润发亮，香菜翠绿"
+    }
+  ],
+  "tips": [
+    "羊肉带一点筋最好，纯瘦的烤久了会柴。",
+    "没有墨西哥辣椒，用普通青椒加一撮辣椒粉也行。",
+    "剩的肉第二天夹玉米饼，比第一天还入味。",
+    "烤盘底的汁别倒掉，拌肉全靠它提味。"
+  ],
+  "common_mistakes": [
+    "高温快烤，外面焦了里面还带血。",
+    "锡纸没包严，水分跑光，肉烤成肉干。",
+    "盐抹完立刻烤，咸味只留在表面。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "1200克:1200克",
+      "note": "牛肩肉更常见，烤制时间加二十分钟。"
+    },
+    {
+      "original": "墨西哥辣椒",
+      "substitute": "青椒",
+      "ratio": "40克:60克",
+      "note": "辣度降低，可补一撮辣椒粉。"
+    }
+  ],
+  "variations": [
+    "烤好后把肉放平底锅煎一下表面，做出焦脆的边。",
+    "加两片香蕉叶同烤，多一层植物清香，是墨西哥南部的做法。"
+  ],
+  "serving_suggestion": "四人份主菜，配玉米饼、洋葱碎与青柠角，自己动手卷着吃。",
+  "storage": "冷藏三天内吃完，冷冻可存一个月；复热时加少量原汁盖锡纸烤十分钟。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 620,
+    "protein_g": 48,
+    "fat_g": 44,
+    "carbs_g": 8,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "halal"
+  ],
+  "food_safety_notes": [
+    "羊肉须烤至完全熟透、中心无血色，中心温度达七十五度以上；拆肉时生熟器具分开，冷藏不超三天。"
+  ],
+  "origin_note": "墨西哥中部山谷的传统做法，把羊肉拌上辣椒与香料，包进锡纸低温慢烤一整夜。肉烂到能用叉子撕开，浇上青柠汁，卷进玉米饼就是最地道的 Barbacoa。",
+  "tags": [
+    "墨西哥",
+    "羊肉",
+    "慢烤",
+    "barbacoa"
+  ],
+  "related_ids": [
+    "mexican-carnitas"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

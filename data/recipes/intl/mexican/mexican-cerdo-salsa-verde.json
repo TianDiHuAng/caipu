@@ -1,0 +1,289 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-cerdo-salsa-verde",
+  "name": {
+    "zh": "墨西哥青酱炖猪肉",
+    "en": "Pork in Green Salsa",
+    "original": "Cerdo en Salsa Verde"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 32,
+    "cook_min": 62,
+    "total_min": 94
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 700,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 250,
+          "unit": "g",
+          "note": "青酱用",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "分两次用",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍裂",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 30,
+          "unit": "g",
+          "note": "打酱",
+          "optional": false
+        },
+        {
+          "name": "墨西哥辣椒",
+          "name_en": "jalapeno",
+          "amount": 20,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎肉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 300,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "刀",
+    "砧板",
+    "平底锅",
+    "木铲",
+    "搅拌机"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成三厘米见方的块，用盐与黑胡椒抓匀腌十分钟。",
+      "time_min": 11,
+      "heat": "无火",
+      "tip": "五花肉带皮切，炖出来胶质才足。",
+      "visual_cue": "肉块大小均匀，表面挂盐"
+    },
+    {
+      "n": 2,
+      "text": "青椒去蒂切段，洋葱一半切块，大蒜拍裂，香菜留根洗净。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "香菜根别扔，香气比叶子还足。",
+      "visual_cue": "配料分开放，香菜根完整"
+    },
+    {
+      "n": 3,
+      "text": "平底锅烧热，青椒、洋葱块与大蒜干锅烘五分钟至起焦斑。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "烘出焦斑是青酱的魂，直接煮就少了烟熏味。",
+      "visual_cue": "青椒表皮起泡发黑"
+    },
+    {
+      "n": 4,
+      "text": "烘好的配料连同香菜与墨西哥辣椒放进搅拌机打成粗酱。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "打粗一点留颗粒，口感比顺滑的好。",
+      "visual_cue": "酱体浓稠带颗粒，颜色翠绿"
+    },
+    {
+      "n": 5,
+      "text": "炖锅倒橄榄油，把五花肉块煎至四面金黄，约需八分钟。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "先煎出油，肉才不腻，酱也更香。",
+      "visual_cue": "肉块四面金黄，锅底有油"
+    },
+    {
+      "n": 6,
+      "text": "放入剩下的洋葱块与孜然炒一分钟，炒到洋葱变软出香。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "孜然遇油才出香，别干锅撒。",
+      "visual_cue": "洋葱透明，孜然香气起"
+    },
+    {
+      "n": 7,
+      "text": "倒入打好的青酱翻炒两分钟，让酱色裹住每一块肉。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "青酱易糊锅，火不要大，勤翻。",
+      "visual_cue": "肉块挂满绿酱，锅底不干"
+    },
+    {
+      "n": 8,
+      "text": "加高汤没过一半肉块，大火烧开转小火炖三十五分钟。",
+      "time_min": 37,
+      "heat": "小火",
+      "tip": "汤别多，收尾要浓稠挂肉。",
+      "visual_cue": "汤汁微沸，肉块酥软"
+    },
+    {
+      "n": 9,
+      "text": "开盖大火收汁至浓稠，挤入青柠汁，尝味补盐出锅。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "青柠最后放，酸香清爽不发苦。",
+      "visual_cue": "酱汁浓稠裹肉，色深绿"
+    }
+  ],
+  "tips": [
+    "猪肩肉比五花瘦一些，喜欢清爽口感可以换。",
+    "青酱一次多打些，冷藏能放四天，拌饭拌面都好用。",
+    "怕辣就去掉墨西哥辣椒，青椒的清香已经够了。",
+    "配白饭或玉米饼都行，汤汁别收太干。"
+  ],
+  "common_mistakes": [
+    "青椒不烘直接打酱，味道生青，缺了烟熏香。",
+    "大火猛煮不盖盖，肉没烂汤先干。",
+    "青柠早放又久煮，整锅汤会发苦发涩。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "猪里脊",
+      "ratio": "700克:700克",
+      "note": "更瘦，炖制时间减十分钟。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "青尖椒",
+      "ratio": "250克:250克",
+      "note": "辣度上升，减辣椒用量。"
+    }
+  ],
+  "variations": [
+    "加一把煮熟的红腰豆同炖，做成豆子青酱猪肉，饱腹感更强。",
+    "把肉换成鸡腿块，炖二十分钟即可，是常见的青酱鸡。"
+  ],
+  "serving_suggestion": "三人份主菜，配白饭、玉米饼和一份豆泥，汤汁用来拌饭最香。",
+  "storage": "冷藏两天内吃完，复热小火加两勺水；青酱含香菜易变味，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 610,
+    "protein_g": 32,
+    "fat_g": 46,
+    "carbs_g": 14,
+    "sodium_mg": 1150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪肉须炖至完全熟透、中心无粉色，中心温度达七十一度以上；青酱现打现用，冷藏不超两天。"
+  ],
+  "origin_note": "墨西哥家庭最常见的一锅菜，五花肉煎香后用青椒、香菜与墨西哥辣椒打的青酱慢炖。酸辣清爽，汤汁浓绿，拌饭卷饼都合适。",
+  "tags": [
+    "墨西哥",
+    "青酱",
+    "猪肉",
+    "炖菜"
+  ],
+  "related_ids": [
+    "mexican-carnitas"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
