@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:13:48.202Z",
+  "generatedAt": "2026-11-27T10:26:39.306Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 658,
+    "cells": 657,
     "target": 3274,
-    "actual": 2651,
-    "coverage": 0.8097128894318876
+    "actual": 2657,
+    "coverage": 0.8115455100794136
   },
   "regions": {
     "cn": [
@@ -544,7 +544,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 99,
+        "actual": 100,
         "cells": [
           {
             "category": "main-seafood",
@@ -712,8 +712,9 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "cantonese-cha-siu-noodle",
               "cantonese-haoyou-chaomian",
               "ganchao-niuhe"
             ]
@@ -3527,7 +3528,7 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 84,
+        "actual": 87,
         "cells": [
           {
             "category": "main-meat",
@@ -3555,11 +3556,12 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "dwaeji-gukbap",
               "korean-dajiang-tang",
               "korean-doenjang-ggigae",
+              "korean-doenjang-jjigae",
               "korean-gamjatang",
               "korean-jogae-tang",
               "korean-kongnamul-guk",
@@ -3664,12 +3666,14 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "korean-bibim-guksu",
               "korean-japchae",
               "korean-jjajangmyeon",
-              "korean-mandu-guk"
+              "korean-kalguksu",
+              "korean-mandu-guk",
+              "korean-naengmyeon"
             ]
           },
           {
@@ -3741,7 +3745,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 87,
+        "actual": 89,
         "cells": [
           {
             "category": "main-poultry",
@@ -3868,11 +3872,13 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "thai-green-curry-tofu",
               "thai-pad-prik-doufu",
               "thai-pad-tao-hu-khing",
-              "thai-tod-taohu"
+              "thai-tod-taohu",
+              "thai-tofu-satay"
             ]
           },
           {
@@ -4592,7 +4598,7 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 27,
+        "actual": 26,
         "cells": [
           {
             "category": "soup",
@@ -4661,8 +4667,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "vietnamese-banh-xeo",
               "vietnamese-trung-chien"
             ]
           },
@@ -4670,12 +4677,11 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 5,
+            "actual": 4,
             "ids": [
               "banh-mi",
               "vietnamese-banh-cuon",
               "vietnamese-banh-mi",
-              "vietnamese-banh-xeo",
               "vietnamese-cha-gio"
             ]
           },
@@ -4686,15 +4692,6 @@
             "actual": 1,
             "ids": [
               "vietnamese-banh-mi"
-            ]
-          },
-          {
-            "category": "main-seafood",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "vietnamese-banh-xeo"
             ]
           },
           {
@@ -7344,7 +7341,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 80,
+        "actual": 81,
         "cells": [
           {
             "category": "snack",
@@ -7465,8 +7462,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "mexican-chilaquiles",
               "mexican-chiles-rellenos",
               "mexican-huevos-a-la-mexicana",
               "mexican-huevos-rancheros"

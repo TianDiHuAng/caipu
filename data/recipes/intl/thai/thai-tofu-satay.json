@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-tofu-satay",
+  "name": {
+    "zh": "泰式沙爹豆腐串",
+    "en": "Thai Tofu Satay",
+    "original": "สะเต๊ะเต้าหู้"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 40,
+    "total_min": 80
+  },
+  "servings": 3,
+  "flavor": [
+    "rich",
+    "spicy",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "切两厘米厚片",
+          "optional": false
+        },
+        {
+          "name": "花生酱",
+          "name_en": "peanut butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "无糖顺滑款",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 180,
+          "unit": "ml",
+          "note": "腌料与酱汁各半",
+          "optional": false
+        },
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 100,
+          "unit": "g",
+          "note": "切薄片配食",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 40,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 20,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 10,
+          "unit": "g",
+          "note": "腌料主体香料",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "咸鲜底味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "微甜回口",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "按口味增减",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "刷面防粘",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "竹签",
+    "烤盘",
+    "刀",
+    "砧板",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐片平放在盘里，两面撒薄薄一层咖喱粉，静置十分钟让表面出水。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "先撒粉再压水，豆腐才挂得住腌料不掉。",
+      "visual_cue": "豆腐表面渗出水珠，粉层微微湿润"
+    },
+    {
+      "n": 2,
+      "text": "用厨房纸把豆腐表面水分按压吸干，再切成两厘米见方的小块备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "压得越干，烤出来的表面越能焦香上色。",
+      "visual_cue": "豆腐块干爽，边角挺立不塌"
+    },
+    {
+      "n": 3,
+      "text": "小碗里放咖喱粉、生抽、白糖、辣椒粉与一半椰奶调成腌料，搅到没有干粉。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "腌料尝起来偏咸偏甜一点，烤过之后味道会变淡。",
+      "visual_cue": "腌料顺滑呈浅褐色，能挂住勺背"
+    },
+    {
+      "n": 4,
+      "text": "豆腐块放进腌料里轻轻拌匀，冷藏静置半小时，中途翻一次面让它入味均匀。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "时间不够时把豆腐切薄一半，二十分钟就能入味。",
+      "visual_cue": "豆腐块整体染上浅褐色，指尖按压回弹"
+    },
+    {
+      "n": 5,
+      "text": "豆腐块依次穿上竹签，每串四块，表面薄刷一层植物油，摆进铺了油纸的烤盘。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "块与块之间留一点空隙，受热才均匀不粘连。",
+      "visual_cue": "豆腐串排列整齐，表面泛油光"
+    },
+    {
+      "n": 6,
+      "text": "烤箱预热到两百度，把豆腐串送入中层烤十二分钟，中途翻面刷一次腌料。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "最后三分钟转上火上色，边缘微焦最香。",
+      "visual_cue": "豆腐表面焦黄起壳，边缘略深"
+    },
+    {
+      "n": 7,
+      "text": "花生酱加剩下的椰奶与青柠汁调成蘸酱，稠度以能缓慢流动为准。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "酱太稠就补一勺温水，太稀则加半勺花生酱。",
+      "visual_cue": "酱汁顺滑，舀起后缓缓垂落"
+    },
+    {
+      "n": 8,
+      "text": "豆腐串装盘，撒红葱头片，配黄瓜片与花生蘸酱一起上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "红葱头最后撒，早放会吸潮变软失脆。",
+      "visual_cue": "盘面颜色分明，酱汁盛在小碟中"
+    }
+  ],
+  "tips": [
+    "豆腐一定要选北豆腐，水分少才穿得住竹签，嫩豆腐一烤就散。",
+    "腌料里的糖不要省，烤出的焦糖香是这道菜的灵魂。",
+    "竹签提前用清水泡二十分钟，进烤箱才不会被烤焦发黑。",
+    "花生蘸酱可提前做好冷藏，风味融合后更浓，三天内用完。"
+  ],
+  "common_mistakes": [
+    "豆腐没压水就刷酱，烤盘里出水，表面怎么都烤不焦。",
+    "整块豆腐直接烤再切块，内部水汽出不来，口感发水。",
+    "蘸酱一次加太多水，稀得挂不住豆腐，吃起来寡淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "豆干",
+      "ratio": "450克:350克",
+      "note": "切薄片烤十分钟即可，久烤会发硬。"
+    },
+    {
+      "original": "花生酱",
+      "substitute": "芝麻酱",
+      "ratio": "50克:50克",
+      "note": "需多加两克糖与少许盐，香气更浓。"
+    }
+  ],
+  "variations": [
+    "把豆腐换成杏鲍菇厚片，口感更弹，烤制时间缩短三分钟。",
+    "喜欢更辣的可在蘸酱里加一勺辣椒粉，辣味更直接。"
+  ],
+  "serving_suggestion": "用长条木盘摆串，旁边放黄瓜片与一小碟蘸酱，趁热用手拿着吃最香。",
+  "storage": "豆腐串冷藏两天内吃完，复热用烤箱一百八十度烤五分钟，微波会变软失口感。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 360,
+    "protein_g": 22,
+    "fat_g": 25,
+    "carbs_g": 14,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mustard",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "烤制豆腐须彻底加热到中心烫口，花生酱含坚果，对花生过敏者不可食用。"
+  ],
+  "origin_note": "泰国街边沙爹摊的素食改良版，把腌过香料椰奶的豆腐串上炭火烤到边缘焦香，蘸浓郁花生酱吃，甜辣咸香一口齐。",
+  "tags": [
+    "泰国",
+    "沙爹",
+    "豆腐",
+    "烤箱菜"
+  ],
+  "related_ids": [
+    "thai-tod-taohu",
+    "thai-pad-tao-hu-khing"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

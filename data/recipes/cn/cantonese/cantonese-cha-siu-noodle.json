@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-cha-siu-noodle",
+  "name": {
+    "zh": "粤式蜜汁叉烧面",
+    "en": "Cantonese Char Siu Noodle",
+    "original": "叉燒麵"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 140,
+    "cook_min": 45,
+    "total_min": 185
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "salty",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪里脊",
+          "name_en": "pork tenderloin",
+          "amount": 300,
+          "unit": "g",
+          "note": "切长条，扎孔",
+          "optional": false
+        },
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 240,
+          "unit": "g",
+          "note": "细蛋面，煮前抖散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 120,
+          "unit": "g",
+          "note": "洗净对半切",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 900,
+          "unit": "ml",
+          "note": "面汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 25,
+          "unit": "g",
+          "note": "刷面用，兑水调稀",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "腌肉与调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上深色",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提鲜增亮",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "腌料与汤底",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "刷烤盘与拌面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "煮面水与汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "汤锅",
+    "刀",
+    "砧板",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪里脊顺纹切成长条，用叉子在表面扎满小孔，方便腌料渗进肉里。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "扎孔别扎穿，只到一半深度，肉才不会烤干。",
+      "visual_cue": "肉条表面布满细孔，触感微湿"
+    },
+    {
+      "n": 2,
+      "text": "瘦肉条加生抽、老抽、蚝油、白糖与蒜末抓匀，冷藏腌两小时以上。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "隔夜腌更入味，中途翻一次面让颜色均匀。",
+      "visual_cue": "肉条通体酱色，盆底留一层浓汁"
+    },
+    {
+      "n": 3,
+      "text": "烤盘铺油纸刷植物油，肉条摆开留间距，送进两百度烤箱烤十五分钟。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "肉条别叠放，否则接触面出水，烤不成焦边。",
+      "visual_cue": "肉条表面收干，边缘开始上色"
+    },
+    {
+      "n": 4,
+      "text": "取出翻面，刷一层兑水的蜂蜜再送回烤箱，继续烤八分钟到表面红亮微焦。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "蜂蜜要兑一半水，纯蜂蜜高温会焦苦。",
+      "visual_cue": "表面红亮油润，边缘带焦糖色"
+    },
+    {
+      "n": 5,
+      "text": "烤好的肉条静置十分钟再切薄片，切下的肉汁留着小碗备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "静置让肉汁回流，切开才不会流一地汁水。",
+      "visual_cue": "切面泛粉红，肉汁清亮不浑"
+    },
+    {
+      "n": 6,
+      "text": "高汤烧开，加盐与少许白糖调味，另起锅煮面，水开后下面煮两分钟捞出。",
+      "time_min": 8,
+      "heat": "中大火",
+      "tip": "面煮到八分熟就捞，靠余温与热汤完成熟化。",
+      "visual_cue": "面条挑起有弹性，没有硬芯"
+    },
+    {
+      "n": 7,
+      "text": "面条沥干，拌少量植物油抖散，分装碗里，摆上叉烧片与烫过的青菜。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "面拌油能防粘，也能让汤色挂在面上更亮。",
+      "visual_cue": "面条根根分明，青菜翠绿"
+    },
+    {
+      "n": 8,
+      "text": "浇入滚热的汤底，淋一勺烤肉汁，撒葱花，趁热上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "汤一定要滚着浇下去，面才烫口有香气，汤凉了整碗就散了味。",
+      "visual_cue": "碗面浮油花，葱花散开直挺"
+    }
+  ],
+  "tips": [
+    "烤到一半刷蜂蜜是上色的关键，早了会焦，晚了颜色不够亮。",
+    "肉条厚度尽量一致，粗的可以先切半，避免细的烤干粗的没熟。",
+    "汤底用猪骨汤更香，只有清水就加两片姜与一小块冰糖。",
+    "面煮好后过一遍冷水再回热汤，口感更弹，汤也不浑。"
+  ],
+  "common_mistakes": [
+    "蜂蜜没兑水直接刷，高温下迅速发黑，表面带苦味。",
+    "肉条烤好马上切，肉汁全流走，切片干柴。",
+    "面条在汤里泡着等客人，端上桌已经发胀糊软。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪里脊",
+      "substitute": "鸡腿肉",
+      "ratio": "300克:300克",
+      "note": "去皮后烤十八分钟，肉质更嫩不易干。"
+    },
+    {
+      "original": "蜂蜜",
+      "substitute": "麦芽糖",
+      "ratio": "25克:25克",
+      "note": "需隔水化开再刷，上色更红亮。"
+    }
+  ],
+  "variations": [
+    "改用炭火或烧热的铸铁锅煎肉条，边缘焦香更足，风味更接近街边烧腊。",
+    "把汤面换成捞面，拌蚝油与猪油，做成干捞叉烧面，味道更浓。"
+  ],
+  "serving_suggestion": "用宽口汤碗，面在底部、叉烧片扇形摆在面上，配一小碟酸萝卜解腻。",
+  "storage": "叉烧冷藏三天内吃完，冷冻可放一个月；复热时切厚片蒸五分钟，比微波更保水。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 610,
+    "protein_g": 36,
+    "fat_g": 18,
+    "carbs_g": 72,
+    "sodium_mg": 1360,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "猪里脊必须烤到中心完全熟透不见血水，切开后肉色均匀才可食用；剩余叉烧须冷藏并尽快复热。"
+  ],
+  "origin_note": "广东茶楼与街边面档的经典组合，蜜汁烤好的叉烧切片铺在细蛋面上，浇一勺热汤与烤肉汁，甜咸香浓，是很多人从小吃到大的味道。",
+  "tags": [
+    "广东",
+    "叉烧",
+    "汤面",
+    "烧腊"
+  ],
+  "related_ids": [
+    "cantonese-haoyou-chaomian",
+    "ganchao-niuhe"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

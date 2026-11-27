@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-chilaquiles",
+  "name": {
+    "zh": "墨西哥玉米片拌辣酱蛋",
+    "en": "Mexican Chilaquiles",
+    "original": "Chilaquiles rojos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 28,
+    "total_min": 40
+  },
+  "servings": 2,
+  "flavor": [
+    "spicy",
+    "sour",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 200,
+          "unit": "g",
+          "note": "隔夜的更挺，切成三角片",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三枚，煎成半熟蛋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "去蒂切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丁",
+          "optional": false
+        },
+        {
+          "name": "墨西哥辣椒",
+          "name_en": "jalapeno",
+          "amount": 30,
+          "unit": "g",
+          "note": "去籽切圈",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "酸奶油",
+          "name_en": "sour cream",
+          "amount": 60,
+          "unit": "g",
+          "note": "上桌淋面",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 50,
+          "unit": "g",
+          "note": "擦成碎丝",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎饼片与煎蛋",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调酱与煎蛋",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "煮红酱",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "搅拌碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米饼片平铺在烤盘上，送进一百八十度烤箱烤八分钟，烤到干脆不焦。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "烤比油炸省油，饼片也更挺，裹酱后不易烂。",
+      "visual_cue": "饼片边缘微卷，掰开声音清脆"
+    },
+    {
+      "n": 2,
+      "text": "平底锅放一半植物油，下洋葱丁与蒜炒到透明，再放番茄块与青辣椒炒软。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "番茄要炒到出汁塌软，红酱才有厚度。",
+      "visual_cue": "番茄软塌出红汁，洋葱透明发亮"
+    },
+    {
+      "n": 3,
+      "text": "加清水与盐，小火煮五分钟，用勺背把番茄压碎，煮成能挂勺的浓稠红酱。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "酱别收得太干，等下还要裹饼片，太干会发硬。",
+      "visual_cue": "酱色深红，勺背挂上一层不流"
+    },
+    {
+      "n": 4,
+      "text": "把烤好的饼片倒进锅里，用铲子轻翻两下，让每片都裹上红酱就立刻关火。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "饼片下锅只翻两下，久煮必烂，裹匀就停。",
+      "visual_cue": "饼片均匀挂红，边缘仍带脆感"
+    },
+    {
+      "n": 5,
+      "text": "另起锅放剩下的植物油，把鸡蛋煎到蛋白凝固、蛋黄半熟，撒盐调味。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "煎蛋时盖上盖子三十秒，蛋白熟蛋黄还流心。",
+      "visual_cue": "蛋白边缘焦脆，蛋黄表面裹白膜"
+    },
+    {
+      "n": 6,
+      "text": "饼片盛盘，放上煎蛋，淋酸奶油、撒奶酪丝与香菜，趁热端上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "奶酪靠余温化开就好，别回锅再烤，蛋会过熟。",
+      "visual_cue": "盘面红白绿相间，奶酪微微融化"
+    }
+  ],
+  "tips": [
+    "用隔夜风干的玉米饼做最合适，新鲜饼片水分多，裹酱就成糊。",
+    "红酱可以提前煮好冷藏，吃前加热再裹饼片，早餐做起来只要十分钟。",
+    "不吃辣就去掉青辣椒，用一点辣椒粉替代，辣度更可控。",
+    "顶上配一勺黑豆泥，蛋白质更足，能当正餐吃。"
+  ],
+  "common_mistakes": [
+    "饼片在酱里煮太久，端上桌变成一摊软糊，失去脆的口感。",
+    "番茄没炒透就加水，红酱水味重，只有酸没有甜。",
+    "煎蛋煎到蛋黄全熟才上桌，拌开后干噎，失了滑润感。"
+  ],
+  "substitutions": [
+    {
+      "original": "玉米饼",
+      "substitute": "玉米片",
+      "ratio": "200克:150克",
+      "note": "不必烤，直接裹酱，脆度略差但更快。"
+    },
+    {
+      "original": "酸奶油",
+      "substitute": "酸奶",
+      "ratio": "60克:60克",
+      "note": "选浓稠原味款，酸度接近但奶香更淡。"
+    }
+  ],
+  "variations": [
+    "换成绿酱版，把番茄与青辣椒换成青番茄与墨西哥青椒，颜色翠绿，酸味更锐。",
+    "加一百克手撕鸡丝铺在饼片上，就是更有饱足感的一餐。"
+  ],
+  "serving_suggestion": "用平底浅盘盛装，煎蛋放在饼片正中，配一杯冰镇果汁或黑咖啡当早餐。",
+  "storage": "饼片与酱分开存放，冷藏两天内吃完；复热时酱单独加热再拌饼片，避免整体变糊。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 520,
+    "protein_g": 22,
+    "fat_g": 32,
+    "carbs_g": 38,
+    "sodium_mg": 890,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡蛋必须彻底加热至蛋白完全凝固、蛋黄表面裹上白膜后再食用，老人与儿童建议煎到蛋黄全熟；玉米制品须干燥保存，发现霉点立即丢弃。"
+  ],
+  "origin_note": "墨西哥人家早餐桌上的剩饼料理，把隔夜玉米饼烤脆后裹上番茄辣椒煮成的红酱，再盖一个煎蛋，酸辣热乎，配一杯咖啡就是一天的开场。",
+  "tags": [
+    "墨西哥",
+    "早餐",
+    "鸡蛋",
+    "玉米饼"
+  ],
+  "related_ids": [
+    "mexican-huevos-a-la-mexicana",
+    "mexican-huevos-rancheros"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

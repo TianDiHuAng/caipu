@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-kalguksu",
+  "name": {
+    "zh": "韩式刀切面汤",
+    "en": "Korean Kalguksu",
+    "original": "칼국수"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 45,
+    "total_min": 70
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "中筋面粉，和面用",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "牛骨或鸡骨熬的清汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 150,
+          "unit": "g",
+          "note": "去皮切成厚片",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 100,
+          "unit": "g",
+          "note": "切半月薄片",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "剁成蒜末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "打散备用",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调汤的咸味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜上色",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "煸香蔬菜",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 90,
+          "unit": "ml",
+          "note": "和面用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "和面盆",
+    "擀面杖",
+    "汤锅",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉倒进和面盆，分数次淋入清水，边淋边用筷子搅成絮状，再上手揉成偏硬的面团。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "面团要比做饺子皮更硬一些，擀出来才筋道不断。",
+      "visual_cue": "面团表面粗糙，按压有弹性"
+    },
+    {
+      "n": 2,
+      "text": "面团盖上湿布静置松弛，中间再揉两次，让面筋舒展开，表面变得光滑。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "松弛不够就擀，面片会回缩，切出来粗细不匀。",
+      "visual_cue": "面团按下去缓慢回弹，表皮细腻"
+    },
+    {
+      "n": 3,
+      "text": "面团擀成两毫米厚的面片，撒薄面粉防粘，折叠几层后用刀切成筷子宽的条。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "每折一层都撒粉，切完抖散，否则粘成一块。",
+      "visual_cue": "面片透光，切条宽度基本一致"
+    },
+    {
+      "n": 4,
+      "text": "汤锅放植物油，下洋葱丝与蒜末炒到香味出来，冲入高汤大火烧开。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒到透明再冲汤，汤底会带自然甜味。",
+      "visual_cue": "洋葱边缘透亮，锅里散出蒜香"
+    },
+    {
+      "n": 5,
+      "text": "汤里下土豆片煮到边缘发软，再放入面片与西葫芦，用勺子轻推防止粘连。",
+      "time_min": 12,
+      "heat": "中大火",
+      "tip": "面片下锅后别猛搅，用勺背贴着锅底轻推就行。",
+      "visual_cue": "面片浮起，汤面泛白微浊"
+    },
+    {
+      "n": 6,
+      "text": "面片煮熟后淋入蛋液，等鸡蛋凝成蛋花，加盐与生抽调味，撒葱花关火。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蛋液要沿锅边绕圈淋，蛋花才细薄，别一次倒进去。",
+      "visual_cue": "蛋花浮在汤面，葱花翠绿"
+    }
+  ],
+  "tips": [
+    "和面用水量比包子面团少三成，硬面团擀出的面条煮久了也不糊汤。",
+    "面片一次擀太多可以分层撒粉冷冻，下次直接下锅不必解冻。",
+    "高汤换成小鱼干与海带煮的清汤，汤味更清爽，适合夏天吃。",
+    "土豆先下是为了让淀粉溶进汤里，汤会自然变稠，不必勾芡。"
+  ],
+  "common_mistakes": [
+    "面团和得太软，切条后互相粘连，下锅就烂成一团糊。",
+    "面片下锅后大火猛滚又不停搅，面条表面糊化断成小节。",
+    "蛋液在汤大滚时倒入，蛋花被冲散成絮末，汤色浑而不清。"
+  ],
+  "substitutions": [
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "1000毫升:1000毫升",
+      "note": "需补十毫升生抽与两克盐，鲜味才够。"
+    },
+    {
+      "original": "西葫芦",
+      "substitute": "南瓜",
+      "ratio": "100克:100克",
+      "note": "切薄片且煮制时间缩短一半，避免化开。"
+    }
+  ],
+  "variations": [
+    "喜欢辣的可以在汤里加一勺辣椒粉，汤色发红，辣味顺着面条入口。",
+    "把面片换成手揪的面疙瘩，口感更厚实，适合天冷时吃。"
+  ],
+  "serving_suggestion": "盛进深碗，先捞面条再浇汤，最后撒葱花，配一小碟泡菜一起吃。",
+  "storage": "面条与汤要分开存放，冷藏两天内吃完，复热时汤单独煮开再下面，避免面条发糊。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 420,
+    "protein_g": 18,
+    "fat_g": 9,
+    "carbs_g": 68,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "面粉制品务必煮到面条中心没有白芯，鸡蛋要彻底加热至凝固再出锅。"
+  ],
+  "origin_note": "韩国街巷面馆里最常见的清汤刀切面，用硬面团现擀现切，配土豆西葫芦在骨汤里同煮，汤清面滑，冬天捧着碗吃得最暖。",
+  "tags": [
+    "韩国",
+    "面条",
+    "汤面",
+    "家常"
+  ],
+  "related_ids": [
+    "korean-mandu-guk",
+    "korean-jjajangmyeon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

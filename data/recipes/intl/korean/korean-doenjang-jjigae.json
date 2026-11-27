@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-doenjang-jjigae",
+  "name": {
+    "zh": "韩式大酱汤",
+    "en": "Korean Doenjang Jjigae",
+    "original": "된장찌개"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 30,
+    "total_min": 42
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄豆酱",
+          "name_en": "soybean paste",
+          "amount": 45,
+          "unit": "g",
+          "note": "发酵黄豆酱，先用水澥开",
+          "optional": false
+        },
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 250,
+          "unit": "g",
+          "note": "切厚方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 150,
+          "unit": "g",
+          "note": "切厚半月片",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 150,
+          "unit": "g",
+          "note": "去皮切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "墨西哥辣椒",
+          "name_en": "jalapeno",
+          "amount": 20,
+          "unit": "g",
+          "note": "斜切厚圈",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "剁成蒜末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "小鱼干",
+          "name_en": "dried anchovy",
+          "amount": 15,
+          "unit": "g",
+          "note": "去头去内脏",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 10,
+          "unit": "g",
+          "note": "干海带切段",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "先煮高汤",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "最后微调咸度",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "增色提辣",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "汤锅里放清水、小鱼干与海带，大火烧开后转小火煮出鲜味，再捞出料渣。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "海带煮久会发黏发腥，水开后煮八分钟就该捞出。",
+      "visual_cue": "汤色微黄，闻到海味与鱼干香"
+    },
+    {
+      "n": 2,
+      "text": "大酱放进小碗加两勺热汤澥开，再倒回锅里搅匀，让酱完全化在汤中。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "酱先澥开再下锅，汤里不会结块，咸味也更均匀。",
+      "visual_cue": "汤色转成浅褐，表面无酱块"
+    },
+    {
+      "n": 3,
+      "text": "汤里先下土豆块煮到半软，再放洋葱丝与西葫芦片，中小火继续煮透。",
+      "time_min": 12,
+      "heat": "中小火",
+      "tip": "土豆先下是因为它最难熟，西葫芦久煮会烂成泥。",
+      "visual_cue": "土豆边缘发软，西葫芦转成半透明"
+    },
+    {
+      "n": 4,
+      "text": "放入北豆腐块与青辣椒圈，加辣椒粉轻轻推匀，小火煮到豆腐吸饱汤汁。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "豆腐下锅后别用勺翻，晃锅就行，否则一搅就碎。",
+      "visual_cue": "豆腐表面挂上红亮汤色，微微鼓起"
+    },
+    {
+      "n": 5,
+      "text": "尝一口汤，用盐微调咸淡，撒蒜末与葱段，关火盖上盖子焖一分钟。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蒜末最后放，靠余温激出辛香，久煮只剩闷味。",
+      "visual_cue": "汤面浮起红油，葱段翠绿挺立"
+    }
+  ],
+  "tips": [
+    "大酱本身咸度差别很大，先按配方七成量放，尝过再补，宁淡不咸。",
+    "小鱼干与海带煮的高汤是鲜味来源，家里没有可用干香菇水代替。",
+    "豆腐选北豆腐更耐煮，嫩豆腐容易碎成渣，汤会浑。",
+    "隔夜再热一次更好喝，土豆的淀粉融进汤里，味道更厚。"
+  ],
+  "common_mistakes": [
+    "大酱直接扔进汤里不澥开，锅底结成一块块咸疙瘩。",
+    "豆腐下锅后不停搅动，端上桌只剩碎豆腐和浑汤。",
+    "小鱼干不去内脏就下锅，汤里带出一股苦腥味。"
+  ],
+  "substitutions": [
+    {
+      "original": "小鱼干",
+      "substitute": "木鱼花",
+      "ratio": "15克:10克",
+      "note": "水开后关火浸泡五分钟，味道更清不苦。"
+    },
+    {
+      "original": "北豆腐",
+      "substitute": "豆干",
+      "ratio": "250克:200克",
+      "note": "切薄片煮五分钟即可，久煮会变硬。"
+    }
+  ],
+  "variations": [
+    "加一把蛤蜊同煮，汤的鲜味更足，咸度要相应减少。",
+    "把西葫芦换成白萝卜片，汤更清甜，适合配烤鱼吃。"
+  ],
+  "serving_suggestion": "用砂锅或石锅盛装上桌，配一碗白饭与几样小菜，汤泡饭最下饭。",
+  "storage": "冷藏可放三天，复热时补少量清水，豆腐会出水，别反复加热超过两次。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 230,
+    "protein_g": 15,
+    "fat_g": 8,
+    "carbs_g": 24,
+    "sodium_mg": 1150,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "大酱汤须彻底煮开后再食用，蛤蜊等贝类若添加须煮到全部开口，未开口的丢弃不要吃。"
+  ],
+  "origin_note": "韩国家庭餐桌每天都会出现的大酱汤，用发酵黄豆酱配小鱼干海带高汤，加土豆豆腐同煮，咸鲜温热，配米饭就是一餐。",
+  "tags": [
+    "韩国",
+    "大酱",
+    "豆腐",
+    "家常汤"
+  ],
+  "related_ids": [
+    "sundubu-jjigae",
+    "korean-dubu-jorim"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

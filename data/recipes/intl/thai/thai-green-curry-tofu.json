@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-green-curry-tofu",
+  "name": {
+    "zh": "泰式青咖喱豆腐",
+    "en": "Thai Green Curry Tofu",
+    "original": "แกงเขียวหวานเต้าหู้"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "herbal",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 400,
+          "unit": "g",
+          "note": "切三厘米方块",
+          "optional": false
+        },
+        {
+          "name": "绿咖喱酱",
+          "name_en": "green curry paste",
+          "amount": 45,
+          "unit": "g",
+          "note": "现成膏状酱料",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 250,
+          "unit": "ml",
+          "note": "分两次使用",
+          "optional": false
+        },
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块泡盐水",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 80,
+          "unit": "g",
+          "note": "切菱形块",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 15,
+          "unit": "g",
+          "note": "取叶片洗净",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 20,
+          "unit": "g",
+          "note": "挤汁提酸",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调咸鲜",
+          "optional": false
+        },
+        {
+          "name": "椰糖",
+          "name_en": "palm sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "平衡辣味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煸咖喱酱",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "调稀咖喱",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "焯豆腐时用",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "木勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐块放进淡盐水里浸五分钟，捞出用厨房纸吸干表面水分，避免下锅溅油。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "表面水分吸干，煎的时候才不会粘锅破皮。",
+      "visual_cue": "豆腐表面干爽，边角略收紧"
+    },
+    {
+      "n": 2,
+      "text": "炒锅放植物油，豆腐块平铺下锅，中小火煎到六面金黄定型，盛出备用。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "一面定型再翻面，急着翻动会把豆腐铲碎。",
+      "visual_cue": "豆腐各面金黄，表皮起薄壳"
+    },
+    {
+      "n": 3,
+      "text": "锅里留底油，下绿咖喱酱小火炒到出香，倒入一半椰奶搅开炒到表面浮起绿油。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "咖喱酱必须小火慢炒，油温高了会发苦发黑。",
+      "visual_cue": "锅里浮起一层绿色油花，香气浓烈"
+    },
+    {
+      "n": 4,
+      "text": "加入清水与茄子块煮到半软，再放青椒块与煎好的豆腐，中小火煮五分钟。",
+      "time_min": 8,
+      "heat": "中小火",
+      "tip": "茄子先煮能把甜味煮进汤里，青椒后放保住脆感。",
+      "visual_cue": "茄子软塌入味，汤汁转成浓绿"
+    },
+    {
+      "n": 5,
+      "text": "倒入剩下的椰奶，加鱼露与椰糖调匀，尝味后再决定是否加盐。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "椰奶后加不要久煮，滚久了会油水分离。",
+      "visual_cue": "汤汁顺滑浓稠，颜色变浅成奶绿"
+    },
+    {
+      "n": 6,
+      "text": "关火撒入九层塔叶片，挤上青柠的汁水，轻轻推匀后盛进深盘。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "九层塔靠余温焖香，青柠关火后挤才不苦。",
+      "visual_cue": "盘面浮着绿油，叶片舒展不塌"
+    }
+  ],
+  "tips": [
+    "绿咖喱酱品牌辣度差别大，第一次做先放三十克，尝过再补。",
+    "椰奶上层浓稠的部分先下锅炒，香味比全用下层汁水浓一倍。",
+    "茄子切好泡盐水能防氧化发黑，也能去掉生涩味。",
+    "想更下饭就把汤汁留多一些，配泰国香米拌着吃最对味。"
+  ],
+  "common_mistakes": [
+    "咖喱酱大火干炒，香料瞬间焦掉，整锅发苦盖住椰香。",
+    "椰奶下锅后一直大滚，油水分离，汤汁变成絮状。",
+    "九层塔与咖喱酱同煮，香气全跑光，只剩草腥味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鱼露",
+      "substitute": "生抽",
+      "ratio": "15毫升:15毫升",
+      "note": "咸味接近，但缺少发酵鲜香，可加少许盐。"
+    },
+    {
+      "original": "椰糖",
+      "substitute": "白糖",
+      "ratio": "10克:8克",
+      "note": "甜味更直接，用量减少两克避免过甜。"
+    }
+  ],
+  "variations": [
+    "加五十克竹笋片与几片青柠叶，香气更清，口感也更有嚼头。",
+    "把北豆腐换成豆干，煎后更耐煮，适合提前做好带饭。"
+  ],
+  "serving_suggestion": "盛进白瓷深盘，配一盅泰国香米饭，旁边放几片生黄瓜解辣。",
+  "storage": "冷藏两天内吃完，复热时加两勺椰奶小火加热，避免大火煮开导致油水分离。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 330,
+    "protein_g": 18,
+    "fat_g": 24,
+    "carbs_g": 16,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "咖喱汤汁须彻底煮开，豆腐下锅后要煮到中心热透，隔夜复热必须滚沸一次。"
+  ],
+  "origin_note": "泰国中部家常咖喱，用青辣椒与香草捣成的青咖喱酱配椰奶同煮，把煎香的豆腐放进浓汤里吸味，辣中带甜，是配饭的主力菜。",
+  "tags": [
+    "泰国",
+    "咖喱",
+    "豆腐",
+    "下饭"
+  ],
+  "related_ids": [
+    "thai-pad-prik-doufu",
+    "thai-tod-taohu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
