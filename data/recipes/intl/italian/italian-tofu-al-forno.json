@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "italian-tofu-al-forno",
+  "name": {
+    "zh": "意式香草烤豆腐",
+    "en": "Baked Tofu with Herbs",
+    "original": "Tofu al Forno"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "italian"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 36,
+    "total_min": 58
+  },
+  "servings": 3,
+  "flavor": [
+    "herbal",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 450,
+          "unit": "g",
+          "note": "老豆腐切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "罗勒",
+          "name_en": "basil",
+          "amount": 5,
+          "unit": "g",
+          "note": "叶片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "刷面与淋盘",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "迷迭香",
+          "name_en": "rosemary",
+          "amount": 3,
+          "unit": "g",
+          "note": "取叶",
+          "optional": false
+        },
+        {
+          "name": "帕玛森芝士",
+          "name_en": "Parmesan",
+          "amount": 20,
+          "unit": "g",
+          "note": "刨碎撒面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "烤盘",
+    "厨房纸",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "老豆腐切成一厘米厚的片，用厨房纸上下夹住压十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "厚片比薄片更耐烤，内部才不会变干柴。",
+      "visual_cue": "豆腐片表面干爽，纸面明显吸水"
+    },
+    {
+      "n": 2,
+      "text": "烤箱预热到二百度，烤盘铺纸并刷一层薄薄的橄榄油。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "烤盘先刷油，豆腐才不会粘在纸上撕破。",
+      "visual_cue": "烤箱指示灯亮起，烤盘泛油光"
+    },
+    {
+      "n": 3,
+      "text": "豆腐片两面刷橄榄油，撒盐、黑胡椒与迷迭香叶。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "调味要两面都做，单面撒烤好只有半边有味。",
+      "visual_cue": "豆腐片表面均匀附着香草与胡椒"
+    },
+    {
+      "n": 4,
+      "text": "豆腐平铺进烤盘，留出间距，送入烤箱烤十五分钟。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "片与片之间要留空，挤在一起会出水变软。",
+      "visual_cue": "豆腐边缘微微翘起，表面泛浅金色"
+    },
+    {
+      "n": 5,
+      "text": "翻面之后再送入烤箱烤八分钟，让两面都烤出焦边。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "翻面动作要轻，用铲子托住整片移动。",
+      "visual_cue": "两面金黄，轻按有弹性"
+    },
+    {
+      "n": 6,
+      "text": "取出豆腐，烤盘里放番茄厚片与大蒜片，撒少许盐烤六分钟。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "番茄烤到边缘出汁就够，久烤会塌成酱。",
+      "visual_cue": "番茄边缘起皱，汁水聚在盘底"
+    },
+    {
+      "n": 7,
+      "text": "豆腐与番茄交错摆盘，淋盘里的油汁，撒欧芹、罗勒叶与帕玛森芝士。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "盘底的油汁带着香草味，拌菜别浪费。",
+      "visual_cue": "表面油亮，芝士微微融化"
+    }
+  ],
+  "tips": [
+    "用老豆腐，嫩豆腐一烤就碎成渣。",
+    "想更入味可提前用盐与香草腌两小时。",
+    "配一片烤面包，把盘底的番茄汁蘸着吃。",
+    "迷迭香换成百里香，香气会更柔和。"
+  ],
+  "common_mistakes": [
+    "豆腐没压水直接烤，出水把烤盘泡湿。",
+    "温度太低又烤得太久，豆腐变干像海绵。",
+    "调味只撒一面，吃起来一半咸一半淡。"
+  ],
+  "substitutions": [
+    {
+      "original": "帕玛森芝士",
+      "substitute": "面包糠",
+      "ratio": "20克:20克",
+      "note": "纯素版本，烤前撒表面能出脆壳。"
+    },
+    {
+      "original": "迷迭香",
+      "substitute": "牛至",
+      "ratio": "3克:3克",
+      "note": "香气更接近南意风格。"
+    }
+  ],
+  "variations": [
+    "豆腐片中间夹一层番茄，做成小千层。",
+    "出炉之后淋上一勺罗勒青酱，香气更浓。"
+  ],
+  "serving_suggestion": "温热时摆盘上桌，配一杯白葡萄酒或气泡水，作为主菜或配菜都合适。",
+  "storage": "冷藏两天，复热用烤箱一百八十度烤五分钟恢复脆边。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 280,
+    "protein_g": 18,
+    "fat_g": 19,
+    "carbs_g": 10,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "豆制品须新鲜，冷藏不超过两天，复热须烤透。",
+    "烤箱取盘须戴隔热手套，避免烫伤。"
+  ],
+  "origin_note": "意大利家庭烤箱菜的做法，把豆腐当作肉类替代，抹上橄榄油与地中海香草烤出焦边，再与烤番茄同盘上桌，清淡里带着草本的香。",
+  "tags": [
+    "意大利",
+    "豆腐",
+    "烤箱",
+    "香草"
+  ],
+  "related_ids": [
+    "italian-tofu-in-padella",
+    "italian-funghi-trifolati",
+    "italian-panzanella"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
