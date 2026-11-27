@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-dashimaki-tamago",
+  "name": {
+    "zh": "日式出汁蛋卷",
+    "en": "Dashimaki Tamago",
+    "original": "だし巻き卵"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 16,
+    "total_min": 34
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 180,
+          "unit": "g",
+          "note": "三个大鸡蛋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 6,
+          "unit": "g",
+          "note": "泡出汁",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 80,
+          "unit": "ml",
+          "note": "兑出汁",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 15,
+          "unit": "ml",
+          "note": "增甜香",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "少量平衡咸味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "微调",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 80,
+          "unit": "g",
+          "note": "擦泥配盘",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "方形煎锅",
+    "筷子",
+    "小碗",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "木鱼花用清水小火泡三分钟，过滤后取八十毫升高汤放凉。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "高汤一定要放凉，热汤倒进蛋液会结成蛋花。",
+      "visual_cue": "汤色浅金清亮，滤网下没有碎屑"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋打散，加高汤、日式酱油、味醂、白糖与盐搅匀过筛。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "过筛这一步别省，蛋液细致才卷得平整。",
+      "visual_cue": "蛋液顺滑无气泡，滤网上留下少量絮状物"
+    },
+    {
+      "n": 3,
+      "text": "方形锅小火加热，用厨房纸在内壁薄薄抹一层油。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "油不要多，抹薄薄一层就够，多了会起大泡。",
+      "visual_cue": "锅面泛微弱油光，手放上方感到温热"
+    },
+    {
+      "n": 4,
+      "text": "倒入三分之一蛋液，用筷子快速划散并刮掉表面气泡。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "有气泡就戳破，卷好切面才没有孔洞。",
+      "visual_cue": "蛋液半凝固，表面平整无泡"
+    },
+    {
+      "n": 5,
+      "text": "从远端往近端卷成条，推到锅的一侧再抹一点油。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "趁表面还湿时卷，太干会开裂粘不住。",
+      "visual_cue": "蛋卷成整齐长条，表面湿润不焦"
+    },
+    {
+      "n": 6,
+      "text": "分两次倒入剩下的蛋液，每次都把蛋卷抬起让蛋液流到底下。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "抬起蛋卷让蛋液铺满锅底，层次才均匀。",
+      "visual_cue": "蛋卷逐层加厚，切面呈明显的螺旋"
+    },
+    {
+      "n": 7,
+      "text": "出锅稍放凉，用竹帘或保鲜膜定型两分钟再切段。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "定型之后再切，切面才平整也不容易碎。",
+      "visual_cue": "蛋卷外形饱满，表面带淡淡焦黄"
+    },
+    {
+      "n": 8,
+      "text": "切成两厘米厚的段，配白萝卜泥一起摆盘上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "搭配萝卜泥能解腻，也能补一点清香。",
+      "visual_cue": "切面螺旋清晰，颜色金黄柔嫩"
+    }
+  ],
+  "tips": [
+    "全程小火，火大蛋液立刻起泡发硬。",
+    "加高汤的蛋液更嫩，比例大约一个蛋配二十五毫升。",
+    "想更甜可以多加两克白糖，关东口味偏甜。",
+    "蛋卷放凉再切，切口才不会毛糙。"
+  ],
+  "common_mistakes": [
+    "高汤没放凉就冲进蛋液，直接烫出蛋花。",
+    "鸡蛋液没有过筛，蛋卷表面坑坑洼洼。",
+    "火太大急着卷，蛋皮焦了里面还是生的。"
+  ],
+  "substitutions": [
+    {
+      "original": "木鱼花",
+      "substitute": "昆布",
+      "ratio": "6克:10克",
+      "note": "纯素高汤，鲜味更清淡。"
+    },
+    {
+      "original": "味醂",
+      "substitute": "白糖加清酒",
+      "ratio": "15毫升:5克加10毫升",
+      "note": "香气弱一些，甜味更直接。"
+    }
+  ],
+  "variations": [
+    "蛋液里加切碎的紫苏叶，香气更清新。",
+    "表面铺上一层烤鳗鱼，做成豪华版蛋卷。"
+  ],
+  "serving_suggestion": "切段摆盘，配白萝卜泥和一小碟日式酱油，早餐或便当都合适。",
+  "storage": "冷藏一天，冷吃或微波温热都可以，不建议冷冻。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 200,
+    "protein_g": 14,
+    "fat_g": 12,
+    "carbs_g": 6,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "蛋液须彻底加热至完全凝固，不要留流动的生蛋液。",
+    "煎制过程用小火，避免外焦内生。"
+  ],
+  "origin_note": "关西家庭早餐桌上的家常蛋卷，蛋液里兑入木鱼高汤，一层层卷起，切面柔嫩带汤香，与偏甜的关东厚蛋烧是两条不同的路子。",
+  "tags": [
+    "日式",
+    "鸡蛋",
+    "早餐",
+    "便当"
+  ],
+  "related_ids": [
+    "japanese-tamagoyaki",
+    "japanese-chawanmushi",
+    "miso-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

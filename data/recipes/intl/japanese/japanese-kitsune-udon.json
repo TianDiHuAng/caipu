@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-kitsune-udon",
+  "name": {
+    "zh": "日式狐狸乌冬",
+    "en": "Kitsune Udon",
+    "original": "きつねうどん"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 31,
+    "cook_min": 26,
+    "total_min": 57
+  },
+  "servings": 2,
+  "flavor": [
+    "umami",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "乌冬面",
+          "name_en": "udon noodles",
+          "amount": 400,
+          "unit": "g",
+          "note": "生乌冬两份",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "紫菜",
+          "name_en": "nori",
+          "amount": 2,
+          "unit": "g",
+          "note": "剪细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "木鱼花",
+          "name_en": "bonito flakes",
+          "amount": 15,
+          "unit": "g",
+          "note": "现刨高汤用",
+          "optional": false
+        },
+        {
+          "name": "海带",
+          "name_en": "kelp",
+          "amount": 10,
+          "unit": "g",
+          "note": "提前泡软",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 30,
+          "unit": "ml",
+          "note": "增甜香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮高汤",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "微调咸度",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "小锅",
+    "漏勺",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "昆布用冷水浸泡三十分钟，小火加热到锅边冒小泡后捞出。",
+      "time_min": 34,
+      "heat": "小火",
+      "tip": "昆布不能煮滚，一沸腾就会带出腥味和黏液。",
+      "visual_cue": "水面起密集小泡，昆布变软微微卷曲"
+    },
+    {
+      "n": 2,
+      "text": "放入木鱼花，静置两分钟后关火，等木鱼花全部沉底。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "木鱼花泡两分钟就够，久煮汤会发苦发涩。",
+      "visual_cue": "木鱼花先浮起再缓缓下沉，汤色清亮"
+    },
+    {
+      "n": 3,
+      "text": "用铺了厨房纸的漏勺过滤，得到清澈的日式高汤。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "不要挤压木鱼花，一压汤就浑而且带涩味。",
+      "visual_cue": "汤体金黄透明，没有悬浮细屑"
+    },
+    {
+      "n": 4,
+      "text": "高汤回锅加日式酱油与味醂，小火煮到微微冒气后尝味。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "酱油别煮到沸腾，香气会跑掉只剩咸味。",
+      "visual_cue": "汤色转深琥珀，闻着有淡淡甜香"
+    },
+    {
+      "n": 5,
+      "text": "另起一锅烧水，乌冬面抖散下锅，煮到乌冬面完全散开。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "乌冬表面有盐分，煮前先抖散避免粘连。",
+      "visual_cue": "乌冬面根根分开，中心不再发白"
+    },
+    {
+      "n": 6,
+      "text": "乌冬面捞进碗里，浇上热汤，撒小葱与海苔丝即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "碗先用热水烫过一遍，汤端上桌才够烫口。",
+      "visual_cue": "汤面清亮，葱花翠绿海苔微微卷曲"
+    }
+  ],
+  "tips": [
+    "没有木鱼花可以直接用昆布煮素高汤，味道清淡一点。",
+    "乌冬煮好过一遍冷水，乌冬面会更弹。",
+    "汤的咸度以能直接喝为准，宁淡不咸。",
+    "加一片煎过的豆腐皮，就是更完整的狐狸乌冬。"
+  ],
+  "common_mistakes": [
+    "昆布和木鱼花一起大火煮，汤变得浑浊发苦。",
+    "乌冬煮得过久，出锅就断成一截一截。",
+    "酱油放太早又久煮，汤只剩死咸没有香气。"
+  ],
+  "substitutions": [
+    {
+      "original": "木鱼花",
+      "substitute": "昆布",
+      "ratio": "15克:25克",
+      "note": "纯素版本，煮的时间延长到十分钟。"
+    },
+    {
+      "original": "味醂",
+      "substitute": "白糖加清酒",
+      "ratio": "30毫升:10克加20毫升",
+      "note": "甜味更直接，香气略薄。"
+    }
+  ],
+  "variations": [
+    "再打进一颗半熟蛋进去，做成蛋花乌冬。",
+    "汤底换成咖喱味，做成日式咖喱乌冬。"
+  ],
+  "serving_suggestion": "盛进深碗趁热吃，先喝一口汤再吃面，配一小碟腌萝卜解腻。",
+  "storage": "乌冬面与汤分开冷藏，一天内吃完，复热汤须煮至沸腾。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 420,
+    "protein_g": 16,
+    "fat_g": 5,
+    "carbs_g": 78,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "高汤含鱼，鱼类过敏人群不可食用。",
+    "汤品隔夜须冷藏，复热务必煮开。"
+  ],
+  "origin_note": "关西乌冬店的老牌招牌，清澈的昆布木鱼高汤配粗壮乌冬，据说油豆腐像狐狸喜欢的吃食而得名，如今不放豆腐的清汤版本也被叫成狐狸乌冬。",
+  "tags": [
+    "日式",
+    "面食",
+    "乌冬",
+    "高汤"
+  ],
+  "related_ids": [
+    "japanese-udon",
+    "miso-soup",
+    "japanese-kenchin-jiru"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

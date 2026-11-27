@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-gyuudon",
+  "name": {
+    "zh": "日式牛里脊丼",
+    "en": "Beef Bowl",
+    "original": "牛丼"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 13,
+    "cook_min": 11,
+    "total_min": 24
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛里脊",
+          "name_en": "beef tenderloin",
+          "amount": 250,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "温热白饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 50,
+          "unit": "ml",
+          "note": "底味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 40,
+          "unit": "ml",
+          "note": "甜香",
+          "optional": false
+        },
+        {
+          "name": "清酒",
+          "name_en": "sake",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "兑汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "微调",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "小碗",
+    "电饭锅",
+    "筷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "日式酱油、味醂、清酒、白糖与清水调成一碗煮汁备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "先调好再下锅，煮的时候才不会手忙脚乱。",
+      "visual_cue": "汁液深褐清亮，糖基本溶化"
+    },
+    {
+      "n": 2,
+      "text": "平底锅中火，洋葱丝铺底，倒入煮汁煮到洋葱变软。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱先煮软，甜味出来了牛里脊才不腻。",
+      "visual_cue": "洋葱丝塌软半透明，汁液微沸"
+    },
+    {
+      "n": 3,
+      "text": "把牛里脊薄片一片一片摊在洋葱上，不要叠压。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "一片片摊开受热均匀，堆在一起会老。",
+      "visual_cue": "肉片平铺满锅，颜色由红转浅"
+    },
+    {
+      "n": 4,
+      "text": "煮到肉片边缘变色立刻转小火，撇掉表面浮沫。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "浮沫要撇干净，煮汁才不会发腥发浑。",
+      "visual_cue": "汁面浮起灰白沫，撇后清亮"
+    },
+    {
+      "n": 5,
+      "text": "保持小火再煮两分钟，让肉吸进酱汁，尝味后补盐。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "肉片变灰就好，煮久了口感发柴像橡皮。",
+      "visual_cue": "肉片卷曲发亮，汁液略收浓"
+    },
+    {
+      "n": 6,
+      "text": "热米饭盛进深碗里，先淋上两勺煮汁让饭吸味。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "先淋煮汁再铺肉，碗底的饭才不会发干。",
+      "visual_cue": "米饭表面泛酱色，颗粒分明"
+    },
+    {
+      "n": 7,
+      "text": "把牛里脊与洋葱连同汁一起浇在饭上，撒小葱段即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "一定要趁热上桌，凉了肉会收紧变硬。",
+      "visual_cue": "肉片层层叠在饭上，汁液自然渗下"
+    }
+  ],
+  "tips": [
+    "牛里脊冷冻半小时再切，薄片更容易切均匀。",
+    "想更浓郁就在汁里多加十毫升酱油。",
+    "旁边再配一颗半熟蛋，拌开吃更香。",
+    "剩下的煮汁可以拌面条，别浪费掉。"
+  ],
+  "common_mistakes": [
+    "牛里脊煮得太久，出锅之后口感又老又硬。",
+    "煮汁太咸没收汁，整碗饭吃到底都发苦咸。",
+    "洋葱没煮透就下肉，甜味完全出不来。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛里脊",
+      "substitute": "洋葱",
+      "ratio": "250克:400克",
+      "note": "全素版本，煮的时间延长五分钟。"
+    },
+    {
+      "original": "清酒",
+      "substitute": "清水",
+      "ratio": "30毫升:30毫升",
+      "note": "少了酒香，可加两片姜同煮。"
+    }
+  ],
+  "variations": [
+    "加一颗温泉蛋和一把海苔丝，做成豪华丼饭。",
+    "把牛里脊换成薄切猪肉片，做成猪肉丼。"
+  ],
+  "serving_suggestion": "装进深碗趁热吃，配一小碟腌姜和一碟清汤，日式定食的组合。",
+  "storage": "冷藏一天，肉与饭分开保存，复热加少量清水防干。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 620,
+    "protein_g": 32,
+    "fat_g": 14,
+    "carbs_g": 88,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛里脊片须彻底煮熟变色，不要留生肉色。",
+    "剩饭复热时须完全加热到冒热气，中心发烫才可食用。"
+  ],
+  "origin_note": "明治以后关东街头出现的牛里脊锅浇饭，牛里脊与洋葱用酱油味醂汁快速煮软，连汁浇在热饭上，做起来快、吃起来香，成了日式快餐的头号代表。",
+  "tags": [
+    "日式",
+    "丼饭",
+    "牛里脊",
+    "家常"
+  ],
+  "related_ids": [
+    "japanese-katsudon",
+    "oyakodon",
+    "japanese-shogayaki"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T05:11:05.468Z",
+  "generatedAt": "2026-11-27T05:25:53.268Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2563,
-    "coverage": 0.7828344532681735
+    "actual": 2571,
+    "coverage": 0.7852779474648748
   },
   "regions": {
     "cn": [
@@ -3264,7 +3264,7 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 77,
+        "actual": 85,
         "cells": [
           {
             "category": "main-seafood",
@@ -3289,9 +3289,10 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 10,
+            "actual": 11,
             "ids": [
               "japanese-curry-rice",
+              "japanese-gyuudon",
               "japanese-katsudon",
               "japanese-kayu",
               "japanese-onigiri",
@@ -3372,10 +3373,12 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "japanese-ajitama",
               "japanese-chawanmushi",
+              "japanese-dashimaki-tamago",
+              "japanese-tamago-don",
               "japanese-tamagoyaki"
             ]
           },
@@ -3383,8 +3386,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "japanese-miso-tofu-nabe",
+              "japanese-teriyaki-tofu",
               "japanese-tofu-steak",
               "japanese-yaki-tofu-misodare",
               "japanese-yudofu"
@@ -3394,11 +3399,14 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 6,
             "ids": [
+              "japanese-kinoko-udon",
+              "japanese-kitsune-udon",
               "japanese-shoyu-ramen",
               "japanese-udon",
-              "japanese-yakisoba"
+              "japanese-yakisoba",
+              "japanese-zaru-udon"
             ]
           },
           {
