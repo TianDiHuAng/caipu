@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-sauce-espagnole",
+  "name": {
+    "zh": "法式褐色基础酱",
+    "en": "Espagnole Sauce",
+    "original": "Sauce Espagnole"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 41,
+    "cook_min": 42,
+    "total_min": 83
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 30,
+          "unit": "g",
+          "note": "上色提味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "炒面糊",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "炒成褐色",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 100,
+          "unit": "ml",
+          "note": "去腥提香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "可用牛骨汤替换",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "木勺",
+    "滤网",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "洋葱、胡萝卜与芹菜切成同样大小的细丁，蘑菇切成薄片。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "丁切得越小越均匀，炒出来的甜味释放得越快。",
+      "visual_cue": "三种蔬菜丁大小一致，切面平整"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅放一半黄油，中火把蔬菜丁炒到边缘焦黄。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "炒到焦黄才叫褐色底，只是变软香味完全不够。",
+      "visual_cue": "蔬菜丁表面带深色焦斑，锅底有一层褐色"
+    },
+    {
+      "n": 3,
+      "text": "加番茄膏与蘑菇片继续炒三分钟，把番茄的生味炒掉。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄膏一定要炒过，不然酱会带酸涩的生味。",
+      "visual_cue": "番茄膏由鲜红转为暗红，锅里有黏性"
+    },
+    {
+      "n": 4,
+      "text": "倒白葡萄酒刮起锅底的褐色焦层，煮到酒气挥发一半。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "刮起锅底的焦香物质，那是整锅酱的精华。",
+      "visual_cue": "酒液减少一半，锅底干净发亮"
+    },
+    {
+      "n": 5,
+      "text": "另起小锅融化剩下的黄油，加面粉小火炒到深褐色。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "颜色到浅可可色那样就停，再深就发苦。",
+      "visual_cue": "面糊呈深褐色，闻着有坚果般的焦香"
+    },
+    {
+      "n": 6,
+      "text": "褐色面糊分次拌进蔬菜锅里搅匀，加清水、百里香与月桂叶。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "面糊先离火再加汤，直接下锅容易结硬块。",
+      "visual_cue": "酱汁顺滑无颗粒，香草浮在表面"
+    },
+    {
+      "n": 7,
+      "text": "小火慢煮四十分钟，中途撇掉浮沫，最后加盐与黑胡椒调味并过滤。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "小火慢煮才出厚度，火大会很快把酱煮干。",
+      "visual_cue": "酱汁明显变稠，颜色深褐发亮"
+    }
+  ],
+  "tips": [
+    "用牛骨汤代替清水，鲜味会提升一大截。",
+    "煮好后表面会结一层薄膜，撇掉即可。",
+    "这锅酱是很多经典酱汁的底，可以分装冷冻。",
+    "加一点烤过的骨头同煮，胶质会让酱更挂口。"
+  ],
+  "common_mistakes": [
+    "蔬菜没炒到焦黄就加水，酱汁淡而没有深度。",
+    "面糊炒得太久发黑，整锅酱带上明显苦味。",
+    "煮的过程中不撇浮沫，成品浑浊还有杂味。"
+  ],
+  "substitutions": [
+    {
+      "original": "白葡萄酒",
+      "substitute": "清水",
+      "ratio": "100毫升:100毫升",
+      "note": "酸度减弱，可加几滴白醋补。"
+    },
+    {
+      "original": "番茄膏",
+      "substitute": "番茄酱",
+      "ratio": "30克:40克",
+      "note": "甜味更明显，糖可少放。"
+    }
+  ],
+  "variations": [
+    "加入烤过的牛骨同煮，浓缩成更深厚的版本。",
+    "减半收汁后加黄油块甩匀，做成更亮面的现代版。"
+  ],
+  "serving_suggestion": "过滤后趁热配烤牛肉、炖肉或作为其他酱汁的底料使用。",
+  "storage": "冷藏三天，冷冻可存一个月，分小份冻更方便取用。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 180,
+    "protein_g": 4,
+    "fat_g": 11,
+    "carbs_g": 15,
+    "sodium_mg": 420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "酱汁含酒，酒精不完全挥发，孕妇与儿童应少食。",
+    "长时间炖煮须有人看火，避免干锅。"
+  ],
+  "origin_note": "法国五大基础酱之一，靠焦黄的蔬菜丁和深褐色油面糊打底，加番茄膏与香草慢煮收浓，是红酒炖牛肉、猎肉酱等一整套经典酱汁的根。",
+  "tags": [
+    "法式",
+    "酱汁",
+    "基础酱",
+    "褐色"
+  ],
+  "related_ids": [
+    "french-sauce-au-poivre",
+    "french-sauce-bordelaise",
+    "french-daube-provencale"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

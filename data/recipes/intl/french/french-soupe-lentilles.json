@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-soupe-lentilles",
+  "name": {
+    "zh": "法式小扁豆汤",
+    "en": "Lentil Soup",
+    "original": "Soupe aux Lentilles"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 31,
+    "cook_min": 32,
+    "total_min": 63
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扁豆",
+          "name_en": "lentil",
+          "amount": 300,
+          "unit": "g",
+          "note": "绿扁豆，淘洗干净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 50,
+          "unit": "g",
+          "note": "切小片",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 20,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 5,
+          "unit": "ml",
+          "note": "收尾提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "木勺",
+    "砧板",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小扁豆用清水淘洗两遍，挑掉浮起的空壳和碎石。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "小扁豆不需要泡，洗净之后就能直接下锅。",
+      "visual_cue": "豆粒均匀沉底，水面清澈"
+    },
+    {
+      "n": 2,
+      "text": "汤锅小火融化黄油，下培根片煎到边缘微焦出油。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "培根煎出油后再炒蔬菜，汤底才有烟熏香。",
+      "visual_cue": "培根卷边微焦，锅底有一层油"
+    },
+    {
+      "n": 3,
+      "text": "放洋葱、胡萝卜与芹菜丁，中火炒到洋葱透明。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "蔬菜丁要彻底炒软，甜味才会完全融进汤里。",
+      "visual_cue": "洋葱呈半透明，蔬菜表面泛油"
+    },
+    {
+      "n": 4,
+      "text": "加番茄膏炒一分钟，倒入小扁豆与清水，放月桂叶和百里香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄膏炒过之后颜色更稳，汤底不会发灰。",
+      "visual_cue": "汤色转为浅褐，豆子在锅里翻滚"
+    },
+    {
+      "n": 5,
+      "text": "大火烧开后转小火煮三十分钟，煮到豆子软而不烂。",
+      "time_min": 31,
+      "heat": "小火",
+      "tip": "绿扁豆久煮会散，三十分钟左右保持颗粒感最好。",
+      "visual_cue": "豆子轻压即碎，仍保持完整形状"
+    },
+    {
+      "n": 6,
+      "text": "取出月桂叶，加盐与黑胡椒调味，最后滴白醋提亮。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "醋是这道汤的关键，几滴就能让味道立起来。",
+      "visual_cue": "汤色清亮泛褐，酸香扑面而来"
+    },
+    {
+      "n": 7,
+      "text": "盛进碗里后撒上欧芹碎，配一小碟清炒洋葱丝一起吃。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "欧芹要最后撒，颜色和香气才都保得住。",
+      "visual_cue": "汤面浮着绿色欧芹，汤体稠而不糊"
+    }
+  ],
+  "tips": [
+    "加一根切片的香肠同煮，咸香更足。",
+    "汤放一夜会更稠，复热时加水调开。",
+    "想更浓就打一半豆子成泥，再拌回锅里。",
+    "用烟熏培根风味最像法国家庭版。"
+  ],
+  "common_mistakes": [
+    "豆子没有淘洗干净，喝起来带泥沙感。",
+    "盐放得太早，豆皮变硬怎么煮都不软。",
+    "煮过头还不搅拌，锅底焦糊让整锅都带苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "小扁豆",
+      "substitute": "豌豆",
+      "ratio": "300克:300克",
+      "note": "需提前泡六小时，煮的时间加倍。"
+    },
+    {
+      "original": "培根",
+      "substitute": "黄油",
+      "ratio": "50克:30克",
+      "note": "素版香气偏淡，可加烟熏辣椒粉。"
+    }
+  ],
+  "variations": [
+    "出锅前加一勺第戎芥末，酸香更有冲击力。",
+    "打成泥之后做成扁豆浓汤，口感会更细滑。"
+  ],
+  "serving_suggestion": "盛进汤碗配乡村面包，冬天也可以加一片煎香肠一起上桌。",
+  "storage": "冷藏三天，冷冻一个月，复热后需补少量清水。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 290,
+    "protein_g": 18,
+    "fat_g": 8,
+    "carbs_g": 38,
+    "sodium_mg": 620,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "豆类须彻底煮软后食用，避免半生引起腹胀。",
+    "汤品冷藏保存，复热须完全煮开。"
+  ],
+  "origin_note": "法国家庭冬季的日常汤，绿扁豆配洋葱胡萝卜和一小片培根，慢煮到豆子开花，最后滴几滴醋提味，朴素却很顶饱。",
+  "tags": [
+    "法式",
+    "汤品",
+    "扁豆",
+    "家常"
+  ],
+  "related_ids": [
+    "french-garbure",
+    "french-pot-au-feu",
+    "french-soupe-au-pistou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

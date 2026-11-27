@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T04:57:26.850Z",
+  "generatedAt": "2026-11-27T05:11:05.468Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2555,
-    "coverage": 0.7803909590714722
+    "actual": 2563,
+    "coverage": 0.7828344532681735
   },
   "regions": {
     "cn": [
@@ -4086,7 +4086,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 76,
+        "actual": 84,
         "cells": [
           {
             "category": "main-meat",
@@ -4112,10 +4112,11 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "creme-brulee",
               "french-clafoutis",
+              "french-creme-caramel",
               "french-crepe",
               "french-financier",
               "french-madeleines",
@@ -4124,6 +4125,7 @@
               "french-tarte-au-citron",
               "french-tarte-aux-poires",
               "french-tarte-aux-pommes",
+              "french-tarte-tatin",
               "tarte-tatin"
             ]
           },
@@ -4131,13 +4133,16 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 12,
             "ids": [
               "french-sauce-au-poivre",
               "french-sauce-aux-champignons",
               "french-sauce-bechamel",
               "french-sauce-bordelaise",
+              "french-sauce-chasseur",
+              "french-sauce-espagnole",
               "french-sauce-hollandaise",
+              "french-sauce-mornay",
               "french-sauce-roquefort",
               "sauce-bechamel",
               "sauce-bordelaise",
@@ -4148,7 +4153,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 11,
             "ids": [
               "bouillabaisse",
               "french-bouillabaisse",
@@ -4156,7 +4161,9 @@
               "french-onion-soup",
               "french-potato-soup",
               "french-soupe-au-pistou",
+              "french-soupe-lentilles",
               "french-soupe-oignon",
+              "french-soupe-saint-germain",
               "french-veloute-de-potiron",
               "veloute-potiron"
             ]
@@ -4165,12 +4172,13 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 9,
+            "actual": 10,
             "ids": [
               "baguette",
               "french-brioche",
               "french-croissant",
               "french-eclairs",
+              "french-ficelle",
               "french-pain-au-chocolat",
               "french-pain-de-campagne",
               "french-quiche-lorraine",

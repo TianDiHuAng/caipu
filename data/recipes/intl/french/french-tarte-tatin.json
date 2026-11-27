@@ -1,0 +1,251 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-tarte-tatin",
+  "name": {
+    "zh": "法式翻转苹果塔",
+    "en": "Tarte Tatin",
+    "original": "Tarte Tatin"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 58,
+    "cook_min": 58,
+    "total_min": 116
+  },
+  "servings": 6,
+  "flavor": [
+    "sweet",
+    "rich",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 900,
+          "unit": "g",
+          "note": "脆甜品种，去皮去核切厚块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "做塔皮",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 100,
+          "unit": "g",
+          "note": "塔皮八十克、锅底二十克",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 120,
+          "unit": "g",
+          "note": "熬糖用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "塔皮与糖各半",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 60,
+          "unit": "ml",
+          "note": "和面用",
+          "optional": false
+        },
+        {
+          "name": "肉桂粉",
+          "name_en": "ground cinnamon",
+          "amount": 2,
+          "unit": "g",
+          "note": "可选，增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "铸铁锅",
+    "烤箱",
+    "擀面杖",
+    "刮板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加盐与八十克冷黄油，用手指搓成粗砂状颗粒。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "黄油一定要冷，手温太高会让塔皮烤完发硬。",
+      "visual_cue": "粉油混合物像粗砂，看不见大块黄油"
+    },
+    {
+      "n": 2,
+      "text": "加清水揉成一个团，压扁包好后冷藏三十分钟。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "不要揉久，成团就停，揉多会出筋发韧。",
+      "visual_cue": "面团光滑成团，按下去微微回弹"
+    },
+    {
+      "n": 3,
+      "text": "铸铁锅放白糖中火熬成琥珀色，中途只晃锅不搅。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "糖色到琥珀色就停下，再深下去整锅会发苦。",
+      "visual_cue": "糖液冒泡转琥珀色，闻着焦甜"
+    },
+    {
+      "n": 4,
+      "text": "离火后加剩下的黄油搅匀，撒肉桂粉一起铺成糖底。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "黄油进糖里会猛烈起泡，离火操作更安全。",
+      "visual_cue": "糖底浓稠发亮，表面平滑"
+    },
+    {
+      "n": 5,
+      "text": "苹果块紧紧密密地排进锅底，尽量不留任何空隙。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "排得越紧越好，烤完翻面时才不会塌陷。",
+      "visual_cue": "苹果块堆满锅底，层次清晰"
+    },
+    {
+      "n": 6,
+      "text": "中火煮上十分钟，让苹果出水并把糖液吸进去。",
+      "time_min": 11,
+      "heat": "中火",
+      "tip": "看到糖液变稠冒大泡就对了，别煮到干。",
+      "visual_cue": "苹果块边缘透亮，糖液浓稠挂果"
+    },
+    {
+      "n": 7,
+      "text": "擀开塔皮整片盖在苹果上，边缘塞进锅壁内侧。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "塔皮要盖住整个锅面，边缘塞进去封住果汁。",
+      "visual_cue": "塔皮完全覆盖，边缘贴合锅壁"
+    },
+    {
+      "n": 8,
+      "text": "表面扎几个小孔，二百度烤三十分钟到塔皮深金黄。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "扎出小孔让蒸汽跑掉，塔皮才不会鼓起大包。",
+      "visual_cue": "塔皮鼓起呈深金黄色，边缘收缩"
+    },
+    {
+      "n": 9,
+      "text": "出炉静置五分钟，用盘子扣住锅口快速翻面脱模。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "静置五分钟刚好，太久糖会粘死在锅底。",
+      "visual_cue": "苹果面朝上，糖液均匀裹在果块上"
+    }
+  ],
+  "tips": [
+    "苹果选酸一点的品种，糖底才不会过甜。",
+    "铸铁锅受热均匀，是这道甜点的最佳器具。",
+    "翻面时用大盘子并戴手套，热糖液容易溅出。",
+    "配一勺酸奶油或香草冰淇淋，冷热对比很讨喜。"
+  ],
+  "common_mistakes": [
+    "糖熬得太深，整份成品都会带上焦苦味。",
+    "苹果排得太松散，翻面时直接散开成一片。",
+    "塔皮没塞边，烤的时候果汁溢出糊锅。"
+  ],
+  "substitutions": [
+    {
+      "original": "苹果",
+      "substitute": "梨",
+      "ratio": "900克:900克",
+      "note": "口感更水嫩，煮的时间减少两分钟。"
+    },
+    {
+      "original": "肉桂粉",
+      "substitute": "香草荚",
+      "ratio": "2克:1根",
+      "note": "香气更柔和，需提前泡进糖液。"
+    }
+  ],
+  "variations": [
+    "加几颗核桃同烤，坚果香与焦糖很搭。",
+    "用焦化黄油代替普通黄油，奶香更浓。"
+  ],
+  "serving_suggestion": "温热时切块，配一球香草冰淇淋或一勺酸奶油一起上桌。",
+  "storage": "常温可放一天，冷藏三天，复热一百五十度烤八分钟恢复脆皮。",
+  "nutrition_estimate": {
+    "basis": "按六份估算",
+    "calories_kcal": 380,
+    "protein_g": 4,
+    "fat_g": 19,
+    "carbs_g": 50,
+    "sodium_mg": 120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "翻面脱模时糖液温度极高，须戴厚手套并远离身体。",
+    "含黄油与面粉，过敏人群须留意成分。"
+  ],
+  "origin_note": "传说由法国卢瓦尔河谷一对姐妹在小酒馆里忙中出错，把塔皮盖在苹果上直接烤，出炉一翻竟成了招牌，焦糖裹着软苹果，成了法式甜点里的经典。",
+  "tags": [
+    "法式",
+    "甜点",
+    "苹果",
+    "塔"
+  ],
+  "related_ids": [
+    "french-tarte-aux-pommes",
+    "french-tarte-aux-poires",
+    "french-clafoutis"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

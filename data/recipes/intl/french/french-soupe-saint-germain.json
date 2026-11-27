@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-soupe-saint-germain",
+  "name": {
+    "zh": "法式豌豆浓汤",
+    "en": "Split Pea Soup",
+    "original": "Soupe Saint-Germain"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 96,
+    "cook_min": 97,
+    "total_min": 193
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "豌豆",
+          "name_en": "green pea",
+          "amount": 400,
+          "unit": "g",
+          "note": "干黄豌豆，提前泡发",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 50,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 60,
+          "unit": "g",
+          "note": "切小片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒蔬菜",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 80,
+          "unit": "ml",
+          "note": "起锅前加入",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "搅拌棒",
+    "滤网",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干黄豌豆用清水浸泡六小时，泡到用手指能捏碎。",
+      "time_min": 120,
+      "heat": "无火",
+      "tip": "泡过的豆子煮起来更快，也更容易打成细泥。",
+      "visual_cue": "豆子明显膨大，外皮起皱易碎"
+    },
+    {
+      "n": 2,
+      "text": "汤锅小火融化黄油，把培根片煎出油再下洋葱丁炒软。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "先煎培根再炒蔬菜，汤的底味会厚很多。",
+      "visual_cue": "培根边缘卷曲，洋葱透明发甜"
+    },
+    {
+      "n": 3,
+      "text": "加入胡萝卜丁与芹菜丁炒三分钟，让蔬菜裹上油脂。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "炒过的蔬菜甜味更明显，不要直接下水煮。",
+      "visual_cue": "蔬菜丁泛油光，锅底有薄薄的粘层"
+    },
+    {
+      "n": 4,
+      "text": "倒入沥干的豌豆与清水，放百里香和月桂叶大火烧开。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "水面要完全盖住豆子，一旦煮干就会糊底。",
+      "visual_cue": "汤面翻滚，豆子开始变软"
+    },
+    {
+      "n": 5,
+      "text": "转小火盖锅煮四十分钟，煮到豆子完全散开成泥。",
+      "time_min": 40,
+      "heat": "小火",
+      "tip": "只冒小泡地咕嘟，火大汤会变浑浊还容易糊。",
+      "visual_cue": "豆子软烂，勺子一压就成泥"
+    },
+    {
+      "n": 6,
+      "text": "取出月桂叶后，用搅拌棒把汤打成细腻的浓汤。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打之前在锅边垫块布，防止溅出烫手。",
+      "visual_cue": "汤体均匀顺滑，看不见豆皮颗粒"
+    },
+    {
+      "n": 7,
+      "text": "重新加热，倒淡奶油搅匀，加盐与黑胡椒调味后盛碗。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "淡奶油最后再加，煮开会出现分离的油花。",
+      "visual_cue": "汤色浅绿泛奶白，表面细腻无气泡"
+    }
+  ],
+  "tips": [
+    "没有干豌豆可以用冷冻青豆，煮的时间缩短到十五分钟。",
+    "打好的汤过一遍筛，口感会更细滑。",
+    "表面淋几滴橄榄油和撒面包丁，卖相立刻提升。",
+    "想更浓郁就把清水换成一半牛奶。"
+  ],
+  "common_mistakes": [
+    "豆子没泡直接煮，煮一小时还是硬芯。",
+    "大火猛煮又不搅拌，锅底会糊上厚厚一层焦。",
+    "淡奶油和汤一起长时间煮，汤面浮起油花。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "黄油",
+      "ratio": "60克:40克",
+      "note": "纯素版本，香气略薄可加烟熏辣椒粉。"
+    },
+    {
+      "original": "淡奶油",
+      "substitute": "牛奶",
+      "ratio": "80毫升:100毫升",
+      "note": "更清爽，浓稠度下降。"
+    }
+  ],
+  "variations": [
+    "打汤时加两片薄荷叶一起打碎，风味更清透。",
+    "配几片煎脆的培根和面包丁，做成餐厅摆盘。"
+  ],
+  "serving_suggestion": "盛进宽口汤碗，淋一圈淡奶油，撒黑胡椒与欧芹碎，配面包吃。",
+  "storage": "冷藏三天，冷冻一个月，复热时加少量清水调稀。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 320,
+    "protein_g": 16,
+    "fat_g": 13,
+    "carbs_g": 34,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "干豆须充分泡发并彻底煮软，半生豆类易引起肠胃不适。",
+    "汤品冷藏保存，复热须煮至沸腾。"
+  ],
+  "origin_note": "以巴黎近郊圣日耳曼为名的经典浓汤，用干黄豌豆配培根和香草慢煮，打成细腻的绿色浓汤，冬天配一片烤面包就是一顿暖胃的晚饭。",
+  "tags": [
+    "法式",
+    "汤品",
+    "豌豆",
+    "浓汤"
+  ],
+  "related_ids": [
+    "french-potato-soup",
+    "french-veloute-de-potiron",
+    "french-garbure"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

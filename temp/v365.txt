@@ -1,0 +1,27 @@
+﻿校验范围: 2318 个文件（成功解析 2318）
+分类体系: 59 菜系 / 26 品类；食材词典: 491 项
+
+[问题文件] 5 个（schema 失败 3，规则失败 2）：
+
+· data/recipes/intl/french/french-creme-caramel.json (french-creme-caramel) [SCHEMA]
+   - $.flavor[2]: 取值 "creamy" 不在枚举 [salty, spicy, numbing, sour, sweet, bitter, umami, smoky, fragrant, light, rich, tangy, savory, herbal] 中
+
+· data/recipes/intl/french/french-ficelle.json (french-ficelle) [SCHEMA]
+   - $.food_safety_notes[1]: 长度 13 小于下限 15
+
+· data/recipes/intl/french/french-sauce-mornay.json (french-sauce-mornay) [SCHEMA]
+   - $.flavor[2]: 取值 "creamy" 不在枚举 [salty, spicy, numbing, sour, sweet, bitter, umami, smoky, fragrant, light, rich, tangy, savory, herbal] 中
+
+· data/recipes/intl/french/french-sauce-espagnole.json (french-sauce-espagnole) [RULES]
+   - ingredients: 「盐」在全部步骤与提示中均未被使用
+   - ingredients: 「黑胡椒」在全部步骤与提示中均未被使用
+   - steps: 文本提到「牛奶」，但配料表中没有该食材
+
+· data/recipes/intl/french/french-soupe-lentilles.json (french-soupe-lentilles) [RULES]
+   - steps: 文本提到「面包」，但配料表中没有该食材
+
+[全局错误] 2 项：
+  - data/recipes/intl/french/french-creme-caramel.json: related_ids 中的「french-creme-brulee」不存在
+  - data/recipes/intl/french/french-ficelle.json: related_ids 中的「french-tartine」不存在
+
+❌ 未通过：7 类问题，累计 9 条

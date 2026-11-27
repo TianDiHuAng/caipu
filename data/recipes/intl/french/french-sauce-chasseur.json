@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-sauce-chasseur",
+  "name": {
+    "zh": "法式猎人酱",
+    "en": "Chasseur Sauce",
+    "original": "Sauce Chasseur"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "sauce"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 18,
+    "total_min": 36
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 400,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 25,
+          "unit": "g",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒香用",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 120,
+          "unit": "ml",
+          "note": "干型",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "代替高汤",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 15,
+          "unit": "g",
+          "note": "勾薄芡",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 2,
+          "unit": "g",
+          "note": "干品",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "木勺",
+    "砧板",
+    "滤网"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "平底锅大火烧热黄油，蘑菇片单层摊开煎到两面金黄。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "蘑菇别挤在一起，摊开煎才会香而不是出水煮软。",
+      "visual_cue": "蘑菇片边缘卷曲，锅底没有明显积水"
+    },
+    {
+      "n": 2,
+      "text": "把蘑菇盛出来，原锅下红葱头末炒到透明出甜香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "用煎过蘑菇的锅炒，香味会一层层叠加。",
+      "visual_cue": "红葱头末变透明，锅底略见焦糖色"
+    },
+    {
+      "n": 3,
+      "text": "加番茄膏炒一分钟，倒白葡萄酒刮起锅底所有焦香。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "酒一定要煮到不刺鼻，酸味才会转成圆润的果香。",
+      "visual_cue": "酒液减半，锅底褐色物质完全溶解"
+    },
+    {
+      "n": 4,
+      "text": "撒入面粉并快速拌炒，让酱汁带上一点点厚度。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "面粉量少，只为挂口，多了会变糊嘴。",
+      "visual_cue": "粉与液体融合成稀薄的糊状"
+    },
+    {
+      "n": 5,
+      "text": "加清水与百里香，倒回蘑菇，小火煮十分钟收浓。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "小火慢煮让蘑菇把汤汁吸回去，味道才进得去。",
+      "visual_cue": "酱汁略稠，蘑菇片饱满有光泽"
+    },
+    {
+      "n": 6,
+      "text": "加盐与黑胡椒调味，撒上欧芹碎后就可以趁热上桌。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "欧芹一定最后撒，香气才清鲜不会发闷。",
+      "visual_cue": "酱汁呈深褐色，欧芹翠绿点缀其上"
+    }
+  ],
+  "tips": [
+    "用煎鸡肉或煎牛排剩下的锅底做，这道酱最出彩。",
+    "加几滴柠檬汁，油腻感会被拉平。",
+    "蘑菇混两种品种，口感层次更丰富。",
+    "酱汁可提前做好，配肉前重新加热即可。"
+  ],
+  "common_mistakes": [
+    "蘑菇堆在锅里慢炖，出水后变成灰白一片。",
+    "番茄膏没炒开就加酒，酱带生番茄的涩味。",
+    "面粉一次下得太多，成品稠得完全像糊。"
+  ],
+  "substitutions": [
+    {
+      "original": "红葱头",
+      "substitute": "洋葱",
+      "ratio": "60克:80克",
+      "note": "甜味更重，炒的时间要延长。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "白醋加水",
+      "ratio": "120毫升:30毫升加90毫升",
+      "note": "酸味更直接，需多煮两分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺炒香的培根碎，咸香会明显更足。",
+    "起锅前加一小块冷黄油甩匀，酱汁光泽更好。"
+  ],
+  "serving_suggestion": "趁热淋在煎鸡腿、猪排或煎蛋上，配土豆泥一起端上桌。",
+  "storage": "冷藏两天，冷冻三周，复热时加两勺清水调稀。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 150,
+    "protein_g": 6,
+    "fat_g": 9,
+    "carbs_g": 10,
+    "sodium_mg": 360,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "酱汁含酒，酒精未完全挥发，孕妇与儿童慎食。",
+    "蘑菇须选用可食用品种，野生菇类不要自行采摘。"
+  ],
+  "origin_note": "法国乡村猎人打猎回来最常做的酱，用蘑菇、红葱头和一点酒在煎肉的原锅里煮开，锅底的焦香全部溶进酱里，配上野味或家禽都好。",
+  "tags": [
+    "法式",
+    "酱汁",
+    "蘑菇",
+    "经典"
+  ],
+  "related_ids": [
+    "french-sauce-aux-champignons",
+    "french-coq-au-vin",
+    "french-sauce-au-poivre"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
