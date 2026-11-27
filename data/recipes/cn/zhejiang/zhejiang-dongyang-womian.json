@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-dongyang-womian",
+  "name": {
+    "zh": "东阳沃面",
+    "en": "Dongyang Thick Noodle Soup",
+    "original": "东阳沃面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 16,
+    "cook_min": 25,
+    "total_min": 41
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "粗面条",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 900,
+          "unit": "ml",
+          "note": "骨汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "雪菜",
+          "name_en": "pickled potherb mustard",
+          "amount": 80,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 100,
+          "unit": "g",
+          "note": "洗净切段",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调节",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 20,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "漏勺",
+    "面碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "雪菜用清水冲洗两遍挤干，再切成半厘米长的碎末。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "雪菜本身很咸，冲两遍才能控制咸度。",
+      "visual_cue": "雪菜末细碎均匀，水色变浅"
+    },
+    {
+      "n": 2,
+      "text": "香菇去蒂斜切成薄片，小白菜洗净切成五厘米段。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "菜段别切太短，煮过之后还会缩水。，这一步别偷懒。",
+      "visual_cue": "香菇片厚薄一致，菜段整齐"
+    },
+    {
+      "n": 3,
+      "text": "炒锅放花生油，下雪菜末用中火煸出咸香味。，手法稳一些更好。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "雪菜煸干一些，进汤才不冲不涩。，火候最关键。",
+      "visual_cue": "雪菜末转深色，锅底干爽"
+    },
+    {
+      "n": 4,
+      "text": "下香菇片同炒两分钟，炒到菌片出香变软。，动作要轻一点。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "香菇先炒过再煮，汤里才会有菌菇的甜。",
+      "visual_cue": "香菇片变软出香，油光发亮"
+    },
+    {
+      "n": 5,
+      "text": "倒入高汤大火烧开，加生抽与盐调好底味。，注意观察火候。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "雪菜咸，盐要少放，随后再尝着补。，时间要卡准些。",
+      "visual_cue": "汤面滚起，呈淡褐色，颜色看着很舒服"
+    },
+    {
+      "n": 6,
+      "text": "下粗面条煮五分钟，煮到面条发软汤变浑稠。，中间别急着翻动。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "沃面的关键是煮到汤稠，时间不能太短。",
+      "visual_cue": "面条发软，汤色浑厚不透明"
+    },
+    {
+      "n": 7,
+      "text": "玉米淀粉加水调匀淋入汤中，边淋边搅到浓稠。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "勾芡让汤挂得住面，这是沃面的精髓。",
+      "visual_cue": "汤汁浓稠挂勺，搅动有阻力"
+    },
+    {
+      "n": 8,
+      "text": "下小白菜段烫一分钟，撒白胡椒与葱花即可出锅。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "菜叶最后下，久煮发黄也没有口感。，顺序不能颠倒。",
+      "visual_cue": "菜叶翠绿，汤面浮着葱花"
+    }
+  ],
+  "tips": [
+    "面条选粗一点的，煮稠了也不容易断。",
+    "高汤用猪骨汤最正，汤底越浓越好。",
+    "喜欢荤可以加几片咸肉同煮。，味道能更足。",
+    "勾芡后别再大力煮，容易返稀。，家里做也很方便。"
+  ],
+  "common_mistakes": [
+    "面条煮得太短，汤还是清的就不叫沃面。",
+    "雪菜没冲下锅，整碗咸得下不了口。，口感差得很多。",
+    "勾芡一次倒太多，汤结成一块块糊团。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "年糕",
+      "ratio": "250克:250克",
+      "note": "切片后煮三分钟即可。"
+    },
+    {
+      "original": "雪菜",
+      "substitute": "梅干菜",
+      "ratio": "80克:60克",
+      "note": "更甜香，需多泡洗两遍。"
+    }
+  ],
+  "variations": [
+    "加一勺猪油同煮，汤更香更厚。，家里人会更爱吃。",
+    "放几只虾仁同煮，鲜味提升明显。，换个花样不单调。"
+  ],
+  "serving_suggestion": "盛在大碗里趁热吃，汤稠面软，一勺入口满嘴都是料。",
+  "storage": "当天吃完，勾芡的汤隔夜会凝成块，复热须加水稀释。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 520,
+    "protein_g": 20,
+    "fat_g": 16,
+    "carbs_g": 72,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mustard",
+    "peanut",
+    "soy",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "面条与配料须煮透，汤羹勾芡后保温性强，食用前先试温度。",
+    "雪菜腌制品含盐量高，汤底调味须控制盐量。",
+    "香菇须彻底加热熟透，泡发时间不宜超过四小时。"
+  ],
+  "origin_note": "东阳人的家常主食，雪菜香菇先煸香，再和粗面一起在高汤里煮到汤稠面软，最后勾一层芡，一碗下去又饱又暖。",
+  "tags": [
+    "浙江",
+    "东阳",
+    "面条",
+    "汤面"
+  ],
+  "related_ids": [
+    "zhejiang-yangchun-mian",
+    "zhejiang-congyou-bamian",
+    "zhejiang-xuecai-dongsun"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

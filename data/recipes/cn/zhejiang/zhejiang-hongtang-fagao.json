@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-hongtang-fagao",
+  "name": {
+    "zh": "红糖发糕",
+    "en": "Steamed Brown Sugar Cake",
+    "original": "红糖发糕"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 100,
+    "cook_min": 40,
+    "total_min": 140
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "note": "中筋面粉",
+          "optional": false
+        },
+        {
+          "name": "红糖",
+          "name_en": "brown sugar",
+          "amount": 90,
+          "unit": "g",
+          "note": "调色调味",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 4,
+          "unit": "g",
+          "note": "用温水化开",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 200,
+          "unit": "ml",
+          "note": "化糖与和面",
+          "optional": false
+        },
+        {
+          "name": "红枣",
+          "name_en": "red date",
+          "amount": 40,
+          "unit": "g",
+          "note": "去核切半",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 6,
+          "unit": "g",
+          "note": "撒表面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "抹模具",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "蒸笼",
+    "打蛋盆",
+    "刮刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "红糖放进清水里小火加热，搅到完全化开后放温。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "糖水一定放温再和面，烫了会把酵母烫死。",
+      "visual_cue": "糖水呈深褐色，手摸温热不烫"
+    },
+    {
+      "n": 2,
+      "text": "糖水里加酵母搅匀，静置五分钟让它活化起泡。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "看到表面起小泡，说明酵母是活的。，火候最关键。",
+      "visual_cue": "液面浮起细密小气泡，状态很明显"
+    },
+    {
+      "n": 3,
+      "text": "把糖水慢慢倒进面粉，边倒边搅成顺滑的面糊。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "搅到没有干粉和颗粒，糕体才不会夹生。",
+      "visual_cue": "面糊顺滑无颗粒，能缓慢流动"
+    },
+    {
+      "n": 4,
+      "text": "面糊盖上湿布放温暖处发酵六十分钟，涨到两倍大。",
+      "time_min": 60,
+      "heat": "无火",
+      "tip": "温度低就多给点时间，看状态不看钟。",
+      "visual_cue": "面糊膨起两倍，表面布满气孔"
+    },
+    {
+      "n": 5,
+      "text": "蒸笼底部铺油纸并刷一层花生油防粘。，手法稳一些更好。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "刷油这一步别省，否则脱模时糕会撕碎。",
+      "visual_cue": "油纸贴合笼底，表面均匀涂油"
+    },
+    {
+      "n": 6,
+      "text": "发酵好的面糊轻轻倒在油纸上，用刮刀抹平表面。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "别用力震盆，把气孔震塌了糕就不松软。",
+      "visual_cue": "面糊厚薄一致，表面平整"
+    },
+    {
+      "n": 7,
+      "text": "表面摆上去核的红枣并撒上芝麻，静置醒十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "醒一会儿再蒸，糕体更蓬松有弹性。，时间要卡准些。",
+      "visual_cue": "红枣均匀分布，芝麻铺满表面"
+    },
+    {
+      "n": 8,
+      "text": "冷水上锅大火烧开，转中火蒸三十分钟不要开盖。",
+      "time_min": 32,
+      "heat": "中火",
+      "tip": "中途开盖蒸汽一跑，糕就会塌陷回缩。",
+      "visual_cue": "锅边冒白气，能闻到红糖香"
+    },
+    {
+      "n": 9,
+      "text": "关火焖五分钟再开盖，取出晾到温热后切块。，动作要轻一点。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "焖五分钟能防回缩，热切会粘刀。，顺序不能颠倒。",
+      "visual_cue": "糕体蓬松有弹性，切面气孔均匀"
+    }
+  ],
+  "tips": [
+    "红糖选块状的，颜色深香气足。，新手也能掌握。",
+    "面糊稠度像酸奶最合适，太好流动就加点粉。",
+    "蒸的时候锅盖要盖严，最好垫一块布防滴水。",
+    "放凉后再切，切口更整齐好看。，口感会更好一些。"
+  ],
+  "common_mistakes": [
+    "糖水太烫就加酵母，面糊一点都没发起来。",
+    "中途开盖看进度，蒸出来塌成一坑。，整锅味道都跟着毁了。",
+    "面糊搅得不够匀，切开里面有生面疙瘩。"
+  ],
+  "substitutions": [
+    {
+      "original": "红糖",
+      "substitute": "白糖",
+      "ratio": "90克:70克",
+      "note": "颜色发白，甜味更单纯。"
+    },
+    {
+      "original": "面粉",
+      "substitute": "糯米粉",
+      "ratio": "250克:150克",
+      "note": "口感更黏糯，需另加五十克面粉定型。"
+    }
+  ],
+  "variations": [
+    "加一把葡萄干同蒸，酸甜口感更丰富。",
+    "用桂花糖代替部分红糖，香气更清雅。"
+  ],
+  "serving_suggestion": "温热切块上桌，糕体松软带红糖香，配一杯清茶最好。",
+  "storage": "冷藏三天，复热用蒸锅蒸八分钟恢复松软，别用微波炉会发硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 300,
+    "protein_g": 7,
+    "fat_g": 3,
+    "carbs_g": 62,
+    "sodium_mg": 20,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "sesame"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "面糊须发酵到位并彻底蒸熟，中心不发黏才可食用。",
+    "蒸制时锅盖与蒸汽温度高，开盖时注意避免蒸汽烫手。"
+  ],
+  "origin_note": "浙江农村过年过节常做的点心，红糖水调成面糊发起来，上锅一蒸鼓成胖胖的一笼，切开来松软甜香，红枣与芝麻点缀得喜气。",
+  "tags": [
+    "浙江",
+    "甜品",
+    "发糕",
+    "蒸制"
+  ],
+  "related_ids": [
+    "zhejiang-guihua-gao",
+    "zhejiang-lvdou-gao",
+    "dingsheng-gao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

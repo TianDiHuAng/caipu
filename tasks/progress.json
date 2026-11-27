@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:04:10.388Z",
+  "generatedAt": "2026-11-27T07:21:03.698Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2611,
-    "coverage": 0.7974954184483812
+    "actual": 2619,
+    "coverage": 0.7999389126450824
   },
   "regions": {
     "cn": [
@@ -974,7 +974,7 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 89,
+        "actual": 97,
         "cells": [
           {
             "category": "main-seafood",
@@ -1057,7 +1057,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "dingsheng-gao",
               "guihua-nuomiyu",
@@ -1067,6 +1067,8 @@
               "zhejiang-bingtang-nuoou",
               "zhejiang-guihua-gao",
               "zhejiang-guihua-nuomi-ou",
+              "zhejiang-guihua-tangyutou",
+              "zhejiang-hongtang-fagao",
               "zhejiang-lvdou-gao",
               "zhejiang-qingtuan",
               "zhejiang-yin-er-geng"
@@ -1090,32 +1092,38 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "zhejiang-hongshao-dan",
               "zhejiang-jiucai-chaodan",
+              "zhejiang-xianggu-chaodan",
               "zhejiang-xianyadan-nangua",
-              "zhejiang-xiaren-zhengdan"
+              "zhejiang-xiaren-zhengdan",
+              "zhejiang-xuecai-chaodan"
             ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
+              "zhejiang-caixin-shao-doufu",
               "zhejiang-congyou-doufu",
               "zhejiang-dongpo-doufu",
               "zhejiang-hongshao-doufu",
-              "zhejiang-sushaoe"
+              "zhejiang-sushaoe",
+              "zhejiang-xiaocong-bandoufu"
             ]
           },
           {
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "zhejiang-congyou-bamian",
+              "zhejiang-dongyang-womian",
               "zhejiang-pianerchuan",
               "zhejiang-xiaren-hundun",
               "zhejiang-yangchun-mian"
