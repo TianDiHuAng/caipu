@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-xianrou-caifan",
+  "name": {
+    "zh": "安徽咸肉菜饭",
+    "en": "Anhui Salted Pork and Greens Rice",
+    "original": "咸肉菜饭"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 28,
+    "total_min": 46
+  },
+  "servings": 3,
+  "flavor": [
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 450,
+          "unit": "g",
+          "note": "新煮或隔夜",
+          "optional": false
+        },
+        {
+          "name": "咸肉",
+          "name_en": "salt-cured pork belly",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 300,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "按咸肉咸度调整",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "一撮",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提色",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "咸肉切成半厘米小丁，冷水下锅煮三分钟，捞出沥干。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "先煮一遍去多余咸味与油腥，成品才不会过咸。",
+      "visual_cue": "肉丁转浅色，水面浮油"
+    },
+    {
+      "n": 2,
+      "text": "青菜洗净沥干水分后切碎，菜梗与菜叶分开堆放备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "梗叶分开下锅，梗先炒熟，叶后放保绿。",
+      "visual_cue": "菜碎分两堆，梗白叶绿"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧热，中火下咸肉丁煸五分钟到边缘出油微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "咸肉的油是整锅饭的底味，要煸到出油才香。",
+      "visual_cue": "肉丁金黄出油，锅底见清油"
+    },
+    {
+      "n": 4,
+      "text": "下洋葱末与蒜末炒香一分钟，再放菜梗碎炒三分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱末炒到透明，甜味出来才不抢咸肉的味。",
+      "visual_cue": "洋葱透明，菜梗变软"
+    },
+    {
+      "n": 5,
+      "text": "加菜叶碎翻炒两分钟，撒盐、白胡椒与生抽炒匀。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "菜叶一软就够，炒久了发黄出水。",
+      "visual_cue": "菜叶塌软转深绿，香气上来"
+    },
+    {
+      "n": 6,
+      "text": "倒入米饭，用木铲压散并反复翻拌五分钟，让粒粒裹上油。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "饭要压散再拌，堆着搅会结块，底部也容易焦。",
+      "visual_cue": "米饭松散分离，米粒油亮"
+    },
+    {
+      "n": 7,
+      "text": "沿锅边淋两勺水，加盖小火焖五分钟，让味道吃进米里。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "少量水焖一下，饭粒不干，菜香也更透。",
+      "visual_cue": "锅边冒汽，饭粒油润"
+    },
+    {
+      "n": 8,
+      "text": "开盖再翻炒一分钟收干水汽，尝咸淡后关火盛出装盘。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "最后翻炒收干，饭粒才粒粒分明不发黏。",
+      "visual_cue": "饭粒分明，锅底无汤水"
+    }
+  ],
+  "tips": [
+    "隔夜饭水分少，比新煮的更松散，做炒饭更合适。",
+    "咸肉咸度高，盐要尝过再放，宁少不多。",
+    "喜欢锅巴可以在焖的时候多等两分钟，底部会结一层脆壳。",
+    "加一勺猪油替植物油，是安徽乡下的老做法，香气更足。"
+  ],
+  "common_mistakes": [
+    "咸肉不先煮，直接下锅炒，整锅饭咸得发苦。",
+    "青菜切好挤水，菜汁全丢，菜香少了一半。",
+    "米饭下锅后大火猛炒，锅底焦黑，饭粒还没散开。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸肉",
+      "substitute": "腊肉",
+      "ratio": "150克:150克",
+      "note": "烟熏味更重，需多煮两分钟去咸。"
+    },
+    {
+      "original": "青菜",
+      "substitute": "西兰花",
+      "ratio": "300克:260克",
+      "note": "先焯水再切碎，炒制时间减半。"
+    }
+  ],
+  "variations": [
+    "加一把香菇丁同炒，菌香与咸肉很搭。",
+    "把青菜换成荠菜，春天吃格外清香。"
+  ],
+  "serving_suggestion": "三人份主食，配一碗紫菜汤或腌萝卜。",
+  "storage": "冷藏两天内吃完，复热用炒锅小火加一勺水焖热；不建议久冻，青菜会发黄出水。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 480,
+    "protein_g": 15,
+    "fat_g": 18,
+    "carbs_g": 63,
+    "sodium_mg": 890,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "咸肉须煮透并炒至完全熟透；含肉类的炒饭冷藏不超过两天，复热须彻底加热至冒汽。"
+  ],
+  "origin_note": "安徽人家冬天的家常饭，腌好的咸肉切丁煸出油，与青菜、米饭同炒再焖。肉香、菜香与米香在锅里混成一体，一锅就是一顿饭，省事又顶饱。",
+  "tags": [
+    "安徽",
+    "炒饭",
+    "咸肉",
+    "家常"
+  ],
+  "related_ids": [
+    "anhui-larou-men-fan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

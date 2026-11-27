@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "german-sauerkraut-mit-speck",
+  "name": {
+    "zh": "德式酸菜炒培根",
+    "en": "German Sauerkraut with Bacon",
+    "original": "Sauerkraut mit Speck"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "german"
+  },
+  "category": [
+    "fermented"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 32,
+    "total_min": 52
+  },
+  "servings": 4,
+  "flavor": [
+    "sour",
+    "savory",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "酸菜",
+          "name_en": "pickled mustard green",
+          "amount": 600,
+          "unit": "g",
+          "note": "沥干",
+          "optional": false
+        },
+        {
+          "name": "培根",
+          "name_en": "bacon",
+          "amount": 120,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 100,
+          "unit": "g",
+          "note": "去皮切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 25,
+          "unit": "g",
+          "note": "炒制用",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "平衡酸味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "按酸菜咸度调整",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 1,
+          "unit": "g",
+          "note": "一片",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "木铲",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "酸菜从袋里取出，用手轻轻攥去多余汁水，汁水留小半碗备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "汁水别全倒，太干会发柴，留一点最后回锅调湿。",
+      "visual_cue": "酸菜松散不滴水，汁水留备"
+    },
+    {
+      "n": 2,
+      "text": "平底锅小火下培根条，慢慢煎五分钟到油脂析出、边缘微焦。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "小火慢煎才逼得出油，大火会让培根一下焦黑发苦。",
+      "visual_cue": "培根出油，边缘卷曲焦黄"
+    },
+    {
+      "n": 3,
+      "text": "把培根盛出，锅里留底油，加黄油融化后下洋葱丝炒三分钟到透明。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "培根油加黄油，荤香与奶香一起打底，这是德式的味道。",
+      "visual_cue": "洋葱软塌透明，油面泛黄"
+    },
+    {
+      "n": 4,
+      "text": "加蒜末炒香三十秒，再放苹果丁炒两分钟到边缘变软。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "苹果是德式酸菜的隐藏配方，果酸与果甜把尖酸磨圆。",
+      "visual_cue": "苹果丁微软，锅里带果香"
+    },
+    {
+      "n": 5,
+      "text": "倒入酸菜，加香叶与白糖，中火翻炒五分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "酸菜要先炒透再加水，直接炖会闷出一股罐头味。",
+      "visual_cue": "酸菜颜色转深，酸香散开"
+    },
+    {
+      "n": 6,
+      "text": "淋入留用的酸菜汁与小半碗清水，加盖小火焖十分钟到软。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "焖到酸菜柔软但不烂，中间尝一次，太酸就补糖。",
+      "visual_cue": "汤汁收半，酸菜柔软"
+    },
+    {
+      "n": 7,
+      "text": "挑出香叶，倒回培根，撒黑胡椒，按咸度决定是否补盐。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "培根与酸菜本身都咸，盐最后尝过再放。",
+      "visual_cue": "培根与酸菜拌匀，色泽油亮"
+    },
+    {
+      "n": 8,
+      "text": "盛盘后撒一点现磨黑胡椒，趁热端上桌，配烤肉或煮食皆宜。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "酸菜要趁热吃，凉了酸味会变得尖锐。",
+      "visual_cue": "盘中金黄软酸菜，点缀培根条"
+    }
+  ],
+  "tips": [
+    "袋装酸菜偏酸，瓶装的更柔和，按口味挑。",
+    "加一小勺第戎芥末，酸与辣的层次更清楚。",
+    "用啤酒替一半清水焖，麦香与酸菜很搭。",
+    "剩下的第二天配煎蛋当早餐，酸味更融合。"
+  ],
+  "common_mistakes": [
+    "酸菜不攥水直接下锅，锅里变成一滩酸汤，怎么炒都不香。",
+    "培根大火煎，油脂没出来就焦了，锅底发黑发苦。",
+    "一开始就放盐，收汁后整盘咸得吃不下。"
+  ],
+  "substitutions": [
+    {
+      "original": "培根",
+      "substitute": "熏肉",
+      "ratio": "120克:120克",
+      "note": "咸度更高，盐可完全省略。"
+    },
+    {
+      "original": "酸菜",
+      "substitute": "圆白菜",
+      "ratio": "600克:600克",
+      "note": "需另加两勺果醋补酸。"
+    }
+  ],
+  "variations": [
+    "加一把烟熏香肠片同炒，做成更丰盛的一锅端。",
+    "用白葡萄酒替清水焖，酸味更精致，适合配烤肉。"
+  ],
+  "serving_suggestion": "四份配菜，配德式香肠、烤猪肘或煮土豆，是巴伐利亚的经典组合。",
+  "storage": "冷藏三天内吃完，复热用平底锅小火加一勺水焖热；不建议冷冻，酸菜会失去脆感。",
+  "nutrition_estimate": {
+    "basis": "按四份估算",
+    "calories_kcal": 215,
+    "protein_g": 9,
+    "fat_g": 16,
+    "carbs_g": 11,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "培根须煎至完全熟透、边缘焦香；含肉类的酸菜须冷藏并在三天内吃完，复热须彻底加热。"
+  ],
+  "origin_note": "德国餐桌上的固定配菜，酸菜攥去汁水，与培根、洋葱、苹果同炒再焖软。苹果的果甜与培根的烟熏把酸菜的尖酸驯服，配香肠与烤猪肘是巴伐利亚的标配。",
+  "tags": [
+    "德国",
+    "酸菜",
+    "培根",
+    "配菜"
+  ],
+  "related_ids": [
+    "german-sauerkraut"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
