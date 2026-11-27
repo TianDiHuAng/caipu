@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-27T10:26:39.401Z
+> 生成时间：2026-11-27T10:27:43.486Z
 
-**总览**：工程任务 49/53；菜谱内容 2657/3274（81.2%），共 657 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2658/3274（81.2%），共 658 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -430,7 +430,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1490/1935）
+### 外国菜系（1491/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，93/107</summary>
 
@@ -550,7 +550,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>越南菜 vietnamese</b> — B 级，26/38</summary>
+<details><summary><b>越南菜 vietnamese</b> — B 级，27/38</summary>
 
 - [ ] `P4-vietnamese/soup` 汤羹（Soup）目标 6，已完成 5
 - [ ] `P4-vietnamese/staple-noodle` 主食·面（Noodle Dish）目标 6，已完成 4
@@ -558,9 +558,10 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [ ] `P4-vietnamese/main-meat` 主菜·肉（Meat Main）目标 6，已完成 3
 - [ ] `P4-vietnamese/drink` 饮品（Drink）目标 6，已完成 1
 - [ ] `P4-vietnamese/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 0
-- [ ] `P4-vietnamese/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 2
-- [x] `P4-vietnamese/snack` 小吃（Street Food）目标 0，已完成 4
+- [ ] `P4-vietnamese/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
+- [x] `P4-vietnamese/snack` 小吃（Street Food）目标 0，已完成 5
 - [x] `P4-vietnamese/staple-bread` 主食·饼（Bread Staple）目标 0，已完成 1
+- [x] `P4-vietnamese/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 1
 - [x] `P4-vietnamese/main-tofu` 主菜·豆制品（Tofu Main）目标 0，已完成 1
 - [x] `P4-vietnamese/appetizer` 前菜（Appetizer）目标 0，已完成 1
 - [x] `P4-vietnamese/cold-dish` 凉菜（Cold Dish）目标 0，已完成 1

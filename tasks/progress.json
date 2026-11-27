@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:26:39.306Z",
+  "generatedAt": "2026-11-27T10:27:43.413Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -10,10 +10,10 @@
   },
   "totals": {
     "cuisines": 59,
-    "cells": 657,
+    "cells": 658,
     "target": 3274,
-    "actual": 2657,
-    "coverage": 0.8115455100794136
+    "actual": 2658,
+    "coverage": 0.8118509468540013
   },
   "regions": {
     "cn": [
@@ -4598,7 +4598,7 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 26,
+        "actual": 27,
         "cells": [
           {
             "category": "soup",
@@ -4667,9 +4667,8 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 2,
+            "actual": 1,
             "ids": [
-              "vietnamese-banh-xeo",
               "vietnamese-trung-chien"
             ]
           },
@@ -4677,11 +4676,12 @@
             "category": "snack",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "banh-mi",
               "vietnamese-banh-cuon",
               "vietnamese-banh-mi",
+              "vietnamese-banh-xeo",
               "vietnamese-cha-gio"
             ]
           },
@@ -4692,6 +4692,15 @@
             "actual": 1,
             "ids": [
               "vietnamese-banh-mi"
+            ]
+          },
+          {
+            "category": "main-seafood",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "vietnamese-banh-xeo"
             ]
           },
           {
