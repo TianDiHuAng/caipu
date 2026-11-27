@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-huangmen-jichi",
+  "name": {
+    "zh": "黄焖鸡翅",
+    "en": "Braised Chicken Wings Hunan Style",
+    "original": "黄焖鸡翅"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 27,
+    "cook_min": 33,
+    "total_min": 60
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡翅",
+          "name_en": "chicken wings",
+          "amount": 700,
+          "unit": "g",
+          "note": "翅中与翅根各半",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 50,
+          "unit": "g",
+          "note": "切斜段",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 12,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调整",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "煸炒",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 1,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砧板",
+    "砂锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡翅两面各划两刀，用料酒和少许盐抓匀腌十五分钟。",
+      "time_min": 16,
+      "heat": "无火",
+      "tip": "划两刀能让咸味进到肉里，熟得也更均匀。",
+      "visual_cue": "鸡翅表面湿润，刀口微微张开"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒花生油烧热，鸡翅皮朝下入锅煎到金黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "别急着翻面，皮煎定型了自然不粘锅。",
+      "visual_cue": "鸡皮金黄起小泡，边缘微焦"
+    },
+    {
+      "n": 3,
+      "text": "翻面再煎两分钟，把锅里多余的油倒出来一部分留着炒菜。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "油太多后面收汁会腻，倒出来留着炒菜。",
+      "visual_cue": "两面都呈浅金色，锅底油明显减少"
+    },
+    {
+      "n": 4,
+      "text": "放姜片、蒜、八角与干辣椒炒香，倒入生抽老抽翻匀上色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "酱汁要炒到起小泡，香气才被激出来。",
+      "visual_cue": "鸡翅裹上深褐色酱汁，锅里冒香气"
+    },
+    {
+      "n": 5,
+      "text": "加开水没过鸡翅一半，放白糖，大火烧开转小火焖十分钟。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "一定加开水，冷水会让鸡肉骤然收紧发柴。",
+      "visual_cue": "汤汁冒小泡，鸡翅在锅里轻轻晃动"
+    },
+    {
+      "n": 6,
+      "text": "放入土豆块铺在锅边，加盖继续焖十二分钟到土豆软。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "土豆后放才不会煮成糊，还能吸走多余的油。",
+      "visual_cue": "土豆边角圆润，筷子能插进去"
+    },
+    {
+      "n": 7,
+      "text": "开盖大火收汁，撒青蒜段翻两下，尝咸淡后出锅。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "收汁时晃锅不翻砸，鸡翅皮才不会破。",
+      "visual_cue": "汤汁浓稠裹住鸡翅，青蒜鲜绿"
+    }
+  ],
+  "tips": [
+    "鸡翅换成鸡腿块同样好吃，焖的时间加五分钟。",
+    "加一勺剁椒进去，湘味更足也更开胃。",
+    "土豆换成藕块，口感更脆也更吸汁。",
+    "汤汁别收得太干，留一些拌饭是最香的。"
+  ],
+  "common_mistakes": [
+    "鸡翅没擦干就下锅，油花乱溅还粘锅。",
+    "水加太多又急着收汁，鸡皮泡得发软。",
+    "青蒜过早下锅，炒到发黄失去了辛香。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡翅",
+      "substitute": "鸡腿肉",
+      "ratio": "700克:700克",
+      "note": "肉更厚，焖的时间加五分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "藕",
+      "ratio": "200克:200克",
+      "note": "口感更脆，焖十分钟即可。"
+    }
+  ],
+  "variations": [
+    "放几片香菇一起焖，汤汁更鲜也更厚实。",
+    "收汁前加一勺辣椒油，颜色更红亮也更有食欲。"
+  ],
+  "serving_suggestion": "连汤汁一起盛进砂锅，撒青蒜段趁热配米饭吃。",
+  "storage": "冷藏可放两天，复热时加少量水小火焖五分钟。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 430,
+    "protein_g": 32,
+    "fat_g": 26,
+    "carbs_g": 16,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡翅须焖到骨边不见血色，中心完全熟透。",
+    "生熟食材的砧板与刀具须分开使用。"
+  ],
+  "origin_note": "湖南家常的黄焖做法，鸡翅先煎出油再下酱料焖透，最后放土豆吸味，一锅出来咸鲜带辣，汤汁拌饭能多吃两碗。",
+  "tags": [
+    "湘菜",
+    "鸡翅",
+    "焖菜",
+    "家常"
+  ],
+  "related_ids": [
+    "hunan-lajiao-chao-ji",
+    "hunan-banli-shaoji",
+    "hunan-congyou-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

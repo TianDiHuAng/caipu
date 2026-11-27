@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-youdoufu-shao-rou",
+  "name": {
+    "zh": "油豆腐烧肉",
+    "en": "Braised Pork with Fried Tofu",
+    "original": "油豆腐烧肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 37,
+    "cook_min": 47,
+    "total_min": 84
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "油豆腐",
+          "name_en": "fried tofu puff",
+          "amount": 300,
+          "unit": "g",
+          "note": "选个头均匀的",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 400,
+          "unit": "g",
+          "note": "切麻将块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调整",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砧板",
+    "砂锅",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切麻将块，冷水下锅加料酒煮三分钟去腥捞出。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "肉块不要切得太小，炖久了会缩成硬粒。",
+      "visual_cue": "肉块表面变白，锅里浮起灰白浮沫"
+    },
+    {
+      "n": 2,
+      "text": "锅里放花生油和白糖，小火炒到糖融化变成浅褐色。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色浅一点更稳，深了整锅都会发苦。",
+      "visual_cue": "糖液呈浅琥珀色，冒出细密小泡"
+    },
+    {
+      "n": 3,
+      "text": "倒入五花肉块翻炒上色，加姜片、八角与干辣椒炒香。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "让每块肉都裹上糖色，成菜颜色才红亮。",
+      "visual_cue": "肉块表面泛红亮油光，香料味散出"
+    },
+    {
+      "n": 4,
+      "text": "淋生抽与老抽，加开水没过肉块，大火烧开转小火炖四十分钟。",
+      "time_min": 43,
+      "heat": "小火",
+      "tip": "中途不要加冷水，汤温骤降会让肉块发紧变柴。",
+      "visual_cue": "汤面轻轻冒泡，肉块浮起微颤"
+    },
+    {
+      "n": 5,
+      "text": "油豆腐用筷子在每块上戳一个小口，方便吸进汤汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "戳口比切半更好，煮的时候不容易碎。",
+      "visual_cue": "每块表面有一个小孔，挤压能回弹"
+    },
+    {
+      "n": 6,
+      "text": "把油豆腐放进锅里，轻轻压实让它们浸在汤中炖十五分钟。",
+      "time_min": 16,
+      "heat": "小火",
+      "tip": "油豆腐浮起来就轻压一下，别大力搅动。",
+      "visual_cue": "油豆腐颜色变深，按下去有汤汁渗出"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味，撒青蒜段，大火收汁到汤汁浓稠即可。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "收汁别收得太干，留一点汤汁拌饭正好。",
+      "visual_cue": "汤汁红亮挂勺，青蒜鲜绿微塌"
+    }
+  ],
+  "tips": [
+    "油豆腐选厚实的，煮久了也不容易破。",
+    "加一把泡发的干香菇，鲜味更上一层。",
+    "隔夜再热更好吃，油豆腐吸饱了汁。",
+    "不喜欢猪油可以用五花肉先煸出油。"
+  ],
+  "common_mistakes": [
+    "油豆腐没戳口就下锅，里面还是干的。",
+    "糖色炒过了头，整锅都会带一股焦苦味。",
+    "收汁时大火猛翻，油豆腐被搅得七零八落。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "排骨",
+      "ratio": "400克:500克",
+      "note": "炖的时间加到五十分钟。"
+    },
+    {
+      "original": "油豆腐",
+      "substitute": "千张结",
+      "ratio": "300克:250克",
+      "note": "口感更有嚼劲，吸汁稍慢。"
+    }
+  ],
+  "variations": [
+    "加一勺豆瓣酱同烧，酱香更浓也更下饭。",
+    "放几块土豆同炖，一锅就是完整一餐。"
+  ],
+  "serving_suggestion": "连汤汁一起盛进砂锅，撒青蒜段配白米饭上桌。",
+  "storage": "冷藏可放三天，复热时加少量水小火煨透再吃。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 520,
+    "protein_g": 25,
+    "fat_g": 42,
+    "carbs_g": 10,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆制品易变质，须彻底烧透后再食用。",
+    "炖煮时汤汁较烫，盛取时注意避免烫伤。"
+  ],
+  "origin_note": "湖南农家最常见的一锅炖，五花肉先炒糖色再小火煨软，油豆腐戳个口丢进去吸汁，一锅端上来，豆香混着肉香，配白饭能吃两碗。",
+  "tags": [
+    "湘菜",
+    "豆腐",
+    "烧肉",
+    "家常"
+  ],
+  "related_ids": [
+    "hunan-xiangjian-doufu",
+    "hunan-jiacang-doufu",
+    "maoshi-hongshaorou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

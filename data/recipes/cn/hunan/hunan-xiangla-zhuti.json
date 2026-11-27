@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-xiangla-zhuti",
+  "name": {
+    "zh": "香辣猪蹄",
+    "en": "Spicy Braised Pork Trotters",
+    "original": "香辣猪蹄"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 27,
+    "cook_min": 34,
+    "total_min": 61
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪蹄",
+          "name_en": "pork trotter",
+          "amount": 1000,
+          "unit": "g",
+          "note": "剁成小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "蒜苗",
+          "name_en": "garlic sprout",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 20,
+          "unit": "g",
+          "note": "剪段",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 5,
+          "unit": "g",
+          "note": "增麻",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 5,
+          "unit": "g",
+          "note": "一小段",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "高压锅",
+    "炒锅",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪蹄块冷水下锅，加姜片与料酒煮开，撇净浮沫后捞出冲净。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "冷水下锅血水才出得干净，热水会封住腥味。",
+      "visual_cue": "浮沫堆在汤面，猪蹄颜色变浅"
+    },
+    {
+      "n": 2,
+      "text": "锅里放花生油与白糖，小火慢慢炒到糖化成枣红色。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色一冒烟就苦了，看到细密小泡就下料。",
+      "visual_cue": "糖液呈深枣红色，表面浮起细泡"
+    },
+    {
+      "n": 3,
+      "text": "倒入猪蹄块快速翻炒上色，让每块都裹上糖色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "下料的动作要快，糖色一凉就凝在锅底了。",
+      "visual_cue": "猪蹄表面泛红亮油光，锅里滋滋作响"
+    },
+    {
+      "n": 4,
+      "text": "加干辣椒、花椒、八角、桂皮与姜片炒出香味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香料炒香但别炒糊，糊了整锅都带苦。",
+      "visual_cue": "辣椒颜色转深，锅里香气冲鼻"
+    },
+    {
+      "n": 5,
+      "text": "淋生抽、老抽，加水没过猪蹄，转高压锅压二十五分钟。",
+      "time_min": 27,
+      "heat": "中火",
+      "tip": "水量要一次加足，中途揭盖会跑气拖时间。",
+      "visual_cue": "上汽后阀门稳定嘶响，汤汁浓稠挂勺"
+    },
+    {
+      "n": 6,
+      "text": "等自然放气再开盖，把料倒回炒锅大火收汁到汤汁半干。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "收汁时要不停翻动，糖分多很容易糊底。",
+      "visual_cue": "汤汁变浓稠裹住肉块，油光发亮"
+    },
+    {
+      "n": 7,
+      "text": "尝过咸淡补盐，撒入青蒜段翻炒到刚刚断生就可以出锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "青蒜一定要最后下，炒久了发黄还会失掉辛香。",
+      "visual_cue": "青蒜翠绿挺立，辛辣香气明显"
+    }
+  ],
+  "tips": [
+    "猪蹄买回来先用火烧一遍表皮，去腥更彻底。",
+    "喜欢更辣的可以加两勺剁椒同烧。",
+    "压的时间按块大小调，块大就多加五分钟。",
+    "剩下的汤汁拌面非常香，别倒掉。"
+  ],
+  "common_mistakes": [
+    "糖色炒过头变成黑色，整锅都带着一股焦苦味。",
+    "猪蹄没焯水就直接烧，腥味怎么压都压不下去。",
+    "收汁火太大又不翻动，锅底糊成一层。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪蹄",
+      "substitute": "猪肘",
+      "ratio": "1000克:1000克",
+      "note": "肉多胶少，压的时间减五分钟。"
+    },
+    {
+      "original": "干辣椒",
+      "substitute": "剁椒",
+      "ratio": "20克:60克",
+      "note": "辣味更鲜，盐要减量。"
+    }
+  ],
+  "variations": [
+    "加一把泡发的黄豆同压，汤汁更浓更香。",
+    "收汁前加一勺辣椒油，辣度更直接颜色也更红亮。"
+  ],
+  "serving_suggestion": "盛进深盘里，撒上青蒜段配米饭或冰啤酒都很合适。",
+  "storage": "冷藏可放三天，复热时加少量水小火慢慢煨透。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 560,
+    "protein_g": 38,
+    "fat_g": 40,
+    "carbs_g": 8,
+    "sodium_mg": 1050,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪蹄含胶质多，须压到软烂才易消化。",
+    "高压锅放气须等自然泄压，不可强行开盖。"
+  ],
+  "origin_note": "长沙夜宵摊上的常客，猪蹄先炒糖色再压到软糯，最后大火收出一层油亮的红汁，抓一块啃下去，辣味顺着胶质黏在嘴唇上，配啤酒最过瘾。",
+  "tags": [
+    "湘菜",
+    "猪蹄",
+    "香辣",
+    "下饭"
+  ],
+  "related_ids": [
+    "hunan-xiangla-feichang",
+    "maoshi-hongshaorou",
+    "hunan-zhu-xue-wanzi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}

@@ -1,0 +1,284 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-meicai-kourou",
+  "name": {
+    "zh": "梅干菜扣肉",
+    "en": "Pork Belly with Preserved Greens",
+    "original": "梅干菜扣肉"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 61,
+    "cook_min": 75,
+    "total_min": 136
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 700,
+          "unit": "g",
+          "note": "选带皮带膘的五层肉",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "梅干菜",
+          "name_en": "preserved mustard",
+          "amount": 120,
+          "unit": "g",
+          "note": "提前泡发洗净",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 2,
+          "unit": "piece",
+          "note": "打结",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "增色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "按需补",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒梅干菜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "炒锅",
+    "深碗",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "梅干菜用温水泡二十分钟，反复换水洗到水底不再沉沙。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泥沙藏在叶片缝里，多洗两遍才不牙碜。",
+      "visual_cue": "菜叶舒展开，洗出的水清澈见底"
+    },
+    {
+      "n": 2,
+      "text": "五花肉整块冷水下锅，加姜片、葱结与料酒煮二十分钟。",
+      "time_min": 22,
+      "heat": "中火",
+      "tip": "煮到筷子能插透皮但还带阻力最合适。",
+      "visual_cue": "皮面变软，肉块边缘微微卷起"
+    },
+    {
+      "n": 3,
+      "text": "捞出肉块趁热抹上老抽，把整块皮面都涂成深褐色。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "趁热上色才吃得进去，凉了只是表面发黑。",
+      "visual_cue": "皮面均匀发亮，颜色呈深枣红"
+    },
+    {
+      "n": 4,
+      "text": "锅里倒花生油烧热，肉皮朝下入锅煎到表皮起泡起皱。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "下锅前把皮擦干，否则油花四溅容易烫手。",
+      "visual_cue": "肉皮鼓起小泡，变成虎皮样的棕红色"
+    },
+    {
+      "n": 5,
+      "text": "煎好的肉块切成半厘米厚的大片，切面朝下码进深碗。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "片要切得厚薄一致，蒸出来才会一起软透。",
+      "visual_cue": "肉片厚薄一致，整齐叠在碗底"
+    },
+    {
+      "n": 6,
+      "text": "炒锅留底油爆香蒜末与八角，倒入梅干菜炒三分钟，加盐调味。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "梅干菜先炒香再蒸，味道才不会发闷发酸。",
+      "visual_cue": "菜叶油亮干爽，锅里散出酱香"
+    },
+    {
+      "n": 7,
+      "text": "把梅干菜铺在肉片上压实，淋上生抽白糖，上锅蒸一小时。",
+      "time_min": 63,
+      "heat": "中火",
+      "tip": "中途千万不要开盖，蒸汽跑掉肉就不够酥烂了。",
+      "visual_cue": "筷子一插即透，肉片软到微微发颤"
+    },
+    {
+      "n": 8,
+      "text": "取出倒扣进盘子，把碗底的汤汁回锅勾薄芡再淋上去。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "扣的时候用手压紧，翻过来才不会散形。",
+      "visual_cue": "肉片整齐朝上，汤汁红亮挂在肉面上"
+    }
+  ],
+  "tips": [
+    "梅干菜换成干豆角，蒸出来同样咸香下饭。",
+    "肉块煮好后冷冻十分钟再切，片形更整齐。",
+    "蒸的时间够长是软糯的关键，别用高压锅偷懒。",
+    "剩下的汤汁别浪费，拌米饭比肉还抢手。"
+  ],
+  "common_mistakes": [
+    "肉皮没擦干就下油锅，油花溅起来容易烫手。",
+    "梅干菜没洗干净，一口下去满嘴沙子。",
+    "蒸的时间不足，肉片咬着发硬不化渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "700克:700克",
+      "note": "瘦一些，但蒸后不如五花酥。"
+    },
+    {
+      "original": "梅干菜",
+      "substitute": "干豆角",
+      "ratio": "120克:120克",
+      "note": "口感更韧，泡发时间要加长。"
+    }
+  ],
+  "variations": [
+    "加几粒豆豉同蒸，咸香里多一层发酵味。",
+    "用剁椒代替一半梅干菜，做成辣味版本。"
+  ],
+  "serving_suggestion": "倒扣在深盘里趁热上桌，配一碗白米饭最合适。",
+  "storage": "冷藏三天，复蒸十分钟即可，冷冻可存两周。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 650,
+    "protein_g": 24,
+    "fat_g": 56,
+    "carbs_g": 12,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "五花肉须彻底蒸透，中心不见血色才可食用。",
+    "煎皮时油温高，须用锅盖稍挡避免溅油烫伤。"
+  ],
+  "origin_note": "湘中农家过年才做的一道硬菜，肉先煮后煎出虎皮，再和洗得干干净净的梅干菜一起上笼蒸透，一扣成菜，肥而不腻，咸香能压住整桌的清淡。",
+  "tags": [
+    "湘菜",
+    "蒸菜",
+    "五花肉",
+    "梅干菜"
+  ],
+  "related_ids": [
+    "maoshi-hongshaorou",
+    "hunan-xianggan-chaorou",
+    "hunan-larou-zheng-xianggan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
