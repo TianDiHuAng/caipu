@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:31:40.901Z",
+  "generatedAt": "2026-11-27T13:53:39.708Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 658,
     "target": 3274,
-    "actual": 2706,
-    "coverage": 0.8265119120342089
+    "actual": 2714,
+    "coverage": 0.8289554062309102
   },
   "regions": {
     "cn": [
@@ -981,19 +981,20 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 97,
+        "actual": 98,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "congyou-xia",
               "longjing-xiaren",
               "ningbo-xiechao-niangao",
               "xihu-cuyu",
               "xuecai-datang-huangyu",
+              "zhejiang-congyou-yu",
               "zhejiang-ganjian-daiyu",
               "zhejiang-qingzheng-baoyu",
               "zhejiang-qingzheng-luyu",
@@ -1661,7 +1662,7 @@
         "en": "Anhui",
         "tier": "A",
         "target": 107,
-        "actual": 87,
+        "actual": 88,
         "cells": [
           {
             "category": "main-meat",
@@ -1793,9 +1794,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "anhui-huizhou-chaomian",
+              "anhui-jiachang-chaomian",
               "anhui-jiaotou-mian",
               "anhui-yangchun-mian",
               "huainan-niurou-mian"
@@ -2329,16 +2331,17 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 21,
+        "actual": 23,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "guizhou-qiang-chaotusi",
-              "xiaomila-kugua"
+              "xiaomila-kugua",
+              "yunguai-chao-qingcai"
             ]
           },
           {
@@ -2395,8 +2398,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "yunguai-doufu-tang"
+            ]
           },
           {
             "category": "staple-noodle",
@@ -3145,7 +3150,7 @@
         "en": "Tibetan",
         "tier": "C",
         "target": 25,
-        "actual": 22,
+        "actual": 23,
         "cells": [
           {
             "category": "main-meat",
@@ -3191,9 +3196,10 @@
             "category": "drink",
             "kind": "core",
             "target": 5,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "suyou-cha"
+              "suyou-cha",
+              "tibetan-sweet-tea"
             ]
           },
           {
@@ -3764,7 +3770,7 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 90,
+        "actual": 91,
         "cells": [
           {
             "category": "main-poultry",
@@ -3868,12 +3874,13 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "thai-green-curry-vegetable",
               "thai-pad-hed-taohu",
               "thai-pad-pak-boong",
-              "thai-pad-pak-khun-chai"
+              "thai-pad-pak-khun-chai",
+              "thai-pak-bung-fai-deng"
             ]
           },
           {
@@ -4630,7 +4637,7 @@
         "en": "Vietnamese",
         "tier": "B",
         "target": 38,
-        "actual": 28,
+        "actual": 29,
         "cells": [
           {
             "category": "soup",
@@ -4693,8 +4700,10 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "vietnamese-rau-muong-xao"
+            ]
           },
           {
             "category": "main-egg",
@@ -7034,7 +7043,7 @@
         "en": "Southern US",
         "tier": "B",
         "target": 38,
-        "actual": 21,
+        "actual": 22,
         "cells": [
           {
             "category": "main-poultry",
@@ -7064,8 +7073,9 @@
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "american-south-biscuits",
               "american-south-cornbread"
             ]
           },

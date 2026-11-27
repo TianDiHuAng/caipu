@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "anhui-jiachang-chaomian",
+  "name": {
+    "zh": "安徽家常炒面",
+    "en": "Anhui Home-style Fried Noodles",
+    "original": "家常炒面"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "anhui"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 250,
+          "unit": "g",
+          "note": "中粗碱水面",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小青菜",
+          "name_en": "baby greens",
+          "amount": 200,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "剁末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "煮面与调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "一撮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "汤锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "汤锅烧一大锅水，加两克盐，水开后下面条煮到七分熟捞出。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "面只煮七分熟，后面还要炒，全熟再炒就烂了。",
+      "visual_cue": "面条浮起，中心还有硬芯"
+    },
+    {
+      "n": 2,
+      "text": "面条捞进漏勺过凉水，甩干水后拌一勺植物油防粘。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "拌油这步别省，面条不抱团，炒的时候才好抖散。",
+      "visual_cue": "面条根根分开，表面泛油光"
+    },
+    {
+      "n": 3,
+      "text": "五花肉切细丝，小青菜切段，洋葱切丝，蒜剁末。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉丝切细一点，下锅快熟也更容易出油。",
+      "visual_cue": "肉丝粗细均匀，配菜分堆"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧热，中火下五花肉丝煸三分钟到出油微黄。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "肉丝煸到出油，后面炒面才香，不然都是素味。",
+      "visual_cue": "肉丝卷曲泛黄，锅底见油"
+    },
+    {
+      "n": 5,
+      "text": "下蒜末与洋葱丝炒一分钟，再放青菜段炒到叶软。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "洋葱炒出甜味，与肉香搭在一起才够厚。",
+      "visual_cue": "洋葱透明，青菜转深绿"
+    },
+    {
+      "n": 6,
+      "text": "倒入面条，用筷子与铲子配合抖散，中火翻炒三分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "抖散比压炒好，面条不易断，也不会糊成块。",
+      "visual_cue": "面条松散分离，不再粘连"
+    },
+    {
+      "n": 7,
+      "text": "沿锅边淋入生抽与老抽，撒白胡椒，快速翻匀上色。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "酱沿锅边淋，遇热激香，直接倒面上颜色不匀。",
+      "visual_cue": "面条均匀上色，呈酱褐"
+    },
+    {
+      "n": 8,
+      "text": "尝味后补盐，再翻炒一分钟收干水汽，盛出即可。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "最后收干水汽，面才够香不黏，盘底也不见汤。",
+      "visual_cue": "面条干爽油亮，香气浓"
+    }
+  ],
+  "tips": [
+    "用隔夜的熟面更省事，炒出来也更干爽。",
+    "碱水面比普通挂面筋道，炒的时候不易断。",
+    "加一勺辣椒油，香辣更下饭，是安徽小馆的常见吃法。",
+    "面煮好后若等一会儿再炒，记得拌油盖布，别让表面风干。"
+  ],
+  "common_mistakes": [
+    "面条煮到全熟再炒，一拌就断，出锅成面糊。",
+    "面不拌油直接放着，粘成一坨，下锅怎么抖都散不开。",
+    "酱早放又久炒，酱油糊在锅底，整锅带焦苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "火腿",
+      "ratio": "120克:100克",
+      "note": "咸度高，盐可完全省略。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "250克:240克",
+      "note": "先泡软再炒，炒制时间减一分钟。"
+    }
+  ],
+  "variations": [
+    "加豆芽与韭菜同炒，口感更丰富，是夜市版本。",
+    "把五花肉换成腊肠片，甜咸更明显，孩子更爱吃。"
+  ],
+  "serving_suggestion": "两人份主食，配一碗紫菜蛋汤或绿豆汤。",
+  "storage": "冷藏两天内吃完，复热用炒锅小火加一勺水焖热；不建议久冻，面条会返生发硬。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 680,
+    "protein_g": 22,
+    "fat_g": 30,
+    "carbs_g": 78,
+    "sodium_mg": 1320,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "面条与肉丝须炒至完全熟透、锅底无汤水；含肉类的炒面冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "安徽小城街边的家常炒面，五花肉丝煸出油，与青菜、洋葱一起炒，再把煮到七分熟的面条下锅抖散上色。锅气一足，盘底干爽，一碗就能吃饱。",
+  "tags": [
+    "安徽",
+    "炒面",
+    "家常",
+    "快手"
+  ],
+  "related_ids": [
+    "anhui-huizhou-chaomian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-27",
+  "updated_at": "2026-11-27"
+}
