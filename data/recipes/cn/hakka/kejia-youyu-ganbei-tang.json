@@ -1,0 +1,280 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "kejia-youyu-ganbei-tang",
+  "name": {
+    "zh": "客家鱿鱼干贝汤",
+    "en": "Hakka Squid and Dried Scallop Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 46,
+    "cook_min": 41,
+    "total_min": 87
+  },
+  "servings": 3,
+  "flavor": [
+    "umami",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 300,
+          "unit": "g",
+          "note": "切花刀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "干贝",
+          "name_en": "dried scallop",
+          "amount": 60,
+          "unit": "g",
+          "note": "温水泡发",
+          "optional": false
+        },
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 200,
+          "unit": "g",
+          "note": "斩小段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 3,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1600,
+          "unit": "ml",
+          "note": "煲汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干贝用温水泡二十分钟，泡到能用手轻轻掰开，泡干贝的水留着备用。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "干贝泡发的水是汤的鲜味底子，滤掉沉渣后全用上。",
+      "visual_cue": "干贝软胀，撕开成丝状，中心不发硬"
+    },
+    {
+      "n": 2,
+      "text": "鱿鱼撕掉表面薄膜，剖开后在内侧切十字花刀，再切成四厘米的块。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "花刀要切在内侧，加热才卷得漂亮，切外侧卷不起来。",
+      "visual_cue": "鱿鱼块带菱形花刀纹，纹路间距均匀"
+    },
+    {
+      "n": 3,
+      "text": "猪排骨冷水下锅焯三分钟，撇净浮沫捞出，用温水冲干净备用。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "加排骨是为了给汤打底味，只用鱿鱼汤头会单薄。",
+      "visual_cue": "排骨干净，浮沫撇净，水色由浑转清"
+    },
+    {
+      "n": 4,
+      "text": "汤锅放清水、姜丝、泡发干贝和它的泡发水，下排骨大火烧开。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "泡干贝的水先下，鲜味从第一分钟就开始释放。",
+      "visual_cue": "汤面浮起细密小泡，姜丝浮在上层"
+    },
+    {
+      "n": 5,
+      "text": "转小火加盖煲二十五分钟，让干贝的鲜和排骨的甜融进汤里。",
+      "time_min": 28,
+      "heat": "小火",
+      "tip": "小火慢煲，汤才清而鲜，大火滚会把干贝滚散成渣。",
+      "visual_cue": "汤色浅黄清亮，干贝散开，油花细碎"
+    },
+    {
+      "n": 6,
+      "text": "下香菇片继续煮八分钟，香菇的菌香渗进汤里，鲜味叠加。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "香菇后放，久煮会抢味，八分钟刚刚好出香。",
+      "visual_cue": "香菇舒展，汤面浮一层油光"
+    },
+    {
+      "n": 7,
+      "text": "把鱿鱼块下锅，加米酒，中火煮三分钟到鱿鱼卷成花筒立刻关小火。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鱿鱼只煮三分钟，多煮一分钟就老成橡皮，咬都咬不动。",
+      "visual_cue": "鱿鱼卷起成筒，肉质发白，花刀撑开"
+    },
+    {
+      "n": 8,
+      "text": "加盐和白胡椒调味，淋几滴香油，撒葱花盛碗，趁热喝汤最鲜。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "鱿鱼本身带咸味，盐要少放，先尝一口再决定补不补。",
+      "visual_cue": "汤清见底，葱花翠绿飘浮，碗边挂着油珠"
+    }
+  ],
+  "tips": [
+    "干贝必须温水泡足二十分钟，泡的水滤掉沉渣后全部倒进汤里，那是整锅汤的鲜味来源。",
+    "鱿鱼的花刀要切在内侧，受热才会卷成花筒。切外侧不但不卷，还会卷成一团。",
+    "鱿鱼只能煮三分钟，看到卷起来、肉变白就关小火。煮久了蛋白质收缩，咬着像橡皮。",
+    "这道汤不放酱油，汤色清亮才显功夫。盐也要少放，干贝和鱿鱼本身就带咸。"
+  ],
+  "common_mistakes": [
+    "干贝用冷水泡不开，咬着硬芯。必须温水泡二十分钟以上，直到能掰开。",
+    "鱿鱼切花刀切在外侧，煮出来不卷还发硬。花刀要切内侧。",
+    "鱿鱼和排骨一起下锅煮，出锅缩成小块且咬不动。鱿鱼最后三分钟才放。",
+    "加酱油调色，汤变浑发黑，鲜味也被压住。这道汤讲究清亮。"
+  ],
+  "substitutions": [
+    {
+      "original": "干贝",
+      "substitute": "虾米",
+      "ratio": "60克:80克",
+      "note": "成本更低，鲜味更直接，泡发时间缩短到十分钟。"
+    },
+    {
+      "original": "鱿鱼",
+      "substitute": "鲜墨鱼",
+      "ratio": "300克:350克",
+      "note": "肉质更厚实，煮制时间需延长两分钟。"
+    }
+  ],
+  "variations": [
+    "加几片冬瓜同煮，汤更清甜，夏天喝最舒服。",
+    "把鱿鱼换成鱿鱼干，需提前泡发四小时，汤的咸鲜味更浓，是客家年菜的汤品。",
+    "加一把粉丝垫在碗底，浇上热汤就是一碗海鲜汤粉，客家人当主食吃。"
+  ],
+  "serving_suggestion": "汤色清亮见底，干贝的鲜先入口，鱿鱼卷成花筒咬着弹牙，最后是一点胡椒的暖，饭前来一碗最开胃。",
+  "storage": "冷藏可放一天，复热须煮沸；鱿鱼隔夜会变韧，建议挑出后汤单独加热再放回。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 276,
+    "protein_g": 31,
+    "fat_g": 12,
+    "carbs_g": 8,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mollusk",
+    "sesame"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "low-carb",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鱿鱼属软体动物，须煮至肉质变白卷曲、完全熟透后食用；贝类食材过敏人群禁食。",
+    "汤品冷藏不超过一天，复热须彻底煮沸；海鲜汤隔夜易变质，闻到异味须丢弃。"
+  ],
+  "origin_note": "客家鱿鱼干贝汤是逢年过节才上桌的汤，海味在梅州、河源这样的山城里是稀罕物。干货泡发、小火慢煲，鲜味一层层叠上去，客家人把这锅汤叫山里的海味。",
+  "tags": [
+    "客家",
+    "客家菜",
+    "鱿鱼",
+    "干贝",
+    "汤品"
+  ],
+  "related_ids": [
+    "kejia-luobo-paigu-tang",
+    "hakka-dongsun-paigu-tang",
+    "kejia-xiami-men-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

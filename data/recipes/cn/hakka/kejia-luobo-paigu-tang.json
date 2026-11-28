@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "kejia-luobo-paigu-tang",
+  "name": {
+    "zh": "客家萝卜排骨汤",
+    "en": "Hakka Radish and Pork Rib Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hakka"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 50,
+    "cook_min": 63,
+    "total_min": 113
+  },
+  "servings": 4,
+  "flavor": [
+    "light",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 700,
+          "unit": "g",
+          "note": "斩段",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 500,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍扁",
+          "optional": false
+        },
+        {
+          "name": "枸杞",
+          "name_en": "goji berry",
+          "amount": 8,
+          "unit": "g",
+          "note": "温水泡开",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "焯水去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2200,
+          "unit": "ml",
+          "note": "煲汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪排骨斩成四厘米长的段，用清水泡二十分钟，中途换两次水。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "泡水能去掉大部分血水，汤才会清亮不腥，比焯水更关键。",
+      "visual_cue": "排骨发白，水色转淡红，血水泡出来"
+    },
+    {
+      "n": 2,
+      "text": "泡好的排骨冷水下锅，加米酒和一半姜片，大火烧开煮三分钟。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "冷水下锅血沫才逼得出来，热水下锅腥味锁在肉里。",
+      "visual_cue": "浮沫成片浮起，撇去后汤清"
+    },
+    {
+      "n": 3,
+      "text": "捞出排骨用温水冲净表面浮沫，锅也冲洗干净，避免残留的腥沫。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "一定要用温水冲，冷水一激排骨紧缩，肉就柴了。",
+      "visual_cue": "排骨干净无沫，肉质不缩，表面发白"
+    },
+    {
+      "n": 4,
+      "text": "汤锅加清水放剩下的姜片，下排骨大火烧开，转小火加盖煲四十分钟。",
+      "time_min": 45,
+      "heat": "小火",
+      "tip": "小火保持汤面微微冒泡，火大了汤浑肉柴。",
+      "visual_cue": "汤色转白，排骨开始脱骨，肉轻推能动"
+    },
+    {
+      "n": 5,
+      "text": "白萝卜削皮切成滚刀块，块头要均匀，大约三厘米见方。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "滚刀块受热面积不同，煮出来外软内嫩，比切方块更好吃。",
+      "visual_cue": "萝卜块大小均匀，棱角分明"
+    },
+    {
+      "n": 6,
+      "text": "把白萝卜块下进汤锅，继续小火煲二十分钟，煮到筷子能轻松插透。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "萝卜后放，久煮会化成汤，二十分钟刚好软而不烂。",
+      "visual_cue": "萝卜半透明，筷子一插就透"
+    },
+    {
+      "n": 7,
+      "text": "撒入泡开的枸杞，加盐调味，再小火滚三分钟让咸味融进汤里。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "盐一定要最后放，早放排骨的肉纤维收紧，汤不鲜肉不烂。",
+      "visual_cue": "汤色清亮微白，咸淡合适，表面浮着油点"
+    },
+    {
+      "n": 8,
+      "text": "关火后撒白胡椒和葱花，盛进汤碗上桌，趁热喝最暖胃，凉了腥味就出来。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "白胡椒关火后撒，香气才不散，去腥提鲜两件事一起做。",
+      "visual_cue": "葱花浮在汤面，胡椒香扑鼻"
+    }
+  ],
+  "tips": [
+    "排骨先用清水泡二十分钟再焯水，两步都做，汤才清亮不腥。只焯不泡，血水还是留在骨头里。",
+    "焯完水要用温水冲洗，千万别用冷水。冷水一激排骨纤维收紧，后面怎么煲都柴。",
+    "煲汤全程小火，汤面保持微微冒泡的状态。大火滚出来的汤是浑的，肉也散。",
+    "盐必须最后放。提前放盐会让排骨的蛋白质凝固，汤不鲜、肉不烂。"
+  ],
+  "common_mistakes": [
+    "排骨不泡直接焯，汤浑带腥。泡够二十分钟血水才能出来。",
+    "焯水后用冷水冲，排骨紧缩发柴。必须用温水。",
+    "大火猛滚四十分钟，汤浑肉散。要小火保持微沸。",
+    "萝卜和排骨一起下锅，出锅萝卜化没了。萝卜要后放二十分钟。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪排骨",
+      "substitute": "猪筒骨",
+      "ratio": "700克:900克",
+      "note": "汤更浓白，煲制时间需延长二十分钟。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "冬瓜",
+      "ratio": "500克:500克",
+      "note": "更清甜解腻，煮十五分钟即可，久煮会烂。"
+    }
+  ],
+  "variations": [
+    "加一把干贝同煲，汤的鲜味厚一层，客家人叫这锅汤待客汤。",
+    "换成萝卜干煲排骨，咸香更浓，是客家咸菜排骨汤的路子。",
+    "加两片陈皮同煲，去腥解腻，喝完喉咙更清爽。"
+  ],
+  "serving_suggestion": "一碗热汤端上来，汤色清亮微白，萝卜软糯带甜，排骨一咬脱骨，撒上白胡椒和葱花，喝完从胃里暖到手脚。",
+  "storage": "冷藏可放两天，复热须煮沸后小火滚三分钟；萝卜隔夜会变软，建议挑出另存。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 328,
+    "protein_g": 27,
+    "fat_g": 21,
+    "carbs_g": 9,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "dairy-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "排骨须煲至完全熟透、骨髓不见血色后食用。",
+    "汤品冷藏不超过两天，复热须彻底煮沸；汤面起泡有酸味须丢弃。"
+  ],
+  "origin_note": "萝卜排骨汤是客家餐桌上最常见的汤，客家人煲汤不讲究花哨，就靠排骨的鲜和萝卜的清甜。秋冬萝卜当季，一锅汤从灶上端下来，一家人分着喝，是山居日子里最踏实的一味。",
+  "tags": [
+    "客家",
+    "客家菜",
+    "排骨",
+    "白萝卜",
+    "汤品"
+  ],
+  "related_ids": [
+    "hakka-dongsun-paigu-tang",
+    "kejia-xiancai-zhudu-tang",
+    "kejia-youyu-ganbei-tang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

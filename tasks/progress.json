@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:54:48.816Z",
+  "generatedAt": "2026-11-28T08:57:04.090Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2914,
-    "coverage": 0.8900427611484423
+    "actual": 2922,
+    "coverage": 0.8924862553451436
   },
   "regions": {
     "cn": [
@@ -2526,7 +2526,7 @@
         "en": "Hakka",
         "tier": "B",
         "target": 38,
-        "actual": 25,
+        "actual": 33,
         "cells": [
           {
             "category": "main-meat",
@@ -2550,9 +2550,11 @@
             "category": "main-tofu",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "hakka-hongshao-doufu",
+              "kejia-fuzhu-men-rou",
+              "kejia-xiami-men-doufu",
               "niang-doufu"
             ]
           },
@@ -2560,19 +2562,23 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "hakka-dongsun-paigu-tang",
-              "kejia-xiancai-zhudu-tang"
+              "kejia-luobo-paigu-tang",
+              "kejia-xiancai-zhudu-tang",
+              "kejia-youyu-ganbei-tang"
             ]
           },
           {
             "category": "fermented",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "hakka-meigan-cai",
+              "kejia-dabaicai-xiancai",
+              "kejia-luobogan",
               "kejia-suan-luobo"
             ]
           },
@@ -2590,17 +2596,20 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 2,
             "ids": [
-              "hakka-stir-fried-gai-lan"
+              "hakka-stir-fried-gai-lan",
+              "kejia-dougan-chao-qincai"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "kejia-xiami-zhengdan"
+            ]
           },
           {
             "category": "staple-noodle",
