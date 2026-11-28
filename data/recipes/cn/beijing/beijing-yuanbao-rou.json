@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "beijing-yuanbao-rou",
+  "name": {
+    "zh": "元宝肉",
+    "en": "Beijing Braised Pork with Eggs"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 89,
+    "total_min": 114
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 700,
+          "unit": "g",
+          "note": "切方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 240,
+          "unit": "g",
+          "note": "约四个煮熟",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 3,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成三厘米见方的块，冷水下锅加料酒焯五分钟捞出洗净。",
+      "time_min": 13,
+      "heat": "大火",
+      "tip": "冷水下锅焯，血沫才逼得干净不腥。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "肉块表面发白，水面浮起灰沫"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋煮熟剥壳，用刀在蛋白表面轻划两刀便于入味。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "蛋白划口子，卤汁才进得去不寡淡。做之前把料备齐，下锅后就没空切配了。",
+      "visual_cue": "蛋身光滑完整，表面有浅划痕"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油下冰糖，小火炒到冒褐色细泡，下肉块翻炒上色。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "糖色炒到褐色细泡就下肉，过火发苦。这几步照顺序来，味道才会一层层叠上去。",
+      "visual_cue": "肉块均匀挂上枣红色糖壳"
+    },
+    {
+      "n": 4,
+      "text": "下姜片、葱段与八角炒香，加生抽、老抽与料酒翻匀。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "酱油先炒香再加汤，颜色才亮不发黑。锅和案板保持干爽，成菜口感差别很大。",
+      "visual_cue": "肉块颜色深沉，香气浓郁"
+    },
+    {
+      "n": 5,
+      "text": "倒清水没过肉块，大火烧开撇沫，转小火加盖焖五十分钟。",
+      "time_min": 53,
+      "heat": "小火",
+      "tip": "小火慢焖，肉才酥而不散形。调味宁少勿多，出锅前尝一口再补。",
+      "visual_cue": "汤汁微沸，肉块半沉在汤里"
+    },
+    {
+      "n": 6,
+      "text": "放入鸡蛋继续小火焖二十分钟，加盐调味后大火收汁。",
+      "time_min": 24,
+      "heat": "大火",
+      "tip": "鸡蛋后放才不会焖老，收汁时勤翻面。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "汤汁浓稠发亮，肉块与蛋油亮"
+    }
+  ],
+  "tips": [
+    "冷水焯肉，血沫逼得干净。火候与时间都要盯紧，宁可略短也别过头。",
+    "糖色到褐色细泡就下肉，别等发黑。做之前把料备齐，下锅后就没空切配了。",
+    "鸡蛋后放，久焖会变硬。这几步照顺序来，味道才会一层层叠上去。",
+    "收汁时翻动，让每块肉都挂上汁。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "热水焯肉，表面一收缩血沫全锁在里面。",
+    "糖色炒过头，整锅带焦苦味。很多人就在这里翻车，出菜后才发现。",
+    "火候一直很大，肉块烧散不成形。账面上看是小疏忽，入口立刻能尝出来。",
+    "鸡蛋一开始就下锅，焖到蛋黄发干。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "700克:700克",
+      "note": "更瘦，焖的时间缩短十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "30克:25克",
+      "note": "色浅一些，香气略淡。"
+    }
+  ],
+  "variations": [
+    "加几块土豆同焖，汤汁吸得更干香。口味会更厚一些，适合重口的人。",
+    "加一把干豆角同烧，京味更浓。做法不复杂，家常灶台就能完成。",
+    "加两三个煮蛋换成鹌鹑蛋，摆盘更精致。"
+  ],
+  "serving_suggestion": "砂锅上桌，肉块油亮、鸡蛋金红，配一碗米饭和一小碟醋溜白菜，是京味宴席上的硬菜。",
+  "storage": "冷藏可放两天，复热加少量清水小火焖十分钟；鸡蛋久放会变硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 842,
+    "protein_g": 38,
+    "fat_g": 66,
+    "carbs_g": 18,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "五花肉须焖至完全熟透，中心不见血色；鸡蛋须提前煮熟。",
+    "成品冷藏不超过两天，复热须彻底加热至汤汁沸腾。"
+  ],
+  "origin_note": "元宝肉是老北京宴席上的吉祥菜，五花肉炒糖色焖到酥烂，再放几个整鸡蛋同焖，鸡蛋金黄圆润形似元宝。肉酥蛋香、汤汁拌饭，逢年过节老一辈人家常做。",
+  "tags": [
+    "京菜",
+    "宴席",
+    "五花肉",
+    "鸡蛋"
+  ],
+  "related_ids": [
+    "beijing-hongshao-niurou",
+    "beijing-sixi-wanzi",
+    "beijing-hongshao-huangyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:46:55.980Z",
+  "generatedAt": "2026-11-28T05:56:41.805Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2858,
-    "coverage": 0.8729383017715333
+    "actual": 2866,
+    "coverage": 0.8753817959682346
   },
   "regions": {
     "cn": [
@@ -1904,7 +1904,7 @@
         "en": "Beijing",
         "tier": "B",
         "target": 38,
-        "actual": 30,
+        "actual": 38,
         "cells": [
           {
             "category": "main-meat",
@@ -1965,10 +1965,13 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 6,
             "ids": [
+              "beijing-baoyu-shao-rou",
+              "beijing-hongshao-huangyu",
               "beijing-quanjiafu",
               "beijing-sixi-wanzi",
+              "beijing-yuanbao-rou",
               "beijing-zhuachao-yupian"
             ]
           },
@@ -1976,9 +1979,11 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 2,
+            "actual": 4,
             "ids": [
+              "beijing-cu-liu-baicai",
               "beijing-ganbian-sijidou",
+              "beijing-hongshao-donggua",
               "shao-er-dong"
             ]
           },
@@ -1986,8 +1991,11 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 4,
             "ids": [
+              "beijing-saipangxie",
+              "beijing-tangcu-hebaodan",
+              "beijing-xianggu-zhengdan",
               "culiu-muxu"
             ]
           },

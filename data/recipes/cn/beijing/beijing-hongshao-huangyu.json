@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "beijing-hongshao-huangyu",
+  "name": {
+    "zh": "红烧黄鱼",
+    "en": "Beijing-style Braised Yellow Croaker"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "beijing"
+  },
+  "category": [
+    "banquet"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 29,
+    "cook_min": 32,
+    "total_min": 61
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄鱼",
+          "name_en": "yellow croaker",
+          "amount": 800,
+          "unit": "g",
+          "note": "处理干净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 50,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡发切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 350,
+          "unit": "ml",
+          "note": "烧煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "锅铲",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄鱼去鳞去内脏洗净，两面各划三刀，用料酒与姜片腌十五分钟。",
+      "time_min": 19,
+      "heat": "无火",
+      "tip": "鱼身划刀口，烧的时候入味才均匀。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "鱼身表面有斜刀口，鱼腹干净"
+    },
+    {
+      "n": 2,
+      "text": "腌好的鱼用厨房纸擦干表面水分，两面薄薄拍一层淀粉。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "擦干再拍粉，煎的时候鱼皮才不破。做之前把料备齐，下锅后就没空切配了。",
+      "visual_cue": "鱼身干爽，薄粉均匀不结块"
+    },
+    {
+      "n": 3,
+      "text": "炒锅烧热倒植物油，把鱼下锅中小火煎至两面金黄定型。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "下锅后先别动，等皮结壳再翻面。这几步照顺序来，味道才会一层层叠上去。",
+      "visual_cue": "鱼皮完整金黄，锅底不粘"
+    },
+    {
+      "n": 4,
+      "text": "锅留底油下葱段、姜片、蒜与香菇炒香。趁热操作更顺手。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "香菇先炒出香，汤汁才带菌香。锅和案板保持干爽，成菜口感差别很大。",
+      "visual_cue": "香菇边缘微焦，香气散出"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽、白糖与清水烧开，把鱼放回锅中，小火焖十分钟。",
+      "time_min": 14,
+      "heat": "小火",
+      "tip": "汤汁烧开再放鱼，鱼皮不容易散。调味宁少勿多，出锅前尝一口再补。",
+      "visual_cue": "汤汁微沸，鱼身半浸在汤里"
+    },
+    {
+      "n": 6,
+      "text": "转中火收汁，沿锅边淋香醋，加盐调味后连汁浇在鱼身上。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "醋最后淋，去腥又提鲜不留酸。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "汤汁浓稠红亮，浇在鱼身上挂得住"
+    }
+  ],
+  "tips": [
+    "鱼身擦干再拍粉，煎出来皮才完整。火候与时间都要盯紧，宁可略短也别过头。",
+    "煎鱼别急着翻面，定型了再动。做之前把料备齐，下锅后就没空切配了。",
+    "香菇是京味红烧的底味，别省。这几步照顺序来，味道才会一层层叠上去。",
+    "醋最后淋，酸味只留香不留刺。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "鱼没擦干就下锅，油溅得厉害还粘皮。结果往往一锅好料全被这一步毁掉。",
+    "急着翻面，鱼皮破成花。很多人就在这里翻车，出菜后才发现。",
+    "汤汁没开就放鱼，鱼在汤里泡散。账面上看是小疏忽，入口立刻能尝出来。",
+    "收汁太干，鱼身发柴没汁水。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄鱼",
+      "substitute": "鲈鱼",
+      "ratio": "800克:800克",
+      "note": "肉质更嫩，焖的时间减两分钟。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "干香菇",
+      "ratio": "60克:20克",
+      "note": "泡发后香气更浓，泡菇水可入锅。"
+    }
+  ],
+  "variations": [
+    "加几片五花肉同烧，汤汁更肥美。口味会更厚一些，适合重口的人。",
+    "加一把毛豆同烧，颜色更好看。做法不复杂，家常灶台就能完成。",
+    "改成清蒸做法，用同样的葱姜调料更清爽。"
+  ],
+  "serving_suggestion": "整条装盘，浇上红亮汤汁撒葱丝，鱼肉细嫩、汤汁咸鲜微甜，京味宴席上少不了这道鱼。",
+  "storage": "冷藏不超过一天，复热用蒸锅蒸八分钟，不建议久煮以免鱼肉散开。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 426,
+    "protein_g": 46,
+    "fat_g": 22,
+    "carbs_g": 10,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "pescatarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "黄鱼须烧至鱼肉完全熟透、鱼骨与肉易分离；处理内脏时清除干净黑膜。",
+    "成品冷藏不超过一天，复热须彻底加热。"
+  ],
+  "origin_note": "红烧黄鱼是京味宴席上常见的一道鱼菜，黄鱼煎到两面金黄，再用葱姜蒜和香菇烧透。汤汁红亮微甜，鱼肉细嫩带着菌香，讲究的人家宴客必有一条整鱼上桌。",
+  "tags": [
+    "京菜",
+    "鱼",
+    "红烧",
+    "宴席"
+  ],
+  "related_ids": [
+    "beijing-yuanbao-rou",
+    "beijing-hongshao-niurou",
+    "beijing-zhuachao-yupian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
