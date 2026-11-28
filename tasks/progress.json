@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T16:42:39.588Z",
+  "generatedAt": "2026-11-28T03:31:09.346Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2755,
-    "coverage": 0.8414783139890043
+    "actual": 2763,
+    "coverage": 0.8439218081857056
   },
   "regions": {
     "cn": [
@@ -6857,19 +6857,22 @@
         "en": "American",
         "tier": "A",
         "target": 107,
-        "actual": 88,
+        "actual": 96,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 15,
             "ids": [
               "american-bbq-ribs",
               "american-beef-stew",
               "american-buffalo-wings",
               "american-chicken-pot-pie",
+              "american-country-fried-steak",
               "american-fried-chicken",
+              "american-garlic-lamb-chops",
+              "american-ny-strip-steak",
               "american-philly-cheesesteak",
               "american-pot-roast",
               "american-pulled-pork",
@@ -6965,21 +6968,24 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
+              "american-almond-green-beans",
               "american-broccoli-casserole",
               "american-glazed-carrots",
               "american-green-bean-casserole",
-              "american-stuffed-peppers"
+              "american-stuffed-peppers",
+              "american-succotash"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "american-cheese-omelette",
+              "american-denver-omelette",
               "american-deviled-eggs",
               "american-egg-salad",
               "american-veggie-frittata"
@@ -6989,10 +6995,11 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "american-bbq-tofu",
               "american-buffalo-tofu",
+              "american-crispy-tofu-nuggets",
               "american-tofu-burger",
               "american-tofu-scramble"
             ]
@@ -7001,9 +7008,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "american-beef-noodle-skillet",
+              "american-chicken-alfredo",
               "american-chicken-noodle-soup",
               "american-mac-and-cheese",
               "american-tuna-noodle-casserole"
