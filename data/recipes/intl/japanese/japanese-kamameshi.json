@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-kamameshi",
+  "name": {
+    "zh": "日式铁锅什锦饭",
+    "en": "Kamameshi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 34,
+    "cook_min": 26,
+    "total_min": 60
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 360,
+          "unit": "g",
+          "note": "洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 200,
+          "unit": "g",
+          "note": "切小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 70,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 420,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "清酒",
+          "name_en": "sake",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调整",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "刀",
+    "砧板",
+    "碗",
+    "木勺",
+    "量杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗三遍至水变清，沥干后静置十分钟让米粒吸足表面水分。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "米洗好要沥干静置，煮出来才会粒粒分明。",
+      "visual_cue": "米粒洁白松散，锅底无积水"
+    },
+    {
+      "n": 2,
+      "text": "鸡腿肉切小块，胡萝卜切细丝，香菇切薄片，三样都切得比米粒略大。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "配料切小一点，才能和米饭同时熟透。",
+      "visual_cue": "配料大小均匀，丝片薄而整齐"
+    },
+    {
+      "n": 3,
+      "text": "高汤加酱油、味淋、清酒、白砂糖与盐调匀，尝起来比平时略咸。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "汤汁要略咸，米饭吸味后才刚好。",
+      "visual_cue": "汤汁深褐色，咸淡适中"
+    },
+    {
+      "n": 4,
+      "text": "厚底锅放米，铺上鸡肉、胡萝卜丝与香菇片，倒入调好的汤汁。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "配料铺在米上别搅动，煮的时候才不会压出生米芯。",
+      "visual_cue": "配料均匀铺平，汤汁没过米面一指"
+    },
+    {
+      "n": 5,
+      "text": "大火煮开转小火煮十五分钟，关火焖十分钟，撒葱花用木勺从底翻松。",
+      "time_min": 26,
+      "heat": "小火",
+      "tip": "关火焖十分钟是让米芯熟透的关键，别急着开盖。",
+      "visual_cue": "米粒饱满透亮，锅底有一层薄锅巴"
+    }
+  ],
+  "tips": [
+    "米洗好后沥干静置，煮出来的饭粒才分明。",
+    "汤汁要比平时口味略咸一点，米饭吸味才正好。",
+    "关火后焖十分钟，米芯才会彻底熟透不夹生。",
+    "想吃锅巴就多煮两分钟，底部那层焦香最好吃。"
+  ],
+  "common_mistakes": [
+    "米没沥干就加水，水量失控煮成烂饭。",
+    "中途开盖搅动，米饭受热不匀夹生。",
+    "汤汁调得太淡，煮出来饭是白水味。",
+    "配料切得太大块，饭熟了肉还是生的。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "五花肉片",
+      "ratio": "200克:180克",
+      "note": "油脂更多，饭更香。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "蟹味菇",
+      "ratio": "70克:80克",
+      "note": "口感更脆，煮的时间相同。"
+    }
+  ],
+  "variations": [
+    "加一把毛豆同煮，颜色和口感都更丰富。",
+    "放两片炸豆腐皮，吸满汤汁后特别下饭。",
+    "用土锅煮，锅巴更厚，香气更足。"
+  ],
+  "serving_suggestion": "连锅端上桌，用木勺从底部翻松后盛进碗里，配一碗味噌汤和几片腌萝卜。",
+  "storage": "冷藏可放一天，复热加一小勺水盖盖小火焖三分钟，口感接近现煮。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 598,
+    "protein_g": 24,
+    "fat_g": 11,
+    "carbs_g": 96,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "鸡肉须煮至中心完全熟透，米饭类冷藏不超过一天以防细菌滋生。",
+    "成品复热须彻底加热至中心发烫，不可冷食。"
+  ],
+  "origin_note": "铁锅什锦饭是日本车站便当和小料理店里的招牌，米和鸡肉、香菇、胡萝卜一起下锅煮，底下一层薄锅巴。开盖那一刻香气直冲上来，米粒吸满汤汁，配味噌汤就是一餐。",
+  "tags": [
+    "日式",
+    "米饭",
+    "锅物",
+    "鸡肉"
+  ],
+  "related_ids": [
+    "japanese-takikomi-gohan",
+    "japanese-onigiri",
+    "japanese-zosui"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

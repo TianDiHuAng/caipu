@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-manju",
+  "name": {
+    "zh": "日式豆沙馒头",
+    "en": "Manju"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 38,
+    "cook_min": 17,
+    "total_min": 55
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 200,
+          "unit": "g",
+          "note": "饼身",
+          "optional": false
+        },
+        {
+          "name": "红豆沙",
+          "name_en": "red bean paste",
+          "amount": 240,
+          "unit": "g",
+          "note": "馅料",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 90,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "泡打粉",
+          "name_en": "baking powder",
+          "amount": 4,
+          "unit": "g",
+          "note": "蓬松",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "刷面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 50,
+          "unit": "g",
+          "note": "甜味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "碗",
+    "打蛋器",
+    "擀面杖",
+    "刀",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "红豆沙分成十二份，每份二十克搓圆，放冰箱冷藏定型。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "豆沙先冷藏才好包，软的一按就散。",
+      "visual_cue": "豆沙球大小一致，表面光滑"
+    },
+    {
+      "n": 2,
+      "text": "面粉、泡打粉、白砂糖与盐混匀，加牛奶和植物油揉成柔软面团。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "面团别揉太久，出筋后蒸出来发硬。",
+      "visual_cue": "面团光滑柔软，按压有弹性"
+    },
+    {
+      "n": 3,
+      "text": "面团分成十二份擀成圆片，包入豆沙球收口捏紧，收口朝下搓圆。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "皮要中间厚边缘薄，收口才不会露馅。",
+      "visual_cue": "馒头坯圆润饱满，收口处平整"
+    },
+    {
+      "n": 4,
+      "text": "蒸屉铺湿布，馒头坯间隔摆好，表面薄薄刷一层蛋液。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "留出膨胀空间，蒸完才不会粘在一起。",
+      "visual_cue": "表面油亮，坯体间距均匀"
+    },
+    {
+      "n": 5,
+      "text": "水开后中火蒸十二分钟，关火焖三分钟再开盖取出。",
+      "time_min": 17,
+      "heat": "中火",
+      "tip": "关火马上开盖会塌陷，焖三分钟让温度缓降。",
+      "visual_cue": "表皮白亮微透，按下去能回弹"
+    }
+  ],
+  "tips": [
+    "豆沙先冷藏定型，包的时候不粘手也不散。",
+    "面团揉到光滑就停，揉过头蒸出来发硬。",
+    "关火焖三分钟再开盖，馒头才不会塌。",
+    "表面刷蛋液蒸后更有光泽，卖相接近店里。"
+  ],
+  "common_mistakes": [
+    "豆沙太软没冷藏就包，一按就散开露馅。",
+    "面团反复揉搓，蒸出来又硬又韧像馒头块。",
+    "水开后立刻开盖，馒头遇冷空气瞬间回缩塌陷。",
+    "蒸屉不铺布也不刷油，成品全粘在篦子上。"
+  ],
+  "substitutions": [
+    {
+      "original": "红豆沙",
+      "substitute": "白豆沙",
+      "ratio": "240克:240克",
+      "note": "甜度更淡，糖可减十克。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "清水",
+      "ratio": "90毫升:85毫升",
+      "note": "奶香消失，口感更清爽。"
+    }
+  ],
+  "variations": [
+    "面团里加一小勺抹茶粉，做成绿色馒头。",
+    "表面点一颗黑芝麻，卖相更精致。",
+    "豆沙里拌入几粒栗子丁，口感更有层次。"
+  ],
+  "serving_suggestion": "配一杯煎茶或抹茶，馒头温热时吃最软，作为下午茶点心或节日伴手礼都合适。",
+  "storage": "常温密封可放一天，冷藏两天，复热用蒸锅大火蒸五分钟恢复柔软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 432,
+    "protein_g": 9,
+    "fat_g": 8,
+    "carbs_g": 82,
+    "sodium_mg": 180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "含麸质、蛋与奶，过敏者慎食；蒸制须彻底蒸透，中心无生粉味。",
+    "成品冷藏不超过两天，复热须蒸至中心发烫。"
+  ],
+  "origin_note": "豆沙馒头是日本最普通的和果子之一，薄薄一层小麦皮包着饱满的红豆沙，蒸出来白白软软。咬开是豆沙的绵密甜香，皮子几乎入口即化，配苦味的煎茶刚好平衡。",
+  "tags": [
+    "日式",
+    "甜点",
+    "豆沙",
+    "蒸制"
+  ],
+  "related_ids": [
+    "dorayaki",
+    "japanese-ohagi",
+    "japanese-castella"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

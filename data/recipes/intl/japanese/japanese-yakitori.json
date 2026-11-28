@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "japanese-yakitori",
+  "name": {
+    "zh": "日式酱烤鸡串",
+    "en": "Yakitori"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "japanese"
+  },
+  "category": [
+    "appetizer"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 32,
+    "cook_min": 13,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "smoky"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切四厘米段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 50,
+          "unit": "ml",
+          "note": "酱汁",
+          "optional": false
+        },
+        {
+          "name": "味醂",
+          "name_en": "mirin",
+          "amount": 40,
+          "unit": "ml",
+          "note": "酱汁",
+          "optional": false
+        },
+        {
+          "name": "清酒",
+          "name_en": "sake",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "酱汁",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "竹签",
+    "烤网",
+    "刷子",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成三厘米块，去掉多余筋膜，用厨房纸吸干表面水分。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "筋膜烤完会缩成硬块，一定先剔干净。",
+      "visual_cue": "鸡块大小均匀，表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "酱油、味淋、清酒、白砂糖与姜片小火煮五分钟收浓成酱汁，放凉备用。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "酱汁煮到能挂勺就够，太稠会烤焦发苦。",
+      "visual_cue": "酱汁浓稠发亮，冷却后微黏"
+    },
+    {
+      "n": 3,
+      "text": "竹签提前泡水三十分钟，鸡块与葱段交替串起，每串四块肉三段葱。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "竹签泡水才不会烧焦，串的时候留一点间隙。",
+      "visual_cue": "肉串整齐，葱段夹在中间不松动"
+    },
+    {
+      "n": 4,
+      "text": "烤网烧热后放上肉串，中火烤六分钟，期间翻面两次并撒少许盐。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "先干烤出油再刷酱，肉才不会又湿又腥。",
+      "visual_cue": "表面微焦，鸡皮透亮出油"
+    },
+    {
+      "n": 5,
+      "text": "转小火刷酱汁烤三分钟，翻面再刷一次，表面发亮即可离火。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "刷酱后容易焦，火必须调小并且勤翻面。",
+      "visual_cue": "表面红亮粘稠，边缘有焦香"
+    }
+  ],
+  "tips": [
+    "鸡块用厨房纸吸干，烤的时候才会上色而不是出水。",
+    "先干烤出油再刷酱，这是酱烤鸡串的核心顺序。",
+    "刷酱后把火调小，糖分很容易烤焦发苦。",
+    "串的时候葱段夹在肉块之间，葱香能渗进肉里。"
+  ],
+  "common_mistakes": [
+    "鸡肉带水下烤网，只会往外冒水，烤不香。",
+    "一开始就刷酱，糖分烧焦，表面黑里面还是生的。",
+    "竹签没泡水，进烤箱或上烤网直接烧断。",
+    "肉块切得大小不一，小的焦了大的还夹生。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅中",
+      "ratio": "500克:500克",
+      "note": "烤的时间加三分钟。"
+    },
+    {
+      "original": "大葱",
+      "substitute": "洋葱",
+      "ratio": "150克:150克",
+      "note": "切成四厘米方块，甜度更高。"
+    }
+  ],
+  "variations": [
+    "加一小勺蜂蜜进酱汁，表面更亮更甜。",
+    "改用炭火烤，烟熏味才是居酒屋的正宗味。",
+    "换成盐烤做法，只撒盐不刷酱，更能吃出鸡味。"
+  ],
+  "serving_suggestion": "烤好趁热摆盘，撒一点白芝麻或用小碟装酱汁蘸着吃，配冰啤酒最对味。",
+  "storage": "冷藏可放一天，复热用平底锅小火两面各煎一分钟，或烤箱一百八十度烤四分钟。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 368,
+    "protein_g": 30,
+    "fat_g": 18,
+    "carbs_g": 20,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须烤至中心完全熟透，切面无粉色血水；生熟食材分开处理，避免交叉污染。",
+    "成品冷藏不超过一天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "烤鸡串是日本居酒屋的灵魂菜，鸡腿肉和长葱交替串起，先撒盐干烤出油，再刷一层甜咸酱汁烤到发亮。一口咬下，皮焦肉嫩，葱段甜软，配冰啤酒三两串就下去了。",
+  "tags": [
+    "日式",
+    "鸡肉",
+    "烤制",
+    "下酒菜"
+  ],
+  "related_ids": [
+    "japanese-teriyaki-chicken",
+    "japanese-shogayaki",
+    "japanese-tsukune-jiru"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

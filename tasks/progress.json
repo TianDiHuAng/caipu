@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:18:36.889Z",
+  "generatedAt": "2026-11-28T11:35:53.738Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2951,
-    "coverage": 0.9013439218081857
+    "actual": 2959,
+    "coverage": 0.903787416004887
   },
   "regions": {
     "cn": [
@@ -3441,17 +3441,18 @@
         "en": "Japanese",
         "tier": "A",
         "target": 107,
-        "actual": 95,
+        "actual": 103,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "japanese-asari-sakamushi",
               "japanese-ebi-fry",
               "japanese-hotate-butter",
+              "japanese-ika-maruyaki",
               "japanese-ika-shoga-ni",
               "japanese-kaki-fry",
               "japanese-saba-misoni",
@@ -3468,10 +3469,11 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "japanese-curry-rice",
               "japanese-gyuudon",
+              "japanese-kamameshi",
               "japanese-katsudon",
               "japanese-kayu",
               "japanese-onigiri",
@@ -3487,7 +3489,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "asari-misoshiru",
               "japanese-dangojiru",
@@ -3497,6 +3499,7 @@
               "japanese-kenchin-jiru",
               "japanese-nikujiru",
               "japanese-oden-simple",
+              "japanese-satsuma-jiru",
               "japanese-tonjiru",
               "japanese-tsukune-jiru",
               "miso-soup",
@@ -3507,7 +3510,7 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "chawanmushi",
               "goma-ae-spinach",
@@ -3520,6 +3523,7 @@
               "japanese-shiraae-ae",
               "japanese-tako-su",
               "japanese-takoyaki",
+              "japanese-yakitori",
               "karaage"
             ]
           },
@@ -3527,12 +3531,13 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "dorayaki",
               "japanese-castella",
               "japanese-ichigo-daifuku",
               "japanese-kuri-kanroni",
+              "japanese-manju",
               "japanese-mizuyokan",
               "japanese-ohagi",
               "japanese-oshiruko",
@@ -3560,9 +3565,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "japanese-ajitama",
+              "japanese-chakin-shibori",
               "japanese-chawanmushi",
               "japanese-dashimaki-tamago",
               "japanese-tamago-don",
@@ -3573,8 +3579,9 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
+              "japanese-ganmodoki",
               "japanese-miso-tofu-nabe",
               "japanese-teriyaki-tofu",
               "japanese-tofu-steak",
@@ -3586,10 +3593,11 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "japanese-kinoko-udon",
               "japanese-kitsune-udon",
+              "japanese-nabeyaki-udon",
               "japanese-shoyu-ramen",
               "japanese-udon",
               "japanese-yakisoba",
