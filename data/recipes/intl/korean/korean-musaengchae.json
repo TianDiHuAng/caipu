@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-musaengchae",
+  "name": {
+    "zh": "韩式萝卜丝凉拌",
+    "en": "Korean Julienned Radish Salad"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 4,
+    "total_min": 24
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "tangy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 450,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "压成蒜泥",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 3,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "杀水",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 8,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "米醋",
+          "name_en": "rice vinegar",
+          "amount": 15,
+          "unit": "ml",
+          "note": "提酸",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "拌菜盆",
+    "刀",
+    "砧板",
+    "刨丝器",
+    "蒜泥器",
+    "漏盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "白萝卜削皮后切成细丝，粗细像筷子尖，太粗咬不动、太细出水快。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "萝卜丝粗细均匀才腌得匀，粗细不一会有的咸有的淡。",
+      "visual_cue": "萝卜丝细白均匀，堆成松软一团"
+    },
+    {
+      "n": 2,
+      "text": "萝卜丝撒盐抓匀，静置十五分钟杀出水分，中途翻动一次让它出水均匀。",
+      "time_min": 17,
+      "heat": "无火",
+      "tip": "杀水这步不能省，水分不出去，拌好十分钟就成一碗汤。",
+      "visual_cue": "萝卜丝变软，盆底积出清亮液"
+    },
+    {
+      "n": 3,
+      "text": "把萝卜丝装进漏盆，用手用力挤压，把苦水和多余盐分一起挤出来。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "挤到手感发韧就够，挤太干会失去脆感。",
+      "visual_cue": "萝卜丝成团发韧，捏不出水分"
+    },
+    {
+      "n": 4,
+      "text": "小米辣切圈，小葱切葱花，大蒜压成蒜泥，芝麻下干锅小火炒香备用。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "芝麻炒到颜色微深就够了，炒过头会发苦。",
+      "visual_cue": "芝麻散出坚果香，颗粒微鼓"
+    },
+    {
+      "n": 5,
+      "text": "萝卜丝放回拌菜盆，先加辣椒粉抓匀，让每一根都染上红色。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先拌辣椒粉，颜色才透亮，后拌只会浮一层红粉。",
+      "visual_cue": "萝卜丝通体红亮，盆底无水"
+    },
+    {
+      "n": 6,
+      "text": "加蒜泥、白糖、鱼露和米醋，从下往上翻拌均匀，尝一下酸甜辣是否平衡。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "糖和醋比例是灵魂，一甜一酸撑住整碟的骨架。",
+      "visual_cue": "味道先甜后酸，辣味随后跟上"
+    },
+    {
+      "n": 7,
+      "text": "最后淋香油、撒葱花和炒香的芝麻，翻两下装碟，冷藏十分钟更好吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香油封住香气，冷藏后萝卜更脆更入味。",
+      "visual_cue": "萝卜丝油亮，红白芝麻点缀分明"
+    }
+  ],
+  "tips": [
+    "萝卜丝撒盐后一定要静置十五分钟杀水再挤干。省掉这一步，拌好十分钟就变成一碗萝卜汤。",
+    "挤水要挤到萝卜丝成团发韧但不出水，别挤到干瘪。挤太干的萝卜丝咬着发木，失去脆感。",
+    "调味顺序是先辣椒粉上色，再下蒜泥、糖、鱼露和米醋，最后淋香油。顺序乱了颜色和味道都出不来。",
+    "糖和米醋的比例要一比二左右，先甜后酸才像韩国味道。糖少了死酸，醋少了只剩甜腻。"
+  ],
+  "common_mistakes": [
+    "萝卜丝不杀水直接拌，成品一汪汤。必须先盐腌十五分钟再挤干。",
+    "辣椒粉最后才放，颜色浮在表面不入味。要先拌辣椒粉。",
+    "只用醋不用糖，酸得冲口。韩国凉拌讲究酸甜平衡。",
+    "拌好不冷藏直接吃，萝卜辛辣味重。冷藏十分钟更柔和。"
+  ],
+  "substitutions": [
+    {
+      "original": "白萝卜",
+      "substitute": "青萝卜",
+      "ratio": "450克:450克",
+      "note": "辣味更冲，喜辣者可多放一克辣椒粉。"
+    },
+    {
+      "original": "鱼露",
+      "substitute": "浓口酱油",
+      "ratio": "8毫升:10毫升",
+      "note": "咸味更直，鲜味略减，素食者可选。"
+    }
+  ],
+  "variations": [
+    "加一勺梨泥同拌，甜味更自然，韩国家庭做萝卜丝常放梨。",
+    "把萝卜丝换成萝卜块，加糯米糊同拌，就是韩式萝卜泡菜的前身，腌两天更酸爽。",
+    "加几丝韭菜和苹果丝，酸甜层次更丰富，配烤肉解腻最好。"
+  ],
+  "serving_suggestion": "一碟红白相间的萝卜丝，入口脆得发响，先甜后酸再上一层辣，最后是香油的暖，配烤肉或白饭都极解腻。",
+  "storage": "冷藏可放三天，风味第二天最好；出水后倒掉汁水再补一点香油拌匀。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 64,
+    "protein_g": 2,
+    "fat_g": 3,
+    "carbs_g": 9,
+    "sodium_mg": 560,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "sesame"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free",
+    "low-carb",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "凉拌菜须用干净器具制作，冷藏保存不超三天；出现酸败味或黏液须丢弃。",
+    "生食蔬菜类凉拌菜建议现拌现吃，隔夜后口感与安全性都下降。"
+  ],
+  "origin_note": "萝卜丝凉拌是韩国冬天最常见的小菜，萝卜便宜又耐放，切丝拌辣酱就是一碟。韩国人管它叫무생채，生拌萝卜的意思，和萝卜泡菜一样是过冬必备的味道。",
+  "tags": [
+    "韩国",
+    "韩国料理",
+    "凉拌",
+    "白萝卜",
+    "小菜"
+  ],
+  "related_ids": [
+    "korean-kkakdugi",
+    "korean-kongnamul-muchim",
+    "korean-buchu-muchim"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

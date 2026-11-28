@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-kimchi-gyeran-mari",
+  "name": {
+    "zh": "韩式泡菜鸡蛋卷",
+    "en": "Korean Kimchi Egg Roll"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 18,
+    "total_min": 36
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 260,
+          "unit": "g",
+          "note": "约五枚",
+          "optional": false
+        },
+        {
+          "name": "泡菜",
+          "name_en": "kimchi",
+          "amount": 120,
+          "unit": "g",
+          "note": "挤干切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 2,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 3,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "note": "中和酸味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "打蛋盆",
+    "筷子",
+    "铲",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "泡菜从罐里取出，用手挤掉多余汁水，再切成半厘米的小丁备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "泡菜汁水一定要挤干，否则蛋卷卷不起来还出水。",
+      "visual_cue": "泡菜丁红亮干爽，捏着不滴水"
+    },
+    {
+      "n": 2,
+      "text": "挤干的泡菜丁放碗里，加白糖和香油拌一下，酸味会变得柔和。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "一点糖能压住泡菜的尖酸，甜辣更顺口。",
+      "visual_cue": "泡菜丁油亮，闻着甜辣柔和"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋磕进盆里，加盐打散，用筷子顺一个方向搅到蛋液均匀无絮状物。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蛋液打得越匀，蛋皮越细腻，卷的时候不易破。",
+      "visual_cue": "蛋液顺滑，颜色均匀无丝"
+    },
+    {
+      "n": 4,
+      "text": "洋葱切碎，小葱切葱花，一起拌进蛋液，静置三分钟让味道融合。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "洋葱碎能补足水分并带出甜味，蛋皮会更嫩更有层次。",
+      "visual_cue": "洋葱碎分布均匀，蛋液微稠"
+    },
+    {
+      "n": 5,
+      "text": "平底锅小火倒一半植物油，倒入一半蛋液摊成薄饼，撒上泡菜丁。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "第一层只要薄薄一层，太厚卷的时候会裂。",
+      "visual_cue": "蛋皮半凝固，泡菜丁铺满表面"
+    },
+    {
+      "n": 6,
+      "text": "蛋皮表面刚凝固就用铲子从一侧卷起，卷到锅边为止，不要等全熟。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "半熟时卷才粘得住，全熟再卷会层层分离。",
+      "visual_cue": "蛋卷成型，表面仍带湿润"
+    },
+    {
+      "n": 7,
+      "text": "把蛋卷推回锅中间，再倒入剩余蛋液，重复摊平再卷起的动作两次。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "每次倒蛋液都要等前一层定型，层层叠加才有厚度。",
+      "visual_cue": "蛋卷逐层变粗，颜色均匀"
+    },
+    {
+      "n": 8,
+      "text": "卷好的蛋卷留在锅里小火定型一分钟，出锅稍凉后切厚片，撒上芝麻装盘。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "出锅晾两分钟再切，太烫切会散，太凉切会碎。",
+      "visual_cue": "切面层次分明，红点分布均匀"
+    }
+  ],
+  "tips": [
+    "泡菜一定要挤干汁水再切，汁水留多了蛋卷卷不紧还会出水。挤的时候用双手压，挤到成团不滴。",
+    "蛋液分三次倒、三次卷，每次等前一层半凝固再卷。一次倒完摊厚了，卷起来必定开裂。",
+    "全程小火，锅温高了蛋皮起泡发硬，卷的时候一折就断。",
+    "出锅后晾两分钟再切，刀用湿布擦一下更好切，切面才平整不粘。"
+  ],
+  "common_mistakes": [
+    "泡菜不挤水直接切，蛋卷出水散开。要挤到不滴水。",
+    "一次把蛋液全倒进去，蛋皮太厚卷不起来。要分三次倒。",
+    "中大火煎蛋皮，起泡发硬一卷就裂。必须全程小火。",
+    "刚出锅立刻切，蛋卷散成碎块。要晾两分钟再切。"
+  ],
+  "substitutions": [
+    {
+      "original": "泡菜",
+      "substitute": "辣白菜",
+      "ratio": "120克:120克",
+      "note": "风味相同，酸度略高可多加一克糖。"
+    },
+    {
+      "original": "鸡蛋",
+      "substitute": "鸭蛋",
+      "ratio": "260克:270克",
+      "note": "蛋香更浓，蛋皮偏黄，煎制时间略长。"
+    }
+  ],
+  "variations": [
+    "加一片海苔垫在蛋皮上再卷，切面有黑绿夹层，是韩国便当常见做法。",
+    "把泡菜换成胡萝卜碎和青椒碎，做成不辣的蔬菜蛋卷，孩子更爱吃。",
+    "加一勺芝士碎卷在中间，切开有拉丝，是近年流行的改良版。"
+  ],
+  "serving_suggestion": "蛋卷切成厚片码在盘里，切面金黄夹着红点，咬下去蛋香软嫩、泡菜的酸辣在后面冒出来，冷吃热吃都好。",
+  "storage": "冷藏可放两天，复热用平底锅小火干烙两分钟或微波二十秒；切面出水须当天吃完。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 346,
+    "protein_g": 20,
+    "fat_g": 26,
+    "carbs_g": 8,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "sesame"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须煎至完全凝固后食用；泡菜属腌制食品，含盐较高不宜多食。",
+    "成品冷藏不超过两天，复热须彻底加热；出现酸败味须丢弃。"
+  ],
+  "origin_note": "泡菜鸡蛋卷是韩国便当里的常客，泡菜切碎拌进蛋液，一层层卷起来就是漂亮的切面。韩国妈妈做便当时常备这道菜，切开摆进饭盒，颜色好看又下饭。",
+  "tags": [
+    "韩国",
+    "韩国料理",
+    "鸡蛋",
+    "泡菜",
+    "蛋卷"
+  ],
+  "related_ids": [
+    "korean-egg-roll",
+    "korean-kimchi-jeon",
+    "korean-gyeran-buchim"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-kongnamul-muchim",
+  "name": {
+    "zh": "韩式凉拌黄豆芽",
+    "en": "Korean Seasoned Soybean Sprouts"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 16,
+    "cook_min": 12,
+    "total_min": 28
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "黄豆芽",
+          "name_en": "soybean sprouts",
+          "amount": 300,
+          "unit": "g",
+          "note": "掐去根部",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "压成蒜泥",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 12,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 4,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "上色提辣",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "拌匀",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "焯水",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "漏勺",
+    "拌菜盆",
+    "刀",
+    "砧板",
+    "蒜泥器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "黄豆芽掐掉根部，用清水淘洗两遍，挑掉发褐和断裂的坏芽。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "根部留着口感发柴，掐掉这一步决定成败。",
+      "visual_cue": "豆芽白净饱满，断根处干净不褐"
+    },
+    {
+      "n": 2,
+      "text": "汤锅加清水大火烧开，下豆芽焯五分钟，中途不要盖锅盖。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "盖锅盖会闷出豆腥味，一定要敞着锅盖煮，豆香才留得住。",
+      "visual_cue": "水面大滚，豆芽转半透明色"
+    },
+    {
+      "n": 3,
+      "text": "捞出豆芽马上过一遍凉开水，再用力挤掉多余水分备用。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "挤干水是关键，带水的豆芽拌出来汤汤水水，味道全被稀释。",
+      "visual_cue": "豆芽干爽成团，捏着不出水"
+    },
+    {
+      "n": 4,
+      "text": "大蒜压成蒜泥，小葱切葱花，芝麻放干锅里小火炒到微微跳动。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "芝麻一定要炒香，生芝麻拌进去只有渣感没有香气。",
+      "visual_cue": "芝麻跳起散香，蒜泥细腻粘稠"
+    },
+    {
+      "n": 5,
+      "text": "豆芽放进拌菜盆，加盐和辣椒粉，用手抓匀让颜色挂上每一根。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "辣椒粉先拌，颜色才漂亮，后放只能浮在表面。",
+      "visual_cue": "豆芽均匀染红，颜色透亮"
+    },
+    {
+      "n": 6,
+      "text": "加蒜泥、白糖和香油，从下往上翻拌，别来回搅免得压断豆芽。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香油最后才加，油脂裹住辣味和蒜香，香气久久不散。",
+      "visual_cue": "豆芽油亮发红，蒜香冲鼻"
+    },
+    {
+      "n": 7,
+      "text": "撒葱花和炒香的芝麻翻两下，装盘上桌，配白饭或烤肉都合适。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "拌好就可以吃，放久了豆芽会出水变软。",
+      "visual_cue": "装盘堆成小山，芝麻点点均匀"
+    }
+  ],
+  "tips": [
+    "豆芽焯水后一定要挤干水分，这是凉拌菜成败的第一步。带水的豆芽拌进去，调料全被稀释，半小时就出一盘汤。",
+    "焯水时敞着锅盖煮，豆腥味才散得掉。盖上锅盖闷煮，豆腥味全锁在锅里，拌多少调料都压不住。",
+    "辣椒粉要最先拌进豆芽，靠它的水汽把颜色挂上去。最后才放，只能浮在表面，看着红吃着不辣。",
+    "香油最后加，油脂会把蒜香和辣味裹住。一早倒进去，其他调料就挂不住了。"
+  ],
+  "common_mistakes": [
+    "豆芽焯完不挤水直接拌，成品一汪汤水。必须挤到成团不滴水。",
+    "盖上锅盖焯豆芽，豆腥味重。要敞锅煮并保持大火。",
+    "辣椒粉和香油一起下，颜色挂不上还发暗。辣椒粉要先拌。",
+    "拌好用劲搅，豆芽全断成段。要从下往上翻拌。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄豆芽",
+      "substitute": "绿豆芽",
+      "ratio": "300克:300克",
+      "note": "更细更脆，焯水时间缩到两分钟。"
+    },
+    {
+      "original": "辣椒粉",
+      "substitute": "辣椒酱",
+      "ratio": "5克:12克",
+      "note": "辣味更圆润带甜，颜色偏深红。"
+    }
+  ],
+  "variations": [
+    "加一勺鱼露代替盐，咸鲜更立体，是韩国全罗道的做法。",
+    "把豆芽换成蕨菜干泡发后凉拌，就是韩式蕨菜凉拌，山野气息更浓。",
+    "加半个洋葱切丝同拌，甜脆感和豆芽互补，夏天吃更清爽。"
+  ],
+  "serving_suggestion": "一盘红亮油润的凉拌豆芽端上桌，豆芽脆生生的，咬下去先辣后香、尾段带着香油和蒜的暖，配白饭最下饭。",
+  "storage": "冷藏可放两天，拌好后两小时内风味最佳；出水多时倒掉汤汁再拌一次香油。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 96,
+    "protein_g": 6,
+    "fat_g": 6,
+    "carbs_g": 6,
+    "sodium_mg": 380,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "gluten-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "黄豆芽须焯至完全熟透、断面不生后食用，生豆芽可能带细菌。",
+    "成品冷藏不超过两天，出现酸味或黏液须丢弃。"
+  ],
+  "origin_note": "凉拌黄豆芽是韩国餐桌上的基本小菜，一顿饭不管主菜是什么，这小碟总在旁边。韩国人煮汤剩下的豆芽拌上蒜泥辣椒粉，几分钟就是一碟，简单却最见功夫。",
+  "tags": [
+    "韩国",
+    "韩国料理",
+    "凉拌",
+    "黄豆芽",
+    "小菜"
+  ],
+  "related_ids": [
+    "korean-kongnamul-guk",
+    "korean-sigeumchi-namul",
+    "korean-gaji-namul"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
