@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-hongshao-yukuai",
+  "name": {
+    "zh": "浙式红烧鱼块",
+    "en": "Zhejiang Braised Fish Chunks"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 24,
+    "cook_min": 27,
+    "total_min": 51
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 700,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 35,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "绍兴酒",
+          "name_en": "Shaoxing wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 12,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "腌制",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍粉",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 70,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "锅铲",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去鳞去内脏洗净，切成五厘米见方的块，用盐和绍兴酒抓匀腌十分钟。",
+      "time_min": 16,
+      "heat": "无火",
+      "tip": "鱼块别切太小，煎的时候容易碎散。",
+      "visual_cue": "鱼块洁白挺立，表面微微出水"
+    },
+    {
+      "n": 2,
+      "text": "鱼块用厨房纸吸干水分，两面薄薄拍一层淀粉，抖掉多余的粉。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "拍薄粉锁住水分，煎时皮不破也不粘锅。",
+      "visual_cue": "鱼块表面干爽，粉层薄而均匀"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油烧到六成热，鱼块皮朝下摆入，中火煎到两面金黄。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "下锅后先别动，等定型再翻面才不会破皮。",
+      "visual_cue": "鱼块两面金黄，边缘微焦挺括"
+    },
+    {
+      "n": 4,
+      "text": "拨开鱼块下姜片、蒜碎与葱白爆香，淋绍兴酒，加生抽、老抽和清水。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "调料沿锅边淋入，香气才激得出来。",
+      "visual_cue": "酱汁沸腾冒泡，汤色红亮"
+    },
+    {
+      "n": 5,
+      "text": "加白砂糖转小火加盖烧十分钟，中途轻推锅底防粘，收汁撒葱段出锅。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "收汁用小火慢推，鱼块才完整不散。",
+      "visual_cue": "汤汁浓稠挂勺，鱼块完整油亮"
+    }
+  ],
+  "tips": [
+    "鱼块一定要吸干水分再拍粉，否则下锅就粘。",
+    "煎鱼时别急着翻面，等定型再动，皮才完整。",
+    "烧的时候用小火，大火滚会把鱼块冲散。",
+    "绍兴酒沿锅边淋入，去腥效果比直接倒进汤里强。"
+  ],
+  "common_mistakes": [
+    "鱼块带水下锅，油花四溅还粘得锅底一层。",
+    "反复翻动鱼块，最后全部碎成小块。",
+    "淀粉拍得太厚，烧出来外皮糊嘟嘟的。",
+    "大火收汁，汤汁糊底发苦还带焦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲤鱼",
+      "ratio": "700克:700克",
+      "note": "肉质更紧，烧的时间加两分钟。"
+    },
+    {
+      "original": "绍兴酒",
+      "substitute": "黄酒",
+      "ratio": "30毫升:30毫升",
+      "note": "香气略淡，去腥效果接近。"
+    }
+  ],
+  "variations": [
+    "烧的时候加一把泡软的干香菇，鲜味更足。",
+    "最后淋一勺香醋，酸香解腻，很浙式的做法。",
+    "改用鲫鱼整条烧，不去头尾，摆盘更有面子也更像宴客菜。"
+  ],
+  "serving_suggestion": "鱼块盛在长盘里，淋上锅里的红烧汁，撒葱段与少许胡椒粉，配米饭吃最下饭。",
+  "storage": "冷藏可放一天，复热用小火加两勺水烧开，微波加热会让鱼肉变老。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 412,
+    "protein_g": 38,
+    "fat_g": 24,
+    "carbs_g": 12,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "鱼肉须烧至完全变白不透明、中心熟透；鱼刺较多，老人儿童食用需注意。",
+    "成品冷藏不超过一天，复热须彻底加热至汤滚肉热。"
+  ],
+  "origin_note": "浙式红烧鱼块是江南人家最常见的家常做法，鱼块拍薄粉先煎定型，再用酱油和酒小火慢烧，最后收成一层油亮的红汁。鱼肉嫩、外皮香，汤汁拿来自拌饭是一绝。",
+  "tags": [
+    "浙菜",
+    "河鲜",
+    "红烧",
+    "家常菜"
+  ],
+  "related_ids": [
+    "xihu-cuyu",
+    "zhejiang-qingzheng-luyu",
+    "zhejiang-qingzheng-baoyu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

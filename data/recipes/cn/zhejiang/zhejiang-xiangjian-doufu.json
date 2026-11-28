@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-xiangjian-doufu",
+  "name": {
+    "zh": "浙式香煎豆腐",
+    "en": "Zhejiang Pan-fried Tofu"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 23,
+    "total_min": 33
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 500,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 80,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调整",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "碗",
+    "厨房纸"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "老豆腐切成一点五厘米厚的方片，用厨房纸吸干表面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "水分吸干才煎得脆，不然只会粘锅溅油。",
+      "visual_cue": "豆腐片表面干爽，边角整齐"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒植物油烧到六成热，豆腐片平铺下锅，中火煎四分钟。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "下锅后别急着翻，等底面结壳再动。",
+      "visual_cue": "底面金黄结壳，边缘微焦"
+    },
+    {
+      "n": 3,
+      "text": "翻面继续煎三分钟至两面金黄，盛出放在漏勺上沥掉多余油分。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "煎到两面硬壳，后面烧的时候才不会碎。",
+      "visual_cue": "两面金黄挺括，轻敲有脆感"
+    },
+    {
+      "n": 4,
+      "text": "锅里留一层底油，下姜末与蒜末小火慢慢炒出香味。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "蒜末容易糊，小火炒香就够。",
+      "visual_cue": "蒜末微黄，香气扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "加生抽、老抽、白砂糖与清水烧开，放回豆腐小火焖四分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "焖四分钟让豆腐吸味，时间短了里面还是淡的。",
+      "visual_cue": "汤汁渗入豆腐，表面油亮"
+    },
+    {
+      "n": 6,
+      "text": "转大火收汁，淋芝麻油，撒葱花与少许盐调味即可出锅。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "收汁时轻推锅子，别用铲子翻豆腐。",
+      "visual_cue": "汤汁浓亮裹住豆腐，葱花点缀"
+    }
+  ],
+  "tips": [
+    "豆腐吸干水分再煎，才能煎出脆壳不粘锅。",
+    "煎的时候别急着翻面，结壳了自然会脱锅。",
+    "先煎后焖，外壳吸汁里面还是嫩的。",
+    "收汁用推锅的方式，铲子一翻豆腐就碎。"
+  ],
+  "common_mistakes": [
+    "豆腐带水下锅，油溅得满灶台还粘锅。",
+    "急着翻面，豆腐皮全粘在锅上破相。",
+    "焖的时间太短，汤汁只在表面，里面还是白味。",
+    "用铲子大力翻炒，豆腐碎成一锅渣。"
+  ],
+  "substitutions": [
+    {
+      "original": "老豆腐",
+      "substitute": "北豆腐",
+      "ratio": "500克:500克",
+      "note": "质地接近，煎的时间相同。"
+    },
+    {
+      "original": "植物油",
+      "substitute": "猪油",
+      "ratio": "60毫升:50克",
+      "note": "香气更浓，成品更酥。"
+    }
+  ],
+  "variations": [
+    "煎好后淋一勺辣椒油，微辣更下饭。",
+    "焖的时候加几片泡软的香菇，鲜味更足，汤汁也更浓。",
+    "最后撒一把虾米，咸香层次更丰富。"
+  ],
+  "serving_suggestion": "豆腐整齐码在盘里，浇上浓亮的酱汁，撒葱花，配白米饭吃最香，做冷盘下酒也不错。",
+  "storage": "冷藏可放一天，复热用平底锅小火两面各煎一分钟，恢复外脆内嫩。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 316,
+    "protein_g": 18,
+    "fat_g": 22,
+    "carbs_g": 9,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆腐须煎透焖透；含豆制品与酱油，过敏者慎食。",
+    "成品冷藏不超过一天，复热须彻底加热。"
+  ],
+  "origin_note": "香煎豆腐是浙江人家最普通的家常菜，老豆腐切片煎到两面起了脆壳，再淋上酱油糖水焖几分钟。外层吸饱汤汁，里面还是嫩的，一口咬下先脆后软，配白饭能吃两碗。",
+  "tags": [
+    "浙菜",
+    "豆腐",
+    "煎制",
+    "家常菜"
+  ],
+  "related_ids": [
+    "zhejiang-congyou-doufu",
+    "zhejiang-dongpo-doufu",
+    "zhejiang-xiaocong-bandoufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

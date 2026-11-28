@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:35:53.738Z",
+  "generatedAt": "2026-11-28T11:54:21.991Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2959,
-    "coverage": 0.903787416004887
+    "actual": 2967,
+    "coverage": 0.9062309102015883
   },
   "regions": {
     "cn": [
@@ -989,13 +989,13 @@
         "en": "Zhejiang",
         "tier": "A",
         "target": 107,
-        "actual": 98,
+        "actual": 106,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "congyou-xia",
               "longjing-xiaren",
@@ -1004,6 +1004,7 @@
               "xuecai-datang-huangyu",
               "zhejiang-congyou-yu",
               "zhejiang-ganjian-daiyu",
+              "zhejiang-hongshao-yukuai",
               "zhejiang-qingzheng-baoyu",
               "zhejiang-qingzheng-luyu",
               "zhejiang-shaoxing-zui-xia",
@@ -1015,7 +1016,7 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "dongpo-rou",
               "meigancai-kourou",
@@ -1023,6 +1024,7 @@
               "sun-shao-rou",
               "zhejiang-furu-rou",
               "zhejiang-gancai-menrou",
+              "zhejiang-hongshao-paigu",
               "zhejiang-jiang-ya",
               "zhejiang-meigan-cai-kourou-wan",
               "zhejiang-meigancai-zheng-rou",
@@ -1034,7 +1036,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "huotui-donggua-tang",
               "jinzhengu-doufu-tang",
@@ -1044,6 +1046,7 @@
               "xuecai-datang-huangyu",
               "zhejiang-chuncai-xiaren-geng",
               "zhejiang-donggua-xiawan-tang",
+              "zhejiang-dongsun-doufu-tang",
               "zhejiang-sanxian-tang",
               "zhejiang-xianrou-donggua-geng",
               "zhejiang-yanduxian",
@@ -1054,7 +1057,7 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "jiaxing-zongzi",
               "ningbo-xiechao-niangao",
@@ -1065,6 +1068,7 @@
               "zhejiang-caifan",
               "zhejiang-hongzao-nuomifan",
               "zhejiang-meigancai-chaofan",
+              "zhejiang-paigu-fan",
               "zhejiang-xianrou-wandou-fan",
               "zhejiang-xianrou-zongzi"
             ]
@@ -1073,7 +1077,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "dingsheng-gao",
               "guihua-nuomiyu",
@@ -1086,6 +1090,7 @@
               "zhejiang-guihua-tangyutou",
               "zhejiang-hongtang-fagao",
               "zhejiang-lvdou-gao",
+              "zhejiang-nangua-bing",
               "zhejiang-qingtuan",
               "zhejiang-yin-er-geng"
             ]
@@ -1094,24 +1099,26 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "xianggu-qingcai",
               "youmen-shunsun",
               "zhejiang-kaocai",
               "zhejiang-xuecai-dongsun",
               "zhejiang-youmen-biqi",
-              "zhejiang-youmen-jiaobai"
+              "zhejiang-youmen-jiaobai",
+              "zhejiang-yumi-chaoding"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "zhejiang-hongshao-dan",
               "zhejiang-jiucai-chaodan",
+              "zhejiang-sanxian-zhengdan",
               "zhejiang-xianggu-chaodan",
               "zhejiang-xianyadan-nangua",
               "zhejiang-xiaren-zhengdan",
@@ -1122,13 +1129,14 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "zhejiang-caixin-shao-doufu",
               "zhejiang-congyou-doufu",
               "zhejiang-dongpo-doufu",
               "zhejiang-hongshao-doufu",
               "zhejiang-sushaoe",
+              "zhejiang-xiangjian-doufu",
               "zhejiang-xiaocong-bandoufu"
             ]
           },

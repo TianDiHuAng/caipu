@@ -1,0 +1,260 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "zhejiang-hongshao-paigu",
+  "name": {
+    "zh": "浙式红烧排骨",
+    "en": "Zhejiang Braised Spareribs"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "zhejiang"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 21,
+    "cook_min": 63,
+    "total_min": 84
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 800,
+          "unit": "g",
+          "note": "斩段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 600,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 12,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "绍兴酒",
+          "name_en": "Shaoxing wine",
+          "amount": 40,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "糖色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调整",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "碗",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨斩成五厘米段，冷水下锅加姜片与料酒，煮开后撇净浮沫捞出冲净。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "冷水下锅才能把血水逼出来，热水下锅会腥。",
+      "visual_cue": "排骨断面无血水，汤面浮沫撇净"
+    },
+    {
+      "n": 2,
+      "text": "焯好的排骨用温水冲一遍，沥干水分，挑掉碎骨渣。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "用温水冲不缩肉，冷水一激肉质会变紧。",
+      "visual_cue": "排骨表面干净，块块骨肉分明"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油小火化开冰糖，炒到枣红色冒小泡。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "糖色一变枣红就要下排骨，再等就发苦。",
+      "visual_cue": "糖液枣红透亮，边缘起细密小泡"
+    },
+    {
+      "n": 4,
+      "text": "下排骨快速翻炒裹上糖色，加姜片、蒜碎、葱结、生抽、老抽与绍兴酒。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "排骨要炒到每块都挂色，成品才红亮。",
+      "visual_cue": "排骨均匀上色，锅底酱汁红亮"
+    },
+    {
+      "n": 5,
+      "text": "倒入清水没过排骨，大火煮开转小火加盖烧四十分钟至软烂。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "小火慢烧肉才酥，火大会外面烂里面硬。",
+      "visual_cue": "筷子能轻松插入肉层，汤面微滚"
+    },
+    {
+      "n": 6,
+      "text": "开盖转中火收汁，边收边翻动让酱汁裹匀，加盐调整咸淡后撒葱花。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "收汁时勤翻动，糖分容易糊在锅底。",
+      "visual_cue": "汤汁浓稠油亮，排骨红外发亮"
+    }
+  ],
+  "tips": [
+    "排骨冷水下锅焯，血水逼得干净才不腥。",
+    "炒糖色宁浅勿深，颜色一过就带苦味。",
+    "烧的时间一定给足，四十分钟肉才酥而不散。",
+    "收汁阶段要守着锅，糖分一焦整锅都苦。"
+  ],
+  "common_mistakes": [
+    "热水下锅焯排骨，血水锁在里面，成品发腥。",
+    "糖色炒过头，发黑发苦，整锅菜都毁。",
+    "烧的时间不够，肉咬不动还挂牙，白费一锅好料。",
+    "收汁不翻动，锅底糊一层，排骨带焦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "排骨",
+      "substitute": "五花肉",
+      "ratio": "800克:700克",
+      "note": "烧的时间减十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白砂糖",
+      "ratio": "30克:25克",
+      "note": "上色略浅，甜度接近。"
+    }
+  ],
+  "variations": [
+    "加几块油豆腐同烧，吸满肉汁特别好吃。",
+    "放一小段桂皮和两颗八角，香气更复合。",
+    "收汁前加一勺香醋，酸甜口更开胃。"
+  ],
+  "serving_suggestion": "排骨码在盘里，浇上浓稠的酱汁，配一碗白米饭和一碟清炒青菜，是浙江人家过节的标准搭配。",
+  "storage": "冷藏可放两天，复热加两勺水小火焖五分钟，蒸热口感更好。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 648,
+    "protein_g": 36,
+    "fat_g": 46,
+    "carbs_g": 18,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "排骨须烧至肉层完全熟透、骨边无血水；肉制品冷藏不超过两天。",
+    "复热须彻底加热至中心发烫，不可反复多次加热。"
+  ],
+  "origin_note": "浙式红烧排骨讲究糖色红亮、肉酥而不散，和北方偏咸的烧法比，江南这一带糖下得更足，收出来的汁稠而甜。排骨烧到筷子一插就入，酱汁拌饭能吃两碗，是浙江人从小吃到大的味道。",
+  "tags": [
+    "浙菜",
+    "猪肉",
+    "红烧",
+    "家常菜"
+  ],
+  "related_ids": [
+    "sun-shao-rou",
+    "dongpo-rou",
+    "zhejiang-furu-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
