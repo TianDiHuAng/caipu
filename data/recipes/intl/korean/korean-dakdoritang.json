@@ -1,0 +1,312 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-dakdoritang",
+  "name": {
+    "zh": "韩式辣炖鸡块",
+    "en": "Korean Spicy Braised Chicken"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 32,
+    "cook_min": 48,
+    "total_min": 80
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "整鸡",
+          "name_en": "whole chicken",
+          "amount": 1200,
+          "unit": "g",
+          "note": "斩块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 320,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 200,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 40,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 25,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "红辣椒",
+          "name_en": "red chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "韩式辣椒酱",
+          "name_en": "gochujang",
+          "amount": 35,
+          "unit": "g",
+          "note": "主味",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 15,
+          "unit": "g",
+          "note": "提辣增色",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 35,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 18,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "刀",
+    "砧板",
+    "铲",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "整鸡斩成四厘米见方的块，冲去血水后用厨房纸吸干表面水分。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "块要大小一致，小的炖烂了大的还没熟。",
+      "visual_cue": "鸡块大小均匀，表面干爽"
+    },
+    {
+      "n": 2,
+      "text": "鸡块放碗里加辣椒粉、浓口酱油、一半蒜末和黑胡椒抓匀，腌十五分钟。",
+      "time_min": 17,
+      "heat": "无火",
+      "tip": "腌够时间底味才进得去，只靠炖汤汁味只在表面。",
+      "visual_cue": "鸡块裹满红褐色腌料，发黏"
+    },
+    {
+      "n": 3,
+      "text": "土豆和胡萝卜去皮切滚刀块，泡在清水里防止氧化发黑。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "土豆块别切太小，炖久了会化在汤里。",
+      "visual_cue": "块状规整，泡水后颜色清亮"
+    },
+    {
+      "n": 4,
+      "text": "洋葱切大块，大葱切段，红辣椒切段，大蒜切末备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洋葱要切成大块，久炖之后依然成形不会散在汤里。",
+      "visual_cue": "洋葱块完整，层次分明"
+    },
+    {
+      "n": 5,
+      "text": "炖锅烧热倒香油，中火下剩余蒜末炒香，倒入腌好的鸡块翻炒三分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "鸡块要炒到表面变色收紧，锁住里面的汁水。",
+      "visual_cue": "鸡块表面变白，边缘微焦"
+    },
+    {
+      "n": 6,
+      "text": "加韩式辣椒酱和白糖翻炒均匀，让每块鸡都裹上红亮的酱色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "辣椒酱下锅后火转小，糖分容易糊底。",
+      "visual_cue": "鸡块通体酱红，锅底泛油光"
+    },
+    {
+      "n": 7,
+      "text": "倒入清水没过鸡块，大火烧开后转中小火盖盖炖十五分钟。",
+      "time_min": 18,
+      "heat": "中小火",
+      "tip": "水一次加足，中途添水会让汤味变淡。",
+      "visual_cue": "汤面微微起泡，红油浮在上层"
+    },
+    {
+      "n": 8,
+      "text": "放入土豆块和胡萝卜块，再炖十二分钟至土豆能用筷子轻松插入。",
+      "time_min": 13,
+      "heat": "中小火",
+      "tip": "土豆一定要后放，提早下锅会炖成泥，把汤汁弄得浑浊。",
+      "visual_cue": "土豆棱角圆钝，筷子可插入"
+    },
+    {
+      "n": 9,
+      "text": "放洋葱块和红辣椒段再炖三分钟，汤汁收到略稠时撒大葱段关火。",
+      "time_min": 4,
+      "heat": "中大火",
+      "tip": "收汁时要勤翻锅底，酱汁里含糖多，很容易糊锅发苦。",
+      "visual_cue": "汤汁浓亮裹块，葱段翠绿"
+    }
+  ],
+  "tips": [
+    "鸡块先腌十五分钟再炖，底味才进得去。不腌直接炖，味道只停在表面。",
+    "土豆要后放。和鸡块一起下锅炖二十分钟，早就化成泥，汤也浑了。",
+    "水一次加足没过鸡块。中途添水会把炖出的浓味冲淡，汤就不香了。",
+    "最后收汁要用中大火并勤翻底，辣椒酱和白糖容易沉底糊锅发苦。"
+  ],
+  "common_mistakes": [
+    "鸡块大小不匀，小的烂了大的还生。要斩成四厘米见方。",
+    "不腌直接炖，只有表面有味。要先腌十五分钟。",
+    "土豆和鸡一起下锅，炖成泥汤浑。要后放。",
+    "收汁时不翻底，酱汁糊锅发苦。要勤翻并调小火。"
+  ],
+  "substitutions": [
+    {
+      "original": "整鸡",
+      "substitute": "鸡腿肉",
+      "ratio": "1200克:1000克",
+      "note": "肉更厚实，炖制时间缩短五分钟。"
+    },
+    {
+      "original": "韩式辣椒酱",
+      "substitute": "辣椒粉加韩式大酱",
+      "ratio": "35克:15克加20克",
+      "note": "辣味更沉，酱香更重。"
+    }
+  ],
+  "variations": [
+    "加一把年糕片同炖，吸饱辣汤后软糯弹牙，是韩国年轻人的吃法。",
+    "把土豆换成南瓜块，甜味更突出，汤汁也更浓稠。",
+    "吃完鸡肉后剩的汤下一把面条或拌饭，一点不浪费。"
+  ],
+  "serving_suggestion": "一锅红亮的炖鸡，鸡块油润、土豆边缘炖得圆钝，汤汁浓稠地挂在每一块上，撒着翠绿葱段，热气腾腾冒着辣香。",
+  "storage": "冷藏可放两天，复热小火加两勺水焖五分钟；土豆隔夜会吸汤变咸，需适量稀释。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 578,
+    "protein_g": 44,
+    "fat_g": 28,
+    "carbs_g": 32,
+    "sodium_mg": 1120,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡块须炖至骨头周围不见血水、肉能轻松脱骨后食用。",
+    "成品冷藏不超过两天，复热须彻底加热至滚汤状态。"
+  ],
+  "origin_note": "辣炖鸡块是韩国家常菜里的重口味代表，鸡块和土豆在红汤里炖得酥烂。韩国人叫它닭도리탕，名字里的도리来自日语，是日据时期留下的叫法，如今不少店改叫닭볶음탕。",
+  "tags": [
+    "韩国",
+    "韩国料理",
+    "炖鸡",
+    "辣炖",
+    "土豆"
+  ],
+  "related_ids": [
+    "korean-jeyuk-gui",
+    "korean-samgyetang",
+    "korean-galbi-jjim"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

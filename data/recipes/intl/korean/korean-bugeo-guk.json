@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-bugeo-guk",
+  "name": {
+    "zh": "韩式鳕鱼萝卜汤",
+    "en": "Korean Cod and Radish Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 26,
+    "cook_min": 32,
+    "total_min": 58
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鳕鱼",
+          "name_en": "cod",
+          "amount": 520,
+          "unit": "g",
+          "note": "切厚块",
+          "optional": false
+        },
+        {
+          "name": "白萝卜",
+          "name_en": "daikon radish",
+          "amount": 300,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切斜段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 55,
+          "unit": "g",
+          "note": "约一枚",
+          "optional": false
+        },
+        {
+          "name": "红辣椒",
+          "name_en": "red chili",
+          "amount": 8,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 8,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "打蛋盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "白萝卜去皮切成两毫米的薄片，薄片才容易炖出甜味和清汤。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "萝卜片切薄，十五分钟就能炖透出甜。",
+      "visual_cue": "萝卜片半透明，厚薄均匀"
+    },
+    {
+      "n": 2,
+      "text": "鳕鱼块用清水冲一遍，用厨房纸吸干表面水分，撒一点盐和黑胡椒。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "鱼块要吸干水，下锅才不腥也不溅油。",
+      "visual_cue": "鱼块干爽，表面微撒调料"
+    },
+    {
+      "n": 3,
+      "text": "汤锅烧热倒香油，下蒜末小火炒十秒炒出香味，别炒到变色。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "蒜末只炒香不上色，炒黄了汤会发苦。",
+      "visual_cue": "蒜末微黄边缘，香气散出"
+    },
+    {
+      "n": 4,
+      "text": "倒入清水和萝卜片，大火烧开后转中火煮十二分钟，煮到萝卜透明。",
+      "time_min": 15,
+      "heat": "中火",
+      "tip": "萝卜先煮软，汤底才有回甘，鱼也不容易碎。",
+      "visual_cue": "萝卜片透明，汤色微白"
+    },
+    {
+      "n": 5,
+      "text": "放入鳕鱼块，转小火保持汤面微沸，煮六分钟至鱼肉变白。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "鱼块下锅后别用勺搅，晃锅就行，鱼肉太嫩易碎。",
+      "visual_cue": "鱼肉转白，边缘微微分离"
+    },
+    {
+      "n": 6,
+      "text": "鸡蛋打散，沿锅边慢慢淋入汤里，静置十秒再轻轻推开成蛋花。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "蛋液淋下别马上搅，定型后推才成漂亮蛋花。",
+      "visual_cue": "蛋花薄片状，浮在汤面"
+    },
+    {
+      "n": 7,
+      "text": "加盐调味，撒大葱斜段和红辣椒圈，再煮半分钟关火。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "盐一定要最后放，提早加盐会让鱼肉紧缩变硬没弹性。",
+      "visual_cue": "汤清可见碗底，葱段翠绿漂浮"
+    },
+    {
+      "n": 8,
+      "text": "盛进汤碗，撒黑胡椒，配一碗白饭趁热喝，鱼块和萝卜一起入口。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "黑胡椒要关火后再撒，久煮会失去那股辛香只剩苦味。",
+      "visual_cue": "汤面油花细密，热气腾腾"
+    }
+  ],
+  "tips": [
+    "白萝卜切薄片，十二分钟就能炖到透明。切厚了要多煮一倍时间，鱼块早就散了。",
+    "鳕鱼下锅后别用勺子搅，端着锅轻轻晃。鱼肉太嫩，一搅就碎成渣。",
+    "蛋液沿锅边淋入后静置十秒再推，蛋花才成薄片。立刻搅会变成蛋糊。",
+    "盐一定最后放。提前加盐会让鱼肉蛋白质收紧，煮出来发硬没弹性。"
+  ],
+  "common_mistakes": [
+    "萝卜切太厚，炖不透汤不甜。要切两毫米薄片。",
+    "鱼块下锅后用勺搅，鱼肉碎成渣。要晃锅不搅。",
+    "蛋液入锅马上搅，变成蛋糊。要静置定型再推。",
+    "提早放盐，鱼肉紧缩发硬。要最后调味。"
+  ],
+  "substitutions": [
+    {
+      "original": "鳕鱼",
+      "substitute": "银鳕鱼",
+      "ratio": "520克:520克",
+      "note": "油脂更多，汤更香，煮制时间缩短一分钟。"
+    },
+    {
+      "original": "白萝卜",
+      "substitute": "青萝卜",
+      "ratio": "300克:300克",
+      "note": "甜味略淡，可加两克白糖补味。"
+    }
+  ],
+  "variations": [
+    "加一小把海带同煮，鲜味更浓，是最接近韩国海边做法的一版。",
+    "把鸡蛋换成嫩豆腐块，汤更清爽，适合夏天喝。",
+    "加一勺韩式大酱同煮，汤色变深，风味更粗犷。"
+  ],
+  "serving_suggestion": "一碗清亮见底的汤，白萝卜片透亮，鳕鱼块雪白厚实，蛋花薄薄浮在汤面，撒着翠绿葱段和红椒圈，喝起来鲜甜不腥。",
+  "storage": "冷藏可放一天，复热须小火加热至沸腾并保持两分钟；鱼块不宜反复加热，易碎。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 268,
+    "protein_g": 30,
+    "fat_g": 11,
+    "carbs_g": 11,
+    "sodium_mg": 740,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "sesame"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "pescatarian",
+    "gluten-free",
+    "low-carb",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鳕鱼须煮至肉质完全变白、能轻松脱骨后食用，生鱼可能带寄生虫。",
+    "成品冷藏不超过一天，复热须加热至滚开；隔夜鱼汤易腥，建议当餐吃完。"
+  ],
+  "origin_note": "鳕鱼萝卜汤是韩国家庭冬天常煮的清汤，萝卜炖出的甜味托着鱼肉的鲜，汤清不油。韩国人叫它북엇국或대구탕，喝完胃里暖烘烘的。",
+  "tags": [
+    "韩国",
+    "韩国料理",
+    "鳕鱼",
+    "萝卜",
+    "清汤"
+  ],
+  "related_ids": [
+    "korean-miyuk-guk",
+    "korean-kongnamul-guk",
+    "korean-sogogi-muguk"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

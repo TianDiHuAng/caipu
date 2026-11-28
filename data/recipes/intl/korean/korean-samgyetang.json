@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-samgyetang",
+  "name": {
+    "zh": "韩式参鸡汤",
+    "en": "Korean Ginseng Chicken Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 158,
+    "cook_min": 90,
+    "total_min": 248
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "整鸡",
+          "name_en": "whole chicken",
+          "amount": 1100,
+          "unit": "g",
+          "note": "去头去爪",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "糯米",
+          "name_en": "glutinous rice",
+          "amount": 90,
+          "unit": "g",
+          "note": "提前浸泡",
+          "optional": false
+        },
+        {
+          "name": "红枣",
+          "name_en": "red date",
+          "amount": 30,
+          "unit": "g",
+          "note": "去核",
+          "optional": false
+        },
+        {
+          "name": "栗子",
+          "name_en": "chestnut",
+          "amount": 60,
+          "unit": "g",
+          "note": "去壳",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 40,
+          "unit": "g",
+          "note": "整瓣",
+          "optional": false
+        },
+        {
+          "name": "大葱",
+          "name_en": "Welsh onion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2200,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "棉线",
+    "大汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "糯米提前用清水泡两小时，泡到用手指一捻就碎，捞起沥干备用。",
+      "time_min": 125,
+      "heat": "无火",
+      "tip": "糯米不泡透，塞进鸡肚里炖不熟还发硬。",
+      "visual_cue": "糯米饱满发白，一捻即碎"
+    },
+    {
+      "n": 2,
+      "text": "整鸡冲洗干净，撕掉腹腔里的肥油块，用厨房纸把内外都擦干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腹腔里的肥油要撕掉，留着汤会发浑发腻。",
+      "visual_cue": "鸡身白净干爽，腹腔无血块"
+    },
+    {
+      "n": 3,
+      "text": "红枣去核，栗子去壳，大蒜剥成整瓣，生姜切片，大葱切长段。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "红枣去核才不燥，栗子去壳时别弄碎。",
+      "visual_cue": "配料摆放整齐，栗子颗颗完整"
+    },
+    {
+      "n": 4,
+      "text": "把泡好的糯米、一半红枣、一半栗子和一半蒜瓣从鸡尾开口塞进腹腔。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "只能塞七分满，糯米煮涨会把外层表皮撑破。",
+      "visual_cue": "鸡腹鼓起，开口处能看到米粒"
+    },
+    {
+      "n": 5,
+      "text": "用棉线把两条腿交叉绑住，开口缝紧，防止炖的时候糯米漏出来。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "棉线要绑得紧实一些，一旦漏了米汤整锅汤就浑了。",
+      "visual_cue": "鸡身下段并拢绑紧，形态整圆"
+    },
+    {
+      "n": 6,
+      "text": "汤锅放整鸡，倒入清水没过鸡身两指，大火烧开后撇净表面的浮沫。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "浮沫要撇干净，不然汤色发灰还带腥。",
+      "visual_cue": "汤面清亮，浮沫撇得干净"
+    },
+    {
+      "n": 7,
+      "text": "转小火放姜片和剩余蒜瓣，盖盖炖五十分钟，中途不要开盖搅动。",
+      "time_min": 50,
+      "heat": "小火",
+      "tip": "小火慢炖，汤面只是微微冒泡，外层表皮才不破。",
+      "visual_cue": "汤面微沸，鸡身完整不破皮"
+    },
+    {
+      "n": 8,
+      "text": "放入剩余红枣和栗子再炖十五分钟，闻到浓郁的鸡香和枣甜味即可。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "红枣要后放，炖太久会烂成泥，把清亮的汤底弄浑。",
+      "visual_cue": "红枣颗颗鼓起，栗子软糯发亮"
+    },
+    {
+      "n": 9,
+      "text": "起锅前放盐和黑胡椒调味，撒大葱段，连锅端上桌趁热喝汤吃肉。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "盐一定最后放，早放鸡肉会紧缩发柴。",
+      "visual_cue": "汤色清亮微黄，油花点点"
+    }
+  ],
+  "tips": [
+    "糯米要塞七分满。糯米煮开会膨胀，塞得太满会把鸡皮撑破，汤就浑了。",
+    "全程小火慢炖，汤面只微微冒泡。大火滚煮鸡皮容易破，鸡肉也会发柴。",
+    "盐最后放。提前加盐会让鸡肉的蛋白质收紧，炖再久也硬。",
+    "鸡腹里的肥油块一定撕干净，留着整锅汤都会发腻，还带一股腥味。"
+  ],
+  "common_mistakes": [
+    "糯米不泡直接塞，炖不熟还发硬。要泡两小时。",
+    "鸡肚塞满糯米，煮涨撑破鸡皮。要塞七分满。",
+    "大火滚炖，鸡皮破裂肉发柴。要小火慢炖。",
+    "一开始就放盐，鸡肉紧缩。要最后调味。"
+  ],
+  "substitutions": [
+    {
+      "original": "整鸡",
+      "substitute": "童子鸡",
+      "ratio": "1100克:900克",
+      "note": "肉质更嫩，炖制时间可缩短十五分钟。"
+    },
+    {
+      "original": "栗子",
+      "substitute": "山药",
+      "ratio": "60克:100克",
+      "note": "口感更绵，汤色略稠。"
+    }
+  ],
+  "variations": [
+    "塞一小段黄芪同炖，药香更足，是韩国夏天的进补做法。",
+    "把糯米换成小米，口感更细，汤也更清。",
+    "炖好后下一小把面条同煮，就是韩国人吃的鸡汤面。"
+  ],
+  "serving_suggestion": "整只鸡卧在清亮的汤里，鸡皮完整泛着油光，一勺舀开露出软糯的糯米和红枣，汤清味浓、鸡肉一抿就脱骨。",
+  "storage": "冷藏可放两天，复热须小火慢加热至沸腾并保持三分钟；糯米会吸汤，复热时补少量清水。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 648,
+    "protein_g": 48,
+    "fat_g": 26,
+    "carbs_g": 52,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "tree-nut"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "整鸡须炖至大腿最厚处中心温度达到七十四摄氏度以上、无血水后食用。",
+    "成品冷藏不超过两天，复热须彻底加热至滚开；鸡汤不宜反复加热。"
+  ],
+  "origin_note": "参鸡汤是韩国三伏天必吃的滋补菜，一只小鸡塞满糯米和红枣，整只炖到骨肉分离。韩国人相信夏天出汗多要补气，所以在最热的日子排队吃它。",
+  "tags": [
+    "韩国",
+    "韩国料理",
+    "参鸡汤",
+    "整鸡",
+    "滋补"
+  ],
+  "related_ids": [
+    "korean-galbi-jjim",
+    "korean-dakdoritang",
+    "korean-doenjang-jjigae"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

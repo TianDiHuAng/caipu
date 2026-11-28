@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-yachae-bokkeumbap",
+  "name": {
+    "zh": "韩式蔬菜炒饭",
+    "en": "Korean Vegetable Fried Rice"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 500,
+          "unit": "g",
+          "note": "隔夜冷饭",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 110,
+          "unit": "g",
+          "note": "约两枚",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 50,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "浓口酱油",
+          "name_en": "dark soy sauce (koikuchi)",
+          "amount": 12,
+          "unit": "ml",
+          "note": "咸鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 1,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "铲",
+    "碗",
+    "打蛋盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "隔夜冷饭提前用手抓散，把结块的饭粒掰开，粒粒分开才好炒。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "冷饭抓散是炒饭的第一关，结块下锅炒不散。",
+      "visual_cue": "饭粒松散分离，不见结块"
+    },
+    {
+      "n": 2,
+      "text": "胡萝卜、洋葱、青椒都切成半厘米的小丁，大小一致才熟得匀。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "丁切大了炒不熟，切太小又出水，半厘米最合适。",
+      "visual_cue": "三种丁大小均匀，色彩分明"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋磕进碗里加一小撮盐打散，小葱切葱花，大蒜切末备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蛋液打匀不出丝，炒出来才嫩滑不成块。",
+      "visual_cue": "蛋液均匀浅黄，不见蛋丝"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热倒一半植物油，倒入蛋液，用铲子快速划散炒成蛋碎盛出。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "蛋先炒后回锅，才不会在饭里炒成黏糊的一团。",
+      "visual_cue": "蛋碎嫩黄蓬松，不见焦边"
+    },
+    {
+      "n": 5,
+      "text": "锅里补剩余油，中火下蒜末和洋葱丁炒一分半，炒到洋葱透明发甜。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱一定要先炒到透明变软，甜味出来整锅炒饭都会更香。",
+      "visual_cue": "洋葱丁透明，香气发甜"
+    },
+    {
+      "n": 6,
+      "text": "下胡萝卜丁和青椒丁大火翻炒两分钟，蔬菜断生但仍保持脆度。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "蔬菜只要断生，炒软了就没了脆口感。",
+      "visual_cue": "蔬菜丁油亮，颜色鲜亮"
+    },
+    {
+      "n": 7,
+      "text": "倒入米饭转中火，用铲子背面压散翻炒三分钟，让饭粒受热均匀。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "压散再翻，别用铲子乱戳，饭粒碎了就发糊。",
+      "visual_cue": "饭粒松散跳动，锅底无粘连"
+    },
+    {
+      "n": 8,
+      "text": "沿锅边淋浓口酱油，加盐和黑胡椒翻匀，倒回蛋碎和葱花炒半分钟。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "酱油沿锅边淋，遇热激出酱香，直接浇饭上会结团。",
+      "visual_cue": "饭粒均匀上色，酱香扑鼻"
+    },
+    {
+      "n": 9,
+      "text": "关火淋香油，把炒饭盛进碗里压实再扣在盘中，形状更好看。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香油关火后加，香气不会被高温挥发掉。",
+      "visual_cue": "炒饭粒粒分明，油光微亮"
+    }
+  ],
+  "tips": [
+    "炒饭一定要用隔夜冷饭，水分少才炒得散。新煮的饭太湿，下锅只会炒成糊。",
+    "鸡蛋先炒成碎盛出，最后再拌回饭里。和生米一起炒，蛋会裹住饭粒变成黏团。",
+    "酱油沿锅边淋一圈，遇热激出酱香。直接倒在饭上会结块，还容易发黑。",
+    "全程中大火快炒，锅要够热。锅温不足时饭会粘底，越炒越湿。"
+  ],
+  "common_mistakes": [
+    "用刚煮好的热饭炒，粘成一团。要用隔夜冷饭。",
+    "鸡蛋和饭一起下锅炒，蛋液裹饭变黏糊。要分开炒。",
+    "酱油直接浇在饭上，结块发黑。要沿锅边淋。",
+    "小火慢炒，饭越炒越湿。要保持中大火快炒。"
+  ],
+  "substitutions": [
+    {
+      "original": "青椒",
+      "substitute": "西葫芦",
+      "ratio": "50克:60克",
+      "note": "需先撒盐杀水挤干，避免出水。"
+    },
+    {
+      "original": "浓口酱油",
+      "substitute": "盐",
+      "ratio": "12毫升:3克",
+      "note": "颜色更浅，米粒偏白，可加一点黑胡椒补香。"
+    }
+  ],
+  "variations": [
+    "加一把泡菜丁同炒，酸辣开胃，就是韩式泡菜炒饭的素版。",
+    "把蔬菜换成冷冻混合蔬菜粒，省去切配，十分钟就能上桌。",
+    "最后撒一把芝士碎盖上锅盖焖二十秒，做成拉丝炒饭。"
+  ],
+  "serving_suggestion": "一盘粒粒分明的炒饭，米粒油亮带着酱色，蛋碎金黄、蔬菜丁红绿点缀，舀一勺还冒着热气。",
+  "storage": "冷藏可放一天，复热用炒锅大火快炒一分钟；隔夜炒饭口感会发干，需补少量油。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 632,
+    "protein_g": 18,
+    "fat_g": 22,
+    "carbs_g": 90,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须炒至完全凝固后食用；米饭炒制后不宜常温久放。",
+    "成品冷藏不超过一天，复热须彻底加热至烫口。"
+  ],
+  "origin_note": "蔬菜炒饭是韩国家庭处理剩饭的标准做法，冰箱里有什么菜就切什么丁，和冷饭一起炒，五分钟就是一盘。韩国人叫它야채볶음밥，简单到几乎人人会做。",
+  "tags": [
+    "韩国",
+    "韩国料理",
+    "炒饭",
+    "蔬菜",
+    "快手菜"
+  ],
+  "related_ids": [
+    "korean-kimchi-fried-rice",
+    "korean-kimchi-bokkeumbap",
+    "korean-jumeoni-bap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

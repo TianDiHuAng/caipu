@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "korean-jumeoni-bap",
+  "name": {
+    "zh": "韩式金枪鱼泡菜饭团",
+    "en": "Korean Tuna Kimchi Rice Balls"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "korean"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 12,
+    "total_min": 34
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米饭",
+          "name_en": "steamed rice",
+          "amount": 480,
+          "unit": "g",
+          "note": "温热",
+          "optional": false
+        },
+        {
+          "name": "金枪鱼",
+          "name_en": "tuna",
+          "amount": 150,
+          "unit": "g",
+          "note": "罐头沥油",
+          "optional": false
+        },
+        {
+          "name": "泡菜",
+          "name_en": "kimchi",
+          "amount": 80,
+          "unit": "g",
+          "note": "挤干切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 40,
+          "unit": "g",
+          "note": "切细末",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 6,
+          "unit": "g",
+          "note": "炒香",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "拌饭",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "note": "中和酸味",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "提辣",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "拌饭盆",
+    "刀",
+    "砧板",
+    "一次性手套",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "米饭提前煮好晾到温热，太烫会把金枪鱼和泡菜烫出腥味。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "温热的饭才粘得住，太烫手也捏不成团。",
+      "visual_cue": "米饭温热松散，粒粒分明"
+    },
+    {
+      "n": 2,
+      "text": "泡菜挤出多余汁水后切碎，汁水留着会让孩子捏不成团。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "泡菜汁一定要挤干，否则饭团越捏越散。",
+      "visual_cue": "泡菜碎干爽，挤不出水"
+    },
+    {
+      "n": 3,
+      "text": "金枪鱼罐头打开后倒掉浸油，用叉子把鱼肉压散成细碎小块。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "油不沥干净饭团会发腻，压散才好拌匀。",
+      "visual_cue": "鱼肉松散成絮，不见结块"
+    },
+    {
+      "n": 4,
+      "text": "胡萝卜切细末，小葱切葱花，芝麻下干锅小火炒到微微跳动。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "胡萝卜末要细，生的颗粒大了影响口感。",
+      "visual_cue": "胡萝卜末细碎，芝麻散香"
+    },
+    {
+      "n": 5,
+      "text": "米饭倒进拌饭盆，加盐、白糖、辣椒粉和香油，用饭勺翻拌均匀。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "调味要趁米饭还热的时候拌，凉了味道就挂不上饭粒了。",
+      "visual_cue": "饭粒油亮泛红，粒粒分开"
+    },
+    {
+      "n": 6,
+      "text": "把泡菜碎、金枪鱼、胡萝卜末和一半芝麻倒进饭里，从下往上翻拌。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "翻拌而不是搅，搅会把饭粒压烂成糊。",
+      "visual_cue": "配料分布均匀，饭粒完整"
+    },
+    {
+      "n": 7,
+      "text": "戴一次性手套，抓一小把饭在掌心反复压实，捏成三角或圆形饭团。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "捏之前手上蘸点水，饭不粘手也好成型。",
+      "visual_cue": "饭团紧实不散，形状整齐"
+    },
+    {
+      "n": 8,
+      "text": "捏好的饭团撒上剩余芝麻和葱花，装盘即可，配汤或当便当都行。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "捏好静置五分钟定型，再装盒不易散。",
+      "visual_cue": "饭团油亮，芝麻点缀均匀"
+    }
+  ],
+  "tips": [
+    "米饭要用温热的，太烫会把金枪鱼烫出腥味，凉透了又粘不住，捏起来全是散的。",
+    "泡菜汁一定要挤干再切，汁水留多了饭团越捏越出水，最后捏不成团。",
+    "拌饭用翻拌手法，从下往上抄。用勺子搅会把饭粒压烂，口感发糊。",
+    "捏饭团前手上蘸点凉开水，既不粘手也能让饭团表面更光滑紧实。"
+  ],
+  "common_mistakes": [
+    "用滚烫的米饭拌料，金枪鱼发腥。要用温热饭。",
+    "泡菜不挤水直接切，饭团散成米粒。要挤到不出水。",
+    "用勺子用力搅，饭粒压烂发糊。要翻拌。",
+    "饭团捏得太松，一拿就碎。要反复压实并静置定型。"
+  ],
+  "substitutions": [
+    {
+      "original": "金枪鱼",
+      "substitute": "三文鱼罐头",
+      "ratio": "150克:150克",
+      "note": "腥味略重，需多加两克辣椒粉压味。"
+    },
+    {
+      "original": "泡菜",
+      "substitute": "辣白菜",
+      "ratio": "80克:80克",
+      "note": "酸度更高，白糖可加到三克。"
+    }
+  ],
+  "variations": [
+    "拌入一勺蛋黄酱，口感更顺滑，是韩国便利店最常见的版本。",
+    "把金枪鱼换成炒过的牛肉末，做成牛肉饭团，味道更沉。",
+    "加一小块腌萝卜碎，咬起来脆脆的，口感层次更丰富。"
+  ],
+  "serving_suggestion": "三个圆滚滚的饭团摆在盘里，表面油亮带着芝麻，咬开是酸辣的泡菜和咸鲜的金枪鱼，冷吃热吃都方便。",
+  "storage": "冷藏可放一天，包好保鲜膜防干；隔夜饭团会变硬，食用前微波二十秒回软。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 386,
+    "protein_g": 15,
+    "fat_g": 10,
+    "carbs_g": 60,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "sesame"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "金枪鱼为罐装熟制品，开罐后须冷藏并在一天内用完；米饭制品不宜常温久放。",
+    "成品冷藏不超过一天，出现酸味或发黏须丢弃。"
+  ],
+  "origin_note": "拳头饭团是韩国学生郊游必带的东西，米饭拌上金枪鱼和泡菜，用手一捏就是一顿。韩国人叫它주먹밥，名字直白，说的是用拳头捏出来的饭团。",
+  "tags": [
+    "韩国",
+    "韩国料理",
+    "饭团",
+    "金枪鱼",
+    "泡菜"
+  ],
+  "related_ids": [
+    "korean-kimchi-bokkeumbap",
+    "korean-gimbap",
+    "korean-kongnamul-bap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

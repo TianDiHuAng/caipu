@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:28:01.055Z",
+  "generatedAt": "2026-11-28T09:57:37.384Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2930,
-    "coverage": 0.8949297495418448
+    "actual": 2937,
+    "coverage": 0.8970678069639585
   },
   "regions": {
     "cn": [
@@ -3652,19 +3652,20 @@
         "en": "Korean",
         "tier": "A",
         "target": 107,
-        "actual": 100,
+        "actual": 107,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 14,
+            "actual": 15,
             "ids": [
               "bulgogi",
               "dolsot-bibimbap",
               "jeyuk-bokkeum",
               "korean-bossam",
               "korean-bulgogi",
+              "korean-dakdoritang",
               "korean-galbi-gui",
               "korean-galbi-jjim",
               "korean-ganjang-chicken",
@@ -3680,9 +3681,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 15,
             "ids": [
               "dwaeji-gukbap",
+              "korean-bugeo-guk",
               "korean-dajiang-tang",
               "korean-doenjang-ggigae",
               "korean-doenjang-jjigae",
@@ -3690,6 +3692,7 @@
               "korean-jogae-tang",
               "korean-kongnamul-guk",
               "korean-miyuk-guk",
+              "korean-samgyetang",
               "korean-sogogi-muguk",
               "korean-tteokguk",
               "miyeok-guk",
@@ -3701,7 +3704,7 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 15,
             "ids": [
               "dolsot-bibimbap",
               "dwaeji-gukbap",
@@ -3710,10 +3713,14 @@
               "korean-doenjang-gukbap",
               "korean-dolsot-bibimbap",
               "korean-gimbap",
+              "korean-jeyuk-deopbap",
+              "korean-jumeoni-bap",
               "korean-kimchi-bokkeumbap",
               "korean-kimchi-fried-rice",
               "korean-kongnamul-bap",
-              "korean-tteokbokki"
+              "korean-ojingeo-deopbap",
+              "korean-tteokbokki",
+              "korean-yachae-bokkeumbap"
             ]
           },
           {
