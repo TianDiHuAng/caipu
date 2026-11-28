@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-donggua-menfan",
+  "name": {
+    "zh": "冬瓜焖饭",
+    "en": "Winter Melon Braised Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 49,
+    "cook_min": 42,
+    "total_min": 91
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 300,
+          "unit": "g",
+          "note": "淘洗",
+          "optional": false
+        },
+        {
+          "name": "冬瓜",
+          "name_en": "winter melon",
+          "amount": 500,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 80,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 20,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 360,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "锅铲",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后加清水泡二十分钟，泡好沥干备用。",
+      "time_min": 23,
+      "heat": "无火",
+      "tip": "米泡过再焖，粒粒分明不发硬。",
+      "visual_cue": "米粒胀大发白，捏一下能掐断"
+    },
+    {
+      "n": 2,
+      "text": "冬瓜削皮去瓤，切成两厘米见方的丁，撒少许盐抓匀静置出水。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "冬瓜先杀水，焖饭才不出汤变成稀粥。",
+      "visual_cue": "冬瓜丁表面渗水，体积略缩"
+    },
+    {
+      "n": 3,
+      "text": "腊肉切小丁，虾米用温水泡软，姜切成末备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "腊肉丁切小一点，油脂才容易煎出来。",
+      "visual_cue": "腊肉丁大小一致，虾米回软"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒花生油下腊肉丁小火煸出油，再下姜末与虾米炒香。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "腊肉小火慢煸，油脂出来了整锅饭才香。",
+      "visual_cue": "腊肉透明卷曲，锅底一层红油"
+    },
+    {
+      "n": 5,
+      "text": "倒入冬瓜丁翻炒两分钟，加生抽、盐与白胡椒拌匀后关火。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "冬瓜只炒到半熟，后面靠焖把味道吃进去。",
+      "visual_cue": "冬瓜丁边缘透明，裹上酱色"
+    },
+    {
+      "n": 6,
+      "text": "把炒好的配料连汤汁倒进电饭锅，与米拌一下按煮饭键焖熟，跳键后撒葱花拌匀。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "跳键后别马上开盖，焖五分钟米心才透。",
+      "visual_cue": "饭粒油亮，冬瓜软透不散"
+    }
+  ],
+  "tips": [
+    "大米提前泡二十分钟，焖出来粒粒分明。",
+    "冬瓜先撒盐杀水，焖饭才不会变成稀粥。",
+    "腊肉小火慢煸出油，整锅饭才有底味。",
+    "跳键后再焖五分钟，米心才完全透。"
+  ],
+  "common_mistakes": [
+    "冬瓜不杀水直接下锅，焖出一锅黏糊的烂饭。",
+    "水按平时煮饭的量加，冬瓜出水后饭变粥。",
+    "腊肉大火煎到焦黑，整锅饭带苦味。",
+    "跳键立刻开盖盛饭，米粒夹生还发黏。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肉",
+      "substitute": "香肠",
+      "ratio": "80克:80克",
+      "note": "甜味更明显，盐可减一克。"
+    },
+    {
+      "original": "冬瓜",
+      "substitute": "南瓜",
+      "ratio": "500克:500克",
+      "note": "带甜味，生抽减五毫升。"
+    }
+  ],
+  "variations": [
+    "加几朵泡发的香菇同焖，菌香更浓。",
+    "最后撒一把香菜碎，气味更清爽。",
+    "换成砂锅焖，锅底会结一层焦香锅巴。"
+  ],
+  "serving_suggestion": "盛进碗里撒葱花，配一碟酸辣小菜，冬瓜软透、米粒吸饱腊肉油香，一碗不够吃。",
+  "storage": "冷藏可放两天，复热加两勺水用蒸锅蒸十分钟，微波加热饭粒会发硬。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 526,
+    "protein_g": 16,
+    "fat_g": 18,
+    "carbs_g": 74,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "含腊肉等腌制品，须焖至完全熟透；腌肉制品钠含量高，高血压人群少食。",
+    "成品冷藏不超过两天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "冬瓜焖饭是湖南夏天最常见的家常饭，冬瓜切丁先用盐杀水，和腊肉丁、虾米一起炒香，再倒进电饭锅和米同焖。冬瓜软透化成汤汁，饭粒吸饱油香，一锅就够一家人吃。",
+  "tags": [
+    "湘菜",
+    "主食",
+    "焖饭",
+    "家常菜"
+  ],
+  "related_ids": [
+    "hunan-larou-tudou-menfan",
+    "hunan-nangua-baofan",
+    "hunan-larou-chaofan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

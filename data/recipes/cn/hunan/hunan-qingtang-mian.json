@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-qingtang-mian",
+  "name": {
+    "zh": "湘式清汤面",
+    "en": "Hunan Clear Soup Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 23,
+    "total_min": 38
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 240,
+          "unit": "g",
+          "note": "细面",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 2,
+          "unit": "piece",
+          "note": "煎蛋",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 10,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎蛋",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 4,
+          "unit": "ml",
+          "note": "出锅点",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "碗",
+    "刀",
+    "砧板",
+    "汤勺",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小白菜逐片掰开洗净，泡在清水里备用，姜切成细丝。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "菜叶根部容易藏泥，掰开一片片洗才干净。",
+      "visual_cue": "菜叶干净无泥，姜丝细匀"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒花生油烧热，磕入鸡蛋中火煎三分钟成两面金黄的荷包蛋。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "蛋黄别煎太老，泡进汤里还能流心。",
+      "visual_cue": "蛋白边缘焦脆，蛋黄微鼓"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒高汤大火烧开，下姜丝煮两分钟让汤带上辛香。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "姜丝先煮出味，汤底才不寡淡。",
+      "visual_cue": "汤面翻滚，闻到姜的清香"
+    },
+    {
+      "n": 4,
+      "text": "加盐、生抽与白胡椒调味，把小白菜下锅烫一分钟至变软捞出。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "菜只烫一分钟，久了发黄失去脆感。",
+      "visual_cue": "菜叶翠绿变软，菜梗仍挺"
+    },
+    {
+      "n": 5,
+      "text": "下面条大火煮三分钟，用筷子轻轻拨散，煮到面条刚好断生。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "面条别煮太软，捞出后还会继续受热。",
+      "visual_cue": "面条浮起，挑一根能掐断无白芯"
+    },
+    {
+      "n": 6,
+      "text": "面条捞进碗里，摆上小白菜和荷包蛋，浇上热汤，撒葱花点香油。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "汤要滚烫地浇下去，香味才被激出来。",
+      "visual_cue": "汤面清亮，蛋和菜整齐摆放"
+    }
+  ],
+  "tips": [
+    "高汤加姜丝先煮，清汤也有底味。",
+    "小白菜只烫一分钟，久了发黄不脆。",
+    "面条煮到刚断生就捞，泡在汤里还会熟。",
+    "热汤一定要滚着浇进碗里，香气才出得来。"
+  ],
+  "common_mistakes": [
+    "面条煮到软烂才捞，端上桌已经糊成一团。",
+    "菜叶整棵下锅，根部泥沙没洗净。",
+    "汤放凉了再浇，葱花和香油一点香味都没有。",
+    "调味时只放盐，汤寡淡得像白开水，喝起来没有鲜味。"
+  ],
+  "substitutions": [
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "240克:240克",
+      "note": "湖南米粉更地道，煮的时间减一分钟。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "800毫升:800毫升",
+      "note": "素汤版，需加两克盐和一勺生抽。"
+    }
+  ],
+  "variations": [
+    "加一勺剁椒在汤面上，清汤立刻变成酸辣味。",
+    "放几片卤牛肉，一碗普通的清汤面就成了牛肉面。",
+    "汤里加半勺猪油，香气是植物油比不了的。"
+  ],
+  "serving_suggestion": "面条装碗后立刻浇汤，配一勺剁椒或一碟酸豆角，清清爽爽的一碗就是湖南人的早餐。",
+  "storage": "面条现煮现吃，汤底冷藏可放两天，复热须煮沸后再浇面。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 498,
+    "protein_g": 22,
+    "fat_g": 18,
+    "carbs_g": 62,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "peanut",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须煎至蛋白凝固、蛋黄熟化；面条须煮透，汤底复热须彻底煮沸。",
+    "汤底冷藏不超过两天，食用前须煮沸一分钟。"
+  ],
+  "origin_note": "湘式清汤面是湖南人清晨的一碗家常面，高汤加姜丝煮出辛香，面条刚断生就捞进碗里，摆上烫软的小白菜和一只荷包蛋，滚汤一浇，葱花和香油的味道就窜上来。",
+  "tags": [
+    "湘菜",
+    "主食",
+    "面食",
+    "清汤"
+  ],
+  "related_ids": [
+    "hunan-niurou-mian",
+    "hunan-larou-chaomian",
+    "hunan-suanla-fensi"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

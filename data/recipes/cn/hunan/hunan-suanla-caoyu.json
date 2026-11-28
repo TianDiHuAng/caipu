@@ -1,0 +1,288 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-suanla-caoyu",
+  "name": {
+    "zh": "湘式酸辣草鱼",
+    "en": "Hunan Hot and Sour Grass Carp"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 28,
+    "cook_min": 30,
+    "total_min": 58
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "草鱼",
+          "name_en": "grass carp",
+          "amount": 900,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 25,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 600,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 45,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 35,
+          "unit": "ml",
+          "note": "调酸",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "调和酸味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍粉",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "锅铲",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "草鱼去鳞去内脏洗净，切成三厘米厚的块，用厨房纸吸干表面水分。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "鱼块表面吸干，煎的时候才不粘锅也不溅油。",
+      "visual_cue": "鱼块表面干爽，鱼皮完整不破"
+    },
+    {
+      "n": 2,
+      "text": "鱼块加盐、料酒和白胡椒抓匀腌十分钟，再薄薄拍一层淀粉。",
+      "time_min": 13,
+      "heat": "无火",
+      "tip": "薄粉能锁住鱼汁，煎完表面也更完整。",
+      "visual_cue": "鱼块表面泛白细粉，不见湿浆"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒花生油烧热，鱼块皮朝下摆入，中火煎四分钟至底面金黄。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "鱼块下锅后别急着翻，定型了才不散。",
+      "visual_cue": "底面金黄结壳，轻推能滑动"
+    },
+    {
+      "n": 4,
+      "text": "翻面再煎三分钟，把鱼块推到锅边，下姜蒜片与小米椒圈炒香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "姜蒜炒香后再加水，腥味才压得住。",
+      "visual_cue": "鱼块两面金黄，辣椒香气散出"
+    },
+    {
+      "n": 5,
+      "text": "沿锅边淋料酒，倒入高汤大火煮开，加生抽与白糖转中火煮八分钟。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "汤要一次加够，中途加水汤味会变薄。",
+      "visual_cue": "汤色微白，鱼块鼓起"
+    },
+    {
+      "n": 6,
+      "text": "淋入香醋再煮两分钟，撒葱段收汁，连汤汁与肉块一并盛进深盘。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "醋最后放，酸香清亮，久煮只剩酸味。",
+      "visual_cue": "汤汁乳白微酸，表面浮着红油"
+    }
+  ],
+  "tips": [
+    "鱼块表面吸干再煎，不粘锅也不溅油。",
+    "拍一层薄淀粉，鱼皮完整不破，肉汁也不流失。",
+    "鱼块下锅后等定型再翻，翻早了整块散架。",
+    "香醋要最后再放，酸味才清亮不发闷，久煮只剩死酸。"
+  ],
+  "common_mistakes": [
+    "鱼块带水下锅，热油四溅还粘得满锅都是。",
+    "急着翻面，鱼皮全掉，最后煮成一锅碎鱼。",
+    "醋一开始就倒进去，煮到最后只剩酸味没有香气。",
+    "汤加太少中途又添冷水，鱼腥味全被逼出来。"
+  ],
+  "substitutions": [
+    {
+      "original": "草鱼",
+      "substitute": "鲈鱼",
+      "ratio": "900克:800克",
+      "note": "刺少肉嫩，煮的时间减三分钟。"
+    },
+    {
+      "original": "香醋",
+      "substitute": "陈醋",
+      "ratio": "35毫升:30毫升",
+      "note": "酸味更浓，白糖可加两克。"
+    }
+  ],
+  "variations": [
+    "加一把酸菜同煮，酸香更有层次，汤也更鲜。",
+    "放几片紫苏叶，湖南人常用它压鱼腥。",
+    "喜欢重辣的可以把小米椒换成剁椒，辣得更直接。"
+  ],
+  "serving_suggestion": "汤汁与鱼块一并盛进深盘，撒上葱段，配白米饭最开胃。",
+  "storage": "冷藏可放一天，复热加两勺高汤小火煮三分钟，鱼肉不宜反复加热。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 512,
+    "protein_g": 48,
+    "fat_g": 26,
+    "carbs_g": 14,
+    "sodium_mg": 1020,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "鱼肉须煮至肉色发白、中心熟透，避免生食淡水鱼带来的寄生虫风险。",
+    "成品冷藏不超过一天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "湘式酸辣草鱼是湖南水乡的家常做法，草鱼块煎到两面金黄，再用姜蒜和小米椒炒香，加高汤煮到汤色发白，最后淋一勺香醋提酸。鱼肉细嫩，汤又酸又辣，泡饭吃最过瘾。",
+  "tags": [
+    "湘菜",
+    "鱼类",
+    "酸辣",
+    "家常菜"
+  ],
+  "related_ids": [
+    "hunan-duojiao-zheng-luyu",
+    "hunan-yutou-shao-ya",
+    "hunan-xiangla-yukuai"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

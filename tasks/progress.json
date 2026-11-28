@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:32:31.586Z",
+  "generatedAt": "2026-11-28T13:01:10.387Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2978,
-    "coverage": 0.9095907147220526
+    "actual": 2986,
+    "coverage": 0.9120342089187539
   },
   "regions": {
     "cn": [
@@ -1474,13 +1474,13 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 112,
+        "actual": 120,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 15,
+            "actual": 16,
             "ids": [
               "hunan-hongshao-zhuti",
               "hunan-jiangbao-liji",
@@ -1488,6 +1488,7 @@
               "hunan-meicai-kourou",
               "hunan-suanrou",
               "hunan-xiangla-feichang",
+              "hunan-xiangla-zheng-paigu",
               "hunan-xiangla-zhuti",
               "hunan-zhu-xue-wanzi",
               "hunan-zisu-chao-rousi",
@@ -1526,7 +1527,7 @@
             "category": "main-vegetable",
             "kind": "core",
             "target": 15,
-            "actual": 15,
+            "actual": 16,
             "ids": [
               "duojiao-zheng-yutou",
               "ganguo-chashugu",
@@ -1537,6 +1538,7 @@
               "hunan-jiachang-donggua",
               "hunan-lajiao-chao-qiezi",
               "hunan-qingchao-wosunsi",
+              "hunan-suanla-baocai",
               "hunan-suanla-kugua",
               "hunan-suanla-tudousi",
               "hunan-xianggan-chaorou",
@@ -1608,9 +1610,10 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 8,
+            "actual": 9,
             "ids": [
               "hunan-doushi-shao-doufu",
+              "hunan-doushi-zheng-doufu",
               "hunan-duojiao-zheng-doufu",
               "hunan-jiacang-doufu",
               "hunan-jiachang-doufu",
@@ -1624,11 +1627,12 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "hunan-duojiao-banmian",
               "hunan-larou-chaomian",
               "hunan-niurou-mian",
+              "hunan-qingtang-mian",
               "hunan-suanla-fensi",
               "nanchang-banfen"
             ]
@@ -1637,8 +1641,9 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
+              "hunan-donggua-menfan",
               "hunan-doushi-chaofan",
               "hunan-duojiao-chaofan",
               "hunan-larou-chaofan",
@@ -1650,12 +1655,37 @@
             "category": "main-seafood",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "duojiao-yutou",
               "hunan-kouwei-xia",
+              "hunan-suanla-caoyu",
               "hunan-xiangla-yukuai",
               "hunan-yinyu-zhengdan"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 4,
+            "ids": [
+              "hunan-hongzao-nuomigao",
+              "hunan-tangyou-baba",
+              "hunan-zha-ouhe",
+              "nanchang-banfen"
+            ]
+          },
+          {
+            "category": "soup",
+            "kind": "extra",
+            "target": 0,
+            "actual": 4,
+            "ids": [
+              "hunan-kugua-paigu-tang",
+              "hunan-lianou-paigu-tang",
+              "hunan-zicai-danhua-tang",
+              "nanchang-waguantang"
             ]
           },
           {
@@ -1667,28 +1697,6 @@
               "hunan-duolajiao",
               "hunan-leijiao-qiezi",
               "hunan-liangban-tonghao"
-            ]
-          },
-          {
-            "category": "soup",
-            "kind": "extra",
-            "target": 0,
-            "actual": 3,
-            "ids": [
-              "hunan-kugua-paigu-tang",
-              "hunan-lianou-paigu-tang",
-              "nanchang-waguantang"
-            ]
-          },
-          {
-            "category": "snack",
-            "kind": "extra",
-            "target": 0,
-            "actual": 3,
-            "ids": [
-              "hunan-tangyou-baba",
-              "hunan-zha-ouhe",
-              "nanchang-banfen"
             ]
           },
           {

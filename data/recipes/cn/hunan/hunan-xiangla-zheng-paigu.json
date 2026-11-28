@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-xiangla-zheng-paigu",
+  "name": {
+    "zh": "湘辣蒸排骨",
+    "en": "Hunan Steamed Spicy Pork Ribs"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 58,
+    "cook_min": 30,
+    "total_min": 88
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 700,
+          "unit": "g",
+          "note": "斩成四厘米段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 30,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆豉",
+          "name_en": "fermented black beans",
+          "amount": 20,
+          "unit": "g",
+          "note": "剁碎",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "抓匀",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "封油",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "刀",
+    "砧板",
+    "深盘",
+    "碗",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪排骨放冷水里泡二十分钟，中途换一次水，把骨缝里的血水泡出来。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "血水泡净，蒸出来的排骨才没有腥味，汤汁也清亮。",
+      "visual_cue": "水面泛淡红，排骨肉色转浅发白"
+    },
+    {
+      "n": 2,
+      "text": "排骨捞出沥干水，用厨房纸吸干表面，加盐、生抽、料酒和白糖抓匀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "表面吸干调料才挂得住，腌出来才入味。",
+      "visual_cue": "排骨表面干爽，调料裹得均匀发亮"
+    },
+    {
+      "n": 3,
+      "text": "加入淀粉继续抓到起黏，再下小米椒、姜末、蒜末和剁碎的豆豉拌匀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "淀粉先抓出黏性，蒸的时候汁水才不会流失。",
+      "visual_cue": "排骨表面裹着薄浆，配料贴得牢"
+    },
+    {
+      "n": 4,
+      "text": "最后淋花生油封住表面，盖上保鲜膜静置二十分钟让味道渗进去。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "封油锁水，静置后再蒸味道才能进到骨头边。",
+      "visual_cue": "排骨泛红亮油光，闻起来有椒香"
+    },
+    {
+      "n": 5,
+      "text": "排骨平铺进深盘不要叠压，水开后上锅大火蒸二十五分钟。",
+      "time_min": 27,
+      "heat": "大火",
+      "tip": "铺平一层受热均匀，叠起来中间蒸不透。",
+      "visual_cue": "盘中汤汁清亮，排骨边缘收缩"
+    },
+    {
+      "n": 6,
+      "text": "出锅撒上葱花，趁热连盘上桌，盘底汤汁拌饭很香。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "葱花最后撒，热气一冲香味才出来。",
+      "visual_cue": "葱花翠绿，排骨油亮泛红"
+    }
+  ],
+  "tips": [
+    "排骨先泡血水再腌，蒸出来才没有腥味。",
+    "淀粉抓出黏性是关键，蒸完汁水全锁在肉里。",
+    "腌好后淋一层油封住，蒸的时候表面不干柴。",
+    "排骨铺平一层蒸，叠压会让中间夹生。"
+  ],
+  "common_mistakes": [
+    "排骨不泡血水直接腌，蒸出来一股腥气。",
+    "腌的时间太短就上锅，里层的肉一点味道都没有。",
+    "排骨堆成两层蒸，上面熟了下面还带血水。",
+    "大火蒸过头，排骨脱骨散架，肉也变得又干又柴。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪排骨",
+      "substitute": "猪五花肉",
+      "ratio": "700克:600克",
+      "note": "更油润，蒸的时间减五分钟。"
+    },
+    {
+      "original": "小米椒",
+      "substitute": "干辣椒",
+      "ratio": "30克:12克",
+      "note": "辣度更沉，香气偏干辣。"
+    }
+  ],
+  "variations": [
+    "盘底垫一层芋头块同蒸，吸饱肉汁比排骨还抢手。",
+    "加一勺剁椒同蒸，酸辣味更突出，颜色也更红亮。",
+    "改用竹蒸笼蒸，竹香渗进排骨里，气味更清。"
+  ],
+  "serving_suggestion": "连盘端上桌，撒葱花，配一碗白米饭，盘底的椒香肉汁浇在饭上是最地道的吃法。",
+  "storage": "冷藏可放两天，复热上锅蒸八分钟，微波加热会让排骨发柴。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 486,
+    "protein_g": 38,
+    "fat_g": 32,
+    "carbs_g": 10,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "排骨须蒸至骨边肉完全熟透、切开不见血水；禽畜肉制品冷藏不超过两天。",
+    "复热须彻底加热至中心发烫，不可反复加热。"
+  ],
+  "origin_note": "湘辣蒸排骨是湖南人家常的蒸菜，排骨泡净血水后用豆豉、小米椒和蒜末腌透，铺平一层大火蒸。排骨软嫩脱骨，盘底的汤汁又辣又鲜，湖南人习惯拿它拌饭。",
+  "tags": [
+    "湘菜",
+    "蒸菜",
+    "排骨",
+    "辣"
+  ],
+  "related_ids": [
+    "hunan-meicai-kourou",
+    "hunan-xiangla-zhuti",
+    "hunan-doushi-shao-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
