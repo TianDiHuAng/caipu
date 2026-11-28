@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "cantonese-niang-doufu",
+  "name": {
+    "zh": "煎酿豆腐",
+    "en": "Pan-fried Stuffed Tofu"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "cantonese"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 20,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 500,
+          "unit": "g",
+          "note": "切长方块",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 250,
+          "unit": "g",
+          "note": "酿馅",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 50,
+          "unit": "g",
+          "note": "切细粒",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "封口与勾芡",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 100,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "小勺",
+    "小碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "嫩豆腐切成四厘米长、三厘米宽的长方块，用小勺在中间挖出浅坑。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "挖出来的碎块别丢，拌进馅里能让口感更嫩。",
+      "visual_cue": "每块中间有凹坑，边缘完整不裂"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加香菇粒、挖出的嫩豆腐碎、生抽与白胡椒顺一个方向搅到起胶。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "顺一个方向搅，肉馅才会黏成团，煎的时候不散。",
+      "visual_cue": "肉馅发白发黏，能成团不松散"
+    },
+    {
+      "n": 3,
+      "text": "在豆腐凹坑里撒一层薄薄的淀粉，再把肉馅酿进去抹平表面。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "撒淀粉是让肉馅抓牢豆腐的关键，这步别省。",
+      "visual_cue": "肉馅与豆腐面齐平，边缘无缝隙"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒植物油中火烧热，肉馅朝下摆入豆腐，煎到肉面金黄定型。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "先煎肉面，定型之后再翻面，豆腐才不会散。",
+      "visual_cue": "肉面金黄焦香，豆腐边缘微黄"
+    },
+    {
+      "n": 5,
+      "text": "翻面把底侧也煎到微黄，倒入清水、生抽与蚝油，盖盖小火焖五分钟。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "水别加太多，焖到汤汁收一半就够，久煮会散。",
+      "visual_cue": "汤汁收浓挂在表面，豆腐鼓起"
+    },
+    {
+      "n": 6,
+      "text": "淋淀粉水勾一层薄芡，撒小葱后晃匀出锅装盘。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "芡要薄，能挂住表面就行，太稠口感会发糊。",
+      "visual_cue": "汤汁透亮挂壁，葱花分布均匀"
+    }
+  ],
+  "tips": [
+    "选质地嫩而不散的嫩豆腐，质地太硬的成品口感会偏粗。",
+    "酿好后可以冷藏十分钟再煎，形状更稳定不塌。",
+    "想更香可以在肉馅里加一勺剁碎的香菇粒提鲜。",
+    "用砂锅焖最后一步，上桌时还在冒泡最好吃。"
+  ],
+  "common_mistakes": [
+    "凹坑挖得太深，煎的时候底部破裂漏出肉馅。",
+    "肉馅没搅上劲，一煎就散开掉进锅里。",
+    "油温不够就下锅，肉馅粘住锅底被撕破。",
+    "频繁翻面来回折腾，成品碎成一块一块的。"
+  ],
+  "substitutions": [
+    {
+      "original": "嫩豆腐",
+      "substitute": "北豆腐",
+      "ratio": "500克:500克",
+      "note": "更结实好酿，但口感偏扎实略粗。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "鱼肉",
+      "ratio": "250克:250克",
+      "note": "客家做法常用鲮鱼肉，需加淀粉打上劲。"
+    }
+  ],
+  "variations": [
+    "酿好后上锅蒸十五分钟，比煎的做法更清爽少油。",
+    "最后撒一把小葱与白胡椒，风味更接近客家版本。",
+    "加两勺蚝油同焖，酱香更浓，格外适合配饭吃。"
+  ],
+  "serving_suggestion": "四块摆盘浇汁，配一碟白饭，咬开时肉汁混着豆香，是客家人待客的招牌菜。",
+  "storage": "冷藏可放两天，复热用平底锅加两勺水焖三分钟，微波会让成品出水变散。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 386,
+    "protein_g": 24,
+    "fat_g": 26,
+    "carbs_g": 13,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪肉末须煎至中心完全熟透、不见粉红，焖煮时间不要随意缩短。",
+    "含大豆与猪肉，过敏者请替换配料；成品冷藏不超过两天，复热要彻底加热。"
+  ],
+  "origin_note": "煎酿豆腐是客家菜南传后扎根广府的代表，讲究豆腐嫩、肉馅香、芡汁薄。老店做法是把肉馅一点点酿进豆腐坑里，先煎后焖，端上桌时豆腐还微微颤动，一筷子夹起不碎才算过关。",
+  "tags": [
+    "粤菜",
+    "豆腐",
+    "猪肉末",
+    "煎"
+  ],
+  "related_ids": [
+    "cantonese-chiyou-jian-doufu",
+    "cantonese-donggu-hongshao-doufu",
+    "cantonese-haoyou-doufu-bao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

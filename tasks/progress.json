@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:35:30.736Z",
+  "generatedAt": "2026-11-28T03:48:53.857Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2771,
-    "coverage": 0.8463653023824068
+    "actual": 2779,
+    "coverage": 0.8488087965791081
   },
   "regions": {
     "cn": [
@@ -545,7 +545,7 @@
         "en": "Cantonese",
         "tier": "A",
         "target": 122,
-        "actual": 105,
+        "actual": 113,
         "cells": [
           {
             "category": "main-seafood",
@@ -577,13 +577,15 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "bobo-gulaorou",
+              "cantonese-chenpi-niurou",
               "cantonese-gulu-rou",
               "cantonese-meicai-zheng-rouping",
               "cantonese-nanru-kourou",
               "cantonese-shacha-niurou",
+              "cantonese-yutou-kourou",
               "chijiao-niurou",
               "chizhi-zheng-paigu",
               "fanqie-niunan",
@@ -596,13 +598,15 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "caigan-zhugu-tang",
               "cantonese-babao-dongguazhong",
               "cantonese-corn-carrot-soup",
               "cantonese-fuzhu-baiguo-tang",
+              "cantonese-huangguo-kugua-tang",
               "cantonese-lianou-paigu-tang",
+              "cantonese-muer-paigu-tang",
               "cantonese-qingbu-liang-tang",
               "cantonese-sumi-geng",
               "donggua-yimi-paigu-tang",
@@ -693,8 +697,10 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
+              "cantonese-hualei-zhengdan",
+              "cantonese-xiami-zhengdan",
               "cantonese-xiaren-chaodan",
               "cantonese-zheng-shuidan",
               "huadan-niurou",
@@ -705,12 +711,14 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "cantonese-chiyou-jian-doufu",
               "cantonese-donggu-hongshao-doufu",
               "cantonese-haoyou-doufu-bao",
-              "cantonese-xia-ren-zheng-doufu"
+              "cantonese-niang-doufu",
+              "cantonese-xia-ren-zheng-doufu",
+              "cantonese-xiazi-doufu"
             ]
           },
           {
