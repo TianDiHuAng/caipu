@@ -1,0 +1,279 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indonesian-nasi-kebuli",
+  "name": {
+    "zh": "印尼香料牛肉饭",
+    "en": "Nasi Kebuli"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indonesian"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 25,
+    "cook_min": 85,
+    "total_min": 110
+  },
+  "servings": 4,
+  "flavor": [
+    "fragrant",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 400,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 200,
+          "unit": "ml",
+          "note": "焖饭",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "焖饭",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "整段",
+          "optional": false
+        },
+        {
+          "name": "丁香",
+          "name_en": "clove",
+          "amount": 4,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "豆蔻",
+          "name_en": "cardamom",
+          "amount": 2,
+          "unit": "piece",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "刀",
+    "砧板",
+    "木勺",
+    "碗",
+    "电饭锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切成三厘米块，冷水下锅焯五分钟去血沫，捞出冲净。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "冷水下锅才能把血水慢慢逼出来，肉不腥。",
+      "visual_cue": "牛肉表面无血沫，汤水澄清"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅化黄油，下洋葱丝小火炒到金黄软透。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "洋葱炒到甜味出来，饭的底味才厚。",
+      "visual_cue": "洋葱丝金黄软塌，锅底香气浓"
+    },
+    {
+      "n": 3,
+      "text": "加肉桂、丁香、豆蔻与姜炒香，下牛肉块翻炒上色。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "香料要先炒出香再下肉，不然只有生粉味。",
+      "visual_cue": "牛肉表面焦褐，香料味扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "加番茄、生抽、盐与黑胡椒炒匀，倒清水小火焖四十分钟至肉软。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "焖到筷子能轻松插入肉块，汤也收掉一半。",
+      "visual_cue": "汤汁浓稠，牛肉软而有形"
+    },
+    {
+      "n": 5,
+      "text": "大米洗净放进电饭锅，加焖好的牛肉与汤汁，再补牛奶焖成饭。",
+      "time_min": 28,
+      "heat": "中火",
+      "tip": "汤汁加牛奶总量按米量一比一点二，饭才不烂。",
+      "visual_cue": "饭粒饱满带光泽，牛肉分布均匀"
+    }
+  ],
+  "tips": [
+    "香料整颗炒比粉状更香，煮前挑出硬块。",
+    "牛奶能让饭粒更油润，别用太多。",
+    "牛肉焖得越久越软，时间不够嚼不动。",
+    "配酸黄瓜与炸红葱片一起上桌更完整。"
+  ],
+  "common_mistakes": [
+    "牛肉没焯水，焖出来的饭带腥味。",
+    "香料炒糊了，整锅饭都带一股焦苦味。",
+    "汤汁加得太多，饭变成软烂的稀粥。",
+    "牛肉切得太小，焖完缩成一颗颗硬粒。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "羊肉",
+      "ratio": "400克:400克",
+      "note": "更接近原版，焖的时间加十分钟。"
+    },
+    {
+      "original": "牛奶",
+      "substitute": "椰奶",
+      "ratio": "200毫升:200毫升",
+      "note": "更浓香，盐要减两克。"
+    }
+  ],
+  "variations": [
+    "加一把葡萄干同焖，甜咸层次更足。",
+    "加半勺辣椒粉，微微带辣更正点。",
+    "表面撒炸红葱片与杏仁片，卖相更好。"
+  ],
+  "serving_suggestion": "把饭盛成小山状，牛肉块摆在顶部，撒炸红葱片，配酸黄瓜与一杯热茶，是印尼节庆的主食。",
+  "storage": "冷藏可放两天，复热用蒸锅蒸十分钟或微波加盖加热。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 712,
+    "protein_g": 34,
+    "fat_g": 28,
+    "carbs_g": 72,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛肉须焖至完全软烂熟透，中心不见血色；米饭须蒸透。",
+    "成品冷藏不超过两天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "香料牛肉饭源自阿拉伯移民的抓饭，被印尼人改成了自己的一锅到底：牛肉先用肉桂、丁香、豆蔻焖到酥软，再连汤带肉和牛奶一起焖饭。饭粒油润，肉香里带着温暖的香料味。",
+  "tags": [
+    "印尼菜",
+    "牛肉",
+    "米饭",
+    "节庆"
+  ],
+  "related_ids": [
+    "indonesian-nasi-kuning",
+    "indonesian-beef-rendang",
+    "indonesian-nasi-uduk"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

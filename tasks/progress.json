@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T04:42:59.544Z",
+  "generatedAt": "2026-11-28T04:52:48.337Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2827,
-    "coverage": 0.8634697617593158
+    "actual": 2835,
+    "coverage": 0.8659132559560171
   },
   "regions": {
     "cn": [
@@ -4836,28 +4836,32 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 29,
+        "actual": 37,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "indonesian-nasi-goreng",
+              "indonesian-nasi-kebuli",
               "indonesian-nasi-kuning",
-              "indonesian-nasi-uduk"
+              "indonesian-nasi-uduk",
+              "indonesian-nasi-ulam"
             ]
           },
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 6,
-            "actual": 6,
+            "actual": 8,
             "ids": [
               "indonesian-ayam-bakar-kecap",
               "indonesian-ayam-bumbu-bali",
+              "indonesian-ayam-goreng-lengkuas",
               "indonesian-ayam-goreng",
+              "indonesian-ayam-kalio",
               "indonesian-ayam-penyet",
               "indonesian-opor-ayam",
               "indonesian-sate-ayam"
@@ -4867,22 +4871,24 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "indonesian-sayur-asem",
               "indonesian-sayur-bening",
               "indonesian-sayur-lodeh",
               "indonesian-sop-ayam",
-              "indonesian-soto-ayam"
+              "indonesian-soto-ayam",
+              "indonesian-soto-betawi"
             ]
           },
           {
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "indonesian-gado-gado",
+              "indonesian-martabak-telur",
               "indonesian-perkedel",
               "indonesian-pisang-goreng",
               "indonesian-telur-dadar"
@@ -4892,12 +4898,14 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 6,
+            "actual": 8,
             "ids": [
               "indonesian-bubur-sumsum",
+              "indonesian-dadar-gulung",
               "indonesian-es-campur",
               "indonesian-es-teler",
               "indonesian-klepon",
+              "indonesian-kolak-pisang",
               "indonesian-nagasari",
               "indonesian-pisang-goreng"
             ]

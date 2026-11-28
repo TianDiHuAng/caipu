@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indonesian-soto-betawi",
+  "name": {
+    "zh": "印尼椰奶牛肉汤",
+    "en": "Soto Betawi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indonesian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 90,
+    "total_min": 112
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 600,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "椰奶",
+          "name_en": "coconut milk",
+          "amount": 400,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "柠檬叶",
+          "name_en": "kaffir lime leaf",
+          "amount": 4,
+          "unit": "piece",
+          "note": "去梗",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 2,
+          "unit": "piece",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "木勺",
+    "研磨碗",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切厚片，冷水下锅焯五分钟去血沫，捞出用温水冲净。",
+      "time_min": 12,
+      "heat": "大火",
+      "tip": "焯水后要用温水冲，冷水一激肉会发紧。",
+      "visual_cue": "牛肉表面干净，无灰色浮沫"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒植物油，下洋葱丝、蒜碎与南姜炒到洋葱透明。",
+      "time_min": 7,
+      "heat": "中火",
+      "tip": "洋葱炒出甜味，汤底才厚实不寡淡。",
+      "visual_cue": "洋葱软塌透明，香味明显"
+    },
+    {
+      "n": 3,
+      "text": "下牛肉片翻炒上色，加清水、柠檬叶与香茅大火烧开。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "水一次加足，中途加水汤味会变淡。",
+      "visual_cue": "汤面翻滚，牛肉变色收紧"
+    },
+    {
+      "n": 4,
+      "text": "转小火煮五十分钟至牛肉软，加土豆块与番茄再煮十五分钟。",
+      "time_min": 62,
+      "heat": "小火",
+      "tip": "土豆后放，早了会煮化在汤里。",
+      "visual_cue": "牛肉软而有形，土豆边缘微融"
+    },
+    {
+      "n": 5,
+      "text": "倒椰奶加盐与黑胡椒，小火加热五分钟至汤微沸，撒葱花即可。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "椰奶下锅后别大火滚，否则油水分离。",
+      "visual_cue": "汤色奶白微黄，表面浮少许油花"
+    }
+  ],
+  "tips": [
+    "椰奶要最后再加，这样香气保留得最好。",
+    "牛肉用带一点筋的部位，汤更浓。",
+    "汤必须小火慢煮，用急火牛肉不会软。",
+    "配白饭、炸红葱片与辣椒酱一起吃。"
+  ],
+  "common_mistakes": [
+    "焯水用冷水冲，牛肉瞬间收紧，怎么煮都硬。",
+    "椰奶大火滚煮，汤变成豆腐渣状。",
+    "盐放得太早，牛肉失水后越煮越柴。",
+    "番茄煮得太久，汤发酸盖住了椰香。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "鸡腿肉",
+      "ratio": "600克:600克",
+      "note": "煮的时间减到三十分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "芋头",
+      "ratio": "200克:200克",
+      "note": "更粉糯，汤更稠。"
+    }
+  ],
+  "variations": [
+    "加一把米粉同煮，就成了汤粉版本。",
+    "加两片酸菜同煮，酸香更开胃解腻。",
+    "配一块炸豆腐同煮，口感更丰富。"
+  ],
+  "serving_suggestion": "盛进深碗，撒葱花与炸红葱片，旁边放一碟甜辣酱和白饭，是雅加达街头最常见的早餐汤。",
+  "storage": "冷藏可放两天，椰奶汤不宜久放；复热用小火慢加热不要滚沸。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 486,
+    "protein_g": 32,
+    "fat_g": 30,
+    "carbs_g": 18,
+    "sodium_mg": 800,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛肉须煮至完全软烂熟透；椰奶汤易变质，须及时冷藏。",
+    "成品冷藏不超过两天，复热须彻底加热至汤沸腾。"
+  ],
+  "origin_note": "椰奶牛肉汤是雅加达的代表汤品，牛肉先焯后煮，汤里加南姜、柠檬叶与香茅，最后用椰奶把味道收圆。汤色奶白，喝一口先是椰香，后面才慢慢透出香料的暖。",
+  "tags": [
+    "印尼菜",
+    "汤",
+    "牛肉",
+    "椰奶"
+  ],
+  "related_ids": [
+    "indonesian-soto-ayam",
+    "indonesian-sop-ayam",
+    "indonesian-beef-rendang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
