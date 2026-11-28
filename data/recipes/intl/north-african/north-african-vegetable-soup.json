@@ -1,0 +1,302 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "north-african-vegetable-soup",
+  "name": {
+    "zh": "北非蔬菜浓汤",
+    "en": "Tunisian Vegetable Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "north-african"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 504,
+    "cook_min": 61,
+    "total_min": 565
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "南瓜",
+          "name_en": "pumpkin",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "西葫芦",
+          "name_en": "zucchini",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "鹰嘴豆",
+          "name_en": "chickpea",
+          "amount": 120,
+          "unit": "g",
+          "note": "泡发",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 5,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺",
+    "搅拌机",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鹰嘴豆提前浸泡八小时，泡到豆粒胀大、表皮一搓就掉。",
+      "time_min": 480,
+      "heat": "无火",
+      "tip": "赶时间可用高压锅压十五分钟代替浸泡。",
+      "visual_cue": "豆粒胀大，表皮发皱"
+    },
+    {
+      "n": 2,
+      "text": "南瓜去皮切成三厘米块，西葫芦切成滚刀块备用。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "南瓜切大块久煮不散，汤才不会被煮成泥。",
+      "visual_cue": "南瓜块方正，西葫芦块均匀"
+    },
+    {
+      "n": 3,
+      "text": "洋葱切小丁，胡萝卜切细丁，大蒜切末，香菜切碎。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "胡萝卜切小一点，煮到后面甜味更容易出来。",
+      "visual_cue": "各料切好分装，丁块均匀"
+    },
+    {
+      "n": 4,
+      "text": "汤锅倒橄榄油下洋葱丁中火炒五分钟至软塌透明。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒透，汤的甜味基础才够。",
+      "visual_cue": "洋葱透明软塌，锅底泛油"
+    },
+    {
+      "n": 5,
+      "text": "加蒜末、孜然和姜黄，小火炒一分钟至香气散出即可。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "姜黄容易发苦，小火炒一分钟就够。",
+      "visual_cue": "香料颜色均匀，香气扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "下胡萝卜丁与鹰嘴豆翻炒两分钟，倒入清水大火烧开。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "水一次加足，中途加水汤会变稀。",
+      "visual_cue": "水面翻滚，豆子沉底"
+    },
+    {
+      "n": 7,
+      "text": "转小火煮二十五分钟至豆子变软，再下南瓜与西葫芦煮十五分钟。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "南瓜西葫芦后放，久煮会化在汤里。",
+      "visual_cue": "南瓜一压即碎，西葫芦微软"
+    },
+    {
+      "n": 8,
+      "text": "加盐与黑胡椒，关火挤入柠檬汁，撒香菜碎盛碗。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "柠檬汁关火后挤，酸香才清亮。",
+      "visual_cue": "汤色金黄，表面浮着香菜"
+    }
+  ],
+  "tips": [
+    "鹰嘴豆泡足八小时，煮起来才省时省火。",
+    "南瓜和西葫芦后放，久煮会化成一锅泥。",
+    "姜黄小火炒一分钟，久了会发苦。",
+    "柠檬汁关火后挤，酸味才清爽不闷。"
+  ],
+  "common_mistakes": [
+    "所有蔬菜一起下锅，最后全煮烂没有层次。",
+    "姜黄大火炒到发黑，整锅汤带苦味。",
+    "汤里一次放太多水，成品寡淡没有菜味。",
+    "香菜和柠檬一起煮，香气全被煮跑。"
+  ],
+  "substitutions": [
+    {
+      "original": "南瓜",
+      "substitute": "胡萝卜",
+      "ratio": "300克:300克",
+      "note": "甜味更内敛，汤色更橙。"
+    },
+    {
+      "original": "鹰嘴豆",
+      "substitute": "小扁豆",
+      "ratio": "120克:100克",
+      "note": "不用浸泡，煮二十分钟即可。"
+    }
+  ],
+  "variations": [
+    "加一小勺辣椒粉，汤会更有北非风味。",
+    "最后撒一把烤香的芝麻，香气更浓。",
+    "加一勺番茄膏同煮，汤色更红亮。"
+  ],
+  "serving_suggestion": "盛在深碗里，配一块烤饼，最后淋一点橄榄油，热乎乎的汤汁最能暖胃。",
+  "storage": "冷藏可放三天，复热须小火加热并搅动，南瓜会沉底易糊。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 286,
+    "protein_g": 12,
+    "fat_g": 11,
+    "carbs_g": 36,
+    "sodium_mg": 840,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "鹰嘴豆须充分泡发并彻底煮软；蔬菜汤含糖分较高，复热时注意搅动防糊底。",
+    "冷藏不超过三天，复热须彻底煮沸。"
+  ],
+  "origin_note": "突尼斯蔬菜浓汤是家里的清冰箱做法，南瓜、西葫芦和胡萝卜切块，和泡好的鹰嘴豆一起下锅，用孜然和姜黄调味。汤色金黄，蔬菜的甜与香料的暖融在一起，配烤饼正好。",
+  "tags": [
+    "北非",
+    "汤品",
+    "蔬菜",
+    "清淡"
+  ],
+  "related_ids": [
+    "north-african-chorba-beef",
+    "north-african-lentil-soup",
+    "north-african-chickpea-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

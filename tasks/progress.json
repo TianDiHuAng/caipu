@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T14:35:17.577Z",
+  "generatedAt": "2026-11-28T14:55:53.165Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 3018,
-    "coverage": 0.921808185705559
+    "actual": 3026,
+    "coverage": 0.9242516799022602
   },
   "regions": {
     "cn": [
@@ -8321,28 +8321,32 @@
         "en": "North African",
         "tier": "B",
         "target": 38,
-        "actual": 25,
+        "actual": 33,
         "cells": [
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "north-african-bissara",
+              "north-african-chickpea-soup",
               "north-african-chorba-beef",
               "north-african-harira",
-              "north-african-lentil-soup"
+              "north-african-lentil-soup",
+              "north-african-vegetable-soup"
             ]
           },
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "north-african-eggplant-tagine",
+              "north-african-spinach-chickpeas",
               "north-african-taktouka",
+              "north-african-tomato-pepper-stew",
               "north-african-zaalouk"
             ]
           },
@@ -8350,20 +8354,23 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "north-african-harcha",
+              "north-african-harissa-flatbread",
               "north-african-khobz",
-              "north-african-msemen"
+              "north-african-msemen",
+              "north-african-sesame-sticks"
             ]
           },
           {
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "north-african-carrot-salad",
+              "north-african-chickpea-salad",
               "north-african-mechouia"
             ]
           },
@@ -8371,9 +8378,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "north-african-ghriba",
+              "north-african-honey-almond-cake",
               "north-african-orange-cinnamon",
               "north-african-sellou"
             ]
