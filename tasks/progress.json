@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:34:49.287Z",
+  "generatedAt": "2026-11-28T05:46:55.980Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2850,
-    "coverage": 0.870494807574832
+    "actual": 2858,
+    "coverage": 0.8729383017715333
   },
   "regions": {
     "cn": [
@@ -1904,15 +1904,17 @@
         "en": "Beijing",
         "tier": "B",
         "target": 38,
-        "actual": 22,
+        "actual": 30,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 6,
             "ids": [
+              "beijing-congbao-yangrou",
               "beijing-hongshao-niurou",
+              "beijing-ta-simi",
               "beijing-tangcu-paigu",
               "culiu-muxu",
               "jingjiang-rousi"
@@ -1922,10 +1924,13 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 6,
             "ids": [
               "beijing-chaogeda",
+              "beijing-congyou-bamian",
               "beijing-dalu-mian",
+              "beijing-fanqie-danmian",
+              "beijing-zhima-liangmian",
               "zhajiangmian"
             ]
           },
@@ -1933,9 +1938,10 @@
             "category": "snack",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "beijing-aiwowo",
+              "beijing-tangyoubing",
               "beijing-zha-guanchang",
               "beijing-zhima-shaobing",
               "chaogan",
@@ -1946,8 +1952,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "beijing-hongdou-gao",
+              "beijing-naiyou-zhagao",
               "beijing-sanbuzhan",
               "lvdagun",
               "wandou-huang"
