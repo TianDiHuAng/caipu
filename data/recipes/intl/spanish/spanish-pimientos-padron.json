@@ -4,26 +4,25 @@
   "id": "spanish-pimientos-padron",
   "name": {
     "zh": "煎小青椒",
-    "en": "Pimientos de Padron",
-    "original": "Pimientos de Padrón"
+    "en": "Padron Peppers"
   },
   "cuisine": {
     "region": "intl",
     "style": "spanish"
   },
   "category": [
-    "appetizer"
+    "main-vegetable"
   ],
   "difficulty": 1,
   "time": {
     "prep_min": 8,
-    "cook_min": 17,
-    "total_min": 25
+    "cook_min": 12,
+    "total_min": 20
   },
   "servings": 3,
   "flavor": [
-    "salty",
-    "smoky",
+    "savory",
+    "spicy",
     "light"
   ],
   "ingredients": [
@@ -35,18 +34,18 @@
           "name_en": "green bell pepper",
           "amount": 450,
           "unit": "g",
-          "note": "小个头",
+          "note": "小青椒整只",
           "optional": false
         }
       ]
     },
     {
-      "group": "aux",
+      "group": "seasoning",
       "items": [
         {
           "name": "橄榄油",
           "name_en": "olive oil",
-          "amount": 50,
+          "amount": 40,
           "unit": "ml",
           "note": "煎制",
           "optional": false
@@ -54,146 +53,132 @@
         {
           "name": "盐",
           "name_en": "salt",
-          "amount": 6,
+          "amount": 5,
           "unit": "g",
-          "note": "粗盐",
-          "optional": false
-        },
-        {
-          "name": "柠檬",
-          "name_en": "lemon",
-          "amount": 1,
-          "unit": "piece",
-          "note": "切角",
+          "note": "撒面",
           "optional": false
         }
       ]
     }
   ],
   "equipment": [
-    "平底锅",
-    "夹子",
-    "盘",
-    "厨房纸"
+    "铸铁锅",
+    "碗",
+    "锅铲",
+    "厨房纸",
+    "夹子"
   ],
   "steps": [
     {
       "n": 1,
-      "text": "小青椒洗净，用厨房纸彻底擦干表面水分。，看准状态再往下做。",
-      "time_min": 5,
+      "text": "小青椒用清水冲洗干净，用厨房纸把表面水分彻底擦干。",
+      "time_min": 8,
       "heat": "无火",
-      "tip": "带水下锅会溅油，也煎不出虎皮。，看准状态再往下做。",
-      "visual_cue": "椒身干爽，蒂头完整"
+      "tip": "小青椒必须擦干，带水下油锅会猛烈溅油。",
+      "visual_cue": "青椒表面干爽，蒂部完整不破"
     },
     {
       "n": 2,
-      "text": "平底锅倒橄榄油，中大火烧到油面微微起烟。，看准状态再往下做。",
+      "text": "铸铁锅大火空烧两分钟，倒橄榄油烧到微微冒烟。",
       "time_min": 4,
-      "heat": "中火",
-      "tip": "油温够高，青椒才起虎皮。，看准状态再往下做。",
-      "visual_cue": "油面泛光，轻烟升起"
+      "heat": "大火",
+      "tip": "锅要够热，青椒下锅才能立刻起虎皮斑。",
+      "visual_cue": "油面泛起细烟，锅底油光波动"
     },
     {
       "n": 3,
-      "text": "小青椒整只下锅铺平，别重叠。，看准状态再往下做。",
-      "time_min": 2,
-      "heat": "中火",
-      "tip": "铺平受热才均匀，别叠在一起。，看准状态再往下做。",
-      "visual_cue": "椒身平铺，油泡翻起"
+      "text": "小青椒整只下锅，铺成一层不要重叠，煎两分钟至表皮起泡发皱。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "一层铺开才煎得匀，堆在一起会焖软出水。",
+      "visual_cue": "表皮起白泡，局部出现焦斑"
     },
     {
       "n": 4,
-      "text": "一面煎两分钟到表皮起皱发褐再翻面。，看准状态再往下做。",
-      "time_min": 4,
-      "heat": "中火",
-      "tip": "起虎皮再翻，香气才出来。，看准状态再往下做。",
-      "visual_cue": "表皮起泡，颜色发褐"
+      "text": "用夹子翻面再煎两分钟，让另一面也煎出焦斑并彻底变软。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "两面都要煎到起斑，青椒的甜味才出来。",
+      "visual_cue": "青椒整体变软塌，两面都有虎皮"
     },
     {
       "n": 5,
-      "text": "另一面同样煎到起皱，用夹子翻动检查。，看准状态再往下做。",
-      "time_min": 3,
-      "heat": "中火",
-      "tip": "青椒软了就行，别煎成糊。，看准状态再往下做。",
-      "visual_cue": "椒身变软，表皮斑驳"
-    },
-    {
-      "n": 6,
-      "text": "捞出放厨房纸上吸去多余油分。，看准状态再往下做。",
+      "text": "撒上海盐快速翻匀，让盐粒挂在青椒表面，趁热装盘。",
       "time_min": 2,
       "heat": "无火",
-      "tip": "吸油后口感才清爽不腻。，看准状态再往下做。",
-      "visual_cue": "纸面泛油，椒身干爽"
-    },
-    {
-      "n": 7,
-      "text": "装盘趁热撒粗盐，配柠檬角上桌。，看准状态再往下做。",
-      "time_min": 2,
-      "heat": "无火",
-      "tip": "趁热撒盐，盐才挂得住。，看准状态再往下做。",
-      "visual_cue": "盐粒闪光，椒香扑鼻"
+      "tip": "盐要最后撒，早撒会出水把焦斑泡软。",
+      "visual_cue": "盐粒清晰附着，青椒油亮微皱"
     }
   ],
   "tips": [
-    "青椒要擦干，才能煎出虎皮。，成败就在这一步。",
-    "油温要够高，青椒才不软塌。，这点要注意。",
-    "趁热撒盐，咸味才均匀。，这是关键点。"
+    "青椒一定擦干再下锅，否则油会溅得吓人。",
+    "锅要烧到足够热，青椒才能煎出虎皮斑。",
+    "整只下锅别切开，保留汁水才好吃。",
+    "盐最后撒，撒早了青椒出水，焦斑就不脆了。"
   ],
   "common_mistakes": [
-    "青椒带水下锅，油溅得到处都是。，别嫌麻烦，做完它。",
-    "火太小，青椒煮软没焦香。，这一步别省。",
-    "盐撒太早，青椒出水变咸汤。，别跳过这步。"
+    "青椒带水下锅，油花四溅还容易烫伤。",
+    "锅温不够就下青椒，煎出来是软塌塌的水煮味。",
+    "青椒堆成一堆，下面的焖软上面还没熟。",
+    "提前撒盐，青椒出水，表皮一点都不起皱。"
   ],
   "substitutions": [
     {
       "original": "青椒",
-      "substitute": "尖椒",
-      "ratio": "450 克:450 克",
-      "note": "更辣，用量减半。"
+      "substitute": "杭椒",
+      "ratio": "450克:450克",
+      "note": "辣度更高，海盐可略减。"
     },
     {
       "original": "橄榄油",
-      "substitute": "植物油",
-      "ratio": "50 毫升:50 毫升",
-      "note": "风味稍淡，用量可减。"
+      "substitute": "玉米油",
+      "ratio": "40毫升:40毫升",
+      "note": "烟点更高，风味略淡。"
     }
   ],
   "variations": [
-    "撒一点海盐片，口感更有层次。，这步最关键。",
-    "淋几滴香醋，酸香更清爽。，很多人在这里出错。"
+    "出锅后挤几滴柠檬汁，酸香解腻。",
+    "撒一点粗粒红椒粉，颜色和香气都更足。",
+    "配一碟蒜香蛋黄酱蘸着吃，是酒吧常见的搭法。"
   ],
-  "serving_suggestion": "当餐前小食，配冰啤酒最爽。，这里最容易翻车。",
-  "storage": "当日吃完，冷藏后口感变差。，别小看这一步。",
+  "serving_suggestion": "趁热装盘，撒足海盐，配冰啤酒或红酒当餐前小吃，用手直接拿着吃最地道。",
+  "storage": "现做现吃最佳，冷藏可放一天，复热用大火快煎一分钟恢复焦香。",
   "nutrition_estimate": {
-    "basis": "每份约 160 克",
-    "calories_kcal": 140,
-    "protein_g": 2,
-    "fat_g": 12,
+    "basis": "按三人份估算",
+    "calories_kcal": 126,
+    "protein_g": 3,
+    "fat_g": 14,
     "carbs_g": 6,
-    "sodium_mg": 760,
+    "sodium_mg": 640,
     "is_estimate": true,
     "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
   "allergens": [],
-  "diet_tags": [],
-  "food_safety_notes": [
-    "煎制时油温高，注意防止热油溅出；青椒须煎至表皮起皱、椒身变软后食用。"
+  "diet_tags": [
+    "vegan",
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
   ],
-  "origin_note": "西班牙西北部的小镇以这道小菜出名，青椒煎出虎皮撒粗盐。十个里有一个特别辣，吃到的人要请客。，成败就在这一步。",
+  "food_safety_notes": [
+    "青椒须煎至表皮起泡、整体变软，避免半生带生涩味。",
+    "煎制时油温高，注意防止热油飞溅烫伤。"
+  ],
+  "origin_note": "煎小青椒是西班牙酒吧里最常见的下酒小菜，小青椒整只在滚烫的橄榄油里煎到起虎皮斑，撒一把粗海盐就上桌。吃起来软嫩多汁，十只里偶尔有一只辣得人直吸气，这正是它的乐趣。",
   "tags": [
+    "西餐",
     "西班牙",
-    "小食",
-    "青椒",
-    "下酒菜"
+    "素菜",
+    "小吃"
   ],
   "related_ids": [
     "spanish-patatas-bravas",
-    "gambas-al-ajillo",
-    "spanish-pan-con-tomate"
+    "spanish-pisto",
+    "spanish-gazpacho"
   ],
   "image_url": null,
   "image_credit": null,
   "status": "published",
-  "created_at": "2026-11-23",
-  "updated_at": "2026-11-23"
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
 }

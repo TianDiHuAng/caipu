@@ -4,28 +4,26 @@
   "id": "spanish-tortilla-espanola",
   "name": {
     "zh": "西班牙土豆蛋饼",
-    "en": "Spanish Potato Omelette",
-    "original": "Tortilla española"
+    "en": "Spanish Potato Omelette"
   },
   "cuisine": {
     "region": "intl",
     "style": "spanish"
   },
   "category": [
-    "breakfast",
     "main-egg"
   ],
   "difficulty": 2,
   "time": {
-    "prep_min": 20,
-    "cook_min": 25,
-    "total_min": 45
+    "prep_min": 27,
+    "cook_min": 40,
+    "total_min": 67
   },
-  "servings": 4,
+  "servings": 3,
   "flavor": [
     "savory",
     "umami",
-    "light"
+    "rich"
   ],
   "ingredients": [
     {
@@ -36,23 +34,15 @@
           "name_en": "potato",
           "amount": 500,
           "unit": "g",
-          "note": "切两毫米薄片",
+          "note": "切薄片",
           "optional": false
         },
         {
           "name": "鸡蛋",
           "name_en": "egg",
-          "amount": 300,
-          "unit": "g",
-          "note": "约六枚，回温后打散",
-          "optional": false
-        },
-        {
-          "name": "橄榄油",
-          "name_en": "olive oil",
-          "amount": 120,
-          "unit": "ml",
-          "note": "低温浸炸土豆用",
+          "amount": 6,
+          "unit": "piece",
+          "note": "打散",
           "optional": false
         }
       ]
@@ -65,7 +55,28 @@
           "name_en": "onion",
           "amount": 120,
           "unit": "g",
-          "note": "切细丝，可不放",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "煎土豆",
           "optional": false
         },
         {
@@ -73,7 +84,7 @@
           "name_en": "salt",
           "amount": 6,
           "unit": "g",
-          "note": "分两次撒入",
+          "note": "调味",
           "optional": false
         },
         {
@@ -81,129 +92,139 @@
           "name_en": "black pepper",
           "amount": 2,
           "unit": "g",
-          "note": "现磨，可选",
+          "note": "调味",
           "optional": false
         }
       ]
     }
   ],
   "equipment": [
-    "不粘平底锅",
-    "打蛋器",
-    "大碗",
+    "不粘锅",
+    "刀",
+    "砧板",
+    "碗",
     "锅铲",
-    "盘子"
+    "盘"
   ],
   "steps": [
     {
       "n": 1,
-      "text": "土豆削皮切成两毫米厚的薄片，用三克盐抓匀静置十分钟，倒掉渗出的水并用厨房纸吸干表面。",
+      "text": "土豆去皮切成三毫米厚的薄片，洋葱切成细丝备用。",
       "time_min": 12,
       "heat": "无火",
-      "tip": "土豆片一定要薄且干，带水下锅会溅油也不易煎软。",
-      "visual_cue": "土豆片边缘半透明，表面干爽不粘连"
+      "tip": "土豆片一定要切薄切匀，太厚煎不透会夹生。",
+      "visual_cue": "土豆片厚薄一致，边缘透光"
     },
     {
       "n": 2,
-      "text": "平底锅倒橄榄油烧到四成热，下土豆片和洋葱丝小火慢煎，中途翻动三四次避免粘底。",
-      "time_min": 15,
-      "heat": "小火",
-      "tip": "油温不能高，土豆只需被油泡软而不是炸成薯片。",
-      "visual_cue": "土豆片变软能弯曲，颜色浅黄不焦"
+      "text": "不粘锅倒橄榄油炸土豆片与洋葱丝，中小火慢煎十五分钟至软而不焦。",
+      "time_min": 17,
+      "heat": "中小火",
+      "tip": "油温别高，土豆是泡在温油里煮软而不是炸脆。",
+      "visual_cue": "土豆片软塌透明，边缘微黄"
     },
     {
       "n": 3,
-      "text": "捞出土豆洋葱沥油，把余下三克盐与黑胡椒撒入蛋液打散，再把沥干的土豆片拌进蛋液静置十分钟。",
-      "time_min": 12,
+      "text": "用漏勺把土豆洋葱捞出沥油，土豆片用铲子轻轻压散成小块。",
+      "time_min": 5,
       "heat": "无火",
-      "tip": "静置这十分钟让土豆吸饱蛋液，煎好才不会层层分离。",
-      "visual_cue": "蛋液被土豆吸收大半，碗底只剩薄薄一层"
+      "tip": "沥油彻底一点，蛋饼才不会油腻。",
+      "visual_cue": "土豆片松软不成泥，漏勺上油滴干净"
     },
     {
       "n": 4,
-      "text": "锅里留一大勺油，倒入土豆蛋液糊摊平，小火煎六分钟让底部定型，晃动锅确认能整块滑动。",
-      "time_min": 7,
-      "heat": "小火",
-      "tip": "火太大会外焦内生，边缘先翘起来就说明底部定型了。",
-      "visual_cue": "蛋饼边缘收紧泛金黄，中心仍微微晃动"
+      "text": "鸡蛋打散加盐与黑胡椒，倒入温热的土豆洋葱拌匀，静置五分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "热土豆拌蛋液才吸得进去，静置让蛋液裹匀。",
+      "visual_cue": "蛋液浓稠挂住土豆，颜色金黄"
     },
     {
       "n": 5,
-      "text": "取一个大于锅口的盘子扣住锅口翻面，再滑回锅内小火煎五分钟至中心凝固。",
+      "text": "锅留一大勺橄榄油中火烧热，倒入蛋液混合物，用铲子把边缘往中间推。",
       "time_min": 6,
-      "heat": "小火",
-      "tip": "翻面动作要快而稳，先锅后盘再回锅，别在空中翻转。",
-      "visual_cue": "两面金黄，按压中心有弹性不出蛋液"
+      "heat": "中火",
+      "tip": "边缘往里推能让蛋饼更厚实，中间不塌。",
+      "visual_cue": "表面微微凝固，边缘圆整上翘"
     },
     {
       "n": 6,
-      "text": "出锅静置五分钟再切块，切面整齐不塌，冷吃热吃都合适。",
-      "time_min": 5,
-      "heat": "无火",
-      "tip": "刚出锅就切会散，静置能让内部结构收紧。",
-      "visual_cue": "切面蛋体紧实，土豆片分层清晰"
+      "text": "转小火加盖焖六分钟，翻面再焖四分钟，出锅前撒欧芹碎切块。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "翻面用一个平盘扣住倒扣，蛋饼才不会破。",
+      "visual_cue": "两面金黄，切开内里湿润不流蛋液"
     }
   ],
   "tips": [
-    "油量看着多但大部分会沥出，油太少土豆煎不透只能煮软。",
-    "传统做法只用土豆与蛋，加洋葱版本更甜润，两种都算正宗。",
-    "煎好的蛋饼室温放凉两小时风味最好，是西班牙酒吧常见吃法。"
+    "土豆片切薄切匀，煎出来才软糯不夹生。",
+    "土豆要在温油里慢慢煮软，不是大火炸脆。",
+    "蛋液和热土豆拌好后静置五分钟，味道更融合。",
+    "翻面用盘子扣着倒扣，整块蛋饼完整不掉渣。"
   ],
   "common_mistakes": [
-    "土豆片切太厚，煎好后中心还是硬的。",
-    "全程大火，外层焦黑而内部蛋液还在流动。",
-    "蛋液拌好立刻下锅，土豆没吸汁导致切片时整层脱落。"
+    "土豆片切太厚，煎完中间还是生的。",
+    "油温太高把土豆炸成脆片，蛋饼就没有软糯感了。",
+    "蛋液没裹匀就下锅，切开的蛋饼一层蛋一层土豆。",
+    "开大火煎，底面焦黑而中心还在流蛋液。"
   ],
   "substitutions": [
     {
-      "original": "橄榄油",
-      "substitute": "食用油",
-      "ratio": "1:1",
-      "note": "风味稍逊但更适合高温操作。"
+      "original": "土豆",
+      "substitute": "红薯",
+      "ratio": "500克:500克",
+      "note": "甜味更明显，煎的时间加两分钟。"
     },
     {
       "original": "洋葱",
-      "substitute": "大葱白",
-      "ratio": "120 克:100 克",
-      "note": "甜味略淡，需多煎两分钟。"
+      "substitute": "大葱",
+      "ratio": "120克:100克",
+      "note": "辛香更冲，甜味略淡。"
     }
   ],
   "variations": [
-    "拌入切碎的西班牙火腿或甜椒丁，可做成加料版本。"
+    "加几片西班牙香肠同煎，油脂渗进蛋饼里更香。",
+    "喜欢溏心的可以缩短焖的时间，中间保留一点流动的蛋液。",
+    "放凉后切块当餐前小吃，配面包吃很地道。"
   ],
-  "serving_suggestion": "切三角块，配面包与一杯干型雪莉酒。",
-  "storage": "冷藏两天，复热时用平底锅小火两面各煎一分钟。",
+  "serving_suggestion": "切成六块楔形，温热或放凉后食用都合适，配一杯红酒和几片面包就是西班牙人的家常午餐。",
+  "storage": "冷藏可放两天，复热用平底锅小火两面各煎一分钟，微波加热会让蛋变韧。",
   "nutrition_estimate": {
-    "basis": "每份约 230 克",
-    "calories_kcal": 340,
-    "protein_g": 15,
-    "fat_g": 24,
-    "carbs_g": 18,
-    "sodium_mg": 640,
+    "basis": "按三人份估算",
+    "calories_kcal": 452,
+    "protein_g": 18,
+    "fat_g": 32,
+    "carbs_g": 22,
+    "sodium_mg": 720,
     "is_estimate": true,
     "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
   "allergens": [
     "egg"
   ],
-  "diet_tags": [],
-  "food_safety_notes": [
-    "鸡蛋须煎至中心完全凝固、不再有流动蛋液，中心温度达到七十一度以上；含蛋菜品放凉后须冷藏，室温放置不超过两小时。"
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
   ],
-  "origin_note": "土豆蛋饼是西班牙最家常的一道菜，传说源自纳瓦拉地区的农家，用土豆和鸡蛋就能喂饱一家人。做法只有煎与翻面两步，却考验火候，各地对加不加洋葱至今仍有争论。",
+  "food_safety_notes": [
+    "鸡蛋须煎至中心凝固不流生蛋液，避免沙门氏菌风险；老人与儿童不宜吃溏心版。",
+    "成品冷藏不超过两天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "土豆蛋饼是西班牙最家常的一道国民菜，土豆片在温油里煮软，拌进蛋液里静置入味，再小火煎成厚厚一块。切开内里湿润，土豆软糯带着蛋香，配面包就能当一顿饭。",
   "tags": [
+    "西餐",
     "西班牙",
-    "蛋饼",
-    "土豆",
-    "家常"
+    "蛋类",
+    "家常菜"
   ],
   "related_ids": [
-    "spanish-gazpacho",
-    "french-coq-au-vin"
+    "spanish-patatas-bravas",
+    "spanish-huevos-rotos",
+    "spanish-pisto"
   ],
   "image_url": null,
   "image_credit": null,
   "status": "published",
-  "created_at": "2026-11-21",
-  "updated_at": "2026-11-21"
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
 }

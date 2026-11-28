@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-28T12:15:24.731Z
+> 生成时间：2026-11-28T12:32:31.667Z
 
-**总览**：工程任务 49/53；菜谱内容 2975/3274（90.9%），共 659 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2978/3274（91.0%），共 659 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -430,7 +430,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1668/1935）
+### 外国菜系（1671/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，103/107</summary>
 
@@ -531,22 +531,22 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>西班牙菜 spanish</b> — A 级，95/107</summary>
+<details><summary><b>西班牙菜 spanish</b> — A 级，98/107</summary>
 
-- [ ] `P4-spanish/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 13
-- [ ] `P4-spanish/appetizer` 前菜（Appetizer）目标 15，已完成 11
+- [ ] `P4-spanish/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 14
+- [ ] `P4-spanish/appetizer` 前菜（Appetizer）目标 15，已完成 10
 - [ ] `P4-spanish/staple-rice` 主食·饭（Rice Dish）目标 15，已完成 12
 - [ ] `P4-spanish/dessert` 甜点（Dessert）目标 15，已完成 14
 - [ ] `P4-spanish/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 14
-- [ ] `P4-spanish/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 5
+- [ ] `P4-spanish/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 7
 - [ ] `P4-spanish/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 5
 - [ ] `P4-spanish/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 5
 - [ ] `P4-spanish/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 5
-- [x] `P4-spanish/soup` 汤羹（Soup）目标 0，已完成 4
-- [x] `P4-spanish/main-meat` 主菜·肉（Meat Main）目标 0，已完成 2
+- [x] `P4-spanish/soup` 汤羹（Soup）目标 0，已完成 5
+- [x] `P4-spanish/main-meat` 主菜·肉（Meat Main）目标 0，已完成 3
 - [x] `P4-spanish/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2
-- [x] `P4-spanish/breakfast` 早餐（Breakfast）目标 0，已完成 2
 - [x] `P4-spanish/snack` 小吃（Street Food）目标 0，已完成 1
+- [x] `P4-spanish/breakfast` 早餐（Breakfast）目标 0，已完成 1
 
 </details>
 

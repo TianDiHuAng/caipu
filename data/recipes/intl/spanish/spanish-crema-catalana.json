@@ -1,218 +1,230 @@
 {
- "schema_version": "1.0",
- "content_version": 1,
- "id": "spanish-crema-catalana",
- "name": {
-  "zh": "加泰罗尼亚焦糖奶冻",
-  "en": "Crema Catalana"
- },
- "cuisine": {
-  "region": "intl",
-  "style": "spanish"
- },
- "category": [
-  "dessert"
- ],
- "difficulty": 2,
- "time": {
-  "prep_min": 20,
-  "cook_min": 26,
-  "total_min": 46
- },
- "servings": 4,
- "flavor": [
-  "sweet",
-  "rich",
-  "fragrant"
- ],
- "ingredients": [
-  {
-   "group": "main",
-   "items": [
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "spanish-crema-catalana",
+  "name": {
+    "zh": "加泰罗尼亚焦糖奶冻",
+    "en": "Catalan Cream"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "spanish"
+  },
+  "category": [
+    "dessert"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 216,
+    "cook_min": 28,
+    "total_min": 244
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
     {
-     "name": "牛奶",
-     "name_en": "milk",
-     "amount": 620,
-     "unit": "ml",
-     "note": "全脂",
-     "optional": false
+      "group": "main",
+      "items": [
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 600,
+          "unit": "ml",
+          "note": "全脂",
+          "optional": false
+        },
+        {
+          "name": "蛋黄",
+          "name_en": "egg yolk",
+          "amount": 5,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取皮屑",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 1,
+          "unit": "piece",
+          "note": "一小段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 110,
+          "unit": "g",
+          "note": "其中四十克熬焦糖",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 25,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "香草荚",
+          "name_en": "vanilla pod",
+          "amount": 3,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
     }
-   ]
-  },
-  {
-   "group": "aux",
-   "items": [
+  ],
+  "equipment": [
+    "汤锅",
+    "碗",
+    "打蛋器",
+    "烤盅",
+    "筛",
+    "喷枪"
+  ],
+  "steps": [
     {
-     "name": "蛋黄",
-     "name_en": "egg yolk",
-     "amount": 130,
-     "unit": "g",
-     "note": "打散",
-     "optional": false
+      "n": 1,
+      "text": "牛奶倒入汤锅，加柠檬皮屑、桂皮卷与香草荚，小火加热到边缘冒小泡后离火。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "牛奶别煮沸，边缘冒泡就关火，否则会起皮。",
+      "visual_cue": "奶面微颤冒气，桂皮香味散出"
     },
     {
-     "name": "白糖",
-     "name_en": "sugar",
-     "amount": 150,
-     "unit": "g",
-     "note": "分两部分",
-     "optional": false
+      "n": 2,
+      "text": "蛋黄加白砂糖与玉米淀粉搅打到发白起稠，形成细腻的蛋糊。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "搅打到颜色变浅，淀粉才不会结块。",
+      "visual_cue": "蛋糊颜色浅黄，舀起能缓缓流下"
     },
     {
-     "name": "玉米淀粉",
-     "name_en": "cornstarch",
-     "amount": 25,
-     "unit": "g",
-     "note": "增稠",
-     "optional": false
+      "n": 3,
+      "text": "把温热牛奶慢慢冲进蛋糊，边冲边搅，滤回锅中用小火加热。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "牛奶要慢慢冲，一次倒会烫成蛋花。",
+      "visual_cue": "混合液均匀顺滑，筛上无颗粒"
     },
     {
-     "name": "柠檬",
-     "name_en": "lemon",
-     "amount": 40,
-     "unit": "g",
-     "note": "取皮屑",
-     "optional": false
+      "n": 4,
+      "text": "持续小火搅拌八分钟，加热到奶糊浓稠能挂住刮刀后离火。",
+      "time_min": 9,
+      "heat": "小火",
+      "tip": "全程不停搅，停手就会糊底。",
+      "visual_cue": "奶糊浓稠，刮刀划过留下清晰痕迹"
     },
     {
-     "name": "黄油",
-     "name_en": "butter",
-     "amount": 15,
-     "unit": "g",
-     "note": "增亮",
-     "optional": false
+      "n": 5,
+      "text": "趁热舀进四个烤盅，表面抹平，放凉后冷藏三小时至完全凝固。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "表面抹平成品才好看，冷藏时间要足。",
+      "visual_cue": "奶冻平整光滑，轻晃微颤"
+    },
+    {
+      "n": 6,
+      "text": "表面撒一层薄薄的白砂糖，用喷枪烤成琥珀色脆壳即可。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "糖层要薄才脆，喷枪离远一点慢慢烤。",
+      "visual_cue": "表面琥珀色发亮，脆壳一敲就裂"
     }
-   ]
-  }
- ],
- "equipment": [
-  "汤锅",
-  "打蛋器",
-  "小烤碗",
-  "喷枪",
-  "滤网"
- ],
- "steps": [
-  {
-   "n": 1,
-   "text": "牛奶倒进汤锅，加柠檬皮屑小火加热到锅边冒小泡。",
-   "time_min": 7,
-   "heat": "小火",
-   "tip": "别煮到沸，牛奶滚开会结皮。，注意火候。",
-   "visual_cue": "锅边起泡，香气发甜，状态稳定"
+  ],
+  "tips": [
+    "牛奶只要加热到边缘冒泡，煮开会结皮。",
+    "牛奶冲蛋糊时慢慢倒、不停搅，才不结块。",
+    "全程小火不停搅拌，奶糊才不会糊底。",
+    "糖壳要薄，太厚咬不动还不易烤透。"
+  ],
+  "common_mistakes": [
+    "牛奶煮沸直接冲蛋，蛋糊立刻结成疙瘩。",
+    "搅拌中断三十秒，锅底就结了一层焦皮。",
+    "奶糊没熬稠就出锅，冷藏后仍是一摊液体。",
+    "糖撒太厚烤不透，表面一层砂糖硌牙。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛奶",
+      "substitute": "淡奶油",
+      "ratio": "600毫升:400毫升",
+      "note": "更醇厚，淀粉可减五克。"
+    },
+    {
+      "original": "香草精",
+      "substitute": "橙花水",
+      "ratio": "3毫升:3毫升",
+      "note": "香气更自然，可换成一小勺橙花水"
+    }
+  ],
+  "variations": [
+    "换成橙皮屑和橙花水，做成橙香版本很受欢迎。",
+    "表面撒一层肉桂粉再烤，香气更暖。",
+    "烤盅换成浅盘，焦糖面积更大，脆壳更过瘾。"
+  ],
+  "serving_suggestion": "冷藏后取出，现烤焦糖脆壳，一勺敲开配着奶冻吃，冰凉的奶香和焦糖的微苦刚好平衡。",
+  "storage": "未烤糖的奶冻冷藏可放两天，烤好糖壳的须半小时内食用，否则脆壳会回软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 342,
+    "protein_g": 10,
+    "fat_g": 16,
+    "carbs_g": 42,
+    "sodium_mg": 96,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
-  {
-   "n": 2,
-   "text": "蛋黄加一半白糖搅到发白，再筛入玉米淀粉搅匀。",
-   "time_min": 6,
-   "heat": "无火",
-   "tip": "先搅糖再筛粉，蛋黄糊才细腻无颗粒。，注意火候。",
-   "visual_cue": "蛋黄糊发白，顺滑无块，状态稳定"
-  },
-  {
-   "n": 3,
-   "text": "把热牛奶慢慢淋进蛋黄糊，边倒边搅防止结块。这一步不要着急。",
-   "time_min": 5,
-   "heat": "无火",
-   "tip": "牛奶要一点点倒，倒太快就成蛋花。，注意火候。",
-   "visual_cue": "混合液顺滑，颜色奶黄"
-  },
-  {
-   "n": 4,
-   "text": "混合液倒回锅里，小火加热并持续搅动六分钟。",
-   "time_min": 7,
-   "heat": "小火",
-   "tip": "手不能停，锅底一粘就会糊。，注意火候。",
-   "visual_cue": "液体变稠，能挂住勺子"
-  },
-  {
-   "n": 5,
-   "text": "熬到浓稠后离火加黄油搅匀，过筛倒进四个小烤碗。",
-   "time_min": 6,
-   "heat": "无火",
-   "tip": "过筛后口感才细腻，表面也平整。，注意火候。",
-   "visual_cue": "表面平滑，无气泡，状态稳定"
-  },
-  {
-   "n": 6,
-   "text": "晾到不烫手后冷藏两小时，让奶冻完全凝固定型。",
-   "time_min": 8,
-   "heat": "无火",
-   "tip": "冷藏足够时间才切得动，不然会塌。，注意火候。",
-   "visual_cue": "轻晃碗体，中心微颤，状态稳定"
-  },
-  {
-   "n": 7,
-   "text": "表面撒剩余白糖，用喷枪烧到焦糖色后即可上桌。",
-   "time_min": 4,
-   "heat": "无火",
-   "tip": "糖层要薄而匀，烧出琥珀色最香。，注意火候。",
-   "visual_cue": "表面焦脆，色泽琥珀，状态稳定"
-  }
- ],
- "tips": [
-  "牛奶别煮开，起小泡就够，避免结皮。，值得留意。",
-  "熬奶冻时手不能停，锅底糊了就发苦。，值得留意。",
-  "糖层要薄而匀，烧出的焦糖才脆。，值得留意。"
- ],
- "common_mistakes": [
-  "牛奶一次倒进蛋黄糊，全结成蛋花。，务必避免。",
-  "大火熬奶冻，锅底发焦整锅带苦味。，务必避免。",
-  "冷藏时间不够就脱模，奶冻塌成一摊。，务必避免。"
- ],
- "substitutions": [
-  {
-   "original": "玉米淀粉",
-   "substitute": "面粉",
-   "ratio": "25 克:25 克",
-   "note": "质地略粗，需多熬一分钟。"
-  },
-  {
-   "original": "柠檬",
-   "substitute": "橙子",
-   "ratio": "40 克:40 克",
-   "note": "果香更甜，糖可减十克。"
-  }
- ],
- "variations": [
-  "加一小段肉桂棒同煮牛奶，香气更传统。",
-  "表面撒少许肉桂粉再烧糖，风味更暖。，也很受欢迎。"
- ],
- "serving_suggestion": "冷藏后当餐后甜点，一勺敲开焦糖层最好吃。",
- "storage": "冷藏两天，焦糖层须现烧现吃。，效果更稳定。",
- "nutrition_estimate": {
-  "basis": "每份约 180 克",
-  "calories_kcal": 300,
-  "protein_g": 8,
-  "fat_g": 13,
-  "carbs_g": 38,
-  "sodium_mg": 110,
-  "is_estimate": true,
-  "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
- },
- "allergens": [
-  "egg",
-  "milk"
- ],
- "diet_tags": [],
- "food_safety_notes": [
-  "奶冻含生蛋黄，须加热至浓稠并彻底冷藏保存；冷藏不超过两天，婴儿不宜食用。"
- ],
- "origin_note": "加泰罗尼亚的传统甜点，牛奶蛋黄熬成奶冻，表面撒糖烧出一层琥珀色脆壳。一勺敲下去咔嚓作响，下面是冰凉滑润的奶香，质地比法式焦糖布丁更轻盈。",
- "tags": [
-  "西班牙",
-  "甜点",
-  "焦糖",
-  "奶冻"
- ],
- "related_ids": [
-  "flan",
-  "spanish-arroz-con-leche",
-  "churros"
- ],
- "image_url": null,
- "image_credit": null,
- "status": "published",
- "created_at": "2026-11-23",
- "updated_at": "2026-11-23"
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "蛋黄须加热至奶糊浓稠、中心达熟化温度；含蛋奶制品冷藏不超过两天。",
+    "喷枪烤糖时注意容器耐热与防火，避免烫伤。"
+  ],
+  "origin_note": "加泰罗尼亚焦糖奶冻是西班牙东北部的经典甜点，牛奶与蛋黄熬成浓稠奶糊，冷藏定型后撒糖用喷枪烤出琥珀色脆壳。敲开脆壳底下是冰凉绵密的奶冻，一勺下去两种口感。",
+  "tags": [
+    "西餐",
+    "西班牙",
+    "甜点",
+    "奶冻"
+  ],
+  "related_ids": [
+    "flan",
+    "churros",
+    "spanish-arroz-con-leche"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
 }

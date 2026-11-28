@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T12:15:24.660Z",
+  "generatedAt": "2026-11-28T12:32:31.586Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2975,
-    "coverage": 0.9086744043982895
+    "actual": 2978,
+    "coverage": 0.9095907147220526
   },
   "regions": {
     "cn": [
@@ -4603,13 +4603,13 @@
         "en": "Spanish",
         "tier": "A",
         "target": 107,
-        "actual": 95,
+        "actual": 98,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "bacalao-al-pil-pil",
               "gambas-al-ajillo",
@@ -4620,6 +4620,7 @@
               "spanish-bacalao-con-miel",
               "spanish-calamares-rellenos",
               "spanish-gambas-al-ajillo",
+              "spanish-mejillones-vino",
               "spanish-merluza-rebozada",
               "spanish-paella",
               "spanish-pulpo-a-la-gallega",
@@ -4630,7 +4631,7 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 10,
             "ids": [
               "calamares-fritos",
               "champinones-al-ajillo",
@@ -4640,7 +4641,6 @@
               "spanish-huevos-rotos",
               "spanish-pan-con-tomate",
               "spanish-patatas-bravas",
-              "spanish-pimientos-padron",
               "spanish-pimientos-rellenos",
               "tortilla-espanola"
             ]
@@ -4713,11 +4713,13 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 7,
             "ids": [
               "spanish-berenjenas-al-horno",
+              "spanish-berenjenas-miel",
               "spanish-garbanzos-con-espinacas",
               "spanish-patatas-rioja",
+              "spanish-pimientos-padron",
               "spanish-pisto",
               "tortilla-espanola"
             ]
@@ -4765,11 +4767,12 @@
             "category": "soup",
             "kind": "extra",
             "target": 0,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "gazpacho",
               "spanish-gazpacho",
               "spanish-salmorejo",
+              "spanish-sopa-castellana",
               "spanish-sopa-de-ajo"
             ]
           },
@@ -4777,10 +4780,11 @@
             "category": "main-meat",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "spanish-albondigas",
-              "spanish-lentejas-estofadas"
+              "spanish-lentejas-estofadas",
+              "spanish-pollo-al-ajillo"
             ]
           },
           {
@@ -4794,22 +4798,21 @@
             ]
           },
           {
-            "category": "breakfast",
-            "kind": "extra",
-            "target": 0,
-            "actual": 2,
-            "ids": [
-              "spanish-huevos-a-la-flamenca",
-              "spanish-tortilla-espanola"
-            ]
-          },
-          {
             "category": "snack",
             "kind": "extra",
             "target": 0,
             "actual": 1,
             "ids": [
               "spanish-empanada-gallega"
+            ]
+          },
+          {
+            "category": "breakfast",
+            "kind": "extra",
+            "target": 0,
+            "actual": 1,
+            "ids": [
+              "spanish-huevos-a-la-flamenca"
             ]
           }
         ]

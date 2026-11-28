@@ -3,8 +3,8 @@
   "content_version": 1,
   "id": "spanish-fideua",
   "name": {
-    "zh": "西班牙短面海鲜饭",
-    "en": "Fideua"
+    "zh": "西班牙细面海鲜饭",
+    "en": "Fideua Noodle Paella"
   },
   "cuisine": {
     "region": "intl",
@@ -13,28 +13,36 @@
   "category": [
     "staple-noodle"
   ],
-  "difficulty": 2,
+  "difficulty": 3,
   "time": {
-    "prep_min": 20,
-    "cook_min": 28,
-    "total_min": 48
+    "prep_min": 23,
+    "cook_min": 38,
+    "total_min": 61
   },
   "servings": 3,
   "flavor": [
-    "salty",
     "umami",
-    "fragrant"
+    "savory",
+    "rich"
   ],
   "ingredients": [
     {
       "group": "main",
       "items": [
         {
-          "name": "面条",
-          "name_en": "wheat noodles",
-          "amount": 250,
+          "name": "意大利面",
+          "name_en": "spaghetti",
+          "amount": 300,
           "unit": "g",
           "note": "掰成短段",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 200,
+          "unit": "g",
+          "note": "去壳",
           "optional": false
         }
       ]
@@ -43,19 +51,19 @@
       "group": "aux",
       "items": [
         {
-          "name": "虾仁",
-          "name_en": "peeled shrimp",
-          "amount": 200,
+          "name": "青口",
+          "name_en": "mussel",
+          "amount": 300,
           "unit": "g",
-          "note": "去壳",
+          "note": "洗净",
           "optional": false
         },
         {
           "name": "番茄",
           "name_en": "tomato",
-          "amount": 200,
+          "amount": 150,
           "unit": "g",
-          "note": "擦成泥",
+          "note": "切丁",
           "optional": false
         },
         {
@@ -63,31 +71,52 @@
           "name_en": "onion",
           "amount": 100,
           "unit": "g",
-          "note": "切碎",
+          "note": "切末",
           "optional": false
         },
         {
           "name": "大蒜",
           "name_en": "garlic",
-          "amount": 15,
+          "amount": 20,
           "unit": "g",
           "note": "切末",
           "optional": false
         },
         {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
           "name": "橄榄油",
           "name_en": "olive oil",
-          "amount": 45,
+          "amount": 60,
           "unit": "ml",
           "note": "炒制",
           "optional": false
         },
         {
-          "name": "藏红花",
-          "name_en": "saffron",
-          "amount": 0.2,
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 4,
           "unit": "g",
-          "note": "泡水",
+          "note": "增香",
           "optional": false
         },
         {
@@ -99,11 +128,11 @@
           "optional": false
         },
         {
-          "name": "清水",
-          "name_en": "water",
-          "amount": 600,
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 60,
           "unit": "ml",
-          "note": "煮面",
+          "note": "烹制",
           "optional": false
         }
       ]
@@ -111,140 +140,133 @@
   ],
   "equipment": [
     "平底锅",
-    "锅铲",
     "刀",
     "砧板",
-    "汤锅"
+    "碗",
+    "锅铲",
+    "汤勺"
   ],
   "steps": [
     {
       "n": 1,
-      "text": "面条掰成三四厘米的短段，摊在盘里晾着备用。",
-      "time_min": 5,
+      "text": "意大利面掰成四厘米长的短段，摊开备用，虾仁去壳挑干净。",
+      "time_min": 8,
       "heat": "无火",
-      "tip": "掰得越短越容易平铺，受热也更均匀。",
-      "visual_cue": "面段短小，平铺不叠"
+      "tip": "意大利面掰短才好铺平受热，太长会翘起。",
+      "visual_cue": "意大利意大利面段长短一致，虾仁完整"
     },
     {
       "n": 2,
-      "text": "虾仁去壳挑掉背上的黑色肠线，用少许盐抓洗后沥干。",
-      "time_min": 6,
-      "heat": "无火",
-      "tip": "黑色肠线要挑干净，腥味才不会带进整锅面里。",
-      "visual_cue": "虾仁干净，颜色透亮"
+      "text": "平底锅倒橄榄油炒香洋葱末与蒜末，加番茄丁炒到出汁变稠。",
+      "time_min": 9,
+      "heat": "中火",
+      "tip": "番茄要炒出红汁，酱底才够浓。",
+      "visual_cue": "番茄软烂出汁，锅底红色酱汁"
     },
     {
       "n": 3,
-      "text": "番茄擦成泥，洋葱切碎末，蒜切成细末，藏红花泡水。",
-      "time_min": 8,
-      "heat": "无火",
-      "tip": "藏红花用温水泡开，颜色和香气才出得来。",
-      "visual_cue": "番茄成泥，藏红花水橙黄"
+      "text": "撒甜椒粉炒匀，倒白葡萄酒煮开，把虾仁下锅煎到变色后先盛出。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "虾仁先煎后放回，久煮会变老发韧。",
+      "visual_cue": "虾仁卷曲发红，锅底酒香散出"
     },
     {
       "n": 4,
-      "text": "平底锅倒橄榄油烧热，下面条段中小火煎到通体金黄。",
-      "time_min": 7,
+      "text": "把意大利意大利面段倒进锅里，中火干炒三分钟，让意大利面裹上酱汁并微微焦香。",
+      "time_min": 4,
       "heat": "中火",
-      "tip": "面条煎到发黄才有坚果香，别煎到发黑。",
-      "visual_cue": "面段金黄，香气焦香"
+      "tip": "意大利面先干炒再煮，成品才粒粒分明不粘。",
+      "visual_cue": "意大利意大利面段均匀上色，散出坚果香"
     },
     {
       "n": 5,
-      "text": "把面段推到一边，下洋葱末和蒜末炒到透明出香。",
-      "time_min": 4,
+      "text": "倒入高汤没过意大利面，加盐调味，中火煮十分钟不加盖。",
+      "time_min": 12,
       "heat": "中火",
-      "tip": "洋葱蒜末用锅边的油炒，不易糊也不抢味。",
-      "visual_cue": "洋葱透明，蒜末微黄"
+      "tip": "这道菜不加盖不搅拌，靠汤汁自己收干。",
+      "visual_cue": "汤面冒泡，意大利面逐渐吸干汤汁"
     },
     {
       "n": 6,
-      "text": "加番茄泥炒出红油，撒盐翻匀后倒入清水和藏红花水。",
-      "time_min": 5,
-      "heat": "中火",
-      "tip": "番茄泥炒出红油，汤底才浓稠红亮。",
-      "visual_cue": "汤汁红亮，油面泛光"
-    },
-    {
-      "n": 7,
-      "text": "汤烧开后铺上面段，转小火焖十分钟至汤汁被吸干。",
-      "time_min": 10,
+      "text": "摆上青口与虾仁，转小火焖五分钟至贝壳张开，撒欧芹即可。",
+      "time_min": 7,
       "heat": "小火",
-      "tip": "面段平铺不搅，底部才能结出微焦的锅巴。",
-      "visual_cue": "汤汁收干，面段鼓起"
-    },
-    {
-      "n": 8,
-      "text": "放上虾仁继续焖三分钟，关火静置五分钟再上桌。",
-      "time_min": 3,
-      "heat": "小火",
-      "tip": "虾仁最后三分钟才放，久煮会缩水变硬。",
-      "visual_cue": "虾仁变红，面条松散"
+      "tip": "贝壳不张的要丢掉，闭壳说明不新鲜。",
+      "visual_cue": "贝壳全部张开，汤汁几乎收干"
     }
   ],
   "tips": [
-    "面条先煎到金黄，香气才接近餐馆版本。",
-    "汤汁被吸干就关火，久焖面条会糊底。",
-    "虾仁最后三分钟放，口感才弹嫩不老。"
+    "意大利面先干炒再煮，成品才松散不粘成块。",
+    "全程不加盖不搅动，底部的焦香层是精华。",
+    "虾仁先煎再回锅，口感才嫩不柴。",
+    "高汤一次加足，中途加水会毁掉意大利面的口感。"
   ],
   "common_mistakes": [
-    "面条不煎直接煮，软烂没有半点焦香。",
-    "中途不停搅拌，锅底结不出那层锅巴。",
-    "虾仁一开始就下锅，最后缩成硬粒。"
+    "意大利面直接下汤煮，最后糊成一锅粘团。",
+    "不停搅拌，意大利面断成碎末，锅底也起不了焦香。",
+    "汤汁加太多，煮完还是汤面而不是干面。",
+    "青口闭壳的也一起下锅，吃出腥味。"
   ],
   "substitutions": [
     {
-      "original": "虾仁",
-      "substitute": "鸡腿肉",
-      "ratio": "200 克:220 克",
-      "note": "切小块先煎至金黄再焖。"
+      "original": "青口",
+      "substitute": "蛤蜊",
+      "ratio": "300克:300克",
+      "note": "吐沙要足，鲜味更清。"
     },
     {
-      "original": "藏红花",
-      "substitute": "姜黄",
-      "ratio": "0.2 克:1 克",
-      "note": "颜色相近，香气略淡。"
+      "original": "意大利面",
+      "substitute": "米形面",
+      "ratio": "300克:280克",
+      "note": "更接近米饭口感，煮的时间减两分钟。"
     }
   ],
   "variations": [
-    "加几只完整虾仁同焖，海味更浓更鲜甜。",
-    "出锅挤几滴柠檬汁，酸香解腻更清爽。"
+    "加一小撮藏红花，颜色金黄，香气也更地道。",
+    "换成全海鲜版本，加鱿鱼圈和扇贝一起焖。",
+    "出锅前挤半个柠檬，酸味解腻更清爽。"
   ],
-  "serving_suggestion": "配上蒜香蛋黄酱一起上桌，趁热吃锅底那层焦香面。",
-  "storage": "冷藏一天，复热加少许水小火焖透。",
+  "serving_suggestion": "连锅端上桌，摆上青口和虾仁，撒欧芹，配一碟蒜香蛋黄酱，每人从锅里直接盛。",
+  "storage": "冷藏可放一天，复热加两勺高汤小火焖三分钟，微波加热会让意大利面发硬。",
   "nutrition_estimate": {
-    "basis": "每份约 320 克",
-    "calories_kcal": 480,
-    "protein_g": 24,
-    "fat_g": 17,
-    "carbs_g": 56,
-    "sodium_mg": 760,
+    "basis": "按三人份估算",
+    "calories_kcal": 652,
+    "protein_g": 38,
+    "fat_g": 22,
+    "carbs_g": 74,
+    "sodium_mg": 1180,
     "is_estimate": true,
     "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
   },
   "allergens": [
     "crustacean",
-    "gluten"
+    "gluten",
+    "mollusk",
+    "sulfite"
   ],
-  "diet_tags": [],
+  "diet_tags": [
+    "pescatarian"
+  ],
   "food_safety_notes": [
-    "虾仁须焖至完全变红不透明、中心熟透；成品冷藏不超过一天，复热须彻底加热。"
+    "贝类须煮至贝壳张开、肉质熟透，闭壳个体应丢弃；海鲜过敏者慎食。",
+    "成品冷藏不超过一天，复热须彻底加热至中心发烫。"
   ],
-  "origin_note": "西班牙瓦伦西亚海岸的家常主食，把细面掰断替代米做成海鲜饭。面条先煎到金黄再吸饱虾汤，锅底结出一层焦香脆皮，是渔民灶上最实在的一锅。",
+  "origin_note": "细面海鲜饭是瓦伦西亚沿海的渔家做法，用短意大利面代替米，先干炒再吸饱海鲜高汤。锅底那层焦香的意大利面最抢手，配着青口和虾仁吃，海味浓得化不开。",
   "tags": [
+    "西餐",
     "西班牙",
-    "面条",
-    "海鲜",
-    "主食"
+    "面食",
+    "海鲜"
   ],
   "related_ids": [
-    "spanish-paella",
-    "gambas-al-ajillo",
-    "alioli"
+    "paella-valenciana",
+    "spanish-arroz-negro",
+    "spanish-gambas-al-ajillo"
   ],
   "image_url": null,
   "image_credit": null,
   "status": "published",
-  "created_at": "2026-11-23",
-  "updated_at": "2026-11-23"
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
 }
