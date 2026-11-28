@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:50:33.531Z",
+  "generatedAt": "2026-11-28T14:14:32.596Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 3002,
-    "coverage": 0.9169211973121564
+    "actual": 3010,
+    "coverage": 0.9193646915088577
   },
   "regions": {
     "cn": [
@@ -5934,15 +5934,16 @@
         "en": "Turkish",
         "tier": "B",
         "target": 38,
-        "actual": 25,
+        "actual": 33,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "turkish-adana-kebab",
+              "turkish-ali-nazik",
               "turkish-hunkar-begendi",
               "turkish-iskender-kebab",
               "turkish-kofta"
@@ -5952,11 +5953,13 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "turkish-gozleme",
               "turkish-lahmacun",
-              "turkish-manti"
+              "turkish-manti",
+              "turkish-pide",
+              "turkish-simit"
             ]
           },
           {
@@ -5988,8 +5991,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "turkish-domates-corbasi",
+              "turkish-ezogelin-soup",
               "turkish-lentil-soup",
               "turkish-yayla-corbasi",
               "turkish-yogurt-soup"
@@ -5999,19 +6004,22 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "turkish-imam-bayildi",
-              "turkish-karniyarik"
+              "turkish-karniyarik",
+              "turkish-kuru-fasulye"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "turkish-menemen"
+              "turkish-cilbir",
+              "turkish-menemen",
+              "turkish-spanakli-yumurta"
             ]
           },
           {

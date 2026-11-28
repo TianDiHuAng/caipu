@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "turkish-ali-nazik",
+  "name": {
+    "zh": "酸奶羊肉茄子泥",
+    "en": "Ali Nazik Kebab"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "turkish"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 76,
+    "cook_min": 69,
+    "total_min": 145
+  },
+  "servings": 3,
+  "flavor": [
+    "rich",
+    "savory",
+    "smoky",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "茄子",
+          "name_en": "eggplant",
+          "amount": 600,
+          "unit": "g",
+          "note": "烤制",
+          "optional": false
+        },
+        {
+          "name": "羊肉",
+          "name_en": "lamb",
+          "amount": 350,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "酸奶",
+          "name_en": "yogurt",
+          "amount": 250,
+          "unit": "g",
+          "note": "拌茄子",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 50,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 25,
+          "unit": "g",
+          "note": "浇汁",
+          "optional": false
+        },
+        {
+          "name": "红椒粉",
+          "name_en": "paprika",
+          "amount": 4,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "叉子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "茄子整只放烤盘，两百二十度烤三十五分钟至表皮焦黑、内部软塌。",
+      "time_min": 37,
+      "heat": "无火",
+      "tip": "烤到表皮焦黑，茄子肉才有烟熏味。",
+      "visual_cue": "茄子外皮起皱焦黑，按压软塌"
+    },
+    {
+      "n": 2,
+      "text": "晾十分钟后剥去外皮，用叉子把茄肉捣成粗泥。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "用叉子捣保留纤维，比机器打的口感好。",
+      "visual_cue": "茄泥粗松，不见整块"
+    },
+    {
+      "n": 3,
+      "text": "茄泥里拌入酸奶、一半蒜末和两克盐，搅匀保温备用。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "酸奶分次拌入，茄泥才不会出水变稀。",
+      "visual_cue": "茄泥奶白顺滑，能挂住叉子"
+    },
+    {
+      "n": 4,
+      "text": "羊肉切成两厘米小丁，洋葱、番茄、青椒切丁，蒜切末。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "羊肉切小丁，炒出来才嫩而入味。",
+      "visual_cue": "肉丁大小一致，蔬菜丁细小"
+    },
+    {
+      "n": 5,
+      "text": "炒锅倒橄榄油下洋葱丁炒四分钟，加羊肉丁大火炒至变色。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "羊肉下锅先别翻，定型后再划散才不粘。",
+      "visual_cue": "肉丁变色散开，洋葱透明"
+    },
+    {
+      "n": 6,
+      "text": "加蒜末、番茄膏和红椒粉炒两分钟，再下番茄与青椒炒出汁。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "番茄膏炒出红油，整锅颜色才红亮。",
+      "visual_cue": "锅底红油泛光，蔬菜出汁"
+    },
+    {
+      "n": 7,
+      "text": "加盐与黑胡椒，倒两勺清水小火焖十分钟至羊肉软嫩。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "小火焖到羊肉能用筷子扎透就够。",
+      "visual_cue": "羊肉软嫩，汤汁微稠"
+    },
+    {
+      "n": 8,
+      "text": "黄油小火化开加红椒粉炒三十秒，茄泥铺盘底，放羊肉，浇红椒黄油。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "黄油起泡立刻下红椒粉，慢了会焦。",
+      "visual_cue": "茄泥上堆着羊肉，红油淋面"
+    }
+  ],
+  "tips": [
+    "茄子烤到表皮焦黑，肉才有那种烟熏味。",
+    "茄肉用叉子捣，保留纤维口感更好。",
+    "酸奶要分次拌进茄泥里，一次全倒容易出水变稀。",
+    "红椒黄油趁热浇，香气才炸得出来。"
+  ],
+  "common_mistakes": [
+    "茄子蒸熟代替烤，成品水塌塌没有烟熏香。",
+    "茄泥打得过细，吃起来像婴儿辅食。",
+    "羊肉大火久炒，水分炒干变柴发硬。",
+    "黄油烧到发黑才下红椒粉，整盘带苦味。"
+  ],
+  "substitutions": [
+    {
+      "original": "羊肉",
+      "substitute": "牛肉",
+      "ratio": "350克:350克",
+      "note": "膻味更轻，多加一克黑胡椒。"
+    },
+    {
+      "original": "酸奶",
+      "substitute": "希腊酸奶",
+      "ratio": "250克:220克",
+      "note": "更浓稠，需加两勺清水调开。"
+    }
+  ],
+  "variations": [
+    "羊肉换成鸡肉丁，做成更清爽的版本。",
+    "加一把烤松子撒在表面，香气更足。",
+    "茄泥里加一点柠檬汁，酸味更亮。"
+  ],
+  "serving_suggestion": "用勺子从盘底连茄泥带羊肉一起舀，配热烤饼撕着蘸，烟熏加奶香很过瘾。",
+  "storage": "冷藏可放一天，茄泥与羊肉分开放，复热羊肉用小火，茄泥回温即可。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 536,
+    "protein_g": 32,
+    "fat_g": 34,
+    "carbs_g": 22,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "羊肉须炒至完全熟透、中心无血色；含乳制品，冷藏保存不超过一天。",
+    "复热须彻底加热至中心滚烫，不要反复加热。"
+  ],
+  "origin_note": "酸奶羊肉茄子泥是土耳其东南部的名菜，烤到焦黑的茄子捣成泥拌酸奶垫底，上面堆着番茄膏炒香的羊肉丁，最后浇一勺红椒黄油。烟熏味混着奶香，配烤饼吃最地道。",
+  "tags": [
+    "土耳其",
+    "羊肉",
+    "茄子",
+    "宴席菜"
+  ],
+  "related_ids": [
+    "turkish-hunkar-begendi",
+    "turkish-iskender-kebab",
+    "turkish-adana-kebab"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

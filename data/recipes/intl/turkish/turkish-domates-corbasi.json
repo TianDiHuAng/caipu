@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "turkish-domates-corbasi",
+  "name": {
+    "zh": "土耳其番茄汤",
+    "en": "Tomato Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "turkish"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 34,
+    "cook_min": 41,
+    "total_min": 75
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 800,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 25,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "番茄膏",
+          "name_en": "tomato paste",
+          "amount": 20,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "调和酸味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "搅拌机",
+    "汤勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄顶部划十字，用开水烫三十秒后剥皮，切成小块。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "烫过再剥皮，汤的口感才细腻无渣。",
+      "visual_cue": "番茄皮轻松撕下，果肉完整"
+    },
+    {
+      "n": 2,
+      "text": "洋葱切成小丁，大蒜切末，香菜切碎，全部装盘备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "洋葱切小一点，炒化后汤才顺滑。",
+      "visual_cue": "洋葱丁细小均匀，蒜末散开"
+    },
+    {
+      "n": 3,
+      "text": "汤锅放黄油小火化开，下洋葱丁炒五分钟至软塌透明。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "小火炒洋葱，甜味才出得来不发焦。",
+      "visual_cue": "洋葱透明软塌，锅底泛黄油光"
+    },
+    {
+      "n": 4,
+      "text": "加蒜末与番茄膏炒一分半，炒到油色变红出香。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "番茄膏炒出红油，汤色才红亮不发暗。",
+      "visual_cue": "油色橘红，闻到浓郁番茄香"
+    },
+    {
+      "n": 5,
+      "text": "撒入面粉小火炒一分钟，让面粉与油脂充分融合。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "面粉炒一下去生粉味，汤才不涩口。",
+      "visual_cue": "面粉与黄油拌成细沙状"
+    },
+    {
+      "n": 6,
+      "text": "倒入番茄块与清水搅匀，大火烧开后转小火煮二十分钟。",
+      "time_min": 23,
+      "heat": "小火",
+      "tip": "边倒边搅，面粉才不会结块。",
+      "visual_cue": "汤体微稠，番茄块软烂散开"
+    },
+    {
+      "n": 7,
+      "text": "用搅拌机打成顺滑浓汤，倒回锅里加盐、白糖和黑胡椒。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "白糖用来压酸，先少放再尝味补。",
+      "visual_cue": "汤体细腻顺滑，颜色橘红"
+    },
+    {
+      "n": 8,
+      "text": "小火加热至微沸，撒上香菜碎，趁热盛碗即可上桌。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "出锅前尝一次咸淡，番茄酸度差别很大。",
+      "visual_cue": "汤面泛光，香菜翠绿点缀"
+    }
+  ],
+  "tips": [
+    "番茄先烫皮，汤的口感才细腻不留渣。",
+    "面粉要用黄油炒过，否则汤有生粉味。",
+    "番茄膏炒出红油，汤色红亮的秘诀就在这步。",
+    "白糖边尝边加，压酸但不该吃出甜味。"
+  ],
+  "common_mistakes": [
+    "番茄不剥皮直接打，汤里全是嚼不烂的皮屑。",
+    "面粉直接撒进汤里，结成一坨坨小疙瘩。",
+    "大火猛煮不搅动，锅底糊一层焦味全锅。",
+    "白糖一次加太多，汤变成甜汤没了酸香。"
+  ],
+  "substitutions": [
+    {
+      "original": "番茄",
+      "substitute": "番茄罐头",
+      "ratio": "800克:700克",
+      "note": "酸味更浓，白糖多加两克。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "橄榄油",
+      "ratio": "30克:30毫升",
+      "note": "奶香减弱，更适合冷食。"
+    }
+  ],
+  "variations": [
+    "加一根胡萝卜同煮再打糊，甜味更自然。",
+    "最后淋一勺淡奶油，口感更圆润。",
+    "放两片干罗勒同煮，香气偏意式。"
+  ],
+  "serving_suggestion": "盛进汤碗，配几块烤脆的面包丁，撒香菜，趁热喝最舒服。",
+  "storage": "冷藏可放三天，复热须小火加热边搅，防止糊底。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 246,
+    "protein_g": 6,
+    "fat_g": 12,
+    "carbs_g": 30,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "汤品含面粉增稠，复热时须不断搅动防止结块糊底。",
+    "冷藏不超过三天，复热须彻底煮沸。"
+  ],
+  "origin_note": "土耳其番茄汤是家庭餐桌上最常见的一碗，番茄烫皮后与洋葱、番茄膏同炒，撒一层面粉增稠再加水煮，打成浓汤后红亮顺滑。酸里带一点甜，配面包丁就是一顿轻晚饭。",
+  "tags": [
+    "土耳其",
+    "汤品",
+    "番茄",
+    "家常菜"
+  ],
+  "related_ids": [
+    "turkish-lentil-soup",
+    "turkish-ezogelin-soup",
+    "turkish-yogurt-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

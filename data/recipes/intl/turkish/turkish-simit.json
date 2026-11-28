@@ -1,0 +1,254 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "turkish-simit",
+  "name": {
+    "zh": "芝麻面包圈",
+    "en": "Simit"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "turkish"
+  },
+  "category": [
+    "staple-bread"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 164,
+    "cook_min": 23,
+    "total_min": 187
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "芝麻",
+          "name_en": "sesame seeds",
+          "amount": 80,
+          "unit": "g",
+          "note": "裹面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 280,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "酵母",
+          "name_en": "yeast",
+          "amount": 8,
+          "unit": "g",
+          "note": "发面",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "助发酵",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 8,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "刷面",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 40,
+          "unit": "g",
+          "note": "蘸面",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "大碗",
+    "案板",
+    "擀面杖",
+    "烤盘",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉倒进大碗，加酵母、白糖和盐拌匀，中间挖一个小坑。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "盐和酵母别直接接触，分开拌进面粉里。",
+      "visual_cue": "粉料混合均匀，颜色一致"
+    },
+    {
+      "n": 2,
+      "text": "分次倒入清水，边倒边揉成光滑面团，盖布发至两倍大。",
+      "time_min": 95,
+      "heat": "无火",
+      "tip": "揉到面团光滑不粘手，发两倍大约一小时。",
+      "visual_cue": "面团光滑有弹性，体积翻倍"
+    },
+    {
+      "n": 3,
+      "text": "发好的面团排气后分成八份，滚圆盖布松弛十五分钟。",
+      "time_min": 18,
+      "heat": "无火",
+      "tip": "松弛十五分钟，擀的时候才不回缩。",
+      "visual_cue": "小面团圆润，按下去慢慢回弹"
+    },
+    {
+      "n": 4,
+      "text": "取一份搓成五十厘米长条，对折后拧成麻花，再首尾相接成圈。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "搓得粗细均匀，圈才圆整好看。",
+      "visual_cue": "长条粗细一致，圈形均匀"
+    },
+    {
+      "n": 5,
+      "text": "蜂蜜兑三分之一清水调稀，把面圈两面各蘸三秒后捞出。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "糖浆兑稀一点，芝麻才挂得牢不脱落。",
+      "visual_cue": "面圈表面湿润挂糖，不滴浆"
+    },
+    {
+      "n": 6,
+      "text": "面圈放进芝麻盘里两面按压，让芝麻均匀粘满表面。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "轻按别压实，烤的时候芝麻才不焦。",
+      "visual_cue": "面圈满身芝麻，分布均匀"
+    },
+    {
+      "n": 7,
+      "text": "烤盘铺油纸摆上面圈，刷一层橄榄油，静置二十分钟。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "二次醒发二十分钟，烤出来才蓬松。",
+      "visual_cue": "面圈略微膨胀，表面发亮"
+    },
+    {
+      "n": 8,
+      "text": "烤箱预热两百度，中层烤十八分钟至表面金黄，出炉晾五分钟。",
+      "time_min": 23,
+      "heat": "无火",
+      "tip": "烤到敲外壳有脆响最好，别只看着色。",
+      "visual_cue": "外壳金黄油亮，芝麻酥香"
+    }
+  ],
+  "tips": [
+    "盐和酵母分开放，直接接触会抑制发酵。",
+    "面团揉到光滑能拉出薄膜，成品才松软。",
+    "面圈蘸蜂蜜再滚芝麻，芝麻才粘得牢。",
+    "烤前刷一层油，外壳才脆亮不干硬。"
+  ],
+  "common_mistakes": [
+    "面团没发到位就整形，烤出来又硬又实。",
+    "蜂蜜不兑水直接蘸，面圈表面发黏还易焦。",
+    "芝麻压得太实，烤完一半发黑一半脱落。",
+    "烤箱温度太高，外面焦了里面还是生面芯。"
+  ],
+  "substitutions": [
+    {
+      "original": "蜂蜜",
+      "substitute": "白糖水",
+      "ratio": "40克:50克",
+      "note": "上色更浅，需多烤两分钟。"
+    },
+    {
+      "original": "芝麻",
+      "substitute": "黑芝麻",
+      "ratio": "80克:80克",
+      "note": "成品颜色更深，香气略重。"
+    }
+  ],
+  "variations": [
+    "面团里加一勺橄榄油，口感更松软。",
+    "做成小号圈，烤十五分钟更方便拿着吃。",
+    "表面撒一点粗粒海盐，咸香味道会更突出。"
+  ],
+  "serving_suggestion": "趁热掰开，配一杯红茶和一块白奶酪，是土耳其街头最常见的早餐组合。",
+  "storage": "晾凉后装纸袋常温存放两天，复烤一百八十度五分钟可恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 468,
+    "protein_g": 14,
+    "fat_g": 12,
+    "carbs_g": 74,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "面包须烤至中心熟透、内部不再发黏，生面芯不易消化。",
+    "常温密封存放不超过两天，受潮后勿食用。"
+  ],
+  "origin_note": "芝麻面包圈是伊斯坦布尔街头最有名的早餐，小贩顶着托盘叫卖，圈上裹满芝麻。面团蘸糖浆再滚芝麻，烤出来外壳脆亮、里面松软，配红茶和白奶酪是标准吃法。",
+  "tags": [
+    "土耳其",
+    "面食",
+    "烘焙",
+    "早餐"
+  ],
+  "related_ids": [
+    "turkish-gozleme",
+    "turkish-lahmacun",
+    "turkish-pide"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
