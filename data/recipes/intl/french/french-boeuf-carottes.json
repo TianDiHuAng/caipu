@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-boeuf-carottes",
+  "name": {
+    "zh": "胡萝卜炖牛肉",
+    "en": "Boeuf Carottes"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 18,
+    "cook_min": 112,
+    "total_min": 130
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 800,
+          "unit": "g",
+          "note": "牛腩切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 500,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 4,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "红酒",
+          "name_en": "red wine",
+          "amount": 250,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 600,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎肉",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切大块，用厨房纸吸干表面水分，撒盐与黑胡椒。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "肉排干再煎，才煎得出褐色焦壳。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "肉块表面干爽，调味均匀"
+    },
+    {
+      "n": 2,
+      "text": "炖锅倒橄榄油烧热，牛肉分批下锅煎至四面焦褐盛出。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "分批煎不挤锅，肉才上色不冒水。做之前把料备齐，下锅后就没空切配了。",
+      "visual_cue": "肉块四周呈深褐色焦壳"
+    },
+    {
+      "n": 3,
+      "text": "原锅下洋葱丝与大蒜炒软，加番茄炒三分钟出汁。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "锅底焦渣别洗掉，那是味道的来源。这几步照顺序来，味道才会一层层叠上去。",
+      "visual_cue": "洋葱透明，锅底有褐色焦渣"
+    },
+    {
+      "n": 4,
+      "text": "倒红酒煮开刮起锅底焦渣，加高汤、香叶与百里香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "红酒刮锅底，酱汁才有厚度。锅和案板保持干爽，成菜口感差别很大。",
+      "visual_cue": "酒液微稠，锅底焦渣溶入汁中"
+    },
+    {
+      "n": 5,
+      "text": "牛肉回锅烧开转小火加盖炖一小时。趁热操作更顺手。",
+      "time_min": 63,
+      "heat": "小火",
+      "tip": "小火慢炖，牛肉才软糯不柴。调味宁少勿多，出锅前尝一口再补。",
+      "visual_cue": "汤汁小滚，肉块轻晃色泽分明状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "下胡萝卜块、白糖与盐继续炖三十五分钟至胡萝卜软透。",
+      "time_min": 37,
+      "heat": "小火",
+      "tip": "胡萝卜后放，久炖会烂成泥。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "胡萝卜棱角圆润，筷子可穿透"
+    }
+  ],
+  "tips": [
+    "牛肉先煎出焦壳，味道才厚。火候与时间都要盯紧，宁可略短也别过头。",
+    "红酒刮锅底这步别省，是风味关键。做之前把料备齐，下锅后就没空切配了。",
+    "胡萝卜后放，炖久了会化。这几步照顺序来，味道才会一层层叠上去。",
+    "一勺糖提胡萝卜的甜，不要尝出甜味。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "跳过煎肉，炖出来汤水味寡。结果往往一锅好料全被这一步毁掉。",
+    "红酒直接倒进锅不煮，酒精味刺鼻。很多人就在这里翻车，出菜后才发现。",
+    "胡萝卜一开始就下锅，最后找不着块。账面上看是小疏忽，入口立刻能尝出来。",
+    "盐放太早，牛肉炖出渣。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "红酒",
+      "substitute": "白葡萄酒",
+      "ratio": "250毫升:250毫升",
+      "note": "颜色更浅，可加半勺老抽上色。"
+    },
+    {
+      "original": "牛肉",
+      "substitute": "牛肩肉",
+      "ratio": "800克:800克",
+      "note": "更瘦，炖的时间加十分钟。"
+    }
+  ],
+  "variations": [
+    "加一把小洋葱同炖，甜味更足。口味会更厚一些，适合重口的人。",
+    "加橙皮同炖，香气更亮。做法不复杂，家常灶台就能完成。",
+    "汤汁收浓后配土豆泥，更法式。风味走向变了，但步骤基本不用改。"
+  ],
+  "serving_suggestion": "连汁带肉盛进深盘，胡萝卜橙红、牛肉深褐，汤汁拌土豆泥是最舒服的吃法。",
+  "storage": "冷藏可放三天，复热小火加少量高汤；隔夜更入味。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 682,
+    "protein_g": 44,
+    "fat_g": 40,
+    "carbs_g": 24,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "sulfite"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖至中心完全熟透、无血色；胡萝卜须炖软。",
+    "成品冷藏不超过三天，复热须彻底加热至沸腾。"
+  ],
+  "origin_note": "胡萝卜炖牛肉是法国最深入民心的家常菜之一，牛肉煎出焦壳后用红酒和高汤慢炖，最后半小时才下胡萝卜。肉烂汁浓，胡萝卜吸满肉香，配面包就能吃一餐。",
+  "tags": [
+    "法餐",
+    "炖菜",
+    "牛肉",
+    "胡萝卜"
+  ],
+  "related_ids": [
+    "french-blanquette-de-veau",
+    "french-boeuf-bourguignon",
+    "french-daube-provencale"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

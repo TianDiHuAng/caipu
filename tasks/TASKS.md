@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-28T06:06:49.892Z
+> 生成时间：2026-11-28T06:26:21.085Z
 
-**总览**：工程任务 49/53；菜谱内容 2874/3274（87.8%），共 659 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2882/3274（88.0%），共 659 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -430,7 +430,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1629/1935）
+### 外国菜系（1637/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，95/107</summary>
 
@@ -510,13 +510,13 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>法国菜 french</b> — A 级，91/107</summary>
+<details><summary><b>法国菜 french</b> — A 级，99/107</summary>
 
-- [ ] `P4-french/main-meat` 主菜·肉（Meat Main）目标 15，已完成 12
-- [ ] `P4-french/dessert` 甜点（Dessert）目标 15，已完成 13
+- [ ] `P4-french/main-meat` 主菜·肉（Meat Main）目标 15，已完成 14
+- [x] `P4-french/dessert` 甜点（Dessert）目标 15，已完成 15
 - [ ] `P4-french/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 12
-- [ ] `P4-french/soup` 汤羹（Soup）目标 15，已完成 11
-- [ ] `P4-french/bakery` 烘焙面包（Bakery）目标 15，已完成 11
+- [ ] `P4-french/soup` 汤羹（Soup）目标 15，已完成 13
+- [ ] `P4-french/bakery` 烘焙面包（Bakery）目标 15，已完成 13
 - [ ] `P4-french/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 6
 - [ ] `P4-french/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 5
 - [ ] `P4-french/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 4

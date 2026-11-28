@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-bisque-de-crevettes",
+  "name": {
+    "zh": "法式虾浓汤",
+    "en": "Shrimp Bisque"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 23,
+    "cook_min": 41,
+    "total_min": 64
+  },
+  "servings": 4,
+  "flavor": [
+    "umami",
+    "rich",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 400,
+          "unit": "g",
+          "note": "留壳",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 40,
+          "unit": "g",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "白葡萄酒",
+          "name_en": "dry white wine",
+          "amount": 100,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 800,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 100,
+          "unit": "ml",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "煎虾",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "平底锅",
+    "搅拌机",
+    "筛网",
+    "刀",
+    "砧板"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "虾去壳留壳，虾壳冲洗干净沥干，虾单独冷藏备用。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "虾壳别扔，虾汤的红油全在壳里。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "虾壳干净无杂，虾完整"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒橄榄油，虾壳中小火煎五分钟至变红出香。",
+      "time_min": 7,
+      "heat": "中小火",
+      "tip": "壳煎到发红出油，汤才有虾味。做之前把料备齐，下锅后就没空切配了。",
+      "visual_cue": "虾壳鲜红，锅底有红色油"
+    },
+    {
+      "n": 3,
+      "text": "汤锅化黄油，下洋葱、胡萝卜、芹菜与蒜末小火炒软。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "蔬菜切细末，汤才细腻易打。这几步照顺序来，味道才会一层层叠上去。",
+      "visual_cue": "蔬菜末软塌透明，香气明显"
+    },
+    {
+      "n": 4,
+      "text": "下番茄块炒三分钟，倒白葡萄酒煮到酒气挥发。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "酒气煮掉再倒汤，才不留酸涩。锅和案板保持干爽，成菜口感差别很大。",
+      "visual_cue": "酒液几乎收干，锅底微稠"
+    },
+    {
+      "n": 5,
+      "text": "把煎好的虾壳倒入汤锅，加高汤烧开后小火煮二十五分钟。",
+      "time_min": 28,
+      "heat": "小火",
+      "tip": "小火慢煮，虾味才全进汤里。调味宁少勿多，出锅前尝一口再补。",
+      "visual_cue": "汤色橙红，香气浓色泽分明状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "过滤掉虾壳蔬菜渣，汤倒回锅加淡奶油与虾煮三分钟，调盐与白胡椒。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "虾最后煮，久煮就缩成硬球。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "虾卷曲变红，汤体浓稠光滑"
+    }
+  ],
+  "tips": [
+    "虾壳必须煎红，那是汤色的来源。火候与时间都要盯紧，宁可略短也别过头。",
+    "过滤要彻底，汤才细不带渣。做之前把料备齐，下锅后就没空切配了。",
+    "虾最后三分钟下，口感才弹。这几步照顺序来，味道才会一层层叠上去。",
+    "奶油别煮沸，微滚就好。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "把虾壳丢掉，汤只有蔬菜味。结果往往一锅好料全被这一步毁掉。",
+    "虾壳没煎透，汤色发灰不红。很多人就在这里翻车，出菜后才发现。",
+    "虾久煮，缩成硬球没有弹性。账面上看是小疏忽，入口立刻能尝出来。",
+    "过滤不净，喝起来满口沙渣。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "虾",
+      "substitute": "大虾尾",
+      "ratio": "400克:500克",
+      "note": "壳更多，汤色更浓。"
+    },
+    {
+      "original": "白葡萄酒",
+      "substitute": "料酒",
+      "ratio": "100毫升:60毫升",
+      "note": "风味不同，用量减半。"
+    }
+  ],
+  "variations": [
+    "加一点白兰地，香气更华丽。口味会更厚一些，适合重口的人。",
+    "加藏红花，汤色更金黄。做法不复杂，家常灶台就能完成。",
+    "留几只整虾摆盘，卖相更好。风味走向变了，但步骤基本不用改。"
+  ],
+  "serving_suggestion": "盛进浅汤碗，放两只虾、淋一圈奶油、撒欧芹碎，配烤面包片蘸汤吃。",
+  "storage": "冷藏可放两天，复热小火加热别沸腾；虾久放口感变硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 386,
+    "protein_g": 26,
+    "fat_g": 24,
+    "carbs_g": 12,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "crustacean",
+    "milk",
+    "sulfite"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "pescatarian"
+  ],
+  "food_safety_notes": [
+    "虾属贝类海鲜高风险食材，须煮至完全变红卷曲、中心熟透，不可生食。",
+    "成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "法式虾浓汤的灵魂是虾壳，先煎出红油再和蔬菜、番茄、白葡萄酒一起熬，最后过筛加奶油。汤色橙红、虾味极浓，是法式餐厅里最见功力的一道浓汤。",
+  "tags": [
+    "法餐",
+    "汤",
+    "虾",
+    "浓汤"
+  ],
+  "related_ids": [
+    "french-veloute-de-champignons",
+    "french-bouillabaisse",
+    "garlic-butter-shrimp"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

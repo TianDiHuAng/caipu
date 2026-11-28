@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-blanquette-de-veau",
+  "name": {
+    "zh": "白汁炖小牛肉",
+    "en": "Blanquette de Veau"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 26,
+    "cook_min": 101,
+    "total_min": 127
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "牛肉",
+          "name_en": "beef",
+          "amount": 800,
+          "unit": "g",
+          "note": "肩肉切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 200,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "芹菜",
+          "name_en": "celery",
+          "amount": 60,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "香叶",
+          "name_en": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "百里香",
+          "name_en": "thyme",
+          "amount": 3,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 50,
+          "unit": "g",
+          "note": "炒面酱",
+          "optional": false
+        },
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 40,
+          "unit": "g",
+          "note": "炒面酱",
+          "optional": false
+        },
+        {
+          "name": "淡奶油",
+          "name_en": "heavy cream",
+          "amount": 120,
+          "unit": "ml",
+          "note": "增稠",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "炖煮",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 20,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炖锅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛肉切四厘米块，冷水下锅煮开三分钟撇沫后捞出冲净。",
+      "time_min": 14,
+      "heat": "大火",
+      "tip": "冷水起锅焯，血沫去净汤才白。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "肉块发白，汤面浮沫被撇干净"
+    },
+    {
+      "n": 2,
+      "text": "炖锅放牛肉，加高汤、胡萝卜、洋葱、芹菜、香叶与百里香。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "蔬菜垫底，汤才有底味不发寡。做之前把料备齐，下锅后就没空切配了。",
+      "visual_cue": "肉块被汤汁没过，香料浮在表面"
+    },
+    {
+      "n": 3,
+      "text": "大火烧开后转小火加盖炖一小时二十分钟至牛肉软烂。",
+      "time_min": 83,
+      "heat": "小火",
+      "tip": "小火微沸，肉才酥而不散。这几步照顺序来，味道才会一层层叠上去。",
+      "visual_cue": "汤面小滚，肉块轻压即散"
+    },
+    {
+      "n": 4,
+      "text": "另起平底锅化黄油，下面粉小火炒成浅黄色面酱。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "面酱只炒到浅黄，炒深汤就发褐。锅和案板保持干爽，成菜口感差别很大。",
+      "visual_cue": "面酱呈浅米色，锅底无结块"
+    },
+    {
+      "n": 5,
+      "text": "舀两勺炖肉汤倒入面酱搅匀，再倒回炖锅搅至汤汁变稠。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "先调稀再回锅，才不结颗粒。调味宁少勿多，出锅前尝一口再补。",
+      "visual_cue": "汤汁顺滑浓稠，无面疙瘩"
+    },
+    {
+      "n": 6,
+      "text": "下口蘑片煮十分钟，加淡奶油、盐、白胡椒与柠檬汁调匀。",
+      "time_min": 13,
+      "heat": "小火",
+      "tip": "奶油最后加，久煮会分层。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "汤汁乳白，口蘑浮在表面"
+    }
+  ],
+  "tips": [
+    "焯水用冷水起锅，汤色才白。火候与时间都要盯紧，宁可略短也别过头。",
+    "面酱只炒到浅黄，深了汤发灰。做之前把料备齐，下锅后就没空切配了。",
+    "奶油最后放，煮久会分层。这几步照顺序来，味道才会一层层叠上去。",
+    "柠檬汁收尾，解腻又提白。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "肉用热水焯，血沫锁在里面汤浑。结果往往一锅好料全被这一步毁掉。",
+    "面酱直接下汤锅，结成一团疙瘩。很多人就在这里翻车，出菜后才发现。",
+    "大火炖一小时，肉散成碎渣。账面上看是小疏忽，入口立刻能尝出来。",
+    "奶油煮沸，汤汁出现颗粒分层。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛肉",
+      "substitute": "牛肋条",
+      "ratio": "800克:800克",
+      "note": "更肥，炖的时间缩短十分钟。"
+    },
+    {
+      "original": "口蘑",
+      "substitute": "香菇",
+      "ratio": "200克:200克",
+      "note": "香气更浓，汤色略深。"
+    }
+  ],
+  "variations": [
+    "加几颗小洋葱同炖，甜味更明显。口味会更厚一些，适合重口的人。",
+    "配白饭或土豆泥一起吃，酱汁不浪费。做法不复杂，家常灶台就能完成。",
+    "加一小勺芥末酱，风味更立体。风味走向变了，但步骤基本不用改。"
+  ],
+  "serving_suggestion": "用深盘盛出，浇上乳白酱汁撒欧芹碎，配米饭或煮土豆，是法国家常菜里的温柔一碗。",
+  "storage": "冷藏可放两天，复热用小火加少量高汤搅匀；含奶油不宜反复加热。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 624,
+    "protein_g": 46,
+    "fat_g": 42,
+    "carbs_g": 14,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "celery",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛肉须炖至完全软烂、中心无血色；奶油酱汁须煮沸后再离火。",
+    "成品冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "白汁炖小牛肉是法国经典家常菜，牛肉只用高汤和香料清炖，出锅前用黄油面酱和淡奶油调成乳白酱汁。汤浓肉烂、味道温和，法国人冬天常做一大锅配米饭。",
+  "tags": [
+    "法餐",
+    "炖菜",
+    "牛肉",
+    "奶油"
+  ],
+  "related_ids": [
+    "french-boeuf-carottes",
+    "french-hachis-parmentier",
+    "french-sauce-bechamel"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

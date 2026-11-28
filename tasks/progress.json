@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T06:06:49.816Z",
+  "generatedAt": "2026-11-28T06:26:20.992Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2874,
-    "coverage": 0.8778252901649358
+    "actual": 2882,
+    "coverage": 0.8802687843616371
   },
   "regions": {
     "cn": [
@@ -4278,16 +4278,18 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 91,
+        "actual": 99,
         "cells": [
           {
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 14,
             "ids": [
               "boeuf-bourguignon",
+              "french-blanquette-de-veau",
               "french-boeuf-bourguignon",
+              "french-boeuf-carottes",
               "french-brandade-de-morue",
               "french-coq-au-vin",
               "french-daube-provencale",
@@ -4304,7 +4306,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 15,
             "ids": [
               "creme-brulee",
               "french-clafoutis",
@@ -4313,6 +4315,8 @@
               "french-financier",
               "french-madeleines",
               "french-mousse-au-chocolat",
+              "french-paris-brest",
+              "french-riz-au-lait",
               "french-souffle-au-chocolat",
               "french-tarte-au-citron",
               "french-tarte-aux-poires",
@@ -4345,9 +4349,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "bouillabaisse",
+              "french-bisque-de-crevettes",
               "french-bouillabaisse",
               "french-garbure",
               "french-onion-soup",
@@ -4356,6 +4361,7 @@
               "french-soupe-lentilles",
               "french-soupe-oignon",
               "french-soupe-saint-germain",
+              "french-veloute-de-champignons",
               "french-veloute-de-potiron",
               "veloute-potiron"
             ]
@@ -4364,14 +4370,16 @@
             "category": "bakery",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 13,
             "ids": [
               "baguette",
               "french-brioche",
               "french-croissant",
               "french-eclairs",
               "french-ficelle",
+              "french-fougasse",
               "french-pain-au-chocolat",
+              "french-pain-aux-noix",
               "french-pain-de-campagne",
               "french-palmier",
               "french-quiche-lorraine",
