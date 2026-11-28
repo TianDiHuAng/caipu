@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "taiwan-shacha-youyu",
+  "name": {
+    "zh": "沙茶炒鱿鱼",
+    "en": "Stir-Fried Squid with Shacha Sauce"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 34,
+    "cook_min": 28,
+    "total_min": 62
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "spicy",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鱿鱼",
+          "name_en": "squid",
+          "amount": 500,
+          "unit": "g",
+          "note": "去膜切花刀",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 4,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "沙茶酱",
+          "name_en": "shacha sauce",
+          "amount": 30,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "铲",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鱿鱼撕去表面紫膜，剖开摊平，在内侧划十字花刀后切成四厘米见方的块。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "花刀划在内侧，受热才会卷成漂亮的卷。",
+      "visual_cue": "鱿鱼块表面布满菱形纹路"
+    },
+    {
+      "n": 2,
+      "text": "锅中水烧到微沸，鱿鱼块下锅汆十五秒立刻捞出沥干。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "水微沸就好，大滚的水会把鱿鱼煮老。",
+      "visual_cue": "鱿鱼卷起，颜色转白不蜷缩"
+    },
+    {
+      "n": 3,
+      "text": "沙茶酱加酱油、白砂糖和两勺清水调成料汁，搅匀备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "沙茶酱容易沉底结块，先调开再下锅。",
+      "visual_cue": "料汁呈褐红色，表面浮油"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油烧热，下洋葱丝和姜丝中火炒到洋葱变软出甜。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱炒到透明才出甜味，生洋葱会呛。",
+      "visual_cue": "洋葱丝透明发亮，边缘微焦"
+    },
+    {
+      "n": 5,
+      "text": "下蒜末和干辣椒段爆香，转大火倒入鱿鱼块快速翻炒三十秒。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "鱿鱼已汆过，回锅只是裹汁，久炒必老。",
+      "visual_cue": "鱿鱼卷翻动，边缘微微焦黄"
+    },
+    {
+      "n": 6,
+      "text": "淋入调好的沙茶料汁，大火翻炒一分钟让酱汁收紧裹住鱿鱼。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "汁收到能挂住勺子就够，收太干会发苦。",
+      "visual_cue": "酱汁浓稠挂满鱿鱼表面"
+    },
+    {
+      "n": 7,
+      "text": "沿锅边淋米酒翻匀，关火装盘，盘底留一点浓汁蘸食。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "米酒一定要在最后淋，酒香才留得住。",
+      "visual_cue": "盘底酱汁红亮，鱿鱼油润"
+    }
+  ],
+  "tips": [
+    "鱿鱼撕膜不能省，那层紫膜又腥又韧。撕之前用厨房纸抓住更好发力。",
+    "花刀划在内侧才卷得起来，划外侧只会蜷成球。刀口深度到三分之二最合适。",
+    "先汆十五秒再回锅炒，这样鱿鱼不出水、口感脆。直接生炒会出一锅腥水。",
+    "沙茶酱本身咸香带油，酱油只放一点提色。整道菜的咸度靠沙茶酱撑着。"
+  ],
+  "common_mistakes": [
+    "鱿鱼直接下锅生炒，出一锅水变成煮鱿鱼。必须先汆水再大火快炒。",
+    "花刀划在外侧，鱿鱼卷不起来还卷成硬球。内侧划刀这个细节别弄反。",
+    "沙茶酱直接挖进锅，结成一块块黑疙瘩。先用清水调开再下锅。",
+    "鱿鱼炒太久，越炒越硬像橡皮。汆十五秒加炒一分钟，全程不超过两分钟。"
+  ],
+  "substitutions": [
+    {
+      "original": "鱿鱼",
+      "substitute": "花枝",
+      "ratio": "500克:500克",
+      "note": "肉更厚，汆水时间延长五秒。"
+    },
+    {
+      "original": "沙茶酱",
+      "substitute": "XO酱",
+      "ratio": "30克:30克",
+      "note": "鲜味更高级，咸度略低。"
+    }
+  ],
+  "variations": [
+    "加一把韭菜段或芹菜段同炒，辛香更足。台式热炒店的标准配料。",
+    "换成沙茶炒牛肉或沙茶炒面，都是台湾夜市和热炒店的经典沙茶系列。",
+    "加一勺花生酱同炒，酱香更厚更黏。喜欢重口味的人会爱这个版本。"
+  ],
+  "serving_suggestion": "趁热装盘，鱿鱼卷弹牙、酱汁咸香带辣，配啤酒或白饭都合适，是台湾热炒店点单率最高的海鲜之一。",
+  "storage": "冷藏可放一天，复热用大火快炒三十秒；鱿鱼隔夜会变硬，建议当餐吃完。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 312,
+    "protein_g": 30,
+    "fat_g": 18,
+    "carbs_g": 10,
+    "sodium_mg": 1240,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish",
+    "gluten",
+    "mollusk",
+    "peanut",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein",
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鱿鱼须完全加热至肉质变白不透明，汆水与回锅炒制时间均须足够；生熟器具分开。",
+    "成品冷藏不超过一天，复热须彻底加热，出现异味须丢弃。"
+  ],
+  "origin_note": "沙茶炒鱿鱼是台湾热炒店和夜市的招牌，沙茶酱的咸香配上鱿鱼的脆弹，一口下去满嘴海味与花生香。台湾人吃沙茶是从潮汕传过来的，如今已成自己的味道。",
+  "tags": [
+    "台湾",
+    "热炒",
+    "海鲜",
+    "沙茶"
+  ],
+  "related_ids": [
+    "taiwan-lu-wei",
+    "taiwan-sanbei-chicken",
+    "taiwan-shrimp-omelet"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

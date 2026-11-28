@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "taiwan-you-fan",
+  "name": {
+    "zh": "台式油饭",
+    "en": "Taiwanese Glutinous Rice with Pork"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "taiwan"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 178,
+    "cook_min": 40,
+    "total_min": 218
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "糯米",
+          "name_en": "glutinous rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "长糯米",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 200,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡软切丝",
+          "optional": false
+        },
+        {
+          "name": "虾米",
+          "name_en": "dried shrimp",
+          "amount": 30,
+          "unit": "g",
+          "note": "温水泡软",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 50,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味上色",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 20,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒料",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电锅",
+    "炒锅",
+    "蒸笼",
+    "刀",
+    "砧板",
+    "铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "糯米淘洗两遍后清水浸泡两小时，泡到米粒能用指甲掐断。",
+      "time_min": 122,
+      "heat": "无火",
+      "tip": "糯米必须泡到透心，蒸出来才不会夹生。",
+      "visual_cue": "米粒发白膨胀，一掐即断"
+    },
+    {
+      "n": 2,
+      "text": "泡好的糯米沥干铺在蒸布上，大火蒸二十五分钟至米粒透亮有嚼劲。",
+      "time_min": 27,
+      "heat": "大火",
+      "tip": "糯米蒸比煮好，米粒才颗颗分明不糊。",
+      "visual_cue": "米粒透亮饱满，一粒粒独立不粘"
+    },
+    {
+      "n": 3,
+      "text": "香菇丝和虾米用泡发的水各留两勺，其余沥干备用。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "泡香菇的水是天然鲜味，千万别倒掉。",
+      "visual_cue": "香菇丝软韧，虾米回软"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒植物油，下红葱头碎小火煸到金黄酥脆，盛出一半留作撒面。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "红葱头要煸到金黄酥脆，这是油饭的香魂。",
+      "visual_cue": "葱碎金黄，油色转红棕"
+    },
+    {
+      "n": 5,
+      "text": "下五花肉丝炒到出油变色，加香菇丝、虾米、姜末翻炒两分钟。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉丝一定要炒出油，油饭才够润不干。",
+      "visual_cue": "肉丝卷曲出油，香菇丝吸油发亮"
+    },
+    {
+      "n": 6,
+      "text": "淋米酒、酱油，加白砂糖和白胡椒炒匀，倒入两勺香菇水煮开成卤汁。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "卤汁要调得略咸一点，拌进糯米才够味。",
+      "visual_cue": "卤汁红亮浓稠，香气浓郁扑鼻"
+    },
+    {
+      "n": 7,
+      "text": "把蒸好的糯米倒进炒锅，转小火翻拌三分钟让米粒吸饱卤汁。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "全程小火慢拌，米粒才吸汁均匀不结块。",
+      "visual_cue": "米粒油亮，颜色均匀褐红"
+    },
+    {
+      "n": 8,
+      "text": "拌好后淋香油翻匀，盛入碗中撒上预留的红葱酥即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香油要在出锅前最后淋，香气才不被炒散。",
+      "visual_cue": "油饭油润滑亮，葱酥金黄"
+    }
+  ],
+  "tips": [
+    "糯米要泡够两小时，泡不透蒸出来中心有硬芯。夏天可放冰箱泡，避免发酸。",
+    "糯米用蒸不用煮，煮的糯米太软黏，拌卤汁后容易糊成一团。蒸的才粒粒分明。",
+    "红葱酥是油饭的灵魂，一定要小火慢煸到金黄。煸好后留一半最后撒面，香气更冲。",
+    "卤汁要比平时炒菜略咸，拌进四倍量的糯米才刚好。拌的时候小火，米粒才吸得匀。"
+  ],
+  "common_mistakes": [
+    "糯米没泡直接蒸，蒸四十分钟还是硬芯。泡米这一步省不得。",
+    "卤汁太稀直接倒进糯米，拌出来黏成粥。卤汁要收到浓稠再拌。",
+    "红葱头大火煸，一秒钟就焦。小火慢煸，颜色金黄才是对的。",
+    "拌糯米用大火，底部糊了上面还没吸汁。全程小火，铲子不停翻。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "梅花肉",
+      "ratio": "200克:200克",
+      "note": "更瘦一点，需多加十毫升油。"
+    },
+    {
+      "original": "长糯米",
+      "substitute": "圆糯米",
+      "ratio": "400克:400克",
+      "note": "更黏更软，拌时要更轻手。"
+    }
+  ],
+  "variations": [
+    "加一把栗子和咸蛋黄，就是台湾弥月油饭的排场版本。红蛋配油饭是传统组合。",
+    "把油饭塞进处理好的透抽里蒸熟，做成鱿鱼油饭。宴客菜里最讨喜的一道。",
+    "加一勺麻油同炒，做成麻油鸡油饭。冬天进补吃的就是这个。"
+  ],
+  "serving_suggestion": "盛碗撒红葱酥，配一碗四神汤或青菜汤，米粒油润咸香、颗颗分明，是台湾满月礼和年节餐桌上的必备主食。",
+  "storage": "冷藏可放两天，复热用蒸锅大火蒸八分钟；微波会让糯米变硬，需加盖并加少量水。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 628,
+    "protein_g": 19,
+    "fat_g": 24,
+    "carbs_g": 86,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "糯米须蒸至完全熟透无硬芯，五花肉须炒至全熟；成品冷藏不超过两天。",
+    "糯米黏性大，老人小孩食用须细嚼慢咽，避免噎食。"
+  ],
+  "origin_note": "台式油饭是台湾满月礼和年节餐桌上的主角，糯米蒸熟后拌进五花肉、香菇、虾米和红葱酥炒的卤汁。米粒油润咸香、颗颗分明，配红蛋就是最传统的台湾喜气。",
+  "tags": [
+    "台湾",
+    "主食",
+    "糯米",
+    "油饭"
+  ],
+  "related_ids": [
+    "lurou-fan",
+    "taiwan-chicken-rice",
+    "taiwan-zhutong-migao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
