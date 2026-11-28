@@ -1,0 +1,258 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indonesian-sop-ayam",
+  "name": {
+    "zh": "印尼鸡汤",
+    "en": "Indonesian Chicken Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indonesian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "total_min": 50
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "带骨斩块",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切瓣",
+          "optional": false
+        },
+        {
+          "name": "粉丝",
+          "name_en": "glass noodles",
+          "amount": 60,
+          "unit": "g",
+          "note": "清水泡软",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 40,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1600,
+          "unit": "ml",
+          "note": "煲汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉斩成四厘米见方的块，冷水下锅焯三分钟撇净浮沫后捞出。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "冷水下锅血水才出得来，鸡肉的腥味全靠这一步。",
+      "visual_cue": "鸡块表面变白，浮沫撇净"
+    },
+    {
+      "n": 2,
+      "text": "红葱头切片、大蒜拍碎，锅里放植物油小火炒到葱片微微金黄。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "葱片炒到浅金黄就够，再深就带苦味抢汤。",
+      "visual_cue": "葱片半透明边缘金黄，油色发亮"
+    },
+    {
+      "n": 3,
+      "text": "下鸡块与白胡椒同炒两分钟，让表面裹上葱油再倒入清水。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "鸡肉先炒过再加水，汤会更香也不容易发腥。",
+      "visual_cue": "鸡块表面收紧，锅底无血水"
+    },
+    {
+      "n": 4,
+      "text": "加土豆与胡萝卜大火烧开后转小火炖二十五分钟，撇去浮油。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "小火慢炖汤才清，大滚会把土豆煮散成糊。",
+      "visual_cue": "土豆边角圆润，筷子能插入"
+    },
+    {
+      "n": 5,
+      "text": "放番茄与泡软的粉丝再煮五分钟，加盐调味撒小葱即可。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "粉丝最后放，久煮会吸干汤水变成一坨。",
+      "visual_cue": "粉丝透明柔软，番茄略塌不散"
+    }
+  ],
+  "tips": [
+    "鸡腿肉比鸡胸耐炖，炖完还是嫩的，别换鸡胸。",
+    "粉丝提前用清水泡软，下锅只要五分钟就熟。",
+    "汤想更清就把鸡皮去掉，浮油会少很多。",
+    "端上桌配一小碟甜酱油与小米辣，是印尼人的吃法。"
+  ],
+  "common_mistakes": [
+    "鸡块热水下锅焯，血水锁在里面，汤腥得喝不下。",
+    "全程大火滚，土豆煮成糊，汤浑得像粥。",
+    "粉丝一开始就放，出锅吸成一整块咬不动。",
+    "盐放太早，鸡肉发柴、土豆也不软。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "500克:450克",
+      "note": "更瘦但易柴，炖的时间减八分钟。"
+    },
+    {
+      "original": "土豆",
+      "substitute": "红薯",
+      "ratio": "250克:250克",
+      "note": "汤带甜味，炖的时间缩短五分钟。"
+    }
+  ],
+  "variations": [
+    "加一小块椰糖同炖，汤的回甘更明显。",
+    "撒一把炸红葱头在表面，香气更接近街边小店。",
+    "加几片柠檬叶同炖，清香气更突出。"
+  ],
+  "serving_suggestion": "热汤连料盛进深碗，撒葱花，配白饭与辣酱同吃最地道。",
+  "storage": "冷藏可放两天，复热须煮沸；粉丝会继续吸汤，第二天可补少量清水。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 318,
+    "protein_g": 26,
+    "fat_g": 14,
+    "carbs_g": 22,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炖至中心完全熟透、骨边不见血色，生熟砧板分开使用。",
+    "成品汤冷藏不超过两天，复热要彻底煮沸，不要反复加热。"
+  ],
+  "origin_note": "印尼鸡汤是家家会做的清汤，用红葱头与大蒜起锅，靠土豆和番茄把汤底撑得甜润。街边小馆常配粉丝与甜酱油一起吃，感冒时来一碗，比药还让人踏实。",
+  "tags": [
+    "印尼菜",
+    "汤",
+    "鸡肉",
+    "家常"
+  ],
+  "related_ids": [
+    "indonesian-soto-ayam",
+    "indonesian-opor-ayam",
+    "indonesian-sayur-bening"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

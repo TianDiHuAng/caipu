@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indonesian-ayam-bumbu-bali",
+  "name": {
+    "zh": "巴厘辣酱鸡",
+    "en": "Balinese Spiced Chicken"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indonesian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 30,
+    "total_min": 50
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 500,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 30,
+          "unit": "g",
+          "note": "去蒂",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 50,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 20,
+          "unit": "g",
+          "note": "取白段",
+          "optional": false
+        },
+        {
+          "name": "柠檬叶",
+          "name_en": "kaffir lime leaf",
+          "amount": 4,
+          "unit": "piece",
+          "note": "撕开",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "椰糖",
+          "name_en": "palm sugar",
+          "amount": 20,
+          "unit": "g",
+          "note": "提甜压辣",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调底味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒酱",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "料理机",
+    "刀",
+    "砧板",
+    "木铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成三厘米见方的块，加盐与生抽抓匀腌十分钟。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "腌十分钟足够入味，久放肉质会出水变散。",
+      "visual_cue": "鸡块表面泛光，调料完全吸附"
+    },
+    {
+      "n": 2,
+      "text": "小米辣、红葱头、大蒜、南姜与香茅放进料理机打成粗糊。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "打成粗糊就够，太细的酱炒起来容易糊底发苦。",
+      "visual_cue": "酱糊呈橙红色，能见到细颗粒"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油中火烧热，下酱糊小火慢炒五分钟至香气浓烈、油色发红。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "这步叫炒香，火大十秒就焦苦，务必小火耐心。",
+      "visual_cue": "酱色转深红，锅边渗出红油"
+    },
+    {
+      "n": 4,
+      "text": "下鸡块翻炒到表面变色，加柠檬叶、番茄与清水，盖盖小火焖十五分钟。",
+      "time_min": 15,
+      "heat": "小火",
+      "tip": "水只要刚没过鸡块一半，焖到收汁才浓郁不稀。",
+      "visual_cue": "鸡块裹满红酱，汤汁收至一半"
+    },
+    {
+      "n": 5,
+      "text": "加椰糖与盐调味，开盖中火收汁到酱汁浓稠挂勺。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "椰糖最后放，早放容易糊底也失去焦糖香。",
+      "visual_cue": "酱汁浓稠发亮，锅底留一层红油"
+    },
+    {
+      "n": 6,
+      "text": "挑出柠檬叶，装盘后把锅里红油一并浇上即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "红油是这道菜的灵魂，别撇掉，浇上才够香。",
+      "visual_cue": "成品油亮红润，酱汁紧裹鸡块"
+    }
+  ],
+  "tips": [
+    "小米辣的辣度差别很大，先放一半，尝过再加。",
+    "南姜与香茅不可省，这两样撑起了巴厘风味。",
+    "炒酱时锅底一有焦味立刻调小，宁可多炒两分钟。",
+    "收汁到锅铲划过能留痕的程度，味道最浓缩。"
+  ],
+  "common_mistakes": [
+    "酱糊大火快炒，颜色发黑带苦，整锅只能倒掉。",
+    "水加太多收不干，成品变成一锅辣汤。",
+    "椰糖一开始就下，糊在锅底带焦苦味。",
+    "鸡块焖太久，肉散成丝，一点弹性都没有。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "500克:450克",
+      "note": "更瘦，焖的时间减五分钟。"
+    },
+    {
+      "original": "小米辣",
+      "substitute": "红辣椒",
+      "ratio": "30克:40克",
+      "note": "辣度降低，香气更甜。"
+    }
+  ],
+  "variations": [
+    "焖好后用炭火烤三分钟，表面带焦香，风味更接近巴厘岛街头。",
+    "加一小块虾酱同炒，鲜味更浓，是爪哇一带的做法。",
+    "剩下的酱汁拌白饭，比菜本身还下饭。"
+  ],
+  "serving_suggestion": "连酱带油浇在白饭上，配黄瓜片与炸红葱头，辣得冒汗时来一口冰饮最痛快。",
+  "storage": "冷藏可放三天，复热加一勺清水小火焖五分钟，酱汁会重新化开。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 452,
+    "protein_g": 32,
+    "fat_g": 29,
+    "carbs_g": 12,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须焖至中心完全熟透、不见粉红，生肉接触的砧板要彻底清洗。",
+    "辣椒处理后不要揉眼睛，接触皮肤的器具用完立即冲洗；成品冷藏不超过三天。"
+  ],
+  "origin_note": "巴厘辣酱鸡是印尼巴厘岛的家常味，靠小米辣、红葱头与南姜打成的酱糊撑起整道菜。当地人叫它 bumbu bali，炒酱那一步最考功夫：火大一点就苦，火小一点又不香，全凭掌心那点耐心。",
+  "tags": [
+    "印尼菜",
+    "鸡肉",
+    "辣",
+    "椰糖"
+  ],
+  "related_ids": [
+    "indonesian-ayam-bakar-kecap",
+    "indonesian-ayam-penyet",
+    "indonesian-beef-rendang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:48:53.857Z",
+  "generatedAt": "2026-11-28T03:57:01.046Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2779,
-    "coverage": 0.8488087965791081
+    "actual": 2787,
+    "coverage": 0.8512522907758094
   },
   "regions": {
     "cn": [
@@ -4820,15 +4820,16 @@
         "en": "Indonesian",
         "tier": "B",
         "target": 38,
-        "actual": 21,
+        "actual": 29,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "indonesian-nasi-goreng",
+              "indonesian-nasi-kuning",
               "indonesian-nasi-uduk"
             ]
           },
@@ -4836,9 +4837,10 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "indonesian-ayam-bakar-kecap",
+              "indonesian-ayam-bumbu-bali",
               "indonesian-ayam-goreng",
               "indonesian-ayam-penyet",
               "indonesian-opor-ayam",
@@ -4849,10 +4851,12 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "indonesian-sayur-asem",
+              "indonesian-sayur-bening",
               "indonesian-sayur-lodeh",
+              "indonesian-sop-ayam",
               "indonesian-soto-ayam"
             ]
           },
@@ -4872,9 +4876,10 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "indonesian-bubur-sumsum",
+              "indonesian-es-campur",
               "indonesian-es-teler",
               "indonesian-klepon",
               "indonesian-nagasari",
@@ -4885,15 +4890,20 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "indonesian-sambal-goreng-tahu",
+              "indonesian-urap-sayur"
+            ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 1,
+            "ids": [
+              "indonesian-telur-balado"
+            ]
           },
           {
             "category": "main-meat",
