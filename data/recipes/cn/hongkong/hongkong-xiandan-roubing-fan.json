@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-xiandan-roubing-fan",
+  "name": {
+    "zh": "咸蛋蒸肉饼饭",
+    "en": "Steamed Pork Patty Rice with Salted Egg"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 42,
+    "cook_min": 42,
+    "total_min": 84
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 350,
+          "unit": "g",
+          "note": "煮成饭",
+          "optional": false
+        },
+        {
+          "name": "猪肉末",
+          "name_en": "ground pork",
+          "amount": 250,
+          "unit": "g",
+          "note": "七分瘦三分肥",
+          "optional": false
+        },
+        {
+          "name": "咸蛋黄",
+          "name_en": "salted egg yolk",
+          "amount": 60,
+          "unit": "g",
+          "note": "两个",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "荸荠",
+          "name_en": "water chestnut",
+          "amount": 60,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "磨末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "锁水",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 2,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "拌馅",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "大碗",
+    "刀",
+    "砧板",
+    "筷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘净加水煮成饭，煮好后焖十分钟再打开锅盖散热。",
+      "time_min": 35,
+      "heat": "中火",
+      "tip": "饭要煮得稍硬，肉饼的汁往下渗才不会糊。",
+      "visual_cue": "米粒分明松散，锅边微微发干"
+    },
+    {
+      "n": 2,
+      "text": "猪肉末加生抽、白糖和白胡椒，顺一个方向搅到起胶发黏。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "一定要顺一个方向搅，起胶了肉饼才弹，乱搅会散。",
+      "visual_cue": "肉末黏成团，拉丝有韧性"
+    },
+    {
+      "n": 3,
+      "text": "分两次加入两勺清水继续搅打，让肉末把水全部吸进去。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "加水打上劲，蒸出来的肉饼才嫩滑多汁。",
+      "visual_cue": "肉末油亮，按下去有弹性"
+    },
+    {
+      "n": 4,
+      "text": "荸荠切碎、姜磨成末拌进肉末，加玉米淀粉和植物油抓匀。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "荸荠提供脆粒口感，是不腻的关键，别省略。",
+      "visual_cue": "肉馅里可见白色荸荠碎粒均匀分布"
+    },
+    {
+      "n": 5,
+      "text": "把肉馅在浅盘里摊成一厘米厚的圆饼，用筷子在表面压几道浅纹。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "肉饼摊薄摊匀，厚度一致，蒸的时候受热才均匀。",
+      "visual_cue": "肉饼平整，厚度均匀一致"
+    },
+    {
+      "n": 6,
+      "text": "咸蛋黄对半切开，切面朝上按进肉饼表面，摆成对称的几块。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蛋黄切面朝上，蒸出来的橙黄色最漂亮。",
+      "visual_cue": "蛋黄嵌在肉饼里，橙黄饱满"
+    },
+    {
+      "n": 7,
+      "text": "蒸锅水大滚后放入，中火蒸十五分钟至肉饼熟透、蛋黄凝实。",
+      "time_min": 18,
+      "heat": "中火",
+      "tip": "用中火蒸，大火会让肉饼表面开裂出水，出来一盘汤。",
+      "visual_cue": "肉饼鼓起，盘底汁水清亮"
+    },
+    {
+      "n": 8,
+      "text": "取出后撒葱花，淋上香油，把肉饼和盘底的汁水一起铺在饭上即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "盘底的肉汁别倒，拌饭是这道菜的精髓。",
+      "visual_cue": "肉汁渗进饭里，表面油润发亮"
+    }
+  ],
+  "tips": [
+    "肉末要顺一个方向搅到起胶，这是肉饼弹不弹的关键。手打五分钟，比机器搅的更有黏性。",
+    "打水这一步不能省，分两次加共两勺清水，肉饼蒸出来才嫩。水一次倒多了会散。",
+    "荸荠碎提供清脆的口感，是解腻的关键。没有荸荠可以用莲藕碎代替，口感相近。",
+    "蒸的时候用中火，大火会让肉饼表面骤然收紧、内部出水，出来一盘水汪汪的肉饼。"
+  ],
+  "common_mistakes": [
+    "肉末乱搅一通，肉饼蒸出来一夹就散。必须顺同一方向搅到起胶发黏。",
+    "肉馅里加盐又加生抽，咸得下不了口。咸蛋黄本身有咸味，盐基本不用放。",
+    "肉饼摊得太厚，蒸二十分钟中心还是生的。一厘米厚最合适。",
+    "大火猛蒸，肉饼表面开裂出水。中火蒸十五分钟，肉嫩汁清。"
+  ],
+  "substitutions": [
+    {
+      "original": "荸荠",
+      "substitute": "莲藕",
+      "ratio": "60克:60克",
+      "note": "同样脆口，需切得比荸荠更细。"
+    },
+    {
+      "original": "猪肉末",
+      "substitute": "牛肉末",
+      "ratio": "250克:250克",
+      "note": "口感更紧实，需多加一勺水打馅。"
+    }
+  ],
+  "variations": [
+    "把肉饼做成小肉丸，和饭一起蒸成肉丸蒸饭。一人一份更方便分食。",
+    "加一勺虾酱或梅菜同拌，做成梅菜肉饼饭。咸香更厚重，是客家风味做法。",
+    "咸蛋黄换成皮蛋碎，做成皮蛋蒸肉饼。口感更滑，风味更特别。"
+  ],
+  "serving_suggestion": "连盘端上桌，肉饼嫩滑多汁、咸蛋黄橙黄油润，把肉汁拌进饭里是最香的一口，港式家常和茶餐厅都常见。",
+  "storage": "冷藏可放一天，复热用蒸锅大火蒸八分钟；肉饼隔夜会变紧实，建议当餐吃完。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 708,
+    "protein_g": 32,
+    "fat_g": 28,
+    "carbs_g": 78,
+    "sodium_mg": 1040,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "猪肉末须蒸至中心完全熟透无粉红，咸蛋黄须蒸至凝实；生熟器具分开。",
+    "成品冷藏不超过一天，复热须彻底蒸透；咸蛋含盐高，高血压人群宜少食。"
+  ],
+  "origin_note": "咸蛋蒸肉饼饭是港式家庭餐桌的常客，肉末打上劲摊成饼，咸蛋黄嵌在表面一起蒸，肉汁往下渗进饭里。一碗搞定一餐，是香港人从小吃到大的家常味。",
+  "tags": [
+    "香港",
+    "蒸饭",
+    "肉饼",
+    "咸蛋"
+  ],
+  "related_ids": [
+    "hongkong-baozaifan",
+    "hongkong-pork-chop-rice",
+    "hongkong-cha-siu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

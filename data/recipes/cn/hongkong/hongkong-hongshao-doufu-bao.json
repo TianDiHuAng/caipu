@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-hongshao-doufu-bao",
+  "name": {
+    "zh": "红烧豆腐煲",
+    "en": "Braised Tofu Clay Pot"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 55,
+    "cook_min": 25,
+    "total_min": 80
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "嫩豆腐",
+          "name_en": "silken tofu",
+          "amount": 500,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 60,
+          "unit": "g",
+          "note": "泡软切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 5,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "煎豆腐",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "收尾",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 180,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "平底锅",
+    "刀",
+    "砧板",
+    "铲",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "嫩豆腐切成两厘米厚的方片，用厨房纸吸干表面的水分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "表面水一定要吸干，不然下锅就溅油还粘锅。",
+      "visual_cue": "豆腐片完整不破，表面吸得干干爽爽"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒一半植物油烧热，豆腐片下锅中火煎至两面金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "煎定型再翻面，一面煎足三分钟才不散。",
+      "visual_cue": "两面煎到金黄，边缘微微焦脆"
+    },
+    {
+      "n": 3,
+      "text": "煎好的豆腐盛出，香菇泡软切片，胡萝卜切薄片备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香菇泡软的水留着，烧豆腐时加进去更鲜。",
+      "visual_cue": "菇片软韧，胡萝卜片薄透"
+    },
+    {
+      "n": 4,
+      "text": "砂锅倒剩余植物油，下蒜末、姜片和葱白段小火爆香。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "砂锅要先小火慢慢预热，骤热容易炸裂，这是砂锅菜的第一道关。",
+      "visual_cue": "葱姜蒜出香，油面微冒烟"
+    },
+    {
+      "n": 5,
+      "text": "下香菇片和胡萝卜片翻炒一分钟，让菇片吸油出香。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香菇先炒出香，烧出来的汤汁才有菌菇的鲜。",
+      "visual_cue": "菇片吸油发亮，边缘微卷"
+    },
+    {
+      "n": 6,
+      "text": "把煎好的豆腐片码进砂锅，加生抽、老抽、蚝油、白糖和清水。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "豆腐在砂锅里码放不要叠太厚，叠薄一点汤汁才浸得透。",
+      "visual_cue": "汤面微沸，豆腐浸在汁里"
+    },
+    {
+      "n": 7,
+      "text": "盖上砂锅盖转小火焖十分钟，中途轻推一下锅底防止粘底。",
+      "time_min": 12,
+      "heat": "小火",
+      "tip": "全程保持小火，砂锅大火容易糊底，还可能把锅烧裂。",
+      "visual_cue": "汤汁收得浓稠，豆腐微微鼓起"
+    },
+    {
+      "n": 8,
+      "text": "用玉米淀粉加水勾薄芡，淋香油撒葱段，连砂锅端上桌。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "芡要薄，汤汁裹住豆腐就够，太稠像糊。",
+      "visual_cue": "汤汁浓亮挂勺，葱段翠绿"
+    }
+  ],
+  "tips": [
+    "豆腐一定要先煎定型，皮焦了才烧得住。不煎直接烧，豆腐一碰就碎。",
+    "煎豆腐要有耐心，一面煎足三分钟定型再翻。心急翻面，豆腐就散在锅里。",
+    "砂锅烧豆腐开小火，砂锅导热慢、蓄热强，大火容易糊底还可能裂锅。",
+    "用香菇泡发的水代替清水烧豆腐，鲜味翻倍。静置后取上层清液，底下有沙不要。"
+  ],
+  "common_mistakes": [
+    "豆腐不煎直接下锅烧，碎成一锅豆腐渣。必须先煎到两面金黄定型。",
+    "砂锅开大火烧，糊底还容易裂锅。砂锅一定小火慢焖。",
+    "汤汁收太干，豆腐发硬还粘锅。留一点浓汁，拌饭才香。",
+    "老抽放多，豆腐变成黑褐色发苦。五毫升只够上个浅红色。"
+  ],
+  "substitutions": [
+    {
+      "original": "嫩豆腐",
+      "substitute": "北豆腐",
+      "ratio": "500克:500克",
+      "note": "更结实不易碎，煎的时间延长两分钟。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "杏鲍菇",
+      "ratio": "60克:80克",
+      "note": "口感更脆，出水较多需减清水三十毫升。"
+    }
+  ],
+  "variations": [
+    "加一把泡软的粉丝铺底，做成粉丝豆腐煲。粉丝吸饱汤汁比豆腐还好吃。",
+    "加几片五花肉先煸出油再烧，猪油香气厚重得多。这是客家豆腐煲的做法。",
+    "把豆腐换成油豆腐泡，做成红烧油豆腐。吸汁更猛，一口爆汁。"
+  ],
+  "serving_suggestion": "连砂锅端上桌，豆腐外焦内嫩、汤汁浓稠带菇香，舀一勺连汁拌饭是这道菜最正确的吃法。",
+  "storage": "冷藏可放一天，复热加两勺水小火焖五分钟；豆腐隔夜会出水，建议当餐吃完。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 342,
+    "protein_g": 20,
+    "fat_g": 22,
+    "carbs_g": 18,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "豆腐须煎至两面金黄并烧至完全热透，砂锅烧制时须小火防止糊底。",
+    "成品冷藏不超过一天，复热须彻底加热；汤汁变酸或豆腐发黏须丢弃。"
+  ],
+  "origin_note": "红烧豆腐煲是粤港家庭餐桌和茶餐厅的常备菜，豆腐先煎后烧，香菇和蚝油吊出鲜味。砂锅端上桌还在冒泡，舀一勺连汁拌饭让人停不下来。",
+  "tags": [
+    "香港",
+    "粤菜",
+    "豆腐",
+    "砂锅"
+  ],
+  "related_ids": [
+    "hongkong-soy-pan-fried-tofu",
+    "hongkong-cha-siu",
+    "hongkong-haoyou-jielan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

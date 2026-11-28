@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-beigu-huaji-fan",
+  "name": {
+    "zh": "北菇滑鸡蒸饭",
+    "en": "Steamed Rice with Chicken and Shiitake"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 80,
+    "cook_min": 52,
+    "total_min": 132
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 350,
+          "unit": "g",
+          "note": "煮成饭",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 80,
+          "unit": "g",
+          "note": "泡软切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 20,
+          "unit": "g",
+          "note": "腌鸡",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 10,
+          "unit": "g",
+          "note": "锁汁",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "腌制",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "碗",
+    "刀",
+    "砧板",
+    "量杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘净加水煮成稍硬的饭，煮好后再焖十分钟让米粒收干水汽。",
+      "time_min": 35,
+      "heat": "中火",
+      "tip": "饭要煮得比平时硬一点，蒸的时候还要吸鸡汁。",
+      "visual_cue": "米粒分明，表面没有多余水"
+    },
+    {
+      "n": 2,
+      "text": "香菇用温水泡三十分钟至完全回软，泡菇水静置沉淀留用。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "泡菇的水是天然鲜味，静置后取上层清液拌鸡最香。",
+      "visual_cue": "菇盖饱满，捏起来有弹性"
+    },
+    {
+      "n": 3,
+      "text": "鸡腿肉切成三厘米见方的块，加蚝油、生抽、白糖和米酒抓匀。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "鸡肉块别切太小，蒸后收缩，大块才保得住肉汁。",
+      "visual_cue": "肉块均匀，酱色裹满表面"
+    },
+    {
+      "n": 4,
+      "text": "加入玉米淀粉抓匀，再拌入植物油和两勺泡菇水，腌二十分钟。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "淀粉先锁水，油后封住，蒸出来才滑嫩不柴。",
+      "visual_cue": "肉块表面挂薄浆，微微发亮"
+    },
+    {
+      "n": 5,
+      "text": "香菇片和姜丝拌进鸡肉里，平铺在腌好的肉块上一起入味。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "香菇铺面，蒸的时候香气往下渗进鸡肉里。",
+      "visual_cue": "菇片盖满肉块，姜丝散匀"
+    },
+    {
+      "n": 6,
+      "text": "取深碗盛饭，把腌好的鸡肉连菇片铺在饭面，淋上剩余腌汁。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "鸡肉在饭面铺平，不要堆高，铺平受热才均匀，堆高处难熟。",
+      "visual_cue": "肉块平铺一层，汁水渗进饭里"
+    },
+    {
+      "n": 7,
+      "text": "蒸锅水大滚后放入碗，盖盖大火蒸十八分钟至鸡肉全熟。",
+      "time_min": 22,
+      "heat": "大火",
+      "tip": "水必须大滚再上锅，冷水起蒸鸡肉会老。",
+      "visual_cue": "鸡肉变白收紧，汁水清亮"
+    },
+    {
+      "n": 8,
+      "text": "取出撒葱花，淋一勺香油，趁热连饭带鸡一起拌匀吃。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "拌之前先让饭吸两分钟鸡汁，味道才进得去。",
+      "visual_cue": "饭粒吸饱鸡汁，油润发亮"
+    }
+  ],
+  "tips": [
+    "这道饭的关键在腌鸡：淀粉锁水、油封表面、泡菇水提鲜，三步做到位，鸡肉蒸多久都滑。",
+    "泡香菇的水别倒，静置后取上层清液拌进鸡肉，鲜味比任何调味料都自然。",
+    "饭要煮得比平时硬一点，因为蒸的时候鸡汁会往下渗，饭太软就糊成一团。",
+    "鸡肉铺平不要堆高，大火蒸十八分钟正好。堆得太厚中心不熟，周边已经老了。"
+  ],
+  "common_mistakes": [
+    "鸡肉不腌直接蒸，出来又干又柴。至少要腌二十分钟，淀粉和油都不能省。",
+    "香菇没泡透就切片，蒸出来硬邦邦咬不动。温水泡半小时，捏起来有弹性才行。",
+    "饭煮得太软，蒸完变成一锅粥。煮饭水量比平时少一成。",
+    "蒸锅冷水上锅，鸡肉慢慢受热，蒸二十分钟还是柴。必须水大滚再放进去。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡翅中",
+      "ratio": "300克:350克",
+      "note": "带骨更香，蒸制时间需延长三分钟。"
+    },
+    {
+      "original": "香菇",
+      "substitute": "干茶树菇",
+      "ratio": "80克:60克",
+      "note": "香气更浓，需泡四十分钟。"
+    }
+  ],
+  "variations": [
+    "鸡肉换成排骨，做成北菇蒸排骨饭。港式茶楼最经典的蒸饭组合之一。",
+    "加一条腊肠切片同蒸，腊味油渗进饭里，香气直接翻倍。冬天吃最合适。",
+    "改用砂锅先煮饭再铺鸡蒸，做成煲仔饭版本，底部结一层焦香饭焦。"
+  ],
+  "serving_suggestion": "整碗端上桌，连饭带鸡一起拌开吃，鸡肉滑嫩、菇香渗进米粒，是港式茶楼和家常餐桌都常见的蒸饭。",
+  "storage": "冷藏可放一天，复热用蒸锅大火蒸八分钟；鸡肉隔夜易柴，建议当餐吃完。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 598,
+    "protein_g": 38,
+    "fat_g": 16,
+    "carbs_g": 76,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡腿肉须蒸至中心完全变白无血水，蒸制时间不少于十八分钟；生熟器具分开。",
+    "成品冷藏不超过一天，复热须彻底蒸透；出现异味或黏液须丢弃。"
+  ],
+  "origin_note": "北菇滑鸡蒸饭是港式茶楼和街坊小店的常备蒸饭，香菇的菌香和滑嫩鸡块一起铺在饭面蒸，鸡汁往下渗进米粒。一碗端上来连饭带肉，是最省事的一餐。",
+  "tags": [
+    "香港",
+    "蒸饭",
+    "香菇",
+    "家常菜"
+  ],
+  "related_ids": [
+    "hongkong-baozaifan",
+    "hongkong-pork-chop-rice",
+    "hongkong-chi-you-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

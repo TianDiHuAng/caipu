@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:05:29.318Z",
+  "generatedAt": "2026-11-28T07:30:23.597Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2898,
-    "coverage": 0.8851557727550398
+    "actual": 2906,
+    "coverage": 0.887599266951741
   },
   "regions": {
     "cn": [
@@ -2900,15 +2900,16 @@
         "en": "Hong Kong-Macau",
         "tier": "B",
         "target": 38,
-        "actual": 23,
+        "actual": 31,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "bifengtang-chaoxie",
+              "hongkong-chizhi-zheng-shanbei",
               "hongkong-garlic-shrimp",
               "hongkong-qingzheng-luyu",
               "hongkong-salt-pepper-squid",
@@ -2919,10 +2920,14 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 6,
             "ids": [
               "hongkong-baozaifan",
-              "hongkong-pork-chop-rice"
+              "hongkong-beigu-huaji-fan",
+              "hongkong-pork-chop-rice",
+              "hongkong-xiandan-roubing-fan",
+              "hongkong-xianyu-jili-chaofan",
+              "hongkong-yangzhou-chaofan"
             ]
           },
           {
@@ -2962,15 +2967,19 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "hongkong-fuyu-chao-kongxincai",
+              "hongkong-haoyou-jielan"
+            ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "hongkong-hongshao-doufu-bao",
               "hongkong-soy-pan-fried-tofu"
             ]
           },

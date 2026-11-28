@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-xianyu-jili-chaofan",
+  "name": {
+    "zh": "咸鱼鸡粒炒饭",
+    "en": "Fried Rice with Salted Fish and Chicken"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 77,
+    "cook_min": 28,
+    "total_min": 105
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 350,
+          "unit": "g",
+          "note": "煮成隔夜饭",
+          "optional": false
+        },
+        {
+          "name": "咸鱼",
+          "name_en": "salted fish",
+          "amount": 60,
+          "unit": "g",
+          "note": "去骨切小粒",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 150,
+          "unit": "g",
+          "note": "切小粒",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 100,
+          "unit": "g",
+          "note": "两个打散",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提味",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "中和咸味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "收尾增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "电锅",
+    "刀",
+    "砧板",
+    "铲",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米煮成偏硬的饭，彻底放凉后冷藏一夜，炒前用铲背压散米粒。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "饭要够干，炒出来才有镬气，湿饭下锅只会糊成一团。",
+      "visual_cue": "米粒松散干爽，用铲背一压就散开"
+    },
+    {
+      "n": 2,
+      "text": "咸鱼去骨切成半厘米小粒，用清水冲一遍沥干去掉多余盐分。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "咸鱼很咸，冲一遍水能去掉表面盐霜，避免整锅过咸。",
+      "visual_cue": "鱼粒干爽，咸味明显收敛"
+    },
+    {
+      "n": 3,
+      "text": "鸡腿肉切成同样大小的粒，加生抽和一半白胡椒抓匀腌十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "鸡腿肉带一点油脂，切粒后久炒也不柴，比纯瘦的部位嫩得多。",
+      "visual_cue": "肉粒油润，腌料被完全吸干"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒一半植物油烧热，下咸鱼粒小火慢煸到金黄出香。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "咸鱼要小火煸透，那股咸香才出得来，这是这道饭的命根。",
+      "visual_cue": "鱼粒焦黄，香气浓烈扑鼻"
+    },
+    {
+      "n": 5,
+      "text": "下姜末和鸡腿肉粒转中火炒两分钟至肉粒变色断生。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "肉粒先炒到断生，后面和饭同炒才不老。",
+      "visual_cue": "肉粒转白，表面微微焦边"
+    },
+    {
+      "n": 6,
+      "text": "推到锅边，倒剩余植物油下蛋液划散，再倒入冷饭大火翻炒三分钟。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "大火把饭炒到跳动，粒粒裹上蛋液才香。",
+      "visual_cue": "饭粒在锅里跳动，粒粒泛着金光"
+    },
+    {
+      "n": 7,
+      "text": "沿锅边淋生抽，加白糖和白胡椒翻匀，尝咸淡再决定要不要补盐。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "咸鱼本身很咸，调味前先尝一口，多数情况不用加盐。",
+      "visual_cue": "饭色均匀浅褐，咸香扑鼻而来"
+    },
+    {
+      "n": 8,
+      "text": "撒葱花淋香油翻两下关火，盛盘时把咸鱼粒均匀分到每份上。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "葱花一定要最后放，余温一激香气最足，早了会发黄。",
+      "visual_cue": "葱花翠绿，饭粒干爽油亮"
+    }
+  ],
+  "tips": [
+    "咸鱼选霉香马友或梅香咸鱼，那种发酵的咸香是这道饭的灵魂，普通咸鱼味道差一大截。",
+    "咸鱼先单独煸香再炒饭，味道才进得去。直接和饭一起炒，咸味出不来只剩死咸。",
+    "鸡肉要用鸡腿肉切粒，腿肉带一点油脂，炒久了也不柴，比纯瘦的部位嫩得多。",
+    "整道菜基本不用加盐，咸鱼的咸度足够。出锅前尝一口再决定，这是最关键的判断。"
+  ],
+  "common_mistakes": [
+    "咸鱼不煸直接下锅和饭同炒，咸味生硬还有腥味。必须小火先煸到金黄。",
+    "咸鱼放太多，整锅饭咸得发苦。三人份六十克足够，宁少勿多。",
+    "鸡肉切太大块，炒不熟还压口感。半厘米的小粒最合适。",
+    "饭太湿，炒出来黏成块。必须用隔夜冷藏饭，煮的时候水也要少放一成。"
+  ],
+  "substitutions": [
+    {
+      "original": "咸鱼",
+      "substitute": "虾酱",
+      "ratio": "60克:20克",
+      "note": "咸度更高，用量要减三分之二。"
+    },
+    {
+      "original": "鸡腿肉",
+      "substitute": "猪里脊",
+      "ratio": "150克:150克",
+      "note": "口感更嫩，炒制时间缩短半分钟。"
+    }
+  ],
+  "variations": [
+    "把饭装进砂锅焗一下，做成咸鱼鸡粒煲仔饭。底下那层饭焦是最抢手的部分。",
+    "加一把毛豆和玉米粒同炒，口感更丰富。这是茶餐厅的常见加料版本。",
+    "咸鱼换成虾米，做成虾米鸡粒炒饭。咸香温和一些，孩子也能吃。"
+  ],
+  "serving_suggestion": "盛盘趁热吃，咸鱼的咸香混着鸡粒的嫩和蛋香，是港式茶餐厅里最有辨识度的一碗饭，配一杯热鸳鸯最对味。",
+  "storage": "冷藏可放一天，复热用炒锅大火快炒一分钟；咸鱼隔夜咸味会加重，建议当餐吃完。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 676,
+    "protein_g": 33,
+    "fat_g": 24,
+    "carbs_g": 84,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡腿肉须炒至完全断生无血水，鸡蛋须炒至凝固；咸鱼须煸香后使用。",
+    "成品冷藏不超过一天，复热须彻底加热；咸鱼含盐量高，高血压人群宜少食。"
+  ],
+  "origin_note": "咸鱼鸡粒炒饭是港式茶餐厅的招牌，霉香咸鱼的咸鲜配上鸡粒和蛋香，一口下去层次极多。香港人常说没吃过咸鱼炒饭就不算吃过茶餐厅，它是本地味道的代表。",
+  "tags": [
+    "香港",
+    "茶餐厅",
+    "炒饭",
+    "咸鱼"
+  ],
+  "related_ids": [
+    "hongkong-yangzhou-chaofan",
+    "hongkong-baozaifan",
+    "hongkong-chi-you-ji"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

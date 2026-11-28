@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hongkong-yangzhou-chaofan",
+  "name": {
+    "zh": "扬州炒饭",
+    "en": "Hong Kong Style Yangzhou Fried Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hongkong"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 74,
+    "cook_min": 27,
+    "total_min": 101
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 350,
+          "unit": "g",
+          "note": "煮成隔夜饭",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "三个打散",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 80,
+          "unit": "g",
+          "note": "去肠线",
+          "optional": false
+        },
+        {
+          "name": "腊肠",
+          "name_en": "Cantonese sausage",
+          "amount": 50,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 60,
+          "unit": "g",
+          "note": "切小丁",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提色",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 10,
+          "unit": "ml",
+          "note": "收尾增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "电锅",
+    "刀",
+    "砧板",
+    "铲",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘净按一米一点二的比例加水，用电锅煮成偏硬的饭，放凉后冷藏一夜。",
+      "time_min": 40,
+      "heat": "无火",
+      "tip": "炒饭要用隔夜冷饭，水分收干才炒得粒粒分明。",
+      "visual_cue": "米粒松散不结团，颗粒分明"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋磕入碗中打散，胡萝卜和腊肠各切成半厘米见方的小丁备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "配料切成同样大小，吃起来口感一致，也同熟。",
+      "visual_cue": "丁块大小整齐，蛋液均匀"
+    },
+    {
+      "n": 3,
+      "text": "虾仁用盐和白胡椒抓匀腌五分钟，再用厨房纸吸干表面水分。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "虾仁吸干水才不出水，炒出来才爽脆弹牙。",
+      "visual_cue": "虾仁干爽，表面微微发亮"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热倒一半植物油，倒入蛋液快速划散成小块，盛出备用。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "蛋液刚半凝就快速划散，炒出来的蛋块才嫩，久炒会干硬发渣。",
+      "visual_cue": "蛋块金黄蓬松，体积膨胀"
+    },
+    {
+      "n": 5,
+      "text": "锅内补剩余植物油，下腊肠丁和胡萝卜丁中火煸出油香。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "腊肠先煸出油，整锅饭才有那股腊味香。",
+      "visual_cue": "腊肠边缘微焦，油色泛红"
+    },
+    {
+      "n": 6,
+      "text": "倒入冷饭开大火不停翻炒两分钟，把结块的米粒全部压散炒松。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "用铲背压散米粒，别用切的，切会把米粒切碎。",
+      "visual_cue": "米粒在锅里跳动，颗颗分明"
+    },
+    {
+      "n": 7,
+      "text": "下虾仁和炒好的蛋块翻炒一分钟，沿锅边淋生抽快速翻匀上色。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "生抽沿滚烫的锅边淋入，遇热立刻激出酱香，饭粒上色也更均匀。",
+      "visual_cue": "饭粒均匀染上浅酱色，油亮有光泽"
+    },
+    {
+      "n": 8,
+      "text": "加盐和白胡椒调味，撒葱花淋香油翻两下立刻关火出锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "葱花一定要最后放，靠余温激出的葱香最鲜，早放会发黄发苦。",
+      "visual_cue": "葱花翠绿，饭粒油亮松散"
+    }
+  ],
+  "tips": [
+    "炒饭的饭一定要用隔夜冷饭，新煮的饭水分太多，下锅就是一锅糊。煮饭时水比平时少一成。",
+    "蛋液下锅后快速划散成小块再盛出，最后回锅。这样蛋块嫩，也不会被米饭炒成碎渣。",
+    "全程大火，锅要够热。火小了米饭吸油变腻，炒不出干爽的颗粒感。",
+    "配料一律切成同样大小的丁，红黄白配色好看，口感也统一。这是扬州炒饭的门面。"
+  ],
+  "common_mistakes": [
+    "用新煮的热饭下锅炒，米饭黏成一坨。必须用冷藏过的隔夜饭，水分才够干。",
+    "米饭下锅前不打散，直接倒进去结成一团团的疙瘩。先用铲背把米粒压散。",
+    "火太小炒饭，米饭吸饱油变得油腻。炒饭必须大火快炒，锅气才出得来。",
+    "生抽倒太多，饭变成黑褐色还发咸。沿锅边淋一小圈就够，只为提色。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肠",
+      "substitute": "叉烧酱腌肉",
+      "ratio": "50克:60克",
+      "note": "腊味香气弱一些，需多加五毫升生抽。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "虾米",
+      "ratio": "80克:40克",
+      "note": "需先泡软，鲜味更浓但口感偏韧。"
+    }
+  ],
+  "variations": [
+    "加一把毛豆和玉米粒，颜色更丰富。这是港式茶餐厅最常见的配色版本。",
+    "把饭换成米粉做成扬州炒米粉，口感更爽。港式茶餐厅一样常见。",
+    "加一勺XO酱同炒，鲜味和辣味都上来。这是升级版的豪华做法。"
+  ],
+  "serving_suggestion": "趁热装盘，饭粒颗颗分明、金黄带酱色，配一杯冻柠茶就是最正宗的港式茶餐厅一餐。",
+  "storage": "冷藏可放一天，复热用炒锅大火快炒一分钟；微波会让米粒回软，需加盖并加一勺水。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 642,
+    "protein_g": 24,
+    "fat_g": 22,
+    "carbs_g": 86,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "egg",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须炒至完全凝固，虾仁须炒至变红不透明；隔夜饭冷藏不超过一天。",
+    "成品冷藏不超过一天，复热须彻底加热至中心滚烫。"
+  ],
+  "origin_note": "扬州炒饭是港式茶餐厅的头牌主食，米饭粒粒分明、蛋香腊味交融。香港人把它当成最日常的一餐，配一杯冻奶茶就是一整天的能量来源。",
+  "tags": [
+    "香港",
+    "茶餐厅",
+    "炒饭",
+    "主食"
+  ],
+  "related_ids": [
+    "hongkong-baozaifan",
+    "hongkong-cha-siu",
+    "hongkong-ganchao-niuhe"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
