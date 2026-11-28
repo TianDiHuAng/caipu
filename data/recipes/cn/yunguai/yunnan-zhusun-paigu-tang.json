@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "yunnan-zhusun-paigu-tang",
+  "name": {
+    "zh": "云南竹笋排骨汤",
+    "en": "Yunnan Bamboo Shoot and Pork Rib Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "yunguai"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 96,
+    "total_min": 126
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "light",
+    "umami"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 600,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "竹笋",
+          "name_en": "bamboo shoot",
+          "amount": 400,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "打结与切花",
+          "optional": false
+        },
+        {
+          "name": "枸杞",
+          "name_en": "goji berry",
+          "amount": 8,
+          "unit": "g",
+          "note": "泡软",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "米酒",
+          "name_en": "rice wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "提香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1800,
+          "unit": "ml",
+          "note": "炖汤",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "砂锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨斩成四厘米长的块，用清水浸泡二十分钟泡出血水。",
+      "time_min": 24,
+      "heat": "无火",
+      "tip": "泡出血水，汤才清亮不腥，这一步比焯水更管用。",
+      "visual_cue": "排骨发白，泡出的水呈淡红色"
+    },
+    {
+      "n": 2,
+      "text": "泡好的排骨冷水下锅，加姜片和米酒煮开，撇净浮沫后捞出冲洗。",
+      "time_min": 10,
+      "heat": "大火",
+      "tip": "必须冷水下锅，血沫才随着升温慢慢析出。",
+      "visual_cue": "浮沫灰褐成团，排骨表面冲得干净"
+    },
+    {
+      "n": 3,
+      "text": "竹笋削掉外层老皮，切成滚刀块，入沸水焯三分钟去涩。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "鲜笋不焯会涩口，焯透之后汤才清甜，笋也不扎嘴。",
+      "visual_cue": "笋块由白转浅黄，涩味散尽"
+    },
+    {
+      "n": 4,
+      "text": "砂锅加足量清水，放入排骨、姜片和葱结，大火烧开。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "水要一次加足，中途添水汤味立刻变淡，鲜味也散了。",
+      "visual_cue": "汤面大火翻滚，只浮少量细沫"
+    },
+    {
+      "n": 5,
+      "text": "转小火保持微沸，盖盖炖四十分钟，让排骨的鲜味慢慢渗出。",
+      "time_min": 42,
+      "heat": "小火",
+      "tip": "全程小火微沸，汤才清而不浑，肉质也不柴。",
+      "visual_cue": "汤色清亮微白，排骨酥软将脱骨"
+    },
+    {
+      "n": 6,
+      "text": "放入焯好的竹笋块，继续小火炖二十分钟，让笋的清甜融进汤里。",
+      "time_min": 22,
+      "heat": "小火",
+      "tip": "笋块后放，炖久了会散，二十分钟正好脆嫩。",
+      "visual_cue": "笋块在汤中浮沉，汤带清甜笋香"
+    },
+    {
+      "n": 7,
+      "text": "加盐和白胡椒调味，撒入泡软的枸杞，再小火炖两分钟让味道融开。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "盐一定要最后放，早放排骨肉质收紧发柴。",
+      "visual_cue": "枸杞吸汤饱满，汤色微黄发亮"
+    },
+    {
+      "n": 8,
+      "text": "关火焖五分钟再盛碗，撒葱花，趁热喝汤吃笋和排骨。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "关火焖一会儿，味道更融，汤也更顺口。",
+      "visual_cue": "汤面浮一层薄油，清亮见底"
+    }
+  ],
+  "tips": [
+    "排骨先用清水泡二十分钟再焯水，血水出得干净，汤才清亮不腥。直接焯水的汤容易发浑。",
+    "焯水必须冷水下锅，随着水温慢慢升高，血沫才一点点析出来。热水下锅血水锁在肉里。",
+    "炖汤全程小火保持微沸，汤面只冒小泡。大火滚着炖，汤会浑成奶白色，肉也柴。",
+    "盐在最后放，早放会让排骨的蛋白质收紧，炖两个小时还是硬的。"
+  ],
+  "common_mistakes": [
+    "排骨热水下锅焯，血沫锁在肉里，汤腥还浑。必须冷水下锅。",
+    "中途加冷水，汤的温度骤降，肉紧缩变柴。水要一次加足。",
+    "全程大火滚，汤浑肉柴。小火微沸炖，汤才清亮。",
+    "盐和排骨一起下锅，炖到最后肉还是硬的。盐必须最后放。"
+  ],
+  "substitutions": [
+    {
+      "original": "竹笋",
+      "substitute": "冬笋",
+      "ratio": "400克:400克",
+      "note": "更甜更嫩，焯水两分钟即可。"
+    },
+    {
+      "original": "排骨",
+      "substitute": "筒骨",
+      "ratio": "600克:800克",
+      "note": "汤更浓更白，需炖一小时以上。"
+    }
+  ],
+  "variations": [
+    "加几片云南火腿同炖，汤的鲜味立刻上一个档次。宣威火腿和竹笋是绝配。",
+    "把竹笋换成干笋泡发，做成干笋排骨汤。干笋的香味更浓，汤色更深。",
+    "加一把云南干菌子同炖，做成菌香排骨汤。山野气息十足，是雨季的家常做法。"
+  ],
+  "serving_suggestion": "汤盛在白瓷碗里清亮见底，排骨酥软脱骨、笋块脆嫩带甜，一口汤下去满嘴都是清鲜，饭前喝一碗最舒服。",
+  "storage": "冷藏可放两天，复热用汤锅小火煮开五分钟；汤面浮油可撇去，笋块隔夜会更入味。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 298,
+    "protein_g": 26,
+    "fat_g": 16,
+    "carbs_g": 8,
+    "sodium_mg": 680,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "dairy-free",
+    "gluten-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "排骨须炖至完全熟透、骨髓无血色；竹笋须焯透去涩。",
+    "成品冷藏不超过两天，复热须煮沸；汤发酸或起沫须丢弃。"
+  ],
+  "origin_note": "竹笋排骨汤是云南春天最应景的一碗汤，山里的鲜笋配上本地猪排骨，小火慢炖出一锅清甜。云南人讲究喝原汤，除了盐什么都不加，喝的就是食材本身的鲜。",
+  "tags": [
+    "云南",
+    "云贵菜",
+    "汤品",
+    "竹笋"
+  ],
+  "related_ids": [
+    "qiguo-ji",
+    "yunnan-mushroom-soup",
+    "guizhou-lawei-chao-zhusun"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

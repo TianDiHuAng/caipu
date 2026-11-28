@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T07:30:23.597Z",
+  "generatedAt": "2026-11-28T07:54:48.816Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2906,
-    "coverage": 0.887599266951741
+    "actual": 2914,
+    "coverage": 0.8900427611484423
   },
   "regions": {
     "cn": [
@@ -2397,39 +2397,47 @@
         "en": "Yunnan-Guizhou",
         "tier": "B",
         "target": 38,
-        "actual": 24,
+        "actual": 32,
         "cells": [
           {
             "category": "main-vegetable",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 6,
             "ids": [
+              "guizhou-ganjiao-tudoupian",
+              "guizhou-lawei-chao-zhusun",
               "guizhou-qiang-chaotusi",
               "xiaomila-kugua",
-              "yunguai-chao-qingcai"
+              "yunguai-chao-qingcai",
+              "yunnan-suancai-chao-yumi"
             ]
           },
           {
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 6,
             "ids": [
+              "guizhou-suancai-doufu-tang",
               "qiguo-ji",
               "suantang-feiniu",
-              "yunnan-mushroom-soup"
+              "yunnan-mushroom-soup",
+              "yunnan-xiangmao-ji-tang",
+              "yunnan-zhusun-paigu-tang"
             ]
           },
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "guilin-mifen",
+              "guizhou-huiguo-rou",
               "suantang-feiniu",
-              "yunnan-suancai-chaorou"
+              "yunnan-suancai-chaorou",
+              "yunnan-xiaomila-chao-niurou"
             ]
           },
           {
