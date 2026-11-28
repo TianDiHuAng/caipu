@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "indian-chicken-jalfrezi",
+  "name": {
+    "zh": "青椒番茄炒鸡",
+    "en": "Chicken Jalfrezi",
+    "original": "Chicken Jalfrezi"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "indian"
+  },
+  "category": [
+    "main-poultry"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "tangy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 600,
+          "unit": "g",
+          "note": "切三厘米块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 150,
+          "unit": "g",
+          "note": "切条",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 150,
+          "unit": "g",
+          "note": "一半切丝一半切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 4,
+          "unit": "g",
+          "note": "炸香",
+          "optional": false
+        },
+        {
+          "name": "芫荽籽",
+          "name_en": "coriander seed",
+          "amount": 3,
+          "unit": "g",
+          "note": "碾碎",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 5,
+          "unit": "g",
+          "note": "调辣",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 3,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎点缀",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "木铲",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成三厘米块，用姜黄、一半盐与辣椒粉抓匀腌十五分钟。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "腌够时间鸡肉才有底味，急着下锅只有表面咸。",
+      "visual_cue": "鸡块挂满红色粉末，表面微湿"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油烧热，下孜然与芫荽籽炸到香气散出、籽粒变深。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "香料炸香只需十几秒，颜色一变就要下洋葱。",
+      "visual_cue": "油面浮起细密泡沫，香气冲鼻"
+    },
+    {
+      "n": 3,
+      "text": "放洋葱末、姜末与蒜末炒到洋葱透亮，锅底出现一层褐色焦香。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "这层焦香是味道的根，别急着下番茄把它冲掉。",
+      "visual_cue": "洋葱软塌，锅底泛焦糖色"
+    },
+    {
+      "n": 4,
+      "text": "倒入鸡块大火翻炒到表面收紧变白，加番茄块炒到出汁。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "鸡块要摊开煎，堆在一起只会出水变成煮鸡。",
+      "visual_cue": "鸡块表面发白收紧，番茄塌软"
+    },
+    {
+      "n": 5,
+      "text": "盖盖小火焖十分钟，中途翻一次，让鸡肉把番茄汁吸进去。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "焖的时候别频繁开盖，蒸汽跑了鸡肉容易发柴。",
+      "visual_cue": "汤汁变浓，鸡肉用筷子能戳透"
+    },
+    {
+      "n": 6,
+      "text": "开盖放青椒条与洋葱丝，大火翻炒两分钟，加剩下的盐与香菜出锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "青椒最后放才保脆，久炒会发黄变软。",
+      "visual_cue": "青椒翠绿带虎皮，汤汁裹住鸡块"
+    }
+  ],
+  "tips": [
+    "鸡腿肉比鸡胸肉耐煮，焖过之后依然嫩。",
+    "番茄选熟透的，出汁多，汤汁自然浓稠。",
+    "喜欢更辣可以把辣椒粉加到八克，或加两根青辣椒。",
+    "剩的汤汁拌饭极好，别收得太干。"
+  ],
+  "common_mistakes": [
+    "鸡肉腌完直接下锅不摊开，全堆在一起出水的。",
+    "青椒一开始就下锅，最后端上来发黄发软。",
+    "番茄没炒出汁就加水，汤汁寡淡还带生味。",
+    "焖的时间太长不看着，锅底烧焦粘成一片。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "鸡胸肉",
+      "ratio": "600 克:600 克",
+      "note": "焖的时间缩短到六分钟，避免发柴。"
+    },
+    {
+      "original": "青椒",
+      "substitute": "甜椒",
+      "ratio": "150 克:150 克",
+      "note": "辣度降低，适合不吃辣的人。"
+    }
+  ],
+  "variations": [
+    "加一勺酸奶在焖之前拌入，酱汁会更顺滑。",
+    "最后淋半勺柠檬汁，酸味能让香料更突出。"
+  ],
+  "serving_suggestion": "盛进深盘，配白米饭或烤饼，把汤汁一起舀上，旁边放一小碟洋葱丝解辣。",
+  "storage": "冷藏可放两天，复热用炒锅小火加两勺水翻热，微波会让鸡肉变硬。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 386,
+    "protein_g": 34,
+    "fat_g": 22,
+    "carbs_g": 12,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡肉须炒至中心完全熟透，切开不见粉色汁水；生熟砧板与刀具必须分开。",
+    "成品冷藏不超过两天，复热须彻底加热至滚沸，剩余汤汁不要反复加热。"
+  ],
+  "origin_note": "Jalfrezi 出自英属印度时期的加尔各答，原本是把剩菜用青椒和番茄回锅快炒的做法。名字里的 jhal 指辛辣，frezi 来自波斯语的炒。如今它成了印度餐馆菜单上的常客，特点是干香、辣中带酸。",
+  "tags": [
+    "印度",
+    "鸡肉",
+    "青椒",
+    "炒"
+  ],
+  "related_ids": [
+    "indian-chicken-kadai",
+    "indian-chicken-do-pyaza",
+    "indian-chicken-vindaloo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

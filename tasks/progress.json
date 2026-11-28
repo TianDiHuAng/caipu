@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:31:09.346Z",
+  "generatedAt": "2026-11-28T03:35:30.736Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2763,
-    "coverage": 0.8439218081857056
+    "actual": 2771,
+    "coverage": 0.8463653023824068
   },
   "regions": {
     "cn": [
@@ -5248,7 +5248,7 @@
         "en": "Indian",
         "tier": "A",
         "target": 107,
-        "actual": 89,
+        "actual": 97,
         "cells": [
           {
             "category": "main-vegetable",
@@ -5276,7 +5276,7 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 15,
             "ids": [
               "butter-chicken",
               "indian-butter-chicken",
@@ -5284,8 +5284,10 @@
               "indian-chicken-chettinad",
               "indian-chicken-curry",
               "indian-chicken-do-pyaza",
+              "indian-chicken-jalfrezi",
               "indian-chicken-kadai",
               "indian-chicken-korma",
+              "indian-chicken-madras",
               "indian-chicken-tikka-masala",
               "indian-chicken-vindaloo",
               "indian-murgh-handi",
@@ -5318,15 +5320,18 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 15,
             "ids": [
               "dal-tomato-soup",
+              "indian-beetroot-shorba",
               "indian-chicken-corn-soup",
               "indian-chicken-shorba",
+              "indian-coconut-chicken-shorba",
               "indian-lemon-coriander-chicken-soup",
               "indian-masoor-dal-shorba",
               "indian-moong-dal-shorba",
               "indian-mulligatawny-soup",
+              "indian-mushroom-shorba",
               "indian-palak-shorba",
               "indian-rasam",
               "indian-sambar",
@@ -5338,18 +5343,21 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 15,
             "ids": [
               "gajar-halwa",
               "indian-carrot-halwa",
               "indian-coconut-burfi",
+              "indian-coconut-ladoo",
               "indian-gulab-jamun",
               "indian-jalebi",
               "indian-kaju-katli",
+              "indian-kesar-peda",
               "indian-kulfi",
               "indian-phirni",
               "indian-rasmalai",
               "indian-semiya-payasam",
+              "indian-shahi-tukda",
               "indian-shrikhand",
               "kheer"
             ]
