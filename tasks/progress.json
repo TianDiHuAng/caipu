@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T16:03:49.136Z",
+  "generatedAt": "2026-11-28T16:46:14.372Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 3042,
-    "coverage": 0.9291386682956628
+    "actual": 3050,
+    "coverage": 0.931582162492364
   },
   "regions": {
     "cn": [
@@ -4391,7 +4391,7 @@
         "en": "French",
         "tier": "A",
         "target": 107,
-        "actual": 99,
+        "actual": 107,
         "cells": [
           {
             "category": "main-meat",
@@ -4442,16 +4442,18 @@
             "category": "sauce",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 14,
             "ids": [
               "french-sauce-au-poivre",
               "french-sauce-aux-champignons",
               "french-sauce-bechamel",
+              "french-sauce-beurre-blanc",
               "french-sauce-bordelaise",
               "french-sauce-chasseur",
               "french-sauce-espagnole",
               "french-sauce-hollandaise",
               "french-sauce-mornay",
+              "french-sauce-provencale",
               "french-sauce-roquefort",
               "sauce-bechamel",
               "sauce-bordelaise",
@@ -4462,7 +4464,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "bouillabaisse",
               "french-bisque-de-crevettes",
@@ -4471,6 +4473,7 @@
               "french-onion-soup",
               "french-potato-soup",
               "french-soupe-au-pistou",
+              "french-soupe-carottes",
               "french-soupe-lentilles",
               "french-soupe-oignon",
               "french-soupe-saint-germain",
@@ -4518,11 +4521,12 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "french-oeufs-cocotte",
               "french-oeufs-en-meurette",
               "french-omelette-aux-fines-herbes",
+              "french-omelette-fromage",
               "french-omelette",
               "french-souffle-omelette"
             ]
@@ -4531,9 +4535,11 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
+              "french-tofu-basquaise",
               "french-tofu-bourguignon",
+              "french-tofu-champignons",
               "french-tofu-gratine",
               "french-tofu-provencale",
               "french-tofu-quiche"
@@ -4543,12 +4549,14 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "french-gratin-de-macaroni",
               "french-nouilles-au-beurre",
+              "french-nouilles-creme-champignons",
               "french-pates-au-pistou",
-              "french-provencal-noodle-bake"
+              "french-provencal-noodle-bake",
+              "french-tagliatelle-provencale"
             ]
           },
           {

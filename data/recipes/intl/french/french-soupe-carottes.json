@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "french-soupe-carottes",
+  "name": {
+    "zh": "胡萝卜奶油浓汤",
+    "en": "Soupe de Carottes a la Creme"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "french"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 12,
+    "cook_min": 33,
+    "total_min": 45
+  },
+  "servings": 3,
+  "flavor": [
+    "sweet",
+    "light",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 500,
+          "unit": "g",
+          "note": "去皮切薄片",
+          "optional": false
+        },
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 150,
+          "unit": "g",
+          "note": "去皮切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "高汤",
+          "name_en": "stock",
+          "amount": 700,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        },
+        {
+          "name": "奶油",
+          "name_en": "cream",
+          "amount": 100,
+          "unit": "ml",
+          "note": "增稠提香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "刀",
+    "砧板",
+    "搅拌机",
+    "汤勺",
+    "削皮刀"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "胡萝卜去皮后切成三毫米薄片，土豆去皮切成两厘米小块。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "切得薄，煮的时间能省一半这一步宁可稳一点也不必图快。",
+      "visual_cue": "胡萝卜片厚薄一致，土豆块方正"
+    },
+    {
+      "n": 2,
+      "text": "深锅小火化开黄油，下洋葱丝和大蒜炒五分钟至洋葱透明。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "洋葱炒软，汤的甜味才自然火候和时间都要盯住，别走开。",
+      "visual_cue": "洋葱丝软塌，锅底泛甜香"
+    },
+    {
+      "n": 3,
+      "text": "倒入胡萝卜片和土豆块翻炒三分钟，让表面裹上一层黄油。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "先裹油再加水，香气更融多做两次就能摸准手感。",
+      "visual_cue": "蔬菜表面油亮，颜色加深"
+    },
+    {
+      "n": 4,
+      "text": "倒入高汤大火煮开，撇掉浮沫后转小火盖盖煮十八分钟。",
+      "time_min": 19,
+      "heat": "小火",
+      "tip": "撇净浮沫，汤色才清甜宁可分次操作，也别一次到底。",
+      "visual_cue": "蔬菜能用筷子轻松穿透"
+    },
+    {
+      "n": 5,
+      "text": "连汤带料倒进搅拌机，打到完全顺滑无颗粒再倒回深锅。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "打之前稍放凉，避免热气顶开盖子锅里一有变化就调整火力。",
+      "visual_cue": "汤体细腻，勺背挂一层"
+    },
+    {
+      "n": 6,
+      "text": "小火加热，倒入奶油搅匀煮到微沸，加盐和白胡椒调匀。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "奶油下锅后别大滚，容易分层备料提前摆好，做起来更顺手。",
+      "visual_cue": "汤色橙白，表面光滑，能明显看出差别。"
+    },
+    {
+      "n": 7,
+      "text": "盛进汤碗，撒欧芹碎，淋几滴奶油划出纹路再上桌。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "最后那几滴奶油让卖相立刻不同按时间点检查，别凭感觉判断。",
+      "visual_cue": "碗面有白色纹路和绿点"
+    }
+  ],
+  "tips": [
+    "胡萝卜切薄片，煮的时间短，甜味也更透。",
+    "蔬菜先裹黄油再加水，汤的香气更圆润。",
+    "打汤前先放凉一点，安全也更好打匀。",
+    "奶油关小火再加，滚猛了会油水分离。"
+  ],
+  "common_mistakes": [
+    "胡萝卜切得又厚又大，煮二十分钟还硬。",
+    "浮沫不撇，汤喝起来有股生涩味，前面花的功夫全打了水漂。",
+    "热汤直接倒进搅拌机，盖子被顶开烫手。",
+    "奶油大火滚煮，汤面浮起一层油花，只能重做一遍。"
+  ],
+  "substitutions": [
+    {
+      "original": "奶油",
+      "substitute": "牛奶",
+      "ratio": "100毫升:120毫升",
+      "note": "更清淡，需多加三十克土豆增稠。"
+    },
+    {
+      "original": "高汤",
+      "substitute": "清水",
+      "ratio": "700毫升:700毫升",
+      "note": "味道略薄，盐可多加一克。"
+    }
+  ],
+  "variations": [
+    "加一小勺切碎的南姜同煮，甜味更清亮。",
+    "用烤过的胡萝卜做汤，甜味更集中带焦香。",
+    "撒一把烤香的南瓜子，多一层脆口感。"
+  ],
+  "serving_suggestion": "用预热的汤碗盛装，配两片烤法棍和一勺酸奶油，冬天当晚餐前汤最合适。",
+  "storage": "冷藏可放三天，冷冻可放一个月；复热用小火加两勺高汤慢慢化开。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 254,
+    "protein_g": 5,
+    "fat_g": 16,
+    "carbs_g": 22,
+    "sodium_mg": 780,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "汤体含奶油，须冷藏保存并在三天内用完，复热须彻底加热至滚开。"
+  ],
+  "origin_note": "胡萝卜奶油浓汤是法国学校食堂和家庭餐桌上最普通的汤，胡萝卜与土豆同煮，打碎后兑上奶油，颜色橙得发亮。法国人习惯用它当晚餐的第一道，配几片烤过的法棍，简单却暖胃。",
+  "tags": [
+    "法国",
+    "汤",
+    "胡萝卜",
+    "奶油"
+  ],
+  "related_ids": [
+    "french-veloute-de-potiron",
+    "french-soupe-saint-germain",
+    "french-potato-soup"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
