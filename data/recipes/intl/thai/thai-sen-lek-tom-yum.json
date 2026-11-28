@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-sen-lek-tom-yum",
+  "name": {
+    "zh": "酸辣汤米粉",
+    "en": "Rice Noodles in Tom Yum Broth"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "米粉",
+          "name_en": "rice noodles",
+          "amount": 240,
+          "unit": "g",
+          "note": "干米粉",
+          "optional": false
+        },
+        {
+          "name": "虾仁",
+          "name_en": "peeled shrimp",
+          "amount": 240,
+          "unit": "g",
+          "note": "去虾线",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "口蘑",
+          "name_en": "button mushroom",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "樱桃番茄",
+          "name_en": "cherry tomato",
+          "amount": 100,
+          "unit": "g",
+          "note": "对半切",
+          "optional": false
+        },
+        {
+          "name": "香茅",
+          "name_en": "lemongrass",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍扁取白段",
+          "optional": false
+        },
+        {
+          "name": "南姜",
+          "name_en": "galangal",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "柠檬叶",
+          "name_en": "kaffir lime leaf",
+          "amount": 4,
+          "unit": "piece",
+          "note": "撕开",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 50,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "椰糖",
+          "name_en": "palm sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "平衡酸辣",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒香料",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1400,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "大碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "干米粉用温水泡二十分钟到软而有韧性，捞出沥干。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "泡到能弯折不断就够，泡过头下锅就烂。",
+      "visual_cue": "米粉柔软可绕指，无硬芯"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒植物油小火炒香香茅、南姜与小米辣，炒到香气冲鼻。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "香料拍扁再炒，味道才出得来，别炒到发黑。",
+      "visual_cue": "香料边缘微卷，油色带香"
+    },
+    {
+      "n": 3,
+      "text": "倒清水与柠檬叶烧开，转中火煮十分钟让香料味进汤。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "煮够十分钟汤底才有层次，时间短只剩辣味。",
+      "visual_cue": "汤色微黄，香气浓郁扑鼻"
+    },
+    {
+      "n": 4,
+      "text": "下蘑菇与小番茄煮三分钟，再放虾仁煮到变色卷曲。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "虾仁最后放，煮久会老，变色就够。",
+      "visual_cue": "虾仁卷曲粉红，蘑菇变软浮起"
+    },
+    {
+      "n": 5,
+      "text": "加鱼露与椰糖调味，米粉下锅烫一分钟，关火挤青柠汁撒香菜。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "青柠汁一定关火后再挤，滚汤里挤会发苦。",
+      "visual_cue": "米粉浸在红亮汤中，香气酸辣"
+    }
+  ],
+  "tips": [
+    "汤底香料别吃，吃的时候挑出来，口感太硬。",
+    "青柠汁分两次挤，一半入汤一半上桌补，酸味更鲜活。",
+    "喜欢重口可以加一勺辣椒酱，汤色更红。",
+    "米粉与汤底分开煮，汤色才不会发浑变稠。"
+  ],
+  "common_mistakes": [
+    "米粉泡过头，下锅一烫就断成一截一截。",
+    "青柠汁倒进滚汤里，整锅发苦没法救。",
+    "香料没拍扁就下锅，汤只有辣没有香。",
+    "虾仁煮到发白发硬，嚼起来像橡皮。"
+  ],
+  "substitutions": [
+    {
+      "original": "米粉",
+      "substitute": "粉丝",
+      "ratio": "240克:200克",
+      "note": "更吸汤，泡的时间减到十分钟。"
+    },
+    {
+      "original": "虾仁",
+      "substitute": "鸡腿肉",
+      "ratio": "240克:250克",
+      "note": "切薄片，煮的时间加两分钟。"
+    }
+  ],
+  "variations": [
+    "加两勺椰奶，汤变浓白，是椰香酸辣汤米粉。",
+    "加一颗水煮蛋对半切，饱腹感更强。",
+    "换成河粉，汤头更挂味，是曼谷常见的版本。"
+  ],
+  "serving_suggestion": "大碗盛汤与米粉，虾仁摆面，配青柠角与辣椒粉，趁热吃最过瘾。",
+  "storage": "冷藏可放一天，米粉与汤分开存放；复热汤须煮沸，米粉用热水烫开即可。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 398,
+    "protein_g": 28,
+    "fat_g": 9,
+    "carbs_g": 52,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "虾为甲壳类过敏原，过敏人群请替换；虾仁须煮至完全变色熟透。",
+    "含米粉的汤品冷藏不超过一天，复热要彻底煮沸，不要反复加热。"
+  ],
+  "origin_note": "酸辣汤米粉是泰国街头的午间主食，一锅汤底从早熬到晚，香茅、南姜、柠檬叶三样撑起骨架。客人来了抓一把米粉烫软，浇上滚汤，挤半颗青柠，酸辣直冲鼻尖。",
+  "tags": [
+    "泰菜",
+    "米粉",
+    "酸辣",
+    "虾仁"
+  ],
+  "related_ids": [
+    "thai-tom-yum-goong",
+    "thai-pad-woon-sen",
+    "thai-gaeng-jued-wunsen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

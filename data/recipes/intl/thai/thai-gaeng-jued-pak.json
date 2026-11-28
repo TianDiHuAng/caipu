@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-gaeng-jued-pak",
+  "name": {
+    "zh": "蔬菜清汤",
+    "en": "Thai Clear Vegetable Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 10,
+    "cook_min": 20,
+    "total_min": 30
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "savory",
+    "herbal"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 150,
+          "unit": "g",
+          "note": "切滚刀块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 150,
+          "unit": "g",
+          "note": "切方块",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 15,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "补咸",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "卷心菜切成三厘米宽的块，胡萝卜切滚刀块，清水冲净沥干。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "两种菜熟的时间不同，胡萝卜一定要切小一点。",
+      "visual_cue": "菜块大小均匀，表面无泥沙"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒植物油小火炒香大蒜末，炒到边缘微黄不焦。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "蒜末只炒到微黄，颜色一深整锅汤都带苦。",
+      "visual_cue": "蒜末浮在油面，香气清甜"
+    },
+    {
+      "n": 3,
+      "text": "倒清水烧开，下胡萝卜煮十分钟，再放卷心菜煮五分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "胡萝卜先下锅，卷心菜久煮会发黄失去脆感。",
+      "visual_cue": "胡萝卜能插入筷子，菜叶转深绿"
+    },
+    {
+      "n": 4,
+      "text": "加北豆腐再煮三分钟，用鱼露与盐调味，撒白胡椒与香菜关火。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "豆腐最后放免得煮碎，鱼露关火前加香气最足。",
+      "visual_cue": "豆腐完整浮起，汤色清亮不浑"
+    }
+  ],
+  "tips": [
+    "汤要清就别大滚，中小火保持微沸汤色才透亮。",
+    "鱼露别早放，久煮会发酸且香气跑掉。",
+    "加几片柠檬叶同煮，清香更接近泰国本地味。",
+    "喜欢辣可在碗里加一颗捣碎的小米辣。"
+  ],
+  "common_mistakes": [
+    "全程大火滚，汤浑菜烂，一点清爽感都没有。",
+    "鱼露一次倒太多，整锅咸得喝不下去。",
+    "卷心菜和胡萝卜同时下锅，一个烂了一个还硬。",
+    "香菜一起久煮，汤里带一股闷味。"
+  ],
+  "substitutions": [
+    {
+      "original": "卷心菜",
+      "substitute": "大白菜",
+      "ratio": "250克:250克",
+      "note": "更甜，煮的时间减两分钟。"
+    },
+    {
+      "original": "北豆腐",
+      "substitute": "鸡蛋豆腐",
+      "ratio": "150克:150克",
+      "note": "更嫩，下锅后不要搅动。"
+    }
+  ],
+  "variations": [
+    "加一把粉丝同煮，就是泰式清汤粉丝。",
+    "换成鸡汤打底，鲜味更浓，是节庆版本。",
+    "加几粒手打猪肉丸同煮，汤更鲜，孩子也更爱吃。"
+  ],
+  "serving_suggestion": "盛在深碗里，配白饭与一碟辣酱，泰国家常饭桌的标配清汤。",
+  "storage": "冷藏可放一天，复热须煮沸；叶菜隔夜易发黄，建议当餐喝完。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 138,
+    "protein_g": 9,
+    "fat_g": 8,
+    "carbs_g": 10,
+    "sodium_mg": 520,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "蔬菜须逐片洗净，卷心菜叶缝易藏泥沙；豆腐为大豆制品，过敏人群请替换。",
+    "成品汤冷藏不超过一天，复热要彻底煮沸后再食用。"
+  ],
+  "origin_note": "蔬菜清汤是泰国家常餐桌上的配角，用蒜末和鱼露吊出底味，讲究汤清菜脆。曼谷街边小摊常把它当作辣菜的搭配，一口辣一口汤，把舌头哄回来继续吃。",
+  "tags": [
+    "泰菜",
+    "汤",
+    "蔬菜",
+    "清淡"
+  ],
+  "related_ids": [
+    "thai-gaeng-jued-mara",
+    "thai-gaeng-jued-wunsen",
+    "thai-gaeng-liang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

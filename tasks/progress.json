@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T03:57:01.046Z",
+  "generatedAt": "2026-11-28T04:06:03.841Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2787,
-    "coverage": 0.8512522907758094
+    "actual": 2795,
+    "coverage": 0.8536957849725106
   },
   "regions": {
     "cn": [
@@ -3792,18 +3792,19 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 91,
+        "actual": 99,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "larb-gai",
               "thai-cashew-chicken",
               "thai-gaeng-kari-gai",
               "thai-gaeng-phed-gai",
+              "thai-gai-ob-nam-pla",
               "thai-gai-pad-nam-prik-pao",
               "thai-gai-yang",
               "thai-garlic-pepper-chicken",
@@ -3817,9 +3818,10 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "thai-gaeng-jued-mara",
+              "thai-gaeng-jued-pak",
               "thai-gaeng-jued-wunsen",
               "thai-gaeng-liang",
               "thai-gaeng-som-goong",
@@ -3837,7 +3839,7 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "larb-gai",
               "som-tam",
@@ -3845,6 +3847,7 @@
               "thai-yam-het",
               "thai-yam-khao-pod",
               "thai-yam-makheua",
+              "thai-yam-pak-ruam",
               "thai-yam-pla-muek",
               "thai-yam-som-o",
               "thai-yum-kai-yang",
@@ -3857,13 +3860,14 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "pu-pad-pong-curry",
               "thai-basil-shrimp",
               "thai-goong-ob-wunsen",
               "thai-goong-pad-khing",
               "thai-goong-pad-makham",
+              "thai-goong-pad-mamuang",
               "thai-goong-tod-krathiam",
               "thai-hoi-pad-kra-pao",
               "thai-pla-muek-yang",
@@ -3877,7 +3881,7 @@
             "category": "dessert",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "mango-sticky-rice",
               "thai-bua-loi",
@@ -3889,6 +3893,7 @@
               "thai-kluay-buad-chee",
               "thai-lod-chong",
               "thai-pumpkin-custard",
+              "thai-tako",
               "thai-tub-tim-grob"
             ]
           },
@@ -3909,11 +3914,12 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "thai-kai-jiew-moo-sap",
               "thai-kai-palo",
               "thai-khai-jiao",
+              "thai-khai-pad-goong",
               "thai-yam-khai-dao"
             ]
           },
@@ -3921,11 +3927,12 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "thai-green-curry-tofu",
               "thai-pad-prik-doufu",
               "thai-pad-tao-hu-khing",
+              "thai-tao-hu-ob",
               "thai-tod-taohu",
               "thai-tofu-satay"
             ]
@@ -3934,13 +3941,14 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "pad-thai",
               "thai-pad-kee-mao",
               "thai-pad-see-ew",
               "thai-pad-thai",
-              "thai-pad-woon-sen"
+              "thai-pad-woon-sen",
+              "thai-sen-lek-tom-yum"
             ]
           },
           {
