@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-khai-pad-hed",
+  "name": {
+    "zh": "泰式蘑菇炒蛋",
+    "en": "Khai Pad Hed"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 16,
+    "cook_min": 22,
+    "total_min": 38
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 5,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "香菇",
+          "name_en": "shiitake mushroom",
+          "amount": 200,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "打蛋器",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡蛋磕进碗里加鱼露和白胡椒粉，用打蛋器打至起细泡。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "蛋液打得起泡，炒出来才蓬松嫩滑。",
+      "visual_cue": "蛋液均匀，表面一层细泡"
+    },
+    {
+      "n": 2,
+      "text": "香菇去蒂切成三毫米厚的片，不要冲洗太久。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "香菇用湿布擦净就好，泡水会失香。",
+      "visual_cue": "菇片厚薄均匀，无水"
+    },
+    {
+      "n": 3,
+      "text": "红葱头切片，小葱切四厘米段，番茄切成小块备用。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "番茄切小块，炒的时候容易出汁。",
+      "visual_cue": "葱段整齐，番茄块均匀"
+    },
+    {
+      "n": 4,
+      "text": "炒锅烧热倒一半植物油，下红葱头小火炒一分钟出香。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "红葱头炒到微黄就够，焦了会发苦。",
+      "visual_cue": "葱片微黄，油香散出"
+    },
+    {
+      "n": 5,
+      "text": "下香菇片中火炒四分钟，炒到菇片出水又收干变软。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "香菇要炒到出水再收干，香气才浓。",
+      "visual_cue": "菇片软塌，锅底无汤"
+    },
+    {
+      "n": 6,
+      "text": "下番茄块炒两分钟至出汁，加酱油炒匀上色。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄出汁后蛋液更容易挂住味道。",
+      "visual_cue": "番茄软塌出汁，色红"
+    },
+    {
+      "n": 7,
+      "text": "把蔬菜推到锅边，补剩下的油，倒入蛋液等三十秒定型。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "等底部定型再翻，蛋块才成型不碎。",
+      "visual_cue": "蛋液边缘凝固，底部微黄"
+    },
+    {
+      "n": 8,
+      "text": "用锅铲把蛋块划散，和蔬菜翻匀，撒小葱段和盐即可出锅。",
+      "time_min": 3,
+      "heat": "大火",
+      "tip": "蛋块划散就出锅，久炒会发干发硬。",
+      "visual_cue": "蛋块金黄松软，葱花翠绿"
+    }
+  ],
+  "tips": [
+    "蛋液加鱼露和胡椒打匀，比单放盐更香。",
+    "香菇用湿布擦净表面，别长时间泡在水里。",
+    "香菇炒到出水再收干，香气才够浓。",
+    "蛋液定型后再翻，蛋块才成型不碎。"
+  ],
+  "common_mistakes": [
+    "蛋液没打匀就下锅，蛋白蛋黄分离。",
+    "香菇泡水半小时，炒完一锅汤水。",
+    "蛋液下锅马上猛搅，炒成细碎蛋花。",
+    "炒到蛋块发干发黄，口感像橡皮。"
+  ],
+  "substitutions": [
+    {
+      "original": "香菇",
+      "substitute": "口蘑",
+      "ratio": "200克:200克",
+      "note": "香气更淡，可加一点酱油补味。"
+    },
+    {
+      "original": "番茄",
+      "substitute": "彩椒",
+      "ratio": "100克:100克",
+      "note": "不出汁，蛋液更易挂住。"
+    }
+  ],
+  "variations": [
+    "加一把绿豆芽同炒，口感更脆爽也解腻。",
+    "撒一点朝天椒碎，做成微辣版本更下饭。",
+    "盖在热米饭上，淋一点鱼露就是盖饭。"
+  ],
+  "serving_suggestion": "盛盘趁热配香米饭，蛋块松软、菇片鲜香，是最快的家常一餐。",
+  "storage": "冷藏不超过一天，复热用炒锅小火三十秒，微波会让蛋变硬。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 348,
+    "protein_g": 24,
+    "fat_g": 26,
+    "carbs_g": 8,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须炒至完全凝固熟透，不建议给孩子老人做半熟。",
+    "冷藏不超过一天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "泰式蘑菇炒蛋是泰国人家的快手早餐，香菇炒到出水收干，番茄炒出红汁后倒入加了鱼露的蛋液，定型划散撒一把小葱。蛋香混着菇香，配一碗热米饭就够饱。",
+  "tags": [
+    "泰国",
+    "鸡蛋",
+    "蘑菇",
+    "家常菜"
+  ],
+  "related_ids": [
+    "thai-khai-jiao",
+    "thai-khai-pad-goong",
+    "thai-kai-jiew-moo-sap"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

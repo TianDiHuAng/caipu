@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-ba-mee-nam",
+  "name": {
+    "zh": "泰式清汤面",
+    "en": "Ba Mee Nam"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 14,
+    "cook_min": 27,
+    "total_min": 41
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "fragrant",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 240,
+          "unit": "g",
+          "note": "鲜蛋面",
+          "optional": false
+        },
+        {
+          "name": "鸡腿肉",
+          "name_en": "chicken thigh",
+          "amount": 250,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "豆芽",
+          "name_en": "bean sprouts",
+          "amount": 120,
+          "unit": "g",
+          "note": "掐尾",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切花",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮汤",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 12,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 15,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "椰糖",
+          "name_en": "palm sugar",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "鸡腿肉切成半厘米厚的片，用酱油和白胡椒粉抓匀浸味十分钟。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "肉片切薄，烫十秒就熟，口感才嫩。",
+      "visual_cue": "肉片薄匀，表面泛酱色"
+    },
+    {
+      "n": 2,
+      "text": "汤锅倒清水大火烧开，转小火保持微滚备用。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "汤保持微滚，下面时温度才不掉。",
+      "visual_cue": "水面细密小泡，蒸汽上升"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，下蒜碎小火炒香，倒入汤锅做成蒜香汤底。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "蒜油先炒香再兑汤，汤底才有厚度。",
+      "visual_cue": "蒜香散出，汤面浮油花"
+    },
+    {
+      "n": 4,
+      "text": "汤里加鱼露、棕榈糖和盐调味，尝一下咸淡备用。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "汤要略咸一点，加了面条味道才正好。",
+      "visual_cue": "汤色清亮，咸鲜合口"
+    },
+    {
+      "n": 5,
+      "text": "另起一锅水烧开，绿豆芽下锅烫二十秒捞出垫在碗底。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "豆芽只烫二十秒，脆感才留得住。",
+      "visual_cue": "豆芽断生透明，仍有脆度"
+    },
+    {
+      "n": 6,
+      "text": "同一锅水下面条拨散煮两分钟，捞起过一下筛甩干水分。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "面条煮到刚断生，久煮会发坨。",
+      "visual_cue": "面条弹手，条条分明"
+    },
+    {
+      "n": 7,
+      "text": "把肉片放进滚汤里烫四十秒至变色，连汤一起冲进面碗。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "肉片在汤里烫熟比久煮更嫩。",
+      "visual_cue": "肉片变白卷起，汤色微浊"
+    },
+    {
+      "n": 8,
+      "text": "撒葱花、香菜和白胡椒粉，挤上青柠汁即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "青柠汁最后挤，酸香清亮不闷。",
+      "visual_cue": "葱花翠绿，汤面清亮"
+    }
+  ],
+  "tips": [
+    "肉片切薄一点，在滚汤里烫熟才够嫩滑。",
+    "汤调得略咸一点，加面条后才刚好。",
+    "豆芽只烫二十秒，脆感才留得住。",
+    "面条煮到刚断生就捞起，久煮会发坨粘连。"
+  ],
+  "common_mistakes": [
+    "肉片切太厚，汤里煮久了又老又柴。",
+    "汤调得清淡，加了面条像喝白开水。",
+    "豆芽煮一分钟，捞起来已经软塌。",
+    "面条煮好放着等汤，全黏成一团。"
+  ],
+  "substitutions": [
+    {
+      "original": "鸡腿肉",
+      "substitute": "虾仁",
+      "ratio": "250克:250克",
+      "note": "烫二十秒即可，做成海鲜清汤面。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "240克:240克",
+      "note": "不用久煮，泡软烫三十秒即可。"
+    }
+  ],
+  "variations": [
+    "加一颗溏心蛋，汤面更有饱足感也更好看。",
+    "加一勺炸蒜油，香气立刻冲上一个层次。",
+    "放两片烤紫菜，汤里多一层海味。"
+  ],
+  "serving_suggestion": "汤面趁热吃，先喝一口清汤再拌面，配一碟酸辣小菜就是完整一餐。",
+  "storage": "面条与汤分开冷藏可放一天，复热汤须煮沸，面条另用滚水烫三十秒。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 586,
+    "protein_g": 36,
+    "fat_g": 16,
+    "carbs_g": 68,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "fish",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "禽肉须在滚汤中烫至完全变白熟透，中心不可带粉红色。",
+    "汤与面条分开冷藏不超过一天，复热须彻底煮沸。"
+  ],
+  "origin_note": "泰式清汤面是曼谷街边最常见的早餐，蒜油炒香后兑成汤底，用鱼露调味，面条煮到刚断生铺在豆芽上，浇滚汤烫熟肉片，最后撒葱花挤青柠。清而不淡，一碗下肚刚好。",
+  "tags": [
+    "泰国",
+    "面条",
+    "汤面",
+    "主食"
+  ],
+  "related_ids": [
+    "thai-khao-soi",
+    "thai-pad-see-ew",
+    "thai-gaeng-jued-wunsen"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

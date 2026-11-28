@@ -1,0 +1,298 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "thai-yam-phak-kat-hom",
+  "name": {
+    "zh": "泰式生菜脆沙拉",
+    "en": "Yam Phak Kat Hom"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "thai"
+  },
+  "category": [
+    "salad"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 23,
+    "cook_min": 12,
+    "total_min": 35
+  },
+  "servings": 3,
+  "flavor": [
+    "sour",
+    "spicy",
+    "light"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "生菜",
+          "name_en": "lettuce",
+          "amount": 300,
+          "unit": "g",
+          "note": "撕片",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "水煮",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "黄瓜",
+          "name_en": "cucumber",
+          "amount": 100,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "红葱头",
+          "name_en": "shallot",
+          "amount": 40,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "花生",
+          "name_en": "peanut",
+          "amount": 40,
+          "unit": "g",
+          "note": "烤香碾碎",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 40,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "鱼露",
+          "name_en": "fish sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "椰糖",
+          "name_en": "palm sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 5,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 2,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "刀",
+    "砧板",
+    "碗",
+    "汤锅",
+    "杵臼",
+    "沙拉盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "生菜剥下叶片用冰水泡五分钟，捞出甩干撕成大片。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "冰水泡过生菜更脆，甩干才不会出水。",
+      "visual_cue": "菜叶挺括脆硬，无水珠"
+    },
+    {
+      "n": 2,
+      "text": "鸡蛋冷水下锅，水开后煮八分钟捞出过冷水剥壳。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "煮八分钟蛋黄刚好凝固，不噎也不流。",
+      "visual_cue": "蛋壳好剥，切面蛋黄干爽"
+    },
+    {
+      "n": 3,
+      "text": "黄瓜斜切薄片，番茄切成小块，红葱头切细丝。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "红葱头切细丝，辣中带甜才是这道菜的魂。",
+      "visual_cue": "各料切片均匀，配色鲜亮"
+    },
+    {
+      "n": 4,
+      "text": "大蒜和朝天椒拍碎放进杵臼，加盐捣成粗粒的辣酱。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "盐能帮辣料出汁，捣出来的酱才够味。",
+      "visual_cue": "辣酱带汁，颗粒粗松"
+    },
+    {
+      "n": 5,
+      "text": "碗里倒鱼露、棕榈糖和青柠汁，加捣好的辣酱搅匀成汁。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "先调好汁再淋，味道才均匀不吃偏。",
+      "visual_cue": "汁液琥珀色，酸甜冲鼻"
+    },
+    {
+      "n": 6,
+      "text": "水煮蛋切成六瓣，切的时候刀蘸一下水更利落。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "刀蘸水再切，蛋黄不会粘刀糊烂。",
+      "visual_cue": "蛋瓣完整，蛋黄不散"
+    },
+    {
+      "n": 7,
+      "text": "大盆里放生菜、黄瓜、番茄和红葱头，淋上调好的汁轻轻拌匀。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "用手从下往上翻拌，菜叶才不压塌。",
+      "visual_cue": "菜叶裹汁发亮，配料分布均匀"
+    },
+    {
+      "n": 8,
+      "text": "装盘后摆上蛋瓣，撒碾碎的花生和香菜段即可上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "花生最后撒，脆感才保得住。",
+      "visual_cue": "蛋瓣围边，花生碎金黄"
+    }
+  ],
+  "tips": [
+    "生菜用冰水泡过更脆，务必甩干水分。",
+    "鸡蛋煮八分钟，蛋黄刚好凝固不噎。",
+    "辣酱用杵臼捣出来，比刀切更出味更辣。",
+    "花生碎最后撒在表面，早拌会吸汁变软。"
+  ],
+  "common_mistakes": [
+    "生菜洗完带水就拌，盘底很快一汪汁。",
+    "鸡蛋煮过头，蛋黄发灰还有硫味。",
+    "沙拉早半小时拌好，菜叶全塌软。",
+    "花生一起拌，上桌时已经不脆了。"
+  ],
+  "substitutions": [
+    {
+      "original": "生菜",
+      "substitute": "罗马生菜",
+      "ratio": "300克:300克",
+      "note": "叶片更挺，口感更脆。"
+    },
+    {
+      "original": "花生",
+      "substitute": "腰果",
+      "ratio": "40克:40克",
+      "note": "香气更甜，碾碎时留粗粒。"
+    }
+  ],
+  "variations": [
+    "加一把炸猪皮，脆感更有层次也更香。",
+    "把水煮蛋换成煎蛋，蛋黄拌开更香。",
+    "加两片柚子肉，酸甜交替更清爽。"
+  ],
+  "serving_suggestion": "装盘立刻上桌，作为烤肉或咖喱的配菜，酸甜辣脆能解掉主菜的厚重。",
+  "storage": "拌好后两小时内吃完，未拌的菜叶与汁分开冷藏可各放一天。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 214,
+    "protein_g": 12,
+    "fat_g": 12,
+    "carbs_g": 14,
+    "sodium_mg": 760,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "peanut"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "gluten-free",
+    "low-carb",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须煮至蛋黄凝固熟透，切开后尽快食用；生菜须流水冲净沥干。",
+    "含生鲜蔬菜，拌好后不宜常温久放超过两小时。"
+  ],
+  "origin_note": "泰式生菜脆沙拉是泰国东北一带的家常凉拌，生菜冰水泡脆后和黄瓜番茄红葱头一起拌，汁用鱼露青柠和棕榈糖调，最后摆水煮蛋撒烤花生。酸辣开胃，配烤肉最合适。",
+  "tags": [
+    "泰国",
+    "沙拉",
+    "鸡蛋",
+    "清爽"
+  ],
+  "related_ids": [
+    "thai-yam-pak-ruam",
+    "som-tam",
+    "thai-yam-khai-dao"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

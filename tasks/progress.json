@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T15:25:49.830Z",
+  "generatedAt": "2026-11-28T16:03:49.136Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 3034,
-    "coverage": 0.9266951740989615
+    "actual": 3042,
+    "coverage": 0.9291386682956628
   },
   "regions": {
     "cn": [
@@ -3936,13 +3936,13 @@
         "en": "Thai",
         "tier": "A",
         "target": 107,
-        "actual": 99,
+        "actual": 107,
         "cells": [
           {
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "larb-gai",
               "thai-cashew-chicken",
@@ -3950,6 +3950,7 @@
               "thai-gaeng-phed-gai",
               "thai-gai-ob-nam-pla",
               "thai-gai-pad-nam-prik-pao",
+              "thai-gai-pad-prik-thai",
               "thai-gai-yang",
               "thai-garlic-pepper-chicken",
               "thai-green-curry-chicken",
@@ -3962,7 +3963,7 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "thai-gaeng-jued-mara",
               "thai-gaeng-jued-pak",
@@ -3971,6 +3972,7 @@
               "thai-gaeng-som-goong",
               "thai-kaeng-jued-moo",
               "thai-tom-kha-gai",
+              "thai-tom-kha-goong",
               "thai-tom-som-pla",
               "thai-tom-yum-gai",
               "thai-tom-yum-goong",
@@ -3983,7 +3985,7 @@
             "category": "salad",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "larb-gai",
               "som-tam",
@@ -3992,6 +3994,7 @@
               "thai-yam-khao-pod",
               "thai-yam-makheua",
               "thai-yam-pak-ruam",
+              "thai-yam-phak-kat-hom",
               "thai-yam-pla-muek",
               "thai-yam-som-o",
               "thai-yum-kai-yang",
@@ -4004,11 +4007,12 @@
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "pu-pad-pong-curry",
               "thai-basil-shrimp",
               "thai-goong-ob-wunsen",
+              "thai-goong-pad-khai-dao",
               "thai-goong-pad-khing",
               "thai-goong-pad-makham",
               "thai-goong-pad-mamuang",
@@ -4045,12 +4049,13 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "thai-green-curry-vegetable",
               "thai-pad-hed-taohu",
               "thai-pad-pak-boong",
               "thai-pad-pak-khun-chai",
+              "thai-pad-pak-ruam",
               "thai-pak-bung-fai-deng"
             ]
           },
@@ -4058,12 +4063,13 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "thai-kai-jiew-moo-sap",
               "thai-kai-palo",
               "thai-khai-jiao",
               "thai-khai-pad-goong",
+              "thai-khai-pad-hed",
               "thai-yam-khai-dao"
             ]
           },
@@ -4071,11 +4077,12 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "thai-green-curry-tofu",
               "thai-pad-prik-doufu",
               "thai-pad-tao-hu-khing",
+              "thai-tao-hu-neung",
               "thai-tao-hu-ob",
               "thai-tod-taohu",
               "thai-tofu-satay"
@@ -4085,9 +4092,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "pad-thai",
+              "thai-ba-mee-nam",
               "thai-pad-kee-mao",
               "thai-pad-see-ew",
               "thai-pad-thai",
