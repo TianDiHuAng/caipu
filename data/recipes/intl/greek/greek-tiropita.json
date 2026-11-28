@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "greek-tiropita",
+  "name": {
+    "zh": "希腊奶酪派",
+    "en": "Tiropita"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "greek"
+  },
+  "category": [
+    "bakery"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 82,
+    "cook_min": 32,
+    "total_min": 114
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "rich",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 350,
+          "unit": "g",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "羊乳酪",
+          "name_en": "feta cheese",
+          "amount": 300,
+          "unit": "g",
+          "note": "掰碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 3,
+          "unit": "piece",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "牛奶",
+          "name_en": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "note": "拌馅",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 150,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        },
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "和面",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 80,
+          "unit": "g",
+          "note": "刷面",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "烤箱",
+    "大碗",
+    "擀面杖",
+    "案板",
+    "烤盘",
+    "刷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "面粉加盐和橄榄油拌匀，分次加清水揉成偏软的面团，盖布醒三十分钟。",
+      "time_min": 35,
+      "heat": "无火",
+      "tip": "面团揉到偏软，擀薄皮时才不回缩。",
+      "visual_cue": "面团光滑柔软，按下去慢慢回弹"
+    },
+    {
+      "n": 2,
+      "text": "菲达奶酪掰碎放进大碗，加鸡蛋、牛奶、黑胡椒与牛至拌匀成馅。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "馅料拌到略带颗粒，烤出来口感更好。",
+      "visual_cue": "馅料浓稠，能挂住勺子"
+    },
+    {
+      "n": 3,
+      "text": "黄油放进小锅小火化开，撇去表面的白色浮沫备用。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "黄油化开别烧焦，浮沫撇掉才不腥。",
+      "visual_cue": "黄油澄亮，无焦黑杂质"
+    },
+    {
+      "n": 4,
+      "text": "面团分成四份，逐份擀成二十厘米见方的薄片，刷一层黄油。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "擀得越薄越好，透光能看到手影。",
+      "visual_cue": "面片薄透，表面油亮"
+    },
+    {
+      "n": 5,
+      "text": "把馅料铺在面片中间，四边向内折起包成方包，接口抹黄油封紧。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "接口一定抹黄油，烤的时候才不会张开。",
+      "visual_cue": "方包饱满，四边封口紧实"
+    },
+    {
+      "n": 6,
+      "text": "烤盘铺油纸摆上奶酪派，表面再刷一层黄油，静置十分钟。",
+      "time_min": 13,
+      "heat": "无火",
+      "tip": "表面刷足黄油，烤出来才金黄起层。",
+      "visual_cue": "表面油亮，静置后略微鼓起"
+    },
+    {
+      "n": 7,
+      "text": "烤箱预热一百九十度，中层烤三十分钟至表面金黄酥脆。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "烤到敲表面有脆响，出炉才不回软。",
+      "visual_cue": "表面金黄起层，边缘焦脆"
+    },
+    {
+      "n": 8,
+      "text": "出炉晾十分钟再切块，切的时候用锯齿刀轻锯。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "晾十分钟再切，馅料才不会流出来。",
+      "visual_cue": "切面层次分明，奶酪微凝"
+    }
+  ],
+  "tips": [
+    "面团揉软一点，擀成薄皮才不回缩。",
+    "馅料留一点颗粒，烤出来口感更有层次。",
+    "面片每层都刷黄油，烤好才层次分明。",
+    "出炉晾十分钟再切，馅料才不会流。"
+  ],
+  "common_mistakes": [
+    "面团太硬，擀的时候一直回缩擀不薄。",
+    "馅料拌得太稀，烤的时候从接口漏出来。",
+    "表面没刷黄油，烤出来发干发白不起层。",
+    "刚出炉就切，奶酪馅全流到盘子里。"
+  ],
+  "substitutions": [
+    {
+      "original": "菲达奶酪",
+      "substitute": "农家奶酪",
+      "ratio": "300克:320克",
+      "note": "咸味更淡，盐加两克。"
+    },
+    {
+      "original": "黄油",
+      "substitute": "橄榄油",
+      "ratio": "80克:70毫升",
+      "note": "更清爽，起层效果略差。"
+    }
+  ],
+  "variations": [
+    "馅里加一把切碎的菠菜，做成菠菜奶酪派。",
+    "撒一点肉豆蔻粉进馅里，奶香会更温暖。",
+    "做成三角形小派，更适合当派对小食。"
+  ],
+  "serving_suggestion": "切块后趁温热吃，配一杯冰镇白葡萄酒或咖啡，当早餐或下午茶都合适。",
+  "storage": "冷藏可放三天，复烤一百八十度八分钟可恢复酥脆。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 682,
+    "protein_g": 26,
+    "fat_g": 42,
+    "carbs_g": 50,
+    "sodium_mg": 1080,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian"
+  ],
+  "food_safety_notes": [
+    "含奶酪与鸡蛋，须烤至中心凝固熟透；冷藏保存不超过三天。",
+    "复热须彻底加热至中心发烫，不要常温久放。"
+  ],
+  "origin_note": "希腊奶酪派是希腊人早餐和下午茶都爱的一块，面皮擀得极薄，一层黄油一层皮，中间裹着菲达奶酪与鸡蛋拌成的馅。烤到金黄起层，切开还有奶酪的咸香。",
+  "tags": [
+    "希腊",
+    "烘焙",
+    "奶酪",
+    "派"
+  ],
+  "related_ids": [
+    "greek-spanakopita",
+    "greek-koulouri",
+    "greek-galaktoboureko"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

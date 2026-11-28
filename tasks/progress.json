@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T14:14:32.596Z",
+  "generatedAt": "2026-11-28T14:35:17.577Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 3010,
-    "coverage": 0.9193646915088577
+    "actual": 3018,
+    "coverage": 0.921808185705559
   },
   "regions": {
     "cn": [
@@ -6173,16 +6173,17 @@
         "en": "Greek",
         "tier": "B",
         "target": 38,
-        "actual": 25,
+        "actual": 33,
         "cells": [
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "greek-keftedes",
               "greek-kolokythokeftedes",
+              "greek-melitzanosalata",
               "greek-saganaki",
               "tzatziki"
             ]
@@ -6204,9 +6205,11 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "greek-horiatiki",
+              "greek-maroulosalata",
+              "greek-pantzarosalata",
               "greek-roast-vegetable-salad"
             ]
           },
@@ -6214,30 +6217,33 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "greek-galaktoboureko",
               "greek-honey-cake",
-              "greek-loukoumades"
+              "greek-loukoumades",
+              "greek-ryzogalo"
             ]
           },
           {
             "category": "bakery",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "greek-honey-cake",
               "greek-koulouri",
-              "greek-spanakopita"
+              "greek-spanakopita",
+              "greek-tiropita"
             ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 3,
+            "actual": 4,
             "ids": [
+              "greek-briam",
               "greek-gemista",
               "greek-gigantes-plaki",
               "greek-spanakopita"
@@ -6247,8 +6253,11 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "greek-feta-omelette",
+              "greek-strapatsada"
+            ]
           },
           {
             "category": "soup",

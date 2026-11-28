@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "greek-strapatsada",
+  "name": {
+    "zh": "希腊番茄炒蛋",
+    "en": "Strapatsada"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "greek"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 21,
+    "total_min": 41
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "sour",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 5,
+          "unit": "piece",
+          "note": "打散",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 450,
+          "unit": "g",
+          "note": "擦碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 70,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 8,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "羊乳酪",
+          "name_en": "feta cheese",
+          "amount": 60,
+          "unit": "g",
+          "note": "掰碎",
+          "optional": false
+        },
+        {
+          "name": "欧芹",
+          "name_en": "parsley",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "橄榄油",
+          "name_en": "olive oil",
+          "amount": 35,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "牛至",
+          "name_en": "oregano",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 3,
+          "unit": "g",
+          "note": "调和酸味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "打蛋器",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "番茄用擦板擦成粗泥，皮和籽留在擦板上不要，只取果肉。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "擦成泥比切块好，炒的时候出水快又均匀。",
+      "visual_cue": "番茄变成粗泥，皮籽被滤掉"
+    },
+    {
+      "n": 2,
+      "text": "洋葱切小丁，大蒜切末，欧芹切碎，菲达奶酪用手掰成小块。",
+      "time_min": 7,
+      "heat": "无火",
+      "tip": "菲达奶酪掰成不规则小块，口感才有层次。",
+      "visual_cue": "各料备好，奶酪块大小不匀"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋磕进碗里加一克盐打散，不用打得起泡。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "蛋液轻轻打散就好，打发口感会发干。",
+      "visual_cue": "蛋液均匀，无成块蛋清"
+    },
+    {
+      "n": 4,
+      "text": "炒锅倒橄榄油下洋葱丁中火炒四分钟至软塌透明。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "洋葱炒软出甜，番茄的酸才不冲。",
+      "visual_cue": "洋葱透明软塌，锅底泛油光"
+    },
+    {
+      "n": 5,
+      "text": "加蒜末与牛至炒三十秒出香，倒入番茄泥大火炒八分钟。",
+      "time_min": 9,
+      "heat": "大火",
+      "tip": "番茄泥要炒到水分收干一半，酱才浓。",
+      "visual_cue": "番茄泥浓稠冒泡，颜色深红"
+    },
+    {
+      "n": 6,
+      "text": "加盐、白糖与黑胡椒调味，把番茄酱在锅底摊平。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "白糖只用来压酸，吃不出甜味才对。",
+      "visual_cue": "酱汁浓稠平铺，红亮有光"
+    },
+    {
+      "n": 7,
+      "text": "倒入蛋液，静置二十秒再用锅铲慢慢推炒成软块。",
+      "time_min": 3,
+      "heat": "中小火",
+      "tip": "中小火慢推，蛋块才嫩滑不干。",
+      "visual_cue": "蛋块柔软湿润，裹着番茄酱"
+    },
+    {
+      "n": 8,
+      "text": "撒上菲达奶酪碎与欧芹，关火用余温拌两下即可出锅。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "奶酪靠余温化开，久炒会拉丝发硬。",
+      "visual_cue": "奶酪微微软化，欧芹翠绿"
+    }
+  ],
+  "tips": [
+    "番茄擦成泥再炒，出水快、酱汁更顺滑。",
+    "洋葱先炒到透明发甜，番茄的酸味会柔和很多。",
+    "蛋液下锅后小火慢推，蛋块才嫩滑不老。",
+    "菲达奶酪关火后再加，靠余温化开最好吃。"
+  ],
+  "common_mistakes": [
+    "番茄切成大块就下锅，炒半天还是汤汤水水。",
+    "番茄泥没炒干就倒蛋液，成品稀成一锅糊。",
+    "用大火猛炒蛋液，蛋块又老又干还出水。",
+    "奶酪一开始就下锅，炒到后面又咸又硬。"
+  ],
+  "substitutions": [
+    {
+      "original": "菲达奶酪",
+      "substitute": "山羊奶酪",
+      "ratio": "60克:60克",
+      "note": "咸味更重，盐要减一克。"
+    },
+    {
+      "original": "番茄",
+      "substitute": "番茄罐头",
+      "ratio": "450克:400克",
+      "note": "酸度更高，白糖多加两克。"
+    }
+  ],
+  "variations": [
+    "加一点辣椒碎同炒，做成微辣版本。",
+    "最后淋一小勺蜂蜜，酸甜层次更明显。",
+    "盛在烤脆的面包片上，做成开胃小食。"
+  ],
+  "serving_suggestion": "趁热装盘，配一块烤硬面包和几颗橄榄，就是希腊人的快手午餐。",
+  "storage": "冷藏不超过一天，复热用小火快炒两分钟，久加热蛋会出水变老。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 326,
+    "protein_g": 21,
+    "fat_g": 24,
+    "carbs_g": 10,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须炒至完全凝固；含乳制品，成品不可常温久放。",
+    "冷藏不超过一天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "希腊番茄炒蛋是夏天番茄最甜时的家常做法，番茄擦成泥熬到浓稠，再倒入蛋液慢推成软块，最后撒一把菲达奶酪。酸甜咸香都在一盘里，配硬面包就能吃饱。",
+  "tags": [
+    "希腊",
+    "鸡蛋",
+    "番茄",
+    "家常菜"
+  ],
+  "related_ids": [
+    "greek-saganaki",
+    "greek-horiatiki",
+    "greek-spanakopita"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
