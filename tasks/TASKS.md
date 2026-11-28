@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-28T11:54:22.073Z
+> 生成时间：2026-11-28T12:15:24.731Z
 
-**总览**：工程任务 49/53；菜谱内容 2967/3274（90.6%），共 659 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2975/3274（90.9%），共 659 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（1299/1339）
+### 中国菜系（1307/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，132/107</summary>
 
@@ -143,19 +143,19 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>苏菜 jiangsu</b> — A 级，95/107</summary>
+<details><summary><b>苏菜 jiangsu</b> — A 级，103/107</summary>
 
-- [ ] `P4-jiangsu/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 12
-- [ ] `P4-jiangsu/main-meat` 主菜·肉（Meat Main）目标 15，已完成 13
-- [ ] `P4-jiangsu/soup` 汤羹（Soup）目标 15，已完成 13
+- [ ] `P4-jiangsu/main-seafood` 主菜·海鲜（Seafood Main）目标 15，已完成 13
+- [ ] `P4-jiangsu/main-meat` 主菜·肉（Meat Main）目标 15，已完成 14
+- [ ] `P4-jiangsu/soup` 汤羹（Soup）目标 15，已完成 14
 - [ ] `P4-jiangsu/appetizer` 前菜（Appetizer）目标 15，已完成 12
 - [ ] `P4-jiangsu/snack` 小吃（Street Food）目标 15，已完成 12
-- [ ] `P4-jiangsu/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 6
-- [ ] `P4-jiangsu/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 5
-- [ ] `P4-jiangsu/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 5
-- [ ] `P4-jiangsu/staple-rice` 主食·饭（Rice Dish）目标 8，已完成 5
+- [ ] `P4-jiangsu/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 7
+- [ ] `P4-jiangsu/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 6
+- [ ] `P4-jiangsu/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 6
+- [ ] `P4-jiangsu/staple-rice` 主食·饭（Rice Dish）目标 8，已完成 6
 - [x] `P4-jiangsu/cold-dish` 凉菜（Cold Dish）目标 0，已完成 7
-- [x] `P4-jiangsu/dessert` 甜点（Dessert）目标 0，已完成 3
+- [x] `P4-jiangsu/dessert` 甜点（Dessert）目标 0，已完成 4
 - [x] `P4-jiangsu/breakfast` 早餐（Breakfast）目标 0，已完成 1
 - [x] `P4-jiangsu/banquet` 宴客菜（Banquet）目标 0，已完成 1
 

@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-su-hongshao-rou",
+  "name": {
+    "zh": "苏式红烧肉",
+    "en": "Suzhou-style Braised Pork"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 26,
+    "cook_min": 76,
+    "total_min": 102
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 900,
+          "unit": "g",
+          "note": "切方块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "打结",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 800,
+          "unit": "ml",
+          "note": "烧制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "绍兴酒",
+          "name_en": "Shaoxing wine",
+          "amount": 80,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "糖色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调整",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉切成三厘米见方的块，冷水下锅加姜片与一半绍兴酒，煮开撇沫后捞出。",
+      "time_min": 16,
+      "heat": "中火",
+      "tip": "冷水下锅焯，血水才逼得干净，肉也不腥。",
+      "visual_cue": "肉块断面无血水，浮沫撇得干净"
+    },
+    {
+      "n": 2,
+      "text": "焯好的肉块用温水冲洗一遍，逐块擦干表面水分备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "温水冲不缩肉，肉块擦干才好炒糖色。",
+      "visual_cue": "肉块表面干爽，皮上无残毛"
+    },
+    {
+      "n": 3,
+      "text": "炒锅下植物油与冰糖，小火慢慢炒到糖化开变成枣红色的糖浆。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "糖色到枣红就要立刻下肉，颜色一深就发苦。",
+      "visual_cue": "糖浆枣红透亮，表面起细密小泡"
+    },
+    {
+      "n": 4,
+      "text": "倒入肉块快速翻炒，让每块都裹上糖色，加姜片、葱结与生抽老抽。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "翻炒要快，糖色裹匀成品才红亮诱人。",
+      "visual_cue": "肉块通体红亮，锅底酱汁油润"
+    },
+    {
+      "n": 5,
+      "text": "淋入剩余绍兴酒与清水没过肉块，大火煮开转小火加盖焖六十分钟。",
+      "time_min": 64,
+      "heat": "小火",
+      "tip": "苏式红烧肉讲究酥而不烂，小火一小时刚好。",
+      "visual_cue": "肉块浮在汤中，皮面微微颤动"
+    },
+    {
+      "n": 6,
+      "text": "开盖转中火收汁，边收边翻动让酱汁裹匀，加盐调整咸淡后出锅。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "收汁到汤汁能挂住肉块就停，过了会发黏。",
+      "visual_cue": "汤汁浓稠发亮，肉块油光红润"
+    }
+  ],
+  "tips": [
+    "五花肉焯水后用温水冲，肉不会突然收缩变硬。",
+    "炒糖色宁浅勿深，颜色一过整锅都带苦味。",
+    "绍兴酒下足八十毫升，酒香是苏式红烧肉的灵魂。",
+    "小火慢焖一小时，肥肉才化而不腻，瘦肉也不柴。"
+  ],
+  "common_mistakes": [
+    "肉块带水下糖色，油花四溅还溅得满灶台。",
+    "糖色炒过头变成黑色，整锅肉都带着焦苦味。",
+    "全程大火焖，肉外面烂了里面还硬。",
+    "收汁收得太干，肉块黏成一团，酱汁发苦。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "前腿肉",
+      "ratio": "900克:900克",
+      "note": "瘦一些，焖的时间加十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "黄冰糖",
+      "ratio": "60克:60克",
+      "note": "甜味更醇，上色更亮。"
+    }
+  ],
+  "variations": [
+    "加几颗剥壳的熟鸡蛋同焖，卤蛋吸满肉汁特别香。",
+    "放一小段桂皮和两片香叶，香气更复合，更像老字号的味道。",
+    "收汁前加一勺蜂蜜，表面更亮，甜味也更圆润。"
+  ],
+  "serving_suggestion": "肉块码在深盘里，浇上浓稠的酱汁，配一碗白米饭和一碟青菜，是苏州人家过年必备的一道。",
+  "storage": "冷藏可放三天，复热加两勺水小火焖八分钟，蒸热的更软糯。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 826,
+    "protein_g": 32,
+    "fat_g": 68,
+    "carbs_g": 18,
+    "sodium_mg": 960,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "五花肉须焖至中心完全熟透、切面无血水；肉制品冷藏不超过三天。",
+    "复热须彻底加热至中心发烫，避免反复多次加热。"
+  ],
+  "origin_note": "苏式红烧肉讲究浓油赤酱、甜出头咸收口，冰糖下得比别处更足，绍兴酒也是关键。肉焖到皮颤肉酥，筷子一夹就断，酱汁红亮黏稠，浇在白饭上是最让人惦记的一口。",
+  "tags": [
+    "苏菜",
+    "猪肉",
+    "红烧",
+    "宴客菜"
+  ],
+  "related_ids": [
+    "suzhou-yingtao-rou",
+    "wuxi-paigu",
+    "jiangsu-zaokou-rou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

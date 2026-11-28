@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-caixin-yuanzi-tang",
+  "name": {
+    "zh": "菜心肉圆汤",
+    "en": "Pork Ball and Choy Sum Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 33,
+    "cook_min": 23,
+    "total_min": 56
+  },
+  "servings": 3,
+  "flavor": [
+    "light",
+    "umami",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪肩肉",
+          "name_en": "pork shoulder",
+          "amount": 350,
+          "unit": "g",
+          "note": "剁成肉泥",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 250,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "note": "取蛋清",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "绍兴酒",
+          "name_en": "Shaoxing wine",
+          "amount": 12,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 15,
+          "unit": "g",
+          "note": "帮助成型",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 6,
+          "unit": "ml",
+          "note": "提香",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "碗",
+    "刀",
+    "砧板",
+    "汤勺",
+    "勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪肩肉切成小丁再剁成肉泥，中途加姜末一起剁，肉更香也更有黏性。",
+      "time_min": 15,
+      "heat": "无火",
+      "tip": "手工剁的肉泥比机器绞的有筋道，口感差别很大。",
+      "visual_cue": "肉泥细腻带黏，姜末分布均匀"
+    },
+    {
+      "n": 2,
+      "text": "肉泥加盐、绍兴酒、白胡椒粉、蛋清与淀粉，顺一个方向搅打上劲。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "一定同方向搅，肉泥才上劲不散。",
+      "visual_cue": "肉泥黏稠有拉丝感，筷子立得住"
+    },
+    {
+      "n": 3,
+      "text": "双手蘸水，把肉泥在掌心反复摔打成乒乓球大小的丸子。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "多摔几下丸子才紧实，煮的时候不散不塌。",
+      "visual_cue": "丸子圆整光滑，表面无明显裂缝"
+    },
+    {
+      "n": 4,
+      "text": "汤锅倒清水烧到微沸，逐个下丸子，小火养五分钟至浮起。",
+      "time_min": 8,
+      "heat": "小火",
+      "tip": "水一定不能大滚，滚水下丸子立刻散开。",
+      "visual_cue": "丸子全部浮起，汤面基本清澈"
+    },
+    {
+      "n": 5,
+      "text": "下洗净的青菜心，中火煮两分钟，加盐与白胡椒粉调味。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "青菜后放，煮久了发黄，汤也带涩味。",
+      "visual_cue": "菜心翠绿软嫩，汤清味鲜"
+    },
+    {
+      "n": 6,
+      "text": "关火淋芝麻油，撒葱花，连汤带丸盛进汤碗即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香油最后淋，香气才不会被煮散。",
+      "visual_cue": "汤面浮着薄薄一层油光"
+    }
+  ],
+  "tips": [
+    "肉泥顺一个方向搅打上劲，丸子才紧实不散。",
+    "水保持微沸下丸子，滚水会把丸子冲散。",
+    "青菜最后放，烫两分钟就够，颜色才翠绿。",
+    "想汤更鲜可以换成鸡汤打底，味道厚实得多。"
+  ],
+  "common_mistakes": [
+    "肉泥乱搅一气，丸子一下锅就散开，煮成一锅浑汤。",
+    "水大滚时下丸子，一入锅就被冲开。",
+    "青菜煮太久，颜色发黄还带一股涩味。",
+    "丸子没摔打直接下锅，形状扁塌不好看。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪肩肉",
+      "substitute": "鸡腿肉",
+      "ratio": "350克:350克",
+      "note": "鸡肉版更清爽，搅打时间减两分钟。"
+    },
+    {
+      "original": "青菜",
+      "substitute": "小白菜",
+      "ratio": "250克:250克",
+      "note": "口感更嫩，煮一分钟即可。"
+    }
+  ],
+  "variations": [
+    "丸子里包一小块皮冻，煮出来咬开有汤汁。",
+    "汤里加几片泡软的香菇，鲜味更明显。",
+    "换成冬瓜同煮，夏天喝更清爽解腻。"
+  ],
+  "serving_suggestion": "汤碗里先放丸子再浇汤，撒葱花与白胡椒，配一碗米饭，清口又暖胃。",
+  "storage": "冷藏可放两天，复热小火加热至微沸，丸子不宜久煮否则会散。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 342,
+    "protein_g": 28,
+    "fat_g": 22,
+    "carbs_g": 8,
+    "sodium_mg": 880,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "sesame"
+  ],
+  "diet_tags": [
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "肉丸须煮至中心完全熟透、切面无粉色；猪肉制品冷藏不超过两天。",
+    "复热须彻底加热至汤滚丸热，不可反复加热。"
+  ],
+  "origin_note": "菜心肉圆汤是苏南人家最常见的汤，肉泥要手工剁、顺一个方向搅上劲，丸子下到微沸的水里养熟。汤清得能看见碗底，丸子嫩得能抿开，最后放一把青菜心，清鲜得很。",
+  "tags": [
+    "苏菜",
+    "汤品",
+    "肉丸",
+    "家常菜"
+  ],
+  "related_ids": [
+    "qingdun-shizitou",
+    "jiangsu-yuyuan-tang",
+    "jiangsu-jiachang-shao-doufu"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

@@ -1,0 +1,276 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "jiangsu-paigu-mian",
+  "name": {
+    "zh": "苏式排骨面",
+    "en": "Jiangsu Sparerib Noodles"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "jiangsu"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 23,
+    "cook_min": 47,
+    "total_min": 70
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 300,
+          "unit": "g",
+          "note": "细面",
+          "optional": false
+        },
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 400,
+          "unit": "g",
+          "note": "斩小块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 150,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 40,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "绍兴酒",
+          "name_en": "Shaoxing wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 15,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调整",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 50,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "猪油",
+          "name_en": "lard",
+          "amount": 10,
+          "unit": "g",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "排骨斩成小块，冷水下锅加姜片焯三分钟，捞出用温水冲净浮沫。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "排骨块切小一点，容易烧透也方便入口。",
+      "visual_cue": "排骨断面无血水，块块干净"
+    },
+    {
+      "n": 2,
+      "text": "炒锅下植物油，排骨煎到表面微黄，加生抽、老抽、绍兴酒与冰糖炒匀。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "排骨先煎香再烧，汤头才带肉香不发腥。",
+      "visual_cue": "排骨通体酱红，锅底油亮"
+    },
+    {
+      "n": 3,
+      "text": "倒入八百毫升清水，大火煮开转小火焖三十分钟至排骨酥软。",
+      "time_min": 33,
+      "heat": "小火",
+      "tip": "小火焖足半小时，肉才酥得能抿下来。",
+      "visual_cue": "筷子能插入肉层，汤色红亮"
+    },
+    {
+      "n": 4,
+      "text": "另起汤锅烧水煮面，面条下锅煮三分钟至断生，捞出过一下凉水。",
+      "time_min": 6,
+      "heat": "大火",
+      "tip": "面煮到刚断生就捞出，泡在汤里还会继续软。",
+      "visual_cue": "面条洁白有弹性，不粘连"
+    },
+    {
+      "n": 5,
+      "text": "面碗里放猪油、少许盐与生抽，冲入两勺滚烫的排骨汤化开。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "碗底先调好味再冲汤，这是苏式汤面的规矩。",
+      "visual_cue": "汤面浮着油花，香气扑鼻"
+    },
+    {
+      "n": 6,
+      "text": "面条放进碗中，铺上排骨，烫两棵青菜，撒葱花即可。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "青菜最后烫，保持翠绿，摆盘也好看。",
+      "visual_cue": "排骨堆在面上，青菜点缀一侧"
+    }
+  ],
+  "tips": [
+    "苏式汤面讲究碗底先调味再冲汤，味道才匀。",
+    "排骨焖足半小时，肉才酥到能轻轻一抿就下来。",
+    "面条煮到断生就捞，泡在热汤里会继续变软。",
+    "一勺猪油是汤面的灵魂，别省这一口香。"
+  ],
+  "common_mistakes": [
+    "排骨不焯水直接烧，汤浑浊还带腥。",
+    "面煮得太软再入汤，端上桌就糊成一团。",
+    "碗里不先调味，冲汤后咸淡不均。",
+    "青菜和面一起煮，菜叶发黄汤也发浑。"
+  ],
+  "substitutions": [
+    {
+      "original": "排骨",
+      "substitute": "五花肉",
+      "ratio": "400克:350克",
+      "note": "更油润，焖的时间减十分钟。"
+    },
+    {
+      "original": "细面",
+      "substitute": "宽面",
+      "ratio": "300克:300克",
+      "note": "更耐泡，煮的时间加一分钟。"
+    }
+  ],
+  "variations": [
+    "红烧排骨换成爆鱼，就是苏式爆鱼面，风味完全不同。",
+    "汤里加一勺雪菜末，酸香开胃，是浙江一带的吃法。",
+    "撒一把蒜叶末代替葱花，香气更冲。"
+  ],
+  "serving_suggestion": "面盛进大碗，排骨整齐摆在面上，青菜放一边，趁热吃面喝汤，一碗下去很满足。",
+  "storage": "汤与面分开冷藏可放一天，复热汤单独煮开再放面，避免面泡烂。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 782,
+    "protein_g": 42,
+    "fat_g": 32,
+    "carbs_g": 78,
+    "sodium_mg": 1420,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "排骨须焖至中心熟透、骨边无血水；面条与汤冷藏不超过一天。",
+    "复热须彻底加热至汤滚面热，不可反复加热。"
+  ],
+  "origin_note": "苏式排骨面是苏州面馆里的常客，排骨红烧到酥烂，汤用猪油和酱油在碗底调好再冲开，面条细白爽滑。一碗端上来，排骨堆得满满的，汤面浮着油花，配一碟醋就是标准的苏式早饭。",
+  "tags": [
+    "苏菜",
+    "面食",
+    "排骨",
+    "汤面"
+  ],
+  "related_ids": [
+    "yangchun-mian",
+    "jiangsu-aocao-mian",
+    "jiangsu-xiaoren-banmian"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

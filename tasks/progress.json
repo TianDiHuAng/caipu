@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:54:21.991Z",
+  "generatedAt": "2026-11-28T12:15:24.660Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2967,
-    "coverage": 0.9062309102015883
+    "actual": 2975,
+    "coverage": 0.9086744043982895
   },
   "regions": {
     "cn": [
@@ -780,15 +780,16 @@
         "en": "Jiangsu",
         "tier": "A",
         "target": 107,
-        "actual": 95,
+        "actual": 103,
         "cells": [
           {
             "category": "main-seafood",
             "kind": "core",
             "target": 15,
-            "actual": 12,
+            "actual": 13,
             "ids": [
               "jiangsu-baoyu-hongshao",
+              "jiangsu-gan-shao-guiyu",
               "jiangsu-hongshao-huangshan",
               "jiangsu-qingzheng-luyu",
               "jiangsu-suzha-xiaohuangyu",
@@ -806,13 +807,14 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "jiangsu-gusu-jiangfang",
               "jiangsu-jiangzhi-rou",
               "jiangsu-liangxi-cuishan",
               "jiangsu-muyou-chuanya",
               "jiangsu-shuijing-yaorou",
+              "jiangsu-su-hongshao-rou",
               "jiangsu-xiangyou-shanhu",
               "jiangsu-yanshui-ya",
               "jiangsu-zaokou-rou",
@@ -827,11 +829,12 @@
             "category": "soup",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 14,
             "ids": [
               "chuncai-yinyu-geng",
               "dazhu-gansi",
               "jiangsu-baiguo-laoya-tang",
+              "jiangsu-caixin-yuanzi-tang",
               "jiangsu-jiaobai-xiaren-geng",
               "jiangsu-jitang-zhugansi",
               "jiangsu-jiyu-doufu-tang",
@@ -888,13 +891,14 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 6,
+            "actual": 7,
             "ids": [
               "culiu-baicai",
               "jiangsu-liangban-oupian",
               "jiangsu-xianggu-qingcai",
               "jiangsu-yexiang-qiezi",
               "jiangsu-youmen-jiaobai",
+              "jiangsu-youshen-jiaobai",
               "shangtang-wawacai"
             ]
           },
@@ -902,12 +906,13 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "dazhu-gansi",
               "jiangsu-jiachang-shao-doufu",
               "jiangsu-jingxiang-doufu",
               "jiangsu-pingqiao-doufu",
+              "jiangsu-pipa-doufu",
               "xiefen-doufu"
             ]
           },
@@ -915,9 +920,10 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "jiangsu-aocao-mian",
+              "jiangsu-paigu-mian",
               "jiangsu-xiaohun-tun",
               "jiangsu-xiaoren-banmian",
               "jiangsu-xuecai-niurou-mian",
@@ -928,9 +934,10 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "jiangsu-caifan",
+              "jiangsu-cifan-tuan",
               "jiangsu-dan-chaofan",
               "jiangsu-ouding-menfan",
               "jiangsu-xianrou-caifan",
@@ -956,9 +963,10 @@
             "category": "dessert",
             "kind": "extra",
             "target": 0,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "guihua-tangou",
+              "jiangsu-babao-fan",
               "jiangsu-meigui-gao",
               "zhima-matuan"
             ]
