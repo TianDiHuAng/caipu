@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-28T05:56:41.879Z
+> 生成时间：2026-11-28T06:06:49.892Z
 
-**总览**：工程任务 49/53；菜谱内容 2866/3274（87.5%），共 659 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2874/3274（87.8%），共 659 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -430,7 +430,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1621/1935）
+### 外国菜系（1629/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，95/107</summary>
 
@@ -662,15 +662,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>中东风味 middle-eastern</b> — B 级，22/38</summary>
+<details><summary><b>中东风味 middle-eastern</b> — B 级，30/38</summary>
 
 - [ ] `P4-middle-eastern/appetizer` 前菜（Appetizer）目标 6，已完成 5
 - [ ] `P4-middle-eastern/main-meat` 主菜·肉（Meat Main）目标 6，已完成 5
-- [ ] `P4-middle-eastern/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 2
-- [ ] `P4-middle-eastern/salad` 沙拉（Salad）目标 6，已完成 3
+- [x] `P4-middle-eastern/staple-bread` 主食·饼（Bread Staple）目标 6，已完成 6
+- [x] `P4-middle-eastern/salad` 沙拉（Salad）目标 6，已完成 6
 - [ ] `P4-middle-eastern/dessert` 甜点（Dessert）目标 6，已完成 2
 - [ ] `P4-middle-eastern/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 4，已完成 1
-- [ ] `P4-middle-eastern/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 1
+- [ ] `P4-middle-eastern/main-egg` 主菜·蛋（Egg Main）目标 4，已完成 2
 - [x] `P4-middle-eastern/sauce` 酱汁与基础调味（Sauce）目标 0，已完成 1
 - [x] `P4-middle-eastern/snack` 小吃（Street Food）目标 0，已完成 1
 - [x] `P4-middle-eastern/staple-rice` 主食·饭（Rice Dish）目标 0，已完成 1

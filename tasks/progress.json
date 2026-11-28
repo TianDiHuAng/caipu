@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:56:41.805Z",
+  "generatedAt": "2026-11-28T06:06:49.816Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2866,
-    "coverage": 0.8753817959682346
+    "actual": 2874,
+    "coverage": 0.8778252901649358
   },
   "regions": {
     "cn": [
@@ -5681,7 +5681,7 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 22,
+        "actual": 30,
         "cells": [
           {
             "category": "appetizer",
@@ -5713,20 +5713,27 @@
             "category": "staple-bread",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 6,
             "ids": [
+              "middle-eastern-cheese-flatbread",
+              "middle-eastern-khubz-arabi",
               "middle-eastern-manakish",
-              "middle-eastern-pita"
+              "middle-eastern-pita",
+              "middle-eastern-saj-bread",
+              "middle-eastern-sesame-bread-ring"
             ]
           },
           {
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 6,
             "ids": [
+              "middle-eastern-arabic-salad",
               "middle-eastern-carrot-salad",
+              "middle-eastern-eggplant-salad",
               "middle-eastern-fattoush",
+              "middle-eastern-lentil-salad",
               "middle-eastern-tabbouleh"
             ]
           },
@@ -5753,8 +5760,9 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 2,
             "ids": [
+              "middle-eastern-menemen",
               "middle-eastern-shakshuka"
             ]
           },
