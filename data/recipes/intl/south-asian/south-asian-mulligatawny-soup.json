@@ -1,0 +1,305 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "south-asian-mulligatawny-soup",
+  "name": {
+    "zh": "胡椒扁豆浓汤",
+    "en": "Mulligatawny Soup"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "south-asian"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 55,
+    "total_min": 90
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "savory",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "扁豆",
+          "name_en": "lentil",
+          "amount": 200,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 12,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 10,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1000,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "花生油",
+          "name_en": "peanut oil",
+          "amount": 25,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 4,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        },
+        {
+          "name": "咖喱粉",
+          "name_en": "curry powder",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 2,
+          "unit": "g",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "搅拌机",
+    "汤勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小扁豆淘洗干净，用清水浸泡二十分钟后沥干。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "泡过的扁豆煮得快，也更容易打成细糊。",
+      "visual_cue": "豆子略微膨胀，水发浑"
+    },
+    {
+      "n": 2,
+      "text": "洋葱切丁，胡萝卜切小丁，番茄切块，姜蒜切末备用。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "胡萝卜切小一点，煮软后打糊更顺滑。",
+      "visual_cue": "各料切好，丁块大小一致"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒花生油下洋葱丁中火炒五分钟至软塌微黄。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "洋葱炒透，汤底才有自然的甜。",
+      "visual_cue": "洋葱软塌微黄，锅底泛油"
+    },
+    {
+      "n": 4,
+      "text": "加姜末、蒜末、咖喱粉和姜黄粉小火炒三十秒，香味出来后下番茄块。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "香料小火炒香即可，炒糊整锅发苦。",
+      "visual_cue": "香料起泡，番茄开始出汁"
+    },
+    {
+      "n": 5,
+      "text": "番茄炒五分钟后倒入小扁豆、胡萝卜和清水，大火烧开。",
+      "time_min": 7,
+      "heat": "大火",
+      "tip": "水要一次加足，中途加水汤会变稀。",
+      "visual_cue": "汤面翻滚，豆子浮在表面"
+    },
+    {
+      "n": 6,
+      "text": "转小火煮二十五分钟，煮到豆子完全软烂、用勺子一压就散开开花。",
+      "time_min": 26,
+      "heat": "小火",
+      "tip": "煮到豆子一压就烂，打出来的汤才细。",
+      "visual_cue": "豆子开花散开，汤色发黄"
+    },
+    {
+      "n": 7,
+      "text": "稍晾后用搅拌机打成顺滑浓汤，倒回锅中加盐与黑胡椒。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "分两次打，热汤一次打太多容易溢出。",
+      "visual_cue": "汤体细腻顺滑，没有颗粒"
+    },
+    {
+      "n": 8,
+      "text": "小火加热至微沸，挤入柠檬汁搅匀，撒香菜碎盛出。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "柠檬汁最后放，酸香才清亮不闷。",
+      "visual_cue": "汤面泛光，香菜翠绿浮起"
+    }
+  ],
+  "tips": [
+    "扁豆提前泡二十分钟，煮得快也打得更细。",
+    "香料小火炒三十秒就够，炒久整锅发苦。",
+    "煮到豆子开花再打糊，汤体才顺滑无渣。",
+    "柠檬汁最后挤，酸香清爽不浑浊。"
+  ],
+  "common_mistakes": [
+    "扁豆没泡直接煮，煮四十分钟还是硬的。",
+    "香料大火炒糊，汤带焦苦味怎么都救不回来。",
+    "热汤一次全打进搅拌机，冲开盖子烫伤手。",
+    "柠檬汁早放一起煮，酸味变得闷钝不清亮。"
+  ],
+  "substitutions": [
+    {
+      "original": "小扁豆",
+      "substitute": "红腰豆",
+      "ratio": "200克:200克",
+      "note": "需多煮十五分钟至软烂。"
+    },
+    {
+      "original": "柠檬",
+      "substitute": "罗望子",
+      "ratio": "30克:20克",
+      "note": "酸味更沉，需提前泡水取汁。"
+    }
+  ],
+  "variations": [
+    "加一把煮熟的米饭同打，汤更浓稠。",
+    "放几块鸡胸肉同煮，做成带肉的版本。",
+    "出锅前淋一勺椰浆搅匀，口感更圆润顺滑。"
+  ],
+  "serving_suggestion": "盛进汤碗撒香菜，配一张烤饼或一碗白饭，酸辣浓稠，冷天喝最舒服。",
+  "storage": "冷藏可放三天，复热须煮沸并搅动防止糊底。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 326,
+    "protein_g": 16,
+    "fat_g": 11,
+    "carbs_g": 42,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "mustard",
+    "peanut"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "扁豆须彻底煮至软烂熟透，未熟的豆类含凝集素易引起不适。",
+    "冷藏不超过三天，复热须彻底煮沸并持续搅动。"
+  ],
+  "origin_note": "胡椒扁豆浓汤源自南印的马德拉斯，原本是英国人带回本土的改良汤品。扁豆与番茄、胡萝卜同煮到软烂，打成细糊后再用黑胡椒和柠檬提味，酸辣浓稠，一勺下去很暖胃。",
+  "tags": [
+    "南亚",
+    "汤品",
+    "扁豆",
+    "酸辣"
+  ],
+  "related_ids": [
+    "south-asian-rasam",
+    "south-asian-sambar",
+    "south-asian-dal-tadka"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

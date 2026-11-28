@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:28:54.400Z",
+  "generatedAt": "2026-11-28T13:50:33.531Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2994,
-    "coverage": 0.9144777031154551
+    "actual": 3002,
+    "coverage": 0.9169211973121564
   },
   "regions": {
     "cn": [
@@ -5676,16 +5676,18 @@
         "en": "South Asian",
         "tier": "B",
         "target": 38,
-        "actual": 24,
+        "actual": 32,
         "cells": [
           {
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
+              "south-asian-coconut-rice",
               "south-asian-jeera-rice",
               "south-asian-lemon-rice",
+              "south-asian-tomato-rice",
               "south-asian-vegetable-biryani"
             ]
           },
@@ -5707,9 +5709,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "south-asian-dal-tadka",
+              "south-asian-mulligatawny-soup",
               "south-asian-rasam",
               "south-asian-sambar"
             ]
@@ -5739,17 +5742,23 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "south-asian-egg-curry"
+              "south-asian-egg-bhurji",
+              "south-asian-egg-curry",
+              "south-asian-masala-omelette"
             ]
           },
           {
             "category": "main-tofu",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 3,
+            "ids": [
+              "south-asian-chilli-tofu",
+              "south-asian-tofu-bhurji",
+              "south-asian-tofu-tikka-masala"
+            ]
           },
           {
             "category": "staple-bread",

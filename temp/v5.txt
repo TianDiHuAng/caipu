@@ -1,0 +1,31 @@
+﻿校验范围: 2756 个文件（成功解析 2756）
+分类体系: 59 菜系 / 26 品类；食材词典: 494 项
+
+[问题文件] 7 个（schema 失败 5，规则失败 2）：
+
+· data/recipes/intl/south-asian/south-asian-chilli-tofu.json (south-asian-chilli-tofu) [SCHEMA]
+   - $.steps[4].text: 长度 19 小于下限 20
+
+· data/recipes/intl/south-asian/south-asian-egg-bhurji.json (south-asian-egg-bhurji) [SCHEMA]
+   - $.tips[3]: 长度 13 小于下限 15
+
+· data/recipes/intl/south-asian/south-asian-mulligatawny-soup.json (south-asian-mulligatawny-soup) [SCHEMA]
+   - $.steps[5].text: 长度 19 小于下限 20
+   - $.variations[2]: 长度 14 小于下限 15
+
+· data/recipes/intl/south-asian/south-asian-tofu-bhurji.json (south-asian-tofu-bhurji) [SCHEMA]
+   - $.steps[2].text: 长度 19 小于下限 20
+   - $.steps[6].text: 长度 18 小于下限 20
+
+· data/recipes/intl/south-asian/south-asian-tomato-rice.json (south-asian-tomato-rice) [SCHEMA]
+   - $.steps[7].text: 长度 18 小于下限 20
+   - $.common_mistakes[1]: 长度 14 小于下限 15
+   - $.variations[1]: 长度 13 小于下限 15
+
+· data/recipes/intl/south-asian/south-asian-coconut-rice.json (south-asian-coconut-rice) [RULES]
+   - ingredients: 「花生油」在全部步骤与提示中均未被使用
+
+· data/recipes/intl/south-asian/south-asian-masala-omelette.json (south-asian-masala-omelette) [RULES]
+   - ingredients: 「花生油」在全部步骤与提示中均未被使用
+
+❌ 未通过：7 类问题，累计 11 条
