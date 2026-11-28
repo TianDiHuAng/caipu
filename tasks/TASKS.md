@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-28T14:55:53.260Z
+> 生成时间：2026-11-28T15:25:49.923Z
 
-**总览**：工程任务 49/53；菜谱内容 3026/3274（92.4%），共 659 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 3034/3274（92.7%），共 659 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -430,7 +430,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-### 外国菜系（1703/1935）
+### 外国菜系（1711/1935）
 
 <details><summary><b>日本料理 japanese</b> — A 级，103/107</summary>
 
@@ -895,15 +895,15 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>墨西哥菜 mexican</b> — A 级，94/107</summary>
+<details><summary><b>墨西哥菜 mexican</b> — A 级，102/107</summary>
 
 - [x] `P4-mexican/snack` 小吃（Street Food）目标 15，已完成 15
-- [ ] `P4-mexican/main-meat` 主菜·肉（Meat Main）目标 15，已完成 13
+- [x] `P4-mexican/main-meat` 主菜·肉（Meat Main）目标 15，已完成 15
 - [x] `P4-mexican/sauce` 酱汁与基础调味（Sauce）目标 15，已完成 15
 - [x] `P4-mexican/soup` 汤羹（Soup）目标 15，已完成 15
-- [ ] `P4-mexican/drink` 饮品（Drink）目标 15，已完成 13
-- [ ] `P4-mexican/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 5
-- [ ] `P4-mexican/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 4
+- [x] `P4-mexican/drink` 饮品（Drink）目标 15，已完成 15
+- [ ] `P4-mexican/main-vegetable` 主菜·蔬菜（Vegetable Main）目标 8，已完成 7
+- [ ] `P4-mexican/main-egg` 主菜·蛋（Egg Main）目标 8，已完成 6
 - [ ] `P4-mexican/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 4
 - [ ] `P4-mexican/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 4
 - [x] `P4-mexican/staple-bread` 主食·饼（Bread Staple）目标 0，已完成 2

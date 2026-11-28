@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-ponche",
+  "name": {
+    "zh": "墨西哥水果热饮",
+    "en": "Ponche Navideno"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "drink"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 15,
+    "cook_min": 37,
+    "total_min": 52
+  },
+  "servings": 4,
+  "flavor": [
+    "sweet",
+    "fragrant",
+    "tangy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "苹果",
+          "name_en": "apple",
+          "amount": 200,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "橙子",
+          "name_en": "orange",
+          "amount": 150,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1200,
+          "unit": "ml",
+          "note": "煮制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 80,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "柠檬",
+          "name_en": "lemon",
+          "amount": 30,
+          "unit": "g",
+          "note": "挤汁",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 6,
+          "unit": "g",
+          "note": "煮制",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 60,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "丁香",
+          "name_en": "clove",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "蜂蜜",
+          "name_en": "honey",
+          "amount": 20,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "刀",
+    "砧板",
+    "汤勺",
+    "滤网",
+    "马克杯"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "苹果去核连皮切成两厘米的块，橙子带皮切成半厘米厚的片。",
+      "time_min": 9,
+      "heat": "无火",
+      "tip": "橙子带皮煮，皮里的精油是这道饮品的魂。",
+      "visual_cue": "果块切好，橙片圆整"
+    },
+    {
+      "n": 2,
+      "text": "胡萝卜削皮切成滚刀块，丁香轻压一下让香气散出。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "丁香压破再煮，香气才出得来但不发冲。",
+      "visual_cue": "胡萝卜块均匀，丁香略碎"
+    },
+    {
+      "n": 3,
+      "text": "汤锅倒清水，放入肉桂和丁香，大火烧开后转小火煮五分钟。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "香料先煮出味，再下水果才不会被抢味。",
+      "visual_cue": "汤水微黄，香料香气明显"
+    },
+    {
+      "n": 4,
+      "text": "下苹果块、胡萝卜块和橙片，小火煮十五分钟至水果变软。",
+      "time_min": 17,
+      "heat": "小火",
+      "tip": "小火慢煮，水果软而不烂才好喝。",
+      "visual_cue": "水果微软，汤色橙黄"
+    },
+    {
+      "n": 5,
+      "text": "加白糖与蜂蜜搅匀，再煮三分钟让甜味融合。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "蜂蜜最后加，久煮香气会散掉。",
+      "visual_cue": "甜味均匀，汤面微微发亮"
+    },
+    {
+      "n": 6,
+      "text": "关火挤入柠檬汁，盖盖焖五分钟让味道融合。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "关火挤柠檬，酸香清亮不发闷。",
+      "visual_cue": "酸香清爽，汤色明亮"
+    },
+    {
+      "n": 7,
+      "text": "用滤网滤去香料渣，连水果块一起盛进马克杯。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "香料渣要滤掉，喝的时候才不会呛口。",
+      "visual_cue": "杯中汤色橙红，漂着果块"
+    }
+  ],
+  "tips": [
+    "橙子带皮煮，皮里的精油是这道饮品的魂。",
+    "香料先煮五分钟再下水果，层次才清楚。",
+    "蜂蜜最后加，久煮香气会全散掉。",
+    "关火再挤柠檬汁，酸香才清亮不闷。"
+  ],
+  "common_mistakes": [
+    "水果切太大块，煮十五分钟还是硬的。",
+    "肉桂丁香放太多，喝起来像药水。",
+    "大火滚煮，水果全被煮成一锅泥。",
+    "糖一开始就放，水果反而不容易煮软。"
+  ],
+  "substitutions": [
+    {
+      "original": "苹果",
+      "substitute": "梨",
+      "ratio": "200克:200克",
+      "note": "口感更绵，甜度略低。"
+    },
+    {
+      "original": "蜂蜜",
+      "substitute": "红糖",
+      "ratio": "20克:22克",
+      "note": "颜色更深，香气偏焦糖。"
+    }
+  ],
+  "variations": [
+    "加一把葡萄干同煮，果香更浓郁。",
+    "放两片生姜同煮，暖身效果更明显。",
+    "加一小杯朗姆酒，做成成人版本。"
+  ],
+  "serving_suggestion": "盛进马克杯连果块一起吃，冬天过节时最好配一块甜面包，暖手又暖胃。",
+  "storage": "冷藏可放两天，复热小火加热到微滚，不要反复烧开。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 148,
+    "protein_g": 1,
+    "fat_g": 0,
+    "carbs_g": 37,
+    "sodium_mg": 25,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [],
+  "diet_tags": [
+    "vegetarian",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "food_safety_notes": [
+    "热饮温度较高，饮用前试温以免烫口；含蜂蜜不适给一岁以下婴儿。",
+    "冷藏不超过两天，复热须彻底加热后饮用。"
+  ],
+  "origin_note": "墨西哥水果热饮是圣诞季的固定饮品，苹果、胡萝卜和带皮橙片跟肉桂丁香一起慢煮，最后加蜂蜜和柠檬。汤色橙红，喝一口从喉咙暖到胃。",
+  "tags": [
+    "墨西哥",
+    "饮品",
+    "热饮",
+    "水果"
+  ],
+  "related_ids": [
+    "mexican-atole",
+    "mexican-chocolate-caliente",
+    "mexican-champurrado"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

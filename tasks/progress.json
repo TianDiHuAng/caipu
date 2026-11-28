@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T14:55:53.165Z",
+  "generatedAt": "2026-11-28T15:25:49.830Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 3026,
-    "coverage": 0.9242516799022602
+    "actual": 3034,
+    "coverage": 0.9266951740989615
   },
   "regions": {
     "cn": [
@@ -7712,7 +7712,7 @@
         "en": "Mexican",
         "tier": "A",
         "target": 107,
-        "actual": 94,
+        "actual": 102,
         "cells": [
           {
             "category": "snack",
@@ -7741,7 +7741,7 @@
             "category": "main-meat",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 15,
             "ids": [
               "carnitas",
               "chili-con-carne",
@@ -7752,6 +7752,8 @@
               "mexican-carnitas",
               "mexican-cerdo-salsa-verde",
               "mexican-cochinita-pibil",
+              "mexican-picadillo",
+              "mexican-pollo-a-la-plancha",
               "mexican-pollo-adobado",
               "mexican-tacos-al-pastor",
               "mexican-tinga-de-res",
@@ -7808,12 +7810,13 @@
             "category": "drink",
             "kind": "core",
             "target": 15,
-            "actual": 13,
+            "actual": 15,
             "ids": [
               "agua-fresca",
               "horchata",
               "mexican-agua-de-fresa",
               "mexican-agua-de-jamaica",
+              "mexican-agua-de-mango",
               "mexican-agua-de-pepino",
               "mexican-agua-de-tamarindo",
               "mexican-atole",
@@ -7822,18 +7825,21 @@
               "mexican-chocolate-caliente",
               "mexican-horchata",
               "mexican-licuado-platano",
-              "mexican-limonada"
+              "mexican-limonada",
+              "mexican-ponche"
             ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 8,
-            "actual": 5,
+            "actual": 7,
             "ids": [
+              "mexican-calabacitas-rellenas",
               "mexican-calabacitas",
               "mexican-chiles-rellenos",
               "mexican-ensalada-nopales",
+              "mexican-frijoles-charros",
               "mexican-frijoles-refritos",
               "mexican-rajas-con-crema"
             ]
@@ -7842,12 +7848,14 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 6,
             "ids": [
               "mexican-chilaquiles",
               "mexican-chiles-rellenos",
               "mexican-huevos-a-la-mexicana",
-              "mexican-huevos-rancheros"
+              "mexican-huevos-motulenos",
+              "mexican-huevos-rancheros",
+              "mexican-torta-de-huevo"
             ]
           },
           {

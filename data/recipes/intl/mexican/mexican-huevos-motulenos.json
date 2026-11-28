@@ -1,0 +1,304 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "mexican-huevos-motulenos",
+  "name": {
+    "zh": "墨西哥豆酱煎蛋",
+    "en": "Huevos Motulenos"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "mexican"
+  },
+  "category": [
+    "main-egg"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 20,
+    "cook_min": 23,
+    "total_min": 43
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 4,
+          "unit": "piece",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "红腰豆",
+          "name_en": "red kidney bean",
+          "amount": 200,
+          "unit": "g",
+          "note": "煮熟",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "玉米饼",
+          "name_en": "corn tortilla",
+          "amount": 4,
+          "unit": "piece",
+          "note": "垫底",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 50,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 50,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "奶酪",
+          "name_en": "cheese",
+          "amount": 60,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "孜然",
+          "name_en": "cumin",
+          "amount": 3,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "辣椒粉",
+          "name_en": "chili powder",
+          "amount": 3,
+          "unit": "g",
+          "note": "增辣",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "刀",
+    "砧板",
+    "锅铲",
+    "碗",
+    "打蛋器"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "玉米饼放进干锅小火烘一分钟至两面微脆，取出保温备用。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "烘一下玉米饼更香，也不容易泡烂。",
+      "visual_cue": "玉米饼微微鼓起，边缘脆"
+    },
+    {
+      "n": 2,
+      "text": "红腰豆倒进碗里用叉子压成粗泥，保留三分之一的整豆。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "留一部分整豆，口感才不会像婴儿辅食。",
+      "visual_cue": "豆泥粗松，仍能见到整颗豆"
+    },
+    {
+      "n": 3,
+      "text": "洋葱、青椒切小丁，番茄切小块，香菜切碎备用。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "番茄切小块，炒的时候汁水才散得开。",
+      "visual_cue": "丁块均匀，香菜细碎"
+    },
+    {
+      "n": 4,
+      "text": "平底锅倒一半植物油，下洋葱丁中火炒两分钟至软塌。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "洋葱炒软出甜，豆泥才不会死咸。",
+      "visual_cue": "洋葱透明软塌，锅底泛油"
+    },
+    {
+      "n": 5,
+      "text": "下番茄丁、青椒丁和辣椒粉炒三分钟，倒入压好的豆泥拌匀。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "豆泥下锅后要不断搅，容易糊底。",
+      "visual_cue": "豆泥与蔬菜混匀，颜色深红"
+    },
+    {
+      "n": 6,
+      "text": "加盐与孜然调匀，小火煮三分钟至豆泥浓稠能挂勺。",
+      "time_min": 4,
+      "heat": "小火",
+      "tip": "煮到能堆起来不会流动，铺盘才不会淌。",
+      "visual_cue": "豆泥浓稠，铲起不塌"
+    },
+    {
+      "n": 7,
+      "text": "把豆泥铺在温热的玉米饼上，撒一半奶酪丝备用。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "趁玉米饼温热时铺，奶酪才会微融。",
+      "visual_cue": "豆泥平铺均匀，奶酪零星分布"
+    },
+    {
+      "n": 8,
+      "text": "平底锅倒剩下的植物油，中火打入鸡蛋煎三分钟，蛋白凝固蛋黄半熟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "想吃全熟就盖盖焖一分钟，蛋黄不流心。",
+      "visual_cue": "蛋白完全凝固，蛋黄微颤"
+    },
+    {
+      "n": 9,
+      "text": "把煎蛋轻轻放在豆泥上，撒剩下的奶酪、香菜和黑胡椒即可。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "装盘后马上吃，奶酪还会微微融化。",
+      "visual_cue": "奶酪融化拉丝，香菜翠绿"
+    }
+  ],
+  "tips": [
+    "玉米饼先烘一下，更香也不容易被泡烂。",
+    "豆泥留三分之一整豆，口感才不单调。",
+    "豆泥下锅要不停搅，糊底会有苦味。",
+    "煎蛋想吃全熟就盖盖再焖一分钟，蛋黄不流心。"
+  ],
+  "common_mistakes": [
+    "玉米饼不烘直接铺豆泥，很快就泡成糊。",
+    "豆泥压得太细，吃起来像罐装辅食。",
+    "豆泥煮得太稀，铺上去全淌到盘底。",
+    "鸡蛋煎过头，蛋黄全硬没有流心。"
+  ],
+  "substitutions": [
+    {
+      "original": "红腰豆",
+      "substitute": "黑豆",
+      "ratio": "200克:200克",
+      "note": "口感更绵，颜色更暗。"
+    },
+    {
+      "original": "奶酪",
+      "substitute": "菲达奶酪",
+      "ratio": "60克:60克",
+      "note": "咸味更重，盐要减一克。"
+    }
+  ],
+  "variations": [
+    "加一片煎火腿同铺，咸香更足更饱。",
+    "淋一点酸奶油，酸味能解豆泥的厚重。",
+    "撒一把切碎的生菜，口感更清爽。"
+  ],
+  "serving_suggestion": "两份分装，趁热上桌，配一杯咖啡或鲜榨果汁，是墨西哥人的周末早餐。",
+  "storage": "豆泥冷藏可放两天，煎蛋须现做；复热豆泥小火加一勺水搅开。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 586,
+    "protein_g": 27,
+    "fat_g": 28,
+    "carbs_g": 52,
+    "sodium_mg": 980,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须煎至蛋白完全凝固，含奶酪须冷藏；不建议半熟蛋给儿童老人。",
+    "豆泥冷藏不超过两天，复热须彻底加热。"
+  ],
+  "origin_note": "墨西哥豆酱煎蛋来自尤卡坦半岛，玉米饼垫底，铺上炒过的红腰豆泥，上面盖两个煎蛋，撒奶酪和香菜。一盘中酸甜咸辣都有，是镇上最扎实的早餐。",
+  "tags": [
+    "墨西哥",
+    "鸡蛋",
+    "早餐",
+    "豆类"
+  ],
+  "related_ids": [
+    "mexican-huevos-rancheros",
+    "mexican-huevos-a-la-mexicana",
+    "mexican-chilaquiles"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
