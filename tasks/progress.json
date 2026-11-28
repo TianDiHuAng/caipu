@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T04:23:48.936Z",
+  "generatedAt": "2026-11-28T04:32:27.386Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2811,
-    "coverage": 0.8585827733659133
+    "actual": 2819,
+    "coverage": 0.8610262675626146
   },
   "regions": {
     "cn": [
@@ -5182,7 +5182,7 @@
         "en": "Filipino",
         "tier": "B",
         "target": 38,
-        "actual": 22,
+        "actual": 30,
         "cells": [
           {
             "category": "main-meat",
@@ -5202,9 +5202,11 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 5,
             "ids": [
               "filipino-ginataang-gulay",
+              "filipino-ginataang-hipon",
+              "filipino-mami-soup",
               "filipino-sinigang",
               "filipino-tinola"
             ]
@@ -5213,10 +5215,12 @@
             "category": "staple-rice",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "filipino-arroz-caldo",
-              "filipino-garlic-rice"
+              "filipino-bringhe",
+              "filipino-garlic-rice",
+              "filipino-paella"
             ]
           },
           {
@@ -5245,15 +5249,21 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "filipino-adobong-kangkong",
+              "filipino-ginataang-kalabasa"
+            ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "filipino-tortang-giniling",
+              "filipino-tortang-talong"
+            ]
           },
           {
             "category": "main-poultry",

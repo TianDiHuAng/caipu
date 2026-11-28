@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "filipino-paella",
+  "name": {
+    "zh": "菲式海鲜饭",
+    "en": "Filipino Seafood Rice"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "filipino"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 22,
+    "cook_min": 42,
+    "total_min": 64
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "洗净沥干",
+          "optional": false
+        },
+        {
+          "name": "虾",
+          "name_en": "shrimp",
+          "amount": 300,
+          "unit": "g",
+          "note": "去壳留尾",
+          "optional": false
+        },
+        {
+          "name": "鲭鱼",
+          "name_en": "mackerel",
+          "amount": 250,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 200,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "毛豆",
+          "name_en": "edamame",
+          "amount": 100,
+          "unit": "g",
+          "note": "解冻",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "青柠",
+          "name_en": "lime",
+          "amount": 1,
+          "unit": "piece",
+          "note": "切角",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "姜黄",
+          "name_en": "turmeric",
+          "amount": 5,
+          "unit": "g",
+          "note": "粉状",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 7,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 700,
+          "unit": "ml",
+          "note": "煮饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "厚底锅",
+    "刀",
+    "砧板",
+    "木勺",
+    "汤锅"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后沥干，虾去壳留尾挑净虾线，鲭鱼切大块。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "米要沥干，带水下锅会先煮成粥再难收干。",
+      "visual_cue": "米粒干爽分散，鱼块完整"
+    },
+    {
+      "n": 2,
+      "text": "厚底锅倒植物油，下洋葱丁与蒜末小火炒到洋葱透明。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "洋葱要炒出甜味，这是整锅饭的底味。",
+      "visual_cue": "洋葱丁变软透明，香气上冲"
+    },
+    {
+      "n": 3,
+      "text": "加番茄丁炒到出汁塌软，再下姜黄炒匀出色。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "番茄炒出沙才好吃，姜黄遇油才出色。",
+      "visual_cue": "锅底红黄相间，番茄化成泥"
+    },
+    {
+      "n": 4,
+      "text": "倒入大米翻炒三分钟，让每粒米都裹上油与酱色。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "米一定要炒过，煮出来才粒粒分明不粘。",
+      "visual_cue": "米粒油亮微黄，颗颗分开"
+    },
+    {
+      "n": 5,
+      "text": "加清水、盐与白胡椒烧开，铺上鱼块与虾，转小火盖盖焖十八分钟。",
+      "time_min": 20,
+      "heat": "小火",
+      "tip": "铺料后不要搅动，搅了米会碎、饭会糊。",
+      "visual_cue": "水分收干，饭面出现小气孔"
+    },
+    {
+      "n": 6,
+      "text": "撒青豆与胡萝卜丁再焖五分钟，关火静置十分钟，配青柠角上桌。",
+      "time_min": 7,
+      "heat": "小火",
+      "tip": "关火静置十分钟让米粒定形，开盖才松散。",
+      "visual_cue": "饭粒松软分明，锅底微焦香"
+    }
+  ],
+  "tips": [
+    "用厚底锅，受热均匀才不容易糊底。",
+    "米炒过再煮是关键，饭才粒粒分明。",
+    "焖的时候千万不要搅动，一搅就糊。",
+    "喜欢锅巴可以最后大火三十秒，闻到焦香就关火。"
+  ],
+  "common_mistakes": [
+    "米没炒直接下水煮，饭黏成一团。",
+    "火太大，锅底焦了上面还是生的。",
+    "焖的时候反复开盖搅拌，饭糊成一锅粥。",
+    "海鲜下得太早，焖完虾老得发韧、鱼肉也散了。"
+  ],
+  "substitutions": [
+    {
+      "original": "鲭鱼",
+      "substitute": "鲈鱼",
+      "ratio": "250克:250克",
+      "note": "肉更细，焖的时间减三分钟。"
+    },
+    {
+      "original": "虾",
+      "substitute": "虾仁",
+      "ratio": "300克:250克",
+      "note": "已去壳，最后五分钟再放。"
+    }
+  ],
+  "variations": [
+    "加几片腊肠同焖，油脂香更足，咸鲜也更厚。",
+    "加一小把藏红花替代姜黄，颜色更金。",
+    "换成鸡肉与香肠，做成肉版海鲜饭。"
+  ],
+  "serving_suggestion": "整锅端上桌，配青柠角与醋蒜蘸汁，饭面上虾红鱼白，是最有排面的一道主食。",
+  "storage": "冷藏可放一天，复热撒少量水盖盖小火焖五分钟，不要翻炒以免米粒碎。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 596,
+    "protein_g": 34,
+    "fat_g": 14,
+    "carbs_g": 78,
+    "sodium_mg": 820,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "fish",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "虾与鱼须煮至完全熟透、肉质不透亮；贝甲类过敏者慎食。",
+    "成品冷藏不超过一天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "菲式海鲜饭带着西班牙的影子，姜黄把米染成金黄，虾与鲭鱼铺在饭面上一起焖。锅底那层微焦的饭最抢手，菲律宾人会用勺子刮得干干净净，配一瓣青柠压掉油腻。",
+  "tags": [
+    "菲律宾菜",
+    "海鲜",
+    "米饭",
+    "主食"
+  ],
+  "related_ids": [
+    "filipino-bringhe",
+    "filipino-garlic-rice",
+    "filipino-ginataang-hipon"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
