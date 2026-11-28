@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:57:37.384Z",
+  "generatedAt": "2026-11-28T10:48:57.696Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2937,
-    "coverage": 0.8970678069639585
+    "actual": 2943,
+    "coverage": 0.8989004276114845
   },
   "regions": {
     "cn": [
@@ -1458,7 +1458,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 106,
+        "actual": 112,
         "cells": [
           {
             "category": "main-meat",
@@ -1634,19 +1634,22 @@
             "category": "main-seafood",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 4,
             "ids": [
               "duojiao-yutou",
-              "hunan-xiangla-yukuai"
+              "hunan-kouwei-xia",
+              "hunan-xiangla-yukuai",
+              "hunan-yinyu-zhengdan"
             ]
           },
           {
             "category": "cold-dish",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "hunan-duolajiao",
+              "hunan-leijiao-qiezi",
               "hunan-liangban-tonghao"
             ]
           },
@@ -1654,10 +1657,22 @@
             "category": "soup",
             "kind": "extra",
             "target": 0,
-            "actual": 2,
+            "actual": 3,
             "ids": [
               "hunan-kugua-paigu-tang",
+              "hunan-lianou-paigu-tang",
               "nanchang-waguantang"
+            ]
+          },
+          {
+            "category": "snack",
+            "kind": "extra",
+            "target": 0,
+            "actual": 3,
+            "ids": [
+              "hunan-tangyou-baba",
+              "hunan-zha-ouhe",
+              "nanchang-banfen"
             ]
           },
           {
@@ -1667,15 +1682,6 @@
             "actual": 1,
             "ids": [
               "ganguo-chashugu"
-            ]
-          },
-          {
-            "category": "snack",
-            "kind": "extra",
-            "target": 0,
-            "actual": 1,
-            "ids": [
-              "nanchang-banfen"
             ]
           }
         ]

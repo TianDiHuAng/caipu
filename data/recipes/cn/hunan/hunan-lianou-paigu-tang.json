@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-lianou-paigu-tang",
+  "name": {
+    "zh": "湘式莲藕排骨汤",
+    "en": "Hunan Lotus Root and Pork Rib Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "soup"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 95,
+    "total_min": 135
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "umami",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪排骨",
+          "name_en": "pork ribs",
+          "amount": 800,
+          "unit": "g",
+          "note": "选带软骨的中排，斩成四厘米段",
+          "optional": false
+        },
+        {
+          "name": "莲藕",
+          "name_en": "lotus root",
+          "amount": 600,
+          "unit": "g",
+          "note": "选粗短粉藕，表皮带泥的更新鲜",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 20,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "最后调味",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 25,
+          "unit": "ml",
+          "note": "焯水去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "出锅前撒",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 2400,
+          "unit": "ml",
+          "note": "一次加足",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "砂锅",
+    "汤锅",
+    "汤勺",
+    "刀",
+    "砧板",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪排骨放冷水里泡二十分钟，中途换一次水，把里面的血水泡出来。",
+      "time_min": 22,
+      "heat": "无火",
+      "tip": "血水泡出来，汤色才清亮，不然一锅都是浮沫。",
+      "visual_cue": "水面泛淡红，肉色转浅发白"
+    },
+    {
+      "n": 2,
+      "text": "莲藕刮掉外皮，切成三厘米厚的滚刀块，泡在清水里防止发黑。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "切好马上泡进水里，藕接触空气很快氧化发黑。",
+      "visual_cue": "藕块洁白，断面的藕孔清晰"
+    },
+    {
+      "n": 3,
+      "text": "猪排骨冷水下锅，放姜片和料酒，中火煮开撇净表面的浮沫。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "必须冷水下锅，热水下锅血沫会锁在肉里。",
+      "visual_cue": "浮沫成团，大片浮在水面上"
+    },
+    {
+      "n": 4,
+      "text": "撇净沫后再煮两分钟，把猪排骨捞出，用温水冲掉表面残留的浮沫。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "冲排骨用温水，冷水一激肉质立刻发紧。",
+      "visual_cue": "排骨表面干净，看不见残沫"
+    },
+    {
+      "n": 5,
+      "text": "砂锅里放猪排骨、姜片和清水，大火烧开后转小火炖四十分钟。",
+      "time_min": 45,
+      "heat": "小火",
+      "tip": "水要一次加够，中途兑水汤色会明显变淡。",
+      "visual_cue": "汤面微沸，浮油只飘着几点"
+    },
+    {
+      "n": 6,
+      "text": "下莲藕块继续小火炖二十五分钟，炖到藕块用筷子能轻松扎透。",
+      "time_min": 27,
+      "heat": "小火",
+      "tip": "藕要后放，早下锅会炖烂成泥把汤弄浑。",
+      "visual_cue": "藕块边缘发软，汤色微微发粉"
+    },
+    {
+      "n": 7,
+      "text": "加盐和白胡椒调味，搅匀后关火，撒上小葱段。",
+      "time_min": 3,
+      "heat": "小火",
+      "tip": "盐最后放，早放猪排骨不容易炖软出味。",
+      "visual_cue": "汤色清亮，藕块透着微微光"
+    },
+    {
+      "n": 8,
+      "text": "盛碗时先放藕块再浇汤，让藕块浸在热汤里继续吸味。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "先把热汤浇进碗里再撒葱花，葱花不会被泡黄。",
+      "visual_cue": "碗中藕块饱满，汤面油点细碎"
+    }
+  ],
+  "tips": [
+    "选藕看两头，封口完整、断面藕孔小的才是粉藕，炖汤才软糯，脆藕适合清炒。",
+    "焯水后一定要用温水冲洗排骨，冷水会让肉纤维突然收紧，炖两个小时也不软。",
+    "砂锅比铁锅更适合炖这道汤，受热均匀，汤色保持微粉清亮，藕香也不容易散。",
+    "汤要小火慢炖，水面只冒小泡最好，大火翻滚会把藕块撞碎，汤变浑。"
+  ],
+  "common_mistakes": [
+    "莲藕和排骨一起下锅，藕炖化成泥，汤浑得看不见底。要先炖排骨再下藕块。",
+    "用脆藕炖汤，煮再久也发硬不粉。要挑粗短带泥的粉藕，断面藕孔细小。",
+    "中途加冷水补汤，汤色变白变淡，鲜味也被冲散。要一开始就把水加足。",
+    "盐一开始就放，排骨久炖不软，藕也发紧。要等汤炖好后再调味。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪排骨",
+      "substitute": "猪筒骨",
+      "ratio": "800克:1000克",
+      "note": "胶质更足，炖煮时间需延长二十分钟。"
+    },
+    {
+      "original": "莲藕",
+      "substitute": "山药",
+      "ratio": "600克:500克",
+      "note": "口感更绵，下锅后炖十五分钟即可。"
+    }
+  ],
+  "variations": [
+    "加一小把花生米同炖，汤头更香浓，是湖南乡下常见的做法。",
+    "把清水换成一半猪骨高汤，鲜味更厚重，适合冬天当主汤上桌。",
+    "起锅前撒一把枸杞，颜色更好看，也有淡淡的甜味。"
+  ],
+  "serving_suggestion": "白瓷大碗里汤色微粉清亮，藕块粉糯透亮，排骨露出骨头。先喝一口汤，藕的清甜混着肉香，再夹一块藕，一咬就断。",
+  "storage": "冷藏可放两天，复热时小火慢煮至沸腾；藕块隔夜会吸干汤汁，可补少量清水。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 412,
+    "protein_g": 32,
+    "fat_g": 24,
+    "carbs_g": 18,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪排骨须炖至肉质软烂、中心温度达到熟透标准，不要吃带血水的排骨。",
+    "汤品放凉后冷藏不超过两天，复热须彻底煮沸，不要反复多次加热。"
+  ],
+  "origin_note": "洞庭湖区的湖泥肥厚，出产的莲藕粉糯带甜，湖南人冬天习惯把藕和排骨一起丢进砂锅慢炖，一锅汤从晌午炖到傍晚。这道汤在湖南家常桌上出现频率极高，也被视作秋冬滋补的固定搭配。",
+  "tags": [
+    "湖南",
+    "汤品",
+    "莲藕",
+    "排骨",
+    "家常"
+  ],
+  "related_ids": [
+    "hunan-kugua-paigu-tang",
+    "nanchang-waguantang",
+    "hunan-larou-tudou-menfan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

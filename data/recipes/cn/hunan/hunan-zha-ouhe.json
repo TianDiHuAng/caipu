@@ -1,0 +1,296 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-zha-ouhe",
+  "name": {
+    "zh": "湘式炸藕盒",
+    "en": "Hunan Fried Lotus Root Sandwiches"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "snack"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 45,
+    "cook_min": 22,
+    "total_min": 67
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "salty",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "莲藕",
+          "name_en": "lotus root",
+          "amount": 500,
+          "unit": "g",
+          "note": "选粗细均匀的脆藕，切夹刀片",
+          "optional": false
+        },
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 300,
+          "unit": "g",
+          "note": "去皮，肥三瘦七",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "面粉",
+          "name_en": "all-purpose flour",
+          "amount": 100,
+          "unit": "g",
+          "note": "调面糊",
+          "optional": false
+        },
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 50,
+          "unit": "g",
+          "note": "约一枚，增加酥脆",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 15,
+          "unit": "ml",
+          "note": "调馅",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 10,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 350,
+          "unit": "ml",
+          "note": "炸制用",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 120,
+          "unit": "ml",
+          "note": "调面糊",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "漏勺",
+    "刀",
+    "砧板",
+    "碗",
+    "筷子"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "五花肉去皮切成小块，用刀剁成粗粒，剁到能抱团又不发黏。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "手工剁的保留颗粒感，机器打太细会发柴。",
+      "visual_cue": "肉粒均匀，抓一把略带黏性"
+    },
+    {
+      "n": 2,
+      "text": "肉粒里加小葱末、姜末、盐、生抽、料酒和白胡椒，顺一个方向搅上劲。",
+      "time_min": 6,
+      "heat": "无火",
+      "tip": "顺一个方向搅，肉糜才抱团，反着搅会出水。",
+      "visual_cue": "肉糜发黏，挑起来能整团挂住"
+    },
+    {
+      "n": 3,
+      "text": "莲藕削皮切成半厘米厚的夹刀片，第一刀不断第二刀切断。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "片要薄而匀，太厚夹生，太薄一填就断。",
+      "visual_cue": "藕夹张开，形似翻开的书页"
+    },
+    {
+      "n": 4,
+      "text": "把肉糜填进藕夹，抹平两面，轻压让馅料和藕片贴紧。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "馅别塞太满，炸的时候受热会顶开藕片。",
+      "visual_cue": "藕夹饱满，边缘齐整不露馅"
+    },
+    {
+      "n": 5,
+      "text": "面粉加鸡蛋和清水调成糊，搅到能挂住筷子缓缓滴落。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "糊太稠外壳厚，太稀挂不住藕片会掉渣。",
+      "visual_cue": "面糊顺滑，看不见干粉疙瘩"
+    },
+    {
+      "n": 6,
+      "text": "炒锅倒植物油烧到六成热，藕夹逐个裹上面糊下锅。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "下锅前抖掉多余面糊，免得锅里结成硬块。",
+      "visual_cue": "油面翻花，藕夹浮起慢慢打转"
+    },
+    {
+      "n": 7,
+      "text": "中火炸四分钟，炸到外壳定型发浅黄，用漏勺捞出。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "第一遍只求定型，颜色浅黄就捞，别求上色。",
+      "visual_cue": "外壳浅黄，形状挺立不发塌"
+    },
+    {
+      "n": 8,
+      "text": "油温升到八成热，把藕夹回锅复炸一分钟逼出油分。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "复炸要用大火快炸，久炸肉糜会老、藕片发软。",
+      "visual_cue": "外壳金黄，敲一下有脆响声"
+    },
+    {
+      "n": 9,
+      "text": "捞出沥油，趁热撒盐和一小撮白胡椒，摆盘上桌。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "趁热撒盐才挂得住，凉了盐粒全掉在盘底。",
+      "visual_cue": "表面干爽，看不见浮油渗出"
+    }
+  ],
+  "tips": [
+    "藕片切好泡在清水里，加几滴白醋，防氧化发黑，也让藕片更脆。",
+    "面糊里加鸡蛋能增加酥感，但别加太多，面糊太稠外壳会又厚又硬。",
+    "复炸这一步不能省，第一次炸只定型，第二次大火一逼，外壳才真正酥脆不回软。",
+    "炸好的藕盒立着放而不是平摊，底部不闷油，放十分钟外壳还是脆的。"
+  ],
+  "common_mistakes": [
+    "肉糜塞得太满，下锅受热顶开藕片，肉糜散在油里。填七八分满就够。",
+    "只炸一遍就上桌，外壳软塌吸油。要二次复炸才能酥。",
+    "藕片切太薄，夹刀处一填就断。要切成半厘米厚再夹馅。",
+    "油温只有三四成热就下锅，藕盒吸满油。要烧到六成热再下。"
+  ],
+  "substitutions": [
+    {
+      "original": "五花肉",
+      "substitute": "鸡腿肉",
+      "ratio": "300克:300克",
+      "note": "脂肪少更清爽，需多加五毫升油防柴。"
+    },
+    {
+      "original": "面粉",
+      "substitute": "红薯淀粉",
+      "ratio": "100克:90克",
+      "note": "外壳更薄更脆，凉了也不易回软。"
+    }
+  ],
+  "variations": [
+    "在肉糜里加一勺剁椒，辣味渗进藕孔，是湘味更足的做法。",
+    "把莲藕换成茄子夹肉，做成炸茄盒，质地更软，适合配番茄酱。",
+    "面糊里加一勺白芝麻，炸出来外壳带芝麻香，颜色也更好看。"
+  ],
+  "serving_suggestion": "竹篮垫上吸油纸，藕盒金黄堆叠，咬开能看到藕孔里塞满肉馅，热气带着肉香扑出来。外皮咔嚓作响，藕片脆、肉馅嫩，一脆一软很过瘾。",
+  "storage": "冷藏可放两天，复热用空气炸锅一百八十度烤五分钟，或回锅复炸三十秒。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 582,
+    "protein_g": 22,
+    "fat_g": 38,
+    "carbs_g": 36,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free"
+  ],
+  "food_safety_notes": [
+    "藕盒须炸至肉馅完全熟透、中心温度达到七十度以上，不要吃半生的肉馅。",
+    "油炸时油温控制在六成左右，藕盒下锅后不要立刻翻动，避免热油溅出伤人。"
+  ],
+  "origin_note": "湖南人过年炸年货，藕盒是必炸的一样。湖区藕多，肉贵，用两片脆藕夹一小团肉馅，裹上薄糊下锅炸，一篮藕盒能从腊月吃到正月。这道小吃在长沙、益阳一带的早点摊上也常年能见到。",
+  "tags": [
+    "湖南",
+    "小吃",
+    "藕盒",
+    "油炸",
+    "年节"
+  ],
+  "related_ids": [
+    "hunan-xiangjian-doufu",
+    "hunan-hongshao-zhuti",
+    "hunan-meicai-kourou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

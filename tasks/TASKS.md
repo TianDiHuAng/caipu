@@ -2,9 +2,9 @@
 
 > 本文件由 `scripts/sync-tasks.mjs` 自动生成，请勿直接编辑。
 > 工程任务源：`tasks/engineering.json`；内容任务源：`tasks/progress.json`。
-> 生成时间：2026-11-28T09:57:37.473Z
+> 生成时间：2026-11-28T10:48:57.780Z
 
-**总览**：工程任务 49/53；菜谱内容 2937/3274（89.7%），共 659 个「菜系 × 品类」格子，59 个菜系。
+**总览**：工程任务 49/53；菜谱内容 2943/3274（89.9%），共 659 个「菜系 × 品类」格子，59 个菜系。
 
 ## 阶段 0 文档与任务清单
 
@@ -83,7 +83,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 ## 阶段 4 内容批量生产（按 progress.json 格子推进，明细见下）
 
-### 中国菜系（1285/1339）
+### 中国菜系（1291/1339）
 
 <details><summary><b>川菜 sichuan</b> — A 级，132/107</summary>
 
@@ -200,7 +200,7 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 
 </details>
 
-<details><summary><b>湘菜 hunan</b> — A 级，106/107</summary>
+<details><summary><b>湘菜 hunan</b> — A 级，112/107</summary>
 
 - [x] `P4-hunan/main-meat` 主菜·肉（Meat Main）目标 15，已完成 15
 - [x] `P4-hunan/main-poultry` 主菜·禽（Poultry Main）目标 15，已完成 15
@@ -211,11 +211,11 @@ _内容任务见下方「阶段 4」章节，每个格子一行。_
 - [x] `P4-hunan/main-tofu` 主菜·豆制品（Tofu Main）目标 8，已完成 8
 - [ ] `P4-hunan/staple-noodle` 主食·面（Noodle Dish）目标 8，已完成 5
 - [ ] `P4-hunan/staple-rice` 主食·饭（Rice Dish）目标 8，已完成 5
-- [x] `P4-hunan/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 2
-- [x] `P4-hunan/cold-dish` 凉菜（Cold Dish）目标 0，已完成 2
-- [x] `P4-hunan/soup` 汤羹（Soup）目标 0，已完成 2
+- [x] `P4-hunan/main-seafood` 主菜·海鲜（Seafood Main）目标 0，已完成 4
+- [x] `P4-hunan/cold-dish` 凉菜（Cold Dish）目标 0，已完成 3
+- [x] `P4-hunan/soup` 汤羹（Soup）目标 0，已完成 3
+- [x] `P4-hunan/snack` 小吃（Street Food）目标 0，已完成 3
 - [x] `P4-hunan/hotpot-bbq` 火锅与烧烤（Hotpot & BBQ）目标 0，已完成 1
-- [x] `P4-hunan/snack` 小吃（Street Food）目标 0，已完成 1
 
 </details>
 

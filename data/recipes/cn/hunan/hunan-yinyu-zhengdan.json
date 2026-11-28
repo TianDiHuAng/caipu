@@ -1,0 +1,269 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-yinyu-zhengdan",
+  "name": {
+    "zh": "湘式银鱼蒸蛋",
+    "en": "Steamed Egg Custard with Whitebait"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 32,
+    "cook_min": 18,
+    "total_min": 50
+  },
+  "servings": 2,
+  "flavor": [
+    "savory",
+    "umami",
+    "salty"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "鸡蛋",
+          "name_en": "egg",
+          "amount": 150,
+          "unit": "g",
+          "note": "约三枚，提前回温",
+          "optional": false
+        },
+        {
+          "name": "银鱼",
+          "name_en": "whitebait",
+          "amount": 120,
+          "unit": "g",
+          "note": "干制小鱼，条身完整",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 15,
+          "unit": "g",
+          "note": "切葱花",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 8,
+          "unit": "g",
+          "note": "切细丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调蛋液",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "淋面",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 5,
+          "unit": "ml",
+          "note": "泡鱼去腥",
+          "optional": false
+        },
+        {
+          "name": "香油",
+          "name_en": "sesame oil",
+          "amount": 5,
+          "unit": "ml",
+          "note": "增香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 320,
+          "unit": "ml",
+          "note": "兑蛋液",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "蒸锅",
+    "浅盘",
+    "碗",
+    "筷子",
+    "筛网",
+    "保鲜膜"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "银鱼放进温水里泡十分钟，泡到条身舒展发软，捞出沥干水分。",
+      "time_min": 12,
+      "heat": "无火",
+      "tip": "泡鱼的水带腥味，别留着当高汤兑进蛋液。",
+      "visual_cue": "银鱼条身舒展，摸上去发软"
+    },
+    {
+      "n": 2,
+      "text": "银鱼加料酒和两片姜抓匀，静置五分钟去掉腥味。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "抓过料酒后再冲一遍水，腥味才去得干净。",
+      "visual_cue": "银鱼表面微湿，手感不黏腻"
+    },
+    {
+      "n": 3,
+      "text": "鸡蛋磕进大碗打散，加盐和清水搅匀，搅到蛋黄蛋白完全融合。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "蛋液和水比例约一比二，水多蛋嫩但容易散。",
+      "visual_cue": "蛋液颜色均匀，不见絮状物"
+    },
+    {
+      "n": 4,
+      "text": "蛋液过筛两遍，滤掉泡沫和系带，静置三分钟消掉表面气泡。",
+      "time_min": 5,
+      "heat": "无火",
+      "tip": "过筛这步别省，蒸出来表面才会像镜面一样平。",
+      "visual_cue": "蛋液清亮，表面看不见气泡"
+    },
+    {
+      "n": 5,
+      "text": "银鱼铺在浅盘底，缓缓倒入蛋液，盘面盖一层保鲜膜扎几个小孔。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "膜上扎孔排气，不盖膜水汽滴落会砸出麻点。",
+      "visual_cue": "银鱼沉底，分布均匀不重叠"
+    },
+    {
+      "n": 6,
+      "text": "蒸锅水开后放进浅盘，中火蒸十分钟，关火再焖两分钟。",
+      "time_min": 12,
+      "heat": "中火",
+      "tip": "全程用中火，火太猛蛋面会鼓成蜂窝状。",
+      "visual_cue": "蛋面已凝固，轻晃不再流动"
+    },
+    {
+      "n": 7,
+      "text": "取出撕掉保鲜膜，沿盘边淋生抽和香油，撒小葱和姜丝。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "生抽沿盘边淋，直接浇中间会把蛋面冲花。",
+      "visual_cue": "表面光洁，酱色只挂在盘边"
+    },
+    {
+      "n": 8,
+      "text": "趁热上桌，用勺子从边上挖，蛋羹连着银鱼一起入口。",
+      "time_min": 2,
+      "heat": "无火",
+      "tip": "凉了蛋羹会出水发涩，趁热吃口感最嫩。",
+      "visual_cue": "挖开断面细密，看不到气孔"
+    }
+  ],
+  "tips": [
+    "蛋液兑水用温水，水温摸着不烫手最好，凉水蒸出来容易起蜂窝。",
+    "银鱼本身带咸味，盐要比平时蒸蛋少放，淋生抽前先尝一口蛋液咸淡。",
+    "蒸的时候在锅盖上包一块干净布，水汽不会直接滴回盘里，蛋面更平整。",
+    "想让蛋羹更滑，可以把蛋液过筛后静置五分钟，让泡沫自然消掉再上锅。"
+  ],
+  "common_mistakes": [
+    "冷水上锅蒸，蛋液内外受热不匀，外面老了里面还是稀的。要水开后再放盘。",
+    "大火猛蒸，蛋面鼓成大蜂窝，口感发老。全程用中火，关火再焖两分钟。",
+    "不盖保鲜膜，水汽滴落砸出坑洼，表面全是麻点。要盖膜并扎孔排气。",
+    "银鱼不泡软直接铺盘，蒸出来发硬有腥味。温水泡十分钟再用料酒抓洗。"
+  ],
+  "substitutions": [
+    {
+      "original": "银鱼",
+      "substitute": "虾皮",
+      "ratio": "120克:40克",
+      "note": "咸味更重，盐量要相应减少一半。"
+    },
+    {
+      "original": "鸡蛋",
+      "substitute": "鸭蛋",
+      "ratio": "150克:160克",
+      "note": "蛋香更浓，蒸制时间需延长一分钟。"
+    }
+  ],
+  "variations": [
+    "加一勺剁椒铺在蛋面上同蒸，就是湘味更浓的剁椒版，辣香配蛋香很下饭。",
+    "把银鱼换成切碎的皮蛋丁，做成皮蛋蒸蛋，口感更弹，老人小孩都爱吃。",
+    "蛋液里兑一半鸡汤，鲜味更足，淋面只放香油不放生抽也够味。"
+  ],
+  "serving_suggestion": "白瓷浅盘里蛋羹平滑如镜，银鱼丝丝藏在其中，淋上一圈酱色生抽和几点香油，撒翠绿葱花。挖一勺滑嫩无孔，入口带着淡淡鱼鲜。",
+  "storage": "冷藏可放一天，复热上锅蒸五分钟，别用微波炉，蛋羹会起孔变老。",
+  "nutrition_estimate": {
+    "basis": "按两人份估算",
+    "calories_kcal": 268,
+    "protein_g": 26,
+    "fat_g": 14,
+    "carbs_g": 6,
+    "sodium_mg": 720,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "egg",
+    "fish",
+    "gluten",
+    "sesame",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein",
+    "pescatarian",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "鸡蛋须蒸至完全凝固、中心温度达到七十度以上，不要吃半熟流心的蛋羹。",
+    "银鱼为水产制品，过敏人群慎食；成品冷藏不超过一天，复热须彻底加热至烫口。"
+  ],
+  "origin_note": "洞庭湖一带盛产银鱼，渔民把小鱼晒干存起来，随手抓一把蒸进蛋羹里，就是湖南人家常桌上最省事的一道鲜。银鱼细长透明，蒸熟后丝丝嵌在蛋里，被本地人叫作蛋里的银丝。",
+  "tags": [
+    "湖南",
+    "家常",
+    "蒸蛋",
+    "银鱼",
+    "快手"
+  ],
+  "related_ids": [
+    "hunan-duojiao-zhengdan",
+    "hunan-zheng-shuidan",
+    "duojiao-yutou"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

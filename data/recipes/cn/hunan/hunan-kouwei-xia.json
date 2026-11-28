@@ -1,0 +1,346 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-kouwei-xia",
+  "name": {
+    "zh": "长沙口味虾",
+    "en": "Changsha Spicy Crayfish"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-seafood"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 72,
+    "cook_min": 30,
+    "total_min": 102
+  },
+  "servings": 3,
+  "flavor": [
+    "spicy",
+    "salty",
+    "savory",
+    "fragrant"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "小龙虾",
+          "name_en": "crayfish",
+          "amount": 1200,
+          "unit": "g",
+          "note": "选外壳硬亮的鲜活个体",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 50,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "小米辣",
+          "name_en": "bird's eye chili",
+          "amount": 30,
+          "unit": "g",
+          "note": "切圈",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 15,
+          "unit": "g",
+          "note": "剪成两段",
+          "optional": false
+        },
+        {
+          "name": "紫苏",
+          "name_en": "perilla",
+          "amount": 20,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 30,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 30,
+          "unit": "g",
+          "note": "剁细",
+          "optional": false
+        },
+        {
+          "name": "花椒",
+          "name_en": "Sichuan peppercorn",
+          "amount": 6,
+          "unit": "g",
+          "note": "青花椒更香",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 25,
+          "unit": "ml",
+          "note": "调咸鲜",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 5,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 10,
+          "unit": "g",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 120,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "香醋",
+          "name_en": "black vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "出锅前提鲜",
+          "optional": false
+        },
+        {
+          "name": "白胡椒",
+          "name_en": "white pepper",
+          "amount": 3,
+          "unit": "g",
+          "note": "去腥增香",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 300,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "刷子",
+    "剪刀",
+    "炒锅",
+    "锅铲",
+    "盆",
+    "漏盆"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "小龙虾放进清水里养半小时，中途换两次水，让它把泥沙吐干净。",
+      "time_min": 30,
+      "heat": "无火",
+      "tip": "水里滴几滴香油，吐沙会更快，水浑了就要换掉。",
+      "visual_cue": "泡小龙虾的水由浑转清，盆底沉下细沙"
+    },
+    {
+      "n": 2,
+      "text": "用刷子把小龙虾外壳和腹部刷洗干净，捏住尾部中间那片拧出肠线。",
+      "time_min": 25,
+      "heat": "无火",
+      "tip": "肠线一定要抽掉，留着会有明显的泥腥味。",
+      "visual_cue": "外壳红亮，腹部白净不见泥沙"
+    },
+    {
+      "n": 3,
+      "text": "剪刀剪去头尖前端三分之一，挑出沙袋，保留头里的黄色膏体。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "剪口别太深，膏体冲掉了就少了一半鲜味。",
+      "visual_cue": "剪口整齐，黄色膏体完整饱满"
+    },
+    {
+      "n": 4,
+      "text": "姜切片，大蒜拍碎，小米辣切圈，干辣椒剪段，紫苏与小葱分开盛放。",
+      "time_min": 8,
+      "heat": "无火",
+      "tip": "紫苏要单独放，早下锅香气跑光只剩苦味。",
+      "visual_cue": "配料分碟摆好，红绿层次分明"
+    },
+    {
+      "n": 5,
+      "text": "炒锅烧热倒植物油，中火下花椒炸香后捞出，再下姜片大蒜和干辣椒炒半分钟。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "花椒炸到颜色变深就捞出，炸黑了整锅发苦。",
+      "visual_cue": "油面起小泡，香味直冲鼻腔"
+    },
+    {
+      "n": 6,
+      "text": "转大火下小龙虾翻炒三分钟，外壳变红后沿锅边淋入料酒。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "要炒到外壳全红再下调料，红不透就很难入味。",
+      "visual_cue": "外壳通红，表面油光发亮诱人"
+    },
+    {
+      "n": 7,
+      "text": "加豆瓣酱、生抽、老抽、白糖和盐翻匀，倒清水没过一半，盖盖中火焖八分钟。",
+      "time_min": 10,
+      "heat": "中火",
+      "tip": "水别加太多，焖到只剩三分之一汤汁最入味。",
+      "visual_cue": "汤汁红亮，锅边不停咕嘟冒泡"
+    },
+    {
+      "n": 8,
+      "text": "开盖转大火收汁三分钟，撒小米辣和紫苏翻炒均匀。",
+      "time_min": 5,
+      "heat": "大火",
+      "tip": "紫苏和小米辣后放，久煮辣味发闷香气也散。",
+      "visual_cue": "汤汁挂壳，紫苏叶已经变软"
+    },
+    {
+      "n": 9,
+      "text": "淋香醋和白胡椒翻两下关火，撒小葱段装盆上桌。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "出锅前那点醋提鲜，放早了酸味早就挥发掉。",
+      "visual_cue": "盆底留着一层红亮的油汤汁"
+    }
+  ],
+  "tips": [
+    "小龙虾一定要买鲜活的，死虾肉质松散还有异味，下锅前用手碰一下，会动的才挑进盆里。",
+    "抽肠线时捏住尾部中间那片尾鳍，轻轻一拧一拉，整条肠线就能完整带出来。",
+    "焖煮时间不要缩短，壳红肉熟才安全，靠最后收汁挂味，不要靠延长泡汤来入味。",
+    "吃的时候先吮一口壳上的汤汁，再剥壳取肉，配冰啤酒是长沙夜宵摊的标准吃法。"
+  ],
+  "common_mistakes": [
+    "小龙虾只冲水不刷洗，壳缝里的泥沙全进了汤汁。要用刷子逐只刷洗腹部。",
+    "花椒和干辣椒大火久炸，油色发黑带苦味。要中火炸香立刻捞出或转小火。",
+    "紫苏一开始就下锅，香气全散还发苦。要留到收汁阶段最后撒入。",
+    "水一次加得太满，收汁收不干，汤汁寡淡。加到没过食材一半即可。"
+  ],
+  "substitutions": [
+    {
+      "original": "小龙虾",
+      "substitute": "基围虾",
+      "ratio": "1200克:900克",
+      "note": "肉质更紧实，焖煮时间可缩短三分钟。"
+    },
+    {
+      "original": "紫苏",
+      "substitute": "九层塔",
+      "ratio": "20克:15克",
+      "note": "香气更甜，缺少紫苏特有的清苦味。"
+    }
+  ],
+  "variations": [
+    "把小米辣和干辣椒加倍，做成重辣版本，配冰镇酸梅汤更解辣。",
+    "收汁前加一把切段的藕条同焖，藕条吸饱汤汁，比小龙虾还抢手。",
+    "换成蒜香路线，大蒜加到一百克，做成蒜蓉焖法，辣味减半更适合小孩。"
+  ],
+  "serving_suggestion": "大红盆端上桌，小龙虾红亮油润，汤汁挂满外壳，盆底一层红油。剥壳后蘸一点盆里的汤汁，麻辣鲜香直冲鼻腔。",
+  "storage": "冷藏可放一天，复热时加两勺清水小火翻热五分钟，别用微波炉，壳会变硬。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 486,
+    "protein_g": 39,
+    "fat_g": 27,
+    "carbs_g": 16,
+    "sodium_mg": 1240,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "crustacean",
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "小龙虾须炒焖至外壳通红、肉质紧实，中心温度达到熟透标准，不要吃半熟或生腌制品。",
+    "小龙虾属甲壳类，过敏人群须避免食用；成品冷藏不超过一天，复热须彻底加热。"
+  ],
+  "origin_note": "口味虾是长沙夜宵摊的头牌，九十年代从南门口一带的小摊兴起，一盆红亮的辣汤配上手套和啤酒，成了长沙人夏天的固定节目。本地人吃的时候讲究先吮壳再剥肉，最后用剩下的汤汁拌面。",
+  "tags": [
+    "湖南",
+    "长沙",
+    "夜宵",
+    "小龙虾",
+    "香辣"
+  ],
+  "related_ids": [
+    "duojiao-yutou",
+    "hunan-xiangla-yukuai",
+    "hunan-xiangla-feichang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
