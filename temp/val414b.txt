@@ -1,0 +1,10 @@
+﻿校验范围: 2812 个文件（成功解析 2812）
+分类体系: 59 菜系 / 26 品类；食材词典: 494 项
+
+[问题文件] 1 个（schema 失败 1，规则失败 0）：
+
+· data/recipes/intl/russian/russian-fried-eggs-tomato.json (russian-fried-eggs-tomato) [SCHEMA]
+   - $.steps[6]: 出现未声明字段 "t"
+   - $: 出现未声明字段 "serving"
+
+❌ 未通过：1 类问题，累计 2 条

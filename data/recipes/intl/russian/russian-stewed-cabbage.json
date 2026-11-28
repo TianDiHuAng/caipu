@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "russian-stewed-cabbage",
+  "name": {
+    "zh": "俄式炖卷心菜",
+    "en": "Tushenaya Kapusta"
+  },
+  "cuisine": {
+    "region": "intl",
+    "style": "russian"
+  },
+  "category": [
+    "main-vegetable"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 14,
+    "cook_min": 40,
+    "total_min": 54
+  },
+  "servings": 3,
+  "flavor": [
+    "savory",
+    "sweet",
+    "sour"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "卷心菜",
+          "name_en": "cabbage",
+          "amount": 700,
+          "unit": "g",
+          "note": "切粗丝",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "洋葱",
+          "name_en": "onion",
+          "amount": 120,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "胡萝卜",
+          "name_en": "carrot",
+          "amount": 100,
+          "unit": "g",
+          "note": "擦丝",
+          "optional": false
+        },
+        {
+          "name": "番茄",
+          "name_en": "tomato",
+          "amount": 150,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "黄油",
+          "name_en": "butter",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒料",
+          "optional": false
+        },
+        {
+          "name": "白糖",
+          "name_en": "sugar",
+          "amount": 8,
+          "unit": "g",
+          "note": "提甜",
+          "optional": false
+        },
+        {
+          "name": "白醋",
+          "name_en": "white vinegar",
+          "amount": 10,
+          "unit": "ml",
+          "note": "保色",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 4,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "黑胡椒",
+          "name_en": "black pepper",
+          "amount": 2,
+          "unit": "g",
+          "note": "现磨",
+          "optional": false
+        },
+        {
+          "name": "莳萝",
+          "name_en": "dill",
+          "amount": 8,
+          "unit": "g",
+          "note": "切碎",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "深锅",
+    "刀",
+    "砧板",
+    "木勺",
+    "锅盖"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "卷心菜去掉硬芯切成半厘米宽的粗丝，洋葱切丝，胡萝卜擦成细丝。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "切粗丝炖完还有口感，切细丝会烂成一锅糊。",
+      "visual_cue": "菜丝宽窄一致，堆成小山"
+    },
+    {
+      "n": 2,
+      "text": "深锅小火化开黄油，下洋葱丝和胡萝卜丝炒五分钟至软塌出甜香。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "胡萝卜擦丝更容易炒出橙红色的油，颜色更漂亮。",
+      "visual_cue": "锅底油泛橙红，洋葱透明"
+    },
+    {
+      "n": 3,
+      "text": "倒入番茄块炒三分钟，炒到番茄塌软出汁，锅底形成一层红色汤底。",
+      "time_min": 3,
+      "heat": "中火",
+      "tip": "番茄炒出汁再下菜，味道才融得进去。",
+      "visual_cue": "番茄化开，锅底有红色汤汁"
+    },
+    {
+      "n": 4,
+      "text": "把卷心菜丝全部倒进锅里，转中火翻炒五分钟，炒到体积缩小一半。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "先炒软再加盖炖，出来才不水汪汪，味也浓。",
+      "visual_cue": "菜丝体积缩半，颜色变透"
+    },
+    {
+      "n": 5,
+      "text": "加盐、白糖、白醋和黑胡椒翻匀，倒入两勺清水，盖上锅盖。",
+      "time_min": 2,
+      "heat": "中火",
+      "tip": "一点白醋能保住卷心菜的浅绿色，不发黄发暗。",
+      "visual_cue": "调味均匀，锅底有浅汤"
+    },
+    {
+      "n": 6,
+      "text": "转小火炖二十分钟，中途开盖翻两次，让菜丝均匀受热。",
+      "time_min": 21,
+      "heat": "小火",
+      "tip": "中途翻两次就够，翻太勤菜丝会碎，卖相变差。",
+      "visual_cue": "菜丝软透透明，锅底汤汁收薄"
+    },
+    {
+      "n": 7,
+      "text": "开盖转大火收汁三分钟，撒莳萝碎翻匀，连锅端上桌。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "收汁到锅底只剩一层润就好，别收干。",
+      "visual_cue": "菜丝油亮，锅底留薄汁"
+    }
+  ],
+  "tips": [
+    "卷心菜切粗丝，炖完还有嚼感不会成糊。",
+    "胡萝卜擦丝炒，锅里的油会染成漂亮的橙色。",
+    "番茄先炒出汁再下菜，整锅的底味才够厚实。",
+    "一点白醋能让卷心菜保持浅绿不发黄。"
+  ],
+  "common_mistakes": [
+    "卷心菜切得像碎末，炖完只剩一锅菜泥。",
+    "菜丝没炒软就加水，炖出来汤多味淡。",
+    "全程大火猛炖不转小火，锅底很快结一层焦。",
+    "一滴醋都不加，卷心菜炖完颜色发黄发暗。"
+  ],
+  "substitutions": [
+    {
+      "original": "黄油",
+      "substitute": "植物油",
+      "ratio": "30克:25毫升",
+      "note": "更清淡，也适合全素饮食。"
+    },
+    {
+      "original": "白醋",
+      "substitute": "柠檬",
+      "ratio": "10毫升:四分之一柠檬的汁",
+      "note": "酸味更清，香气更好。"
+    }
+  ],
+  "variations": [
+    "加一把泡软的蘑菇同炖，鲜味明显提升。",
+    "放两片酸黄瓜连汁一起炖，酸香更突出。",
+    "最后加一勺酸奶油拌开，口感更圆润。"
+  ],
+  "serving_suggestion": "连锅端上桌，配煎香肠、烤鸡或荞麦饭，冬天吃最能暖胃。",
+  "storage": "冷藏可放三天，冷冻可放一个月；复热用深锅小火加两勺清水慢炖。",
+  "nutrition_estimate": {
+    "basis": "按三人份估算",
+    "calories_kcal": 176,
+    "protein_g": 4,
+    "fat_g": 11,
+    "carbs_g": 16,
+    "sodium_mg": 640,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "milk"
+  ],
+  "diet_tags": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "food_safety_notes": [
+    "炖菜须彻底加热至滚开，冷藏不超过三天，复热后不要反复冷藏。"
+  ],
+  "origin_note": "俄式炖卷心菜是俄罗斯人过冬的基本菜，卷心菜切粗丝，和洋葱、胡萝卜、番茄一起用黄油炒软，再加一点糖和醋小火慢炖。炖到菜丝透明发甜，汤汁收薄，配什么都合适，也是俄式饺子最经典的配菜之一。",
+  "tags": [
+    "俄罗斯",
+    "蔬菜",
+    "卷心菜",
+    "炖菜"
+  ],
+  "related_ids": [
+    "russian-shchi",
+    "borscht",
+    "russian-vinaigrette"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

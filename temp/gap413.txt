@@ -1,9 +1,0 @@
-keys:['schemaVersion', 'regions', 'categories', 'flavors', 'dietTags', 'allergens', 'targetRules', 'cuisines']
-sample hunan:{"slug": "hunan", "zh": "湘菜", "en": "Hunan", "region": "cn", "tier": "A", "core": ["main-meat", "main-poultry", "main-vegetable", "appetizer", "fermented"], "unsupported": ["bakery", "salad", "staple-congee", "drink", "kids"], "intro": "香辣见长、咸鲜微酸，善用腊味、剁椒与烟熏，重油重色但讲究干香不出水。"}
-hunan total=0 {}
-beijing total=0 {}
-Traceback (most recent call last):
-  File "C:\Users\Administrator\AppData\Roaming\Tencent\Marvis\User\3ADEED6C492EB53F77956396BC66C875\workspace\conv_accc016fdbac43a9bb4fbc2bb8f923e5\temp\.python-scripts\80e4dd8f-1b13-4a4d-aa16-552ee1340cb7.py", line 16, in <module>
-    cnt[j["category"]]=cnt.get(j["category"],0)+1
-                       ^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: unhashable type: 'list'

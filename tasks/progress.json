@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T16:46:14.372Z",
+  "generatedAt": "2026-11-28T17:30:10.768Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 3050,
-    "coverage": 0.931582162492364
+    "actual": 3058,
+    "coverage": 0.9340256566890653
   },
   "regions": {
     "cn": [
@@ -7002,7 +7002,7 @@
         "en": "Russian",
         "tier": "B",
         "target": 38,
-        "actual": 26,
+        "actual": 34,
         "cells": [
           {
             "category": "soup",
@@ -7033,9 +7033,13 @@
             "category": "salad",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 6,
             "ids": [
+              "russian-beet-walnut-salad",
+              "russian-cabbage-carrot-salad",
+              "russian-egg-cheese-salad",
               "russian-olivier-salad",
+              "russian-stolichny-salad",
               "russian-vinaigrette"
             ]
           },
@@ -7065,15 +7069,21 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "russian-baked-beet",
+              "russian-stewed-cabbage"
+            ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 2,
+            "ids": [
+              "russian-fried-eggs-tomato",
+              "russian-omelet-milk"
+            ]
           },
           {
             "category": "dessert",
