@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T05:21:46.154Z",
+  "generatedAt": "2026-11-28T05:34:49.287Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2843,
-    "coverage": 0.8683567501527184
+    "actual": 2850,
+    "coverage": 0.870494807574832
   },
   "regions": {
     "cn": [
@@ -1458,7 +1458,7 @@
         "en": "Hunan",
         "tier": "A",
         "target": 107,
-        "actual": 99,
+        "actual": 106,
         "cells": [
           {
             "category": "main-meat",
@@ -1487,7 +1487,7 @@
             "category": "main-poultry",
             "kind": "core",
             "target": 15,
-            "actual": 14,
+            "actual": 15,
             "ids": [
               "dong-an-ji",
               "dongan-ziji",
@@ -1500,6 +1500,7 @@
               "hunan-mala-ziji",
               "hunan-yutou-shao-ya",
               "hunan-zhijiang-ya",
+              "hunan-zisu-men-ji",
               "xiang-pijiu-ya",
               "xiangxi-tufei-ya",
               "yongzhou-xue-ya"
@@ -1532,11 +1533,12 @@
             "category": "appetizer",
             "kind": "core",
             "target": 15,
-            "actual": 14,
+            "actual": 15,
             "ids": [
               "hunan-jiang-luobo",
               "hunan-liangban-doufupi",
               "hunan-liangban-fuzhu",
+              "hunan-liangban-haidai",
               "hunan-liangban-huanggu",
               "hunan-liangban-jisi",
               "hunan-liangban-muer",
@@ -1554,12 +1556,13 @@
             "category": "fermented",
             "kind": "core",
             "target": 15,
-            "actual": 11,
+            "actual": 12,
             "ids": [
               "duo-lajiao",
               "hunan-doushi-lajiao-jiang",
               "hunan-duojiao-zheng-luyu",
               "hunan-duojiao",
+              "hunan-jiang-huanggua",
               "hunan-mei-doufu",
               "hunan-paijiao-chaorou",
               "hunan-suan-doujiao",
@@ -1573,12 +1576,13 @@
             "category": "main-egg",
             "kind": "ext",
             "target": 8,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "hunan-congyou-chaodan",
               "hunan-duojiao-pidan",
               "hunan-duojiao-zhengdan",
               "hunan-fanqie-chaodan",
+              "hunan-jianjiao-chaodan",
               "hunan-muer-chaodan",
               "hunan-xiaomila-chaodan",
               "hunan-zheng-shuidan"
@@ -1588,11 +1592,12 @@
             "category": "main-tofu",
             "kind": "ext",
             "target": 8,
-            "actual": 7,
+            "actual": 8,
             "ids": [
               "hunan-doushi-shao-doufu",
               "hunan-duojiao-zheng-doufu",
               "hunan-jiacang-doufu",
+              "hunan-jiachang-doufu",
               "hunan-lajiao-chao-doufu",
               "hunan-qingjiao-jian-doufu",
               "hunan-xiangjian-doufu",
@@ -1603,10 +1608,11 @@
             "category": "staple-noodle",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "hunan-duojiao-banmian",
               "hunan-larou-chaomian",
+              "hunan-niurou-mian",
               "hunan-suanla-fensi",
               "nanchang-banfen"
             ]
@@ -1615,11 +1621,12 @@
             "category": "staple-rice",
             "kind": "ext",
             "target": 8,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "hunan-doushi-chaofan",
               "hunan-duojiao-chaofan",
               "hunan-larou-chaofan",
+              "hunan-larou-tudou-menfan",
               "hunan-nangua-baofan"
             ]
           },

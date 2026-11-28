@@ -1,0 +1,302 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-niurou-mian",
+  "name": {
+    "zh": "湘式牛里脊面",
+    "en": "Hunan Beef Noodle Soup"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-noodle"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 30,
+    "cook_min": 29,
+    "total_min": 59
+  },
+  "servings": 4,
+  "flavor": [
+    "spicy",
+    "savory",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "面条",
+          "name_en": "wheat noodles",
+          "amount": 500,
+          "unit": "g",
+          "note": "干面条",
+          "optional": false
+        },
+        {
+          "name": "牛里脊",
+          "name_en": "beef tenderloin",
+          "amount": 400,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 25,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 25,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "香菜",
+          "name_en": "cilantro",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "小白菜",
+          "name_en": "bok choy",
+          "amount": 200,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 20,
+          "unit": "g",
+          "note": "底味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 6,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 15,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 6,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 40,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 1500,
+          "unit": "ml",
+          "note": "汤底",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "汤锅",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "漏勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "牛里脊逆纹切成薄片，加料酒、生抽与少量生粉抓匀腌十分钟。",
+      "time_min": 14,
+      "heat": "无火",
+      "tip": "逆着纹理切，牛里脊才咬得动不塞牙。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "肉片薄而透光，表面带薄浆"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油，下姜片、蒜末、干辣椒与八角炒香，加豆瓣酱炒红油。",
+      "time_min": 5,
+      "heat": "中火",
+      "tip": "豆瓣酱一定要炒出红油，汤底才够香。做之前把料备齐，下锅后就没空切配了。",
+      "visual_cue": "锅底浮起红油，香料气味浓"
+    },
+    {
+      "n": 3,
+      "text": "加清水烧开，放生抽、老抽与盐调味，转小火熬二十分钟成汤底。",
+      "time_min": 25,
+      "heat": "小火",
+      "tip": "汤底多熬一会儿，香料味才融进水里。这几步照顺序来，味道才会一层层叠上去。",
+      "visual_cue": "汤色棕红透亮，表面浮薄油"
+    },
+    {
+      "n": 4,
+      "text": "另起锅烧水，下面条煮到八分熟，捞出过一下热水保持筋道。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "面条八分熟就捞，泡在汤里还会继续熟。",
+      "visual_cue": "面条散开不粘连，掐断中间留白点"
+    },
+    {
+      "n": 5,
+      "text": "汤底转大火，下牛里脊片烫四十秒至变色，再下小白菜烫软。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "牛里脊片一变色就关火，久煮就柴了。调味宁少勿多，出锅前尝一口再补。",
+      "visual_cue": "肉片由红转灰白，边缘微卷"
+    },
+    {
+      "n": 6,
+      "text": "面条装碗浇上汤与牛里脊，撒葱花与香菜，淋一勺红油即可。",
+      "time_min": 3,
+      "heat": "无火",
+      "tip": "碗要先烫热，面条上桌才不结坨。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "碗面油光红亮，葱花翠绿点缀"
+    }
+  ],
+  "tips": [
+    "牛里脊逆纹切薄片，口感才嫩。火候与时间都要盯紧，宁可略短也别过头。",
+    "面条八分熟捞出，泡汤里刚好。做之前把料备齐，下锅后就没空切配了。",
+    "汤底先熬香再下面，比一起煮好喝。这几步照顺序来，味道才会一层层叠上去。",
+    "碗提前烫热，面条不结坨。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "牛里脊顺纹切，怎么煮都咬不动。结果往往一锅好料全被这一步毁掉。",
+    "面条煮到全熟再泡汤，上桌就糊了。很多人就在这里翻车，出菜后才发现。",
+    "汤底香料没炒香就加水，喝起来寡淡。账面上看是小疏忽，入口立刻能尝出来。",
+    "牛里脊下锅后大火久煮，片片发柴。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "牛里脊",
+      "substitute": "牛腱子",
+      "ratio": "400克:400克",
+      "note": "需提前炖一小时再切片。"
+    },
+    {
+      "original": "面条",
+      "substitute": "米粉",
+      "ratio": "500克:500克",
+      "note": "更湘式，米粉煮前先泡软。"
+    }
+  ],
+  "variations": [
+    "加一个煎蛋卧在面上，早餐更顶饱。口味会更厚一些，适合重口的人。",
+    "加一勺剁椒，酸辣味更直接。做法不复杂，家常灶台就能完成。",
+    "换成红烧牛里脊块做浇头，更有存在感。风味走向变了，但步骤基本不用改。"
+  ],
+  "serving_suggestion": "趁热端上桌，先喝一勺汤再拌面，牛里脊嫩、汤头辣，配一碟腌黄瓜条最合适。",
+  "storage": "汤与面分开冷藏可放一天；复热汤须烧沸，面条另煮以免糊软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 628,
+    "protein_g": 38,
+    "fat_g": 18,
+    "carbs_g": 78,
+    "sodium_mg": 1180,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "牛里脊片须烫至完全变色熟透；汤底须烧沸后再浇面。",
+    "成品冷藏不超过一天，复热须加热至汤沸腾。"
+  ],
+  "origin_note": "湘式牛里脊面在湖南街头随处可见，汤底用豆瓣酱和干辣椒熬出红油，牛里脊薄片现烫，面条八分熟就捞。一碗端上来红油浮面、香气冲鼻，湖南人一天常从这碗面开始。",
+  "tags": [
+    "湘菜",
+    "面食",
+    "牛里脊",
+    "汤面"
+  ],
+  "related_ids": [
+    "hunan-duojiao-banmian",
+    "hunan-suanla-fensi",
+    "hunan-jiang-luobo"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

@@ -1,0 +1,287 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-jiachang-doufu",
+  "name": {
+    "zh": "家常豆腐煲",
+    "en": "Hunan Home-style Tofu Casserole"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-tofu"
+  ],
+  "difficulty": 2,
+  "time": {
+    "prep_min": 24,
+    "cook_min": 16,
+    "total_min": 40
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "spicy",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "北豆腐",
+          "name_en": "firm tofu",
+          "amount": 500,
+          "unit": "g",
+          "note": "切厚片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "五花肉",
+          "name_en": "pork belly",
+          "amount": 100,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        },
+        {
+          "name": "青椒",
+          "name_en": "green bell pepper",
+          "amount": 100,
+          "unit": "g",
+          "note": "切块",
+          "optional": false
+        },
+        {
+          "name": "木耳",
+          "name_en": "wood ear mushroom",
+          "amount": 30,
+          "unit": "g",
+          "note": "泡发",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 15,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "豆瓣酱",
+          "name_en": "doubanjiang",
+          "amount": 20,
+          "unit": "g",
+          "note": "底味",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "蚝油",
+          "name_en": "oyster sauce",
+          "amount": 10,
+          "unit": "ml",
+          "note": "提鲜",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 60,
+          "unit": "ml",
+          "note": "煎制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 250,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        },
+        {
+          "name": "玉米淀粉",
+          "name_en": "cornstarch",
+          "amount": 8,
+          "unit": "g",
+          "note": "勾芡",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "平底锅",
+    "砂锅",
+    "刀",
+    "砧板",
+    "碗",
+    "锅铲"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "北豆腐切成两厘米厚的方块，用厨房纸吸掉表面水分。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "表面擦干再煎，才不会粘锅也不爆油。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "豆腐块表面干爽，边角整齐"
+    },
+    {
+      "n": 2,
+      "text": "平底锅倒四十毫升植物油，中火把豆腐两面各煎三分钟至金黄。",
+      "time_min": 8,
+      "heat": "中火",
+      "tip": "一面定型再翻，急着翻会碎成渣。做之前把料备齐，下锅后就没空切配了。",
+      "visual_cue": "豆腐两面金黄结壳，边缘微焦"
+    },
+    {
+      "n": 3,
+      "text": "锅中留底油下五花肉片煸出油，加姜末、蒜片与豆瓣酱炒出红油。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "肉片煸到微卷，油香才融进酱里。这几步照顺序来，味道才会一层层叠上去。",
+      "visual_cue": "肉片卷边透明，锅底红油明显"
+    },
+    {
+      "n": 4,
+      "text": "下木耳与青椒翻炒一分钟，加生抽、蚝油与清水烧开。",
+      "time_min": 4,
+      "heat": "大火",
+      "tip": "水别太多，豆腐煲要收得住汤汁。锅和案板保持干爽，成菜口感差别很大。",
+      "visual_cue": "汤汁红亮微沸，青椒颜色转深"
+    },
+    {
+      "n": 5,
+      "text": "把煎好的豆腐铺进砂锅，倒入汤汁与配料，小火焖八分钟。",
+      "time_min": 10,
+      "heat": "小火",
+      "tip": "小火慢焖，豆腐才能把汤汁吸进去。调味宁少勿多，出锅前尝一口再补。",
+      "visual_cue": "豆腐鼓起，汤汁略降色泽分明状态稳定"
+    },
+    {
+      "n": 6,
+      "text": "加盐调味，淋生粉水勾薄芡，撒葱段连砂锅上桌。",
+      "time_min": 2,
+      "heat": "小火",
+      "tip": "芡要薄，裹住豆腐表面就够。火候与时间都要盯紧，宁可略短也别过头。",
+      "visual_cue": "汤汁浓稠挂勺，豆腐表面油亮"
+    }
+  ],
+  "tips": [
+    "豆腐先煎后焖，外韧内嫩不散。火候与时间都要盯紧，宁可略短也别过头。",
+    "豆瓣酱要炒出红油再加水，底味才香。做之前把料备齐，下锅后就没空切配了。",
+    "勾芡只薄薄一层，太厚会糊口。这几步照顺序来，味道才会一层层叠上去。",
+    "砂锅上桌保温好，冬天吃着更舒服。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "豆腐没吸干水下锅，油花四溅还粘锅。结果往往一锅好料全被这一步毁掉。",
+    "豆腐一煎就翻动，碎得不成块。很多人就在这里翻车，出菜后才发现。",
+    "汤汁加太多，焖完变成一锅豆腐汤。账面上看是小疏忽，入口立刻能尝出来。",
+    "芡勾得太厚，凉了就成一坨。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "北豆腐",
+      "substitute": "老豆腐",
+      "ratio": "500克:500克",
+      "note": "质地接近，煎的时间略短。"
+    },
+    {
+      "original": "五花肉",
+      "substitute": "腊肉",
+      "ratio": "100克:80克",
+      "note": "更湘式，盐要减两克。"
+    }
+  ],
+  "variations": [
+    "加一把干豆角同焖，吸汁后特别香。口味会更厚一些，适合重口的人。",
+    "加两勺剁椒，酸辣味更突出。做法不复杂，家常灶台就能完成。",
+    "换成砂锅加白菜垫底，汤汁更清甜。风味走向变了，但步骤基本不用改。"
+  ],
+  "serving_suggestion": "连砂锅端上桌，豆腐颤而不散、汤汁浓香，配白饭一口气能吃两碗。",
+  "storage": "冷藏可放一天，复热加少量清水小火焖五分钟，勾芡会略稀属正常。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 412,
+    "protein_g": 24,
+    "fat_g": 28,
+    "carbs_g": 12,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "mollusk",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "豆腐与五花肉须焖至完全熟透；砂锅离火后仍烫，端取须用隔热手套。",
+    "成品冷藏不超过一天，复热须加热至汤汁沸腾。"
+  ],
+  "origin_note": "家常豆腐煲是湖南人家常灶上的万能菜，豆腐煎出金壳，五花肉煸香，豆瓣酱炒出红油，再一起进砂锅焖。豆腐吸饱汤汁，咬开一包鲜辣，端上桌还咕嘟作响。",
+  "tags": [
+    "湘菜",
+    "豆腐",
+    "砂锅",
+    "家常"
+  ],
+  "related_ids": [
+    "hunan-xianggan-chaorou",
+    "hunan-larou-zheng-xianggan",
+    "hunan-doushi-lajiao-jiang"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}

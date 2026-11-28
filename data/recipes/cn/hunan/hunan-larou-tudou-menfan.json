@@ -1,0 +1,252 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-larou-tudou-menfan",
+  "name": {
+    "zh": "腊肉土豆焖饭",
+    "en": "Hunan Cured Pork and Potato Rice"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "staple-rice"
+  ],
+  "difficulty": 1,
+  "time": {
+    "prep_min": 40,
+    "cook_min": 39,
+    "total_min": 79
+  },
+  "servings": 4,
+  "flavor": [
+    "savory",
+    "smoky",
+    "rich"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "大米",
+          "name_en": "rice",
+          "amount": 400,
+          "unit": "g",
+          "note": "淘洗",
+          "optional": false
+        },
+        {
+          "name": "腊肉",
+          "name_en": "cured pork",
+          "amount": 150,
+          "unit": "g",
+          "note": "切薄片",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "土豆",
+          "name_en": "potato",
+          "amount": 300,
+          "unit": "g",
+          "note": "切丁",
+          "optional": false
+        },
+        {
+          "name": "毛豆",
+          "name_en": "edamame",
+          "amount": 80,
+          "unit": "g",
+          "note": "洗净",
+          "optional": false
+        },
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 10,
+          "unit": "g",
+          "note": "切丝",
+          "optional": false
+        },
+        {
+          "name": "小葱",
+          "name_en": "scallion",
+          "amount": 20,
+          "unit": "g",
+          "note": "切末",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 20,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 3,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 20,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 480,
+          "unit": "ml",
+          "note": "焖饭",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "电饭煲",
+    "炒锅",
+    "刀",
+    "砧板",
+    "碗",
+    "饭勺"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "大米淘洗两遍后加清水浸泡二十分钟，沥干备用。",
+      "time_min": 24,
+      "heat": "无火",
+      "tip": "泡过的米粒吸水足，焖出来才粒粒分明。",
+      "visual_cue": "米粒饱满发白，手指一掐易断"
+    },
+    {
+      "n": 2,
+      "text": "腊肉切薄片，土豆去皮切一厘米小丁，青豆洗净沥干。",
+      "time_min": 10,
+      "heat": "无火",
+      "tip": "土豆丁大小一致，才能和米饭同时熟透。",
+      "visual_cue": "土豆丁棱角分明，腊肉片薄透"
+    },
+    {
+      "n": 3,
+      "text": "炒锅倒植物油，下腊肉片小火煸出油，加姜丝炒香。",
+      "time_min": 5,
+      "heat": "小火",
+      "tip": "腊肉小火煸出油，饭才香而不腻。这几步照顺序来，味道才会一层层叠上去。",
+      "visual_cue": "腊肉片透明卷边，锅底一层油"
+    },
+    {
+      "n": 4,
+      "text": "下土豆丁与青豆翻炒两分钟，加生抽与盐炒匀后关火。",
+      "time_min": 4,
+      "heat": "中火",
+      "tip": "只炒到表面挂油，不用炒熟，后面靠焖。",
+      "visual_cue": "土豆丁表面油亮，青豆转深绿"
+    },
+    {
+      "n": 5,
+      "text": "炒好的料连油一起倒进电饭煲，铺上大米，加水到没过一指。",
+      "time_min": 4,
+      "heat": "无火",
+      "tip": "水比平时煮饭少一点，配料本身会出水。",
+      "visual_cue": "水面高出米面约一厘米"
+    },
+    {
+      "n": 6,
+      "text": "按下煮饭键，跳键后焖十分钟再开盖，撒葱末用饭勺翻松。",
+      "time_min": 32,
+      "heat": "无火",
+      "tip": "跳键后别急着开盖，多焖十分钟米心才透。",
+      "visual_cue": "饭粒松散不粘连，香气扑鼻"
+    }
+  ],
+  "tips": [
+    "米提前泡二十分钟，焖出来更松软。火候与时间都要盯紧，宁可略短也别过头。",
+    "水比平时少一点，土豆会出水。做之前把料备齐，下锅后就没空切配了。",
+    "跳键后再焖十分钟，米心才熟透。这几步照顺序来，味道才会一层层叠上去。",
+    "翻松后再盛，饭粒才不结团。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "土豆丁切得太大，饭熟了土豆还硬。结果往往一锅好料全被这一步毁掉。",
+    "水按平时量加，结果饭黏成一坨。很多人就在这里翻车，出菜后才发现。",
+    "腊肉没煸出油就下锅焖，饭油腻还发咸。",
+    "跳键立刻开盖，中间米粒夹生。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "腊肉",
+      "substitute": "腊肠",
+      "ratio": "150克:150克",
+      "note": "更甜一点，盐可以省掉。"
+    },
+    {
+      "original": "青豆",
+      "substitute": "玉米粒",
+      "ratio": "80克:80克",
+      "note": "口感更甜，孩子更爱。"
+    }
+  ],
+  "variations": [
+    "加一把干豆角同焖，湘味更浓。口味会更厚一些，适合重口的人。",
+    "加两勺剁椒在饭面上，酸辣扑鼻。做法不复杂，家常灶台就能完成。",
+    "换成腊鸭腿，香气更沉更足。风味走向变了，但步骤基本不用改。"
+  ],
+  "serving_suggestion": "盛碗后撒葱花，饭粒裹着腊肉油香、土豆粉糯，配一碗紫菜汤就是一餐。",
+  "storage": "冷藏可放一天，复热加一勺清水用微波或蒸锅加热，饭粒可回软。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 612,
+    "protein_g": 22,
+    "fat_g": 24,
+    "carbs_g": 78,
+    "sodium_mg": 860,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [],
+  "food_safety_notes": [
+    "腊肉与土豆须焖至完全熟透，米心不得夹生；腊肉本身偏咸，用量不宜过多。",
+    "成品冷藏不超过一天，复热须彻底加热至中心发烫。"
+  ],
+  "origin_note": "腊肉土豆焖饭是湖南人冬天的一锅懒人饭，腊肉煸出油，土豆丁和青豆炒香，连油带料倒进电饭煲和米一起焖。开盖那一刻油香混着腊味，饭粒亮得发光。",
+  "tags": [
+    "湘菜",
+    "焖饭",
+    "腊肉",
+    "土豆"
+  ],
+  "related_ids": [
+    "hunan-larou-zheng-xianggan",
+    "hunan-xiangla-zhuti",
+    "hunan-larou-chaofan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
