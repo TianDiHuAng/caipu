@@ -1,0 +1,270 @@
+{
+  "schema_version": "1.0",
+  "content_version": 1,
+  "id": "hunan-hongshao-zhuti",
+  "name": {
+    "zh": "湘式红烧猪蹄",
+    "en": "Hunan Braised Pig Trotters"
+  },
+  "cuisine": {
+    "region": "cn",
+    "style": "hunan"
+  },
+  "category": [
+    "main-meat"
+  ],
+  "difficulty": 3,
+  "time": {
+    "prep_min": 35,
+    "cook_min": 100,
+    "total_min": 135
+  },
+  "servings": 4,
+  "flavor": [
+    "rich",
+    "savory",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "group": "main",
+      "items": [
+        {
+          "name": "猪蹄",
+          "name_en": "pork trotter",
+          "amount": 1000,
+          "unit": "g",
+          "note": "剁成块",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "aux",
+      "items": [
+        {
+          "name": "姜",
+          "name_en": "ginger",
+          "amount": 30,
+          "unit": "g",
+          "note": "切片",
+          "optional": false
+        },
+        {
+          "name": "大蒜",
+          "name_en": "garlic",
+          "amount": 20,
+          "unit": "g",
+          "note": "拍碎",
+          "optional": false
+        },
+        {
+          "name": "干辣椒",
+          "name_en": "dried chili",
+          "amount": 10,
+          "unit": "g",
+          "note": "切段",
+          "optional": false
+        },
+        {
+          "name": "八角",
+          "name_en": "star anise",
+          "amount": 2,
+          "unit": "piece",
+          "note": "香料",
+          "optional": false
+        },
+        {
+          "name": "桂皮",
+          "name_en": "cinnamon",
+          "amount": 3,
+          "unit": "g",
+          "note": "香料",
+          "optional": false
+        }
+      ]
+    },
+    {
+      "group": "seasoning",
+      "items": [
+        {
+          "name": "冰糖",
+          "name_en": "rock sugar",
+          "amount": 30,
+          "unit": "g",
+          "note": "炒糖色",
+          "optional": false
+        },
+        {
+          "name": "生抽",
+          "name_en": "light soy sauce",
+          "amount": 30,
+          "unit": "ml",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "老抽",
+          "name_en": "dark soy sauce",
+          "amount": 8,
+          "unit": "ml",
+          "note": "上色",
+          "optional": false
+        },
+        {
+          "name": "料酒",
+          "name_en": "cooking wine",
+          "amount": 30,
+          "unit": "ml",
+          "note": "去腥",
+          "optional": false
+        },
+        {
+          "name": "盐",
+          "name_en": "salt",
+          "amount": 5,
+          "unit": "g",
+          "note": "调味",
+          "optional": false
+        },
+        {
+          "name": "植物油",
+          "name_en": "vegetable oil",
+          "amount": 30,
+          "unit": "ml",
+          "note": "炒制",
+          "optional": false
+        },
+        {
+          "name": "清水",
+          "name_en": "water",
+          "amount": 900,
+          "unit": "ml",
+          "note": "焖煮",
+          "optional": false
+        }
+      ]
+    }
+  ],
+  "equipment": [
+    "炒锅",
+    "砂锅",
+    "刀",
+    "砧板",
+    "漏勺",
+    "碗"
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "text": "猪蹄冷水下锅，加姜片与料酒煮十分钟，撇净浮沫后捞出冲净。",
+      "time_min": 15,
+      "heat": "大火",
+      "tip": "冷水下锅血水才慢慢逼出来，猪蹄不腥。",
+      "visual_cue": "猪蹄表面干净，皮色发白微紧"
+    },
+    {
+      "n": 2,
+      "text": "炒锅倒植物油下冰糖，小火炒到融化并冒起棕红小泡。",
+      "time_min": 6,
+      "heat": "小火",
+      "tip": "糖色到枣红就下猪蹄，再等就发苦了。做之前把料备齐，下锅后就没空切配了。",
+      "visual_cue": "糖液棕红透亮，泡沫细密"
+    },
+    {
+      "n": 3,
+      "text": "下猪蹄翻炒裹上糖色，加姜片、蒜、干辣椒、八角与桂皮炒香。",
+      "time_min": 6,
+      "heat": "中火",
+      "tip": "糖色裹匀再下香料，味道才能一层层贴上去。",
+      "visual_cue": "猪蹄表面棕红油亮，香料香气上扬"
+    },
+    {
+      "n": 4,
+      "text": "淋料酒、生抽与老抽，加清水没过猪蹄，大火烧开转小火。",
+      "time_min": 8,
+      "heat": "大火",
+      "tip": "水要一次加够，中途加水会让皮肉发紧。",
+      "visual_cue": "汤汁棕红，猪蹄全部浸在汤里"
+    },
+    {
+      "n": 5,
+      "text": "移入砂锅小火焖九十分钟至皮糯，加盐收汁到浓稠即可。",
+      "time_min": 95,
+      "heat": "小火",
+      "tip": "焖到筷子能轻松插进皮里，口感才对。调味宁少勿多，出锅前尝一口再补。",
+      "visual_cue": "皮肉颤软脱骨，汤汁浓稠挂勺"
+    }
+  ],
+  "tips": [
+    "糖色炒到枣红就下料，过头会带苦味。火候与时间都要盯紧，宁可略短也别过头。",
+    "焖的时间宁可长一点，猪蹄才够糯。做之前把料备齐，下锅后就没空切配了。",
+    "老抽只用来上色，放多了会发黑。这几步照顺序来，味道才会一层层叠上去。",
+    "收汁时勤翻动，避免贴锅底糊掉。锅和案板保持干爽，成菜口感差别很大。"
+  ],
+  "common_mistakes": [
+    "糖色炒过头变黑，整锅都带焦苦味。结果往往一锅好料全被这一步毁掉。",
+    "焯水后没冲净浮沫，汤面一直有杂味。很多人就在这里翻车，出菜后才发现。",
+    "中途加冷水，猪皮瞬间收紧怎么焖都不软。",
+    "大火猛滚收汁，汤汁浑掉还发咸。这道菜之所以失败，多半栽在这一步上。"
+  ],
+  "substitutions": [
+    {
+      "original": "猪蹄",
+      "substitute": "猪肘",
+      "ratio": "1000克:1000克",
+      "note": "肉更多，焖的时间加二十分钟。"
+    },
+    {
+      "original": "冰糖",
+      "substitute": "白糖",
+      "ratio": "30克:26克",
+      "note": "焦香稍弱，糖色要炒得快。"
+    }
+  ],
+  "variations": [
+    "加一把干豆角同焖，吸满汤汁非常香。口味会更厚一些，适合重口的人。",
+    "加两勺剁椒同焖，酸辣味更开胃。做法不复杂，家常灶台就能完成。",
+    "收汁前加几段蒜苗，清香压住油腻。风味走向变了，但步骤基本不用改。"
+  ],
+  "serving_suggestion": "盛在砂锅里连汁上桌，撒一把葱花，皮糯肉香、酱色油亮，配白饭或米酒都合适。",
+  "storage": "冷藏可放两天，复热加少量清水小火慢焖十分钟，口感可恢复软糯。",
+  "nutrition_estimate": {
+    "basis": "按四人份估算",
+    "calories_kcal": 682,
+    "protein_g": 38,
+    "fat_g": 50,
+    "carbs_g": 14,
+    "sodium_mg": 920,
+    "is_estimate": true,
+    "disclaimer": "按配料表用量与常见食材成分表推算，实际数值随品牌与烹饪损耗浮动。"
+  },
+  "allergens": [
+    "gluten",
+    "soy"
+  ],
+  "diet_tags": [
+    "high-protein"
+  ],
+  "food_safety_notes": [
+    "猪蹄须焖至完全软烂熟透，中心不见血色；收汁时注意防溅烫。",
+    "成品冷藏不超过两天，复热须彻底加热至汤汁沸腾。"
+  ],
+  "origin_note": "湘式红烧猪蹄在传统红烧里加了几段干辣椒，甜咸之外多一层直白的辣。猪蹄先焯后炒糖色，再进砂锅慢慢焖，皮糯得能颤，汤汁浓到能挂勺，是湖南人过年桌上必有的一道硬菜。",
+  "tags": [
+    "湘菜",
+    "红烧",
+    "猪蹄",
+    "砂锅"
+  ],
+  "related_ids": [
+    "hunan-xiangla-zhuti",
+    "maoshi-hongshaorou",
+    "hunan-larou-zheng-xianggan"
+  ],
+  "image_url": null,
+  "image_credit": null,
+  "status": "published",
+  "created_at": "2026-11-28",
+  "updated_at": "2026-11-28"
+}
