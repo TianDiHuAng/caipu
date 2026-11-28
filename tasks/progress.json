@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T10:48:57.696Z",
+  "generatedAt": "2026-11-28T11:18:36.889Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2943,
-    "coverage": 0.8989004276114845
+    "actual": 2951,
+    "coverage": 0.9013439218081857
   },
   "regions": {
     "cn": [
@@ -5753,32 +5753,34 @@
         "en": "Middle Eastern",
         "tier": "B",
         "target": 38,
-        "actual": 30,
+        "actual": 38,
         "cells": [
           {
             "category": "appetizer",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "hummus",
               "middle-eastern-falafel",
               "middle-eastern-labneh-dip",
               "middle-eastern-muhammara",
-              "middle-eastern-mutabbal"
+              "middle-eastern-mutabbal",
+              "middle-eastern-sambousek"
             ]
           },
           {
             "category": "main-meat",
             "kind": "core",
             "target": 6,
-            "actual": 5,
+            "actual": 6,
             "ids": [
               "middle-eastern-beef-moussaka",
               "middle-eastern-chicken-kebab",
               "middle-eastern-kofta",
               "middle-eastern-lamb-kebab",
-              "middle-eastern-lamb-tagine"
+              "middle-eastern-lamb-tagine",
+              "middle-eastern-shish-tawook"
             ]
           },
           {
@@ -5813,27 +5815,33 @@
             "category": "dessert",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 5,
             "ids": [
               "middle-eastern-baklava",
-              "middle-eastern-basbousa"
+              "middle-eastern-basbousa",
+              "middle-eastern-qatayef",
+              "middle-eastern-rice-pudding",
+              "middle-eastern-sesame-cookies"
             ]
           },
           {
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "middle-eastern-mujadara"
+              "middle-eastern-batata-harra",
+              "middle-eastern-mujadara",
+              "middle-eastern-stuffed-eggplant"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "middle-eastern-ijjeh",
               "middle-eastern-menemen",
               "middle-eastern-shakshuka"
             ]
