@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:01:10.387Z",
+  "generatedAt": "2026-11-28T13:28:54.400Z",
   "rule": {
     "note": "目标数由 tier 推导：A 级核心品类 15 道/格、扩展 8 道/格（4 个）；B 级 6/4（2 个）；C 级 5 道/格（仅核心品类）",
     "tierDistribution": {
@@ -12,8 +12,8 @@
     "cuisines": 59,
     "cells": 659,
     "target": 3274,
-    "actual": 2986,
-    "coverage": 0.9120342089187539
+    "actual": 2994,
+    "coverage": 0.9144777031154551
   },
   "regions": {
     "cn": [
@@ -3178,7 +3178,7 @@
         "en": "Chinese Halal",
         "tier": "B",
         "target": 38,
-        "actual": 25,
+        "actual": 33,
         "cells": [
           {
             "category": "main-meat",
@@ -3200,10 +3200,11 @@
             "category": "staple-noodle",
             "kind": "core",
             "target": 6,
-            "actual": 3,
+            "actual": 4,
             "ids": [
               "halal-cn-niurou-chaomian",
               "halal-cn-niurou-lamian",
+              "halal-cn-qiezhi-niurou-mian",
               "halal-cn-yangrou-huimian"
             ]
           },
@@ -3211,9 +3212,10 @@
             "category": "soup",
             "kind": "core",
             "target": 6,
-            "actual": 4,
+            "actual": 5,
             "ids": [
               "halal-cn-donggua-yangrou-tang",
+              "halal-cn-fanqie-niurou-tang",
               "halal-cn-niurou-huntun",
               "halal-cn-niurou-wanzi-tang",
               "shuipen-yangrou"
@@ -3236,8 +3238,9 @@
             "category": "banquet",
             "kind": "core",
             "target": 6,
-            "actual": 2,
+            "actual": 3,
             "ids": [
+              "halal-cn-congshao-tijin",
               "halal-cn-shouzhua-yangrou",
               "halal-cn-yangrou-dun-fentiao"
             ]
@@ -3246,17 +3249,23 @@
             "category": "main-vegetable",
             "kind": "ext",
             "target": 4,
-            "actual": 1,
+            "actual": 3,
             "ids": [
-              "halal-cn-cu-liu-baicai"
+              "halal-cn-cu-liu-baicai",
+              "halal-cn-ganbian-dojiao",
+              "halal-cn-suanxiang-qiezi"
             ]
           },
           {
             "category": "main-egg",
             "kind": "ext",
             "target": 4,
-            "actual": 0,
-            "ids": []
+            "actual": 3,
+            "ids": [
+              "halal-cn-fanqie-chaodan",
+              "halal-cn-jisi-zheng-dangeng",
+              "halal-cn-yangrou-chao-jidan"
+            ]
           },
           {
             "category": "cold-dish",

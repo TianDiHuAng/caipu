@@ -1,4 +1,22 @@
-﻿校验范围: 2740 个文件（成功解析 2740）
+﻿校验范围: 2748 个文件（成功解析 2748）
 分类体系: 59 菜系 / 26 品类；食材词典: 494 项
 
-✅ 全部通过：2740 道菜谱，0 错误
+[问题文件] 4 个（schema 失败 0，规则失败 4）：
+
+· data/recipes/cn/halal-cn/halal-cn-fanqie-niurou-tang.json (halal-cn-fanqie-niurou-tang) [RULES]
+   - ingredients: 「花生油」在全部步骤与提示中均未被使用
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
+   - diet_tags: 标记 halal，但配料含猪肉或酒类
+
+· data/recipes/cn/halal-cn/halal-cn-ganbian-dojiao.json (halal-cn-ganbian-dojiao) [RULES]
+   - ingredients: 「花生油」在全部步骤与提示中均未被使用
+
+· data/recipes/cn/halal-cn/halal-cn-jisi-zheng-dangeng.json (halal-cn-jisi-zheng-dangeng) [RULES]
+   - steps: 文本提到「北豆腐」，但配料表中没有该食材
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
+   - diet_tags: 标记 halal，但配料含猪肉或酒类
+
+· data/recipes/cn/halal-cn/halal-cn-suanxiang-qiezi.json (halal-cn-suanxiang-qiezi) [RULES]
+   - ingredients: 「花生油」在全部步骤与提示中均未被使用
+
+❌ 未通过：4 类问题，累计 8 条

@@ -1,4 +1,9 @@
-﻿校验范围: 9 个文件（成功解析 9）
-分类体系: 59 菜系 / 26 品类；食材词典: 282 项
+﻿校验范围: 2748 个文件（成功解析 2748）
+分类体系: 59 菜系 / 26 品类；食材词典: 494 项
 
-✅ 全部通过：9 道菜谱，0 错误
+[问题文件] 1 个（schema 失败 1，规则失败 0）：
+
+· data/recipes/cn/halal-cn/halal-cn-jisi-zheng-dangeng.json (halal-cn-jisi-zheng-dangeng) [SCHEMA]
+   - $.ingredients[1].items[2]: 缺少必填字段 "name_en"
+
+❌ 未通过：1 类问题，累计 1 条

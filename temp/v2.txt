@@ -1,17 +1,14 @@
-﻿校验范围: 9 个文件（成功解析 9）
-分类体系: 59 菜系 / 26 品类；食材词典: 282 项
+﻿校验范围: 2748 个文件（成功解析 2748）
+分类体系: 59 菜系 / 26 品类；食材词典: 494 项
 
-[问题文件] 3 个（schema 失败 0，规则失败 3）：
+[问题文件] 2 个（schema 失败 0，规则失败 2）：
 
-· data/recipes/cn/cantonese/baiqie-ji.json (baiqie-ji) [RULES]
-   - steps: 文本提到「小葱」，但配料表中没有该食材
-   - steps: 文本提到「鸡腿肉」，但配料表中没有该食材
+· data/recipes/cn/halal-cn/halal-cn-fanqie-niurou-tang.json (halal-cn-fanqie-niurou-tang) [RULES]
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
 
-· data/recipes/cn/sichuan/huiguo-rou.json (huiguo-rou) [RULES]
-   - steps: 文本提到「小葱」，但配料表中没有该食材
+· data/recipes/cn/halal-cn/halal-cn-jisi-zheng-dangeng.json (halal-cn-jisi-zheng-dangeng) [RULES]
+   - steps: 文本提到「北豆腐」，但配料表中没有该食材
+   - steps: 文本提到「姜」，但配料表中没有该食材
+   - diet_tags: 标记 gluten-free，但过敏原含麸质
 
-· data/recipes/cn/zhejiang/dongpo-rou.json (dongpo-rou) [RULES]
-   - steps: 文本提到「小葱」，但配料表中没有该食材
-   - steps: 文本提到「蛋清」，但配料表中没有该食材
-
-❌ 未通过：3 类问题，累计 5 条
+❌ 未通过：2 类问题，累计 4 条
